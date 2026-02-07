@@ -15,12 +15,12 @@ tags:
   - "Spain"
   - "Spanish Stonehenge"
   - "Valdecanas reservoir"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/spanishstonehenge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/spanishstonehenge.jpg"
 author: "Rick Spilman"
 description: "We recently posted about \"hunger stones\" revealed by falling water levels in the Rhine and Elbe rivers, as well as the emergence of a graveyard of sunken German warships filled with explosives and ammunition in the Serbian section of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/spanishstonehenge.jpg)We recently posted about “[hunger stones](https://www.oldsaltblog.com/2022/08/hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers/#more-59566)” revealed by falling water levels in the Rhine and Elbe rivers, as well as the emergence of a [graveyard of sunken German warships](https://www.oldsaltblog.com/2022/08/wrecks-of-dozens-of-explosive-laden-nazi-ships-exposed-by-drought-in-serbian-danube/) filled with explosives and ammunition in the Serbian section of the Danube River, all caused by a near-record European drought.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/spanishstonehenge.jpg)We recently posted about “[hunger stones](https://www.oldsaltblog.com/2022/08/hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers/#more-59566)” revealed by falling water levels in the Rhine and Elbe rivers, as well as the emergence of a [graveyard of sunken German warships](https://www.oldsaltblog.com/2022/08/wrecks-of-dozens-of-explosive-laden-nazi-ships-exposed-by-drought-in-serbian-danube/) filled with explosives and ammunition in the Serbian section of the Danube River, all caused by a near-record European drought.
 
 In the Extremadura region of Spain, a far less threatening historical structure has emerged from the receding waters of Valdecanas reservoir — a megalithic monument officially known as the [Dolmen of Guadalperal but dubbed the Spanish Stonehenge](https://en.wikipedia.org/wiki/Dolmen_of_Guadalperal), comprising a circle of dozens of stones believed to date back to 5000 BC.
 

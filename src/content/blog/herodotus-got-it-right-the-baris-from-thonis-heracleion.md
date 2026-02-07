@@ -12,12 +12,12 @@ tags:
   - "Baris"
   - "Herodotus"
   - "Thonis-Heracleion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/baris.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/baris.jpg"
 author: "Rick Spilman"
 description: "Six years ago, we posted about the sunken lost city of Thonis-Heracleion in Abu Qir Bay near the Canopic Mouth of the Nile. The city sank into the Mediterranean around 1,2000 years ago and was only rediscovered in 1999. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/baris.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/baris.jpg)
 
 Photo: Christoph Gerigk/Franck Goddio/Hilti Foundation
 

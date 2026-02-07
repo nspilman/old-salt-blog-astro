@@ -14,12 +14,12 @@ tags:
   - "Philadelphia"
   - "SS United States"
   - "SS United States Conservancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a tentative deal to sell the historic ocean liner SS United States to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach, FL in the Gulf of Mexico.  That deal is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)We recently [posted about a tentative deal](https://www.oldsaltblog.com/2024/08/historic-ocean-liner-ss-united-states-in-deal-to-be-sunk-as-artificial-reef/) to sell the historic ocean liner [SS *United States*](https://www.ssusc.org/the-ship) to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach, FL in the Gulf of Mexico.  That deal is now in jeopardy as the battle between the non-profit [SS United States Conservancy](https://www.ssusc.org/) and the operator of Pier 82, Penn Warehousing, took a new turn throwing the fate of the ship back in the hands of the US District Court.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg)We recently [posted about a tentative deal](https://www.oldsaltblog.com/2024/08/historic-ocean-liner-ss-united-states-in-deal-to-be-sunk-as-artificial-reef/) to sell the historic ocean liner [SS *United States*](https://www.ssusc.org/the-ship) to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach, FL in the Gulf of Mexico.  That deal is now in jeopardy as the battle between the non-profit [SS United States Conservancy](https://www.ssusc.org/) and the operator of Pier 82, Penn Warehousing, took a new turn throwing the fate of the ship back in the hands of the US District Court.
 
 [CBS News](https://www.cbsnews.com/philadelphia/news/ss-united-states-philadelphia-pier-florida-mediation/) reports that a federal magistrate judge will oversee mediation between SS United States Conservancy, the operators of Pier 82 in Philadelphia and officials from Okaloosa County, Florida, a judge ruled in a virtual hearing Friday.
 

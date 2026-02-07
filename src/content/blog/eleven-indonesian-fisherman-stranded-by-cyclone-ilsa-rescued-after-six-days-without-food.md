@@ -11,12 +11,12 @@ tags:
   - "Bedwell Island"
   - "Cyclone Ilsa"
   - "Indonesian fisherman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/indonesianfishermanrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/indonesianfishermanrescue.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that eleven Indonesian fishermen have been rescued after surviving for six days without food or water on a tiny island off Australia’s coast. The Australian Maritime Safety Authority said they were airlifted to safety on Monday from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/indonesianfishermanrescue.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/indonesianfishermanrescue.jpg)
 
 Photo: Australian Maritime Safety Authority
 

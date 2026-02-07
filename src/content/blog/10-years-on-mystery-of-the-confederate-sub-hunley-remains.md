@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Ten years ago today, the Confederate Navy submarine H.L. Hunley was raised from the bottom of Charleston harbor in South Carolina, where it sank in 1864.  The Hunley was the first submarine to sink an enemy warship in combat.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/hunley.jpg)Ten years ago today, the Confederate Navy submarine [*H.L. Hunley*](http://en.wikipedia.org/wiki/H._L._Hunley_\(submarine\)) was raised from the bottom of Charleston harbor in South Carolina, where it sank in 1864.  The *Hunley* was the first submarine to sink an enemy warship in combat.   A decade after the submarine was raised, there is still no consensus on the cause of the submarine sinking after it attacked and sank the *USS Housatonic* on blockade duty in Charleston’s outer harbor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hunley.jpg)Ten years ago today, the Confederate Navy submarine [*H.L. Hunley*](http://en.wikipedia.org/wiki/H._L._Hunley_\(submarine\)) was raised from the bottom of Charleston harbor in South Carolina, where it sank in 1864.  The *Hunley* was the first submarine to sink an enemy warship in combat.   A decade after the submarine was raised, there is still no consensus on the cause of the submarine sinking after it attacked and sank the *USS Housatonic* on blockade duty in Charleston’s outer harbor.
 
 [10 years on, mystery of Confederate sub remains](http://www.newstimes.com/news/article/10-years-on-mystery-of-Confederate-sub-remains-605904.php)  
   

@@ -5,12 +5,12 @@ slug: "remembering-wesley-a-brown-first-black-graduate-of-the-united-states-nava
 excerpt: "In honor of Black History Month and in light of current events, it seems especially worthwhile to remember the pioneering career of Wesley A. Brown, who endured intense racial harassment to become the first black graduate of the United States … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/wesbrown.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/wesbrown.jpg"
 author: "Rick Spilman"
 description: "In honor of Black History Month and in light of current events, it seems especially worthwhile to remember the pioneering career of Wesley A. Brown, who endured intense racial harassment to become the first black graduate of the United States … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/wesbrown.jpg)In honor of Black History Month and in light of current events, it seems especially worthwhile to remember the pioneering career of [Wesley A. Brown](https://en.m.wikipedia.org/wiki/Wesley_A._Brown), who endured intense racial harassment to become the first black graduate of the United States Naval Academy in 1949.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/wesbrown.jpg)In honor of Black History Month and in light of current events, it seems especially worthwhile to remember the pioneering career of [Wesley A. Brown](https://en.m.wikipedia.org/wiki/Wesley_A._Brown), who endured intense racial harassment to become the first black graduate of the United States Naval Academy in 1949.
 
 Wesley Brown entered the Naval Academy in 1945 as the sixth black man admitted in the 100-year history of the Annapolis military college. He was the first to successfully withstand the intense racism that had forced the others to leave within a year, according to Navy historians.
 

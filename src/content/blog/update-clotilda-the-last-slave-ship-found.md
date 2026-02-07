@@ -15,12 +15,12 @@ tags:
   - "Mobile River delta"
   - "Search Inc"
   - "slave ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg"
 author: "Rick Spilman"
 description: "In January 2018, the news broke that a journalist believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry Africans into bondage in the United States. By March, however, further research and excavation … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg)In January 2018, the news broke that a [journalist believed that he had found the burned wreckage](http://www.oldsaltblog.com/2018/01/clotilda-cudjo-lewis-last-slave-ship-last-survivor/) of the schooner *Clotilda*, the last vessel to carry Africans into bondage in the United States. By March, however, further research and excavation determined that the [wreck was, in fact, not that of the infamous slave ship](http://www.oldsaltblog.com/2018/03/update-alabama-shipwreck-not-schooner-clotilda-the-last-slave-ship/). Nevertheless, the near-discovery triggered renewed interest in finding the wreck.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg)In January 2018, the news broke that a [journalist believed that he had found the burned wreckage](http://www.oldsaltblog.com/2018/01/clotilda-cudjo-lewis-last-slave-ship-last-survivor/) of the schooner *Clotilda*, the last vessel to carry Africans into bondage in the United States. By March, however, further research and excavation determined that the [wreck was, in fact, not that of the infamous slave ship](http://www.oldsaltblog.com/2018/03/update-alabama-shipwreck-not-schooner-clotilda-the-last-slave-ship/). Nevertheless, the near-discovery triggered renewed interest in finding the wreck.
 
 Last week, the [National Geographic Society reported](https://www.bbc.com/news/world-us-canada-48377930) that the *Clotilda* has been found, discovered by archaeology firm company Search Inc, which was called in to help by the Alabama Historical Commission to investigate a likely wreck off Twelve Mile Island in the Mobile River delta. The dimensions and construction of the wreck matched those of the *Clotilda*, as did building materials, the commission said.
 

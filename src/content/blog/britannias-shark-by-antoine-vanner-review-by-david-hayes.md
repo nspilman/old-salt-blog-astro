@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "David Hayes reviews Antoine Vanner's Britannia's Shark on his excellent Historic Naval Fiction blog."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/02/britanniasshark-134x200.jpg)David Hayes reviews Antoine Vanner’s [*Britannia’s Shark*](http://www.amazon.com/Britannias-Shark-Dawlish-Chronicles-September-ebook/dp/B00Q9GQSQO/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1419443189&sr=1-1-fkmr0&keywords=Britannia%E2%80%99s+Shark+by+Antione+Vanner) on his excellent [Historic Naval Fiction](http://www.historicnavalfiction.com/index.php?option=com_content&view=article&id=3811:review-britannia-s-shark-by-antoine-vanner&catid=269:me-book-reviews&Itemid=809) blog:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/britanniasshark-134x200.jpg)David Hayes reviews Antoine Vanner’s [*Britannia’s Shark*](http://www.amazon.com/Britannias-Shark-Dawlish-Chronicles-September-ebook/dp/B00Q9GQSQO/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1419443189&sr=1-1-fkmr0&keywords=Britannia%E2%80%99s+Shark+by+Antione+Vanner) on his excellent [Historic Naval Fiction](http://www.historicnavalfiction.com/index.php?option=com_content&view=article&id=3811:review-britannia-s-shark-by-antoine-vanner&catid=269:me-book-reviews&Itemid=809) blog:
 
 *Britannia’s Shark* by Antoine Vanner continues the adventures of Commander Nicholas Dawlish, serving in the Royal Navy as the Victorian Era draws to a close. The series so far has explored the Turkish Navy and river conflict in Paraguay and this time we move to conflict with the Finian movement for Irish independance and their involvement with John Philip Holland who invented the first practical submarine.
 

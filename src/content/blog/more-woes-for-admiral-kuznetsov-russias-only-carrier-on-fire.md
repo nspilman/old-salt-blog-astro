@@ -12,12 +12,12 @@ tags:
   - "drydock"
   - "fire"
   - "Russian aircraft carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg"
 author: "Rick Spilman"
 description: "Perhaps we have been too hard on the USS Gerald R. Ford. Sure her weapons elevators don’t work and for tactical purposes the most expensive warship ever built may be little more than a $13 billion berthing barge. Nevertheless, at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg)
 
 Admiral Kuznetsov
 

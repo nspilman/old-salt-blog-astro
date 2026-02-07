@@ -11,12 +11,12 @@ tags:
   - "Peter Mims"
   - "search and rescue"
   - "USS Shiloh"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/shiloh.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/shiloh.jpg"
 author: "Rick Spilman"
 description: "Better a court martial than a funeral.  On June 8th, Gas Turbine Systems Technician (Mechanical) 3rd Class Peter Mims was reported missing on the Ticonderoga-class guided missile cruiser USS Shiloh, and presumed to have fallen overboard.  His disappearance triggered a a massive, 50-hour … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/shiloh.jpg)Better a court martial than a funeral.  On June 8th, Gas Turbine Systems Technician (Mechanical) 3rd Class Peter Mims was reported missing on the *Ticonderoga*\-class guided missile cruiser [USS *Shiloh*](https://en.wikipedia.org/wiki/USS_Shiloh_\(CG-67\)), and presumed to have fallen overboard.  His disappearance triggered a a massive, 50-hour search-and-rescue effort off the coast of Japan that included Japanese Coast Guard and naval forces.  Presumed dead after not being located in the search, Mims was found to be hiding in one of the cruiser’s engine rooms. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/shiloh.jpg)Better a court martial than a funeral.  On June 8th, Gas Turbine Systems Technician (Mechanical) 3rd Class Peter Mims was reported missing on the *Ticonderoga*\-class guided missile cruiser [USS *Shiloh*](https://en.wikipedia.org/wiki/USS_Shiloh_\(CG-67\)), and presumed to have fallen overboard.  His disappearance triggered a a massive, 50-hour search-and-rescue effort off the coast of Japan that included Japanese Coast Guard and naval forces.  Presumed dead after not being located in the search, Mims was found to be hiding in one of the cruiser’s engine rooms. 
 
 As reported by the [*Navy Times*](https://www.navytimes.com/articles/surprise-cruiser-shiloh-sailor-presumed-overboard-and-dead-discovered-hiding-on-board): 
 

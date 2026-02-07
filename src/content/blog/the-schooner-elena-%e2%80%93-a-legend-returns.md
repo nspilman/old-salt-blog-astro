@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "\"Super yachts\"  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, \"Eclipse,\" may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
 ---
 
-![elana](http://www.oldsaltblog.com/wp-content/uploads/2009/09/elana.jpg)“Super yachts”  rarely impress me.  Russian billionaire, [Roman Abramovich’s megayacht, “Eclipse,”](http://www.luxury-insider.com/Current_Affairs/post/2009/06/Roman-Eclipse-Is-World-Largest-Superyacht.aspx) may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a bazillion rubles, but so what?
+![elana](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/elana.jpg)“Super yachts”  rarely impress me.  Russian billionaire, [Roman Abramovich’s megayacht, “Eclipse,”](http://www.luxury-insider.com/Current_Affairs/post/2009/06/Roman-Eclipse-Is-World-Largest-Superyacht.aspx) may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a bazillion rubles, but so what?
 
 The new [Schooner *Elena*](http://www.schoonerelena.com/) on the other hand is both breathtaking and a resurrected bit of history. The first *Elena* was built for New York’s Morton Plant in 1911 by Nathaniel Herreshoff. She was beautiful and the fastest yacht of her day, winning races for years including the 1928 Trans Atlantic King’s Cup from New York to Santander.  
   

@@ -12,12 +12,12 @@ tags:
   - "sea shanties"
   - "TikTok"
   - "Wellerman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/wellemanmegamix1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/wellemanmegamix1.jpg"
 author: "Rick Spilman"
 description: "Of all the strangeness that has already transpired in 2021, the most pleasant and least expected has been the explosion of sea shanties on TikTok. If you are not familiar with TikTok, it is a social networking platform that is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/wellemanmegamix1.jpg)Of all the strangeness that has already transpired in 2021, the most pleasant and least expected has been the explosion of sea shanties on [TikTok](https://www.tiktok.com/). If you are not familiar with TikTok, it is a social networking platform that is used to make and share short-form videos. Recently, it has been awash in sea shanties. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/wellemanmegamix1.jpg)Of all the strangeness that has already transpired in 2021, the most pleasant and least expected has been the explosion of sea shanties on [TikTok](https://www.tiktok.com/). If you are not familiar with TikTok, it is a social networking platform that is used to make and share short-form videos. Recently, it has been awash in sea shanties. 
 
 Why have sea shanties become so popular on TikTok? It seems to have all begun with Scottish postman and aspiring musician, [Nathan Evanss](https://www.youtube.com/channel/UCzYmjJDO4slx18KhhHF7yHA). (Evans is his last name, but he uses the name  Evanss online.)  During the pandemic, the 26-year-old began posting songs to TikTok, mostly covers of Scottish folk tunes. He was modestly popular attracting around 10,000 views per song. One viewer requested a sea shanty “[Leave Her Johnny, Leave Her](https://youtu.be/wz0wO-XbjaA)” which remarkably got over a million views. Evanss decided that sea shanties were worth looking into.
 

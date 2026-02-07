@@ -12,12 +12,12 @@ tags:
   - "Category 5"
   - "hurricane"
   - "Lorenzo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/hlorenzo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/hlorenzo.jpg"
 author: "Rick Spilman"
 description: "Hurricane Lorenzo strengthened briefly to a Category 5 storm over the weekend, becoming the strongest hurricane on record so far north and east in the Atlantic Ocean.  On Saturday, we posted about the sinking of the tug-supply vessel Bourbon Rhode … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/hlorenzo.jpg)[Hurricane Lorenzo strengthened briefly to a Category 5 storm](https://www.forbes.com/sites/dennismersereau/2019/09/28/historic-hurricane-lorenzo-becomes-a-category-five-in-the-atlantic-ocean/#3775775344a3) over the weekend, becoming the strongest hurricane on record so far north and east in the Atlantic Ocean.  On Saturday, [we posted about the sinking of the tug-supply vessel *Bourbon Rhode*](http://www.oldsaltblog.com/2019/09/three-rescued-from-tug-bourbon-rhode-lost-in-hurricane-lorenzo-eleven-missing/) in the hurricane. Eleven of the fourteen crew are missing and presumed dead. Three of the crew were rescued following the sinking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/hlorenzo.jpg)[Hurricane Lorenzo strengthened briefly to a Category 5 storm](https://www.forbes.com/sites/dennismersereau/2019/09/28/historic-hurricane-lorenzo-becomes-a-category-five-in-the-atlantic-ocean/#3775775344a3) over the weekend, becoming the strongest hurricane on record so far north and east in the Atlantic Ocean.  On Saturday, [we posted about the sinking of the tug-supply vessel *Bourbon Rhode*](http://www.oldsaltblog.com/2019/09/three-rescued-from-tug-bourbon-rhode-lost-in-hurricane-lorenzo-eleven-missing/) in the hurricane. Eleven of the fourteen crew are missing and presumed dead. Three of the crew were rescued following the sinking.
 
 Lorenzo is unusual in that it strengthened so dramatically while so far east. Most hurricanes strengthen after moving farther west and remaining in warmer southern waters. According to [weather.com](https://weather.com/safety/hurricane/news/2019-09-29-hurricane-lorenzo-category-5-farthest-east-atlantic), Lorenzo is by far the farthest east in the Atlantic Ocean any of the previous 35 Category 5 hurricanes that have occurred in records dating to the 1920s.
 

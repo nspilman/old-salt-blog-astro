@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "The most interesting question about the recently revealed cheating scandal on personnel training exams on the nuclear-powered fast attack submarine, USS Memphis, is whether the cheating was an isolated case or whether the practice is more widespread.  The Navy says the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/USSMemphis.jpg)The most interesting question about the recently revealed cheating scandal on personnel training exams on the nuclear-powered fast attack submarine, *[USS Memphis](http://en.wikipedia.org/wiki/USS_Memphis_\(SSN-691\))*, is whether the cheating was an isolated case or whether the practice is more widespread.  The Navy says the former is the case while officers and sailors interviewed by the Associated Press disagree.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/USSMemphis.jpg)The most interesting question about the recently revealed cheating scandal on personnel training exams on the nuclear-powered fast attack submarine, *[USS Memphis](http://en.wikipedia.org/wiki/USS_Memphis_\(SSN-691\))*, is whether the cheating was an isolated case or whether the practice is more widespread.  The Navy says the former is the case while officers and sailors interviewed by the Associated Press disagree.
 
 [Cheating scandal hits US submarine](http://www.forbes.com/feeds/ap/2011/08/15/general-us-submarine-cheating-scandal_8624214.html)  
   

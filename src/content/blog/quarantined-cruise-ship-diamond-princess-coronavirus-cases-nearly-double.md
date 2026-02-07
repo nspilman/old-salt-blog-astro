@@ -12,12 +12,12 @@ tags:
   - "Japan"
   - "Quarantine"
   - "Yokohama"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/diamondprincess.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincess.jpg"
 author: "Rick Spilman"
 description: "Overnight the number of passengers and crew onboard the cruise ship Diamond Princess who have tested positive for the coronavirus has nearly doubled, from 70 to 136. An additional 66 people on board the quarantined cruise ship have tested positive … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/diamondprincess.jpg)Overnight the number of passengers and crew onboard the cruise ship *Diamond Princess* who have tested positive for the coronavirus has nearly doubled, from 70 to 136. An additional 66 people on board the quarantined cruise ship have tested positive for the virus. Among those testing positive are 23 Americans. The ship is being held in quarantine in the port of Yokohama, Japan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincess.jpg)Overnight the number of passengers and crew onboard the cruise ship *Diamond Princess* who have tested positive for the coronavirus has nearly doubled, from 70 to 136. An additional 66 people on board the quarantined cruise ship have tested positive for the virus. Among those testing positive are 23 Americans. The ship is being held in quarantine in the port of Yokohama, Japan.
 
 Only 336 of the roughly 3,600 people onboard had been tested as of Monday, according to the Japanese health ministry. [Japan Times](https://www.japantimes.co.jp/news/2020/02/10/national/japan-test-all-passengers-diamond-princess-cruise-ship-coronavirus/#.XkHLszFKhPY) reports that the Japanese government is now preparing to test dozens of elderly passengers as it investigates potential issues with hygiene control on the infected ship.
 

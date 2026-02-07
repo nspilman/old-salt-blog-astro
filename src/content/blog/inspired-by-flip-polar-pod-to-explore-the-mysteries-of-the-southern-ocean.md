@@ -14,12 +14,12 @@ tags:
   - "Polar Pod"
   - "Research Institute for Exploitation of the Sea"
   - "Southern Ocean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/ppclip.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/ppclip.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the remarkable 61-year career of the one-of-a-kind research vessel FLoating Instrument Platform, known as FLIP. FLIP was essentially a massive 355-foot-long spar buoy used to study oceanic wave height, acoustic signals, water temperature, and density. Now, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/polarpod.jpg)We recently [posted about the remarkable 61-year career](https://www.oldsaltblog.com/2023/08/farewell-flip-famous-flipping-research-platform-heads-sent-to-scrapyard/) of the one-of-a-kind research vessel [FLoating Instrument Platform, known as FLIP](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform). FLIP was essentially a massive 355-foot-long spar buoy used to study oceanic wave height, acoustic signals, water temperature, and density.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/polarpod.jpg)We recently [posted about the remarkable 61-year career](https://www.oldsaltblog.com/2023/08/farewell-flip-famous-flipping-research-platform-heads-sent-to-scrapyard/) of the one-of-a-kind research vessel [FLoating Instrument Platform, known as FLIP](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform). FLIP was essentially a massive 355-foot-long spar buoy used to study oceanic wave height, acoustic signals, water temperature, and density.
 
 Now, if all goes to plan,  the [Polar Pod](https://www.polarpod.fr/en/polar-pod), a new oceanographic research station in the form of a ‘vertical ship, inspired by FLIP, will commence operations in the Southern Ocean from 2024-2026.
 
@@ -39,7 +39,7 @@ The Polar Pod measures just over 100m in height; has a 75m draught, for optimal 
 
 The Polar Pod will harvest wind energy from six Kingspan turbines, each rated 3.2kW, complemented by solar panels. This combined green energy will then be stored in twin 50kWh lithium-ion battery packs and used to power the Pod’s scientific equipment, onboard lighting, IT/comms systems, water desalination plant and onboard heating.
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/ppclip.jpg)](https://youtu.be/gYf6VGXRFhI?si=-CzIc8vmtBBGvNX_)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/ppclip.jpg)](https://youtu.be/gYf6VGXRFhI?si=-CzIc8vmtBBGvNX_)
 
 [The Polar Pod expedition](https://youtu.be/gYf6VGXRFhI?si=YFHaqYxTEVgYP8La)
 

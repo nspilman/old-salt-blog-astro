@@ -18,12 +18,12 @@ tags:
   - "vessel strikes"
   - "whales"
   - "Woods Hole Oceanographic Institution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg"
 author: "Rick Spilman"
 description: "A recent article in the journal Oceanus, hosted by the Woods Hole Oceanographic Institution (WHOI), raises the question, \"Are offshore wind farms harming whales?\" The short answer is \"no.\" They write: A collection of seemingly grass-roots organizations claim that offshore … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg)A recent article in the journal [Oceanus](https://www.whoi.edu/oceanus/), hosted by the [Woods Hole Oceanographic Institution](https://www.whoi.edu/) (WHOI), raises the question, “[Are offshore wind farms harming whales?”](https://www.whoi.edu/oceanus/feature/are-offshore-wind-farms-harming-right-whales/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg)A recent article in the journal [Oceanus](https://www.whoi.edu/oceanus/), hosted by the [Woods Hole Oceanographic Institution](https://www.whoi.edu/) (WHOI), raises the question, “[Are offshore wind farms harming whales?”](https://www.whoi.edu/oceanus/feature/are-offshore-wind-farms-harming-right-whales/)
 
 The short answer is “no.”
 

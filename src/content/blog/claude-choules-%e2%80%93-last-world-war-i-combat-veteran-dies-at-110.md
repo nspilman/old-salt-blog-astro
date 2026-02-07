@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In March we posted about the birthday of Claude Choules, the last combat veteran of World War I.   He has now died  in Perth, Australia at age 110. Last WWI combat veteran Claude Choules dies aged 110 The world’s last … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg)](http://www.amazon.com/gp/product/1845966317/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=1845966317)[In March we posted about the birthday of Claude Choules](http://www.oldsaltblog.com/2011/03/21/claude-choules-last-world-war-i-combat-veteran-celebrates-110th-), the last combat veteran of World War I.   He has now died  in Perth, Australia at age 110.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg)](http://www.amazon.com/gp/product/1845966317/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=1845966317)[In March we posted about the birthday of Claude Choules](http://www.oldsaltblog.com/2011/03/21/claude-choules-last-world-war-i-combat-veteran-celebrates-110th-), the last combat veteran of World War I.   He has now died  in Perth, Australia at age 110.
 
 [Last WWI combat veteran Claude Choules dies aged 110](http://www.bbc.co.uk/news/world-asia-pacific-13289607)
 

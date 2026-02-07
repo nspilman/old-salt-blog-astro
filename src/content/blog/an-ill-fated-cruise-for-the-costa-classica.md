@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Costa Classica‘s current cruise has not gone well.   First, on a stop at Korea’s southern resort island of Jeju, 44 Chinese tourists abandoned the tour group en masse.   South Korean police have located eleven of the group, but 33 remain unaccounted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/costa-collision.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/costa-collision.jpg)
 
 The *[Costa Classica](http://www.costacruise.com/b2c/usa/shopping/ships/cl/default.htm)*‘s current cruise has not gone well.   First, on a stop at Korea’s southern resort island of Jeju, 44 Chinese tourists abandoned the tour group en masse.   South Korean police have located eleven of the group, but 33 remain unaccounted for.  Jeju has been a frequent stopover for illegal immigrants from China seeking employment in Korea.
 

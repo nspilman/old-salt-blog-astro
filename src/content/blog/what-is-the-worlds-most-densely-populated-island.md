@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the \"world’s most densely populated island.\" With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/mostpopulatedisland.jpg)Recently, the [BBC posted a video](https://youtu.be/Y7SxlpUjI3M) about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the “world’s most densely populated island.” With five hundred people living on an island the size of a soccer field, it is definitely crowded, but is it the world’s most densely populated island? 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/mostpopulatedisland.jpg)Recently, the [BBC posted a video](https://youtu.be/Y7SxlpUjI3M) about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the “world’s most densely populated island.” With five hundred people living on an island the size of a soccer field, it is definitely crowded, but is it the world’s most densely populated island? 
 
 Apparently, Santa Cruz del Islote does not have the highest population density of the world’s islands. At just over 40,000 people per kilometer, it appears to [rank about 10th in the list](https://en.wikipedia.org/wiki/List_of_islands_by_population_density). The most densely populated is [Ilet a Brouee](https://en.wikipedia.org/wiki/Ilet_a_Brouee) in Haiti, where 500 people occupy a sand spit with an area of only around 4,000 m², resulting in a staggering population density of 125,000 people per kilometer. 
 

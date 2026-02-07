@@ -10,12 +10,12 @@ tags:
   - "COVID-19"
   - "USS Roosevelt"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
 description: "The plan was to start moving sailors who had completed a 14-day coronavirus quarantine back on the carrier USS Theodore Roosevelt beginning this Saturday. Politico reports that that plan has been delayed after a number of sailors tested positive for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg)The plan was to start moving sailors who had completed a 14-day coronavirus quarantine back on the carrier USS *Theodore Roosevelt* beginning this Saturday. [Politico](https://www.politico.com/news/2020/04/21/navy-extends-isolation-for-uss-theodore-roosevelt-sailors-may-delay-ship-departure-198081) reports that that plan has been delayed after a number of sailors tested positive for the virus even after their isolation period. Some of the sailors who recently tested positive had previously tested negative, one Navy official said. The ship has been dockside in Guam since March 27th.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg)The plan was to start moving sailors who had completed a 14-day coronavirus quarantine back on the carrier USS *Theodore Roosevelt* beginning this Saturday. [Politico](https://www.politico.com/news/2020/04/21/navy-extends-isolation-for-uss-theodore-roosevelt-sailors-may-delay-ship-departure-198081) reports that that plan has been delayed after a number of sailors tested positive for the virus even after their isolation period. Some of the sailors who recently tested positive had previously tested negative, one Navy official said. The ship has been dockside in Guam since March 27th.
 
 The move potentially delays the ship’s departure amid new questions about the spread of Covid-19.
 

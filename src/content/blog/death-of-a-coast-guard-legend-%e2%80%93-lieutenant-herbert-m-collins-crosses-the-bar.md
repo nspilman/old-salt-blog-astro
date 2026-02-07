@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Death of a Coast Guard Legend – Lieutenant Herbert M. Collins Crosses the Bar A Coast Guard Legend passed away yesterday. Lieutenant Herbert M. Collins, USCG (RET), the last survivor of the legendary Pea Island Life Saving Station, passed away … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/PeaIslandCollinsHerbert1.jpg)[Death of a Coast Guard Legend – Lieutenant Herbert M. Collins Crosses the Bar](http://coastguardnews.com/death-of-a-coast-guard-legend-lieutenant-herbert-m-collins-crosses-the-bar/2010/03/15/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/PeaIslandCollinsHerbert1.jpg)[Death of a Coast Guard Legend – Lieutenant Herbert M. Collins Crosses the Bar](http://coastguardnews.com/death-of-a-coast-guard-legend-lieutenant-herbert-m-collins-crosses-the-bar/2010/03/15/)
 
 *A Coast Guard Legend passed away yesterday. Lieutenant Herbert M. Collins, USCG (RET), the last survivor of the legendary [Pea Island Life Saving Station](http://www.rescuemenfilm.com/)**, passed away due to complications from cancer. Here is the message that Admiral Allen sent out to notify the field.*
 

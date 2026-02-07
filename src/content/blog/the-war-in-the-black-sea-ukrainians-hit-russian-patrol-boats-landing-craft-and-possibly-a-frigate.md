@@ -16,12 +16,12 @@ tags:
   - "Serna-type Russian landing craft"
   - "Ukrainian drones"
   - "Ukrainian Neptune missiles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/admiralM.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/admiralM.jpg"
 author: "Rick Spilman"
 description: "As brutal combat continues in the eastern part of Ukraine, the war in the Black Sea continues to heat up. Three weeks ago, Ukrainian Neptune anti-ship cruise missiles hit and subsequently sank the guided-missile cruiser and the flagship of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/admiralM.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/admiralM.jpg)
 
 Admiral Makarov
 

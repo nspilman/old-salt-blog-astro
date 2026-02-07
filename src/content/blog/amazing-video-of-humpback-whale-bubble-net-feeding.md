@@ -11,7 +11,7 @@ tags:
   - "humpback whales"
   - "Mānoa Marine Mammal Research Program"
   - "University of Hawaii"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/bubblenet2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/bubblenet2.jpg"
 author: "Rick Spilman"
 description: "Here is a breathtaking video of humpback whales bubble-net feeding in Alaska shot by the University of Hawaii, Mānoa Marine Mammal Research Program (MMRP). The whales use bubbles to create virtual nets to herd their prey. The video was captured … Continue reading &rarr;"
 ---

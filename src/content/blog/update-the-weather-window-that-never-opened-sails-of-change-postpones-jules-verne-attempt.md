@@ -13,12 +13,12 @@ tags:
   - "Sails of Change"
   - "Spindrift"
   - "Yann Guichard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/sails-of-change.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/sails-of-change.jpg"
 author: "Rick Spilman"
 description: "In November we posted about the maxi-trimaran Sails of Change (ex-Spindrift 2) and its crew of 11, waiting to set off from La Trinité-sur-Mer, in southwest Brittany, on their latest attempt to claim the Jules Verne Trophy. To win the trophy, they … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/sails-of-change.jpg)In November [we posted](https://www.oldsaltblog.com/2021/11/sails-of-change-set-to-begin-fossil-fuel-free-attempt-at-the-jules-verne-trophy/) about the maxi-trimaran *Sails of Change* (ex-[*Spindrift 2*](https://spindrift-racing.com/maxi-spindrift-2/)) and its crew of 11, waiting to set off from La Trinité-sur-Mer, in southwest Brittany, on their latest attempt to claim the [Jules Verne Trophy](https://en.wikipedia.org/wiki/Jules_Verne_Trophy). To win the trophy, they would have to beat the around the world record of 40d 23h 30′ 30″ set by Francis Joyon and his crew in 2017.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/sails-of-change.jpg)In November [we posted](https://www.oldsaltblog.com/2021/11/sails-of-change-set-to-begin-fossil-fuel-free-attempt-at-the-jules-verne-trophy/) about the maxi-trimaran *Sails of Change* (ex-[*Spindrift 2*](https://spindrift-racing.com/maxi-spindrift-2/)) and its crew of 11, waiting to set off from La Trinité-sur-Mer, in southwest Brittany, on their latest attempt to claim the [Jules Verne Trophy](https://en.wikipedia.org/wiki/Jules_Verne_Trophy). To win the trophy, they would have to beat the around the world record of 40d 23h 30′ 30″ set by Francis Joyon and his crew in 2017.
 
 To beat the record, they needed exactly the right winds and weather to carry them through the first section of the route. Between November 1 and the end of January, they were waiting for a particular weather window that never opened. Lacking a suitable weather pattern for the maxi-trimaran to have a realistic chance of beating the record, team leaders Dona Bertarelli and Yann Guichard announced the end of voyage standby and their plans to start the attempt again later this year.
 

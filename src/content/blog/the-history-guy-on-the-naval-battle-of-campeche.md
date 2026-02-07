@@ -12,7 +12,7 @@ tags:
   - "Moctezuma"
   - "Naval Battle of Campeche"
   - "Republic of Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/austin-texas-navy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/austin-texas-navy.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating bit of history from the \"History Guy\" about when the navies of the Republic of Texas and the Republic of the Yucatan faced off against the most modern warships of their time, the ironclads of the Mexican … Continue reading &rarr;"
 ---

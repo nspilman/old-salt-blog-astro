@@ -14,12 +14,12 @@ tags:
   - "Harmony of the Seas"
   - "Royal Caribbean"
   - "SpaceX"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/harmonyoftheseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/harmonyoftheseas.jpg"
 author: "Rick Spilman"
 description: "On Sunday, 30 seconds before the SpaceX Falcon 9 rocket was due to take off from Florida, the launch was scrubbed when a cruise ship sailed into the launch hazard area. Royal Caribbean’s Harmony of the Seas ventured into the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/harmonyoftheseas.jpg)On Sunday, 30 seconds before the [SpaceX](https://www.spacex.com/) Falcon 9 rocket was due to take off from Florida, the launch was scrubbed when a cruise ship sailed into the launch hazard area. Royal Caribbean’s [*Harmony of the Seas*](https://www.royalcaribbean.com/cruise-ships/harmony-of-the-seas) ventured into the Falcon 9 rocket’s flightpath exclusion zone, forcing SpaceX to stand down from the mission. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/harmonyoftheseas.jpg)On Sunday, 30 seconds before the [SpaceX](https://www.spacex.com/) Falcon 9 rocket was due to take off from Florida, the launch was scrubbed when a cruise ship sailed into the launch hazard area. Royal Caribbean’s [*Harmony of the Seas*](https://www.royalcaribbean.com/cruise-ships/harmony-of-the-seas) ventured into the Falcon 9 rocket’s flightpath exclusion zone, forcing SpaceX to stand down from the mission. 
 
 [Florida Today](https://news.yahoo.com/cruise-ship-enters-launch-hazard-002820139.html) reports that launch engineers, counting down to a 6:11 p.m. EST liftoff from Cape Canaveral Space Force Station, waited as long as possible for the Coast Guard to resolve the situation but ultimately ran out of time to meet the instantaneous window’s deadline. It marked the fourth delay for the mission that was previously scrubbed due to inclement weather around Launch Complex 40.
 

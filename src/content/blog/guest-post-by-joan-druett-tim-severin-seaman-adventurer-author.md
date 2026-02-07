@@ -12,12 +12,12 @@ tags:
   - "The Brendan Voyage"
   - "Tim Severin"
   - "World of the Written Word"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/saverinsextant.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/saverinsextant.jpg"
 author: "Joan Druett"
 description: "Originally posted in award-winning maritime historian Joan Druett’s World of the Written Word. Reposted with permission. I was saddened to learn that Tim Severin, a truly remarkable man who was a living inspiration, passed away last month. The Irish Times has a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/saverinsextant.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/saverinsextant.jpg)
 
 *Originally posted in award-winning maritime historian [Joan Druett’](https://en.wikipedia.org/wiki/Joan_Druett)s [World of the Written Word](https://joan-druett.blogspot.com/2021/01/tim-severin-seaman-adventurer-author.html). Reposted with permission.*
 
@@ -33,6 +33,6 @@ His big inspiration evolved in 1976, when he decided to try and prove that St. B
 
 The books that gripped my imagination were *The Sindbad Voyage* and *The Spice Islands Voyage*, which can read with Alan Villiers’ *Sons of Sinbad*, as a perfect entry into the craft and seamanship of the Far East.  Ever since, I have been photographing prahu and pinisi (and writing about them, too, in *Eleanor’s Odyssey* and the Wiki Coffin mystery stories), and Ron painted and drew them.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/severinprahu.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/severinprahu.jpg)
 
 The books poured out of Tim Severin — more tracings of ancient voyages, novels about Vikings.  I remember him for his kindness, his helpfulness, and generosity to someone faraway who was seeking answers to the same sort of questions.  His eyes were those of a navigator or a mountaineer, always seeking a new horizon.  He will be greatly missed.

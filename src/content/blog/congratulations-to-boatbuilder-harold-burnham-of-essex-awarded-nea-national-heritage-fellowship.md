@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Wooden boat building is part science, part engineering and part pure artistry.  On Tuesday, the National Endowment for the Arts honored Harold Burnham of Essex, MA as a 2012 recipient of a National Heritage Fellowship.  Harold Burnham is an eleventh generation boatbuilder, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/Burnham105.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Burnham105.jpg)
 
 Harold A. Burnham
 

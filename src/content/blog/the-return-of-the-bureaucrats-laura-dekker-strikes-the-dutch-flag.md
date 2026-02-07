@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Laura Dekker’s sailboat, Guppy, now flies a New Zealand flag from her stern.  Laura has struck the Dutch colors as the bureaucrats who tried and initially succeeded in stopping her solo voyage have returned to pester her and her family once more. They … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/0804-wire-Laura-Dekker-DUTC.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0804-wire-Laura-Dekker-DUTC.jpg)
 
 A Dutch flag no more, Laura now flies the flag of New Zealand
 

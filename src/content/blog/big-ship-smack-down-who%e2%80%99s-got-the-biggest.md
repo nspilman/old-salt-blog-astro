@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "This looks like a great symposium, next weekend at the Maine Maritime Museum at Bath, Maine.  I have also heard great things about the fish-house punch served a the evening reception. 38th Annual Walker Maritime History Symposium, April 10, 2010 … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/ship_rappahannock_frame.jpg)](http://www.mainemaritimemuseum.org/calendar/event.php?event_id=1436)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/ship_rappahannock_frame.jpg)](http://www.mainemaritimemuseum.org/calendar/event.php?event_id=1436)
 
 This looks like a great symposium, next weekend at the [Maine Maritime Museum](http://www.mainemaritimemuseum.org/index.php) at Bath, Maine.  I have also heard great things about the fish-house punch served a the evening reception.
 

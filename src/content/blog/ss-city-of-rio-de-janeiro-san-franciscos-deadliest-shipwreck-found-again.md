@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The wreck of the 345-foot Pacific Mail passenger steamer SS City of Rio de Janeiro had been found in 287 feet of water just off the Golden Gate."
 ---
 
-![SS City of Rio de Janeiro ](http://www.oldsaltblog.com/wp-content/uploads/2014/12/the-city-of-rio-de-janeiro-mail-steamer-1898.jpg)
+![SS City of Rio de Janeiro ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/the-city-of-rio-de-janeiro-mail-steamer-1898.jpg)
 
 SS City of Rio de Janeiro
 

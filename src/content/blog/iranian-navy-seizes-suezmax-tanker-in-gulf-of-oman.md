@@ -15,12 +15,12 @@ tags:
   - "Suez Rajan"
   - "Suezmax tanker"
   - "Tehran’s nuclear program"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/stnikolas2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/stnikolas2.jpg"
 author: "Rick Spilman"
 description: "The New York Times reports that Iran’s Navy confirmed it had seized St. Nikolas, a Suezmax tanker loaded with crude oil, off the coast of Oman on Thursday, apparently in retaliation for the United States confiscating oil from the same ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/stnikolas2.jpg)The [New York Times](https://www.nytimes.com/2024/01/11/world/middleeast/oil-vessel-gulf-oman-iran.html) reports that Iran’s Navy confirmed it had seized *[St. Nikolas](https://www.marinetraffic.com/en/ais/details/ships/shipid:7285163/mmsi:229476000/imo:9934149/vessel:ST_NICHOLAS)*, a Suezmax tanker loaded with crude oil, off the coast of Oman on Thursday, apparently in retaliation for the United States confiscating oil from the same ship last year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/stnikolas2.jpg)The [New York Times](https://www.nytimes.com/2024/01/11/world/middleeast/oil-vessel-gulf-oman-iran.html) reports that Iran’s Navy confirmed it had seized *[St. Nikolas](https://www.marinetraffic.com/en/ais/details/ships/shipid:7285163/mmsi:229476000/imo:9934149/vessel:ST_NICHOLAS)*, a Suezmax tanker loaded with crude oil, off the coast of Oman on Thursday, apparently in retaliation for the United States confiscating oil from the same ship last year.
 
 The U.S. government diverted the same ship last April and confiscated its cargo, Iranian oil that was being transported in violation of American sanctions linked to Tehran’s nuclear program. The ship, then called the *Suez Rajan*, was later renamed the *St. Nikolas*.
 

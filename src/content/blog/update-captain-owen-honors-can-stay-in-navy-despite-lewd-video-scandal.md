@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last January we posted that Captain Owen Honors had been relieved of duty on USS Enterprise after it was revealed that he produced a series of lewd videos when he was XO (Executive Officer) on the nuclear powered aircraft carrier.  Today a Navy panel voted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/owens-125x104.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/owens-125x104.jpg)
 
 Screen Capture from 'XO Movie Night'
 

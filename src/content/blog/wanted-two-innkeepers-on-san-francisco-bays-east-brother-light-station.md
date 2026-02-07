@@ -13,12 +13,12 @@ tags:
   - "innkeepers"
   - "San Francisco Bay"
   - "San Pablo Bay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/ebls-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/ebls-1.jpg"
 author: "Rick Spilman"
 description: "The East Bay Light Station Bed and Breakfast Inn, at the entrance to San Pablo Bay from San Francisco Bay, is looking to hire two innkeepers for a period of two years. The joint positions, which start in April of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/ebls-1.jpg)The [East Bay Light Station Bed and Breakfast Inn](https://ebls.org/), at the entrance to San Pablo Bay from San Francisco Bay, is looking to hire two innkeepers for a period of two years. The joint positions, which start in April of this year, come with some very specific requirements.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/ebls-1.jpg)The [East Bay Light Station Bed and Breakfast Inn](https://ebls.org/), at the entrance to San Pablo Bay from San Francisco Bay, is looking to hire two innkeepers for a period of two years. The joint positions, which start in April of this year, come with some very specific requirements.
 
 From the [EBLS website](https://ebls.org/about/keepers-search-innkeeper/):
 

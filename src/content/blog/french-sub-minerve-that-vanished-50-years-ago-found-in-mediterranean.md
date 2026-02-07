@@ -13,12 +13,12 @@ tags:
   - "Mediterranean"
   - "Minerve"
   - "Toulon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/minerve.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/minerve.jpg"
 author: "Rick Spilman"
 description: "In January 1968, the French submarine Minerve was underway in the Mediterranean on her way back to her home base in Toulon. Communications from the submarine advised that she would be at her berth in about an hour.  Then mysteriously, the diesel-electric … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/minerve.jpg)In January 1968, the French submarine [*Minerve*](https://en.wikipedia.org/wiki/French_submarine_Minerve_\(S647\)) was underway in the Mediterranean on her way back to her home base in Toulon. Communications from the submarine advised that she would be at her [berth](https://en.wikipedia.org/wiki/Berth_\(moorings\) "Berth (moorings)") in about an hour.  Then mysteriously, the diesel-electric submarine vanished. Despite an extensive search by the French navy, no trace was found of the submarine and her crew of 6 officers and 46 sailors.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/minerve.jpg)In January 1968, the French submarine [*Minerve*](https://en.wikipedia.org/wiki/French_submarine_Minerve_\(S647\)) was underway in the Mediterranean on her way back to her home base in Toulon. Communications from the submarine advised that she would be at her [berth](https://en.wikipedia.org/wiki/Berth_\(moorings\) "Berth (moorings)") in about an hour.  Then mysteriously, the diesel-electric submarine vanished. Despite an extensive search by the French navy, no trace was found of the submarine and her crew of 6 officers and 46 sailors.
 
 Over 50 years after the *Minerve’s* disappearance, the French government contracted with the American ocean-mapping company [Ocean Infinity](https://oceaninfinity.com/) to continue the search. Yesterday, Ocean Infinity announced that their Norwegian flag research vessel [Seabed Constructor](https://www.marinetraffic.com/en/ais/home/shipid:305289/zoom:13) had located the wreckage of the *Minerve* in about 7,800 feet of water, roughly 28 miles south of the French port city of Toulon.  
 

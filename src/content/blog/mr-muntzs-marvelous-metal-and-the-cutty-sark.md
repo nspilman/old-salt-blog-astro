@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as \"a clucking, Grade A, Bernard Matthews-class turkey.\" For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/csmuntzmetal.jpg)Earlier today we posted about an article by Andrew Gilligan, the [Telegraph](http://www.telegraph.co.uk/)‘s London Editor, in which he referred to the *Cutty Sark* restoration as “[a clucking, Grade A, Bernard Matthews-class turkey](http://blogs.telegraph.co.uk/news/andrewgilligan/100152428/cutty-sark-restoration-a-clucking-grade-a-bernard-matthews-class-turkey/).”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/csmuntzmetal.jpg)Earlier today we posted about an article by Andrew Gilligan, the [Telegraph](http://www.telegraph.co.uk/)‘s London Editor, in which he referred to the *Cutty Sark* restoration as “[a clucking, Grade A, Bernard Matthews-class turkey](http://blogs.telegraph.co.uk/news/andrewgilligan/100152428/cutty-sark-restoration-a-clucking-grade-a-bernard-matthews-class-turkey/).”
 
 For a more positive perspective on the restoration one could turn to the article by the Guardian’s Steve Rose, [The *Cutty Sark*: hoist the main sail!](http://www.guardian.co.uk/artanddesign/2012/apr/23/cutty-sark-hoist-main-sail?INTCMP=SRCH)  which was mostly sunshine and roses, at least as compared to Mr. Gilligan’s comments.  
   

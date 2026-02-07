@@ -12,12 +12,12 @@ tags:
   - "oceans"
   - "plastic"
   - "Sky Ocean Ventures"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/innovation-challenge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/innovation-challenge.jpg"
 author: "Rick Spilman"
 description: "Each year more than 9 million tons of plastic makes its way into the oceans of the world. Plastic debris in ocean garbage patches is growing exponentially. By one estimate, there will be more plastic than fish in the ocean … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/innovation-challenge.jpg)Each year more than 9 million tons of plastic makes its way into the oceans of the world. Plastic debris in ocean garbage patches is growing exponentially. By one estimate, there will be [more plastic than fish](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/20/by-2050-there-will-be-more-plastic-than-fish-in-the-worlds-oceans-study-says/?utm_term=.a86d9735e1f1) in the ocean by 2050. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/innovation-challenge.jpg)Each year more than 9 million tons of plastic makes its way into the oceans of the world. Plastic debris in ocean garbage patches is growing exponentially. By one estimate, there will be [more plastic than fish](https://www.washingtonpost.com/news/morning-mix/wp/2016/01/20/by-2050-there-will-be-more-plastic-than-fish-in-the-worlds-oceans-study-says/?utm_term=.a86d9735e1f1) in the ocean by 2050. 
 
 What can be done? The [Ocean Plastic Innovation Challenge](https://www.nationalgeographic.org/innovation-challenges/plastic/) is looking for answers. It is a year-long competition to seek innovative ideas from the public to address the problems of ocean plastics. They are offering $500,000 in prize money and at least $1 million in investment dollars to the winners.
 

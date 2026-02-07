@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "On July 6th, 11 schooners raced from Gilkey Harbor in Islesboro, Maine on Penobscot Bay to the finish line at the Rockland Breakwater Lighthouse in the 42nd Annual Great Schooner Race, sponsored by the Maine Windjammer Association.  The race honors, as reported … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/schoonerace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/schoonerace.jpg)
 
 Photo: Maine Windjammer Association
 

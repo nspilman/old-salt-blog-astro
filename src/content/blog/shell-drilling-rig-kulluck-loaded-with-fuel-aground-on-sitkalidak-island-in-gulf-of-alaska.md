@@ -22,7 +22,7 @@ author: "Rick Spilman"
 description: "On Monday night, the Shell Oil drilling rig, the Kulluk, broke free from its towlines during heavy weather and ran aground on the east coast of Sitkalidak Island in the Gulf of Alaska.  Sitkalidak Island is an uninhabited island separated … Continue reading &rarr;"
 ---
 
-![RIG-popup](http://www.oldsaltblog.com/wp-content/uploads/2013/01/RIG-popup.jpg)
+![RIG-popup](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/RIG-popup.jpg)
 
 Photo: Petty Officer 1St Class Sara Francis/United States Coast Guard, via Associated Press
 

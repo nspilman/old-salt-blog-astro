@@ -13,12 +13,12 @@ tags:
   - "Flying P sailing ships"
   - "Preussen"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/preussenfullsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/preussenfullsail.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the five-masted full-rigged cruise ship Royal Clipper, a modern sailing ship designed as an homage to the great five-masted windjammer Preussen. Here is a repost of a guest post by Robin Denny about the mighty windjammer:  With the Peking now … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/preussenfullsail.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/preussenfullsail.jpg)
 
 Preussen under full sail
 
@@ -32,7 +32,7 @@ Near midnight on 5th. November 1910, under Captain Jochim Nissen, sailing south-
 
 A fast turbine steamer, *Brighton*, 273ft. LOA had been built by Wm.Denny Bros. at Dumbarton, Scotland, and launched 13th June, 1903 for the ferry service Newhaven, England to Dieppe, France. Her speed on trials was 21.37 knots.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/wreckpreussen.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/wreckpreussen.jpg)
 
 Wreck of the Preussen
 

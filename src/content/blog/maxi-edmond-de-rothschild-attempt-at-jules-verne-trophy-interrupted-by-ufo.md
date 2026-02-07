@@ -12,12 +12,12 @@ tags:
   - "Maxi Edmond de Rothschild"
   - "Sodebo"
   - "Unidentified Floating Object"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/gitana17.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/gitana17.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about a head to head race between trimarans  Sodebo and Maxi Edmond de Rothschild/Gitana 17 attempting to win the Jules Verne Trophy. While the race for the trophy is against the clock, the two boats that sailed within hours … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/gitana17.jpg)Yesterday, [we posted about a head to head race](http://www.oldsaltblog.com/2020/11/foiling-maxi-trimarans-race-head-to-head-for-jules-verne-trophy/) between trimarans  [*Sodebo*](https://www.sodebo.com/aventure-voile/) and [*Maxi Edmond de Rothschild/Gitana 17*](http://www.gitana-team.com/en/) attempting to win the [Jules Verne Trophy](http://www.tropheejulesverne.org/en/). While the race for the trophy is against the clock, the two boats that sailed within hours of each other, sailing what amounted to a Maxi-match race, added a novel element to their attempt to beat the existing speed record for voyaging around the world under sail. The match race, however, between the maxi-tris has ended.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/gitana17.jpg)Yesterday, [we posted about a head to head race](http://www.oldsaltblog.com/2020/11/foiling-maxi-trimarans-race-head-to-head-for-jules-verne-trophy/) between trimarans  [*Sodebo*](https://www.sodebo.com/aventure-voile/) and [*Maxi Edmond de Rothschild/Gitana 17*](http://www.gitana-team.com/en/) attempting to win the [Jules Verne Trophy](http://www.tropheejulesverne.org/en/). While the race for the trophy is against the clock, the two boats that sailed within hours of each other, sailing what amounted to a Maxi-match race, added a novel element to their attempt to beat the existing speed record for voyaging around the world under sail. The match race, however, between the maxi-tris has ended.  
 
 After three days at sea, the attempt by the crew of the foiling trimaran *Maxi Edmond de Rothschild* has been [interrupted by a high-speed collision with a UFO](http://www.gitana-team.com/en/) (an Unidentified Floating Object.) The trimaran is returning to port for repairs, intending to restart the race once the repairs are completed and a favorable weather window presents itself.
 

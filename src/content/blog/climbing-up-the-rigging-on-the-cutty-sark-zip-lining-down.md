@@ -12,7 +12,7 @@ tags:
   - "Cutty Sark"
   - "high ropes course"
   - "rigging climb"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/cuttysarkrigclimb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/cuttysarkrigclimb.jpg"
 author: "Rick Spilman"
 description: "We recently posted a video about climbing the rig on the Götheborg of Sweden. Here is an interesting application of \"high ropes course\" techniques and technology to allow the public to safely climb to the maintop and out on a … Continue reading &rarr;"
 ---

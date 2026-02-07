@@ -9,7 +9,7 @@ categories:
 tags:
   - "Floreana Island"
   - "Galápagos Green Sea Turtles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/seaturtle1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/seaturtle1.jpg"
 author: "Rick Spilman"
 description: "Like so many other species, Galápagos green sea turtles are unique to the archipelago. Here is a short video of snorkeling with Galápagos green sea turtles off Punto Cormorant on Floreana Island in the Galapagos in early November.  Galápagos Sea Green … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "Allure of the Seas"
   - "Azipods"
   - "schedules"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/allureseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/allureseas.jpg"
 author: "Rick Spilman"
 description: "Cruise Fever is reporting that Royal Caribbean is having to rearrange the itineraries for the Allure of the Seas for the next five months due to mechanical issues with one of the three Azipods, the pod propulsion units which drive … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/allureseas.jpg)[Cruise Fever](https://cruisefever.net/cruises-altered-for-5-months-due-to-ships-technical-issue/) is reporting that Royal Caribbean is having to rearrange the itineraries for the *Allure of the Seas* for the next five months due to mechanical issues with one of the three Azipods, the pod propulsion units which drive the ship. The ship is one of the largest cruise ships in the world with a capacity of over 8,000 passengers and crew.  Royal Caribbean will be dropping certain port calls as the ship will be operating at slower speeds with only two functioning pods. Apparently, 25 different itineraries are being modified. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/allureseas.jpg)[Cruise Fever](https://cruisefever.net/cruises-altered-for-5-months-due-to-ships-technical-issue/) is reporting that Royal Caribbean is having to rearrange the itineraries for the *Allure of the Seas* for the next five months due to mechanical issues with one of the three Azipods, the pod propulsion units which drive the ship. The ship is one of the largest cruise ships in the world with a capacity of over 8,000 passengers and crew.  Royal Caribbean will be dropping certain port calls as the ship will be operating at slower speeds with only two functioning pods. Apparently, 25 different itineraries are being modified. 
 
 The news has a strong sense of déjà vu.  In early 2014, the *Allure of the Seas* was taken out of service to repair a faulty azipod. The ship, delivered in late 2010, has been having pod problems for most of its operating life. 
 

@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "A new IMOCA (International Monohull Open Class Association) 60 design by Guillaume Verdier and VPLP Design has raised the question whether the design will be a the future of ocean racing or whether it is a foil too far.  In addition … Continue reading &rarr;"
 ---
 
-![dalimoustache1](http://www.oldsaltblog.com/wp-content/uploads/2015/12/dalimoustache1.jpg)
+![dalimoustache1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/dalimoustache1.jpg)
 
 A new [IMOCA (International Monohull Open Class Association) 60](https://www.imoca.org/en/index/) design by Guillaume Verdier and [VPLP Design](http://www.vplp.fr/en/informations-en/news-en.html) has raised the question whether the design will be a the future of ocean racing or whether it is a foil too far.  In addition to the tall rig, sled hull, articulating keel and moveable ballast, the design features “L” shaped foils that some think bear a resemblance to Salvador Dali’s iconic mustache. VPLP-Verdier design has been described as the most complex monohull sailboats ever built.  Several of the designs have been built for the upcoming Vendee Globe round-the-world single-handed yacht race with the hope of breaking the current 78-day record.
 

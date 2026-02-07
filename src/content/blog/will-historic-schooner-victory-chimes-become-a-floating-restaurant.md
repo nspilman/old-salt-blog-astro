@@ -18,12 +18,12 @@ tags:
   - "Sherman Zwicker"
   - "three-masted"
   - "Victory Chimes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/vivtchimes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/vivtchimes.jpg"
 author: "Rick Spilman"
 description: "The three-masted, gaff-rigged Chesapeake ram schooner Victory Chimes was recently sold at auction to Miles and Alex Pincus, who currently own two restaurants aboard historic schooners in New York harbor, as well as several shore-based establishments.  While it had been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/vivtchimes.jpg)The three-masted, gaff-rigged Chesapeake ram schooner [*Victory Chimes*](https://www.oldsaltblog.com/2023/04/historic-schooner-victory-chimes-to-be-sold-at-auction/) was recently sold at auction to [Miles and Alex Pincus](https://www.nytimes.com/2022/04/28/dining/drinks/holywater-tribeca.html#:~:text=Alex%20and%20Miles%20Pincus%20refer,near%20or%20on%20the%20water.), who currently own two restaurants aboard historic schooners in New York harbor, as well as several shore-based establishments. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/vivtchimes.jpg)The three-masted, gaff-rigged Chesapeake ram schooner [*Victory Chimes*](https://www.oldsaltblog.com/2023/04/historic-schooner-victory-chimes-to-be-sold-at-auction/) was recently sold at auction to [Miles and Alex Pincus](https://www.nytimes.com/2022/04/28/dining/drinks/holywater-tribeca.html#:~:text=Alex%20and%20Miles%20Pincus%20refer,near%20or%20on%20the%20water.), who currently own two restaurants aboard historic schooners in New York harbor, as well as several shore-based establishments. 
 
 While it had been hoped by many that a buyer could be found to continue operating the *Victory Chimes* in passenger service, it appears likely that the schooner will be converted into a bar and restaurant.
 

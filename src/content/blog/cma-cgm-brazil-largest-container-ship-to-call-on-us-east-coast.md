@@ -11,12 +11,12 @@ tags:
   - "HMM Algeciras"
   - "NJ"
   - "Port Elizabeth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/brazilbayonne.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/brazilbayonne.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, the container ship, CMA CGM Brazil, docked at the marine terminal in Port Elizabeth, NJ, part of the Port of New York and New Jersey on Newark Bay.  At 15,148 TEU, it is said to be the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/brazilbayonne.jpg)Over the weekend, the container ship, *CMA CGM Brazil,* docked at the marine terminal in Port Elizabeth, NJ, part of the Port of New York and New Jersey on Newark Bay.  At 15,148 TEU, it is said to be the largest container ship ever to call on any port on the U.S. East Coast.  To make this possible, the Port Authority invested $1.6 billion dollars to dredge the channel and [raise the roadway on the Bayonne Bridge](http://www.oldsaltblog.com/2014/05/prepping-for-the-panama-canal-expansion-new-york-raising-a-bridge-and-new-container-cranes/) to allow the new larger neo-Panamax ships to transit, as well as spending $40 million for new container cranes and equipment.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/brazilbayonne.jpg)Over the weekend, the container ship, *CMA CGM Brazil,* docked at the marine terminal in Port Elizabeth, NJ, part of the Port of New York and New Jersey on Newark Bay.  At 15,148 TEU, it is said to be the largest container ship ever to call on any port on the U.S. East Coast.  To make this possible, the Port Authority invested $1.6 billion dollars to dredge the channel and [raise the roadway on the Bayonne Bridge](http://www.oldsaltblog.com/2014/05/prepping-for-the-panama-canal-expansion-new-york-raising-a-bridge-and-new-container-cranes/) to allow the new larger neo-Panamax ships to transit, as well as spending $40 million for new container cranes and equipment.
 
 While the *CMA CGM Brazil* is indeed a large ship, it is by no means the largest of her type. This year, *HMM Algeciras*, the first of twelve ships of her class, was delivered with a container capacity of  23,964 TEU.
 

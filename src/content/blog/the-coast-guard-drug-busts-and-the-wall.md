@@ -12,12 +12,12 @@ tags:
   - "cocaine"
   - "government shutdown"
   - "wall"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/uscgccampbell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/uscgccampbell.jpg"
 author: "Rick Spilman"
 description: "Sometimes the events of the day seem downright surreal. Yesterday, I read about the US Coast Guard cutter Campbell which returned to the Portsmouth Naval Base from a three month Pacific patrol in which it seized more than 11,000 pounds … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/uscgccampbell.jpg)Sometimes the events of the day seem downright surreal. Yesterday, I read about the US Coast Guard cutter *Campbell* which [returned to the Portsmouth Naval Base from a three month Pacific patrol](https://www.wmur.com/article/crew-based-at-portsmouth-naval-shipyard-seizes-150-million-worth-of-cocaine/25686268) in which it seized more than 11,000 pounds of cocaine, worth about $159 million. Nevertheless, the personnel aboard the *Campbell* are [not currently being paid for their work due to the current partial Federal shutdown](http://www.oldsaltblog.com/2018/12/42000-us-coast-guard-personnel-working-without-pay-during-shutdown/). Nationally, the 42,000 Coast Guardsmen and women are the only military personnel working without pay. Thousands of Coast Guard civilian personnel, who support the Coast Guard military personnel, have also been furloughed without pay.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/uscgccampbell.jpg)Sometimes the events of the day seem downright surreal. Yesterday, I read about the US Coast Guard cutter *Campbell* which [returned to the Portsmouth Naval Base from a three month Pacific patrol](https://www.wmur.com/article/crew-based-at-portsmouth-naval-shipyard-seizes-150-million-worth-of-cocaine/25686268) in which it seized more than 11,000 pounds of cocaine, worth about $159 million. Nevertheless, the personnel aboard the *Campbell* are [not currently being paid for their work due to the current partial Federal shutdown](http://www.oldsaltblog.com/2018/12/42000-us-coast-guard-personnel-working-without-pay-during-shutdown/). Nationally, the 42,000 Coast Guardsmen and women are the only military personnel working without pay. Thousands of Coast Guard civilian personnel, who support the Coast Guard military personnel, have also been furloughed without pay.
 
 Of course, the reason that the government is shut down is that current occupant of the Oval Office has thrown a temper tantrum over a wall on the border with Mexico, a wall that he swore Mexico would pay for. The reasons that he claims the wall is necessary are twofold — to stop illegal immigration and to block the importation of drugs.
 

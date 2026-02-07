@@ -12,12 +12,12 @@ tags:
   - "international dateline"
   - "New Year's Eve"
   - "RMS Warrimoo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/RMSwarrimmo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/RMSwarrimmo.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful sea story which appears to be more or less true. RMS Warrimoo was an Australian/New Zealand passenger ship, launched in 1892. The ship is best remembered for crossing the intersection of the international dateline and the equator at precisely the turn of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/RMSwarrimmo.jpg)Here is a wonderful sea story which appears to be more or less true. [RMS *Warrimoo*](https://en.wikipedia.org/wiki/SS_Warrimoo) was an Australian/New Zealand passenger ship, launched in 1892. The ship is best remembered for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. Here is how the story is usually told:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/RMSwarrimmo.jpg)Here is a wonderful sea story which appears to be more or less true. [RMS *Warrimoo*](https://en.wikipedia.org/wiki/SS_Warrimoo) was an Australian/New Zealand passenger ship, launched in 1892. The ship is best remembered for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. Here is how the story is usually told:
 
 *The passenger steamer SS Warrimoo was quietly knifing its way through the waters of the mid-Pacific on its way from Vancouver to Australia. The navigator had just finished working out a star fix and brought the master, Captain John Phillips, the result. The Warrimoo’s position was latitude 0 degrees x 31 minutes north and longitude 179 degrees x 30 minutes west.*
 

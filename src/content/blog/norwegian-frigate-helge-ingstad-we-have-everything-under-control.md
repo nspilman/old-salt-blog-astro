@@ -12,12 +12,12 @@ tags:
   - "Helge Ingstad"
   - "Norwegian frigate"
   - "Sola TS"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/nfrigategrounded2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/nfrigategrounded2.jpg"
 author: "Rick Spilman"
 description: "How is it possible that the Norwegian frigate Helge Ingstad collided with the Aframax tanker Sola TS in a fjord near a major oil terminal? The frigate is much smaller, significantly faster and far more maneuverable than the 113,00 DWT … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/nfrigategrounded2.jpg)How is it possible that the Norwegian frigate [*Helge Ingstad* collided with the Aframax tanker *Sola TS*](http://www.oldsaltblog.com/2018/11/tanker-collides-with-norwegian-frigate-frigate-loses/) in a fjord near a major oil terminal? The frigate is much smaller, significantly faster and far more maneuverable than the 113,00 DWT tanker laden with a full cargo of crude oil. Why did the naval officers on the frigate fail to avoid a collision?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/nfrigategrounded2.jpg)How is it possible that the Norwegian frigate [*Helge Ingstad* collided with the Aframax tanker *Sola TS*](http://www.oldsaltblog.com/2018/11/tanker-collides-with-norwegian-frigate-frigate-loses/) in a fjord near a major oil terminal? The frigate is much smaller, significantly faster and far more maneuverable than the 113,00 DWT tanker laden with a full cargo of crude oil. Why did the naval officers on the frigate fail to avoid a collision?
 
 It is too early to say. “This was a very serious accident and \[the authorities\] need the time to investigate,” said John Erik Hagen, regional director of the Norwegian Coastal Administration’s western region.
 

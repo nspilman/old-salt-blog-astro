@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The first time I saw Billy Black‘s photo of the collision, I had to look twice to believe what I was seeing. It show two white yachts, both under full sail, one slicing half-way through the other.  The collision took … Continue reading &rarr;"
 ---
 
-[![Impact-2](http://www.oldsaltblog.com/wp-content/uploads/2013/05/Impact-2.jpg)](http://www.billyblack.com/)
+[![Impact-2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/Impact-2.jpg)](http://www.billyblack.com/)
 
 [Photo by Billy Black – www.billyblack.com](http://www.billyblack.com/)
 

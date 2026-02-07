@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Workers excavating at the new World Trade Center site in lower Manhattan have uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land fill.  It … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/14ship2-blogSpan.jpg)Workers excavating at the new World Trade Center site in lower Manhattan have uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land fill.  It was found in an area outside that which had been previously excavated for the original World Trade Center complex and appears to have remained undisturbed since it was buried in the mid to late 1700s.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/14ship2-blogSpan.jpg)Workers excavating at the new World Trade Center site in lower Manhattan have uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land fill.  It was found in an area outside that which had been previously excavated for the original World Trade Center complex and appears to have remained undisturbed since it was buried in the mid to late 1700s.
 
 [18th-Century Ship Found at Trade Center Site](http://cityroom.blogs.nytimes.com/2010/07/14/18th-century-ship-found-at-trade-center-site/)  
   

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Divers have found 30 bottles of champagne thought to pre-date the French Revolution on the Baltic seabed.  Reportedly, it was still highly drinkable. All I can say is that the seabed must be one hell of a wine cellar.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/champagne.jpg)Divers have found 30 bottles of champagne thought to pre-date the French Revolution on the Baltic seabed.  Reportedly, it was still highly drinkable.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/champagne.jpg)Divers have found 30 bottles of champagne thought to pre-date the French Revolution on the Baltic seabed.  Reportedly, it was still highly drinkable.
 
 All I can say is that the seabed must be one hell of a wine cellar.   Dark, cold, but at a constant temperature, and totally devoid of oxygen – it does meet the requirements for storing alcohol.  The fact that the champagne was something other than vinegar is proof enough.
 

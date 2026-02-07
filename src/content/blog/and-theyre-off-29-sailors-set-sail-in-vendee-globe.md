@@ -10,12 +10,12 @@ categories:
 tags:
   - "Les Sables-d'Olonne"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/vendeeg200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/vendeeg200.jpg"
 author: "Rick Spilman"
 description: "Today, 29 sailors set off from Les Sables-d’Olonne, France in the eighth Vendée Globe single-handed round-the-world yacht race. The 24,000 mile circumnavigation will be sailed non-stop and without assistance along the clipper route: down the Atlantic Ocean to the Cape … Continue reading &rarr;"
 ---
 
-![vendeeg](http://www.oldsaltblog.com/wp-content/uploads/2016/11/vendeeg.jpg)Today, 29 sailors set off from Les Sables-d’Olonne, France in the eighth [Vendée Globe](http://www.vendeeglobe.org/en/) single-handed round-the-world yacht race. The 24,000 mile circumnavigation will be sailed non-stop and without assistance along the [clipper route](https://en.wikipedia.org/wiki/Clipper_route): down the Atlantic Ocean to the Cape of Good Hope; then clockwise around Antarctica, keeping Cape Leeuwin and Cape Horn to port; then back to Les Sables d’Olonne.  The race is considered by many to be the ultimate in ocean racing.
+![vendeeg](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/vendeeg.jpg)Today, 29 sailors set off from Les Sables-d’Olonne, France in the eighth [Vendée Globe](http://www.vendeeglobe.org/en/) single-handed round-the-world yacht race. The 24,000 mile circumnavigation will be sailed non-stop and without assistance along the [clipper route](https://en.wikipedia.org/wiki/Clipper_route): down the Atlantic Ocean to the Cape of Good Hope; then clockwise around Antarctica, keeping Cape Leeuwin and Cape Horn to port; then back to Les Sables d’Olonne.  The race is considered by many to be the ultimate in ocean racing.
 
 The race is sailed every four years. The current competitors include sailors from 10 nations, although the race is dominated by the French, who are sailing 20 of the boats competing this year.
 

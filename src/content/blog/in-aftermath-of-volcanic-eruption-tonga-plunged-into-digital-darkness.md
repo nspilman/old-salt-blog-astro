@@ -10,12 +10,12 @@ tags:
   - "fiber-optic underwater cable"
   - "Tonga"
   - "underwater volcano"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/tongaeruption.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/tongaeruption.jpg"
 author: "Rick Spilman"
 description: "The underwater volcano that erupted off Tonga on Saturday with the force of 500 Hiroshima nuclear bombs covered the island nation with ash and sent tsunami waves of up 50 feet (15 meters) striking some islands, killing at least three. Efforts are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/tongaeruption.jpg)The [underwater volcano that erupted off Tonga](https://www.oldsaltblog.com/2022/01/underwater-volcanic-eruption-near-tonga-triggers-tsunami/) on Saturday with the force of [500 Hiroshima nuclear bombs](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons) covered the island nation with ash and sent tsunami waves of up [50 feet](https://twitter.com/ConsulateKoT/status/1483384039826464768) (15 meters) striking some islands, killing at least three. Efforts are underway to clear ash from blocked airports and repair port damage to allow the transport of much-needed supplies to be delivered.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/tongaeruption.jpg)The [underwater volcano that erupted off Tonga](https://www.oldsaltblog.com/2022/01/underwater-volcanic-eruption-near-tonga-triggers-tsunami/) on Saturday with the force of [500 Hiroshima nuclear bombs](https://www.npr.org/2022/01/18/1073800454/nasa-scientists-estimate-tonga-blast-at-10-megatons) covered the island nation with ash and sent tsunami waves of up [50 feet](https://twitter.com/ConsulateKoT/status/1483384039826464768) (15 meters) striking some islands, killing at least three. Efforts are underway to clear ash from blocked airports and repair port damage to allow the transport of much-needed supplies to be delivered.
 
 This work is being complicated by the severing of a 2″ diameter fiber-optic underwater cable that has cut Tonga off from most digital communications with the outside world, plunging the nation of 105,000 people into “digital darkness.” 
 

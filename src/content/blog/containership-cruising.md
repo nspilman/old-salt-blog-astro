@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "I have seen this item a couple of times and am finally convinced that it is not a spoof.  Apparently CMA CGM, the world’s third largest container shipping group, is offering a \"Cargo cruise\" onboard their largest containerships. Travel Aboard One of the Largest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/cgmchristofor.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/cgmchristofor.jpg)
 
 CMA CGM CHRISTOPHE COLOMB
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Captain John Moore, submarine captain, developer of covert landings techniques of the Special Boat Service and editor of Janes Fighting Ships, died last month at age 88. Captain John Moore Jane’s Fighting Ships, an annual publication which became the leading authority on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/johnmoore.jpg)Captain John Moore, submarine captain, developer of covert landings techniques of the Special Boat Service and editor of *Janes Fighting Ships*, died last month at age 88.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/johnmoore.jpg)Captain John Moore, submarine captain, developer of covert landings techniques of the Special Boat Service and editor of *Janes Fighting Ships*, died last month at age 88.
 
 [Captain John Moore](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/7960494/Captain-John-Moore.html)
 

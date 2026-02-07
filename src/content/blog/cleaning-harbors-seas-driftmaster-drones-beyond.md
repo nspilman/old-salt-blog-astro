@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As the problem of trash and plastic in our waters gets worse, new (and a few older technologies) are being used to respond. They range from small and functional, like the Seabin, a sort of high tech floating bucket designed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/driftmaster.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/driftmaster.jpg)
 
 DCV Driftmaster, Photo: Chris Gardner
 
@@ -26,7 +26,7 @@ As the problem of trash and plastic in our waters gets worse, new (and a few old
 
 [RanMarine Technology – The WasteShark](https://youtu.be/4Amk5Das_U0)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/seavax.jpg)On the other end of the scale, a team of inventors at Bluebird Marine Systems from Sussex, England, are working to develop the [SeaVax,](http://www.bluebird-electric.net/oceanography/Ocean_Plastic_International_Rescue/SeaVax_Ocean_Clean_Up_Robot_Drone_Ship_Sea_Vacuum.htm) a 144′ long solar-and wind-powered autonomous ship that can suck up, shred and compact plastic and other waste.  Bluebird Marine Systems unveiled their proof of concept at the Innovate UK show in London in November, a year ago.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/seavax.jpg)On the other end of the scale, a team of inventors at Bluebird Marine Systems from Sussex, England, are working to develop the [SeaVax,](http://www.bluebird-electric.net/oceanography/Ocean_Plastic_International_Rescue/SeaVax_Ocean_Clean_Up_Robot_Drone_Ship_Sea_Vacuum.htm) a 144′ long solar-and wind-powered autonomous ship that can suck up, shred and compact plastic and other waste.  Bluebird Marine Systems unveiled their proof of concept at the Innovate UK show in London in November, a year ago.  
 
 “With our system all sizes of rubbish, from huge fishing nets to deadly micro particles, can be swept or sucked up, ground down and stored in SeaVax’s tanks,” explains [project director Chris Close](https://www.express.co.uk/finance/city/638166/New-cleaner-SeaVax-has-solution-to-ocean-plastic-waste?platform=hootsuite).
 

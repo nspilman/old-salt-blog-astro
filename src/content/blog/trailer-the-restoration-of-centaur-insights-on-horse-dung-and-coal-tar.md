@@ -11,7 +11,7 @@ tags:
   - "coasting barge"
   - "horse dung"
   - "Thames Sailing Barge Trust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/horsedungc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/horsedungc.jpg"
 author: "Rick Spilman"
 description: "Centaur is one of three sailing barges owned and operated by the Thames Sailing Barge Trust. Launched in  February 1895 at John and Herbert Cann’s Bathside yard in Harwich, Centaur was built as a coasting barge – able to trade … Continue reading &rarr;"
 ---

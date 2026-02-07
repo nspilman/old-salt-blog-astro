@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "For those of a non-piratical bent there is still a lot going on this weekend. The Yonkers Riverfest 2011 will be held tomorrow just a bit up the river from New York City.    The schooner A.J. Meerwald  will be offering … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/10_riverfest_thumb.jpg)For those of a non-piratical bent there is still a lot going on this weekend.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/10_riverfest_thumb.jpg)For those of a non-piratical bent there is still a lot going on this weekend.
 
 The [Yonkers Riverfest 2011](http://www.yonkersdowntown.com/riverfest/2011map.html) will be held tomorrow just a bit up the river from New York City.    The [schooner A.J. Meerwald](http://www.ajmeerwald.org/html/BDPSchedule.htm#September)  will be offering sails from Burlington NJ Sept this weekend.  The [Kalmar Nyckel](http://www.kalmarnyckel.org/bookasail.asp) will also be offering sails at Penn’s Landing in Philadelphia.
 

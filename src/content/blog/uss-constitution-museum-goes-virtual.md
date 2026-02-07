@@ -10,12 +10,12 @@ tags:
   - "USS Constitution Museum"
   - "virtual museum"
   - "virtual tours"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/ussconstitionmuseum.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ussconstitionmuseum.jpg"
 author: "Rick Spilman"
 description: "We recently posted about two virtual tours available on the historic frigate USS Constitution. In these days of the coronavirus lockdown, the ship is closed as is the shoreside museum. Just as you can tour the ship virtually, the USS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/ussconstitionmuseum.jpg)We recently [posted about two virtual tours](http://www.oldsaltblog.com/2020/03/during-the-lockdown-a-choice-of-virtual-tours-of-uss-constitution/) available on the historic frigate USS *Constitution.* In these days of the coronavirus lockdown, the ship is closed as is the shoreside museum. Just as you can tour the ship virtually, the [USS Constitution Museum](https://ussconstitutionmuseum.org/) has developed a virtual portal to bring the museum to visitors while the public can no longer visit the museum.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ussconstitionmuseum.jpg)We recently [posted about two virtual tours](http://www.oldsaltblog.com/2020/03/during-the-lockdown-a-choice-of-virtual-tours-of-uss-constitution/) available on the historic frigate USS *Constitution.* In these days of the coronavirus lockdown, the ship is closed as is the shoreside museum. Just as you can tour the ship virtually, the [USS Constitution Museum](https://ussconstitutionmuseum.org/) has developed a virtual portal to bring the museum to visitors while the public can no longer visit the museum.
 
 “We are offering compelling educational materials for curious students and armchair sailors,” said Anne Grimes Rand, Museum President & CEO. “Whether it’s students who cannot attend classes, educators looking for ideas, or adults with a penchant for learning about *Constitution*, we remain committed to delivering interesting and informative content during this difficult and uncertain time.
 

@@ -9,12 +9,12 @@ tags:
   - "70-foot ocean racing yachts"
   - "Clipper Round the World Race"
   - "Sir Robin Knox-Johnston"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/clipperrtw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/clipperrtw.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about signing aboard as trainee crew on the square rigged barque Picton Castle, to sail all or part of the way around the world. But what if you want to sail in a globe girdling ocean race instead of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/clipperrtw.jpg)Yesterday, we posted about signing aboard as trainee crew on the square rigged barque *Picton Castle,* to sail all or part of the way around the world. But what if you want to sail in a globe girdling ocean race instead of on a beautiful square-rigger? To participate in an around the world ocean race usually requires millions and often tens of millions of dollars, but there is an alternative — the [Clipper Round the World Race](https://www.clipperroundtheworld.com/).  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/clipperrtw.jpg)Yesterday, we posted about signing aboard as trainee crew on the square rigged barque *Picton Castle,* to sail all or part of the way around the world. But what if you want to sail in a globe girdling ocean race instead of on a beautiful square-rigger? To participate in an around the world ocean race usually requires millions and often tens of millions of dollars, but there is an alternative — the [Clipper Round the World Race](https://www.clipperroundtheworld.com/).  
 
 The Clipper Round the World Race is the [global ocean race for the rest of us](http://clipperroundtheworld.com/about/about-the-race).  Doctors, lawyers, students and clerks all have the opportunity, for a fee, to match race around the world on a fleet of twelve identical yachts. The race is the brainchild of sailing legend, [Sir Robin Knox-Johnston](https://en.wikipedia.org/wiki/Robin_Knox-Johnston), the first person to sail solo non-stop around the world, and is run every two years. The race is now in its eleventh edition. The entire race is 40,000 nautical miles around the world on 70-foot ocean racing yachts, sailed in eight legs and 14 to 16 individual races. Each boat has a professional captain and the crew may sign on for the entire around the world race or for specific legs. 
 

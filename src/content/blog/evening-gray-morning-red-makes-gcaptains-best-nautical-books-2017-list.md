@@ -12,12 +12,12 @@ tags:
   - "gCaptain"
   - "Hell Around the Horn"
   - "The Shantyman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/gcapegmr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/gcapegmr.jpg"
 author: "Rick Spilman"
 description: "My new novel, Evening Gray Morning Red, has been selected to be on gCaptain's list of the Best Nautical Books Of 2017."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/gcapegmr.jpg)I am very pleased and grateful that my new novel, [*Evening Gray Morning Red,*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1505735970&sr=1-1&keywords=spilman+evening+gray) has been selected to be on [gCaptain](https://gcaptain.com/)‘s list of the [Best Nautical Books Of 2017](https://gcaptain.com/gcaptain-best-books-2017/).   About the novel:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/gcapegmr.jpg)I am very pleased and grateful that my new novel, [*Evening Gray Morning Red,*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1505735970&sr=1-1&keywords=spilman+evening+gray) has been selected to be on [gCaptain](https://gcaptain.com/)‘s list of the [Best Nautical Books Of 2017](https://gcaptain.com/gcaptain-best-books-2017/).   About the novel:
 
 In [*Evening Gray Morning Red*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1505735970&sr=1-1&keywords=spilman+evening+gray) a young American sailor must escape his past and the clutches of the Royal Navy, in the turbulent years just before the American Revolutionary War.
 

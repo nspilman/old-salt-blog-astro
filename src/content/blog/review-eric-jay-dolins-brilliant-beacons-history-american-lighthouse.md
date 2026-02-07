@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "My review of Eric Jay Dolin’s Brilliant Beacons : A History of the American Lighthouse, originally published in gCaptain. Reposted with permission. Next only perhaps to an anchor, lighthouses are symbols of security and safety. Even with modern electronic navigation, there … Continue reading &rarr;"
 ---
 
-![beacons](http://www.oldsaltblog.com/wp-content/uploads/2016/11/beacons.jpg)My review of Eric Jay Dolin’s [*Brilliant Beacons : A History of the American Lighthouse*](https://www.amazon.com/Brilliant-Beacons-History-American-Lighthouse-ebook/dp/B00ZAT8WIS/ref=mt_kindle?_encoding=UTF8&me=), originally published in [gCaptain](http://gcaptain.com/brilliant-beacons-a-history-of-the-american-lighthouse/). Reposted with permission.
+![beacons](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/beacons.jpg)My review of Eric Jay Dolin’s [*Brilliant Beacons : A History of the American Lighthouse*](https://www.amazon.com/Brilliant-Beacons-History-American-Lighthouse-ebook/dp/B00ZAT8WIS/ref=mt_kindle?_encoding=UTF8&me=), originally published in [gCaptain](http://gcaptain.com/brilliant-beacons-a-history-of-the-american-lighthouse/). Reposted with permission.
 
 Next only perhaps to an anchor, lighthouses are symbols of security and safety. Even with modern electronic navigation, there is something incredibly reassuring about seeing the lume of a lighthouse beacon shining through the darkness or hearing the moan of a fog horn reverberating through a blinding white fog. And yet, most of the time, we take lighthouses for granted. They often seem to be an integral part of the shoreline, or stony sentinels growing naturally up out of rocky reefs.
 

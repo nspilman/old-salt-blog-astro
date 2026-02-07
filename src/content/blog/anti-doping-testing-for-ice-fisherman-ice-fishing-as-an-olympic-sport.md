@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Another post to be filed in the category \"you can’t make this stuff up.\"  There is an article today on the front page of the New York Times titled, \"Dope Tests in Ice Fishing? No, Beer Doesn’t Count.\"   It reports that … Continue reading &rarr;"
 ---
 
-![Photo: Darren Hauck for The New York Time](http://www.oldsaltblog.com/wp-content/uploads/2013/02/YJPICEFISHING1.jpg)
+![Photo: Darren Hauck for The New York Time](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/YJPICEFISHING1.jpg)
 
 Photo: Darren Hauck for The New York Time
 

@@ -13,12 +13,12 @@ tags:
   - "MN Pelican"
   - "Wing Sail Mobility"
   - "WISAMO"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/michelinIWS.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/michelinIWS.jpg"
 author: "Rick Spilman"
 description: "Last year, we posted about French tire manufacturer Michelin’s Wing Sail Mobility (WISAMO) project design that features an automated, telescopic, inflatable wing sail system, which is expected to reduce fuel consumption by up to 20%. The project is taking a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/michelinIWS.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/michelinIWS.jpg)
 
 Last year, we posted about French tire manufacturer Michelin’s [Wing Sail Mobility (WISAMO) project](https://www.oldsaltblog.com/2021/06/michelins-wing-sail-mobility-wisamo-project-features-inflatable-wing-sails/) design that features an automated, telescopic, inflatable wing sail system, which is expected to reduce fuel consumption by up to 20%.
 

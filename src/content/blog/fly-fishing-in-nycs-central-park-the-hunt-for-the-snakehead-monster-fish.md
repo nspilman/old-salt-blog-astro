@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "When I think of fly fishing, the wilder rivers of North Carolina come to mind, or even Hemingway’s Big Two Hearted River, in Michigan.  I don’t think of Central Park, which is literally the center of New York City, a … Continue reading &rarr;"
 ---
 
-![snakehead](http://www.oldsaltblog.com/wp-content/uploads/2013/05/snakehead.jpg)
+![snakehead](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/snakehead.jpg)
 
 Photo: Ed Wray/AP
 

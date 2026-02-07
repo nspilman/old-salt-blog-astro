@@ -12,12 +12,12 @@ tags:
   - "Milky Way"
   - "NASA"
   - "NGC 2264"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/christmastreecluster.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/christmastreecluster.jpg"
 author: "Rick Spilman"
 description: "Merry Christmas! Here is a composite image and video of NGC 2264, also known as the \"Christmas Tree Cluster,\" that shows the shape of a cosmic tree with the glow of stellar lights. According to NASA:  NGC 2264 is, in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/christmastreecluster.jpg)Merry Christmas! Here is a composite image and video of NGC 2264, also known as the “[Christmas Tree Cluster](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory),” that shows the shape of a cosmic tree with the glow of stellar lights.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/christmastreecluster.jpg)Merry Christmas! Here is a composite image and video of NGC 2264, also known as the “[Christmas Tree Cluster](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory),” that shows the shape of a cosmic tree with the glow of stellar lights.
 
 According to [NASA](https://www.nasa.gov/image-article/telescopes-illuminate-christmas-tree-cluster/):  NGC 2264 is, in fact, a cluster of young stars — with ages between about one and five million years old — in our Milky Way about 2,500 light-years away from Earth. The stars in NGC 2264 are both smaller and larger than the Sun, ranging from some with less than a tenth of the mass of the Sun to others containing about seven solar masses.
 

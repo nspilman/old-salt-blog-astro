@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Happy Trafalgar Day, one day late. A story for Trafalgar Day, plus one. When one of the masts of Nelson’s flagship HMS Victory was removed for restoration work, a conservator found a Victorian-era coin that had been placed beneath the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/mastcoin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/mastcoin.jpg)
 
 The coin was found by Diana Davis, head of conservation at the National Museum of the Royal Navy, Photo: PA Media
 

@@ -13,12 +13,12 @@ tags:
   - "Connecticut River"
   - "Connecticut River Museum"
   - "Onrust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/onrust1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/onrust1.jpg"
 author: "Rick Spilman"
 description: "In 1614, the Onrust, captained by Dutch merchant explorer Adriaen Block, was the first European vessel to explore the Connecticut River. This summer, a replica of Block’s ship is returning to the river in a collaboration between the Connecticut River Museum in Essex, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/onrust1.jpg)In 1614, the [*Onrust*](https://en.wikipedia.org/wiki/Onrust), captained by Dutch merchant explorer [Adriaen Block](https://en.wikipedia.org/wiki/Adriaen_Block), was the first European vessel to explore the Connecticut River. This summer, a replica of Block’s ship is returning to the river in a collaboration between the [Connecticut River Museum](http://www.ctrivermuseum.org) in Essex, CT and the [Onrust Projec](http://www.theonrust.com/)t, offering [cruises on the river and educational programming at dockside.](http://www.ctrivermuseum.org/cruises-aboard-onrust/)   
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/onrust1.jpg)In 1614, the [*Onrust*](https://en.wikipedia.org/wiki/Onrust), captained by Dutch merchant explorer [Adriaen Block](https://en.wikipedia.org/wiki/Adriaen_Block), was the first European vessel to explore the Connecticut River. This summer, a replica of Block’s ship is returning to the river in a collaboration between the [Connecticut River Museum](http://www.ctrivermuseum.org) in Essex, CT and the [Onrust Projec](http://www.theonrust.com/)t, offering [cruises on the river and educational programming at dockside.](http://www.ctrivermuseum.org/cruises-aboard-onrust/)   
 
 The original *Onrust* was built by Block and his crew in the winter of 1614 somewhere in New York harbor. The ship, [*Tyger*](https://en.wikipedia.org/wiki/Tyger_\(ship\)) , on which Block had sailed from Holland to New York, had been destroyed by fire the previous winter.  *Onrust* , which means “restless” in Dutch, was the first ship to be built in what is now New York State. Sailing the *Onrust* into Long Island Sound, along the coast of Rhode Island and on to Cape Cod, Block drew the first accurate charts of the southern New England coast. In October of 1614, Block rendezvoused with another Dutch ship on Cape Cod and sailed back to the Netherlands.  The *Onrust*, however, would go on to be used to 1616 to explore the Delaware River under the command of Cornelius Hendrickson. 
 

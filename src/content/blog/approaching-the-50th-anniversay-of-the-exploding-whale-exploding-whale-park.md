@@ -10,12 +10,12 @@ tags:
   - "Exploding Whale Park"
   - "Florence"
   - "Oregon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/explodingwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/explodingwhale.jpg"
 author: "Rick Spilman"
 description: "Fifty years ago this November,  the residents of Florence, Oregon learned how not to dispose of a dead whale. Now, a half-century later they have named a park after that lesson. The residents have recently chosen to name a local … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/explodingwhale.jpg)Fifty years ago this November,  the residents of Florence, Oregon [learned how not to dispose of a dead whale](http://www.oldsaltblog.com/2011/10/how-not-to-dispose-of-a-dead-whale/). Now, a half-century later they have named a park after that lesson. The residents have recently chosen to name a local recreational area “Exploding Whale Memorial Park.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/explodingwhale.jpg)Fifty years ago this November,  the residents of Florence, Oregon [learned how not to dispose of a dead whale](http://www.oldsaltblog.com/2011/10/how-not-to-dispose-of-a-dead-whale/). Now, a half-century later they have named a park after that lesson. The residents have recently chosen to name a local recreational area “Exploding Whale Memorial Park.”
 
 On November 9, 1970, a [45-foot  long, 8-ton whale, described variously as a gray or sperm whale](https://en.wikipedia.org/wiki/Exploding_whale#Oregon), washed ashore at Florence on the central Oregon Coast.  At the time, Oregon beaches were under the jurisdiction of the state’s Highway Division, which, after consulting with the United States Navy, decided to remove the whale using dynamite – assuming that the resulting pieces would be small enough for scavenger animals to consume.
 

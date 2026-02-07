@@ -11,12 +11,12 @@ tags:
   - "container ship"
   - "Ingalls Shipbuilding"
   - "USS Fitzgerald"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg"
 author: "Rick Spilman"
 description: "On June 17, 2017, the Arleigh Burke-class destroyer, USS Fitzgerald, collided with the container ship  ACX Crystal near Toyko Bay off the coast of Japan. Seven US sailors died in the collision and at least three more were injured, including … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg)
 
 USS Fitzgerald after collision
 

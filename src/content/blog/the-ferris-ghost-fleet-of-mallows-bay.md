@@ -14,12 +14,12 @@ tags:
   - "Mallows Bay"
   - "wooden steamship"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/ferris.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/ferris.jpg"
 author: "Rick Spilman"
 description: "While the Ferris fleet of wooden steamships was not successful, the standardized shipbuilding programs developed in World War I did provide a model for the highly successful construction of 2,710 Liberty ships between 1941 and 1945.  "
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/ferris.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/ferris.jpg)
 
 Ferris steamship
 

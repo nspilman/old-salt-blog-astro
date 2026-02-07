@@ -12,12 +12,12 @@ tags:
   - "incubation"
   - "sand temperature"
   - "sea turtles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/seaturtle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/seaturtle.jpg"
 author: "Rick Spilman"
 description: "Climate change is threatening the future of sea turtles. Whereas the gender of most animals is determined at fertilization, the sex of most turtles, as well as alligators, and crocodiles is determined by the temperature of the developing eggs. The hotter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/seaturtle.jpg)Climate change is threatening the future of sea turtles. Whereas the gender of most animals is determined at fertilization, the sex of most [turtles](https://oceanservice.noaa.gov/facts/turtle-hatch.html), as well as alligators, and crocodiles is determined by the temperature of the developing eggs. The hotter the sand where the eggs are buried, the more female turtles are hatched. Recent heat waves have caused the sand on some beaches in Florida to get so hot that nearly every turtle born was female.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/seaturtle.jpg)Climate change is threatening the future of sea turtles. Whereas the gender of most animals is determined at fertilization, the sex of most [turtles](https://oceanservice.noaa.gov/facts/turtle-hatch.html), as well as alligators, and crocodiles is determined by the temperature of the developing eggs. The hotter the sand where the eggs are buried, the more female turtles are hatched. Recent heat waves have caused the sand on some beaches in Florida to get so hot that nearly every turtle born was female.
 
 [Reuters](https://www.reuters.com/business/environment/hotter-summers-mean-floridas-turtles-are-mostly-born-female-2022-08-01/#:~:text=If%20a%20turtle's%20eggs%20incubate,NOAA'S%20National%20Ocean%20Service%20website.) quotes Bette Zirkelbach, manager of the [Turtle Hospital](https://www.turtlehospital.org/) in Marathon in the Florida Keys, saying, “The frightening thing is the last four summers in Florida have been the hottest summers on record.”
 

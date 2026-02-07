@@ -12,12 +12,12 @@ tags:
   - "Four Star Admiral"
   - "Franchetti"
   - "Joint Chiefs of Staff"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/AdmFCNO.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/AdmFCNO.jpg"
 author: "Rick Spilman"
 description: "Adm. Lisa Franchetti was sworn in as the 33rd Chief of Naval Operations (CNO), the highest-ranking officer of the United States Navy, on Nov. 2, 2023. Her confirmation made Franchetti not only the first woman to become the CNO and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/AdmFCNO.jpg)Adm. Lisa Franchetti was sworn in as the 33rd Chief of Naval Operations (CNO), the highest-ranking officer of the United States Navy, on Nov. 2, 2023.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/AdmFCNO.jpg)Adm. Lisa Franchetti was sworn in as the 33rd Chief of Naval Operations (CNO), the highest-ranking officer of the United States Navy, on Nov. 2, 2023.
 
 Her confirmation made Franchetti not only the first woman to become the CNO and the first woman on the Joint Chiefs of Staff, but also the first CNO who was commissioned through the Naval Reserve Officer Training Corps (NROTC) program.
 

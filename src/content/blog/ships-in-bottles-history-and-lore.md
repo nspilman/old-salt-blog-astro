@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A Facebook video by my friend Frank Hanavan showing him inserting a ship in a bottle (after the page break) got me thinking about, well, ships in bottles. When, where and why did sailors start putting ships in bottles? After … Continue reading &rarr;"
 ---
 
-![Ship in a bottle -- 1784](http://www.oldsaltblog.com/wp-content/uploads/2016/01/sib1789.jpg)
+![Ship in a bottle -- 1784](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/sib1789.jpg)
 
 Ship in a bottle — 1784
 

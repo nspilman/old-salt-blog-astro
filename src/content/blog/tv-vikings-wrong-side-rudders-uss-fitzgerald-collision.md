@@ -13,12 +13,12 @@ tags:
   - "right of way"
   - "rudder"
   - "starboard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/vikwrongrudder.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/vikwrongrudder.jpg"
 author: "Rick Spilman"
 description: "Vikings is a History Channel series that follows the exploits of  the legendary Viking leader Ragnar Lodbrok. It is basically lots of fun, with swords and axes flying, supported by a fair share of intrigue and drama, the sort of show that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/vikwrongrudder.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/vikwrongrudder.jpg)
 
 Wrong-side rudder
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As cruise ships grow ever larger safety professionals have questioned whether passengers will be able to get to the life boats in time in case of an  emergency. (See Captain D. Peter Boucher’s BIGGER IS BETTER – NOT on his Nautical Log blog for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/jewelotseas.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/jewelotseas.jpg)
 
 Jewel of the Seas
 

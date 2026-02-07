@@ -14,12 +14,12 @@ tags:
   - "mother ship"
   - "semi-autonomous"
   - "Zhu Hai Yun"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/drone-mother-ship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/drone-mother-ship.jpg"
 author: "Rick Spilman"
 description: "China has launched a semi-autonomous unmanned research vessel designed to serve as a \"mother ship\" for more than 50 unmanned aircraft, surface vessels, and submersible drones. The 290-foot Zhu Hai Yun is intended to deploy unmanned devices en masse for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/drone-mother-ship.jpg)China has launched a semi-autonomous unmanned research vessel designed to serve as a “mother ship” for more than 50 unmanned aircraft, surface vessels, and submersible drones.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/drone-mother-ship.jpg)China has launched a semi-autonomous unmanned research vessel designed to serve as a “mother ship” for more than 50 unmanned aircraft, surface vessels, and submersible drones.
 
 The 290-foot *Zhu Hai Yun* is intended to deploy unmanned devices en masse for a 3D, networked observation system, above and below the surface – an “Intelligent and Agile Ocean Stereoscopic Observation System” covering an area about 50 nm in diameter.
 

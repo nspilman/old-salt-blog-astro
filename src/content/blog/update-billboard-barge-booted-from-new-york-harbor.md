@@ -10,12 +10,12 @@ categories:
 tags:
   - "Ballyhoo Media"
   - "Billboard Barge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg"
 author: "Rick Spilman"
 description: "Roughly a year ago, a tug pulling a barge carrying a double-sided 60 foot long LED screen blasting animated, high-definition digital ads for everything from beer to movies, appeared on the Hudson and East Rivers, threatening to turn the riverscape … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg)Roughly a year ago, a tug pulling a barge carrying a double-sided 60 foot long LED screen blasting animated, high-definition digital ads for everything from beer to movies, appeared on the Hudson and East Rivers, threatening to turn the riverscape into another neon Times Square. The company which operated the barge, Ballyhoo Media, proclaimed their barge “the future of digital billboard advertising.” Many New Yorkers considered it to be a nuisance and an eyesore. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg)Roughly a year ago, a tug pulling a barge carrying a double-sided 60 foot long LED screen blasting animated, high-definition digital ads for everything from beer to movies, appeared on the Hudson and East Rivers, threatening to turn the riverscape into another neon Times Square. The company which operated the barge, Ballyhoo Media, proclaimed their barge “the future of digital billboard advertising.” Many New Yorkers considered it to be a nuisance and an eyesore. 
 
 Since then there have been [lawsuits and legislation to restrict the barge](http://www.oldsaltblog.com/2019/08/no-times-square-on-the-hudson-new-york-state-bans-barges-with-electronic-billboards/) and the others like it. At the same time, the Ballyhoo CEO Adam Shapiro promised to fight back and indeed flout the actions taken against the floating advertizements. 
 

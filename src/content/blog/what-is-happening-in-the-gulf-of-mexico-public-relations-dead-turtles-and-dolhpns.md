@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Hundreds of dead dolphins and sea turtles are washing ashore on the beaches of the Gulf of Mexico.  No one knows exactly what is killing them though  many point to the BP Deepwater Horizon oil spill of a year ago.   In the mean … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/ddolphin-100x69.jpg)Hundreds of dead dolphins and sea turtles are washing ashore on the beaches of the Gulf of Mexico.  No one knows exactly what is killing them though  many point to the BP Deepwater Horizon oil spill of a year ago.   In the mean time, BP is spending roughly $100 million in advertising to “clean up” its image.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/ddolphin-100x69.jpg)Hundreds of dead dolphins and sea turtles are washing ashore on the beaches of the Gulf of Mexico.  No one knows exactly what is killing them though  many point to the BP Deepwater Horizon oil spill of a year ago.   In the mean time, BP is spending roughly $100 million in advertising to “clean up” its image.
 
 [Dolphin Deaths Designated An ‘Unusual Mortality Event’](http://www.redorbit.com/news/science/2027008/dolphin_deaths_designated_an_unusual_mortality_event/)  
   

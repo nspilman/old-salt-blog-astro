@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Maersk may be on the verge of ordering up to 20 of the largest container ships ever built,  18,000 TEU (Twenty-foot Equivalent Units).  The largest container ships now in service are capable of carrying roughly 15,000 containers.   Analysts have identified 18,000 TEU ships as the largest container … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/emma2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/emma2.jpg)
 
 Emma Maersk, currently the largst container ship.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Lake Champlain Maritime Museum is hosting an Archeology Weekend tomorrow and Sunday. it will include  presentations on Lake Champlain shipwrecks and feature some of their latest explorations including early steamboats, gunboats, sailing vessels and canal boats. There will be special demonstrations in … Continue reading &rarr;"
 ---
 
-![sloop_wheel_sm](http://www.oldsaltblog.com/wp-content/uploads/2009/09/sloop_wheel_sm.jpg)The Lake Champlain Maritime Museum is hosting an Archeology Weekend tomorrow and Sunday. it will include  presentations on Lake Champlain shipwrecks and feature some of their latest explorations including early steamboats, gunboats, sailing vessels and canal boats. There will be special demonstrations in the Conservation Lab, lectures and films and presentations on what threatens the lake’s collection of shipwrecks and what you can do to help protect and preserve underwater cultural resources.
+![sloop_wheel_sm](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/sloop_wheel_sm.jpg)The Lake Champlain Maritime Museum is hosting an Archeology Weekend tomorrow and Sunday. it will include  presentations on Lake Champlain shipwrecks and feature some of their latest explorations including early steamboats, gunboats, sailing vessels and canal boats. There will be special demonstrations in the Conservation Lab, lectures and films and presentations on what threatens the lake’s collection of shipwrecks and what you can do to help protect and preserve underwater cultural resources.
 
 [Archeology Weekend – September 26-27, 2009](http://www.lcmm.org/museum_info/special_events.htm)  
   

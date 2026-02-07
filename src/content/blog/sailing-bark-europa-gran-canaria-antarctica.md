@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A video for a Sunday morning. Filmmaker Frank Oly joined the bark Europa on a voyage from Gran Canaria to Antarctica. He stayed on board for 3 months and filmed this experience. Europa is a steel-hulled barque registered in the Netherlands. Built … Continue reading &rarr;"
 ---
 
-![europa](http://www.oldsaltblog.com/wp-content/uploads/2016/08/europa.jpg)A video for a Sunday morning. Filmmaker Frank Oly joined the bark *Europa* on a voyage from Gran Canaria to Antarctica. He stayed on board for 3 months and filmed this experience. *Europa* is a steel-hulled barque registered in the Netherlands. Built as a lightship in 1911, she was converted to a bark in 1994.  
+![europa](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/europa.jpg)A video for a Sunday morning. Filmmaker Frank Oly joined the bark *Europa* on a voyage from Gran Canaria to Antarctica. He stayed on board for 3 months and filmed this experience. *Europa* is a steel-hulled barque registered in the Netherlands. Built as a lightship in 1911, she was converted to a bark in 1994.  
 Europa cruises worldwide and accepts paying voyage crew for short or long trip segments, including ocean crossings, Sail Training Association races, and annual voyages to Antarctica, and between South Georgia, Tristan da Cunha, and Cape Town.
 
 <iframe src="https://www.youtube.com/embed/UacVhIBmgIE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

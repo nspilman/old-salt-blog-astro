@@ -13,8 +13,8 @@ author: "Rick Spilman"
 description: "Last year, John Doswell, the Executive Director of  New York’s Working Harbor Committee, died after a long illness. The Committee is now seeking an Executive Director to continue the great work that John and his colleagues have undertaken. For those interested, click … Continue reading &rarr;"
 ---
 
-![whcbanner](http://www.oldsaltblog.com/wp-content/uploads/2016/04/whcbanner.jpg)Last year, [John Doswell,](http://www.oldsaltblog.com/2015/01/captain-john-w-doswell-the-final-voyage/) the Executive Director of  New York’s [Working Harbor Committee](http://workingharbor.com/), died after a long illness. The Committee is now seeking an Executive Director to continue the great work that John and his colleagues have undertaken. For those interested, click on the link below for the complete job description.
+![whcbanner](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/whcbanner.jpg)Last year, [John Doswell,](http://www.oldsaltblog.com/2015/01/captain-john-w-doswell-the-final-voyage/) the Executive Director of  New York’s [Working Harbor Committee](http://workingharbor.com/), died after a long illness. The Committee is now seeking an Executive Director to continue the great work that John and his colleagues have undertaken. For those interested, click on the link below for the complete job description.
 
-[Working Harbor Committee – Executive Director Job Description](http://www.oldsaltblog.com/wp-content/uploads/2016/04/Working-Harbor-Committee-Executive-Director-position-opening.pdf)
+[Working Harbor Committee – Executive Director Job Description](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/Working-Harbor-Committee-Executive-Director-position-opening.pdf)
 
 The Working Harbor Committee is a nonprofit organization with a the goal of strengthening awareness of the working harbor’s history and vitality today, and its opportunities for the future. It seeks to involve people in learning how the harbor works and what it does; to educate about the rich and challenging history of the harbor, and to make people aware of the need to build and sustain the working harbor.

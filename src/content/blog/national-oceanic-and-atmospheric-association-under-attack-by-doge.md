@@ -14,12 +14,12 @@ tags:
   - "Neil Jacobs"
   - "NOAA"
   - "Sharpiegate"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/noaalogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/noaalogo.jpg"
 author: "Rick Spilman"
 description: "The current regime’s attempt to dismantle the US government has reached NOAA, the National Oceanic and Atmospheric Administration. NOAA is the scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/noaalogo.jpg)The current regime’s attempt to dismantle the US government has reached [NOAA](https://www.noaa.gov/), the National Oceanic and Atmospheric Administration. NOAA is the scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, and managing fishing and the protection of marine mammals and endangered species in the US exclusive economic zone. NOAA has long been a [target of climate change deniers.](https://insideclimatenews.org/news/25102020/noaa-climate-denial-david-legates/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/noaalogo.jpg)The current regime’s attempt to dismantle the US government has reached [NOAA](https://www.noaa.gov/), the National Oceanic and Atmospheric Administration. NOAA is the scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, and managing fishing and the protection of marine mammals and endangered species in the US exclusive economic zone. NOAA has long been a [target of climate change deniers.](https://insideclimatenews.org/news/25102020/noaa-climate-denial-david-legates/)
 
 Staffers with Elon Musk’s “Department of Government Efficiency” (DOGE) reportedly entered the headquarters of the NOAA in Silver Spring, Maryland, and the Department of Commerce in Washington DC this week, inciting concerns of downsizing at the agency.
 
@@ -47,7 +47,7 @@ Dr. Jacobs is best known for “[Sharpiegate](https://www.nytimes.com/2025/02/04
 
 Dorian did not reach Alabama. But Dr. Jacobs bowed to that pressure, releasing a statement that called the posting by its Alabama weather office “inconsistent with probabilities from the best forecast products available at the time.” An investigation into the incident later rebuked Dr. Jacobs, saying he had violated the agency’s code of ethics.
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/sharpieggateidiot.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/sharpieggateidiot.jpg)
 
 Photo: Erin Schaff/The New York Times
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Holocaust Remembrance Day, an updated repost, remembering the tragic voyage of the German passenger liner St. Louis in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany. The ship and its passengers departed from Hamburg but were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/stlouis3.jpg)On [Holocaust Remembrance Day](https://www.ushmm.org/remember/international-holocaust-remembrance-day), an updated repost, remembering the tragic voyage of the [German passenger liner *St. Louis*](https://en.wikipedia.org/wiki/MS_St._Louis) in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/stlouis3.jpg)On [Holocaust Remembrance Day](https://www.ushmm.org/remember/international-holocaust-remembrance-day), an updated repost, remembering the tragic voyage of the [German passenger liner *St. Louis*](https://en.wikipedia.org/wiki/MS_St._Louis) in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany.
 
 The ship and its passengers departed from Hamburg but were denied entry to Cuba, the United States, and Canada. Finally, the ship turned around and returned to Europe. Despite the US government’s refusal to accept the refugees, private Jewish aid groups in the United States did manage to place most of the refugees in Belgium, France, and Holland, to avoid returning them to Nazi Germany. Tragically, many were later captured when the Nazis invaded. Two-hundred-and-fifty-four of the refugees are believed to have died in the German death camps.
 

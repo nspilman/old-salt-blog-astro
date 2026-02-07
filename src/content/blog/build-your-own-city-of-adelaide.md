@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The fate of the oldest composite clipper ship in the world, the City of Adelaide, has yet to b determined.  In the mean time, former TV host and science educator, Dr. Rob Morrison, has designed a simple paper pattern that … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/adelaidebottle.jpg)](http://www.adelaidenow.com.au/news/in-depth/help-bottle-the-clipper-city-of-adelaide/story-e6frebyl-1225897242036)The fate of the oldest composite clipper ship in the world, the *[City of Adelaide](http://cityofadelaide.org.au/),* has yet to b determined.  In the mean time, former TV host and science educator, Dr. Rob Morrison, has designed a simple paper pattern that students can cut out and put together in class, building their very own *City of Adelaide* ship-in-a-bottle.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/adelaidebottle.jpg)](http://www.adelaidenow.com.au/news/in-depth/help-bottle-the-clipper-city-of-adelaide/story-e6frebyl-1225897242036)The fate of the oldest composite clipper ship in the world, the *[City of Adelaide](http://cityofadelaide.org.au/),* has yet to b determined.  In the mean time, former TV host and science educator, Dr. Rob Morrison, has designed a simple paper pattern that students can cut out and put together in class, building their very own *City of Adelaide* ship-in-a-bottle.
 
 [Help bottle the clipper City of Adelaide](http://www.adelaidenow.com.au/news/in-depth/help-bottle-the-clipper-city-of-adelaide/story-e6frebyl-1225897242036)  
   

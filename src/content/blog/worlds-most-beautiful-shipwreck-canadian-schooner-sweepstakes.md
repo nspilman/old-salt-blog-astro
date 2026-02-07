@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "In Big Tub Harbour, just off Canada’s Georgian Bay, near the entrance to Lake Huron, lies the wreck of the schooner Sweepstakes, which sank in 1885. She is 119′ long with a 23′ beam and a 10′ depth of hold. Just twenty feet below the surface, … Continue reading &rarr;"
 ---
 
-![sweepstakes1](http://www.oldsaltblog.com/wp-content/uploads/2013/03/sweepstakes1.jpg)
+![sweepstakes1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/sweepstakes1.jpg)
 
 In Big Tub Harbour, just off Canada’s Georgian Bay, near the entrance to Lake Huron, lies the wreck of the schooner Sweepstakes, which sank in 1885. She is 119′ long with a 23′ beam and a 10′ depth of hold. Just twenty feet below the surface, she is considered by many to be the world’s most beautiful shipwreck.  Whether or not that title can safely be bestowed on any particular wreck, she is a beauty, remarkably well preserved in the crystalline waters of the lake.  Big Tub Harbor and the wreck of the Sweepstakes are now part of the Canada’s [Fathom Five National Marine Park](http://www.pc.gc.ca/amnc-nmca/on/fathomfive/index.aspx)  near the town of [Tobermory, Ontario.](http://www.tobermory.org/page/home/Tobermory_Welcomes_You)
 

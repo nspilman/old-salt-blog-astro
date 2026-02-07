@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In the beginning of February, we posted about Paul Cuffee, one of the first African-American ship captains and ship owners.  In honor of Captain Cuffee, the New Bedford Whaling Museum will be breaking ground on the Captain Paul Cuffe Park, on March … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/paulcuffee.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/paulcuffee.jpg)
 
 Captain Paul Cuffee
 

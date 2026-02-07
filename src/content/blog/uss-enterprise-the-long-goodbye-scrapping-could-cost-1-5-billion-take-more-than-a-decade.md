@@ -12,12 +12,12 @@ tags:
   - "General Accounting Office"
   - "scrapping"
   - "world's first nuclear-powered aircraft carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/bige.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/bige.jpg"
 author: "Rick Spilman"
 description: "We recently posted about how the US Navy’s last two non-nuclear carriers were sold for scrap for the modest sum of one cent each. By some standards, that was not such a bad deal.  A recent report by the General … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/bige.jpg)We recently posted about how the US Navy’s [last two non-nuclear carriers were sold for scrap](https://www.oldsaltblog.com/2021/10/last-conventionally-powered-carriers-kitty-hawk-john-f-kennedy-sold-for-a-penny-each/) for the modest sum of one cent each. By some standards, that was not such a bad deal.  A recent report by the General Accounting Office (GAO) says that it could cost the Navy more than $1.5 billion to fully dispose of the retired ex-[USS *Enterprise*](https://en.wikipedia.org/wiki/USS_Enterprise_\(CVN-65\)), a complete process that could take more than an additional decade to finish.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/bige.jpg)We recently posted about how the US Navy’s [last two non-nuclear carriers were sold for scrap](https://www.oldsaltblog.com/2021/10/last-conventionally-powered-carriers-kitty-hawk-john-f-kennedy-sold-for-a-penny-each/) for the modest sum of one cent each. By some standards, that was not such a bad deal.  A recent report by the General Accounting Office (GAO) says that it could cost the Navy more than $1.5 billion to fully dispose of the retired ex-[USS *Enterprise*](https://en.wikipedia.org/wiki/USS_Enterprise_\(CVN-65\)), a complete process that could take more than an additional decade to finish.
 
 The *Enterprise* (CVN-65), nicknamed the Big ‘E,’ was the world’s first nuclear-powered aircraft carrier when it was commissioned on November 25, 1961.  Likewise, the ship is the first nuclear-powered aircraft carrier to be scrapped. The Navy is still weighing its options as to what to do with the Big ‘E.’
 

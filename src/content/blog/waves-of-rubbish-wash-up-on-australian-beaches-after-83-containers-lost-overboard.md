@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last week, the YM Efficiency, a 4250 TEU container ship bound from Taiwan to Sydney, Australia lost 83 containers in heavy seas while 30km off the coast of Port Stephens. In addition to the containers lost overboard, 30 other containers were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/containersoverbaord.jpg)Last week, the [*YM* *Efficiency*](https://maritimebulletin.net/2018/06/01/container-ship-ym-efficiency-lost-80-containers-off-newcastle-australia/), a 4250 TEU container ship bound from Taiwan to Sydney, Australia lost 83 containers in heavy seas while 30km off the coast of Port Stephens. In addition to the containers lost overboard, 30 other containers were damaged. Now waves of rubbish are washing ashore on the pristine beaches of New South Wales. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/containersoverbaord.jpg)Last week, the [*YM* *Efficiency*](https://maritimebulletin.net/2018/06/01/container-ship-ym-efficiency-lost-80-containers-off-newcastle-australia/), a 4250 TEU container ship bound from Taiwan to Sydney, Australia lost 83 containers in heavy seas while 30km off the coast of Port Stephens. In addition to the containers lost overboard, 30 other containers were damaged. Now waves of rubbish are washing ashore on the pristine beaches of New South Wales. 
 
 “There has been mountains and mountains of rubbish and debris washing in,” one volunteer involved in the clean-up, Julie Simms, told [Nine News](https://www.9news.com.au/national/2018/06/04/12/38/nsw-beaches-debris-shipping-containers-fell-into-ocean). “It is plastic, car parts, lolly wrappers, drink bottles – just plastic and more plastic.”
 

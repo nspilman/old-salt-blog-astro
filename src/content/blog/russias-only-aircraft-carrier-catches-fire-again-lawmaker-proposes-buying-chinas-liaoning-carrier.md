@@ -16,12 +16,12 @@ tags:
   - "Russian lawmaker"
   - "Sergey Karginov"
   - "Varyag"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg"
 author: "Rick Spilman"
 description: "Russia’s only aircraft carrier, Admiral Kuznetsov, has been out of service for years while undergoing maintenance for chronic operational problems. In just the most recent mishap, a fire broke out on the carrier, a few days before Christmas, while undergoing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg)Russia’s only aircraft carrier, [*Admiral Kuznetsov*](https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov), has been out of service for years while undergoing maintenance for chronic operational problems. In just the most recent mishap, [a fire broke out on the carrier](https://abcnews.go.com/International/wireStory/russias-sole-aircraft-carrier-catches-fire-95701155), a few days before Christmas, while undergoing repair work at a shipyard in the Arctic port of Murmansk, according to reports by the Russian state Tass and RIA Novosti news agencies. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg)Russia’s only aircraft carrier, [*Admiral Kuznetsov*](https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov), has been out of service for years while undergoing maintenance for chronic operational problems. In just the most recent mishap, [a fire broke out on the carrier](https://abcnews.go.com/International/wireStory/russias-sole-aircraft-carrier-catches-fire-95701155), a few days before Christmas, while undergoing repair work at a shipyard in the Arctic port of Murmansk, according to reports by the Russian state Tass and RIA Novosti news agencies. 
 
 *Admiral Kuznetsov*’s ongoing overhaul, which began in 2017 and was initially set to conclude last year, has been beset by failures and accidents. In 2018, the ship was damaged when a crane collapsed as a floating drydock sank beneath the ship. Reportedly, one person died and four were injured in the mishap. 
 

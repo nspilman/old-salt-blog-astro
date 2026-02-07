@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last month, the former captain of the destroyer USS Mustin, a Navy special agent and a Singapore-based defense contractor were charged in an alleged bribery scheme to swap classified ship information for luxury travel and prostitutes. Cmdr. Michael Vannak Khem … Continue reading &rarr;"
 ---
 
-![dusek](http://www.oldsaltblog.com/wp-content/uploads/2013/10/dusek.jpg)
+![dusek](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/dusek.jpg)
 
 Capt. Daniel Dusek
 

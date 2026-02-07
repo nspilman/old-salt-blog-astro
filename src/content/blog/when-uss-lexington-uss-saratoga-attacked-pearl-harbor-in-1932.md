@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "When was the first surprise attack by carrier aircraft on the US naval base at Pearl Harbor, Hawaii? The obvious answer is the Japanese carrier attack of December 7th, 1941. But what about February 7th, 1932?  We posted yesterday about … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/usslex1.jpg)When was the first surprise attack by carrier aircraft on the US naval base at Pearl Harbor, Hawaii? The obvious answer is the Japanese carrier attack of December 7th, 1941. But what about February 7th, 1932? 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/usslex1.jpg)When was the first surprise attack by carrier aircraft on the US naval base at Pearl Harbor, Hawaii? The obvious answer is the Japanese carrier attack of December 7th, 1941. But what about February 7th, 1932? 
 
 [We posted yesterday about the recent discovery](http://www.oldsaltblog.com/2018/03/world-war-ii-aircraft-carrier-uss-lexington-found-in-coral-sea-after-76-years/) of the wreck of the USS *Lexington*. Here is a fascinating bit of forgotten history about the “Lady Lex” and her sister carrier, USS *Saratoga*.
 

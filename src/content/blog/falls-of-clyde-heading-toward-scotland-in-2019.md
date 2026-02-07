@@ -10,12 +10,12 @@ tags:
   - "Hawaii"
   - "Save-the-Falls of Clyde International"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/focfigurehead.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/focfigurehead.jpg"
 author: "Rick Spilman"
 description: "Save-the-Falls of Clyde International has made a dramatic announcement on their Facebook page suggesting that transport has been arranged to carry the four-masted, full-rigged, iron ship from Hawaii back to the Clyde River in Scotland, where it was built in 1878.   … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/focfigurehead-1.jpg)Save-the-Falls of Clyde International](https://www.facebook.com/savefallsofclyde/) has made a dramatic announcement on their Facebook page suggesting that transport has been arranged to carry the four-masted, full-rigged, iron ship from Hawaii back to the Clyde River in Scotland, where it was built in 1878.  
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/focfigurehead-1.jpg)Save-the-Falls of Clyde International](https://www.facebook.com/savefallsofclyde/) has made a dramatic announcement on their Facebook page suggesting that transport has been arranged to carry the four-masted, full-rigged, iron ship from Hawaii back to the Clyde River in Scotland, where it was built in 1878.  
 
 “*After many months of negotiation, a deal has finally agreed between this group and Sevenstar Yacht Transfer, to collect the ‘Falls of Clyde’. She will be loaded onboard their flo/flo ship, ‘Yacht Express ‘ during the week 3rd February 2019. She will visit San Diego, Costa Rico, Florida, and New York during her way home to Scotland, arriving April 2019.*”
 

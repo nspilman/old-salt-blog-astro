@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "An Italian court has convicted five people of manslaughter related to the sinking of the cruise ship Costa Concordia in January 2012, which killed 32 passengers and crew.  Each of the five agreed to plea bargains and none may serving … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/costaconcordia.jpg)An Italian court has convicted five people of manslaughter related to the sinking of the cruise ship *Costa Concordia* in January 2012, which killed 32 passengers and crew.  Each of the five agreed to plea bargains and none may serving jail time.  Captain Schettino is being tried separately. His trial is ongoing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costaconcordia.jpg)An Italian court has convicted five people of manslaughter related to the sinking of the cruise ship *Costa Concordia* in January 2012, which killed 32 passengers and crew.  Each of the five agreed to plea bargains and none may serving jail time.  Captain Schettino is being tried separately. His trial is ongoing.
 
 [Five guilty in Costa Concordia trial](http://www.bbc.co.uk/news/world-europe-23388680)
 

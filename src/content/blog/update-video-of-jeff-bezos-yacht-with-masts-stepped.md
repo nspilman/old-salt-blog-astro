@@ -14,7 +14,7 @@ tags:
   - "Oceanco shipyard"
   - "Rotterdam"
   - "three-masted sailing yacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/bezosboatmasts.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/bezosboatmasts.jpg"
 author: "Rick Spilman"
 description: "Last week, we posted about how the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos was towed out of the Oceanco shipyard in Rotterdam under the cover of darkness and moved to a shipyard in Greenport. The three masts … Continue reading &rarr;"
 ---

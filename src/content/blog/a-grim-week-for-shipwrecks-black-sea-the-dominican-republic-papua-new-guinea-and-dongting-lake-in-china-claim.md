@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "It is easy to focus of the plight of the 34 dead or missing from the Costa Concordia.  Regrettably, these casualties have not been the only recent deaths on the water. The past week has been particularly brutal with ship and boat sinkings in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/papua-2_2127015b.jpg)It is easy to focus of the plight of the 34 dead or missing from the *Costa Concordia.*  Regrettably, these casualties have not been the only recent deaths on the water. The past week has been particularly brutal with ship and boat sinkings in the Black Sea, off the Dominican Republic, Papua New Guinea and Dongting Lake in China.  A quick run-down of one grim week’s loss of life:  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/papua-2_2127015b.jpg)It is easy to focus of the plight of the 34 dead or missing from the *Costa Concordia.*  Regrettably, these casualties have not been the only recent deaths on the water. The past week has been particularly brutal with ship and boat sinkings in the Black Sea, off the Dominican Republic, Papua New Guinea and Dongting Lake in China.  A quick run-down of one grim week’s loss of life:  
   
 January 31 –  [Nine are dead and two are missing after a boat carrying seventeen people](http://www.chinadaily.com.cn/china/2012-02/06/content_14544568.htm) capsized in high winds on a tributary of the Dongting Lake, China’s second-largest freshwater lake in Central China’s Hunan province.
 

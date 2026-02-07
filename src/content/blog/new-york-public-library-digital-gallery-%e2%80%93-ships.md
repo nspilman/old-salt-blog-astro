@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "If you are like me, relatively busy yet easily distracted and very fond of paintings, drawings and old photos of ships, you should probably skip this post.  The New York Public Library Digital galley has a wonderful collection of  drawings, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/barkswallow-150x122.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/barkswallow-150x122.jpg)
 
 Bark Swallow
 

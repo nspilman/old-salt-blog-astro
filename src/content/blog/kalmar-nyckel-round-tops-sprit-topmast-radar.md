@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Kalmar Nyckel is a replica of a Dutch built pinnance which carried Swedish settlers to North America in 1638 to establish the colony of New Sweden."
 ---
 
-[![Click for a larger image](http://www.oldsaltblog.com/wp-content/uploads/2014/11/klsprittopmastcc-200x150.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/11/klsprittopmastcc.jpg)
+[![Click for a larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/klsprittopmastcc-200x150.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/klsprittopmastcc.jpg)
 
 Click for a larger image
 
@@ -26,7 +26,7 @@ The *Kalmar Nyckel* is a replica of a [Dutch built pinnance](http://www.kalmarny
 
 The round tops, which provided a means of supporting the upper masts, are a distinctive feature of ships from the 17th century and earlier.  Another highly distinctive feature is the sprit topmast.  To a modern eye it is the most unlikely of all possible places to stick a mast — right at the end of the bowsprit.
 
-[![Click for a larger image](http://www.oldsaltblog.com/wp-content/uploads/2014/11/knsprittopmast2ccrop-200x120.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/11/knsprittopmast2ccrop.jpg)
+[![Click for a larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/knsprittopmast2ccrop-200x120.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/knsprittopmast2ccrop.jpg)
 
 Click for a larger image
 

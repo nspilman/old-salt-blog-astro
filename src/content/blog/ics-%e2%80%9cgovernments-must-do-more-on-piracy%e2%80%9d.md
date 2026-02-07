@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The International Chamber of Shipping (ICS) issued a statement which we think is right on target. The current policy of disrupting but not consistently apprehending pirates has been a failure. The unacceptable situation prevailing now, with seafarers lives being threatened … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/07/pirateboat-150x101.jpg)The International Chamber of Shipping (ICS) issued a statement which we think is right on target. The current policy of disrupting but not consistently apprehending pirates has been a failure.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/pirateboat-150x101.jpg)The International Chamber of Shipping (ICS) issued a statement which we think is right on target. The current policy of disrupting but not consistently apprehending pirates has been a failure.
 
 *The unacceptable situation prevailing now, with seafarers lives being threatened on a daily basis – and Somali pirates still operating with impunity – cannot be allowed to continue.*
 

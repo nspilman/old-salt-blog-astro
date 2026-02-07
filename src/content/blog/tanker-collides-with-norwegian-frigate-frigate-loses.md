@@ -13,12 +13,12 @@ tags:
   - "Maltese flag"
   - "Norwegian navy frigate"
   - "Sola TS"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/nfrigategrounded.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/nfrigategrounded.jpg"
 author: "Rick Spilman"
 description: "The Norwegian navy frigate, KNM Helge Ingstad, was returning from NATO exercises when it was in a collision with a Maltese flag, Aframax tanker, Sola TS, in the Hjeltefjord near Bergen, Norway. The tanker was not seriously damaged while the frigate suffered major flooding and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/nfrigategrounded.jpg)The Norwegian navy frigate, [KNM *Helge Ingstad*](https://en.wikipedia.org/wiki/HNoMS_Helge_Ingstad_\(F313\)), was returning from NATO exercises when it was in a collision with a Maltese flag, Aframax tanker, [*Sola TS*](https://www.marinetraffic.com/en/ais/details/ships/248020000), in the Hjeltefjord near Bergen, Norway. The tanker was not seriously damaged while the frigate suffered major flooding and was intentionally grounded to avoid the possibility of sinking. Eight people on the KNM *Helge Instad* suffered minor injuries, although only two were taken to a hospital. All 137 crew of the frigate were evacuated. There were no reports of injuries among the 23 of the tanker’s crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/nfrigategrounded.jpg)The Norwegian navy frigate, [KNM *Helge Ingstad*](https://en.wikipedia.org/wiki/HNoMS_Helge_Ingstad_\(F313\)), was returning from NATO exercises when it was in a collision with a Maltese flag, Aframax tanker, [*Sola TS*](https://www.marinetraffic.com/en/ais/details/ships/248020000), in the Hjeltefjord near Bergen, Norway. The tanker was not seriously damaged while the frigate suffered major flooding and was intentionally grounded to avoid the possibility of sinking. Eight people on the KNM *Helge Instad* suffered minor injuries, although only two were taken to a hospital. All 137 crew of the frigate were evacuated. There were no reports of injuries among the 23 of the tanker’s crew.
 
 The [BBC](https://www.bbc.com/news/world-europe-46136564) reports that the collision took place at 4AM local time on Thursday, as the frigate was sailing the inner fjords for training, according to Norwegian officials. The tanker had departed Equinor’s Sture oil terminal with a cargo of North Sea crude. 
 

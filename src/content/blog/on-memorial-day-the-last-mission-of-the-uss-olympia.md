@@ -13,12 +13,12 @@ tags:
   - "unknown soldier"
   - "USS Olympia"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2011/05/olympia2x-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/olympia2x-1.jpg"
 author: "Rick Spilman"
 description: "We have recently posted about attempts to find a home for the USS Olympia, the oldest steel-hulled American warship afloat and Commodore George Dewey’s flagship during the Battle of Manila Bay on May 1, 1898.  On Memorial Day it seems worthwhile … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/USS_Olympia_with_Dewey_at_B.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/USS_Olympia_with_Dewey_at_B.jpg)
 
   
 USS Olympia at the Battle of Manila Bay

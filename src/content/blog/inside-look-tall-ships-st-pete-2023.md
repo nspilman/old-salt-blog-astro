@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Tall Ships St. Pete"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/tallshipsstpete.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/tallshipsstpete.jpg"
 author: "Rick Spilman"
 description: "A short video of the ships participating in the Tall Ships St. Pete 2023 festival.  INSIDE LOOK: Tall Ships St. Pete 2023 … Continue reading &rarr;"
 ---

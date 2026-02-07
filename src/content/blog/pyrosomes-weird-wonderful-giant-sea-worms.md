@@ -12,7 +12,7 @@ tags:
   - "sea pickles"
   - "worms"
   - "zooids"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/pyrosome2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/pyrosome2.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful video of a 26′ long pyrosome, a translucent worm-like creature, videoed off the coast of New Zealand. Pyrosomes, which can grow up to 30′ long are, of course, are not actually worms. They are not even … Continue reading &rarr;"
 ---

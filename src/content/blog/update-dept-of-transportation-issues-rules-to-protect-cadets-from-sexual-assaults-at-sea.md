@@ -15,12 +15,12 @@ tags:
   - "Sea Year"
   - "sexual assault and harassment"
   - "United States Maritime Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/kingspoint1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/kingspoint1.jpg"
 author: "Rick Spilman"
 description: "In early November, we posted that the United States Maritime Academy at King’s Point had paused Sea Year, a program that sent cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/kingspoint1.jpg)In early November, [we posted](https://www.oldsaltblog.com/2021/11/us-merchant-marine-academy-suspends-sea-year-over-sexual-assault-allegations/) that the [United States Maritime Academy](https://en.wikipedia.org/wiki/United_States_Merchant_Marine_Academy) at King’s Point had paused [Sea Year](https://www.usmma.edu/academics/departments/sea-year), a program that sent cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew member while serving at sea. This was the [second suspension of the program in the last six years](https://www.professionalmariner.com/sea-year-suspended-as-marad-usmma-address-sex-harassment/) over allegations of sexual harassment and assault.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/kingspoint1.jpg)In early November, [we posted](https://www.oldsaltblog.com/2021/11/us-merchant-marine-academy-suspends-sea-year-over-sexual-assault-allegations/) that the [United States Maritime Academy](https://en.wikipedia.org/wiki/United_States_Merchant_Marine_Academy) at King’s Point had paused [Sea Year](https://www.usmma.edu/academics/departments/sea-year), a program that sent cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew member while serving at sea. This was the [second suspension of the program in the last six years](https://www.professionalmariner.com/sea-year-suspended-as-marad-usmma-address-sex-harassment/) over allegations of sexual harassment and assault.
 
 Last Wednesday, the Transportation Department announced an overhaul of policies designed to prevent U.S. Merchant Marine Academy cadets from suffering sexual abuse while at sea and plans to resume training on commercial vessels next week.
 

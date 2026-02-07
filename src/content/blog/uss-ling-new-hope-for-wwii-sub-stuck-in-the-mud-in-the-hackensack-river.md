@@ -12,12 +12,12 @@ tags:
   - "Hackensack River"
   - "USS Ling"
   - "War War II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/uss-ling.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uss-ling.jpg"
 author: "Rick Spilman"
 description: "Maritime enthusiasts are attempting to raise money to save the USS Ling, a War War II vintage Balao-class submarine, from a likely date with the scrap yard. They hope to move the submarine from where it is currently stuck in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/uss-ling.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uss-ling.jpg)
 
 Photo: Chang W. Lee/The New York Times
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On Friday, two teen boys went missing off Jupiter, FL. Their boat was found capsized on Sunday night. The Coast Guard continuing the search for the teens."
 ---
 
-![capsized boat](http://www.oldsaltblog.com/wp-content/uploads/2015/07/capsized-boat-200x120.jpg)On Friday, two 14 year old boys went missing in the Atlantic off Jupiter, FL. Their 19′ boat was found capsized on Sunday night. The Coast Guard, and now the Navy, is continuing the search for the teens, Austin Stephanos and Perry Cohen.
+![capsized boat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/capsized-boat-200x120.jpg)On Friday, two 14 year old boys went missing in the Atlantic off Jupiter, FL. Their 19′ boat was found capsized on Sunday night. The Coast Guard, and now the Navy, is continuing the search for the teens, Austin Stephanos and Perry Cohen.
 
 The missing boys reminded me of how easily that could have been me, almost a half century ago. Open water can be such a glorious and also very dangerous place if you are young, adventurous and think that you know what you are doing.
 

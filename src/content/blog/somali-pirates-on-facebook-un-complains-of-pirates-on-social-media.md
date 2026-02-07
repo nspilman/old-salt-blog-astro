@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Are Somali pirates and their affiliates using Facebook to organize and support ship hijackings?  Experts at the United Nations say that this is the case and complain that Facebook has been ignoring their requests for information on Facebook accounts belonging to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/pirates2.jpg)Are Somali pirates and their affiliates using Facebook to organize and support ship hijackings?  Experts at the United Nations say that this is the case and complain that Facebook has been ignoring their requests for information on Facebook accounts belonging to individuals involved in hijackings and hostage-taking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg)Are Somali pirates and their affiliates using Facebook to organize and support ship hijackings?  Experts at the United Nations say that this is the case and complain that Facebook has been ignoring their requests for information on Facebook accounts belonging to individuals involved in hijackings and hostage-taking.
 
 [UN report slams Facebook for ignoring requests for information about suspect Somali pirates using the site](http://www.rawstory.com/rs/2013/07/19/un-report-slams-facebook-for-ignoring-requests-for-information-about-suspect-somali-pirates-using-the-site/)
 

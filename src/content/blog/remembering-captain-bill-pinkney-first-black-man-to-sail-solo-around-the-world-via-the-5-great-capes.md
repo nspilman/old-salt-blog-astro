@@ -11,12 +11,12 @@ tags:
   - "first Black man to sail solo around the world"
   - "Lifetime Achievement Award"
   - "National Sailing Hall of Fame"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/captainbill.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/captainbill.png"
 author: "Rick Spilman"
 description: "We are saddened to learn that Captain William \"Bill\" Pinkney died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes. Captain Pinkney … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/captainbill.png)We are saddened to learn that [Captain William “Bill” Pinkney](https://en.wikipedia.org/wiki/Bill_Pinkney_\(sailor\)) died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/captainbill.png)We are saddened to learn that [Captain William “Bill” Pinkney](https://en.wikipedia.org/wiki/Bill_Pinkney_\(sailor\)) died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes.
 
 Captain Pinkney was in Atlanta, GA serving as an advisor for an upcoming documentary. He [passed away on Thursday morning](https://abc7chicago.com/william-pinkney-captain-bill-death-chicago-news/13723921/#:~:text=Pinkney%20passed%20away%20on%20Thursday,a%20project%20for%20National%20Geographic.) from injuries he suffered after falling down a flight of stairs a few days ago.
 

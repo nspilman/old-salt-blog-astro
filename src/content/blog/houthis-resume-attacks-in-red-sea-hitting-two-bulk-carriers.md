@@ -15,12 +15,12 @@ tags:
   - "MV Magic Seas"
   - "Red Sea"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/magicseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/magicseas.jpg"
 author: "Rick Spilman"
 description: "The Houthis had not attacked a commercial ship in the Red Sea in approximately seven months. That lull ended on Sunday and Monday when two bulk carriers were struck by gunfire, rocket propelled grenades, small boats and drones. Both ships … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/magicseas.jpg)The Houthis had not attacked a commercial ship in the Red Sea in approximately seven months. That lull ended on Sunday and Monday when two bulk carriers were struck by gunfire, rocket propelled grenades, small boats and drones. Both ships were about 100 kilometers (60 miles) southwest of the port of Hodeida, Yemen, when attacked.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/magicseas.jpg)The Houthis had not attacked a commercial ship in the Red Sea in approximately seven months. That lull ended on Sunday and Monday when two bulk carriers were struck by gunfire, rocket propelled grenades, small boats and drones. Both ships were about 100 kilometers (60 miles) southwest of the port of Hodeida, Yemen, when attacked.
 
 On Sunday night, the Houthis attacked the 63,000 dwt Liberian-flagged bulk carrier [MV *Magic Seas*](https://www.balticshipping.com/vessel/imo/9736169). Hit by gunfire, rockets and bomb-laden drone boats, the bulker caught fire and took on water, forcing its 19 crew and three armed guards to abandon ship. The United Arab Emirates said that it had rescued all of those who had been on board the *Magic Seas*. The bulker was managed by Allseas Marine of Greece
 

@@ -14,7 +14,7 @@ tags:
   - "Providence"
   - "Va"
   - "Wiscasset"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/providencestep.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/providencestep.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video of the stepping of the mast of the tall ship Providence in Wiscasset, Maine. The 110′ 12-gun sloop-of-war is a replica of the first warship in the Continental Navy, originally chartered by the Rhode … Continue reading &rarr;"
 ---

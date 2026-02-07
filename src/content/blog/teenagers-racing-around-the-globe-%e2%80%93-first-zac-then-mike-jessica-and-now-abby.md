@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In July of last year, Zac Sunderland, a 17-year-old from Southern California, became the youngest person to sail around the world alone.   He held that tile for only about a month as the British 17 year old sailor, Mike … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/teenagers.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/teenagers.jpg)
 
 Zac & Abby Sunderland, Jessica Waston & Mike Perham
 

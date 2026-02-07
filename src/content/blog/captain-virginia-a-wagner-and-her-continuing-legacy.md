@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Captain Virginia A. Wagner passed away on Friday January 30, 2015 in Newport, Rhode Island, following a courageous battle with mesothelioma cancer."
 ---
 
-![102514PSNE-6566](http://www.oldsaltblog.com/wp-content/uploads/2015/02/102514PSNE-6566-134x200.jpg)Terribly sad news.  Captain Virginia A. Wagner passed away on Friday January 30, 2015 in Newport, Rhode Island, following a courageous battle with mesothelioma cancer.  From [Scuttlebutt Sailing News](http://www.sailingscuttlebutt.com/2015/02/03/eight-bells-virginia-wagner/?6f4wjPexSKLhymcm.03):
+![102514PSNE-6566](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/102514PSNE-6566-134x200.jpg)Terribly sad news.  Captain Virginia A. Wagner passed away on Friday January 30, 2015 in Newport, Rhode Island, following a courageous battle with mesothelioma cancer.  From [Scuttlebutt Sailing News](http://www.sailingscuttlebutt.com/2015/02/03/eight-bells-virginia-wagner/?6f4wjPexSKLhymcm.03):
 
 *Virginia was amongst an elite sorority of professional female captains and spent much of her 28 year career in command of Traditional Sailing Vessels. Holding both a 3,000 ton USCG and MCA Ocean Master, Virginia logged over 400,000 nautical miles — and was always quick to add “most of those miles were navigated by sextant.”*
 

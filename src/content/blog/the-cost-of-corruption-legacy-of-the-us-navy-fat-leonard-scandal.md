@@ -13,12 +13,12 @@ tags:
   - "Leonard Glenn Francis"
   - "Malaysian ship-supply contractor"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
 description: "The decades-long \"Fat Leonard\" bribery and corruption scandal may finally have come to an end.  This week, Malaysian ship-supply contractor, Leonard Glenn Francis, 60, known as \"Fat Leonard\" was sentenced to 15 years in prison for bribing US Navy officials … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg)
 
 “Fat Leonard” Francis
 

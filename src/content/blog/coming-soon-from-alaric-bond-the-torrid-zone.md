@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I am very much looking forward to Alaric Bond’s latest, Torrid Zone, due out in April or May.  He recently posted about it on his blog. Background to a Book I’ve now finished the second draft of The Torrid Zone, … Continue reading &rarr;"
 ---
 
-![Draft Cover TZ no OSB](http://www.oldsaltblog.com/wp-content/uploads/2014/03/Draft-Cover-TZ-no-OSB.jpg)I am very much looking forward to Alaric Bond’s latest, [*Torrid Zone*](http://blog.alaricbond.com/2014/03/background-to-book.html), due out in April or May.  He recently posted about it on his blog.
+![Draft Cover TZ no OSB](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Draft-Cover-TZ-no-OSB.jpg)I am very much looking forward to Alaric Bond’s latest, [*Torrid Zone*](http://blog.alaricbond.com/2014/03/background-to-book.html), due out in April or May.  He recently posted about it on his blog.
 
 [Background to a Book](http://blog.alaricbond.com/2014/03/background-to-book.html)
 

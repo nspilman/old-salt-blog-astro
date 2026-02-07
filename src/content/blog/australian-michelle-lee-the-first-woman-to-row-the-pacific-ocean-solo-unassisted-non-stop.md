@@ -10,12 +10,12 @@ tags:
   - "Australian"
   - "first woman to row solo unassisted and non-stop across the Pacific Ocean"
   - "Michelle Lee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/michellelee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/michellelee.jpg"
 author: "Rick Spilman"
 description: "Australian Michelle Lee has become the first woman to row solo, unassisted, and non-stop across the Pacific Ocean.  On her epic 237-day, 14,000-kilometre journey from Ensenada, Mexico to  Port Douglas in Far North Queensland, Australia, she dodged five hurricanes and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/michellelee.jpg)Australian [Michelle Lee](https://solorower.com/) has become the [first woman to row solo, unassisted, and non-stop across the Pacific Ocean](https://www.abc.net.au/news/2023-04-05/michelle-lee-first-woman-rower-pacific-ocean-solo-237-days/102193290).  On her epic 237-day, 14,000-kilometre journey from Ensenada, Mexico to  Port Douglas in Far North Queensland, Australia, she dodged five hurricanes and four cyclones and survived a shark leaping into her boat. Lee set off from Mexico on August 8, 2022 in her 8-meter by 2-meter carbon fiber boat, the *Australian Maid.* 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/michellelee.jpg)Australian [Michelle Lee](https://solorower.com/) has become the [first woman to row solo, unassisted, and non-stop across the Pacific Ocean](https://www.abc.net.au/news/2023-04-05/michelle-lee-first-woman-rower-pacific-ocean-solo-237-days/102193290).  On her epic 237-day, 14,000-kilometre journey from Ensenada, Mexico to  Port Douglas in Far North Queensland, Australia, she dodged five hurricanes and four cyclones and survived a shark leaping into her boat. Lee set off from Mexico on August 8, 2022 in her 8-meter by 2-meter carbon fiber boat, the *Australian Maid.* 
 
 “The last bit was a bit of a battle,” she told waiting press. “But it’s the story of my life: winds, currents, tides, everything against me, often I had all of them doing different things. So, adversity, I guess, you got used to it out there.”
 

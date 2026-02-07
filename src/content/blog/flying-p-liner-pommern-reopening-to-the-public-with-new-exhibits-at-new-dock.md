@@ -15,12 +15,12 @@ tags:
   - "Flying P Liner"
   - "Mariehamn"
   - "Pommern"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/pommeran.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/pommeran.jpg"
 author: "Rick Spilman"
 description: "The Flying-P Liner Pommern will soon be open to the public again at a new dock with new exhibits in Mariehamn, on the Åland Islands of Finland. The 1903 built, steel, four-masted bark has been closed to the public since … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/pommeran.jpg)The Flying-P Liner [*Pommern*](https://en.wikipedia.org/wiki/Flying_P-Liner) will soon be open to the public again at a new dock with new exhibits in Mariehamn, on the Åland Islands of Finland. The 1903 built, steel, four-masted bark has been closed to the public since September 2016. Now, after extensive refurbishment and repair, she will be reopening in May 2019.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/pommeran.jpg)The Flying-P Liner [*Pommern*](https://en.wikipedia.org/wiki/Flying_P-Liner) will soon be open to the public again at a new dock with new exhibits in Mariehamn, on the Åland Islands of Finland. The 1903 built, steel, four-masted bark has been closed to the public since September 2016. Now, after extensive refurbishment and repair, she will be reopening in May 2019.
 
 The Åland Maritime Museum Trust has made a major investment in a new visitor experience on board the windjammer. The exhibition ‘*Pommern – 100 days under sail*” intends to make the ship come alive with the crew’s own stories. It is designed to be an exciting experience based on real events on actual voyages, where the visitors get to explore the ship and to sense the presence of her elusive crew.
 

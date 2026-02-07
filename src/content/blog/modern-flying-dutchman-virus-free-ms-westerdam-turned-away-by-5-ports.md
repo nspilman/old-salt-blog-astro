@@ -13,12 +13,12 @@ tags:
   - "Taiwan"
   - "Thailand"
   - "Westerdam"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/westerdam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/westerdam.jpg"
 author: "Rick Spilman"
 description: "The legend of the Flying Dutchman tells of a ship that can never make port and is doomed to sail the oceans forever. The roughly 2,200 passengers and crew of Holland America’s MS Westerdam must feel a bit like the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/westerdam.jpg)The legend of the [Flying Dutchman](https://en.wikipedia.org/wiki/Flying_Dutchman) tells of a ship that can never make port and is doomed to sail the oceans forever. The roughly 2,200 passengers and crew of Holland America’s [MS *Westerdam*](https://en.wikipedia.org/wiki/MS_Westerdam) must feel a bit like the legendary Dutchman.  Despite have no recorded cases of the coronavirus aboard, the ship has been turned away by [no fewer than five ports](https://www.businessinsider.com/westerdam-cruise-ship-denied-entry-five-ports-thailand-no-coronavirus-2020-2) in Taiwan, Japan, the Philippines, Guam and most recently Thailand. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/westerdam.jpg)The legend of the [Flying Dutchman](https://en.wikipedia.org/wiki/Flying_Dutchman) tells of a ship that can never make port and is doomed to sail the oceans forever. The roughly 2,200 passengers and crew of Holland America’s [MS *Westerdam*](https://en.wikipedia.org/wiki/MS_Westerdam) must feel a bit like the legendary Dutchman.  Despite have no recorded cases of the coronavirus aboard, the ship has been turned away by [no fewer than five ports](https://www.businessinsider.com/westerdam-cruise-ship-denied-entry-five-ports-thailand-no-coronavirus-2020-2) in Taiwan, Japan, the Philippines, Guam and most recently Thailand. 
 
 The ship sailed from Hong Kong on February 1 for a 14-day cruise to Taiwan and Japan. So far the ship has made no port calls since Hong Kong, and it is unclear when the passengers will be able to disembark. Reports yesterday that the ship would dock in the port of Laem Chabang in Thailand and that the passengers would be allowed off the ship.  [Nikkei Asian Review](https://www.hollandamerica.com/blog/ships/ms-westerdam/statement-regarding-westerdam-in-japan/) reports that amid heightened public concern, officials ultimately changed their minds citing public panic that has spread online over news of the virus, which has led to more than 1,000 deaths in China.
 

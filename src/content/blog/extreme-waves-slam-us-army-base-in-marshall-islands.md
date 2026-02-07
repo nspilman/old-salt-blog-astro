@@ -15,12 +15,12 @@ tags:
   - "storm-driven waves"
   - "US Army Garrison Kwajalein Atoll"
   - "US Space and Missile Defense Command"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/armybasemarshells.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/armybasemarshells.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, January 20, a series of massive storm-driven waves struck the island of Roi-Namur in the Marshall Islands causing considerable flooding and damage to the US Army Garrison Kwajalein Atoll (USAG–KA).   A video circulating on social media showed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/armybasemarshells.jpg)Last Saturday, January 20, a series of massive storm-driven waves struck the island of Roi-Namur in the Marshall Islands causing considerable flooding and damage to the [US Army Garrison Kwajalein Atoll](https://home.army.mil/kwajalein/) (USAG–KA).  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/armybasemarshells.jpg)Last Saturday, January 20, a series of massive storm-driven waves struck the island of Roi-Namur in the Marshall Islands causing considerable flooding and damage to the [US Army Garrison Kwajalein Atoll](https://home.army.mil/kwajalein/) (USAG–KA).  
 
 A [video circulating on social media](https://twitter.com/volcaholic1/status/1749554817431675230?s=20) showed water smashing into a dining facility at USAG–KA as a series of unexpected waves surged across the low-lying island.
 

@@ -13,12 +13,12 @@ tags:
   - "Koningshaven Bridge"
   - "Nieuwe Maas River"
   - "Oceanco shipyard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/bezos.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/bezos.jpg"
 author: "Rick Spilman"
 description: "After months of controversy, the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos slipped out of the shipyard in Rotterdam under the cover of darkness.  At 3AM on Tuesday, the Oceanco shipyard towed the yacht to the Greenport shipyard. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/bezos.jpg)After months of controversy, the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos slipped out of the shipyard in Rotterdam under the cover of darkness.  At 3AM on Tuesday, the [Oceanco shipyard](https://www.oceancoyacht.com/) towed the yacht to the Greenport shipyard. The yacht’s three masts were moved separately out of the shipyard by barge. The masts are expected to be stepped at the Greenport yard.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/bezos.jpg)After months of controversy, the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos slipped out of the shipyard in Rotterdam under the cover of darkness.  At 3AM on Tuesday, the [Oceanco shipyard](https://www.oceancoyacht.com/) towed the yacht to the Greenport shipyard. The yacht’s three masts were moved separately out of the shipyard by barge. The masts are expected to be stepped at the Greenport yard.
 
 In February, we posted [Billionaire Bezos’ Really Big Boat and the Rotterdam Railroad Bridge,](https://www.oldsaltblog.com/2022/02/billionaire-bezos-really-big-boat-and-the-rotterdam-railroad-bridge/) about how the Oceanco shipyard wanted to dismantle the center span of a historic railroad bridge to allow the yacht to access the North Sea. The fully rigged superyacht apparently has too great an air draft to safely fit beneath the Koningshaven Bridge, known locally as [De Hef](https://www.bridgeinfo.net/bridge/index.php?ID=27), which has a clearance of 131 feet over the Nieuwe Maas River.
 

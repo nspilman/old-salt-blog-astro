@@ -11,12 +11,12 @@ tags:
   - "electrolysis"
   - "metallic nodules"
   - "photosynthesis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/nodules.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/nodules.jpg"
 author: "Rick Spilman"
 description: "About half the oxygen we breathe comes from the ocean.  It was long presumed that this oceanic oxygen was produced by photosynthesis, the process by which green plants use sunlight to synthesize foods by absorbing carbon dioxide and water, emitting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/nodules.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/nodules.jpg)
 
 A bed of manganese nodules offshore of the Cook Islands
 

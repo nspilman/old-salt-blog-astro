@@ -13,12 +13,12 @@ tags:
   - "sonar dome"
   - "US Navy frigate"
   - "USS Stein"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/ussstein.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/ussstein.jpg"
 author: "Rick Spilman"
 description: "The legend of the Kraken, a giant cephalopod from Greek and Norse mythology that attacked ships and dragged sailors to their doom, is many hundreds of years old. Here is an unlikely, but apparently true, story of the US Navy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/ussstein.jpg)The legend of the [Kraken](https://en.wikipedia.org/wiki/Kraken#:~:text=According%20to%20his%20Norwegian%20informants,victims%20back%20into%20the%20depths.), a giant cephalopod from Greek and Norse mythology that attacked ships and dragged sailors to their doom, is many hundreds of years old. Here is an unlikely, but apparently true, story of the US Navy frigate [USS *Stein*](https://en.wikipedia.org/wiki/USS_Stein), whose sonar dome was probably attacked by a colossal squid in 1978.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/ussstein.jpg)The legend of the [Kraken](https://en.wikipedia.org/wiki/Kraken#:~:text=According%20to%20his%20Norwegian%20informants,victims%20back%20into%20the%20depths.), a giant cephalopod from Greek and Norse mythology that attacked ships and dragged sailors to their doom, is many hundreds of years old. Here is an unlikely, but apparently true, story of the US Navy frigate [USS *Stein*](https://en.wikipedia.org/wiki/USS_Stein), whose sonar dome was probably attacked by a colossal squid in 1978.
 
 USS *Stein* was underway when her anti-submarine sonar gear suddenly stopped working. On returning to port and putting the ship in a drydock, engineers observed many deep scratches in the rubber “NOFOUL” coating of the sonar dome. In some areas, the coating was described as being shredded, with rips up to four feet long. Large claws were left embedded at the bottom of most of the scratches.
 

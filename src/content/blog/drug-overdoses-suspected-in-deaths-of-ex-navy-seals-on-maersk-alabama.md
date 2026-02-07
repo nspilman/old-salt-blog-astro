@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "CNN  is reporting that hypodermic needles and traces of narcotics were found with the bodies of two American security officers on the container ship Maersk Alabama, suggesting that the deaths resulted from drug overdoses, according to a Seychelles government official. … Continue reading &rarr;"
 ---
 
-[![malabama2](http://www.oldsaltblog.com/wp-content/uploads/2014/02/malabama2.jpg)](http://www.cnn.com/2014/02/20/world/asia/seychelles-maersk-deaths/)
+[![malabama2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/malabama2.jpg)](http://www.cnn.com/2014/02/20/world/asia/seychelles-maersk-deaths/)
 
 Photo: ANTONY NJUGUNA / REUTERS/REUTERS
 

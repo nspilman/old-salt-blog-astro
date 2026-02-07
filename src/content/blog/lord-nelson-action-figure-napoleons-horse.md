@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: \"An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
 ---
 
-![lordnelson](http://www.oldsaltblog.com/wp-content/uploads/2013/03/lordnelson.jpg)Accomplished historian and archivist, Allan Janus has reviewed the [Lord Nelson action figure](http://www.amazon.com/Papo-39741-Lord-Nelson/dp/B000628130/ref=cm_cr_pr_product_top) now available on Amazon.  His review:
+![lordnelson](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/lordnelson.jpg)Accomplished historian and archivist, Allan Janus has reviewed the [Lord Nelson action figure](http://www.amazon.com/Papo-39741-Lord-Nelson/dp/B000628130/ref=cm_cr_pr_product_top) now available on Amazon.  His review:
 
 “*An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite wide, making it difficult at the outset for him to stand. But a bit of judicious leg-bending brought him round, and now he’s quite upstanding and quarterdeck-ready. Probably the finest Nelson action figure available today.*”
 

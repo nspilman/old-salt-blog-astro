@@ -11,12 +11,12 @@ tags:
   - "patrol craft"
   - "RCGS Resolute"
   - "Venezuelan Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/venpatrolship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/venpatrolship.jpg"
 author: "Rick Spilman"
 description: "The incident took place in the early hours of Mar. 30, 2020, but the cruise ship operator only released an official statement on April 1st. It could almost be taken for an April Fool’s joke. It wasn’t.   The Portuguese flag … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/venpatrolship.jpg)The incident took place in the early hours of Mar. 30, 2020, but the cruise ship operator only released an [official statement](https://www.columbia-cs.com/statement-on-rcgs-resolute-incident/) on April 1st. It could almost be taken for an April Fool’s joke. It wasn’t.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/venpatrolship.jpg)The incident took place in the early hours of Mar. 30, 2020, but the cruise ship operator only released an [official statement](https://www.columbia-cs.com/statement-on-rcgs-resolute-incident/) on April 1st. It could almost be taken for an April Fool’s joke. It wasn’t.  
 
 The Portuguese flag expedition cruise ship *[RCGS Resolute](https://en.wikipedia.org/wiki/RCGS_Resolute)* was drifting just over 13 miles off the coast of Isla La Tortuga, a Venezuelan island 60 miles off the country’s northern coast. With no passengers aboard the crew was performing maintenance on one of the two engines. Around midnight on the 30th, the Venezuelan Navy patrol ship [ANBV *Naiguatá*](https://www.losbarcosdeeugenio.com/barcos/es/ve/arbv_GC23.html) approached the cruise ship. The *Resolute* was ordered to follow *Naiguatá* to Puerto Moreno on Isla De Margarita, located to the east. The Venezuelans accused it of violating the country’s territorial waters.
 

@@ -17,12 +17,12 @@ tags:
   - "St. Simons Sound"
   - "stability"
   - "vehicle carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/goldenraycap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/goldenraycap.jpg"
 author: "Rick Spilman"
 description: "The final report issued yesterday by the National Transportation Safety Board Office (NTSB) summarizes what happened on Sept. 8, 2019, when the roll-on/roll-off vehicle carrier Golden Ray capsized as it transited outbound through St. Simons Sound near Brunswick, Georgia. ​​Less … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/goldenraycap.jpg)The [final report](https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR2103.pdf) issued yesterday by the [National Transportation Safety Board Office](https://www.ntsb.gov/news/press-releases/Pages/20210914.aspx) (NTSB) summarizes what happened on Sept. 8, 2019, when the roll-on/roll-off vehicle carrier *Golden Ray* capsized as it transited outbound through St. Simons Sound near Brunswick, Georgia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/goldenraycap.jpg)The [final report](https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR2103.pdf) issued yesterday by the [National Transportation Safety Board Office](https://www.ntsb.gov/news/press-releases/Pages/20210914.aspx) (NTSB) summarizes what happened on Sept. 8, 2019, when the roll-on/roll-off vehicle carrier *Golden Ray* capsized as it transited outbound through St. Simons Sound near Brunswick, Georgia.
 
 ​​Less than 40 minutes after leaving port, the 656-foot-long *Golden Ray* began to heel rapidly to port during a 68-degree turn to starboard. Despite attempts by the pilot and crew to counter the heel, the rate of turn to starboard increased, and the vessel reached a heel of 60 degrees to port in under a minute before it grounded outside of the channel.
 

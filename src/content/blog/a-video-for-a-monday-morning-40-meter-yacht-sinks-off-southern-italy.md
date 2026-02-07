@@ -12,7 +12,7 @@ tags:
   - "Catanzaro Marina"
   - "Italian Coast Guard"
   - "southern Italy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/sagasinks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/sagasinks.jpg"
 author: "Rick Spilman"
 description: "How’s your Monday going so far? Odds are, it is probably better than the 40-meter superyacht MY Saga that sank rather dramatically last week off the coast of Catanzaro Marina, in southern Italy.  Fortunately, the Italian Coast Guard rescued nine … Continue reading &rarr;"
 ---

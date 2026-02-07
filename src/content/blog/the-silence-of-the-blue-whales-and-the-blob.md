@@ -13,12 +13,12 @@ tags:
   - "Northern Pacific"
   - "The Blob"
   - "whale song"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/bluewhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/bluewhale.jpg"
 author: "Rick Spilman"
 description: "A recent study by the Monterey Bay Aquarium Research Institute (MBARI) observed that blue whale vocalizations off the coast of Northern California decreased by 40% over a six-year period.  Blue whales are the largest animals to ever live on Earth. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/bluewhale.jpg)A [recent study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318624) by the [Monterey Bay Aquarium Research Institute](https://www.mbari.org/) (MBARI) observed that blue whale vocalizations off the coast of Northern California decreased by 40% over a six-year period. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/bluewhale.jpg)A [recent study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318624) by the [Monterey Bay Aquarium Research Institute](https://www.mbari.org/) (MBARI) observed that blue whale vocalizations off the coast of Northern California decreased by 40% over a six-year period. 
 
 Blue whales are the largest animals to ever live on Earth. They surpass even the largest dinosaurs in size, reaching lengths of up to 100 feet and weights of 200 tons. Researchers were concerned about what the observed decrease in the blue whale song meant to the health of the whale population. 
 

@@ -10,12 +10,12 @@ tags:
   - "Ananya Prasad"
   - "first woman of color to row solo across any ocean"
   - "World's Toughest Row - Atlantic Challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/atlanticodyssey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/atlanticodyssey.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Ananya Prasad for completing the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua after 52 days at sea. The … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/atlanticodyssey.jpg)Congratulations to [Ananya Prasad](https://x.com/ao2024ananya?lang=en) for completing the 2024-2025 [World’s Toughest Row – Atlantic Challenge](https://www.worldstoughestrow.com/the-atlantic/), a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua after 52 days at sea. The 34-year-old from Sheffield came in second among the six solo rowers competing in the race.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/atlanticodyssey.jpg)Congratulations to [Ananya Prasad](https://x.com/ao2024ananya?lang=en) for completing the 2024-2025 [World’s Toughest Row – Atlantic Challenge](https://www.worldstoughestrow.com/the-atlantic/), a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua after 52 days at sea. The 34-year-old from Sheffield came in second among the six solo rowers competing in the race.
 
 Ms Prasad, born in India and raised in the UK, was the only solo female rower in the race. She is also the first woman of color to row solo and unsupported across any ocean. 
 

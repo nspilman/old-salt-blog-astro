@@ -12,12 +12,12 @@ tags:
   - "Malaysian defense contractor"
   - "Navy corruption scandal"
   - "san diego"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about how the \"Fat Leonard\" Navy corruption scandal is being dramatized in a new television series, based on an award-winning podcast. In the real world, the decade-long investigation and years-long trials are wrapping up.  The San Diego … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg)
 
 “Fat Leonard” Francis
 

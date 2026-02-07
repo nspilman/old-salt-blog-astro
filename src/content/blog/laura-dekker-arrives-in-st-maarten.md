@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Fifteen-year-old Dutch sailor, Laura Dekker, arrived in St. Maarten after a 2,200 nautical-mile voyage from the Cape Verde Islands off West Africa. She sailed from Gibraltar on August 21 and spent two months in the Canary Islands waiting for the hurricane … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/ldekkerdeparts.jpg)Fifteen-year-old Dutch sailor, Laura Dekker, arrived in St. Maarten after a 2,200 nautical-mile voyage from the Cape Verde Islands off West Africa. She sailed from Gibraltar on August 21 and spent two months in the Canary Islands waiting for the hurricane season to pass. She left the Cape Verde Islands on December 2nd.  She is attempting to become the youngest person to sail around the world alone.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekkerdeparts.jpg)Fifteen-year-old Dutch sailor, Laura Dekker, arrived in St. Maarten after a 2,200 nautical-mile voyage from the Cape Verde Islands off West Africa. She sailed from Gibraltar on August 21 and spent two months in the Canary Islands waiting for the hurricane season to pass. She left the Cape Verde Islands on December 2nd.  She is attempting to become the youngest person to sail around the world alone.
 
 [Teenage sailor on solo voyage reaches St. Maarten](http://www.google.com/hostednews/ap/article/ALeqM5g2sOFyUrcrAn93viwiA_1ai-QQLg?docId=48f7632f7cbb4978ac566b7430c9c539)  
   

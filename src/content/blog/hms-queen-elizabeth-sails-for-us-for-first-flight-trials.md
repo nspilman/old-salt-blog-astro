@@ -11,12 +11,12 @@ tags:
   - "F-35B Lightning"
   - "HMS Queen Elizabeth"
   - "Portsmouth Naval Base"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/hmsqe2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/hmsqe2.jpg"
 author: "Rick Spilman"
 description: "The HMS Queen Elizabeth set sail yesterday from Portsmouth Naval Base bound for the United States. The 65,000-tonne carrier, the largest warship ever built for the Royal Navy, will embark two US F-35B test aircraft to begin the first flight trials. The BBC reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/hmsqe2.jpg)The HMS *Queen Elizabeth* set sail yesterday from Portsmouth Naval Base bound for the United States. The 65,000-tonne carrier, the largest warship ever built for the Royal Navy, will embark two US F-35B test aircraft to begin the first flight trials.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/hmsqe2.jpg)The HMS *Queen Elizabeth* set sail yesterday from Portsmouth Naval Base bound for the United States. The 65,000-tonne carrier, the largest warship ever built for the Royal Navy, will embark two US F-35B test aircraft to begin the first flight trials.
 
 The [BBC](https://www.bbc.com/news/uk-england-hampshire-45226387) reports that they are expected to carry out 500 landings and take-offs during the carrier’s 11 weeks at sea.
 

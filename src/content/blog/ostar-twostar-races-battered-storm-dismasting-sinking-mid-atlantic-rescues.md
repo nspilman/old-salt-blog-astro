@@ -12,12 +12,12 @@ tags:
   - "Royal Western Yacht Club"
   - "Twohanded Transatlantic Race"
   - "TwoSTAR"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/ostarrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/ostarrescue.jpg"
 author: "Rick Spilman"
 description: "Sailors competing in the Royal Western Yacht Club’s Original Singlehanded Transatlantic Race (OSTAR) and the Twohanded Transatlantic Race (TwoSTAR) were battered by a North Atlantic storm with 60 knot winds and 45′ seas, 900 miles miles east of Newfoundland. One … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/ostarrescue.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/ostarrescue.jpg)
 
 Graphic: RWYC & YachtingWorld
 

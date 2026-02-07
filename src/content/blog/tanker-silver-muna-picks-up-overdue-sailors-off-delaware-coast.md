@@ -13,12 +13,12 @@ tags:
   - "Hong Kong-flagged tanker"
   - "Silver Muna"
   - "US Coast Guard Fifth District"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/delawarerescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/delawarerescue.jpg"
 author: "Rick Spilman"
 description: "On Sunday, the US Coast Guard Fifth District command center in Virginia was notified that the Atrevida II, a 30’ Catalina sloop, on a passage from Cape May, N.J. to Marathon, FL, was overdue. Onboard were Kevin Hyde, 65, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/delawarerescue.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/delawarerescue.jpg)
 
 Atrevida II Photo: Coast Guard
 

@@ -10,12 +10,12 @@ tags:
   - "blood"
   - "Horseshoe Crab"
   - "LAL"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/horseshoeblood.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/horseshoeblood.jpg"
 author: "Rick Spilman"
 description: "Horseshoe crabs are an ancient variety of arthropods, which are not actually crabs. Having remained largely unchanged in about 450 million years, the horseshoe crab is considered by many to be a living fossil. One of the reasons that horseshoe … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/horseshoeblood.jpg)Horseshoe crabs are an ancient variety of arthropods, which are not actually crabs. Having remained largely unchanged in about 450 million years, the horseshoe crab is considered by many to be a living fossil. One of the reasons that horseshoe crabs have survived so long is that they have a highly robust immune system. Indeed, the horseshoe crab’s bright blue blood has remarkable antibacterial properties. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/horseshoeblood.jpg)Horseshoe crabs are an ancient variety of arthropods, which are not actually crabs. Having remained largely unchanged in about 450 million years, the horseshoe crab is considered by many to be a living fossil. One of the reasons that horseshoe crabs have survived so long is that they have a highly robust immune system. Indeed, the horseshoe crab’s bright blue blood has remarkable antibacterial properties. 
 
 The good news for humans, and the bad news for horseshoe crabs, is that amebocytes in the horseshoe crab blood are highly sensitive to time amounts of bacteria and will coagulate around as little as one part in a trillion of bacterial contamination. Limulus Amebocyte Lysate, or LAL, a compound processed from horseshoe crab blood is used to test for contamination of anything that might go inside the human body: every shot, every IV drip, and every implanted medical device.
 

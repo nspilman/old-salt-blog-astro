@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "One week ago, the Costa Concordia grounded off the island of Giglio.    Eleven passengers or crew are confirmed dead. Twenty four people are missing.  The ship itself has sunk in shallow water having rolled 80 degrees on its side.  What else do we … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/Costa-Concordia-007.jpg)One week ago, the *Costa Concordia* grounded off the island of Giglio.    Eleven passengers or crew are confirmed dead. Twenty four people are missing.  The ship itself has sunk in shallow water having rolled 80 degrees on its side.  What else do we know?   Several basic questions remain unanswered.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg)One week ago, the *Costa Concordia* grounded off the island of Giglio.    Eleven passengers or crew are confirmed dead. Twenty four people are missing.  The ship itself has sunk in shallow water having rolled 80 degrees on its side.  What else do we know?   Several basic questions remain unanswered.
 
 ***Where precisely did the Costa Concordia run aground and on what?***  No one really knows.  From the charts there do not seem to be any hazards where the first grounding is supposed to have taken place.  The captain steered the ship into shallower water where she currently lies.   From [Lloyd’s List](http://www.lloydslist.com/ll/sector/ship-operations/article388825.ece):  
   

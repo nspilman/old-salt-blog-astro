@@ -11,12 +11,12 @@ tags:
   - "autonomous barges"
   - "Kattenburg"
   - "Roboat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/roundaround.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/roundaround.jpg"
 author: "Rick Spilman"
 description: "In March of 2018, we posted about a pilot project led by the Massachusetts Institute of Technology (MIT) and the Amsterdam Institute for Advanced Metropolitan Solutions (AMS) to develop autonomous barges, referred to as \"roboats\", to carry cargo and passengers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/roundaround.jpg)In March of 2018, we posted about a pilot project led by the Massachusetts Institute of Technology (MIT) and the Amsterdam Institute for Advanced Metropolitan Solutions (AMS) to develop [autonomous barges, referred to as “roboats”,](http://www.oldsaltblog.com/2018/03/roboats-in-the-canals-of-amsterdam/) to carry cargo and passengers on Amsterdam’s 100 km of canals.  Now MIT and AMS have developed a new application for the roboats. In a project known as [roundAround](https://www.ams-institute.org/news/roundaround-the-worlds-first-dynamic-bridge-made-of-autonomous-boats/), a fleet of autonomous boats would run between the island of Kattenburg to the east of Amsterdam and the city center.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/roundaround.jpg)In March of 2018, we posted about a pilot project led by the Massachusetts Institute of Technology (MIT) and the Amsterdam Institute for Advanced Metropolitan Solutions (AMS) to develop [autonomous barges, referred to as “roboats”,](http://www.oldsaltblog.com/2018/03/roboats-in-the-canals-of-amsterdam/) to carry cargo and passengers on Amsterdam’s 100 km of canals.  Now MIT and AMS have developed a new application for the roboats. In a project known as [roundAround](https://www.ams-institute.org/news/roundaround-the-worlds-first-dynamic-bridge-made-of-autonomous-boats/), a fleet of autonomous boats would run between the island of Kattenburg to the east of Amsterdam and the city center.
 
 The boats would move in a continuous circle across the canal, picking up and dropping off passengers via a charging station. Currently, walkers have to make a 1km detour to make the crossing. 
 

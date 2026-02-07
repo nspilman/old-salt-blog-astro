@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A man recently drifted ashore in a 24′ fiberglass boat on Ebon Atoll in the Marshall Islands in the northern Pacific.  He speaks only Spanish and says his name is Jose Ivan.  He claims to have set off from Mexico heading … Continue reading &rarr;"
 ---
 
-![MapMarshallIslandslocator](http://www.oldsaltblog.com/wp-content/uploads/2014/01/MapMarshallIslandslocator.jpg)A man recently drifted ashore in a 24′ fiberglass boat on [Ebon Atoll](http://en.wikipedia.org/wiki/Ebon_Atoll) in the Marshall Islands in the northern Pacific.  He speaks only Spanish and says his name is Jose Ivan.  He claims to have set off from Mexico heading for El Salvador with a companion in September 2012. The companion apparently died at sea several months ago.  If his story is true, he survived for 16 months and drifted across 8,000 miles of open ocean from Mexico.
+![MapMarshallIslandslocator](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/MapMarshallIslandslocator.jpg)A man recently drifted ashore in a 24′ fiberglass boat on [Ebon Atoll](http://en.wikipedia.org/wiki/Ebon_Atoll) in the Marshall Islands in the northern Pacific.  He speaks only Spanish and says his name is Jose Ivan.  He claims to have set off from Mexico heading for El Salvador with a companion in September 2012. The companion apparently died at sea several months ago.  If his story is true, he survived for 16 months and drifted across 8,000 miles of open ocean from Mexico.
 
 [Man Washes Up On Marshall Islands, Claims He Floated From 8,000 Miles Away](http://www.businessinsider.com/man-washes-up-on-marshall-islands-claims-he-floated-from-8000-miles-away-2014-1)
 

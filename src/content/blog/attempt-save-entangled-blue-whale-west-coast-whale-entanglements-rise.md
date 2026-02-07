@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Monday, a 70-80 foot long blue whale entangled in crab or fish nets and lines was spotted off the coast of Dana Point in southern California.  A marine mammal rescue team attempted cut the nets and lines to free the … Continue reading &rarr;"
 ---
 
-![bluewhaleentangled](http://www.oldsaltblog.com/wp-content/uploads/2016/06/bluewhaleentangled.jpg)On Monday, a [70-80 foot long blue whale entangled in crab or fish nets and lines](http://www.cnn.com/2016/06/27/us/blue-whale-entangled-in-fishing-gear/) was spotted off the coast of Dana Point in southern California.  A marine mammal rescue team attempted cut the nets and lines to free the whale but were only partially successful. Teams are attempting to locate the tangled whale today to finish the job.
+![bluewhaleentangled](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/bluewhaleentangled.jpg)On Monday, a [70-80 foot long blue whale entangled in crab or fish nets and lines](http://www.cnn.com/2016/06/27/us/blue-whale-entangled-in-fishing-gear/) was spotted off the coast of Dana Point in southern California.  A marine mammal rescue team attempted cut the nets and lines to free the whale but were only partially successful. Teams are attempting to locate the tangled whale today to finish the job.
 
 Blue whales can usually break out of ropes and nets because of their size and power, according to Michael Milstein, spokesman for NOAA Fisheries. Entangled humpback and gray whales are more common.  However, this would be the second reported incident of a blue whale entanglement off the U.S. West Coast in two years. Last fall, a blue whale was also entangled in fishing gear.
 

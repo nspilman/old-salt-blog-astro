@@ -10,12 +10,12 @@ tags:
   - "Gulf of Mexico"
   - "hypoxic"
   - "Mississippi River watershed"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/gulfdeadzone2020.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/gulfdeadzone2020.jpg"
 author: "Rick Spilman"
 description: "The bad news is that the annual summer \"hypoxic\" or \"dead zone\" in the Gulf of Mexico this year may be larger than average. The good news is that it will be about 15% smaller than last year’s model prediction … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/gulfdeadzone2020.jpg)The bad news is that the annual summer “hypoxic” or “dead zone” in the Gulf of Mexico this year may be [larger than average](https://www.noaa.gov/media-release/larger-than-average-dead-zone-expected-for-gulf-of-mexico). The good news is that it will be about [15% smaller than last year’s model prediction](https://www.noaa.gov/media-release/noaa-forecasts-very-large-dead-zone-for-gulf-of-mexico) and roughly 20% smaller than the record “dead zone” in 2017. Nevertheless, at 6,700 square miles, this year’s “dead zone” is still larger than the State of Connecticut.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/gulfdeadzone2020.jpg)The bad news is that the annual summer “hypoxic” or “dead zone” in the Gulf of Mexico this year may be [larger than average](https://www.noaa.gov/media-release/larger-than-average-dead-zone-expected-for-gulf-of-mexico). The good news is that it will be about [15% smaller than last year’s model prediction](https://www.noaa.gov/media-release/noaa-forecasts-very-large-dead-zone-for-gulf-of-mexico) and roughly 20% smaller than the record “dead zone” in 2017. Nevertheless, at 6,700 square miles, this year’s “dead zone” is still larger than the State of Connecticut.
 
 The “dead zone” forms every year due to an algae bloom which deprives the Gulf waters of oxygen. The little or no oxygen in the water can kill fish and other marine life. [NOAA](https://www.noaa.gov/media-release/larger-than-average-dead-zone-expected-for-gulf-of-mexico) explains that the algae bloom is caused “by excess nutrient pollution from human activities, such as urbanization and agriculture, occurring throughout the Mississippi River watershed. Once the excess nutrients reach the Gulf they stimulate an overgrowth of algae, which eventually die, then sink and decompose in the water. The resulting low oxygen levels near the bottom are insufficient to support most marine life and have long-term impacts to living marine resources that are unable to leave the area. Considered one of the world’s largest, the Gulf of Mexico dead zone occurs every summer.
 

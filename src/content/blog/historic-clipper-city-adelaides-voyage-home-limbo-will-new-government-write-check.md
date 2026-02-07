@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The clipper ship City of Adelaide is supposed to be transported by heavy-lift ship back to Australia in the near future. Scottish taxpayers have already chipped in $1.2 million.  The City of Adelaide Trust, however, has been unable to book … Continue reading &rarr;"
 ---
 
-![cofabarge1](http://www.oldsaltblog.com/wp-content/uploads/2013/10/cofabarge1.jpg)
+![cofabarge1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/cofabarge1.jpg)
 
 Photo: Simon Burchett
 

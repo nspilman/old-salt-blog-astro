@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "The wreck of the whale ship Two Brothers, which sank 188 years ago on French Frigate Shoals, 600 miles northwest of Honolulu,  was recently located by divers.   The captain of the whale ship was George Pollard Jr., whose previous ship, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/JP-SHIPWRECK-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/JP-SHIPWRECK-articleLarge.jpg)
 
 Wreck of the whale ship Two Brothers, Photo: Greg McFall/NOAA
 

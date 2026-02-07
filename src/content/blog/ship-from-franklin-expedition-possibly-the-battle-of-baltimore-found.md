@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The wreckage of a missing ship from the Franklin's lost expedition of 1845 has been found. It is not known yet if the wreck is of HMS Terror or HMS Erebus."
 ---
 
-![HMS Terror in ice](http://www.oldsaltblog.com/wp-content/uploads/2014/09/HMSterror.jpg)
+![HMS Terror in ice](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/HMSterror.jpg)
 
 HMS Terror in ice
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Is a ship the \"greenest\", most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/blast_image-150x173.jpg)Is a ship the “greenest”, most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/blast_image-150x173.jpg)Is a ship the “greenest”, most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers.
 
 Transportation by water has always been the most efficient means of moving goods over distance.  At the turn of the 19th century the cost of transporting an item across the Atlantic by ship was roughly the same cost as moving it 30 miles inland.  With canals, railroads and highways, overland efficiency has improved, but, nevertheless, things haven’t changed so much.
 

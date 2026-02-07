@@ -16,12 +16,12 @@ tags:
   - "North Sea"
   - "Wadden Sea"
   - "World Heritage-listed area"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/freemantlehighway.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/freemantlehighway.jpg"
 author: "Rick Spilman"
 description: "Near midnight on Tuesday, the car carrier Fremantle Highway, loaded with nearly 3,000 cars, caught fire and has been burning out of control off the Dutch island of Ameland. The Dutch coast guard said one crew member had died and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/freemantlehighway.jpg)Near midnight on Tuesday, the car carrier *[Fremantle Highway](https://www.vesseltracker.com/en/Ships/Fremantle-Highway-9667344.html),* loaded with nearly 3,000 cars, caught fire and has been burning out of control off the Dutch island of Ameland. The Dutch coast guard said one crew member had died and that others were injured. Firefighters are working to save the vessel from potentially sinking close to an important habitat for migratory birds.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/freemantlehighway.jpg)Near midnight on Tuesday, the car carrier *[Fremantle Highway](https://www.vesseltracker.com/en/Ships/Fremantle-Highway-9667344.html),* loaded with nearly 3,000 cars, caught fire and has been burning out of control off the Dutch island of Ameland. The Dutch coast guard said one crew member had died and that others were injured. Firefighters are working to save the vessel from potentially sinking close to an important habitat for migratory birds.
 
 Boats and helicopters evacuated the 23 crew members off the ship after they tried unsuccessfully to put out the blaze, the coast guard said in a statement.
 

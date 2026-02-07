@@ -15,12 +15,12 @@ tags:
   - "submersible"
   - "Titan"
   - "US Coast Guard Marine Board of Investigation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/titan3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan3.jpg"
 author: "Rick Spilman"
 description: "After a two-year investigation, the US Coast Guard Marine Board of Investigation (MBI) has released a 335-page report on the loss of the Titan, a submersible designed, built, and operated by the American underwater-tourism company OceanGate. The submersible imploded during a … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2023/06/titan3.jpg)After a two-year investigation, the US Coast Guard Marine Board of Investigation (MBI) has released a [335-page report](https://media.defense.gov/2025/Aug/05/2003773004/-1/-1/0/SUBMERSIBLE%20TITAN%20MBI%20REPORT%20\(04AUG2025\).PDF) on the loss of the [*Titan*](https://en.wikipedia.org/wiki/Titan_\(submersible\)), a submersible designed, built, and operated by the American underwater-tourism company [OceanGate](https://en.wikipedia.org/wiki/OceanGate). The submersible imploded during a June 2023 dive to the *Titanic*, killing five people. The report concluded that the loss of the commercial submersible was a preventable tragedy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan3.jpg)After a two-year investigation, the US Coast Guard Marine Board of Investigation (MBI) has released a [335-page report](https://media.defense.gov/2025/Aug/05/2003773004/-1/-1/0/SUBMERSIBLE%20TITAN%20MBI%20REPORT%20\(04AUG2025\).PDF) on the loss of the [*Titan*](https://en.wikipedia.org/wiki/Titan_\(submersible\)), a submersible designed, built, and operated by the American underwater-tourism company [OceanGate](https://en.wikipedia.org/wiki/OceanGate). The submersible imploded during a June 2023 dive to the *Titanic*, killing five people. The report concluded that the loss of the commercial submersible was a preventable tragedy.
 
 The board determined the primary contributing factors were OceanGate’s inadequate design, certification, maintenance, and inspection process for the *Titan*. Other factors cited in the report include a toxic workplace culture at OceanGate, an inadequate domestic and international regulatory framework for submersible operations and vessels of novel design, and an ineffective whistleblower process under the Seaman’s Protection Act.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "\"The newest landmark in the tsunami-stricken city of Kesennuma.\" Ghost ship haunts tsunami-hit Japanese city The newest landmark in the tsunami-stricken city of Kesennuma is a massive fishing trawler that was swept up at sea and came to rest on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/ghostship1.jpg)“The newest landmark in the tsunami-stricken city of Kesennuma.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/ghostship1.jpg)“The newest landmark in the tsunami-stricken city of Kesennuma.”
 
 [Ghost ship haunts tsunami-hit Japanese city](http://in.reuters.com/article/2011/03/22/idINIndia-55780220110322)
 

@@ -12,12 +12,12 @@ tags:
   - "Elissa"
   - "Galveston Historical Foundation"
   - "Official Tall Ship of Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/elissadaysail2020.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/elissadaysail2020.jpg"
 author: "Rick Spilman"
 description: "The Galveston Historical Foundation has announced its yearly daysails on the 1877 Barque Elissa. The day sails will be on April 3rd, 4th, and 5th. From the announcement: Join us for a one of a kind outdoor adventure aboard the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/elissadaysail2020.jpg)The [Galveston Historical Foundation](https://www.galvestonhistory.org/) has announced its yearly daysails on the [1877 Barque *Elissa*](https://www.galvestonhistory.org/sites/1877-tall-ship-elissa-at-the-texas-seaport-museum). The day sails will be on [April 3rd, 4th, and 5th](https://www.eventbrite.com/e/2020-elissa-daysails-tickets-86337980223). From the [announcement](https://www.eventbrite.com/e/2020-elissa-daysails-tickets-86337980223):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/elissadaysail2020.jpg)The [Galveston Historical Foundation](https://www.galvestonhistory.org/) has announced its yearly daysails on the [1877 Barque *Elissa*](https://www.galvestonhistory.org/sites/1877-tall-ship-elissa-at-the-texas-seaport-museum). The day sails will be on [April 3rd, 4th, and 5th](https://www.eventbrite.com/e/2020-elissa-daysails-tickets-86337980223). From the [announcement](https://www.eventbrite.com/e/2020-elissa-daysails-tickets-86337980223):
 
 *Join us for a one of a kind outdoor adventure aboard the 1877 Iron Barque ELISSA! 2020 sees the Official Tall Ship of Texas return to the waters of the Gulf of Mexico for her annual daysail series. As one of the oldest, and longest continuously sailed vessels in the world, the annual daysails keep her where she works best, with her sails down, sailing in the Gulf waters.*
 

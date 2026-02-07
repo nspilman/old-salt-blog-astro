@@ -13,12 +13,12 @@ tags:
   - "Glenn Defense Marine Asia"
   - "Leonard Francis"
   - "U.S. Navy Rear Admiral"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/blueridge3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/blueridge3.jpg"
 author: "Rick Spilman"
 description: "A retired U.S. Navy Rear Admiral and eight other high-ranking Navy officers were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor \"Fat Leonard\" Francis, the former CEO of Glenn … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/blueridge3.jpg)A retired [U.S. Navy Rear Admiral and eight other high-ranking Navy officers](https://www.justice.gov/opa/pr/us-navy-admiral-and-eight-other-officers-indicted-trading-classified-information-massive) were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor “Fat Leonard” Francis, the former CEO of Glenn Defense Marine Asia (GDMA), in exchange for classified and internal U.S. Navy information. GDMA used the information to overbill the US Navy for services by more than $30 million.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/blueridge3.jpg)A retired [U.S. Navy Rear Admiral and eight other high-ranking Navy officers](https://www.justice.gov/opa/pr/us-navy-admiral-and-eight-other-officers-indicted-trading-classified-information-massive) were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor “Fat Leonard” Francis, the former CEO of Glenn Defense Marine Asia (GDMA), in exchange for classified and internal U.S. Navy information. GDMA used the information to overbill the US Navy for services by more than $30 million.
 
 The highest ranking of those charged was retired [Rear Adm. Bruce Loveless](http://www.navy.mil/navydata/bios/bio.asp?bioID=698), who was arrested at his home in Coronado, Calif. Loveless was the former Navy director of intelligence operations and had retired from the service in October.
 

@@ -12,12 +12,12 @@ tags:
   - "Miami"
   - "Miami Marlins pitcher"
   - "South Beach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/miamijettyboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/miamijettyboat.jpg"
 author: "Rick Spilman"
 description: "On Sunday morning, some time around 3AM, a 32′ powerboat slammed into the rocks at high speed at the Governor’s Cut jetty off South Beach, Miami, FL. The three men aboard, including Miami Marlins ace pitcher Jose Fernandez, 24, were … Continue reading &rarr;"
 ---
 
-![miamijettyboat](http://www.oldsaltblog.com/wp-content/uploads/2016/09/miamijettyboat.jpg)On Sunday morning, some time around 3AM, a 32′ powerboat slammed into the rocks at high speed at the Governor’s Cut jetty off South Beach, Miami, FL. The three men aboard, including Miami Marlins ace pitcher [Jose Fernandez](http://www.cnn.com/2016/09/25/us/mlb-pitcher-jose-fernandez-dead/), 24, were all killed. Fernandez was considered to be a rising star in Major League baseball.
+![miamijettyboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/miamijettyboat.jpg)On Sunday morning, some time around 3AM, a 32′ powerboat slammed into the rocks at high speed at the Governor’s Cut jetty off South Beach, Miami, FL. The three men aboard, including Miami Marlins ace pitcher [Jose Fernandez](http://www.cnn.com/2016/09/25/us/mlb-pitcher-jose-fernandez-dead/), 24, were all killed. Fernandez was considered to be a rising star in Major League baseball.
 
 What happened? The accident investigation is only beginning but several factors appear to have contributed to the tragedy. Based on photographs, the boat struck the jetty at full speed. The accident happened at night. Although the channel was well marked by lighted buoys, the rock jetty was unlit. The night was clear and the waves were not high.
 
@@ -27,4 +27,4 @@ Jose Fernandez did not own the SeaVee powerboat involved in the accident, nor wa
 
 While this accident makes the news because of the death of a well known athlete, sadly, it is not that unusual. According the [USCG Recreational Boating Accident Statistics for 2015,](https://www.uscgboating.org/library/accident-statistics/Recreational-Boating-Statistics-2015.pdf) the top three known contributing factors to boating accidents are operator inattention, operator inexperience, and improper lookout. Ranking fifth on the list, ahead of alcohol use, is excessive speed.
 
-![uscgaccidents](http://www.oldsaltblog.com/wp-content/uploads/2016/09/uscgaccidents.jpg)
+![uscgaccidents](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/uscgaccidents.jpg)

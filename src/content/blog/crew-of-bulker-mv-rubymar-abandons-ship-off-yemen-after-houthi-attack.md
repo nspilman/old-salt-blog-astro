@@ -18,12 +18,12 @@ tags:
   - "MV Rubymar"
   - "UK-owned"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/rubymar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/rubymar.jpg"
 author: "Rick Spilman"
 description: "On Sunday evening, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the MV Rubymar, a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/rubymar.jpg)On Sunday evening, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the [MV *Rubymar*](https://www.marinetraffic.com/en/ais/details/ships/shipid:463871/mmsi:312168000/imo:9138898/vessel:RUBYMAR), a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage that the crew was forced to abandon the ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/rubymar.jpg)On Sunday evening, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the [MV *Rubymar*](https://www.marinetraffic.com/en/ais/details/ships/shipid:463871/mmsi:312168000/imo:9138898/vessel:RUBYMAR), a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage that the crew was forced to abandon the ship.
 
 [US CENTCOM](https://twitter.com/CENTCOM/status/1759636773813068138?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) reported on X, that the ship issued a distress call and a coalition warship along with another merchant vessel responded to the call to assist the crew of the MV *Rubymar*. The crew was transported to a nearby port by the merchant vessel.
 

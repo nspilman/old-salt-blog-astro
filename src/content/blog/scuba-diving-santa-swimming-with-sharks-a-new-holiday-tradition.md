@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Scuba Santa swimming with sharks may be a relatively new Christmas tradition but it is remarkably widespread. From the Newport Aquarium in Newport, Kentucky; to the North Carolina Aquarium at Pine Knoll Shores and the South Carolina Aquarium in Charleston;  to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/Scuba_Santa__t607.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/Scuba_Santa__t607.jpg)
 
 Newport Aquarium PHOTO BY ERNEST COLEMAN
 

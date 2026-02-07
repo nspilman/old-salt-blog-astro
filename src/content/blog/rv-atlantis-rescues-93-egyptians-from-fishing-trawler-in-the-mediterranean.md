@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last Friday night, only twelve hours into a 15 day Mediterranean voyage, the research vessel Atlantis received a mayday call, relayed by the Greek Coast Guard reporting a fishing boat in distress about 40 miles away, near the island of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/atlantis1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/atlantis1.jpg)
 
 RV Atlantis
 

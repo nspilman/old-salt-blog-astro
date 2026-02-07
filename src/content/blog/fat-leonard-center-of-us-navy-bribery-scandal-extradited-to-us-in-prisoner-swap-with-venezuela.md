@@ -12,12 +12,12 @@ tags:
   - "Nicolás Maduro"
   - "US Navy Bribery Scandal"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/flinterpol.jpg"
 author: "Rick Spilman"
 description: "The Washington Post reports that Leonard Glenn Francis, known as \"Fat Leonard,\" the fugitive defense contractor who admitted to a $35 million bribery scheme in the largest corruption scandal in U.S. military history, has been arrested and returned by Venezuela … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg)The [Washington Post](https://www.washingtonpost.com/world/2023/12/20/fat-leonard-venezuela-prisoner-swap/) reports that Leonard Glenn Francis, known as “Fat Leonard,” the fugitive defense contractor who admitted to a $35 million bribery scheme in the [largest corruption scandal in U.S. military history](https://www.washingtonpost.com/sf/investigative/2016/05/27/the-man-who-seduced-the-7th-fleet/?itid=lk_inline_manual_2), has been arrested and returned by Venezuela to the United States as part of a major prisoner swap between the estranged countries, President Biden said Wednesday.   
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/flinterpol.jpg)The [Washington Post](https://www.washingtonpost.com/world/2023/12/20/fat-leonard-venezuela-prisoner-swap/) reports that Leonard Glenn Francis, known as “Fat Leonard,” the fugitive defense contractor who admitted to a $35 million bribery scheme in the [largest corruption scandal in U.S. military history](https://www.washingtonpost.com/sf/investigative/2016/05/27/the-man-who-seduced-the-7th-fleet/?itid=lk_inline_manual_2), has been arrested and returned by Venezuela to the United States as part of a major prisoner swap between the estranged countries, President Biden said Wednesday.   
    
 Venezuela is also releasing 10 Americans detained by the government of Nicolás Maduro, Biden said.
 

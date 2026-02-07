@@ -14,12 +14,12 @@ tags:
   - "Maine"
   - "Rockland harbor"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/gracebailey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/gracebailey.jpg"
 author: "Rick Spilman"
 description: "The schooner Grace Bailey, built in 1882, was returning from a four-day Fall Foliage cruise on Monday morning, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring three others.  Thirty-three … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/gracebailey.jpg)The schooner [*Grace Bailey*](https://www.sailgracebailey.com/), built in 1882, was returning from a four-day Fall Foliage cruise on Monday morning, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring three others.  [Thirty-three people were on board](https://apnews.com/article/schooner-broken-mast-death-maine-grace-bailey-f98c93a0d1d05d54c7200920d9a1f40a) the schooner, which was about 1 mile (1.6 kilometers) east of Rockland harbor, Maine, the Coast Guard said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/gracebailey.jpg)The schooner [*Grace Bailey*](https://www.sailgracebailey.com/), built in 1882, was returning from a four-day Fall Foliage cruise on Monday morning, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring three others.  [Thirty-three people were on board](https://apnews.com/article/schooner-broken-mast-death-maine-grace-bailey-f98c93a0d1d05d54c7200920d9a1f40a) the schooner, which was about 1 mile (1.6 kilometers) east of Rockland harbor, Maine, the Coast Guard said.
 
 Dr. Emily Mecklenburg, 40, of Rockland, was declared dead when she was brought ashore by a Coast Guard boat following the accident. The Maine Medical Examiner’s Office in Augusta said a cause of death has not yet been determined.
 

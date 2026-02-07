@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Over the Memorial Day weekend, the Piscataqua Maritime Commission is sponsoring Sail Portsmouth 2011,  featuring the Gazela Primeiro. The Gazela, a three-masted, square rigged barkentine  built in 1883, is said to be the world’s oldest active wood hulled sailing vessel.  Joining the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Tallships2011.jpg)Over the Memorial Day weekend, the Piscataqua Maritime Commission is sponsoring [Sail Portsmouth 2011](http://www.pmcportsmouth.org/),  featuring the *[Gazela Primeiro](http://www.gazela.org/ships/gazela/gazela.htm)*. The Gazela, a three-masted, square rigged barkentine  built in 1883, is said to be the world’s oldest active wood hulled sailing vessel.  Joining the Gazela will be the the [U.S. Coast Guard Cutter *Flying Fish*](http://www.uscg.mil/history/webcutters/cutterlist.asp).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Tallships2011.jpg)Over the Memorial Day weekend, the Piscataqua Maritime Commission is sponsoring [Sail Portsmouth 2011](http://www.pmcportsmouth.org/),  featuring the *[Gazela Primeiro](http://www.gazela.org/ships/gazela/gazela.htm)*. The Gazela, a three-masted, square rigged barkentine  built in 1883, is said to be the world’s oldest active wood hulled sailing vessel.  Joining the Gazela will be the the [U.S. Coast Guard Cutter *Flying Fish*](http://www.uscg.mil/history/webcutters/cutterlist.asp).
 
 [Sail Portsmouth 2011- Tall ship Gazela Primeiro](http://www.portsmouthnh.com/calendar/ShowDetail.cfm?Event_ID=3923&EventDateID=6816&LocationID=298)  
   

@@ -12,12 +12,12 @@ tags:
   - "HMS Queen Elizabeth"
   - "Royal Navy"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/queenelizabethcarrier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/queenelizabethcarrier.jpg"
 author: "Rick Spilman"
 description: "USNI News recently quoted Adm. Tony Radakin, the First Sea Lord and U.K. Chief of Naval Staff suggesting that the U.K. Royal Navy intends the HMS Queen Elizabeth its largest, most advanced warship ever built, to be considered interchangeable with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/queenelizabethcarrier.jpg)[USNI News](https://news.usni.org/2019/11/21/royal-navy-intends-hms-queen-elizabeth-to-be-integrated-into-u-s-carrier-operations) recently quoted Adm. Tony Radakin, the First Sea Lord and U.K. Chief of Naval Staff suggesting that the U.K. Royal Navy intends the HMS *Queen Elizabeth* its largest, most advanced warship ever built, to be considered interchangeable with U.S. Navy carriers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/queenelizabethcarrier.jpg)[USNI News](https://news.usni.org/2019/11/21/royal-navy-intends-hms-queen-elizabeth-to-be-integrated-into-u-s-carrier-operations) recently quoted Adm. Tony Radakin, the First Sea Lord and U.K. Chief of Naval Staff suggesting that the U.K. Royal Navy intends the HMS *Queen Elizabeth* its largest, most advanced warship ever built, to be considered interchangeable with U.S. Navy carriers.
 
 “As she has demonstrated already, we can successfully field a combined U.S., U.K. carrier strike group,” Radakin said. “I look forward to this developing further, moving to the point where we are not only talking about interoperability, but we are looking for interchangeability.”
 

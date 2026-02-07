@@ -12,12 +12,12 @@ tags:
   - "Nantucket"
   - "Prince Boston"
   - "whaleship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/captainboston.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/captainboston.jpg"
 author: "Rick Spilman"
 description: "Over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained these ships, at least 52 were men of color. In honor of Black History Month, here is an updated … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/captainboston.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/captainboston.jpg)
 
 Captain Absalom Boston
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This news story sounds like a bad sequel to the movie Snakes on Plane. Ship turned away after spiders started ‘pouring’ from cargo hold A South Korean cargo ship had to be turned away last week after an infestation of spiders was discovered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/SPIDER__1683607c.jpg)This news story sounds like a bad sequel to the movie [Snakes on Plane](http://www.amazon.com/gp/product/B000JBXHQY?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000JBXHQY).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/SPIDER__1683607c.jpg)This news story sounds like a bad sequel to the movie [Snakes on Plane](http://www.amazon.com/gp/product/B000JBXHQY?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000JBXHQY).
 
 [Ship turned away after spiders started ‘pouring’ from cargo hold](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/guam/7904170/Ship-turned-away-after-spiders-started-pouring-from-cargo-hold.html)
 

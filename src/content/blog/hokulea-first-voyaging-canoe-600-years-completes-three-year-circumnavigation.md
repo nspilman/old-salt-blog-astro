@@ -11,7 +11,7 @@ tags:
   - "circumnavigation"
   - "Hawaii"
   - "Hōkūle‘a"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/harrive1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/harrive1.jpg"
 author: "Rick Spilman"
 description: "Hokulea, the first voyaging canoe in 600 years, sailed back to Hawaii last week, completing an epic three year 40,000 mile circumnavigation. Hokulea and her crew were greeted by fellow voyaging canoes, hundreds of other water craft and an estimated … Continue reading &rarr;"
 ---

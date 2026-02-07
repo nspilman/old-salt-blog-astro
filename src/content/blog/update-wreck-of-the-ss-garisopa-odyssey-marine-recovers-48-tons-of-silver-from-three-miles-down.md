@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last September we posted that Odyssey Marine Exploration had located the wreck of the S.S. Gairsoppa, which was torpedoed in February of 1941 by a German U-boat. When she sank, the ship was loaded with 240 tonnes of silver believed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/Gairsoppa-silver-recover-2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Gairsoppa-silver-recover-2.jpg)
 
 Photo: Odyssey Marine
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "UPDATE: Between the effects of the explosion, fire, and water put aboard in firefighting the Shoko Maru subsequently sank. The 2,242 DWT Japanese product tanker, Shoko Maru, exploded and caught fire Thursday morning, local time, while anchored about 5 kilometers off … Continue reading &rarr;"
 ---
 
-![Photo:AFP ](http://www.oldsaltblog.com/wp-content/uploads/2014/05/tankerexplosion.jpg)
+![Photo:AFP ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/tankerexplosion.jpg)
 
 Photo:AFP
 

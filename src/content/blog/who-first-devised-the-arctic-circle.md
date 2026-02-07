@@ -13,12 +13,12 @@ tags:
   - "Bear’s circle"
   - "Fridtjof Nansen"
   - "Great Bear"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/arcticcircle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/arcticcircle.jpg"
 author: "Rick Spilman"
 description: "We recently crossed the Arctic Circle on a Norwegian voyage on the Hurtigruten MS Trollfjord.  The crossing brought to mind the question — who first devised this imaginary line at 66° 34′ N latitude? My first guess would have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/arcticcircle.jpg)We recently crossed the [Arctic Circle](https://en.wikipedia.org/wiki/Arctic_Circle) on a Norwegian voyage on the Hurtigruten [MS *Trollfjord.*](https://www.hurtigruten.no/skip/ms-trollfjord/)  The crossing brought to mind the question — who first devised this imaginary line at 66° 34′ N latitude? My first guess would have been the early Norse settlers in Scandinavia, which is wholly the wrong answer. The right answer, apparently, was the ancient Greeks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/arcticcircle.jpg)We recently crossed the [Arctic Circle](https://en.wikipedia.org/wiki/Arctic_Circle) on a Norwegian voyage on the Hurtigruten [MS *Trollfjord.*](https://www.hurtigruten.no/skip/ms-trollfjord/)  The crossing brought to mind the question — who first devised this imaginary line at 66° 34′ N latitude? My first guess would have been the early Norse settlers in Scandinavia, which is wholly the wrong answer. The right answer, apparently, was the ancient Greeks.
 
 Norwegian explorer and diplomat [Fridtjof Nansen](https://en.wikipedia.org/wiki/Fridtjof_Nansen) explains in his book, [In Northern Mists; Arctic Exploration in Early Times.](https://www.gutenberg.org/files/40633/40633-h/40633-h.htm) 
 

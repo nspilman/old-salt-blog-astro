@@ -11,12 +11,12 @@ tags:
   - "Alexander Hamilton"
   - "Revenue Cutter Service"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/hamilton1.jpg"
 author: "Rick Spilman"
 description: "Alexander Hamilton suggested in The Federalist Papers that \"a few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.\" When Hamilton became the first Treasury Secretary of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg)Alexander Hamilton suggested in The Federalist Papers that “a *few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws*.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/hamilton1.jpg)Alexander Hamilton suggested in The Federalist Papers that “a *few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws*.”
 
 When Hamilton became the first Treasury Secretary of the newly formed United States, he lobbied for the acquisition of 10 revenue cutters to assist in the collection of duties and to catch smugglers. On August 4, 1790, 232 years ago today, President Washington signed a bill establishing the Revenue Cutter Service, the precursor to today’s United States Coast Guard. Alexander Hamilton is considered by many to be the father of the US Coast Guard. An updated repost.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "SS Columbia, built in 1902, is the oldest surviving passenger steam vessel in the United States. The SS Columbia Project is dedicated to restoring and operating the classic passenger steamer.  They are holding their first official fundraising event tommorrow featuring … Continue reading &rarr;"
 ---
 
-![c-in-her-prime](http://www.oldsaltblog.com/wp-content/uploads/2009/09/c-in-her-prime.jpg)*SS Columbia*, built in 1902, is the oldest surviving passenger steam vessel in the United States. The [SS Columbia Project](http://sscolumbia.org/) is dedicated to restoring and operating the classic passenger steamer.  They are holding their first official fundraising event tommorrow featuring a cruise on the Detroit River on board the *M.V. Friendship*.  Complimentary pizza, delivered by the *J.W. Westcott II* mailboat, will be served and a cash bar will be available.
+![c-in-her-prime](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/c-in-her-prime.jpg)*SS Columbia*, built in 1902, is the oldest surviving passenger steam vessel in the United States. The [SS Columbia Project](http://sscolumbia.org/) is dedicated to restoring and operating the classic passenger steamer.  They are holding their first official fundraising event tommorrow featuring a cruise on the Detroit River on board the *M.V. Friendship*.  Complimentary pizza, delivered by the *J.W. Westcott II* mailboat, will be served and a cash bar will be available.
 
 [Click here to learn more.](http://sscolumbia.org/?p=189)
 

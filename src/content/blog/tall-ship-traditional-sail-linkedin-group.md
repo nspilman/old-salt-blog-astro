@@ -16,4 +16,4 @@ description: "Tom Russell is hosting the Tall Ship & Traditional Sail Profession
 
 If you’ve worked on a tall ship, for its supporting organization or in other traditional sail, feel free to join the group below. Simply add the traditional sail info to your profile.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/wheel.jpg)[Tall Ship & Traditional Sail Professionals (LinkedIn)](http://www.linkedin.com/groups?gid=2041742).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/wheel.jpg)[Tall Ship & Traditional Sail Professionals (LinkedIn)](http://www.linkedin.com/groups?gid=2041742).

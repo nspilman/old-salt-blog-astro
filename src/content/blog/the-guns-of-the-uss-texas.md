@@ -11,7 +11,7 @@ categories:
 tags:
   - "battleship"
   - "USS Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/texasguns.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/texasguns.jpg"
 author: "Rick Spilman"
 description: "We recently posted videos of the 110-year-old battleship USS Texas currently being repaired and refurbished in drydock at the Gulf Copper Shipyard in Galveston.  The Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to have served … Continue reading &rarr;"
 ---

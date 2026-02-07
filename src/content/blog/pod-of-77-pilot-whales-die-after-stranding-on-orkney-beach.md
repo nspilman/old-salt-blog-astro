@@ -13,12 +13,12 @@ tags:
   - "Orkney"
   - "pod"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/pilotwhalwstranding.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilotwhalwstranding.jpg"
 author: "Rick Spilman"
 description: "On 11 July 2024 at about 10:45am, British Divers Marine Life Rescue (BDMLR) received a report of a mass stranding of long-finned pilot whales on the isle of Sanday in Orkney, Scotland.  They found 77 animals high up the beach, having … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/pilotwhalwstranding.jpg)On 11 July 2024 at about 10:45am, [British Divers Marine Life Rescue](https://bdmlr.org.uk/pilot-whale-mass-stranding-orkney) (BDMLR) received a report of a mass stranding of [long-finned pilot whales](https://www.fisheries.noaa.gov/species/long-finned-pilot-whale) on the isle of Sanday in Orkney, Scotland.  They found 77 animals high up the beach, having evidently been stranded for several hours already.  65 of the whales were already dead and the 12 remaining whales were in a poor state.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilotwhalwstranding.jpg)On 11 July 2024 at about 10:45am, [British Divers Marine Life Rescue](https://bdmlr.org.uk/pilot-whale-mass-stranding-orkney) (BDMLR) received a report of a mass stranding of [long-finned pilot whales](https://www.fisheries.noaa.gov/species/long-finned-pilot-whale) on the isle of Sanday in Orkney, Scotland.  They found 77 animals high up the beach, having evidently been stranded for several hours already.  65 of the whales were already dead and the 12 remaining whales were in a poor state.
 
 “Sadly the remaining 12 pilot whales have been euthanized due to their condition deteriorating from the many hours they have spent stranded on the beach,” the BDMLR said in a statement late Thursday.
 

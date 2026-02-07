@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Dublin Tall Ship Festival is well underway this weekend in Ireland, with 40 tall ships and at least a dozen accompanying vessels.  A million vistitors are expected to throng the docks.  There was already considerable drama prior to the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/297105_1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/297105_1.jpg)
 
 Photo: Frank Miller/The Irish Times
 

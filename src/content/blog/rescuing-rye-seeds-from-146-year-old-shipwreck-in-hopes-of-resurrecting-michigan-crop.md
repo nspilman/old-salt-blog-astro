@@ -13,12 +13,12 @@ tags:
   - "Mammoth Distilling"
   - "Michigan State University"
   - "wooden schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/bentley.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/bentley.jpg"
 author: "Rick Spilman"
 description: "In November 1878, the wooden schooner James R. Bentley set sail from Chicago bound for Buffalo loaded with a large shipment of rye. It encountered heavy seas and gale-force winds during the voyage, struck a shoal, and sank near 40 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/bentley.jpg)In November 1878, the wooden schooner [*James R. Bentley*](https://www.shotlinediving.com/docs/lake-huron/mackinac-straits/james-r-bentley-c12720/) set sail from Chicago bound for Buffalo loaded with a large shipment of rye. It encountered heavy seas and gale-force winds during the voyage, struck a shoal, and sank near 40 Mile Point Lighthouse in Lake Huron just north of Rogers City.  The crew was rescued. The rye sank with the schooner.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/bentley.jpg)In November 1878, the wooden schooner [*James R. Bentley*](https://www.shotlinediving.com/docs/lake-huron/mackinac-straits/james-r-bentley-c12720/) set sail from Chicago bound for Buffalo loaded with a large shipment of rye. It encountered heavy seas and gale-force winds during the voyage, struck a shoal, and sank near 40 Mile Point Lighthouse in Lake Huron just north of Rogers City.  The crew was rescued. The rye sank with the schooner.
 
 Now 146 years later, [Mammoth Distilling](https://mammothdistilling.com/) and [Michigan State University](https://www.facebook.com/spartans.msu) (MSU) have teamed up to bring back what has become known as Bentley rye.
 

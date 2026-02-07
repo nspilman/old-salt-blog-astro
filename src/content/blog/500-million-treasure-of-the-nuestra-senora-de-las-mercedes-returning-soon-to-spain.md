@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Within the next day or so, two Spanish Air Force C-130 transport planes will land at Tampa’s MacDill Air Force Base to load 17 tons of gold and silver coins and other artifacts recovered from the wreck of the Spanish Navy’s Nuestra … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/Gold-Spanish-doubloons.jpg)Within the next day or so, two Spanish Air Force C-130 transport planes will land at Tampa’s MacDill Air Force Base to load 17 tons of gold and silver coins and other artifacts recovered from the wreck of the Spanish Navy’s *[Nuestra Senora de las Mercedes](http://en.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_las_Mercedes) by* [Odyssey Marine](http://www.shipwreck.net/).  The 594,000 coins and other artifacts are valued at $500 million.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Gold-Spanish-doubloons.jpg)Within the next day or so, two Spanish Air Force C-130 transport planes will land at Tampa’s MacDill Air Force Base to load 17 tons of gold and silver coins and other artifacts recovered from the wreck of the Spanish Navy’s *[Nuestra Senora de las Mercedes](http://en.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_las_Mercedes) by* [Odyssey Marine](http://www.shipwreck.net/).  The 594,000 coins and other artifacts are valued at $500 million.
 
 In 1804, the British Royal Navy attacked a Spanish treasure fleet off [Cape Santa Maria, Portugal](http://en.wikipedia.org/wiki/Action_of_5_October_1804#cite_note-inflation-fn-0), seizing  £900,000 (equivalent to £62,923,000, or $98,638,000 today) in gold and silver.  As the countries were not at war, Spain called the attack piracy, while the British justified as a “necessity of war.”
 

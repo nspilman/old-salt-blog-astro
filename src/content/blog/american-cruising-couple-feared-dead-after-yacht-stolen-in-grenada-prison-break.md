@@ -14,12 +14,12 @@ tags:
   - "Royal Grenada Police Force"
   - "Salty Dawg Sailing Association"
   - "St Vincent"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/simplicity.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/simplicity.jpg"
 author: "Rick Spilman"
 description: "Two liveaboard cruisers, Ralph Hendry, 66, and Kathy Brandel, 71, are missing and feared dead after their 48′ catamaran Simplicity was apparently stolen during a prison escape from Grenada by three men on February 19th.  On February 21, their boat was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/simplicity.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/simplicity.jpg)
 
 Ralph Hendry and Kathy Brandel, who have been married for 27 years, participated in a recent sailing club rally and were spending the winter in the Caribbean. Credit…via The Salty Dawg Sailing Association
 

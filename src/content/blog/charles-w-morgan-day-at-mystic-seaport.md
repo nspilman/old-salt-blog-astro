@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "This Saturday November 10, 2012, from 10 a.m. – 7:30 p.m,, the Mystic Seaport Museum is celebrating the 71st anniversary of the arrival in Mystic of the whale ship Charles W. Morgan.  The Morgan was launched in 1841 and is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/1welcomeM-300x168.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/1welcomeM-300x168.jpg)  
 This Saturday November 10, 2012, from 10 a.m. – 7:30 p.m,, the [Mystic Seaport Museum](http://www.mysticseaport.org) is celebrating the 71st anniversary of the arrival in Mystic of the whale ship [*Charles W. Morgan*](http://en.wikipedia.org/wiki/Charles_W._Morgan_\(ship\)).  The *Morgan* was launched in 1841 and is the last wooden whaler and the world’s oldest surviving merchant vessel.  Admission to the museum will be free and a spectacular fireworks show is promised in the evening.
 
 [Charles W. Morgan Day](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=B2079971-1E4F-379B-6034791822F9C66B)

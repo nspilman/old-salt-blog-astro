@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "It says something about our society that a missing prop from a classic movie, specifically Bruce, the mechanical shark from Jaws, has its own Facebook page. I’m not exactly sure what it says, but it has to say something.   For those who might … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/jawsoriginal.jpg)It says something about our society that a missing prop from a classic movie, specifically Bruce, the mechanical shark from [Jaws](http://www.amazon.com/gp/product/B0008KLVG4?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0008KLVG4), has its own [Facebook page.](http://www.facebook.com/pages/Bruce-the-mechanical-shark-from-Jaws/56452762396) I’m not exactly sure what it says, but it has to say something.   For those who might be interested, Bruce, the missing mechanical shark has been located in a Los Angeles junkyard.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/jawsoriginal.jpg)It says something about our society that a missing prop from a classic movie, specifically Bruce, the mechanical shark from [Jaws](http://www.amazon.com/gp/product/B0008KLVG4?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0008KLVG4), has its own [Facebook page.](http://www.facebook.com/pages/Bruce-the-mechanical-shark-from-Jaws/56452762396) I’m not exactly sure what it says, but it has to say something.   For those who might be interested, Bruce, the missing mechanical shark has been located in a Los Angeles junkyard.
 
 [‘Jaws’ Shark Hunted Down](http://movies.yahoo.com/feature/movie-talk-jaws-shark-hunted-down.html)  
   

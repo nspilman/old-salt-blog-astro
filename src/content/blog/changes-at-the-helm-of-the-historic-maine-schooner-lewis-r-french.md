@@ -14,12 +14,12 @@ tags:
   - "Maine"
   - "Nathan Sigouin"
   - "oldest commercial sailing vessel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/beckynathan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/beckynathan.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Captain Becky Wright and Nathan Sigouin who have taken over the helm and the stewardship of the historic Maine schooner Lewis R. French. Launched in April 1871, the French is a National Historic Landmark and the oldest commercial sailing vessel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/beckynathan.jpg)Congratulations to Captain Becky Wright and Nathan Sigouin who have taken over the helm and the stewardship of the historic Maine schooner [*Lewis R. Fr**ench*](https://schoonerfrench.com/). Launched in April 1871, the *French* is a [National Historic Landmark](https://schoonerfrench.com/history) and the oldest commercial sailing vessel in the U.S.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/beckynathan.jpg)Congratulations to Captain Becky Wright and Nathan Sigouin who have taken over the helm and the stewardship of the historic Maine schooner [*Lewis R. Fr**ench*](https://schoonerfrench.com/). Launched in April 1871, the *French* is a [National Historic Landmark](https://schoonerfrench.com/history) and the oldest commercial sailing vessel in the U.S.  
 
 From the [schooner’s website](https://schoonerfrench.com/captain):
 

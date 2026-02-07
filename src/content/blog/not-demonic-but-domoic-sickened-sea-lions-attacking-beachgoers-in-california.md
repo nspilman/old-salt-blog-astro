@@ -13,12 +13,12 @@ tags:
   - "Sea Lions"
   - "Southern California"
   - "toxic algal bloom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/sicksealion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/sicksealion.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  \"It looked possessed,\"  the surfer, Rj LaMendola … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/sicksealion.jpg)The [BBC](https://www.bbc.com/news/articles/cx2778894l1o) reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  “It looked possessed,”  the surfer, [Rj LaMendola wrote in a Facebook post](https://www.facebook.com/rjlamendola), saying the animal involved in the encounter was “feral, almost demonic”.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/sicksealion.jpg)The [BBC](https://www.bbc.com/news/articles/cx2778894l1o) reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  “It looked possessed,”  the surfer, [Rj LaMendola wrote in a Facebook post](https://www.facebook.com/rjlamendola), saying the animal involved in the encounter was “feral, almost demonic”.
 
 It turns out that the sea lion was not “demonic” but “domoic.” The sea mammal was poisoned by ingesting domoic acid — a neurotoxin produced by a toxic algal bloom. In the ecosystem, sea lions were perhaps hit the worst, suffering from seizures, brain damage, dehydration, and muscle spasms as hundreds began to die.
 

@@ -11,12 +11,12 @@ tags:
   - "cocaine"
   - "Florida Keys"
   - "Hurricane Debby"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/hurricanedebbycocaine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/hurricanedebbycocaine.jpg"
 author: "Rick Spilman"
 description: "Hurricane Debby brought high winds and storm surge as it traveled up and ultimately came ashore on the Gulf Coast of Florida. It also washed packages of cocaine worth more than $1 million ashore in Islamorada in the Florida Keys, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/hurricanedebbycocaine.jpg)Hurricane Debby brought high winds and storm surge as it traveled up and ultimately came ashore on the Gulf Coast of Florida. It also washed packages of cocaine worth more than $1 million ashore in Islamorada in the Florida Keys, officials said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/hurricanedebbycocaine.jpg)Hurricane Debby brought high winds and storm surge as it traveled up and ultimately came ashore on the Gulf Coast of Florida. It also washed packages of cocaine worth more than $1 million ashore in Islamorada in the Florida Keys, officials said.
 
 Debby, which slammed into the state as a Category 1 hurricane but has since been downgraded to a tropical storm, washed the drugs ashore in the Florida Keys, U.S. Border Patrol acting chief patrol Agent Samuel Briggs II wrote [on social media](https://x.com/USBPChiefMIP/status/1820458017386647772).  
 

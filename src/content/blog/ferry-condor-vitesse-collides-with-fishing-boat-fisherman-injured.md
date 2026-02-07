@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The 86m fast catamaran ferry, Condor Vitesse, collided with a fishing vessel this morning, seriously injuring a French fisherman. UPDATE: The fisherman injured in the crash subsequently died. French fisherman seriously injured in ferry crash The Condor Vitesse, travelling between St Malo in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/condorvitesse.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/condorvitesse.jpg)
 
 Photo: Gordon James
 

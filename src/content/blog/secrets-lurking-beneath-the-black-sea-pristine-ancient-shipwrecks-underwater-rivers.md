@@ -10,7 +10,7 @@ tags:
   - "Black Sea"
   - "Shipwrecks"
   - "underwater rivers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/bbcblacksea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/bbcblacksea.jpg"
 author: "Rick Spilman"
 description: "A short but fascinating video by the BBC’s Dan John about the ancient secrets lurking beneath the Black Sea. After Russia delved the depths of the Black Sea in search of the crashed US drone, the video takes a look … Continue reading &rarr;"
 ---

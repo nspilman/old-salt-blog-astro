@@ -15,12 +15,12 @@ tags:
   - "sabotage suspected"
   - "telecommunications cable"
   - "undersea cable"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/cablescut.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/cablescut.jpg"
 author: "Rick Spilman"
 description: "Early Monday morning, a 1,170km (730-mile) telecommunications cable in the Baltic Sea between Finland and Germany was severed, while a 218km internet link between Lithuania and Sweden’s Gotland Island stopped working on Sunday. German Defense Minister Boris Pistorius has said … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/cablescut.jpg)Early Monday morning, a 1,170km (730-mile) telecommunications cable in the Baltic Sea between Finland and Germany was severed, while a 218km internet link between Lithuania and Sweden’s Gotland Island stopped working on Sunday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/cablescut.jpg)Early Monday morning, a 1,170km (730-mile) telecommunications cable in the Baltic Sea between Finland and Germany was severed, while a 218km internet link between Lithuania and Sweden’s Gotland Island stopped working on Sunday.
 
 German Defense Minister Boris Pistorius has said damage to two undersea cables looks like an act of sabotage and a “hybrid action”, without knowing who is to blame.
 

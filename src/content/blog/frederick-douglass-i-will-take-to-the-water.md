@@ -13,12 +13,12 @@ tags:
   - "Frederick Douglass"
   - "Maryland"
   - "slavery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/freddouglass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg"
 author: "Rick Spilman"
 description: "An updated repost in honor of Black History Month. We are a few days late celebrating Frederick Douglass‘ birthday or at least the day that he celebrated as his birthday. As a slave, he never knew the date of his birth … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/freddouglass.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg)
 
 Frederick Douglas
 

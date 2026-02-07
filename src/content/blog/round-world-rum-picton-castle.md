@@ -13,12 +13,12 @@ tags:
   - "Kelt"
   - "Picton Castle"
   - "Tour du Monde"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/pictonrum.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/pictonrum.jpg"
 author: "Rick Spilman"
 description: "When the barque Picton Castle embarks on its seventh circumnavigation this April, it will have a special cargo of four barrels of rum from Lunenburg’s Ironworks Distillery stored in the hold. If all goes well when the ship returns to Lunenburg in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/pictonrum.jpg)When the barque [*Picton Castle*](http://www.picton-castle.com/) embarks on its [seventh circumnavigation](http://www.picton-castle.com/voyages/the-voyages/duplicate-of-world-voyage-7.html) this April, it will have a special cargo of four barrels of rum from Lunenburg’s [Ironworks Distillery](https://ironworksdistillery.com/) stored in the hold. If all goes well when the ship returns to Lunenburg in May of 2019, she will be carrying the same four barrels, and the rum will be better for it. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/pictonrum.jpg)When the barque [*Picton Castle*](http://www.picton-castle.com/) embarks on its [seventh circumnavigation](http://www.picton-castle.com/voyages/the-voyages/duplicate-of-world-voyage-7.html) this April, it will have a special cargo of four barrels of rum from Lunenburg’s [Ironworks Distillery](https://ironworksdistillery.com/) stored in the hold. If all goes well when the ship returns to Lunenburg in May of 2019, she will be carrying the same four barrels, and the rum will be better for it. 
 
 Why carry four barrels, 900 liters, of rum around the world? In the age of sail, wine would often spoil on long voyages. Distilled liquors, however, were often improved by the motion of the ship, as well as changes in atmospheric pressure and temperature. With luck the Ironworks’ ‘Round the World Rum will be nicely aged by the voyage. 
 
@@ -28,4 +28,4 @@ I wonder if the crew is familiar with the phrase, “[sucking the monkey](http:/
 
 Ironworks is not the only distillery offering ocean-aged spirits. If you prefer cognac or don’t want to wait until 2019 for the Ironworks rum, there is a really very nice ocean-matured cognac by [Kelt](http://keltcognac.com/).  Oak barrels containing [Kelt VSOP Tour du Monde](http://keltcognac.com/collection/vsop/) cognac spend roughly ninety days at sea, circling the world in a shipping container, before returning to France to be bottled. Each bottle includes the name of the ship and the dates of the port calls in its voyage around the globe. Now, a container ship is not nearly as lovely as the three-masted *Picton Castle*, but the cognac is very smooth and well balanced. I recommend it highly. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/keltvsop.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/keltvsop.jpg)

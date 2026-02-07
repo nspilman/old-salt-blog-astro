@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A disturbing report from Reuters:  The already endangered African penguin is being driven away from its natural habitat off the east coast of South Africa due to noise from ship refueling, a scientific study has found. The number of African … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/african-penquins.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/african-penquins.jpg)
 
 REUTERS/Sumaya Hisham/File Photo
 

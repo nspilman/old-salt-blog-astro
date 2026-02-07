@@ -12,7 +12,7 @@ tags:
   - "humpback whale"
   - "megapod"
   - "New South Wales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/humbackfeedingfrenzy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/humbackfeedingfrenzy.jpg"
 author: "Rick Spilman"
 description: "For only the second time, a \"megapod\" of humpbacks whales, estimated to be between 100 and 150 animals, was sighted off the south coast of Australia’s New South Wales feasting on baitfish in what was described as a feeding frenzy.  … Continue reading &rarr;"
 ---

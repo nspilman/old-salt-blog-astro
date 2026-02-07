@@ -16,12 +16,12 @@ tags:
   - "MV Dali"
   - "National Transportation Safety Board"
   - "NTSB"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/dali2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/dali2.jpg"
 author: "Rick Spilman"
 description: "The National Transportation Safety Board (NTSB) said that a single loose wire on the 984-foot-long container ship MV Dali caused an electrical blackout that led to the 10,000 TEU ship veering and contacting the nearby Francis Scott Key Bridge in … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/dali2.jpg)The [National Transportation Safety Board (NTSB) said that a single loose wire](https://www.ntsb.gov/news/press-releases/Pages/NR20251118.aspx) on the 984-foot-long container ship [MV *Dali*](https://www.vesselfinder.com/vessels/details/9697428) caused an electrical blackout that led to the 10,000 TEU ship veering and contacting the nearby [Francis Scott Key Bridge](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_\(Baltimore\)) in [Baltimore,](https://en.wikipedia.org/wiki/Port_of_Baltimore) Maryland, which then collapsed, killing six highway workers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/dali2.jpg)The [National Transportation Safety Board (NTSB) said that a single loose wire](https://www.ntsb.gov/news/press-releases/Pages/NR20251118.aspx) on the 984-foot-long container ship [MV *Dali*](https://www.vesselfinder.com/vessels/details/9697428) caused an electrical blackout that led to the 10,000 TEU ship veering and contacting the nearby [Francis Scott Key Bridge](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_\(Baltimore\)) in [Baltimore,](https://en.wikipedia.org/wiki/Port_of_Baltimore) Maryland, which then collapsed, killing six highway workers. 
 
 On March 26, 2024, at about 0129 local time, the 984-foot-long Singapore-flagged container ship MV *Dali* was transiting out of Baltimore Harbor when it experienced losses of electrical power, propulsion, and steering.. The ship struck Pier 17, the southern pier that supported the central span of the Francis Scott Key Bridge.
 

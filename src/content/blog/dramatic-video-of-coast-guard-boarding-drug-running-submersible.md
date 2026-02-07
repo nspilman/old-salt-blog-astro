@@ -10,7 +10,7 @@ tags:
   - "submersible"
   - "US Coast Guard"
   - "USCGC Munro"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/subchase1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/subchase1.jpg"
 author: "Rick Spilman"
 description: "Here is an amazing short video of the US Coast Guard overtaking and boarding a drug-running submersible. A Coast Guardsman is seen leaping aboard the submersible while underway and forcing the hatch open to apprehend the smugglers. The capture took … Continue reading &rarr;"
 ---

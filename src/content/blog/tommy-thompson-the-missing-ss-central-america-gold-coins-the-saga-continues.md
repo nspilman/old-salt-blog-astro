@@ -12,12 +12,12 @@ tags:
   - "gold coins"
   - "SS Central America"
   - "Tommy Thompson"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/tthompson1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/tthompson1.jpg"
 author: "Rick Spilman"
 description: "This is a bizarre story which we have been following for, literally, years. It looked for an instant like it might be resolved and then things fells apart once again. Tommy Thompson — engineer, treasure hunter, alleged swindler, and the current … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/tthompson1.jpg)This is a bizarre story which we have been following for, literally, [years](http://www.oldsaltblog.com/?s=Tommy+Thompson). It looked for an instant like it might be resolved and then things fells apart once again. Tommy Thompson — engineer, treasure hunter, alleged swindler, and the current occupant of a federal prison — had made a deal to turn over 500 missing gold coins from the wreck of the [SS *Central America*](https://en.wikipedia.org/wiki/SS_Central_America), which sank in 1857 off the South Carolina coast. Thompson has been in held in prison on charges of contempt, pending the return of the missing coins, since he was apprehended as a fugitive in 2015. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/tthompson1.jpg)This is a bizarre story which we have been following for, literally, [years](http://www.oldsaltblog.com/?s=Tommy+Thompson). It looked for an instant like it might be resolved and then things fells apart once again. Tommy Thompson — engineer, treasure hunter, alleged swindler, and the current occupant of a federal prison — had made a deal to turn over 500 missing gold coins from the wreck of the [SS *Central America*](https://en.wikipedia.org/wiki/SS_Central_America), which sank in 1857 off the South Carolina coast. Thompson has been in held in prison on charges of contempt, pending the return of the missing coins, since he was apprehended as a fugitive in 2015. 
 
 Last week, [the deal fell through](https://www.dispatch.com/news/20181117/treasure-hunter-tommy-thompson-testifies-that-he-doesnt-have-access-to-missing-gold-coins) when Thompson said he did not know how to obtain the coins. He alleges that his then-girlfriend gave the coins to a stranger in the lobby of a self-storage business in Fort Lauderdale, Florida, in 2010. Thompson testified that he couldn’t recall the details of the exchange, other than making plans on the phone. He said that the stranger presumably deposited the coins in Belize, where Thompson had set up a trust. He said that the trust, which he believes is holding the coins, has not responded to his communications. 
 

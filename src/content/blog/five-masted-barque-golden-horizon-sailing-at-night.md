@@ -12,7 +12,7 @@ tags:
   - "France II"
   - "Golden Horizon"
   - "Tradewind Voyages"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/goldenhorizonnight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/goldenhorizonnight.jpg"
 author: "Rick Spilman"
 description: "A short video of Tradewind Voyages’ Golden Horizon sailing at night between Poole & Portland. Golden Horizon is the largest square-rigged sailing ship in the world. A 272 passenger, five-masted barque, she is 532 feet (162 meters) long, with a … Continue reading &rarr;"
 ---

@@ -9,7 +9,7 @@ categories:
 tags:
   - "mystic seaport"
   - "oyster"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/mysticoyster.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/mysticoyster.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video about oystering in Long Island Sound from the Mystic Seaport Museum.  Farming the Sea: Oystering at Mystic Seaport More information about oysters from the Mystic Seaport site: … Continue reading &rarr;"
 ---

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "After a second round of testing, the converted O/B/O skimmer A Whale has been judged a failure in skimming oil from the Deepwater Horizon spill in the Gulf of Mexico. Giant oil skimmer ‘A Whale’ deemed a bust for Gulf … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/awhaleskimmer.jpg)After a second round of testing, the converted O/B/O skimmer *A Whale* has been judged a failure in skimming oil from the Deepwater Horizon spill in the Gulf of Mexico.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/awhaleskimmer.jpg)After a second round of testing, the converted O/B/O skimmer *A Whale* has been judged a failure in skimming oil from the Deepwater Horizon spill in the Gulf of Mexico.
 
 [Giant oil skimmer ‘A Whale’ deemed a bust for Gulf of Mexico spill](http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/07/giant_oil_skimmer_a_whale_deem.html)
 

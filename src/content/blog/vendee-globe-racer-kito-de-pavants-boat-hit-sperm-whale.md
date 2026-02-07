@@ -10,7 +10,7 @@ tags:
   - "Kito de Pavant"
   - "sperm whale"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/cachalot.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/cachalot.jpg"
 author: "Rick Spilman"
 description: "Last December we posted — so far, of the original 29 competitors in the Vendee Globe singlehanded around the world race, 5 have been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. One of the … Continue reading &rarr;"
 ---

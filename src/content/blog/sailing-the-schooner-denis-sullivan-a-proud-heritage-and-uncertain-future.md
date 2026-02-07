@@ -11,7 +11,7 @@ tags:
   - "Denis Sullivan"
   - "Milwaukee"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/dsullivan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/dsullivan.jpg"
 author: "Rick Spilman"
 description: "A short and lovely video from two years ago about sailing from Milwaukee on the three-masted, wooden schooner Denis Sullivan. Like so many other vessels, the schooner’s 2020 sailing season was canceled due to the pandemic and sadly, her future … Continue reading &rarr;"
 ---

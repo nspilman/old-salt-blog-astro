@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Recently the New York Times on its \"Answers to Readers’ Questions About New York\" blog was asked, \"Can you tell me anything about a Hudson River pirate named Sadie the Goat?\"  Sadie’s tale is worth retelling, whether or not she ever … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/13fyi-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/13fyi-articleLarge.jpg)
 
 from Herbert Asbury's Gangs of New York, 1929
 

@@ -10,12 +10,12 @@ tags:
   - "Mayflower"
   - "pandemic"
   - "Pilgrims"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/mayflowerII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/mayflowerII.jpg"
 author: "Rick Spilman"
 description: "On the upcoming 400th anniversary of the arrival of the Pilgrims on the Mayflower, the ongoing pandemic has seriously disrupted plans for the commemoration. The replica ship Mayflower II has returned to its homeport in Plymouth, MA, after completing an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/mayflowerII.jpg)On the upcoming 400th anniversary of the arrival of the Pilgrims on the Mayflower, the ongoing pandemic has seriously disrupted plans for the commemoration. The replica ship [*Mayflower II*](https://www.plimoth.org/explore/mayflower) has [returned to its homeport in Plymouth, MA](http://www.oldsaltblog.com/2020/08/drone-video-of-mayflower-ii-returning-to-plymouth/), after completing an [$11 million refit at the Mystic Seaport Museum’s duPont Preservation Shipyard](http://www.oldsaltblog.com/2020/07/drone-footage-of-mayflower-ii-leaving-mystic-seaport/). But, the art exhibits, festivals, lectures, and regattas planned to celebrate the anniversary have all been scaled back, put on hold, or canceled altogether. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/mayflowerII.jpg)On the upcoming 400th anniversary of the arrival of the Pilgrims on the Mayflower, the ongoing pandemic has seriously disrupted plans for the commemoration. The replica ship [*Mayflower II*](https://www.plimoth.org/explore/mayflower) has [returned to its homeport in Plymouth, MA](http://www.oldsaltblog.com/2020/08/drone-video-of-mayflower-ii-returning-to-plymouth/), after completing an [$11 million refit at the Mystic Seaport Museum’s duPont Preservation Shipyard](http://www.oldsaltblog.com/2020/07/drone-footage-of-mayflower-ii-leaving-mystic-seaport/). But, the art exhibits, festivals, lectures, and regattas planned to celebrate the anniversary have all been scaled back, put on hold, or canceled altogether. 
 
 The [Boston Globe](https://www.bostonglobe.com/2020/09/22/nation/some-see-irony-covids-impact-mayflower-commemoration/) reports that some find irony in the coincidence of the pandemic with the anniversary. They note that historian Elizabeth Fenn finds a certain perverse poetry in that.  
 “The irony obviously runs quite deep,” says Fenn, a history professor at the University of Colorado Boulder who has studied disease in Colonial America. “Novel infections did MOST of the dirty work of colonization.”

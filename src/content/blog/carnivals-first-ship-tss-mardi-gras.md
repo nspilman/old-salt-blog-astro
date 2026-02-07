@@ -11,12 +11,12 @@ tags:
   - "Carnival"
   - "Empress of Canada"
   - "Mardi Gras"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/mardigras.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/mardigras.jpg"
 author: "Rick Spilman"
 description: "Today Carnival Corporation is the largest operator of cruise ships in the world with a combined fleet of over 100 vessels across 10 cruise line brands. Back in 1972, however, it owned exactly one ship, the RMS Empress of Canada, which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/mardigras.jpg)Today [Carnival Corporation](https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc) is the largest operator of cruise ships in the world with a combined fleet of over 100 vessels across 10 cruise line brands. Back in 1972, however, it owned exactly one ship, the RMS *[Empress of Canada](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_\(1960\)),* which they renamed *[Mardi Gras](http://www.sun-sentinel.com/features/fl-cruise-ships-nostalgia-websites-20141030-story.html).* On the day after Mardi Gras, it seems like a good time to take a quick look back at Carnival’s very first ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/mardigras.jpg)Today [Carnival Corporation](https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc) is the largest operator of cruise ships in the world with a combined fleet of over 100 vessels across 10 cruise line brands. Back in 1972, however, it owned exactly one ship, the RMS *[Empress of Canada](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_\(1960\)),* which they renamed *[Mardi Gras](http://www.sun-sentinel.com/features/fl-cruise-ships-nostalgia-websites-20141030-story.html).* On the day after Mardi Gras, it seems like a good time to take a quick look back at Carnival’s very first ship.
 
 RMS *Empress of Canada* was an ocean liner built in 1961 by Vickers-Armstrongs, Walker-on-Tyne, England for Canadian Pacific Steamships Ltd.  The liner sailed in the trans-Atlantic trade between Liverpool and Canada for a decade before the growth of air travel drove her and so many other passenger liners from the sea. 
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We recently have had several posts regarding rogue waves – a review of Susan Casey’s new book The Wave and the BBC Documentary  Freak Waves.   Oceanographers generally dismissed reports of rogue waves as wild exaggerations or \"sea stories,\" until a rogue wave was documented … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/britishisles.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/britishisles.jpg)
 
 British Isles
 

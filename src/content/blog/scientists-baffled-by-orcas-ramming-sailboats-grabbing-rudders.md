@@ -11,12 +11,12 @@ tags:
   - "ramming"
   - "rudder"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "Another 2020 story. Despite being dubbed killer whales, orcas in the wild have a long history of not attacking humans and rarely attacking boats. [Edited — see note at the end of the post.] (The situation with orcas in captivity … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)Another 2020 story. Despite being dubbed killer whales, orcas in the wild have a long history of not attacking humans and rarely attacking boats. \[Edited — see note at the end of the post.\] (The situation with orcas in captivity is not as clear.) But, something very strange has been happening recently off the coast of Spain and Portugal. Pods of orcas have been reported to be ramming sailboats and often grabbing their rudders. The encounters have been reported from Gibraltar to Galacia and have caused significant damage, most often to the boat’s steering. [Scientists are at a loss to explain the behavior](https://www.theguardian.com/environment/2020/sep/13/the-tale-of-the-killer-whales).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)Another 2020 story. Despite being dubbed killer whales, orcas in the wild have a long history of not attacking humans and rarely attacking boats. \[Edited — see note at the end of the post.\] (The situation with orcas in captivity is not as clear.) But, something very strange has been happening recently off the coast of Spain and Portugal. Pods of orcas have been reported to be ramming sailboats and often grabbing their rudders. The encounters have been reported from Gibraltar to Galacia and have caused significant damage, most often to the boat’s steering. [Scientists are at a loss to explain the behavior](https://www.theguardian.com/environment/2020/sep/13/the-tale-of-the-killer-whales).
 
 [The Guardian](https://www.theguardian.com/environment/2020/sep/13/killer-whales-launch-orchestrated-attacks-on-sailing-boats) reports that in the last two months, from southern to northern [Spain](https://www.theguardian.com/world/spain), sailors have sent distress calls after worrying encounters. Two boats lost part of their rudders, at least one crew member suffered bruising from the impact of the ramming, and several boats sustained serious damage.
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Update: From USCG Update 4 — Life jackets, life rings, containers and an oil sheen have been located by Coast Guard aircrews.  The objects have not been confirmed to be from the El Faro at this time. Yesterday, the US Coast Guard … Continue reading &rarr;"
 ---
 
-![liferingelfaro](http://www.oldsaltblog.com/wp-content/uploads/2015/10/liferingelfaro.jpg)***Update**:* [From USCG Update 4](http://www.uscgnews.com/go/doc/4007/2607474/) — Life jackets, life rings, containers and an oil sheen have been located by Coast Guard aircrews.  The objects have not been confirmed to be from the El Faro at this time.
+![liferingelfaro](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/liferingelfaro.jpg)***Update**:* [From USCG Update 4](http://www.uscgnews.com/go/doc/4007/2607474/) — Life jackets, life rings, containers and an oil sheen have been located by Coast Guard aircrews.  The objects have not been confirmed to be from the El Faro at this time.
 
 Yesterday, the [US Coast Guard found a life ring from the *El Faro*](http://www.detroitnewstime.com/regional/103890-el-faro-cargo-ship-life-ring-spotted-by-us-coast-guard-airplane.html), a ro/ro cargo ship bound from Jacksonville to Puerto Rico, which disappeared last Thursday in the path of Hurricane Joaquin. In a [statement released last night, Tim Nolan, president of TOTE Maritime, the ship’s operator, said:](http://www.scribd.com/doc/283568153/TOTE-Maritime-PR-Release-on-Life-Ring-10-3-15-830pm-EST#)
 

@@ -11,7 +11,7 @@ tags:
   - "Fishing on Horseback"
   - "Horseback"
   - "Shrimp Fishing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/horsefishing.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/horsefishing.jpg"
 author: "Rick Spilman"
 description: "For nearly 700 years, fishermen have been trawling for shrimp from horseback in the small town of Oostduinkerke, on the Belgian coast. Whether the tradition is dying or enduring may be the subject of debate.  It is, however, both singular … Continue reading &rarr;"
 ---

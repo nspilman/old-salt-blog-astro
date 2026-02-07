@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Andrew Fitzgerald, the last of the four-man crew of the Coast Guard Motor Lifeboat CG-36500, which rescued the crew of the SS Pendleton, has died at the age of 87. On February 18, 1952, the 36′ motor lifeboat set out from Station Chatham, Massachusetts, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/AndrewFitzgerald.jpg)Andrew Fitzgerald, the last of the four-man crew of the Coast Guard Motor Lifeboat [CG-36500](https://en.wikipedia.org/wiki/Coast_Guard_Motor_Lifeboat_CG_36500), which rescued the crew of the SS *Pendleton*, has died at the age of 87.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/AndrewFitzgerald.jpg)Andrew Fitzgerald, the last of the four-man crew of the Coast Guard Motor Lifeboat [CG-36500](https://en.wikipedia.org/wiki/Coast_Guard_Motor_Lifeboat_CG_36500), which rescued the crew of the SS *Pendleton*, has died at the age of 87.
 
 On February 18, 1952, the 36′ motor lifeboat set out from Station Chatham, Massachusetts, to attempt to rescue the crew of the T2 tanker [SS *Pendleton*](https://en.wikipedia.org/wiki/History_of_the_United_States_Coast_Guard#Pendleton_rescue), which had broken in half in a winter Nor’easter off the New England coast. In the volunteer crew, Andrew Fitzgerald served as the engineman, while Coxswain Bernie Webber was in command, with Richard Livesey, and Ervin Maske serving as seamen.
 

@@ -13,12 +13,12 @@ tags:
   - "Mazut"
   - "only remaining aircraft carrier in the Russian fleet"
   - "Russian Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg"
 author: "Rick Spilman"
 description: "There are reports that the Russian Navy may soon scrap its notional flagship, the aircraft carrier Admiral Kuznetsov. Since the 1990s, the Kuznetsov has been the only remaining aircraft carrier in the Russian fleet. Built in the final days of … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2019/12/russiancarrieradmiralK.jpg)There are reports that the Russian Navy may soon scrap its notional flagship, the aircraft carrier [*Admiral Kuznetsov*](https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov). Since the 1990s, the *Kuznetsov* has been the only remaining aircraft carrier in the Russian fleet. Built in the final days of the Soviet Union, the ship has an unenviable record of repeated breakdowns and casualties. It has been out of service for repairs and upgrading since March 2017. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/russiancarrieradmiralK.jpg)There are reports that the Russian Navy may soon scrap its notional flagship, the aircraft carrier [*Admiral Kuznetsov*](https://en.wikipedia.org/wiki/Russian_aircraft_carrier_Admiral_Kuznetsov). Since the 1990s, the *Kuznetsov* has been the only remaining aircraft carrier in the Russian fleet. Built in the final days of the Soviet Union, the ship has an unenviable record of repeated breakdowns and casualties. It has been out of service for repairs and upgrading since March 2017. 
 
 The *Kuznetsov* was ordered in 1981, commissioned in 1990, but was not fully operational until 1995. Between bad boiler tubes, combustion problems, and burning Mazut, a Russian version of Bunker C, the carrier is notorious for belching a vast cloud of black smoke whenever underway. Given its fuel and chronic boiler problems, the *Kuznetsov* is often referred to as having a “weak heart.”
 

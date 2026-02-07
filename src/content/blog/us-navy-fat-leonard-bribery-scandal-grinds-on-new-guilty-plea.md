@@ -14,12 +14,12 @@ tags:
   - "pleaded guilty"
   - "Robert Gorsuch"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
 description: "The \"Fat Leonard\" Navy bribery and corruption scandal keeps grinding inexorably onward. One might say that the pace is glacial, except in an age of climate change, glaciers appear to be moving faster. There has been a recent guilty plea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg)
 
 “Fat Leonard” Francis
 

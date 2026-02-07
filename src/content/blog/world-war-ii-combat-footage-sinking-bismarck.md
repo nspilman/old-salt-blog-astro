@@ -7,7 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/05/bismarkfootage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/bismarkfootage.jpg"
 author: "Rick Spilman"
 description: "Seventy-five years today, the Royal Navy sank the German battleship Bismark in a three-day running battle in which the Bismark sunk the British battle cruiser HMS Hood.  Ultimately, the German battleship was disabled when her rudder was damaged in a … Continue reading &rarr;"
 ---

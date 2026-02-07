@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I have always been a John Paul Jones sceptic.   Was he a great naval leader or merely a prima dona?  Was he so difficult a personality that he was never an effective leader?   He was at the very least a … Continue reading &rarr;"
 ---
 
-![pirate5](http://www.oldsaltblog.com/wp-content/uploads/2009/09/pirate5.jpg)
+![pirate5](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/pirate5.jpg)
 
 I have always been a John Paul Jones sceptic.   Was he a great naval leader or merely a prima dona?  Was he so difficult a personality that he was never an effective leader?   He was at the very least a complicated figure.   Even his greatest triumph, the slugging match between the [*Bonhomme Richard* and the *Serapis*](http://militaryhistory.about.com/od/navalbattles16001800/p/bonhomme.htm), while a huge moral victory for the colonies, was a strategic failure.  Though the *Seraphis* was defeated, she did ensure that the 41-ship convoy that she was escorting made good their escape.   If the American squadron had been fighting only the British, rather than each other, the victory might have been more complete.
 

@@ -16,12 +16,12 @@ tags:
   - "Ocean Network Express"
   - "Russian sanctions"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/maerskessen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/maerskessen.jpg"
 author: "Rick Spilman"
 description: "The impact of Russian sanctions is spreading across the shipping industry. Yesterday, Britain announced that Russian ships would be banned from UK ports as part of a new package of sanctions against Russia. Transport Secretary Grant Shapps said that he … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/maerskessen.jpg)The impact of Russian sanctions is spreading across the shipping industry. Yesterday, [Britain announced that Russian ships would be banned](https://www.washingtonpost.com/world/2022/02/28/uk-ports-ukraine/) from UK ports as part of a new package of sanctions against Russia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/maerskessen.jpg)The impact of Russian sanctions is spreading across the shipping industry. Yesterday, [Britain announced that Russian ships would be banned](https://www.washingtonpost.com/world/2022/02/28/uk-ports-ukraine/) from UK ports as part of a new package of sanctions against Russia.
 
 Transport Secretary Grant Shapps said that he has written to all U.K. ports and asked them “not to provide access” to any Russian ship.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The winter storm that struck Royal Caribbean’s Anthem of the Seas as it cruised off the coast of the Carolinas this weekend also set off a storm on Twitter.  Passengers and crew tweeted photos and video of overturned furniture, damaged rails, and … Continue reading &rarr;"
 ---
 
-![anthem2](http://www.oldsaltblog.com/wp-content/uploads/2016/02/anthem2.jpg)The winter storm that struck Royal Caribbean’s *[Anthem of the Seas](https://en.wikipedia.org/wiki/MS_Anthem_of_the_Seas)* as it cruised off the coast of the Carolinas this weekend also set off a storm on Twitter.  Passengers and crew tweeted photos and video of overturned furniture, damaged rails, and reported large waves and winds of 100-150 MPH. No one was reported to be have been injured.
+![anthem2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem2.jpg)The winter storm that struck Royal Caribbean’s *[Anthem of the Seas](https://en.wikipedia.org/wiki/MS_Anthem_of_the_Seas)* as it cruised off the coast of the Carolinas this weekend also set off a storm on Twitter.  Passengers and crew tweeted photos and video of overturned furniture, damaged rails, and reported large waves and winds of 100-150 MPH. No one was reported to be have been injured.
 
 As reported by the [Mirror](http://www.mirror.co.uk/news/world-news/anthem-seas-watch-passengers-terror-7330379), the passenger and crew tweets ranged from fearful to humorous.  One traveler posted a photo of smashed crockery with the message, “Lord, please help us.”
 
@@ -29,7 +29,7 @@ Passenger Jacob Ibrag tweeted, “Hungry, tired and seeking prayer from all of 
 
 [Maggie Kulbokas](https://twitter.com/maggiekulbokas), on the other hand, tweeted “To avoid cannibalism, cabin minibars are free during 100mph+ wind storm.”
 
-[![anthem1](http://www.oldsaltblog.com/wp-content/uploads/2016/02/anthem1.jpg)Greg](https://twitter.com/flatgreg) was low key, posting a photo of dozens of overturned tables and chairs with the caption, “Things are a little out of place” and of sections of damaged overhead panels, with the comment, “Deck 14 needs some work.”
+[![anthem1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem1.jpg)Greg](https://twitter.com/flatgreg) was low key, posting a photo of dozens of overturned tables and chairs with the caption, “Things are a little out of place” and of sections of damaged overhead panels, with the comment, “Deck 14 needs some work.”
 
 The ship never sent a distress call, but was contacted by the Coast Guard after it observed the Twitter storm.
 

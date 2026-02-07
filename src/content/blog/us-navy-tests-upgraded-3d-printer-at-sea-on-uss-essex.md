@@ -13,12 +13,12 @@ tags:
   - "USS Essex"
   - "Wasp-class Landing Helicopter Dock"
   - "Xerox ElemX 3D printer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/ussessex1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ussessex1.jpg"
 author: "Rick Spilman"
 description: "The USS Essex, a Wasp-class Landing Helicopter Dock (LHD), recently loaded a new 15,000-pound 3D printer, just prior to departing to participate in the multinational Rim of the Pacific exercise underway at Hawaii and California. The amphibious assault ship will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ussessex1.jpg)The [USS *Essex*](https://en.wikipedia.org/wiki/USS_Essex_\(LHD-2\)), a Wasp-class Landing Helicopter Dock (LHD), recently loaded a new [15,000-pound 3D printer](https://www.cpf.navy.mil/News/Article/3089322/uss-essex-first-ship-to-participate-in-nps-3d-printer-research/), just prior to departing to participate in the multinational [Rim of the Pacific](https://en.wikipedia.org/wiki/Exercise_RIMPAC#RIMPAC_2022) exercise underway at Hawaii and California. The amphibious assault ship will be the first to test the new 3D printer during underway conditions at sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ussessex1.jpg)The [USS *Essex*](https://en.wikipedia.org/wiki/USS_Essex_\(LHD-2\)), a Wasp-class Landing Helicopter Dock (LHD), recently loaded a new [15,000-pound 3D printer](https://www.cpf.navy.mil/News/Article/3089322/uss-essex-first-ship-to-participate-in-nps-3d-printer-research/), just prior to departing to participate in the multinational [Rim of the Pacific](https://en.wikipedia.org/wiki/Exercise_RIMPAC#RIMPAC_2022) exercise underway at Hawaii and California. The amphibious assault ship will be the first to test the new 3D printer during underway conditions at sea.
 
 Unlike previous 3D printers tested by the Navy that print objects using polymers or metal powders, the Xerox ElemX 3D printer uses aluminum wire to create parts and tools. 
 

@@ -14,12 +14,12 @@ tags:
   - "Honolulu harbor"
   - "Port Glasgow"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "The Hawaii Department of Transportation’s Harbors Division put out a second request for proposals (RFP) for the \"removal of the derelict sailing vessel Falls of Clyde from Honolulu Harbor.\" A previous RFP issued in late April was later canceled after a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)The Hawaii Department of Transportation’s Harbors Division put out a second request for proposals (RFP) for the [“removal of the derelict sailing vessel](http://www.oldsaltblog.com/2021/05/last-ditch-appeal-to-save-the-tall-ship-falls-of-clyde-from-scrapping-or-scuttling/) [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor.” A previous RFP issued in late April was later canceled after a review had found “not all state processes were followed.” The new RFP requires that bids be submitted by August 2nd.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)The Hawaii Department of Transportation’s Harbors Division put out a second request for proposals (RFP) for the [“removal of the derelict sailing vessel](http://www.oldsaltblog.com/2021/05/last-ditch-appeal-to-save-the-tall-ship-falls-of-clyde-from-scrapping-or-scuttling/) [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor.” A previous RFP issued in late April was later canceled after a review had found “not all state processes were followed.” The new RFP requires that bids be submitted by August 2nd.
 
 The [Star Advertiser](https://www.staradvertiser.com/2021/07/01/breaking-news/take-two-hawaii-officials-once-again-solicit-bids-to-dispose-of-the-historic-falls-of-clyde/) reports that the contractor will need to comply with any and all federal, state, and county laws, statutes, and regulations including, but not limited to environmental and historic preservation acts, as well as consultations with federal agencies and other requirements.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "When we posted yesterday about the Statue of Liberty and Ellis Island being closed by superstorm Sandy, Liam Hegarty pointed out in a comment that the Intrepid Sea, Air & Space Museum is also closed until December due to storm damage. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/enterprisesandyba.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/enterprisesandyba.jpg)
 
 Space Shuttle Enterprise Pavilion on SS Intrepid Before and After Sandy
 

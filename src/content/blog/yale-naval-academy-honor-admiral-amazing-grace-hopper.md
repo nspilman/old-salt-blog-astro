@@ -12,12 +12,12 @@ tags:
   - "Grace Murray Hopper"
   - "Mother of computing"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/gracehopper.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/gracehopper.jpg"
 author: "Rick Spilman"
 description: "Yale University has announced that it is renaming Calhoun College the Grace Hopper College in honor of Grace Murray Hopper. The University decided to change the name of the residential college which had been named after John C. Calhoun, who attended Yale in 1804 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/gracehopper.jpg)Yale University has announced that it is renaming [Calhoun College](https://en.wikipedia.org/wiki/Calhoun_College) the [Grace Hopper College](http://news.yale.edu/2017/02/11/yale-change-calhoun-college-s-name-honor-grace-murray-hopper-0) in honor of [Grace Murray Hopper](https://en.wikipedia.org/wiki/Grace_Murray_Hopper "Grace Murray Hopper"). The University decided to change the name of the residential college which had been named after [John C. Calhoun](https://en.wikipedia.org/wiki/John_C._Calhoun), who attended Yale in 1804 and was also a white supremacist and vocal advocate of slavery. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received both a masters degree and a PhD in mathematics from Yale. She was nicknamed  “Amazing Grace” and is often referred to as the “mother of computing.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/gracehopper.jpg)Yale University has announced that it is renaming [Calhoun College](https://en.wikipedia.org/wiki/Calhoun_College) the [Grace Hopper College](http://news.yale.edu/2017/02/11/yale-change-calhoun-college-s-name-honor-grace-murray-hopper-0) in honor of [Grace Murray Hopper](https://en.wikipedia.org/wiki/Grace_Murray_Hopper "Grace Murray Hopper"). The University decided to change the name of the residential college which had been named after [John C. Calhoun](https://en.wikipedia.org/wiki/John_C._Calhoun), who attended Yale in 1804 and was also a white supremacist and vocal advocate of slavery. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received both a masters degree and a PhD in mathematics from Yale. She was nicknamed  “Amazing Grace” and is often referred to as the “mother of computing.”
 
 In September, 2016, the [U.S. Naval Academy announced that it will name its future cyber building](https://www.navytimes.com/articles/naval-academy-to-honor-computer-scientist-grace-hopper) after Grace Hopper. The cyber facility, which will be called Hopper Hall, will be the first building named after a woman at the three main service academies.
 

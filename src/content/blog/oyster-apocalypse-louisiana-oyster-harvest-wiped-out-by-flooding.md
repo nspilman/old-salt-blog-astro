@@ -12,12 +12,12 @@ tags:
   - "Louisiana"
   - "oyster"
   - "salinity"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/oysterhshell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/oysterhshell.jpg"
 author: "Rick Spilman"
 description: "Acme Oyster House has been a New Orleans icon since 1910. My first memory of oysters on the half shell was slurping down a dozen at Acme more than a half-century ago. So, I was alarmed to read that Acme … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/oysterhshell.jpg)[Acme Oyster House](https://acmeoyster.com/) has been a New Orleans icon since 1910. My first memory of oysters on the half shell was slurping down a dozen at Acme more than a half-century ago. So, I was alarmed to read that Acme has, at least temporarily, stopped serving raw oysters because they cannot get enough local oysters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/oysterhshell.jpg)[Acme Oyster House](https://acmeoyster.com/) has been a New Orleans icon since 1910. My first memory of oysters on the half shell was slurping down a dozen at Acme more than a half-century ago. So, I was alarmed to read that Acme has, at least temporarily, stopped serving raw oysters because they cannot get enough local oysters.
 
 “If we can’t get Louisiana oysters, we’re not going to serve raw oysters at all,” Acme CEO Paul Rotner said.
 

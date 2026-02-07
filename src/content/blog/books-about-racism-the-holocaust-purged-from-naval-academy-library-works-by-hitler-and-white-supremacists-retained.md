@@ -16,12 +16,12 @@ tags:
   - "Nimitz Library"
   - "US Naval Academy"
   - "William Marks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/nimitzlibrary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/nimitzlibrary.jpg"
 author: "Rick Spilman"
 description: "As the current regime in Washington continues its assault on diversity, equity, and inclusion in schools across the country, it has even included the Nimitz Library at the US Naval Academy in its modern-day book burning. An order from Defense … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/nimitzlibrary.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/nimitzlibrary.jpg)
 
 Nimitz Library
 

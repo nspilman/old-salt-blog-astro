@@ -14,12 +14,12 @@ tags:
   - "Bark Kathleen Sunk By a Whale"
   - "Gary Tonkin"
   - "Scrimshaw"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/tonklinjawbone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/tonklinjawbone.jpg"
 author: "Rick Spilman"
 description: "We are all familiar with Melville’s novel, Moby Dick, inspired, at least in part, by the ramming and sinking of the whaleship Essex by a rogue sperm whale in the Pacific in 1820.  Less well-known is the sinking by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/tonklinjawbone.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/tonklinjawbone.jpg)
 
 It took Mr. Tonkin 30 years, on and off, to finish carving the sperm whale jaw bone.(Supplied: Albany’s Historic Whaling Station)
 

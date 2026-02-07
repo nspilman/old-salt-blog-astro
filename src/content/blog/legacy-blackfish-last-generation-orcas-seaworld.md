@@ -10,12 +10,12 @@ tags:
   - "Blackfish"
   - "orcas"
   - "SeaWorld"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/orcalastgen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/orcalastgen.jpg"
 author: "Rick Spilman"
 description: "In just three years since the release of the documentary, Blackfish, the world of captive orcs in the United States has undergone dramatic change. The 2013 documentary focused specifically on the death of an orca trainer, Dawn Brancheau, who was killed by … Continue reading &rarr;"
 ---
 
-![orcalastgen](http://www.oldsaltblog.com/wp-content/uploads/2016/10/orcalastgen.jpg)
+![orcalastgen](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/orcalastgen.jpg)
 
 Photo: SeaWorld
 

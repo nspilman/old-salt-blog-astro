@@ -12,12 +12,12 @@ tags:
   - "plastic"
   - "Saltwater Brewery"
   - "turtles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/ediblesixpack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/ediblesixpack.jpg"
 author: "Rick Spilman"
 description: "A craft brew beer company and an ad agency have come up with a brilliant solution to problem of plastic six pack rings. What is the problem with six pack rings, you might ask? The plastic rings that hold six … Continue reading &rarr;"
 ---
 
-![ediblesixpack](http://www.oldsaltblog.com/wp-content/uploads/2016/10/ediblesixpack.jpg)
+![ediblesixpack](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/ediblesixpack.jpg)
 
 Photo: We Believers
 

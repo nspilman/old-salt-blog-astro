@@ -14,12 +14,12 @@ tags:
   - "time ball"
   - "Times Square"
   - "US Naval Observatory"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg"
 author: "Rick Spilman"
 description: "Tonight, roughly a million revelers will watch in person in New York’s Times Square, and over a billion viewers are expected to watch on television or online, as the  New Year’s Eve ball drop rings in 2026 with a dazzling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg)
 
 The USNO Millennium Time Ball
 

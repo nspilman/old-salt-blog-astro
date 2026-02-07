@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A belated happy Mother’s day to the matriarch of the J pod, known as J2, but nicknamed \"Granny,\" by orca researchers who is believed to be 103 years old this year, and still swimming strong. The J pod is a … Continue reading &rarr;"
 ---
 
-![Photo:  Capt. Simon Pidcock / Ocean EcoVentures](http://www.oldsaltblog.com/wp-content/uploads/2014/05/dsc_4903.jpg)
+![Photo:  Capt. Simon Pidcock / Ocean EcoVentures](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/dsc_4903.jpg)
 
 Photo: Capt. Simon Pidcock / Ocean EcoVentures
 

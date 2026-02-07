@@ -9,7 +9,7 @@ categories:
 tags:
   - "Ice Shards"
   - "Lake Michigan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/iceshards.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/iceshards.jpg"
 author: "Rick Spilman"
 description: "One of the more paradoxical signs of spring along parts of Lake Michigan are the wild and wonderfully weird  ice shards which pile up in fantastic geometric patterns along the shoreline. As the lake begins to thaw, water underneath the … Continue reading &rarr;"
 ---

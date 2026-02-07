@@ -14,12 +14,12 @@ tags:
   - "suspended search"
   - "two female crew members"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/degallant.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/degallant.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the sinking of the cargo schooner De Gallant early Tuesday morning, 22 nautical miles north of the Bahamas island of Great Inagua, with eight sailors on board. Six of the crew were rescued from life rafts … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/degallant.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/degallant.jpg)
 
 Photo: Fair Transport
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Route du Rhum Race got off to a rough start with 17 of the 91 singlehanders being forced to withdraw due to various boat failures and mishaps."
 ---
 
-[![Loick Peyron sailing  Banque Populaire VII ](http://www.oldsaltblog.com/wp-content/uploads/2014/11/bankproutedurhum.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/11/bankproutedurhum.jpg)
+[![Loick Peyron sailing  Banque Populaire VII ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/bankproutedurhum.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/bankproutedurhum.jpg)
 
 Loick Peyron sailing Banque Populaire VII
 

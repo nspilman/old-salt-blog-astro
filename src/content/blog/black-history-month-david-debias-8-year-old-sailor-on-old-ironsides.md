@@ -12,12 +12,12 @@ tags:
   - "HMS Levant"
   - "Old Ironsides"
   - "USS Constitution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/constitutionlevant.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/constitutionlevant.jpg"
 author: "Rick Spilman"
 description: "David Debias, was a free black youth from the north side of Beacon Hill in Boston. In 1814, at only 8 years old, he signed aboard the USS Constitution, nicknamed \"Old Ironsides.\" He was rated as a ship’s boy and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/constitutionlevant.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/constitutionlevant.jpg)
 
 Capture of H.M. Ships Cyane & Levant, by the U.S. Frigate Constitution
 

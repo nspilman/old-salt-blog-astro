@@ -11,12 +11,12 @@ tags:
   - "Glacier"
   - "OK"
   - "Okjökull"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/okmelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/okmelt.jpg"
 author: "Rick Spilman"
 description: "The Okjökull glacier, northeast of Reykjavik, was known simply as Ok to Icelanders. (In Icelandic, jökull means glacier.) In 1890, Ok’s ice covered 16sq km (6.2 square miles) but by 2012 it measured just 0.7sq km, according to a report … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/okmelt.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/okmelt.jpg)
 
 The shrinking of the Okjökull glacier from Sept. 14, 1986 (left) to Aug. 1, 2019.  
 Photo: NASA (AP)

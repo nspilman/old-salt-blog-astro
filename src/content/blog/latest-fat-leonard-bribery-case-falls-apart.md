@@ -19,12 +19,12 @@ tags:
   - "prosecutorial errors"
   - "Robert Gorsuch"
   - "Stephen Shedd"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/fl9.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fl9.jpg"
 author: "Rick Spilman"
 description: "A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed \"Fat Leonard,\" in one of the biggest corruption scandals in Navy history. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/fl9.jpg)A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed [“Fat Leonard,](https://www.cbsnews.com/news/fat-leonard-francis-venezuela-prisoner-swap-bribery-charges-court-hearing/)” in one of the biggest corruption scandals in Navy history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fl9.jpg)A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed [“Fat Leonard,](https://www.cbsnews.com/news/fat-leonard-francis-venezuela-prisoner-swap-bribery-charges-court-hearing/)” in one of the biggest corruption scandals in Navy history.
 
 The dismissals came at the request of the government — not the defense — citing prosecutorial errors.
 

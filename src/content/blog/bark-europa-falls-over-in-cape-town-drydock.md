@@ -13,12 +13,12 @@ tags:
   - "drydock"
   - "EUROPA"
   - "South Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/barkeuropa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/barkeuropa.jpg"
 author: "Rick Spilman"
 description: "The 112-year-old steel-hulled bark Europa slipped on her side while attempting to be placed back into the water from a drydock at the V&A Waterfront in Cape Town, South Africa on Saturday morning. One crew member was injured, but is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/barkeuropa.jpg)The 112-year-old steel-hulled [bark *Europa*](https://www.barkeuropa.com/) slipped on her side while [attempting to be placed back into the water from a drydock](https://www.barkeuropa.com/logbook/detail/update-from-the-ship) at the V&A Waterfront in Cape Town, South Africa on Saturday morning. One crew member was injured, but is reported to be in stable condition and receiving appropriate medical care.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/barkeuropa.jpg)The 112-year-old steel-hulled [bark *Europa*](https://www.barkeuropa.com/) slipped on her side while [attempting to be placed back into the water from a drydock](https://www.barkeuropa.com/logbook/detail/update-from-the-ship) at the V&A Waterfront in Cape Town, South Africa on Saturday morning. One crew member was injured, but is reported to be in stable condition and receiving appropriate medical care.
 
 The extent of the damage to the ship is being assessed, and currently, no determination has been made as to the exact timeline for resuming sailing operations. The [accident comes less than a month](https://www.news24.com/news24/southafrica/news/pics-112-year-old-tall-ship-bark-europa-falls-on-its-side-at-waterfront-cape-town-20230520) before the vessel was scheduled to embark on a 53-day sail training voyage to the Portuguese island city of Horta in the Azores, on June 13th.
 

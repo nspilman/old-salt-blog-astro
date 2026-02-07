@@ -12,12 +12,12 @@ tags:
   - "Clive Palmer"
   - "RMS Titanic"
   - "Titanic II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/TitanicII.jpg"
 author: "Rick Spilman"
 description: "Will the Titanic II ever be built? And if so, when will it sail? Back in 2012, billionaire Australian businessman Clive Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg)Will the *Titanic II* ever be built? And if so, when will it sail?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/TitanicII.jpg)Will the *Titanic II* ever be built? And if so, when will it sail?
 
 Back in 2012, billionaire Australian businessman [Clive Palmer](https://www.forbes.com/profile/clive-palmer/#2d1e3eef4a97) announced the construction of a modern “replica”  of the doomed passenger liner [RMS *Titanic*](https://en.wikipedia.org/wiki/RMS_Titanic) which sank after striking an iceberg in 1912. Palmer’s [*Titanic II*](https://en.wikipedia.org/wiki/Titanic_II) was to be built in a Chinese shipyard and go into service in 2016. Since then the project has moved in fits and starts. The project finances fell apart for several years. The ship delivery dates moved first to 2018 and now to 2022. There has been an abundance of announcements, CGI drawings, and [videos](https://youtu.be/G9GJDhd_JPo), while apparently no steel has actually been cut.
 

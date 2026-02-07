@@ -14,12 +14,12 @@ tags:
   - "stray dog"
   - "Three Months Adrift in the Pacific"
   - "Timothy Shaddock"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/shaddockbella.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/shaddockbella.jpg"
 author: "Rick Spilman"
 description: "An Australian sailor and his dog were recently rescued by a Mexican tuna trawler after surviving for almost three months at sea. Before setting sail in April from the Mexican city of La Paz on his catamaran, Aloha Toa, bound … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/shaddockbella.jpg)An Australian sailor and his dog were recently rescued by a Mexican tuna trawler after surviving for almost three months at sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/shaddockbella.jpg)An Australian sailor and his dog were recently rescued by a Mexican tuna trawler after surviving for almost three months at sea.
 
 Before setting sail in April from the Mexican city of La Paz on his catamaran, *Aloha Toa*, bound for French Polynesia, Aussie sailor Timothy Shaddock was adopted by Bella, a stray dog.
 

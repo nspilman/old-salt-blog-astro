@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Lieutenant Noel Cashford Lieutenant Noel Cashford, who has died aged 88, was among the last of the wartime RNVR bomb and mine disposal officers (BDOs), and helped develop the principles which govern mine clearance today. Read the rest of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/cashford_1817083b.jpg)[Lieutenant Noel Cashford](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/8299466/Lieutenant-Noel-Cashford.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/cashford_1817083b.jpg)[Lieutenant Noel Cashford](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/8299466/Lieutenant-Noel-Cashford.html)
 
 *Lieutenant Noel Cashford, who has died aged 88, was among the last of the wartime RNVR bomb and mine disposal officers (BDOs), and helped develop the principles which govern mine clearance today.*
 

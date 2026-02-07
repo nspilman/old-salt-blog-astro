@@ -13,12 +13,12 @@ tags:
   - "Glasgow"
   - "Hawaii"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/foc2x.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/foc2x.jpg"
 author: "Rick Spilman"
 description: "A UK member of parliament from Glasgow, Scotland has joined in the effort to save the endangered historic sailing ship Falls of Clyde. MP Alison Thewliss has written to David Ige, Governor of Hawaii, in support of returning the ship to the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/foc2x.jpg)A UK member of parliament from Glasgow, Scotland has joined in the effort to save the endangered historic sailing ship *[Falls of Clyde](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)).* [MP Alison Thewliss has written to David Ige](http://www.alisonthewliss.scot/wp-content/uploads/2017/01/Letter-to-the-Governor-of-Hawaii.pdf), Governor of Hawaii, in support of returning the ship to the Scotland. The four masted steel ship is currently in Honolulu, at risk of being scrapped of scuttled.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/foc2x.jpg)A UK member of parliament from Glasgow, Scotland has joined in the effort to save the endangered historic sailing ship *[Falls of Clyde](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)).* [MP Alison Thewliss has written to David Ige](http://www.alisonthewliss.scot/wp-content/uploads/2017/01/Letter-to-the-Governor-of-Hawaii.pdf), Governor of Hawaii, in support of returning the ship to the Scotland. The four masted steel ship is currently in Honolulu, at risk of being scrapped of scuttled.
 
 The real question is now whether the supporters in Scotland will succeed in marshaling the resources to save the ship.
 

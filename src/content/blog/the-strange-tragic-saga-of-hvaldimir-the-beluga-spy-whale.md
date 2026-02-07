@@ -16,12 +16,12 @@ tags:
   - "Norway"
   - "Russian president"
   - "Vladimir Putin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/Hvaldimir.jpg"
 author: "Rick Spilman"
 description: "Hvaldimir, the beluga \"spy\" whale has died. The Norwegian public broadcaster NRK reported that the whale’s body was found floating in the Risavika Bay in southern Norway on Saturday by a father and son who were fishing. The beluga, whose nickname was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg)Hvaldimir, the beluga “spy” whale has died. The Norwegian public broadcaster [NRK reported](https://www.nrk.no/rogaland/kjendishvalen-hvaldimir-er-dod-1.17025163) that the whale’s body was found floating in the Risavika Bay in southern [Norway](https://www.theguardian.com/world/norway) on Saturday by a father and son who were fishing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/Hvaldimir.jpg)Hvaldimir, the beluga “spy” whale has died. The Norwegian public broadcaster [NRK reported](https://www.nrk.no/rogaland/kjendishvalen-hvaldimir-er-dod-1.17025163) that the whale’s body was found floating in the Risavika Bay in southern [Norway](https://www.theguardian.com/world/norway) on Saturday by a father and son who were fishing.
 
 The beluga, whose nickname was a combination of the Norwegian word for whale – *hval* – and the first name of the Russian president, Vladimir Putin, was lifted out of the water by crane and taken to a nearby harbor, where experts will examine it.
 

@@ -10,7 +10,7 @@ categories:
 tags:
   - "Downrigging Weekend Tall Ship and Wooden Boat Festival"
   - "Sultana Downrigging"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/sultanadrw2018drone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/sultanadrw2018drone.jpg"
 author: "Rick Spilman"
 description: "Sultana Education Foundation‘s Downrigging Weekend Tall Ship and Wooden Boat Festival has evolved into one of the largest annual Tall Ship gatherings on the East Coast. Here is some lovely drone footage by Shore Studios from the 18th Sultana Downrigging … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "garbage patch"
   - "Ocean Cleanup"
   - "plastic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/oceancleanupboom.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/oceancleanupboom.jpg"
 author: "Rick Spilman"
 description: "About five years ago, a 19-year-old Dutch engineering student, Boyan Slat, made a big splash, at least on the internet, when he unveiled his design of refuse collecting booms, which he claimed would clean the oceans of plastics within five … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/oceancleanupboom.jpg)About five years ago, a 19-year-old Dutch engineering student, Boyan Slat, made a big splash, at least on the internet, when he unveiled his design of refuse collecting booms, which he claimed would [clean the oceans of plastics within five years.](https://www.eco-business.com/news/Student-device-aims-rid-ocean-plastic-years/) He described an anchored network of floating booms and platforms which would skim plastics and other refuse being carried along any of the [five ocean gyres](https://www.nationalgeographic.org/encyclopedia/ocean-gyre/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/oceancleanupboom.jpg)About five years ago, a 19-year-old Dutch engineering student, Boyan Slat, made a big splash, at least on the internet, when he unveiled his design of refuse collecting booms, which he claimed would [clean the oceans of plastics within five years.](https://www.eco-business.com/news/Student-device-aims-rid-ocean-plastic-years/) He described an anchored network of floating booms and platforms which would skim plastics and other refuse being carried along any of the [five ocean gyres](https://www.nationalgeographic.org/encyclopedia/ocean-gyre/).
 
 Now, Slat and his non-profit [Ocean Cleanup](https://www.theoceancleanup.com/) are deploying a 600-meter-long prototype boom system to test the concept. The [NY Times](https://www.nytimes.com/2018/09/09/science/ocean-cleanup-great-pacific-garbage-patch.html) reports that the boom will be towed to a site where it will undergo two weeks of testing. If everything goes as planned, the boom will then be brought to the garbage patch, nearly 1,400 miles offshore, where it is expected to arrive by mid-October.  
 

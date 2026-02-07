@@ -13,12 +13,12 @@ tags:
   - "snailfish"
   - "Tokyo University of Marine Science and Technology"
   - "University of Western Australia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/snailfish.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/snailfish.jpg"
 author: "Rick Spilman"
 description: "A team of Australian and Japanese scientists succeeded in capturing on camera the deepest-swimming fish ever recorded. The fish, an unknown snailfish species of the genus Pseudoliparis, was recorded at a depth of 8,336m in the Izu-Ogasawara Trench, south of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/snailfish.jpg)A team of Australian and Japanese scientists succeeded in capturing on camera [the deepest-swimming fish ever recorded](https://www.uwa.edu.au/news/Article/2023/April/Scientists-break-new-record-after-finding-worlds-deepest-fish). The fish, an unknown [snailfish species](https://a-z-animals.com/animals/snailfish/#:~:text=They%20have%20adapted%20to%20living,substance%20that%20keeps%20them%20buoyant.) of the genus [Pseudoliparis](https://en.wikipedia.org/wiki/Pseudoliparis_\(fish\)), was recorded at a depth of 8,336m in the Izu-Ogasawara Trench, south of Japan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/snailfish.jpg)A team of Australian and Japanese scientists succeeded in capturing on camera [the deepest-swimming fish ever recorded](https://www.uwa.edu.au/news/Article/2023/April/Scientists-break-new-record-after-finding-worlds-deepest-fish). The fish, an unknown [snailfish species](https://a-z-animals.com/animals/snailfish/#:~:text=They%20have%20adapted%20to%20living,substance%20that%20keeps%20them%20buoyant.) of the genus [Pseudoliparis](https://en.wikipedia.org/wiki/Pseudoliparis_\(fish\)), was recorded at a depth of 8,336m in the Izu-Ogasawara Trench, south of Japan.
 
 University of Western Australia Professor Alan Jamieson, founder of the [Minderoo-UWA Deep Sea Research Centre](https://www.uwa.edu.au/oceans-institute/Research/Deep-Sea-Research-Centre) and chief scientist of the expedition, worked with a team from the Tokyo University of Marine Science and Technology to deploy baited cameras in the deepest parts of the trenches. 
 

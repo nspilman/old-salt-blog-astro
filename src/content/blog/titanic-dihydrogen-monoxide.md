@@ -15,6 +15,6 @@ description: "From the Dihydrogen Monoxide Awareness Community on Facebook. I r
 
 From the [Dihydrogen Monoxide Awareness Community](https://www.facebook.com/h2oawareness/) on Facebook.
 
-![watertitanic](http://www.oldsaltblog.com/wp-content/uploads/2016/08/watertitanic.jpg)
+![watertitanic](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/watertitanic.jpg)
 
 I read it on the Internet so it must be true.

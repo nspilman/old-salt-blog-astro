@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/giant_squid_0429.jpg)This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever collected.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/giant_squid_0429.jpg)This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever collected.
 
 [Alien Autopsy: Inside a Big Squid](http://www.time.com/time/world/article/0,8599,1736912,00.html)  
   

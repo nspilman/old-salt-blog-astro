@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "It is the classic story of young lovers separated by the briny deep, of a young heroine on a storm tossed voyage with unexpected adventure. Oh, yes, and the young heroine is a giraffe. The Aukland Zoo has been trying to setup Nakuru, a fifteen month old Rothschild giraffe, … Continue reading &rarr;"
 ---
 
-![nakuru-truck](http://www.oldsaltblog.com/wp-content/uploads/2013/04/nakuru-truck.jpg)
+![nakuru-truck](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/nakuru-truck.jpg)
 
 Photo: Becky Rutherford
 

@@ -10,12 +10,12 @@ tags:
   - "Atlantic"
   - "barrel"
   - "Jean-Jacques Savin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/savinbarrel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/savinbarrel.jpg"
 author: "Rick Spilman"
 description: "At the end of last December, we posted about the 72-year-old French adventurer Jean-Jacques Savin who set off to attempt to drift across the Atlantic in a large wooden barrel. He departed from El Hierro, one of the Canary Islands, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/savinbarrel.jpg)At the end of last December, [we posted about the 72-year-old French adventurer Jean-Jacques Savin](http://www.oldsaltblog.com/2018/12/french-adventurer-drifting-across-the-atlantic-in-a-barrel/) who set off to attempt to drift across the Atlantic in a large wooden barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, with the intention of drifting, carried by the winds and currents, across the Atlantic Ocean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/savinbarrel.jpg)At the end of last December, [we posted about the 72-year-old French adventurer Jean-Jacques Savin](http://www.oldsaltblog.com/2018/12/french-adventurer-drifting-across-the-atlantic-in-a-barrel/) who set off to attempt to drift across the Atlantic in a large wooden barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, with the intention of drifting, carried by the winds and currents, across the Atlantic Ocean.
 
 Now over 115 days into the crossing, Savin is reported to be in good spirits and to be, well, still drifting. He and his barrel have drifted over 2,500 nautical miles from the Canary Islands and are now within 400 – 1,000 miles of land, depending on which way the winds and currents take him. 
 

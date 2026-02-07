@@ -12,12 +12,12 @@ tags:
   - "Diamond Princess"
   - "Grand Princess"
   - "State Department"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grand3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grand3.jpg"
 author: "Rick Spilman"
 description: "Will the coronavirus cripple the cruise industry? With 278 ships in service and 19 scheduled to be delivered in 2020, the Cruise Lines International Association (CLIA) values the industry’s global economic output at $150 billion worldwide. The past several weeks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grand3.jpg)Will the coronavirus cripple the cruise industry? With 278 ships in service and 19 scheduled to be delivered in 2020, the [Cruise Lines International Association (CLIA)](https://cruising.org/-/media/research-updates/research/state-of-the-cruise-industry.pdf) values the industry’s global economic output at $150 billion worldwide. The past several weeks have been particularly difficult both for the industry and its passengers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grand3.jpg)Will the coronavirus cripple the cruise industry? With 278 ships in service and 19 scheduled to be delivered in 2020, the [Cruise Lines International Association (CLIA)](https://cruising.org/-/media/research-updates/research/state-of-the-cruise-industry.pdf) values the industry’s global economic output at $150 billion worldwide. The past several weeks have been particularly difficult both for the industry and its passengers.
 
 After several major coronavirus outbreaks, the US State Department has advised U.S. citizens against traveling by cruise ship as coronavirus COVID-19 continues to spread around the world. The [State Department statement](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/cruise-ship-passengers.html?fbclid=IwAR23mRlu4-382HLuSM8i0KWQBSaZ4heDniggmxR3kBR6e2EgWiKr6B0EseM) reads in part:
 

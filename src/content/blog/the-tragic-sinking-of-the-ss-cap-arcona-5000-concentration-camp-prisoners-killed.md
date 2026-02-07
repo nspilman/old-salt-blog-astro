@@ -12,12 +12,12 @@ tags:
   - "RAF"
   - "SS Cap Arcona"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/caparcona.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/caparcona.jpg"
 author: "Rick Spilman"
 description: "Eighty years ago on May 3, 1945, the German liner SS Cap Arcona, serving as a prison ship, was sunk by Royal Air Force fighter bombers in the Baltic Sea. Almost 5,000 prisoners from Nazi concentration camps who were being … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/caparcona.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/caparcona.jpg)
 
 SS Cap Arcona in 1927
 

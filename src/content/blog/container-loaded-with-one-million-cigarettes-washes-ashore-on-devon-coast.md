@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last Wednesday, we posted about Svendborg Maersk, which last an estimated 520 containers  in a storm in the Bay of Biscay.  What happened to all the containers that fell overboard?  One of them, loaded with a million cigarettes, may have just washed … Continue reading &rarr;"
 ---
 
-![devonbox](http://www.oldsaltblog.com/wp-content/uploads/2014/02/devonbox.jpg)Last Wednesday, [we posted about](http://www.oldsaltblog.com/2014/02/svendborg-maersk-update-520-containers-lost-in-bay-of-biscay/) *[Svendborg Maersk](http://www.oldsaltblog.com/2014/02/svendborg-maersk-update-520-containers-lost-in-bay-of-biscay/),* which last an estimated 520 containers  in a storm in the Bay of Biscay.  What happened to all the containers that fell overboard?  One of them, loaded with a million cigarettes, may have just washed up on the beach in the Devon, England.
+![devonbox](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/devonbox.jpg)Last Wednesday, [we posted about](http://www.oldsaltblog.com/2014/02/svendborg-maersk-update-520-containers-lost-in-bay-of-biscay/) *[Svendborg Maersk](http://www.oldsaltblog.com/2014/02/svendborg-maersk-update-520-containers-lost-in-bay-of-biscay/),* which last an estimated 520 containers  in a storm in the Bay of Biscay.  What happened to all the containers that fell overboard?  One of them, loaded with a million cigarettes, may have just washed up on the beach in the Devon, England.
 
 [Sun, sea and cigs! Police warn off ‘treasure hunters’ after container filled with a MILLION cigarettes washes up on Devon beach](http://www.dailymail.co.uk/news/article-2566111/Police-warn-treasure-hunters-container-filled-MILLION-cigarettes-washes-Devon-beach.html)
 

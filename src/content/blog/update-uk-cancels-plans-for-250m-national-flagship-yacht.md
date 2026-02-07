@@ -13,12 +13,12 @@ tags:
   - "national flagship yacht"
   - "Prime Minister"
   - "Rishi Sunak"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/royalyachtcancelled.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/royalyachtcancelled.jpg"
 author: "Rick Spilman"
 description: "In June of last year, we posted that UK Prime Minister, Boris Johnson, had announced the construction of a new national flagship intended to promote British businesses around the world. The proposal received a mixed response. As we noted in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/royalyachtcancelled.jpg)In June of last year, [we posted](https://www.oldsaltblog.com/2021/06/britain-to-build-national-flagship-to-promote-trade/) that UK Prime Minister, Boris Johnson, had announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/royalyachtcancelled.jpg)In June of last year, [we posted](https://www.oldsaltblog.com/2021/06/britain-to-build-national-flagship-to-promote-trade/) that UK Prime Minister, Boris Johnson, had announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world.
 
 The proposal received a mixed response. As we noted in a [subsequent post](https://www.oldsaltblog.com/2021/07/little-enthusiasm-for-proposed-uk-flagship-even-the-royals-dont-like-it/), even the royal family had voiced its displeasure with the idea.
 

@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Draken Harald Hårfagre"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/drakenmystic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/drakenmystic.jpg"
 author: "Rick Spilman"
 description: "Following its epic voyage across the Atlantic, with stops in visiting Iceland and Greenland, the Draken Harald Hårfagre, toured the Great Lakes, traveled down the Erie Canal, stopped by New York City and then wintered at Mystic Seaport Museum. This … Continue reading &rarr;"
 ---

@@ -10,12 +10,12 @@ tags:
   - "anti-fouling painy"
   - "bottom paint"
   - "Ultrasonic Anti-Fouling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/arcthull.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/arcthull.jpg"
 author: "Rick Spilman"
 description: "I am sure that I am not the only one who really does not like anti-fouling bottom paint. By definition, anti-fouling bottom paint is a biocide — it kills life — which is fine and dandy if that life is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/arcthull.jpg)I am sure that I am not the only one who really does not like anti-fouling bottom paint. By definition, anti-fouling bottom paint is a biocide — it kills life — which is fine and dandy if that life is a barnacle. It is not great as I wonder how much dust is getting past my respirator as I prep the bottom of the boat between seasons. I recently learned about [ultrasonic anti-fouling systems](https://en.wikipedia.org/wiki/Ultrasonic_antifouling). I know that I am a bit late to the party as it has been around commercially for at least five or six years now, but it doesn’t seem to be widely accepted quite yet.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/arcthull.jpg)I am sure that I am not the only one who really does not like anti-fouling bottom paint. By definition, anti-fouling bottom paint is a biocide — it kills life — which is fine and dandy if that life is a barnacle. It is not great as I wonder how much dust is getting past my respirator as I prep the bottom of the boat between seasons. I recently learned about [ultrasonic anti-fouling systems](https://en.wikipedia.org/wiki/Ultrasonic_antifouling). I know that I am a bit late to the party as it has been around commercially for at least five or six years now, but it doesn’t seem to be widely accepted quite yet.
 
 The idea is to mount one or more transducers to the inside of a fiberglass, steel or aluminum hull — penetrations required — which will cause the hull to emit high frequency sound interrupting the the growth of slime on the hull as well as the attachment of barnacles. The manufacturers say that the sound is inaudible to humans and does not harm marine life, including fish and marine mammals.
 

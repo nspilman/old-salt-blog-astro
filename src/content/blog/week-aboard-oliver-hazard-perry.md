@@ -10,7 +10,7 @@ categories:
 tags:
   - "Oliver Hazard Perry"
   - "Oliver Hazard Perry Rhode Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/OHPRI200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/OHPRI200.jpg"
 author: "Rick Spilman"
 description: "A video for a cold winter day. We recently posted about the exciting voyage plans for 2017 on the School Sailing Vessel (SSV) Oliver Hazard Perry. This year, the ship will be sailing to Florida, Bermuda, Cuba and the Arctic. … Continue reading &rarr;"
 ---

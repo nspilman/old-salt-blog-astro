@@ -12,12 +12,12 @@ tags:
   - "Exploration Production Inc"
   - "Smithsonian Channel"
   - "Smithsonian Networks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/disastersatsea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/disastersatsea.jpg"
 author: "Rick Spilman"
 description: "There are so few well-done documentary series involving ships and the sea that it seems worth pointing out that the excellent Disasters at Sea has been picked up for a second season. The series is produced by Exploration Production Inc. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/disastersatsea.jpg)There are so few well-done documentary series involving ships and the sea that it seems worth pointing out that the excellent [*Disasters at Sea*](https://www.imdb.com/title/tt8273006/episodes?season=2) has been picked up for a second season. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). Season Two was broadcast in Canada last summer and fall and is now being broadcast on the [Smithsonian channel](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669) in the US. Episodes are also available on [Amazon Prime](https://www.amazon.com/gp/video/detail/B083HVVLGK/ref=atv_dp_season_select_s2), [YouTube](https://www.youtube.com/playlist?list=ELue0CNVuQCLsyb8eOC_D0tQ), and other streaming services.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/disastersatsea.jpg)There are so few well-done documentary series involving ships and the sea that it seems worth pointing out that the excellent [*Disasters at Sea*](https://www.imdb.com/title/tt8273006/episodes?season=2) has been picked up for a second season. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). Season Two was broadcast in Canada last summer and fall and is now being broadcast on the [Smithsonian channel](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669) in the US. Episodes are also available on [Amazon Prime](https://www.amazon.com/gp/video/detail/B083HVVLGK/ref=atv_dp_season_select_s2), [YouTube](https://www.youtube.com/playlist?list=ELue0CNVuQCLsyb8eOC_D0tQ), and other streaming services.
 
 This season’s episodes:
 

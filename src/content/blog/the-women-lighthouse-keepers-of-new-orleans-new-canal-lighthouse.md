@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We recently posted about Kate Walker, the lighthouse keeper of the Robbins Reef Light in New York harbor for close to 35 years. Kate took over as keeper when her husband died of pneumonia in 1886. Oddly enough, in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/nolalight.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/nolalight.jpg)
 
 New Canal Lighthouse
 

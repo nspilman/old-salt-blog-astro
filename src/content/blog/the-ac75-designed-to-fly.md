@@ -11,7 +11,7 @@ tags:
   - "Aukland"
   - "foiling monohull"
   - "New Zealand"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/ac75.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/ac75.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the 36th America’s Cup to be held in March 2021 in Aukland, New Zealand. Described as  \"monohulls on steroids\", the boats are amazing feats of … Continue reading &rarr;"
 ---

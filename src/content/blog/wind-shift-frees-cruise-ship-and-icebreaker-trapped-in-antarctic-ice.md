@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "What is more powerful than an icebreaker? The answer is: the wind. Following a wind shift, the expedition cruise ship, MV Akademik Shokalskiy, and Chinese icebreaker Xue Long or Snow Dragon have broken free from the pack ice off Antarctica. … Continue reading &rarr;"
 ---
 
-![ MV Akademik Shokalskiy](http://www.oldsaltblog.com/wp-content/uploads/2013/12/munsoncruise.jpg)
+![ MV Akademik Shokalskiy](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/munsoncruise.jpg)
 
 MV Akademik Shokalskiy
 

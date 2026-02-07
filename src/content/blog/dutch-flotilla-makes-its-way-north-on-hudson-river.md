@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Following up on our previous posts – Dutch Barges invade New York and The Dutch Barge Fleet has Arrived in New York.  From the AP: Dutch flotilla makes its way north on Hudson River A flotilla of historic Dutch sailing ships is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/08/skutsjes.jpg)Following up on our previous posts – [Dutch Barges invade New York](http://www.oldsaltblog.com/2009/08/28/dutch-barges-invade-the-new-york-september-1-17/) and [The Dutch Barge Fleet has Arrived in New York](http://www.oldsaltblog.com/2009/09/04/the-dutch-barge-fleet-has-arrived-in-new-york/).  From the AP:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/skutsjes.jpg)Following up on our previous posts – [Dutch Barges invade New York](http://www.oldsaltblog.com/2009/08/28/dutch-barges-invade-the-new-york-september-1-17/) and [The Dutch Barge Fleet has Arrived in New York](http://www.oldsaltblog.com/2009/09/04/the-dutch-barge-fleet-has-arrived-in-new-york/).  From the AP:
 
 [Dutch flotilla makes its way north on Hudson River](http://www.newsday.com/news/new-york/dutch-flotilla-makes-its-way-north-on-hudson-river-1.1455340)
 

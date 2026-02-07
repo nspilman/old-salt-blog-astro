@@ -14,12 +14,12 @@ tags:
   - "Liberian-flagged bulk carrier"
   - "MV Lila Norfolk"
   - "Somali Coast"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/indiandestroyer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/indiandestroyer.jpg"
 author: "Rick Spilman"
 description: "USNI News reports that Indian Navy commandos secured the hijacked Liberian-flagged bulk carrier MV Lila Norfolk last week after a 24-hour confrontation off the Somali Coast in the Arabian Sea.  Five to six armed hijackers boarded Lila Norfolk on Thursday, which was sailing 450 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/indiandestroyer.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/indiandestroyer.jpg)
 
 INS Chennai
 

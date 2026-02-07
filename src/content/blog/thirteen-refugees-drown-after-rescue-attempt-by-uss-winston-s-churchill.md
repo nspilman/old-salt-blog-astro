@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Given all the reporting on piracy off the Horn of Africa, we hear very little about another crisis – the flood of refugees fleeing the instability and chaos of Somalia’s clan wars.  Last year 74,000 people crossed the Gulf of Aden in smugglers’ boats to reach Yemen, according … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/Refugees-on-skiff-in-Gulf.jpg)Given all the reporting on piracy off the Horn of Africa, we hear very little about another crisis – the flood of refugees fleeing the instability and chaos of Somalia’s clan wars.  Last year 74,000 people crossed the Gulf of Aden in smugglers’ boats to reach Yemen, according to the UN refugee agency UNHCR.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Refugees-on-skiff-in-Gulf.jpg)Given all the reporting on piracy off the Horn of Africa, we hear very little about another crisis – the flood of refugees fleeing the instability and chaos of Somalia’s clan wars.  Last year 74,000 people crossed the Gulf of Aden in smugglers’ boats to reach Yemen, according to the UN refugee agency UNHCR.
 
 On Monday the *[USS Winston S. Churchill](http://en.wikipedia.org/wiki/USS_Winston_S._Churchill_\(DDG-81\))* attempted to render aid to an overloaded skiff drifting in the Gulf of Aden with 85 refugees from Somalia and Ethiopia.   The skiff’s engine had broken down.  According to a [statement released by the Navy](http://www.navy.mil/search/display.asp?story_id=56227):  
   

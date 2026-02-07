@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "In a pleasant contrast to events surrounding the sinking of the Costa Concordia, the passengers aboard the  fire damaged cruise ship Azamara Quest are reported to have high praise for the actions of the captain and crew. A fire broke out in one of the ship’s engine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/Azamara-ship_2182900b.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Azamara-ship_2182900b.jpg)
 
 The stricken luxury cruise ship Azamara Quest sails towards the port of Sandakan on the island of Borneo Photo: REUTERS/Bazuki Muhammad
 

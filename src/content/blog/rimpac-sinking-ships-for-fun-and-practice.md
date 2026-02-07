@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "RIMPAC 2010, the Rim of the Pacific Exercise, is  one of the world’s largest maritime exercises, with participation by 14 nations, including including Australia, Canada, Japan, Singapore, France, Colombia, Chile, Indonesia, the Netherlands, Peru, South Korea and Thailand.   RIMPAC … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/rimpacfire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/rimpacfire.jpg)
 
 HMAS Warramunga (FFH-152) engages Ex-USS New Orleans (LPH-11) with her 5" gun during a surface engagement, part of Exercise RIMPAC 2010.
 
@@ -21,12 +21,12 @@ As part of the exercises at least three surplus ships will play the role of enem
 
 While I have no doubt that serious exercises are taking place, to an outsider it looks like a really big naval play-date.  RIMPAC 2010, of course, has its own [Facebook page](http://www.facebook.com/pages/RIMPAC-2010/346615881992).
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/nola1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/nola1.jpg)
 
 USS New Orleans
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/nola2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/nola2.jpg)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/nola3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/nola3.jpg)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/nola4.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/nola4.jpg)

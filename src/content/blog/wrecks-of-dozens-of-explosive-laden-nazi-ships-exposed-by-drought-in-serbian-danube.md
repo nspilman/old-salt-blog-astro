@@ -15,12 +15,12 @@ tags:
   - "Prahovo"
   - "Serbia"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/danubehulk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/danubehulk.jpg"
 author: "Rick Spilman"
 description: "One of the worst droughts in European history has exposed a graveyard of sunken German warships filled with explosives and ammunition in the Serbian section of the Danube River. More than 20 hulks have emerged near the port town of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/danubehulk.jpg)One of the worst droughts in European history has exposed a [graveyard of sunken German warships](https://news.yahoo.com/low-water-levels-danube-reveal-104852719.html) filled with explosives and ammunition in the Serbian section of the Danube River. More than 20 hulks have emerged near the port town of Prahovo, part of a Nazi Black Sea fleet that was sunk in 1944 while fleeing Soviet forces. More ships are expected to be found lodged in the river’s sandbanks, loaded with unexploded ordnance.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/danubehulk.jpg)One of the worst droughts in European history has exposed a [graveyard of sunken German warships](https://news.yahoo.com/low-water-levels-danube-reveal-104852719.html) filled with explosives and ammunition in the Serbian section of the Danube River. More than 20 hulks have emerged near the port town of Prahovo, part of a Nazi Black Sea fleet that was sunk in 1944 while fleeing Soviet forces. More ships are expected to be found lodged in the river’s sandbanks, loaded with unexploded ordnance.
 
 “The German flotilla has left behind a big ecological disaster that threatens us, people of Prahovo,” said Velimir Trajilovic, 74, a pensioner from Prahovo who wrote a book about the German ships.
 

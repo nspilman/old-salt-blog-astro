@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The Peking, a steel-hulled four-masted barque built in 1911, which has been a largely neglected fixture at New York’s South Street Seaport for almost the last 40 years, is now in desperate need of a new home. The South Street Seaport Museum thought that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/seaport1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg)
 
 Photo: DNAinfo/Julie Shapiro
 

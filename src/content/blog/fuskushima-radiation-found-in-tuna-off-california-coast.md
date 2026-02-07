@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "It is really all just one big ocean. Low levels of nuclear radiation from the tsunami-damaged Fukushima power plant have turned up in bluefin tuna off the California coast, 6,000 miles from the damaged Japanese nuclear reactors.  Small amounts of cesium-137 and cesium-134 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/BluefinTuna_2232758b.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/BluefinTuna_2232758b.jpg)
 
 It is really all just one big ocean. Low levels of nuclear radiation from the tsunami-damaged Fukushima power plant have turned up in bluefin tuna off the California coast, 6,000 miles from the damaged Japanese nuclear reactors.  Small amounts of cesium-137 and cesium-134 were detected in 15 tuna caught near San Diego in August 2011.  The radiation levels were 10 times higher than those found in tuna in the same area in previous years, but still low enough so that the tuna are considered to be safe for human consumption.  The tuna, which spawn off the coast of Japan and the Philippines often migrate to the coast of California.
 

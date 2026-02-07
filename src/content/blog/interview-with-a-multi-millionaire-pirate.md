@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  \"earned\" over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/An-armed-Somali-pirate.-006.jpg)The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  “earned” over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that [piracy is inflicting a $12-billion toll on the global economy](http://www.theglobeandmail.com/report-on-business/economy/economy-lab/daily-mix/pirates-inflict-12-billion-toll-on-global-economy/article1936662/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/An-armed-Somali-pirate.-006.jpg)The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  “earned” over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that [piracy is inflicting a $12-billion toll on the global economy](http://www.theglobeandmail.com/report-on-business/economy/economy-lab/daily-mix/pirates-inflict-12-billion-toll-on-global-economy/article1936662/).
 
 [Somali pirate: I made $2.4 mln from ransoms in 2010](http://www.reuters.com/article/2011/03/10/uk-somalia-piracy-idUSLNE72906Q20110310?pageNumber=1)  
   

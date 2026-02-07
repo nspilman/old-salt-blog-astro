@@ -18,12 +18,12 @@ tags:
   - "Royal Navy frigate"
   - "undersea infrastructure"
   - "Yantar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/yantar1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/yantar1.jpg"
 author: "Rick Spilman"
 description: "The Russian ship Yantar has aimed lasers at the crews of UK Royal Air Force aircraft in waters off the north of Scotland. While the Yantar has been a worrying presence around critical undersea infrastructure for years now, this development represents … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/yantar1.jpg)The Russian ship [*Yanta*](https://en.wikipedia.org/wiki/Russian_research_vessel_Yantar)r has aimed lasers at the crews of UK Royal Air Force aircraft in waters off the north of Scotland. While the *Yantar* has been a worrying presence around critical undersea infrastructure for years now, this development represents a concerning escalation by the Russians.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/yantar1.jpg)The Russian ship [*Yanta*](https://en.wikipedia.org/wiki/Russian_research_vessel_Yantar)r has aimed lasers at the crews of UK Royal Air Force aircraft in waters off the north of Scotland. While the *Yantar* has been a worrying presence around critical undersea infrastructure for years now, this development represents a concerning escalation by the Russians.
 
 The *Yantar* is officially an oceanographic research vessel. As it is bristling with surveillance equipment as well as serving as the mother ship for manned and unmanned deep-sea submersibles, it could more accurately be described as a spy ship. It is believed to be surveying the seabed and mapping vital undersea infrastructure.
 

@@ -12,12 +12,12 @@ tags:
   - "general average"
   - "slave trade"
   - "Zong"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/zong2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/zong2.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the What, How, & Why of the Ancient Principle of General Average. Here is a repost about a massacre, in which general average was declared involving a shipment of human cargo. On November 29, 1781, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/zong2.jpg)Yesterday we posted about the [What, How, & Why of the Ancient Principle of General Average](https://www.oldsaltblog.com/2022/04/the-what-how-why-of-the-ancient-principle-of-general-average/). Here is a repost about a massacre, in which general average was declared involving a shipment of human cargo.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/zong2.jpg)Yesterday we posted about the [What, How, & Why of the Ancient Principle of General Average](https://www.oldsaltblog.com/2022/04/the-what-how-why-of-the-ancient-principle-of-general-average/). Here is a repost about a massacre, in which general average was declared involving a shipment of human cargo.
 
 On November 29, 1781, the [British slave ship *Zong*](http://www.historyinanhour.com/2011/11/29/the-zong-massacre-a-summary/) was desperately short of potable water, in part due to an error in navigation and in part due to an incompetent cooper. Captain Luke Collingwood, in command of the ship, ordered his crew to throw one-third of the ship’s cargo overboard — a shipment of Africans bound for slavery in Jamaica. Between November 29th and December 1st, 132 Africans, still bound in shackles, were thrown overboard and drowned.  The ship and its human cargo had been insured in England for £8,000.  After the ship finally arrived in port, the ship’s owners filed an insurance claim for the Africans killed by the officers and crew*,* claiming [general average](http://www.britannica.com/EBchecked/topic/45572/average#ref276186)*.*
 

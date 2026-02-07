@@ -12,12 +12,12 @@ tags:
   - "South Street Seaport Museum"
   - "W.O. Decker"
   - "wooden tug"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/wodeckercrop.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/wodeckercrop.jpg"
 author: "Rick Spilman"
 description: "The W.O. Decker, the last wooden tug in New York harbor, is back at work. The 52′ tug, built in 1930 in Long Island City, is now offering harbor tours from the South Street Seaport on New York’s East River. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/wodeckercrop.jpg)The [*W.O. Decker*](https://en.wikipedia.org/wiki/W._O._Decker), the last wooden tug in New York harbor, is back at work. The 52′ tug, built in 1930 in Long Island City, is now offering harbor tours from the South Street Seaport on New York’s East River. After more than a decade of restoration, the *W.O. Decker* is giving visitors a sea-level perspective on New York’s maritime history. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/wodeckercrop.jpg)The [*W.O. Decker*](https://en.wikipedia.org/wiki/W._O._Decker), the last wooden tug in New York harbor, is back at work. The 52′ tug, built in 1930 in Long Island City, is now offering harbor tours from the South Street Seaport on New York’s East River. After more than a decade of restoration, the *W.O. Decker* is giving visitors a sea-level perspective on New York’s maritime history. 
 
 The tours are now offered on Saturdays and Sundays, although the [South Street Seaport Museum](https://southstreetseaportmuseum.org/) is working to expand the tours to weekdays as well.  The hour-long tour costs $30 and reservations are required. For more information, [click here](https://southstreetseaportmuseum.org/visit-/street-of-ships/w-o-decker/).
 

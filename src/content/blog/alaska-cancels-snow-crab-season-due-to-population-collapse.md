@@ -11,12 +11,12 @@ tags:
   - "Alaska Department of Fish and Game"
   - "Bering Sea"
   - "Snow Crab"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/snow-crabs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/snow-crabs.jpg"
 author: "Rick Spilman"
 description: "For the first time, the Alaska Department of Fish and Game has canceled the upcoming winter snow crab season in the Bering Sea following the disappearance of 90 percent of snow crabs last season. The state is also continuing a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/snow-crabs.jpg)For the first time, the [Alaska Department of Fish and Game has canceled the upcoming winter snow crab season](https://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1441272349.pdf) in the Bering Sea following the [disappearance of 90 percent of snow crabs](https://www.washingtonpost.com/business/2022/08/21/alaska-crab-climate/) last season. The state is also continuing a ban on catching king crabs in the Bristol Bay for a second consecutive year. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/snow-crabs.jpg)For the first time, the [Alaska Department of Fish and Game has canceled the upcoming winter snow crab season](https://www.adfg.alaska.gov/static/applications/dcfnewsrelease/1441272349.pdf) in the Bering Sea following the [disappearance of 90 percent of snow crabs](https://www.washingtonpost.com/business/2022/08/21/alaska-crab-climate/) last season. The state is also continuing a ban on catching king crabs in the Bristol Bay for a second consecutive year. 
 
 Alaska’s crab fishing industry is worth more than $200 million, according to a report by the [Alaska Seafood Marketing Institute](https://www.alaskaseafood.org/), which promotes seafood. The state supplies 6 percent of the world’s king, snow, tanner, and Dungeness crabs, per the institute.
 

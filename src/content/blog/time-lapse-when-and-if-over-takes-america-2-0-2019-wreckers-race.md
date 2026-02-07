@@ -12,7 +12,7 @@ tags:
   - "Key West"
   - "schooner"
   - "When and If"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/whenifA2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/whenifA2.jpg"
 author: "Rick Spilman"
 description: "Here is a fun time-lapse of the 1939 built Alden schooner, When And If, overtaking the schooner America 2.0 in the 34th Annual Schooner Wharf Bar Wrecker’s Cup Race in Key West, FL.  When And If  was built for General  … Continue reading &rarr;"
 ---

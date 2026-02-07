@@ -14,12 +14,12 @@ tags:
   - "lifting keel"
   - "stability"
   - "waterspout"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg"
 author: "Rick Spilman"
 description: "The 56-meter-long sailing yacht Bayesian sank at anchor of Sicily in extreme weather early Monday morning, with the loss of one dead and six missing. Among the missing are British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah. Following the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg)The 56-meter-long sailing yacht *Bayesian* sank at anchor of Sicily in extreme weather early Monday morning, with the loss of one dead and six missing. Among the missing are British tech tycoon [Mike Lynch](https://en.wikipedia.org/wiki/Mike_Lynch_\(businessman\)) and his 18-year-old daughter, Hannah.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg)The 56-meter-long sailing yacht *Bayesian* sank at anchor of Sicily in extreme weather early Monday morning, with the loss of one dead and six missing. Among the missing are British tech tycoon [Mike Lynch](https://en.wikipedia.org/wiki/Mike_Lynch_\(businessman\)) and his 18-year-old daughter, Hannah.
 
 Following the sinking, the most common question asked was “How could a well-found yacht of that size be knocked down and sink, even in the high winds and a reported waterspout that were present at the time of the tragedy?”
 

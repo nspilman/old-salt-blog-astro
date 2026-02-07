@@ -15,12 +15,12 @@ tags:
   - "new york harbor"
   - "Rear Admiral Michael Day"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2026/01/aelday.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/aelday.jpg"
 author: "Rick Spilman"
 description: "Last week, Rear Admiral Michael Day retired after more than 40 years of service in the US Coast Guard. Over his career, he served in a range of responsible positions, in locations ranging from the Arctic to Taiwan and throughout … Continue reading &rarr;"
 ---
 
-![](https://oldsaltblog.com/wp-content/uploads/2026/01/aelday.jpg)Last week, [Rear Admiral Michael Day retired after more than 40 years](https://www.linkedin.com/posts/michael-day-radm-uscg-ret-494935_today-marks-my-final-day-on-active-duty-with-activity-7412099253369622530-ApS-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGtShEBq-p04c0zQS4TgVXqJdHNyKfximk) of service in the US Coast Guard. Over his career, he served in a range of responsible positions, in locations ranging from the Arctic to Taiwan and throughout the United States. including as Commander of Sector New York from 2015 to 2018.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/aelday.jpg)Last week, [Rear Admiral Michael Day retired after more than 40 years](https://www.linkedin.com/posts/michael-day-radm-uscg-ret-494935_today-marks-my-final-day-on-active-duty-with-activity-7412099253369622530-ApS-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGtShEBq-p04c0zQS4TgVXqJdHNyKfximk) of service in the US Coast Guard. Over his career, he served in a range of responsible positions, in locations ranging from the Arctic to Taiwan and throughout the United States. including as Commander of Sector New York from 2015 to 2018.
 
 Michael Day will probably be best remembered for one VHF radio call he made as a Coast Guard lieutenant on September 11th in New York Harbor. From our post on the 2oth anniversary of the 9/11 attacks:
 

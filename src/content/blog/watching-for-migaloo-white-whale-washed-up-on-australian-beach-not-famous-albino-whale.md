@@ -11,12 +11,12 @@ tags:
   - "Mallacoota beach"
   - "Migaloo"
   - "world-famous albino humpback"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/whitewhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/whitewhale.jpg"
 author: "Rick Spilman"
 description: "A ten-meter-long white humpback whale carcass recently washed ashore on Australia’s Mallacoota beach raising fears that it could be the world-famous albino humpback nicknamed Migaloo. A closer examination by Victoria’s Department of Environment, Land, Water, and Planning revealed, however, that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/whitewhale.jpg)A ten-meter-long white humpback whale carcass recently washed ashore on Australia’s Mallacoota beach raising fears that it could be the world-famous albino humpback nicknamed [Migaloo](https://www.migaloo.com.au/home).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/whitewhale.jpg)A ten-meter-long white humpback whale carcass recently washed ashore on Australia’s Mallacoota beach raising fears that it could be the world-famous albino humpback nicknamed [Migaloo](https://www.migaloo.com.au/home).
 
 A closer examination by [Victoria’s Department of Environment, Land, Water, and Planning revealed](https://news.yahoo.com/white-whale-washed-australia-beach-162533480.html?guccounter=1&guce_referrer=aHR0cHM6Ly9tYWlsLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAAKFDIgVv0pmOq0HqkpIC5aOtdzYC5yZ6fODN4Ed9Z8VirK6ARYm7wGol54C7nKSMTE2aUWgJpeJ_Fr5cno5ULJK7gd6MBkeo8F0wlzlLDv_9Fh2xB9urrOGRUhu1alu05fk1YA7vENCb1OYeiVURpQ3ertkpx9rdB16TxN7h517l), however, that the dead whale is a “sub-adult female.” Migaloo is an adult male humpback. Migaloo is also larger at around fifteen meters long. It is also unclear whether the dead whale is indeed white or whether the apparent lack of pigmentation is due to bleaching.
 

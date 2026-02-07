@@ -12,12 +12,12 @@ tags:
   - "Tropic of Cancer"
   - "Tropic of Capricorn"
   - "Winter Solstice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/wintersolstice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/wintersolstice.jpg"
 author: "Rick Spilman"
 description: "Happy Winter Solstice to all! In the northern hemisphere, today is the shortest day and the longest night of the year. The sun is at its southernmost point of travel, over the imaginary circle on the globe we refer to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/wintersolstice.jpg)Happy [Winter Solstice](https://www.timeanddate.com/calendar/winter-solstice.html) to all! In the northern hemisphere, today is the shortest day and the longest night of the year. The sun is at its southernmost point of travel, over the imaginary circle on the globe we refer to as the Tropic of Capricorn. Today is also the day in which a person standing outside at noon in the northern hemisphere, outside of the tropics, would cast the longest shadow. If you are on the Tropic of Capricorn, however, at noon today, you would have no shadow at all. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/wintersolstice.jpg)Happy [Winter Solstice](https://www.timeanddate.com/calendar/winter-solstice.html) to all! In the northern hemisphere, today is the shortest day and the longest night of the year. The sun is at its southernmost point of travel, over the imaginary circle on the globe we refer to as the Tropic of Capricorn. Today is also the day in which a person standing outside at noon in the northern hemisphere, outside of the tropics, would cast the longest shadow. If you are on the Tropic of Capricorn, however, at noon today, you would have no shadow at all. 
 
 Reading an article in [The Sailors’ Magazine and Seamen’s Friend, Volume 43, Issue 3, of  1871](https://books.google.com/books?id=lu_FPntqEacC&pg=PA73&lpg=PA73&dq=winter+solstice+sailors&source=bl&ots=TrGq_ZB_uE&sig=lTq2LbCKcKG_s8qDVMwhWAGaotg&hl=en&sa=X&ved=0ahUKEwj9uNmPkpvYAhWCQt8KHSLaBg04ChDoAQhDMAU#v=onepage&q=winter%20solstice%20sailors&f=false), got me thinking about shadows and the solstice. (I will admit that this is more than a touch odd.) It seems that at an 1871 gathering at the Chicago Academy of Sciences, a Rev. Mr. Miner, of Canada presented a paper called “The Snow Line” in which he observed, “Should a man start from the Tropic of Cancer at the winter solstice and walk 18 miles per day northward for six months, his shadow would remain nearly the same each day at noon.”  If instead of starting at the Tropic of Cancer one began at the Tropic of Capricorn, you might do away with your noon shadow altogether. 
 

@@ -13,12 +13,12 @@ tags:
   - "Marine Mammal Stranding Center"
   - "NOAA"
   - "unusual mortality event"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg"
 author: "Rick Spilman"
 description: "On Sunday, a crowd gathered to watch the examination and burial of the carcass of a beached humpback whale in the sand in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg)On Sunday, a crowd gathered to watch the examination and burial of the carcass of a beached humpback whale in the sand in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg)On Sunday, a crowd gathered to watch the examination and burial of the carcass of a beached humpback whale in the sand in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month.
 
 [The Press of Atlantic City](https://pressofatlanticcity.com/news/local/burial-of-humpback-whale-draws-a-crowd-to-atlantic-city-beach/article_e5daee90-8faa-11ed-a338-13cea1fa2a08.html) reported that dozens of observers came and stood on the sand dunes over the approximately five hours crews were working, watching them dissect and dispose of the corpse. A bulldozer was driven onto the beach to dig the whale its grave and bury the sea creature. The most common observation made by passersby was the pungent smell of the decomposing whale.
 

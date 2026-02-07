@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg"
 author: "Rick Spilman"
 description: "The USS Fitzgerald, seriously damaged in a collision with a container ship on June 17th that killed seven U.S. sailors, will be transported back to the United States for repairs. The destroyer will be carried via heavy lift ship between mid-September and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg)The [USS *Fitzgerald*,](https://en.wikipedia.org/wiki/USS_Fitzgerald) seriously damaged in a collision with a container ship on June 17th that killed seven U.S. sailors, will be transported back to the United States for repairs. The destroyer will be carried via heavy lift ship between mid-September and the end of October, Cmdr. Clay Doss, a 7th Fleet spokesman, told [Stars and Stripes](https://www.stripes.com/news/uss-fitzgerald-will-be-transported-stateside-for-repairs-this-fall-1.482900). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg)The [USS *Fitzgerald*,](https://en.wikipedia.org/wiki/USS_Fitzgerald) seriously damaged in a collision with a container ship on June 17th that killed seven U.S. sailors, will be transported back to the United States for repairs. The destroyer will be carried via heavy lift ship between mid-September and the end of October, Cmdr. Clay Doss, a 7th Fleet spokesman, told [Stars and Stripes](https://www.stripes.com/news/uss-fitzgerald-will-be-transported-stateside-for-repairs-this-fall-1.482900). 
 
 The [BBC reports](http://www.bbc.com/news/world-us-canada-40970860) that the US Navy has announced that about a dozen sailors are to be disciplined on the USS Fitzgerald due to the collision. The deputy chief of naval operations, Admiral Bill Moran, said the commanding officer and two other senior crew would no longer serve aboard the ship.
 

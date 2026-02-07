@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "The U.S. Naval Academy Museum will be hosting a large exhibition of paintings by Patrick O’Brien through April 30th.  No, not that Patrick O’Brian, Patrick O’Brien the  Baltimore based maritime artist.   The Annapolis Marine Art Gallery will be hosting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Naval-Academy-title.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Naval-Academy-title.jpg)
 
 The [U.S. Naval Academy Museum](http://www.usna.edu/Museum/) will be hosting a large exhibition of paintings by Patrick O’Brien through April 30th.  No, not that Patrick O’Brian, Patrick O’Brien the  Baltimore based maritime artist.   The [Annapolis Marine Art Gallery](http://www.annapolismarineart.com/) will be hosting a reception in celebration of the museum exhibition — Saturday, April 10th, from 2 – 6 PM.
 

@@ -13,12 +13,12 @@ tags:
   - "moon"
   - "Neil Armstrong"
   - "sextant"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/lovellsextant.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lovellsextant.jpg"
 author: "Rick Spilman"
 description: "Sailors have navigated by the stars since the dawn of time. Now, fifty years after Neil Armstrong first set foot on the Moon in the Apollo 11 mission, we shouldn’t forget that even the Apollo astronauts relied on sextants to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/lovellsextant.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lovellsextant.jpg)
 
 Commander Lovell using the sextant, Apollo 8
 

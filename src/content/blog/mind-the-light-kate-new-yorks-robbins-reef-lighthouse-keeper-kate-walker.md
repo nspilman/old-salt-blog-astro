@@ -11,12 +11,12 @@ tags:
   - "Robbins Reef Lighthouse"
   - "Staten Island"
   - "USCGS Katherine Walker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
 description: "In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his final wish to heart. She minded the light … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg)
 
 In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light — from that day on, every single day, for more than three decades.
 

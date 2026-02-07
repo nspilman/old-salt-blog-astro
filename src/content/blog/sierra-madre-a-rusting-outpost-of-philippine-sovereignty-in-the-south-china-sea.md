@@ -17,12 +17,12 @@ tags:
   - "Spratly Islands"
   - "tank-landing ship"
   - "USS LST-821"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/sierramadre.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/sierramadre.jpg"
 author: "Rick Spilman"
 description: "An unlikely nautical relic of World War II, the BRP Sierra Madre, sits hard aground on Second Thomas Shoal, an atoll in the Spratly Islands in the South China Sea. Manned by a handful of Philippine marines, the rusting hulk … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/sierramadre.jpg)An unlikely nautical relic of World War II, the [BRP *Sierra Madre*](https://en.wikipedia.org/wiki/BRP_Sierra_Madre), sits hard aground on [Second Thomas Shoal](https://en.wikipedia.org/wiki/Second_Thomas_Shoal), an atoll in the Spratly Islands in the South China Sea. Manned by a handful of Philippine marines, the rusting hulk serves as an isolated outpost defending Philippine sovereignty in highly contested waters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/sierramadre.jpg)An unlikely nautical relic of World War II, the [BRP *Sierra Madre*](https://en.wikipedia.org/wiki/BRP_Sierra_Madre), sits hard aground on [Second Thomas Shoal](https://en.wikipedia.org/wiki/Second_Thomas_Shoal), an atoll in the Spratly Islands in the South China Sea. Manned by a handful of Philippine marines, the rusting hulk serves as an isolated outpost defending Philippine sovereignty in highly contested waters.
 
 Recently, two ships carrying supplies, escorted by two coast guard ships, delivered fresh provisions to the *Sierra Madre*, breaking a blockade by the Chinese coast guard. Two weeks prior, the Chinese prevented a previous Philippine supply mission from reaching the ship by firing water cannon at the supply ships. The Chinese have also been accused of  using a “military grade” laser light on a Philippine coast guard boat in past encounters.
 

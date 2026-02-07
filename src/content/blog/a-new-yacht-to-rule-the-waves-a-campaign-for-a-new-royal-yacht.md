@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A yacht to rule the waves! Two weeks ago the Mail launched a campaign for a new Royal Yacht. Here we unveil the truly majestic blueprint Since 1660, Great Britain has had 83 royal yachts.  The last was the HMY Britannia, … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/royalyacht.jpg)](http://www.dailymail.co.uk/news/article-2060561/A-yacht-rule-waves-Two-weeks-ago-Mail-launched-campaign-new-Royal-Yacht-Here-unveil-truly-majestic-blueprint.html)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/royalyacht.jpg)](http://www.dailymail.co.uk/news/article-2060561/A-yacht-rule-waves-Two-weeks-ago-Mail-launched-campaign-new-Royal-Yacht-Here-unveil-truly-majestic-blueprint.html)
 
 Click for a larger image
 

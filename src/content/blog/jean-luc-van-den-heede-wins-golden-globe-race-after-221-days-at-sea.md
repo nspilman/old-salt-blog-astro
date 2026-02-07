@@ -9,12 +9,12 @@ categories:
 tags:
   - "Golden Globe Race"
   - "Jean-Luc Van Den Heede"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/vandenheede.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/vandenheede.jpg"
 author: "Rick Spilman"
 description: "After 221 days alone at sea, 73-year-old French sailor, Jean-Luc Van Den Heede, returned to where he started, Les Sables d’Olonne, France, winning the Golden Globe Race. He crossed the finish line at 0900 local time this morning aboard his Rustler 36, Matmut.  The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/vandenheede.jpg)After 221 days alone at sea, 73-year-old French sailor, [Jean-Luc Van Den Heede](https://goldengloberace.com/skipper/jean-luc-van-den-heede-13/), returned to where he started, Les Sables d’Olonne, France, winning the [Golden Globe Race](https://goldengloberace.com/). He crossed the finish line at 0900 local time this morning aboard his Rustler 36, *Matmut.*  The veteran sailor now holds the record for being the oldest person to complete a solo round the world yacht race. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/vandenheede.jpg)After 221 days alone at sea, 73-year-old French sailor, [Jean-Luc Van Den Heede](https://goldengloberace.com/skipper/jean-luc-van-den-heede-13/), returned to where he started, Les Sables d’Olonne, France, winning the [Golden Globe Race](https://goldengloberace.com/). He crossed the finish line at 0900 local time this morning aboard his Rustler 36, *Matmut.*  The veteran sailor now holds the record for being the oldest person to complete a solo round the world yacht race. 
 
 Van Den Heed was met on his arrival by [Sir Robin Knox-Johnston](https://en.wikipedia.org/wiki/Robin_Knox-Johnston), who won the original [1968-1969 Sunday Times Golden Globe Race](https://en.wikipedia.org/wiki/Sunday_Times_Golden_Globe_Race).  Of nine sailors who began the original race, only Knox-Johnson finished in 1969. Of the 18 sailors who began the current Golden Globe, four sailors are still competing to complete the race.
 

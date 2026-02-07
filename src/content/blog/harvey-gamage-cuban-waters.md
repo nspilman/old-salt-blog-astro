@@ -11,7 +11,7 @@ tags:
   - "Cuba"
   - "Harvey Gamage"
   - "Ocean Passages"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/harveygamage1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/harveygamage1.jpg"
 author: "Rick Spilman"
 description: "The last time we posted about the schooner Harvey Gamage, was in 2014, when she and several other vessels were due to be sold at auction following the failure of the Ocean Classroom Foundation. She was subsequently purchased by Phineas Sprague and refit … Continue reading &rarr;"
 ---

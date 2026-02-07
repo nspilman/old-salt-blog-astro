@@ -18,6 +18,6 @@ From [New Scientist](http://www.newscientist.com/gallery/dn17746-visions-of-data
 
 On a rough day it is clear that the shipping lanes have broken down, and that shipping density doesn’t get so high. The slow-moving vessels produce darker, more defined trails.  Click the images below for larger images:
 
-[![Shipping Lanes - Calm seas](http://www.oldsaltblog.com/wp-content/uploads/2009/09/shippinglanessmooth-150x112.jpg)](http://www.oldsaltblog.com/2009/09/28/visualizing-sea-lanes/shippinglanessmooth/ "shippinglanessmooth") [![Shipping Lanes - Rough Weather](http://www.oldsaltblog.com/wp-content/uploads/2009/09/shippinglanerough-150x112.png)](http://www.oldsaltblog.com/2009/09/28/visualizing-sea-lanes/shippinglanerough/ "shippinglanerough")
+[![Shipping Lanes - Calm seas](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/shippinglanessmooth-150x112.jpg)](http://www.oldsaltblog.com/2009/09/28/visualizing-sea-lanes/shippinglanessmooth/ "shippinglanessmooth") [![Shipping Lanes - Rough Weather](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/shippinglanerough-150x112.png)](http://www.oldsaltblog.com/2009/09/28/visualizing-sea-lanes/shippinglanerough/ "shippinglanerough")
 
 The new visualisation method was developed by Niels Willems at Eindhoven University of Technology, the Netherlands, with colleagues Huub van de Wetering, and Jack van Wijk.[](http://www.newscientist.com/gallery/dn17746-visions-of-data/1)

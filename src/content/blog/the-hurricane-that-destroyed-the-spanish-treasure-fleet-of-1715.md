@@ -13,12 +13,12 @@ tags:
   - "Florida"
   - "hurricane"
   - "Spanish"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/1715treasurefleet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/1715treasurefleet.jpg"
 author: "Rick Spilman"
 description: "The scope and scale of the property damage and loss of life resulting from Hurricane Ian to Florida and the Carolinas are still being assessed. The hurricane is likely to rank among the most destructive storms to strike to state … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/1715treasurefleet.jpg)The scope and scale of the property damage and loss of life resulting from Hurricane Ian to Florida and the Carolinas are still being assessed. The hurricane is likely to rank among the most destructive storms to strike to state in recent history.   
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/1715treasurefleet.jpg)The scope and scale of the property damage and loss of life resulting from Hurricane Ian to Florida and the Carolinas are still being assessed. The hurricane is likely to rank among the most destructive storms to strike to state in recent history.   
 
 Hurricanes, of course, are nothing new to the region. On July 31, 1715, a hurricane struck the east coast of [Florida](https://www.history.com/topics/us-states/florida), sinking 10 Spanish treasure ships and killing nearly 1,000 people. All of the gold and silver onboard at the time would not be recovered until 250 years later.
 

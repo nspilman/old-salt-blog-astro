@@ -15,12 +15,12 @@ tags:
   - "Seattle"
   - "strikes"
   - "US West Coast ports"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/portoakland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/portoakland.jpg"
 author: "Rick Spilman"
 description: "Following over a year of negotiations, labor negotiations at US West Coast ports have stalled, resulting in a wave of strikes. As reported by Splash247.com, the Pacific Maritime Association (PMA), which represents more than 22,000 dock workers at West Coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/portoakland.jpg)Following over a year of negotiations, labor negotiations at US West Coast ports have stalled, resulting in a wave of strikes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/portoakland.jpg)Following over a year of negotiations, labor negotiations at US West Coast ports have stalled, resulting in a wave of strikes.
 
 As reported by [Splash247.com](https://splash247.com/unions-strike-again-across-us-west-coast-ports/), the Pacific Maritime Association (PMA), which represents more than 22,000 dock workers at West Coast ports, said Friday that dockworkers were “staging concerted and disruptive work actions” that had stopped or severely disrupted operations stretching from terminals at southern California’s big container port complex at Los Angeles and Long Beach to Seattle, with Oakland suffering the largest disruptions. 
 

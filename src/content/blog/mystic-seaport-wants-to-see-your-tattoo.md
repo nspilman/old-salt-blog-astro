@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the \"Tattoo Tales\" booth, where you can … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/series_02.jpg)Mystic Seaport](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=1) is hosting a [Tattoos & Tallships Weekend](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=217C0824-1E4F-379B-6077DF4285FE20F7) on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the “Tattoo Tales” booth, where you can show your tattoos and share your stories about them.  Mystic Seaport staff will record each story on video and select the best to share on YouTube, Flickr, and Facebook.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/series_02.jpg)Mystic Seaport](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=1) is hosting a [Tattoos & Tallships Weekend](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=217C0824-1E4F-379B-6077DF4285FE20F7) on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the “Tattoo Tales” booth, where you can show your tattoos and share your stories about them.  Mystic Seaport staff will record each story on video and select the best to share on YouTube, Flickr, and Facebook.
 
 [Mystic Seaport wants to see your tattoo](http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Mystic-Seaport-wants-to-see-your-tattoo13662.shtml)  
   

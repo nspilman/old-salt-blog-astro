@@ -11,12 +11,12 @@ tags:
   - "submerged"
   - "Triton"
   - "USS Triton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/voyagetriton.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/voyagetriton.jpg"
 author: "Rick Spilman"
 description: "A good story for the lockdown. In February 1960, the USS Triton set out on a most unusual shakedown cruise. The nuclear-powered radar picket submarine sailed from New London, CT, and returned in May, having circumnavigated the world submerged, becoming … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/voyagetriton.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/voyagetriton.jpg)
 
 Voyage of USS Triton
 

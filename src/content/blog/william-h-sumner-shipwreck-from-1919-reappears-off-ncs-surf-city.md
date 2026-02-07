@@ -12,7 +12,7 @@ tags:
   - "North Carolina"
   - "Surf City"
   - "William H. Sumner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/surfcitywreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/surfcitywreck.jpg"
 author: "Rick Spilman"
 description: "In 1919, the three-masted schooner William H. Sumner was wrecked on the North Carolina shore near New Topsail Inlet, after a mutiny by its crew. Since then the wreck has played hide and seek, disappearing beneath the sand and emerging … Continue reading &rarr;"
 ---

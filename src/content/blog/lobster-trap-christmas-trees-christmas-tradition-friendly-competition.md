@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Lobster traps, also known as lobster pots, are ubiquitous around the coastal towns of New England. Around this time of year, Christmas trees built from stacked lobster pots rise in many towns along the coast. With fishermen being fishermen, a friendly competition between the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/lobster-trap-tree.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/lobster-trap-tree.jpg)
 
 A lobster trap tree from Cape Porpoise, Maine
 

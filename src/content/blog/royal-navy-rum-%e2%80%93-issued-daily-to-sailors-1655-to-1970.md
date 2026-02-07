@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Thanks to David Hayes for passing this along.  There is something slightly frightening about sailors on a nuclear submarine receiving daily rum rations. Royal Navy Rum – issued daily to sailors 1655 to 1970 Alcohol and the Royal Navy often seem … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/Upspirits.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Upspirits.jpg)
 
 Up Spirit ceremony on HMS Endymion, 1905
 

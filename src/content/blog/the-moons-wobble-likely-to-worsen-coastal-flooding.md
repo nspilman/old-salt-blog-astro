@@ -13,12 +13,12 @@ tags:
   - "moon"
   - "NASA"
   - "Wobble"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/moonwobble.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/moonwobble.jpg"
 author: "Rick Spilman"
 description: "The moon is wobbling. This is nothing new. First observed in 1728, the wobble is a cyclical shifting of the moon’s orbit around the earth that takes 18.6 years to complete. In half of this lunar cycle, Earth’s regular daily … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/moonwobble.jpg)The moon is wobbling. This is nothing new. First observed in 1728, the wobble is a cyclical shifting of the moon’s orbit around the earth that takes 18.6 years to complete.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/moonwobble.jpg)The moon is wobbling. This is nothing new. First observed in 1728, the wobble is a cyclical shifting of the moon’s orbit around the earth that takes 18.6 years to complete.
 
 In half of this lunar cycle, Earth’s regular daily tides are diminished, with high tides lower than usual and low tides higher than usual. In the cycle’s other half, the situation is reversed, with high tides higher and low tides lower.
 

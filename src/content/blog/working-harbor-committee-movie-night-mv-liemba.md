@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Working Harbor Committee is sponsoring a wonderful documentary on the MV Liemba, at one hundred years old, the oldest passenger ferry in service."
 ---
 
-![liemba](http://www.oldsaltblog.com/wp-content/uploads/2015/03/liemba.jpg)If you happen to be near New York City next Tuesday night, March 31st, be sure to stop by the Community Church to “take an epic journey down the longest lake in the world on Africa’s last surviving steamship…. the *MV Liemba,*” and all without leaving midtown Manhattan.
+![liemba](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/liemba.jpg)If you happen to be near New York City next Tuesday night, March 31st, be sure to stop by the Community Church to “take an epic journey down the longest lake in the world on Africa’s last surviving steamship…. the *MV Liemba,*” and all without leaving midtown Manhattan.
 
 The [Working Harbor Committee](http://workingharbor.com/) is sponsoring the showing of a wonderful documentary on the *MV Liemba,* an ex-German warship, a minor movie star, and also, at one hundred years old, the world’s oldest passenger ferry in service. The venerable ship provides a critical link to the isolated ports along the eastern shore of Lake Tanganyika. (See our post from last November, *[MV Liemba — the World’s Oldest Passenger/Cargo Steamer at 100 .](http://www.oldsaltblog.com/2014/11/mv-liemba-the-worlds-oldest-passengercargo-steamer-at-100/))*  A trailer for the documentary appears below the page break.
 

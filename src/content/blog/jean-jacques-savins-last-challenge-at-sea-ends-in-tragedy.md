@@ -12,12 +12,12 @@ tags:
   - "distress beacons"
   - "Jean-Jacques Savin"
   - "Savin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/savin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/savin.jpg"
 author: "Rick Spilman"
 description: "Jean-Jacques Savin, a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his \"last challenge at sea.\" Sadly, that challenge ended in tragedy. Savin was found dead inside his boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/savin.jpg)[Jean-Jacques Savin](https://www.facebook.com/Jean-Jacques-Savin-Travers%C3%A9e-de-lAtlantique-%C3%A0-la-rame-2083462608591833), a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his “last challenge at sea.” Sadly, that challenge ended in tragedy. Savin was found dead inside his boat Saturday after he had sent out distress signals in the days before, his [team said in a statement](https://www.facebook.com/permalink.php?story_fbid=3162879780650105&id=2083462608591833). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/savin.jpg)[Jean-Jacques Savin](https://www.facebook.com/Jean-Jacques-Savin-Travers%C3%A9e-de-lAtlantique-%C3%A0-la-rame-2083462608591833), a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his “last challenge at sea.” Sadly, that challenge ended in tragedy. Savin was found dead inside his boat Saturday after he had sent out distress signals in the days before, his [team said in a statement](https://www.facebook.com/permalink.php?story_fbid=3162879780650105&id=2083462608591833). 
 
 The [Portuguese coast guard found the boat overturned](https://www.washingtonpost.com/world/2022/01/23/jean-jacques-savin-atlantic-rowing-french/) near the Azores, on Friday and dispatched a diver on Saturday who discovered Savin deceased in the cabin. Savin had activated his distress beacons Thursday night into Friday morning, the statement said. Savin had celebrated his 75th birthday at sea on January 14, two weeks after departing from Portugal on January 1.
 

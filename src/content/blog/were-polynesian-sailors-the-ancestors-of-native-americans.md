@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Genetic analysis of modern descendants shows that sailors from the Pacific Islands arrived in the Americas long before Europeans arrived. The question is how long? A recent study suggests Polynesians and Native Americans made contact some 800 years ago, well … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/voyaging-canoe.jpg)Genetic analysis of modern descendants shows that sailors from the Pacific Islands arrived in the Americas long before Europeans arrived. The question is how long?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/voyaging-canoe.jpg)Genetic analysis of modern descendants shows that sailors from the Pacific Islands arrived in the Americas long before Europeans arrived. The question is how long?
 
 A [recent study suggests Polynesians and Native Americans made contact some 800 years ago](https://www.nature.com/articles/s41586-020-2487-2.epdf?sharing_token=5l3HcRDUAWe8jkMrGE1tTdRgN0jAjWel9jnR3ZoTv0NQ-GCGXs3b23XyInVhVtT1AdcNQHZodtkKNjeo_SR6zlnT5rYX7fFr64ViulW31NnqUs_ilUTvJxsBJ9LryBu-GAWY5ZW37ax4T2dWtaxP8aRDKWwPfbhI_vYfH36UDYH4kgyqCA5jCVQcnCAq0ETvZGNubeDqJzQByABGjJR6rzk6C249LlUv1Q_DP_Znp_E%3D&tracking_referrer=www.smithsonianmag.com), well before Europeans arrived in North America.
 

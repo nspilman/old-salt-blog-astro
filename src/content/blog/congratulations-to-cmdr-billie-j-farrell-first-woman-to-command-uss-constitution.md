@@ -12,12 +12,12 @@ tags:
   - "Cmdr Billie J. Farrell"
   - "Old Ironsides"
   - "USS Constitution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/bfarrell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/bfarrell.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Commander Billie J. Farrell who will be the 77th commanding officer and the first woman in the 224-year ship’s history to command the USS Constitution. She will assume command of the ship, known as Old Ironsides, during a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/bfarrell.jpg)Congratulations to [Commander Billie J. Farrell](https://www.navy.mil/Press-Office/News-Stories/Article/2888699/first-woman-to-serve-as-commanding-officer-of-uss-constitution-in-ships-224-yea/) who will be the 77th commanding officer and the first woman in the 224-year ship’s history to command the [USS *Constitution*](https://ussconstitutionmuseum.org/). She will assume command of the ship, known as Old Ironsides, during a change-of-command ceremony on Friday, January 21.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/bfarrell.jpg)Congratulations to [Commander Billie J. Farrell](https://www.navy.mil/Press-Office/News-Stories/Article/2888699/first-woman-to-serve-as-commanding-officer-of-uss-constitution-in-ships-224-yea/) who will be the 77th commanding officer and the first woman in the 224-year ship’s history to command the [USS *Constitution*](https://ussconstitutionmuseum.org/). She will assume command of the ship, known as Old Ironsides, during a change-of-command ceremony on Friday, January 21.
 
 [USS *Constitution*](https://en.wikipedia.org/wiki/USS_Constitution), based at Boston’s Charlestown Navy Yard, is the world’s oldest commissioned warship still afloat. It played a crucial role in the Barbary Wars and the War of 1812 and defended sea lanes from 1797 until 1855. The ship was undefeated in battle and destroyed or captured 33 opposing vessels. It earned the nickname Old Ironsides during the War of 1812, when British cannonballs were seen bouncing off its wooden hull.
 

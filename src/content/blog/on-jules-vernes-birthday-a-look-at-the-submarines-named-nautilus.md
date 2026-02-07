@@ -22,29 +22,29 @@ description: "On this the 183th anniversary of the birth of Jules Verne, it se
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/fultonjmnaut-125x83.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/02/fultonjmnaut.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/fultonjmnaut-125x83.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/fultonjmnaut.jpg)
 
 Fulton’s Nautilus
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/Gagneux-exterior-125x32.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/02/Gagneux-exterior.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/Gagneux-exterior-125x32.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/Gagneux-exterior.jpg)
 
 Jean Gagneux’s Nautilus
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/3Dmodel-125x84.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/02/3Dmodel.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/3Dmodel-125x84.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/3Dmodel.jpg)
 
 M. Crisafulli’s Nautilus
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/NautilusByWikiFred-125x63.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/02/NautilusByWikiFred.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/NautilusByWikiFred-125x63.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/NautilusByWikiFred.jpg)
 
 Disney’s Nautilus
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/Vernes_Nautilus_1-125x42.gif)](https://oldsaltblog.com/wp-content/uploads/2011/02/Vernes_Nautilus_1.gif)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/Vernes_Nautilus_1-125x42.gif)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/Vernes_Nautilus_1.gif)
 
 William Wardrop’s Nautilus
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/02/SS-571-Nautilus-trials-125x101.gif)](https://oldsaltblog.com/wp-content/uploads/2011/02/SS-571-Nautilus-trials.gif)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/SS-571-Nautilus-trials-125x101.gif)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/SS-571-Nautilus-trials.gif)
 
 USS Nautilus
 

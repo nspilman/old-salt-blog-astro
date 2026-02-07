@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I have always thought that our planet was misnamed. Earth is a synonym for dirt, even though 72% is covered by water. Now, it appears that scientists may have discovered two distant water worlds even wetter than our own misnamed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/kepler-62.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/kepler-62.jpg)
 
 Kepler-62e
 

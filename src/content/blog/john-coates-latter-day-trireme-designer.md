@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "John Coates John Coates, who died on July 10 aged 88, had retired as chief naval architect at the Ministry of Defence when he took a central role in the building of a Greek trireme, the first, fastest and best … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/coates3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/coates3.jpg)
 
 John Coates, front, demonstrating the three-level system of the trireme with oarsmen from Cambridge University
 

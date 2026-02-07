@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A very interesting presentation at the New Bedford Whaling Museum on Tuesday evening for those in the area. Commander Andrew J. Norris, USCG, will examine modern piracy in the next Sailors’ Series lecture on Tuesday, March 22 at 7:30 p.m. in the Cook … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/logo2.png)A very interesting presentation at the [New Bedford Whaling Museum](http://www.whalingmuseum.org/) on Tuesday evening for those in the area.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/logo2.png)A very interesting presentation at the [New Bedford Whaling Museum](http://www.whalingmuseum.org/) on Tuesday evening for those in the area.
 
 *Commander Andrew J. Norris, USCG, will examine modern piracy in the next Sailors’ Series lecture on Tuesday, March 22 at 7:30* *p.m. in the Cook Memorial Theater, New Bedford Whaling Museum.*  
   

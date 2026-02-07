@@ -11,7 +11,7 @@ tags:
   - "Greta Thunberg"
   - "Malizia II"
   - "Swedish climate activist"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/gretat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/gretat.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, 16-year-old Swedish climate activist, Greta Thunberg, set sail from Plymouth, England on a racing yacht bound for New York. She is traveling to participate in United Nations climate talks in September, and she refuses to fly because aviation … Continue reading &rarr;"
 ---

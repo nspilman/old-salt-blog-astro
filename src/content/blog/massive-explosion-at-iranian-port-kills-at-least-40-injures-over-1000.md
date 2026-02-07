@@ -12,12 +12,12 @@ tags:
   - "missile propellant"
   - "port explosion"
   - "Port of Shahid Rajaei"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/portexplosion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/portexplosion.jpg"
 author: "Rick Spilman"
 description: "A massive explosion and fire on Saturday rocked the Port of Shahid Rajaei in southern Iran, killing at least 40 people and injuring more than 1,000 others. Helicopters and aircraft dumped water from the air on the raging fire through … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/portexplosion.jpg)A massive explosion and fire on Saturday rocked the [Port of Shahid Rajae](https://en.wikipedia.org/wiki/Port_of_Shahid_Rajaee)i in southern Iran, killing at least 40 people and injuring more than 1,000 others. Helicopters and aircraft dumped water from the air on the raging fire through the night into Sunday morning.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/portexplosion.jpg)A massive explosion and fire on Saturday rocked the [Port of Shahid Rajae](https://en.wikipedia.org/wiki/Port_of_Shahid_Rajaee)i in southern Iran, killing at least 40 people and injuring more than 1,000 others. Helicopters and aircraft dumped water from the air on the raging fire through the night into Sunday morning.  
 
 The state-run Islamic Republic News Agency quoted an official as saying the explosion was likely set off by containers of chemicals, but did not identify the chemicals. The agency said late Saturday that the Customs Administration of Iran blamed a “stockpile of hazardous goods and chemical materials stored in the port area” for the blast.
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "This morning around 4:56 UTC the Cypriot container ship Jork Ranger collided with the Greek tanker Mindoro, carrying  jet fuel off the Scheveningen coast in the North Sea.  The collision caused a fuel spill from a five-meter wide puncture in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/artikelen_fotos_6504_215.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/artikelen_fotos_6504_215.jpg)
 
 Damage to Tanker Mindoro
 
@@ -30,7 +30,7 @@ This morning around 4:56 UTC the Cypriot container ship *[Jork Ranger](http://ww
 
 *The leak from a five-meter wide hole was plugged by rescue teams without much delay.*
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/cshipdamagei-150x134.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/cshipdamagei-150x134.jpg)
 
 Damage to the Jork Ranger
 

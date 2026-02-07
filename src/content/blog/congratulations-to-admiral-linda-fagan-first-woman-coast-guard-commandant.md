@@ -13,12 +13,12 @@ tags:
   - "Polar Star"
   - "President Biden"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/admfagan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/admfagan.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Admiral Linda Fagan, who today assumed command as the 27th commandant of the US Coast Guard. Breaking a major glass ceiling, (or perhaps a glass overhead), she also becomes the first woman to lead the service, as well … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/admfagan.jpg)Congratulations to [Admiral Linda Fagan](https://en.wikipedia.org/wiki/Linda_L._Fagan), who today assumed command as the 27th commandant of the US Coast Guard. Breaking a major glass ceiling, (or perhaps a glass overhead), she also becomes the first woman to lead the service, as well as the first female service chief in American history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/admfagan.jpg)Congratulations to [Admiral Linda Fagan](https://en.wikipedia.org/wiki/Linda_L._Fagan), who today assumed command as the 27th commandant of the US Coast Guard. Breaking a major glass ceiling, (or perhaps a glass overhead), she also becomes the first woman to lead the service, as well as the first female service chief in American history.
 
 Sworn in by President Biden at a change-of-command ceremony at US Coast Guard headquarters in Washington, he commented that “There’s no one more qualified to lead the proud women and men of the Coast Guard…”
 

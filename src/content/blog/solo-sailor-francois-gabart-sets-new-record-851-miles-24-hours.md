@@ -10,12 +10,12 @@ categories:
 tags:
   - "François Gabart"
   - "Speed Record"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/MACIF2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/MACIF2.jpg"
 author: "Rick Spilman"
 description: "François Gabart has set a new solo 24-hour speed record of an extraordinary 851 miles sailed in 24 hours on his 98′ trimaran MACIF.  Gabart set the new record sailing in the South Atlantic, averaging 35.4 knots. Gabarts’ record is only about … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/MACIF2.jpg)François Gabart has set a new solo 24-hour speed record of an extraordinary 851 miles sailed in 24 hours on his 98′ trimaran MACIF.  Gabart set the new record sailing in the South Atlantic, averaging 35.4 knots.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/MACIF2.jpg)François Gabart has set a new solo 24-hour speed record of an extraordinary 851 miles sailed in 24 hours on his 98′ trimaran MACIF.  Gabart set the new record sailing in the South Atlantic, averaging 35.4 knots.
 
 Gabarts’ record is only about 50 miles less than the all-time 24-hour distance record of 907.9 miles, set by *Banque Populaire V* in 2009 with a crew of 11.
 

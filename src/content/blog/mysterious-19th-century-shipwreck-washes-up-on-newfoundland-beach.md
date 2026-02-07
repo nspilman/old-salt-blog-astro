@@ -14,12 +14,12 @@ tags:
   - "Cape Ray beach"
   - "Newfoundland"
   - "post-tropical storm Fiona"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/mysteriousshipwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/mysteriousshipwreck.jpg"
 author: "Rick Spilman"
 description: "Gordon Blackmore was out hunting seabirds early in the morning on Cape Ray beach on the southwestern tip of Newfoundland, Canada when he saw the capsized wreck of a large wooden ship that had washed ashore in shallow water. Neil … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/mysteriousshipwreck.jpg)Gordon Blackmore was out hunting seabirds early in the morning on [Cape Ray](https://en.wikipedia.org/wiki/Cape_Ray,_Newfoundland_and_Labrador) beach on the southwestern tip of Newfoundland, Canada when he saw the capsized wreck of a large wooden ship that had washed ashore in shallow water.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/mysteriousshipwreck.jpg)Gordon Blackmore was out hunting seabirds early in the morning on [Cape Ray](https://en.wikipedia.org/wiki/Cape_Ray,_Newfoundland_and_Labrador) beach on the southwestern tip of Newfoundland, Canada when he saw the capsized wreck of a large wooden ship that had washed ashore in shallow water.
 
 Neil Burgess, president of the [Shipwreck Preservation Society of Newfoundland and Labrador](http://www.shipwrecksnl.ca/), suspects the ship was freed by a combination of coastal erosion and the force of post-tropical storm Fiona, which destroyed homes in the region last year.
 

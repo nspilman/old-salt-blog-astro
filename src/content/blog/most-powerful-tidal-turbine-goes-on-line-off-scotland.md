@@ -11,12 +11,12 @@ tags:
   - "Orkneys"
   - "Scotland"
   - "Tidal Turbine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/O2tideturbine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/O2tideturbine.jpg"
 author: "Rick Spilman"
 description: "These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as \"the world’s most powerful\" began grid-connected power generation at the European Marine Energy Centre in Orkney, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/O2tideturbine.jpg)These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as “the world’s most powerful” began grid-connected power generation at the European Marine Energy Centre in Orkney, an archipelago located north of mainland Scotland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/O2tideturbine.jpg)These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as “the world’s most powerful” began grid-connected power generation at the European Marine Energy Centre in Orkney, an archipelago located north of mainland Scotland.
 
 [CNBC](https://www.cnbc.com/2021/07/28/worlds-most-powerful-tidal-turbine-starts-to-export-power-to-grid-.html) reports that in an announcement, Scottish engineering firm [Orbital Marine Power](https://orbitalmarine.com/) explained how its 2-megawatt O2 turbine had been anchored in a body of water called the Fall of Warness**,** with a subsea cable linking it to a local electricity network on land.
 

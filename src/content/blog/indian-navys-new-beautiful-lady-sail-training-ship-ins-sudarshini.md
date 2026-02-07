@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Indian Navy has launched its second sail training ship, INS Sudarshini. The name means \"beautiful lady.\"   She will be a three masted barquentine and will join  INS Tarangini, the Indian navy’s other sail training ship which was commissioned in 1997.  Both ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/christening.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/christening.jpg)
 
 INS Sudarshini is launched by Letha Sushil, wife of Vice-Admiral
 

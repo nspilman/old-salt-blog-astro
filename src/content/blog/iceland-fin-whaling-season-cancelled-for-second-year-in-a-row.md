@@ -12,12 +12,12 @@ tags:
   - "Iceland"
   - "Iceland's only whaling company"
   - "Whaling Season Cancelled"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/icelamdwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/icelamdwhale.jpg"
 author: "Rick Spilman"
 description: "Iceland’s only active whaling company, Hvalur hf. is reportedly canceling this summer’s fin whale hunt. This marks the second consecutive year the company has opted out of whaling during the summer season. Another whaling company, Tjaldtangi ehf., was granted permits … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/icelamdwhale.jpg)Iceland’s only active whaling company, [Hvalur hf.](https://en.wikipedia.org/wiki/Hvalur_hf.) is reportedly canceling this summer’s fin whale hunt. This marks the second consecutive year the company has opted out of whaling during the summer season. Another whaling company, Tjaldtangi ehf., was granted permits to hunt minke whales but has ceased operations. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/icelamdwhale.jpg)Iceland’s only active whaling company, [Hvalur hf.](https://en.wikipedia.org/wiki/Hvalur_hf.) is reportedly canceling this summer’s fin whale hunt. This marks the second consecutive year the company has opted out of whaling during the summer season. Another whaling company, Tjaldtangi ehf., was granted permits to hunt minke whales but has ceased operations. 
 
 Hvalur has been granted a permit by the government of Iceland to hunt 200 fin whales this season. Its CEO, Kristján Loftsson, says the decision to end the whale hunt was made due to the global economic situation. Hvalur has not caught fin or minke whales since 2022.
 

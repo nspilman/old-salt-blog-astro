@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Happy April 1st, which in many countries is also called April Fools’ Day.  It therefore seems only fitting to look back on the Great Gold from Sea Water Hoax.  In October of 1897, at the height of the Alaskan Gold … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/178.jpg)](http://lubec.mainememory.net/page/960/display.html)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/178.jpg)](http://lubec.mainememory.net/page/960/display.html)
 
 One of the original "accumulators" used in the gold from seawater hoax. Currently located at the Lubec Historical Society.
 

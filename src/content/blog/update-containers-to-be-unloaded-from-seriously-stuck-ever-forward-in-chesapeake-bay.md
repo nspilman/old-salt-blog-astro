@@ -12,12 +12,12 @@ tags:
   - "Ever Forward"
   - "Evergreen Marine"
   - "Port of Baltimore"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/everforward.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/everforward.jpg"
 author: "Rick Spilman"
 description: "On March 13th, the container ship Ever Forward missed a turn in the Craighill Channel in the Chesapeake Bay, not long after leaving the Port of Baltimore, and ran up on a mudbank just outside the channel while traveling at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/everforward.jpg)On March 13th, the container ship [*Ever Forward* missed a turn](https://www.oldsaltblog.com/2022/03/container-ship-ever-forward-aground-in-chesapeake-bay/) in the Craighill Channel in the Chesapeake Bay, not long after leaving the Port of Baltimore, and ran up on a mudbank just outside the channel while traveling at a speed of 13 knots. The ship had a draft of 42 feet when it hit the bank, in water only 24 feet deep, burying its bow and much of the hull up to 18 feet deep in the muddy bottom.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/everforward.jpg)On March 13th, the container ship [*Ever Forward* missed a turn](https://www.oldsaltblog.com/2022/03/container-ship-ever-forward-aground-in-chesapeake-bay/) in the Craighill Channel in the Chesapeake Bay, not long after leaving the Port of Baltimore, and ran up on a mudbank just outside the channel while traveling at a speed of 13 knots. The ship had a draft of 42 feet when it hit the bank, in water only 24 feet deep, burying its bow and much of the hull up to 18 feet deep in the muddy bottom.
 
 Now, 23 days later, after dredging around the ship and several failed attempts to pull the ship free by six tugs, the 1,095-foot long *Ever Forward* remains seriously stuck. The salvors working with the Coast Guard have now decided to lighten the ship by using floating cranes to unload a portion of the reported 5,000 containers onboard.
 

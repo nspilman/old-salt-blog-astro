@@ -14,12 +14,12 @@ tags:
   - "time ball"
   - "Times Square"
   - "US Naval Observatory"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg"
 author: "Rick Spilman"
 description: "Tonight, millions will watch in person, online, or on television, as a jeweled ball drops in Times Square in New York City at exactly midnight to mark the arrival of the New Year, 2024. After several years in which the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg)
 
 The USNO Millennium Time Ball
 

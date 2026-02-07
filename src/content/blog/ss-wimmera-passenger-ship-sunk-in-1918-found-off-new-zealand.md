@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "It appears that the wreck of the SS Wimmera, an Australian passenger ship sunk by a mine north of New Zealand in 1918 has been located. Aussie ship sunk in 1918 found off NZ … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Wimmer2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Wimmer2.jpg)
 
 SS Wimmera
 

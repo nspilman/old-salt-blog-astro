@@ -12,12 +12,12 @@ tags:
   - "shark"
   - "shark attacks"
   - "Shark Week"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg"
 author: "Rick Spilman"
 description: "Yesterday was the start of the Discovery Channel’s ever-popular Shark Week. Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called \"Shark Month\" with multiple shark sightings.  Since the unofficial … Continue reading &rarr;"
 ---
 
-![sharknj](http://www.oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg)
+![sharknj](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg)
 
 Yesterday was the start of the [Discovery Channel’s ever-popular Shark Week](https://www.discovery.com/shark-week). Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called [“Shark Month” with multiple shark sightings](https://www.foxweather.com/earth-space/timeline-shark-attacks-sightings-in-new-york-new-jersey).  Since the unofficial start of summer during Memorial Day weekend, beach officials have used drones, helicopters and beach closures to prevent a potentially deadly shark encounter after at least five people have suffered shark bites. Fortunately, none of the attacks have been life-threatening.
 

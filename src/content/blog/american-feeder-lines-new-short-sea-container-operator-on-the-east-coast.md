@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "For several hundred years, up until just after World War II, cargo moved up and down the East Coast of North America by ships and boats of a range of sizes and shapes.  When the interstate highways were built, all but most bulk cargoes  shifted to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/mood_13.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/mood_13.jpg)
 
 For several hundred years, up until just after World War II, cargo moved up and down the East Coast of North America by ships and boats of a range of sizes and shapes.  When the interstate highways were built, all but most bulk cargoes  shifted to trucks.  Now there is an effort to rebuld the “American marine highway.”   [American Feeder Lines](http://www.american-feeder-lines.com/), a New York based shipping company, has launching  a “[New England to Halifax Shuttle](http://www.american-feeder-lines.com/img/AFL-Brochure.pdf),” a weekly service connecting Boston, Portland, Maine, and Halifax via container feeder ships.   After having seen so many shipping companies in the United States shutting down, (including several of my ex-employers,) it is refreshing to see a new operation starting up.
 

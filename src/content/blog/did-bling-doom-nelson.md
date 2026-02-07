@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "\"Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.\" Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
 ---
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/nmedal.jpg)“Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.”*
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/nmedal.jpg)“Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.”*
 
 Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those medals, the Breast Star of the Order of the Bath, is soon to be up for auction in London.   Recently we posted about a [Nelson victory poster](http://www.oldsaltblog.com/2010/09/11/nelson-victory-poster-on-the-block-but-fails-to-sell/) which failed to sell at auction.   The medal is expected to do much better.  The [Breast Star of the Order of the Bath](http://www.coinbooks.org/esylum_v13n36a18.html) is expected to fetch up to £500,000.  Experts have hailed the medals as “*the most important piece of Nelson memorabilia to go under the hammer more than 100 years.*”
 

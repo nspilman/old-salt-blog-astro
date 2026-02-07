@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An amazing 23 foot-long Lego replica of the  Essex Class aircraft carrier USS Intrepid constructed by Ed Diment was unveiled at the Great Western Lego Show Swindon, UK last weekend. Click here for more photos. Giant Lego Replica of Aircraft Carrier … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/intrepidlego.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/intrepidlego.jpg)
 
 An amazing 23 foot-long Lego replica of the  Essex Class aircraft carrier *[USS Intrepid](http://en.wikipedia.org/wiki/USS_Intrepid_\(CV-11\))* constructed by Ed Diment was unveiled at the Great Western Lego Show Swindon, UK last weekend. [Click here for more photos.](http://www.flickr.com/photos/legomonster/sets/72157623014225989/with/5044107351/)
 

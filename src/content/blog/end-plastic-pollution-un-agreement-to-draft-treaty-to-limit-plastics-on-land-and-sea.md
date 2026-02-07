@@ -10,12 +10,12 @@ tags:
   - "global treaty"
   - "plastics"
   - "pollution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/plasticbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/plasticbeach.jpg"
 author: "Rick Spilman"
 description: "Last week, representatives from 175 nations agreed to begin writing a global treaty that would restrict the explosive growth of plastic pollution on land and sea. The agreement commits nations to work on a broad and legally binding treaty that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/plasticbeach.jpg)Last week, representatives from 175 nations [agreed to begin writing a global treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38522/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) that would restrict the explosive growth of plastic pollution on land and sea. The agreement commits nations to work on a broad and legally binding treaty that would not only aim to improve recycling and clean up the world’s plastic waste, but would also include curbs on plastics production itself.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/plasticbeach.jpg)Last week, representatives from 175 nations [agreed to begin writing a global treaty](https://wedocs.unep.org/bitstream/handle/20.500.11822/38522/k2200647_-_unep-ea-5-l-23-rev-1_-_advance.pdf?sequence=1&isAllowed=y) that would restrict the explosive growth of plastic pollution on land and sea. The agreement commits nations to work on a broad and legally binding treaty that would not only aim to improve recycling and clean up the world’s plastic waste, but would also include curbs on plastics production itself.
 
 [World leaders have until 2024](https://www.bbc.com/news/science-environment-60590515) to agree on the terms of the plastic pollution treaty, including which elements will be legally binding and how the deal will be financed.
 

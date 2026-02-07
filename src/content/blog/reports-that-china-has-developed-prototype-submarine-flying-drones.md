@@ -10,12 +10,12 @@ tags:
   - "China"
   - "Nanjing University of Aeronautics"
   - "Prototype Submarine Flying Drones"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/flyingsubdrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/flyingsubdrone.jpg"
 author: "Rick Spilman"
 description: "There are reports that researchers from Nanjing University of Aeronautics in eastern China have developed a prototype flying submarine drone capable of operating underwater or in the air. According to a report by the South China Morning Post, the flying submarine can support … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/flyingsubdrone.jpg)[There are reports](https://gagadget.com/en/science/158047-china-has-created-an-unmanned-flying-submarine-to-counter-aircraft-carrier-defense-systems/) that researchers from Nanjing University of Aeronautics in eastern China have developed a prototype flying submarine drone capable of operating underwater or in the air.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/flyingsubdrone.jpg)[There are reports](https://gagadget.com/en/science/158047-china-has-created-an-unmanned-flying-submarine-to-counter-aircraft-carrier-defense-systems/) that researchers from Nanjing University of Aeronautics in eastern China have developed a prototype flying submarine drone capable of operating underwater or in the air.
 
 According to a report by the [South China Morning Post](https://www.scmp.com/news/china/science/article/3187955/chinese-scientists-develop-flying-unmanned-submarine), the flying submarine can support various military missions, including the detection of underwater mines.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Wednesday I raised the question – is history just a sea story? I found in researching my novel, Hell Around the Horn, that two memoirs written about the voyage of the British windjammer, British Isles, on which the novel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/britishisles.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/britishisles.jpg)
 
 Windjammer British Isles
 

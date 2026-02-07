@@ -11,12 +11,12 @@ tags:
   - "Coast Guard"
   - "Revenue Cutter Service"
   - "United States Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/uscgcutternarcosub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uscgcutternarcosub.jpg"
 author: "Rick Spilman"
 description: "Happy 228th Birthday to the United States Coast Guard!  The Coast Guard is the oldest maritime service in the US government and somehow always succeeds in doing the most with the very least.  The United States Coast Guard was established as the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/uscgcutternarcosub.jpg)Happy 228th Birthday to the [United States Coast Guard](https://www.uscg.mil/)!  The Coast Guard is the oldest maritime service in the US government and somehow always succeeds in doing the most with the very least. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uscgcutternarcosub.jpg)Happy 228th Birthday to the [United States Coast Guard](https://www.uscg.mil/)!  The Coast Guard is the oldest maritime service in the US government and somehow always succeeds in doing the most with the very least. 
 
 The United States Coast Guard was established as the [Revenue Cutter Service on August 4, 1790](https://www.gocoastguard.com/about-the-coast-guard/learn-the-history), eight years before Congress authorized the [Department of the Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday/OriginsNavy/the-establishment-of-the-department-of-the-navy.html). In the period between when the Congress disbanded the [Continental Navy](https://en.wikipedia.org/wiki/Continental_Navy) in 1785 and the establishment of the US Navy, the Revenue Cutter Service served as the nation’s only armed force on the sea.  (Of course, the Navy claims their founding dates back to the disbanded Continental Navy because, well, they do.)
 

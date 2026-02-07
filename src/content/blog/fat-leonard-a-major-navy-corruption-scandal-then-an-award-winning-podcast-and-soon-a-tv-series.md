@@ -16,12 +16,12 @@ tags:
   - "television adaptation"
   - "Tom Wright"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
 description: "The \"Fat Leonard\" corruption scandal has been described as \"perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.\" More than two dozen Naval officers have pleaded guilty to taking bribes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg)
 
 “Fat Leonard” Francis
 

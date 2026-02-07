@@ -13,12 +13,12 @@ tags:
   - "Lake Erie Walleye Trail"
   - "walleye"
   - "weights"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/LEWTCheating.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/LEWTCheating.jpg"
 author: "Rick Spilman"
 description: "On Sept. 30, two fishermen, Jacob Runyan, 42, of Ashtabula, Ohio, and Chase Cominsky, 35, of Hermitage, Pa., participated in the Lake Erie Walleye Trail tournament in Cleveland. The stakes were high. If the fish landed by the pair weighed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/LEWTCheating.jpg)On Sept. 30, two fishermen, Jacob Runyan, 42, of Ashtabula, Ohio, and Chase Cominsky, 35, of Hermitage, Pa., participated in the [Lake Erie Walleye Trail](https://lakeeriewalleyetrail.com/2022-lewt-bwwc-tournament-schedule/) tournament in Cleveland. The stakes were high. If the fish landed by the pair weighed more than their competition, they would win almost $30,000. The pair were considered serious contenders for the prize. They had come in first place at the three previous Lake Erie Walleye Trail events in June, July, and September.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/LEWTCheating.jpg)On Sept. 30, two fishermen, Jacob Runyan, 42, of Ashtabula, Ohio, and Chase Cominsky, 35, of Hermitage, Pa., participated in the [Lake Erie Walleye Trail](https://lakeeriewalleyetrail.com/2022-lewt-bwwc-tournament-schedule/) tournament in Cleveland. The stakes were high. If the fish landed by the pair weighed more than their competition, they would win almost $30,000. The pair were considered serious contenders for the prize. They had come in first place at the three previous Lake Erie Walleye Trail events in June, July, and September.
 
 When their walleye were weighed, however, they seemed unduly heavy for their size. On cutting the fish open, tournament officials found ten weights, each one weighing either 8 or 12 ounces, as well as several walleye fillets stuffed inside each fish. [The New York Times](https://www.nytimes.com/2022/10/12/us/fishing-tournament-cheating-ohio.html) reports that a grand jury indicted both men on Wednesday on felony charges of cheating and attempted grand theft. 
 

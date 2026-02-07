@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "On September 16, 1620, four hundred years ago today, the merchant ship Mayflower set sail from Plymouth, England, bound for the New World with 102 passengers. The mix of religious separatists and entrepreneurs referred to today as Pilgrims would establish … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/MAS.jpg)On September 16, 1620, four hundred years ago today, the merchant ship [*Mayflower* set sail](https://www.history.com/this-day-in-history/mayflower-departs-england) from Plymouth, England, bound for the New World with 102 passengers. The mix of religious separatists and entrepreneurs referred to today as Pilgrims would establish the first permanent European settlement in New England.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/MAS.jpg)On September 16, 1620, four hundred years ago today, the merchant ship [*Mayflower* set sail](https://www.history.com/this-day-in-history/mayflower-departs-england) from Plymouth, England, bound for the New World with 102 passengers. The mix of religious separatists and entrepreneurs referred to today as Pilgrims would establish the first permanent European settlement in New England.
 
 Today, a high tech autonomous ship, also called the *Mayflower,* was unveiled. The craft was originally intended to set off to replicate the voyage of the original *Mayflower* on the anniversary of the original’s departure but was delayed by the pandemic. The plan is now to test the craft, referred to as the Mayflower Autonomous Ship (MAS), over the next six months and to attempt the voyage in April, 2021.    
 

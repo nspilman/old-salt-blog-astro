@@ -12,12 +12,12 @@ tags:
   - "Dartmouth"
   - "Indian Ocean"
   - "Mark E Laidre"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/coconutcrab.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/coconutcrab.jpg"
 author: "Rick Spilman"
 description: "Coconut crabs are the stuff of nightmares. They live on remote coral atolls and are the largest land-living arthropod in the world. They can grow to over three feet long and weigh up to about 9 pounds. They can climb trees and use their … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/coconutcrab.jpg)[Coconut crabs](https://en.wikipedia.org/wiki/Coconut_crab) are the stuff of nightmares. They live on remote coral atolls and are the largest land-living [arthropod](https://en.wikipedia.org/wiki/Arthropod "Arthropod") in the world. They can grow to over three feet long and weigh up to about 9 pounds. They can climb trees and use their immensely powerful claws to rip open coconuts. Recently scientists have discovered that they also hunt and eat sea birds. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/coconutcrab.jpg)[Coconut crabs](https://en.wikipedia.org/wiki/Coconut_crab) are the stuff of nightmares. They live on remote coral atolls and are the largest land-living [arthropod](https://en.wikipedia.org/wiki/Arthropod "Arthropod") in the world. They can grow to over three feet long and weigh up to about 9 pounds. They can climb trees and use their immensely powerful claws to rip open coconuts. Recently scientists have discovered that they also hunt and eat sea birds. 
 
 [Mark E Laidre](http://biology.dartmouth.edu/people/mark-laidre), a biologist at Dartmouth College, had heard stories of the crabs hunting sea birds and set out to investigate. He traveled to the Chagos Archipelago in the Indian Ocean. While crabs are generally known as scavengers, Laidre had never before encountered a crab which hunted which hunted its prey.
 

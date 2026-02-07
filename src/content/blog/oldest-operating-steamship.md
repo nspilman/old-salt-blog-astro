@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Everyone likes superlatives. The oldest, fastest, newest, largest and so on. Often superlatives need to be very specific to be made to apply. HMS Victory, for example, is the oldest naval ship still in commission, while USS Constitution is the oldest … Continue reading &rarr;"
 ---
 
-![PS Skibladner Photo: Andrez1 ](http://www.oldsaltblog.com/wp-content/uploads/2016/11/oldest-steam.jpg)
+![PS Skibladner Photo: Andrez1 ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/oldest-steam.jpg)
 
 PS Skibladner Photo: Andrez1
 

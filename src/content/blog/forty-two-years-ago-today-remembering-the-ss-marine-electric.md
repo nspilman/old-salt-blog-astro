@@ -12,12 +12,12 @@ tags:
   - "Marine Electric"
   - "Marine Transport Lines"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/marineelectric2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/marineelectric2.jpg"
 author: "Rick Spilman"
 description: "Forty-two years ago today, on February 12, 1983, the collier SS Marine Electric loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/marineelectric2.jpg)Forty-two years ago today, on February 12, 1983, the collier [SS *Marine Electric*](https://en.wikipedia.org/wiki/SS_Marine_Electric) loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While nothing good can be said about the tragic loss of 31 sailors, the aftermath of the *Marine Electric* sinking led to important improvements in safety in the US shipping industry.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/marineelectric2.jpg)Forty-two years ago today, on February 12, 1983, the collier [SS *Marine Electric*](https://en.wikipedia.org/wiki/SS_Marine_Electric) loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While nothing good can be said about the tragic loss of 31 sailors, the aftermath of the *Marine Electric* sinking led to important improvements in safety in the US shipping industry.
 
 The SS *Marine Electric* should have never left the dock. The ship was a T2 tanker built during World War II which had been jumboised with a new midbody and converted to a bulk carrier in 1961 by [Marine Transport Lines](http://www.marinetransportlines.com/) (MTL). She had not been well maintained. When she sailed in February of 1983, there were holes in her deck and hatch covers, many of which were patched with epoxy and duct tape. The chief mate had altered the company of the deficiencies, but nothing had been done. Inspections by the Coast Guard and the classification society, the American Bureau of Shipping (ABS), were perfunctory and in some cases were simply falsified.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Update: The final auction price for the Sea Shadow and the HMB1 was an impressive $3.2 million. The Sea Shadow is an experimental 164′ long catamaran \"stealth ship\" built by Lockheed in the mid 1980s for the United States Navy.  For … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/seashadow.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/seashadow.jpg)
 
 Sea Shadow
 

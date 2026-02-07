@@ -14,12 +14,12 @@ tags:
   - "ship burial"
   - "Sutton Hoo"
   - "The Dig"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/suttonhooship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/suttonhooship.jpg"
 author: "Rick Spilman"
 description: "I recently watched \"The Dig,\" a new movie on Netflix, starring Carey Mulligan and Ralph Fiennes about the excavation of the Sutton Hoo ship-burial in Suffolk, England.  Now the Sutton Hoo Ship’s Company is undertaking to recreate the great king’s ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/suttonhooship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/suttonhooship.jpg)
 
 Artist’s Conception of the Recreated Sutton Hoo ship
 
@@ -35,7 +35,7 @@ In fact, the ship was gone for centuries before Basil Brown turned over the firs
 
 The Sutton Hoo Ship’s Company has built a half-scale version of the ship and now intends to build the full-scale ship in all her glory.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/suttonhooship2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/suttonhooship2.jpg)
 
 [National Historic Ships](https://www.nationalhistoricships.org) describes the project: The team will build the Saxon ship using authentic ship-building methods with the help of marine archaeologists, ship architects, shipwrights, and experts in green woodworking. Together with strong academic support from the Universities of York and Southampton the team will ensure detailed records are kept at every stage of the build.  Along with professional shipwrights overseeing critical parts of the build, the team will engage with apprentices and students from the International Boatbuilding Training College at Lowestoft to benefit from learning on the build.
 

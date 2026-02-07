@@ -16,12 +16,12 @@ tags:
   - "Port Said"
   - "Suez Canal"
   - "U.S.S. Harry S. Truman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/truman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/truman.jpg"
 author: "Rick Spilman"
 description: "USS Harry S. Truman (CVN-75), flagship of the Harry S. Truman Carrier Strike Group, collided with M/V Besiktas-M, a 53,00 DWT bulk carrier, on Wednesday evening near Port Said, Egypt, in the Mediterranean Sea, the Navy said Thursday. The incident … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/truman.jpg)[USS *Harry S. Truman* (CVN-75)](https://en.wikipedia.org/wiki/USS_Harry_S._Truman), flagship of the Harry S. Truman Carrier Strike Group, collided with [M/V *Besiktas-M*](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9291365), a 53,00 DWT bulk carrier, on Wednesday evening near Port Said, Egypt, in the Mediterranean Sea, the Navy said Thursday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/truman.jpg)[USS *Harry S. Truman* (CVN-75)](https://en.wikipedia.org/wiki/USS_Harry_S._Truman), flagship of the Harry S. Truman Carrier Strike Group, collided with [M/V *Besiktas-M*](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9291365), a 53,00 DWT bulk carrier, on Wednesday evening near Port Said, Egypt, in the Mediterranean Sea, the Navy said Thursday.
 
 The incident occurred near Port Said, Egypt, at approximately 11:46 p.m. local time, Cmdr. Timothy Gorman, U.S. Sixth Fleet spokesperson, said in a brief statement Thursday.
 

@@ -13,12 +13,12 @@ tags:
   - "orcas"
   - "Rhodes University"
   - "South Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/orcashark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/orcashark.jpg"
 author: "Rick Spilman"
 description: "Over the last five years, a macabre mystery has been playing out on the South African coast. The carcasses of great white sharks have been washing ashore on local beaches with their bellies ripped open and their livers missing. What … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/orcashark.jpg)Over the last five years, a macabre mystery has been playing out on the South African coast. The carcasses of great white sharks have been washing ashore on local beaches with their bellies ripped open and their livers missing. What had killed the sharks was unclear, although scientists suspected orcas, also known as killer whales, which had been observed in the area.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/orcashark.jpg)Over the last five years, a macabre mystery has been playing out on the South African coast. The carcasses of great white sharks have been washing ashore on local beaches with their bellies ripped open and their livers missing. What had killed the sharks was unclear, although scientists suspected orcas, also known as killer whales, which had been observed in the area.
 
 Now drone and helicopter video footage has documented a pod of five orcas hunting and killing a great white shark in Mossel Bay, South Africa. The grisly video culminates with one of the killer whales gobbling up a large chunk of the shark’s liver.
 

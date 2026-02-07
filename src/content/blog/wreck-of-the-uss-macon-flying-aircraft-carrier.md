@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "In Marvel comics and movies, the mobile headquarters of the fictional intelligence/defense agency S.H.I.E.L.D. is a flying aircraft carrier, referred to as a \"Helicarrier.\"  In the comic books, the flying aircraft carrier first appeared in 1965, which raises the obvious question — … Continue reading &rarr;"
 ---
 
-![ussmacon](http://www.oldsaltblog.com/wp-content/uploads/2015/08/ussmacon.jpg)
+![ussmacon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/ussmacon.jpg)
 
 USS Macon
 

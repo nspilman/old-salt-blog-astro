@@ -13,12 +13,12 @@ tags:
   - "Presidents' Day"
   - "third Monday in February"
   - "Washington's Birthday"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/GWBirthday.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/GWBirthday.jpg"
 author: "Rick Spilman"
 description: "Happy Washington’s birthday, or close to Washington’s birthday, at any rate. Since 1879, the third Monday in February has been celebrated as a federal holiday in the United States in honor of the Founding Father George Washington, who led the Continental Army to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/GWBirthday.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/GWBirthday.jpg)
 
 Admiral Washington?
 

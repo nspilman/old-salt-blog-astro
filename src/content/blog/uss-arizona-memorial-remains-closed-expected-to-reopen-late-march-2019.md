@@ -13,12 +13,12 @@ tags:
   - "National Pearl Harbor Remembrance Day"
   - "Pearl Harbor"
   - "USS Arizona Memorial"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/06/arizonamem1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/arizonamem1.jpg"
 author: "Rick Spilman"
 description: "On National Pearl Harbor Remembrance Day, the iconic USS Arizona Memorial remains closed to the public. As we posted last June, the memorial close indefinitely after structural cracks in the memorial dock were reported in early May. The National Park Service (NPS) … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/arizonamem1.jpg)On [National Pearl Harbor Remembrance Day](https://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day), the iconic [USS Arizona Memorial](https://en.wikipedia.org/wiki/USS_Arizona_Memorial) remains closed to the public. As we [posted last June](http://www.oldsaltblog.com/2018/06/uss-arizona-memorial-at-pearl-harbor-closes-indefinitely/), the memorial close indefinitely after structural cracks in the memorial dock were reported in early May. The National Park Service (NPS) is now estimating that the necessary repairs will not be completed before the end of March 2019.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/arizonamem1.jpg)On [National Pearl Harbor Remembrance Day](https://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day), the iconic [USS Arizona Memorial](https://en.wikipedia.org/wiki/USS_Arizona_Memorial) remains closed to the public. As we [posted last June](http://www.oldsaltblog.com/2018/06/uss-arizona-memorial-at-pearl-harbor-closes-indefinitely/), the memorial close indefinitely after structural cracks in the memorial dock were reported in early May. The National Park Service (NPS) is now estimating that the necessary repairs will not be completed before the end of March 2019.
 
 From an [NPS statement](https://www.nps.gov/valr/learn/news/uss-arizona-memorial-dock-completion-expected-in-march-2019.htm): *“Not being able to welcome survivors and their families on the USS Arizona Memorial this coming December 7th is heartbreaking,” said Jacqueline Ashwell, superintendent of WWII Valor in the Pacific National Monument, who oversees the memorial. “After exploring multiple options, we are working with our friends in the U.S. Navy to hold an intimate ceremony aboard a vessel adjacent to the USS Arizona. The Navy has been our partner every step of the way, and I could not be more grateful for their support.”*
 

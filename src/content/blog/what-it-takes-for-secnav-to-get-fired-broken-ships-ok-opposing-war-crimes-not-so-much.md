@@ -14,12 +14,12 @@ tags:
   - "Secretary of the Navy"
   - "USS Gerald R. Ford"
   - "war crimes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/rspencer2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/rspencer2.jpg"
 author: "Rick Spilman"
 description: "After suggesting that he should be fired if the USS Gerald R. Ford was not operational by last summer, he was fired for not supporting the pardon of a war criminal. So, for this administration, broken ships are OK, but standing against war crimes is not. "
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/rspencer2.jpg)The Secretary of the Navy, Richard V. Spencer, has been fired. What is revelatory is what he was fired for. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/rspencer2.jpg)The Secretary of the Navy, Richard V. Spencer, has been fired. What is revelatory is what he was fired for. 
 
 As we posted last month, in January, Spencer [made a promise to President Trump](https://www.forbes.com/sites/craighooper/2019/10/16/the-navys-accountability-crisis-over-a-bet-ensnares-its-top-leader/#75a51d141098) that the advanced weapons elevators on the new carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) would be operational by the end of the summer or the president should fire him. The elevators are not operational and without them, as one critic has noted the most expensive warship in history is little more than a “[$13-billion nuclear-powered floating berthing barge](https://news.usni.org/2019/10/22/carrier-ford-may-not-deploy-until-2024-3rd-weapons-elevator-certified).”  Nevertheless, that was not what Secretary Spencer was fired for.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "An oil platform operated by Mariner Energy exploded today near Vermilion Bay in the Gulf of Mexico off the coast of Louisiana. One worker was reported injured. No one was killed and no significant oil spill resulted.   Mariner Energy has been involved at least 13 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/mariner1-150x111.jpg)An oil platform operated by Mariner Energy exploded today near Vermilion Bay in the Gulf of Mexico off the coast of Louisiana. One worker was reported injured. No one was killed and no significant oil spill resulted.   Mariner Energy has been involved at least 13 offshore accidents since 2006 in Gulf of Mexico waters — including a blowout and four fires.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/mariner1-150x111.jpg)An oil platform operated by Mariner Energy exploded today near Vermilion Bay in the Gulf of Mexico off the coast of Louisiana. One worker was reported injured. No one was killed and no significant oil spill resulted.   Mariner Energy has been involved at least 13 offshore accidents since 2006 in Gulf of Mexico waters — including a blowout and four fires.
 
 [Oil platform explodes off La. coast; crew rescued](http://news.yahoo.com/s/ap/us_gulf_rig_explosion)
 

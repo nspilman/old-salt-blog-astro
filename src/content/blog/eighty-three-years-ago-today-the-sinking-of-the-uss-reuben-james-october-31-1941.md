@@ -13,12 +13,12 @@ tags:
   - "Reuben James"
   - "U552"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/reubenjames.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/reubenjames.jpg"
 author: "Rick Spilman"
 description: "The first American naval ship lost in World War II was not sunk in the attack on Pearl Harbor on December 7th, 1941.  Over a month before, on October 31, 1941, the destroyer USS Reuben James, escorting a convoy bound … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/reubenjames.jpg)The first American naval ship lost in World War II was not sunk in the attack on Pearl Harbor on December 7th, 1941.  Over a month before, on October 31, 1941, the destroyer *[USS Reuben James](http://en.wikipedia.org/wiki/USS_Reuben_James_\(DD-245\))*, escorting a convoy bound for Britain, was sunk by a torpedo from a German submarine, [U552](http://en.wikipedia.org/wiki/German_submarine_U-552) near Iceland.  Of the 159-man crew, only 44 survived.  This was the third attack by German submarines on US destroyers.   On September 1941, the destroyer *[USS Greer](http://en.wikipedia.org/wiki/USS_Greer_\(DD-145\))* exchanged fire with a German submarine, but was not hit.  Then, on October 17th, the destroyer *[USS Kearny](http://en.wikipedia.org/wiki/USS_Kearny)* was hit by a German torpedo but survived. Eleven crew members were killed and 22 injured in the attack.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/reubenjames.jpg)The first American naval ship lost in World War II was not sunk in the attack on Pearl Harbor on December 7th, 1941.  Over a month before, on October 31, 1941, the destroyer *[USS Reuben James](http://en.wikipedia.org/wiki/USS_Reuben_James_\(DD-245\))*, escorting a convoy bound for Britain, was sunk by a torpedo from a German submarine, [U552](http://en.wikipedia.org/wiki/German_submarine_U-552) near Iceland.  Of the 159-man crew, only 44 survived.  This was the third attack by German submarines on US destroyers.   On September 1941, the destroyer *[USS Greer](http://en.wikipedia.org/wiki/USS_Greer_\(DD-145\))* exchanged fire with a German submarine, but was not hit.  Then, on October 17th, the destroyer *[USS Kearny](http://en.wikipedia.org/wiki/USS_Kearny)* was hit by a German torpedo but survived. Eleven crew members were killed and 22 injured in the attack.
 
 The sinking of the Reuben James was memorialized by the American folk singer [Woody Guthrie](http://www.woodyguthrie.org/):
 

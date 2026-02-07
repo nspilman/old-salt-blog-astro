@@ -13,7 +13,7 @@ tags:
   - "Gordon Lightfoot"
   - "Lightfoot"
   - "Wreck of the Edmund Fitzgerald"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/yarmouthcastle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/yarmouthcastle.jpg"
 author: "Rick Spilman"
 description: "A belated happy birthday to Canadian singer/songwriter Gordon Lightfoot, who turned 84 the day before yesterday. Often referred to as Canada’s greatest songwriter, Lightfoot is also a sailor, having owned and sailed the 39′ Sundown and the 45′ Golden Goose. … Continue reading &rarr;"
 ---

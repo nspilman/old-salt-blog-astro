@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The ongoing 2018 Golden Globe Race is a 50th-anniversary homage to the 1968 Sunday Times Golden Globe Yacht Race, the first single-handled nonstop around-the-world sailboat race. In the 1968 race, Sir Robin Knox-Johnston was the winner and the only contestant to complete the race. Last June, 18 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/wiigboat.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/wiigboat.jpg)
 
 Are Wiig’s Olleanna
 

@@ -12,12 +12,12 @@ tags:
   - "Cruising Free"
   - "cystic fibrosis"
   - "Sophie Pierce"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/adash.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/adash.jpg"
 author: "Rick Spilman"
 description: "Sophie Pierce did not believe she would live until she was 30 due to cystic fibrosis, a genetic illness affecting her ability to breathe. Remarkably, she has just completed a world record-breaking row, at age 32, becoming the first person … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/adash.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/adash.jpg)
 
 Image: Atlantic Dash
 

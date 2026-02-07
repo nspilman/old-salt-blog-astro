@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An interesting article from JoongAng Ilbo about a large sailing yacht once owned by an unnamed American Mafia boss. The yacht was in Korea for modifications, when the Mafiosa was arrested and sent to prison.  The boat was purchased by a Korean who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/08/koreana.jpg)An interesting article from [JoongAng Ilbo](http://joongangdaily.joins.com/article/view.asp?aid=2908328) about a large sailing yacht once owned by an unnamed American Mafia boss. The yacht was in Korea for modifications, when the Mafiosa was arrested and sent to prison.  The boat was purchased by a Korean who named her *Koreana* and intends to use her to teach students about the sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/koreana.jpg)An interesting article from [JoongAng Ilbo](http://joongangdaily.joins.com/article/view.asp?aid=2908328) about a large sailing yacht once owned by an unnamed American Mafia boss. The yacht was in Korea for modifications, when the Mafiosa was arrested and sent to prison.  The boat was purchased by a Korean who named her *Koreana* and intends to use her to teach students about the sea.
 
 The *Koreana* is said to be the first “clipper” in Korea. Fortunately the articles defines what it means by “clipper”:
 

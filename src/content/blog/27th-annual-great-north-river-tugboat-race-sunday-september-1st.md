@@ -12,12 +12,12 @@ tags:
   - "hudson river"
   - "Pier 84"
   - "Working Harbor Committee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/27thtugboatrace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/27thtugboatrace.jpg"
 author: "Rick Spilman"
 description: "The 27th Annual Great North River Tugboat Race, sponsored by the Working Harbor Committee, will be held on the Hudson River near Pier 84  starting at 11 a.m. on September 1st.  Watch from shore or get onboard the Spectator Boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/27thtugboatrace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/27thtugboatrace.jpg)
 
   
 Photos: Mitch Waxman

@@ -9,12 +9,12 @@ tags:
   - "Chicago"
   - "Christmas Tree Ship"
   - "USCG Cutter Mackinaw"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/christmastreeship2020.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/christmastreeship2020.jpg"
 author: "Rick Spilman"
 description: "Every year, the Christmas Ship, with the support of the US Coast Guard and volunteer groups, delivers Christmas trees to families in need in Chicago’s communities. This year was no exception, but because of the pandemic, it was a bit … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/christmastreeship2020.jpg)Every year, the [Christmas Ship](http://christmasship.org/), with the support of the US Coast Guard and volunteer groups, delivers Christmas trees to families in need in Chicago’s communities. This year was no exception, but because of the pandemic, it was a bit different.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/christmastreeship2020.jpg)Every year, the [Christmas Ship](http://christmasship.org/), with the support of the US Coast Guard and volunteer groups, delivers Christmas trees to families in need in Chicago’s communities. This year was no exception, but because of the pandemic, it was a bit different.
 
 In past years, the [USCG Cutter *Mackinaw*](https://en.wikipedia.org/wiki/USCGC_Mackinaw_\(WLBB-30\)) delivered trees to the Navy pier where volunteers, including Sea Cadets, Venture Crews, Sea Scouts, and Young Marines, off-loaded the trees and loaded them into trucks to be distributed to more than one thousand deserving families.
 

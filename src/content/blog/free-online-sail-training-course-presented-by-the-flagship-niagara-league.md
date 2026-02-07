@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "Niagara"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/niagara2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/niagara2.jpg"
 author: "Rick Spilman"
 description: "This is a bit last minute, but I see a post on Facebook about a free online sail training course presented by the Flagship Niagara League. Free Online Sail Training Course! Learn about how Niagara is rigged and sailed! Join … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/niagara2.jpg)This is a bit last minute, but I see a [post on Facebook](https://www.facebook.com/flagshipniagara/posts/10157863201548639) about a free online sail training course presented by the [Flagship Niagara League](https://sailfnl.org/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/niagara2.jpg)This is a bit last minute, but I see a [post on Facebook](https://www.facebook.com/flagshipniagara/posts/10157863201548639) about a free online sail training course presented by the [Flagship Niagara League](https://sailfnl.org/).
 
 *Free Online Sail Training Course! Learn about how [Niagara](https://sailfnl.org/about-niagara/) is rigged and sailed!*
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Battle of Jutland, which was fought 100 years ago today, was one of the greatest modern sea battles and arguably, changed the course of World War I.  In the battle, 250 ships, manned by 10,000 sailors fought for 12 … Continue reading &rarr;"
 ---
 
-![Admiral Sir John Jellicoe](http://www.oldsaltblog.com/wp-content/uploads/2016/05/jjellicoe.jpg)
+![Admiral Sir John Jellicoe](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/jjellicoe.jpg)
 
 Admiral John Jellicoe
 

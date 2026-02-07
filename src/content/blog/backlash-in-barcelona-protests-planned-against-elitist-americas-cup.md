@@ -12,12 +12,12 @@ tags:
   - "over-tourism"
   - "Platform Against the America’s Cup"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/acbarcelona.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/acbarcelona.jpg"
 author: "Rick Spilman"
 description: "With preliminary races of the Louis Vuitton 37th America’s Cup now underway in Barcelona, Spain, the famous sailing competition is facing the storm of over-tourism protests that have swept across much of Europe, as well as, many tourist hotspots across … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/acbarcelona.jpg)With preliminary races of the [Louis Vuitton 37th America’s Cup](https://www.americascup.com/37th-americascup-barcelona) now underway in Barcelona, Spain, the famous sailing competition is facing the storm of over-tourism protests that have swept across much of Europe, as well as, many tourist hotspots across the globe. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/acbarcelona.jpg)With preliminary races of the [Louis Vuitton 37th America’s Cup](https://www.americascup.com/37th-americascup-barcelona) now underway in Barcelona, Spain, the famous sailing competition is facing the storm of over-tourism protests that have swept across much of Europe, as well as, many tourist hotspots across the globe. 
 
 The [Guardian](https://www.theguardian.com/world/article/2024/aug/26/barcelona-americas-cup-overtourism-super-rich-local-economy) reports that according to its supporters, the America’s Cup will bring in €1bn to Barcelona, create 19,000 jobs and, by the time the last sail is furled on 20 October, have attracted an extra 2.5 million visitors to the city.
 

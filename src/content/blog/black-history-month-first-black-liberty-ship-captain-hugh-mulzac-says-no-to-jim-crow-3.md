@@ -13,12 +13,12 @@ tags:
   - "Jim Crow"
   - "SS Booker T. Washington"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/captainhugh.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/captainhugh.jpg"
 author: "Rick Spilman"
 description: "Hugh Mulzak served as the first Black Liberty ship captain in World War II. When offered the command, he refused to sail with a segregated crew. An updated repost in honor of Black History Month. Born in 1886 on Union … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/captainhugh.jpg)[Hugh Mulzak](https://en.wikipedia.org/wiki/Hugh_Mulzac) served as the first Black [Liberty ship](https://en.wikipedia.org/wiki/Liberty_ship) captain in World War II. When offered the command, he refused to sail with a segregated crew. An updated repost in honor of Black History Month.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/captainhugh.jpg)[Hugh Mulzak](https://en.wikipedia.org/wiki/Hugh_Mulzac) served as the first Black [Liberty ship](https://en.wikipedia.org/wiki/Liberty_ship) captain in World War II. When offered the command, he refused to sail with a segregated crew. An updated repost in honor of Black History Month.
 
 Born in 1886 on Union Island in Saint Vincent Grenadines, he went to sea at 21 and served on British, Norwegian, and American sail and steam-powered ships. After studying at the Swansea Nautical College in South Wales, he earned a mate’s license in 1910. He served as a deck officer on four ships during World War I.
 

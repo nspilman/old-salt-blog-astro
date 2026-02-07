@@ -13,12 +13,12 @@ tags:
   - "Greta Thunberg"
   - "Regina Maris"
   - "United Nations Climate Conference"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/reginamaris.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/reginamaris.jpg"
 author: "Rick Spilman"
 description: "Following the example of Greta Thunberg, who traveled to a UN climate conference by sail in August, 36 young climate change activists set sail from Amsterdam on October 2, bound for COP25 – the United Nations Climate Conference.  Rather than … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/reginamaris.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/reginamaris.jpg)
 
 Photo: Lukas Riebling
 

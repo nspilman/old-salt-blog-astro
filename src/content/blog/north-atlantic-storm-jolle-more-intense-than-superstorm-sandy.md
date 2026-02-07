@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last Saturday, in the Northern Atlantic to the south of Iceland, the extratropical storm Jolle, intensified dramatically.  Meteorologists use central pressure as a proxy for measuring the strength of a given storm. The lower the barometric pressure, the more intense the storm.  By this standard,  Jolle, … Continue reading &rarr;"
 ---
 
-![jolle_jan26](http://www.oldsaltblog.com/wp-content/uploads/2013/01/jolle_jan26.jpg)
+![jolle_jan26](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/jolle_jan26.jpg)
 
 Photo: Navy Research Lab, Monterey.
 

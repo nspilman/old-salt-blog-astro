@@ -13,12 +13,12 @@ tags:
   - "murder"
   - "Peter Madsen"
   - "UC3 Nautilus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/nautd1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/nautd1.jpg"
 author: "Rick Spilman"
 description: "In a bizarre and developing story, the Danish inventor Peter Madsen has been held on suspicion of murder following the disappearance of a Swedish journalist and the sinking of the privately owned submarine UC3 Nautilus on Thursday off Denmark.  Madsen denies the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/nautd1.jpg)In a bizarre and developing story, the Danish inventor [Peter Madsen](https://en.wikipedia.org/wiki/Peter_Madsen_\(inventor\)) has been held on suspicion of murder following the disappearance of a Swedish journalist and the sinking of the privately owned submarine [*UC3 Nautilus*](https://en.wikipedia.org/wiki/UC3_Nautilus) on Thursday off Denmark. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/nautd1.jpg)In a bizarre and developing story, the Danish inventor [Peter Madsen](https://en.wikipedia.org/wiki/Peter_Madsen_\(inventor\)) has been held on suspicion of murder following the disappearance of a Swedish journalist and the sinking of the privately owned submarine [*UC3 Nautilus*](https://en.wikipedia.org/wiki/UC3_Nautilus) on Thursday off Denmark. 
 
 Madsen denies the charges and claims that he dropped off the female journalist, Kim Wall, 30, on Refshale Island on Thursday evening before the submarine sank suddenly sometime early Friday morning. Madsen has said that the submarine sank in roughly 30 seconds due to a problem with the ballast system.  Madsen and the journalist are reported to be the only ones aboard the Nautilus when it sailed from Copenhagen Harbor around 7 PM on Thursday. 
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Angelika Graswald has been charged with 2nd degree murder in the death of Vincent Viafore, her fiancé, while kayaking."
 ---
 
-![kayakmurder](http://www.oldsaltblog.com/wp-content/uploads/2015/05/kayakmurder.jpg)
+![kayakmurder](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/kayakmurder.jpg)
 
 Angelika Graswald, with fiance Vincent Viafore
 

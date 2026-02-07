@@ -14,12 +14,12 @@ tags:
   - "Hawaii"
   - "Hawaii Department of Transportation"
   - "Honolulu harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "The Hawai‘i Department of Transportation (HDOT) is reported to have awarded a $6.5 million contract to a mainland marine engineering company, identified on social media as Donjon Marine, to finally remove the historic ship Falls of Clyde from Honolulu Harbor. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)The [Hawai‘i Department of Transportation (HDOT)](https://hidot.hawaii.gov/blog/2024/07/25/hdot-seeks-bid-for-removal-of-falls-of-clyde-from-honolulu-harbor/) is [reported to have awarded a $6.5 million contract](https://www.yahoo.com/news/falls-clyde-removal-contract-awarded-033314632.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHdBrcio7wK4BgnBQApBrLfDKmEly1WJ8-4IsjOJlfHv5MvYyABylY_T2gNOumpfIQCFiI5uYfoTRzKANCqznkfC7f1tTKsxOsRgMs8NDRvfsdfZ0GN8bVfTWIjpnOtXnnUwCS7loBFJd0n7el7VRvrZuXLvOS4rZVKeLimgGWuw) to a mainland marine engineering company, identified on [social media](https://www.facebook.com/groups/museumships/posts/1653168888624320/) as [Donjon Marine](https://www.donjon.com/index.htm), to finally remove the historic ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor. The HDOT has not confirmed whether the vessel will be scrapped or sunk and when the work is scheduled to begin.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)The [Hawai‘i Department of Transportation (HDOT)](https://hidot.hawaii.gov/blog/2024/07/25/hdot-seeks-bid-for-removal-of-falls-of-clyde-from-honolulu-harbor/) is [reported to have awarded a $6.5 million contract](https://www.yahoo.com/news/falls-clyde-removal-contract-awarded-033314632.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHdBrcio7wK4BgnBQApBrLfDKmEly1WJ8-4IsjOJlfHv5MvYyABylY_T2gNOumpfIQCFiI5uYfoTRzKANCqznkfC7f1tTKsxOsRgMs8NDRvfsdfZ0GN8bVfTWIjpnOtXnnUwCS7loBFJd0n7el7VRvrZuXLvOS4rZVKeLimgGWuw) to a mainland marine engineering company, identified on [social media](https://www.facebook.com/groups/museumships/posts/1653168888624320/) as [Donjon Marine](https://www.donjon.com/index.htm), to finally remove the historic ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor. The HDOT has not confirmed whether the vessel will be scrapped or sunk and when the work is scheduled to begin.
 
 The process has been long and painful for all concerned.
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "We are a bit late posting about the 2020 Virtual Great Chesapeake Bay Schooner Race, but there is still time to join in.  In any normal year, the Great Chesapeake Bay Schooner Race attracts dozens of schooners on the Bay, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/gcbsr.jpg)We are a bit late posting about the [2020 Virtual Great Chesapeake Bay Schooner Race](https://gcbsr.z2systems.com/np/clients/gcbsr/publicFundraiserList.jsp?campaignId=28&&test=true&fbclid=IwAR0_APuFq4PZEOPFCBLSyiirGGoxNFzxyk46UpR04kwYhr8P2dU2AbZEqLg), but there is still time to join in. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/gcbsr.jpg)We are a bit late posting about the [2020 Virtual Great Chesapeake Bay Schooner Race](https://gcbsr.z2systems.com/np/clients/gcbsr/publicFundraiserList.jsp?campaignId=28&&test=true&fbclid=IwAR0_APuFq4PZEOPFCBLSyiirGGoxNFzxyk46UpR04kwYhr8P2dU2AbZEqLg), but there is still time to join in. 
 
 In any normal year, the [Great Chesapeake Bay Schooner Race](https://gcbsr.org/) attracts dozens of schooners on the Bay, to race from Baltimore down to Norfolk. But 2020 is obviously not a normal year.
 

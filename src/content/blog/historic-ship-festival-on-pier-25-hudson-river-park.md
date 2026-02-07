@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The North River Historic Ship Society is hosting a four day Historic Ship Festival on July 28-31 to celebrate the  the opening of the first historic ship pier in Hudson River Park in Tribeca, New York. Festival at Pier 25 Features Free Ship Tours, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/905_9856.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/905_9856.jpg)
 
 Tug Pegasus
 

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The Metropolitan Waterfront Alliance is hosting its seventh annual City of Water Day festival this Saturday, July 12th, at multiple locations in New York Harbor.  Festivities will run from 10 a.m. to 4 p.m.  This year Hoboken is joining in the fun, hosting … Continue reading &rarr;"
 ---
 
-![Photo: Reena Rose Sibayan/The Jersey Journal](http://www.oldsaltblog.com/wp-content/uploads/2014/07/cowd.jpg)
+![Photo: Reena Rose Sibayan/The Jersey Journal](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/cowd.jpg)
 
 Photo: Reena Rose Sibayan/The Jersey Journal
 

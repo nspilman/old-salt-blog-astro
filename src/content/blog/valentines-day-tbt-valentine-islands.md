@@ -8,7 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Valentine Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/02/heart-shaped-island.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/heart-shaped-island.jpg"
 author: "Rick Spilman"
 description: "On Throw-Back Thursday and Valentine’s Day, here is a repost from a few years ago of a series of Valentine Islands, not all of which are tropical. Are they islands of love on the storm-tossed seas of life?  Sadly, they … Continue reading &rarr;"
 ---

@@ -13,12 +13,12 @@ tags:
   - "guitars"
   - "shipwreck"
   - "Shipwreck Instruments"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/shipwreckguitar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/shipwreckguitar.jpg"
 author: "Rick Spilman"
 description: "We recently posted about two \"heritage desks\" built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS Constitution and several other historic ships. The CBC recently had an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/shipwreckguitar.jpg)We recently [posted about two “heritage desks”](http://www.oldsaltblog.com/2021/04/heritage-desks-from-uss-constitution-for-veep-secnav/) built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS *Constitution* and several other historic ships. The [CBC recently had an account of guitars made from shipwrecked timber:](https://www.cbc.ca/news/canada/newfoundland-labrador/love-of-music-shipwreck-guitars-1.5978246)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/shipwreckguitar.jpg)We recently [posted about two “heritage desks”](http://www.oldsaltblog.com/2021/04/heritage-desks-from-uss-constitution-for-veep-secnav/) built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS *Constitution* and several other historic ships. The [CBC recently had an account of guitars made from shipwrecked timber:](https://www.cbc.ca/news/canada/newfoundland-labrador/love-of-music-shipwreck-guitars-1.5978246)
 
 When Greg Fleming was looking for some old wood to make a new guitar, he knew just where to look. What he didn’t know for a while was just how old that wood was.
 

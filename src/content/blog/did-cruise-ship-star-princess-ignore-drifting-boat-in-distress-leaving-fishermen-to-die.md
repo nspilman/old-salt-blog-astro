@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In February, we posted about the rescue of the three fishermen, drifting in the Pacific, by the cruise ship, Seaborne Odyssey. There are now reports of a similar story with a tragically different outcome.  Passengers aboard the cruise ship, Star Princess, are claiming that the ship ignored a drifting boat in distress in the Pacific off  the Galapagos, leaving … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/birdwatch_close_custom.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/birdwatch_close_custom.jpg)
 
 Photograph by passenger, Jeff Gilligan, of boat in distress
 

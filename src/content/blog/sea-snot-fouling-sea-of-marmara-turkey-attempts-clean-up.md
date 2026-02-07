@@ -11,12 +11,12 @@ tags:
   - "Sea of Marmara"
   - "Sea Snot"
   - "Turkey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/seasnotturkey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/seasnotturkey.jpg"
 author: "Rick Spilman"
 description: "A thick, slimy layer of so-called \"sea snot\" has spread in Turkey’s Sea of Marmara to the south of Istanbul, posing a threat to marine life and the fishing industry.  Reuters reports that scientists say climate change and pollution have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/seasnotturkey.jpg)A thick, slimy layer of so-called “sea snot” has spread in Turkey’s [Sea of Marmara](https://en.wikipedia.org/wiki/Sea_of_Marmara) to the south of Istanbul, posing a threat to marine life and the fishing industry. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/seasnotturkey.jpg)A thick, slimy layer of so-called “sea snot” has spread in Turkey’s [Sea of Marmara](https://en.wikipedia.org/wiki/Sea_of_Marmara) to the south of Istanbul, posing a threat to marine life and the fishing industry. 
 
 [Reuters](https://www.reuters.com/business/environment/sea-snot-outbreak-off-turkish-coast-poses-threat-marine-life-2021-06-01/) reports that scientists say climate change and pollution have contributed to the proliferation of the organic matter, also known as marine mucilage, which contains a wide variety of microorganisms and can flourish when nutrient-rich sewage flows into seawater.
 

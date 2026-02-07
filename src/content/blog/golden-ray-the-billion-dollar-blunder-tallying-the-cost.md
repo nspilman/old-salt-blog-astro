@@ -15,12 +15,12 @@ tags:
   - "insurance"
   - "salvage cost"
   - "stability calculation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/goldenraycutting.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the NTSB determination that the car carrier Golden Ray capsized due to an error in a stability calculation prior to sailing. Now as the salvage operation is wrapping up and the costs are being tallied, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg)We recently [posted about the NTSB determination](http://www.oldsaltblog.com/2021/09/ntsb-determines-inaccurate-stability-calculations-caused-capsizing-of-golden-ray/) that the car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) capsized due to an error in a stability calculation prior to sailing. Now as the salvage operation is wrapping up and the costs are being tallied, the error might be referred to as a billion dollar blunder.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/goldenraycutting.jpg)We recently [posted about the NTSB determination](http://www.oldsaltblog.com/2021/09/ntsb-determines-inaccurate-stability-calculations-caused-capsizing-of-golden-ray/) that the car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) capsized due to an error in a stability calculation prior to sailing. Now as the salvage operation is wrapping up and the costs are being tallied, the error might be referred to as a billion dollar blunder.
 
 [According to the NTSB](https://www.ntsb.gov/news/press-releases/Pages/20210914.aspx), when the car carrier lost stability and rolled on its side two years ago in St. Simons Sound near the Port of Brunswick in Georgia, it lacked adequate stability due to the chief officer’s error in entering ballast quantities into the stability calculation program. 
 

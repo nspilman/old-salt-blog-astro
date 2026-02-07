@@ -15,12 +15,12 @@ tags:
   - "US Navy"
   - "USV Mariner"
   - "USV Ranger"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/LUSVRanger.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/LUSVRanger.jpg"
 author: "Rick Spilman"
 description: "In August, we posted about how Ukrainian naval drones are redefining warfare in the Black Sea in Ukraine’s battle against the ongoing Russian invasion. On the other side of the globe, two US Navy unmanned surface vessels (USV) arrived in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/LUSVRanger.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/LUSVRanger.jpg)
 
 LUSV Ranger
 

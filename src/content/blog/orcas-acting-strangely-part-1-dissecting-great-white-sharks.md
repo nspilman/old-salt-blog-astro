@@ -10,12 +10,12 @@ tags:
   - "great white shark"
   - "Orca"
   - "South Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/orcagwshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/orcagwshark.jpg"
 author: "Rick Spilman"
 description: "Along the shore of South Africa, at least four great white sharks have washed ashore with their livers almost surgically removed.  Two were also missing their hearts.  The culprit appears not to be human. All indications seem to suggest that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/orcagwshark.jpg)Along the shore of South Africa, at least four great white sharks have washed ashore with their livers almost surgically removed.  Two were also missing their hearts.  The culprit appears not to be human. All indications seem to suggest that orcas have removed the organs from the sharks, causing them to bleed out.  One male shark carcass was found on June 24 in a relatively fresh state of decomposition, missing not just its liver, but its stomach and testes as well.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/orcagwshark.jpg)Along the shore of South Africa, at least four great white sharks have washed ashore with their livers almost surgically removed.  Two were also missing their hearts.  The culprit appears not to be human. All indications seem to suggest that orcas have removed the organs from the sharks, causing them to bleed out.  One male shark carcass was found on June 24 in a relatively fresh state of decomposition, missing not just its liver, but its stomach and testes as well.
 
 Why are orcas attacking great white sharks, and why are they only taking specific organs? No one has a clear answer. 
 

@@ -12,12 +12,12 @@ tags:
   - "Mediterranean Shipping Company"
   - "MSC"
   - "Silverstream Technologies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/silverstream.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/silverstream.jpg"
 author: "Rick Spilman"
 description: "Mediterranean Shipping Company (MSC) has ordered more than 30 hull air lubrication systems from UK firm Silverstream Technologies to be installed on current orders of newbuild large container ships. The vessels applying the air lubrication systems are expected to be delivered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/silverstream.jpg)[Mediterranean Shipping Company](https://www.msc.com/usa) (MSC) has ordered more than 30 hull air lubrication systems from UK firm [Silverstream Technologies](https://www.silverstream-tech.com/) to be installed on current orders of newbuild large container ships. The vessels applying the air lubrication systems are expected to be delivered from shipyards in Asia in 2022-2024.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/silverstream.jpg)[Mediterranean Shipping Company](https://www.msc.com/usa) (MSC) has ordered more than 30 hull air lubrication systems from UK firm [Silverstream Technologies](https://www.silverstream-tech.com/) to be installed on current orders of newbuild large container ships. The vessels applying the air lubrication systems are expected to be delivered from shipyards in Asia in 2022-2024.
 
 Silverstream’s technology has been demonstrated to save 5-10% of fuel and emissions by generating a rigid carpet of air bubbles that reduce friction between the hull and the water. 
 

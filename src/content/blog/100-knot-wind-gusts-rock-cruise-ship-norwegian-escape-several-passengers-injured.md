@@ -11,12 +11,12 @@ tags:
   - "Norwegian Cruise Line"
   - "Norwegian Escape"
   - "wind gust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/nescape.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/nescape.jpg"
 author: "Rick Spilman"
 description: "The Norwegian Escape was struck by extreme wind gusts of around 100 knots, eight hours after the ship sailed from New York on a seven-night cruise to the Bahamas.  The ship heeled to the port side in the high winds. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/nescape.jpg)The [*Norwegian Escape*](https://en.wikipedia.org/wiki/Norwegian_Escape) was struck by [extreme wind gusts](https://www.cbsnews.com/news/norwegian-escape-cruise-ship-wind-causes-cruise-ship-to-list-passengers-injured-after-extreme-wind-hits/) of around 100 knots, eight hours after the ship sailed from New York on a seven-night cruise to the Bahamas.  The ship heeled to the port side in the high winds. The ship arrived at its first destination at Port Canaveral in Florida on Tuesday morning.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/nescape.jpg)The [*Norwegian Escape*](https://en.wikipedia.org/wiki/Norwegian_Escape) was struck by [extreme wind gusts](https://www.cbsnews.com/news/norwegian-escape-cruise-ship-wind-causes-cruise-ship-to-list-passengers-injured-after-extreme-wind-hits/) of around 100 knots, eight hours after the ship sailed from New York on a seven-night cruise to the Bahamas.  The ship heeled to the port side in the high winds. The ship arrived at its first destination at Port Canaveral in Florida on Tuesday morning.
 
 [Norwegian Cruise Lines tweeted](https://twitter.com/CruiseNorwegian/status/1102608164581715968): Several injuries were reported and those guests and crew received immediate attention or are being treated by the ship’s medical staff. There was no damage to the ship; she remains fully operational and continues her scheduled itinerary.
 

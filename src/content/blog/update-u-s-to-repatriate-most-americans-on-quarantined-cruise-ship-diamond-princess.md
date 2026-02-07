@@ -10,12 +10,12 @@ tags:
   - "Diamond Princess"
   - "Quarantine"
   - "US Embassy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/dimprincnight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/dimprincnight.jpg"
 author: "Rick Spilman"
 description: "Is the quarantine of the cruise ship Diamond Princess in Japan an effective way to control the spread of the virus known as COVID-19 , or is it facilitating the spread of the virus to other passengers and crew aboard … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/dimprincnight.jpg)Is the quarantine of the [cruise ship *Diamond Princess* in Japan](http://www.oldsaltblog.com/2020/02/quarantined-cruise-ship-diamond-princess-coronavirus-cases-nearly-double/) an effective way to control the spread of the virus known as COVID-19 , or is it facilitating the spread of the virus to other passengers and crew aboard the ship? Not enough is known about how the virus is spread for a definitive answer, nevertheless, the latter seems increasingly likely. One observer called the quarantine a “[scary public health experiment](https://www.vox.com/2020/2/11/21132732/coronavirus-cruise-ship-quarantine-japan).”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/dimprincnight.jpg)Is the quarantine of the [cruise ship *Diamond Princess* in Japan](http://www.oldsaltblog.com/2020/02/quarantined-cruise-ship-diamond-princess-coronavirus-cases-nearly-double/) an effective way to control the spread of the virus known as COVID-19 , or is it facilitating the spread of the virus to other passengers and crew aboard the ship? Not enough is known about how the virus is spread for a definitive answer, nevertheless, the latter seems increasingly likely. One observer called the quarantine a “[scary public health experiment](https://www.vox.com/2020/2/11/21132732/coronavirus-cruise-ship-quarantine-japan).”
 
 After initially saying that the ship was the safest place for the more than 400 American passengers, the US Embassy has reversed itself and announced plans to repatriate most American passengers from the ship.  
 

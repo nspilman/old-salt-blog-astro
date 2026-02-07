@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last March we posted Plastiki – Boat made of plastic bottles to make ocean voyage about  a project in which David de Rothschild intended to build and sail a catamaran made of  around 12,000 recycled soda bottles across the Pacific.   Almost … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/plastiki.jpg)Last March we posted [Plastiki – Boat made of plastic bottles to make ocean voyage](http://www.latimes.com/news/local/la-me-plastiki21-2010feb21,0,728915.story) about  a project in which David de Rothschild intended to build and sail a catamaran made of  around 12,000 recycled soda bottles across the Pacific.   Almost a year later Plastiki is getting ready to sail.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/plastiki.jpg)Last March we posted [Plastiki – Boat made of plastic bottles to make ocean voyage](http://www.latimes.com/news/local/la-me-plastiki21-2010feb21,0,728915.story) about  a project in which David de Rothschild intended to build and sail a catamaran made of  around 12,000 recycled soda bottles across the Pacific.   Almost a year later Plastiki is getting ready to sail.
 
 [Trash floats eco-warrior’s boat](http://www.latimes.com/news/local/la-me-plastiki21-2010feb21,0,728915.story)
 

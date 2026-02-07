@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Pacific Ocean is indeed the world’s largest ocean. It is hard to grasp just how many fisherman from the myriad of islands in the Pacific become lost, are carried away by a storm, break down or run out of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/IMG_1590.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/IMG_1590.jpg)
 
 Seaborne rescue boat approaching drifting fishermen
 

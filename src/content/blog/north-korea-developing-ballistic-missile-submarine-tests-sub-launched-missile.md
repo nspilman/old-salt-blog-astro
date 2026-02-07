@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "North Korea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/NKsubmissile.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/NKsubmissile.jpg"
 author: "Rick Spilman"
 description: "North Korea appears to be aggressively developing the capacity to deploy a ballistic missile submarine even as it purports to continue to negotiate denuclearization with the current administration. Yesterday, the Washington Post reported that North Korea successfully tested a new … Continue reading &rarr;"
 ---

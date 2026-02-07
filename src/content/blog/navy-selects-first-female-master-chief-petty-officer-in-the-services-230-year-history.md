@@ -12,12 +12,12 @@ tags:
   - "Senior Chief Gunner’s Mate"
   - "Surface Combat Systems Training Command San Diego"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/masterchief.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/masterchief.jpg"
 author: "Rick Spilman"
 description: "The Navy has selected an active-duty female gunner’s mate for promotion to master chief petty officer for the first time in the service’s 230-year history. Senior Chief Gunner’s Mate Jessica Saunders, who joined the Navy in 2002, was slated for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/masterchief.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/masterchief.jpg)
 
 Senior Chief Petty Officer Jessica Saunders poses with Capt. Justin Long, commanding officer of Surface Combat Systems Training Command San Diego. (Surface Combat Systems Training Command San Diego/Facebook)
 

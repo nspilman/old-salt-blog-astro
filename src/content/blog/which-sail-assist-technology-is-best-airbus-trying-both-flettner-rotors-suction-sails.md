@@ -15,12 +15,12 @@ tags:
   - "ro/ros"
   - "Sail Assist"
   - "Suction Sails"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/aflettner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/aflettner.jpg"
 author: "Rick Spilman"
 description: "Of the various wind assist technologies available for commercial shipping, which is the most cost-efficient? It is likely, too soon to tell. AIrbus is reported to be trying two different approaches — retrofitting one existing ship with suction sails and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/aflettner.jpg)Of the various wind assist technologies available for commercial shipping, which is the most cost-efficient? It is likely, too soon to tell. AIrbus is reported to be trying two different approaches — retrofitting one existing ship with suction sails and building three new ships with Flettner rotors.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/aflettner.jpg)Of the various wind assist technologies available for commercial shipping, which is the most cost-efficient? It is likely, too soon to tell. AIrbus is reported to be trying two different approaches — retrofitting one existing ship with suction sails and building three new ships with Flettner rotors.
 
 Last month [we posted](https://www.oldsaltblog.com/2023/10/bound4blue-suction-sails-to-be-installed-on-chemical-tanker-ro-ro) that the French shipping company [Louis Dreyfus Armateurs](https://www.lda.fr/en/) working with [Airbus](https://www.airbus.com/en/newsroom/press-releases/2023-09-airbus-to-install-new-fuel-saving-sails-for-maritime-operations), which charters one of its ships, will install [Bound4Blue suction sails](https://bound4blue.com/) on a ro/ro cargo vessel as a test of the technology, the first-ever fixed suction sail installation on a ro/ro. The suction sails will be installed on the *Ville de Bordeaux* ahead of a six-month performance monitoring period starting in early 2024.
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a \"milky sea,\" the tales date back at least to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ganeshamilkysea.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ganeshamilkysea.jpg)
 
 Digital photography of the 2019 Java milky sea, captured by Ganesha’s crew, showing a view of (A) the ship’s prow and (B) a color-adjusted to human perception
 

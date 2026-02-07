@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Whydah Pirate Museum announced this week, that last year human bones were found near the wreck of the pirate ship Whydah  on Cape Cod, Massachusetts.  The bones were located in an area close to where a pistol, which possibly belonged to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/bellamy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/bellamy.jpg)
 
 “Black Sam” Bellamy
 

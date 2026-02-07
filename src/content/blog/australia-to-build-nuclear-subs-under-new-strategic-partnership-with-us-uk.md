@@ -11,12 +11,12 @@ tags:
   - "Australia"
   - "nuclear-powered submarine"
   - "US"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/austsub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/austsub.jpg"
 author: "Rick Spilman"
 description: "AP reports that President Joe Biden announced on Wednesday a new U.S. security alliance with Australia and Britain that will provide Australia with the technology and capability to deploy nuclear-powered submarines. The agreement would make Australia the first country without nuclear … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/austsub.jpg)[AP](https://apnews.com/article/joe-biden-business-france-europe-united-states-96f95120345a56d950961b41a74d9355) reports that President Joe Biden announced on Wednesday a new U.S. security alliance with Australia and Britain that will provide Australia with the technology and capability to deploy nuclear-powered submarines.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/austsub.jpg)[AP](https://apnews.com/article/joe-biden-business-france-europe-united-states-96f95120345a56d950961b41a74d9355) reports that President Joe Biden announced on Wednesday a new U.S. security alliance with Australia and Britain that will provide Australia with the technology and capability to deploy nuclear-powered submarines.
 
 The agreement would make Australia the first country without nuclear weapons to obtain nuclear-powered submarines. The United States has previously only shared the technology with Britain in 1958. The submarines will be nuclear-powered but not armed with nuclear weapons.
 

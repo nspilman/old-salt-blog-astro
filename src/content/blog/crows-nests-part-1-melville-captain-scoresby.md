@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The first of a two-part post on crows nests. Who would have thought that a crow’s nest deserves such attention? A reader commented on the lack of a crow’s nest in the video of the Charles W. Morgan under sail … Continue reading &rarr;"
 ---
 
-!["The Arctic Expedition -- the Crow's Nest"  1875](http://www.oldsaltblog.com/wp-content/uploads/2014/07/crowsnest1.jpg)
+!["The Arctic Expedition -- the Crow's Nest"  1875](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/crowsnest1.jpg)
 
 “The Arctic Expedition — the Crow’s Nest” 1875
 

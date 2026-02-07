@@ -14,12 +14,12 @@ tags:
   - "Frank Del Rio"
   - "Norwegian Cruise Line Holdings Ltd"
   - "Vaccination"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/NCLship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/NCLship.jpg"
 author: "Rick Spilman"
 description: "Florida politics on Covid-19 vaccinations threatens to disrupt the cruise industry restart in Florida. The Centers for Disease Control and Prevention (CDC) recently announced guidelines for trial cruises with volunteer passengers to test safety measures, which will be required for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/NCLship.jpg)Florida politics on Covid-19 vaccinations threatens to disrupt the cruise industry restart in Florida. The Centers for Disease Control and Prevention (CDC) recently announced [guidelines for trial cruises](https://www.cdc.gov/media/releases/2021/s0505-conditional-sailing-order.html) with volunteer passengers to test safety measures, which will be required for each ship before resuming regular passenger voyages in US waters. To bypass the trial cruises, the CDC says at least 98% of crew members and 95% of passengers must have been vaccinated.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/NCLship.jpg)Florida politics on Covid-19 vaccinations threatens to disrupt the cruise industry restart in Florida. The Centers for Disease Control and Prevention (CDC) recently announced [guidelines for trial cruises](https://www.cdc.gov/media/releases/2021/s0505-conditional-sailing-order.html) with volunteer passengers to test safety measures, which will be required for each ship before resuming regular passenger voyages in US waters. To bypass the trial cruises, the CDC says at least 98% of crew members and 95% of passengers must have been vaccinated.
 
 Almost simultaneously, the [Florida legislature passed a law](https://www.cnn.com/2021/04/03/us/florida-covid-vaccine-passport-ban/index.html) prohibiting businesses from asking whether employees or customers have been vaccinated against Covid-19. In response, Frank Del Rio, the CEO of [Norwegian Cruise Line Holdings Ltd](https://en.wikipedia.org/wiki/Norwegian_Cruise_Line_Holdings). said that the new law could cause the company to suspend Florida departures and move its ships elsewhere.
 

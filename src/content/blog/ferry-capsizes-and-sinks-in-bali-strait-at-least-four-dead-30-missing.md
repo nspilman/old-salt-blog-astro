@@ -14,12 +14,12 @@ tags:
   - "Indonesia"
   - "Ketapang Port"
   - "Tunu Pratama Jaya"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/tunu1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/tunu1.jpg"
 author: "Rick Spilman"
 description: "The roll-on/roll-off passenger ferry MV Tunu Pratama Jaya capsized and sank in rough seas late Wednesday on its way to the resort island of Bali, Indonesia. At least four people died, at least 30 are missing, and 31 survivors were … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/tunu1.jpg)The roll-on/roll-off passenger ferry [MV *Tunu Pratama Jaya*](https://www.marinetraffic.com/en/ais/details/ships/shipid:4655945/mmsi:525022386/imo:8749432/vessel:TUNU_PRATAMA_JAYA) capsized and sank in rough seas late Wednesday on its way to the resort island of Bali, Indonesia. At least four people died, at least 30 are missing, and 31 survivors were rescued, according to local authorities.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/tunu1.jpg)The roll-on/roll-off passenger ferry [MV *Tunu Pratama Jaya*](https://www.marinetraffic.com/en/ais/details/ships/shipid:4655945/mmsi:525022386/imo:8749432/vessel:TUNU_PRATAMA_JAYA) capsized and sank in rough seas late Wednesday on its way to the resort island of Bali, Indonesia. At least four people died, at least 30 are missing, and 31 survivors were rescued, according to local authorities.
 
 “The vessel departed from Ketapang Port in Banyuwangi District, East Java, to Bali’s Gilimanuk Port at 10.56 p.m. and reportedly sank at 11.35 p.m.,” Wahyu Setia Budi, coordinator of the Banyuwangi SAR agency, said.
 

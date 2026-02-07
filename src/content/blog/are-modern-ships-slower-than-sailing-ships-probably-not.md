@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "In 2010, the headline read,  Modern cargo ships slow to the speed of the sailing clippers. The article was subtitled, \"Container ships are taking longer to cross the oceans than the Cutty Sark did as owners adopt ‘super-slow steaming’ to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/Sovereignoftheseasclipper2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Sovereignoftheseasclipper2.jpg)
 
 Sovereign of the Seas
 

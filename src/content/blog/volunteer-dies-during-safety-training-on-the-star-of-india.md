@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Greg Gushaw 68, an experienced volunteer, docent and a member of the board of trustees of the Maritime Museum of San Diego fell to his death last Sunday from aloft on the Star of India. Ironically, he fell during a safety training exercise.   … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/soirigging.jpg)](http://www.flickr.com/photos/mcmckenna/2188165377/)Greg Gushaw 68, an experienced volunteer, docent and a member of the board of trustees of the [Maritime Museum of San Diego](http://www.sdmaritime.org/) fell to his death last Sunday from aloft on the *[Star of India](http://www.sdmaritime.org/star-of-india/).* Ironically, he fell during a safety training exercise.   His death is reported to be the first on the *Star of India since the 1800s.   The *Star of India*, built in 1863, is the world’s oldest ship that still actively sails.*
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/soirigging.jpg)](http://www.flickr.com/photos/mcmckenna/2188165377/)Greg Gushaw 68, an experienced volunteer, docent and a member of the board of trustees of the [Maritime Museum of San Diego](http://www.sdmaritime.org/) fell to his death last Sunday from aloft on the *[Star of India](http://www.sdmaritime.org/star-of-india/).* Ironically, he fell during a safety training exercise.   His death is reported to be the first on the *Star of India since the 1800s.   The *Star of India*, built in 1863, is the world’s oldest ship that still actively sails.*
 
 *[Man Dies After Falling Overboard From Star Of India Ship](http://www.10news.com/news/24301512/detail.html)*  
   

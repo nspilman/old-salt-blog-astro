@@ -14,12 +14,12 @@ tags:
   - "Kat Cordiner"
   - "Talisker Whisky Atlantic Challenge"
   - "We Are ExtraOARdinary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/extraordinary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/extraordinary.jpg"
 author: "Rick Spilman"
 description: "SkyNews reports that three British women, one of whom has incurable cervical cancer, have shattered the world record for rowing across the Atlantic in the Talisker Whisky Atlantic Challenge. Kat Cordiner and teammates Abby Johnston and Charlotte Irving arrived in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/extraordinary.jpg)[SkyNews](https://news.sky.com/story/british-rower-with-incurable-cancer-sets-new-world-record-with-two-friends-for-atlantic-crossing-12524211#:~:text=Three%20British%20women%2C%20one%20of,in%20Antigua%20on%20Sunday%20evening.) reports that three British women, one of whom has incurable cervical cancer, have shattered the world record for rowing across the Atlantic in the [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/). Kat Cordiner and teammates Abby Johnston and Charlotte Irving arrived in Antigua on Sunday evening.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/extraordinary.jpg)[SkyNews](https://news.sky.com/story/british-rower-with-incurable-cancer-sets-new-world-record-with-two-friends-for-atlantic-crossing-12524211#:~:text=Three%20British%20women%2C%20one%20of,in%20Antigua%20on%20Sunday%20evening.) reports that three British women, one of whom has incurable cervical cancer, have shattered the world record for rowing across the Atlantic in the [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/). Kat Cordiner and teammates Abby Johnston and Charlotte Irving arrived in Antigua on Sunday evening.
 
 The women rowing as the [We Are ExtraOARdinary team](https://www.weareextraoardinary.com/) in their boat named Dolly Parton, completed the 3,000-mile crossing from La Gomera in the Canary Islands to the English Harbour in the Caribbean island in 42 days, seven hours, and 17 minutes, knocking seven days off the previous female trio record.
 

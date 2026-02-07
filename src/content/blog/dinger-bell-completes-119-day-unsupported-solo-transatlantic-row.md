@@ -11,12 +11,12 @@ tags:
   - "former Royal Marine"
   - "North Atlantic"
   - "solo row"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/dingerbell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/dingerbell.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that former Royal Marine Dave ‘Dinger’ Bell has successfully completed a 119-day, 3,118-mile, solo row the \"wrong way\" across the North Atlantic. He arrived in Newlyn in Cornwall at about 13:00 BST on Sunday. His team believes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/dingerbell.jpg)[The BBC](https://www.bbc.com/news/uk-england-cornwall-58698593) reports that former Royal Marine [Dave ‘Dinger’ Bell](https://ny2uksolorow.co.uk/) has successfully completed a 119-day, 3,118-mile, solo row the “wrong way” across the North Atlantic. He arrived in Newlyn in Cornwall at about 13:00 BST on Sunday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/dingerbell.jpg)[The BBC](https://www.bbc.com/news/uk-england-cornwall-58698593) reports that former Royal Marine [Dave ‘Dinger’ Bell](https://ny2uksolorow.co.uk/) has successfully completed a 119-day, 3,118-mile, solo row the “wrong way” across the North Atlantic. He arrived in Newlyn in Cornwall at about 13:00 BST on Sunday.
 
 His team believes he is one of the first people to successfully row solo, unsupported from New York to continental Europe. Along the way, he was stung by a jellyfish, hit by huge storms, and revealed he has a fear of open water.
 

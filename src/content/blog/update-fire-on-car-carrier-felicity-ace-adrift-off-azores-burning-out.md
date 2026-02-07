@@ -12,12 +12,12 @@ tags:
   - "Car Carrier"
   - "Felicity Ace"
   - "lithium-ion batteries"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/felicityace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/felicityace.jpg"
 author: "Rick Spilman"
 description: "Reuters is reporting that the fire, which swept through the car carrier Felicity Ace carrying thousands of luxury cars, leaving it adrift off Portugal’s Azores islands has lost its intensity, probably because there is little left to burn, a port … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/felicityace.jpg)[Reuters](https://www.reuters.com/article/volkswagen-cargo-portugal-idINL8N2UW2G6) is reporting that the [fire, which swept through the car carrier *Felicity Ace*](https://www.oldsaltblog.com/2022/02/car-carrier-felicity-ace-on-fire-and-adrift-in-the-atlantic/) carrying thousands of luxury cars, leaving it adrift off Portugal’s Azores islands has lost its intensity, probably because there is little left to burn, a port official said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/felicityace.jpg)[Reuters](https://www.reuters.com/article/volkswagen-cargo-portugal-idINL8N2UW2G6) is reporting that the [fire, which swept through the car carrier *Felicity Ace*](https://www.oldsaltblog.com/2022/02/car-carrier-felicity-ace-on-fire-and-adrift-in-the-atlantic/) carrying thousands of luxury cars, leaving it adrift off Portugal’s Azores islands has lost its intensity, probably because there is little left to burn, a port official said.
 
 The *Felicity Ace*, carrying around 4,000 vehicles including Porsches, Audis, and Bentleys, some electric with lithium-ion batteries, caught fire in the middle of the Atlantic Ocean on Wednesday.
 

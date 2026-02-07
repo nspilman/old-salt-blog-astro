@@ -16,12 +16,12 @@ tags:
   - "Shipbreaking"
   - "Turkey"
   - "UK cruise ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/marcopolo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/marcopolo.jpg"
 author: "Rick Spilman"
 description: "Every year, on average, close to 1,000 ships are sold for scrap, or in more current language, to be recycled.  Over the past year during the pandemic, there has been a particular surge in the number of older cruise being … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/marcopolo.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/marcopolo.jpg)
 
 Marco Polo on the beach at Alang
 

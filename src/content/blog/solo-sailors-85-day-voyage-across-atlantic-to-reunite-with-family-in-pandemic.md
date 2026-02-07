@@ -7,12 +7,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Juan Manuel Ballestero"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/skua.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/skua.jpg"
 author: "Rick Spilman"
 description: "At the end of May, we posted about the unplanned 10,000-mile voyage of the bark Europa, made necessary when the pandemic shut down transportation options for its crew. Argentine sailor, Juan Manuel Ballestero, 47, faced a similar challenge and found … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/skua.jpg)At the end of May, we [posted about the unplanned 10,000-mile voyage](http://www.oldsaltblog.com/2020/05/bark-europa-an-unexpected-10000-mile-voyage-home-from-the-end-of-the-world/) of the bark *Europa,* made necessary when the pandemic shut down transportation options for its crew. Argentine sailor, Juan Manuel Ballestero, 47, faced a similar challenge and found a similar solution. Ballestero was on the Portuguese island of Porto Santo and wanted to return to Argentina to be with his 90-year-old father and 82-year old mother. However, in mid-March, Argentina canceled all international passenger flights to shield the country from the new coronavirus. There was no way to fly home.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/skua.jpg)At the end of May, we [posted about the unplanned 10,000-mile voyage](http://www.oldsaltblog.com/2020/05/bark-europa-an-unexpected-10000-mile-voyage-home-from-the-end-of-the-world/) of the bark *Europa,* made necessary when the pandemic shut down transportation options for its crew. Argentine sailor, Juan Manuel Ballestero, 47, faced a similar challenge and found a similar solution. Ballestero was on the Portuguese island of Porto Santo and wanted to return to Argentina to be with his 90-year-old father and 82-year old mother. However, in mid-March, Argentina canceled all international passenger flights to shield the country from the new coronavirus. There was no way to fly home.
 
 Rather than being trapped by the lockdown, Ballestero set off on March 24, to sail back to Argentina, singlehanded on his [Ohlson 29 sailboat named *Skua*](https://www.nytimes.com/2020/06/28/world/americas/coronavirus-argentina-sailor.html?action=click&module=Spotlight&pgtype=Homepage), It was an eventful voyage that would ultimately take 85 days.
 

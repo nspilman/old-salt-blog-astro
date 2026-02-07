@@ -13,12 +13,12 @@ tags:
   - "cod"
   - "common murre"
   - "hot water"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/theblob.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/theblob.jpg"
 author: "Rick Spilman"
 description: "In the 1958 sci-fi/horror film, the Blob is a gooey mass from outer space which eventually grows the size of a small building while devouring everyone it encounters. The Blob cannot stand cold and is finally stopped by being airlifted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/theblob.jpg)In the 1958 sci-fi/horror film, the [Blob](https://en.wikipedia.org/wiki/The_Blob) is a gooey mass from outer space which eventually grows the size of a small building while devouring everyone it encounters. The Blob cannot stand cold and is finally stopped by being airlifted to the Arctic. (The movie is notable primarily as Steve McQueen’s debut in a leading role.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/theblob.jpg)In the 1958 sci-fi/horror film, the [Blob](https://en.wikipedia.org/wiki/The_Blob) is a gooey mass from outer space which eventually grows the size of a small building while devouring everyone it encounters. The Blob cannot stand cold and is finally stopped by being airlifted to the Arctic. (The movie is notable primarily as Steve McQueen’s debut in a leading role.)
 
 There is now a very real monster in the northern Pacific also referred to as the [Blob](https://en.wikipedia.org/wiki/The_Blob_\(Pacific_Ocean\)). It is a mass of unusually ocean hot water that is having a disastrous impact on sea life. Codfish have been particularly hard hit. Because of historically low numbers of Pacific cod, the [federal cod fishery in the Gulf of Alaska is closing for the 2020 season](https://www.npr.org/2019/12/08/785634169/alaska-cod-fishery-closes-and-industry-braces-for-ripple-effect). This is the first time this fishery has been closed due to low fish stock.
 

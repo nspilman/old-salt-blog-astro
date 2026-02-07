@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The story is still developing, but there are serious concerns for the 16 year old solo sailor. Abby Sunderland Feared Lost at Sea Abby Sunderland, 16, who is attempting to become the youngest sailor ever to circumnavigate the globe, was feared lost … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Abby_Sunderland2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Abby_Sunderland2.jpg)
 
 Abby Sunderland
 

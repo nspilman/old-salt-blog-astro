@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Velux 5 Oceans Single Handed Round the World Race will be starting in just over a week on October 17th.   The competitors will race from La Rochelle, France to Cape Town, South Africa; then on to Wellington, New Zealand; to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/velux5-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/velux5-1.jpg)
 
 Eco 60 class boats awaiting the race start in La Rochelle
 

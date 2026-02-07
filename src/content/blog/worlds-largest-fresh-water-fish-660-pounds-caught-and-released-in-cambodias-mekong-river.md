@@ -12,12 +12,12 @@ tags:
   - "Mekong giant catfish"
   - "Mekong River"
   - "Wonders of the Mekong"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/giantstingray.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/giantstingray.jpg"
 author: "Rick Spilman"
 description: "On June 13th, Moul Thun, a 42-year-old fisherman from Kaoh Preah, a remote island in the Mekong River, in northern Cambodia, hooked an exceptionally large giant freshwater stingray. At 4 meters in diameter and weighing 660 pounds (about 300 kilograms) … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/giantstingray.jpg)On June 13th, Moul Thun, a 42-year-old fisherman from Kaoh Preah, a remote island in the Mekong River, in northern Cambodia, hooked an exceptionally large [giant](https://en.wikipedia.org/wiki/Giant_freshwater_stingray) [freshwater stingray](https://en.wikipedia.org/wiki/Giant_freshwater_stingray). At 4 meters in diameter and weighing 660 pounds (about 300 kilograms) it proved to be the largest freshwater fish ever documented.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/giantstingray.jpg)On June 13th, Moul Thun, a 42-year-old fisherman from Kaoh Preah, a remote island in the Mekong River, in northern Cambodia, hooked an exceptionally large [giant](https://en.wikipedia.org/wiki/Giant_freshwater_stingray) [freshwater stingray](https://en.wikipedia.org/wiki/Giant_freshwater_stingray). At 4 meters in diameter and weighing 660 pounds (about 300 kilograms) it proved to be the largest freshwater fish ever documented.
 
 The BBC quotes Dr. Zeb Hogan, a biologist who leads [Wonders of the Mekong](https://www.usaid.gov/cambodia/fact-sheets/wonders-mekong), a USAID-funded conservation project, saying, “In 20 years of researching giant fish in rivers and lakes on six continents, this is the largest freshwater fish that we’ve encountered or that’s been documented anywhere worldwide.”
 

@@ -14,12 +14,12 @@ tags:
   - "Raye Montague"
   - "ship designer"
   - "U.S Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/RayeM.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg"
 author: "Rick Spilman"
 description: "In honor of Black History Month, an updated repost about the barrier-shattering naval engineer Raye Montague, who died at the age of 83 in 2018. At the age of 7, she was inspired to become an engineer after she toured … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/RayeM.jpg)In honor of Black History Month, an updated repost about the barrier-shattering naval engineer [Raye Montague,](https://en.wikipedia.org/wiki/Raye_Montague) who died at the age of 83 in 2018.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg)In honor of Black History Month, an updated repost about the barrier-shattering naval engineer [Raye Montague,](https://en.wikipedia.org/wiki/Raye_Montague) who died at the age of 83 in 2018.
 
 At the age of 7, she was inspired to become an engineer after she toured a captured World War II German submarine with her grandmother.  As an African-American girl, however, she was told that becoming an engineer was simply not an option.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Jeanne Socrates, a 70 year old British grandmother, has rounded the Cape of Good Hope on her sailboat, Nereida, in her attempt to become the oldest non-stop solo circumnavigator.  She left Victoria, British Columbia in October and successfully rounded Cape Horn in January. … Continue reading &rarr;"
 ---
 
-![Photo:  BRUCE STOTESBURY, Times ](http://www.oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg)
+![Photo:  BRUCE STOTESBURY, Times ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg)
 
 Photo: BRUCE STOTESBURY, Times
 

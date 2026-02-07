@@ -13,12 +13,12 @@ tags:
   - "COVID-19"
   - "freezer"
   - "MV Vantage Wave"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/vantage-wave.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/vantage-wave.jpg"
 author: "Rick Spilman"
 description: "On April 19, 2021, Captain Dan Sandu, 68, from Romania, master of the general cargo ship MV Vantage Wave, died at sea, apparently from cardiac arrest. The ship was on route from Paradip India to Guangzhou, China, with cargo of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/vantage-wave.jpg)On April 19, 2021, Captain Dan Sandu, 68, from Romania, master of the general cargo ship [MV *Vantage Wave*,](https://www.balticshipping.com/vessel/imo/9506514) died at sea, apparently from cardiac arrest. The ship was on route from Paradip India to Guangzhou, China, with cargo of aluminum ingots. Captain Sandu’s body was stored in the ship’s freezer until it could be repatriated.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/vantage-wave.jpg)On April 19, 2021, Captain Dan Sandu, 68, from Romania, master of the general cargo ship [MV *Vantage Wave*,](https://www.balticshipping.com/vessel/imo/9506514) died at sea, apparently from cardiac arrest. The ship was on route from Paradip India to Guangzhou, China, with cargo of aluminum ingots. Captain Sandu’s body was stored in the ship’s freezer until it could be repatriated.
 
 Six months later, the captain’s body was still in the freezer after ports in 13 countries had refused to allow the body to be removed from the ship.
 

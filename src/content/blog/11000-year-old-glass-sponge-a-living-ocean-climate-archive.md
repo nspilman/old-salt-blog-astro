@@ -12,12 +12,12 @@ tags:
   - "ocean temperature"
   - "silicon"
   - "spicule"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/glass-sponge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/glass-sponge.jpg"
 author: "Rick Spilman"
 description: "In the deep ocean, the Monorhaphis chuni, a type of glass sponge, can grow to be 10 feet long. A single silicon spine, or spicule, anchors itself to the seafloor, around which the softer sponge body is supported. The spine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/glass-sponge.jpg)In the deep ocean, the *[Monorhaphis chuni](https://en.wikipedia.org/wiki/Monorhaphis),* a type of glass sponge, can grow to be 10 feet long. A single silicon spine, or spicule, anchors itself to the seafloor, around which the softer sponge body is supported. The spine of the *Monorhaphis chuni* is by far the largest bio-silica structure of any known animal. The sponge is also among the longest-lived animals on earth, living many thousands of years. One *Monorhaphis chuni* spine investigated by researchers is from a sponge believed to approximately 11,000 years old. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/glass-sponge.jpg)In the deep ocean, the *[Monorhaphis chuni](https://en.wikipedia.org/wiki/Monorhaphis),* a type of glass sponge, can grow to be 10 feet long. A single silicon spine, or spicule, anchors itself to the seafloor, around which the softer sponge body is supported. The spine of the *Monorhaphis chuni* is by far the largest bio-silica structure of any known animal. The sponge is also among the longest-lived animals on earth, living many thousands of years. One *Monorhaphis chuni* spine investigated by researchers is from a sponge believed to approximately 11,000 years old. 
 
 Scientists have discovered that the structure and chemistry of the long-lived sponge can provide a record of ocean temperature and sealife diversity. [In the past 20 years, climate scientists have been researching](https://www.atlasobscura.com/articles/sponge-record-climate-change-data) the possible uses of sponges as proxies for long-term changes in the climate.
 

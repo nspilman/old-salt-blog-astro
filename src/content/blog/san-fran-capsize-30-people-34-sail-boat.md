@@ -10,12 +10,12 @@ tags:
   - "capsize"
   - "Fleet Week"
   - "San Francisco"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/sanfranrescue200-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/sanfranrescue200-1.jpg"
 author: "Rick Spilman"
 description: "UPDATE: The initial reports of the capsize identified the boat which capsized as a sailboat.  Even the Coast Guard’s website said that the boat named Khaleesi was a 34-foot sailboat.  As initial reports often are, these reports were not accurate. The … Continue reading &rarr;"
 ---
 
-![sanfranrescue](http://www.oldsaltblog.com/wp-content/uploads/2016/10/sanfranrescue.jpg)**UPDATE:** The initial reports of the capsize identified the boat which capsized as a sailboat.  Even the [Coast Guard’s website](http://coastguardnews.com/coast-guard-local-partners-respond-to-capsized-sailboat-with-30-people-aboard-near-san-francisco/2016/10/09/) said that the boat named *Khaleesi* was a 34-foot sailboat.  As initial reports often are, these reports were not accurate. The boat is not being reported to be a Silverton 34′ cabin cruiser.  Thanks to Greg Davids for his eyewitness account in the comments section below.
+![sanfranrescue](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/sanfranrescue.jpg)**UPDATE:** The initial reports of the capsize identified the boat which capsized as a sailboat.  Even the [Coast Guard’s website](http://coastguardnews.com/coast-guard-local-partners-respond-to-capsized-sailboat-with-30-people-aboard-near-san-francisco/2016/10/09/) said that the boat named *Khaleesi* was a 34-foot sailboat.  As initial reports often are, these reports were not accurate. The boat is not being reported to be a Silverton 34′ cabin cruiser.  Thanks to Greg Davids for his eyewitness account in the comments section below.
 
 On Saturday, a 34′ recreational ~sailboat~ powerboat with 30 people aboard capsized in San Francisco Bay near Pier 45. All aboard were rescued but eight were injured, with at least one, a child, in critical condition. It could have been much, much worse.
 

@@ -8,12 +8,12 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/dunkirkposter.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/dunkirkposter.jpg"
 author: "Rick Spilman"
 description: "Originally posted on gCaptain. Reposted with permission. Christopher Nolan’s movie, Dunkirk, opened Friday to rave reviews. The New York Times calls it \"a tour de force …both sweeping and intimate.\"  The Guardian calls it \"utterly immersive\" and predicts that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/dunkirkposter-133x200.jpg)Originally posted on [gCaptain.](https://gcaptain.com/movie-review-nolans-dunkirk-immersive-tour-de-force-incongruous-muddle/) Reposted with permission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/dunkirkposter-133x200.jpg)Originally posted on [gCaptain.](https://gcaptain.com/movie-review-nolans-dunkirk-immersive-tour-de-force-incongruous-muddle/) Reposted with permission.
 
 Christopher Nolan’s movie, [Dunkirk](http://www.imdb.com/title/tt5013056/), opened Friday to rave reviews. The New York Times calls it “[a tour de force …both sweeping and intimate.](https://www.nytimes.com/2017/07/20/movies/dunkirk-review-christopher-nolan.html?_r=0)”  The Guardian calls it “[utterly immersive” and predicts that the movie “will doubtless become the definitive cinematic depiction of this remarkable chapter of history](https://www.theguardian.com/film/2017/jul/23/dunkirk-review-terrifyingly-immersive-christopher-nolan).” I saw the film last night and while I generally agree with many of the points made by the reviewers, I found the movie to be somewhat of an incongruous muddle, and with containers cranes, no less. 
 
@@ -35,7 +35,7 @@ Does the power of the time-shifting make up for its shortcomings? That is a pers
 
 Nolan generally pays attention to [historical detail](http://www.newsweek.com/dunkirk-true-story-fact-fiction-harry-styles-638502).  He used a period French destroyer as a stand-in for a British ship. He instructed one of his lead actors, Harry Styles, on how British soldiers tied their shoes in 1940. He uses a [sailing barge](http://www.telegraph.co.uk/property/uk/boat-used-inchristopher-nolans-epic-film-dunkirk-has-put-market/) in one evacuation scene, demonstrating that any and all available vessels were pressed into service. Props, and uniforms are accurate as is even the location. Many of the scenes on the beach were filmed at Dunkirk. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/dunkirkccranes2.jpg)Several of the beach scenes, however, contained a whopper of an incongruity. In the background are the distinctive profiles of container cranes. Most viewers wouldn’t notice, but as I spent many years in container shipping operations, they seemed as out of place as if the movie had British officers asking Siri about the weather on their iPhones.  The [first container crane was installed in 1969](https://en.wikipedia.org/wiki/Container_crane#History) and generally only became common in the 70s and 80s.  (There are other silhouettes of modern cranes in the background. The container cranes, however,  have a very distinctive profile and seemed to jump out of the screen at me.) 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/dunkirkccranes2.jpg)Several of the beach scenes, however, contained a whopper of an incongruity. In the background are the distinctive profiles of container cranes. Most viewers wouldn’t notice, but as I spent many years in container shipping operations, they seemed as out of place as if the movie had British officers asking Siri about the weather on their iPhones.  The [first container crane was installed in 1969](https://en.wikipedia.org/wiki/Container_crane#History) and generally only became common in the 70s and 80s.  (There are other silhouettes of modern cranes in the background. The container cranes, however,  have a very distinctive profile and seemed to jump out of the screen at me.) 
 
 Does this matter? To most the answer is no, it doesn’t. The problem I have is that the port of Dunkirk is a significant character in the movie. In the opening street scenes, there were no cars from the 1970s parked by the curb. What are 1970s cranes doing on the horizon? It should have been relatively easy to mat out the cranes. 
 

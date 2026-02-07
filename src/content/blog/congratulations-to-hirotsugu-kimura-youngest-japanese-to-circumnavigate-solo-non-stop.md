@@ -12,12 +12,12 @@ tags:
   - "Maritime Self-Defense Force member"
   - "submariner"
   - "youngest Japanese"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/youngestjapanesesailor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/youngestjapanesesailor.jpg"
 author: "Rick Spilman"
 description: "Japan Today reports that 24 year old, Hirotsugu Kimura, has become the youngest Japanese to complete a solo voyage around the world on a sailboat without making any port calls or receiving supplies; breaking a thirty-year-old record. Kimura, a former Maritime … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/youngestjapanesesailor.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/youngestjapanesesailor.jpg)
 
 Photo: Kyodo News helicopter
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Two American sailors, Bob Weise and Steve Shapiro, both 71, have been attempting to sail across the Atlantic from Norway to Maine in a 40′ gaff rigged sloop named Nora. They began the attempt last July and it has not … Continue reading &rarr;"
 ---
 
-![nora1](http://www.oldsaltblog.com/wp-content/uploads/2016/01/nora1.jpg)Two American sailors, Bob Weise and Steve Shapiro, both 71, have been attempting to sail across the Atlantic from Norway to Maine in a 40′ gaff rigged sloop named *Nora*. They began the attempt last July and it has not gone well. In the last seven months, they have been rescued nine times. In this case, persistence is not a virtue.
+![nora1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/nora1.jpg)Two American sailors, Bob Weise and Steve Shapiro, both 71, have been attempting to sail across the Atlantic from Norway to Maine in a 40′ gaff rigged sloop named *Nora*. They began the attempt last July and it has not gone well. In the last seven months, they have been rescued nine times. In this case, persistence is not a virtue.
 
 Now, even veteran yachtsman is saying enough is enough. In a recent [BBC interview](http://www.bbc.com/news/uk-england-cornwall-35420983), Sir Robin said, “*This is no longer a joke. It costs between £6,000 and £8,000 every time a lifeboat is launched. These guys are costing the RNLI a fortune. They need to frankly pack it in or, I hate to say it, get the hell out of our waters.”*
 

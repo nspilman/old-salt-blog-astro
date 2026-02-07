@@ -8,12 +8,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "lionfish"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/rse1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/rse1.jpg"
 author: "Rick Spilman"
 description: "A year ago we posted, Invasive Lionfish for Sale at Whole Foods – If You Can’t Beat ’em, Eat ’em, about a new approach to combating lionfish which have been spreading rapidly along the southeast coast of the U.S., the Caribbean, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/05/lionfish.jpg)A year ago we posted, [Invasive Lionfish for Sale at Whole Foods – If You Can’t Beat ’em, Eat ’em,](http://www.oldsaltblog.com/2016/06/invasive-lionfish-sale-whole-foods-cant-beat-em-eat-em/) about a new approach to combating lionfish which have been spreading rapidly along the southeast coast of the U.S., the Caribbean, and in parts of the Gulf of Mexico. Native to the Indo-Pacific, the lionfish lack natural predators and have been laying waste to local fish and shrimp populations. Whole Foods, a high end supermarket, is started to sell lionfish in their stores to consumers as one way to help slow their spread.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/lionfish.jpg)A year ago we posted, [Invasive Lionfish for Sale at Whole Foods – If You Can’t Beat ’em, Eat ’em,](http://www.oldsaltblog.com/2016/06/invasive-lionfish-sale-whole-foods-cant-beat-em-eat-em/) about a new approach to combating lionfish which have been spreading rapidly along the southeast coast of the U.S., the Caribbean, and in parts of the Gulf of Mexico. Native to the Indo-Pacific, the lionfish lack natural predators and have been laying waste to local fish and shrimp populations. Whole Foods, a high end supermarket, is started to sell lionfish in their stores to consumers as one way to help slow their spread.
 
 Unfortunately, there are more lionfish than there are divers to spear them. Now a foundation, [Robots in Service of the Environment](https://robotsise.com/) (RSE ) has developed an underwater robot to suck up the lionfish, a sort of underwater invasive species Roomba.  If you are not familiar with the [Roomba](http://www.irobot.com/For-the-Home/Vacuuming/Roomba.aspx), it is a consumer robot vacuum cleaner. RSE was founded last year by Colin Angle, the CEO for iRobot, the maker of the Roomba. He was visiting friends and marine biologists on Bermuda and they explained how lionfish quickly became king of the Atlantic’s coral reefs. Angle, John Rizzi, and friends decided to take action and the [Guardian LF1](https://www.kickstarter.com/projects/rse/worlds-first-eco-robot-protecting-reefs-from-lionf) robot was born.
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "It has happened again. While sailing in a qualifying race for the upcoming transatlantic solo sailing contest Route du Rhum, 62-year-old French sailor Laurent Camprubi found himself trapped inside his sailboat after it capsized. The keel on his boat, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/keellosscapsize.jpg)It has happened again. While sailing in a qualifying race for the upcoming transatlantic solo sailing contest Route du Rhum, 62-year-old French sailor Laurent Camprubi found himself trapped inside his sailboat after it capsized. The keel on his boat, the *Jeanne Solo Sailor*, sheared off and the boat capsized 14 miles (22 kilometers) from the Sisargas Islands off Spain’s northwestern Galician coast.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/keellosscapsize.jpg)It has happened again. While sailing in a qualifying race for the upcoming transatlantic solo sailing contest Route du Rhum, 62-year-old French sailor Laurent Camprubi found himself trapped inside his sailboat after it capsized. The keel on his boat, the *Jeanne Solo Sailor*, sheared off and the boat capsized 14 miles (22 kilometers) from the Sisargas Islands off Spain’s northwestern Galician coast.
 
 Camprubi sent out a distress signal and, remarkably, was able to survive in a pocket of trapped air for 16 hours until he was rescued by a Spanish search and rescue team. 
 

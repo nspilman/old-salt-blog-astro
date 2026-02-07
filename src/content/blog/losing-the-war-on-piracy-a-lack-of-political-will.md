@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last week the  Danish warship Esbern Snare captured a hijacked fishing vessel and freed two Yemeni hostages.  In addition to 16 pirates aboard the ship, the Danes  found rocket launchers, assault rifles, ammunition, large quantities of fuel and two skiffs. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/somali_pirates.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/somali_pirates.jpg)
 
 Photo: english.alshahid.net
 

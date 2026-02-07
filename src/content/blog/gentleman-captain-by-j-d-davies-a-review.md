@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Lord Macaulay wrote \"There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.\" Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/gentlemancaptain.jpg)Lord Macaulay wrote “*There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman*.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/gentlemancaptain.jpg)Lord Macaulay wrote “*There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman*.”
 
 Twenty one year old Matthew Quinton, captain of the *Happy Restoration*, is from an old and respected family and is brother to an earl. He is very much a gentlemen. As his ship breaks apart on the rocks of Kinsale harbor, he is also painfully aware that he is no seaman. If he survives the loss of his first command, he is determined to learn the ways of the sea. So begins J.D. Davies’ excellent novel, *[Gentleman Captain](http://www.amazon.com/gp/product/0547382618/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217153&creative=399349&creativeASIN=0547382618)*.  
   

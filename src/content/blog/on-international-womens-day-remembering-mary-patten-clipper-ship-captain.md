@@ -12,12 +12,12 @@ tags:
   - "clipper ship"
   - "Mary Patten"
   - "Neptune's Car"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/marypatten.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/marypatten.jpg"
 author: "Rick Spilman"
 description: "On International Women’s Day, it seems a good time to remember Mary Ann Brown Patten, the first woman to command an American merchant ship. The year was 1856. The ship was the clipper ship Neptune’s Car, bound for San Francisco from New … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/marypatten.jpg)On [International Women’s Day](https://www.internationalwomensday.com/), it seems a good time to remember [Mary Ann Brown Patten](http://www.newenglandhistoricalsociety.com/mary-patten-19-pregnant-takes-command-clipper-ship-1856/), the first woman to command an American merchant ship. The year was 1856. The ship was the clipper ship [*Neptune’s Car,*](http://www.bruzelius.info/Nautica/Ships/Clippers/Neptunes_Car\(1853\).html) bound for San Francisco from New York City. Mary’s husband Captain Joshua had collapsed, suffering from “brain fever.”  For 56 days, Mary took over the command and navigation of the ship. She faced down a mutiny and successfully brought the clipper into San Francisco. On her arrival, Mary was 19 years old and pregnant with her first child.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/marypatten.jpg)On [International Women’s Day](https://www.internationalwomensday.com/), it seems a good time to remember [Mary Ann Brown Patten](http://www.newenglandhistoricalsociety.com/mary-patten-19-pregnant-takes-command-clipper-ship-1856/), the first woman to command an American merchant ship. The year was 1856. The ship was the clipper ship [*Neptune’s Car,*](http://www.bruzelius.info/Nautica/Ships/Clippers/Neptunes_Car\(1853\).html) bound for San Francisco from New York City. Mary’s husband Captain Joshua had collapsed, suffering from “brain fever.”  For 56 days, Mary took over the command and navigation of the ship. She faced down a mutiny and successfully brought the clipper into San Francisco. On her arrival, Mary was 19 years old and pregnant with her first child.
 
 Mary was 16 when she married Captain Joshua Patten in 1853. He was 25 and a captain in the coastwise trade. The next year he was offered the captain’s berth on the clipper ship Neptune’s Car after the previous captain fell ill. He asked and was granted permission to bring his young wife on the voyage. With Mary at this side, Captain Patten made a fast passage from New York to San Francisco, then onward to China, London and back to New York.
 

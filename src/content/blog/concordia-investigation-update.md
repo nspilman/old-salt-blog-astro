@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In addition to the investigation underway by the Barbados Maritime Ship Registry on behalf of the government of Barbados, where the Concordia was registered, the Transportation Safety Board of Canada has decided to conduct its own independent investigation into the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Concordia3-1.jpg)In addition to the investigation underway by the Barbados Maritime Ship Registry on behalf of the government of Barbados, where the *Concordia* was registered, the Transportation Safety Board of Canada has decided to conduct its own independent investigation into the capsizing and sinking of the sail training ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Concordia3-1.jpg)In addition to the investigation underway by the Barbados Maritime Ship Registry on behalf of the government of Barbados, where the *Concordia* was registered, the Transportation Safety Board of Canada has decided to conduct its own independent investigation into the capsizing and sinking of the sail training ship.
 
 [Transportation board to probe sinking of Concordia](http://thechronicleherald.ca/Front/1170439.html)
 

@@ -11,12 +11,12 @@ tags:
   - "Alaska"
   - "American Constellation"
   - "American Cruise Lines"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/americanc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/americanc.jpg"
 author: "Rick Spilman"
 description: "US Today reports that American Cruise Lines has canceled the next Alaska cruise on its American Constellation after three people tested positive for COVID-19. The ship took off for a 10-night cruise from Juneau, Alaska on July 4, but the trip … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/americanc.jpg)[US Today](https://www.usatoday.com/story/travel/experience/cruise/2021/07/10/american-cruise-lines-alaskan-cruise-canceled-positive-covid-tests/7926157002/) reports that [American Cruise Lines](https://www.americancruiselines.com/) has canceled the next Alaska cruise on its [*American Constellation*](https://www.americancruiselines.com/usa-riverboat-cruise-ships/constellation-class-coastal-cruise-ships) after three people tested positive for COVID-19.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/americanc.jpg)[US Today](https://www.usatoday.com/story/travel/experience/cruise/2021/07/10/american-cruise-lines-alaskan-cruise-canceled-positive-covid-tests/7926157002/) reports that [American Cruise Lines](https://www.americancruiselines.com/) has canceled the next Alaska cruise on its [*American Constellation*](https://www.americancruiselines.com/usa-riverboat-cruise-ships/constellation-class-coastal-cruise-ships) after three people tested positive for COVID-19.
 
 The ship took off for a 10-night cruise from Juneau, Alaska on July 4, but the trip was cut short Saturday after two fully vaccinated passengers and one unvaccinated crew member tested positive. The 175-passenger ship had 162 passengers and 52 crew members on board. 
 

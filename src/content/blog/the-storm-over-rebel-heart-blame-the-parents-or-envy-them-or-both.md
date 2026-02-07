@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "I will admit to having distinctly mixed feelings related to the rescue of the Kaufman family on their yacht ‘Rebel Heart.‘ I am obviously pleased that Lyra received medical attention. I am saddened that the boat that was their home … Continue reading &rarr;"
 ---
 
-![Photo:AP](http://www.oldsaltblog.com/wp-content/uploads/2014/04/kaufmans.jpg)
+![Photo:AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/kaufmans.jpg)
 
 Photo:AP
 

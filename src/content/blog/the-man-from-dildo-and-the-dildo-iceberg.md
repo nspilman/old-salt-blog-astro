@@ -11,12 +11,12 @@ tags:
   - "Dildo"
   - "dildo-shaped iceberg"
   - "Newfoundland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/dildoberg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/dildoberg.jpg"
 author: "Rick Spilman"
 description: "Recently, Ken Pretty, a photographer from the village of Dildo, in Newfoundland, Canada, caught some remarkable drone footage of a 30′ high dildo-shaped iceberg off the coast of Harbour Grace in Conception Bay, Newfoundland. The photographs and video of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/dildoberg.jpg)Recently, [Ken Pretty](https://www.facebook.com/story.php?story_fbid=1178804459517545&id=280342622697071&m_entstream_source=permalink&paipv=0&eav=AfZlsdr9q9_M1bbb87PeVtMlOQcfso90th0SqfGmBm_mrjARje_yWrr2ek-SGqJxIfM&_rdr), a photographer from the village of [Dildo, in Newfoundland](https://en.wikipedia.org/wiki/Dildo,_Newfoundland_and_Labrador), Canada, caught some remarkable drone footage of a 30′ high dildo-shaped iceberg off the coast of Harbour Grace in Conception Bay, Newfoundland. The photographs and video of the phallic-shaped berg, referred to as “dickie berg,” by the locals, quickly went viral after Pretty posted them to social media.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/dildoberg.jpg)Recently, [Ken Pretty](https://www.facebook.com/story.php?story_fbid=1178804459517545&id=280342622697071&m_entstream_source=permalink&paipv=0&eav=AfZlsdr9q9_M1bbb87PeVtMlOQcfso90th0SqfGmBm_mrjARje_yWrr2ek-SGqJxIfM&_rdr), a photographer from the village of [Dildo, in Newfoundland](https://en.wikipedia.org/wiki/Dildo,_Newfoundland_and_Labrador), Canada, caught some remarkable drone footage of a 30′ high dildo-shaped iceberg off the coast of Harbour Grace in Conception Bay, Newfoundland. The photographs and video of the phallic-shaped berg, referred to as “dickie berg,” by the locals, quickly went viral after Pretty posted them to social media.
 
 [Live Science](https://www.livescience.com/planet-earth/giant-phallus-shaped-iceberg-floating-in-conception-bay-surprises-residents-of-dildo-canada) noted however that the iceberg lacked staying power: Pretty photographed the 30-foot (9.1 meter) phallic structure on Thursday, April 27. It collapsed the next day. 
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In 2013, we posted about the death of the British folk and shanty singer who as born as Louis Killen, but lived the last years of her life as Lousia Jo."
 ---
 
-![Louisa Jo Killen](http://www.oldsaltblog.com/wp-content/uploads/2015/06/louisajokillen.jpg)
+![Louisa Jo Killen](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/louisajokillen.jpg)
 
 Luisa Jo Killen
 

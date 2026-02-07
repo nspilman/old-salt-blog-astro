@@ -16,12 +16,12 @@ tags:
   - "Illegal scrappers"
   - "Malaysia’s maritime agency"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/scrapbarge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/scrapbarge.jpg"
 author: "Rick Spilman"
 description: "For more than a decade, warships sunk in World War II have literally been disappearing from the ocean floor.  Illegal scrappers operating grabs from barges have been looting of Australian, American, British, Dutch, and Japanese warships for scrap metal in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/scrapbarge.jpg)For more than a decade, [warships sunk in World War II have literally been disappearing](https://www.oldsaltblog.com/2016/11/mystery-vanished-dutch-wwii-shipwrecks/) from the ocean floor.  Illegal scrappers operating grabs from barges have been looting of Australian, American, British, Dutch, and Japanese warships for scrap metal in south-east Asian seas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/scrapbarge.jpg)For more than a decade, [warships sunk in World War II have literally been disappearing](https://www.oldsaltblog.com/2016/11/mystery-vanished-dutch-wwii-shipwrecks/) from the ocean floor.  Illegal scrappers operating grabs from barges have been looting of Australian, American, British, Dutch, and Japanese warships for scrap metal in south-east Asian seas.
 
  Recently, [USNI](https://news.usni.org/2023/05/25/u-k-royal-navy-distressed-and-concerned-by-illegal-chinese-salvage-of-wwii-wrecks) reports that the Royal Navy has expressed concern over reports of looting of the wrecks of the battleship [HMS *Prince of Wales*](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_\(53\)) and battlecruiser [HMS *Repulse*](https://en.wikipedia.org/wiki/HMS_Repulse_\(1916\)) off the coast of Malaysia. The Chinese barge [*Chuan Hong 68*](https://theatlasnews.co/latest/2023/05/26/chinese-salvage-ship-continues-plundering-of-sunken-wwii-naval-vessels/) is reported to have used a large dredging crane to pluck scrap from the wrecks.
 

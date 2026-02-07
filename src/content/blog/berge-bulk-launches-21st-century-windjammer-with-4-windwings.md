@@ -14,12 +14,12 @@ tags:
   - "Newcastlemax bulker"
   - "WindWings"
   - "Yara Marine Technologies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/bergebulk2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/bergebulk2.jpg"
 author: "Rick Spilman"
 description: "In a press release on Tuesday, Berge Bulk, one the world’s leading dry bulk ship owners, announced the launch of its 211,153 DWT Newcastlemax bulker, Berge Olympus, with four retrofitted BARTech WindWings by Yara Marine Technologies. The WindWings installation is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/bergebulk2.jpg)In a [press release](https://www.prnewswire.co.uk/news-releases/berge-bulk-unveils-the-worlds-most-powerful-sailing-cargo-ship-301955883.html) on Tuesday, [Berge Bulk](https://www.bergebulk.com/), one the world’s leading dry bulk ship owners, announced the launch of its 211,153 DWT Newcastlemax bulker, *Berge Olympus*, with four retrofitted [BARTech WindWings](https://www.bartechnologies.uk/project/windwings/) by Yara Marine Technologies. The WindWings installation is part of Berge Bulk’s ambition to become carbon neutral by 2025 and marks the *Berge Olympus* as the world’s most powerful sailing cargo ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/bergebulk2.jpg)In a [press release](https://www.prnewswire.co.uk/news-releases/berge-bulk-unveils-the-worlds-most-powerful-sailing-cargo-ship-301955883.html) on Tuesday, [Berge Bulk](https://www.bergebulk.com/), one the world’s leading dry bulk ship owners, announced the launch of its 211,153 DWT Newcastlemax bulker, *Berge Olympus*, with four retrofitted [BARTech WindWings](https://www.bartechnologies.uk/project/windwings/) by Yara Marine Technologies. The WindWings installation is part of Berge Bulk’s ambition to become carbon neutral by 2025 and marks the *Berge Olympus* as the world’s most powerful sailing cargo ship.
 
 With four WindWings installed, each possessing an aerodynamic span of 37.5 meters height and 20 meters width, the *Berge Olympus* will save 6 tonnes or approximately 20% of fuel per day on an average worldwide route and, in the process, reduce CO2 emissions by approximately 19.5 tonnes per day. With these fuel savings and CO2 reductions, Berge Bulk is evaluating the potential of installing WindWings on more of its vessels that trade on routes with favorable wind conditions.
 

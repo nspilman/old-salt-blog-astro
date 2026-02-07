@@ -13,12 +13,12 @@ tags:
   - "Martinique"
   - "Royal Navy"
   - "Stone Frigate"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/diamondrock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/diamondrock.jpg"
 author: "Rick Spilman"
 description: "As an American reading British Royal Navy history, I will admit to being initially confused, more than once, by \"stone frigates\", naval establishments on land named as ships. HMS Collingwood, for example, is a stone frigate (shore establishment) of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/diamondrock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/diamondrock.jpg)
 
 HMS Diamond Rock
 

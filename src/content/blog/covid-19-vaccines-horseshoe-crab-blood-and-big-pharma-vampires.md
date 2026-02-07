@@ -12,12 +12,12 @@ tags:
   - "LAL"
   - "Limulus Amebocyte Lysate"
   - "vaccine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/horseshoeblood.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/horseshoeblood.jpg"
 author: "Rick Spilman"
 description: "As the race is on to distribute Covid-19 vaccines around the globe, horseshoe crabs, or more specifically, horseshoe crab blood, is playing a major role in ensuring that the vaccines are safe to be injected into peoples’ arms. In fact, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/horseshoeblood.jpg)As the race is on to distribute Covid-19 vaccines around the globe, horseshoe crabs, or more specifically, horseshoe crab blood, is playing a major role in ensuring that the vaccines are safe to be injected into peoples’ arms. In fact, horseshoe crab blood plays an important role in the safety of all vaccines, but the surge in demand for Covid-19 vaccines is raising new concerns about potential overharvesting.  Here is a repost updated for the pandemic from about a year and a half ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/horseshoeblood.jpg)As the race is on to distribute Covid-19 vaccines around the globe, horseshoe crabs, or more specifically, horseshoe crab blood, is playing a major role in ensuring that the vaccines are safe to be injected into peoples’ arms. In fact, horseshoe crab blood plays an important role in the safety of all vaccines, but the surge in demand for Covid-19 vaccines is raising new concerns about potential overharvesting.  Here is a repost updated for the pandemic from about a year and a half ago.
 
 Horseshoe crabs are an ancient variety of arthropods, which are not actually crabs. Having remained largely unchanged in about 450 million years, the horseshoe crab is considered by many to be a living fossil. One of the reasons that horseshoe crabs have survived so long is that they have a highly robust immune system. Indeed, the horseshoe crab’s bright blue blood has remarkable antibacterial properties. 
 

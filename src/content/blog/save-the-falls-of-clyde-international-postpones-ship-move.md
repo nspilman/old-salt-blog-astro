@@ -14,12 +14,12 @@ tags:
   - "Hawaii"
   - "iron-hulled"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/FOCIlogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/FOCIlogo.jpg"
 author: "Rick Spilman"
 description: "The effort to save the Falls of Clyde has suffered at least a temporary setback. Last November, we posted about an announcement by the Save the Falls of Clyde — International, a group endeavoring to move the Falls of Clyde, the last surviving iron-hulled, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/FOCIlogo.jpg)The effort to save the Falls of Clyde has suffered at least a temporary setback. Last [November, we posted](http://www.oldsaltblog.com/2018/11/falls-of-clyde-heading-toward-scotland-in-2019/) about an announcement by the [Save the Falls of Clyde — International](https://www.facebook.com/savefallsofclyde/), a group endeavoring to move the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), the last surviving iron-hulled, four-masted full-rigged ship, from Hawaii back to Scotland for restoration. The announcement read, in part: “*After many months of negotiation, a deal has finally agreed between this group and Sevenstar Yacht Transfer, to collect the ‘Falls of Clyde’. She will be loaded onboard their flo/flo ship, ‘Yacht Express ‘ during the week 3rd February 2019.”*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/FOCIlogo.jpg)The effort to save the Falls of Clyde has suffered at least a temporary setback. Last [November, we posted](http://www.oldsaltblog.com/2018/11/falls-of-clyde-heading-toward-scotland-in-2019/) about an announcement by the [Save the Falls of Clyde — International](https://www.facebook.com/savefallsofclyde/), a group endeavoring to move the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), the last surviving iron-hulled, four-masted full-rigged ship, from Hawaii back to Scotland for restoration. The announcement read, in part: “*After many months of negotiation, a deal has finally agreed between this group and Sevenstar Yacht Transfer, to collect the ‘Falls of Clyde’. She will be loaded onboard their flo/flo ship, ‘Yacht Express ‘ during the week 3rd February 2019.”*
 
 Recently, the group has announced that the move will be delayed pending finalization of sponsorship. They announced on January 4th: 
 

@@ -9,12 +9,12 @@ tags:
   - "Falwell"
   - "Liberty Univesrsity"
   - "wheels"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/wheels.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/wheels.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the arrest of Steven Bannon, ex-senior advisor to Trump, aboard Chinese billionaire Guo Wengui’s 152′ yacht, cruising in Long Island Sound. Earlier in August, another mega-yacht was central in an unfolding scandal that brought down yet … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/wheels.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/wheels.jpg)
 
 Yacht Wheels
 

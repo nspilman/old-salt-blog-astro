@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Divers from Deep Blue Marine have located a wreck site off the Dominican Republic believed to date back to the 1500s and have uncovered a treasure of silver coins and jade figurines. ‘We’ve just scratched the surface’: Divers find ‘oldest shipwreck in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/oldstcaribwreck.jpg)Divers from [Deep Blue Marine](http://alldeepblue.com/site/) have located a wreck site off the Dominican Republic believed to date back to the 1500s and have uncovered a treasure of silver coins and jade figurines.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/oldstcaribwreck.jpg)Divers from [Deep Blue Marine](http://alldeepblue.com/site/) have located a wreck site off the Dominican Republic believed to date back to the 1500s and have uncovered a treasure of silver coins and jade figurines.
 
 [‘We’ve just scratched the surface’: Divers find ‘oldest shipwreck in the Caribbean’…. and treasure that could be worth MILLIONS](http://www.dailymail.co.uk/news/article-1381334/Divers-unearth-treasure-shipwreck-believed-oldest-Caribbean.html)
 

@@ -11,12 +11,12 @@ tags:
   - "Fox Island"
   - "sea level"
   - "US Naval Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/annapht.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/annapht.jpg"
 author: "Rick Spilman"
 description: "Climate change deniers can choose to ignore the overwhelming scientific consensus of man-made climate change all they want. How long they will continue to deny the evidence before their own eyes? Two immediate examples — Fox Island and the US … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/annapht.jpg)Climate change deniers can choose to ignore the overwhelming scientific consensus of man-made climate change all they want. How long they will continue to deny the evidence before their own eyes? Two immediate examples — Fox Island and the US Naval Academy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/annapht.jpg)Climate change deniers can choose to ignore the overwhelming scientific consensus of man-made climate change all they want. How long they will continue to deny the evidence before their own eyes? Two immediate examples — Fox Island and the US Naval Academy.
 
 For 40 years, the [Chesapeake Bay Foundation has run educational programs on Fox Island](https://www.cbf.org/blogs/save-the-bay/2019/10/farewell-to-fox.html), an island between the Tangier and Pocomoke sounds. This is the last year, however. Rising sea levels have effectively washed the island away.
 

@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "In mid-July we posted about a group of 80 strangers who formed a human chain to rescue 10 people carried out in a rip current into the Gulf of Mexico off Panama City Beach in the Florida panhandle. All ten … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/Anne_Dufourmantelle.jpg)In mid-July we posted about a [group of 80 strangers who formed a human chain](http://www.oldsaltblog.com/2017/07/beach-goers-form-human-chain-rescue-family-caught-rip-current/) to rescue 10 people carried out in a rip current into the Gulf of Mexico off Panama City Beach in the Florida panhandle. All ten were saved. No one was seriously hurt.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/Anne_Dufourmantelle.jpg)In mid-July we posted about a [group of 80 strangers who formed a human chain](http://www.oldsaltblog.com/2017/07/beach-goers-form-human-chain-rescue-family-caught-rip-current/) to rescue 10 people carried out in a rip current into the Gulf of Mexico off Panama City Beach in the Florida panhandle. All ten were saved. No one was seriously hurt.
 
 Not all rescues end well, however, and while it is more pleasant to focus on those that do, I think it is also important to look at those whose outcome can be tragic. 
 

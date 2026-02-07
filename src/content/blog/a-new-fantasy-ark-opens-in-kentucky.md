@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The latest and greatest ark fantasy exhibit is opening in northern Kentucky. The new \"Ark Encounter\" bills itself as \"one-of-a-kind, historically themed attraction. In an entertaining, educational, and immersive way, it presents a number of historical events centered on Noah’s Ark … Continue reading &rarr;"
 ---
 
-![hamark](http://www.oldsaltblog.com/wp-content/uploads/2016/07/hamark.jpg)
+![hamark](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/hamark.jpg)
 
 The “ark” under construction in Williamstown, Ky. Photo: Kyle Grillot for The New York Times
 

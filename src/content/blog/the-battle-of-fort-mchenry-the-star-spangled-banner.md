@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "At around 6AM, 200 year ago today, the British Royal Navy began a fearsome bombardment of Fort McHenry at the mouth of Baltimore harbor."
 ---
 
-![The Star Spangled Banner over Fort McHenry](http://www.oldsaltblog.com/wp-content/uploads/2014/09/1C29E0A0-155D-451F-67D1407102C7AE0E.jpg)
+![The Star Spangled Banner over Fort McHenry](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/1C29E0A0-155D-451F-67D1407102C7AE0E.jpg)
 
 The Star Spangled Banner over Fort McHenry
 

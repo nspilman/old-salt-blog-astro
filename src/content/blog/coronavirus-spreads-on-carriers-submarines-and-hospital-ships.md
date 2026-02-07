@@ -15,12 +15,12 @@ tags:
   - "Russian submarine"
   - "USNS Comfort"
   - "USNS Mercy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/charledegalle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/charledegalle.jpg"
 author: "Rick Spilman"
 description: "We have been following the spread of the coronavirus on the aircraft carrier USS Theodore Roosevelt, where almost 600 sailors, including the captain, who was fired for speaking out about the spread, have tested positive for the virus. One crew … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/charledegalle.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/charledegalle.jpg)
 
 Charles de Gaulle
 

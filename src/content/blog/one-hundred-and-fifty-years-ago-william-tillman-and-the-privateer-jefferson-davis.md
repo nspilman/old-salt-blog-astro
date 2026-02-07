@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "William Tillman was the first black hero of the American Civil War. He was not a soldier but rather a 27-year-old  cook/steward on the schooner S.J. Waring.  One hundred and fifty years ago last Thursday, the schooner was captured by … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/Civil_War_First_Black_Hero.jpg)](http://www.marad.dot.gov/education_landing_page/k_12/k_12_salute/k12_william_tillman/william_tillman_detail_page.htm)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Civil_War_First_Black_Hero.jpg)](http://www.marad.dot.gov/education_landing_page/k_12/k_12_salute/k12_william_tillman/william_tillman_detail_page.htm)
 
 William Tillman retakes the schooner Waring
 

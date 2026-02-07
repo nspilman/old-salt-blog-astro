@@ -10,12 +10,12 @@ tags:
   - "Artemis"
   - "Artemis Technologies"
   - "EF-24 passenger ferry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/artemisferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/artemisferry.jpg"
 author: "Rick Spilman"
 description: "Artemis Technologies, an applied technologies spin-off from the Artemis Racing America’s Cup team, has announced its latest design, the EF-24 passenger ferry. The ferry is a 100% electric hydrofoil vessel with a capacity for 150 passengers and an operating range … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/artemisferry.jpg)[Artemis Technologies](https://www.artemistechnologies.co.uk/), an applied technologies spin-off from the [Artemis Racing](https://en.wikipedia.org/wiki/Artemis_Racing) America’s Cup team, has announced its latest design, the [EF-24 passenger ferry](https://www.artemistechnologies.co.uk/ef-24-passenger-ferry/). The ferry is a 100% electric hydrofoil vessel with a capacity for 150 passengers and an operating range of 115 nautical miles at a cruising speed of 25 knots while producing zero emissions. The new design is said to save up to 85% in fuel costs compared to conventional diesel ferries.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/artemisferry.jpg)[Artemis Technologies](https://www.artemistechnologies.co.uk/), an applied technologies spin-off from the [Artemis Racing](https://en.wikipedia.org/wiki/Artemis_Racing) America’s Cup team, has announced its latest design, the [EF-24 passenger ferry](https://www.artemistechnologies.co.uk/ef-24-passenger-ferry/). The ferry is a 100% electric hydrofoil vessel with a capacity for 150 passengers and an operating range of 115 nautical miles at a cruising speed of 25 knots while producing zero emissions. The new design is said to save up to 85% in fuel costs compared to conventional diesel ferries.
 
 [TechTimes](https://www.techtimes.com/articles/281057/20220926/electric-flying-ferry-artemis-technologies-ef-24-fly-across-water.htm) reports that Artemis Technologies, headquartered in Belfast, is led by CEO, Dr. Iain Percy, a four-time America’s Cup veteran and two-time Team GB Olympic sailing winner.
 

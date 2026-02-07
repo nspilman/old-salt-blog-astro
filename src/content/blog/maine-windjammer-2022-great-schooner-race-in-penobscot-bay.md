@@ -13,12 +13,12 @@ tags:
   - "Maine Windjammer Association"
   - "Penobscot Bay"
   - "Rockland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/schoonerrace2022.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/schoonerrace2022.jpg"
 author: "Rick Spilman"
 description: "Eleven schooners, many National Historic Landmarks, ranging in size from 57 to 135 feet, raced in the Maine Windjammer Association‘s 2022 Great Schooner Race in Penobscot Bay last week. As reported by the Courier-Gazette:  The vessels sailed past the Rockland … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/schoonerrace2022.jpg)Eleven schooners, many National Historic Landmarks, ranging in size from 57 to 135 feet, raced in the [Maine Windjammer Association](https://www.sailmainecoast.com/)‘s 2022 [Great Schooner Race](https://www.greatschoonerrace.com/) in Penobscot Bay last week.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/schoonerrace2022.jpg)Eleven schooners, many National Historic Landmarks, ranging in size from 57 to 135 feet, raced in the [Maine Windjammer Association](https://www.sailmainecoast.com/)‘s 2022 [Great Schooner Race](https://www.greatschoonerrace.com/) in Penobscot Bay last week.
 
 As reported by the [Courier-Gazette](https://knox.villagesoup.com/2022/07/08/with-wind-in-sails-historic-windjammers-chart-course-to-racing-glory/):  The vessels sailed past the Rockland Breakwater on Thursday before things began in earnest on Friday, with a captains’ meeting aboard *Victory Chimes* early in the morning and the start of the race at 11 a.m. Between 2 and 3 p.m. vessels crossed the finish line and returned to Rockland Harbor. An awards ceremony was held at the conclusion of the event. 
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A second sailor has died in the Clipper Round the World Race. Sarah Young, 40, was swept over the side of the IchorCoal boat (CV21) in the Pacific Ocean."
 ---
 
-![sarahclipperrtw](http://www.oldsaltblog.com/wp-content/uploads/2016/04/sarahclipperrtw.jpg)
+![sarahclipperrtw](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/sarahclipperrtw.jpg)
 
 Sarah Young
 

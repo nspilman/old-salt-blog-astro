@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "If the reporting is accurate, this doesn’t seem like the argument that Carnival should be making. Passengers ‘blamed’ for Concordia damages Costa Cruises parent company Carnival is said to have blamed passengers, at least in part, for the damages they … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/concordia1.jpg)If the reporting is accurate, this doesn’t seem like the argument that Carnival should be making.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/concordia1.jpg)If the reporting is accurate, this doesn’t seem like the argument that Carnival should be making.
 
 [Passengers ‘blamed’ for Concordia damages](http://www.maltastar.com/dart/20130112-passengers-blamed-for-concordia-damages)
 

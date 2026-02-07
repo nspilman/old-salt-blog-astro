@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "We recently posted about concerns that the current Maine lobster boom may collapse in time due to climate change. The fishing industries in Maine and Alaska are facing a far more immediate challenge, however. New US tariffs on steel and aluminum and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/lobpot1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobpot1.jpg)
 
 Photo: Greta Rybus for The New York Times
 

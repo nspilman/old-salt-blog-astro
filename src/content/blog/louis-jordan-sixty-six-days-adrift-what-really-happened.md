@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Louis Jordan was found adrift on his sailboat after 66 days off Cape Hatteras. Much of the story, as told by many in the media, is completely wrong."
 ---
 
-![Jordan on his sailboat Angel , from an undated photo.](http://www.oldsaltblog.com/wp-content/uploads/2015/04/angel1.jpg)
+![Jordan on his sailboat Angel , from an undated photo.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/angel1.jpg)
 
 Jordan on his sailboat Angel , from an undated photo.
 

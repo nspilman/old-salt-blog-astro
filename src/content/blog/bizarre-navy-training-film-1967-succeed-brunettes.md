@@ -8,7 +8,7 @@ categories:
 tags:
   - "Navy training film"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/howtosucceedwithbrunettes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/howtosucceedwithbrunettes.jpg"
 author: "Rick Spilman"
 description: "This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of \"how to succeed with brunettes (or blondes.)\" It is directed exclusively at male naval officers. How many female … Continue reading &rarr;"
 ---

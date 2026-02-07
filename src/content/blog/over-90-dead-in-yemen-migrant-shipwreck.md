@@ -13,12 +13,12 @@ tags:
   - "migrant"
   - "shipwreck"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/yemenshipwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/yemenshipwreck.jpg"
 author: "Rick Spilman"
 description: "On Tuesday, Yemeni officials said that at least 96 people died when a migrant boat sank in the Gulf of Aden off Yemen’s coast. Officials said that 32 people were rescued and dozens were still missing in what a senior … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/yemenshipwreck.jpg)On Tuesday, Yemeni officials said that at least 96 people died when a migrant boat sank in the Gulf of Aden off Yemen’s coast. Officials said that 32 people were rescued and dozens were still missing in what a senior official from the International Organization for Migration (IOM) described as “one of the deadliest” shipwrecks off Yemen this year. The UN migration agency said 157 people were onboard the boat when it capsized.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/yemenshipwreck.jpg)On Tuesday, Yemeni officials said that at least 96 people died when a migrant boat sank in the Gulf of Aden off Yemen’s coast. Officials said that 32 people were rescued and dozens were still missing in what a senior official from the International Organization for Migration (IOM) described as “one of the deadliest” shipwrecks off Yemen this year. The UN migration agency said 157 people were onboard the boat when it capsized.
 
 The boat carrying mostly Ethiopian migrants sank on Sunday. The IOM’s Yemen head, Abdusattor Esoev, said the boat had been on a dangerous route often used by people-smugglers and was heading to Abyan governorate in southern Yemen, a frequent destination for boats smuggling African people hoping to reach the wealthy Gulf states.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Ship scrapping is a slow and methodical process. A ship is typically run up on the scrapping ways, which can be a concrete platform or a sloping sandy beach.  As burners cut away the upper sections of the ship, it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/hermes.jpg)Ship scrapping is a slow and methodical process. A ship is typically run up on the scrapping ways, which can be a concrete platform or a sloping sandy beach.  As burners cut away the upper sections of the ship, it gets lighter and floats a little higher allowing winches to pull the ship a bit farther up the ways. As more steel is cut away the ship is pulled progressively farther ashore until the entire structure is reduced to scrap metal to be hauled away for resmelting in a local steel mill.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/hermes.jpg)Ship scrapping is a slow and methodical process. A ship is typically run up on the scrapping ways, which can be a concrete platform or a sloping sandy beach.  As burners cut away the upper sections of the ship, it gets lighter and floats a little higher allowing winches to pull the ship a bit farther up the ways. As more steel is cut away the ship is pulled progressively farther ashore until the entire structure is reduced to scrap metal to be hauled away for resmelting in a local steel mill.
 
 I recall years ago watching the ship breaking yard in Kaohsiung, Taiwan from a ship in drydock just up the harbor in China Shipbuilding. A ship being scrapped in the breaking yard looked like the carcass of some great beast being slowly but inexorably devoured by ants. 
 

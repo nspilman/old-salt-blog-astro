@@ -20,4 +20,4 @@ Last year, we posted about how the sinking of the [*Titanic* had morphed from a 
 
 [PSA: The Titanic Was Real, Not Just A Movie](http://gothamist.com/2012/04/09/psa_the_titanic_was_real_and_not_ju.php)  
   
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/titanicwasrealyouguys.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/titanicwasrealyouguys.jpg)

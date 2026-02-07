@@ -13,12 +13,12 @@ tags:
   - "ROVs"
   - "Titan"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/Titanic_wreck_bow.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/Titanic_wreck_bow.jpg"
 author: "Rick Spilman"
 description: "Just over a year after the ill-fated Titan expedition to the Titanic killed five people, another expedition down to one of the most famous shipwrecks in the world is underway. Using remotely operated vehicles (ROVs), a team of imaging experts, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/Titanic_wreck_bow.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/Titanic_wreck_bow.jpg)
 
 Photo: NOAA/Institute for Exploration/University of Rhode Island
 

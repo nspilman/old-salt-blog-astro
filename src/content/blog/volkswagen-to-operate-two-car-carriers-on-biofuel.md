@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Volkswagen Group Logistics has switched the first of two chartered car carriers from burning heavy fuel to biofuel. The fuel is supplied by Netherlands-based GoodFuels and is produced primarily from used oil from restaurants and the food industry. The car … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/vwbiofuel.jpg)[Volkswagen Group Logistics](https://www.volkswagenag.com/en/news/2016/12/Volkswagen_Group_Logistics.html) has switched the first of two chartered car carriers from burning heavy fuel to biofuel. The fuel is supplied by Netherlands-based [GoodFuels](https://goodfuels.com/marine/) and is produced primarily from used oil from restaurants and the food industry.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/vwbiofuel.jpg)[Volkswagen Group Logistics](https://www.volkswagenag.com/en/news/2016/12/Volkswagen_Group_Logistics.html) has switched the first of two chartered car carriers from burning heavy fuel to biofuel. The fuel is supplied by Netherlands-based [GoodFuels](https://goodfuels.com/marine/) and is produced primarily from used oil from restaurants and the food industry.
 
 The car carrier *[Patara](https://www.vesselfinder.com/vessels/PATARA-IMO-9491898-MMSI-218818000),* owned by Depth RoRo, was refueled for the first time with 100% GoodFuels’ biofuel in mid-November 2020 and a second ship is due to follow at the beginning of 2021.
 

@@ -12,7 +12,7 @@ tags:
   - "Elbe"
   - "Hafengeburtstag 2019"
   - "Hamburg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/hamburgharbor2019.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/hamburgharbor2019.jpg"
 author: "Rick Spilman"
 description: "This weekend Hamburg celebrated its Hafengeburtstag 2019, the 830th anniversary of the founding of the Port of Hamburg, established in 1189 by Frederick I. And celebrate they did. An estimated 300 ships participated and were greeted by over one million … Continue reading &rarr;"
 ---

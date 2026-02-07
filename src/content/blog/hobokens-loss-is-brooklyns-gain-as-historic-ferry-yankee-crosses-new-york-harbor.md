@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "About two years, ago we posted about two historic vessels in New York harbor, the ferry Yankee and the tanker Mary Whalen.  In the space of two days, two different real estate and design publications featured articles about the grand … Continue reading &rarr;"
 ---
 
-![Well-wishers bid farewell to the Yankee Ferry as it's tugged from Pier 12 toward Red Hook, Brookyln   Photo: Hoboken Patch](http://www.oldsaltblog.com/wp-content/uploads/2013/07/yankkeferry1.jpg)
+![Well-wishers bid farewell to the Yankee Ferry as it's tugged from Pier 12 toward Red Hook, Brookyln   Photo: Hoboken Patch](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/yankkeferry1.jpg)
 
 Well-wishers bid farewell to the Yankee Ferry as it’s tugged from Pier 12 toward Red Hook, Brookyln Photo: Hoboken Patch
 

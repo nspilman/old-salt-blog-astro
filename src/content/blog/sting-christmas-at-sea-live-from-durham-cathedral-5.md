@@ -11,7 +11,7 @@ tags:
   - "Durham Cathedral"
   - "Robert Louis Stevenson"
   - "Sting"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/Stingchristmas25.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/Stingchristmas25.jpg"
 author: "Rick Spilman"
 description: "We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem \"Christmas at Sea,\" performed by Gordon Matthew Thomas Sumner, better known as Sting. Sting – Christmas At Sea … Continue reading &rarr;"
 ---

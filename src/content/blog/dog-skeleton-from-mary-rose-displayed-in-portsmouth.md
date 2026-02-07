@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "One salty dog, indeed.  Thanks to David Hayes for passing the article along. Dog skeleton from Mary Rose displayed in Portsmouth A dog which sailed aboard the Mary Rose ship 465 years ago is to take up residence in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/dog-150x112.jpg)One salty dog, indeed.  Thanks to [David Hayes](http://www.historicnavalfiction.net/) for passing the article along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/dog-150x112.jpg)One salty dog, indeed.  Thanks to [David Hayes](http://www.historicnavalfiction.net/) for passing the article along.
 
 [Dog skeleton from Mary Rose displayed in Portsmouth](http://news.bbc.co.uk/2/hi/uk_news/england/hampshire/8564209.stm)
 

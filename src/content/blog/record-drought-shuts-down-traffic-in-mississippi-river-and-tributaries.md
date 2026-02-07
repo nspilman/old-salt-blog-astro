@@ -14,12 +14,12 @@ tags:
   - "shipwreck"
   - "U.S. Army Corps of Engineers"
   - "Viking Mississippi"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/drybigmuddy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/drybigmuddy.jpg"
 author: "Rick Spilman"
 description: "In August, we posted about an extreme drought in Europe that dramatically reduced water levels in major rivers, including the Rhine, Elbe, Loire, Danube, and Po. Now a near-record drought in the US Midwest has dropped water levels in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/drybigmuddy.jpg)In August, [we posted about an extreme drought](https://www.oldsaltblog.com/2022/08/hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers/) in Europe that dramatically reduced water levels in major rivers, including the Rhine, Elbe, Loire, Danube, and Po. Now a near-record drought in the US Midwest has dropped water levels in the Mississippi and tributary rivers causing barges to run aground, disrupting river travel for shippers, recreational boaters, and even passengers on a cruise line.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/drybigmuddy.jpg)In August, [we posted about an extreme drought](https://www.oldsaltblog.com/2022/08/hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers/) in Europe that dramatically reduced water levels in major rivers, including the Rhine, Elbe, Loire, Danube, and Po. Now a near-record drought in the US Midwest has dropped water levels in the Mississippi and tributary rivers causing barges to run aground, disrupting river travel for shippers, recreational boaters, and even passengers on a cruise line.
 
 The Coast Guard has imposed new loading restrictions on ships and barges on the rivers. The price of shipping goods along the river skyrocketed. The US Army Corps of Engineers (USACE) began emergency dredging to deepen the river at more than a dozen key choke points, where a backup of about 2,000 barges has built up.
 

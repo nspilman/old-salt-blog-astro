@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The UK’s latest and greatest new aircraft carrier, HMS Queen Elizabeth is driven not by nuclear power but by fossil fuels. Why is that? The Save the Royal Navy blog has an interesting analysis. Here are a few of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/hmsqe.jpg)The UK’s latest and greatest new aircraft carrier, HMS *[Queen Elizabeth](https://en.wikipedia.org/wiki/HMS_Queen_Elizabeth_\(R08\))* is driven not by nuclear power but by fossil fuels. Why is that? The [Save the Royal Navy blog](http://www.savetheroyalnavy.org/the-reasons-hms-queen-elizabeth-is-not-nuclear-powered/) has an interesting analysis. Here are a few of the salient points:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/hmsqe.jpg)The UK’s latest and greatest new aircraft carrier, HMS *[Queen Elizabeth](https://en.wikipedia.org/wiki/HMS_Queen_Elizabeth_\(R08\))* is driven not by nuclear power but by fossil fuels. Why is that? The [Save the Royal Navy blog](http://www.savetheroyalnavy.org/the-reasons-hms-queen-elizabeth-is-not-nuclear-powered/) has an interesting analysis. Here are a few of the salient points:
 
 ### 1\. The Navy oiler is already there.
 

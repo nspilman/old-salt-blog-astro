@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Statue of Liberty arrived in New York harbor on the French navy transport ship Insere as 350 individual pieces, packaged in more than 200 crates."
 ---
 
-![googlesol](http://www.oldsaltblog.com/wp-content/uploads/2015/06/googlesol.jpg)Today’s “Google Doodle,” the changing graphic that appears at the top of the Google search page, is a whimsical memorial to [the arrival of the Statue of Liberty in New York](http://searchengineland.com/when-did-the-statue-of-liberty-arrive-in-new-york-harbor-google-logo-marks-its-130th-anniversary-223378). “*Google is celebrating America’s most famous gift from France today with a logo marking the Statue of Liberty’s arrival in the New York Harbor 130 years ago on June 17, 1885*.”
+![googlesol](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/googlesol.jpg)Today’s “Google Doodle,” the changing graphic that appears at the top of the Google search page, is a whimsical memorial to [the arrival of the Statue of Liberty in New York](http://searchengineland.com/when-did-the-statue-of-liberty-arrive-in-new-york-harbor-google-logo-marks-its-130th-anniversary-223378). “*Google is celebrating America’s most famous gift from France today with a logo marking the Statue of Liberty’s arrival in the New York Harbor 130 years ago on June 17, 1885*.”
 
 [Many sources](https://www.google.com/search?q=frigate&rlz=1C1CHFX_enUS477US510&oq=frigate&aqs=chrome.0.0j69i65j0j69i59j0l2.1488j0j7&sourceid=chrome&es_sm=122&ie=UTF-8#q=statue+of+liberty+june+19%2C+1885) put the arrival of the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) in New York as two days later on the June 19th. Likewise, the Google Doodle takes artistic license in showing the Statue of Liberty teetering on the deck of a tiny generic steam ship. So when and how did the Statue of Liberty arrive in New York?
 
@@ -43,6 +43,6 @@ So when did the *Insere* arrive with the crated Statue of Liberty? On the 17th 
 
 The steamer *Insere* apparently survived until 1943 when she was sunk during World War II.
 
-![inseregraphic](http://www.oldsaltblog.com/wp-content/uploads/2015/06/inseregraphic.jpg)
+![inseregraphic](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/inseregraphic.jpg)
 
 Photo: frederic.petitdieulois.perso.sfr.fr

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however. What is a Moby Dick Marathon, you might ask?  It is \" the first-ever marathon-style reading … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/moby-dick-full-3.jpg)The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/moby-dick-full-3.jpg)The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however.
 
 What is a Moby Dick Marathon, you might ask?  It is ” *the first-ever marathon-style reading in New York City of Herman Melville’s American classic, Moby-Dick, Or, the Whale. Celebrating the anniversary of the novel’s publication in the United States on November 14, 1851, the inaugural NYC marathon will span three days, three bookstores, and two boroughs, featuring over 100 readers*.”
 

@@ -11,7 +11,7 @@ tags:
   - "sperm whale"
   - "trash"
   - "whale's jaw"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/spermwhale-jaw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/spermwhale-jaw.jpg"
 author: "Rick Spilman"
 description: "A heartwarming story for a Monday.  Here is a short video of a sperm whale in the Indian Ocean that approached a group of divers, seemingly asking for help. The whale swam directly up to them, mouth agape and dragging … Continue reading &rarr;"
 ---

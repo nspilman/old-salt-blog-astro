@@ -17,12 +17,12 @@ tags:
   - "Supreme Court"
   - "white plastic pellets"
   - "X-Press Pearl"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/xpresspearl.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/xpresspearl.jpg"
 author: "Rick Spilman"
 description: "Sri Lanka’s Supreme Court has ordered the owners and operators of the container ship  X-Press Pearl to pay $1bn USD in compensation for the devastating environmental and economic damage caused when the ship caught fire and sank off Colombo in 2021. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2021/06/xpresspearl.jpg)Sri Lanka’s Supreme Court has ordered the owners and operators of the container ship  [*X-Press Pearl*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6450863/mmsi:563118200/imo:9875343/vessel:X_PRESS_PEARL) to pay $1bn USD in compensation for the devastating environmental and economic damage caused when the [ship caught fire and sank off Colombo in 2021.](https://www.oldsaltblog.com/2021/06/sri-lanka-and-the-environmental-aftermath-of-the-x-press-pearl-fire-and-sinking/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/xpresspearl.jpg)Sri Lanka’s Supreme Court has ordered the owners and operators of the container ship  [*X-Press Pearl*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6450863/mmsi:563118200/imo:9875343/vessel:X_PRESS_PEARL) to pay $1bn USD in compensation for the devastating environmental and economic damage caused when the [ship caught fire and sank off Colombo in 2021.](https://www.oldsaltblog.com/2021/06/sri-lanka-and-the-environmental-aftermath-of-the-x-press-pearl-fire-and-sinking/)
 
 The sinking has been described as the worst marine ecological disaster in Sri Lankan history. *X-Press Pearl* was loaded with 1,486 containers, containing a range of chemicals, including 25 tons of nitric acid, as well as 1,600 tonnes of low-density polyethylene pellets, commonly referred to as nurdles. 
 

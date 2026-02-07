@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The SBX-1 , the Sea Based X-Band Radar 1, looks like something out of science fiction.    It recently arrived at Vigor Shipyard on Seattle’s Harbor Island for three months of maintenance and upgrading. The SBX-1  is a huge white dome … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/xradar1.jpg)](http://www.seattlepi.com/local/gallery/Photos-Giant-sea-based-radar-arrives-in-Seattle-14864/photo-983702.php)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/xradar1.jpg)](http://www.seattlepi.com/local/gallery/Photos-Giant-sea-based-radar-arrives-in-Seattle-14864/photo-983702.php)
 
 Click thumbnail for larger images
 

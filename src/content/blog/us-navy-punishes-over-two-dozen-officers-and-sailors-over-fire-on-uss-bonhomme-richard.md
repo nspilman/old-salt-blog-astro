@@ -16,12 +16,12 @@ tags:
   - "reprimand"
   - "san diego"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "In July 2020 an explosion and fire broke out aboard the amphibious assault ship USS Bonhomme Richard dockside at the Naval Base San Diego. The fire would burn for four days, injuring 60 firefighters and ultimately resulting in the total loss … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)In July 2020 an [explosion and fire broke out](https://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/) aboard the amphibious assault ship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)) dockside at the Naval Base San Diego. The fire would burn for four days, injuring 60 firefighters and ultimately resulting in the total loss of the ship, which was towed to a scrap yard in April 2021.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)In July 2020 an [explosion and fire broke out](https://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/) aboard the amphibious assault ship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)) dockside at the Naval Base San Diego. The fire would burn for four days, injuring 60 firefighters and ultimately resulting in the total loss of the ship, which was towed to a scrap yard in April 2021.  
 
 Last Friday, the [US Navy announced punishments for more than 20 officers and enlisted personnel](https://www.nytimes.com/2022/07/18/us/navy-bonhomme-richard-fire-punishment.html) for their actions and inaction in connection to the fire. The fire itself is believed to have been started by [an act of arson](https://www.oldsaltblog.com/2021/07/navy-charges-sailor-with-arson-in-fire-that-destroyed-uss-bonhomme-richard/). Navy Seaman Apprentice Ryan Sawyer Mays was charged with arson in the disaster. He faces a hearing on Aug. 17, with his trial expected to run Sept. 19 through Sept. 30.
 

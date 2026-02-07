@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The latest news from Paul Allen’s research vessel Petrel: Wreckage from the USS Juneau (CL-52) was discovered on March 17, 2018, by the expedition crew of Research Vessel (R/V) Petrel. The Juneau was sunk by a Japanese torpedo during the Battle … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/ussjuneau.jpg)The latest news from Paul Allen’s research vessel *Petrel*:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ussjuneau.jpg)The latest news from Paul Allen’s research vessel *Petrel*:
 
 *Wreckage from the USS Juneau (CL-52) was discovered on March 17, 2018, by the expedition crew of Research Vessel (R/V) Petrel. The Juneau was sunk by a Japanese torpedo during the Battle of Guadalcanal, ultimately killing 687 men including all five of the Sullivan brothers. The Atlanta-class light cruiser was found 4,200 meters (about 2.6 miles) below the surface, resting on the floor of the South Pacific off the coast of the Solomon Islands.*
 

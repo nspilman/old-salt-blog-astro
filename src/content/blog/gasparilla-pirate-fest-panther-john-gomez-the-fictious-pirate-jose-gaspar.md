@@ -15,12 +15,12 @@ tags:
   - "pirate"
   - "Tampa"
   - "Ye Mystic Krewe of Gasparilla"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/josegasprilla.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/josegasprilla.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, a ragtag pirate band calling itself Ye Mystic Krewe of Gasparilla invaded the port of Tampa, FL, kicking off the Gasparilla Pirate Fest, notionally in honor of Jose Gaspar, a brigand reputed to be the \"Last Buccaneer.\" The festival … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/josegasprilla.jpg)Last Saturday, a ragtag pirate band calling itself [Ye Mystic Krewe of Gasparilla](https://ymkg.com/) invaded the port of Tampa, FL, kicking off the [Gasparilla Pirate Fest](http://en.wikipedia.org/wiki/Ye_Mystic_Krewe_of_Gasparilla), notionally in honor of [Jose Gaspar](http://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar), a brigand reputed to be the “Last Buccaneer.” The festival is described as “a swashbuckling good time” involving silly costumes, parade floats, and heavy drinking. The festival has been going on in Tampa almost yearly since 1904.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/josegasprilla.jpg)Last Saturday, a ragtag pirate band calling itself [Ye Mystic Krewe of Gasparilla](https://ymkg.com/) invaded the port of Tampa, FL, kicking off the [Gasparilla Pirate Fest](http://en.wikipedia.org/wiki/Ye_Mystic_Krewe_of_Gasparilla), notionally in honor of [Jose Gaspar](http://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar), a brigand reputed to be the “Last Buccaneer.” The festival is described as “a swashbuckling good time” involving silly costumes, parade floats, and heavy drinking. The festival has been going on in Tampa almost yearly since 1904.
 
 According to legend, the pirate Jose Gaspar, nicknamed Gasparilla, is described as a Spanish Admiral turned brigand said to have seized over 400 ships between 1789 and 1821. His treasure, none of which has ever been found, is said to be buried all along the Gulf Coast.
 

@@ -15,12 +15,12 @@ tags:
   - "North Pacific Ocean"
   - "Resolve Marine"
   - "salvage tug"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/morningmidas2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas2.jpg"
 author: "Rick Spilman"
 description: "The fire-damaged car carrier Morning Midas sank while under tow in the North Pacific Ocean. The ship, with 3,048 vehicles aboard, including over 700 fully electric or hybrid electric vehicles, caught fire three weeks ago on one of the decks … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/morningmidas2.jpg)The fire-damaged car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910) sank while under tow in the North Pacific Ocean. The ship, with 3,048 vehicles aboard, including over 700 fully electric or hybrid electric vehicles, caught fire three weeks ago on one of the decks carrying the electrical vehicles. Despite efforts to fight the blaze, the fire’s intensity forced all 22 crew members to abandon ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas2.jpg)The fire-damaged car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910) sank while under tow in the North Pacific Ocean. The ship, with 3,048 vehicles aboard, including over 700 fully electric or hybrid electric vehicles, caught fire three weeks ago on one of the decks carrying the electrical vehicles. Despite efforts to fight the blaze, the fire’s intensity forced all 22 crew members to abandon ship.
 
 Salvage tugs from Resolve Marine took a week to reach the vessel because of its remote location approximately 360 nautical miles southwest of the Aleutians in Alaska. The vessel was still burning when teams on the salvage tug [*Gretchen Dunlap*](https://www.tugboatinformation.com/tug.cfm?id=6868) reached it on June 9, but they believed the water integrity had been maintained. A towline was attacked on June 11, and by the time a second salvage vessel [*Garth Foss*](https://foss-maritime.com/vessel/garth-foss/) arrived on June 16, thermal scans and visual inspections showed no signs of an active fire onboard.
 

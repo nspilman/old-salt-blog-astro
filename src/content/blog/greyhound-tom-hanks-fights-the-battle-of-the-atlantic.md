@@ -11,12 +11,12 @@ tags:
   - "Greyhound"
   - "North American Society for Oceanic History"
   - "Tom Hanks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/greyhoundbanner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/greyhoundbanner.jpg"
 author: "Rick Spilman"
 description: "Greyhound, a movie that was written by and stars Tom Hanks, tells the story of a destroyer captain fighting a German U-boat wolf-pack that is attacking a convoy of Allied ships in the North Atlantic. The movie was inspired by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/greyhoundbanner.jpg)[*Greyhound*](https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?at=1000lDR&itscg=MC_20000&itsct=atvp_brand_omd&mttnagencyid=1625&mttncc=US&mttngadurl=https%3A%2F%2Ftv.apple.com%2Fus%2Fmovie%2Fgreyhound%2Fumc.cmc.o5z5ztufuu3uv8lx7m0jcega%3F&mttngmo=&mttnmyad=447832816264&mttnmysite=uqa99n2zg0&mttnpid=305109&mttnsiteid=143238&mttnsub1=b&mttnsub2=c&mttnsub3=sWMTFgX04_447832816264_uqa99n2zg0_c&mttnsubad=OUS2019857-1&mttnsubadgpname=kwd-381528321330&mttnsubadgpref=102697385215&mttnsubadref=&mttnsubcmp=10273136850&mttnsubkw=%2Bgreyhound%20%2Bmovie&mttnsubpid=g&mttnsubplmnt=), a movie that was written by and stars Tom Hanks, tells the story of a destroyer captain fighting a German U-boat wolf-pack that is attacking a convoy of Allied ships in the North Atlantic. The movie was inspired by C.S. Forester’s novel, *The Good Shepherd*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/greyhoundbanner.jpg)[*Greyhound*](https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega?at=1000lDR&itscg=MC_20000&itsct=atvp_brand_omd&mttnagencyid=1625&mttncc=US&mttngadurl=https%3A%2F%2Ftv.apple.com%2Fus%2Fmovie%2Fgreyhound%2Fumc.cmc.o5z5ztufuu3uv8lx7m0jcega%3F&mttngmo=&mttnmyad=447832816264&mttnmysite=uqa99n2zg0&mttnpid=305109&mttnsiteid=143238&mttnsub1=b&mttnsub2=c&mttnsub3=sWMTFgX04_447832816264_uqa99n2zg0_c&mttnsubad=OUS2019857-1&mttnsubadgpname=kwd-381528321330&mttnsubadgpref=102697385215&mttnsubadref=&mttnsubcmp=10273136850&mttnsubkw=%2Bgreyhound%20%2Bmovie&mttnsubpid=g&mttnsubplmnt=), a movie that was written by and stars Tom Hanks, tells the story of a destroyer captain fighting a German U-boat wolf-pack that is attacking a convoy of Allied ships in the North Atlantic. The movie was inspired by C.S. Forester’s novel, *The Good Shepherd*.
 
 This is not my review. I had planned on writing a review but so far I have been unable to see the movie, which is streaming only on Apple TV. Not for a lack of trying, I attempted to sign up for Apple TV so that I could stream it on a PC, but I gave up after about 20 minutes, which included getting several “page not found” messages when I attempted to access Apple’s online support. So rather than post my own review, I am posting two videos.
 

@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "Maritime Reporter points out the connection between the US Merchant Maritime Academy and this weekend’s tragic shooting of Congresswoman  Gabrielle Giffords and nineteen others at a supermarket in northwest Tucson, Arizona, which left six dead and Representative Giffords in critical condition with a gunshot wound to the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Arizona-Gabrielle-Giffords-.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Arizona-Gabrielle-Giffords-.jpg)
 
 Arizona Rep. Gabrielle Gifford and her husband Captain Mark Kelly
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last year, the wreck of a the clipper ship, Noonday, was located just west of San Francisco. There was no great mystery where the ship sank in 1863, as the submerged rock where she struck has been known as Noonday Rock ever since. … Continue reading &rarr;"
 ---
 
-![Noontime](http://www.oldsaltblog.com/wp-content/uploads/2015/08/noontime.jpg)
+![Noontime](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/noontime.jpg)
 
 Noontime
 

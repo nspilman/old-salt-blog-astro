@@ -11,12 +11,12 @@ tags:
   - "Maine windjammer fleet"
   - "schooner"
   - "Victory Chimes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/victory-chimes1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/victory-chimes1.jpg"
 author: "Rick Spilman"
 description: "The grand matriarch of the Maine Windjammer fleet, the schooner Victory Chimes, will soon have new owners at the helm. Captain Sam Sikkema will be taking over from Captains Kip Files and Paul DeGaeta, who for the last 29 years, have been in command … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/victory-chimes1.jpg)The grand matriarch of the Maine Windjammer fleet, the schooner [*Victory Chimes,*](http://victorychimes.com/) will soon have new owners at the helm. Captain Sam Sikkema will be taking over from Captains Kip Files and Paul DeGaeta, who for the last 29 years, have been in command of the only three-masted schooner in the Maine fleet. From a [statement by Captain Kip Files](https://mailchi.mp/gwi/victory-chimes-to-change-ownership-2780657):  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/victory-chimes1.jpg)The grand matriarch of the Maine Windjammer fleet, the schooner [*Victory Chimes,*](http://victorychimes.com/) will soon have new owners at the helm. Captain Sam Sikkema will be taking over from Captains Kip Files and Paul DeGaeta, who for the last 29 years, have been in command of the only three-masted schooner in the Maine fleet. From a [statement by Captain Kip Files](https://mailchi.mp/gwi/victory-chimes-to-change-ownership-2780657):  
 
 *After 29 years of operating the schooner Victory Chimes, Paul and I have found the right person to take the helm and become her next caretaker.*
 

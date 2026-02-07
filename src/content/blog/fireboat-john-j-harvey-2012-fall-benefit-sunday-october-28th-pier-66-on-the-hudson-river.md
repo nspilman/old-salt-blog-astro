@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This Sunday there will be a full day benefit for the historic Fireboat John J. Harvey on Pier 66 (26th and the Hudson River) in New York. It looks like lots of fun. The festivities are divided into two parts. From 1-5pm the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/bg_harvey_std.jpg)This Sunday there will be a [full day benefit](http://www.nycharities.org/events/EventLevels.aspx?ETID=5299) for the historic [Fireboat *John J. Harvey*](http://www.fireboat.org/) on Pier 66 (26th and the Hudson River) in New York. It looks like lots of fun.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/bg_harvey_std.jpg)This Sunday there will be a [full day benefit](http://www.nycharities.org/events/EventLevels.aspx?ETID=5299) for the historic [Fireboat *John J. Harvey*](http://www.fireboat.org/) on Pier 66 (26th and the Hudson River) in New York. It looks like lots of fun.
 
 The festivities are divided into two parts. From 1-5pm the focus is **Family Fun** featuring face-painting, pumpkin painting, ‘tour-the-grant’ tours, short boat-rides on the fireboat as weather allows, celebrity readings of ‘*Fireboat*’, hot dogs, soda, hamburger sliders, cole slaw, potato salad, pasta salad and on-going silent auction or raffles. Tickets are $25 for adults and $15 for children.
 

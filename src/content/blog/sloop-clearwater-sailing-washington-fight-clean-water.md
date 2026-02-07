@@ -12,12 +12,12 @@ tags:
   - "clearwater"
   - "replica Hudson River sloop"
   - "Washington D.C."
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/clearwater202.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/clearwater202.jpg"
 author: "Rick Spilman"
 description: "The sloop Clearwater has been sailing since 1969, spreading a message of caring for the environment and for restoring clean water to our rivers, streams and oceans. Now that clean water is again under attack by the new administration, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/clearwater202.jpg)The sloop [*Clearwater*](https://en.wikipedia.org/wiki/Hudson_River_Sloop_Clearwater) has been sailing since 1969, spreading a message of caring for the environment and for restoring clean water to our rivers, streams and oceans. Now that clean water is again under attack by the new administration, the [replica Hudson River sloop will be sailing to Washington DC](http://www.clearwater.org/latest-news/sail-on-washington/) with an expected arrival of June 18.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/clearwater202.jpg)The sloop [*Clearwater*](https://en.wikipedia.org/wiki/Hudson_River_Sloop_Clearwater) has been sailing since 1969, spreading a message of caring for the environment and for restoring clean water to our rivers, streams and oceans. Now that clean water is again under attack by the new administration, the [replica Hudson River sloop will be sailing to Washington DC](http://www.clearwater.org/latest-news/sail-on-washington/) with an expected arrival of June 18.  
 
 The mission of the sail is to carry a “cargo of concern” felt by New Yorkers and Americans alike for clean water and science-based federal water policy. The *Clearwater* will be joined by representatives of various environmental groups and state, county and local officials as they carry their message to the nation’s capital.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The US Coast Guard Barque Eagle,  built  in Hamburg, Germany, in 1936, arrived in Philadelphia on Friday, on the first stop of her 75th anniversary tour. The tall ship Eagle has landed _ in Philadelphia … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Eagle-1.jpg)The [US Coast Guard Barque *Eagle*](http://www.uscga.edu/display.aspx?id=2558),  built  in Hamburg, Germany, in 1936, arrived in Philadelphia on Friday, on the first stop of her 75th anniversary tour.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Eagle-1.jpg)The [US Coast Guard Barque *Eagle*](http://www.uscga.edu/display.aspx?id=2558),  built  in Hamburg, Germany, in 1936, arrived in Philadelphia on Friday, on the first stop of her 75th anniversary tour.
 
 [The tall ship Eagle has landed \_ in Philadelphia](http://www.beaumontenterprise.com/news/article/The-tall-ship-Eagle-has-landed-in-Philadelphia-1187164.php#ixzz1H2o7dgyO)  
   

@@ -12,12 +12,12 @@ tags:
   - "Gulf of Mexico"
   - "Pemex"
   - "underwater pipeline"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/eyeoffire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/eyeoffire.jpg"
 author: "Rick Spilman"
 description: "Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an \"eye of fire\" on social media. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/eyeoffire.jpg)Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an “eye of fire” on social media. The fire, near a Mexican state oil company Pemex drilling platform, burned for five hours before being fully extinguished.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/eyeoffire.jpg)Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an “eye of fire” on social media. The fire, near a Mexican state oil company Pemex drilling platform, burned for five hours before being fully extinguished.
 
 The fire began in an underwater pipeline that connects to a platform at Pemex’s flagship Ku Maloob Zaap oil development, the company’s most important, four sources told [Reuters](https://www.reuters.com/business/energy/fire-offshore-pemex-platform-gulf-mexico-under-control-2021-07-02/).
 

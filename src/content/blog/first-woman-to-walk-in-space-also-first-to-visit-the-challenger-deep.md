@@ -12,12 +12,12 @@ tags:
   - "EYOS Expeditions"
   - "Kathryn Sullivan"
   - "Victor Vescovo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/sullivanv.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/sullivanv.jpg"
 author: "Rick Spilman"
 description: "In addition to serving as a crew member on three Space Shuttle missions, Kathryn Sullivan was also the first American woman to walk in space on October 11, 1984. Now, at 68, she has become the first woman to reach … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/sullivanv.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/sullivanv.jpg)
 
 Dr Kathy Sullivan and Victor Vescovo after their dive to Challenger Deep. Photo: Enrique Alvarez
 

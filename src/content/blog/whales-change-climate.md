@@ -10,7 +10,7 @@ tags:
   - "climate"
   - "trophic cascade"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/whaleclimate1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/whaleclimate1.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating short video that discusses \"trophic cascades,\" \"poo-namis,\" ocean mixing and how whales have a positive impact on climate change.  Worth watching.  How Whales Change Climate … Continue reading &rarr;"
 ---

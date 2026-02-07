@@ -12,12 +12,12 @@ tags:
   - "Pressurized-Water Reactor"
   - "Puget Sound Naval Shipyard"
   - "USS Narwhal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/narwhal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/narwhal.jpg"
 author: "Rick Spilman"
 description: "Last October, the Puget Sound Naval Shipyard completed the year-long dismantling of the US Navy nuclear-powered attack submarine USS Narwhal (SSN-671). Commissioned in 1969, the submarine was a one-of-a-kind, an experimental design that would become one of the most successful … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/narwhal.jpg)Last October, the Puget Sound Naval Shipyard completed [the year-long dismantling](https://www.kitsapsun.com/story/news/2020/10/05/goodbye-narwhal-submarine-whose-stealth-changed-navy-dismantled/3578858001/) of the US Navy nuclear-powered attack submarine [USS *Narwhal* (SSN-671)](https://en.wikipedia.org/wiki/USS_Narwhal_\(SSN-671\)). Commissioned in 1969, the submarine was a one-of-a-kind, an experimental design that would become one of the most successful boats of her era. She was the quietest attack submarine in the U.S. fleet in the 1970s and was routinely deployed to watch Soviet submarines in the Atlantic and around Soviet-supported satellite states in the Mediterranean Sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/narwhal.jpg)Last October, the Puget Sound Naval Shipyard completed [the year-long dismantling](https://www.kitsapsun.com/story/news/2020/10/05/goodbye-narwhal-submarine-whose-stealth-changed-navy-dismantled/3578858001/) of the US Navy nuclear-powered attack submarine [USS *Narwhal* (SSN-671)](https://en.wikipedia.org/wiki/USS_Narwhal_\(SSN-671\)). Commissioned in 1969, the submarine was a one-of-a-kind, an experimental design that would become one of the most successful boats of her era. She was the quietest attack submarine in the U.S. fleet in the 1970s and was routinely deployed to watch Soviet submarines in the Atlantic and around Soviet-supported satellite states in the Mediterranean Sea.
 
 Sound is the enemy of a stealthy submarine. The technologies developed for the *Narwhal* have helped make US submarines among the quietest in the world’s navies. What made the Narwhal so quiet?
 

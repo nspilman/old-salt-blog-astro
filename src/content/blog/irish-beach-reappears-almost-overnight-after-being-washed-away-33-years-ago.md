@@ -11,12 +11,12 @@ tags:
   - "County Mayo"
   - "Dooagh Beach"
   - "Ireland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/dbeach1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/dbeach1.jpg"
 author: "Rick Spilman"
 description: "The lost beach of Achill Island has returned after being gone for 33 years. Achill Island’s Dooagh Beach was a sand-covered strand until the summer of 1984 when a series of storms washed all the sand away, leaving a bare and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/dbeach1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/dbeach1.jpg)
 
 Dooagh Beach, before and After Photo: ACHILL ISLAND TOURIST OFFICE/SEAN MOLLOY
 

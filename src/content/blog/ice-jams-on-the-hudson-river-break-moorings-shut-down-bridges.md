@@ -14,12 +14,12 @@ tags:
   - "ice"
   - "ice jams"
   - "tugboats"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/shipbridgehudsonice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/shipbridgehudsonice.jpg"
 author: "Rick Spilman"
 description: "No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore eight vessels from their moorings. Five barges, one tugboat, a \"dock system\" and a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/shipbridgehudsonice.jpg)No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore [eight vessels from their moorings](https://www.npr.org/2019/01/25/688838962/standoff-ends-between-unmanned-cruise-ship-and-railroad-bridge?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20190125&fbclid=IwAR1bfo9vNt-9hAbnWaXMmWuisQTc9kXWYCX-MKKGuO7np0JAOHkvi3bUaPs). Five barges, one tugboat, a “dock system” and a 300′ long cruise ship were set adrift in the current.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/shipbridgehudsonice.jpg)No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore [eight vessels from their moorings](https://www.npr.org/2019/01/25/688838962/standoff-ends-between-unmanned-cruise-ship-and-railroad-bridge?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20190125&fbclid=IwAR1bfo9vNt-9hAbnWaXMmWuisQTc9kXWYCX-MKKGuO7np0JAOHkvi3bUaPs). Five barges, one tugboat, a “dock system” and a 300′ long cruise ship were set adrift in the current.
 
 The cruise ship, *Captain JP III*, which had been laid up of the winter, drifted into and became jammed underneath a the Livingston Avenue Bridge, a railroad bridge used by Amtrak. A video shows that while jammed beneath the bridge trestle, the ship was nearly hit by a drifting hopper barge, which had also been broken from its moorings by drifting ice. 
 

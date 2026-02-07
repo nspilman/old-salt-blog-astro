@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "I recently learned the slungshot, not to be confused with a slingshot. The slungshot is a monkey’s fist’s nasty cousin. As most are probably aware, a monkey’s fist is a knot, shaped like a ball (or a fist), used to provide weight … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/slungshot.jpg)I recently learned the [slungshot](https://en.wikipedia.org/wiki/Slungshot), not to be confused with a slingshot. The slungshot is a monkey’s fist’s nasty cousin.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/slungshot.jpg)I recently learned the [slungshot](https://en.wikipedia.org/wiki/Slungshot), not to be confused with a slingshot. The slungshot is a monkey’s fist’s nasty cousin.
 
 As most are probably aware, a [monkey’s fist](https://www.animatedknots.com/monkeysfist/) is a knot, shaped like a ball (or a fist), used to provide weight to the end of a heaving line. Typically one end of a moderately heavy line is tied into a monkey’s fist while the other end is finished in an eye splice. The monkey fist knot is often tied around a stone or a piece of lead or iron to give it additional weight. A light heaving line is tied to the eye splice and the monkey’s fist is thrown from a ship or boat to a line handler on the dock as the ship or boat is approaching. The heaving line is then attached to a heavier hawser. 
 

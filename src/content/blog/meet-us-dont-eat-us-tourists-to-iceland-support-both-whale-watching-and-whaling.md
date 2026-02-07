@@ -13,12 +13,12 @@ tags:
   - "International Fund for Animal Welfare"
   - "whale watching"
   - "whalers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/meetuseatus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/meetuseatus.jpg"
 author: "Rick Spilman"
 description: "Paradoxically, whale watching by tourists to Iceland is booming. At the same time, the primary economic support for the hunting of whales by Icelandic whalers are also tourists to the island. Iceland is the largest whale watching destination in Europe. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/meetuseatus.jpg)Paradoxically, whale watching by tourists to Iceland is booming. At the same time, the primary economic support for the hunting of whales by Icelandic whalers are also tourists to the island.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/meetuseatus.jpg)Paradoxically, whale watching by tourists to Iceland is booming. At the same time, the primary economic support for the hunting of whales by Icelandic whalers are also tourists to the island.
 
 Iceland is the largest whale watching destination in Europe. Around 20% of all tourists who visit Iceland go whale watching, which is to say somewhere between 300,000 and 400,00 tourists yearly.
 

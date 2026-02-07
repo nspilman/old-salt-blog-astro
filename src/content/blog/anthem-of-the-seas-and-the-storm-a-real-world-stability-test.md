@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, \"No, they are not,\" but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
 ---
 
-![anthem4](http://www.oldsaltblog.com/wp-content/uploads/2016/02/anthem4.jpg)In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, “No, they are not,” but the argument continues. Recently, the *Anthem of the Seas* put the argument to the test. As ungainly, bulky and high-sided as she indeed is, she did rather well under terrible conditions. Here is an article I wrote for [gCaptain](https://gcaptain.com/anthem-of-the-seas-and-the-storm-more-seaworthy-than-she-looks/), yesterday, which I am reposting with permission.
+![anthem4](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem4.jpg)In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, “No, they are not,” but the argument continues. Recently, the *Anthem of the Seas* put the argument to the test. As ungainly, bulky and high-sided as she indeed is, she did rather well under terrible conditions. Here is an article I wrote for [gCaptain](https://gcaptain.com/anthem-of-the-seas-and-the-storm-more-seaworthy-than-she-looks/), yesterday, which I am reposting with permission.
 
 ## [Anthem of the Seas — Is She Seaworthy?](https://gcaptain.com/anthem-of-the-seas-and-the-storm-more-seaworthy-than-she-looks/)
 

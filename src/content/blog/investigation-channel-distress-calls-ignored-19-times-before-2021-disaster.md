@@ -14,12 +14,12 @@ tags:
   - "Marine Accident Investigation Branch"
   - "Maritime and Coastguard Agency"
   - "UK"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/refugeeinflatable.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/refugeeinflatable.jpg"
 author: "Rick Spilman"
 description: "A recent investigation reveals that at least 440 people in distress appear to have been abandoned in the weeks before the worst Channel disaster in 30 years. On November 23, 2021, at around 10PM an inflatable boat with over 30 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/refugeeinflatable.jpg)A recent investigation reveals that [at least 440 people in distress appear to have been abandoned](https://www.theguardian.com/world/2023/apr/29/uk-coastguard-left-channel-migrants-adrift-in-lead-up-to-mass-drowning) in the weeks before the worst Channel disaster in 30 years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/refugeeinflatable.jpg)A recent investigation reveals that [at least 440 people in distress appear to have been abandoned](https://www.theguardian.com/world/2023/apr/29/uk-coastguard-left-channel-migrants-adrift-in-lead-up-to-mass-drowning) in the weeks before the worst Channel disaster in 30 years.
 
 On November 23, 2021, at around 10PM an [inflatable boat with over 30 people aboard](https://www.theguardian.com/uk-news/2022/nov/24/dinghy-that-capsized-in-channel-killing-27-had-reached-uk-waters-finds-report), mostly Kurds from Iraq or Iran, tried to cross the Channel from France to the UK. Around midnight the boat began to deflate and sink in the middle of the Channel. [The Guardian](https://www.theguardian.com/uk-news/2022/nov/24/dinghy-that-capsized-in-channel-killing-27-had-reached-uk-waters-finds-report) reports that when the passengers repeatedly made calls to French and UK emergency services, the French told them they were in British waters while the British told them they were in French waters. 
 

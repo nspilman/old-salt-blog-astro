@@ -10,7 +10,7 @@ tags:
   - "First Ship"
   - "Maine"
   - "Pinnace Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/virginiapinnace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/virginiapinnace.jpg"
 author: "Rick Spilman"
 description: "Around 1607, colonists in the Popham Colony built the pinnace Virginia, the first English-built ship in what is now Maine and possibly in all of the English-colonized areas of North America. Now over 400 years later, a recreation of the … Continue reading &rarr;"
 ---

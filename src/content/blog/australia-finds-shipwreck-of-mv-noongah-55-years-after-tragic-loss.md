@@ -14,12 +14,12 @@ tags:
   - "New South Wales"
   - "shipweck"
   - "Smoky Cape"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/noongah.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/noongah.jpg"
 author: "Rick Spilman"
 description: "The wreckage of the MV Noongah, dubbed \"one of the nation’s worst post-war maritime disasters\" has been discovered off the coast of Australia’s New South Wales 55 years after it sank in heavy weather with the loss of 21 of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/noongah.jpg)The wreckage of the MV [*Noongah*](https://monumentaustralia.org.au/themes/disaster/maritime/display/112729-mv-noongah), dubbed “one of the nation’s worst post-war maritime disasters” has been discovered off the coast of Australia’s New South Wales 55 years after it sank in heavy weather with the loss of 21 of its crew. There were only 5 survivors. Of the 21 who died, only one body was recovered.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/noongah.jpg)The wreckage of the MV [*Noongah*](https://monumentaustralia.org.au/themes/disaster/maritime/display/112729-mv-noongah), dubbed “one of the nation’s worst post-war maritime disasters” has been discovered off the coast of Australia’s New South Wales 55 years after it sank in heavy weather with the loss of 21 of its crew. There were only 5 survivors. Of the 21 who died, only one body was recovered.
 
 The 71m (233ft) freighter was carrying a cargo of steel off Smoky Cape, New South Wales when it sank on August 25, 1969, sparking one of the biggest maritime searches in Australian history.
 

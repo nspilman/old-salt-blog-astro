@@ -11,12 +11,12 @@ tags:
   - "COVID-19"
   - "factory trawler"
   - "Seattle"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/americandyn.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/americandyn.jpg"
 author: "Rick Spilman"
 description: "The Seattle-based factory trawler, American Dynasty, cut short its fishing season off the Washington coast after most of the 126 crew tested positive for COVID-19. A statement by American Seafoods, which owns the ship, reported that a crew member tested … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/americandyn.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/americandyn.jpg)
 
 Photo: American Seafood
 

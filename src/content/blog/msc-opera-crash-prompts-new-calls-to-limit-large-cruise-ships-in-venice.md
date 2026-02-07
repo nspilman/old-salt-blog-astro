@@ -12,12 +12,12 @@ tags:
   - "MSC Divinia"
   - "MSC Opera"
   - "Venice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/veniceprotest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/veniceprotest.jpg"
 author: "Rick Spilman"
 description: "The crash of the MSC Opera into the dock and a river tour boat while docking on the Giudecca Canal on Sunday in Venice Italy, has prompted new calls for limits or an outright ban of large cruise ships in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/09/veniceprotest.jpg)The [crash of the MSC *Opera*](http://www.oldsaltblog.com/wp-admin/post.php?post=52544&action=edit) into the dock and a river tour boat while docking on the Giudecca Canal on Sunday in Venice Italy, has prompted new calls for limits or an outright ban of large cruise ships in Venice. After the crash, [Venice’s mayor Luigi Brugnaro said](https://www.cbsnews.com/news/venice-cruise-ship-crash-backlash-following-venice-dock-accident-msc-opera/), “Once again it is shown that big ships cannot cross the Giudecca Canal.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/veniceprotest.jpg)The [crash of the MSC *Opera*](http://www.oldsaltblog.com/wp-admin/post.php?post=52544&action=edit) into the dock and a river tour boat while docking on the Giudecca Canal on Sunday in Venice Italy, has prompted new calls for limits or an outright ban of large cruise ships in Venice. After the crash, [Venice’s mayor Luigi Brugnaro said](https://www.cbsnews.com/news/venice-cruise-ship-crash-backlash-following-venice-dock-accident-msc-opera/), “Once again it is shown that big ships cannot cross the Giudecca Canal.”
 
 “It worries me because it’s something that could’ve happened so many other times, and could happen again today, ” said Jane Da Mosto, an environmental scientist who heads [We Are Here Venice](https://weareherevenice.org/), which wants to ban cruise ships.
 

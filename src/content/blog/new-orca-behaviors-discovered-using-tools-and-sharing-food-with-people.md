@@ -12,12 +12,12 @@ tags:
   - "Orca Behaviors"
   - "orcas attacking sailboats"
   - "using tools"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "There is so much we do not understand about orcas, also known as killer whales. Scientists and sailors have been mystified in recent years by pods of orcas attacking sailboats near the Strait of Gibraltar and the Iberian Peninsula. Multiple … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)There is so much we do not understand about orcas, also known as killer whales. Scientists and sailors have been mystified in recent years by [pods of orcas attacking sailboats](https://www.oldsaltblog.com/2024/07/new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany/) near the Strait of Gibraltar and the Iberian Peninsula. Multiple theories have been proposed to explain the attacks that have disabled and in some cases sunk sailboats, yet there is currently no consensus to explain the behaviour.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)There is so much we do not understand about orcas, also known as killer whales. Scientists and sailors have been mystified in recent years by [pods of orcas attacking sailboats](https://www.oldsaltblog.com/2024/07/new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany/) near the Strait of Gibraltar and the Iberian Peninsula. Multiple theories have been proposed to explain the attacks that have disabled and in some cases sunk sailboats, yet there is currently no consensus to explain the behaviour.
 
 Likewise, recently, some orcas on the Northwest Pacific coast of North America have started [wearing salmon hats](https://www.oldsaltblog.com/2024/12/northwest-pacific-orcas-wearing-dead-salmon-hats-again/) again, bringing back a bizarre trend first described in the 1980s. And off South Africa, [orcas have begun to hunt and kill great white sharks](https://www.oldsaltblog.com/2024/03/solo-orca-attacks-and-kills-great-white-shark-in-under-two-minutes-off-south-africa/), eating only their livers, leaving the rest of the carcass alone.
 

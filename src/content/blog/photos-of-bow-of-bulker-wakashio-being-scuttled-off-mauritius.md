@@ -10,12 +10,12 @@ tags:
   - "Mauritius"
   - "Scuttled"
   - "Wakashio"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bulkerscuttled1.jpg"
 author: "Rick Spilman"
 description: "The government of Mauritius announced last Monday that \"the planned sinking of the stem (forward) section of the [bulk carrier Wakashio] has been completed and at around 3.30pm was no longer visible on the sea surface. While some sources referred … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bulkerscuttled1.jpg)
 
 Photo: Mauritius National Crisis Committee
 
@@ -25,10 +25,10 @@ The Capesize bulk carrier *Wakashio*, while traveling in ballast, r[an aground o
 
 The bow of the ship was taken under tow and moved away from the reef to a location in deep water where the it was scuttled.  The stern of the ship, including the deckhouse, remains lodged on the reef.  
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bulkerscuttled3.jpg)
 
 Photo: Mauritius National Crisis Committee
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bulkerscuttled2.jpg)
 
 Photo: Mauritius National Crisis Committee

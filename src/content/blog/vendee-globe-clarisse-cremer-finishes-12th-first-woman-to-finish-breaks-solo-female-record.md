@@ -10,12 +10,12 @@ tags:
   - "Clarisse Cremer"
   - "Ellen MacArthur"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/cremer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/cremer.jpg"
 author: "Rick Spilman"
 description: "Clarisse Cremer is the 12th Vendee Globe racer to cross the finish line in Les Sables d’Olonne, having completed the solo, non-stop around the world race in 87 days, 02 hours, 24 minutes, and 25 seconds. She is the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/cremer.jpg)[Clarisse Cremer](https://www.vendeeglobe.org/en/news/19732/meet-clarisse-cremer) is the 12th [Vendee Globe](https://www.vendeeglobe.org/) racer to cross the finish line in Les Sables d’Olonne, having completed the solo, non-stop around the world race in 87 days, 02 hours, 24 minutes, and 25 seconds.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/cremer.jpg)[Clarisse Cremer](https://www.vendeeglobe.org/en/news/19732/meet-clarisse-cremer) is the 12th [Vendee Globe](https://www.vendeeglobe.org/) racer to cross the finish line in Les Sables d’Olonne, having completed the solo, non-stop around the world race in 87 days, 02 hours, 24 minutes, and 25 seconds.
 
 She is the first female skipper to complete the 2020-2021 race. Her time broke [Ellen MacArthur](https://en.wikipedia.org/wiki/Ellen_MacArthur)‘s solo non-stop record for a female skipper of 94 days 4 hours, which MacArthur set when she took second in the [2000-2001 Vendée Globe](https://en.wikipedia.org/wiki/2000%E2%80%932001_Vend%C3%A9e_Globe). 
 

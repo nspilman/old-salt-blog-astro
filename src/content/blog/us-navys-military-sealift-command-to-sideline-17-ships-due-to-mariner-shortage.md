@@ -14,12 +14,12 @@ tags:
   - "Military Sealift Command"
   - "Rear Adm. Philip Sobeck"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/msclogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/msclogo.jpg"
 author: "Rick Spilman"
 description: "The Military Sealift Command (MSC) operates approximately 125 replenishment and military transport ships to support the US Navy. Currently, MSC has more ships than it has civilian mariners to sustainably operate them.  MSC’s commander confirmed Thursday that the command will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/msclogo.jpg)The [Military Sealift Command](https://www.msc.usff.navy.mil/Organization/Headquarters/#:~:text=Norfolk%2C%20Va.,ships%20daily%20around%20the%20world.) (MSC) operates approximately 125 replenishment and military transport ships to support the US Navy. Currently, MSC has more ships than it has civilian mariners to sustainably operate them.  MSC’s commander confirmed Thursday that the command will sideline 17 ships to ease the stress on civilian mariners.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/msclogo.jpg)The [Military Sealift Command](https://www.msc.usff.navy.mil/Organization/Headquarters/#:~:text=Norfolk%2C%20Va.,ships%20daily%20around%20the%20world.) (MSC) operates approximately 125 replenishment and military transport ships to support the US Navy. Currently, MSC has more ships than it has civilian mariners to sustainably operate them.  MSC’s commander confirmed Thursday that the command will sideline 17 ships to ease the stress on civilian mariners.
 
 “That number’s based on again the number of mariners that we need to get us to 95 percent \[manning\],” [Rear Adm. Philip Sobeck](https://www.msc.usff.navy.mil/Leadership/Biographies/Article/2358667/commander-military-sealift-command/) told reporters in a call Thursday morning. “It is aligning the force so that we are most ready and that we are getting after the fleet requirements.”
 

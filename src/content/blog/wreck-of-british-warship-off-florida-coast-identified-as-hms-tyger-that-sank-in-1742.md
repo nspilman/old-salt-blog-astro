@@ -16,12 +16,12 @@ tags:
   - "International Journal of Nautical Archaeology"
   - "National Park Service"
   - "Tyger"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/tygergun.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/tygergun.jpg"
 author: "Rick Spilman"
 description: "Last week, the National Park Service announced that its archeologists have identified the remains of HMS Tyger, an 18th-century British warship, within the boundaries of Dry Tortugas National Park, off the south coast of Florida. Built in 1647, the fourth-rate, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/tygergun.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/tygergun.jpg)
 
 A National Park Service diver documents one of five coral-encrusted cannons found during a recent archeological survey in Dry Tortugas National Park.  NPS Photo by Brett Seymour
 

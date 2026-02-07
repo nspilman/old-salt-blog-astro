@@ -15,12 +15,12 @@ tags:
   - "Special Boat Service"
   - "stowaways"
   - "tanker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/naveandromeda.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/naveandromeda.jpg"
 author: "Rick Spilman"
 description: "Seven people were detained after British special forces stormed the Liberian registered tanker, Nave Andromeda, that was suspected of having been hijacked off the Isle of Wight. The BBC reports that sixteen members of the Special Boat Service (SBS) ended … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/naveandromeda.jpg)Seven people were detained after British special forces stormed the Liberian registered tanker, *[Nave Andromeda](https://www.marinetraffic.com/en/ais/details/ships/shipid:755455/mmsi:636015407/imo:9580405/vessel:NAVE_ANDROMEDA)*, that was suspected of having been hijacked off the Isle of Wight.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/naveandromeda.jpg)Seven people were detained after British special forces stormed the Liberian registered tanker, *[Nave Andromeda](https://www.marinetraffic.com/en/ais/details/ships/shipid:755455/mmsi:636015407/imo:9580405/vessel:NAVE_ANDROMEDA)*, that was suspected of having been hijacked off the Isle of Wight.
 
 The [BBC](https://www.bbc.com/news/uk-england-hampshire-54687379) reports that sixteen members of the Special Boat Service (SBS) ended a 10-hour standoff which started when stowaways on board the tanker reportedly made violent threats against the crew.
 

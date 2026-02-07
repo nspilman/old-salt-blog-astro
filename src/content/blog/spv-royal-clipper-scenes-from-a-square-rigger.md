@@ -12,7 +12,7 @@ tags:
   - "Pruessen"
   - "Royal Clipper"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/04/DSC01555resized.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/04/DSC01555resized.jpg"
 author: "Rick Spilman"
 description: "I have been away for the better part of a month on a transatlantic voyage on the Royal Clipper, one of only two five-masted full-rigged sailing ships ever built. Inspired by the windjammer Pruessen of 1902, the Royal Clipper sets … Continue reading &rarr;"
 ---

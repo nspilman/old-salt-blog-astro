@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for \"cruelty and maltreatment\" during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/graf_holly_800.jpg)[Cruiser CO relieved for ‘cruelty’](http://www.navytimes.com/news/2010/01/ap_cowpens_cofired_011310/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/graf_holly_800.jpg)[Cruiser CO relieved for ‘cruelty’](http://www.navytimes.com/news/2010/01/ap_cowpens_cofired_011310/)
 
 *The commanding officer of the Yokosuka, Japan-based [cruiser USS Cowpens](http://www.cowpens.navy.mil/default.aspx) was relieved of duty Wednesday after being punished for “cruelty and maltreatment” during her time in charge, the Navy announced. In an unusual move, she is being permitted to continue on to an assignment in the Pentagon.*
 

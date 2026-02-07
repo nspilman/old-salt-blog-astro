@@ -10,12 +10,12 @@ tags:
   - "crew testing"
   - "Sailors"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
 description: "Five sailors on the aircraft carrier USS Theodore Roosevelt appear to have contracted the coronavirus for a second time and have been taken off the ship. The carrier is currently tied up in Guam after an outbreak of the virus infected … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg)Five sailors on the aircraft carrier [USS *Theodore Roosevelt*](https://en.wikipedia.org/wiki/COVID-19_pandemic_on_USS_Theodore_Roosevelt) appear to have contracted the coronavirus for a second time and have been taken off the ship. The carrier is currently tied up in Guam after an outbreak of the virus infected over 1,100 sailors or almost a quarter of the ship’s crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg)Five sailors on the aircraft carrier [USS *Theodore Roosevelt*](https://en.wikipedia.org/wiki/COVID-19_pandemic_on_USS_Theodore_Roosevelt) appear to have contracted the coronavirus for a second time and have been taken off the ship. The carrier is currently tied up in Guam after an outbreak of the virus infected over 1,100 sailors or almost a quarter of the ship’s crew.
 
 [Time](https://time.com/5837531/sailors-coronavirus-second-time/) reports that all five sailors had previously tested positive and had gone through at least two weeks of isolation. As part of the process, they all had to test negative twice in a row, with the tests separated by at least a day or two before they were allowed to return to the ship. 
 

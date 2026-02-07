@@ -11,12 +11,12 @@ tags:
   - "Continental drift"
   - "GPS"
   - "plate tectonics"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/australia-globe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/australia-globe.jpg"
 author: "Rick Spilman"
 description: "Australia is, literally, on the move.  A year ago, we posted about how the Prime Meridian, the arbitrary line in Greenwich, UK, marking 0 degrees of longitude, had to be adjusted by slightly over 100 meters after the discrepancy was … Continue reading &rarr;"
 ---
 
-![australia-globe](http://www.oldsaltblog.com/wp-content/uploads/2016/10/australia-globe.jpg)Australia is, literally, on the move.  A year ago, [we posted about how the Prime Meridian](http://www.oldsaltblog.com/2015/08/why-did-the-greenwich-meridian-shift/), the arbitrary line in Greenwich, UK, marking 0 degrees of longitude, had to be adjusted by slightly over 100 meters after the discrepancy was noted by GPS. While the position of the Prime Meridian marker is interesting and yet of no real practical consequence, on the other side of the world the maps of an entire continent are now continually in need of adjustment. Chances are that any map or chart you may have of Australia has its position at least slightly wrong.
+![australia-globe](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/australia-globe.jpg)Australia is, literally, on the move.  A year ago, [we posted about how the Prime Meridian](http://www.oldsaltblog.com/2015/08/why-did-the-greenwich-meridian-shift/), the arbitrary line in Greenwich, UK, marking 0 degrees of longitude, had to be adjusted by slightly over 100 meters after the discrepancy was noted by GPS. While the position of the Prime Meridian marker is interesting and yet of no real practical consequence, on the other side of the world the maps of an entire continent are now continually in need of adjustment. Chances are that any map or chart you may have of Australia has its position at least slightly wrong.
 
 All the world’s continent are moving due to plate tectonics, also known as continental drift. The continent also has a slight clockwise rotation. [Whereas North America drifts at around one inch per year,](http://news.nationalgeographic.com/2016/09/australia-moves-gps-coordinates-adjusted-continental-drift/) Australia is moving at the relatively breakneck speed of 2.7 inches northward per year.
 

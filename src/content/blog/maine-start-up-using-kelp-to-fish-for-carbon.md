@@ -12,12 +12,12 @@ tags:
   - "kelp"
   - "Maine"
   - "Running Tide Technologies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/kelp.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kelp.jpg"
 author: "Rick Spilman"
 description: "A start-up company in Maine is testing the feasibility of combatting climate change by growing kelp to capture carbon dioxide. Once the kelp is mature, it will sink to the bottom becoming part of the sediment and trapping the carbon … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/kelp.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kelp.jpg)
 
 Image: Bjørn Christian Tørrissen
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Twenty five years ago this week, French government agents attached limpit mines to the hull of the Greenpeace ship Rainbow Warrior, in Auckland harbor in New Zealand to stop the ship from protesting French nuclear testing in Moruroa. The exploding mines sank the Rainbow Warrior, killing Fernando Pereira, … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/rainbow-warrior-3.png)](http://www.oldsaltblog.com/wp-content/uploads/2010/07/rainbow-warrior-3.png)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/rainbow-warrior-3.png)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/rainbow-warrior-3.png)
 
 Rainbow Warrior III
 

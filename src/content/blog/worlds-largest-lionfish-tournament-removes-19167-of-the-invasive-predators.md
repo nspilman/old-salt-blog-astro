@@ -11,12 +11,12 @@ tags:
   - "Florida Fish and Wildlife Conservation Commission"
   - "lionfish"
   - "Lionfish Tournament"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/emeraldcoastopen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/emeraldcoastopen.jpg"
 author: "Rick Spilman"
 description: "For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s Emerald Coast Open, which is described as the \"world’s largest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/emeraldcoastopen.jpg)For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s [Emerald Coast Open](http://emeraldcoastopen.com/), which is described as the “world’s largest lionfish tournament,” removed 19,167 of the invasive predators.    
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/emeraldcoastopen.jpg)For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s [Emerald Coast Open](http://emeraldcoastopen.com/), which is described as the “world’s largest lionfish tournament,” removed 19,167 of the invasive predators.    
 
 Sometime in the 1990s, two different species of lionfish made it into the waters of the Atlantic off Florida. Native to the Indo-Pacific, the venomous, predatory fish spread rapidly, decimating local reef fish in the Atlantic, the Gulf of Mexico, and the Caribbean. Lacking local predators to stop its spreading, the lionfish have been described as “one of the most aggressively invasive species on the planet.”
 

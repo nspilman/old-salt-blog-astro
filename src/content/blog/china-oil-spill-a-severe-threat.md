@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Sadly the Deepwater Horizon spill in the Gulf of Mexico is not the only ongoing major oil spill. China oil spill doubles in size, is deemed ‘severe threat’ China’s largest reported oil spill more than doubled in size to 165 square miles … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/chinaspill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/chinaspill.jpg)
 
 A worker struggles to rescue a struggling colleague in the Chinese port of Dalian
 

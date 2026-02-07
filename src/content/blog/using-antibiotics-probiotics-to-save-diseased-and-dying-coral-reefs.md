@@ -16,12 +16,12 @@ tags:
   - "probiotic"
   - "SCTLD"
   - "stony coral tissue loss disease"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/coraldisease.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/coraldisease.jpg"
 author: "Rick Spilman"
 description: "When we went on a family scuba diving trip to the coral reefs of Roatan, Honduras, we took the antibiotic amoxicillin as a prophylaxis for malaria.  Scientists are now using the same antibiotic to combat stony coral tissue loss disease … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/coraldisease.jpg)When we went on a family scuba diving trip to the [coral reefs of Roatan, Honduras](https://youtu.be/PeHonAtCJaQ?si=vWKWnGNVQedGJZsn), we took the antibiotic amoxicillin as a prophylaxis for malaria.  Scientists are now using the same antibiotic to combat [stony coral tissue loss disease (SCTLD)](https://en.wikipedia.org/wiki/Stony_coral_tissue_loss_disease#:~:text=This%20is%20a%20particularly%20deadly,by%20means%20of%20water%20movement.) that has ravaged coral reefs in Florida and is rapidly spreading across reefs in the Caribbean. The disease destroys the soft tissue of at least 22 species of reef-building corals, killing them within weeks or months of becoming infected.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/coraldisease.jpg)When we went on a family scuba diving trip to the [coral reefs of Roatan, Honduras](https://youtu.be/PeHonAtCJaQ?si=vWKWnGNVQedGJZsn), we took the antibiotic amoxicillin as a prophylaxis for malaria.  Scientists are now using the same antibiotic to combat [stony coral tissue loss disease (SCTLD)](https://en.wikipedia.org/wiki/Stony_coral_tissue_loss_disease#:~:text=This%20is%20a%20particularly%20deadly,by%20means%20of%20water%20movement.) that has ravaged coral reefs in Florida and is rapidly spreading across reefs in the Caribbean. The disease destroys the soft tissue of at least 22 species of reef-building corals, killing them within weeks or months of becoming infected.
 
 [NOAA describes stony coral tissue loss disease](https://cdhc.noaa.gov/coral-disease/characterized-diseases/stony-coral-tissue-loss-disease-sctld/) (SCTLD) as a highly lethal coral disease that was first reported off the coast of Florida in 2014…The disease affects over 20 coral species and is now present on reefs in 18 countries and territories. The large geographic scale of this outbreak, high lethality of the disease lesion, and broad susceptibility among coral species make SCTLD unprecedented in its ecological impact and likely make it the most deadly coral disease outbreak in history.
 

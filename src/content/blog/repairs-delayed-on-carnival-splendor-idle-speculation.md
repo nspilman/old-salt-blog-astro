@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Carnival Cruise Line posted the following today on their website: Carnival Cruise Lines has cancelled additional departures of the Carnival Splendor including the January 16, 23, 30 and February 6 and 13, 2011 voyages to allow for additional repair time … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/carnival-splendor-fire-150x84.jpg)Carnival Cruise Line posted the following today on their [website](http://carnival-news.com/2010/12/15/carnival-cruise-lines-cancels-additional-voyages-of-carnival-splendor-as-repairs-continue/):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/carnival-splendor-fire-150x84.jpg)Carnival Cruise Line posted the following today on their [website](http://carnival-news.com/2010/12/15/carnival-cruise-lines-cancels-additional-voyages-of-carnival-splendor-as-repairs-continue/):
 
 *Carnival Cruise Lines has cancelled additional departures of the Carnival Splendor including the January 16, 23, 30 and February 6 and 13, 2011 voyages to allow for additional repair time following an engine room fire aboard the vessel in November. The ship is now scheduled to re-enter service February 20, 2011.*  
   

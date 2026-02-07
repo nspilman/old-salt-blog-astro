@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Scott Kelley is embarking on a year long voyage on the ISS, while his brother Mark on the ground, will still play an important role in the mission."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/220px-Mark_E._Kelly.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/220px-Mark_E._Kelly.jpg)
 
   
 Mark & Scott Kelley

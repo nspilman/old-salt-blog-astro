@@ -13,12 +13,12 @@ tags:
   - "Belitung Island"
   - "Belitung shipwreck"
   - "Tang Dynasty"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/tangshipwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/tangshipwreck.jpg"
 author: "Rick Spilman"
 description: "A new exhibit opens today at the Asia Society Museum in New York City, ‘Secrets of the Sea: A Tang Shipwreck and Early Trade in Asia.‘  The exhibit features a selection of 78 artifacts including ceramics, gold and silver items … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/tangshipwreck.jpg)A new exhibit opens today at the [Asia Society Museum](http://asiasociety.org/new-york/exhibitions/secrets-sea-tang-shipwreck-and-early-trade-asia) in New York City, ‘[*Secrets of the Sea: A Tang Shipwreck and Early Trade in Asia.*](http://www.marketwired.com/press-release/asia-society-museum-opens-secrets-sea-a-tang-shipwreck-early-trade-asia-2200892.htm)‘  The exhibit features a selection of 78 artifacts including ceramics, gold and silver items and bronze mirrors, from the 9th century [Belitung shipwreck](https://en.wikipedia.org/wiki/Belitung_shipwreck). On view for the first time in the United States, these objects are evidence of an active trade between between far-flung kingdoms in Asia over a millennium ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/tangshipwreck.jpg)A new exhibit opens today at the [Asia Society Museum](http://asiasociety.org/new-york/exhibitions/secrets-sea-tang-shipwreck-and-early-trade-asia) in New York City, ‘[*Secrets of the Sea: A Tang Shipwreck and Early Trade in Asia.*](http://www.marketwired.com/press-release/asia-society-museum-opens-secrets-sea-a-tang-shipwreck-early-trade-asia-2200892.htm)‘  The exhibit features a selection of 78 artifacts including ceramics, gold and silver items and bronze mirrors, from the 9th century [Belitung shipwreck](https://en.wikipedia.org/wiki/Belitung_shipwreck). On view for the first time in the United States, these objects are evidence of an active trade between between far-flung kingdoms in Asia over a millennium ago.
 
 In 1998, Indonesian fishermen diving for sea cucumbers discovered a shipwreck off Indonesia’s Belitung Island in the Java Sea. The ship was an Arabian dhow with a rich cargo of Tang dynasty ceramics, and objects of gold and silver. The ship is believed to have been on its return voyage from China, bound for what is now Iran or Iraq, when it sank around 830 CE.
 

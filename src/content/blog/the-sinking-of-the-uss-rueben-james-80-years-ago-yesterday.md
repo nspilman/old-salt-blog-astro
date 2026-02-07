@@ -11,12 +11,12 @@ tags:
   - "German submarine U-552"
   - "USS Rueben James"
   - "Woodie Guthrie"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/rjames.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/rjames.jpg"
 author: "Rick Spilman"
 description: "\"Have you heard of a ship called the good Reuben James?\" (If you do, it may be from the Woodie Guthrie song.) The destroyer USS Reuben James was sunk by a German torpedo while on convoy duty 80 years ago … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/rjames.jpg)“Have you heard of a ship called the good *Reuben James*?” (If you do, it may be from the [Woodie Guthrie](https://en.wikipedia.org/wiki/Woody_Guthrie) song.) The destroyer [USS *Reuben James*](https://en.wikipedia.org/wiki/USS_Reuben_James_\(DD-245\)) was sunk by a German torpedo while on convoy duty 80 years ago yesterday, roughly a month before the Japanese attack on Pearl Harbor and the US entry into the world war against the Axis powers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/rjames.jpg)“Have you heard of a ship called the good *Reuben James*?” (If you do, it may be from the [Woodie Guthrie](https://en.wikipedia.org/wiki/Woody_Guthrie) song.) The destroyer [USS *Reuben James*](https://en.wikipedia.org/wiki/USS_Reuben_James_\(DD-245\)) was sunk by a German torpedo while on convoy duty 80 years ago yesterday, roughly a month before the Japanese attack on Pearl Harbor and the US entry into the world war against the Axis powers. 
 
 When the war in Europe broke out in September 1939, the United States declared its neutrality while at the same time establishing combined air and ship “[Neutrality Patrols](https://en.wikipedia.org/wiki/Neutrality_Patrol).” The fact that US naval ships were escorting English ships and had orders to “shoot on sight” German submarines, meant American neutrality was honored more in the breach than observance. 
 

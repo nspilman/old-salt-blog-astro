@@ -14,12 +14,12 @@ tags:
   - "kayaking"
   - "Patagonia"
   - "Strait of Magellan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/humpbackgulp.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/humpbackgulp.jpg"
 author: "Rick Spilman"
 description: "A video of a humpback whale gulping up and spitting out a kayaker has gone viral over the last week.  Adrián Simancas was kayaking with his father, Dell Simancas, in the Strait of Magellan, off Chile’s southernmost Patagonia region, when … Continue reading &rarr;"
 ---
 
-[![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/humpbackgulp.jpg)](https://youtu.be/J32PaBbwhkU?si=_GKx3HBqciXusE5E)A [video of a humpback whale](https://www.cnn.com/2025/02/13/americas/chile-humpback-whale-kayaker-intl-latam/index.html) gulping up and spitting out a kayaker has gone viral over the last week.  Adrián Simancas was kayaking with his father, Dell Simancas, in the Strait of Magellan, off Chile’s southernmost Patagonia region, when a humpback whale suddenly surfaced, trapping the young man and his yellow kayak in its mouth for a few seconds before letting him go. 
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/humpbackgulp.jpg)](https://youtu.be/J32PaBbwhkU?si=_GKx3HBqciXusE5E)A [video of a humpback whale](https://www.cnn.com/2025/02/13/americas/chile-humpback-whale-kayaker-intl-latam/index.html) gulping up and spitting out a kayaker has gone viral over the last week.  Adrián Simancas was kayaking with his father, Dell Simancas, in the Strait of Magellan, off Chile’s southernmost Patagonia region, when a humpback whale suddenly surfaced, trapping the young man and his yellow kayak in its mouth for a few seconds before letting him go. 
 
 Dozens of media accounts reported that Adrián had been “swallowed” by the whale.  Fortunately, for all concerned, if the word “swallow” is defined as “cause or allow something to pass down the throat,” the description is impossible. Humpbacks are baleen whales that feed primarily on krill and small fish. The whale’s esophagus is only about 4″ to 5″ in diameter, far too small to swallow a person. 
 

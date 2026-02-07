@@ -11,7 +11,7 @@ tags:
   - "Anders Bringdal"
   - "River Seine"
   - "SeaBubbles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/seabubbletest1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/seabubbletest1.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the proposed testing of an amphibious electric flying car on the Hudson River, which may or may not be a good idea. On the other side of the Atlantic on the River Seine, tests are ongoing … Continue reading &rarr;"
 ---

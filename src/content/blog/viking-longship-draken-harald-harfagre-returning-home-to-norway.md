@@ -14,12 +14,12 @@ tags:
   - "Norway"
   - "Stadiongracht"
   - "Viking longship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/drakensunset.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/drakensunset.jpg"
 author: "Rick Spilman"
 description: "After more than seven years in US waters, the longship Draken Harald Hårfagre, known as the world’s largest Viking ship currently sailing, is returning home to Norway. The 115-foot-long ship left its temporary home at Mystic Seaport Museum on Sunday, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/drakensunset.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/drakensunset.jpg)
 
 Photo: https://www.drakenhh.com/
 

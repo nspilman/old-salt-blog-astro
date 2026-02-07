@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, \"The Fighting Temeraire,\"  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/5227825617_273e966207_o.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/5227825617_273e966207_o.jpg)
 
 American Racer on her way to the scrap yard Photo: daver6@sbcglobal.net
 

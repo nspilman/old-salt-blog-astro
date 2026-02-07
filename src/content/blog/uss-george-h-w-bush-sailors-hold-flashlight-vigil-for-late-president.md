@@ -11,7 +11,7 @@ tags:
   - "flashlight vigil"
   - "George H.W. Bush"
   - "USS George H.W. Bush"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ussghwbushflashlight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ussghwbushflashlight.jpg"
 author: "Rick Spilman"
 description: "A U.S. Navy video from December 4th, of USS George H.W. Bush (CVN-77) sailors holding a flashlight vigil in honor of the former president and naval aviator namesake who died on Friday. George H.W. Bush Sailors Hold Flashlight Vigil for … Continue reading &rarr;"
 ---

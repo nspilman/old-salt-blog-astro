@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The area around the South Street Seaport on the East River in lower Manhattan was particularly hard hit by the storm surge from Hurricane Sandy.  The rising water reached the first floor eaves, devastating homes and businesses. The only good news was that the seven historic vessels at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/Ambrose1.jpg)The area around the South Street Seaport on the East River in lower Manhattan was particularly hard hit by the storm surge from Hurricane Sandy.  The rising water reached the first floor eaves, devastating homes and businesses.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Ambrose1.jpg)The area around the South Street Seaport on the East River in lower Manhattan was particularly hard hit by the storm surge from Hurricane Sandy.  The rising water reached the first floor eaves, devastating homes and businesses.
 
 The only good news was that the [seven historic vessels at the South Street Seaport Museum](http://downtownmagazinenyc.com/seaport-museums-historic-ships-stay-afloat-during-hurricane-sandy/) rode out the storm without damage.  “*All vessels rode out the hurricane Sandy and the surge with very little difficulty,  thanks to days of preparation and a right on-the-money calculation about the amount of slack needed for the lines securing the Peking, the Wavertree, and the Ambrose to Pier 15 and Pier 16,*” said Susan Henshaw Jones, Ronay Menschel Director of the Museum of the City of New York and President of the South Street Seaport Museum. (Thanks to Jeff Simmons for the heads-up.)
 

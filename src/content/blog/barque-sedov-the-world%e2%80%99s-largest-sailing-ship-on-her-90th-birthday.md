@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Russian barque Sedov, the world’s largest sailing ship, is celebrating her 90th birthday in 2011. Barque Sedov under sail again … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/sedov.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/sedov.jpg)
 
 The [Russian barque *Sedov*](http://www.sts-sedov.info/eng/)*,* the world’s largest sailing ship, is celebrating her 90th birthday in 2011.
 

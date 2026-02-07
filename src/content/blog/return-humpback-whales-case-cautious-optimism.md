@@ -10,12 +10,12 @@ tags:
   - "endangered"
   - "humpback whale"
   - "Marine Mammal Protection Act"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/humpback200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/humpback200.jpg"
 author: "Rick Spilman"
 description: "Humpback whales are back, or, at the very least, there seems to be a good case for cautious optimism. In 1986, at the beginning of the moratorium on commercial whaling, the global population of humpback whales had dropped by 90% … Continue reading &rarr;"
 ---
 
-![humpback1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/humpback1.jpg)Humpback whales are back, or, at the very least, there seems to be a good case for cautious optimism. In 1986, at the beginning of the moratorium on commercial whaling, the global population of humpback whales had dropped by 90% due to whaling. North Atlantic humpback populations dropped to as low as 700 whales. Now just shy of thirty years later, humpback whales have made a dramatic recovery.
+![humpback1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/humpback1.jpg)Humpback whales are back, or, at the very least, there seems to be a good case for cautious optimism. In 1986, at the beginning of the moratorium on commercial whaling, the global population of humpback whales had dropped by 90% due to whaling. North Atlantic humpback populations dropped to as low as 700 whales. Now just shy of thirty years later, humpback whales have made a dramatic recovery.
 
 In 1970, the US government listed all humpback whales as endangered. Now, scientists have divided the world’s humpback whales into [fourteen distinct populations](http://www.noaanews.noaa.gov/stories2015/20150420-successful-conservation-efforts-recognized-in-revised-esa-humpback-whale-listing.html). Nine of these populations are no longer considered to be endangered. Humback whale communities in Central America, off northwest Africa, in the Arabian Sea and in the western north Pacific are still considered to be endangered. A population near Mexico is listed as threatened.
 

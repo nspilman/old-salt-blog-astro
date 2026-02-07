@@ -11,12 +11,12 @@ tags:
   - "HMS Vengeance"
   - "missile"
   - "Trident"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/veng1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/veng1.jpg"
 author: "Rick Spilman"
 description: "Last June, the Royal Navy submarine HMS Vengeance test fired a dummy Trident II D5 nuclear ballistic missile while cruising in the Atlantic off the coast of Florida.  The missile was supposed to fly 5,600 miles (9,012 km) to a target at sea off … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/veng1.jpg)Last June, the Royal Navy submarine [HMS *Vengeance*](https://en.wikipedia.org/wiki/HMS_Vengeance_\(S31\)) test fired a dummy [Trident II D5 nuclear ballistic missile](https://en.wikipedia.org/wiki/UGM-133_Trident_II) while cruising in the Atlantic off the coast of Florida.  The missile was supposed to fly 5,600 miles (9,012 km) to a target at sea off the west coast of Africa.  Instead, the missile veered towards the US.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/veng1.jpg)Last June, the Royal Navy submarine [HMS *Vengeance*](https://en.wikipedia.org/wiki/HMS_Vengeance_\(S31\)) test fired a dummy [Trident II D5 nuclear ballistic missile](https://en.wikipedia.org/wiki/UGM-133_Trident_II) while cruising in the Atlantic off the coast of Florida.  The missile was supposed to fly 5,600 miles (9,012 km) to a target at sea off the west coast of Africa.  Instead, the missile veered towards the US.
 
 There are no reports that the missile hit the US mainland. On the other hand, there are very few reports about the incident at all.  T[he failed test was allegedly covered up](http://www.thetimes.co.uk/edition/news/no-10-covered-up-trident-missile-fiasco-hch3shsrn) in the weeks before the British Parliament approved a £40billion Trident renewal program.
 

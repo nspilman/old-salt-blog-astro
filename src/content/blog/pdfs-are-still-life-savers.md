@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A recent Coast Guard report on boating safety noted:  \"Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,\" said Rear Adm. Kevin … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/life-jacket-kayakers-1-150x106.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/life-jacket-kayakers-1-150x106.jpg)
 
 A [recent Coast Guard report on boating safety](http://www.cnn.com/2010/US/08/03/boating.deaths/) noted:  *“Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,” said Rear Adm. Kevin Cook, the Coast Guard’s director of prevention policy. “The two most important things boaters can do to prevent the loss of life is to wear a life jacket and take a boater education course.”*  
   

@@ -12,12 +12,12 @@ tags:
   - "Dive Boat"
   - "fire"
   - "Santa Cruz Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/diveboatfire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/diveboatfire.jpg"
 author: "Rick Spilman"
 description: "A horrific fire broke on the commercial scuba diving vessel, Conception, off Santa Cruz Island in the Channel Islands of California, early on Monday morning. Thirty-four people are believed to have died in the fire. Five of six crew members … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/diveboatfire.jpg)A horrific fire broke on the commercial scuba diving vessel, [*Conception*](https://www.truthaquatics.com/conception/), off Santa Cruz Island in the Channel Islands of California, early on Monday morning. Thirty-four people are believed to have died in the fire. Five of six crew members escaped alive. So far, the Coast Guard has recovered 25 bodies from the hull of the wooden dive boat. Nine remain missing and are presumed dead. Most of the dead were asleep in a common bunk room below deck when the intense fire broke out.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/diveboatfire.jpg)A horrific fire broke on the commercial scuba diving vessel, [*Conception*](https://www.truthaquatics.com/conception/), off Santa Cruz Island in the Channel Islands of California, early on Monday morning. Thirty-four people are believed to have died in the fire. Five of six crew members escaped alive. So far, the Coast Guard has recovered 25 bodies from the hull of the wooden dive boat. Nine remain missing and are presumed dead. Most of the dead were asleep in a common bunk room below deck when the intense fire broke out.
 
 A Mayday call reporting the fire was received at 3:15 AM, Monday morning.  The fire is started on the 75′ long wooden dive boat while it was anchored about 20 yards off Platts Harbor on Santa Cruz Island, officials said. Firefighters were attempting to put out the fire when the boat sank in 60-foot waters. The dive boat was on a three-day dive excursion.
 

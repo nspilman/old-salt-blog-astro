@@ -12,12 +12,12 @@ tags:
   - "ocean sunfish"
   - "Sydney Hobart Race"
   - "Wareham"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/sunfish.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/sunfish.jpg"
 author: "Rick Spilman"
 description: "Ocean sunfish are weird. One scientist who specializes in the fish described them as \"looking like a mistake.\"  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb. They look like a flattened silver disk. In English, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/sunfish.jpg)[Ocean sunfish](https://en.wikipedia.org/wiki/Ocean_sunfish) are weird. One scientist who specializes in the fish described them as “[looking like a mistake](https://youtu.be/6jCuoohMARY).”  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/sunfish.jpg)[Ocean sunfish](https://en.wikipedia.org/wiki/Ocean_sunfish) are weird. One scientist who specializes in the fish described them as “[looking like a mistake](https://youtu.be/6jCuoohMARY).”  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb.
 
 They look like a flattened silver disk. In English, they are called sunfish because they can often be found near the surface apparently sunbathing. Their Latin name is mola, meaning millstone for their heavy disk-like shape. They are also called moon-fish for the same reason. In German, they are called Schwimmender Kopf, or “swimming head” as some think they look like a fish head with fins.
 

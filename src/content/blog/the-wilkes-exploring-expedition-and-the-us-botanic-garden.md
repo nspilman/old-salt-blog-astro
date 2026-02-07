@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The US Botanic Garden, the oldest continually operating botanic garden in the US, was founded with plants brought back from the Wilkes Expedition."
 ---
 
-![ USS Porpoise made of bark, vines and twigs from the Botanic Garden](http://www.oldsaltblog.com/wp-content/uploads/2014/12/ussporpoise.jpg)
+![ USS Porpoise made of bark, vines and twigs from the Botanic Garden](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/ussporpoise.jpg)
 
 USS Porpoise made of bark, vines and twigs from the Botanic Garden
 

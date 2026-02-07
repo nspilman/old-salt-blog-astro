@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "There seems to be a significant number of tall ships for sale these days. Not sure whether that is good or bad news. One especially notable example is the Grand Turk, now offered for sale for £2,800,000.  Thanks to Alaric for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2008/11/grandturk1.jpg)There seems to be a significant number of tall ships for sale these days. Not sure whether that is good or bad news. One especially notable example is the *[Grand Turk](http://easternyachts.com:80/grandturk/index.htm)*, now offered for sale for £2,800,000.  Thanks to Alaric for the heads up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/11/grandturk1.jpg)There seems to be a significant number of tall ships for sale these days. Not sure whether that is good or bad news. One especially notable example is the *[Grand Turk](http://easternyachts.com:80/grandturk/index.htm)*, now offered for sale for £2,800,000.  Thanks to Alaric for the heads up.
 
 “The Grand Turk is a fully-rigged ship – complete with twelve smooth-bored cannon – built in Marmaris, Turkey based on the 18th Century, British, Sixth Rate Frigate, HMS Phoenix, built in 1741. Naval Architect Ron Holland took the historical lines and created working drawings. The UK Maritime and Coastguard Agency (MCA) were involved at all stages of the build program to ensure that, on completion, she would meet the requirements of Class 3 and Class 5 passenger tickets. She was launched in August 1997. Construction is Iroko and Mahogany but, unlike her predecessor, she has twin Kelvin TAS8 (400BHP) main engines , a bow thruster and 4 AC Generators.
 

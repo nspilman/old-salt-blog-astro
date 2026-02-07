@@ -13,12 +13,12 @@ tags:
   - "US Coast Guard"
   - "USCGC Healy"
   - "Vice Commandant"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/Vice-Admiral-Kevin-E.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/Vice-Admiral-Kevin-E.jpg"
 author: "Rick Spilman"
 description: "Last week, US Coast Guard Vice Commandant Adm. Kevin Lunday spoke at the Brookings Institution and addressed the service’s enlisted force’s ongoing 10 percent manning shortage.  Entering the fiscal year, the Coast Guard was about 3,000 members short of end strength … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/Vice-Admiral-Kevin-E.jpg)Last week, US Coast Guard Vice Commandant Adm. Kevin Lunday [spoke at the Brookings Institution](https://www.brookings.edu/events/navigating-global-challenges-a-conversation-with-vice-commandant-of-the-coast-guard-admiral-lunday/) and addressed the service’s enlisted force’s ongoing 10 percent manning shortage.  Entering the fiscal year, the Coast Guard was about 3,000 members short of end strength numbers. “That’s the backbone of the Coast Guard,” Lunday said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/Vice-Admiral-Kevin-E.jpg)Last week, US Coast Guard Vice Commandant Adm. Kevin Lunday [spoke at the Brookings Institution](https://www.brookings.edu/events/navigating-global-challenges-a-conversation-with-vice-commandant-of-the-coast-guard-admiral-lunday/) and addressed the service’s enlisted force’s ongoing 10 percent manning shortage.  Entering the fiscal year, the Coast Guard was about 3,000 members short of end strength numbers. “That’s the backbone of the Coast Guard,” Lunday said.
 
 Due to the shortfall, the Coast Guard “can’t crew all our ships” and has had to “temporarily shutter some of our smaller stations,” the vice commandant said.
 

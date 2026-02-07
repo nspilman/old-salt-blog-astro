@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the \"Big U,\" as she is called, is … Continue reading &rarr;"
 ---
 
-![sunited](http://www.oldsaltblog.com/wp-content/uploads/2009/04/sunited.jpg)The [Wall Street Journal](http://online.wsj.com/article/SB125417162355547323.html) today has an article about the [SS United States Conservancy](http://ssunitedstatesconservancy.org/SSUS/blog/), a group of individuals who fervently wish to save the *[SS United States](http://en.wikipedia.org/wiki/SS_United_States)*.
+![sunited](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/04/sunited.jpg)The [Wall Street Journal](http://online.wsj.com/article/SB125417162355547323.html) today has an article about the [SS United States Conservancy](http://ssunitedstatesconservancy.org/SSUS/blog/), a group of individuals who fervently wish to save the *[SS United States](http://en.wikipedia.org/wiki/SS_United_States)*.
 
 I have the somewhat heretical view that the “Big U,” as she is called, is beyond saving.  In some respects, she was doomed from the start.   She went into service in 1952, the same year that Boeing began work on a plane that would be known as the 707, the plane that would make passenger liners obsolete. See our previous post – [Twilight of the Ocean Liners – the SS United States](http://www.oldsaltblog.com/2009/04/20/twilight-of-the-ocean-liners-the-ss-united-states/).
 

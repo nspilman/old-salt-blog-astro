@@ -14,7 +14,7 @@ tags:
   - "replica"
   - "tall ship"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/providenceleaveswick.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/providenceleaveswick.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video by Ryan Smith featuring some really breathtaking drone footage of the rebuilding and rerigging of the Tall Ship Providence. The 1976 built replica of the Continental Navy sloop of the same name, was blown … Continue reading &rarr;"
 ---

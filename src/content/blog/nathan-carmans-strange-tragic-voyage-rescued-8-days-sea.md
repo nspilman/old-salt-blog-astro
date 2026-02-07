@@ -11,12 +11,12 @@ tags:
   - "John Chakalos"
   - "Linda Carman"
   - "Nathan Carman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/chickenpox.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/chickenpox.jpg"
 author: "Rick Spilman"
 description: "On Monday, Nathan Carmen, 22, was rescued 115 nautical miles from Martha’s Vineyard in the Atlantic Ocean by the Chinese freighter Lucky Orient. He had spent eight days in a life raft after his 32′ center cockpit aluminum boat sank suddenly while … Continue reading &rarr;"
 ---
 
-![Chicken Pox](http://www.oldsaltblog.com/wp-content/uploads/2016/09/chickenpoxcrop.jpg)
+![Chicken Pox](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/chickenpoxcrop.jpg)
 
 Chicken Pox
 

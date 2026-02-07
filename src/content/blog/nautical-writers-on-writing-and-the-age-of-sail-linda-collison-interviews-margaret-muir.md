@@ -11,13 +11,13 @@ author: "Rick Spilman"
 description: "I am a big fan of both Margaret Muir and Linda Collison.  Both are marvelous writers – skilled story tellers whose writing about the Age of Sail has both an immediacy and an understated authenticity that draws the reader into … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/MargMuir2-150x150.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/MargMuir2-150x150.jpg)
 
 Margaret Muir
 
 I am a big fan of both [Margaret Muir](http://www.margaretmuirauthor.com/) and [Linda Collison](http://www.lindacollison.com/).  Both are marvelous writers – skilled story tellers whose writing about the Age of Sail has both an immediacy and an understated authenticity that draws the reader into their books.  (Perhaps not surprisingly, both have sailed as crew on square rigged ships.) If you are not familiar with Muir or Collison check out our review of Muir’s *[Floating Gold](http://www.oldsaltblog.com/2010/05/27/floating-gold-by-margaret-muir-a-review/)* and Collison’s *[Surgeon’s Mate](http://www.oldsaltblog.com/2011/05/20/surgeons-mate-by-linda-collision-a-review/)*  and *[Star Crossed.](http://www.oldsaltblog.com/2009/09/21/star-crossed-by-linda-collison-a-review/)*    
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/lindacollison.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/lindacollison.jpg)
 
 Linda Collison
 

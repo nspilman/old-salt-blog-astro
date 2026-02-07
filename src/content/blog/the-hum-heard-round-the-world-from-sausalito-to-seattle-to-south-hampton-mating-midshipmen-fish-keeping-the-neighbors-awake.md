@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "There are many hazards of the sea. One of the least dangerous, yet still highly annoying and somewhat mysterious is the loud humming sound heard coming from the sea on summer nights by residents of coastal towns, in boats or … Continue reading &rarr;"
 ---
 
-![The Noisy Plainfin Midshipman](http://www.oldsaltblog.com/wp-content/uploads/2013/10/Plainfin_Midshipman.jpg)
+![The Noisy Plainfin Midshipman](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Plainfin_Midshipman.jpg)
 
 The Noisy Plainfin Midshipman
 

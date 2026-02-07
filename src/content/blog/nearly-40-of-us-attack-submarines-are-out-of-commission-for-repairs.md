@@ -13,12 +13,12 @@ tags:
   - "naval shipyard delays"
   - "out of commission"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/ussvirginia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/ussvirginia.jpg"
 author: "Rick Spilman"
 description: "Bloomberg reports that delays at naval shipyards mean that nearly 40% of US attack submarines are out of commission for repairs, about double the rate the Navy would like, according to new data released by the service. As of this … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/ussvirginia.jpg)[Bloomberg](https://www.bloomberg.com/news/articles/2023-07-11/us-navy-attack-submarine-readiness-almost-40-out-of-commission-for-repairs) reports that delays at naval shipyards mean that nearly 40% of US attack submarines are out of commission for repairs, about double the rate the Navy would like, according to new data released by the service.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/ussvirginia.jpg)[Bloomberg](https://www.bloomberg.com/news/articles/2023-07-11/us-navy-attack-submarine-readiness-almost-40-out-of-commission-for-repairs) reports that delays at naval shipyards mean that nearly 40% of US attack submarines are out of commission for repairs, about double the rate the Navy would like, according to new data released by the service.
 
 As of this year, 18 of the US Navy’s 49 attack submarines — 37% — were out of commission, according to previously undisclosed Navy data published by the Congressional Research Service, raising concerns that this leaves the US at a critical disadvantage against China’s numerically superior fleet.
 

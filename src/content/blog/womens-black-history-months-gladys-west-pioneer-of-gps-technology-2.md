@@ -12,12 +12,12 @@ tags:
   - "Global Positioning System"
   - "GPS technology"
   - "Naval Surface Warfare Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/gladyswest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/gladyswest.jpg"
 author: "Rick Spilman"
 description: "In honor of both Women’s History Month and Black History Month, an updated repost about Gladys West. From maps to apps to chartplotters, we all rely on GPS these days, sometimes whether we realize it or not. Ethan Siegel wrote … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/gladyswest.jpg)In honor of both Women’s History Month and Black History Month, an updated repost about [Gladys West](https://en.wikipedia.org/wiki/Gladys_West).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/gladyswest.jpg)In honor of both Women’s History Month and Black History Month, an updated repost about [Gladys West](https://en.wikipedia.org/wiki/Gladys_West).
 
 From maps to apps to chartplotters, we all rely on GPS these days, sometimes whether we realize it or not. Ethan Siegel wrote in [Forbes](https://www.forbes.com/sites/startswithabang/2021/02/18/gps-only-exists-because-of-two-people-albert-einstein-and-gladys-west/?sh=2ec177005864): Unbeknownst to most people, however, the science underlying this technology was primarily developed by two people: Albert Einstein, whose theories of special and general relativity both play an important role, and [Gladys West](https://en.wikipedia.org/wiki/Gladys_West "https://en.wikipedia.org/wiki/Gladys_West"), a still-living and largely unheralded Black woman whose scientific contributions enabled us to understand geodesy and the shape of the Earth well enough to make GPS technology possible.
 

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "A quick look at two quirky structures that look like a boat and a ship left high and dry. What appears to be a modest houseboat is perched above the Purcell Room of Queen Elizabeth Hall at the Southbank Centre … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/23481877585280-10204647.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/23481877585280-10204647.jpg)
 
 Roi des Belges
 
@@ -27,7 +27,7 @@ A quick look at two quirky structures that look like a boat and a ship left high
 
 What appears to be a modest houseboat is perched above the Purcell Room of Queen Elizabeth Hall at the Southbank Centre in London. Described as an “*instant landmark that melds a boat (with room for two) with a view of the Thames*,” the art installation/boat will remain in place through the end of 2012.” [Living Architecture](http://www.living-architecture.co.uk/the-houses/aroomforlondon/overview/), the organization that oversees [the one-bedroom boat, named the *Roi des Belges*,](http://aroomforlondon.co.uk/the-boat/the-design) rents it out by the night and reports that it is fully booked for the year. The perched houseboat was designed by David Kohn Architects in collaboration with Fiona Banner.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/skypark.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/skypark.jpg)
 
 SkyPark - a cruise ship on a skyscraper
 

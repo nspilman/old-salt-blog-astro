@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On my way to an informal gathering of water-bloggers on Saturday, I passed by Captain Joseph Rose’s House at 273 Water Street in Lower Manhattan.  I wanted to stop by because one scene in my next novel, The Shantyman, is set … Continue reading &rarr;"
 ---
 
-![Captain Rose's House, Later Kit Burn's Sportsman's Hall](http://www.oldsaltblog.com/wp-content/uploads/2014/03/captrose.jpg)
+![Captain Rose's House, Later Kit Burn's Sportsman's Hall](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/captrose.jpg)
 
 Captain Rose’s House, Later Kit Burn’s Sportsman’s Hall
 

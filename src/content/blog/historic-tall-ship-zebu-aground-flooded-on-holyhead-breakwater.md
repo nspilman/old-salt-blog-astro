@@ -14,12 +14,12 @@ tags:
   - "RNLI"
   - "Wales"
   - "Zebu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/zebu.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/zebu.jpg"
 author: "Rick Spilman"
 description: "This has been a terrible few days for the historic tall ship Zebu.  On Thursday, the 100′ long brigantine, built in Sweden in 1938, encountered unspecified difficulties and had to be towed out of shipping lanes off Wales by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/zebu.jpg)This has been a terrible few days for the [historic tall ship *Zebu*](https://en.wikipedia.org/wiki/Zebu_\(ship\)).  On Thursday, the 100′ long brigantine, built in Sweden in 1938, encountered unspecified difficulties and had to be [towed out of shipping lanes](https://www.dailypost.co.uk/news/north-wales-news/historic-flagship-liverpool-tall-ship-20586016) off Wales by the Royal National Lifeboat Institution (RNLI). The ship was towed to an anchorage at [Holyhead](https://en.wikipedia.org/wiki/Holyhead).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/zebu.jpg)This has been a terrible few days for the [historic tall ship *Zebu*](https://en.wikipedia.org/wiki/Zebu_\(ship\)).  On Thursday, the 100′ long brigantine, built in Sweden in 1938, encountered unspecified difficulties and had to be [towed out of shipping lanes](https://www.dailypost.co.uk/news/north-wales-news/historic-flagship-liverpool-tall-ship-20586016) off Wales by the Royal National Lifeboat Institution (RNLI). The ship was towed to an anchorage at [Holyhead](https://en.wikipedia.org/wiki/Holyhead).
 
 On Saturday, the ship broke from its moorings and drifted onto the Holyhead New Harbour breakwater, where she became hard aground. A rescue mission was launched by HM Coastguards’ Maritime Rescue Co-ordination Centre – but was ultimately unsuccessful. The [ship heeled over as the tide fell](https://www.liverpoolecho.co.uk/news/liverpool-news/historic-albert-dock-ship-found-20610483), rolling more than 45 degrees and subsequently flooding.
 

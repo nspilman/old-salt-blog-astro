@@ -14,12 +14,12 @@ tags:
   - "Captain Amy Bauernschmidt"
   - "first woman commander"
   - "nuclear carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/captainAmyB.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/captainAmyB.jpg"
 author: "Rick Spilman"
 description: "Capt. Amy Bauernschmidt is now the commanding officer of the aircraft carrier USS Abraham Lincoln — becoming the first woman to lead a nuclear carrier in U.S. Navy history. Bauernschmidt, who previously served as the carrier’s executive officer from 2016-2019, relieved … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/captainAmyB.jpg)[Capt. Amy Bauernschmidt](https://www.surfpac.navy.mil/Leaders/Biography/Article/2395913/captain-amy-n-bauernschmidt/) is now the commanding officer of the aircraft carrier [USS Abraham Lincoln](https://en.wikipedia.org/wiki/USS_Abraham_Lincoln_\(CVN-72\)#:~:text=USS%20Abraham%20Lincoln%20\(CVN%2D72\)%20is%20the%20fifth%20Nimitz,the%20United%20States%20Pacific%20Fleet.) — becoming the first woman to lead a nuclear carrier in U.S. Navy history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/captainAmyB.jpg)[Capt. Amy Bauernschmidt](https://www.surfpac.navy.mil/Leaders/Biography/Article/2395913/captain-amy-n-bauernschmidt/) is now the commanding officer of the aircraft carrier [USS Abraham Lincoln](https://en.wikipedia.org/wiki/USS_Abraham_Lincoln_\(CVN-72\)#:~:text=USS%20Abraham%20Lincoln%20\(CVN%2D72\)%20is%20the%20fifth%20Nimitz,the%20United%20States%20Pacific%20Fleet.) — becoming the first woman to lead a nuclear carrier in U.S. Navy history.
 
 Bauernschmidt, who previously served as the carrier’s executive officer from 2016-2019, relieved Capt. Walt “Sarge” Slaughter of his duties Aug. 19 during a change of command ceremony in San Diego, as reported by the [Navy Times](https://www.navytimes.com/news/your-navy/2021/08/20/this-navy-captain-is-now-the-first-woman-commanding-a-nuclear-aircraft-carrier/). 
 

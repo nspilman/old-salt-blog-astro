@@ -14,12 +14,12 @@ tags:
   - "Putin"
   - "Scheherazade"
   - "superyacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/putinsyacht.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/putinsyacht.jpg"
 author: "Rick Spilman"
 description: "In early March we posted The Mystery of the Superyacht Scheherazade — Who is the Owner?. The 495′ long superyacht, valued at $700 million, was drydocked undergoing repairs in Marina di Carrara, a small Italian town on the Tuscan coast. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/putinsyacht.jpg)In early March we posted *[The Mystery of the Superyacht Scheherazade — Who is the Owner?](https://www.oldsaltblog.com/2022/03/the-mystery-of-the-superyacht-scheherazade-who-is-the-owner/)*. The 495′ long superyacht, valued at $700 million, was drydocked undergoing repairs in Marina di Carrara, a small Italian town on the Tuscan coast. Recently, as the yacht came off the dock and may have been making preparations to leave, it was impounded by Italian authorities.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/putinsyacht.jpg)In early March we posted *[The Mystery of the Superyacht Scheherazade — Who is the Owner?](https://www.oldsaltblog.com/2022/03/the-mystery-of-the-superyacht-scheherazade-who-is-the-owner/)*. The 495′ long superyacht, valued at $700 million, was drydocked undergoing repairs in Marina di Carrara, a small Italian town on the Tuscan coast. Recently, as the yacht came off the dock and may have been making preparations to leave, it was impounded by Italian authorities.
 
 [The Washington Post](https://www.washingtonpost.com/world/2022/05/06/yacht-putin-italy-scheherazade/) reports that in announcing its action, Italy’s Finance Ministry said the yacht’s owner had “prominent” links with Russians already under European Union sanctions. The name of the owner was not specified, and Italy said only that its government had asked the E.U. to add the person to its sanctions list.
 

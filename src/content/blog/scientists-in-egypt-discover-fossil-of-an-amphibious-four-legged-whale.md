@@ -12,12 +12,12 @@ tags:
   - "Proceedings of the Royal Society B"
   - "protocetids"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/anubiswhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/anubiswhale.jpg"
 author: "Rick Spilman"
 description: "Scientists in Egypt have announced that they have discovered the fossilized bones of a previously unknown amphibious, four-legged species of an ancestral whale. The semiaquatic whales called protocetids, existed over forty million years, during the Eocene period, according to findings … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/anubiswhale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/anubiswhale.jpg)
 
 Image: Dr. Robert W. Boessenecker
 

@@ -14,12 +14,12 @@ tags:
   - "Swedish East India Company"
   - "Swedish ship"
   - "tar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/swedishtar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/swedishtar.jpg"
 author: "Rick Spilman"
 description: "Before chemical or petroleum-based sealants, tar made from pine trees had a myriad of uses; from protecting hemp ropes, lines, and cable from rot; to waterproofing canvas; for preserving wood; to being used as an antiseptic in chronic skin conditions. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/swedishtar.jpg)Before chemical or petroleum-based sealants, tar made from pine trees had a myriad of uses; from protecting hemp ropes, lines, and cable from rot; to waterproofing canvas; for preserving wood; to being used as an antiseptic in chronic skin conditions. It was also known as Stockholm tar because a single company held a [royal monopoly](https://en.wikipedia.org/wiki/Royal_monopoly "Royal monopoly") on its export out of [Stockholm, Sweden](https://en.wikipedia.org/wiki/Stockholm,_Sweden "Stockholm, Sweden").
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/swedishtar.jpg)Before chemical or petroleum-based sealants, tar made from pine trees had a myriad of uses; from protecting hemp ropes, lines, and cable from rot; to waterproofing canvas; for preserving wood; to being used as an antiseptic in chronic skin conditions. It was also known as Stockholm tar because a single company held a [royal monopoly](https://en.wikipedia.org/wiki/Royal_monopoly "Royal monopoly") on its export out of [Stockholm, Sweden](https://en.wikipedia.org/wiki/Stockholm,_Sweden "Stockholm, Sweden").
 
 In the 17th century, the [Royal Navy bought most of its tar from Sweden](https://www.jstor.org/stable/20723001), shifting in the 18th century to importing from its North American colonies, primarily from the Carolinas. British sailors whose hands would become stained by handling tarred lines became known as “tars.” Residents of North Carolina, where tar was produced, became known as “tar heels.”
 

@@ -10,12 +10,12 @@ tags:
   - "crew changes"
   - "Hong Kong"
   - "pandemic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/hkcontainerport.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/hkcontainerport.jpg"
 author: "Rick Spilman"
 description: "As Hong Kong braces for its third wave of coronavirus infections, local authorities are cracking down on allowing crew changes on ships, except for those loading or discharging cargo in the port.  The rule change could significantly affect shipping across … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/hkcontainerport.jpg)As Hong Kong braces for its [third wave of coronavirus](https://www.scmp.com/news/hong-kong/health-environment/article/3094974/hong-kong-third-wave-city-register-more-100-new) infections, [local authorities are cracking down](http://www.hongkongmaritimehub.com/coronavirus-gets-the-better-of-hong-kongs-crew-change-efforts/) on allowing crew changes on ships, except for those loading or discharging cargo in the port.  The rule change could significantly affect shipping across the region.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/hkcontainerport.jpg)As Hong Kong braces for its [third wave of coronavirus](https://www.scmp.com/news/hong-kong/health-environment/article/3094974/hong-kong-third-wave-city-register-more-100-new) infections, [local authorities are cracking down](http://www.hongkongmaritimehub.com/coronavirus-gets-the-better-of-hong-kongs-crew-change-efforts/) on allowing crew changes on ships, except for those loading or discharging cargo in the port.  The rule change could significantly affect shipping across the region.
 
 Previously, merchant vessels could exchange crew while at a local anchorage. Recently, however, four imported cases of the virus involving seafarers were recorded in Hong Kong. Also, [six ships at anchor, with approximately 100 sailors aboard, are now under quarantine](https://www.maritimebulletin.net/2020/07/24/6-ships-seized-in-hong-kong-with-positive-test-including-4-container-ships-many-pics/) after crew tested positive for the virus.  
 

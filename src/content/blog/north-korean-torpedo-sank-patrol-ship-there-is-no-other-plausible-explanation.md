@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Now that a South Korean investigation has concluded that a North Korean torpedo sank the South Korean Corvette Cheonan killing 46 sailors, the real question becomes, how to respond? Torpedo accusation raises Korean security stakes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/cheonan.jpg)Now that a South Korean investigation has concluded that a North Korean torpedo sank the [South Korean Corvette Cheonan killing 46 sailors](http://www.oldsaltblog.com/2010/03/27/south-korean-corvette-cheonan-sinks/), the real question becomes, how to respond?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/cheonan.jpg)Now that a South Korean investigation has concluded that a North Korean torpedo sank the [South Korean Corvette Cheonan killing 46 sailors](http://www.oldsaltblog.com/2010/03/27/south-korean-corvette-cheonan-sinks/), the real question becomes, how to respond?
 
 [Torpedo accusation raises Korean security stakes](http://www.latimes.com/news/nationworld/world/la-fg-korea-ship-sink-20100520,0,228893.story)  
   

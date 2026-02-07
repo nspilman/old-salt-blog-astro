@@ -14,12 +14,12 @@ tags:
   - "Seal Life Trust"
   - "Shanghai"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/LWLGBeluga.jpg"
 author: "Rick Spilman"
 description: "Almost a year ago, two beluga whales, Little White and Little Grey, traveled 6,000 miles from an aquarium in Shanghai around the globe to Iceland to a new home in the world’s first beluga whale sanctuary. If all goes well, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg)Almost a year ago, two beluga whales, Little White and Little Grey, traveled 6,000 miles from an aquarium in Shanghai around the globe to Iceland to a new home in the [world’s first beluga whale sanctuary](https://belugasanctuary.sealifetrust.org/en/). If all goes well, the experience with these first two whales will become a model for rehoming 3,000 of belugas currently in captivity. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/LWLGBeluga.jpg)Almost a year ago, two beluga whales, Little White and Little Grey, traveled 6,000 miles from an aquarium in Shanghai around the globe to Iceland to a new home in the [world’s first beluga whale sanctuary](https://belugasanctuary.sealifetrust.org/en/). If all goes well, the experience with these first two whales will become a model for rehoming 3,000 of belugas currently in captivity. 
 
 [Little Grey and Little White](https://www.theguardian.com/environment/2019/jun/20/two-whales-flown-from-shanghai-aquarium-to-sanctuary-in-iceland), two 12-year-old female belugas, left behind their previous lives entertaining visitors at the Changfeng Ocean World and were flown across the globe in specially tailored containers.  The whales, which each weigh about 900kg and are four meters long, then were taken by truck and ferry to the sanctuary at Klettsvik Bay at Heimaey, one of the Westman Islands off the south coast of Iceland.
 

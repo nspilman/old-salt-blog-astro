@@ -12,12 +12,12 @@ tags:
   - "Boaty McBoatface"
   - "RRS Sir David Attenborough"
   - "Yellow Submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg"
 author: "Rick Spilman"
 description: "Having successfully completed sea trials, the new yellow submarine Boaty McBoatface is about to be deployed on its maiden voyage, on a research expedition to some of the the deepest, coldest waters on earth.  Boaty McBoatface is one of three autonomous underwater … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg)Having successfully completed sea trials, the new yellow submarine *Boaty McBoatface* is about to be deployed on its maiden voyage, on a research expedition to some of the the deepest, coldest waters on earth. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg)Having successfully completed sea trials, the new yellow submarine *Boaty McBoatface* is about to be deployed on its maiden voyage, on a research expedition to some of the the deepest, coldest waters on earth. 
 
 *Boaty McBoatface* is one of three autonomous underwater vehicles (AUV) developed at Britain’s National Oceanography Centre (NOC) designated as [Autosub Long Range vehicles](http://noc.ac.uk/news/noc%E2%80%99s-autosub-long-range-boaty-mcboatface). Each are able to travel thousands of kilometers on missions lasting several months at a time.  The [NOC website](http://noc.ac.uk/news/noc%E2%80%99s-autosub-long-range-boaty-mcboatface) notes: *The ability to travel under ice and reach depths of 6000 metres will enable Boaty and friends to explore 95% of the ocean. Boaty and similar autonomous vehicles will help oceanographers investigate the processes driving change in the Polar Regions, including the extent of the ice melt, and conduct a range of research in the Arctic and Antarctic oceans without the need for the constant presence of a research ship. Scientists won’t need to wait to get access to the data, since Boaty will periodically surface and transmit the data back via a radio link.*
 

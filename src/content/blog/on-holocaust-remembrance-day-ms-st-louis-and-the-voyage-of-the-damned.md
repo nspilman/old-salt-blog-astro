@@ -12,12 +12,12 @@ tags:
   - "MS St. Louis"
   - "Nazi Germany"
   - "passenger liner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/stlouis3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/stlouis3.jpg"
 author: "Rick Spilman"
 description: "On Holocaust Remembrance Day, here is an updated repost from several years ago, remembering the ill-fated voyage of the German passenger liner St. Louis in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany. The ship and its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/stlouis3.jpg)On [Holocaust Remembrance Day](https://www.ushmm.org/remember/international-holocaust-remembrance-day), here is an updated repost from several years ago, remembering the ill-fated voyage of the [German passenger liner *St. Louis*](https://en.wikipedia.org/wiki/MS_St._Louis) in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/stlouis3.jpg)On [Holocaust Remembrance Day](https://www.ushmm.org/remember/international-holocaust-remembrance-day), here is an updated repost from several years ago, remembering the ill-fated voyage of the [German passenger liner *St. Louis*](https://en.wikipedia.org/wiki/MS_St._Louis) in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany.
 
 The ship and its passengers were denied entry to Cuba, the United States, and Canada. Finally, the ship turned around and returned to Europe. Despite the US government’s refusal to accept the refugees, private Jewish aid groups in the United States did manage to place most of the refugees in Belgium, France, and Holland, to avoid returning them to Nazi Germany. Tragically, many were later captured when the Nazis invaded. Two-hundred-and-fifty-four of the refugees are believed to have died in the German death camps.
 

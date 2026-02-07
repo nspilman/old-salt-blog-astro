@@ -12,7 +12,7 @@ tags:
   - "Götheborg"
   - "Helsingborg"
   - "Swedish East Indiaman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/asialeg1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/asialeg1.jpg"
 author: "Rick Spilman"
 description: "Last October, we posted about the Swedish East Indiaman Götheborg Asia Expedition, a voyage intended to promote and open new trade opportunities for Swedish and Asian companies. The expedition has now begun. Here is a short video of the first … Continue reading &rarr;"
 ---

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "There was an amusing bit of bantering and ballyhooing about ship jargon in the New York Times yesterday.   In an article about the remains of ship found in the excavation near the new World Trade Center (see our previous posts here) … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/niagara-pg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/niagara-pg.jpg)
 
 The Brig not the Brigantine Niagara
 

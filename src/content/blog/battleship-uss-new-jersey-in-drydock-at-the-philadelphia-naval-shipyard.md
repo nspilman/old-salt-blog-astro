@@ -14,7 +14,7 @@ tags:
   - "Iowa Class Battleship"
   - "Philadelphia Naval Shipyard"
   - "USS New Jersey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/usssnewjersey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/usssnewjersey.jpg"
 author: "Rick Spilman"
 description: "A short video of the Iowa-class battleship USS New Jersey on the blocks in drydock at the Philadelphia Naval Shipyard.  As noted by the New York Times, no other U.S. battleship served in more military campaigns. Christened on the first … Continue reading &rarr;"
 ---

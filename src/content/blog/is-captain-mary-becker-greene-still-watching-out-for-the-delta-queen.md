@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Some say that Captain Mary Becker Greene is still watching out for riverboat Delta Queen."
 ---
 
-![Captain Mary B. Greene and her husband Captain Gordon Greene ](http://www.oldsaltblog.com/wp-content/uploads/2015/03/marygreen2.jpg)
+![Captain Mary B. Greene and her husband Captain Gordon Greene ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/marygreen2.jpg)
 
 Captain Mary B. Greene and her husband Captain Gordon Greene
 

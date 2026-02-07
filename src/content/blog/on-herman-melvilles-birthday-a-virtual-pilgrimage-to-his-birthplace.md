@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Herman Melville was born on this day, August 1, in 1819, in a boarding house on the site of 6 Pearl Street, in the Financial District of lower Manhattan in New York City.  I invite you to join me in … Continue reading &rarr;"
 ---
 
-![Meliville Memorial, 6 Pearl Street, Photo: Wally Gobetz](http://www.oldsaltblog.com/wp-content/uploads/2013/08/melvillemem.jpg)
+![Meliville Memorial, 6 Pearl Street, Photo: Wally Gobetz](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/melvillemem.jpg)
 
 Meliville Memorial, 6 Pearl Street, Photo: Wally Gobetz
 
@@ -24,7 +24,7 @@ The memorial is easy to miss, particularly on a busy Manhattan morning when the 
 
 But, before you find yourself growing “grim about the mouth” or sinking into “a damp, drizzly November of \[the\] soul,” turn around.
 
-![starbucks1](http://www.oldsaltblog.com/wp-content/uploads/2013/08/starbucks1.jpg)
+![starbucks1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/starbucks1.jpg)
 
 Coffee House across the street from Melville’s birthplace
 

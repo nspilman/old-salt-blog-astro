@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "How did a crew of highly skilled professionals, sailing the $6 million Team Vestas Wind succeed in hitting the Cargados Carajos shoals at 16 knots?"
 ---
 
-![Photo © NCG Operations Room – MRCC Mauritius](http://www.oldsaltblog.com/wp-content/uploads/2015/03/vestaswindreef.jpg)
+![Photo © NCG Operations Room – MRCC Mauritius](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/vestaswindreef.jpg)
 
 Photo © NCG Operations Room – MRCC Mauritius
 

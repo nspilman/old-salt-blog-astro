@@ -13,12 +13,12 @@ tags:
   - "US Navy submarine"
   - "USS Grayback"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/graybill.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/graybill.jpg"
 author: "Rick Spilman"
 description: "The submarine USS Grayback, one of the most successful US Navy submarines in World War II, has been located in 1,400 feet of water off Okinawa. The submarine was sunk in February 1944, on her tenth war patrol after sinking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/graybill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/graybill.jpg)
 
 Imaged: Lost 52 Project
 

@@ -13,7 +13,7 @@ tags:
   - "1937"
   - "manhattan"
   - "waterfront"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/manhattan1937.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/manhattan1937.jpg"
 author: "Rick Spilman"
 description: "Last week, we posted a video promoting the Port of New York and New Jersey made in the 1950s. Here is a similar if very different video made by RKO focussing on the Manhattan waterfront around 1937, at the height … Continue reading &rarr;"
 ---

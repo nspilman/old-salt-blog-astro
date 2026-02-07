@@ -15,12 +15,12 @@ tags:
   - "plesiosaur"
   - "Stronsay Beast"
   - "Zuiyō Maru"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/baskingsharkdecomp.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/baskingsharkdecomp.jpg"
 author: "Rick Spilman"
 description: "On January 5th, Stephen Davies was out on his daily run at New Brighton Beach near Liverpool, UK when he came across what appeared to be the carcass of a sea monster that had washed ashore.   He said: \"I was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/baskingsharkdecomp.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/baskingsharkdecomp.jpg)
 
 Photo: Stephan Davies
 

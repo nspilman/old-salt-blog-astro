@@ -14,12 +14,12 @@ tags:
   - "National Maritime Day"
   - "SS Great Western"
   - "SS Savannah"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/sssavannah.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/sssavannah.jpg"
 author: "Rick Spilman"
 description: "An updated repost on National Maritime Day. In 1933, the US Congress created National Maritime Day to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/sssavannah.jpg)An updated repost on [National Maritime Day](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/19/a-proclamation-on-national-maritime-day-2023/). In 1933, the US Congress created [National Maritime Day](https://en.wikipedia.org/wiki/United_States_National_Maritime_Day) to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the day that the auxiliary packet ship [*Savannah*](https://en.wikipedia.org/wiki/SS_Savannah) sailed from its namesake city in 1819. The *Savannah* is credited as the first steamship to cross the Atlantic Ocean.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/sssavannah.jpg)An updated repost on [National Maritime Day](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/05/19/a-proclamation-on-national-maritime-day-2023/). In 1933, the US Congress created [National Maritime Day](https://en.wikipedia.org/wiki/United_States_National_Maritime_Day) to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the day that the auxiliary packet ship [*Savannah*](https://en.wikipedia.org/wiki/SS_Savannah) sailed from its namesake city in 1819. The *Savannah* is credited as the first steamship to cross the Atlantic Ocean.  
 
 Bragging rights notwithstanding, if one is to be honest about the history, *Savannah* was neither a proper steamship nor did she actually cross the Atlantic primarily under steam.
 

@@ -12,7 +12,7 @@ tags:
   - "Oosterschelde"
   - "three-masted"
   - "top-sail schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/Oosterschelde.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/Oosterschelde.jpg"
 author: "Rick Spilman"
 description: "A beautifully shot video of a beautiful ship, the three-masted top-sail schooner Oosterschelde. The schooner with a sparred length of 164′ is described as \"the last remaining representative of the large fleet of schooners that sailed under the Dutch flag … Continue reading &rarr;"
 ---

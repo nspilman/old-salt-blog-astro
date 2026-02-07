@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Leonard Glenn Francis, known is military circles as \"Fat Leonard,\" pleaded guilty to bribery and conspiracy charges in federal court Thursday."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/11/fatleonard.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/fatleonard.jpg)
 
 . ………………………………….  “Fat Leonard” Glen Francis
 

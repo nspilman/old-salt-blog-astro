@@ -14,12 +14,12 @@ tags:
   - "Oak Bluffs"
   - "police chief"
   - "Steven Spielberg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/searlejaws.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/searlejaws.jpg"
 author: "Rick Spilman"
 description: "In 1975, 9-year-old Jonathan Searle appeared in Steven Spielberg’s blockbuster movie \"Jaws.\" In the movie, Searle and his real-life brother, Steven, memorably played two pranksters who caused mass panic on the beach after swimming into the ocean with a cardboard fin. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/searlejaws.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/searlejaws.jpg)
 
 Jonathan Searle, 1975 & today. Images: screen capture & Jeanna Shepard
 

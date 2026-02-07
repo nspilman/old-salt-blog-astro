@@ -14,12 +14,12 @@ tags:
   - "Indigenous Defense Submarine"
   - "USS Cutlass"
   - "USS Tusk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/seadragon200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/seadragon200.jpg"
 author: "Rick Spilman"
 description: "Taiwan is now operating the two oldest submarines in service in the world, the 72 year old SS-791 Hai Shih, ex-USS Cutlass, and the 71 year old SS-792 Hai Pao, ex USS Tusk. The Taiwanese government has announced that the Hai … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/seadragon2.jpg)Taiwan is now operating the two oldest submarines in service in the world, the 72 year old SS-791 [*Hai Shih*](http://nationalinterest.org/blog/the-buzz/taiwans-ancient-submarine-will-reach-astounding-80-years-19150), ex-*[USS](https://en.wikipedia.org/wiki/USS_Cutlass_\(SS-478\)) [Cutlass,](https://en.wikipedia.org/wiki/USS_Cutlass_\(SS-478\))* and the 71 year old SS-792 *Hai Pao*, ex [USS *Tusk*](https://en.wikipedia.org/wiki/USS_Tusk_\(SS-426\)). The Taiwanese government has announced that the *Hai Shih* is scheduled to be refit to allow the ship to continue sailing until 2026, at which point the submarine will be a remarkable [80 years old](http://nationalinterest.org/blog/the-buzz/taiwans-ancient-submarine-will-reach-astounding-80-years-19150).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/seadragon2.jpg)Taiwan is now operating the two oldest submarines in service in the world, the 72 year old SS-791 [*Hai Shih*](http://nationalinterest.org/blog/the-buzz/taiwans-ancient-submarine-will-reach-astounding-80-years-19150), ex-*[USS](https://en.wikipedia.org/wiki/USS_Cutlass_\(SS-478\)) [Cutlass,](https://en.wikipedia.org/wiki/USS_Cutlass_\(SS-478\))* and the 71 year old SS-792 *Hai Pao*, ex [USS *Tusk*](https://en.wikipedia.org/wiki/USS_Tusk_\(SS-426\)). The Taiwanese government has announced that the *Hai Shih* is scheduled to be refit to allow the ship to continue sailing until 2026, at which point the submarine will be a remarkable [80 years old](http://nationalinterest.org/blog/the-buzz/taiwans-ancient-submarine-will-reach-astounding-80-years-19150).
 
 The two [Guppy-class submarines](https://en.wikipedia.org/wiki/Greater_Underwater_Propulsion_Power_Program) were transferred from the US Navy to the Taiwanese in 1973 with sealed torpedo tubes. It is reported that the tubes were restored in 1976 and that modern torpedoes were purchased through Italy and other sources. The submarines have been used for training purposes and it is unclear whether or not they could be deployed in combat.
 

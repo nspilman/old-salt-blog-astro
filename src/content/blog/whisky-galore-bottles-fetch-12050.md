@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Two bottles of whisky salvaged from the wreck of the cargo ship SS Politician have been sold for £12,050 after an online auction.   The wreck inspired the novel \"Whisky Galore\" and the movie of the same name. Whisky Galore bottles … Continue reading &rarr;"
 ---
 
-![whiskytwo](http://www.oldsaltblog.com/wp-content/uploads/2013/05/whiskytwo.jpg)Two bottles of whisky salvaged from the wreck of the cargo ship [*SS Politician*](http://en.wikipedia.org/wiki/SS_Politician) have been sold for £12,050 after an online auction.   The wreck inspired the novel “[*Whisky Galore*](http://www.barnesandnoble.com/w/whisky-galore-compton-mackenzie/1007439510?ean=9781780270920)” and the [movie](http://en.wikipedia.org/wiki/Whisky_Galore!_\(film\)) of the same name.
+![whiskytwo](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/whiskytwo.jpg)Two bottles of whisky salvaged from the wreck of the cargo ship [*SS Politician*](http://en.wikipedia.org/wiki/SS_Politician) have been sold for £12,050 after an online auction.   The wreck inspired the novel “[*Whisky Galore*](http://www.barnesandnoble.com/w/whisky-galore-compton-mackenzie/1007439510?ean=9781780270920)” and the [movie](http://en.wikipedia.org/wiki/Whisky_Galore!_\(film\)) of the same name.
 
 [Whisky Galore bottles fetch £12,050](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-22428609#.UYldQamJ-24.email)
 

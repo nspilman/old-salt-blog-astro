@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "For those in the UK, the Yesterday Channel is beginning a new documentary series, The Channel Islands at War,  next week  on Monday 28th, Tuesday 29th and Wednesday 30th of June. The Channel Islands at War … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/14579.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/14579.jpg)
 
 For those in the UK, the [Yesterday Channel](http://uktv.co.uk/yesterday/item/aid/636537) is beginning a new documentary series, [The Channel Islands at War](http://uktv.co.uk/yesterday/item/aid/636537),  next week  on Monday 28th, Tuesday 29th and Wednesday 30th of June.
 

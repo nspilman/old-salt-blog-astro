@@ -12,12 +12,12 @@ tags:
   - "Maxi Comanche"
   - "One Hundred Sovereign Cup"
   - "Schooner America"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/americaschooner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/americaschooner.jpg"
 author: "Rick Spilman"
 description: "Shortly after winning the Sydney Hobart Race for the third time, the maxi-yacht Comanche has been sold by its current owners, Jim Cooney and his wife Samantha Grant, to Russian interests.  Perhaps, oddly enough, the transaction brought to mind the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/americaschooner.jpg)Shortly after winning the Sydney Hobart Race for the third time, the [maxi-yacht *Comanche* has been sold](https://www.sailingscuttlebutt.com/2019/12/31/comanche-sold-after-sydney-hobart-win/) by its current owners, Jim Cooney and his wife Samantha Grant, to Russian interests.  Perhaps, oddly enough, the transaction brought to mind the yacht [*America*](https://en.wikipedia.org/wiki/America_\(yacht\)) of 1851.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/americaschooner.jpg)Shortly after winning the Sydney Hobart Race for the third time, the [maxi-yacht *Comanche* has been sold](https://www.sailingscuttlebutt.com/2019/12/31/comanche-sold-after-sydney-hobart-win/) by its current owners, Jim Cooney and his wife Samantha Grant, to Russian interests.  Perhaps, oddly enough, the transaction brought to mind the yacht [*America*](https://en.wikipedia.org/wiki/America_\(yacht\)) of 1851.
 
 International yacht racing has traditionally been a sport for the rich. The cliche that a yacht is a hole in the water into which the owner pours money, is often repeated because it is, more often than not, highly accurate.
 

@@ -13,12 +13,12 @@ tags:
   - "SMS Scharnhorst"
   - "Vice-Admiral Maximilian Graf von Spee"
   - "Vice-Admiral Sir Frederick Doveton Sturdee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/hmsinvincible.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/hmsinvincible.jpg"
 author: "Rick Spilman"
 description: "Last week, marine archeologists announced finding the wreckage of the German battlecruiser SMS Scharnhorst, off the Falkland Islands. The Scharnhorst, along with most of the German East Asia Squadron, was sunk by the Royal Navy 105 years ago on this day, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/hmsinvincible.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/hmsinvincible.jpg)
 
 HMS Invincible
 

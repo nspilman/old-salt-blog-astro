@@ -13,12 +13,12 @@ tags:
   - "sleep deprivation"
   - "training"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg"
 author: "Rick Spilman"
 description: "Two high tech guided missile destroyers charged with protecting the fleet from incoming missiles somehow failed to avoid collision with two slow-speed commercial vessels. Tragically, seventeen sailors died in the collisions. Some immediately blamed cyber-hacking, although a Navy investigation has turned … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg)Two high tech guided missile destroyers charged with protecting the fleet from incoming missiles somehow failed to avoid collision with two slow-speed commercial vessels. Tragically, seventeen sailors died in the collisions. Some immediately blamed cyber-hacking, although [a Navy investigation has turned up zero evidence](https://news.usni.org/2017/08/25/navy-orion-hammer-investigation-uss-john-mccain-collision-turned-no-evidence-cyber-attack?utm_source=USNI+News&utm_campaign=947bf2ae36-USNI_NEWS_DAILY&utm_medium=email&utm_term=0_0dd4a1450b-947bf2ae36-231629009&ct=t\(USNI_NEWS_DAILY\)&mc_cid=947bf2ae36&mc_eid=6b13337ad4) to support the claim.  Now, the focus is on more prosaic and avoidable causes — inadequate training, sleep deprivation, and poor ship management. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg)Two high tech guided missile destroyers charged with protecting the fleet from incoming missiles somehow failed to avoid collision with two slow-speed commercial vessels. Tragically, seventeen sailors died in the collisions. Some immediately blamed cyber-hacking, although [a Navy investigation has turned up zero evidence](https://news.usni.org/2017/08/25/navy-orion-hammer-investigation-uss-john-mccain-collision-turned-no-evidence-cyber-attack?utm_source=USNI+News&utm_campaign=947bf2ae36-USNI_NEWS_DAILY&utm_medium=email&utm_term=0_0dd4a1450b-947bf2ae36-231629009&ct=t\(USNI_NEWS_DAILY\)&mc_cid=947bf2ae36&mc_eid=6b13337ad4) to support the claim.  Now, the focus is on more prosaic and avoidable causes — inadequate training, sleep deprivation, and poor ship management. 
 
 The *Navy Times* put it simply — “[Maybe today’s Navy is just not very good at driving ships](http://www.navytimes.com/news/your-navy/2017/08/27/navy-swos-a-culture-in-crisis/).”  They write: “*The problem is years in the making. Now, the current generation of officers rising into command-level billets lacks the skills, training, education, and experience needed to operate effectively and safely at sea, according to current and former officers interviewed by Navy Times*.” 
 

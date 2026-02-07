@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "John Fitzhugh Millar is a historian, author, tall ship captain and the force behind the construction of the replica HMS Rose.  Here are his reminiscences of the HMS Bounty.  Reposted with permission of the author. BOUNTY Reminiscences by John Fitzhugh … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/bountyflorida.jpg)John Fitzhugh Millar](http://www.amazon.com/John-Fitzhugh-Millar/e/B001HP4ZTO) is a historian, author, tall ship captain and the force behind the construction of the replica HMS *Rose*.  Here are his reminiscences of the HMS *Bounty.*  Reposted with permission of the author.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/bountyflorida.jpg)John Fitzhugh Millar](http://www.amazon.com/John-Fitzhugh-Millar/e/B001HP4ZTO) is a historian, author, tall ship captain and the force behind the construction of the replica HMS *Rose*.  Here are his reminiscences of the HMS *Bounty.*  Reposted with permission of the author.
 
 **BOUNTY Reminiscences by John Fitzhugh Millar**
 

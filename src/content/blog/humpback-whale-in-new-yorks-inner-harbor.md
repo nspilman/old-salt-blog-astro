@@ -11,7 +11,7 @@ tags:
   - "humpback whale"
   - "inner harbor"
   - "new york harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/nychumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/nychumpback.jpg"
 author: "Rick Spilman"
 description: "Yesterday afternoon saw unusual traffic on the Hudson River in New York’s inner harbor.  A humpback whale was seen swimming in the Hudson, off Pier 84, on Monday afternoon. The whale is no stranger to New York waters. Gotham Whale‘s … Continue reading &rarr;"
 ---

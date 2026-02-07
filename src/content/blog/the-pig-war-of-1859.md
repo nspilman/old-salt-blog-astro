@@ -13,12 +13,12 @@ tags:
   - "Pacific Northwest"
   - "Pig War"
   - "Rear Admiral Robert L. Baynes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/pigwar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/pigwar.jpg"
 author: "Rick Spilman"
 description: "If you are fond of obscure and slightly absurd history, the Pig War of 1859 is the war for you. It involved a territorial dispute between the United States and Great Britain over the San Juan Islands of the Pacific … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/pigwar.jpg)If you are fond of obscure and slightly absurd history, the [Pig War of 1859](https://en.wikipedia.org/wiki/Pig_War_\(1859\)) is the war for you. It involved a territorial dispute between the United States and Great Britain over the San Juan Islands of the Pacific Northwest. On the American side, 461 soldiers armed with 14 cannons on San Juan Island faced over 2,140 British sailors, soldiers and marines on five British warships mounting 70 guns. Famous or soon-to-be-famous army officers, naval captains, an admiral, and even the German Emperor would play a role in the conflict which lasted over 12 years. When it was all finally over, the only casualty was a pig.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/pigwar.jpg)If you are fond of obscure and slightly absurd history, the [Pig War of 1859](https://en.wikipedia.org/wiki/Pig_War_\(1859\)) is the war for you. It involved a territorial dispute between the United States and Great Britain over the San Juan Islands of the Pacific Northwest. On the American side, 461 soldiers armed with 14 cannons on San Juan Island faced over 2,140 British sailors, soldiers and marines on five British warships mounting 70 guns. Famous or soon-to-be-famous army officers, naval captains, an admiral, and even the German Emperor would play a role in the conflict which lasted over 12 years. When it was all finally over, the only casualty was a pig.
 
 A treaty signed in 1818 between Great Britain and the United States provided for the joint occupation of the “Oregon Country,” a loosely defined region that included what is now Oregon, Washington State, and much of British Columbia.
 

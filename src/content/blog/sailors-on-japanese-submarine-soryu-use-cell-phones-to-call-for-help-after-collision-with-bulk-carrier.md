@@ -15,12 +15,12 @@ tags:
   - "Maritime Self-Defense Force"
   - "MV Ocean Artemis"
   - "Soryu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/japnessubdamage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/japnessubdamage.jpg"
 author: "Rick Spilman"
 description: "Sailors on the Japanese submarine Soryu had to use their cell phones to call for help after the sub surfaced beneath a Chinese bulk carrier and damaged its radio mast, disabling its communications. Three of the submarine’s crew sustained minor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/japnessubdamage.jpg)Sailors on the Japanese submarine [*Soryu*](https://en.wikipedia.org/wiki/JS_S%C5%8Dry%C5%AB_\(SS-501\)) had to use their cell phones to call for help after the sub surfaced beneath a Chinese bulk carrier and damaged its radio mast, disabling its communications. Three of the submarine’s crew sustained minor injuries in the crash, which occurred on Monday, government officials said. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/japnessubdamage.jpg)Sailors on the Japanese submarine [*Soryu*](https://en.wikipedia.org/wiki/JS_S%C5%8Dry%C5%AB_\(SS-501\)) had to use their cell phones to call for help after the sub surfaced beneath a Chinese bulk carrier and damaged its radio mast, disabling its communications. Three of the submarine’s crew sustained minor injuries in the crash, which occurred on Monday, government officials said. 
 
 From photos provided by Japan’s Maritime Self-Defense Force, the vessel also suffered damage to its diving planes. The bulk carrier, identified as the Hong Kong-registered 93,000 dwt [*MV Ocean Artemis*](https://www.vesselfinder.com/vessels/OCEAN-ARTEMIS-IMO-9534987-MMSI-477814500), was not damaged. Crew on the bulker are reporting not to have felt the impact of the collision.
 

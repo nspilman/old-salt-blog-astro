@@ -15,12 +15,12 @@ tags:
   - "Falklands Maritime Heritage Trust"
   - "Sir Ernest Shackleton"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/endurance.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/endurance.jpg"
 author: "Rick Spilman"
 description: "Sir Ernest Shackleton died 100 years ago yesterday, on January 5, 1922, of a heart attack on South Georgia on an expedition to map the still uncharted coastal regions of Antarctica. He was only 47 when he died. Now, two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/endurance.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/endurance.jpg)
 
 Endurance trapped in the ice.
 

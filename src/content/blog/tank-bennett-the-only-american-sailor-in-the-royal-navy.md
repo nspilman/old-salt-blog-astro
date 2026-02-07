@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Due to love and an unexpected family history, Tank Bennett is said to be the only American sailor in the Royal Navy."
 ---
 
-![Tank Bennett](http://www.oldsaltblog.com/wp-content/uploads/2014/09/tankB.jpg)
+![Tank Bennett](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/tankB.jpg)
 
 Tank Bennett
 

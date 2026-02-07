@@ -10,12 +10,12 @@ tags:
   - "marlinspike"
   - "oyster"
   - "Rappahannock"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/oysterspike.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/oysterspike.jpg"
 author: "Rick Spilman"
 description: "In the past year and a half, I have spent far more time in a boatyard in Deltaville, VA on the Rappahannock River than I would have imagined or intended. While I have not necessarily had great luck with repairs … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/oysterspike.jpg)In the past year and a half, I have spent far more time in a boatyard in Deltaville, VA on the Rappahannock River than I would have imagined or intended. While I have not necessarily had great luck with repairs in the boatyard along the Rappahannock, I will say that I do love [Rappahannock oysters](http://www.oysterguide.com/maps/chesapeake/rappahannock-river/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/oysterspike.jpg)In the past year and a half, I have spent far more time in a boatyard in Deltaville, VA on the Rappahannock River than I would have imagined or intended. While I have not necessarily had great luck with repairs in the boatyard along the Rappahannock, I will say that I do love [Rappahannock oysters](http://www.oysterguide.com/maps/chesapeake/rappahannock-river/).
 
 I am now in Deltaville, trying to get my boat ready to sail North. After sweltering in over 90 degree heat yesterday; cleaning, working on, and loading the boat; I stopped by the Deltaville Oyster Roast sponsored by the [local volunteer fire department](https://www.facebook.com/Deltaville-Fire-Department-LMVFD-501093303281479/). The roast was in a large open field behind the firehouse. At a wooden pavilion, which provided some shade from the still hot sun, hundreds of folks sat at picnic benches and ate oysters, lots and lots of oysters. The oysters were fried, roasted, steamed, or raw. Immediately behind the pavilion, men worked over open fires, either raking oysters in their shells on  grates over open fires, or spreading out the oysters on iron plates over fires which they covered with wet burlap to steam them.
 

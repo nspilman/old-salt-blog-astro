@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Researchers have identified a 2 million square miles continent hidden beneath the Pacific Ocean. They have named it Zealandia. The highest peaks of the continent which rise above the surface are the islands of New Zealand and New Caledonia. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/zealandia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/zealandia.jpg)
 
 Image: Nick Mortimer/GNS Science Research Institute
 

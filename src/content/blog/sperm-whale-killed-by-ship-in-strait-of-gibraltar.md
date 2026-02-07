@@ -13,12 +13,12 @@ tags:
   - "Julio"
   - "sperm whale"
   - "Strait of Gibraltar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/juliowhale-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/juliowhale-1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the sinking of the British sailing yacht Bonhomme William last week, following an attack by orcas in the Strait of Gibraltar. Fortunately, the crew were rescued without injury.  Two days later, a sperm whale encountered a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/juliowhale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/juliowhale.jpg)
 
 The whale’s severe injury was apparent in footage captured shortly after the incident. Photo: CIRCE
 

@@ -10,12 +10,12 @@ tags:
   - "Coast Guard"
   - "hamster wheel"
   - "hydro pod"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/hydropod3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/hydropod3.jpg"
 author: "Rick Spilman"
 description: "For almost a decade, Reza Baluchi has been trying to run across oceans in his hydro pod, a homemade bubble contraption with a metal frame that looks and is intended to function as a human hamster wheel. As reported by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/hydropod3.jpg)For almost a decade, [Reza Baluchi has been trying to run across oceans](http://www.oldsaltblog.com/2014/10/bubble-man-reza-baluchi-plans-to-try-running-to-bermuda-again/) in his hydro pod, a homemade bubble contraption with a metal frame that looks and is intended to function as a human hamster wheel.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/hydropod3.jpg)For almost a decade, [Reza Baluchi has been trying to run across oceans](http://www.oldsaltblog.com/2014/10/bubble-man-reza-baluchi-plans-to-try-running-to-bermuda-again/) in his hydro pod, a homemade bubble contraption with a metal frame that looks and is intended to function as a human hamster wheel.
 
 As reported by the [New York Times](https://www.nytimes.com/2021/07/27/us/man-runs-eastern-seaboard-hamster-wheel.html?searchResultPosition=1), a man popped out of the top hatch of the contraption, a makeshift human hamster wheel. He had made it only 25 miles on what was supposed to be a 1,000-plus-mile journey from St. Augustine, Fla., to New York, using the power of his two legs and, if all had gone according to plan, the Gulf Stream.
 

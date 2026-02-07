@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "For a late winter weekend, this one is busy with maritime events.   The Chicago Maritime Festival this weekend sounds fantastic.  \"Daytime activities include maritime history, lighthouses, shipwrecks, model boats for kids, life raft demonstrations, marine art, songs for younger sailors, knot tying and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/chicago1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/chicago1.jpg)
 
 Chicago's Tall Ship Windy is a festival sponsor
 

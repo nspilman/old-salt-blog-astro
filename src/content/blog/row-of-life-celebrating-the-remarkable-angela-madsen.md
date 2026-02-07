@@ -12,12 +12,12 @@ tags:
   - "paraplegic"
   - "Row of Life"
   - "Soraya Simi"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/dmadsen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/dmadsen.jpg"
 author: "Rick Spilman"
 description: "On April 24, Angela Madsen set off from Marina del Rey, California bound for Hawaii in the 20′ ocean rowing boat, Row of Life. A three-time Paralympian and a Marine veteran, her goal was to be the first paraplegic and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/dmadsen.jpg)On April 24, Angela Madsen set off from Marina del Rey, California bound for Hawaii in the 20′ ocean rowing boat, Row of Life. A three-time Paralympian and a Marine veteran, her goal was to be the first paraplegic and at 60, the oldest woman to row the Pacific Ocean alone.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/dmadsen.jpg)On April 24, Angela Madsen set off from Marina del Rey, California bound for Hawaii in the 20′ ocean rowing boat, Row of Life. A three-time Paralympian and a Marine veteran, her goal was to be the first paraplegic and at 60, the oldest woman to row the Pacific Ocean alone.
 
 After 60 days alone at sea, rowing 1,114 nautical miles, roughly halfway to Hawaii, Angela Madsen died while attempting to repair a parachute anchor. When she didn’t report in on June 20, Angela’s wife, Debra Madsen and Soraya Simi, a friend who is making a documentary about Angela, contacted the Coast Guard. A Coast Guard plane spotted her in the water, lifeless, and tethered to her boat. Angela’s body was recovered by a German-flagged cargo ship that diverted to her location. 
 

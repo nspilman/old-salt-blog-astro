@@ -15,13 +15,13 @@ author: "Rick Spilman"
 description: "An update on Robin Knox-Johnston, 76, Stanley Paris, 77, & Jeanne Socrates, 70."
 ---
 
-![Sir Robin Knox Johnston](http://www.oldsaltblog.com/wp-content/uploads/2014/11/rkjrdrhum.jpg)
+![Sir Robin Knox Johnston](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/rkjrdrhum.jpg)
 
 Sir Robin Knox Johnston
 
 An update on previous posts involving sailors of a certain age.  [Sir Robin Knox Johnston](http://en.wikipedia.org/wiki/Robin_Knox-Johnston), 75, sailing *Grey Power*, [placed third in the highly competitive Class 40 fleet in the Route Du Rhum race](http://www.independent.co.uk/sport/general/sailing/route-du-rhum-2014-powerful-finish-sees-sir-robin-knoxjohnston-claim-third-place-9877950.html) between St. Malo in Brittany to Guadeloupe.  In 1968, he was the first sailor to circumnavigate the world non-stop in the [Sunday Times Golden Globe Race](http://en.wikipedia.org/wiki/Sunday_Times_Golden_Globe_Race). Sir Robin was also the the second winner of the [Jules Verne Trophy](http://en.wikipedia.org/wiki/Jules_Verne_Trophy) (together with Sir Peter Blake) and in 2006, became the oldest yachtsman to complete a round the world solo voyage in the [VELUX 5 Oceans Race](http://www.velux5oceans.com/) at the age of 67.  He is also the founder and chairman of the [Clipper Round the World Race](https://www.clipperroundtheworld.com/).
 
-![Stanley Paris](http://www.oldsaltblog.com/wp-content/uploads/2014/11/Alt_Dr.-Stanley-Paris-aboard-Kiwi-Spirit1.jpg)
+![Stanley Paris](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/Alt_Dr.-Stanley-Paris-aboard-Kiwi-Spirit1.jpg)
 
 Stanley Paris
 
@@ -34,7 +34,7 @@ In December and January last year we posted about the [attempted solo-circumnavi
 *– Set a reference for age (was then 76 years)*  
 *– Set a reference for energy (green mode, using no hydrocarbons)*
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg)
 
 Jeanne Socrates
 

@@ -11,7 +11,7 @@ tags:
   - "schooling"
   - "shark"
   - "sting rays"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/sharkrays.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/sharkrays.jpg"
 author: "Rick Spilman"
 description: "Sharks are among the top predators of sting rays. Here is a short video of a large school of stingrays narrowly escaping a shark attack in September off Anna Maria Island, in Manatee County, FL. The drone footage, captured by … Continue reading &rarr;"
 ---

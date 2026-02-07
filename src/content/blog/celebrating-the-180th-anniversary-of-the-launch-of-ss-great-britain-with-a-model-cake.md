@@ -9,12 +9,12 @@ tags:
   - "Giuseppe Dell'Anno"
   - "Great British Bake Off"
   - "SS Great Britain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/sssgbcake.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/sssgbcake.jpg"
 author: "Rick Spilman"
 description: "One hundred and eighty years ago last month, Isambard Kingdom Brunel’s SS Great Britain was launched by Prince Albert in Bristol Harbour. To celebrate the anniversary, Giuseppe Dell’Anno, a winner of the Great British Bake Off unveiled a cake replica … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/sssgbcake.jpg)One hundred and eighty years ago last month, Isambard Kingdom Brunel’s [SS *Great Britain*](https://www.oldsaltblog.com/2016/04/ss-great-britain/) was launched by Prince Albert in Bristol Harbour. To celebrate the anniversary, [Giuseppe Dell’Anno, a winner](https://www.bbc.com/news/uk-england-bristol-66245094) of the [Great British Bake Off](https://thegreatbritishbakeoff.co.uk/) unveiled a cake replica of the historic ship. The cake was made by Occasion Cakes in Bedminster and was carved out of a block made from several sheets of sponge.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/sssgbcake.jpg)One hundred and eighty years ago last month, Isambard Kingdom Brunel’s [SS *Great Britain*](https://www.oldsaltblog.com/2016/04/ss-great-britain/) was launched by Prince Albert in Bristol Harbour. To celebrate the anniversary, [Giuseppe Dell’Anno, a winner](https://www.bbc.com/news/uk-england-bristol-66245094) of the [Great British Bake Off](https://thegreatbritishbakeoff.co.uk/) unveiled a cake replica of the historic ship. The cake was made by Occasion Cakes in Bedminster and was carved out of a block made from several sheets of sponge.
 
 [BBC](https://www.bbc.com/news/uk-england-bristol-66245094) reports that Mr. Dell’Anno, an engineer, cut the cake in front of young engineers and their families.
 

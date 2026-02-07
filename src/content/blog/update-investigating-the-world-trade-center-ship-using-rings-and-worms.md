@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last July, workers excavating at the new World Trade Center site in lower Manhattan uncovered the remains of an 18th century wooden merchant ship 20 feet below street level.  See our previous posts – here and here. Now researchers have been able to identify where … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/75CCA4CF-A614-3648-61D5E7AA.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/75CCA4CF-A614-3648-61D5E7AA.jpg)
 
 Photo: Neil Pederson, Lamont-Doherty, provided courtesy of LMDC
 

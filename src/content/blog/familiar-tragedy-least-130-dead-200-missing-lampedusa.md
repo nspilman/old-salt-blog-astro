@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "At least 130 African refugees have died and 200 are still missing after an overloaded boat caught fire and sank off the Italian island of Lampedusa. More than 150 of the migrants have been rescued. Most of those on board were … Continue reading &rarr;"
 ---
 
-![lampedusa](http://www.oldsaltblog.com/wp-content/uploads/2013/10/lampedusa.jpg)At least 130 African refugees have died and 200 are still missing after an overloaded boat caught fire and sank off the Italian island of Lampedusa. More than 150 of the migrants have been rescued. Most of those on board were from Eritrea and Somalia, said the UN.
+![lampedusa](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/lampedusa.jpg)At least 130 African refugees have died and 200 are still missing after an overloaded boat caught fire and sank off the Italian island of Lampedusa. More than 150 of the migrants have been rescued. Most of those on board were from Eritrea and Somalia, said the UN.
 
 [Italy boat sinking: Hundreds feared dead off Lampedusa](http://www.bbc.co.uk/news/world-europe-24380247)
 

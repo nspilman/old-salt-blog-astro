@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Though the pelican is featured on the state flag, by the early 1960s, brown pelicans had been pushed to extinction along the Louisiana Gulf Coast by DDT and other pesticides. In 1968 pelicans were reintroduction to Louisiana from colonies in … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/JP-PELICANS.jpg)](http://www.nytimes.com/2010/06/05/us/05pelican.html?ref=global-home)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/JP-PELICANS.jpg)](http://www.nytimes.com/2010/06/05/us/05pelican.html?ref=global-home)
 
 Though the pelican is featured on the state flag, by the early 1960s, brown pelicans had been pushed to extinction along the Louisiana Gulf Coast by DDT and other pesticides. In 1968 pelicans were reintroduction to Louisiana from colonies in Florida. Despite ups and downs,  the pelicans have slowly returned. Last year the brown pelican was taken off the endangered species list. With the Deepwater Horizon disaster, that could all change, once again.
 

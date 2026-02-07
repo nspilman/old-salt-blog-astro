@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The forward deck houses, two lakes freighters, Benson Ford and John W. Boardman, have become lake houses."
 ---
 
-![Benson Ford](http://www.oldsaltblog.com/wp-content/uploads/2014/08/19607471.jpg)
+![Benson Ford](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/19607471.jpg)
 
 Benson Ford
 
@@ -25,7 +25,7 @@ Put-In Bay, Ohio is a village on South Bass Island in Lake Erie. It is probably 
 
 The *Benson Ford* was built at Detroit’s River Rouge yard in 1924 for the Ford Motor Company. She was 612’ long, 62’ wide and 32’ deep, of 8,626 GRT, and 12,900 DWT.  After 60 years of service, mostly carrying coal, the ship was scrapped except for the forward deck house, which featured walnut paneled state rooms, dining room, galley, and passenger lounge designed by Henry Ford for his own use.   On on July 18, 1986, the deckhouse was transported by crane barge to Put-In Bay, Ohio and placed on an 18 foot cliff at Victory Point.  From the [Ship on the Bay website](http://shiponthebay.com/history.html): With recent renovations to the first floor, the structure includes a garage and massive family room, five bedrooms, five full baths, a dining room, living room, reading room, galley, and, of course, the pilot house which offers spectacular views of the setting sun off the western shores of Put-in-Bay.  See the video below for clips of the *Benson Ford* in service.
 
-![John W. Boardman](http://www.oldsaltblog.com/wp-content/uploads/2014/08/Harriman-2010_zpsf6eb910a.jpg)
+![John W. Boardman](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/Harriman-2010_zpsf6eb910a.jpg)
 
 John W. Boardman
 

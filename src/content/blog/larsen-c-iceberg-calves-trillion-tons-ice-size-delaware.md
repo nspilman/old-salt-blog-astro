@@ -11,7 +11,7 @@ tags:
   - "Ice Shelf"
   - "iceberg"
   - "Larsen C"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/larsencberg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/larsencberg.jpg"
 author: "Rick Spilman"
 description: "For months we have been watching a vast crack in Antarctica’s Larsen C ice-shelf in the Weddell Sea.  Today, a huge block of ice calved from the ice-sheet, forming one of the largest icebergs in recorded history. The new Larsen … Continue reading &rarr;"
 ---

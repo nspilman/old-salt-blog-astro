@@ -14,12 +14,12 @@ tags:
   - "hunger stones"
   - "Loire"
   - "Rhine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/hungerstone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/hungerstone.jpg"
 author: "Rick Spilman"
 description: "Extreme drought has dramatically lowered water levers in major European rivers, including the Rhine, Elbe, Loire, Danube, and Po. On the Rhine, river depths have dropped close to levels seen in the record drought of 2018. The shallow water resulting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/rhine-drought.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/rhine-drought.jpg)
 
 Rhine river at low water levels in Bonn, Germany, August 16, 2022. Photo: REUTERS/Benjamin Westhoff
 
@@ -37,7 +37,7 @@ While the consensus attributes the current drought to climate change, periods of
 
 One of the most famous to recently emerge from the Rive Elbe in Děčín, the Czech Republic is a stone with a date of 1616, inscribed with the phrase, “Wenn du mich siehst, dann weine” (“If you see me, weep”). The stone itself is believed to date from at least 1417, although carvings from the earlier dates are no longer legible. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/hungerstone.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/hungerstone.jpg)
 
 Hunger Stone in the River Elbe
 

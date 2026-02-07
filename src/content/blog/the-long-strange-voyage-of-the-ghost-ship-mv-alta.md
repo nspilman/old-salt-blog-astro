@@ -12,12 +12,12 @@ tags:
   - "ghost ship"
   - "Ireland"
   - "Storm Dennis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/mvalta.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/mvalta.jpg"
 author: "Rick Spilman"
 description: "Storm Dennis was the second-strongest nontropical storm on record in the North Atlantic Ocean. It brought hurricane-force winds, towering waves, and significant flooding to Britain, Wales, and Ireland. It also brought something wholly unexpected — the abandoned general cargo ship, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/mvalta.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/mvalta.jpg)
 
 Photo: Irish Coast Guard
 

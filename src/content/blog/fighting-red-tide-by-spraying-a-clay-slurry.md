@@ -13,12 +13,12 @@ tags:
   - "Gulf Coast"
   - "Karenia brevis"
   - "red tide"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/clayslurryrtide.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/clayslurryrtide.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the latest round of red tide to hit the Gulf Coast of Florida. Florida red tide is caused by the blooming of the dinoflagellate Karenia brevis. K. brevis produces neurotoxins that can cause respiratory problems in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/clayslurryrtide.jpg)[We recently posted about the latest round of red tide](http://www.oldsaltblog.com/2021/07/red-tide-hits-florida-gulf-coast-again/) to hit the Gulf Coast of Florida. Florida red tide is caused by the blooming of the dinoflagellate Karenia brevis. K. brevis produces neurotoxins that can cause respiratory problems in humans and attack the central nervous systems of fish and other wildlife. In the latest outbreak, over [1,200 tons of dead fish and other marine life](https://thehill.com/changing-america/sustainability/environment/564171-over-1200-tons-of-dead-fish-debris-washing-onto) have washed up on Florida’s Gulf Coast.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/clayslurryrtide.jpg)[We recently posted about the latest round of red tide](http://www.oldsaltblog.com/2021/07/red-tide-hits-florida-gulf-coast-again/) to hit the Gulf Coast of Florida. Florida red tide is caused by the blooming of the dinoflagellate Karenia brevis. K. brevis produces neurotoxins that can cause respiratory problems in humans and attack the central nervous systems of fish and other wildlife. In the latest outbreak, over [1,200 tons of dead fish and other marine life](https://thehill.com/changing-america/sustainability/environment/564171-over-1200-tons-of-dead-fish-debris-washing-onto) have washed up on Florida’s Gulf Coast.
 
 Now, scientists are testing a new and novel approach to battling the toxic algal bloom — spraying the red tide with a clay slurry.
 

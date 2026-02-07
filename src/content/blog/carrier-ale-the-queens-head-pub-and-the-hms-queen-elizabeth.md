@@ -12,12 +12,12 @@ tags:
   - "English pub"
   - "HMS Queen Elizabeth"
   - "Queen’s Head"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/carrier-ale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/carrier-ale.jpg"
 author: "Rick Spilman"
 description: "A quick two-question quiz — First question: What do US aircraft carriers have that the newest British carrier, HMS Queen Elizabeth, lacks?  The answer is aircraft. The UK’s new aircraft carrier will be conducting flight trials with two borrowed US planes. Its own … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/carrier-ale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/carrier-ale.jpg)
 
 Carrier Ale
 

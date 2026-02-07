@@ -15,12 +15,12 @@ tags:
   - "Ukrainian drones"
   - "uncrewed surface vessels"
   - "uncrewed underwater vehicle"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/udrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/udrone.jpg"
 author: "Rick Spilman"
 description: "When Russia annexed Crimea in 2014, at least 100 Ukrainian Navy vessels, representing 75% of the Ukrainian naval fleet, were captured by Russian forces. In the Russian invasion of 2022, much of the remaining fleet was destroyed or scuttled to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/udrone.jpg)When Russia annexed Crimea in 2014, at least 100 Ukrainian Navy vessels, representing 75% of the Ukrainian naval fleet, were captured by Russian forces. In the Russian invasion of 2022, much of the remaining fleet was destroyed or scuttled to prevent capture.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/udrone.jpg)When Russia annexed Crimea in 2014, at least 100 Ukrainian Navy vessels, representing 75% of the Ukrainian naval fleet, were captured by Russian forces. In the Russian invasion of 2022, much of the remaining fleet was destroyed or scuttled to prevent capture.
 
 Rebuilding naval power with a war going on is daunting at best. Lacking a secure industrial base, the Ukrainians are relying on ingenuity and technology rather than steel fabrication to strike back at the Russian Black Sea Fleet.  Most notably, Ukrainian naval drones are redefining warfare in the Black Sea.
 

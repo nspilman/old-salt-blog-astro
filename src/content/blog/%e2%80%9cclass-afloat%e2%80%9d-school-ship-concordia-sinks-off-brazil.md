@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The West Island College \"Class Afloat\" school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/Concordia3.jpg)The [West Island College “Class Afloat”](http://www.classafloat.com/) school ship *Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force.*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Concordia3.jpg)The [West Island College “Class Afloat”](http://www.classafloat.com/) school ship *Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force.*
 
 *[Canadians rescued after ship sinks off Brazil](http://news.bbc.co.uk/2/hi/americas/8524439.stm)*
 

@@ -12,7 +12,7 @@ tags:
   - "Christmas Tree"
   - "Joseph Conrad"
   - "mystic seaport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/christmastreeconrad.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/christmastreeconrad.jpg"
 author: "Rick Spilman"
 description: "Merry Christmas to all those who celebrate the holiday. Here is a short video of the rigging crew of Matt Otto, Nick Canzellarini and Alex Peacock at Mystic Seaport Museum installing one of the many mast-top Christmas trees atop the … Continue reading &rarr;"
 ---

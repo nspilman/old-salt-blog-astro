@@ -11,12 +11,12 @@ tags:
   - "Jeanne Socrates"
   - "non-stop"
   - "oldest"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg"
 author: "Rick Spilman"
 description: "Jeanne Socrates is a 76-year-old grandmother of three, originally from Ealing, West London. She didn’t start sailing until she was 50 but nevertheless has circumnavigated the globe under sail three times in S/V Nereida, a Najad 380. She currently holds the record as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg)[Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) is a 76-year-old grandmother of three, originally from Ealing, West London. She didn’t start sailing until she was 50 but nevertheless has circumnavigated the globe under sail three times in [S/V *Nereida,*](https://svnereida.com/boat-details) a *Najad 380.* She currently holds the record as the oldest female to have circumnavigated the world single-handed, and she is the only woman to have circumnavigated solo nonstop from N. America. She was awarded the Cruising Club of America’s Blue Water Medal in 2013.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg)[Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) is a 76-year-old grandmother of three, originally from Ealing, West London. She didn’t start sailing until she was 50 but nevertheless has circumnavigated the globe under sail three times in [S/V *Nereida,*](https://svnereida.com/boat-details) a *Najad 380.* She currently holds the record as the oldest female to have circumnavigated the world single-handed, and she is the only woman to have circumnavigated solo nonstop from N. America. She was awarded the Cruising Club of America’s Blue Water Medal in 2013.
 
 And now, at 76, she is almost [100 days into her fourth solo circumnavigation](https://svnereida.com/blog/4978-day-98-tues-wed-8-9-jan-2019-underway-again-for-a-time-but-then-ne-wind-so-heaved-to-again). She left Victoria, British Columbia last October and successfully rounded Cape Horn just before Christmas. If all goes well, she will become the oldest person of either gender to sail alone, nonstop and unassisted around the world. The current record is held by Minoru Saito who sailed solo nonstop around the world at age 71.
 

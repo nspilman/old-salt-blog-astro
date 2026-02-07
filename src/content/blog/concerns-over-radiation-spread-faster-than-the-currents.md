@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "My wife and I are celebrating our 25th wedding anniversary in a week by having dinner at Le Bernardin.  I had proposed in the Le Bernardin, when the restaurant was still in Paris, so it has always seemed a great place to celebrate anniversaries. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/fishradcheck.jpg)My wife and I are celebrating our 25th wedding anniversary in a week by having dinner at [Le Bernardin](http://www.le-bernardin.com/).  I had proposed in the Le Bernardin, when the restaurant was still in Paris, so it has always seemed a great place to celebrate anniversaries.  What does this have to do with radiation?   The [New York Times recently reported](http://www.nytimes.com/2011/04/06/business/06food.html?_r=1&scp=3&sq=le%20bernardin&st=cse):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/fishradcheck.jpg)My wife and I are celebrating our 25th wedding anniversary in a week by having dinner at [Le Bernardin](http://www.le-bernardin.com/).  I had proposed in the Le Bernardin, when the restaurant was still in Paris, so it has always seemed a great place to celebrate anniversaries.  What does this have to do with radiation?   The [New York Times recently reported](http://www.nytimes.com/2011/04/06/business/06food.html?_r=1&scp=3&sq=le%20bernardin&st=cse):
 
 “*Eric Ripert, the chef of Le Bernardin, the high temple of seafood in Manhattan, bought a new kitchen gadget a few days ago: a radiation detector.*  
   

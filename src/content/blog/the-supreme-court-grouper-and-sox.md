@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "US Supreme Court was called to rule on whether SOX also applied to grouper. In a narrow vote, they decided that it does not."
 ---
 
-![Does SOX apply to grouper?](http://www.oldsaltblog.com/wp-content/uploads/2015/03/redgrouper.jpg)
+![Does SOX apply to grouper?](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/redgrouper.jpg)
 
 Does SOX apply to grouper?
 

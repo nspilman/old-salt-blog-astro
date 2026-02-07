@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "All that remains to mark the site of the final sea battle of the First Punic War between Rome and Carthage, around 241 BC, are the great bronze rams left behind after the rest of the sunken ships have rotten … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/warshipram.jpg)All that remains to mark the site of the final sea battle of the First Punic War between Rome and Carthage, around 241 BC, are the great bronze rams left behind after the rest of the sunken ships have rotten away in the warm waters of the Mediterranean Sea.   The sea battle and the First Punic War, in general, were victories for Rome, marking its ascent, and Carthage’s decline as regional powers.    Three rams have now been found near the island of Levanzo, west of Sicily.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/warshipram.jpg)All that remains to mark the site of the final sea battle of the First Punic War between Rome and Carthage, around 241 BC, are the great bronze rams left behind after the rest of the sunken ships have rotten away in the warm waters of the Mediterranean Sea.   The sea battle and the First Punic War, in general, were victories for Rome, marking its ascent, and Carthage’s decline as regional powers.    Three rams have now been found near the island of Levanzo, west of Sicily.
 
 [Ancient shipwreck points to site of major Roman battle](http://www.msnbc.msn.com/id/39727737/ns/technology_and_science-science/)  
   

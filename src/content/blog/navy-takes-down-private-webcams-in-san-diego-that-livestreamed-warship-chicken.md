@@ -15,12 +15,12 @@ tags:
   - "San Diego Web Cam"
   - "USS Harpers Ferry"
   - "USS Momsen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/sandiego-near-miss.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/sandiego-near-miss.jpg"
 author: "Rick Spilman"
 description: "In late November of last year, the guided-missile destroyer, USS Momsen, and the dock-landing ship, USS Harpers Ferry, were moving in opposite directions in San Diego Bay when they came close to colliding. The two ships came within 35 yards … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/sandiego-near-miss.jpg)In late November of last year, the guided-missile destroyer, USS *Momsen*, and the dock-landing ship, USS *Harpers Ferry*, were moving in opposite directions in San Diego Bay when they came close to colliding. The two ships came within 35 yards of each other but were able to avert disaster through some last-minute maneuvering.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/sandiego-near-miss.jpg)In late November of last year, the guided-missile destroyer, USS *Momsen*, and the dock-landing ship, USS *Harpers Ferry*, were moving in opposite directions in San Diego Bay when they came close to colliding. The two ships came within 35 yards of each other but were able to avert disaster through some last-minute maneuvering.
 
 The near collision was captured on [San Diego Web Cam](https://www.youtube.com/c/sandiegowebcam) and spread across social media. The incident became known as “Warship Chicken.”
 

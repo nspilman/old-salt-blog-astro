@@ -13,7 +13,7 @@ tags:
   - "King Spring"
   - "manatee"
   - "snorkeling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/manatee1-e1649595378432.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/manatee1-e1649595378432.jpg"
 author: "Rick Spilman"
 description: "Last Friday, Crystal River did not live up to its name. It was murky and the crystal clear waters that I remembered had a visibility of only about six feet. In some respects, however, it added an element of mystery, when, as … Continue reading &rarr;"
 ---

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "It looks like the guided missile frigate HMAS Adelaide will indeed be scuttled off Avoca Beach, north of Sydney in New South Wales, to create an artificial diving site.  Last March we posted about a court case brought by environmentalists which prevented the planned scuttling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/HMAS_Adelaide.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/HMAS_Adelaide.jpg)
 
 HMAS Adelaide
 

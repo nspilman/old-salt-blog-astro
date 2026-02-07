@@ -11,7 +11,7 @@ tags:
   - "oyster"
   - "oystermen"
   - "skipjacks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/skipjack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/skipjack.jpg"
 author: "Rick Spilman"
 description: "At one time, 2,000 skipjacks dredged for oysters under sail. Now they number fewer than 40 and less than half are actively fishing. Walter Cronkite hosts this documentary that examines a disappearing way of life for Chesapeake Bay skipjack sailors, … Continue reading &rarr;"
 ---

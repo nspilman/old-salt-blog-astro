@@ -14,12 +14,12 @@ tags:
   - "Team Forces"
   - "Women in Sport"
   - "Zara Lachlan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/laughlin2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/laughlin2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Ananya Prasad who completed the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 4,800-km race across the Atlantic Ocean from the Canary Islands to Antigua, in 52 days. Ms Prasad, 34, born in India and raised … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/laughlin2.jpg)We recently posted about Ananya Prasad who completed the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 4,800-km race across the Atlantic Ocean from the Canary Islands to Antigua, in 52 days. Ms Prasad, 34, born in India and raised in the UK, became the first woman of color to row solo and unsupported across any ocean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/laughlin2.jpg)We recently posted about Ananya Prasad who completed the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 4,800-km race across the Atlantic Ocean from the Canary Islands to Antigua, in 52 days. Ms Prasad, 34, born in India and raised in the UK, became the first woman of color to row solo and unsupported across any ocean.
 
 We have learned that Ms Prasad was not the only woman breaking records for ocean rowing at the time.  Thanks to [Chris Roche](https://capehorners.org/) for passing along the news.
 

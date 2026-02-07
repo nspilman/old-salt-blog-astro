@@ -10,12 +10,12 @@ tags:
   - "Mystic Seaport Museum"
   - "Sea Change"
   - "Thompson Exhibition Building"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/mysticthompson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/mysticthompson.jpg"
 author: "Rick Spilman"
 description: "The Hartford Courant describes the new Thompson Exhibition Building, on the northern end of the 19-acre Mystic Seaport Museum as sitting \"like a piece of 21st-century abstract sculpture in the midst of a 19th-century fishing village.\" Chad Floyd, one of the architect … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/mysticthompson.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/mysticthompson.jpg)
 
 Photo: Brad Horrigan/The Hartford Courant
 

@@ -14,12 +14,12 @@ tags:
   - "John C. Auld"
   - "US Navy Seaman 2nd Clas"
   - "USS Oklahoma"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/auld.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/auld.jpg"
 author: "Rick Spilman"
 description: "The Defense POW/MIA Accounting Agency (DPAA) announced on Thursday that US Navy Seaman 2nd Class John C. Auld, 23, of Newcastle, England, killed on the USS Oklahoma, during the Japanese attack on Pearl Harbor of 1941 has been identified.  He … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/auld.jpg)The [Defense POW/MIA Accounting Agency (DPAA) announced](https://www.dpaa.mil/News-Stories/ID-Announcements/Article/3986541/uss-oklahoma-sailor-accounted-for-from-world-war-ii-auld-j/) on Thursday that US Navy Seaman 2nd Class [John C. Auld](https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XeK5EAK), 23, of Newcastle, England, killed on the USS *Oklahoma*, during the Japanese attack on Pearl Harbor of 1941 has been identified.  He was buried last Friday, with full military honors in Fairview Memorial Park, Albuquerque, New Mexico.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/auld.jpg)The [Defense POW/MIA Accounting Agency (DPAA) announced](https://www.dpaa.mil/News-Stories/ID-Announcements/Article/3986541/uss-oklahoma-sailor-accounted-for-from-world-war-ii-auld-j/) on Thursday that US Navy Seaman 2nd Class [John C. Auld](https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000XeK5EAK), 23, of Newcastle, England, killed on the USS *Oklahoma*, during the Japanese attack on Pearl Harbor of 1941 has been identified.  He was buried last Friday, with full military honors in Fairview Memorial Park, Albuquerque, New Mexico.
 
 DPAA accounted for his remains on Oct. 15, 2018, but was only recently made aware of Auld’s family receiving their full briefing on his identification, therefore, additional details on his identification were shared.
 

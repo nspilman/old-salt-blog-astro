@@ -18,12 +18,12 @@ tags:
   - "USS Laboon"
   - "USS Mason"
   - "Yemen-based Houthis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/hmsdiamondun.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/hmsdiamondun.jpg"
 author: "Rick Spilman"
 description: "Reuters reports that US and British naval forces shot down 21 drones and missiles fired by Yemen-based Houthis on Tuesday towards the southern Red Sea, with Britain hinting at further measures to protect international shipping lanes. Eighteen drones, two cruise missiles … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/hmsdiamondun.jpg)[Reuters](https://www.reuters.com/world/us-uk-forces-shoot-down-houthi-missile-drone-attack-red-sea-us-military-2024-01-10/) reports that US and British naval forces shot down 21 drones and missiles fired by Yemen-based Houthis on Tuesday towards the southern Red Sea, with Britain hinting at further measures to protect international shipping lanes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/hmsdiamondun.jpg)[Reuters](https://www.reuters.com/world/us-uk-forces-shoot-down-houthi-missile-drone-attack-red-sea-us-military-2024-01-10/) reports that US and British naval forces shot down 21 drones and missiles fired by Yemen-based Houthis on Tuesday towards the southern Red Sea, with Britain hinting at further measures to protect international shipping lanes.
 
 Eighteen drones, two cruise missiles and one ballistic missile were shot down by F/A-18 warplanes from the aircraft carrier USS *Dwight D Eisenhower*, which is deployed in the Red Sea, and by four destroyers, the USS *Gravely*, USS *Laboon*, USS *Mason* and HMS *Diamond*. HMS *Diamond* shot down seven of the Houthi drones using its guns and Sea Viper missiles.
 

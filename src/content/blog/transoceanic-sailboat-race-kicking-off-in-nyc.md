@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Transoceanic Sailboat Race Kicking Off in NYC Six sailors are looking to make history.    Two sailboats, the W Hotels and Estrella Damm, docked in New York harbor will set off for Barcelona, Spain, early next month. They are racing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/boats_web.jpg)[Transoceanic Sailboat Race Kicking Off in NYC](http://www.theepochtimes.com/n2/content/view/32334/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/boats_web.jpg)[Transoceanic Sailboat Race Kicking Off in NYC](http://www.theepochtimes.com/n2/content/view/32334/)
 
 *Six sailors are looking to make history.    Two sailboats, the W Hotels and Estrella Damm, docked in New York harbor will set off for Barcelona, Spain, early next month. They are racing against each, as well as history.*  
   

@@ -13,12 +13,12 @@ tags:
   - "Saga Cruises"
   - "ship's safety system"
   - "Spirit of Discovery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/spirtof-discovery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/spirtof-discovery.jpg"
 author: "Rick Spilman"
 description: "A disturbing account of the Saga Cruises’ ship Spirit of Discovery that was caught in severe weather in the Bay of Biscay in which 100 passengers were injured. Five are reported to have been seriously injured. BBC reports that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/spirtof-discovery.jpg)A disturbing account of the [Saga Cruises’ ship *Spirit of Discovery*](https://travel.saga.co.uk/cruises/ocean/our-ships/spirit-of-discovery.aspx) that was caught in severe weather in the Bay of Biscay in which 100 passengers were injured. Five are reported to have been seriously injured.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/spirtof-discovery.jpg)A disturbing account of the [Saga Cruises’ ship *Spirit of Discovery*](https://travel.saga.co.uk/cruises/ocean/our-ships/spirit-of-discovery.aspx) that was caught in severe weather in the Bay of Biscay in which 100 passengers were injured. Five are reported to have been seriously injured.
 
 [BBC](https://www.bbc.com/news/uk-england-hampshire-67342329) reports that the ship departed for a 14-day cruise around the Canary Islands on 24 October with about 1,000 people on board.
 

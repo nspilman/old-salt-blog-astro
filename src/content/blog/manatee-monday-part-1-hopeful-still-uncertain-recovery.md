@@ -9,12 +9,12 @@ categories:
 tags:
   - "Florida"
   - "manatee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/manatee2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/manatee2.jpg"
 author: "Rick Spilman"
 description: "It wasn’t so long ago when the conversation regarding Florida manatees was not whether or not they would become extinct but rather how quickly their extinction would happen. Fortunately, efforts to save the manatee have paid off. In 1991, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/manatee2.jpg)It wasn’t so long ago when the conversation regarding Florida manatees was not whether or not they would become extinct but rather how quickly their extinction would happen. Fortunately, efforts to save the manatee have paid off. In 1991, the [Florida manatee population was down to 1,2](http://www.csmonitor.com/Environment/2016/0116/Why-Florida-s-manatee-population-is-rebounding)[70](http://www.csmonitor.com/Environment/2016/0116/Why-Florida-s-manatee-population-is-rebounding). Current estimates by the [U.S. Fish and Wildlife Service now put the population](https://www.fws.gov/news/ShowNews.cfm?ref=u.s.-fish-and-wildlife-service-to-reclassify-west-indian-manatee-from-&_ID=35428) at around 6,300, an increase of almost 500%. Regulations to limit boat speed in areas frequented by manatees have been largely successful as have efforts to preserve winter habitats.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/manatee2.jpg)It wasn’t so long ago when the conversation regarding Florida manatees was not whether or not they would become extinct but rather how quickly their extinction would happen. Fortunately, efforts to save the manatee have paid off. In 1991, the [Florida manatee population was down to 1,2](http://www.csmonitor.com/Environment/2016/0116/Why-Florida-s-manatee-population-is-rebounding)[70](http://www.csmonitor.com/Environment/2016/0116/Why-Florida-s-manatee-population-is-rebounding). Current estimates by the [U.S. Fish and Wildlife Service now put the population](https://www.fws.gov/news/ShowNews.cfm?ref=u.s.-fish-and-wildlife-service-to-reclassify-west-indian-manatee-from-&_ID=35428) at around 6,300, an increase of almost 500%. Regulations to limit boat speed in areas frequented by manatees have been largely successful as have efforts to preserve winter habitats.
 
 Because of the rebound in the population, the Fish and Wildlife Service has proposed reclassifying the manatee from endangered to threatened status under the Endangered Species Act (ESA). Many environmentalists consider the change to be premature. Even with the status change, manatees would still receive the same protection from the Marine Mammal Protection Act of 1972 and the Florida Manatee Sanctuary Act of 1978.
 

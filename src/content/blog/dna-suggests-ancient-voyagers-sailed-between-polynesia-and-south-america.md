@@ -11,12 +11,12 @@ tags:
   - "Polynesia"
   - "Polynesians"
   - "South America"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/psavoayages2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/psavoayages2.jpg"
 author: "Rick Spilman"
 description: "For decades scholars have argued over how the myriad islands of Polynesia came to be settled. Did the early settlers sail or drift on rafts from South America on the prevailing currents and then continue to sail westward? Or, did … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/psavoayages2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/psavoayages2.jpg)
 
 One possible route. Graphic: Jonathan Corum | Source: Nature
 

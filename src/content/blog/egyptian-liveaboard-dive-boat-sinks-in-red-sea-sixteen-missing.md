@@ -14,12 +14,12 @@ tags:
   - "Marsa Alam"
   - "Red Sea"
   - "Sea Story"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/seastory.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/seastory.png"
 author: "Rick Spilman"
 description: "The Sea Story, a 44m Egyptian tourist liveaboard dive boat, sank in the Red Sea early this morning. Of the 44 aboard, including 13 crew, 28 were rescued while 16 remain missing. The crew was all Egyptian, while the tourists … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/seastory.png)The [*Sea Story*](https://diveproliveaboard.com/fleet/m-y-sea-story/), a 44m Egyptian tourist liveaboard dive boat, sank in the Red Sea early this morning. Of the 44 aboard, including 13 crew, 28 were rescued while 16 remain missing. The crew was all Egyptian, while the tourists were reported to be from a mix of countries including Great Britain, the US, Finland, Germany, China, Spain, and Poland. It is unclear who is among the rescued and who is still missing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/seastory.png)The [*Sea Story*](https://diveproliveaboard.com/fleet/m-y-sea-story/), a 44m Egyptian tourist liveaboard dive boat, sank in the Red Sea early this morning. Of the 44 aboard, including 13 crew, 28 were rescued while 16 remain missing. The crew was all Egyptian, while the tourists were reported to be from a mix of countries including Great Britain, the US, Finland, Germany, China, Spain, and Poland. It is unclear who is among the rescued and who is still missing.
 
 The *Sea Story* left port near Marsa Alam on Sunday for a five-day diving trip. The vessel sent a distress signal at 05:30 (03:30 GMT).
 

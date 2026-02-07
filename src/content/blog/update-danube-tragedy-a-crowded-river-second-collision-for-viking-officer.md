@@ -14,12 +14,12 @@ tags:
   - "mermaid"
   - "Viking Idun"
   - "Viking Sigyn"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/mermaiddanube.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/mermaiddanube.jpg"
 author: "Rick Spilman"
 description: "Captain C. Yuriy of the Viking Sigyn was previously involved in another Viking collision with a chemical tanker in the Netherlands in April."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/mermaiddanube.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/mermaiddanube.jpg)
 
 Mermaid on the Danube Before the Collision
 

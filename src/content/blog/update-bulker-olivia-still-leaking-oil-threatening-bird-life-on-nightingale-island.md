@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last Wednesday the bulk carrier MV Olivia ran aground on Nightingale Island in the Tristan da Cuhna archipelago in the South Atlantic.  See our previous post. By Friday, she had broken up in heavy seas with 1,500 tonnes of heavy fuel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/sboliva18march114.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/sboliva18march114.jpg)
 
 Photo: Sean Burns
 

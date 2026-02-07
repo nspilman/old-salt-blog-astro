@@ -11,12 +11,12 @@ tags:
   - "Florida Keys"
   - "Jane Castor"
   - "Tampa Mayor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/KeyCocaine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/KeyCocaine.jpg"
 author: "Rick Spilman"
 description: "CNN reports that Tampa Mayor Jane Castor made a big catch while fishing the Florida Keys with family late last month, spotting and hauling in a package containing 70 pounds of cocaine with an estimated street value of approximately $1.1 million, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/KeyCocaine.jpg)[CNN](https://www.cnn.com/2023/08/08/us/tampa-mayor-cocaine-catch/index.html) reports that [Tampa Mayor Jane Castor](https://www.tampa.gov/mayor) made a big catch while fishing the Florida Keys with family late last month, spotting and hauling in a package containing 70 pounds of cocaine with an estimated street value of approximately $1.1 million, according to the mayor’s office.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/KeyCocaine.jpg)[CNN](https://www.cnn.com/2023/08/08/us/tampa-mayor-cocaine-catch/index.html) reports that [Tampa Mayor Jane Castor](https://www.tampa.gov/mayor) made a big catch while fishing the Florida Keys with family late last month, spotting and hauling in a package containing 70 pounds of cocaine with an estimated street value of approximately $1.1 million, according to the mayor’s office.
 
 The package was discovered south of Marathon on July 23, according to US Border Patrol.
 

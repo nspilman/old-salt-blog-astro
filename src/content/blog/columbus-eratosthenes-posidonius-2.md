@@ -13,12 +13,12 @@ tags:
   - "Eratosthenes"
   - "Posidonius"
   - "stadia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/Eratosthenes2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/Eratosthenes2.jpg"
 author: "Rick Spilman"
 description: "Happy Columbus Day to those who celebrate in the United States and Happy Thanksgiving to those in Canada. On Columbus Day, it seems appropriate to consider the role of error in discovery. An updated repost. While many of us were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/Eratosthenes2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/Eratosthenes2.jpg)
 
 Eratosthenes
 

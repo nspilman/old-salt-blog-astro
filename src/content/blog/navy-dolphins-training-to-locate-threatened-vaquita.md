@@ -11,12 +11,12 @@ tags:
   - "Gulf of California"
   - "US Navy dolphins"
   - "Vaquita"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg"
 author: "Rick Spilman"
 description: "Vaquita, a small porpoise found only in the Gulf of California, is the world’s rarest marine mammal, and is in imminent danger of extinction. Now, US Navy dolphins are being trained to locate vaquita in a last-ditch effort to catch … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg)
 
 Vaquita Photo: Paula Olson, NOAA
 

@@ -12,12 +12,12 @@ tags:
   - "Bluenose"
   - "Canada"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/blueii.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/blueii.jpg"
 author: "Rick Spilman"
 description: "The best thing that can be said about the \"rebuilding\" of the Canadian schooner Bluenose II is that is it is over and that the Bluenose II is a lovely vessel.  Unfortunately, it took seven years and cost C$24 million (around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/blueii-200x173.jpg)The best thing that can be said about the “rebuilding” of the Canadian schooner [Bluenose II](https://en.wikipedia.org/wiki/Bluenose_II) is that is it is over and that the *Bluenose II* is a lovely vessel.  Unfortunately, it took seven years and [cost C$24 million (around US$ 20 million)](http://www.cbc.ca/news/canada/nova-scotia/bluenose-ii-bluenose-2-heritage-ship-schooner-rebuild-boondoggle-rudder-1.4219098) to complete the “reconstruction and rebuilding,” which, in fact, was effectively the construction of a wholly new schooner. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/blueii-200x173.jpg)The best thing that can be said about the “rebuilding” of the Canadian schooner [Bluenose II](https://en.wikipedia.org/wiki/Bluenose_II) is that is it is over and that the *Bluenose II* is a lovely vessel.  Unfortunately, it took seven years and [cost C$24 million (around US$ 20 million)](http://www.cbc.ca/news/canada/nova-scotia/bluenose-ii-bluenose-2-heritage-ship-schooner-rebuild-boondoggle-rudder-1.4219098) to complete the “reconstruction and rebuilding,” which, in fact, was effectively the construction of a wholly new schooner. 
 
 The original [*Bluenose*](http://en.wikipedia.org/wiki/Bluenose) was a Canadian fishing and racing schooner from Nova Scotia built in 1921. The schooner became famous for winning the International Fishing Challenge Cup off Gloucester, Massachusetts for many years.  The *Bluenose* is considered by many to be an iconic symbol of Canada.  The schooner appears on the Canadian dime and the current Nova Scotia licence plate.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In Volume II of the Encyclopædia Britannica published in 1768, the entry for California reads: CALLIFORNIA, a large country of the West Indies, lying between 116° and 138° W. long. and between 23° and 46° N lat.  It is uncertain whether … Continue reading &rarr;"
 ---
 
-![californiamap](http://www.oldsaltblog.com/wp-content/uploads/2012/12/californiamap.jpg)
+![californiamap](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/californiamap.jpg)
 
 ( Image from the Glen McLaughlin Map / December 17, 2012 )
 

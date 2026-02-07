@@ -11,12 +11,12 @@ tags:
   - "Greek coastguard"
   - "migrant shipwreck"
   - "Pylos"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about an overloaded fishing boat carrying migrants that capsized and sank early on Wednesday morning in deep waters about 50 miles (80 km) from the southern Greek coastal town of Pylos. The BBC reports on evidence casting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece2.jpg)We recently [posted about an overloaded fishing boat](https://www.oldsaltblog.com/2023/06/overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned/) carrying migrants that capsized and sank early on Wednesday morning in deep waters about 50 miles (80 km) from the southern Greek coastal town of Pylos. The [BBC](https://www.bbc.com/news/world-europe-65942426) reports on evidence casting doubt on the Greek coastguard’s account of the migrant shipwreck in which hundreds are feared to have died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece2.jpg)We recently [posted about an overloaded fishing boat](https://www.oldsaltblog.com/2023/06/overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned/) carrying migrants that capsized and sank early on Wednesday morning in deep waters about 50 miles (80 km) from the southern Greek coastal town of Pylos. The [BBC](https://www.bbc.com/news/world-europe-65942426) reports on evidence casting doubt on the Greek coastguard’s account of the migrant shipwreck in which hundreds are feared to have died.
 
 Analysis of the movement of other ships in the area suggests the overcrowded fishing vessel was not moving for at least seven hours before it capsized.
 

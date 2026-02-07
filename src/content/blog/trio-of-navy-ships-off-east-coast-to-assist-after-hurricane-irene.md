@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Three US Navy amphibious assault and transport ships; the USS Wasp, the USS San Antonio, and the USS New York; are just offshore of New York harbor as of this morning to provide assistance, if needed, to the states of New York, Connecticut or New Jersey after Hurricane Irene. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/USS_Wasp.jpg)Three US Navy amphibious assault and transport ships; the [USS *Wasp*](http://en.wikipedia.org/wiki/USS_Wasp_\(LHD-1\)), the [USS *San Antonio*](http://en.wikipedia.org/wiki/USS_San_Antonio_\(LPD-17\)), and the *[USS New York](http://en.wikipedia.org/wiki/USS_New_York_\(LPD-21\))*; are just offshore of New York harbor as of this morning to provide assistance, if needed, to the states of New York, Connecticut or New Jersey after Hurricane Irene.  If no assistance is required the deployment will serve as a training mission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/USS_Wasp.jpg)Three US Navy amphibious assault and transport ships; the [USS *Wasp*](http://en.wikipedia.org/wiki/USS_Wasp_\(LHD-1\)), the [USS *San Antonio*](http://en.wikipedia.org/wiki/USS_San_Antonio_\(LPD-17\)), and the *[USS New York](http://en.wikipedia.org/wiki/USS_New_York_\(LPD-21\))*; are just offshore of New York harbor as of this morning to provide assistance, if needed, to the states of New York, Connecticut or New Jersey after Hurricane Irene.  If no assistance is required the deployment will serve as a training mission.
 
 [Navy Warships Stationed Along East Coast To Help After Irene](http://www.wsbtv.com/news/29022761/detail.html)  
   

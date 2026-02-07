@@ -12,12 +12,12 @@ tags:
   - "Florida manatees"
   - "romaine lettuce"
   - "sea grass"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/manateefeed.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/manateefeed.jpg"
 author: "Rick Spilman"
 description: "In December we posted about an emergency feeding program for starving Florida manatees to help them survive the winter. The sea grass that manatees rely on for food has been decimated by pollution, killed off by algae blooms fueled largely … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/manateefeed.jpg)In December [we posted about an emergency feeding program](https://www.oldsaltblog.com/2021/12/floridas-manatees-are-starving-wildlife-officials-to-begin-feeding-program/) for starving Florida manatees to help them survive the winter. The sea grass that manatees rely on for food has been decimated by pollution, killed off by algae blooms fueled largely by human waste and fertilizer runoff from lawns and farms. As more people moved to the region and wastewater infrastructure aged, more toxins leaked into the waterways.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/manateefeed.jpg)In December [we posted about an emergency feeding program](https://www.oldsaltblog.com/2021/12/floridas-manatees-are-starving-wildlife-officials-to-begin-feeding-program/) for starving Florida manatees to help them survive the winter. The sea grass that manatees rely on for food has been decimated by pollution, killed off by algae blooms fueled largely by human waste and fertilizer runoff from lawns and farms. As more people moved to the region and wastewater infrastructure aged, more toxins leaked into the waterways.
 
 Over the winter, state and federal wildlife officials fed manatees in the Indian River Lagoon ten tons of romaine lettuce to supplement their dwindling food supply. 
 

@@ -13,7 +13,7 @@ tags:
   - "Pip Hare"
   - "Vendée Arctique"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/medallia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/medallia.jpg"
 author: "Rick Spilman"
 description: "Here is a short video of Pip Hare giving a tour under sail of her foiling IMOCA 60 Medallia to Yachting Monthly’s Katy Stickland. Hare recently completed the Vendée Arctique, a qualifying race for the Vendée Globe 2024/25 in Medallia. Pip … Continue reading &rarr;"
 ---

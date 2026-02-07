@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "There is still more steel to be welded, rigging to be run, and money to be raised, but the SSV Oliver Hazard Perry, Rhode Island’s Tall ship, looks to be on schedule to be sailing in time for the 200th … Continue reading &rarr;"
 ---
 
-![ Illustration: Ezra Smith Design, LLC](http://www.oldsaltblog.com/wp-content/uploads/2012/12/ohp.jpg)
+![ Illustration: Ezra Smith Design, LLC](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/ohp.jpg)
 
 Illustration: Ezra Smith Design, LLC
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Space Shuttle Enterprise has not had an easy time in New York.  When it was barged last Sunday between Kennedy Airport and Bayonne, New Jersey, prior to its final move to the Intrepid Sea, Air and Space Museum, it suffered minor damage to one wingtip when the barge … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/ht_collect_space_shuttle_da.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/ht_collect_space_shuttle_da.jpg)
 
 Wing of space shuttle Enterprise scraping against piling. Photo: Dennis Jenkins/collectspace.com
 

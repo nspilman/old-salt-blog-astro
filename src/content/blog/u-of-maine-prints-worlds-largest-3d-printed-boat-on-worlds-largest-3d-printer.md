@@ -15,7 +15,7 @@ tags:
   - "largest solid 3D-printed object"
   - "University of Maine"
   - "University of Maine Advanced Structures and Composites Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/3dirigo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/3dirigo.jpg"
 author: "Rick Spilman"
 description: "The University of Maine Advanced Structures and Composites Center recently used its 3D printer to construct the world’s largest 3D-printed boat. In doing so, the university was awarded three Guinness World Records for the world’s largest prototype polymer 3D printer, … Continue reading &rarr;"
 ---

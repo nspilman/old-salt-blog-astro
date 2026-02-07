@@ -12,7 +12,7 @@ tags:
   - "galveston"
   - "tall ship"
   - "Texas Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/elissasails.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/elissasails.jpg"
 author: "Rick Spilman"
 description: "A video by Mike Headley of the Galveston’s tall ship Elissa on her yearly sail. She is a three-masted barque built in Aberdeen, Scotland and launched in 1877. She is now a museum ship at the Texas Seaport Museum. ﻿ … Continue reading &rarr;"
 ---

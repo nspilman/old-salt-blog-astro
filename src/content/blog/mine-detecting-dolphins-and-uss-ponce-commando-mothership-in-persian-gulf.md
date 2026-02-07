@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a \"mothership\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/USS_Ponce_LPD_15.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/USS_Ponce_LPD_15.jpg)
 
 USS Ponce
 
@@ -29,6 +29,6 @@ Or maybe not.  Some have suggested that It would not make sense to concentrate 
 
 [Transport Vessel Isn’t Being Made SEAL Mothership, Admiral Says](http://www.bloomberg.com/news/2012-01-31/uss-ponce-isn-t-persian-gulf-seal-mothership-admiral-says.html)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/AP070212021540.jpg)If mines need to be cleared from the Gulf, the Navy may be deploying more than just helicopters. There are reports that the Navy may use mine-detecting dolphins. The dolphins are trained to identify the underwater objects, including mines.  Once a mine is spotted by a dolphin, it drops an acoustic transponder nearby. Destruction of the mines is left to human divers.  “*Dolphins – – which possess sonar so keen they can discern a quarter from a dime when blindfolded and spot a 3-inch metal sphere from 370 feet away — are invaluable minesweepers*,” [reported](http://articles.sfgate.com/2003-03-27/news/17483174_1_marine-mammal-program-qasr-mines) *The San Francisco Chronicle.* 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/AP070212021540.jpg)If mines need to be cleared from the Gulf, the Navy may be deploying more than just helicopters. There are reports that the Navy may use mine-detecting dolphins. The dolphins are trained to identify the underwater objects, including mines.  Once a mine is spotted by a dolphin, it drops an acoustic transponder nearby. Destruction of the mines is left to human divers.  “*Dolphins – – which possess sonar so keen they can discern a quarter from a dime when blindfolded and spot a 3-inch metal sphere from 370 feet away — are invaluable minesweepers*,” [reported](http://articles.sfgate.com/2003-03-27/news/17483174_1_marine-mammal-program-qasr-mines) *The San Francisco Chronicle.* 
 
 [The Navy Is Depending on Dolphins to Keep the Strait of Hormuz Open](http://www.theatlanticwire.com/global/2012/01/militarys-weapon-against-iranian-mines-high-tech-dolphins/47384/)

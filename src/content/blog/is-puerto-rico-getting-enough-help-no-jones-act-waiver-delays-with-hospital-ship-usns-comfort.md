@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The island of Puerto Rico was devastated by Hurricane Maria. The damage has been described as apocalyptic.  Most of the island is without power or water and tens of thousands are in shelters or are homeless. The healthcare system is overwhelmed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/usnscomfort2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/usnscomfort2.jpg)
 
 USNS Comfort, still In Norfolk, VA
 

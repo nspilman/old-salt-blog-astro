@@ -12,12 +12,12 @@ tags:
   - "Tren de Aragua cartel"
   - "United Nations Convention on the Law of the Sea"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/09/trumpstrike.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/trumpstrike.jpg"
 author: "Rick Spilman"
 description: "On Tuesday, President Trump said that the United States had carried out a strike against a Venezuelan boat carrying drugs and killed 11 \"terrorists.\"  He said the strike \"occurred while the terrorists were at sea in International waters transporting illegal narcotics, … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/09/trumpstrike.jpg)On Tuesday, [President Trump](https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html) said that the United States had carried out a strike against a Venezuelan boat carrying drugs and killed 11 “terrorists.”  He said the strike “occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States.” Trump said the boat was operated by the Tren de Aragua cartel and was carrying drugs bound for the US.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/trumpstrike.jpg)On Tuesday, [President Trump](https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html) said that the United States had carried out a strike against a Venezuelan boat carrying drugs and killed 11 “terrorists.”  He said the strike “occurred while the terrorists were at sea in International waters transporting illegal narcotics, heading to the United States.” Trump said the boat was operated by the Tren de Aragua cartel and was carrying drugs bound for the US.
 
 The strike represents a significant departure from traditional drug interdiction efforts. In the past, US authorities focused on seizing drugs and identifying suspects to build a criminal case. 
 

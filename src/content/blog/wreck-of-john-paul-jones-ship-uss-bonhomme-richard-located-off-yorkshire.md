@@ -12,12 +12,12 @@ tags:
   - "Bonhomme Richard"
   - "John Paul Jones"
   - "Yorkshire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/BHR.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/BHR.jpg"
 author: "Rick Spilman"
 description: "Researchers believe that wreckage found off the coast of Filey in Yorkshire is from the American warship USS Bonhomme Richard.  The ship, under the command of John Paul Jones, fought a four-hour battle with HMS Serapis off nearby Flamborough Head in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/BHR.jpg)Researchers believe that wreckage found off the coast of Filey in Yorkshire is from the American warship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(1765\)).  The ship, under the command of John Paul Jones, fought a four-hour battle with HMS *Serapis* off nearby Flamborough Head in 1779. Maritime historian Tim Akers, 60, working with British specialist satellite firm Merlin Burrows, located the wreck last month.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/BHR.jpg)Researchers believe that wreckage found off the coast of Filey in Yorkshire is from the American warship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(1765\)).  The ship, under the command of John Paul Jones, fought a four-hour battle with HMS *Serapis* off nearby Flamborough Head in 1779. Maritime historian Tim Akers, 60, working with British specialist satellite firm Merlin Burrows, located the wreck last month.
 
 Mr. Akers spoke to the UK’s [Express](https://www.express.co.uk/news/uk/1039412/shipwreck-found-usa-yorkshire-uss-bonhomme-richard-john-paul-jones-american-revolutionary), saying, “On our very first dive we knew we had found the BHR. From the finds and identifiable evidence, combined with the descriptions of the battle and both ships logs, we are convinced this is indeed the famous ship.”
 

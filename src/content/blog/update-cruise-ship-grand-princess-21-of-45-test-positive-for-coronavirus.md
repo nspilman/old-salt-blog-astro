@@ -11,12 +11,12 @@ tags:
   - "cruise ship"
   - "Grand Princess"
   - "San Francisco"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grandprincess.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grandprincess.jpg"
 author: "Rick Spilman"
 description: "In a press conference yesterday, Vice President Pence announced that of the 45 people tested on the cruise ship Grand Princess, 21 has been found to be infected with the coronavirus Covid-19. Of the 21, 19 were ship’s crew and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grandprincess.jpg)In a press conference yesterday, [Vice President Pence announced](https://www.local10.com/news/local/2020/03/07/vice-president-mike-pence-to-speak-at-port-everglades-addressing-cruise-line-coronavirus-concerns/) that of the 45 people tested on the cruise ship [*Grand Princess*](https://en.wikipedia.org/wiki/Grand_Princess), 21 has been found to be infected with the coronavirus Covid-19. Of the 21, 19 were ship’s crew and two were passengers. The San Francisco bound ship had been held offshore in the Pacific pending the results of the testing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grandprincess.jpg)In a press conference yesterday, [Vice President Pence announced](https://www.local10.com/news/local/2020/03/07/vice-president-mike-pence-to-speak-at-port-everglades-addressing-cruise-line-coronavirus-concerns/) that of the 45 people tested on the cruise ship [*Grand Princess*](https://en.wikipedia.org/wiki/Grand_Princess), 21 has been found to be infected with the coronavirus Covid-19. Of the 21, 19 were ship’s crew and two were passengers. The San Francisco bound ship had been held offshore in the Pacific pending the results of the testing.
 
 He said that the ship would be moved to a “non-commercial port” this weekend. “All passengers and crew will be tested for the coronavirus,” Pence said. “Those that need to be quarantined will be quarantined. Those that require additional medical attention will receive it.” 
 

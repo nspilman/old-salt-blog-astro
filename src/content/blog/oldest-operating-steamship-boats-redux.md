@@ -8,12 +8,12 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/oldeststeam1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/oldeststeam1.jpg"
 author: "Rick Spilman"
 description: "We recently posted, \"Which is the Oldest Operating Steamship?\" We thought that \"the oldest steamer may be the Norwegian PS Skibladner, which began service in August 1856 on Lake Mjøsa. We also asked, \"So, which vessels have we missed? Any … Continue reading &rarr;"
 ---
 
-![oldeststeam1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/oldeststeam1.jpg)
+![oldeststeam1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/oldeststeam1.jpg)
 
 Tudor Vladimirescu,
 
@@ -34,7 +34,7 @@ Charles Payton and Roger Marsh mentioned the 1861 built steam tug *Mayflower* of
 [Mayflower Steam Tug](https://youtu.be/m-ImwmHejDc)  
 Captain D. Peter Boucher, Kt. SMOM, also suggested “another interesting collection of active paddle steamers are those of the Swiss lakes. Ranging in age from 1895 to 1927 they are a wonderful way to see the towns and villages around the various lakes. Those of the Vierwaldstattersee (Lake Lucerne), which sail all year round, I have sailed in them several times and they handle beautifully under side paddles.”
 
-![PS Uri Photo : Malcolm Oliver](http://www.oldsaltblog.com/wp-content/uploads/2016/11/psuri.jpg)
+![PS Uri Photo : Malcolm Oliver](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/psuri.jpg)
 
 PS Uri Photo : Malcolm Oliver
 

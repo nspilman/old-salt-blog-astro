@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last July, we posted about North Carolina’s oldest shipwreck which was moved to the Graveyard of the Atlantic Museum for preservation.    Now the curators at the museum are trying to learn,as quickly as possible, how to preserve the crumbling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/corolla11.jpg)Last July, [we posted about North Carolina’s oldest shipwreck](http://www.oldsaltblog.com/2010/07/23/north-carolinas-oldest-shipwreck-moved-to-the-graveyard-of-the-atlantic-museum/) which was moved to the [Graveyard of the Atlantic Museum](http://www.graveyardoftheatlantic.com/) for preservation.    Now the curators at the museum are trying to learn,as quickly as possible, how to preserve the crumbling wreck.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/corolla11.jpg)Last July, [we posted about North Carolina’s oldest shipwreck](http://www.oldsaltblog.com/2010/07/23/north-carolinas-oldest-shipwreck-moved-to-the-graveyard-of-the-atlantic-museum/) which was moved to the [Graveyard of the Atlantic Museum](http://www.graveyardoftheatlantic.com/) for preservation.    Now the curators at the museum are trying to learn,as quickly as possible, how to preserve the crumbling wreck.
 
 [Experts race the clock to preserve N.C. shipwreck](http://hamptonroads.com/2011/01/experts-race-clock-preserve-nc-shipwreck)  
   

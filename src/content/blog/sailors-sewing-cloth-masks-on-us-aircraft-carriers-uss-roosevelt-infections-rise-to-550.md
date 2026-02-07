@@ -13,12 +13,12 @@ tags:
   - "Nimitz"
   - "Theodore Roosevelt"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/nimitzclass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/nimitzclass.jpg"
 author: "Rick Spilman"
 description: "Since April 5, the U.S. Navy has required fabric face coverings for all service members and civilians where social distancing isn’t possible, such as in the cramped quarters aboard an aircraft carrier or other Navy ship. While they required face … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/nimitzclass.jpg)Since April 5, the U.S. Navy has required fabric face coverings for all service members and civilians where social distancing isn’t possible, such as in the cramped quarters aboard an aircraft carrier or other Navy ship. While they required face coverings, they did not, however, provide cloth masks to Navy crews. The Navy appears to be no more prepared for the pandemic than the rest of the Federal government.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/nimitzclass.jpg)Since April 5, the U.S. Navy has required fabric face coverings for all service members and civilians where social distancing isn’t possible, such as in the cramped quarters aboard an aircraft carrier or other Navy ship. While they required face coverings, they did not, however, provide cloth masks to Navy crews. The Navy appears to be no more prepared for the pandemic than the rest of the Federal government.
 
 When no cloth masks were forthcoming, sailors aboard aircraft carriers have begun to make their own. [*Marine Executive* reports](https://www.maritime-executive.com/article/aircraft-carrier-crews-launch-mask-making-drive):
 

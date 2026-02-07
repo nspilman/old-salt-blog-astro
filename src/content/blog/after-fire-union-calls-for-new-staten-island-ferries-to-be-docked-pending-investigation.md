@@ -15,12 +15,12 @@ tags:
   - "Ollis Class Staten Island ferry"
   - "Sandy Ground"
   - "union"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/siferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/siferry.jpg"
 author: "Rick Spilman"
 description: "On December 22, the new Ollis Class Staten Island ferry Sandy Ground suffered an engine room fire at the height of rush hour, requiring the evacuation of 866 passengers and 16 crew members aboard. The ferry was anchored as firefighters … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/siferry.jpg)On December 22, the new Ollis Class Staten Island ferry [*Sandy Ground*](https://www.silive.com/news/2022/06/sandy-ground-ferryboat-now-in-service-heres-what-you-need-to-know-about-new-staten-island-ferry-vessels.html) suffered an engine room fire at the height of rush hour, requiring [the evacuation of 866 passengers and 16 crew members aboard](https://www.workboat.com/passenger-vessels/staten-island-ferry-passengers-evacuated-after-engine-room-fire). The ferry was anchored as firefighters extinguished the fire. Five passengers were reported to be injured. Fortunately, there were no fatalities.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/siferry.jpg)On December 22, the new Ollis Class Staten Island ferry [*Sandy Ground*](https://www.silive.com/news/2022/06/sandy-ground-ferryboat-now-in-service-heres-what-you-need-to-know-about-new-staten-island-ferry-vessels.html) suffered an engine room fire at the height of rush hour, requiring [the evacuation of 866 passengers and 16 crew members aboard](https://www.workboat.com/passenger-vessels/staten-island-ferry-passengers-evacuated-after-engine-room-fire). The ferry was anchored as firefighters extinguished the fire. Five passengers were reported to be injured. Fortunately, there were no fatalities.
 
 Now, the [Marine Engineers’ Beneficial Association](https://www.msn.com/en-us/news/us/staten-island-ferry-union-wants-nyc-s-new-boats-docked-after-fire/ar-AA15QMkT?ocid=weather-verthp-feeds) — which represents captains, mates, and engineers on the Staten Island Ferry — has written a letter to the city Department of Transportation, calling for three Ollis-class ferries to be put out of service while the city probes the blaze on the *Sandy Ground* ferry.
 

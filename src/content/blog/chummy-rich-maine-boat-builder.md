@@ -7,7 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/chummy1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/chummy1.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating video showing the construction of a traditional cruiser built by a master boat builder and his crew. Chummy Rich is a fifth generation boat builder from Bernard, Maine. Like his forebears going back to the 1800’s, he … Continue reading &rarr;"
 ---

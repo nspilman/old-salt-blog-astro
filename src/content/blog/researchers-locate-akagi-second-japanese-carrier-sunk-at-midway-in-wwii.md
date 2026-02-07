@@ -14,7 +14,7 @@ tags:
   - "Japanese aircraft carrier"
   - "RV Petrel"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/akagi.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/akagi.jpg"
 author: "Rick Spilman"
 description: "The RV Petrel has located the wreckage of the Japanese aircraft carrier Akagi, sunk in the Battle of Midway in June 1942. The ship is the second of two sunken Japanese carriers that the Petrel has located two days apart. … Continue reading &rarr;"
 ---

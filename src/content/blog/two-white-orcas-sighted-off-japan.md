@@ -12,12 +12,12 @@ tags:
   - "killer whales"
   - "leucism"
   - "white orcas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/whiteorca.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/whiteorca.jpg"
 author: "Rick Spilman"
 description: "The Live Science blog reports that whale watchers in Japan were recently treated to a rare wildlife encounter when they saw, not one, but two white orcas swimming side by side. The pair and their pod were spotted by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/whiteorca.jpg)The [Live Science blog](https://www.livescience.com/pair-white-orcas-killer-whales-japan.html) reports that whale watchers in Japan were recently treated to a rare wildlife encounter when they saw, not one, but two white orcas swimming side by side.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/whiteorca.jpg)The [Live Science blog](https://www.livescience.com/pair-white-orcas-killer-whales-japan.html) reports that whale watchers in Japan were recently treated to a rare wildlife encounter when they saw, not one, but two white orcas swimming side by side.
 
 The pair and their pod were spotted by a group on a Gojiraiwa Kanko Whale Watching boat off the coast of Rausu on the northernmost of Japan’s main islands called Hokkaido on July 24, according to a [Facebook post](https://www.facebook.com/410621258958493/posts/4373614379325808/?d=n).
 

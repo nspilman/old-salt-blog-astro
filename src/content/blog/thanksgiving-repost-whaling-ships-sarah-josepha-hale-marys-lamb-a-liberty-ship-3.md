@@ -14,12 +14,12 @@ tags:
   - "Mary's Lamb"
   - "Sarah Josepha Hale"
   - "whaling ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.) What do whaling ships, a child’s nursery rhyme, a female magazine editor, and Abraham Lincoln have to do … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg)Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg)Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.)
 
 What do whaling ships, a child’s nursery rhyme, a female magazine editor, and Abraham Lincoln have to do with Thanksgiving? An updated repost.
 

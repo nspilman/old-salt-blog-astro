@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "New facial reconstruction technology applied to the skull of one of the members of the ill-fated Franklin expedition may rewrite accepted history. The skeleton long believed to be that of Henry Le Vesconte, a lieutenant aboard HMS Erebus, is now believed to be that of  Harry … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/edited-goodsir-comparison.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/edited-goodsir-comparison.jpg)
 
 New facial reconstruction technology applied to the skull of one of the members of the ill-fated [Franklin expedition](http://en.wikipedia.org/wiki/Franklin's_lost_expedition) may rewrite accepted history. The skeleton long believed to be that of Henry Le Vesconte, a lieutenant aboard [HMS *Erebus*,](http://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) is now believed to be that of  Harry Goodsir, an assistant surgeon and naturalist on the expedition.
 

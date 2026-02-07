@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Narratively|NYC is a new web magazine with a focus, as the name implies, on narrative journalism involving New York City. For the past week, Narratively|NYC has run new features each day on New York harbor. Worth checking out.  Thanks to Carolina Salguero at … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/narratively1.jpg)Narratively|NYC](http://narrative.ly/2012/10/) is a new web magazine with a focus, as the name implies, on narrative journalism involving New York City. For the past week, [Narratively|NYC](http://narrative.ly/2012/10/) has run new features each day on New York harbor. Worth checking out.  Thanks to Carolina Salguero at [Portside New York](http://portsidenewyork.org/) for pointing it out.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/narratively1.jpg)Narratively|NYC](http://narrative.ly/2012/10/) is a new web magazine with a focus, as the name implies, on narrative journalism involving New York City. For the past week, [Narratively|NYC](http://narrative.ly/2012/10/) has run new features each day on New York harbor. Worth checking out.  Thanks to Carolina Salguero at [Portside New York](http://portsidenewyork.org/) for pointing it out.
 
 *   Monday – [Tugs, a short documentary by Jessica Edwards](http://narrative.ly/2012/10/tugs-harbor-cowboys/) : *Among the scallywags and salty dogs of New York, tug boat traditions endure.*
 *   Tuesday – [Defending the Marsh by Susan M. Lee](http://narrative.ly/2012/10/defending-the-marsh/) : *Seed by seed, a community bands together to save the lifeblood of Jamaica Bay.*

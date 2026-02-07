@@ -12,12 +12,12 @@ tags:
   - "feline class"
   - "Oli the cat"
   - "Sylph VI"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/oli2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/oli2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Oli the cat, sailing with Captain Bob Williams and co-skipper  Chris Warren, on Sylph VI,  in the two-handed division of the 78th Rolex Sydney to Hobart Yacht Race.  Oli and his crew finished the race, begun on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/oli2.jpg)We recently [posted about Oli the cat](https://www.oldsaltblog.com/2023/12/a-cat-makes-history-in-the-sydney-to-hobart-race/), sailing with Captain Bob Williams and co-skipper  Chris Warren, on [*Sylph VI*](https://www.rolexsydneyhobart.com/the-yachts/2023/sylph-vi-th/?raceId=176&SeriesId=2),  in the two-handed division of the 78th Rolex Sydney to Hobart Yacht Race.  Oli and his crew finished the race, begun on Boxing Day, on January 1st at 8 AM. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/oli2.jpg)We recently [posted about Oli the cat](https://www.oldsaltblog.com/2023/12/a-cat-makes-history-in-the-sydney-to-hobart-race/), sailing with Captain Bob Williams and co-skipper  Chris Warren, on [*Sylph VI*](https://www.rolexsydneyhobart.com/the-yachts/2023/sylph-vi-th/?raceId=176&SeriesId=2),  in the two-handed division of the 78th Rolex Sydney to Hobart Yacht Race.  Oli and his crew finished the race, begun on Boxing Day, on January 1st at 8 AM. 
 
 Technically, Sylph VI, a 12m (40ft) yacht built in 1960, and the oldest yacht in the fleet, was the last yacht to complete the race. (At least 18 of the fleet did not finish the race.)  So while not the fastest yacht in the 103-boat Sydney to Hobart race, *Sylph VI* was clearly the fastest yacht with a cat aboard — the unchallenged winner of the “feline class.”  (Oli was also the first feline seafarer in the 78-year history of the grueling regatta.)
 

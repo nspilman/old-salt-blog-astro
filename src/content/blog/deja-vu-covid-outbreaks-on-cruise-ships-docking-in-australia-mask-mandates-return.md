@@ -13,12 +13,12 @@ tags:
   - "COVID-19"
   - "cruise ships"
   - "mask mandates"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grandprincess2.jpg"
 author: "Rick Spilman"
 description: "In the words of Yogi Berra, \"It’s like deja vu all over again.\" Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia.  In March of 2020 at the beginning of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grand3.jpg)In the [words of Yogi Berra](https://www.brainyquote.com/quotes/yogi_berra_135233), “It’s like deja vu all over again.” Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grand3.jpg)In the [words of Yogi Berra](https://www.brainyquote.com/quotes/yogi_berra_135233), “It’s like deja vu all over again.” Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia. 
 
 In March of 2020 at the beginning of the pandemic, 700 passengers and crew on the [*Diamond Princess*](https://www.oldsaltblog.com/2020/03/will-coronavirus-cripple-the-cruise-industry-state-department-warns-americans-off-cruises/) became infected with the Covid-19 virus. The virus also spread across other cruise ships, ultimately resulting in the total shutdown of the worldwide shutdown of the cruise industry. 
 

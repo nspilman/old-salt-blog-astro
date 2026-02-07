@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "An interview with Alaric Bond by the award winning author, Joan Druett. Reposted with permission from her World of the Written Word blog."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2008/09/Alaric_1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/Alaric_1.jpg)
 
   
 Alaric Bond

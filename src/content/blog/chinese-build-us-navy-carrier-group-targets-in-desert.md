@@ -13,12 +13,12 @@ tags:
   - "China"
   - "Chinese military"
   - "Taklamakan desert"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/carriertarget.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/carriertarget.jpg"
 author: "Rick Spilman"
 description: "The Chinese military has built targets in the shape of an American aircraft carrier and other U.S. warships in the Taklamakan desert as part of a new target range complex, according to photos from satellite imagery company Maxar. USNI News … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/carriertarget.jpg)The Chinese military has built targets in the shape of an American aircraft carrier and other U.S. warships in the Taklamakan desert as part of a new target range complex, according to photos from satellite imagery company Maxar.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/carriertarget.jpg)The Chinese military has built targets in the shape of an American aircraft carrier and other U.S. warships in the Taklamakan desert as part of a new target range complex, according to photos from satellite imagery company Maxar.
 
 [USNI News](https://news.usni.org/2021/11/07/china-builds-missile-targets-shaped-like-u-s-aircraft-carrier-destroyers-in-remote-desert) reports that the full-scale outline of a U.S. carrier and at least two Arleigh Burke-class destroyers are part of the target range that has been built in the Ruoqiang region in central China. The site is near a former target range China used to test early versions of its so-called carrier killer DF-21D anti-ship ballistic missiles, according to [press reports in 2013.](https://www.businessinsider.com/chinas-carrier-killer-missile-test-proves-df-21d-lives-up-to-name-2013-1)
 

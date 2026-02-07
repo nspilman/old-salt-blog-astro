@@ -15,12 +15,12 @@ tags:
   - "South African Maritime Safety Authority​"
   - "South Atlantic"
   - "Tristan da Cunha"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/geosearcher.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/geosearcher.jpg"
 author: "Rick Spilman"
 description: "A rescue is underway to save 62 seafarers stranded on Gough Island in the South Atlantic, one of the most remote islands in the world. The fishing/research vessel, Geo Searcher, is reported to have sunk after hitting rocks about a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/geosearcher.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/geosearcher.jpg)
 
 Image: Tristan da Cunha Website
 

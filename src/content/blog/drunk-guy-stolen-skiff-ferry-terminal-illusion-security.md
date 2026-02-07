@@ -10,12 +10,12 @@ tags:
   - "new york harbor"
   - "security"
   - "Staten Island Ferry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/siterminal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/siterminal.jpg"
 author: "Rick Spilman"
 description: "Last Thursday evening, a man described as being extremely drunk, stole a skiff in Bayonne, NJ, and drove it across New York harbor to Staten Island. He docked the boat in a slip at the St. George Staten Island Ferry … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/siterminal.jpg)Last Thursday evening, a man described as being [extremely drunk](http://www.nydailynews.com/new-york/drunken-boater-takes-stolen-skiff-ride-s-ferry-terminal-article-1.3582403), stole a skiff in Bayonne, NJ, and drove it across New York harbor to Staten Island. He docked the boat in a slip at the St. George Staten Island Ferry Terminal, walked up the gangway and disappeared. The problem is that the ferry terminal docks are considered to be a “secure area” and the drunken man walked right through several restricted areas to make his escape. Alarms bells, literally and figuratively, have been going off ever since.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/siterminal.jpg)Last Thursday evening, a man described as being [extremely drunk](http://www.nydailynews.com/new-york/drunken-boater-takes-stolen-skiff-ride-s-ferry-terminal-article-1.3582403), stole a skiff in Bayonne, NJ, and drove it across New York harbor to Staten Island. He docked the boat in a slip at the St. George Staten Island Ferry Terminal, walked up the gangway and disappeared. The problem is that the ferry terminal docks are considered to be a “secure area” and the drunken man walked right through several restricted areas to make his escape. Alarms bells, literally and figuratively, have been going off ever since.
 
 The Staten Island Ferry is the single busiest ferry route in the United States with an average daily ridership of around 65,000 passengers. Last year it set a record for carrying almost 24 million people.
 

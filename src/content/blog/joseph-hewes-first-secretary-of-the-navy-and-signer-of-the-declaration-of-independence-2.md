@@ -9,12 +9,12 @@ tags:
   - "Declaration of Independence"
   - "Joseph Hewes"
   - "Secretary of the Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/hewes2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/hewes2.jpg"
 author: "Rick Spilman"
 description: "Happy 4th of July to all.  Here is lightly updated repost appropriate for the day. On July 4th, Americans celebrate the signing of the Declaration of Independence from Great Britain in 1776.  Joseph Hewes was one of the lesser-known signatories … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/hewes2.jpg)Happy 4th of July to all.  Here is lightly updated repost appropriate for the day.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/hewes2.jpg)Happy 4th of July to all.  Here is lightly updated repost appropriate for the day.
 
 On July 4th, Americans celebrate the signing of the Declaration of Independence from Great Britain in 1776.  [Joseph Hewes](http://en.wikipedia.org/wiki/Joseph_Hewes) was one of the lesser-known signatories to the Declaration. He was born in New Jersey, prospered as a merchant in Philadelphia and then moved to North Carolina. He represented North Carolina in the Continental Congress and in 1776 was appointed the chairman of the naval committee.
 

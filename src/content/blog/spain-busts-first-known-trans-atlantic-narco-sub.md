@@ -11,12 +11,12 @@ tags:
   - "cocaine"
   - "narco sub"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/narcosubspain.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/narcosubspain.jpg"
 author: "Rick Spilman"
 description: "Last week, Spanish authorities seized a narco sub loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the Gulf of Mexico. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/narcosubspain.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/narcosubspain.jpg)
 
 Narco sub seized in Spain
 

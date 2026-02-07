@@ -17,12 +17,12 @@ tags:
   - "Sable Island"
   - "Sarah Packwood"
   - "Theros."
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/BCSailors.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/BCSailors.jpg"
 author: "Rick Spilman"
 description: "Last week, a 10-foot inflatable boat with two bodies on board was discovered washed ashore on Sable Island, Nova Scotia. The remains are believed to be of Brett Clibbery, 70, and Sarah Packwood, 60, from British Columbia, who were reported … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/BCSailors.jpg)Last week, a 10-foot inflatable boat with two bodies on board was discovered washed ashore on Sable Island, Nova Scotia. The remains are believed to be of Brett Clibbery, 70, and Sarah Packwood, 60, from British Columbia, who were reported missing on June 18.  Nova Scotia’s medical examiner service continues to work to positively identify the bodies,  police said, but next of kin have been notified.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/BCSailors.jpg)Last week, a 10-foot inflatable boat with two bodies on board was discovered washed ashore on Sable Island, Nova Scotia. The remains are believed to be of Brett Clibbery, 70, and Sarah Packwood, 60, from British Columbia, who were reported missing on June 18.  Nova Scotia’s medical examiner service continues to work to positively identify the bodies,  police said, but next of kin have been notified.
 
 The [CBC](https://www.cbc.ca/news/canada/nova-scotia/two-people-dead-boat-washes-ashore-sable-island-1.7261746) reports that the inflatable boat found on Sable Island, about 290 kilometers southeast of Halifax, is believed to have been from a GibSea 42 ft sailboat named [*Theros.*](https://www.facebook.com/brettandsarah?utm_source=times%20colonist&utm_campaign=times%20colonist%3A%20outbound&utm_medium=referral)
 

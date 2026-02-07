@@ -5,12 +5,12 @@ slug: "schooner-kirk-sweeney-rum-runner-behind-rum"
 excerpt: "A March snowstorm has descended on the banks of the Hudson River. To be ready for all contingencies, I went out and purchased a decent bottle of rum. One can never be too prepared. I chose a 12 year old Dominican rum, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/KSbottle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/KSbottle.jpg"
 author: "Rick Spilman"
 description: "A March snowstorm has descended on the banks of the Hudson River. To be ready for all contingencies, I went out and purchased a decent bottle of rum. One can never be too prepared. I chose a 12 year old Dominican rum, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/KSbottle.jpg)A March snowstorm has descended on the banks of the Hudson River. To be ready for all contingencies, I went out and purchased a decent bottle of rum. One can never be too prepared. I chose a 12 year old Dominican rum, [Kirk and Sweeney](https://www.caskers.com/kirk-and-sweeney-12-year-old-rum/), named after a Prohibition-era rum-running schooner.  That it is named after a schooner wasn’t the only reason that I bought the rum, but it contributed to the decision. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/KSbottle.jpg)A March snowstorm has descended on the banks of the Hudson River. To be ready for all contingencies, I went out and purchased a decent bottle of rum. One can never be too prepared. I chose a 12 year old Dominican rum, [Kirk and Sweeney](https://www.caskers.com/kirk-and-sweeney-12-year-old-rum/), named after a Prohibition-era rum-running schooner.  That it is named after a schooner wasn’t the only reason that I bought the rum, but it contributed to the decision. 
 
 I became intrigued by the schooner behind the rum. According to the distiller, 35 Maple Street,  “*In 1924, \[the Kirk and Sweeney\] was seized off the coast of New York with a massive amount of rum aboard.”*
 
@@ -24,7 +24,7 @@ In the early years of Prohibition, the owners of Canadian fishing schooners disc
 
 Because the anchored schooners were outside of US territorial waters, they were breaking no laws and the Coast Guard could do nothing while they remained in international waters. At night, bootlegger’s skiffs and boats would run out to load up on spirits and wine then return home, trying to dodge the Coast Guard, which tried to stop them as they crossed back into US waters. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/KSdeck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/KSdeck.jpg)
 
 The deck of the schooner Kirk and Sweeney with cases and barrels of rum on her deck January 13, 1924.
 

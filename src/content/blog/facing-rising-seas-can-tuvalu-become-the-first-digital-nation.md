@@ -13,12 +13,12 @@ tags:
   - "Rising Sea Levels"
   - "Simon Kofe"
   - "Tuvalu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/tuvalu.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/tuvalu.jpg"
 author: "Rick Spilman"
 description: "The Pacific island nation of Tuvalu is facing an existential threat due to rising sea levels, caused by climate change. According to NASA, the sea level in Tuvalu has risen nearly 6 inches in the past 30 years and is expected … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/tuvalu.jpg)The Pacific island nation of [Tuvalu](https://en.wikipedia.org/wiki/Tuvalu) is facing an existential threat due to rising sea levels, caused by climate change. According to [NASA](https://sealevel.nasa.gov/news/265/nasa-un-partnership-gauges-sea-level-threat-to-tuvalu/), the sea level in Tuvalu has risen nearly 6 inches in the past 30 years and is expected to rise further in the coming decades, potentially inundating large parts of the country during high tides. At the current rate of global sea level rise, the entire country will be submerged in a matter of decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/tuvalu.jpg)The Pacific island nation of [Tuvalu](https://en.wikipedia.org/wiki/Tuvalu) is facing an existential threat due to rising sea levels, caused by climate change. According to [NASA](https://sealevel.nasa.gov/news/265/nasa-un-partnership-gauges-sea-level-threat-to-tuvalu/), the sea level in Tuvalu has risen nearly 6 inches in the past 30 years and is expected to rise further in the coming decades, potentially inundating large parts of the country during high tides. At the current rate of global sea level rise, the entire country will be submerged in a matter of decades.
 
 Rather than be erased by the rising waters, Tuvalu is attempting to become the “[First Digital Nation](https://www.tuvalu.tv/),” by digitally recording its land, archiving its culture, and digitizing its government, so that Tuvalu can exist as a nation even after its land is no more. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Last May, we posted about the Tall Ship Soren Larsen’s new season of voyages –  Tall ship Soren Larsen – Pearls of the Pacific, Voyages across the South Seas 2009.  Unfortunately, the ship was hit by a rogue wave on the 1st … Continue reading &rarr;"
 ---
 
-![sorenrefit](http://www.oldsaltblog.com/wp-content/uploads/2009/10/sorenrefit.jpg)Last May, we posted about the Tall Ship *Soren Larsen*’s new season of voyages –  [Tall ship *Soren Larsen* – Pearls of the Pacific, Voyages across the South Seas 2009](http://www.oldsaltblog.com/2009/05/14/tallship-soren-larsen-pearls-of-the-pacific-voyages-across-the-south-seas-2009/).  Unfortunately, the ship was hit by a [rogue wave](http://www.oldsaltblog.com/2009/08/11/rogue-wave-hot-spots-identified/) on the 1st of June and suffered serious damage.
+![sorenrefit](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/sorenrefit.jpg)Last May, we posted about the Tall Ship *Soren Larsen*’s new season of voyages –  [Tall ship *Soren Larsen* – Pearls of the Pacific, Voyages across the South Seas 2009](http://www.oldsaltblog.com/2009/05/14/tallship-soren-larsen-pearls-of-the-pacific-voyages-across-the-south-seas-2009/).  Unfortunately, the ship was hit by a [rogue wave](http://www.oldsaltblog.com/2009/08/11/rogue-wave-hot-spots-identified/) on the 1st of June and suffered serious damage.
 
 Fortunately, no one was seriously injured, beyond a few bruises, cuts and a few strained knees. The deck house and bulwarks suffered major damage, but the ship made it safely back to port.   The last few months have been spent making repairs.  From the [*Soren Larsen* site](http://www.sorenlarsen.co.nz/index.html):  
   

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s \"2009 Flagship of  National Historic Ships\" is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Shieldhall-at-Calshot-300x1.jpg)The great challenge of ship preservation in these times always seems to be largely  financial.   *[SS Shieldhall](http://www.ss-shieldhall.co.uk/Shieldhall/Welcome.html)*, the UK’s “2009 Flagship of  National Historic Ships” is in danger of scrapping unless funds can be raised to complete and upcoming drydocking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Shieldhall-at-Calshot-300x1.jpg)The great challenge of ship preservation in these times always seems to be largely  financial.   *[SS Shieldhall](http://www.ss-shieldhall.co.uk/Shieldhall/Welcome.html)*, the UK’s “2009 Flagship of  National Historic Ships” is in danger of scrapping unless funds can be raised to complete and upcoming drydocking.
 
 [Historic steamship SS Shieldhall needs £80,000 to keep sailing](http://wavesnewsletter.com/?p=1747)  
   

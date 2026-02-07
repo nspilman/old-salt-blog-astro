@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Ever dream of sailing the Pacific on an inter-island trading ship? Well, the Auxiliary-Sail Trading Vessel Tiare Taporo, based in the Cook Islands is looking for crew.  This sounds like a fascinating opportunity for the right individuals.  From a notice by Pacific … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/Tiare-Taporo.jpg)Ever dream of sailing the Pacific on an inter-island trading ship? Well, the Auxiliary-Sail Trading Vessel *Tiare* *Taporo*, based in the Cook Islands is looking for crew.  This sounds like a fascinating opportunity for the right individuals.  From a notice by [Pacific Schooners](https://www.facebook.com/pacificschooners/): 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/Tiare-Taporo.jpg)Ever dream of sailing the Pacific on an inter-island trading ship? Well, the Auxiliary-Sail Trading Vessel *Tiare* *Taporo*, based in the Cook Islands is looking for crew.  This sounds like a fascinating opportunity for the right individuals.  From a notice by [Pacific Schooners](https://www.facebook.com/pacificschooners/): 
 
 The Auxiliary-Sail Trading Vessel *Tiare* *Taporo* is a full powered 300-ton steel ketch rigged cargo & passenger vessel serving the tropical Cook Islands, South Pacific Ocean, west of Tahiti. We are seeking mariners who are looking for professional & vocational positions in the marine industry as well as offering apprentice training opportunities. Plenty on-the-job training included. This is the unique opportunity to engage in real inter-island trade and service. 
 

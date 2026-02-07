@@ -13,12 +13,12 @@ tags:
   - "Hurricane Irma"
   - "Miami"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/enchantment1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/enchantment1.jpg"
 author: "Rick Spilman"
 description: "As Hurricane Irma proceeds toward South Florida with apocalyptic fury, it is getting harder and harder to find a place of safety or a way to escape. Gasoline and supplies are in short supply. The few north-south roads out of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/enchantment1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/enchantment1.jpg)
 
 MS Enchantment of the Seas beneath sunnier skies
 

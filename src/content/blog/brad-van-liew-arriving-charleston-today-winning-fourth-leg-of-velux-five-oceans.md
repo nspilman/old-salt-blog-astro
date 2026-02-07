@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "Brad Van Liew sailing  Le Pingouin is expected to cross the finish line in Charleston, SC, his adopted home town, some time today, continuing to dominate the Velux Five Oceans singlehanded around the world race.  Thus far, he has won all four legs of the around the world race thus far. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/vanliew.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/vanliew.jpg)
 
 Photo: Dustin K. Ryan
 

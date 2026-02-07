@@ -13,12 +13,12 @@ tags:
   - "Dominican Republic"
   - "HMS Medway"
   - "Royal Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/medway.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/medway.jpg"
 author: "Rick Spilman"
 description: "Sky News reports that HMS Medway, a Royal Navy River-class offshore patrol vessel, pursued a drug smuggler’s boat after it was spotted near the Dominican Republic, alongside a US Coast Guard Law Enforcement Detachment and accompanying aircraft. Once it was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/medway.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/medway.jpg)
 
 Photo: MOD
 

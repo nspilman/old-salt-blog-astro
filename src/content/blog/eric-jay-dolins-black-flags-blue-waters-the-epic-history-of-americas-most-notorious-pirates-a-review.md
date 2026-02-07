@@ -13,12 +13,12 @@ tags:
   - "Epic History of America's Most Notorious Pirate"
   - "Eric Jay Dolin"
   - "pirates"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/bfbwdolan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bfbwdolan.jpg"
 author: "Rick Spilman"
 description: "What is it about the pirates of the so-called \"Golden Age\" that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/bfbwdolan.jpg)What is it about the pirates of the so-called “Golden Age” that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore end and the history begin?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bfbwdolan.jpg)What is it about the pirates of the so-called “Golden Age” that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore end and the history begin?
 
 In Eric Jay Dolin’s latest book, [Black Flags, Blue Waters – the Epic History of America’s Most Notorious Pirates](https://www.amazon.com/Black-Flags-Blue-Waters-Notorious-ebook/dp/B07BLK7YFV/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537224755&sr=1-1&keywords=Black+Flags%2C+Blue+Waters+%E2%80%93+the+Epic+History+of+America%27s+Most+Notorious+Pirates), he cuts through the historical hyperbole and tells the still fascinating tale of these maritime brigands operating from the late 1600s through the early 1700s. In his account, he also shifts the focus away from strictly the Caribbean to the British North American colonies, which helps to put much of what can often seem to be merely fanciful tales into a historical context.
 

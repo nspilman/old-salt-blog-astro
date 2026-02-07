@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Lieutenant-Commander Colin de Mowbray Lieutenant-Commander Colin de Mowbray , who died on July 11 aged 65, was a helicopter pilot and veteran of the Falklands war; in retirement he sailed on, and organised, round-the-world yacht races. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/colin_1688577c.jpg)[Lieutenant-Commander Colin de Mowbray](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/7919509/Lieutenant-Commander-Colin-de-Mowbray.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/colin_1688577c.jpg)[Lieutenant-Commander Colin de Mowbray](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/7919509/Lieutenant-Commander-Colin-de-Mowbray.html)
 
 *Lieutenant-Commander Colin de Mowbray , who died on July 11 aged 65, was a helicopter pilot and veteran of the Falklands war; in retirement he sailed on, and organised, round-the-world yacht races.*  
   

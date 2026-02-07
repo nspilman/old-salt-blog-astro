@@ -12,12 +12,12 @@ tags:
   - "Polarstern"
   - "time"
   - "time zones"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/np1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/np1.jpg"
 author: "Rick Spilman"
 description: "A few years ago, we posted about the RMS Warrimoo, which is remembered, as the story goes, for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. In … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/np1.jpg)A few years ago, we posted about the [RMS *Warrimoo*](http://www.oldsaltblog.com/2018/12/rms-warrimoo-in-several-places-and-times-at-once/), which is remembered, as the story goes, for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. In doing so, the ship was said to be in two different days, two different months, two different seasons, two different years, and also in two different centuries-all at the same time. There may even be some truth to the sea story. [Click here to read more](http://www.oldsaltblog.com/2018/12/rms-warrimoo-in-several-places-and-times-at-once/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/np1.jpg)A few years ago, we posted about the [RMS *Warrimoo*](http://www.oldsaltblog.com/2018/12/rms-warrimoo-in-several-places-and-times-at-once/), which is remembered, as the story goes, for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. In doing so, the ship was said to be in two different days, two different months, two different seasons, two different years, and also in two different centuries-all at the same time. There may even be some truth to the sea story. [Click here to read more](http://www.oldsaltblog.com/2018/12/rms-warrimoo-in-several-places-and-times-at-once/).
 
 While the story of the RMS *Warrimoo* was a once in a century event,  [Katie Weeman, writing in the Scientific American Observations blog,](https://blogs.scientificamerican.com/observations/time-has-no-meaning-at-the-north-pole/?fbclid=IwAR2lPoheU42Aakj9tHHSiVn7B60tIQy22cNricQHHK3r91XH0E5_GRJzXu8) discusses a well-known spot in the ocean where time itself becomes almost meaningless. Likewise, even the concept of direction gets fuzzy, at best. She is referring, of course, to the North Pole.
 

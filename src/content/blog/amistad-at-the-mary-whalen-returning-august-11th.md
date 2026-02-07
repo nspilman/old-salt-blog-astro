@@ -5,7 +5,7 @@ slug: "amistad-at-the-mary-whalen-returning-august-11th"
 excerpt: "I was fortunate enough to be able to stop by the schooner Amistad last week when she tied up alongside Portside NewYork’s tanker Mary A. Whalen in the historic Atlantic Basin in Redhook, Brooklyn. She is a beautiful schooner with an … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/amistad.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/amistad.jpg"
 author: "Rick Spilman"
 description: "I was fortunate enough to be able to stop by the schooner Amistad last week when she tied up alongside Portside NewYork’s tanker Mary A. Whalen in the historic Atlantic Basin in Redhook, Brooklyn. She is a beautiful schooner with an … Continue reading &rarr;"
 ---

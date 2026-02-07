@@ -10,7 +10,7 @@ tags:
   - "mystic seaport"
   - "Plymouth"
   - "Ryan Smith"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/maayflowerreturns.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/maayflowerreturns.jpg"
 author: "Rick Spilman"
 description: "Here is wonderful drone footage from Ryan Smith of the Mayflower II transiting the Cape Cod Canal and then arriving in its homeport of Plymouth, MS. Her arrival had been delayed by the pandemic and then by Tropical Storm Isaias. … Continue reading &rarr;"
 ---

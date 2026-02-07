@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Wednesday night, a huge explosion ripped through West, Texas; a small central Texas town, south of Dallas. The fertilizer factory caught fire and exploded, leveling homes and buildings for a five blocks area, killing from 5 – 40 people and injuring … Continue reading &rarr;"
 ---
 
-![texascity](http://www.oldsaltblog.com/wp-content/uploads/2013/04/texascity.jpg)
+![texascity](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/texascity.jpg)
 
 Ship Wilson B. Keene sunk by the explosion of the SS Grandcamp and SS High Flyer in Texas City 1947
 

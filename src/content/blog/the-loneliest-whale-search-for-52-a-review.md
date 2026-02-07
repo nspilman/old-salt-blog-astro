@@ -15,12 +15,12 @@ tags:
   - "Joshua Zeman"
   - "Loneliest Whale"
   - "Scripps Institute of Oceanography"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/lonelistwhale2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/lonelistwhale2.jpg"
 author: "Rick Spilman"
 description: "Joshua Zeman has directed a newly released documentary, The Loneliest Whale — the Search for 52. It is a fascinating muddle of a film, well worth watching if you can overlook the mix of myth, legend, and social media sentimentality … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/lonelistwhale2.jpg)[Joshua Zeman](https://en.wikipedia.org/wiki/Joshua_Zeman) has directed a newly released documentary, [The Loneliest Whale — the Search for 52.](https://www.imdb.com/title/tt2401814/) It is a fascinating muddle of a film, well worth watching if you can overlook the mix of myth, legend, and social media sentimentality that overlay an otherwise intriguing tale.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/lonelistwhale2.jpg)[Joshua Zeman](https://en.wikipedia.org/wiki/Joshua_Zeman) has directed a newly released documentary, [The Loneliest Whale — the Search for 52.](https://www.imdb.com/title/tt2401814/) It is a fascinating muddle of a film, well worth watching if you can overlook the mix of myth, legend, and social media sentimentality that overlay an otherwise intriguing tale.
 
 To start with the story — during the Cold War, the US deployed a vast array of hydrophones to listen for Russian submarines. In 1989, they picked up a sound at 52 Hz, which was originally suspected to be a submarine by default, because no known whale called at that frequency. Blue and fin whales typically call out at 10-30 Hz. It also didn’t sound anything like a humpback whale, known for its long and wide-ranging songs from 40-800 Hz.
 

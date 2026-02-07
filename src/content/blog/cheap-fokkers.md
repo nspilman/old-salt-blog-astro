@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "OK, I admit it. I am posting this because I like the title of the article. Cheap Fokkers Peru has bought, real cheap, two Dutch maritime reconnaissance aircraft (Fokker 60s). These are slightly longer and heavier versions of the twin … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/fokker-60-RDAF-a.jpg)OK, I admit it. I am posting this because I like the title of the article.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/fokker-60-RDAF-a.jpg)OK, I admit it. I am posting this because I like the title of the article.
 
 [Cheap Fokkers](http://www.strategypage.com/htmw/htnavai/20100320.aspx)
 

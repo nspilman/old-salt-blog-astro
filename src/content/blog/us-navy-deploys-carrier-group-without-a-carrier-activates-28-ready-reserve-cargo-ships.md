@@ -12,12 +12,12 @@ tags:
   - "Carrier Group"
   - "Ready Reserve"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/readyreserveships.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/readyreserveships.jpg"
 author: "Rick Spilman"
 description: "Four ships from the Navy’s carrier Harry S. Truman Strike Group are deploying from the East Coast this week. Notably, the aircraft carrier Harry S. Truman is not one of the ships being deployed as it is still undergoing repairs for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/readyreserveships.jpg)Four ships from the Navy’s carrier *Harry S. Truman* Strike Group are deploying from the East Coast this week. Notably, the aircraft carrier *[Harry S. Truman](https://en.wikipedia.org/wiki/USS_Harry_S._Truman)* is not one of the ships being deployed as it is still undergoing repairs for an electrical system failure. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/readyreserveships.jpg)Four ships from the Navy’s carrier *Harry S. Truman* Strike Group are deploying from the East Coast this week. Notably, the aircraft carrier *[Harry S. Truman](https://en.wikipedia.org/wiki/USS_Harry_S._Truman)* is not one of the ships being deployed as it is still undergoing repairs for an electrical system failure. 
 
 [Military.com](https://www.military.com/daily-news/2019/09/13/navy-carrier-strike-group-deploying-without-its-broken-down-aircraft-carrier.html?ESRC=navy_190917.nl) reports that “the guided-missile cruiser [*Normandy*](https://en.wikipedia.org/wiki/USS_Normandy) and guided-missile destroyers [*Lassen*](https://en.wikipedia.org/wiki/USS_Lassen_\(DDG-82\)), [*Forrest*](https://en.wikipedia.org/wiki/USS_Forrest_Sherman_\(DDG-98\)) *Sherman,* and [*Farragut*](https://en.wikipedia.org/wiki/USS_Farragut_\(DDG-99\)) — will form a surface action group (SAG) as the *Truman* continues undergoing repairs.”
 

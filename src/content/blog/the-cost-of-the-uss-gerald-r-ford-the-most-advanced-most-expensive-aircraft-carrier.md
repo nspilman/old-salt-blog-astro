@@ -11,7 +11,7 @@ tags:
   - "aircraft carrier"
   - "Ford"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/gford.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/gford.jpg"
 author: "Rick Spilman"
 description: "Here is a short and concise video by Business Insider looking at the cost, the myriad of problems and the potential of the USS Gerald R. Ford, the largest, most advanced, and most expensive aircraft carrier ever built. The True … Continue reading &rarr;"
 ---

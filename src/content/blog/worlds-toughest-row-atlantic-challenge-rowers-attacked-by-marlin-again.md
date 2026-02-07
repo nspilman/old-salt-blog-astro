@@ -12,12 +12,12 @@ tags:
   - "Team Graft"
   - "Team Mayflower"
   - "World's Toughest Row - Atlantic Challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/Mayflowercrew.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/Mayflowercrew.jpg"
 author: "Rick Spilman"
 description: "The World’s Toughest Row – Atlantic Challenge, a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua, is billed as the ultimate test of endurance and adventure. In addition to … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/01/Mayflowercrew.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/Mayflowercrew.jpg)
 
 Photo: Mayflower crew
 

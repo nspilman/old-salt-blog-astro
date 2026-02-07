@@ -14,12 +14,12 @@ tags:
   - "Marinette"
   - "USS Cleveland"
   - "Wisconsin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/clevelandsidelaunchtug.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/clevelandsidelaunchtug.jpg"
 author: "Rick Spilman"
 description: "The side-launching of the Litoral Combat Ship (LCS) USS Cleveland last Saturday in the Fincantieri Marinette Marine shipyard in Marinette, Wisconsin was at the very least dramatic. When the ship slid sideways into the water it narrowly missed striking a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/clevelandsidelaunchtug.jpg)The side-launching of the Litoral Combat Ship (LCS) [USS *Cleveland*](https://en.wikipedia.org/wiki/USS_Cleveland_\(LCS-31\)) last Saturday in the Fincantieri Marinette Marine shipyard in Marinette, Wisconsin was at the very least dramatic. When the ship slid sideways into the water it narrowly missed striking a tug assisting in the launch. The wave created by the launching broke over the tug giving it a thorough dousing. From the video below, it does not appear that the two vessels actually collided.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/clevelandsidelaunchtug.jpg)The side-launching of the Litoral Combat Ship (LCS) [USS *Cleveland*](https://en.wikipedia.org/wiki/USS_Cleveland_\(LCS-31\)) last Saturday in the Fincantieri Marinette Marine shipyard in Marinette, Wisconsin was at the very least dramatic. When the ship slid sideways into the water it narrowly missed striking a tug assisting in the launch. The wave created by the launching broke over the tug giving it a thorough dousing. From the video below, it does not appear that the two vessels actually collided.
 
 The launching was also notable as the last side launch expected to be performed in the shipyard. According to the [US Department of Defense (DOD)](https://www.defense.gov/News/Releases/Release/Article/3362991/navy-to-christen-future-us-navy-ship-cleveland/), any future ships are “planned to be launched using a shiplift system.”
 

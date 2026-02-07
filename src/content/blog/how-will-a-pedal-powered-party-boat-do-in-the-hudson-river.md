@@ -11,12 +11,12 @@ tags:
   - "hudson river"
   - "New York City Cycleboats"
   - "Pedal Pub"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/cycleboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/cycleboat.jpg"
 author: "Rick Spilman"
 description: "A few years ago I was walking down a street in Austin Texas when I saw a group of folks sitting at a bar pedal by. Apparently, they were peddling a \"Pedal Pub\" on a PubCrawler tour. The Pedal Pub … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/cycleboat.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/cycleboat.jpg)
 
 A Cycleboat in calm water.
 

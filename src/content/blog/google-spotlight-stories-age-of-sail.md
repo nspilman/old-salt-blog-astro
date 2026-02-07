@@ -9,12 +9,12 @@ categories:
 tags:
   - "age of sail"
   - "Google Spotlight Stories"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/ageofsailsc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/ageofsailsc.jpg"
 author: "Rick Spilman"
 description: "Here is a visually stunning twelve-minute animation, Age of Sail by Google Spotlight Stories. The story itself is a bit anemic, but the visuals largely make up for it.  The producers describe the video as follows: Set on the open … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/ageofsailsc.jpg)Here is a visually stunning twelve-minute animation, Age of Sail by Google Spotlight Stories. The story itself is a bit anemic, but the visuals largely make up for it.  The producers describe the video as follows:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/ageofsailsc.jpg)Here is a visually stunning twelve-minute animation, Age of Sail by Google Spotlight Stories. The story itself is a bit anemic, but the visuals largely make up for it.  The producers describe the video as follows:
 
 Set on the open ocean in 1900, Age of Sail is the story of William Avery (voiced by Ian McShane), an old sailor adrift and alone in the North Atlantic. When Avery reluctantly rescues Lara, who has mysteriously fallen overboard, he finds redemption and hope in his darkest hours. Directed by ACADEMY AWARD-winning filmmaker John Kahrs. Produced with Chromosphere and Evil Eye Pictures.
 

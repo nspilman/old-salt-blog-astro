@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "On July 21, the fore topsail set on HMS Victory at the Battle of Trafalgar of 1805 will go on display in all its perforated glory. The sail has 90 shot holes and will be displayed for a limited time … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/victoryforesail.jpg)On July 21, the fore topsail set on [HMS *Victory*](https://www.hms-victory.com/) at the [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar) of 1805 will go on display in all its perforated glory. The sail has 90 shot holes and will be displayed for a limited time over the summer at the [Portsmouth Historic Dockyard](https://www.historicdockyard.co.uk/). The sail’s area is 3,618 feet, equivalent to the size of two tennis courts.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/victoryforesail.jpg)On July 21, the fore topsail set on [HMS *Victory*](https://www.hms-victory.com/) at the [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar) of 1805 will go on display in all its perforated glory. The sail has 90 shot holes and will be displayed for a limited time over the summer at the [Portsmouth Historic Dockyard](https://www.historicdockyard.co.uk/). The sail’s area is 3,618 feet, equivalent to the size of two tennis courts.
 
 Matthew Sheldon, Director of Heritage at the NMRN, said: ‘HMS Victory, Nelson and the Battle of Trafalgar are key to our history. The sail is an amazing object, scarred by battle and, like HMS *Victory* herself, a proud survivor of an iconic battle. ‘But it is also a vast handmade object from Georgian times that required great skill and knowledge to create. Seeing it is a real treat.’
 

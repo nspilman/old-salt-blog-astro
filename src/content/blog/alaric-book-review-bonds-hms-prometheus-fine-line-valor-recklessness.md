@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Originally posted in gCaptain by Rick Spilman. Reposted with permission. In Alaric Bond‘s most recent novel, HMS Prometheus, the eighth of his Fighting Sail series, the Mediterranean is a dangerous place for the Royal Navy. In the autumn of 1803, the … Continue reading &rarr;"
 ---
 
-[![hmsprometheus1](http://www.oldsaltblog.com/wp-content/uploads/2016/03/hmsprometheus1.jpg)](http://www.amazon.com/HMS-Prometheus-Fighting-Sail-Book-ebook/dp/B018WDRQAS/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1457034336&sr=8-1&keywords=hms+prometheus)
+[![hmsprometheus1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/hmsprometheus1.jpg)](http://www.amazon.com/HMS-Prometheus-Fighting-Sail-Book-ebook/dp/B018WDRQAS/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1457034336&sr=8-1&keywords=hms+prometheus)
 
 Originally posted in [gCaptain](https://gcaptain.com/book-review-alaric-bonds-hms-prometheus-fine-line-valor-recklessness/) by Rick Spilman. Reposted with permission.
 

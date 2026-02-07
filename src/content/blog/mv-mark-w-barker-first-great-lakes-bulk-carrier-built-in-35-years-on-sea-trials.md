@@ -14,12 +14,12 @@ tags:
   - "Interlake Steamship Company"
   - "MV Mark W. Barker"
   - "US flag self-propelled bulk carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/markbarker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/markbarker.jpg"
 author: "Rick Spilman"
 description: "Two years ago, we posted about the keel laying of the Interlake Steamship Company‘s bulk carrier MV Mark W. Barker at Fincantieri Bay Shipbuilding in Sturgeon Bay, WI. The ship is now completing sea trials and is expected to enter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/markbarker.jpg)Two years ago, we [posted about the keel laying](https://www.oldsaltblog.com/2020/07/keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years/) of the [Interlake Steamship Company](http://www.interlake-steamship.com/)‘s bulk carrier [MV *Mark W. Barker*](https://www.oldsaltblog.com/2020/07/keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years/) at [Fincantieri Bay Shipbuilding](https://fincantierimarinegroup.com/) in Sturgeon Bay, WI. The ship is now completing sea trials and is expected to enter service this summer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/markbarker.jpg)Two years ago, we [posted about the keel laying](https://www.oldsaltblog.com/2020/07/keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years/) of the [Interlake Steamship Company](http://www.interlake-steamship.com/)‘s bulk carrier [MV *Mark W. Barker*](https://www.oldsaltblog.com/2020/07/keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years/) at [Fincantieri Bay Shipbuilding](https://fincantierimarinegroup.com/) in Sturgeon Bay, WI. The ship is now completing sea trials and is expected to enter service this summer.
 
 The 639 ft-long, 26,000-tonne Lake-Class self-unloading bulker is the first US flag self-propelled bulk carrier to be built in the Great Lakes in 35 years and the first new-build for Interlake since 1981. 
 

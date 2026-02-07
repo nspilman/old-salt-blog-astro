@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "I would like to thank all the readers and supporters of the Old Salt Blog. Today is the fifth anniversary of the very first post, five years ago. So happy birthday to us all. Since September 19th, 2008, the blog … Continue reading &rarr;"
 ---
 
-![meMDlyQ](http://www.oldsaltblog.com/wp-content/uploads/2013/09/meMDlyQ.jpg)I would like to thank all the readers and supporters of the Old Salt Blog. Today is the fifth anniversary of the very first post, five years ago. So happy birthday to us all. Since September 19th, 2008, the blog has been visited by 968,229 unique visitors, who have viewed 1,640,344 blog pages. Not too shabby for a personal blog. Thanks to everyone for stopping by. Please have a  slice of virtual birthday cake.
+![meMDlyQ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/meMDlyQ.jpg)I would like to thank all the readers and supporters of the Old Salt Blog. Today is the fifth anniversary of the very first post, five years ago. So happy birthday to us all. Since September 19th, 2008, the blog has been visited by 968,229 unique visitors, who have viewed 1,640,344 blog pages. Not too shabby for a personal blog. Thanks to everyone for stopping by. Please have a  slice of virtual birthday cake.
 
 This is also happens to be, regrettably,  [International Talk Like A Pirate Day](http://www.talklikeapirate.com/), in which many pay homage to the Disney view of piracy, while ignoring both current events and history.   Not coincidentally, five years ago today, our very first blog post was “**Thank You for Not Talking Like A Pirate**,”  which we are reposting below:
 

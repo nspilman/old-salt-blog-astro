@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last January the power boat Ady Gil was hit by the Japanese whaling ship, Shonan Maru 2, during the Sea Shepherds‘ protest/reality TV show.  Who was responsible for the collision is still the subject of controversy. Now the captain of the Ady … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/adygil.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/adygil.jpg)
 
 The Ady Gil is hit by Japanese ship Shonan Maru 2 and, inset, Peter Bethune, top, and Paul Watson.
 

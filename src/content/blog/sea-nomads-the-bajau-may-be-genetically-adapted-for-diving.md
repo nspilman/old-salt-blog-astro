@@ -13,12 +13,12 @@ tags:
   - "Philippines"
   - "Sea Nomads"
   - "spleen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/bajaut.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/bajaut.jpg"
 author: "Rick Spilman"
 description: "The Bajau people of Indonesia, the Philippines, and Malaysia have lived for centuries at sea as hunter-gatherer nomads. They can spend up to five hours a day underwater, diving for fish, octopus and other seafood. The Bajau do not use any … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/bajaut.jpg)The [Bajau](https://jamesmorgan.co.uk/features/bajau-laut-sea-nomads/) people of Indonesia, the Philippines, and Malaysia have lived for centuries at sea as hunter-gatherer nomads. They can spend up to five hours a day underwater, diving for fish, octopus and other seafood. The Bajau do not use any sort of diving gear but simply hold their breaths. Some claim that some Bajau divers can swim underwater for as long as [13 minutes at depths over 200 feet](https://news.nationalgeographic.com/2018/04/bajau-sea-nomads-free-diving-spleen-science/). How is this possible? 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/bajaut.jpg)The [Bajau](https://jamesmorgan.co.uk/features/bajau-laut-sea-nomads/) people of Indonesia, the Philippines, and Malaysia have lived for centuries at sea as hunter-gatherer nomads. They can spend up to five hours a day underwater, diving for fish, octopus and other seafood. The Bajau do not use any sort of diving gear but simply hold their breaths. Some claim that some Bajau divers can swim underwater for as long as [13 minutes at depths over 200 feet](https://news.nationalgeographic.com/2018/04/bajau-sea-nomads-free-diving-spleen-science/). How is this possible? 
 
 Now, [scientists think that they may have found the answer](https://www.npr.org/sections/goatsandsoda/2018/04/24/604059598/the-secret-to-deep-diving-may-lie-in-the-spleen). The Bajau appear to have developed very large spleens, roughly 50 percent larger than average. Spleens? Yes, spleens.   
 

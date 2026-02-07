@@ -10,7 +10,7 @@ tags:
   - "Britain"
   - "Danny Spooner"
   - "folk singer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/dspooner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/dspooner.jpg"
 author: "Rick Spilman"
 description: "We have learned that Danny Spooner died last week.  Spooner was a well loved singer of traditional and contemporary folk songs of Britain and Australia. As a social historian, he explored British and Australian culture through folk music. Leaving school at … Continue reading &rarr;"
 ---

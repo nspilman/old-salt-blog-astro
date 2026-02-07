@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The first word that comes to mind when thinking of Albert Einstein is probably not \"sailor.\"  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
 ---
 
-![AE-Tuemmler1](http://www.oldsaltblog.com/wp-content/uploads/2014/02/AE-Tuemmler1.jpg)
+![AE-Tuemmler1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/AE-Tuemmler1.jpg)
 
 Prof. Albert Einstein on board of his sailing boat which he was given by friends. (photograph: A.Harms)
 

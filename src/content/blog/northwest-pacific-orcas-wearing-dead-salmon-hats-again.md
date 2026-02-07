@@ -11,12 +11,12 @@ tags:
   - "orcas"
   - "salmon hat"
   - "South Puget Sound"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/salmonhat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/salmonhat.jpg"
 author: "Rick Spilman"
 description: "Here is yet another story to remind us how little we understand about orcas, also known as killer whales. We are still scratching our heads over why Iberian orcas attack sailboats near Gibraltar or why orcas off South Africa attack … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/salmonhat.jpg)Here is yet another story to remind us how little we understand about orcas, also known as killer whales. We are still scratching our heads over why [Iberian orcas attack sailboats](https://www.oldsaltblog.com/2024/07/new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany/) near Gibraltar or why [orcas off South Africa attack and kill sharks, including great whites](https://www.oldsaltblog.com/2024/03/solo-orca-attacks-and-kills-great-white-shark-in-under-two-minutes-off-south-africa/), and eat only their livers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/salmonhat.jpg)Here is yet another story to remind us how little we understand about orcas, also known as killer whales. We are still scratching our heads over why [Iberian orcas attack sailboats](https://www.oldsaltblog.com/2024/07/new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany/) near Gibraltar or why [orcas off South Africa attack and kill sharks, including great whites](https://www.oldsaltblog.com/2024/03/solo-orca-attacks-and-kills-great-white-shark-in-under-two-minutes-off-south-africa/), and eat only their livers.
 
 Now, it appears that orcas on the Northwest Pacific coast of North America have started wearing salmon hats again, bringing back a bizarre trend first described in the 1980s.
 

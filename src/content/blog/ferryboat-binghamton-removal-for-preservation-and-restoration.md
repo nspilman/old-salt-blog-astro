@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "We have been asked to post this public notice seeking interested parties to remove and restore the Ferryboat Binghamton, now aground, flooded and seriously damaged in the Hudson River off Edgewater, NJ.  Interested parties should email FerryboatBinghamton@gmail.com for more information. … Continue reading &rarr;"
 ---
 
-![binghamton starboardsidecrop](http://www.oldsaltblog.com/wp-content/uploads/2016/04/binghamton-starboardsidecrop.jpg)
+![binghamton starboardsidecrop](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/binghamton-starboardsidecrop.jpg)
 
 See additional photographs below.
 
@@ -35,6 +35,6 @@ This Public Notice will expire after 90 days, on June 29th, 2016. Interested par
 
 Interested parties should email [FerryboatBinghamton@gmail.com](mailto:FerryboatBinghamton@gmail.com) for more information.
 
-![binghamton portside](http://www.oldsaltblog.com/wp-content/uploads/2016/04/binghamton-portside.jpg)
+![binghamton portside](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/binghamton-portside.jpg)
 
-![binghamton starboardside](http://www.oldsaltblog.com/wp-content/uploads/2016/04/binghamton-starboardside.jpg)
+![binghamton starboardside](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/binghamton-starboardside.jpg)

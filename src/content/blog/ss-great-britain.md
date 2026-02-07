@@ -10,7 +10,7 @@ categories:
 tags:
   - "Bristol"
   - "SS Great Britain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/04/brunelsgreatbritain-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/brunelsgreatbritain-1.jpg"
 author: "Rick Spilman"
 description: "[tribulant_slideshow gallery_id=\"4″]   I recently visited the museum ship SS Great Britain, in Bristol, UK.  When she was launched in 1843, the iron-hulled luxury passenger steamship SS Great Britain was described as \"the greatest experiment since the Creation.\" … Continue reading &rarr;"
 ---

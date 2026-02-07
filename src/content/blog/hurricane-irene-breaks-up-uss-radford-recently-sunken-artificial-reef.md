@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Just last August, the USS Arthur W. Radford, a Fletcher-class destroyer which served in the Gulf War, was sunk as an artificial reef in the Atlantic Ocean off Cape May, NJ. The 563-foot destroyer was the longest vessel ever sunk … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/radford.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/radford.jpg)
 
 USS Radford on her way to becoming an artificial reef
 

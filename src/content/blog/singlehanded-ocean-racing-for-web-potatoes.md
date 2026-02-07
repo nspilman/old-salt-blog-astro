@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Modern technology has revolutionized single handled ocean racing in so many ways for both sailors and spectators. The five sailors in the Velux Five Oceans race not only face all the hazards of the sea as they sail singlehanded around … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/veluxsprint-1.jpg)](http://www.velux5oceans.com/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/veluxsprint-1.jpg)](http://www.velux5oceans.com/)
 
 Modern technology has revolutionized single handled ocean racing in so many ways for both sailors and spectators. The five sailors in the [Velux Five Oceans race](http://www.velux5oceans.com/) not only face all the hazards of the sea as they sail singlehanded around the world, but are also blogging, taking photographs and videotaping their exploits to entertain web-potatoes around the world.  (A web-potato is similar to a couch-potato except that a web-potato sits in front of a computer rather than a  television.)  
   

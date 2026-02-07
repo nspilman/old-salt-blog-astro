@@ -12,12 +12,12 @@ tags:
   - "new york harbor"
   - "Pier 90"
   - "USNS Comfort"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usnscomfortarrivesnyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usnscomfortarrivesnyc.jpg"
 author: "Rick Spilman"
 description: "When particularly interesting ships arrive in New York harbor, I like to go down the waterfront, as time permits, to see them in. This morning was chilly and overcast and in the spirit of social distancing, I watched the arrival … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usnscomfortarrivesnyc.jpg)When particularly interesting ships arrive in New York harbor, I like to go down the waterfront, as time permits, to see them in. This morning was chilly and overcast and in the spirit of social distancing, I watched the arrival of the Navy hospital ship USNS *Comfort* by [webcam](https://www.portnywebcam.com/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usnscomfortarrivesnyc.jpg)When particularly interesting ships arrive in New York harbor, I like to go down the waterfront, as time permits, to see them in. This morning was chilly and overcast and in the spirit of social distancing, I watched the arrival of the Navy hospital ship USNS *Comfort* by [webcam](https://www.portnywebcam.com/).
 
 *Comfort* is now docked at the cruise terminal at [Pier 90 on the Hudson River](https://en.wikipedia.org/wiki/Manhattan_Cruise_Terminal).  The ship will provide an additional 1,000 beds to support the New York hospital system during the peak of coronavirus pandemic.
 

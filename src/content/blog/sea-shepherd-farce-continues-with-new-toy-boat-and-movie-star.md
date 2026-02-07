@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the \"reality\" TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/interceptor-e.jpg)[](http://www.newyorker.com/reporting/2007/11/05/071105fa_fact_khatchadourian)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/interceptor-e.jpg)[](http://www.newyorker.com/reporting/2007/11/05/071105fa_fact_khatchadourian)
 
 [Paul Watson](http://www.newyorker.com/reporting/2007/11/05/071105fa_fact_khatchadourian) and his merry band of bumbling pirates, the [Sea Shepherds](http://www.seashepherd.org/), stars of the “reality” TV show, [Whale Wars](http://animal.discovery.com/tv/whale-wars/), have a new high speed toy boat and have recruited [Michelle Rodriguez](http://www.michelle-rodriguez.com/home.htm), the actor who played the kick-ass helicopter pilot in the hit movie, *[Avatar](http://www.imdb.com/find?s=tt&q=avatar)*, to join them at some point, her schedule permitting, on a voyage in the Southern Ocean.  Nothing like a flashy boat  and Hollywood tough-girl glamor when violating international law on “reality TV.”  
   

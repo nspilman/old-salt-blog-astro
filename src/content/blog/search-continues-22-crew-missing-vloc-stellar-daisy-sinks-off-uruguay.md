@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "So far, only two of the crew of 24 have been rescued after the Very Large Ore Carrier (VLOC) Stellar Daisy capsized and sank suddenly on Friday, March 31st. The 266,00 DWT Marshall Island registered  bulk carrier was reported to have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/stellardaisy.jpg)So far, only two of the crew of 24 have been rescued after the Very Large Ore Carrier (VLOC) *Stellar Daisy* capsized and sank suddenly on Friday, March 31st. The 266,00 DWT Marshall Island registered  bulk carrier was reported to have been in calm conditions, roughly 2000 miles off Montevideo, Uruguay, when she capsized. The ship departed from Brasil bound for China on March 26 with a full load of iron ore. The *Stellar Daisy* had a crew of 14 Filipinos and eight South Koreans.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/stellardaisy.jpg)So far, only two of the crew of 24 have been rescued after the Very Large Ore Carrier (VLOC) *Stellar Daisy* capsized and sank suddenly on Friday, March 31st. The 266,00 DWT Marshall Island registered  bulk carrier was reported to have been in calm conditions, roughly 2000 miles off Montevideo, Uruguay, when she capsized. The ship departed from Brasil bound for China on March 26 with a full load of iron ore. The *Stellar Daisy* had a crew of 14 Filipinos and eight South Koreans.
 
 On Friday, someone on the ship sent a text message to Polaris Shipping, the ship’s owner, saying the freighter was taking on water.  The ship managers attempted to contact the ship but to no avail. Not long after, an emergency rescue beacon was activated.
 

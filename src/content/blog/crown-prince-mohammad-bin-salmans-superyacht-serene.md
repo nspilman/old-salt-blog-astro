@@ -11,12 +11,12 @@ tags:
   - "Crown Prince Mohammad bin Salman"
   - "Serene"
   - "superyacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/serene.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/serene.jpg"
 author: "Rick Spilman"
 description: "Crown Prince Mohammad bin Salman, the heir to the Saudi throne, has notionally been leading a sweeping crackdown on corruption and self-enrichment.  This has not stopped him from making some rather impressive purchases himself. Two years ago, the prince purchased, through intermediaries, Chateau Louis … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/serene.jpg)Crown Prince Mohammad bin Salman, the heir to the Saudi throne, has notionally been l[eading a sweeping crackdown on corruption and self-enrichment](https://www.nytimes.com/2017/11/04/world/middleeast/saudi-arabia-waleed-bin-talal.html).  This has not stopped him from making some rather impressive purchases himself. Two years ago, the prince purchased, through intermediaries, [Chateau Louis XIV](https://www.nytimes.com/2017/12/16/world/middleeast/saudi-prince-chateau.html), which has been described as “the world’s most expensive home,” for $300 million. Even more expensive, however, was his purchase of the superyacht *Serene* in 2015.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/serene.jpg)Crown Prince Mohammad bin Salman, the heir to the Saudi throne, has notionally been l[eading a sweeping crackdown on corruption and self-enrichment](https://www.nytimes.com/2017/11/04/world/middleeast/saudi-arabia-waleed-bin-talal.html).  This has not stopped him from making some rather impressive purchases himself. Two years ago, the prince purchased, through intermediaries, [Chateau Louis XIV](https://www.nytimes.com/2017/12/16/world/middleeast/saudi-prince-chateau.html), which has been described as “the world’s most expensive home,” for $300 million. Even more expensive, however, was his purchase of the superyacht *Serene* in 2015.
 
 While vacationing in the south of France, the prince was apparently quite taken with the [yacht *Serene*.](https://en.wikipedia.org/wiki/Serene_\(yacht\)) He was apparently so impressed that he bought it on the spot from its Russian oligarch owner, Yuri Shefler, for a reported $500 million. At 134 meters (440′) and  8231 tonnes, *Serene* ranks among the world’s largest yachts.  She was built at Fincantieri in 2011, with 12 guests cabins and 30 crew cabins. The yacht also features a helicopter, two helideck platforms, one heli-hangar, a five-person submarine, a spa with sauna, a climbing wall, and a multiple deck water slide. In 2014, Bill Gates reported chartered *Serene* for $5 million for one week.
 

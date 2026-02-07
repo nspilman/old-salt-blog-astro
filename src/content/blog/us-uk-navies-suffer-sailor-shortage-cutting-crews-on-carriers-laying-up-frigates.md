@@ -16,12 +16,12 @@ tags:
   - "UK Royal Navy"
   - "US Navy"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/forddeployment.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/forddeployment.jpg"
 author: "Rick Spilman"
 description: "This year, the US and Royal navies have fallen short of meeting their recruiting goals, leaving both navies with more ships’ billets than they have personnel to fill them. In 2023, the US Navy missed its goal of recruiting 37,700 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/forddeployment.jpg)This year, the US and Royal navies have fallen short of meeting their recruiting goals, leaving both navies with more ships’ billets than they have personnel to fill them.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/forddeployment.jpg)This year, the US and Royal navies have fallen short of meeting their recruiting goals, leaving both navies with more ships’ billets than they have personnel to fill them.
 
 In 2023, the US Navy [missed its goal of recruiting](https://www.forbes.com/sites/craighooper/2023/12/12/facing-a-navy-wide-sailor-shortage-uss-ford-sheds-500-600-crew/?sh=4dc45f8751c0) 37,700 active-duty enlisted sailors by over 7,000, almost 20% short of its target. It also recruited 2,080 officers, almost 18% short of its 2,532 officer goal. It also missed its reserve goals by a wide margin, hitting 3,000 enlisted reservists, or almost 45% short of the 5,390 it wanted. Reserve officers also fell short by 40% hitting 1,167 of the 1,940 goal.
 

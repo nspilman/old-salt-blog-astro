@@ -11,14 +11,14 @@ author: "Rick Spilman"
 description: "The 120 year old ketch, Leader, was dismasted yesterday in force seven winds off Portland Bill, Dorset; losing her main mast, boom, sails and associated rigging.   An RNLI lifeboat was called to assist and successfully towed the Leader and her 16 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/article-2034348-0DBBCEE7000.jpg)The 120 year old ketch, *[Leader](http://www.trinitysailing.co.uk/breakthrough/vessels.html)*, was dismasted yesterday in force seven winds off Portland Bill, Dorset; losing her main mast, boom, sails and associated rigging.   An RNLI lifeboat was called to assist and successfully towed the Leader and her 16 crew to safety in Weymouth.  Aside from reports of seasickness, no one was injured.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/article-2034348-0DBBCEE7000.jpg)The 120 year old ketch, *[Leader](http://www.trinitysailing.co.uk/breakthrough/vessels.html)*, was dismasted yesterday in force seven winds off Portland Bill, Dorset; losing her main mast, boom, sails and associated rigging.   An RNLI lifeboat was called to assist and successfully towed the Leader and her 16 crew to safety in Weymouth.  Aside from reports of seasickness, no one was injured.
 
 Leader is operated by the [Trinity Sailing Trust](http://www.trinitysailing.co.uk/breakthrough/trinity_sailing_trust.html) as a sail training vessel for young people.  She was built on the Dart river in the A.W.Gibbs boatyard at Galmpton in 1892 and is one of the last working sailing trawlers still afloat.
 
 [Drama on the high seas as crew of 120ft yacht are rescued after losing mast and rigging](http://www.dailymail.co.uk/news/article-2034348/Drama-high-seas-crew-120ft-yacht-rescued-losing-mast-rigging.html?ito=feeds-newsxml)  
   
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/Leader-Publish-Jpeg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/Leader-Publish-Jpeg.jpg)
 
 Leader, under sail
 

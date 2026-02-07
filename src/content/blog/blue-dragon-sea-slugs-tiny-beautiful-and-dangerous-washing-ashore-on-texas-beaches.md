@@ -10,12 +10,12 @@ tags:
   - "Portuguese Man o' War"
   - "Sea Slug"
   - "texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/bluedragon2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/bluedragon2.jpg"
 author: "Rick Spilman"
 description: "Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches. The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/bluedragon2.jpg)Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/bluedragon2.jpg)Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches.
 
 The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug [glaucus atlanticus](https://en.wikipedia.org/wiki/Glaucus_atlanticus) known as the blue dragon (as well as the sea swallow, blue angel, and the blue ocean slug) does look and act more ferociously than its size or designation might suggest.
 

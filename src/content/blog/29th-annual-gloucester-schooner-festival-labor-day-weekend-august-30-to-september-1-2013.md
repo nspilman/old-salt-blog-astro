@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "The 29th Annual Gloucester Schooner Festival, in all its glory, is being held again over Labor Day weekend with waterfront tours, public lobster bakes, fireworks, and of course, many lovely schooners. Sunday begins with a parade of sail before the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/08/DougMangum004-banner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/DougMangum004-banner.jpg)
 
 Photo: Doug Mangum
 

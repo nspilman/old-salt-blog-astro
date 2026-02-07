@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This week the Maersk Alabama was attacked by pirates for the third time in the last two years.    In April of 2009, pirates boarded the Maersk containership and took her captain, Richard Phillips, hostage.  He was later rescued when Navy sharpshooters … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Maersk_Alabama.jpg)This week the [*Maersk Alabama*](http://en.wikipedia.org/wiki/MV_Maersk_Alabama) was attacked by pirates for the third time in the last two years.    In April of 2009, pirates boarded the Maersk containership and took her captain, Richard Phillips, hostage.  He was later rescued when Navy sharpshooters killed the pirates who were holding him.  Then in November of 2009, another group of pirates attacked the ship, but were driven off by armed guards aboard the ship.    This week, fire from armed personnel on the ship also drove off the pirates.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Maersk_Alabama.jpg)This week the [*Maersk Alabama*](http://en.wikipedia.org/wiki/MV_Maersk_Alabama) was attacked by pirates for the third time in the last two years.    In April of 2009, pirates boarded the Maersk containership and took her captain, Richard Phillips, hostage.  He was later rescued when Navy sharpshooters killed the pirates who were holding him.  Then in November of 2009, another group of pirates attacked the ship, but were driven off by armed guards aboard the ship.    This week, fire from armed personnel on the ship also drove off the pirates.
 
 [Pirates target the Maersk Alabama again](http://edition.cnn.com/2011/WORLD/africa/03/09/somalia.pirates.maersk/)  
   

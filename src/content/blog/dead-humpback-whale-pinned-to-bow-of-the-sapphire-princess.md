@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last summer,  the Sapphire Princess, a cruise ship operating on the South-West coast of Alaska, arrived in the port of Vancouver with a 70 foot long fin whale impaled on its bulbous bow.   Wednesday, almost exactly a year later, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/whale-collision.jpg)Last summer,  the *[Sapphire Princess](http://www.princess.com/learn/ships/sa/)*, a cruise ship operating on the South-West coast of Alaska, arrived in the port of Vancouver with a [70 foot long fin whale impaled on its bulbous bow](http://www.nowpublic.com/environment/rare-fin-whale-carcass-found-cruise-ship-bow-vancouver).   Wednesday, almost exactly a year later, another dead whale, an adult female humpback measuring 43 feet in length, was found pinned to bow of the same ship.  This is the third reported whale strike by the company’s Alaska fleet in a decade.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whale-collision.jpg)Last summer,  the *[Sapphire Princess](http://www.princess.com/learn/ships/sa/)*, a cruise ship operating on the South-West coast of Alaska, arrived in the port of Vancouver with a [70 foot long fin whale impaled on its bulbous bow](http://www.nowpublic.com/environment/rare-fin-whale-carcass-found-cruise-ship-bow-vancouver).   Wednesday, almost exactly a year later, another dead whale, an adult female humpback measuring 43 feet in length, was found pinned to bow of the same ship.  This is the third reported whale strike by the company’s Alaska fleet in a decade.
 
 [Dead whale found pinned to Alaska cruise ship](http://www.reuters.com/article/idUSTRE66S5VP20100730)  
   

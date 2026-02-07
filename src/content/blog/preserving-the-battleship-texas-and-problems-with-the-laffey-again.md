@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last June we posted about the near sinking of the battleship Texas.  Now a final effort to save the 96 year old ship is underway.   A cofferdam will be built around the ship to create a dry berth for the battleship. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/btexas.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/btexas.jpg)
 
 Battleship Texas
 

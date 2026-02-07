@@ -12,12 +12,12 @@ tags:
   - "MSC Gayane"
   - "Port of Philadelphia"
   - "U.S. Customs and Border Protection"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mscg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscg.jpg"
 author: "Rick Spilman"
 description: "Yesterday, US Customs seized the 9,962 TEU container ship MSC Gayane.  The MSC Gayane was the ship on which 18,000 kilograms of cocaine, worth an estimated $1.3 billion, was seized by Federal agents while at the dock in the Port … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mscg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscg.jpg)
 
 MSC Gayane – Photo: HHM / Dietmar Hasenpusch
 

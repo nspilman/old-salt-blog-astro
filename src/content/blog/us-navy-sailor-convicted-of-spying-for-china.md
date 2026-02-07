@@ -16,12 +16,12 @@ tags:
   - "Naval Base San Diego"
   - "Navy secrets"
   - "Petty Officer Wenheng Zhao"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/essex.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/essex.jpg"
 author: "Rick Spilman"
 description: "A Department of Justice statement announced that on Aug. 20, a federal jury convicted Jinchao Wei, also known as Patrick Wei, of espionage and export violations. Wei was an active-duty US Navy sailor stationed at Naval Base San Diego when … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/essex.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/essex.jpg)
 
 USS Essex
 

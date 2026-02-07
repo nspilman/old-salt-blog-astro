@@ -13,12 +13,12 @@ tags:
   - "Mihama"
   - "Suishohama beach"
   - "swimmers injured"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/bdolphin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/bdolphin.jpg"
 author: "Rick Spilman"
 description: "We have posted about orcas attacking and even sinking sailboats off the Iberian peninsula. Recently, we posted about a surfboard-stealing otter.  Now, officials say that four swimmers were injured in dolphin attacks on a beach in central Japan. The BBC … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/bdolphin.jpg)We have posted about [orcas attacking and even sinking sailboats](https://www.oldsaltblog.com/2023/02/the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely/) off the Iberian peninsula. Recently, we posted about [a surfboard-stealing otter](https://www.oldsaltblog.com/2023/07/grand-theft-otter-sea-otter-keeps-stealing-surfboards-in-santa-cruz/).  Now, officials say that four swimmers were injured in dolphin attacks on a beach in central Japan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/bdolphin.jpg)We have posted about [orcas attacking and even sinking sailboats](https://www.oldsaltblog.com/2023/02/the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely/) off the Iberian peninsula. Recently, we posted about [a surfboard-stealing otter](https://www.oldsaltblog.com/2023/07/grand-theft-otter-sea-otter-keeps-stealing-surfboards-in-santa-cruz/).  Now, officials say that four swimmers were injured in dolphin attacks on a beach in central Japan.
 
 The [BBC](https://www.bbc.com/news/world-asia-66216199) reports that one man, in his 60s, suffered broken ribs and bites to his hands after a dolphin rammed him a few meters off Suishohama beach in the town of Mihama, Fukui prefecture, early on Sunday.
 

@@ -14,12 +14,12 @@ tags:
   - "Long beach"
   - "SS Central America"
   - "Tommy Thompson"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/goldignot.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/goldignot.jpg"
 author: "Rick Spilman"
 description: "Last weekend, gold ingots and coins valued at $40 million salvaged from the wreck of the SS Central America went on display for the first time at the 2018 Long Beach Coin, Currency, Stamp & Sports Collectible Expo. (The gold … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/goldignot.jpg)Last weekend, gold ingots and coins valued at $40 million salvaged from the wreck of the [SS *Central America*](https://en.wikipedia.org/wiki/SS_Central_America) went [on display for the first time](http://www.insideedition.com/media/videos/shipwrecks-40m-gold-treasure-display-first-time-41017) at the 2018 Long Beach Coin, Currency, Stamp & Sports Collectible Expo. (The [gold is for sale](https://www.blanchardgold.com/product/1857-s-20-liberty-s-s-central-america-gold-coin-pcgs-mint-state-64ms64/) if you have the cash at your disposal.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/goldignot.jpg)Last weekend, gold ingots and coins valued at $40 million salvaged from the wreck of the [SS *Central America*](https://en.wikipedia.org/wiki/SS_Central_America) went [on display for the first time](http://www.insideedition.com/media/videos/shipwrecks-40m-gold-treasure-display-first-time-41017) at the 2018 Long Beach Coin, Currency, Stamp & Sports Collectible Expo. (The [gold is for sale](https://www.blanchardgold.com/product/1857-s-20-liberty-s-s-central-america-gold-coin-pcgs-mint-state-64ms64/) if you have the cash at your disposal.)
 
 SS *Central America* was a 280-foot paddlewheel steamer operating between New York and Aspinwall during the California Gold Rush. The ship [sank in a hurricane](http://www.sscentralamerica.com/history.html) off South Carolina in 1857, killing 425 passengers and crew and sending 30,000 pounds of California gold coins, ingots and gold dust to the sea floor. The lost gold was valued at $2 million or roughly $300-400 million in current dollars. News of the loss shook the US financial markets and contributed to the Panic of 1857. 
 

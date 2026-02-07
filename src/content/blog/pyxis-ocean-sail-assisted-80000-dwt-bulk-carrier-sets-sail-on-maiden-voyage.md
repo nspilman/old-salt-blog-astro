@@ -16,12 +16,12 @@ tags:
   - "Pyxis Ocean"
   - "Sail-Assisted"
   - "Yara Marine Technologies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/windwings.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/windwings.jpg"
 author: "Rick Spilman"
 description: "Pyxis Ocean, an 80,000 DWT bulk carrier, fitted with two WindWings, a pioneering rigid wing technology, has set sail on its maiden voyage from China to Brazil. The bulker, owned by Mitsubishi Corporation has been chartered by Cargill, one of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/windwings.jpg)[*Pyxis Ocean*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5045111/mmsi:563021600/imo:9798856/vessel:PYXIS_OCEAN), an 80,000 DWT bulk carrier, fitted with two [WindWing](https://www.bartechnologies.uk/project/windwings/)s, a pioneering rigid wing technology, has set sail on its maiden voyage from China to Brazil.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/windwings.jpg)[*Pyxis Ocean*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5045111/mmsi:563021600/imo:9798856/vessel:PYXIS_OCEAN), an 80,000 DWT bulk carrier, fitted with two [WindWing](https://www.bartechnologies.uk/project/windwings/)s, a pioneering rigid wing technology, has set sail on its maiden voyage from China to Brazil.
 
 The bulker, owned by Mitsubishi Corporation has been chartered by [Cargill](https://www.cargill.com/2023/cargill-bar-technologies-wind-technology-sets-sail), one of the world’s biggest ship charterers. Cargill has been actively exploring wind assisted propulsion as one cleaner energy option. 
 

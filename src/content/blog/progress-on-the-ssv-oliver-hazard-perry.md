@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "What is harder than clawing to windward off a lee shore?  I suspect that trying to raise funds, almost from scratch, to fund a new tall ship during a major recession can make a lee shore and a foul wind … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/OHPRI-logo.jpg)What is harder than clawing to windward off a lee shore?  I suspect that trying to raise funds, almost from scratch, to fund a new tall ship during a major recession can make a lee shore and a foul wind look like  a minor problem.   Nevertheless, the folks at  [Oliver Hazard Perry Rhode Island](http://www.ohpri.org/) are making excellent progress.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/OHPRI-logo.jpg)What is harder than clawing to windward off a lee shore?  I suspect that trying to raise funds, almost from scratch, to fund a new tall ship during a major recession can make a lee shore and a foul wind look like  a minor problem.   Nevertheless, the folks at  [Oliver Hazard Perry Rhode Island](http://www.ohpri.org/) are making excellent progress.
 
 The group’s goal is to build and maintain Rhode Island’s own tall ship, a three masted replica of a 19th century warship, offering sail training programs for all ages.  They have raised $2.2 million in donations and has another $1.7 million in loans already committed to the project which should take approximately $6.6 million to complete.  Last week the Rhode Island Senate passed legislation that would allow the state’s Industrial Recreational Building Authority to provide loan guarantees on the project.
 

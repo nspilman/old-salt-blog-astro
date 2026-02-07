@@ -16,12 +16,12 @@ tags:
   - "Russians"
   - "sea drones"
   - "Ukrainians"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/seadronekerch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/seadronekerch.jpg"
 author: "Rick Spilman"
 description: "We recently posted Ukrainian Naval Drones Redefining Warfare in the Black Sea, discussing naval drones developed by the Ukrainians with formidable ranges and increasing lethality. These sea drones are explosive uncrewed surface vessels (USVs) that have been used to attack … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/seadronekerch.jpg)We recently posted [Ukrainian Naval Drones Redefining Warfare in the Black Sea](https://www.oldsaltblog.com/2023/08/ukrainian-naval-drones-redefining-warfare-in-the-black-sea/), discussing naval drones developed by the Ukrainians with formidable ranges and increasing lethality. These sea drones are explosive uncrewed surface vessels (USVs) that have been used to attack Russian ships and shore infrastructure.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/seadronekerch.jpg)We recently posted [Ukrainian Naval Drones Redefining Warfare in the Black Sea](https://www.oldsaltblog.com/2023/08/ukrainian-naval-drones-redefining-warfare-in-the-black-sea/), discussing naval drones developed by the Ukrainians with formidable ranges and increasing lethality. These sea drones are explosive uncrewed surface vessels (USVs) that have been used to attack Russian ships and shore infrastructure.
 
 Now, following successful attacks by sea drones on one high value target, the bridge across the Kerch Strait which connects Russian-occupied Crimea to the Russian mainland, the Russians have fallen back on an ancient defensive technique, the use of [blockships](https://en.wikipedia.org/wiki/Blockship), to respond to a 21st century technology.
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The physics here is fascinating.   How is it possible that the America’s Cup challenger \"USA\" can sail at 22 knots in only two knots of wind?  Chuck Lantz of the Enquirer, explains how it is done. America’s Cup boatspeed – Making something out … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/oracle-150x100.jpg)The physics here is fascinating.   How is it possible that the America’s Cup challenger ”USA” can sail at 22 knots in only two knots of wind?  [Chuck Lantz of the Enquirer](http://www.examiner.com/x-29731-Americas-Cup-Examiner~y2010m2d11-Americas-Cup-boatspeed--Making-something-out-of-nothing), explains how it is done.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/oracle-150x100.jpg)The physics here is fascinating.   How is it possible that the America’s Cup challenger ”USA” can sail at 22 knots in only two knots of wind?  [Chuck Lantz of the Enquirer](http://www.examiner.com/x-29731-Americas-Cup-Examiner~y2010m2d11-Americas-Cup-boatspeed--Making-something-out-of-nothing), explains how it is done.
 
 [America’s Cup boatspeed – Making something out of nothing](http://www.examiner.com/x-29731-Americas-Cup-Examiner~y2010m2d11-Americas-Cup-boatspeed--Making-something-out-of-nothing)  
   

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 2007 the schooner Virginia won the great Chesapeake Bay Schooner race, establishing a record time which remains unbeaten.   This year, sadly, while the other schooners raced, she remained tied to a dock in  Norfolk, Virginia. Cash-strapped Schooner Virginia appears dead in the water … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/Smaller_virginia.jpg)In 2007 the [schooner *Virginia*](http://www.schoonervirginia.org/) won the great [Chesapeake Bay Schooner race](http://www.schoonerrace.org/), establishing a record time which remains unbeaten.   This year, sadly, while the other schooners raced, she remained tied to a dock in  Norfolk, Virginia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Smaller_virginia.jpg)In 2007 the [schooner *Virginia*](http://www.schoonervirginia.org/) won the great [Chesapeake Bay Schooner race](http://www.schoonerrace.org/), establishing a record time which remains unbeaten.   This year, sadly, while the other schooners raced, she remained tied to a dock in  Norfolk, Virginia.
 
 [Cash-strapped Schooner Virginia appears dead in the water](http://hamptonroads.com/2010/10/cashstrapped-schooner-virginia-appears-dead-water)  
   

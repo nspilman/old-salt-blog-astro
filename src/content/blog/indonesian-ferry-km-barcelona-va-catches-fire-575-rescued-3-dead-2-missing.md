@@ -14,12 +14,12 @@ tags:
   - "fire"
   - "Indonesia"
   - "Sulawesi Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/Barcelona5.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/Barcelona5.jpg"
 author: "Rick Spilman"
 description: "On Sunday, a fire broke out on the ferry KM Barcelona VA in the Celebes Sea off the northern coast of Sulawesi Island, Indonesia. The ferry was en route to Manado, on its regular half-day journey from Melonguane port, according … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/Barcelona5.jpg)On Sunday, a [fire broke out on the ferry *KM Barcelona VA*](https://apnews.com/article/indonesia-passenger-ferry-fire-4872d675acc1fdd0d53811b1d0b0e55b) in the Celebes Sea off the northern coast of Sulawesi Island, Indonesia. The ferry was en route to Manado, on its regular half-day journey from Melonguane port, according to First Adm. Franky Pasuna Sihombing, chief of the Manado navy base. Officials reported that 575 people were rescued, while three had died and two were still missing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/Barcelona5.jpg)On Sunday, a [fire broke out on the ferry *KM Barcelona VA*](https://apnews.com/article/indonesia-passenger-ferry-fire-4872d675acc1fdd0d53811b1d0b0e55b) in the Celebes Sea off the northern coast of Sulawesi Island, Indonesia. The ferry was en route to Manado, on its regular half-day journey from Melonguane port, according to First Adm. Franky Pasuna Sihombing, chief of the Manado navy base. Officials reported that 575 people were rescued, while three had died and two were still missing.
 
 The ferry’s manifest listed only 280 passengers and 15 crew members at the time of the fire. It is common for the number of passengers on a boat or ferry to differ from the manifest in Indonesia. This discrepancy can contribute to accidents and can complicate search and rescue efforts, Sihombing said.
 

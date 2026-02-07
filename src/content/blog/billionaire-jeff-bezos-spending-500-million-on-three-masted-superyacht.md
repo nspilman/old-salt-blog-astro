@@ -13,12 +13,12 @@ tags:
   - "Netherlands"
   - "Oceano"
   - "superyacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/eos-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/eos-1.jpg"
 author: "Rick Spilman"
 description: "Bloomberg is reporting that Amazon billionaire Jeff Bezos is spending upwards of $500 million to have a 417 feet (127-meter) long three-masted superyacht built at Oceano in the Netherlands. Few details are available on the newbuilding, but reports are that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/eos.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/eos.jpg)
 
 Yacht Eos, reported to be similar but smaller than Bezos’ new yacht.
 

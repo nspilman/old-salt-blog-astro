@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the \"White Lady.\"   She is the sister ship to the four-masted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/esmeralda.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/esmeralda.jpg)
 
 One of the most beautiful tall ships on the water, the Chilean Navy’s *[Esmeralda](http://en.wikipedia.org/wiki/Esmeralda_\(BE-43\))*, will be [docked in Balboa, Panama through tomorrow](http://www.newsroompanama.com/featured-events/1441-the-white-lady-visits-panama.html). Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the “White Lady.”   She is the sister ship to the four-masted topsail schooner *[Juan Sebastián Elcano](http://en.wikipedia.org/wiki/Spanish_ship_Juan_Sebasti%C3%A1n_Elcano_\(1927\))*, a training ship for the Spanish Navy.  
   

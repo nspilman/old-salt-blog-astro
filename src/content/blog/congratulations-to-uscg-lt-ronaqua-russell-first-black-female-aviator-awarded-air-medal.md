@@ -11,12 +11,12 @@ tags:
   - "Air Medal"
   - "Coast Guard"
   - "Lt. Ronaqua Russell"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/russell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/russell.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Lt. Ronaqua Russell, the first African-American female aviator in the Coast Guard to receive the Air Medal.  From the Coast Guard press release: The Air Medal is awarded to an individual who distinguishes themselves by heroic or meritorious … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/russell.jpg)Congratulations to Lt. Ronaqua Russell, the first African-American female aviator in the Coast Guard to receive the Air Medal.  From the Coast Guard [press release](https://content.govdelivery.com/accounts/USDHSCG/bulletins/232e5b9):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/russell.jpg)Congratulations to Lt. Ronaqua Russell, the first African-American female aviator in the Coast Guard to receive the Air Medal.  From the Coast Guard [press release](https://content.govdelivery.com/accounts/USDHSCG/bulletins/232e5b9):
 
 *The Air Medal is awarded to an individual who distinguishes themselves by heroic or meritorious achievement while participating in aerial flight. Russell received this honor in recognition for her actions in response to Hurricane Harvey, one of the most destructive storms in U.S. history.* 
 

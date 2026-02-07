@@ -12,12 +12,12 @@ tags:
   - "climate change"
   - "Gulf Stream"
   - "thermohaline circulation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/globalconveyor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/globalconveyor.jpg"
 author: "Rick Spilman"
 description: "A new study has determined that the vast Atlantic Ocean current circulation system, including the Gulf Stream, is at its weakest in a thousand years. The slowing of the current, the Atlantic meridional overturning circulation (AMOC), could increase sea levels … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/globalconveyor.jpg)A [new study](https://www.nature.com/articles/s41561-021-00699-z) has determined that the vast Atlantic Ocean current circulation system, including the Gulf Stream, is at its weakest in a thousand years. The slowing of the current, the [Atlantic meridional overturning circulation](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation) (AMOC), could increase sea levels on the American East coast and may result in extreme weather in Western Europe.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/globalconveyor.jpg)A [new study](https://www.nature.com/articles/s41561-021-00699-z) has determined that the vast Atlantic Ocean current circulation system, including the Gulf Stream, is at its weakest in a thousand years. The slowing of the current, the [Atlantic meridional overturning circulation](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation) (AMOC), could increase sea levels on the American East coast and may result in extreme weather in Western Europe.
 
 [The AMOC is driven by two vital components of ocean water](https://www.washingtonpost.com/climate-environment/2021/02/25/atlantic-ocean-currents-weakening-amoc-gulf-stream/?utm_campaign=wp_main&utm_medium=social&utm_source=facebook&fbclid=IwAR0ab-dzyIangXFXeVg3-Q2OeyK2XSZ_dYqYvf5VEWx6GnwkXQRQe_dCPWs): temperature and salt. In the North Atlantic, warm, salty water flows northward off the U.S. coastline on the Gulf Stream and North Atlantic Current, carrying heat from the tropics. But as it reaches the middle latitudes, it cools, and around Greenland, the cooling and the saltiness create enough density that the water begins to sink deep beneath the surface.
 

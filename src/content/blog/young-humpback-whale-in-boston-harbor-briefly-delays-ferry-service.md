@@ -13,12 +13,12 @@ tags:
   - "juvenile"
   - "Massachusetts Bay Transportation Authority"
   - "MBTA"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/bostonwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bostonwhale.jpg"
 author: "Rick Spilman"
 description: "The  Massachusetts Bay Transportation Authority (MBTA) said Wednesday that a juvenile humpback whale swimming and breaching in Boston Harbor may cause minor delays to ferry service through Thursday, August 15. CBSNews reports that the 2-year-old whale, estimated to be between 35 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/bostonwhale.jpg)The  [Massachusetts Bay Transportation Authority (MBTA) said Wednesday](https://x.com/MBTA/status/1823735432162443412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1823735432162443412%7Ctwgr%5Eb28afa10524a60f8a247864288811c779dbc6bb3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.nbcboston.com%2Fnews%2Flocal%2Fboston-harbor-whale-ferry%2F3459890%2F) that a juvenile humpback whale swimming and breaching in Boston Harbor may cause minor delays to ferry service through Thursday, August 15.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bostonwhale.jpg)The  [Massachusetts Bay Transportation Authority (MBTA) said Wednesday](https://x.com/MBTA/status/1823735432162443412?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1823735432162443412%7Ctwgr%5Eb28afa10524a60f8a247864288811c779dbc6bb3%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.nbcboston.com%2Fnews%2Flocal%2Fboston-harbor-whale-ferry%2F3459890%2F) that a juvenile humpback whale swimming and breaching in Boston Harbor may cause minor delays to ferry service through Thursday, August 15.
 
 [CBSNews](https://www.cbsnews.com/boston/news/boston-harbor-humpback-whale-ferries/) reports that the 2-year-old whale, estimated to be between 35 and 40 feet long, has been in Boston Harbor since the end of July. It likely followed prey into the harbor, explained Linnea Mayfield, the naturalist manager for Boston Harbor City Cruises. 
 

@@ -15,12 +15,12 @@ tags:
   - "ocean racing yacht"
   - "Tracy Edwards"
   - "Whitbread Round the World Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/maidenogr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/maidenogr.jpg"
 author: "Rick Spilman"
 description: "Still catching-up on interesting nautical news that transpired while I away. We would be remiss to not offer our belated congratulations to Skipper Heather Thomas and the crew of the yacht Maiden, who beat 14 other teams to win the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/maidenogr.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/maidenogr.jpg)
 
 Still catching-up on interesting nautical news that transpired while I away. We would be remiss to not offer our belated congratulations to [Skipper Heather Thomas and the crew of the yacht *Maiden*](https://oceangloberace.com/maiden-wins-mcintyre-ocean-globe/), who beat 14 other teams to win the [Ocean Globe Race](https://oceangloberace.com/) on IRC handicap, becoming the first ever all-women crew to win an around-the-world yacht race.
 

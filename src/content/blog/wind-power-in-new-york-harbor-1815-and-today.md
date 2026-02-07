@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The first wind turbine has been installed in Brooklyn. Wind power, however, has a 200 year history in NY harbor, dating back to at least 1815."
 ---
 
-![Edge's Windmill, 1815 -- Sim's Wind turbine 2015](http://www.oldsaltblog.com/wp-content/uploads/2015/01/windmills1.jpg)
+![Edge's Windmill, 1815 -- Sim's Wind turbine 2015](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/windmills1.jpg)
 
 Edge’s Windmill, 1815 — Sim’s Wind turbine 2015
 

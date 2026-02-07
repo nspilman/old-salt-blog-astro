@@ -17,12 +17,12 @@ tags:
   - "rogue wave"
   - "Tilbury"
   - "UK"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/maudstorm2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maudstorm2.jpg"
 author: "Rick Spilman"
 description: "The cruise ship MS Maud was returning to the UK from a 14 night Northern Lights cruise when it was caught in a severe storm in the North Sea. During the storm, the ship was struck by a rogue wave, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/maudstorm2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maudstorm2.jpg)
 
 The cruise ship [MS Maud](https://www.hurtigruten.com/en-us/expeditions/ships/maud/) was returning to the UK from a 14 night Northern Lights cruise when it was caught in a severe storm in the North Sea. During the storm, the ship was struck by a rogue wave, shattering the windows on the bridge deck. The flooding of the bridge deck resulted in a temporary loss of power as well as damage to the ship’s navigation systems and radars. There were also reports of a loss of bridge steering control that was taken over by an engine room backup.
 

@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The United States has something like eleven aircraft carriers, fifty nine destroyers, thirty frigates, seventy nine submarines, thirty amphibious assault ships as well as numerous minesweepers patrol craft and supply ships.  The navy’s battle fleet tonnage is greater than that of the next 13 largest navies combined.   Quite a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/Healy_in_Ice-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Healy_in_Ice-1.jpg)
 
 USCGC Healy - the US Icebreaker Fleet
 

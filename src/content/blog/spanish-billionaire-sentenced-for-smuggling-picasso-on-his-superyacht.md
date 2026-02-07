@@ -12,12 +12,12 @@ tags:
   - "Picasso"
   - "Spanish billionaire"
   - "superyacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/adix.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/adix.jpg"
 author: "Rick Spilman"
 description: "I suppose if you plan on smuggling a painting by Picasso worth close to $29 million, using a superyacht might be a stylish choice. For Spanish billionaire Jaime Botin, however, it didn’t work out too well. Forbes reports: Despite a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/adix.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/adix.jpg)
 
 Adix
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "USS Forrestal arrives in Phila. to await fate The aircraft carrier Forrestal arrived in Philadelphia Friday morning to await its fate. The ship, decommissioned in 1993 in Philadelphia after 38 years in service, had been moored next to the Saratoga … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/300px-USS_Forrestal-600px.jpg)[USS Forrestal arrives in Phila. to await fate](http://www.philly.com/inquirer/local/philadelphia/96710339.html#axzz0rOv1bMS5)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/300px-USS_Forrestal-600px.jpg)[USS Forrestal arrives in Phila. to await fate](http://www.philly.com/inquirer/local/philadelphia/96710339.html#axzz0rOv1bMS5)
 
 *The aircraft carrier Forrestal arrived in Philadelphia Friday morning to await its fate.*
 

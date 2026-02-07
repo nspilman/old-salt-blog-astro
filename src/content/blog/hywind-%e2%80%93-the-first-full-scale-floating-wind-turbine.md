@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Last week, StatoilHydro inaugurated Hywind in the North Sea off South-west Norway. Hywind is the first full scale floating wind turbine and is a research pilot program to develop a new generation of offshore wind mills. StatoilHydro inaugurates floating wind … Continue reading &rarr;"
 ---
 
-![hywindSlep_468](http://www.oldsaltblog.com/wp-content/uploads/2009/09/hywindSlep_468.jpg)
+![hywindSlep_468](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/hywindSlep_468.jpg)
 
 Last week, StatoilHydro inaugurated [Hywind](http://www.statoilhydro.com/en/TechnologyInnovation/NewEnergy/RenewablePowerProduction/Onshore/Pages/Karmoy.aspx) in the North Sea off South-west Norway. Hywind is the first full scale floating wind turbine and is a research pilot program to develop a new generation of offshore wind mills.
 

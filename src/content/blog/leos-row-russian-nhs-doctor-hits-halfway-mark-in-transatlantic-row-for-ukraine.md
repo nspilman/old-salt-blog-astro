@@ -14,12 +14,12 @@ tags:
   - "Ukraine"
   - "Ukraine Medical Charity"
   - "Ukrops"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/happyfeet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/happyfeet.jpg"
 author: "Rick Spilman"
 description: "Dr Leo Krivskiy, a doctor with the UK’s National Health Service, is rowing 2,630 nautical miles solo across the Atlantic to raise money for medics in Ukraine in a 6m (20ft) ocean rowing boat called Happy Socks. The BBC reports … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/happyfeet.jpg)[Dr Leo Krivskiy](https://www.dailyecho.co.uk/news/24651031.meet-russian-nhs-doctor-rowing-3-374-miles-ukraine/), a doctor with the UK’s National Health Service, is rowing 2,630 nautical miles solo across the Atlantic to raise money for medics in Ukraine in a 6m (20ft) ocean rowing boat called [*Happy Socks*](https://ukrivski.com/leos-row/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/happyfeet.jpg)[Dr Leo Krivskiy](https://www.dailyecho.co.uk/news/24651031.meet-russian-nhs-doctor-rowing-3-374-miles-ukraine/), a doctor with the UK’s National Health Service, is rowing 2,630 nautical miles solo across the Atlantic to raise money for medics in Ukraine in a 6m (20ft) ocean rowing boat called [*Happy Socks*](https://ukrivski.com/leos-row/).
 
 The [BBC](https://www.bbc.com/news/articles/c79dpyrexevo) reports that he has reached the midway point. The Moscow-born consultant anesthetist at Southampton General Hospital is 1,210 nautical miles from the finish in Barbados and says that he had not seen a ship for more than three weeks. He set off from Gran Canaria on Boxing Day and has currently raised more than £23,000.
 

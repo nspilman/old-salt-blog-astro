@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "My first thought was if that is a remora there must be quite a shark out there someplace. Obviously a different type of remora.  The Remora 6000 is a Remotely Operated Vehicle (ROV) that can operate at depths up to 6,000 meters.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Remora.jpg)My first thought was if that is a remora there must be quite a shark out there someplace. Obviously a different type of remora.  The [Remora 6000](http://www.phnx-international.com/Remora%206000%20ROV.htm) is a Remotely Operated Vehicle (ROV) that can operate at depths up to 6,000 meters.    It  recently  retrieved  the  black box (which is actually orange) from the wreckage of Air France Flight 447 which crashed  into the Atlantic June 1, 2009 en route from Rio de Janeiro to Paris, killing all 228 people aboard.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Remora.jpg)My first thought was if that is a remora there must be quite a shark out there someplace. Obviously a different type of remora.  The [Remora 6000](http://www.phnx-international.com/Remora%206000%20ROV.htm) is a Remotely Operated Vehicle (ROV) that can operate at depths up to 6,000 meters.    It  recently  retrieved  the  black box (which is actually orange) from the wreckage of Air France Flight 447 which crashed  into the Atlantic June 1, 2009 en route from Rio de Janeiro to Paris, killing all 228 people aboard.
 
 [Remora ROV fishes out Air France black box](http://news.cnet.com/remora-rov-fishes-out-air-france-black-box/8301-17938_105-20058852-1.html#ixzz1LQ0Tc81L)  
   

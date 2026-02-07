@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The British Tall Ship Youth Trust has published a new development plan detailing some significant changes in the organization, including the planned sale of the one remaining tall ship owned by the Trust, the Stavros S Niarchos. In September of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/StavrosNiarchos.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/StavrosNiarchos.jpg)
 
 Stavros S Niarchos - For Sale
 

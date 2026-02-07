@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In September, we posted that the Gipsy Moth IV, the famous yacht sailed by Sir Francis Chichester singlehanded around the world was for sale.   Last week, it was reported that two anonymous donors  donated more than £250,000 to the United … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/gipsymoth1.jpg)In September, we posted that the *[Gipsy Moth IV](http://en.wikipedia.org/wiki/Gipsy_Moth_IV),* the famous yacht sailed by [Sir Francis Chichester](http://en.wikipedia.org/wiki/Francis_Chichester) singlehanded around the world was for sale.   Last week, it was reported that two anonymous donors  donated more than £250,000 to the United Kingdom Sailing Academy (UKSA), the charity that owns the yacht, to allow it to continue to sail the *Gipsy Moth IV* to help train young sailors.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/gipsymoth1.jpg)In September, we posted that the *[Gipsy Moth IV](http://en.wikipedia.org/wiki/Gipsy_Moth_IV),* the famous yacht sailed by [Sir Francis Chichester](http://en.wikipedia.org/wiki/Francis_Chichester) singlehanded around the world was for sale.   Last week, it was reported that two anonymous donors  donated more than £250,000 to the United Kingdom Sailing Academy (UKSA), the charity that owns the yacht, to allow it to continue to sail the *Gipsy Moth IV* to help train young sailors.
 
 [A New Lease of Life for Gipsy Moth](http://newsblog.uksa.org/2010/11/new-lease-of-life-for-gipsy-moth-iv.html)  
   

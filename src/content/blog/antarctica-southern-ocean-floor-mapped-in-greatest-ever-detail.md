@@ -12,12 +12,12 @@ tags:
   - "IBCSO"
   - "International Bathymetric Chart of the Southern Ocean"
   - "Southern Ocean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/Sothern-ocean-chart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/Sothern-ocean-chart.jpg"
 author: "Rick Spilman"
 description: "The BBC is reporting that scientists have made the most precise map yet of the mountains, canyons and plains that make up the floor of Antarctica’s encircling Southern Ocean. Covering 48 million sq km (18.5 million sq miles), this chart … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/Sothern-ocean-chart.jpg)The [BBC](https://www.bbc.com/news/science-environment-61723806) is reporting that scientists have made the most precise map yet of the mountains, canyons and plains that make up the floor of Antarctica’s encircling Southern Ocean. Covering 48 million sq km (18.5 million sq miles), this chart for the first time details a new deepest point – a depression lying 7,432m (24,383ft) down called the Factorian Deep.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/Sothern-ocean-chart.jpg)The [BBC](https://www.bbc.com/news/science-environment-61723806) is reporting that scientists have made the most precise map yet of the mountains, canyons and plains that make up the floor of Antarctica’s encircling Southern Ocean. Covering 48 million sq km (18.5 million sq miles), this chart for the first time details a new deepest point – a depression lying 7,432m (24,383ft) down called the Factorian Deep.
 
 The [International Bathymetric Chart of the Southern Ocean (IBCSO)](https://www.scar.org/science/ibcso/home/) has taken five years to compile and updates the first attempt at a comprehensive map, which was published in 2013.
 

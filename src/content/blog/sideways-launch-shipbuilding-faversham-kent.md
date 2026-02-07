@@ -11,7 +11,7 @@ tags:
   - "Faversham"
   - "kent"
   - "shipbuilding"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/faversham.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/faversham.jpg"
 author: "Rick Spilman"
 description: "A documentary about a shipyard in Faversham, Kent where over 1200 vessels were built and launched between 1916 and 1969. The narrowness of Faversham Creek was no barrier to the launching of such large ship. Vessels were simply launched sideways. The … Continue reading &rarr;"
 ---

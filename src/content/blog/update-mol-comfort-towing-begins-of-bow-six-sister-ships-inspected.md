@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "M/V Capricorn, a tug owned by Sri Lanka Shipping, is reported to have the forward section of the MOL Comfort under tow. The 8,100-teu container ship broke in two last week while under way from Singapore to Jeddah. The forward … Continue reading &rarr;"
 ---
 
-![MV Capricorn is towing the forward section of MOL Comfort ](http://www.oldsaltblog.com/wp-content/uploads/2013/06/shipphotobelt66-1.jpg)
+![MV Capricorn is towing the forward section of MOL Comfort ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/shipphotobelt66-1.jpg)
 
 MV Capricorn is towing the forward section of MOL Comfort
 

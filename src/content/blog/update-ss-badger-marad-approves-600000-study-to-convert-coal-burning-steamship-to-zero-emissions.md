@@ -16,12 +16,12 @@ tags:
   - "SS Badger"
   - "United States Marine Highway Program"
   - "zero-emission ferry vessel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/ssbadger2023.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/ssbadger2023.jpg"
 author: "Rick Spilman"
 description: "The U.S. Department of Transportation’s Maritime Administration (MARAD) has awarded nearly $12 million in grants to eight marine highway projects across the nation under the United States Marine Highway Program (USMHP).  One of these grants, $600,000 awarded to Lake Michigan … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/ssbadger2023.jpg)The U.S. Department of Transportation’s Maritime Administration (MARAD) has awarded nearly [$12 million in grants to eight marine highway projects](https://www.maritime.dot.gov/newsroom/biden-harris-administration-announces-grants-support-more-efficient-supply-chains-running) across the nation under the United States Marine Highway Program (USMHP). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/ssbadger2023.jpg)The U.S. Department of Transportation’s Maritime Administration (MARAD) has awarded nearly [$12 million in grants to eight marine highway projects](https://www.maritime.dot.gov/newsroom/biden-harris-administration-announces-grants-support-more-efficient-supply-chains-running) across the nation under the United States Marine Highway Program (USMHP). 
 
 One of these grants, $600,000 awarded to [Lake Michigan Carferry, Inc](https://www.ssbadgerstore.com/)., is to study the feasibility of converting the historic steamship [SS *Badger*](https://en.wikipedia.org/wiki/SS_Badger), the last coal-fired, passenger car ferry operating on the Great Lakes, to a zero-emission ferry vessel. 
 

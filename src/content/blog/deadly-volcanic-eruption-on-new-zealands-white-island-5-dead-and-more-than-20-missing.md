@@ -11,12 +11,12 @@ tags:
   - "New Zealand"
   - "volcanic eruption"
   - "White Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/whiteisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/whiteisland.jpg"
 author: "Rick Spilman"
 description: "Passengers on RCL’s Ovation of the Seas who signed up for the excursion to White Island were promised \"an unforgettable guided tour of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/whiteisland.jpg)Passengers on RCL’s [*Ovation of the Seas*](https://en.wikipedia.org/wiki/Ovation_of_the_Seas) who signed up for the excursion to White Island were promised “*[an unforgettable guided tour](http://www.royalcaribbean.com/shoreExcursions/product/detail/view.do?sourcePage=shorexByPort&ProductCode=TR93&DestinationCode=) of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the world. … Gas masks/breathing apparatus helps you get up close to roaring steam vents, bubbling pits of mud, hot volcanic streams and the amazing lake of steaming acid.”*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/whiteisland.jpg)Passengers on RCL’s [*Ovation of the Seas*](https://en.wikipedia.org/wiki/Ovation_of_the_Seas) who signed up for the excursion to White Island were promised “*[an unforgettable guided tour](http://www.royalcaribbean.com/shoreExcursions/product/detail/view.do?sourcePage=shorexByPort&ProductCode=TR93&DestinationCode=) of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the world. … Gas masks/breathing apparatus helps you get up close to roaring steam vents, bubbling pits of mud, hot volcanic streams and the amazing lake of steaming acid.”*
 
 Tragically, [White Island](https://en.wikipedia.org/wiki/Whakaari_/_White_Island) lived up to its designation as a highly active volcano when it erupted today, at 2.11pm local time, 48km off the coast of the Bay of Plenty, in the North Island. Fewer than 50 people were on the island at the time.  30-38 were believed to be on an excursion from the cruise ship. Five are known to be dead. 23 people were immediately evacuated after the eruption. All those rescued had burn injuries.
 

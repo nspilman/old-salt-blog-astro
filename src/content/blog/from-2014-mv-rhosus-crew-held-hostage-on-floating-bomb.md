@@ -10,12 +10,12 @@ tags:
   - "Beirut"
   - "Mozambique"
   - "MV Rhosus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/bship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bship.jpg"
 author: "Rick Spilman"
 description: "The events leading up to the catastrophic explosion in Beirut, Lebanon that killed more than 135 and injured 5,000, began in November 2013, when the cargo ship MV Rhosus, loaded with 2,750 tonnes of ammonium nitrate, made an unplanned stop … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/bship.jpg)The events leading up to the catastrophic explosion in Beirut, Lebanon that killed more than 135 and injured 5,000, began in November 2013, when the cargo ship [MV](https://en.wikipedia.org/wiki/MV_Rhosus) *[Rhosus](https://en.wikipedia.org/wiki/MV_Rhosus),* loaded with 2,750 tonnes of ammonium nitrate, made an unplanned stop in Beirut. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/bship.jpg)The events leading up to the catastrophic explosion in Beirut, Lebanon that killed more than 135 and injured 5,000, began in November 2013, when the cargo ship [MV](https://en.wikipedia.org/wiki/MV_Rhosus) *[Rhosus](https://en.wikipedia.org/wiki/MV_Rhosus),* loaded with 2,750 tonnes of ammonium nitrate, made an unplanned stop in Beirut. 
 
 The ship, built in 1986, flying the flag of Moldova, was carrying the cargo to an explosives manufacturing firm in Mozambique. Reportedly, the ship’s owner, a Russian living in Cyprus, lacked the funds to pay the Suez Canal fees, so the ship was diverted to Beirut to pick up a cargo of heavy machinery to earn the additional cash needed to complete the journey. Once in Beirut, the machinery couldn’t be loaded and local authorities cited the ship as unseaworthy. The ship would not be allowed to leave the port until repairs were made.
 

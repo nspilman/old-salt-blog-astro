@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Updated: Danish police have announced that DNA from a headless torso found washed up on an island near Copenhagen matches that of missing Swedish journalist Kim Wall. We recently posted about the strange saga of the UC3 Nautilus. The private submarine, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/wallnautiuls.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/wallnautiuls.jpg)
 
 Missing Journalist Kim wall and submarine UC3 Nautilus
 

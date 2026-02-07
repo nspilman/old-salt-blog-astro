@@ -10,12 +10,12 @@ categories:
 tags:
   - "Erie Canal"
   - "Urger"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/urger.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/urger.jpg"
 author: "Rick Spilman"
 description: "The New York State Canal Corporation’s website still refers to the tug Urger as the \"flagship\" of the Erie Canal. The Urger served more than 60 years hauling machinery, dredges, and scows on the Erie and Champlain Canals until she was retired from service … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/urger.jpg)The New York State Canal Corporation’s website still refers to the tug *Urger* as the “[flagship](http://www.canals.ny.gov/history/tugurger.html)” of the Erie Canal. The *Urger* served more than 60 years hauling machinery, dredges, and scows on the Erie and Champlain Canals until she was retired from service in the 1980s. Now, 117-year-old tug, which has served as a floating classroom for the canal since 1991, is [earmarked to become a display at a Thruway rest stop.](https://www.timesunion.com/business/article/Pause-plans-to-scuttle-historic-boats-Canal-13239305.php) 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/urger.jpg)The New York State Canal Corporation’s website still refers to the tug *Urger* as the “[flagship](http://www.canals.ny.gov/history/tugurger.html)” of the Erie Canal. The *Urger* served more than 60 years hauling machinery, dredges, and scows on the Erie and Champlain Canals until she was retired from service in the 1980s. Now, 117-year-old tug, which has served as a floating classroom for the canal since 1991, is [earmarked to become a display at a Thruway rest stop.](https://www.timesunion.com/business/article/Pause-plans-to-scuttle-historic-boats-Canal-13239305.php) 
 
 In addition to the Canal Corporation and New York State Power Authority’s plan to beach the *Urger* at the Exit 28 rest stop in Montgomery County, they have already sunk already sunk seven canal vessels off the coast of Long Island to make artificial reefs and have another six vessels under review.
 

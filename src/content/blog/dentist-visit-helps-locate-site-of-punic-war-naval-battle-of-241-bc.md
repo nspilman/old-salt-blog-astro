@@ -16,12 +16,12 @@ tags:
   - "rostrum"
   - "Sebastiano Tusa"
   - "Sicily"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/rostrum.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/rostrum.jpg"
 author: "Rick Spilman"
 description: "An intriguing account by the BBC of archeological serendipity that began with a trip to the dentist.  The Battle of the Aegates was a naval battle fought on 10 March 241 BC between the fleets of Carthage and Rome during … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/rostrum.jpg)An intriguing account by [the BBC](https://www.bbc.com/future/article/20220426-battle-of-the-aegates-the-shipwrecks-rewriting-roman-history?at_custom4=352C1158-C798-11EC-A1C5-542116F31EAE&at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom3=BBC+News&at_campaign=64&at_custom2=facebook_page) of archeological serendipity that began with a trip to the dentist. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/rostrum.jpg)An intriguing account by [the BBC](https://www.bbc.com/future/article/20220426-battle-of-the-aegates-the-shipwrecks-rewriting-roman-history?at_custom4=352C1158-C798-11EC-A1C5-542116F31EAE&at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom3=BBC+News&at_campaign=64&at_custom2=facebook_page) of archeological serendipity that began with a trip to the dentist. 
 
 The [Battle of the Aegates](https://en.wikipedia.org/wiki/Battle_of_the_Aegates) was a naval battle fought on 10 March 241 BC between the fleets of Carthage and Rome during the First Punic War. The Roman fleet’s victory ended the 23-year-long war and established Rome’s dominance over the Mediterranean, which would last for almost 700 years.
 

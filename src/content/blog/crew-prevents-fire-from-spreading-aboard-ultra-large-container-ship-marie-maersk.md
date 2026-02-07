@@ -13,12 +13,12 @@ tags:
   - "Liberia"
   - "Triple-E class ships"
   - "ultra-large container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/mariemaersk2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/mariemaersk2.jpg"
 author: "Rick Spilman"
 description: "On the morning of Wednesday, August 13, a serious fire broke out on board AP Moller-Maersk’s ultra-large container ship Marie Maersk while sailing off the coast of Liberia. It was reported that the crew initially observed smoke from containers on … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/mariemaersk2.jpg)On the morning of Wednesday, August 13, a serious fire broke out on board AP Moller-Maersk’s ultra-large container ship [*Marie Maersk*](https://www.vesselfinder.com/vessels/details/9619933) while sailing off the coast of Liberia. It was reported that the crew initially observed smoke from containers on deck while the vessel was en route from Rotterdam, the Netherlands, to Tanjung Pelepas, Malaysia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/mariemaersk2.jpg)On the morning of Wednesday, August 13, a serious fire broke out on board AP Moller-Maersk’s ultra-large container ship [*Marie Maersk*](https://www.vesselfinder.com/vessels/details/9619933) while sailing off the coast of Liberia. It was reported that the crew initially observed smoke from containers on deck while the vessel was en route from Rotterdam, the Netherlands, to Tanjung Pelepas, Malaysia.
 
 According to Maersk, the crew immediately initiated emergency procedures and began fighting the fire on board. The company confirmed that all crew members are safe and that the vessel remains in stable condition.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Now that China has finally commissioned  Liaoning, its first aircraft carrier, the discussion has focused on whether the ship is a meaningful addition to the Chinese Navy or merely a symbol of status and prestige. Some have pointed out that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/chineseaircraftcarrier2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/chineseaircraftcarrier2.jpg)
 
 Now that China has finally commissioned  [*Liaoning*](http://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Liaoning), its first aircraft carrier, the discussion has focused on whether the ship is a meaningful addition to the Chinese Navy or merely a symbol of status and prestige. Some have pointed out that the Chinese are not believed to currently have enough carrier-capable fighter aircraft to make the ship operational. On the other hand, China does have a carrier based plane under development, so the question may be simply be how long it will take to produce the planes. Regardless, it may be that simply having an aircraft carrier provides sufficient prestige at a time when Western powers are cutting back their aircraft carrier fleets.
 

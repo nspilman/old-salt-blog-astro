@@ -11,12 +11,12 @@ tags:
   - "CDC"
   - "COVID-19"
   - "cruise ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/cruise-shipsdorian.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the Centers for Disease Control and Protection (CDC) updated its color-coded list of ships that tracks where passengers or crew have tested positive for Covid-19. The list is updated multiple times a week. The agency currently identifies 86 ships where the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/cruise-shipsdorian.jpg)Yesterday, the Centers for Disease Control and Protection ([CDC) updated its color-coded list of ships](https://www.cdc.gov/quarantine/cruise/cruise-ship-color-status.html "https://www.cdc.gov/quarantine/cruise/cruise-ship-color-status.html") that tracks where passengers or crew have tested positive for Covid-19. The list is updated multiple times a week.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg)Yesterday, the Centers for Disease Control and Protection ([CDC) updated its color-coded list of ships](https://www.cdc.gov/quarantine/cruise/cruise-ship-color-status.html "https://www.cdc.gov/quarantine/cruise/cruise-ship-color-status.html") that tracks where passengers or crew have tested positive for Covid-19. The list is updated multiple times a week.
 
 The agency currently identifies 86 ships where the number of Covid-19 cases meets the threshold for investigation — a 178% jump in 10 days — as the omicron variant spreads quickly across the U.S.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was \"was the Britney Spears of her day.\"  I think they slight poor Ms Cargill. A Scandalous Star  \"When the packet ship, The Nancy, … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/ann_cargill_203_203x1521.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2008/10/ann_cargill_203_203x1521.jpg)An intriguing news story. (Thanks to LizMc on the [Horatians](http://www.horatians.org/forum/index.php) forum.) According to the [BBC](http://www.bbc.co.uk/cornwall/content/articles/2008/09/18/history_ann_cargill_feature.shtml), Ann Carghill was **“**was the Britney Spears of her day.”  I think they slight poor Ms Cargill.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/ann_cargill_203_203x1521.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/ann_cargill_203_203x1521.jpg)An intriguing news story. (Thanks to LizMc on the [Horatians](http://www.horatians.org/forum/index.php) forum.) According to the [BBC](http://www.bbc.co.uk/cornwall/content/articles/2008/09/18/history_ann_cargill_feature.shtml), Ann Carghill was **“**was the Britney Spears of her day.”  I think they slight poor Ms Cargill.
 
 **[A Scandalous Star](http://www.bbc.co.uk/cornwall/content/articles/2008/09/18/history_ann_cargill_feature.shtml)** 
 

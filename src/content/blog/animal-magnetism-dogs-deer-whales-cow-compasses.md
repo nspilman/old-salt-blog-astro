@@ -14,12 +14,12 @@ tags:
   - "magnetic"
   - "magnetic field"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/fishcompass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/fishcompass.jpg"
 author: "Rick Spilman"
 description: "Six years ago, we posted about research that documented that when dogs defecate, they usually align their bodies along the magnetic north-south axis, not unlike the needle of a magnetic compass. It turns out that dogs are not unique in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/fishcompass.jpg)Six years ago, [we posted about research that documented that when dogs defecate](http://www.oldsaltblog.com/2014/01/the-defecating-dog-as-compass/), they usually align their bodies along the magnetic north-south axis, not unlike the needle of a magnetic compass. It turns out that dogs are not unique in being able to sense the earth’s magnetic field and act like bio-compasses. Many animals, including humans, appear to be [magnetoreceptive.](https://en.wikipedia.org/wiki/Magnetoreception)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/fishcompass.jpg)Six years ago, [we posted about research that documented that when dogs defecate](http://www.oldsaltblog.com/2014/01/the-defecating-dog-as-compass/), they usually align their bodies along the magnetic north-south axis, not unlike the needle of a magnetic compass. It turns out that dogs are not unique in being able to sense the earth’s magnetic field and act like bio-compasses. Many animals, including humans, appear to be [magnetoreceptive.](https://en.wikipedia.org/wiki/Magnetoreception)
 
 Scientists have documented that [cows and deer graze and rest aligning themselves with magnetic north](https://www.pnas.org/content/105/36/13451), all other factors being equal. (Wind and sun also affect the directions faced by cows, in particular.)
 

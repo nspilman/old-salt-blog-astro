@@ -15,12 +15,12 @@ tags:
   - "USS Abraham Lincoln"
   - "USS Nimitz"
   - "water contamination"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/uss-nimitz.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/uss-nimitz.jpg"
 author: "Rick Spilman"
 description: "The US Navy and the Marine Corps have a serious water contamination problem. Last December we posted that on the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families were forced from their homes and suffered illness by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/uss-nimitz.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/uss-nimitz.jpg)
 
 USS Nimitz
 

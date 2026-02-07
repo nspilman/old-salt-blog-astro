@@ -10,12 +10,12 @@ tags:
   - "Cotton Candy"
   - "lobster"
   - "Seacoast Science Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/cottonclob.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/cottonclob.jpg"
 author: "Rick Spilman"
 description: "Recently, the media has been reporting the capture by lobsterman Billy Coppersmith of a rare \"cotton candy\" colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/cottonclob.jpg)Recently, the [media has been reporting](https://www.washingtonpost.com/lifestyle/2021/11/15/cotton-candy-lobster-maine-aquarium/) the capture by lobsterman Billy Coppersmith of a rare “cotton candy” colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. She will be on display later this week at the [Seacoast Science Center in Rye, N.H.](https://www.seacoastsciencecenter.org/) where she should live out her days in relative comfort in the aquarium.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/cottonclob.jpg)Recently, the [media has been reporting](https://www.washingtonpost.com/lifestyle/2021/11/15/cotton-candy-lobster-maine-aquarium/) the capture by lobsterman Billy Coppersmith of a rare “cotton candy” colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. She will be on display later this week at the [Seacoast Science Center in Rye, N.H.](https://www.seacoastsciencecenter.org/) where she should live out her days in relative comfort in the aquarium.
 
 Most lobsters are a dark brown color, turning bright red when cooked. There are, however, rare lobsters in a range of colors from yellow, to blue, to red, white, even calico, and cotton candy. 
 

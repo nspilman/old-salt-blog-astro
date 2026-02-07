@@ -15,12 +15,12 @@ tags:
   - "Great Inagua"
   - "Guillaume Roche"
   - "Jeff Lebleu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/degallant.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/degallant.jpg"
 author: "Rick Spilman"
 description: "The cargo schooner De Gallant capsized and sank early Tuesday morning 22 nautical miles north of the Bahamas island of Great Inagua with eight sailors on board. So far, six people have been rescued from a life raft with two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/degallant.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/degallant.jpg)
 
 Photo: Fair Transport
 

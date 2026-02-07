@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "As the song goes, \"What do you do with a drunken sailor?\" The answer for the police in Newport, RI early last Tuesday morning, when a group of sailors associated with the Volvo Ocean Race got rowdy, was to arrest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/clarkcook.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/clarkcook.jpg)
 
 Clarke Cooke House, Newport, RI
 

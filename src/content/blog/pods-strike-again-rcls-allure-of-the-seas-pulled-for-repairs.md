@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Royal Caribbean’s Allure of the Seas — the largest cruise ship in the world, is being taken out of service in February due a failure in one of its Azipod propulsion pods.  Here we go again. Royal Caribbean announces Allure … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/Allure-of-the-Seas.jpg)Royal Caribbean’s [*Allure of the Seas*](http://en.wikipedia.org/wiki/MS_Allure_of_the_Seas) — the largest cruise ship in the world, is being taken out of service in February due a failure in one of its Azipod propulsion pods.  Here we go again.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Allure-of-the-Seas.jpg)Royal Caribbean’s [*Allure of the Seas*](http://en.wikipedia.org/wiki/MS_Allure_of_the_Seas) — the largest cruise ship in the world, is being taken out of service in February due a failure in one of its Azipod propulsion pods.  Here we go again.
 
 [Royal Caribbean announces Allure of the Seas will undergo repairs in February 2014](http://www.traveldailynews.com/news/article/57710/royal-caribbean-announces-allure-of)
 

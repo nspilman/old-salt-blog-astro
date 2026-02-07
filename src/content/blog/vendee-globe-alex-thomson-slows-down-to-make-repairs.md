@@ -10,7 +10,7 @@ tags:
   - "Alex Thomson"
   - "Hugo Boss"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/alexthomsonrepair.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/alexthomsonrepair.jpg"
 author: "Rick Spilman"
 description: "Communication technology these days is an absolute marvel.  Alex Thomson, who led the fleet for most of the first two weeks of the Vendee Globe race, is now slowing down to make repairs to the damaged longitudinal structure in the … Continue reading &rarr;"
 ---

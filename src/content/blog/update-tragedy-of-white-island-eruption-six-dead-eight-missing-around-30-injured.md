@@ -11,12 +11,12 @@ tags:
   - "Tauranga"
   - "volcano"
   - "White Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/whiteisland2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/whiteisland2.jpg"
 author: "Rick Spilman"
 description: "The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the volcano billed as \"one of the world’s most active volcano\" erupted. There are now six confirmed dead, five … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/whiteisland2.jpg)The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the [volcano billed as “one of the world’s most active volcano” erupted.](http://www.oldsaltblog.com/2019/12/deadly-volcanic-eruption-on-new-zealands-white-island-5-dead-and-more-than-20-missing/) There are now six confirmed dead, five who died on the island and one person who died on the way to the hospital. Early reports suggested that over 20 people were missing. Fortunately, that number has fallen to eight. The bad news is that all of the missing are presumed to be dead, bringing the current death toll to a likely 14. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/whiteisland2.jpg)The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the [volcano billed as “one of the world’s most active volcano” erupted.](http://www.oldsaltblog.com/2019/12/deadly-volcanic-eruption-on-new-zealands-white-island-5-dead-and-more-than-20-missing/) There are now six confirmed dead, five who died on the island and one person who died on the way to the hospital. Early reports suggested that over 20 people were missing. Fortunately, that number has fallen to eight. The bad news is that all of the missing are presumed to be dead, bringing the current death toll to a likely 14. 
 
 Of the survivors, 31 suffered burns, many of which were serious. [CNN](https://www.cnn.com/2019/12/09/asia/new-zealand-white-island-volcano-intl-hnk/index.html) reports that almost all patients who were injured in the deadly New Zealand volcanic eruption have suffered extensive burns to their bodies and lungs, as questions mount over the circumstances surrounding the tragedy that has left at least six people dead.
 

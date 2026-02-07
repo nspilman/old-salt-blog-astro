@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "An update to a post from last week:   A backlog of close to 400 ships is still bottled up on the Rhine River following the capsizing of the 110M chemical tank barge, Waldhof, on January 13th  near the Lorelei … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/32765.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/32765.jpg)
 
 Cranes attempting to salvage chemical tank barge Waldhof
 

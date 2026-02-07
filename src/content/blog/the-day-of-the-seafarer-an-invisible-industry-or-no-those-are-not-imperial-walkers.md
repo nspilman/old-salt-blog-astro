@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Today, June 25th, is the IMO sponsored International Day of the Seafarer.  This celebration is intended to increase the awareness of the indispensable services rendered to all of us by the 1.5 million seafarers who deliver more than 12 billion tonnes of … Continue reading &rarr;"
 ---
 
-![No, they are not Imperial Walkers](http://www.oldsaltblog.com/wp-content/uploads/2014/06/hNkPR.jpg)
+![No, they are not Imperial Walkers](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/hNkPR.jpg)
 
 No, they are not Imperial Walkers
 

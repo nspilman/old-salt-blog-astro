@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Two stories about flotsam and ocean currents. The first flotsam from the earthquake and tsunami, which struck Japan on March 11, is beginning to arrive on the West Coast of the United States. A large black float, believed to have floated from Japan, was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/ew111209c.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/ew111209c.jpg)
 
 Richard Figueiredo of Pembroke, Mass., lost hundreds of lobster traps in the “Perfect Storm” of 1991. One tag has been found on a beach in Ireland.
 

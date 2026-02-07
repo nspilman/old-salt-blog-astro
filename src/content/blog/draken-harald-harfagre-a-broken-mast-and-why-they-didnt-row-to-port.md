@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In early July, the 114-foot long  Draken Harald Hårfagre, the largest Viking replica ever built, was sailing across the North Sea,  from Haugesund in Norway.  Three days out, in high seas, the ship’s mast failed and went over the side.  No one … Continue reading &rarr;"
 ---
 
-![Photo:  Ian Leask](http://www.oldsaltblog.com/wp-content/uploads/2014/07/ls3-730x483.jpg)
+![Photo:  Ian Leask](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/ls3-730x483.jpg)
 
 Photo: Ian Leask
 

@@ -12,12 +12,12 @@ tags:
   - "HMT Lancastria"
   - "Saint-Nazaire"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/lancastria2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/lancastria2.jpg"
 author: "Rick Spilman"
 description: "On June 17, 1940, the HMT Lancastria was sunk by German bombers near the French port of Saint-Nazaire. An estimated 4,000 people died in the sinking. Fewer than 2,500 survived. It was the worst maritime disaster in British history, worse … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/lancastria2.jpg)On June 17, 1940, the HMT *Lancastria* was sunk by German bombers near the French port of Saint-Nazaire. An estimated 4,000 people died in the sinking. Fewer than 2,500 survived. It was the worst maritime disaster in British history, worse than the Titanic and the Lusitania combined. While often described as forgotten history, that is not accurate. Rather than being forgotten, the tragic sinking was largely covered up for almost 70 years. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/lancastria2.jpg)On June 17, 1940, the HMT *Lancastria* was sunk by German bombers near the French port of Saint-Nazaire. An estimated 4,000 people died in the sinking. Fewer than 2,500 survived. It was the worst maritime disaster in British history, worse than the Titanic and the Lusitania combined. While often described as forgotten history, that is not accurate. Rather than being forgotten, the tragic sinking was largely covered up for almost 70 years. 
 
 Several weeks after the evacuation at Dunkirk, there were still more than 100,000 troops and civilians in need of evacuation from France. The Cunard passenger liner *Lancastria* had been requisitioned by the British government. Although the ship configured as a troopship had a capacity of 2,180 including 330 crew, the captain was ordered to take as many people aboard as possible. Estimates of passengers embarked range from 5,000 to 7,200. 
 

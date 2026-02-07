@@ -10,12 +10,12 @@ tags:
   - "green iceberg"
   - "Rime of the Ancient Mariner"
   - "Samuel Coleridge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/greenburg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/greenburg.jpg"
 author: "Rick Spilman"
 description: "While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s Rime of the Ancient Mariner, the mariner describes how \"ice, mast-high, came floating by, as green as emerald.\" Why are some … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/greenburg.jpg)While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s [Rime of the Ancient Mariner](https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834), the mariner describes how “ice, mast-high, came floating by, as green as emerald.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/greenburg.jpg)While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s [Rime of the Ancient Mariner](https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834), the mariner describes how “ice, mast-high, came floating by, as green as emerald.”
 
 Why are some icebergs green? In time for St. Patrick’s Day, a paper in the American Geophysical Union journal JGR Oceans, titled “[Green Icebergs Revisited](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014479)” by researchers led by Stephen Warren, a glaciologist and emeritus professor at the University of Washington, offers a new theory about how these verdant icebergs come to be.
 

@@ -5,12 +5,12 @@ slug: "remembering-howard-slotnick-1930-2020"
 excerpt: "The maritime community has lost a great friend, shipmate, and leader in the passing of Howard Slotnick. A treasurer and chairman emeritus of National Maritime Historical Society, he served on the Coast Guard Foundation board and was an advisor to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/HowardS.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/HowardS.jpg"
 author: "Rick Spilman"
 description: "The maritime community has lost a great friend, shipmate, and leader in the passing of Howard Slotnick. A treasurer and chairman emeritus of National Maritime Historical Society, he served on the Coast Guard Foundation board and was an advisor to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/HowardS.jpg)The maritime community has lost a great friend, shipmate, and leader in the passing of [Howard Slotnick](https://seahistory.org/howardslotnick/). A treasurer and chairman emeritus of [National Maritime Historical Society](https://seahistory.org/), he served on the Coast Guard Foundation board and was an advisor to Tall Ships America. He also served on the board of trustees of Amistad America, and was an honorary trustee of South Street Seaport.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/HowardS.jpg)The maritime community has lost a great friend, shipmate, and leader in the passing of [Howard Slotnick](https://seahistory.org/howardslotnick/). A treasurer and chairman emeritus of [National Maritime Historical Society](https://seahistory.org/), he served on the Coast Guard Foundation board and was an advisor to Tall Ships America. He also served on the board of trustees of Amistad America, and was an honorary trustee of South Street Seaport.
 
 Here is a remembrance of Howard Slotnick by [Roberta Weisbrod](https://www.linkedin.com/in/robertaweisbrod/):
 

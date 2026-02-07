@@ -12,12 +12,12 @@ tags:
   - "Car Carrier"
   - "Felicity Ace"
   - "Portuguese Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/felicity2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/felicity2.jpg"
 author: "Rick Spilman"
 description: "The car carrier Felicity Ace, carrying upwards of 4,000 vehicles, including more than 1,000 Porsches and 200 Bentleys, caught fire in the Atlantic off the Azores on February 16. After almost two weeks ablaze, the fire appeared to be under … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/felicity2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/felicity2.jpg)
 
 Photo: Portuguese navy
 

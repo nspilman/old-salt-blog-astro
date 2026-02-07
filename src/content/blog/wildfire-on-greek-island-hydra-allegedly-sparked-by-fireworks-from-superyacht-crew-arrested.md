@@ -16,12 +16,12 @@ tags:
   - "Persephoni"
   - "superyacht"
   - "Wildfire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/hydrafire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/hydrafire.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that 13 crew members of the superyacht, Persephoni,  have been arrested following a wildfire on the Greek island of Hydra, that authorities allege was sparked by fireworks launched from the yacht. Friday’s blaze burnt through 300 acres … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/hydrafire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/hydrafire.jpg)
 
 Firefighters shared this photo, but did not confirm that it is the luxury yacht allegedly involved in the incident Photo: Facebook
 

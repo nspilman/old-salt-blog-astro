@@ -9,7 +9,7 @@ categories:
 tags:
   - "Danmark"
   - "tall ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/danmark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/danmark.jpg"
 author: "Rick Spilman"
 description: "A video for a Saturday. A wonderful documentary from 1992 about sailing on the tall ship Danmark. World of Discovery – Tall Ships: High Sea Adventure … Continue reading &rarr;"
 ---

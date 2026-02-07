@@ -5,12 +5,12 @@ slug: "vendee-globe-sam-davies-out-of-the-game-with-plans-to-keep-sailing"
 excerpt: "On December 2, Initiatives-Coeur, being sailed by Sam Davies off South Africa in the Vendee Globe Race, came to a crashing halt. Davies describes the collision: \" It was as if I had run aground on a rock at the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg"
 author: "Rick Spilman"
 description: "Sam hopes to complete the round the world voyage outside of the context of the race for her own benefit and for the children concerned by the \"1 click=1 heart campaign.\" "
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg)On December 2, *Initiatives-Coeur,* being sailed by [Sam Davies](https://www.initiatives-coeur.fr/en/skipper) off South Africa in the [Vendee Globe Race](https://www.vendeeglobe.org/en), came to a crashing halt. Davies describes the collision: “ *It was as if I had run aground on a rock at the time. The boat speed went from 20kts to zero.”*  Davies had struck an unidentified floating object (UFO) which shattered the longitudinal stiffeners that support the boat’s keel. Davies herself suffered bruised ribs but was fortunately not seriously injured.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg)On December 2, *Initiatives-Coeur,* being sailed by [Sam Davies](https://www.initiatives-coeur.fr/en/skipper) off South Africa in the [Vendee Globe Race](https://www.vendeeglobe.org/en), came to a crashing halt. Davies describes the collision: “ *It was as if I had run aground on a rock at the time. The boat speed went from 20kts to zero.”*  Davies had struck an unidentified floating object (UFO) which shattered the longitudinal stiffeners that support the boat’s keel. Davies herself suffered bruised ribs but was fortunately not seriously injured.
 
 After determining that the repairs necessary to make the boat safe to sail in the Southern Ocean could not be performed at sea, Davies pointed *Initiatives-Coeur’s* bow toward Cape Town.  Because the rules of the Vendee Globe require that the racers compete unassisted, Davies has retired from the race. She is not however giving up on the voyage. When and if the boat can be repaired she intends to continue sailing *hors course* or “out of the game,” no longer in the race, but still endeavoring to complete the circumnavigation.
 

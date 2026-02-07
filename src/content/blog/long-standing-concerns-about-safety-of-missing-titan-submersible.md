@@ -13,12 +13,12 @@ tags:
   - "safety"
   - "Stockton Rush"
   - "Titan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/titan3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan3.jpg"
 author: "Rick Spilman"
 description: "As frantic search and rescue efforts continue to attempt to locate the missing submersible Titan, which went missing on Sunday on an expedition to dive on the wreck of the Titanic, long-standing concerns about the safety of the submersible have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/titan3.jpg)As frantic search and rescue efforts continue to attempt to locate the missing submersible *Titan*, which went missing on Sunday on an expedition to dive on the wreck of the Titanic, long-standing concerns about the safety of the submersible have resurfaced. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan3.jpg)As frantic search and rescue efforts continue to attempt to locate the missing submersible *Titan*, which went missing on Sunday on an expedition to dive on the wreck of the Titanic, long-standing concerns about the safety of the submersible have resurfaced. 
 
 [Stockton Rush](https://www.yahoo.com/gma/maker-lost-titanic-sub-once-164817639.html), CEO of OceanGate Expeditions, the firm that built and operated the submersible has been a vocal advocate of innovation while at times downplaying the primacy of safety in submersible design.
 

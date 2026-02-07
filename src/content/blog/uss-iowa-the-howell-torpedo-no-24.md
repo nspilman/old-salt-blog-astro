@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In May, we posted about the discovery of a rare Howell torpedo by Navy dolphins in the Pacific off San Diego. The Howell torpedo was the first self-propelled torpedo in United States Navy service. Only fifty were built and, until the … Continue reading &rarr;"
 ---
 
-![Battleship Iowa](http://www.oldsaltblog.com/wp-content/uploads/2013/08/iowa.jpg)
+![Battleship Iowa](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/iowa.jpg)
 
 Battleship Iowa
 

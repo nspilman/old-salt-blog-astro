@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "Last Friday, the Canadian Nuclear Safety Commission approved a plan for Bruce Power to ship 1,600 tonnes of radioactive waste,  in the form of 16 decommissioned nuclear reactors,  across the Great Lakes, though the St. Lawrence Seaway and across the Atlantic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/BR.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/BR.jpg)
 
 Bruce Power nuclear power plant Ontario
 

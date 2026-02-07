@@ -14,12 +14,12 @@ tags:
   - "Oslo Fjord"
   - "Sefine Shipyard"
   - "Turkey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/bastoe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/bastoe.jpg"
 author: "Rick Spilman"
 description: "The Daily Scandinavian reported that last March the world’s largest all-electric ferry went into full operation on the 5.67 nautical mile route between the two Norwegian cities of Moss and Horten, on Norway’s busiest ferry route. The new ferry, named … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/bastoe.jpg)The [Daily Scandinavian](https://www.dailyscandinavian.com/worlds-largest-electric-ferry-now-operational-in-norway/) reported that last March the world’s largest all-electric ferry went into full operation on the 5.67 nautical mile route between the two Norwegian cities of Moss and Horten, on Norway’s busiest ferry route.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/bastoe.jpg)The [Daily Scandinavian](https://www.dailyscandinavian.com/worlds-largest-electric-ferry-now-operational-in-norway/) reported that last March the world’s largest all-electric ferry went into full operation on the 5.67 nautical mile route between the two Norwegian cities of Moss and Horten, on Norway’s busiest ferry route.
 
 The new ferry, named *Bastø Electric*, built at Sefine Shipyard in Turkey, is the first of three battery-powered ferries intended to operate on a route across the Oslo Fjord. Bastø Electric measures 139.2 meters in length and is 21 meters wide. Top speed is 13 knots (24 km/h). The *Bastø Electric* can carry either 200 cars or 24 trucks, as well as 600 passengers. 
 

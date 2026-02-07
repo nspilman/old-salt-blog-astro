@@ -11,12 +11,12 @@ tags:
   - "COVID-19"
   - "Quarantine"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/7thfleet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/7thfleet.jpg"
 author: "Rick Spilman"
 description: "While some ill-advised politicians are referring to the threat from Covid-19, the rapidly spreading coronavirus, as a \"hoax,\" the US Navy is taking it very seriously. Ships in the 7th Fleet has been ordered to spend at least 14 days … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/7thfleet.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/7thfleet.jpg)  
 While some ill-advised politicians are referring to the threat from Covid-19, the rapidly spreading coronavirus, as a “hoax,” the US Navy is taking it very seriously. Ships in the [7th Fleet](https://en.wikipedia.org/wiki/United_States_Seventh_Fleet) has been ordered to spend at least 14 days at sea between port visits as nations in the region battle outbreaks of the new coronavirus, a Navy official told [Stars and Stripes](https://www.stripes.com/news/pacific/pacific-fleet-orders-14-day-gap-between-port-visits-for-7th-fleet-ships-during-coronavirus-outbreak-1.620641) on Friday. The ships are effectively being put into self-quarantine. 
 
 The directive was issued to the vessels Wednesday “out of an abundance of caution” to monitor crews and prevent the spread of COVID-19, said the official, who declined to comment on the record.

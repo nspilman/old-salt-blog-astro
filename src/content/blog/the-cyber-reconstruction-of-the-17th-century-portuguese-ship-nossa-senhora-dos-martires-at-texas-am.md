@@ -22,7 +22,7 @@ author: "Rick Spilman"
 description: "What better way to start the new year than to look at a project which uses modern technology to recreate virtually a ship from 1606?    Dr. Filipe Castro,  of the Nautical Archaeology Program, Texas A&M University, working with the university’s Visualization … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/cave01.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/cave01.jpg)
 
 Audrey Wells and the Virtual Nau
 

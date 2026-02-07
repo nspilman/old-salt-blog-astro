@@ -13,12 +13,12 @@ tags:
   - "Kitty Hawk"
   - "Larry Page"
   - "new york harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/pageflyer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/pageflyer.jpg"
 author: "Rick Spilman"
 description: "Two years ago, we posted about an all-electric \"flying car\" which was actually more of a single passenger seaplane, as it took off and landed on the water. The startup named Kitty Hawk has major funding from Larry Page, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/pageflyer.jpg)Two years ago, we [posted about an all-electric “flying car”](http://www.oldsaltblog.com/2017/05/really-need-flying-jet-ski/) which was actually more of a single passenger seaplane, as it took off and landed on the water. The startup named [Kitty Hawk](https://kittyhawk.aero/) has major funding from [Larry Page](https://en.wikipedia.org/wiki/Larry_Page), the billionaire co-founder of Google. Now Kitty Hawk is seeking to test their updated version of the craft in New York Harbor. Whether or not this is a good idea remains to be seen.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/pageflyer.jpg)Two years ago, we [posted about an all-electric “flying car”](http://www.oldsaltblog.com/2017/05/really-need-flying-jet-ski/) which was actually more of a single passenger seaplane, as it took off and landed on the water. The startup named [Kitty Hawk](https://kittyhawk.aero/) has major funding from [Larry Page](https://en.wikipedia.org/wiki/Larry_Page), the billionaire co-founder of Google. Now Kitty Hawk is seeking to test their updated version of the craft in New York Harbor. Whether or not this is a good idea remains to be seen.
 
 [Jersey Digs](https://jerseydigs.com/exclusive-kitty-hawk-seeks-to-test-flying-cars-along-waterfront-jersey-city/) reports that the company filed plans with the New Jersey Department of Environmental Protection (NJDEP) in connection with a proposal to bring its [Flyer](https://www.cnet.com/roadshow/news/kitty-hawk-flyer-electric-ultralight/) [aircraft](https://www.youtube.com/watch?v=AjqR4JAsL1A) to Jersey City’s Hudson River waterfront.
 

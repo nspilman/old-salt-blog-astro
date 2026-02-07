@@ -22,7 +22,7 @@ author: "Rick Spilman"
 description: "It seems to me that history is all about connections. Lawrence Gooley, writing in the Adirondack Almanack, notes how many ships present at the attack on Pearl Harbor on December 7, 1941, were named in remembrance of those who fought … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/12/USSMacdonoughDD351.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/USSMacdonoughDD351.jpg)
 
 USS Macdonough (DD-351)
 

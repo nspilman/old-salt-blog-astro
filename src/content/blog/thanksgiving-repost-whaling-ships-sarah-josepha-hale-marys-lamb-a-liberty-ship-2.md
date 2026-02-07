@@ -13,12 +13,12 @@ tags:
   - "Sarah Josepha Hale"
   - "Thanksgiving"
   - "whaling ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.) Here is an updated repost of a story I think is well worth retelling. Until the Civil War, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg)Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.) Here is an updated repost of a story I think is well worth retelling.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg)Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.) Here is an updated repost of a story I think is well worth retelling.
 
 Until the Civil War, Thanksgiving was a sporadically celebrated regional holiday.  Today, Thanksgiving is one of the central creation myths of the founding of the United States, although [not universally admired](https://www.washingtonpost.com/history/2021/11/04/thanksgiving-anniversary-wampanoag-indians-pilgrims/). The story is based on an account of a one-time feast of thanksgiving in the Plymouth colony of Massachusetts during a period of atypically good relations with local tribes. 
 

@@ -12,12 +12,12 @@ tags:
   - "Hawaii"
   - "Honolulu"
   - "Pier 7"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "More bad news for the Falls of Clyde. The 1878 built windjammer, the last surviving iron-hulled, four-masted full-rigged ship, recently came close to sinking at the dock in Honolulu, Hawaii. On Thursday, the ship began taking on water by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)More bad news for the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)). The 1878 built windjammer, the last surviving iron-hulled, four-masted full-rigged ship, recently came close to sinking at the dock in Honolulu, Hawaii. On Thursday, the ship began taking on water by the bow, at Pier 7, where it has been docked for over a decade. The State Department of Transportation dispatched contractors with pumps and divers to attempt to stop the ship from sinking. Divers located and repaired four or five open seams through which the water was flooding.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)More bad news for the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)). The 1878 built windjammer, the last surviving iron-hulled, four-masted full-rigged ship, recently came close to sinking at the dock in Honolulu, Hawaii. On Thursday, the ship began taking on water by the bow, at Pier 7, where it has been docked for over a decade. The State Department of Transportation dispatched contractors with pumps and divers to attempt to stop the ship from sinking. Divers located and repaired four or five open seams through which the water was flooding.
 
 [HawaiiNewsNow.com](http://www.hawaiinewsnow.com/2019/01/31/repairs-underway-after-historic-ship-honolulu-harbor-starts-taking-water/) reports: “I was here on Saturday and the vessel was laying flush like this here. When I got here this morning the whole bow was tilted forward,” said Ken Otebo, who was contracted to transfer water off of the ship onto his boat, the *SOS Minnow*. By 1 p.m. he said 60,000 gallons had been removed ― with plenty more to go.
 

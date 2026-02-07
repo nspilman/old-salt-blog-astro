@@ -12,7 +12,7 @@ tags:
   - "Chile"
   - "SS Itata"
   - "steamship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/ssitata.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/ssitata.jpg"
 author: "Rick Spilman"
 description: "The wreck of the Chilean steamship, SS Itata, has been located in 650 feet of water off the port of Coquimbo, in Elqui Province, in northern Chile. The ship sank in a storm on August 28, 1922 with an estimated loss of … Continue reading &rarr;"
 ---

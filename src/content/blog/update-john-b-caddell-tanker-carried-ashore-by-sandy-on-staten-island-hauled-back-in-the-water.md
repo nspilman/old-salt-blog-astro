@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The John B. Caddell, 700 gross ton water tanker, that washed up on Front Street, in Staten Island, NY during Hurricane Sandy a month and a half ago, is back in the water.  In a team effort lead by the … Continue reading &rarr;"
 ---
 
-![John B. Caddell with tug and crane barge assist on her way to repair yard.  Photo: Staten Island Advance](http://www.oldsaltblog.com/wp-content/uploads/2012/12/cadell.jpg)
+![John B. Caddell with tug and crane barge assist on her way to repair yard.  Photo: Staten Island Advance](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/cadell.jpg)
 
 John B. Caddell with tug and crane barge assist on her way to repair yard. Photo: Staten Island Advance
 

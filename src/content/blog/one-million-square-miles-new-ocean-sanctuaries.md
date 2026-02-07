@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "This has been a great year or so for the creation of  marine reserves, also known as marine protected areas or ocean sanctuaries.  In just over a year's time, roughly 1.3 million square miles of new ocean sanctuaries have been created.  "
 ---
 
-![Photo: Jim Maragos/AP](http://www.oldsaltblog.com/wp-content/uploads/2015/11/marinereserve1.jpg)
+![Photo: Jim Maragos/AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/marinereserve1.jpg)
 
 Photo: Jim Maragos/AP
 

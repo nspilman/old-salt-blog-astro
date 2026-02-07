@@ -10,12 +10,12 @@ tags:
   - "Sixth Fleet"
   - "U.S. Naval Forces Europe-Africa"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/sixthfleet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/sixthfleet.jpg"
 author: "Rick Spilman"
 description: "As protests over the death of George Floyd and against racism and police brutality continue across the nation and parts of the globe, the leadership of U.S. Naval Forces Europe and Africa/U.S. Sixth Fleet has issued a letter titled \"Respect, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/sixthfleet.jpg)As protests over the death of George Floyd and against racism and police brutality continue across the nation and parts of the globe, the leadership of U.S. Naval Forces Europe and Africa/U.S. Sixth Fleet has issued a letter titled “[Respect, Dignity and Inclusion](https://www.c6f.navy.mil/Press-Room/News/Article/2206521/letter-from-leadership-respect-dignity-and-inclusion/).”  The letter is signed jointly by the Sixth Fleet Command Master Chief [Johannes J. Gonzalez;](https://www.c6f.navy.mil/About-Us/Our-Leaders/CMDCM-Gonzalez/) U.S. Naval Forces Europe-Africa Fleet Master Chief [Derrick A. Walters;](https://www.c6f.navy.mil/About-Us/Our-Leaders/FLTCM-Walters/) Commander, U.S. 6th Fleet, Vice Admiral [Lisa M. Franchetti;](https://www.navy.mil/navydata/bios/bio.asp?bioID=729) and Commander, U.S. Naval Forces Europe-Africa, Admiral [James Foggo](https://www.c6f.navy.mil/about-us/our-leaders/adm-foggo/) and reads as follows:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/sixthfleet.jpg)As protests over the death of George Floyd and against racism and police brutality continue across the nation and parts of the globe, the leadership of U.S. Naval Forces Europe and Africa/U.S. Sixth Fleet has issued a letter titled “[Respect, Dignity and Inclusion](https://www.c6f.navy.mil/Press-Room/News/Article/2206521/letter-from-leadership-respect-dignity-and-inclusion/).”  The letter is signed jointly by the Sixth Fleet Command Master Chief [Johannes J. Gonzalez;](https://www.c6f.navy.mil/About-Us/Our-Leaders/CMDCM-Gonzalez/) U.S. Naval Forces Europe-Africa Fleet Master Chief [Derrick A. Walters;](https://www.c6f.navy.mil/About-Us/Our-Leaders/FLTCM-Walters/) Commander, U.S. 6th Fleet, Vice Admiral [Lisa M. Franchetti;](https://www.navy.mil/navydata/bios/bio.asp?bioID=729) and Commander, U.S. Naval Forces Europe-Africa, Admiral [James Foggo](https://www.c6f.navy.mil/about-us/our-leaders/adm-foggo/) and reads as follows:
 
 *Dear CNE/CNA/C6F Teammates,*
 

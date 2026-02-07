@@ -10,12 +10,12 @@ tags:
   - "cruise industry"
   - "Cruise Lines International Association"
   - "shut down"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/ncl1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ncl1.jpg"
 author: "Rick Spilman"
 description: "The press release from the Cruise Lines International Association (CLIA) was clear — the cruise industry is now shut down. No more cruising from the United States. CLIA is the world’s largest cruise industry trade association, representing more than 50 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/ncl1.jpg)The press release from the [Cruise Lines International Association (CLIA)](https://cruising.org/) was clear — [the cruise industry is now shut down. No more cruising from the United States.](https://www.eturbonews.com/567034/cruise-industry-is-now-shut-down-no-more-cruising-in-the-united-states/) CLIA is the world’s largest cruise industry trade association, representing more than 50 cruise lines. Their [statement](https://cruising.org/news-and-research/press-room/2020/march/clia-covid-19-toolkit) read in part:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ncl1.jpg)The press release from the [Cruise Lines International Association (CLIA)](https://cruising.org/) was clear — [the cruise industry is now shut down. No more cruising from the United States.](https://www.eturbonews.com/567034/cruise-industry-is-now-shut-down-no-more-cruising-in-the-united-states/) CLIA is the world’s largest cruise industry trade association, representing more than 50 cruise lines. Their [statement](https://cruising.org/news-and-research/press-room/2020/march/clia-covid-19-toolkit) read in part:
 
 *“CLIA ocean-going cruise lines will be voluntarily and temporarily suspending cruise ship operations from and to U.S. ports of call for 30 days as public health officials and the U.S. Government continue to address COVID-19.*
 

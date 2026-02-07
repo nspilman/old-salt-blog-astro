@@ -8,12 +8,12 @@ categories:
 tags:
   - "Automatic Identification System"
   - "GPS spoofing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/cropcircleAIS.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/cropcircleAIS.jpg"
 author: "Rick Spilman"
 description: "On June 5, 2019, the offshore supply boat Princess Janice was operating from a Nigerian oil terminal when suddenly the AIS (Automatic Identification System) an automatic tracking system showed the vessel a continent away, circling above Point Reyes, CA, eventually … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/cropcircleAIS.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/cropcircleAIS.jpg)
 
 Image: Global Fishing Watch / Orbcomm / Spire.
 

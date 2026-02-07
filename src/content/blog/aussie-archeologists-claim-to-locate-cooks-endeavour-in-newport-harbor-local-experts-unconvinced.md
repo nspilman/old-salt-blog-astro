@@ -14,12 +14,12 @@ tags:
   - "Endeavour"
   - "Lord Sandwich"
   - "Rhode Island Marine Archaeology Project"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/endeavourreplica.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/endeavourreplica.jpg"
 author: "Rick Spilman"
 description: "The question is not so much whether the wreck of Captain Cook’s ship Endeavour rests at the bottom of the harbor in Newport, RI, but rather which of several wrecks it may be.  The Endeavour, renamed Lord Sandwich and outfitted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/endeavourreplica.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/endeavourreplica.jpg)
 
 Endeavour replica, Image: ANMM
 

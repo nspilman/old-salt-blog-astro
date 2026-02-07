@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The news that the battleship USS Iowa has found a new home brings to mind the story of the battleship and the destroyer USS William D Porter, nicknamed the \"Willie D.\"   The USS Iowa served in World War II as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/USS_William_D_Porter.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/USS_William_D_Porter.jpg)
 
 USS William D Porter
 

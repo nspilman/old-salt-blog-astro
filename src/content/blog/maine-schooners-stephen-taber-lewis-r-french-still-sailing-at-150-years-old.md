@@ -12,12 +12,12 @@ tags:
   - "Maine Schooners"
   - "Maine windjammer fleet"
   - "Stephen Taber"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/frenchtaber2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/frenchtaber2.jpg"
 author: "Rick Spilman"
 description: "The Maine Windjammer fleet was hit hard by the pandemic last summer. Most of the schooners didn’t sail and those that did offered fewer trips. As things return closer to normal, it is a good time to consider two of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/frenchtaber2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/frenchtaber2.jpg)
 
 Schooners Stephen Taber and Lewis R French in the 2018 Great Schooner Race. (Credit: Richard Ball)
 

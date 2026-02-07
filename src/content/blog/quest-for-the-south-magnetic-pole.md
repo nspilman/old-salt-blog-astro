@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "We recently posted about the centennial of Robert Falcon Scott‘s departure on his ill-fated expedition to reach the South Pole.   Now the Australian National Maritime Museum will host a new exhibit, the Quest for the South Magnetic Pole.    The quest to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Quest603x320.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Quest603x320.jpg)
 
 The Northern Party at the South Magnetic Pole. Photographer Douglas Mawson 1909. Courtesy Mawson Collection South Australian Museum
 

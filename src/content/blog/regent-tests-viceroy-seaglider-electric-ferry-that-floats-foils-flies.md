@@ -14,12 +14,12 @@ tags:
   - "REGENT Craft"
   - "Viceroy Seaglider"
   - "wing-in-ground-effect"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/seaglider.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/seaglider.jpg"
 author: "Rick Spilman"
 description: "REGENT Craft of Rhode Island is now testing a prototype of their Viceroy Seaglider, an electric wing-in-ground-effect flying coastal ferry. REGENT is an acronym for Regional Electric Ground Effect Nautical Transport. The 12-passenger Viceroy Seaglider is 55 feet long with … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/seaglider.jpg)[REGENT Craft](https://www.regentcraft.com/) of Rhode Island is now testing a prototype of their [Viceroy Seaglider](https://en.wikipedia.org/wiki/REGENT_Viceroy), an electric [wing-in-ground-effect](https://en.wikipedia.org/wiki/Wing-in-ground-effect "Wing-in-ground-effect") flying coastal ferry. REGENT is an acronym for Regional Electric Ground Effect Nautical Transport.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/seaglider.jpg)[REGENT Craft](https://www.regentcraft.com/) of Rhode Island is now testing a prototype of their [Viceroy Seaglider](https://en.wikipedia.org/wiki/REGENT_Viceroy), an electric [wing-in-ground-effect](https://en.wikipedia.org/wiki/Wing-in-ground-effect "Wing-in-ground-effect") flying coastal ferry. REGENT is an acronym for Regional Electric Ground Effect Nautical Transport.
 
 The 12-passenger Viceroy Seaglider is 55 feet long with a 65-foot wingspan–making it the largest-ever all-electric flying machine. 
 

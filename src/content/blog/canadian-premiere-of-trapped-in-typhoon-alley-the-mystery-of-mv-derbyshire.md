@@ -13,12 +13,12 @@ tags:
   - "MV Derbyshire"
   - "Trapped in Typhoon Alley"
   - "Typhoon Orchid"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/derbybanner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/derbybanner.jpg"
 author: "Rick Spilman"
 description: "Originally published in gCaptain.com. Reposted with permission.  Discovery Channel (Canada)’s new documentary series, \"Disasters at Sea,\" premieres on April 16th at 10 PM ET.  The first episode, \"Trapped in Typhoon Alley,\" looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/derbybanner.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/derbybanner.jpg)  
 Originally published in gCaptain.com. Reposted with permission. 
 
 Discovery Channel (Canada)’s new documentary series, “[Disasters at Sea](https://www.discovery.ca/Shows/Disasters-at-Sea),” premieres on April 16th at 10 PM ET.  The first episode, “*Trapped in Typhoon Alley*,” looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler MV [*Derbyshire*](https://en.wikipedia.org/wiki/MV_Derbyshire), with the loss of 42 aboard, in Typhoon Orchid in 1980.  To this day, the *Derbyshire* remains the largest British flagged ship ever to have been lost at sea. What happened to the mighty ship would be a perplexing mystery and the subject of considerable controversy for more than twenty years.

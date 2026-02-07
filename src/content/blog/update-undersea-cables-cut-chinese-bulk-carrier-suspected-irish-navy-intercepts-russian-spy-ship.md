@@ -15,12 +15,12 @@ tags:
   - "Russian Spy Ship"
   - "undersea cables"
   - "Yi Peng 3"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/yipeng3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/yipeng3.jpg"
 author: "Rick Spilman"
 description: "We posted yesterday about a telecommunications cable in the Baltic Sea between Finland and Germany that was severed Monday morning, and a 218km internet link between Lithuania and Sweden’s Gotland Island that stopped working on Sunday. Chinese Bulk Carrier Detained … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/yipeng3.jpg)We [posted yesterday](https://www.oldsaltblog.com/2024/11/baltic-sea-communications-cables-severed-sabotage-suspected/) about a telecommunications cable in the Baltic Sea between Finland and Germany that was severed Monday morning, and a 218km internet link between Lithuania and Sweden’s Gotland Island that stopped working on Sunday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/yipeng3.jpg)We [posted yesterday](https://www.oldsaltblog.com/2024/11/baltic-sea-communications-cables-severed-sabotage-suspected/) about a telecommunications cable in the Baltic Sea between Finland and Germany that was severed Monday morning, and a 218km internet link between Lithuania and Sweden’s Gotland Island that stopped working on Sunday.
 
 ### Chinese Bulk Carrier Detained
 

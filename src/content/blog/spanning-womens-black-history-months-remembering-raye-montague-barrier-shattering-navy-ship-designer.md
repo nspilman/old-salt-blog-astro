@@ -16,12 +16,12 @@ tags:
   - "Raye Montague"
   - "Seawolf Class submarine"
   - "USS Dwight D. Eisenhower"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/RayeM.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg"
 author: "Rick Spilman"
 description: "Today, the 29th of February, is Leap Day, which seems to be a perfect opportunity to celebrate both February’s Black History Month and March’s Women’s History Month. As such, it is a good time to honor the memory of Raye … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/RayeM.jpg)Today, the 29th of February, is Leap Day, which seems to be a perfect opportunity to celebrate both February’s Black History Month and March’s Women’s History Month. As such, it is a good time to honor the memory of [Raye Montague](https://en.wikipedia.org/wiki/Raye_Montague), a barrier-shattering naval engineer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg)Today, the 29th of February, is Leap Day, which seems to be a perfect opportunity to celebrate both February’s Black History Month and March’s Women’s History Month. As such, it is a good time to honor the memory of [Raye Montague](https://en.wikipedia.org/wiki/Raye_Montague), a barrier-shattering naval engineer.
 
 Recently, the Naval Surface Warfare Center (NSWC), Carderock Division, also known as the David Taylor Model Basin, has renamed the Maritime Technical Information Center, a conference center used by Carderock employees and other government entities, as the [Raye Montague Center for Maritime Technology](https://www.navsea.navy.mil/Media/News/Article/3679000/carderock-renames-its-information-center-in-honor-of-navy-hidden-figure-raye-mo/). 
 

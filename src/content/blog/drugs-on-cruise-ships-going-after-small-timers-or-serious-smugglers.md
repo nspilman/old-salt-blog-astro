@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Two news stories recently on drugs aboard cruise ships suggest two very different types of drug problems.   U.S. Customs and Border Protection raided the MSC Poesia, on Jan. 4, prior to the ship departing on a \"Jam Cruise\" a floating music festival  featuring … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/enchantment.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/enchantment.jpg)
 
 Enchantment of the Seas
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted \"whale\".    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
 ---
 
-![humpbackwhale1](http://www.oldsaltblog.com/wp-content/uploads/2009/09/humpbackwhale1.jpg)
+![humpbackwhale1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/humpbackwhale1.jpg)
 
   
 Humpback Whale sighted last April in New York Harbor

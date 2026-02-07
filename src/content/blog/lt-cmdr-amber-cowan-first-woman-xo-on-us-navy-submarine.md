@@ -15,12 +15,12 @@ tags:
   - "Naval Base Kitsap-Bangor"
   - "USS Kentucky"
   - "washington"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/Cowan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/Cowan.jpg"
 author: "Rick Spilman"
 description: "A decade after women were allowed to serve in the US Navy’s Silent Service, Lt. Cmdr. Amber Cowan has become the first woman to serve as executive officer on a submarine. Lt. Cmdr. Cowan, who joined the Navy in 2010, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/Cowan.jpg)A decade after women were allowed to serve in the US Navy’s Silent Service, Lt. Cmdr. Amber Cowan has become the first woman to serve as executive officer on a submarine.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/Cowan.jpg)A decade after women were allowed to serve in the US Navy’s Silent Service, Lt. Cmdr. Amber Cowan has become the first woman to serve as executive officer on a submarine.
 
 Lt. Cmdr. Cowan, who joined the Navy in 2010, reported for duty to the ballistic missile submarine [USS *Kentucky*](https://en.wikipedia.org/wiki/USS_Kentucky_\(SSBN-737\)), based out of Naval Base Kitsap-Bangor, Washington, as its executive officer Nov. 12, as reported by [Navy Times](https://en.wikipedia.org/wiki/USS_Kentucky_\(SSBN-737\)).
 

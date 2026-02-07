@@ -12,12 +12,12 @@ tags:
   - "Sub BnB"
   - "USS Cobia"
   - "Wisconsin Maritime Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/cobiasub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/cobiasub.jpg"
 author: "Rick Spilman"
 description: "An interesting bit of news from the Sea History Today, the National Maritime Historical Society’s newsletter. One of the more popular programs at the Wisconsin Maritime Museum (WMM) in Manitowoc involves arranging for youth groups to spend the night in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/cobiasub.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/cobiasub.jpg)
 
 USS Cobia was launched in 1943 and made six patrols during World War II. The submarine was brought to Manitowoc in 1970. Photo: Wisconsin Maritime Museum.
 

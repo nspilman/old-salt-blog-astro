@@ -10,12 +10,12 @@ categories:
 tags:
   - "unknown soldier"
   - "USS Olympia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2011/05/olympia2x-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/olympia2x-1.jpg"
 author: "Rick Spilman"
 description: "On Memorial Day, an updated repost from six years ago about the last mission of the USS Olympia in 1921, when she carried an American unknown soldier killed during World War I  from a cemetery in France back to the Washington to be in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/USS_Olympia_with_Dewey_at_B.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/USS_Olympia_with_Dewey_at_B.jpg)
 
   
 USS Olympia at the Battle of Manila Bay

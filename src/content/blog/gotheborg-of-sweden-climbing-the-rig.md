@@ -10,7 +10,7 @@ categories:
 tags:
   - "Climbing the Rig"
   - "Götheborg of Sweden"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/gotrig.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/gotrig.jpg"
 author: "Rick Spilman"
 description: "Sailing onboard Götheborg of Sweden involves climbing and working in the rig, at the highest about 40 meters up, or far out on a yard. Everyone who sails with the ship goes through rig training, and even though most are … Continue reading &rarr;"
 ---

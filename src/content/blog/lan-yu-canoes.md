@@ -12,15 +12,15 @@ description: "We are very pleased to have a guest post from Joan Druett, who rec
 
 We are very pleased to have a guest post from [Joan Druett](http://joan-druett.blogspot.com/), who recently visited Taiwan. Joan is the multi-award winning author of more than 20 books, including her latest, *[Lady Castaways](http://www.amazon.com/Lady-Castaways-Joan-Druett-ebook/dp/B00SPCQZ9U/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1427326726&sr=1-1&keywords=joan+druett)* and *[Eleanor’s Odyssey](http://www.amazon.com/Eleanors-Odyssey-Captains-Friendship-1799-1801-ebook/dp/B00Q2E992S/ref=sr_1_9?s=digital-text&ie=UTF8&qid=1427326726&sr=1-9&keywords=joan+druett).*
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2015/03/006-canoe-200x150.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2015/03/006-canoe.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/006-canoe-200x150.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/006-canoe.jpg)
 
 A priority for anyone from the Pacific who visits Taiwan is the [Shung-Ye Museum of Formosan Aborigines.](http://www.museum.org.tw/)  After all, it is now both scientifically and popularly believed that the greatest migration of seafarers in history — the discovery and settlement of the islands of the Pacific — began in Taiwan.  It was from the east coast of this mountainous island off the coast of mainland China that the people we now call Polynesians set out on their epic voyages.  Our New Zealand Maori are distant cousins of the Formosan Aborigines, with a great deal in common, both in appearance and in personality. There are echoes of the local language in Maori *te reo.*
 
 So here I am, gazing at a local canoe with some bemusement.  Called a “*balangay,* it is not a canoe at all.  As you can see from the following photos, taken at the marvelous Evergreen Maritime Museum in Taipei, a *balangay* is equipped with what could be called “row locks,” and is equipped with oars. The crew sit on small spreaders, or thwarts, and row in what we think of as the European fashion. It is not built on a dug-out keel, but entirely planked. There is not a single piece of metal in the carvel-built craft. The planks are fixed with wooden pins, and rope — probably sennit, originally — secures the rest.
 
-[![???????????????????????????????](http://www.oldsaltblog.com/wp-content/uploads/2015/03/045-200x150.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2015/03/045.jpg)
+[![???????????????????????????????](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/045-200x150.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/045.jpg)
 
-[![044 - 12 Feb.](http://www.oldsaltblog.com/wp-content/uploads/2015/03/044-12-Feb.-200x150.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2015/03/044-12-Feb..jpg)
+[![044 - 12 Feb.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/044-12-Feb.-200x150.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/044-12-Feb..jpg)
 
 These are fascinating craft.  I had the privilege of meeting Syaman Rapongan, a native of Lan Yu (Orchid) Island, an islet off the southeast coast that is inhabited by his people, the Yami.  As he says, building fishing boats is the most important craft of the Yami people, being essential for survival and livelihood, and also a way of proving one’s manhood. For a Yami youth, building his first canoe is a rite of passage.
 

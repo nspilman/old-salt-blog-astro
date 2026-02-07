@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Two men, aged 53 and 26, from the Pacific Ocean island nation of Kiribati, who had been missing for 33 days, came ashore over 300 miles away on the on Namorik Atoll, in the Marshall Islands. The men were reported … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/adrift.jpg)Two men, aged 53 and 26, from the Pacific Ocean island nation of Kiribati, who had been missing for 33 days, came ashore over 300 miles away on the on Namorik Atoll, in the Marshall Islands. The men were reported to be weak, but otherwise not in bad shape, considering their ordeal. Apparently their arrival was not entirely unusual.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/adrift.jpg)Two men, aged 53 and 26, from the Pacific Ocean island nation of Kiribati, who had been missing for 33 days, came ashore over 300 miles away on the on Namorik Atoll, in the Marshall Islands. The men were reported to be weak, but otherwise not in bad shape, considering their ordeal. Apparently their arrival was not entirely unusual.
 
 *“As odd as it may seem, the Marshall Islands hosts Kiribas drifters quite frequently,”* said the editor of the Marshall Islands Journal, Giff Johnson, *“It’s not that it happens all the time. Let’s just say people from Kiribas are very hardy individuals. They get lost on a little boat and manage to persevere. It is an amazing thing.”*
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "An estimated 400 migrants drowned in the Mediterranean when their boat capsized, 24 hours after leaving Libya.  Approximately 145 people were rescued.  Italian authorities say that around 8,500 migrants had been rescued at sea between Friday and Monday alone.  Nearly 3,500 migrants … Continue reading &rarr;"
 ---
 
-![rescue1](http://www.oldsaltblog.com/wp-content/uploads/2015/04/rescue1.jpg)
+![rescue1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/rescue1.jpg)
 
 Photo: Reuters
 

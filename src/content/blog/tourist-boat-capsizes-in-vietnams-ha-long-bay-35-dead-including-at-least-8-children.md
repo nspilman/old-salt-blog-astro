@@ -12,12 +12,12 @@ tags:
   - "tourist excursion boa"
   - "Vietnam"
   - "Wonder Seas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/wonderseascapsize.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/wonderseascapsize.jpg"
 author: "Rick Spilman"
 description: "On Saturday afternoon, Wonder Seas, a tourist excursion boat, capsized in Ha Long Bay, in Vietnam’s Quang Ninh province, around 100 miles east of Hanoi, after encountering a sudden storm. State media reported that at least 35 people have died, … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/wonderseascapsize.jpg)On Saturday afternoon, [Wonder Seas, a tourist excursion boat, capsized in Ha Long Bay](https://en.wikipedia.org/wiki/Sinking_of_the_Wonder_Sea), in Vietnam’s Quang Ninh province, around 100 miles east of Hanoi, after encountering a sudden storm. State media reported that at least 35 people have died, including 8 children. The boat had 46 Vietnamese tourists and three crew members aboard when it capsized. Four are still missing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/wonderseascapsize.jpg)On Saturday afternoon, [Wonder Seas, a tourist excursion boat, capsized in Ha Long Bay](https://en.wikipedia.org/wiki/Sinking_of_the_Wonder_Sea), in Vietnam’s Quang Ninh province, around 100 miles east of Hanoi, after encountering a sudden storm. State media reported that at least 35 people have died, including 8 children. The boat had 46 Vietnamese tourists and three crew members aboard when it capsized. Four are still missing.
 
 Navy divers were deployed to help with the search, which was hampered by rough seas, strong winds and heavy rains. At least 10 people were rescued, and the capsized vessel was salvaged and towed ashore, [Viet Nam News](https://vietnamnews.vn/society/1721706/overnight-search-underway-for-victims-in-tourist-boat-capsizing-incident-in-ha-long-bay.html) [reported](https://vietnamnews.vn/society/1721706/overnight-search-underway-for-victims-in-tourist-boat-capsizing-incident-in-ha-long-bay.html).
 

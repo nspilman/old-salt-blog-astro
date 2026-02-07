@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Scientists have reported the largest whale stranding on record -- 337 dead whales were discovered in a remote fiord in the Patagonia, southern Chile."
 ---
 
-![PHOTO: CAROLINA SIMON GUTSTEIN](http://www.oldsaltblog.com/wp-content/uploads/2015/11/whalestranding.jpg)
+![PHOTO: CAROLINA SIMON GUTSTEIN](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/whalestranding.jpg)
 
 PHOTO: CAROLINA SIMON GUTSTEIN
 

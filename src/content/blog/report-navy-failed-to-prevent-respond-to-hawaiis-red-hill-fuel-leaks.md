@@ -13,12 +13,12 @@ tags:
   - "Red Hill"
   - "Red Hill fuel facility"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg"
 author: "Rick Spilman"
 description: "In December we posted Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a \"Ticking Time Bomb\" describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg)In December we posted [Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb”](https://www.oldsaltblog.com/2021/12/hawaii-deputy-ag-pearl-harbor-leaking-fuel-tanks-a-ticking-time-bomb/) describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over 1,000 military families from their homes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg)In December we posted [Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb”](https://www.oldsaltblog.com/2021/12/hawaii-deputy-ag-pearl-harbor-leaking-fuel-tanks-a-ticking-time-bomb/) describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over 1,000 military families from their homes.
 
 Last week, the results of [two investigations](https://s3.documentcloud.org/documents/22076929/supplemental-investigation-into-red-hill-leaks.pdf) were released describing a string of extraordinary failures in maintenance, training and leadership at the Navy’s [Red Hill fuel facility](https://www.epa.gov/red-hill) that resulted in fuel spewing from a broken pipeline for 30 hours, leaking petroleum into the military’s drinking water and sickening entire families last year, military officials.
 

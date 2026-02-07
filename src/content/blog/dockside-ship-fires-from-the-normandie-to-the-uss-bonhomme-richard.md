@@ -5,12 +5,12 @@ slug: "dockside-ship-fires-from-the-normandie-to-the-uss-bonhomme-richard"
 excerpt: "For a third day, the USS Bonhomme Richard continues to burn at the dock, despite the best efforts of hundreds of Navy and civilian firefighters to quench the inferno. The casualty raises the question, are dockside fires on ships worse … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr3.jpg"
 author: "Rick Spilman"
 description: "For a third day, the USS Bonhomme Richard continues to burn at the dock, despite the best efforts of hundreds of Navy and civilian firefighters to quench the inferno. The casualty raises the question, are dockside fires on ships worse … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr3.jpg)For a third day, the USS *Bonhomme Richard* continues to burn at the dock, despite the best efforts of hundreds of Navy and civilian firefighters to quench the inferno. The casualty raises the question, are dockside fires on ships worse than fires at sea? 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr3.jpg)For a third day, the USS *Bonhomme Richard* continues to burn at the dock, despite the best efforts of hundreds of Navy and civilian firefighters to quench the inferno. The casualty raises the question, are dockside fires on ships worse than fires at sea? 
 
 “As counter-intuitive as this sounds, I would much rather fight a fire at sea with a whole crew than fight it dockside,” said Bryan McGrath, a retired Navy commander told the [San Diego Union-Tribune](https://www.sandiegouniontribune.com/news/military/story/2020-07-13/bonhomme-richard-fire-future). “The ability to act quickly with a massive response and inhibit the spread is aided when you have all your people.”
 

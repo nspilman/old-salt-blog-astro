@@ -9,12 +9,12 @@ tags:
   - "A Furious Sky"
   - "Eric Jay Dolin"
   - "the Five-Hundred-Year History of America's Hurricanes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/furioussky.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/furioussky.jpg"
 author: "Rick Spilman"
 description: "Having grown up on the Gulf Coast of Florida, I can say without hesitation that a hurricane is the most magnificent and absolutely the most terrifying of all events in nature. Recently NOAA announced that their Atlantic forecast is for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/furioussky.jpg)Having grown up on the Gulf Coast of Florida, I can say without hesitation that a hurricane is the most magnificent and absolutely the most terrifying of all events in nature. Recently NOAA announced that their [Atlantic forecast is for an “extremely active” 2020 hurricane season](https://www.cpc.ncep.noaa.gov/products/outlooks/hurricane.shtml#:~:text=The%202020%20Atlantic%20hurricane%20season%20is%20now%20predicted%20to%20produce,expected%20to%20become%20major%20hurricanes.), with 19-25 named storms and 3-6 major hurricanes. So, Eric Jay Dolin’s new book, [*A Furious Sky, the Five-Hundred-Year History of America’s Hurricanes*](https://www.amazon.com/Furious-Sky-Five-Hundred-Year-Americas-Hurricanes/dp/1631495275/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1597098535&sr=1-1) is indeed most timely.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/furioussky.jpg)Having grown up on the Gulf Coast of Florida, I can say without hesitation that a hurricane is the most magnificent and absolutely the most terrifying of all events in nature. Recently NOAA announced that their [Atlantic forecast is for an “extremely active” 2020 hurricane season](https://www.cpc.ncep.noaa.gov/products/outlooks/hurricane.shtml#:~:text=The%202020%20Atlantic%20hurricane%20season%20is%20now%20predicted%20to%20produce,expected%20to%20become%20major%20hurricanes.), with 19-25 named storms and 3-6 major hurricanes. So, Eric Jay Dolin’s new book, [*A Furious Sky, the Five-Hundred-Year History of America’s Hurricanes*](https://www.amazon.com/Furious-Sky-Five-Hundred-Year-Americas-Hurricanes/dp/1631495275/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1597098535&sr=1-1) is indeed most timely.
 
 Dolin’s history of American hurricanes begins with Columbus’ fourth and last voyage to the Americas. Like other Europeans, Columbus arrived in the “New World” without even knowing the word hurricane.
 

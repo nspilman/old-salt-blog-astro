@@ -12,12 +12,12 @@ tags:
   - "drugs"
   - "MSC Gayane"
   - "smugglers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg"
 author: "Rick Spilman"
 description: "On Monday, 15.5 tonnes of cocaine worth roughly $1 billion was seized by Federal authorities aboard the MSC Gayane in the Port of Philadelphia. The drugs were found in seven shipping containers. It was one of the largest drug seizures … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg)On Monday, [15.5 tonnes of cocaine worth roughly $1 billion was seized by Federal authorities](http://www.oldsaltblog.com/2019/06/sixteen-tons-of-cocaine-seized-on-container-ship-msc-gayane-in-philly/) aboard the [MSC *Gayane*](https://www.vesseltracker.com/en/Ships/Msc-Gayane-9770763.html) in the Port of Philadelphia. The drugs were found in seven shipping containers. It was one of the largest drug seizures in US history. How the drugs came to be aboard the 9,962 TEU container ship is a bizarre and almost unbelievable story, involving the ship’s crew loading drugs at sea from more than two dozen small boats, operated by smugglers wearing ski masks. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg)On Monday, [15.5 tonnes of cocaine worth roughly $1 billion was seized by Federal authorities](http://www.oldsaltblog.com/2019/06/sixteen-tons-of-cocaine-seized-on-container-ship-msc-gayane-in-philly/) aboard the [MSC *Gayane*](https://www.vesseltracker.com/en/Ships/Msc-Gayane-9770763.html) in the Port of Philadelphia. The drugs were found in seven shipping containers. It was one of the largest drug seizures in US history. How the drugs came to be aboard the 9,962 TEU container ship is a bizarre and almost unbelievable story, involving the ship’s crew loading drugs at sea from more than two dozen small boats, operated by smugglers wearing ski masks. 
 
 Officials are not sure that they have found all the cocaine aboard the ship. [Officials told CBS News](https://www.cbsnews.com/news/philadelphia-drug-bust-ship-feds-seized-billion-dollars-of-cocaine-could-have-30-tons-more-on-board/) there could be 30 tons more on board.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I recently learned a new figure of speech – \"like painting the Forth Bridge,\" which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/250px-Forth_bridge_evening_.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/250px-Forth_bridge_evening_.jpg)
 
 The Forth Bridge - Painted at Last
 
@@ -25,6 +25,6 @@ Is there a suitable replacement phrase? “Shoveling sand against the tide” or
 
 Having nothing whatsoever to do with paint or bridges, there has been an image floating around the internet of late which solves the old problem addressed in the American phrase to be “up shit creek without a paddle.”  Never forget to bring your paddle.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/Singles06.Shit-Creek.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/Singles06.Shit-Creek.jpg)
 
 Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing along the news of the bridge’s new paint job.

@@ -9,7 +9,7 @@ tags:
   - "Panama Canal"
   - "Timelapse"
   - "transit"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/pcanaltlapse.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/pcanaltlapse.jpg"
 author: "Rick Spilman"
 description: "A fun video for a Monday.  A timelapse video of the 11-hour transit from the Pacific to the Atlantic on the Ocean Princess in just under 7 minutes. Shot by Steve Noble on February 28th, 2016. Panama Canal – Full … Continue reading &rarr;"
 ---

@@ -12,12 +12,12 @@ tags:
   - "Hawaii"
   - "Hawaii Department of Transportation"
   - "Honolulu harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "The Falls of Clyde, the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, has been given a short reprieve from being scrapped or scuttled. In late April, the Hawaii Department of Transportation’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)
 
 The [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, has been given a short reprieve from being scrapped or scuttled.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Orange County Register had an interesting article recently. They reported that last Saturday a whale-watching boat reported seeing what they believe to be a \"flue\" whale, a hybrid blue-fin whale, swimming off Dana Point, CA. The whale has been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/flue-whale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/flue-whale.jpg)
 
 Photo: Caitlyn Nieblas/Capt. Dave’s Dolphin and Whale Watching Safari
 

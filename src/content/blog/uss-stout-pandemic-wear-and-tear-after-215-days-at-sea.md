@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The pandemic has taken a toll on even those of us who remained untouched by the virus. In a trivial example, for me, it was a haircut. After five months without a haircut, I was feeling very shaggy when the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/ussstout.jpg)The pandemic has taken a toll on even those of us who remained untouched by the virus. In a trivial example, for me, it was a haircut. After five months without a haircut, I was feeling very shaggy when the barbershops finally reopened.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/ussstout.jpg)The pandemic has taken a toll on even those of us who remained untouched by the virus. In a trivial example, for me, it was a haircut. After five months without a haircut, I was feeling very shaggy when the barbershops finally reopened.
 
 The same applies to ships. The Arleigh Burke-class destroyer [*USS Stout*](https://en.wikipedia.org/wiki/USS_Stout) remained at sea continuously for 215 days straight without a port call, in large part to stay isolated from the pandemic. And it showed. [The Drive.com](https://www.thedrive.com/the-war-zone/37094/check-out-how-rusty-and-battered-uss-stout-looks-after-spending-a-record-215-days-at-sea#:~:text=This%20ship%20stayed%20at%20sea,battered%20from%20the%20hard%20deployment.) described the appearance of the ship looked “like a set from a dystopian naval thriller, streaked in rust, her hull dinged and battered from the hard deployment.”
 

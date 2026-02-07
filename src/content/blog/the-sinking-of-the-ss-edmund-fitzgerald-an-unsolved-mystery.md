@@ -16,12 +16,12 @@ tags:
   - "NTSB"
   - "SS Edmund Fitzgerald"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/efitz.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/efitz.jpg"
 author: "Rick Spilman"
 description: "SS Edmund Fitzgerald, an American Great Lakes ore carrier, sank 47 years ago today, on November 10, 1975, in a storm on Lake Superior. The crew of 29 was lost when the freighter, loaded with 26,000 tons of iron ore pellets, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/efitz.jpg)[SS *Edmund Fitzgerald*](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald), an American Great Lakes ore carrier, sank 47 years ago today, on November 10, 1975, in a storm on Lake Superior. The crew of 29 was lost when the freighter, loaded with 26,000 tons of iron ore pellets, sank in 530 feet of water, about 15 nautical from Whitefish Bay. Exactly why and how the bulk carrier sank remains a mystery to this day.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/efitz.jpg)[SS *Edmund Fitzgerald*](https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald), an American Great Lakes ore carrier, sank 47 years ago today, on November 10, 1975, in a storm on Lake Superior. The crew of 29 was lost when the freighter, loaded with 26,000 tons of iron ore pellets, sank in 530 feet of water, about 15 nautical from Whitefish Bay. Exactly why and how the bulk carrier sank remains a mystery to this day.
 
 The wreckage of the ship was located within days. The bow section was upright some distance from the stern which was upside down on the bottom. Roughly 200 feet of vessel around midships was missing.
 

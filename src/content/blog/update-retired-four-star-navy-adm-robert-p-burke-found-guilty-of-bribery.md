@@ -14,12 +14,12 @@ tags:
   - "highest-ranking U.S. military officer to be convicted of a crime"
   - "Next Jum"
   - "retired four-star Navy Admiral"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/admburke.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/admburke.jpg"
 author: "Rick Spilman"
 description: "Last June, we posted about the arrest of Robert P. Burke, a retired four-star Navy Admiral, on bribery charges. This week, a federal jury convicted the former Vice Chief of Naval Operations of four counts of bribery for steering a … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2024/06/admburke.jpg)Last June, we posted about the arrest of [Robert P. Burke](https://en.wikipedia.org/wiki/Robert_P._Burke), a retired four-star Navy Admiral, on bribery charges. This week, a federal jury convicted the former Vice Chief of Naval Operations of four counts of bribery for steering a contract to a private company in exchange for a post-retirement job. Burke, the Navy’s former second-in-command, becomes the highest-ranking U.S. military officer to be convicted of a crime while on active duty, according to [The Washington Post](https://www.washingtonpost.com/national-security/2025/05/19/navy-admiral-burke-bribery-verdict/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/admburke.jpg)Last June, we posted about the arrest of [Robert P. Burke](https://en.wikipedia.org/wiki/Robert_P._Burke), a retired four-star Navy Admiral, on bribery charges. This week, a federal jury convicted the former Vice Chief of Naval Operations of four counts of bribery for steering a contract to a private company in exchange for a post-retirement job. Burke, the Navy’s former second-in-command, becomes the highest-ranking U.S. military officer to be convicted of a crime while on active duty, according to [The Washington Post](https://www.washingtonpost.com/national-security/2025/05/19/navy-admiral-burke-bribery-verdict/).
 
 Burke was convicted of one count each of bribery, conspiracy to commit bribery, affecting personal financial interest and false official statement in connection with his relationship with the executive training firm, [Next Jump](https://www.nextjump.com/).
 

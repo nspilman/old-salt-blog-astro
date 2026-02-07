@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This is a busy time for underwater explorers in the waters off Sweden. Yesterday, we posted about an unidentified object on the Baltic Sea floor which the media has been referring to as the Millennium Falcon.   Recently, divers off the south coast of Sweden … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/41510.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/41510.jpg)
 
 Portion of ship’s knee and frame recovered from wreck. Photo: Kalmar Country Museum
 

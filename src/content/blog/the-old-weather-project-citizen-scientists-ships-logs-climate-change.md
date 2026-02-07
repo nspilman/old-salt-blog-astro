@@ -14,12 +14,12 @@ tags:
   - "Old Weather Project"
   - "Ship's Logs"
   - "Southern Weather Discovery Project"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/oldweather.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/oldweather.jpg"
 author: "Rick Spilman"
 description: "One of the better ways to tell if a model works at predicting the future is to run it in reverse to see how well it predicts the past. Climate change models so far have had their limitations. Most current … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/oldweather.jpg)One of the better ways to tell if a model works at predicting the future is to run it in reverse to see how well it predicts the past. Climate change models so far have had their limitations. Most current [models have significantly underestimated the rate of climate change](https://blogs.scientificamerican.com/observations/scientists-have-been-underestimating-the-pace-of-climate-change/). But where does one find accurate climate data for the last century or two? For more than a decade climate scientists have been using weather observations from ship’s logs to build the database they need to track climate conditions over time.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/oldweather.jpg)One of the better ways to tell if a model works at predicting the future is to run it in reverse to see how well it predicts the past. Climate change models so far have had their limitations. Most current [models have significantly underestimated the rate of climate change](https://blogs.scientificamerican.com/observations/scientists-have-been-underestimating-the-pace-of-climate-change/). But where does one find accurate climate data for the last century or two? For more than a decade climate scientists have been using weather observations from ship’s logs to build the database they need to track climate conditions over time.
 
 Thousands of ships logs with millions of weather observations have been collected and have provided a veritable treasure trove of climate data. One problem, however, is how to convert information recorded in pen and ink on paper in the old logs into a form that can be used for analysis in computer models. 
 

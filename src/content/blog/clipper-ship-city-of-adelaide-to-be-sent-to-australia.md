@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Great news!  The oldest just barely surviving composite clipper ship in the world, the City of Adelaide appears  likely to be moved to Australia to its namesake city, Adelaide.  The ship, which is currently at the Scottish Maritime Museum in Irvine, Scotland, has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/nov_2009_image.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/nov_2009_image.jpg)
 
 Great news!  The oldest just barely surviving composite clipper ship in the world, the [City of Adelaide](http://cityofadelaide.org.au/) appears  likely to be moved to Australia to its namesake city, Adelaide.  The ship, which is currently at the [Scottish Maritime Museum](http://www.scottishmaritimemuseum.org/) in Irvine, Scotland, has been threatened by scrapping as the museum lacked the fund to care for the ship.    The announcement, made by Scottish Culture Minister, Fiona Hyslop, was a disappointment to a competing group which wanted the old clipper to be moved to Sunderland – where she was built in 1864.
 

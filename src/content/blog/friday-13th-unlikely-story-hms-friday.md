@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of HMS Friday. Sometime in the 1800s, it is said that … Continue reading &rarr;"
 ---
 
-![f13](http://www.oldsaltblog.com/wp-content/uploads/2016/05/f13.jpg)Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of [HMS *Friday*](https://en.wikipedia.org/wiki/HMS_Friday).
+![f13](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/f13.jpg)Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of [HMS *Friday*](https://en.wikipedia.org/wiki/HMS_Friday).
 
 Sometime in the 1800s, it is said that the Royal Navy decided to dispel the stigma attached to Friday. They commissioned a ship and named it the HMS *Friday*. Her keel was laid on a Friday, she was launched on a Friday, and she set sail on her maiden voyage on Friday the 13th, under the command of a Captain James Friday. She was never seen or heard from again.
 

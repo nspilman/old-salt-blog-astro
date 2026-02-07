@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In honor of Black History Month, an updated repost about the first African-American pilot in the US Navy, Jesse L. Brown. The story goes that when young Jesse Leroy Brown worked in the cotton fields of Mississippi beside his sharecropper … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/jlbrown.jpg)In honor of Black History Month, an updated repost about the first African-American pilot in the US Navy, [Jesse L. Brown](https://en.wikipedia.org/wiki/Jesse_L._Brown).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/jlbrown.jpg)In honor of Black History Month, an updated repost about the first African-American pilot in the US Navy, [Jesse L. Brown](https://en.wikipedia.org/wiki/Jesse_L._Brown).
 
 The story goes that when young Jesse Leroy Brown worked in the cotton fields of Mississippi beside his sharecropper father, whenever he would see a plane in the sky above, he would declare that one day, he would be a pilot. No one took him seriously.
 

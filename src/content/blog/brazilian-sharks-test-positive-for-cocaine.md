@@ -13,12 +13,12 @@ tags:
   - "cocaine sharks"
   - "Oswaldo Cruz Foundation"
   - "Rio de Janeiro"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/sharpnoseshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/sharpnoseshark.jpg"
 author: "Rick Spilman"
 description: "Have you heard of cocaine bear? Well, meet cocaine sharks. Sharks living off the coast of Brazil have tested positive for cocaine, according to new research, the first time that the drug has been detected in free-ranging sharks. Scientists tested 13 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/sharpnoseshark.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/sharpnoseshark.jpg)
 
 Graphic: D Ross Robertson
 

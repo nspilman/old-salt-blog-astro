@@ -11,12 +11,12 @@ tags:
   - "RSS David Attenborough"
   - "Thwaites Glacier"
   - "Thwaites ice shelf"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted a grim post The Threat from Thwaites, Antarctica’s Riskiest Glacier about the potential collapse of the glacier’s ice shelf within a few years resulting in a rise in global sea levels by several feet. While researching the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg)Yesterday, we posted a grim post [The Threat from Thwaites, Antarctica’s Riskiest Glacier](https://www.oldsaltblog.com/2021/12/the-threat-from-thwaites-antarcticas-riskiest-glacier/) about the potential collapse of the glacier’s ice shelf within a few years resulting in a rise in global sea levels by several feet.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg)Yesterday, we posted a grim post [The Threat from Thwaites, Antarctica’s Riskiest Glacier](https://www.oldsaltblog.com/2021/12/the-threat-from-thwaites-antarcticas-riskiest-glacier/) about the potential collapse of the glacier’s ice shelf within a few years resulting in a rise in global sea levels by several feet.
 
 While researching the post, I came across an old friend who will be playing a significant role in studying the ice shelf. I am referring to the yellow autonomous submarine named [Boaty McBoatface.](https://www.oldsaltblog.com/2017/03/maiden-voyage-boaty-mcboatface-yellow-submarine/)
 

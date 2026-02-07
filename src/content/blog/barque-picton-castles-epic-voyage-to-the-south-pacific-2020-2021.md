@@ -11,12 +11,12 @@ tags:
   - "barque"
   - "Picton Castle"
   - "South Pacific"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021small.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021small.jpg"
 author: "Rick Spilman"
 description: "In May of 2020, the barque Picton Castle will embark on another epic voyage, this time to the South Pacific. Trainees may sign aboard for the year-long voyage or for any of the four legs of the trip. The Picton … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021small.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021resized.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021small.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/PICTON-CASTLE-Voyage-to-the-South-Pacific-2020-2021resized.jpg)
 
 Click for a larger image
 

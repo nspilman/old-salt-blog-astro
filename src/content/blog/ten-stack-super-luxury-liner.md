@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Here is a plan for a ship that would top them all -- a ten stack luxury superliner out of Germany."
 ---
 
-![tenstack](http://www.oldsaltblog.com/wp-content/uploads/2016/03/tenstack.jpg)
+![tenstack](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/tenstack.jpg)
 
 There is a lot going on in the cruise world these days. There is all the talk about returning the [SS *United States*](http://www.oldsaltblog.com/2016/02/will-the-ss-united-states-sail-again-crystal-cruises-tosses-a-life-line/) to service, although probably without a steam plant or much of the original ship coming along for the ride. Then there is the allegedly ongoing project to build a [replica of the *RMS Titanic*,](http://www.oldsaltblog.com/2016/02/titanic-ii-not-quite-exact-replica-sail-2018/) which will be exactly like the original except for more beam, no steam, and no shear, as well as more lifeboats, and, at least, one fewer iceberg. Here, however, is a plan for a ship that would top them all — a ten stack luxury superliner out of Germany.
 

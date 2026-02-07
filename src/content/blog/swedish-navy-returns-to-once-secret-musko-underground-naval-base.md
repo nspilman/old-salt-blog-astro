@@ -14,12 +14,12 @@ tags:
   - "Stockholm Archipelago"
   - "Sweden"
   - "Swedish Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/Muskobase.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/Muskobase.jpg"
 author: "Rick Spilman"
 description: "The Swedish Navy’s headquarters is returning to a vast underground naval base beneath Muskö in the Stockholm Archipelago in response to a perceived threat of a Russian attack. The vast underground cold war fortress can shelter warships and submarines and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/Muskobase.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/Muskobase.jpg)
 
 HSwMS Sundsvall entering one of the openings to the naval base
 

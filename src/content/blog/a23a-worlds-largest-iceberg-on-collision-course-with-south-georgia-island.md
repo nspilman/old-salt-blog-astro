@@ -13,12 +13,12 @@ tags:
   - "Iceberg Alley"
   - "South Georgia"
   - "world's largest iceberg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/iceberga23aonmove.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/iceberga23aonmove.jpg"
 author: "Rick Spilman"
 description: "The world’s largest iceberg, designated A23a, is drifting northwards from Antarctica towards South Georgia, a British territory and wildlife haven, where it could ground and break into pieces. If that happens, it poses a grave threat to King Emperor penguins’ … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/01/iceberga23aonmove.jpg)The world’s largest iceberg, designated A23a, is [drifting northwards from Antarctica towards South Georgia,](https://www.bbc.co.uk/newsround/articles/cwyw7q17q47o) a British territory and wildlife haven, where it could ground and break into pieces. If that happens, it poses a grave threat to King Emperor penguins’ colonies, millions of elephant seals, and fur seals on the island.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/iceberga23aonmove.jpg)The world’s largest iceberg, designated A23a, is [drifting northwards from Antarctica towards South Georgia,](https://www.bbc.co.uk/newsround/articles/cwyw7q17q47o) a British territory and wildlife haven, where it could ground and break into pieces. If that happens, it poses a grave threat to King Emperor penguins’ colonies, millions of elephant seals, and fur seals on the island.
 
 In addition to being currently the largest iceberg adrift in Antarctic waters, A23a is also one of the oldest. In 1986, the massive iceberg, more than three times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf and immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades until it broke free in late 2023.
 

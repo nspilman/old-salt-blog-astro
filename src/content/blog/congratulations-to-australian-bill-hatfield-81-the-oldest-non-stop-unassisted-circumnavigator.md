@@ -13,7 +13,7 @@ tags:
   - "non-stop"
   - "Solo"
   - "unassisted"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/billhatfield.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/billhatfield.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Australian Bill Hatfield, who at 81, recently completed a solo, non-stop, unassisted circumnavigation of the globe. His almost nine-month voyage on his 38-foot yacht L’Eau Commotion, was all the more remarkable because he sailed westward against the prevailing winds … Continue reading &rarr;"
 ---

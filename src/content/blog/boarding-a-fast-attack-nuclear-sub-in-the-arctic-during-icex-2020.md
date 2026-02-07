@@ -12,12 +12,12 @@ tags:
   - "ICEX"
   - "ICEX 2020"
   - "USS Toledo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/boardingattacksub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/boardingattacksub.jpg"
 author: "Rick Spilman"
 description: "A video for a Sunday afternoon. In March, the US Navy officially commenced Ice Exercise (ICEX) 2020 in the Arctic Ocean with the construction of a temporary ice camp, Camp Seadragon, and the arrival of two US Navy fast-attack submarines.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/boardingattacksub.jpg)A video for a Sunday afternoon. In March, the US Navy officially commenced Ice Exercise (ICEX) 2020 in the Arctic Ocean with the construction of a temporary ice camp, Camp Seadragon, and the arrival of two US Navy fast-attack submarines. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/boardingattacksub.jpg)A video for a Sunday afternoon. In March, the US Navy officially commenced Ice Exercise (ICEX) 2020 in the Arctic Ocean with the construction of a temporary ice camp, Camp Seadragon, and the arrival of two US Navy fast-attack submarines. 
 
 Destin Sandlin from the [Smarter Every Day](https://www.smartereveryday.com/) Youtube vlog was allowed to go aboard the USS *Toledo* during ICEX. The video below captures what it is like to board a US Navy fast-attack submarine in the Arctic.
 

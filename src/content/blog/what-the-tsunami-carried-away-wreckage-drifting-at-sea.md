@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "For all the damage that the Japanese tsunami of March 11th left behind on shore,  it also carried considerable wreckage out to sea.   this week the Japanese Coast Guard warned ships to look out for and avoid the floating … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/Japanx-wide-community.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Japanx-wide-community.jpg)
 
 Photo: Kyoto News
 

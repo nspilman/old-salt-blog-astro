@@ -10,12 +10,12 @@ tags:
   - "Australia"
   - "bleaching"
   - "Great Barrier Reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/gbarrierreefbleach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/gbarrierreefbleach.jpg"
 author: "Rick Spilman"
 description: "The Great Barrier Reef, off Australia’s east coast, is 1,400 miles long, covers 133,000 square miles and can be seen from outer space.  It may be dying before our eyes.  \"We thought the Barrier Reef was too big to fail,\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/gbarrierreefbleach.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/gbarrierreefbleach.jpg)
 
 Photo: Gergely Torda/ARC Center of Excellence for Coral Reef Studies
 

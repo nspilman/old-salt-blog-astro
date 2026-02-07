@@ -14,12 +14,12 @@ tags:
   - "Outer Hebrides"
   - "Scotland"
   - "Stornoway"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/iolare.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/iolare.jpg"
 author: "Rick Spilman"
 description: "On New Year’s Eve 1918, over 200 men crowded the dock at the port of Kyle of Lochalsh waiting to the board the HMY Iolaire, a 190′ long iron-hulled yacht requisitioned by the Admiralty. Most of the men were Royal Navy Reservists. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/iolare.jpg)On New Year’s Eve 1918, over 200 men crowded the dock at the port of Kyle of Lochalsh waiting to the board the [*HMY Iolaire*](https://en.wikipedia.org/wiki/HMY_Iolaire), a 190′ long iron-hulled yacht requisitioned by the Admiralty. Most of the men were Royal Navy Reservists. The Great War was over and they were returning home to the Isle of Lewis on the Outer Hebrides of Scotland. When they boarded the *Iolaire*, it was a tight fit, but after fighting the long and brutal war, no one seemed to mind a bit of crowding. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/iolare.jpg)On New Year’s Eve 1918, over 200 men crowded the dock at the port of Kyle of Lochalsh waiting to the board the [*HMY Iolaire*](https://en.wikipedia.org/wiki/HMY_Iolaire), a 190′ long iron-hulled yacht requisitioned by the Admiralty. Most of the men were Royal Navy Reservists. The Great War was over and they were returning home to the Isle of Lewis on the Outer Hebrides of Scotland. When they boarded the *Iolaire*, it was a tight fit, but after fighting the long and brutal war, no one seemed to mind a bit of crowding. 
 
 At 2:30 a.m. on New Year’s Day, as the ship approached the port of Stornoway, a few yards offshore and a mile away from the safety of the harbor, the [*Iolaire* hit the infamous rocks “The Beasts of Holm” and sank.](https://www.wrecksite.eu/wreck.aspx?60541) Unlike the many Hebrides islanders aboard, the officers on the bridge were unfamiliar with the local waters and made a fatal error in navigation.
 

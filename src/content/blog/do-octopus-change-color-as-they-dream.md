@@ -12,7 +12,7 @@ tags:
   - "octopus"
   - "Octopus: Making Contact"
   - "PBS documentary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/octopusdreaming.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/octopusdreaming.jpg"
 author: "Rick Spilman"
 description: "In an upcoming PBS documentary, Octopus: Making Contact, a scientist observes an octopus changing color while sleeping upside down in a tank. Is it dreaming? Marine biologist Dr. David Scheel speculates what the dream might be in accordance with the … Continue reading &rarr;"
 ---

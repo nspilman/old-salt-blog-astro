@@ -15,12 +15,12 @@ tags:
   - "MSC Michigan VII"
   - "Rear Adm. Douglas Schofield"
   - "South Carolina"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/pilothonored.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilothonored.jpg"
 author: "Rick Spilman"
 description: "Early last month, we posted about the departure on the morning of June 5th, of the container ship MSC Michigan VII from the North Charleston Container Terminal in Charleston, South Carolina. Its engine was set to \"dead slow ahead\" as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/pilothonored.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilothonored.jpg)
 
 Rear Adm. Douglas Scholfeld, commander of the Coast Guard 7th District, presents Christopher Thornton of the Charleston Branch Pilots with Meritorious Public Service Award for his actions in safely steering a ship to safety June 5, 2024. Coast Guard photo.
 

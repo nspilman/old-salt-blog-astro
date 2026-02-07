@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Personal items owned by Lord Nelson, valued at £37,800, were stolen from a display case at Norwich Castle in a daylight robbery. Plundered! £37,800 worth of Lord Nelson’s personal artefacts stolen from Norwich Castle The items stolen, which have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/nring.jpg)Personal items owned by Lord Nelson, valued at £37,800, were stolen from a display case at Norwich Castle in a daylight robbery.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/nring.jpg)Personal items owned by Lord Nelson, valued at £37,800, were stolen from a display case at Norwich Castle in a daylight robbery.
 
 [Plundered! £37,800 worth of Lord Nelson’s personal artefacts stolen from Norwich Castle](http://www.dailymail.co.uk/news/article-2110581/37-800-worth-Lord-Nelsons-personal-artefacts-stolen-Norwich-Castle.html#ixzz1oIPpoAcS)
 

@@ -17,12 +17,12 @@ tags:
   - "John Adams"
   - "Sentinel"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg"
 author: "Rick Spilman"
 description: "Born a slave, Harriet Tubman escaped from enslavement and became a leading \"conductor\" on the \"Underground Railroad\" which helped slaves escape from bondage in the South to freedom in the North and in Canada, prior to the Civil War.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg)Born a slave, [Harriet Tubman](http://en.wikipedia.org/wiki/Harriet_Tubman) escaped from enslavement and became a leading “conductor” on the “[Underground Railroad](http://en.wikipedia.org/wiki/Underground_Railroad)” which helped slaves escape from bondage in the South to freedom in the North and in Canada, prior to the Civil War.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg)Born a slave, [Harriet Tubman](http://en.wikipedia.org/wiki/Harriet_Tubman) escaped from enslavement and became a leading “conductor” on the “[Underground Railroad](http://en.wikipedia.org/wiki/Underground_Railroad)” which helped slaves escape from bondage in the South to freedom in the North and in Canada, prior to the Civil War.  
 
 Nicknamed “Moses,” she is said to have made more than nineteen trips back into the slave-holding South to rescue an estimated 70 of the enslaved.
 

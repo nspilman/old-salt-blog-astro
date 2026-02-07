@@ -15,12 +15,12 @@ tags:
   - "PT boats"
   - "USS Corry"
   - "William \"Bud\" Liebenow"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/liebenow.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/liebenow.jpg"
 author: "Rick Spilman"
 description: "William \"Bud\" Liebenow recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/liebenow.jpg)William “Bud” Liebenow](https://www.bostonglobe.com/metro/obituaries/2017/02/27/william-liebenow-wwii-navy-officer-who-helped-rescue-kennedy/5CIgCS13aieLbBnuMApq1N/story.html) recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack Kennedy and the ten other surviving crew of the PT 109 from behind enemy lines near the Solomon Islands in the South Pacific, after Kennedy’s PT boat was cut in half by a Japanese destroyer in August of 1943. Kennedy would later become the 35th President of the United States. Liebenow briefly joined Kennedy on the campaign trial during that election and he and his wife, Lucy, were invited by Kennedy to his inaugural ball in 1961.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/liebenow.jpg)William “Bud” Liebenow](https://www.bostonglobe.com/metro/obituaries/2017/02/27/william-liebenow-wwii-navy-officer-who-helped-rescue-kennedy/5CIgCS13aieLbBnuMApq1N/story.html) recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack Kennedy and the ten other surviving crew of the PT 109 from behind enemy lines near the Solomon Islands in the South Pacific, after Kennedy’s PT boat was cut in half by a Japanese destroyer in August of 1943. Kennedy would later become the 35th President of the United States. Liebenow briefly joined Kennedy on the campaign trial during that election and he and his wife, Lucy, were invited by Kennedy to his inaugural ball in 1961.
 
 During the Normandy landings of 1944, Liebenow was in command of PT-199 that helped rescue approximately 60 survivors of the [USS *Corry*](http://www.uss-corry-dd463.com/d-day_u-boat_photos/d-day_pt-199.htm), the lead destroyer of the Normandy Invasion task force, which was sunk by by German artillery fire. Later in the war, he ferried Gen. Dwight D. Eisenhower and Gen. George S. Patton aboard his PT boat. 
 

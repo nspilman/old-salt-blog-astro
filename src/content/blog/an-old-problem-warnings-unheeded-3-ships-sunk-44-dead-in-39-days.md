@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Ships carrying metallic ores should be the most stable ships on the ocean. These cargoes are dense and carried in low the ship. If improperly loaded, ore cargoes can indeed break a ship in half, but stability should not be an issue.  Nevertheless, three ships carrying nickel ore … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/black-rose.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/black-rose.jpg)
 
 MV Black Rose
 

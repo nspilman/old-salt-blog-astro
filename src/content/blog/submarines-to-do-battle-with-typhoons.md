@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This sounds completely nuts.  It might possibly work but there is the question of scale to be addressed.  Hurricanes, or typhoons in the Pacific,  need warm water to provide energy to the storm. The idea is to built a fleet of submarines to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/typhoon.jpg)This sounds completely nuts.  It might possibly work but there is the question of scale to be addressed.  Hurricanes, or typhoons in the Pacific,  need warm water to provide energy to the storm. The idea is to built a fleet of submarines to dive in the path of a typhoon and pump cold water to the surface to deprive the storm of its source of power.  (I’m not making this up.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/typhoon.jpg)This sounds completely nuts.  It might possibly work but there is the question of scale to be addressed.  Hurricanes, or typhoons in the Pacific,  need warm water to provide energy to the storm. The idea is to built a fleet of submarines to dive in the path of a typhoon and pump cold water to the surface to deprive the storm of its source of power.  (I’m not making this up.)
 
 [Inventor creates ‘submarine’ to block typhoons](http://www.telegraph.co.uk/news/worldnews/asia/japan/8015850/Inventor-creates-submarine-to-block-typhoons.html)  
   

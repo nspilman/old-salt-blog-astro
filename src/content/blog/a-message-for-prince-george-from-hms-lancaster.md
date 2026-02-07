@@ -15,6 +15,6 @@ author: "Rick Spilman"
 description: "Sailors stand on the flight deck of the HMS Lancaster in a special congratulatory message to Prince George, passing on the news that he now has a sister."
 ---
 
-![sister](http://www.oldsaltblog.com/wp-content/uploads/2015/05/sister.jpg)
+![sister](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/sister.jpg)
 
 Sailors stand on the flight deck of the [HMS *Lancaster*](http://en.wikipedia.org/wiki/HMS_Lancaster_%28F229%29), known as the “Queen’s Frigate,” in a [special congratulatory message to Prince George](http://www.nbcnews.com/news/world/royal-navy-delivers-special-message-prince-george-n352551), passing on the news that he now has a sister.

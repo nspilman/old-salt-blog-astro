@@ -13,12 +13,12 @@ tags:
   - "leaked audio"
   - "migrant shipwreck"
   - "Pylos"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece2.jpg"
 author: "Rick Spilman"
 description: "On June 14, 2023, the Adriana, an aging fishing trawler overloaded with up to 750 people, capsized in international waters off the Greek town of Pylos. One hundred and four men were rescued, and eighty-two bodies were recovered.  An additional 500 … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece2.jpg)On June 14, 2023, the [*Adriana*, an aging fishing trawler overloaded with up to 750 people, capsized](https://www.oldsaltblog.com/2023/06/overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned/) in international waters off the Greek town of Pylos. One hundred and four men were rescued, and eighty-two bodies were recovered.  An additional 500 people – including 100 women and children who were in the hold of the boat – are missing and believed to have died. The sinking was one of the worst disasters on record in the Mediterranean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece2.jpg)On June 14, 2023, the [*Adriana*, an aging fishing trawler overloaded with up to 750 people, capsized](https://www.oldsaltblog.com/2023/06/overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned/) in international waters off the Greek town of Pylos. One hundred and four men were rescued, and eighty-two bodies were recovered.  An additional 500 people – including 100 women and children who were in the hold of the boat – are missing and believed to have died. The sinking was one of the worst disasters on record in the Mediterranean.
 
 The [BBC](https://www.bbc.com/news/articles/c17qe11wy52o) now reports that leaked audio instructions by Greek rescue co-ordinators have cast further doubt on Greece’s official version of events in the hours before a migrant boat sank along with up to 650 people onboard.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The third leg of the Volvo Ocean Race from Cape Town to Melbourne has subjected the fleet to the fury of the Southern Ocean.  With steady winds of 50 knots with gusts to over 60, the seven boats have been surfing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/volvosouthernocean.jpg)The third leg of the [Volvo Ocean Race](http://www.volvooceanrace.com/en/home.html) from Cape Town to Melbourne has subjected the fleet to the fury of the Southern Ocean.  With steady winds of 50 knots with gusts to over 60, the seven boats have been surfing down huge waves. Boat speeds of 38 knots have been reported. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/volvosouthernocean.jpg)The third leg of the [Volvo Ocean Race](http://www.volvooceanrace.com/en/home.html) from Cape Town to Melbourne has subjected the fleet to the fury of the Southern Ocean.  With steady winds of 50 knots with gusts to over 60, the seven boats have been surfing down huge waves. Boat speeds of 38 knots have been reported. 
 
 [Team *AkzoNobel*](https://www.teamakzonobel.com/) suffered damage to the yacht’s mast and mainsail in a gybe in very strong winds and massive seas. A section of the mainsail track was ripped from the mast, several battens broken and the sail ripped and punctured. The team continued racing under headsails alone and is attempting to fix the damage today under very challenging conditions.
 

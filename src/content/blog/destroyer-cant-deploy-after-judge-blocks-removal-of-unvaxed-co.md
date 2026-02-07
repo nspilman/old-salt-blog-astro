@@ -10,12 +10,12 @@ tags:
   - "destroyer"
   - "federal judge"
   - "vaccine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/arleighbd.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/arleighbd.jpg"
 author: "Rick Spilman"
 description: "Military.com reports that a federal judge in Florida has ruled that the US Navy cannot do anything to remove a commander of a destroyer, despite testimony that he has flouted the service’s rules for COVID-19 mitigation while seeking a religious … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/arleighbd.jpg)[Military.com](https://www.military.com/daily-news/2022/03/08/florida-judge-wont-let-navy-remove-rule-breaking-vaccine-refusing-ship-commander.html) reports that a federal judge in Florida has ruled that the US Navy cannot do anything to remove a commander of a destroyer, despite testimony that he has flouted the service’s rules for COVID-19 mitigation while seeking a religious exemption from receiving the vaccine for the virus. Navy officers said they cannot deploy the Norfolk, Va.-based Arleigh Burke-class destroyer after the judge’s ruling.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/arleighbd.jpg)[Military.com](https://www.military.com/daily-news/2022/03/08/florida-judge-wont-let-navy-remove-rule-breaking-vaccine-refusing-ship-commander.html) reports that a federal judge in Florida has ruled that the US Navy cannot do anything to remove a commander of a destroyer, despite testimony that he has flouted the service’s rules for COVID-19 mitigation while seeking a religious exemption from receiving the vaccine for the virus. Navy officers said they cannot deploy the Norfolk, Va.-based Arleigh Burke-class destroyer after the judge’s ruling.
 
 The officer at the heart of this dispute is an unnamed commander who joined the Navy in 2004 according to the lawsuit. Other documents filed by the Navy show that the destroyer he commands belongs to Destroyer Squadron 26.
 

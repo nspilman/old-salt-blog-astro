@@ -13,12 +13,12 @@ tags:
   - "Russian president"
   - "Ukraine"
   - "Vladimir Putin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/10/poseidonputin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/poseidonputin.jpg"
 author: "Rick Spilman"
 description: "Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a \"superweapon.\" The drone, known as Poseidon, is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/10/poseidonputin.jpg)Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a “superweapon.” The drone, known as *Poseidon,* is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a large section of coastline, making the area unlivable for up to a century. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/poseidonputin.jpg)Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a “superweapon.” The drone, known as *Poseidon,* is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a large section of coastline, making the area unlivable for up to a century. 
 
 In 2018, we [posted about a speech](https://www.oldsaltblog.com/2018/03/status-6-putins-autonomous-doomsday-torpedo/) given by Putin, which threatened the United States with a new generation of “invincible” nuclear weapons.  One of these weapons was described as an [autonomous “doomsday” drone torpedo](https://www.oldsaltblog.com/2018/03/status-6-putins-autonomous-doomsday-torpedo/). The unmanned underwater drone submarine, now known as *Poseidon* is designed to have a top speed of 100 km/h (54 kn) and a range of 10,000 km (5,400 nmi).  Russian Oscar-class submarines are said to be capable of carrying up to four of the drones secured externally.
 

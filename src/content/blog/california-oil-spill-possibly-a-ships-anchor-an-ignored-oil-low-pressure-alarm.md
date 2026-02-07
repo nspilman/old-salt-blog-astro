@@ -14,12 +14,12 @@ tags:
   - "pipeline"
   - "ship's anchor"
   - "U.S. Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/Calispill.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/Calispill.jpg"
 author: "Rick Spilman"
 description: "We have posted about the ongoing port congestion that has resulted in as many as 70 ships being anchored off the Southern Californian coast waiting for berths. While no one knows for certain what caused the pipeline rupture that leaked … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/Calispill.jpg)We have posted about the ongoing port congestion that has resulted in as many as 70 ships being anchored off the Southern Californian coast waiting for berths. While no one knows for certain what caused the pipeline rupture that leaked more than 140,000 gallons of oil off the California coast, initial indications suggest that it may have been the result of a ship’s anchor catching the pipeline. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/Calispill.jpg)We have posted about the ongoing port congestion that has resulted in as many as 70 ships being anchored off the Southern Californian coast waiting for berths. While no one knows for certain what caused the pipeline rupture that leaked more than 140,000 gallons of oil off the California coast, initial indications suggest that it may have been the result of a ship’s anchor catching the pipeline. 
 
 [USA Today](https://www.usatoday.com/story/news/nation/2021/10/05/what-caused-california-oil-spill/6001096001/) reports that the U.S. Coast Guard said on Tuesday that divers were able to locate a bend in the 17-mile pipeline and found it had been moved by 105 feet. Coast Guard Capt. Rebecca Ore said divers also located a split in the pipeline that was more than a foot long — 13 inches, which investigators believe could be the source of the oil leak.
 

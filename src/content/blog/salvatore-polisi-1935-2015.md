@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "New York harbor has lost part of its living history with the passing of Sal Polisi, longtime volunteer and master carver at the South Street Seaport Museum."
 ---
 
-![salp](http://www.oldsaltblog.com/wp-content/uploads/2015/01/salp.jpg)New York harbor has lost part of its living history with the passing of Sal Polisi, longtime volunteer and master carver at the South Street Seaport Museum. For three decades, Polisi carved everything from figureheads to wooden signs, using the time honored methods of a master craftsman. All his work was done by hand, without power tools or computers. Beyond his remarkable skills, he also a friendly face at the museum and was well loved by all who knew him.  He will be sorely missed.
+![salp](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/salp.jpg)New York harbor has lost part of its living history with the passing of Sal Polisi, longtime volunteer and master carver at the South Street Seaport Museum. For three decades, Polisi carved everything from figureheads to wooden signs, using the time honored methods of a master craftsman. All his work was done by hand, without power tools or computers. Beyond his remarkable skills, he also a friendly face at the museum and was well loved by all who knew him.  He will be sorely missed.
 
 From [South Street Seaport president, Captain Jonathan Boulware](http://campaign.r20.constantcontact.com/render?ca=c50d01e5-172b-4136-9f88-6b86e0ad9b0c&c=f1d2ba60-aac7-11e3-906f-d4ae5275dbea&ch=f2629e50-aac7-11e3-90e9-d4ae5275dbea):
 

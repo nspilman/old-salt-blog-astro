@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Captain William Curry of the SV Concordia is reporting that the school ship was struck by a microburst, also referred to a white squall, which knocked down the 188′ three masted schooner,  rolling the ship 90 degrees. She sank in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/Microburstcrosssection.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Microburstcrosssection.jpg)
 
 Cross-sectional drawing of a Microburst
 

@@ -12,7 +12,7 @@ tags:
   - "Pearl Harbor"
   - "USS Bunker Hill"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/battleshipnewjersey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/battleshipnewjersey.jpg"
 author: "Rick Spilman"
 description: "Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, \"I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.\" Whether or not the Admiral … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "Joe Howlett"
   - "NOAA"
   - "right whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/rightwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/rightwhale.jpg"
 author: "Rick Spilman"
 description: "Last week, Joe Howlett, 59, a Canadian fisherman and a founder of Campobello Whale Rescue, died after rescuing a North Atlantic right whale, which was entangled in fishing nets off the coast of New Brunswick.  Howlett was apparently struck by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/rightwhale.jpg)Last week, Joe Howlett, 59, a Canadian fisherman and a founder of [Campobello Whale Rescue](http://www.bayoffundywhales.com/whale-rescue), died after rescuing a North Atlantic right whale, which was entangled in fishing nets off the coast of New Brunswick.  Howlett was apparently struck by the whale just after he cut the last piece of rope which had been wrapped around the whale.  “They got the whale totally disentangled and then some kind of freak thing happened and the whale made a big flip,” Mackie Green, a co-founder of the whale rescue team, told Canada’s [Star.com](https://www.thestar.com/news/canada/2017/07/11/friends-mourn-loss-of-new-brunswick-fisherman-who-freed-dozens-of-entangled-whales.html).  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/rightwhale.jpg)Last week, Joe Howlett, 59, a Canadian fisherman and a founder of [Campobello Whale Rescue](http://www.bayoffundywhales.com/whale-rescue), died after rescuing a North Atlantic right whale, which was entangled in fishing nets off the coast of New Brunswick.  Howlett was apparently struck by the whale just after he cut the last piece of rope which had been wrapped around the whale.  “They got the whale totally disentangled and then some kind of freak thing happened and the whale made a big flip,” Mackie Green, a co-founder of the whale rescue team, told Canada’s [Star.com](https://www.thestar.com/news/canada/2017/07/11/friends-mourn-loss-of-new-brunswick-fisherman-who-freed-dozens-of-entangled-whales.html).  
 
 Howlett was working with the Canada’s Department of Fisheries and Oceans (DFO) in one their boats when he died. Howlett had helped free about two dozen whales since starting Campobello Whale Rescue with Green in 2002, the Canadian Press reported. He had worked to free one whale as recently as July 5, the DFO noted.  The [New England Aquarium](http://www.neaq.org/) in Boston described Howlett as “one of the few certified whale disentanglement experts in Canada.”
 

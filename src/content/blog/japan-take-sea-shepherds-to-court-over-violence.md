@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Japan’s whaling authorities are suing the Sea Shepherds in US courts to attempt to stop the violence directed by the organization against the annual Japanese whale hunt.  The Sea Shepherds claim that the annual hunt is illegal, but prefer what they … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/photo886.jpg)Japan’s whaling authorities are suing the [Sea Shepherds](http://www.seashepherd.org/index.php) in US courts to attempt to stop the violence directed by the organization against the annual Japanese whale hunt.  The Sea Shepherds claim that the annual hunt is illegal, but prefer what they refer to as  “direct action” rather than acting through the courts as the Japanese have chosen to do.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/photo886.jpg)Japan’s whaling authorities are suing the [Sea Shepherds](http://www.seashepherd.org/index.php) in US courts to attempt to stop the violence directed by the organization against the annual Japanese whale hunt.  The Sea Shepherds claim that the annual hunt is illegal, but prefer what they refer to as  “direct action” rather than acting through the courts as the Japanese have chosen to do.
 
 [Japan whaling authorities sue Sea Shepherd in U.S.](http://www.japantoday.com/category/national/view/japan-whaling-authorities-sue-sea-shepherd-in-u-s)  
   

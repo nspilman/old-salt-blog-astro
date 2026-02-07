@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We have previously posted about unexploded bombs from World War II being exposed by drought along the Rhine and Mosel Rivers in Germany, about similar bombs being found in the port of Marseille and about World War II phosphorus munitions burning two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/weaponsgulfphotoblog.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/weaponsgulfphotoblog.jpg)
 
 55-gallon drums of chemical weapons near the mouth of the Mississippi River found by Texas A&M University researchers. Photo:Texas A&M University
 

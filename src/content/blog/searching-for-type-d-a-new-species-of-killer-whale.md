@@ -9,7 +9,7 @@ tags:
   - "killer whales"
   - "Orca"
   - "type D"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/typed.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/typed.jpg"
 author: "Rick Spilman"
 description: "How little we know about the ocean is staggering. What little we know and understand about orcas, killer whales, is just one example. For years, there were thought to be two types of orcas — residents and transients. Residents stayed … Continue reading &rarr;"
 ---

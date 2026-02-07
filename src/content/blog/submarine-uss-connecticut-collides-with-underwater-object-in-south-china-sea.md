@@ -12,12 +12,12 @@ tags:
   - "Seawolf-class fast-attack submarine"
   - "South China Sea"
   - "USS Connecticut"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/connecticut.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the US Navy Pacific Fleet announced that the Seawolf-class fast-attack submarine USS Connecticut struck an object in international waters while submerged on the afternoon of Oct. 2. While the announcement did not identify where the collision took place, reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/connecticut.jpg)Yesterday, the [US Navy Pacific Fleet announced](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/) that the Seawolf-class fast-attack submarine [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)) struck an object in international waters while submerged on the afternoon of Oct. 2. While the announcement did not identify where the collision took place, reports are that it was in the South China Sea. Eleven sailors were reported to be hurt – two suffered moderate injuries and the rest had minor scrapes and bruises, officials said. All were treated on the sub.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg)Yesterday, the [US Navy Pacific Fleet announced](https://www.cpf.navy.mil/News/Article/2797630/statement-regarding-uss-connecticut-ssn-22/) that the Seawolf-class fast-attack submarine [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)) struck an object in international waters while submerged on the afternoon of Oct. 2. While the announcement did not identify where the collision took place, reports are that it was in the South China Sea. Eleven sailors were reported to be hurt – two suffered moderate injuries and the rest had minor scrapes and bruises, officials said. All were treated on the sub.
 
 Today, the Navy says that the [USS *Connecticut* has returned safely to port in Guam](https://www.kitsapsun.com/story/news/2021/10/08/uss-connecticut-port-after-collision-south-china-sea/6053690001/).  The submarine’s nuclear propulsion plant and spaces were reported to not have been affected by the collision and to have remained fully operational. The extent of damage to the remainder of the submarine is being assessed.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Two projects are underway in Maine and Oregon to produce energy from ocean waves.   Ocean Renewable Power Company, in Maine, is using horizontal turbines to capture the energy of ebbing and flooding tides.  Initial tests have met or exceeded their targets … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/buoy.jpg)Two projects are underway in Maine and Oregon to produce energy from ocean waves.   [Ocean Renewable Power Company](http://www.oceanrenewablepower.com/home.htm), in Maine, is using horizontal turbines to capture the energy of ebbing and flooding tides.  Initial tests have met or exceeded their targets and the company hopes to install a commercial version of the the test turbines now in place and be hooked in to the Bangor Hydro Electric Company grid as soon as 2011.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/buoy.jpg)Two projects are underway in Maine and Oregon to produce energy from ocean waves.   [Ocean Renewable Power Company](http://www.oceanrenewablepower.com/home.htm), in Maine, is using horizontal turbines to capture the energy of ebbing and flooding tides.  Initial tests have met or exceeded their targets and the company hopes to install a commercial version of the the test turbines now in place and be hooked in to the Bangor Hydro Electric Company grid as soon as 2011.
 
 [Maine offshore energy project exceeds expectations](http://news.cnet.com/8301-11128_3-20014115-54.html)  
   

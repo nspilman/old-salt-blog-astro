@@ -16,12 +16,12 @@ tags:
   - "leather boat"
   - "St. Brendan"
   - "St. Brendan the Navigator"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/brendan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/brendan.jpg"
 author: "Rick Spilman"
 description: "On St. Patrick’s Day, a post about another Irish saint, St. Brendan the Navigator, and the adventurer who sought to replicate his epic voyage. Who was the first European to sail to North America? According to Irish tradition, it was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/brendan.jpg)On St. Patrick’s Day, a post about another Irish saint, [St. Brendan the Navigator](https://en.wikipedia.org/wiki/Brendan#The_Voyage_of_Saint_Brendan_the_Abbot), and the adventurer who sought to replicate his epic voyage.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/brendan.jpg)On St. Patrick’s Day, a post about another Irish saint, [St. Brendan the Navigator](https://en.wikipedia.org/wiki/Brendan#The_Voyage_of_Saint_Brendan_the_Abbot), and the adventurer who sought to replicate his epic voyage.
 
 Who was the first European to sail to North America? According to Irish tradition, it was St. Brendan the Navigator in the 6th century, who is said to have set off with a small group of monks in a currach, an open boat built with a wooden frame covered with hides, on a 7-year voyage around the North Atlantic, that may have reached North America. If the story is true, St. Brendan reached the “New World” hundreds of years before the Norse and almost 900 years before Columbus.
 

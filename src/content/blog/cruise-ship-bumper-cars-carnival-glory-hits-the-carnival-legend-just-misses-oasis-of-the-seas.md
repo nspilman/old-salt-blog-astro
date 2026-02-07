@@ -13,12 +13,12 @@ tags:
   - "Cozumel"
   - "Mexico"
   - "Oasis of the Seas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/cglory-stern.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/cglory-stern.jpg"
 author: "Rick Spilman"
 description: "This morning while maneuvering to come into the dock at Cozumel, Mexico, the cruise ship Carnival Glory, collided with the docked cruise ship, Carnival Legend, and narrowly averted hitting the Royal Caribbean Lines Oasis of the Seas, which was also … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/cglory-stern.jpg)This morning while maneuvering to come into the dock at Cozumel, Mexico, the cruise ship [*Carnival Glory*](https://en.wikipedia.org/wiki/Carnival_Glory), collided with the docked cruise ship, [*Carnival Legend*](https://en.wikipedia.org/wiki/Carnival_Legend), and narrowly averted hitting the Royal Caribbean Lines [*Oasis of the Seas*](https://en.wikipedia.org/wiki/Oasis_of_the_Seas), which was also at the dock. Video, taken by passengers on the *Oasis of the Seas*, shows that as the *Carnival Glory* is passing the *Carnival Legend*, the *Glory*‘s stern sideswipes the *Legend*‘s bow. Six people were reported to have sustained minor injuries in the collision which damaged at least two decks on the stern of the *Glory*. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/cglory-stern.jpg)This morning while maneuvering to come into the dock at Cozumel, Mexico, the cruise ship [*Carnival Glory*](https://en.wikipedia.org/wiki/Carnival_Glory), collided with the docked cruise ship, [*Carnival Legend*](https://en.wikipedia.org/wiki/Carnival_Legend), and narrowly averted hitting the Royal Caribbean Lines [*Oasis of the Seas*](https://en.wikipedia.org/wiki/Oasis_of_the_Seas), which was also at the dock. Video, taken by passengers on the *Oasis of the Seas*, shows that as the *Carnival Glory* is passing the *Carnival Legend*, the *Glory*‘s stern sideswipes the *Legend*‘s bow. Six people were reported to have sustained minor injuries in the collision which damaged at least two decks on the stern of the *Glory*. 
 
 The *Carnival Glory* was based in New Orleans and left the city on Dec. 15. It is still scheduled to depart Cozumel Friday and return to New Orleans on Dec. 22, a spokesperson told [ABC News](https://abcnews.go.com/International/carnival-cruise-assessing-damage-ships-collision/story?id=67851438).
 

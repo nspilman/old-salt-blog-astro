@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "For Royal Navy sailors and British soldiers in the West Indies during the 18th century, rum was a refuge for the discomforts of the duties of the day. The rum also may have been killing them. It wasn’t the alcohol, but … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/rumskeletons.jpg)For Royal Navy sailors and British soldiers in the West Indies during the 18th century, rum was a refuge for the discomforts of the duties of the day. The rum also may have been killing them. It wasn’t the alcohol, but the way it was distilled that proved deadly.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/rumskeletons.jpg)For Royal Navy sailors and British soldiers in the West Indies during the 18th century, rum was a refuge for the discomforts of the duties of the day. The rum also may have been killing them. It wasn’t the alcohol, but the way it was distilled that proved deadly.
 
 A group of scientists from Lakeland University, Ontario have examined [31 bodies found in the Royal Naval Hospital cemetery in English Harbor, Antigua](http://fieldresearchcentre.weebly.com/uploads/1/8/0/7/18079819/varney_et_al.pdf).  As reported by the [Daily Mail:](http://www.dailymail.co.uk/sciencetech/article-3587304/That-s-hangover-Lead-bones-18th-century-soldiers-come-contaminated-bottles-RUM.html) 
 

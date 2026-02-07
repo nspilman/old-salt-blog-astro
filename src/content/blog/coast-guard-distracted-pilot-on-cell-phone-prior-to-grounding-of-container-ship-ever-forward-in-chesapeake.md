@@ -16,12 +16,12 @@ tags:
   - "container ship"
   - "Ever Forward"
   - "Pilot"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/everforward.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/everforward.jpg"
 author: "Rick Spilman"
 description: "Last March, we posted about the grounding of the container ship Ever Forward near Baltimore in the Chesapeake Bay. The ship failed to make a turn in the Craighill channel and ran hard aground on a mud flat, where it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/everforward.jpg)Last March, [we posted about the grounding](https://www.oldsaltblog.com/2022/03/container-ship-ever-forward-aground-in-chesapeake-bay/) of the container ship [*Ever Forward*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6378710/mmsi:563161200/imo:9850551/vessel:EVER_FORWARD) near Baltimore in the Chesapeake Bay. The ship failed to make a turn in the Craighill channel and ran hard aground on a mud flat, where it remained stuck for more than 35 days. At the time, we noted that it was unclear whether human error or a mechanical failure caused the casualty. The *Ever Forward* had a pilot aboard at the time of the grounding.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/everforward.jpg)Last March, [we posted about the grounding](https://www.oldsaltblog.com/2022/03/container-ship-ever-forward-aground-in-chesapeake-bay/) of the container ship [*Ever Forward*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6378710/mmsi:563161200/imo:9850551/vessel:EVER_FORWARD) near Baltimore in the Chesapeake Bay. The ship failed to make a turn in the Craighill channel and ran hard aground on a mud flat, where it remained stuck for more than 35 days. At the time, we noted that it was unclear whether human error or a mechanical failure caused the casualty. The *Ever Forward* had a pilot aboard at the time of the grounding.
 
 The Coast Guard has now answered that question. Their [accident investigation report](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/documents/EverForwardGrounding_ROI_Redacted.pdf?ver=odDgOSiBdmfRW2gXWrdnEQ%3D%3D) “determined the incident’s causal factors to be the pilot’s failure to maintain situational awareness and attention while navigating, and inadequate bridge resource management.” They found that the accident was due to the pilot’s inattention while on his cell phone including sending texts, making a series of phone calls, and drafting an email while the ship was underway. 
 

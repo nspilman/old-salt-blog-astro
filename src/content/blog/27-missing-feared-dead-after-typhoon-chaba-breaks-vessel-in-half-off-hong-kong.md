@@ -12,7 +12,7 @@ tags:
   - "Government Flying Service"
   - "Hong Kong"
   - "Typhoon Chaba"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/chaba.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/chaba.jpg"
 author: "Rick Spilman"
 description: "Three crew members were rescued after Typhoon Chaba broke an unidentified engineering vessel in half. Twenty-seven crew remain missing and are feared dead. Search and rescue operations continued for others about 300 km (200 miles) southwest of the city, the … Continue reading &rarr;"
 ---

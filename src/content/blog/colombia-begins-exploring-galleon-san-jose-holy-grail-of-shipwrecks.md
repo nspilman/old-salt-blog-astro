@@ -14,12 +14,12 @@ tags:
   - "Holy Grail of Shipwrecks"
   - "San José"
   - "Spanish galleon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/sanjose.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/sanjose.jpg"
 author: "Rick Spilman"
 description: "BBC reports that after decades of legal wrangling, the Colombian government has started exploring the wreck of the 18th-century Spanish galleon San José, dubbed the \"holy grail of shipwrecks.\" The South American nation has also declared a protected archaeological area around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/sanjose.jpg)[BBC](https://www.bbc.com/news/articles/c4nn983qmepo) reports that [after decades of legal wrangling](https://www.oldsaltblog.com/2015/12/san-jose-holy-grail-shipwrecks-legal-battles-just-beginning/), the Colombian government has started exploring the wreck of the 18th-century [Spanish galleon San José](https://en.wikipedia.org/wiki/Spanish_galleon_San_Jos%C3%A9), dubbed the “holy grail of shipwrecks.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/sanjose.jpg)[BBC](https://www.bbc.com/news/articles/c4nn983qmepo) reports that [after decades of legal wrangling](https://www.oldsaltblog.com/2015/12/san-jose-holy-grail-shipwrecks-legal-battles-just-beginning/), the Colombian government has started exploring the wreck of the 18th-century [Spanish galleon San José](https://en.wikipedia.org/wiki/Spanish_galleon_San_Jos%C3%A9), dubbed the “holy grail of shipwrecks.”
 
 The South American nation has also declared a protected archaeological area around the galleon – which was sunk by the British Royal Navy in 1708 in the Caribbean Sea.
 

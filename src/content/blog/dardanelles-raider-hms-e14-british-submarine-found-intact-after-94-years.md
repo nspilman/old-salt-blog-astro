@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On April 27, 1915, at the height of the the World War I Gallipoli campaign, Lt-Cdr Edward Courtney Boyle piloted the submarine HMS E14 beneath the minefields, guns and search lights of the the Narrows, the heavily defended entrance to the Dardanelles, the … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/e14.jpg)](http://www.telegraph.co.uk/news/worldnews/europe/turkey/9336020/Found-after-94-years-the-submarine-which-won-two-VCs.html)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/e14.jpg)](http://www.telegraph.co.uk/news/worldnews/europe/turkey/9336020/Found-after-94-years-the-submarine-which-won-two-VCs.html)
 
 Last Voyage of the E14 – click on thumbnail to go to larger image.
 

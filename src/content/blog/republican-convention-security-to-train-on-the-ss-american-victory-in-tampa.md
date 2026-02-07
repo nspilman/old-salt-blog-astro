@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The museum ship SS American Victory will host the FBI, Transportation Security Administration and a half-dozen other law enforcement agencies in bomb detection and disposal training exercises later this month in preparation for the Republican National Convention to be held in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/amvictory.jpg)The museum ship [SS *American Victory*](http://www.americanvictory.org/) will host the FBI, Transportation Security Administration and a half-dozen other law enforcement agencies in bomb detection and disposal training exercises later this month in preparation for the Republican National Convention to be held in Tampa the week of August 27, 2012.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/amvictory.jpg)The museum ship [SS *American Victory*](http://www.americanvictory.org/) will host the FBI, Transportation Security Administration and a half-dozen other law enforcement agencies in bomb detection and disposal training exercises later this month in preparation for the Republican National Convention to be held in Tampa the week of August 27, 2012.
 
 The convention itself will be held at the Tampa Bay Times Forum. Despite using the ship for training and reports that the RNC will focus on “The Greatest Generation” among its patriotic themes, the Republican Committee on Arrangements has no plans to include the SS A*merican Victory* in its schedule of events and participants.
 

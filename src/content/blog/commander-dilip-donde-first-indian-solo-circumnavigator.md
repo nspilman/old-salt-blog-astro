@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The teenagers have been getting more press, but Zach, Mike, Jessica and Abby are not the only intrepid solo circumnavigators out there.  On Saturday,  Commander Dilip Donde sailed into Mumbai,  completing the first recorded solo circumnavigation by an Indian. Navy commander … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/dilipdonde.jpg)The teenagers have been getting more press, but [Zach, Mike, Jessica and Abby](http://www.oldsaltblog.com/2010/01/28/teenagers-racing-around-the-globe-%E2%80%93-first-zac-then-mike-jessica-and-now-abby/) are not the only intrepid solo circumnavigators out there.  On Saturday,  [Commander Dilip Donde](http://www.oldsaltblog.com/2010/03/01/circumnavigator-update-%E2%80%93-jessica-abby-and-dilip/) sailed into Mumbai,  completing the first recorded solo circumnavigation by an Indian.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/dilipdonde.jpg)The teenagers have been getting more press, but [Zach, Mike, Jessica and Abby](http://www.oldsaltblog.com/2010/01/28/teenagers-racing-around-the-globe-%E2%80%93-first-zac-then-mike-jessica-and-now-abby/) are not the only intrepid solo circumnavigators out there.  On Saturday,  [Commander Dilip Donde](http://www.oldsaltblog.com/2010/03/01/circumnavigator-update-%E2%80%93-jessica-abby-and-dilip/) sailed into Mumbai,  completing the first recorded solo circumnavigation by an Indian.
 
 [Navy commander first Indian to circumnavigate globe solo](http://timesofindia.indiatimes.com/india/Navy-commander-first-Indian-to-circumnavigate-globe-solo/articleshow/5964152.cms)  
   

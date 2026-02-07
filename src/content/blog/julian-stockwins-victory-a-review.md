@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We have fallen way behind in our book reviews. Until we catch up, here is a review of Julian Stockwin’s new novel, Victory, republished with permission from Astrodene’s Historic Naval Fiction. Astrodene Review: Victory by Julian Stockwin Victory starts off with a major setback … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/victory1.jpg)We have fallen way behind in our book reviews. Until we catch up, here is a review of Julian Stockwin’s new novel, *[Victory](http://www.amazon.com/gp/product/1590135083?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590135083)*, republished with permission from [Astrodene’s Historic Naval Fiction](http://www.historicnavalfiction.com/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/victory1.jpg)We have fallen way behind in our book reviews. Until we catch up, here is a review of Julian Stockwin’s new novel, *[Victory](http://www.amazon.com/gp/product/1590135083?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1590135083)*, republished with permission from [Astrodene’s Historic Naval Fiction](http://www.historicnavalfiction.com/).
 
 [Astrodene Review: Victory by Julian Stockwin](http://www.historicnavalfiction.com/index.php/general-hnf-info/book-reviews/1571-astrodene-review-victory-by-julian-stockwin)
 

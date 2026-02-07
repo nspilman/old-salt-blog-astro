@@ -14,12 +14,12 @@ tags:
   - "Suez Canal"
   - "Suez Canal Authority"
   - "UK P&amp;I Club"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/evergivenstuck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/evergivenstuck.jpg"
 author: "Rick Spilman"
 description: "The American Bureau of Shipping completed its survey and concluded that the ultra-large container ship Ever Given, which had blocked the Suez Canal for almost a week at the end of March, was fit for onward passage. Unfortunately, the ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/evergivenstuck.jpg)The [American Bureau of Shipping completed its survey](https://gcaptain.com/abs-clears-ever-given-suez/) and concluded that the ultra-large container ship [*Ever Given*, which had blocked the Suez Canal](http://www.oldsaltblog.com/2021/03/suez-canal-still-blocked-by-ultra-large-container-ship-ever-given/) for almost a week at the end of March, was fit for onward passage. Unfortunately, the ship will remain at anchor in the canal’s Great Bitter Lake, as the [Suez Canal Authority (SCA) had the ship arrested the day before](https://splash247.com/evergreen-confirms-ever-given-has-been-arrested-pending-916m-claim-including-300m-for-loss-of-reputation/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/evergivenstuck.jpg)The [American Bureau of Shipping completed its survey](https://gcaptain.com/abs-clears-ever-given-suez/) and concluded that the ultra-large container ship [*Ever Given*, which had blocked the Suez Canal](http://www.oldsaltblog.com/2021/03/suez-canal-still-blocked-by-ultra-large-container-ship-ever-given/) for almost a week at the end of March, was fit for onward passage. Unfortunately, the ship will remain at anchor in the canal’s Great Bitter Lake, as the [Suez Canal Authority (SCA) had the ship arrested the day before](https://splash247.com/evergreen-confirms-ever-given-has-been-arrested-pending-916m-claim-including-300m-for-loss-of-reputation/).
 
 The ship is being held in the waterway as authorities pursue a $916 million compensation claim against its owner, according to the vessel’s insurer. The SCA claim includes $300m for salvage and $300m for “loss of reputation”, which appears set to be rejected by the vessel’s insurer.
 

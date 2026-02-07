@@ -12,12 +12,12 @@ tags:
   - "Elbe No. 5"
   - "Wander Bird"
   - "Warwick Tompkins"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/wanderbirdbowsprit.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/wanderbirdbowsprit.jpg"
 author: "Rick Spilman"
 description: "In 1929, the schooner was purchased by American journalist Warwick Tompkins, who translated the German name to Wander Bird. "
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/wanderbirdbowsprit.jpg)Yesterday we [posted about the sinking of the restored pilot schooner *Elbe No.5*](http://www.oldsaltblog.com/2019/06/pilot-schooner-no-5-elbe-ex-wander-bird-sinks-after-collision-on-river-elbe/), ex-*Wander Bird*, following a collision with a container ship near Stade, Germany on the Elbe River. The schooner, launched in 1883, had just completed a $1.7 million renovation. Fortunately while several were injured, none of the 43 passengers and crew died in the collision. An investigation of the incident is ongoing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/wanderbirdbowsprit.jpg)Yesterday we [posted about the sinking of the restored pilot schooner *Elbe No.5*](http://www.oldsaltblog.com/2019/06/pilot-schooner-no-5-elbe-ex-wander-bird-sinks-after-collision-on-river-elbe/), ex-*Wander Bird*, following a collision with a container ship near Stade, Germany on the Elbe River. The schooner, launched in 1883, had just completed a $1.7 million renovation. Fortunately while several were injured, none of the 43 passengers and crew died in the collision. An investigation of the incident is ongoing.
 
 The schooner has had a fascinating history. It served as a pilot schooner on the River Elbe for 41 years, carrying pilots to guide ships from the North Sea up the river to the mighty port of Hamburg. She then spent a few years with several owners as a private yacht, named *Wandervogel.* In 1929, the schooner was purchased by American journalist Warwick Tompkins, who translated the German name to *Wander Bird*. 
 

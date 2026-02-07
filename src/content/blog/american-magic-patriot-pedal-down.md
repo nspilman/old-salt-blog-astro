@@ -11,7 +11,7 @@ tags:
   - "American Magic"
   - "New York Yacht Club"
   - "Patriot"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/patriot.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/patriot.jpg"
 author: "Rick Spilman"
 description: "New York Yacht Club American Magic, the U.S. Challenger for the 36th America’s Cup, completed their first week of training on the brand-new AC75 racing yacht Patriot. PATRIOT: PEDAL DOWN – America’s Cup AC75 … Continue reading &rarr;"
 ---

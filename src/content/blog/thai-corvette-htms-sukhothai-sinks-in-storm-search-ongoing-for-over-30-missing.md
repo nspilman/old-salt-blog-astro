@@ -13,12 +13,12 @@ tags:
   - "sank"
   - "Sukhothai"
   - "Thai navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/thaicorvette.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/thaicorvette.jpg"
 author: "Rick Spilman"
 description: "The Thai navy says 31 sailors are missing after the corvette, HTMS Sukhothai, with a crew of 100 capsized and sank during a storm in the Gulf of Thailand. The ship sank around 23:30 local time Sunday (16:30 GMT) after … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/thaicorvette.jpg)The Thai navy says 31 sailors are missing after the corvette, [*HTMS Sukhothai,*](https://en.wikipedia.org/wiki/HTMS_Sukhothai) with a crew of 100 capsized and sank during a storm in the Gulf of Thailand. The ship sank around 23:30 local time Sunday (16:30 GMT) after being struck by large waves, which caused down-flooding, knocking out the ship’s power. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/thaicorvette.jpg)The Thai navy says 31 sailors are missing after the corvette, [*HTMS Sukhothai,*](https://en.wikipedia.org/wiki/HTMS_Sukhothai) with a crew of 100 capsized and sank during a storm in the Gulf of Thailand. The ship sank around 23:30 local time Sunday (16:30 GMT) after being struck by large waves, which caused down-flooding, knocking out the ship’s power. 
 
 The [BBC](https://www.bbc.com/news/world-asia-64023249) reports that search crews worked through the night to find survivors, with the operation continuing on Monday with air force assistance.
 

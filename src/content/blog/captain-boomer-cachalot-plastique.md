@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "I am not entirely sure that I get the joke.  In a year when sperm whales have been washing up dead on shores around the world; dying after ingesting plastic, fishing nets and auto parts; the arrival of a beached … Continue reading &rarr;"
 ---
 
-![Photo: C. Allain / APEI / 20 Minutes](http://www.oldsaltblog.com/wp-content/uploads/2016/07/cachalotplastique.jpg)
+![Photo: C. Allain / APEI / 20 Minutes](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/cachalotplastique.jpg)
 
 Photo: C. Allain / APEI / 20 Minutes
 

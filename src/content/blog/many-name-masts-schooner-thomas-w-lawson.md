@@ -13,13 +13,13 @@ author: "Rick Spilman"
 description: "The seven-masted iron schooner Thomas W. Lawson, delivered in 1902, is remembered as the largest schooner ever built and the largest pure sailing vessel, in terms of tonnage, to ever sail.  Mostly, however, she is remembered for her rig. She … Continue reading &rarr;"
 ---
 
-![lawsonsail](http://www.oldsaltblog.com/wp-content/uploads/2016/03/lawsonsail.jpg)The seven-masted iron schooner *[Thomas W. Lawson](https://en.wikipedia.org/wiki/Thomas_W._Lawson_\(ship\))*, delivered in 1902, is remembered as the largest schooner ever built and the largest pure sailing vessel, in terms of tonnage, to ever sail.  Mostly, however, she is remembered for her rig. She was the only seven-masted schooner in commercial service.  She carried primarily coal and oil in her short career. She was lost off the island of Annet, in the Isles of Scilly, in a storm on December 14, 1907, killing all but two of her crew of eighteen and a harbor pilot. Her cargo of 58,000 barrels of light paraffin oil caused one of the first large marine oil spills.
+![lawsonsail](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/lawsonsail.jpg)The seven-masted iron schooner *[Thomas W. Lawson](https://en.wikipedia.org/wiki/Thomas_W._Lawson_\(ship\))*, delivered in 1902, is remembered as the largest schooner ever built and the largest pure sailing vessel, in terms of tonnage, to ever sail.  Mostly, however, she is remembered for her rig. She was the only seven-masted schooner in commercial service.  She carried primarily coal and oil in her short career. She was lost off the island of Annet, in the Isles of Scilly, in a storm on December 14, 1907, killing all but two of her crew of eighteen and a harbor pilot. Her cargo of 58,000 barrels of light paraffin oil caused one of the first large marine oil spills.
 
 Each of the masts, as well as each of the 27 sails, had to have names. But how does one name seven masts? Looking into it, I found that according to [Lars Bruzelius’ The Maritime History Virtual Archives](http://www.bruzelius.info/Nautica/Ships/Schooners/Thomas_W_Lawson\(1902\).html), at least, [eleven different naming schemes](http://www.bruzelius.info/Nautica/Ships/Schooners/TWL\(masts\).html) were used to keep track of the masts.  That is right, eleven different sets of names for the seven masts.  
 
 ## *The Masts of the Thomas W. Lawson*
 
-![lawsonmasts1](http://www.oldsaltblog.com/wp-content/uploads/2016/03/lawsonmasts1.jpg)
+![lawsonmasts1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/lawsonmasts1.jpg)
 
 1.  Axel Larson, Foreman Rigger at the Atlantic Works of the Boston Plant. Notes at the Phillips Library, Peabody Essex Museum.
 2.  According to Capt. Frank H. Peterson, secretary of the Boston Marine Society Capt. Arthur Crowley told him what the masts were originally called.

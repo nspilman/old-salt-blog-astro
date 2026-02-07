@@ -11,12 +11,12 @@ tags:
   - "GPS"
   - "magnetic north pole"
   - "World Magnetic Model"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/magpole.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/magpole.jpg"
 author: "Rick Spilman"
 description: "Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, \"As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model.\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/magpole.jpg)Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, “[As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model](https://www.npr.org/2019/02/04/691471616/as-magnetic-north-pole-zooms-toward-siberia-scientists-update-world-magnetic-mod).” Is the magnetic pole really zooming?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/magpole.jpg)Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, “[As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model](https://www.npr.org/2019/02/04/691471616/as-magnetic-north-pole-zooms-toward-siberia-scientists-update-world-magnetic-mod).” Is the magnetic pole really zooming?
 
 Where magnetic north had been moving at an average speed of around 9 miles per year for some time, it has recently sped up to [34 miles per year](https://www.ngdc.noaa.gov/geomag/GeomagneticPoles.shtml). The increase was significant enough require a revision to the [World Magnetic](https://www.ngdc.noaa.gov/geomag/WMM/DoDWMM.shtml) [Model](https://www.ngdc.noaa.gov/geomag/WMM/DoDWMM.shtml), (WMM) maintained jointly by the UK and the US. The model is typically updated every five years but was given a quick tweak recently to account for increased motion. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I am surprised that the Vikings didn’t discover this first.  The Vikings did, after all, develop a sun compass for use on sunny days and used sunstones to find the direction of the sun when it was overcast.  One might … Continue reading &rarr;"
 ---
 
-![north-defecate](http://www.oldsaltblog.com/wp-content/uploads/2014/01/north-defecate.jpg)I am surprised that the Vikings didn’t discover this first.  The Vikings did, after all, develop a [sun compass](http://home.comcast.net/~saville/viking_sun_compass.htm) for use on sunny days and used [sunstones](http://www.oldsaltblog.com/2013/03/viking-sunstone-believed-to-be-found-in-shipwreck/) to find the direction of the sun when it was overcast.  One might have though that they would have perfected the defecating dog compass, as well.
+![north-defecate](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/north-defecate.jpg)I am surprised that the Vikings didn’t discover this first.  The Vikings did, after all, develop a [sun compass](http://home.comcast.net/~saville/viking_sun_compass.htm) for use on sunny days and used [sunstones](http://www.oldsaltblog.com/2013/03/viking-sunstone-believed-to-be-found-in-shipwreck/) to find the direction of the sun when it was overcast.  One might have though that they would have perfected the defecating dog compass, as well.
 
 Recently, researchers have documented that when dogs defecate they usually align their bodies along the magnetic north-south axis, not unlike the needle of a magnetic compass.
 

@@ -10,12 +10,12 @@ tags:
   - "Alex Thomson"
   - "Hugo Boss"
   - "Vendee Globe Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/hugoboss2020.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hugoboss2020.jpg"
 author: "Rick Spilman"
 description: "After leading the fleet in the early days of the race, Alex Thomson, sailing on the IMCO 60 Hugo Boss, has withdrawn from the Vendee Globe single-handed around the world race.  Thomson has diverted to Cape Town, South Africa after … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/hugoboss2020.jpg)After leading the fleet in the early days of the race, [Alex Thomson](https://www.vendeeglobe.org/en/skippers/122/alex-thomson), sailing on the IMCO 60 [*Hugo Boss*](https://www.imoca.org/en/boats/hugo-boss), has [withdrawn from the Vendee Globe](https://www.thetimes.co.uk/article/alex-thomson-out-of-vendee-globe-after-yacht-suffers-more-damage-k3khv8v2q) single-handed around the world race.  Thomson has diverted to Cape Town, South Africa after suffering damage to the starboard rudder of the Hugo Boss. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hugoboss2020.jpg)After leading the fleet in the early days of the race, [Alex Thomson](https://www.vendeeglobe.org/en/skippers/122/alex-thomson), sailing on the IMCO 60 [*Hugo Boss*](https://www.imoca.org/en/boats/hugo-boss), has [withdrawn from the Vendee Globe](https://www.thetimes.co.uk/article/alex-thomson-out-of-vendee-globe-after-yacht-suffers-more-damage-k3khv8v2q) single-handed around the world race.  Thomson has diverted to Cape Town, South Africa after suffering damage to the starboard rudder of the Hugo Boss. 
 
 The Hugo Boss suffered structural damage to the bow last week. [Thomson slowed the boat and made repairs to the bow](http://www.oldsaltblog.com/2020/11/vendee-globe-alex-thomson-slows-down-to-make-repairs/) with tools and material aboard. He then began racing again until suffering rudder damage. As the damage to the starboard rudder can not be repaired at sea, Thomson disconnected the starboard rudder and is relying on the port rudder to steer while sailing to Cape Town for repairs. 
 

@@ -13,12 +13,12 @@ tags:
   - "submarines"
   - "US Navy"
   - "women in submarines"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/wis2021.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/wis2021.jpg"
 author: "Rick Spilman"
 description: "On the last day of Women’s History Month, it is worthwhile celebrating more than a decade of women’s service on US Navy submarines. In 2010, Secretary of Defense Robert M. Gates lifted the ban on females serving aboard US submarines. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/wis2021.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/wis2021.jpg)
 
 Women in Submarines Class of 2021
 

@@ -12,12 +12,12 @@ tags:
   - "Pearl Harbor"
   - "USS Essex"
   - "Wasp-class amphibious assault ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/ussessex.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/ussessex.jpg"
 author: "Rick Spilman"
 description: "USS Essex, a Wasp-class amphibious assault ship, recently arrived in Hawaii’s Pearl Harbor. Rather than carrying just helicopters, MV-22 Osprey tiltrotors, or even F-35B Lightning II fighter jets, the ship had a deck load of historic World War II warplanes. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/ussessex.jpg)[USS *Essex*](https://en.wikipedia.org/wiki/USS_Essex_\(LHD-2\)), a [Wasp-class](https://en.wikipedia.org/wiki/Wasp-class_amphibious_assault_ship) amphibious assault ship, recently arrived in Hawaii’s Pearl Harbor. Rather than carrying just helicopters, MV-22 Osprey tiltrotors, or even F-35B Lightning II fighter jets, the [ship had a deck load of historic World War II warplanes.](https://taskandpurpose.com/.amp/history/world-war-ii-warbirds-uss-essex-hawaii) The planes are set to take part in a commemoration of the 75th anniversary of the end of WWII from August 29 to September 2.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/ussessex.jpg)[USS *Essex*](https://en.wikipedia.org/wiki/USS_Essex_\(LHD-2\)), a [Wasp-class](https://en.wikipedia.org/wiki/Wasp-class_amphibious_assault_ship) amphibious assault ship, recently arrived in Hawaii’s Pearl Harbor. Rather than carrying just helicopters, MV-22 Osprey tiltrotors, or even F-35B Lightning II fighter jets, the [ship had a deck load of historic World War II warplanes.](https://taskandpurpose.com/.amp/history/world-war-ii-warbirds-uss-essex-hawaii) The planes are set to take part in a commemoration of the 75th anniversary of the end of WWII from August 29 to September 2.
 
 The *Essex* carried a B-25 bomber, two PBY Catalina flying boats, an SNJ/AT-6 Texan, four AT-6 Texans, an FM2 Wildcat, F8F Bearcat, Stearman biplane, TBM Avenger, P-51 Mustang and a T-28 Trojan. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Pride of Baltimore II needs your help.  The Pepsi Refresh Project is giving away $1.3 million dollars toward \"ideas that refresh the Gulf.\"  The Pride of Baltimore organization is competing for a $50, 000 grant to teach boating safety … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/pride.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pride.jpg)
 
 Photo: Lynn Digennaro
 

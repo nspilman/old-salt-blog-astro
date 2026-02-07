@@ -12,12 +12,12 @@ tags:
   - "mutiny"
   - "Veterans Day"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/kielmutiny.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/kielmutiny.jpg"
 author: "Rick Spilman"
 description: "In the US, today is Veteran’s Day, when we honor those who have served in the military.  It coincides with Armistice Day, the anniversary of the signing of the armistice which ended World War I, on the 11th hour of the … Continue reading &rarr;"
 ---
 
-![Soldiers' council of the Prinzregent Luitpold.](http://www.oldsaltblog.com/wp-content/uploads/2014/11/hl-mutiny-kiel.jpg)
+![Soldiers' council of the Prinzregent Luitpold.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/hl-mutiny-kiel.jpg)
 
 Soldiers’ council of the Prinzregent Luitpold.
 

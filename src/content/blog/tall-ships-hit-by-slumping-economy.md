@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Not surprising news given the economy but disturbing nevertheless. Flagship might sail elsewhere: Highlander Sea’s future uncertain The tall ship Highlander Sea, a longtime symbol of Port Huron, is not expected to hit the waves this summer. What’s more, its time representing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/home_highlander_bg.jpg)Not surprising news given the economy but disturbing nevertheless.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/home_highlander_bg.jpg)Not surprising news given the economy but disturbing nevertheless.
 
 [Flagship might sail elsewhere: Highlander Sea’s future uncertain](http://www.thetimesherald.com/article/20100522/NEWS01/5220301/Flagship-might-sail-elsewhere)
 

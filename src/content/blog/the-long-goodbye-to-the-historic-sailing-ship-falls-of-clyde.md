@@ -17,12 +17,12 @@ tags:
   - "Honolulu harbor"
   - "iron-hulled"
   - "sail-driven oil tanker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/focz1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/focz1.jpg"
 author: "Rick Spilman"
 description: "It has been a long time coming, but it appears that the historic sailing ship Falls of Clyde will finally be removed from Honolulu Harbor to be sunk about 12 miles south of the harbor. The ship has been threatened … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/focz1.jpg)It has been a long time coming, but it appears that the historic sailing ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) will finally be removed from Honolulu Harbor to be sunk about 12 miles south of the harbor. The ship has been threatened with scuttling twice before in her long history, but this time it is likely to come to pass.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/focz1.jpg)It has been a long time coming, but it appears that the historic sailing ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) will finally be removed from Honolulu Harbor to be sunk about 12 miles south of the harbor. The ship has been threatened with scuttling twice before in her long history, but this time it is likely to come to pass.
 
 The Hawaii Department of Transportation (HDOT) announced that [Shipwright LLC](https://www.shipwright.biz/), a Florida-based maritime technical consulting firm, has been hired to prepare the ship for disposal. The $4.9 million removal project includes removal of debris from the ship and hull strengthening and reinforcement to allow the vessel to be safely towed to be sunk in late November.
 

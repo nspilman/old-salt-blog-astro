@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "Last Monday night, the lights went out for over 8 million people in the Northeast and Central United States as Superstorm Sandy sent high winds and a record storm surge ashore. It was the worst storm to hit New York … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/ap_staten_island_boat_grounded_mi_121030_wmain.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/ap_staten_island_boat_grounded_mi_121030_wmain.jpg)
 
 168-foot water tanker, the John B. Caddell, sits on the shore, Oct. 30, 2012, where it ran aground on Front Street in the Stapleton neighborhood of New York’s Staten Island as a result of superstorm Sandy. Photo: Sean Sweeney/AP Photo
 

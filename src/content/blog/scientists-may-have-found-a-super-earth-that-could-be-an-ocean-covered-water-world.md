@@ -12,12 +12,12 @@ tags:
   - "ocean planet"
   - "ocean world"
   - "TOI-1452b"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/waterworld.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/waterworld.jpg"
 author: "Rick Spilman"
 description: "ScienceAlert.com reports the discovery of an exoplanet just 100 light-years from Earth that appears to be the best candidate yet for a sloshy, water-covered ocean world. It’s called TOI-1452b, and measurements of its size and mass suggest a density profile consistent … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/waterworld.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/waterworld.jpg)
 
 An artistic impression of the surface of the candidate water world exoplanet TOI-1452b. (Benoit Gougeon/Université de Montréal)
 

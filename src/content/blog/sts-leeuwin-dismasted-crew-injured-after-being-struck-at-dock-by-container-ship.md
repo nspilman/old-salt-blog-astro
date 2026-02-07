@@ -17,12 +17,12 @@ tags:
   - "STS Leeuwin"
   - "Victoria Quay"
   - "WA Maritime Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/leeuwin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/leeuwin.jpg"
 author: "Rick Spilman"
 description: "At about 6:15 this morning, local time, the Maersk Shekou, a 332 meter, 8,814 TEU container ship struck and dismasted the STS Leeuwin II berthed at Victoria Quay in Fremantle, Australia’s inner harbor. The container ship also hit the nearby … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/leeuwin.jpg)At about 6:15 this morning, local time, the [*Maersk Shekou*](https://www.vesselfinder.com/vessels/details/9466984), a 332 meter, 8,814 TEU container ship struck and dismasted the STS [*Leeuwin II*](https://en.wikipedia.org/wiki/STS_Leeuwin_II) berthed at Victoria Quay in Fremantle, Australia’s inner harbor. The container ship also hit the nearby [WA Maritime Museum](https://visit.museum.wa.gov.au/maritime).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/leeuwin.jpg)At about 6:15 this morning, local time, the [*Maersk Shekou*](https://www.vesselfinder.com/vessels/details/9466984), a 332 meter, 8,814 TEU container ship struck and dismasted the STS [*Leeuwin II*](https://en.wikipedia.org/wiki/STS_Leeuwin_II) berthed at Victoria Quay in Fremantle, Australia’s inner harbor. The container ship also hit the nearby [WA Maritime Museum](https://visit.museum.wa.gov.au/maritime).
 
 Two crew members standing night watch on board the *Leeuwin* suffered injuries and were taken to a local hospital. Their injuries were described as significant but not life-threatening.
 

@@ -14,12 +14,12 @@ tags:
   - "European Space Agency"
   - "Oceanwing sails"
   - "sail-assisted cargo ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/canopee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/canopee.jpg"
 author: "Rick Spilman"
 description: "In 2021, we posted about the start of construction of a sail-assisted cargo ship, built to carry Ariane 6 rockets for the European Space Agency (ESA).  Now, the ro-ro cargo ship, Canopée, has completed sea trials and is ready to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/canopee.jpg)In 2021, [we posted about the start of construction of a sail-assisted cargo ship](https://www.oldsaltblog.com/2021/05/dutch-shipyard-to-build-canopee-french-rocket-ship-with-wing-sails/), built to carry Ariane 6 rockets for the European Space Agency (ESA).  Now, the ro-ro cargo ship, *Canopée,* has completed sea trials and is ready to begin commercial service carrying launcher parts from European ports to the Pariacabo port in Kourou, French Guiana.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/canopee.jpg)In 2021, [we posted about the start of construction of a sail-assisted cargo ship](https://www.oldsaltblog.com/2021/05/dutch-shipyard-to-build-canopee-french-rocket-ship-with-wing-sails/), built to carry Ariane 6 rockets for the European Space Agency (ESA).  Now, the ro-ro cargo ship, *Canopée,* has completed sea trials and is ready to begin commercial service carrying launcher parts from European ports to the Pariacabo port in Kourou, French Guiana.
 
 In addition to diesel propulsion, the 121-meter long *Canopée* is equipped with four 30-meter high [Oceanwing](https://ayro.fr/oceanwing/)s, automated and reefable soft wingsails.
 

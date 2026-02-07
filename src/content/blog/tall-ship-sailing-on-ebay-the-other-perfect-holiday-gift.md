@@ -17,6 +17,6 @@ author: "Rick Spilman"
 description: "A bit over a week ago we suggested an aircraft carrier as a holiday gift for the person who has everything.   OK, we admit that was not the most useful gift suggestion.  We now wish to suggest something far more practical and which also … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/astajpg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/astajpg.jpg)
 
 A bit over a week ago we suggested an [aircraft carrier](http://www.oldsaltblog.com/2010/11/27/hms-invincible-for-sale-the-perfect-holiday-gift/) as a holiday gift for the person who has everything.   OK, we admit that was not the most useful gift suggestion.  We now wish to suggest something far more practical and which also supports a great cause.  The [American Sail Training Association (ASTA)](http://www.sailtraining.org/) in association with more than a dozen North American tall ships, including the *[USS Constellation](http://www.historicships.org/constellation.html)*, the *[Pride of Baltimore II](http://www.pride2.org/index.php)* , the *[A.J. Meerwald](http://www.ajmeerwald.org/)* and the *[Lady Washington](http://www.historicalseaport.org/)*, are holding an eBay auction of tall ship sailing and sail training adventure this month as a holiday gift alternative.   Visit the [ASTA E-Bay store for more information.](http://donations.ebay.com/charity/charity.jsp?NP_ID=42546&name=&id=42546&status=102&type=NONPROFIT&itemId=&pageSize=10&pageIndex=1&sortOrder=11#buynp)

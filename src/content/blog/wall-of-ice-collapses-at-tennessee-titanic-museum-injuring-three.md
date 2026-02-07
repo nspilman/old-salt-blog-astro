@@ -13,12 +13,12 @@ tags:
   - "Tennessee"
   - "Titanic"
   - "Titanic Museum Attraction"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/titanicPFT.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/titanicPFT.jpg"
 author: "Rick Spilman"
 description: "Last week, a wall of ice, representing an iceberg, collapsed at the Titanic Museum Attraction in Pigeon Forge, Tennessee, injuring three guests. The injured were taken to a local hospital. The extent of the injuries was not revealed. From the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/titanicPFT.jpg)Last week, a wall of ice, representing an iceberg, collapsed at the [Titanic Museum Attraction](https://titanicpigeonforge.com/) in Pigeon Forge, Tennessee, injuring three guests. The injured were taken to a local hospital. The extent of the injuries was not revealed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/titanicPFT.jpg)Last week, a wall of ice, representing an iceberg, collapsed at the [Titanic Museum Attraction](https://titanicpigeonforge.com/) in Pigeon Forge, Tennessee, injuring three guests. The injured were taken to a local hospital. The extent of the injuries was not revealed.
 
 From the attraction [Facebook page](https://www.facebook.com/TitanicMuseumAttraction/posts/10165466106545611): *Immediately following the accident, Titanic Museum Attraction was closed, and as of the morning of Tuesday, Aug. 3, we reopened to ticketed passengers. The iceberg wall does not currently exist, and the affected area has been blocked off, for the time being. We anticipate it will take at least four weeks for the iceberg to rebuild.*
 

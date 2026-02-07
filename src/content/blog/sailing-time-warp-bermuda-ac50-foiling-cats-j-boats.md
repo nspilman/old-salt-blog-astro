@@ -5,12 +5,12 @@ slug: "sailing-time-warp-bermuda-ac50-foiling-cats-j-boats"
 excerpt: "While the big show at the America’s Cup races in Bermuda are the AC50s, the high-tech foiling catamarans literally flying across the courses, one might be excused for a sense of falling into a time warp, as just off the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/jboath1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/jboath1.jpg"
 author: "Rick Spilman"
 description: "While the big show at the America’s Cup races in Bermuda are the AC50s, the high-tech foiling catamarans literally flying across the courses, one might be excused for a sense of falling into a time warp, as just off the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/jboath1.jpg)While the big show at the [America’s Cup races](https://www.americascup.com) in Bermuda are the [AC50s](https://en.wikipedia.org/wiki/AC50), the high-tech foiling catamarans literally flying across the courses, one might be excused for a sense of falling into a time warp, as just off the island, [a fleet of J boats](http://www.jclassyachts.com/), grand racing yachts from another era, compete against each other, as if from another time.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/jboath1.jpg)While the big show at the [America’s Cup races](https://www.americascup.com) in Bermuda are the [AC50s](https://en.wikipedia.org/wiki/AC50), the high-tech foiling catamarans literally flying across the courses, one might be excused for a sense of falling into a time warp, as just off the island, [a fleet of J boats](http://www.jclassyachts.com/), grand racing yachts from another era, compete against each other, as if from another time.
 
 After a lively competition, in a replay of the 2013 America’s Cup, the AC50 foiling cat, [*Emirates Team New Zealand*](http://emirates-team-new-zealand.americascup.com/) (ETNZ), was chosen again as the challenger to [*Oracle Team USA*](http://oracle-team-usa.americascup.com/). And also like 2013, ETNZ has started off beating the defender in the first four races. It remains to be seen if Oracle can make a dramatic comeback, as they did in 2013 to retain the Cup. Racing between Oracle and  ETNZ begins again this weekend.
 

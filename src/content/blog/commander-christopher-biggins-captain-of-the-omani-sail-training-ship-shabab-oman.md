@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Christopher Biggins, captain of the Omani national sail training ship Shabab Oman, for over two decades, died recently.   An obituary by Frank Scott, author of A Square Rig Handbook, reposted with permission from the  Marine History List: Commander Christopher Biggins Chris Biggins who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/shabab2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/shabab2.jpg)
 
 Shabab Oman
 

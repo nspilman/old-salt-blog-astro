@@ -11,12 +11,12 @@ tags:
   - "ghost nets"
   - "Pacific Garbage Patch"
   - "sailing cargo ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/kwainets.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/kwainets.jpg"
 author: "Rick Spilman"
 description: "The sailing auxiliary cargo ship Kwai arrived in Hawaii recently.  The ship usually sails a regular route carrying cargo and passengers between Hawaii and the islands of Kiritimati (Christmas Island), Tabuaeran (Fanning) and Teraina, (Washington Island) as well as the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/kwainets.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/kwainets.jpg)
 
 Photo: Roy Hollowell
 

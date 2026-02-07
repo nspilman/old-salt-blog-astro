@@ -12,12 +12,12 @@ tags:
   - "Canary Islands"
   - "French adventurer"
   - "Jean-Jacques Savin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/barrel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/barrel.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, 71-year-old  French adventurer Jean-Jacques Savin set off to cross the Atlantic in an unlikely craft — a barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, in a barrel-shaped capsule with the intention of drifting, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/barrel.jpg)On Wednesday, 71-year-old  French adventurer Jean-Jacques Savin set off to cross the Atlantic in an unlikely craft — a barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, in a barrel-shaped capsule with the intention of drifting, carried by the winds and currents, across the Atlantic Ocean. He hopes to arrive in the Caribbean in about three months. The barrel in which he is drifting is 10 feet long and 6 feet 8 inches wide, built of epoxy and plywood and ballasted with concrete.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/barrel.jpg)On Wednesday, 71-year-old  French adventurer Jean-Jacques Savin set off to cross the Atlantic in an unlikely craft — a barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, in a barrel-shaped capsule with the intention of drifting, carried by the winds and currents, across the Atlantic Ocean. He hopes to arrive in the Caribbean in about three months. The barrel in which he is drifting is 10 feet long and 6 feet 8 inches wide, built of epoxy and plywood and ballasted with concrete.
 
 The [New York Times](https://www.nytimes.com/2018/12/27/world/europe/france-barrel-atlantic-jean-jacques-savin.html) reports that Mr. Savin has already crossed the Atlantic four times using a sailboat. His new venture comes decades after another Frenchman, Alain Bombard, set out from the Canary Islands to Barbados in a small rubber boat in 1952, subsisting only on seawater, plankton and raw fish.
 

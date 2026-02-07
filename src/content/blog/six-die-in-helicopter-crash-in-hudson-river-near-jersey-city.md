@@ -13,12 +13,12 @@ tags:
   - "lower Manhattan"
   - "New York City"
   - "Six people die"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/helicoptercrashjc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/helicoptercrashjc.jpg"
 author: "Rick Spilman"
 description: "Six people died when a helicopter crashed in the Hudson River, at roughly 3:15 PM this afternoon. Two adults and three children — all believed to be members of a family of Spanish tourists — were pulled from the helicopter … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/helicoptercrashjc.jpg)Six people died when [a helicopter crashed in the Hudson River](https://www.cbsnews.com/newyork/news/hudson-river-helicopter-crash/), at roughly 3:15 PM this afternoon. Two adults and three children — all believed to be members of a family of Spanish tourists — were pulled from the helicopter or from the frigid river and taken to hospitals in New Jersey, but none survived, officials briefed on the crash said. A sixth person, believed to be the pilot, was also killed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/helicoptercrashjc.jpg)Six people died when [a helicopter crashed in the Hudson River](https://www.cbsnews.com/newyork/news/hudson-river-helicopter-crash/), at roughly 3:15 PM this afternoon. Two adults and three children — all believed to be members of a family of Spanish tourists — were pulled from the helicopter or from the frigid river and taken to hospitals in New Jersey, but none survived, officials briefed on the crash said. A sixth person, believed to be the pilot, was also killed.
 
 The helicopter, a Bell 206, took off from Lower Manhattan and flew near the Statue of Liberty before heading up the Hudson River, turning around just past the George Washington Bridge and flying back down along the Jersey side of the river. The helicopter came down near Jersey City, not far from the [Water’s Soul sculpture](https://www.oldsaltblog.com/2021/10/waters-soul-a-serene-new-face-on-new-york-harbor/).
 

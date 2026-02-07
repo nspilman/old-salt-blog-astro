@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Migaloo, the white humpback whale has been spotted making his way up Australia’s Queensland’s coast on his annual migration to warmer waters. Migaloo was first seen in 1991 and is believed to be around 28 years old and is one of a … Continue reading &rarr;"
 ---
 
-![Photo: Ray Alley](http://www.oldsaltblog.com/wp-content/uploads/2014/06/migaloo1.jpg)
+![Photo: Ray Alley](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/migaloo1.jpg)
 
 Photo: Ray Alley
 

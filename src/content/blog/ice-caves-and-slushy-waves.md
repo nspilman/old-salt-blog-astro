@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Nantucket Island, the waves have turned to a slowly rolling slush while in Michigan, ice caves have formed along the shore."
 ---
 
-![Photo:Jonathan Nimerfroh](http://www.oldsaltblog.com/wp-content/uploads/2015/02/28WAVEWEB.jpg)
+![Photo:Jonathan Nimerfroh](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/28WAVEWEB.jpg)
 
 Photo:Jonathan Nimerfroh
 

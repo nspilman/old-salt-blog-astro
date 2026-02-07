@@ -10,7 +10,7 @@ tags:
   - "Milky Way"
   - "Outer Banks"
   - "Wes Snyder"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/hatterastimel2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/hatterastimel2.jpg"
 author: "Rick Spilman"
 description: "A calming post for a spring Sunday. Here is another wonderful time-lapse by Wes Snyder. From the Youtube description:  \"Capturing Cape Hatteras\" is a time-lapse of the Milky Way, crescent moon, and sunrise on March 20th, 2020. Amidst all the … Continue reading &rarr;"
 ---

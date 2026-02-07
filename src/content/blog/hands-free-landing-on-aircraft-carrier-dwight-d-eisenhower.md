@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A modified F/A-18D Hornet fighter plane recently landed on the deck of the aircraft carrier USS Dwight D. Eisenhower controlled by linked computers on the ship and on the plane. A pilot and a flight engineer were on the plane … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/carrierlanding.jpg)A modified F/A-18D Hornet fighter plane recently landed on the deck of the aircraft carrier [USS Dwight D. Eisenhower](http://www.eisenhower.navy.mil/) controlled by linked computers on the ship and on the plane. A pilot and a flight engineer were on the plane but did not touch the controls during the landing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/carrierlanding.jpg)A modified F/A-18D Hornet fighter plane recently landed on the deck of the aircraft carrier [USS Dwight D. Eisenhower](http://www.eisenhower.navy.mil/) controlled by linked computers on the ship and on the plane. A pilot and a flight engineer were on the plane but did not touch the controls during the landing.
 
 [‘Hands-free’ landing on Eisenhower is step toward unmanned naval flight](http://www.stripes.com/hands-free-landing-on-eisenhower-is-step-toward-unmanned-naval-flight-1.148661)  
   

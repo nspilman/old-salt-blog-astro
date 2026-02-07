@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I am not a big gamer but Salvo! does look like fun. It is also on sale for the rest of the month. There is even a free demo. Salvo! on Sale in September Salvo! is a turn based wargame … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/SVO_pic.jpg)I am not a big gamer but [Salvo!](http://www.shrapnelgames.com/SprueGames/SVO/SVO_page.html) does look like fun. It is also on [sale for the rest of the month.](http://www.gamersdailynews.com/story-19545-Salvo-and-Weird-Worlds-on-Sale-in-September.html) There is even a free [demo](http://www.shrapnelgames.com/SprueGames/SVO/SVO_page.html).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/SVO_pic.jpg)I am not a big gamer but [Salvo!](http://www.shrapnelgames.com/SprueGames/SVO/SVO_page.html) does look like fun. It is also on [sale for the rest of the month.](http://www.gamersdailynews.com/story-19545-Salvo-and-Weird-Worlds-on-Sale-in-September.html) There is even a free [demo](http://www.shrapnelgames.com/SprueGames/SVO/SVO_page.html).
 
 [Salvo! on Sale in September](http://www.gamersdailynews.com/story-19545-Salvo-and-Weird-Worlds-on-Sale-in-September.html)
 

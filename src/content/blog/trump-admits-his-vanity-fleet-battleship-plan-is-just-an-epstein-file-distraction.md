@@ -17,12 +17,12 @@ tags:
   - "USS Defiant"
   - "Vanity Fleet"
   - "Yamato"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/trumpclass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/trumpclass.jpg"
 author: "Rick Spilman"
 description: "Once again, Trump is saying the quiet part out loud. After giving a rambling, word salad of a speech announcing the battleships, Trump answered a reporter's question about the Epstein files and effectively admitted that the battleship proposal was intended to distract from the deepening Epstein scandal."
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/trumpclass.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/trumpclass.jpg)  
 Trump recently announced that the Navy will begin the construction of “two brand new, very large, the [largest we’ve ever built battleships](https://youtu.be/UmYao9kcOD4?si=mYWzkxSmbWKO0EYQ).” He claims that the new battleships, which he has named after himself, the Trump Class,  will be “the fastest, the biggest, and by far 100 times more powerful than any battleship ever built, the largest battleship in the history of the world.” The first ship of the series is to be named USS *Defiant*.
 
 ### No, not that USS Defiant

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A new book details the history of a hotel built to look like an ocean liner perched high in the mountains of Pennsylvania. Ship Hotel has sailed, but a jaunty new book honors its history and heyday The story of … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/ship-hotel.jpg)](http://www.amazon.com/gp/product/0811736318?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0811736318)A new book details the history of a hotel built to look like an ocean liner perched high in the mountains of Pennsylvania.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/ship-hotel.jpg)](http://www.amazon.com/gp/product/0811736318?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0811736318)A new book details the history of a hotel built to look like an ocean liner perched high in the mountains of Pennsylvania.
 
 [Ship Hotel has sailed, but a jaunty new book honors its history and heyday](http://www.post-gazette.com/pg/10102/1049351-44.stm)
 

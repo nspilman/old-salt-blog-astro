@@ -10,12 +10,12 @@ tags:
   - "new york"
   - "oyster"
   - "Pier 40"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/bigoyster.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bigoyster.jpg"
 author: "Rick Spilman"
 description: "A diver repairing Pier 40 on the Hudson River in Manhattan recently pried loose a large oyster. At 8.66 inches long and weighing in at close to two pounds, it is believed to be the largest oyster found in New York Harbor in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/bigoyster.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bigoyster.jpg)
 
 Photo: The River Project
 

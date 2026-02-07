@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, \"The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/Pacific_Star.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Pacific_Star.jpg)
 
 Damage to the bow of the Pacific Star after a storm in 2007 resulting in a cancelled cruise
 

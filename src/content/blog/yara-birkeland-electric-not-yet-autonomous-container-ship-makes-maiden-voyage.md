@@ -13,12 +13,12 @@ tags:
   - "container ship"
   - "Norway"
   - "Yara Birkeland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/yara1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/yara1.jpg"
 author: "Rick Spilman"
 description: "In August we posted Yara Birkeland, Crewless Electric Container Ship, First Voyage by Year’s End.  We noted that if all went according to plan, the ship would make its first journey between two Norwegian towns before the end of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/yara1.jpg)In August we posted [*Yara Birkeland, Crewless Electric Container Ship, First Voyage by Year’s End.*](https://www.oldsaltblog.com/2021/08/update-yara-birkeland-crewless-electric-container-ship-first-voyage-by-years-end/)  We noted that if all went according to plan, the ship would make its first journey between two Norwegian towns before the end of the year, with no crew onboard.  The 103 TEU all-electric container ship did recently complete a 38 nautical mile maiden voyage from the town of Horten to Oslo. Nevertheless, the plan has changed. The brief voyage took place with crew aboard. It is now expected to be two or more years before autonomous operations are likely to commence.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/yara1.jpg)In August we posted [*Yara Birkeland, Crewless Electric Container Ship, First Voyage by Year’s End.*](https://www.oldsaltblog.com/2021/08/update-yara-birkeland-crewless-electric-container-ship-first-voyage-by-years-end/)  We noted that if all went according to plan, the ship would make its first journey between two Norwegian towns before the end of the year, with no crew onboard.  The 103 TEU all-electric container ship did recently complete a 38 nautical mile maiden voyage from the town of Horten to Oslo. Nevertheless, the plan has changed. The brief voyage took place with crew aboard. It is now expected to be two or more years before autonomous operations are likely to commence.
 
 The ship is powered by a 7 MWh battery bank and should be capable of a top speed of 13 knots. When operational, *Yara Birkeland* will sail on two routes, between Herøya and Brevik (~7 nautical miles (13 km)) and between Herøya and Larvik (~30 nautical miles (56 km)).
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The wreck of the pirate Blackbeard‘s Queen Anne’s Revenge, which sank in 1718, was believed to be discovered in 1996.   After 15 years of excavation, the State of North Carolina and the North Carolina Maritime Museum announced today that they had confirmed that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/Blackbeard.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Blackbeard.jpg)
 
 The wreck of the pirate [Blackbeard](http://en.wikipedia.org/wiki/Blackbeard)‘s *[Queen Anne’s Revenge](http://www.qaronline.org/)*, which sank in 1718, was believed to be discovered in 1996.   After 15 years of excavation, the State of North Carolina and the North Carolina Maritime Museum announced today that they had confirmed that the ship wreck is absolutely Blackbeard’s flagship, the *Queen Anne’s Revenge*.
 

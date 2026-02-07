@@ -14,12 +14,12 @@ tags:
   - "ONE Apus"
   - "ONE Aquila"
   - "Svendborg Maersk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/maerskessen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/maerskessen.jpg"
 author: "Rick Spilman"
 description: "In what is developing into a record winter for containers lost over the side, the Maersk Essen lost 750 containers overboard during a storm on January 16.  An unknown number of boxes were damaged but still onboard. The loss occurred … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/maerskessen.jpg)In what is developing into a record winter for containers lost over the side, the [*Maersk Essen*](https://www.marinetraffic.com/en/ais/details/ships/shipid:713226/mmsi:219210000/imo:9456783/vessel:MAERSK_ESSEN) [lost 750 containers overboard](https://www.wkwebster.com/casualty-details/188/maersk-essen) during a storm on January 16.  An unknown number of boxes were damaged but still onboard. The loss occurred when the 13,100 TEU capacity ship on route from Xiamen, China to the port of Los Angeles, USA, reportedly during severe weather.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/maerskessen.jpg)In what is developing into a record winter for containers lost over the side, the [*Maersk Essen*](https://www.marinetraffic.com/en/ais/details/ships/shipid:713226/mmsi:219210000/imo:9456783/vessel:MAERSK_ESSEN) [lost 750 containers overboard](https://www.wkwebster.com/casualty-details/188/maersk-essen) during a storm on January 16.  An unknown number of boxes were damaged but still onboard. The loss occurred when the 13,100 TEU capacity ship on route from Xiamen, China to the port of Los Angeles, USA, reportedly during severe weather.
 
 This is the third major loss of containers overboard in the Pacific in the past 90 days. At the end of October, the 14,052 TEU [*ONE Aquila,* bound for Long Beach, lost 100 containers](https://www.offshore-energy.biz/one-aquila-loses-containers-in-rough-seas/) over the side in a storm. Then in late November, the sister ship [*ONE Apus* lost a record of almost 1,900 containers](http://www.oldsaltblog.com/2020/12/container-ship-one-apus-sets-record-for-boxes-lost-over-the-side-at-over-1900/) in a North Pacific storm. 
 

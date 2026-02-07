@@ -13,12 +13,12 @@ tags:
   - "Charles Spencer"
   - "Sir Eric Anderson"
   - "William Shakespeare"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/shakessailor2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/shakessailor2.jpg"
 author: "Rick Spilman"
 description: "There is much that we do not know about William Shakespeare. The exact date of his birth was not recorded, but is most often celebrated worldwide on April 23rd. One of the biggest mysteries about William Shakespeare, however, is the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/shakessailor2.jpg)There is much that we do not know about William Shakespeare. The [exact date of his birth](https://www.google.com/search?q=shakespeare+birthday&rlz=1C1OPNX_enUS929US929&oq=sha&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQg1Mjk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) was not recorded, but is most often celebrated worldwide on April 23rd.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/shakessailor2.jpg)There is much that we do not know about William Shakespeare. The [exact date of his birth](https://www.google.com/search?q=shakespeare+birthday&rlz=1C1OPNX_enUS929US929&oq=sha&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQg1Mjk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) was not recorded, but is most often celebrated worldwide on April 23rd.
 
 One of the biggest mysteries about William Shakespeare, however, is the period referred to as his “[Lost Years](https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/shakespeares-lost-years/),” when he completely disappears for more than seven years. When he was 21 years old, Shakespeare was married with three children and living in the small town of Stratford in England. Seven years later, he was living in London as resident playwright and part owner of a theater company. Nobody knows just what Shakespeare was doing for all those years in between.
 

@@ -15,12 +15,12 @@ tags:
   - "HMS Victory"
   - "Plato"
   - "Ship of Theseus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/victory-stern3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/victory-stern3.jpg"
 author: "Rick Spilman"
 description: "We recently posted about an announcement that an additional £35m is being committed for continued repairs to the HMS Victory, specifically to replace rotting planking and frames and to complete the rerigging of the ship. As it has been 256 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/victory-stern3.jpg)We recently [posted about an announcement](https://www.oldsaltblog.com/2022/01/on-100th-year-anniversary-of-drydocking-35m-committed-to-ongoing-restoration-of-hms-victory/) that an additional £35m is being committed for continued repairs to the [HMS *Victory*](https://en.wikipedia.org/wiki/HMS_Victory), specifically to replace rotting planking and frames and to complete the rerigging of the ship. As it has been 256 years since the ship was launched and 244 years since the ship was commissioned, how much of the original ship remains after over two centuries of active service, repairs, and rebuilding? Depending on which source one uses, estimates range from 17% to 20%. The new funds for restoring the ship will no doubt reduce the percentage.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/victory-stern3.jpg)We recently [posted about an announcement](https://www.oldsaltblog.com/2022/01/on-100th-year-anniversary-of-drydocking-35m-committed-to-ongoing-restoration-of-hms-victory/) that an additional £35m is being committed for continued repairs to the [HMS *Victory*](https://en.wikipedia.org/wiki/HMS_Victory), specifically to replace rotting planking and frames and to complete the rerigging of the ship. As it has been 256 years since the ship was launched and 244 years since the ship was commissioned, how much of the original ship remains after over two centuries of active service, repairs, and rebuilding? Depending on which source one uses, estimates range from 17% to 20%. The new funds for restoring the ship will no doubt reduce the percentage.
 
 Is there a point at which HMS *Victory* is no longer the same ship whose decks were trod by Nelson at [Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar)? Or will HMS *Victory* always be the same historic ship no matter how often she is restored and repaired?
 

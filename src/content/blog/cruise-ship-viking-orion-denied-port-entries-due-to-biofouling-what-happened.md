@@ -14,12 +14,12 @@ tags:
   - "National Maritime Coordination Centre"
   - "New Zealand"
   - "Viking Orion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/vikingorion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/vikingorion.jpg"
 author: "Rick Spilman"
 description: "Eight hundred passengers, reported to be mostly Americans, found themselves stranded on the cruise ship Viking Orion off South Australia for seven days after the ship was denied permission to dock in Adelaide, Christchurch, Dunedin, and Hobart, due to marine growth … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/vikingorion.jpg)Eight hundred passengers, reported to be mostly Americans, found themselves stranded on the cruise ship *[Viking Orion](http://vikingcruises.com/oceans/ships/viking-orion.html)* off South Australia for seven days after the ship was denied permission to dock in Adelaide, Christchurch, Dunedin, and Hobart, due to marine growth or “biofoul” on the ship’s hull.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/vikingorion.jpg)Eight hundred passengers, reported to be mostly Americans, found themselves stranded on the cruise ship *[Viking Orion](http://vikingcruises.com/oceans/ships/viking-orion.html)* off South Australia for seven days after the ship was denied permission to dock in Adelaide, Christchurch, Dunedin, and Hobart, due to marine growth or “biofoul” on the ship’s hull.
 
 Australia’s National Maritime Coordination Centre established that the ship’s hull had small amounts of biofoul – marine microorganisms, plants, algae, or small animals.
 

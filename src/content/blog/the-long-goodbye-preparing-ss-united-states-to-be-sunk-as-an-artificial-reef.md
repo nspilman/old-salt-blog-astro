@@ -15,12 +15,12 @@ tags:
   - "Okaloosa County"
   - "SS United States"
   - "world’s largest artificial reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/ssusmobile.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/ssusmobile.jpg"
 author: "Rick Spilman"
 description: "The iconic passenger liner  SS United States arrived early Monday in Mobile, Alabama, nearly two weeks after departing under tow from South Philadelphia. She was docked at Modern American Recycling Service (MARS), where if all goes according to plan, she … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/ssusmobile.jpg)The iconic passenger liner  [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) arrived early Monday in Mobile, Alabama, nearly two weeks after [departing under tow from South Philadelphia](https://www.oldsaltblog.com/2025/02/historic-passenger-liner-ss-united-states-finally-departs-philadelphia-on-its-last-voyage/). She was docked at Modern American Recycling Service (MARS), where if all goes according to plan, she will be stripped of non-metal and potentially hazardous materials in preparation to be sunk as the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach in the Gulf of Mexico. The remediation is expected to take until the end of this year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/ssusmobile.jpg)The iconic passenger liner  [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) arrived early Monday in Mobile, Alabama, nearly two weeks after [departing under tow from South Philadelphia](https://www.oldsaltblog.com/2025/02/historic-passenger-liner-ss-united-states-finally-departs-philadelphia-on-its-last-voyage/). She was docked at Modern American Recycling Service (MARS), where if all goes according to plan, she will be stripped of non-metal and potentially hazardous materials in preparation to be sunk as the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach in the Gulf of Mexico. The remediation is expected to take until the end of this year.
 
 The SS *United States* was taken out of service in 1969. Last year, [Okaloosa County, FL purchased the ship](https://www.oldsaltblog.com/2024/08/historic-ocean-liner-ss-united-states-in-deal-to-be-sunk-as-artificial-reef/) for $1 million and budgeted an additional $8 million for remediation, transport, and deployment. The project also includes plans for a land-based museum dedicated to the ship.
 

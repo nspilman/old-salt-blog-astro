@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Thames sailing barge Cambria was built in Greenhithe, Kent in 1906.  Remarkably, she kept sailing  and carrying commercial cargo under sail alone until 1970.  She is now undergoing a complete restoration by the Cambria Trust with major funding from the Heritage Lottery … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/cambriatrust.jpg)](http://www.cambriatrust.org.uk/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/cambriatrust.jpg)](http://www.cambriatrust.org.uk/)
 
 The [Thames sailing barge Cambria](http://www.cambriatrust.org.uk/) was built in Greenhithe, Kent in 1906.  Remarkably, she kept sailing  and [carrying commercial cargo under sail alone until 1970](http://www.cambriatrust.org.uk/cambria_barge_history/index.htm).  She is now undergoing a complete restoration by the Cambria Trust with major funding from the Heritage Lottery Fund. They are still, however,  in need of sponsors to ensure a complete and full restoration.
 

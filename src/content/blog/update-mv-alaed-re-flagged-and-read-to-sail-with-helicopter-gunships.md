@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last week, we posted about the MV Alaed, a 9,000 DWT geared cargo ship, reported to be carrying refurbished Russian attack helicopters bound for Syria. The ship, sailing under the Curacao flag, was turned aback after the cancellation of its P&I … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/syria_2257577b.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/syria_2257577b.jpg)
 
 Photo: REUTERS
 

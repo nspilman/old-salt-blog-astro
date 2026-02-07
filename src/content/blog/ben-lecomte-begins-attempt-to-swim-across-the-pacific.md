@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "French-born swimmer Ben Lecomte has set off on a 5,500-mile record attempt to swim across the Pacific Ocean from Japan to California. The 51-year-old professional distance swimmer will swim for eight hours a day for more than six months as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/benlecomte.jpg)French-born swimmer [Ben Lecomte](https://en.wikipedia.org/wiki/Beno%C3%AEt_Lecomte) has set off on a [5,500-mile record attempt to swim across the Pacific Ocean](http://thelongestswim.com/#) from Japan to California. The 51-year-old professional distance swimmer will swim for eight hours a day for more than six months as he heads towards the US west coast. If he succeeds in his attempt, Lecomte will be the first person to swim across the Pacific.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/benlecomte.jpg)French-born swimmer [Ben Lecomte](https://en.wikipedia.org/wiki/Beno%C3%AEt_Lecomte) has set off on a [5,500-mile record attempt to swim across the Pacific Ocean](http://thelongestswim.com/#) from Japan to California. The 51-year-old professional distance swimmer will swim for eight hours a day for more than six months as he heads towards the US west coast. If he succeeds in his attempt, Lecomte will be the first person to swim across the Pacific.
 
 The [BBC reports](https://www.bbc.com/news/world-asia-44358680): *Preparations for the trip have taken more than six years, but Mr. Lecomte has been targeting the challenge for much longer.*
 

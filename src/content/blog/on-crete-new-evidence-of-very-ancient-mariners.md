@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Here is an intriguing article suggesting that we humans have been taking to the sea for far longer than had been previously recorded. Recently stone tools have been found on the island of Crete which date back at least 130,000 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/16archeo01-articleLarge.jpg)Here is an intriguing article suggesting that we humans have been taking to the sea for far longer than had been previously recorded. Recently stone tools have been found on the island of Crete which date back at least 130,000 years and may be much older.   As Crete has been an island for  more than five million years, this suggests that those who carried the tools to the island were very ancient mariners indeed.  Thanks to John for passing the article along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/16archeo01-articleLarge.jpg)Here is an intriguing article suggesting that we humans have been taking to the sea for far longer than had been previously recorded. Recently stone tools have been found on the island of Crete which date back at least 130,000 years and may be much older.   As Crete has been an island for  more than five million years, this suggests that those who carried the tools to the island were very ancient mariners indeed.  Thanks to John for passing the article along.
 
 [On Crete, New Evidence of Very Ancient Mariners](http://www.nytimes.com/2010/02/16/science/16archeo.html?hpw)  
   

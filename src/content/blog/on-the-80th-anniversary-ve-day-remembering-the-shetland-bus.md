@@ -17,12 +17,12 @@ tags:
   - "Shetland"
   - "Shetland Bus"
   - "Victory in Europe Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/05/shetlandgang.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/shetlandgang.jpg"
 author: "Rick Spilman"
 description: "On this, the 80th Anniversary of VE (Victory in Europe) Day,  the Liberation Convoy 2025 of five historic Norwegian veteran vessels, alongside partners from both Norway and the United Kingdom, is commemorating Anglo-Norwegian heroism on the North Sea during the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/05/shetlandgang.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/shetlandgang.jpg)
 
 Some of the “Shetland Gang” crew pictured at the pier in Scalloway in 1944
 

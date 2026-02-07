@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Maine man creates huge online ship database Thousands of ships over hundreds of years have navigated the rolling waters of Maine’s Penobscot River across the street from Jon Johansen’s home. Inspired by that history, Johansen set about documenting every ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/jonjohansen.jpg)[Maine man creates huge online ship database](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2010/03/21/MNLM1CFNLL.DTL)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/jonjohansen.jpg)[Maine man creates huge online ship database](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2010/03/21/MNLM1CFNLL.DTL)
 
 *Thousands of ships over hundreds of years have navigated the rolling waters of Maine’s Penobscot River across the street from Jon Johansen’s home.*
 

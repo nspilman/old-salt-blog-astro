@@ -11,12 +11,12 @@ tags:
   - "Maine Windjammer Association"
   - "pandemic"
   - "schooners"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/heritage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/heritage.jpg"
 author: "Rick Spilman"
 description: "At the end of June, we posted that the Maine windjammer passenger fleet faced an uncertain season due to the pandemic.  Shortly thereafter, the State of Maine, working with the Maine Windjammer Association and others, agreed on a set of rules … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/heritage.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/heritage.jpg)
 
 Schooner Heritage in better times
 

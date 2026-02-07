@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "No, not Moby Dick.  Scientists have recently discovered the fossilized remains of an ancient whale with huge, fearsome teeth, which they have dubbed Leviathan melvillei,  in honor of Herman Melville.   The 12 million old whale was slightly smaller than a modern sperm whale but … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/monster_whale_786_2.jpg)No, not [*Moby Dick*](http://www.amazon.com/gp/product/0486432157?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0486432157).  Scientists have recently discovered the fossilized remains of an ancient whale with huge, fearsome teeth, which they have dubbed *Leviathan melvillei*,  in honor of Herman Melville.   The 12 million old whale was slightly smaller than a modern sperm whale but had shark-like teeth half again as large as the conical teeth of modern sperm whales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/monster_whale_786_2.jpg)No, not [*Moby Dick*](http://www.amazon.com/gp/product/0486432157?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0486432157).  Scientists have recently discovered the fossilized remains of an ancient whale with huge, fearsome teeth, which they have dubbed *Leviathan melvillei*,  in honor of Herman Melville.   The 12 million old whale was slightly smaller than a modern sperm whale but had shark-like teeth half again as large as the conical teeth of modern sperm whales.
 
 [‘Sea monster’ whale fossil unearthed](http://news.bbc.co.uk/2/hi/science_and_environment/10461066.stm)  
   

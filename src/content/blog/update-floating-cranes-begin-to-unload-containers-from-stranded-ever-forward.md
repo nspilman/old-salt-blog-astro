@@ -13,12 +13,12 @@ tags:
   - "Ever Forward"
   - "floating cranes"
   - "Seagirt Marine Terminal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/everfcrane.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/everfcrane.jpg"
 author: "Rick Spilman"
 description: "Container News is reporting that the unloading of containers from Ever Forward has begun. The plan is to unload 550 containers over the next few days to lighten the load of the ship before the next refloat attempt. Salvors are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/everfcrane.jpg)[Container News](https://container-news.com/ever-forward-container-unloading-operations-underway/) is reporting that the unloading of containers from *Ever Forward* has begun. The plan is to unload 550 containers over the next few days to lighten the load of the ship before the next refloat attempt. Salvors are currently moving a box every ten minutes on average.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/everfcrane.jpg)[Container News](https://container-news.com/ever-forward-container-unloading-operations-underway/) is reporting that the unloading of containers from *Ever Forward* has begun. The plan is to unload 550 containers over the next few days to lighten the load of the ship before the next refloat attempt. Salvors are currently moving a box every ten minutes on average.
 
 As of 11:00 am, local time, today, April 11, 54 containers have been removed, according to Container News sources. “More containers will be unloaded today as both crane barges are now unloading the containers simultaneously,” an official told Container News.
 

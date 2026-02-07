@@ -12,12 +12,12 @@ tags:
   - "Port of Toronto"
   - "PortsToronto"
   - "Top Hat Ceremony"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/tophattoronto.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/tophattoronto.jpg"
 author: "Rick Spilman"
 description: "Some watch for the first robin to signify the arrival of Spring. In the Port of Toronto, Canada, the coming of spring has been marked by the arrival of the first ocean-going ship of the season; an arrival that has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/tophattoronto.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/tophattoronto.jpg)
 
 PortsToronto Assistant Manager of Harbour Operations Helen Oel “crowns” Captain Dorde Perovic of the MV Chestnut during the Port of Toronto’s 161st annual Top Hat Ceremony. (CNW Group/PortsToronto)
 

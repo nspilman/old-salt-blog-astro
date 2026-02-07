@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last August we posted \"Did an Arsonist Torch the USS Bonhomme Richard?\" The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)Last August we posted “[Did an Arsonist Torch the USS Bonhomme Richard?](http://www.oldsaltblog.com/2020/08/did-an-arsonist-torch-the-uss-bonhomme-richard/)” The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault USS *Bonhomme Richard*, one of the worst blazes to engulf an American warship outside of combat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)Last August we posted “[Did an Arsonist Torch the USS Bonhomme Richard?](http://www.oldsaltblog.com/2020/08/did-an-arsonist-torch-the-uss-bonhomme-richard/)” The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault USS *Bonhomme Richard*, one of the worst blazes to engulf an American warship outside of combat.
 
 The [sailor was a member of the crew](https://www.nytimes.com/2021/07/29/us/politics/bonhomme-richard-fire.html?searchResultPosition=1) when the fire broke out last July and faces a hearing that will determine whether there will be a court-martial.
 

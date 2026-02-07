@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Famous steam drifter celebrates 80th birthday in Yarmouth The world’s last surviving steam drifter, the Lydia Eva, will be celebrating her 80th birthday in Great Yarmouth on Sunday.   As well as celebrating her birthday, the weekend will also mark … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/drifter.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/drifter.jpg)
 
 Lydia Eva
 

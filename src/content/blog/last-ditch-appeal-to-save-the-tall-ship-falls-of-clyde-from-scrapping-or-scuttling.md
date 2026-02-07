@@ -15,12 +15,12 @@ tags:
   - "iron-hulled four-masted full rigged ship"
   - "Port Glasgow"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "Supporters in Scotland are mounting a last-ditch effort to save the Falls of Clyde from scrapping or scuttling in Hawaii. The Falls of Clyde, launched in 1878 in Port Glasgow, Scotland, is the only remaining iron-hulled four-masted full-rigged ship and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)Supporters in Scotland are mounting a last-ditch effort to save the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from scrapping or scuttling in Hawaii. The *Falls of Clyde*, launched in 1878 in Port Glasgow, Scotland, is the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)Supporters in Scotland are mounting a last-ditch effort to save the [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from scrapping or scuttling in Hawaii. The *Falls of Clyde*, launched in 1878 in Port Glasgow, Scotland, is the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world.  
 
 In late April, the Hawaii Department of Transportation’s Harbors Division put out a request for proposals for [the “removal of the derelict sailing vessel *Falls of Clyde*](https://www.staradvertiser.com/2021/05/17/breaking-news/hawaii-officials-ask-for-bids-to-dispose-of-historic-falls-of-clyde/) from Honolulu Harbor.”  The [bids are due at 10 a.m. Friday](https://hands.ehawaii.gov/hands/opportunities/opportunity-details/20141).
 

@@ -15,12 +15,12 @@ tags:
   - "superyacht"
   - "Taras Ostapchuk"
   - "Ukrainian marine engineer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/ladyanastasia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/ladyanastasia.jpg"
 author: "Rick Spilman"
 description: "A Ukrainian marine engineer was detained after attempting to sink the Lady Anastasia, a 48-meter-long $7 million superyacht owned by Russian oligarch and arms tycoon, Alexander Mijeev. The attempt took place on Saturday at Port Adriano in Mallorca. The 55-year-old … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/ladyanastasia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/ladyanastasia.jpg)
 
 Taras Ostapchuk (left) and Lady Anastasia (right), which belongs to Mijeev (inset right) (Twitter)
 

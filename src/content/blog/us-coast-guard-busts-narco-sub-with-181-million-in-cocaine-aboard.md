@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The submarine war at sea continues. Last month, the USCG Cutter Stratton intercepted a semi-submersible vessel in the eastern Pacific Ocean around 200 miles south of Mexico, loaded with 16,000 pounds of cocaine, worth an estimated $181 million. Four men were … Continue reading &rarr;"
 ---
 
-![USCG CUTTER STRATTON](http://www.oldsaltblog.com/wp-content/uploads/2015/08/uscgcstratton.jpg)
+![USCG CUTTER STRATTON](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/uscgcstratton.jpg)
 
 USCG CUTTER STRATTON
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The plan was for the South Korean icebreaker Araon accompanied by the fishing vessel Chiyo Maru No 3 to break through the ice to reach the stricken Russian fishing vessel Sparta today on Christmas Day. The Sparta was holed below … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/sparta3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sparta3.jpg)
 
 Russian Fishing Vessel Sparta
 

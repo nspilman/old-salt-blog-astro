@@ -11,12 +11,12 @@ tags:
   - "MacLean brothers"
   - "rowing"
   - "Talisker Whisky Atlantic Challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/macleanbagpipe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/macleanbagpipe.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Ewan, Jamie, and Lachlan MacLean, three brothers from Edinburgh, Scotland who rowed across the Atlantic in just 35 days. They departed from La Gomera, in the Canary Islands on 12 December and completed the 3,000-mile row to Antigua … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/macleanbagpipe.jpg)Congratulations to [Ewan, Jamie, and Lachlan MacLean](https://www.broar.co.uk/), three brothers from Edinburgh, Scotland who rowed across the Atlantic in just 35 days. They departed from La Gomera, in the Canary Islands on 12 December and completed the 3,000-mile row to Antigua as part of the [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/macleanbagpipe.jpg)Congratulations to [Ewan, Jamie, and Lachlan MacLean](https://www.broar.co.uk/), three brothers from Edinburgh, Scotland who rowed across the Atlantic in just 35 days. They departed from La Gomera, in the Canary Islands on 12 December and completed the 3,000-mile row to Antigua as part of the [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/). 
 
 In the race, the MacLean brothers set three world records. They broke the previous record time of 41 days for a trio to row across the Atlantic. They also are the first trio of brothers on record to row across any ocean and also the youngest team of three to complete the crossing. Jamie is 26, Ewan is 27, and Lachlan is 21 years old.
 

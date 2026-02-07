@@ -12,12 +12,12 @@ tags:
   - "Maine Maritime Museum"
   - "Mary E"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/marye.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/marye.jpg"
 author: "Rick Spilman"
 description: "On Friday, the schooner Mary E, owned by the Maine Maritime Museum in Bath, was knocked down and flooded while sailing off Doubling Point Light on the Kennebec River, just downriver from the museum. All 18 passengers and crew were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/marye.jpg)On Friday, the schooner [*Mary E*](https://www.instagram.com/p/CR_64PWt132/?utm_source=ig_embed&ig_rid=c7558f13-726b-4996-a685-870062ed94e2), owned by the [Maine Maritime Museum](https://www.mainemaritimemuseum.org/) in Bath, was knocked down and flooded while sailing off Doubling Point Light on the Kennebec River, just downriver from the museum. All 18 passengers and crew were rescued from the 73-foot schooner, pulled from the water by boats from Sea Tow, Bath Iron Works security, and good samaritans.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/marye.jpg)On Friday, the schooner [*Mary E*](https://www.instagram.com/p/CR_64PWt132/?utm_source=ig_embed&ig_rid=c7558f13-726b-4996-a685-870062ed94e2), owned by the [Maine Maritime Museum](https://www.mainemaritimemuseum.org/) in Bath, was knocked down and flooded while sailing off Doubling Point Light on the Kennebec River, just downriver from the museum. All 18 passengers and crew were rescued from the 73-foot schooner, pulled from the water by boats from Sea Tow, Bath Iron Works security, and good samaritans.
 
 The schooner has now been recovered and returned to the museum dock. An investigation into the accident is ongoing.
 

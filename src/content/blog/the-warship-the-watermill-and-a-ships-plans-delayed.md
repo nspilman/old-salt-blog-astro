@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last Sunday, we posted about the authorization for the  construction of the first six frigates for the US Navy in 1794.   The folks at Maritime Great Britain were kind enough to pass along two related stories. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/USSChesapeake.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/USSChesapeake.jpg)
 
 USS Chesapeake, from frigate to mill
 

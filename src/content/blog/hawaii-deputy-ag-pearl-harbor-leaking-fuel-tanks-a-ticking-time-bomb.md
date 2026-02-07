@@ -14,12 +14,12 @@ tags:
   - "Oahu"
   - "Pearl Harbor"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg"
 author: "Rick Spilman"
 description: "We recently posted about how on the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families have been forced from their homes and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg)We recently posted about how on the 80th anniversary of the [attack on Pearl Harbor](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor), [over 1,000 military families have been forced from their homes](https://www.oldsaltblog.com/2021/12/contaminated-water-at-pearl-harbor-forces-over-1000-military-families-from-their-homes/) and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II era, underground fuel storage facility on the base in Oahu, Hawaii. The State of Hawaii issued an [emergency order](https://health.hawaii.gov/about/files/2021/12/Emergency-Order-12.05.2021-signed.pdf) compelling the Navy to empty the massive storage tanks and make needed repairs. The Navy objected to the order.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg)We recently posted about how on the 80th anniversary of the [attack on Pearl Harbor](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor), [over 1,000 military families have been forced from their homes](https://www.oldsaltblog.com/2021/12/contaminated-water-at-pearl-harbor-forces-over-1000-military-families-from-their-homes/) and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II era, underground fuel storage facility on the base in Oahu, Hawaii. The State of Hawaii issued an [emergency order](https://health.hawaii.gov/about/files/2021/12/Emergency-Order-12.05.2021-signed.pdf) compelling the Navy to empty the massive storage tanks and make needed repairs. The Navy objected to the order.
 
 Now, David Day, Hawaii deputy attorney general, has upheld the emergency order, saying that the fuel storage facility at Pearl Harbor is a “ticking time bomb” that the U.S. military is unable to manage. 
 

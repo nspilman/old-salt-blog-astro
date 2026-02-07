@@ -11,7 +11,7 @@ categories:
 tags:
   - "Fleet Week"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/paradeships2019.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/paradeships2019.jpg"
 author: "Rick Spilman"
 description: "﻿ Fleet Week 2019 Kicks Off in NYC With the Parade of Ships … Continue reading &rarr;"
 ---

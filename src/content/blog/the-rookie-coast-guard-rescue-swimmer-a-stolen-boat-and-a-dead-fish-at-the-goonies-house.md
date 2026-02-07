@@ -17,12 +17,12 @@ tags:
   - "Oregon"
   - "Rookie Coast Guard Rescue Swimmer"
   - "The Goonies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/sandpiper-rescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/sandpiper-rescue.jpg"
 author: "Rick Spilman"
 description: "Here is a strange story of a heroic rescue by the US Coast Guard, a stolen boat, and a dead fish left on the front porch of a house in Astoria, Oregon, where the cult classic adventure/comedy movie, The Goonies … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/sandpiper-rescue.jpg)Here is a strange story of a heroic rescue by the US Coast Guard, a stolen boat, and a dead fish left on the front porch of a house in Astoria, Oregon, where the cult classic adventure/comedy movie, [The Goonies](https://en.wikipedia.org/wiki/The_Goonies) was filmed in 1985.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/sandpiper-rescue.jpg)Here is a strange story of a heroic rescue by the US Coast Guard, a stolen boat, and a dead fish left on the front porch of a house in Astoria, Oregon, where the cult classic adventure/comedy movie, [The Goonies](https://en.wikipedia.org/wiki/The_Goonies) was filmed in 1985.
 
 Or perhaps, this is properly two separate stories :
 

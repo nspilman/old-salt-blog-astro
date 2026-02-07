@@ -15,12 +15,12 @@ tags:
   - "Ragnarök"
   - "Skidbladnir"
   - "untrimmed fingernails and toenails"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/runestone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/runestone.jpg"
 author: "Rick Spilman"
 description: "A second post suitable for Halloween week. In Norse mythology, there were two great ships. Skidbladnir, was a ship that could carry Odin and his followers in Asgard, which also could be folded into a cloth that would fit in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/runestone.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/runestone.jpg)
 
 Naglfar and Fenrir on the Tullstorp Runestone in Scania, Sweden
 

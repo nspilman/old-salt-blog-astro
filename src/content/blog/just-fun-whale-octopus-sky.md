@@ -10,7 +10,7 @@ tags:
   - "kite"
   - "octopus"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/giantoctopuskite.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/giantoctopuskite.jpg"
 author: "Rick Spilman"
 description: "As we descend into the depths of Autumn, even if has been an unusually warm Autumn, here are two YouTube videos reminiscent of summer, when even blue whales and giant octopus can fly in the clear blue sky. In the … Continue reading &rarr;"
 ---

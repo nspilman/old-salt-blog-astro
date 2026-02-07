@@ -16,12 +16,12 @@ tags:
   - "Preussen"
   - "Royal Clipper"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/preussenfullsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/preussenfullsail.jpg"
 author: "Rick Spilman"
 description: "My wife and I are currently sailing as passengers on the cruise ship Royal Clipper, the second of only two five-masted full-rigged steel ships ever built. The first such ship was the mighty windjammer, Preussen, of 1902. The Royal Clipper, launched … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/preussenfullsail.jpg)My wife and I are currently sailing as passengers on the cruise ship [*Royal Clipper*](https://en.wikipedia.org/wiki/Royal_Clipper), the second of only two five-masted full-rigged steel ships ever built. The first such ship was the mighty windjammer, [*Preussen*](https://en.wikipedia.org/wiki/Preussen_\(ship\)), of 1902. The *Royal Clipper,* launched in 2000, was inspired by the *Preussen.* An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/preussenfullsail.jpg)My wife and I are currently sailing as passengers on the cruise ship [*Royal Clipper*](https://en.wikipedia.org/wiki/Royal_Clipper), the second of only two five-masted full-rigged steel ships ever built. The first such ship was the mighty windjammer, [*Preussen*](https://en.wikipedia.org/wiki/Preussen_\(ship\)), of 1902. The *Royal Clipper,* launched in 2000, was inspired by the *Preussen.* An updated repost.
 
 Here is an animation from a [Mariner’s Mirror podcast](https://www.youtube.com/@marinersmirrorpodcast) about the *[Preussen](https://en.wikipedia.org/wiki/Preussen_\(ship\)),* perhaps the greatest windjammer of the early twentieth century. One of the [Flying P-Liners](https://en.wikipedia.org/wiki/Flying_P-Liner), built for the F. Laeisz shipping company in 1902, she was then the only five-masted full-rigged steel commercial sailing ship ever built. 
 

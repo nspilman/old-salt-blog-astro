@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Grim news.  Late Saturday night, the wooden vessel  Hasan Reis in the Mediterranean, carrying over 260 passengers, reported to be illegal immigrants from Afghanistan, began to leak in heavy seas and subsequently sank.  The Dutch ship Momentum Scan rescued the survivors … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/u1_prosfiges-100x62.jpg)Grim news.  Late Saturday night, the wooden vessel  *Hasan Reis* in the Mediterranean, carrying over 260 passengers, reported to be illegal immigrants from Afghanistan, began to leak in heavy seas and subsequently sank.  The Dutch ship *[Momentum Scan](http://www.vesseltracker.com/nl/Ships/Momentum-Scan-9534432.html)* rescued the survivors and carried them to Corfu.  Twenty two immigrants are dead or missing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/u1_prosfiges-100x62.jpg)Grim news.  Late Saturday night, the wooden vessel  *Hasan Reis* in the Mediterranean, carrying over 260 passengers, reported to be illegal immigrants from Afghanistan, began to leak in heavy seas and subsequently sank.  The Dutch ship *[Momentum Scan](http://www.vesseltracker.com/nl/Ships/Momentum-Scan-9534432.html)* rescued the survivors and carried them to Corfu.  Twenty two immigrants are dead or missing.
 
 [“Hasan Reis” sank, 22 Afghan immigrants died](http://www.seanews.com.tr/article/HOTN/48999/Hasan-Reis-Illegal-migrants-Afghan-/)  
   

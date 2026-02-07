@@ -11,12 +11,12 @@ tags:
   - "great white shark"
   - "Hawaii"
   - "Ocean Ramsey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/deepblue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/deepblue.jpg"
 author: "Rick Spilman"
 description: "In 2013, a 20′ great white shark was caught on video by Mexican shark expert Mauricio Hoyos Padilla off Guadalupe Island. Believed to be the largest great white shark ever filmed and among the largest great whites ever encountered, she was nicknamed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/deepblue.jpg)In 2013, a 20′ great white shark was caught on video by Mexican shark expert Mauricio Hoyos Padilla off Guadalupe Island. Believed to be the largest great white shark ever filmed and among the largest great whites ever encountered, she was nicknamed “[Deep Blue](https://heavy.com/news/2015/08/deep-blue-the-shark-5-fast-facts-you-need-to-know/).” The female shark, weighing an estimated 6,000 pounds, was featured prominently in the Discovery Channel’s “Shark Week” of 2104.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/deepblue.jpg)In 2013, a 20′ great white shark was caught on video by Mexican shark expert Mauricio Hoyos Padilla off Guadalupe Island. Believed to be the largest great white shark ever filmed and among the largest great whites ever encountered, she was nicknamed “[Deep Blue](https://heavy.com/news/2015/08/deep-blue-the-shark-5-fast-facts-you-need-to-know/).” The female shark, weighing an estimated 6,000 pounds, was featured prominently in the Discovery Channel’s “Shark Week” of 2104.  
 
 A few days ago, Deep Blue was seen once again, feeding on the carcass of a dead sperm whale roughly nine miles off the coast of Hawaiian island of Oahu. Great white sharks are relatively rare in the waters around Hawaii. Marine biologist, Ocean Ramsey, and several other divers recently spent a day swimming alongside the massive shark.
 

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "You can’t make this stuff up.  A container ship owner and ship manager are suing a California pharmacy for selling prescription drugs to a harbor pilot prior to an allision with a bridge five years ago. On a very foggy morning in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/noaa2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/noaa2.jpg)
 
 Photo: US Coast Guard
 

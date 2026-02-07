@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Experts estimate that anywhere from 2,000 to 10,000 shipping containers fall off ships each year. The problem is that they do not all necessarily sink.   Some remain afloat, just on the surface, almost invisible to an observer from a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/asgard.jpg)Experts estimate that anywhere from 2,000 to 10,000 shipping containers fall off ships each year. The problem is that they do not all necessarily sink.   Some remain afloat, just on the surface, almost invisible to an observer from a  ship.    Now a draft report of the official inquiry into the sinking of the sail training vessel Asgard II suggests that the a collision with a shipping container may account for the hull damage observed on the wreck.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/asgard.jpg)Experts estimate that anywhere from 2,000 to 10,000 shipping containers fall off ships each year. The problem is that they do not all necessarily sink.   Some remain afloat, just on the surface, almost invisible to an observer from a  ship.    Now a draft report of the official inquiry into the sinking of the sail training vessel Asgard II suggests that the a collision with a shipping container may account for the hull damage observed on the wreck.
 
 [Draft report shows ‘Asgard II’ may have collided with a container before sinking](http://www.irishtimes.com/newspaper/ireland/2010/0419/1224268629241.html)  
   

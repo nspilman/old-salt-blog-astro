@@ -13,12 +13,12 @@ tags:
   - "Iberian orcas"
   - "northwestern France"
   - "yacht Bonhomme William"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "The mystifying attacks on sailboats by a pod of Iberian orcas continue. The crew of the British yacht Bonhomme William had to be rescued after an orca sank their vessel in the Strait of Gibraltar, according to Spanish authorities. It … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)The mystifying attacks on sailboats by a pod of Iberian orcas continue.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)The mystifying attacks on sailboats by a pod of Iberian orcas continue.
 
 The crew of the British yacht *Bonhomme William* had to be rescued after an orca sank their vessel in the Strait of Gibraltar, according to Spanish authorities. It is the latest in a long-running series of “interactions” between orcas and midsize sailing yachts off the coast of Spain.
 

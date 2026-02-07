@@ -10,12 +10,12 @@ tags:
   - "Megumi Igarashi"
   - "Rokudenashiko"
   - "Vagina Kayak"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/vaginaboat200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/vaginaboat200.jpg"
 author: "Rick Spilman"
 description: "We are about six months behind on this update, but it is a worthwhile topic to catch up on. In January of 2015, we posted The Vagina Kayak and Japanese Genital Politics, which was the story of a Japanese artist,  Megumi … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/01/vaginaboat.jpg)We are about six months behind on this update, but it is a worthwhile topic to catch up on. In January of 2015, we posted [The Vagina Kayak and Japanese Genital Politics](http://www.oldsaltblog.com/2015/01/the-vagina-kayak-and-japanese-genital-politics/), which was the story of a Japanese artist,  [Megumi Igarashi](http://kotaku.com/yes-the-vagina-boat-finally-became-a-reality-1576771068?rev=1405320553206), who goes by the nickname, Rokudenashiko – or “good-for-nothing girl.” She had a 3D printed plastic model of her vagina fabricated which was installed on a roto-mold kayak. Not long after the vagina kayak was completed, Igarashi was arrested on multiple obscenity charges.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/vaginaboat.jpg)We are about six months behind on this update, but it is a worthwhile topic to catch up on. In January of 2015, we posted [The Vagina Kayak and Japanese Genital Politics](http://www.oldsaltblog.com/2015/01/the-vagina-kayak-and-japanese-genital-politics/), which was the story of a Japanese artist,  [Megumi Igarashi](http://kotaku.com/yes-the-vagina-boat-finally-became-a-reality-1576771068?rev=1405320553206), who goes by the nickname, Rokudenashiko – or “good-for-nothing girl.” She had a 3D printed plastic model of her vagina fabricated which was installed on a roto-mold kayak. Not long after the vagina kayak was completed, Igarashi was arrested on multiple obscenity charges.
 
 Last May, [she won and lost her court cases](https://www.theguardian.com/world/2016/may/09/japanese-vagina-kayak-artist-found-guilty-of-obscenity). On the charge of displaying obscene material, she was found to be not guilty. The judge ruled that the brightly colored and decorated kayak on display at a Japanese sex shop did not obviously resemble female genitalia and could not be considered obscene.
 

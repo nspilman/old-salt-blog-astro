@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Glenlee, a three-masted baldheaded steel-hulled barque, launched on December 3, 1896, has moved to a new home on the River Clyde in Glasgow at the new Riverside Museum. Tall ship Glenlee moves to new home on the Clyde … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/glenlee.jpg)The *[Glenlee](http://en.wikipedia.org/wiki/Glenlee_\(ship\))*, a three-masted baldheaded steel-hulled barque, launched on December 3, 1896, has moved to a new home on the River Clyde in Glasgow at the new [Riverside Museum](http://www.thetallship.com/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/glenlee.jpg)The *[Glenlee](http://en.wikipedia.org/wiki/Glenlee_\(ship\))*, a three-masted baldheaded steel-hulled barque, launched on December 3, 1896, has moved to a new home on the River Clyde in Glasgow at the new [Riverside Museum](http://www.thetallship.com/).
 
 [Tall ship Glenlee moves to new home on the Clyde](http://news.stv.tv/scotland/west-central/247173-tall-ship-glenlee-moves-to-new-home-on-the-clyde/)  
   

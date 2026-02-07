@@ -12,12 +12,12 @@ tags:
   - "Mikhail Pichugin"
   - "Sakhalin Island"
   - "Sea of Okhotsk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/Okhotskrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/Okhotskrescue.jpg"
 author: "Rick Spilman"
 description: "In early August, Mikhail Pichugin, 46, set off in a small inflatable boat to watch whales in the stormy Sea of Okhotsk with his 49-year-old brother and 15-year-old nephew. They went missing after departing from Cape Perovsky bound for Sakhalin … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/Okhotskrescue.jpg)In early August, Mikhail Pichugin, 46, set off in a small inflatable boat to watch whales in the stormy [Sea of Okhotsk](https://en.wikipedia.org/wiki/Sea_of_Okhotsk) with his 49-year-old brother and 15-year-old nephew. They went missing after departing from Cape Perovsky bound for Sakhalin Island in the Khabarovsk region on August 9. After being reported missing, a rescue effort was launched but failed to locate the boat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/Okhotskrescue.jpg)In early August, Mikhail Pichugin, 46, set off in a small inflatable boat to watch whales in the stormy [Sea of Okhotsk](https://en.wikipedia.org/wiki/Sea_of_Okhotsk) with his 49-year-old brother and 15-year-old nephew. They went missing after departing from Cape Perovsky bound for Sakhalin Island in the Khabarovsk region on August 9. After being reported missing, a rescue effort was launched but failed to locate the boat.
 
 Sixty-seven days later, when the crew of the fishing vessel spotted the inflatable on their radar, only Mikhail Pichugin had survived. The boat was drifting about 11 nautical miles off Kamchatka’s shore, about 1,000 kilometers (about 540 nautical miles) from their departure point on the other side of the Sea of Okhotsk.
 

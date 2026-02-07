@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "When on a cruise vacation, I can imagine nothing less relaxing than worrying that the cruise line vacation planner might have given your home address to thieves, who were breaking into your house as you waited in line for the midnight buffet on the cruise ship. Bethsaida Sandoval, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/royalcaribb.jpg)When on a cruise vacation, I can imagine nothing less relaxing than worrying that the cruise line vacation planner might have given your home address to thieves, who were breaking into your house as you waited in line for the midnight buffet on the cruise ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/royalcaribb.jpg)When on a cruise vacation, I can imagine nothing less relaxing than worrying that the cruise line vacation planner might have given your home address to thieves, who were breaking into your house as you waited in line for the midnight buffet on the cruise ship.
 
 Bethsaida Sandoval, a vacation planner for Royal Caribbean, has been charged supplying her husband with passenger information which he then used to burglarize their homes while the passengers were on vacation.   Ms.  Sandoval and her husband, John Lopez,  have been each charged with 20 counts of burglary and one count of racketeering. She is no longer employed by Royal Caribbean.
 

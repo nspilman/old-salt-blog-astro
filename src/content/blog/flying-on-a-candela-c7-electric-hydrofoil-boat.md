@@ -10,12 +10,12 @@ tags:
   - "all-electric hydrofoil speed boats"
   - "Candela"
   - "carbon fiber"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/candela7.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/candela7.jpg"
 author: "Rick Spilman"
 description: "On Saturday, we posted about the world’s largest electric ferry. Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water. Candela Speed Boat AB has been referred to by Bloomberg as \"Sweden’s Tesla … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/candela7.jpg)On Saturday, we posted about the [world’s largest electric ferry](http://www.oldsaltblog.com/2021/11/basto-electric-worlds-largest-electric-ferry-in-service-in-norway/). Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/candela7.jpg)On Saturday, we posted about the [world’s largest electric ferry](http://www.oldsaltblog.com/2021/11/basto-electric-worlds-largest-electric-ferry-in-service-in-norway/). Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water.
 
 [Candela Speed Boat AB](https://candela.com/) has been referred to by Bloomberg as “[Sweden’s Tesla of the Sea](https://www.bloomberg.com/news/articles/2021-08-26/sweden-s-tesla-of-the-sea-challenges-fossil-fueled-speedboats).” The firm is developing high-efficiency all-electric hydrofoil speed boats. Built of carbon fiber, once on foils the Candela uses 75% less energy than a conventional planing boat. The 25′ long Candela C-7 requires just 28 horsepower to fly along at 20 knots. The C-7 is capable of cruising for 50 nautical miles at 23 knots on a single charge.
 

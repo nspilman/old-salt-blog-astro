@@ -10,12 +10,12 @@ tags:
   - "RXR Realty"
   - "SS United States"
   - "SS United States Conservancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "The once-grand passenger liner SS United States may be moving closer to conversion and restoration to a floating hotel, hospitality space, and museum.  RXR Realty, a real estate owner, operator, and developer in the New York Tri-State area, has partnered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)The once-grand passenger liner [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) may be moving closer to conversion and restoration to a floating hotel, hospitality space, and museum.  [RXR Realty](https://rxrrealty.com/), a real estate owner, operator, and developer in the New York Tri-State area, has partnered with the [SS United States Conservancy](http://www.ssusc.org/) to develop the ship as a waterfront destination.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg)The once-grand passenger liner [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) may be moving closer to conversion and restoration to a floating hotel, hospitality space, and museum.  [RXR Realty](https://rxrrealty.com/), a real estate owner, operator, and developer in the New York Tri-State area, has partnered with the [SS United States Conservancy](http://www.ssusc.org/) to develop the ship as a waterfront destination.
 
 The SS *United States* was delivered in 1952 for [United States Lines](https://en.wikipedia.org/wiki/United_States_Lines). She was the largest and fastest passenger liner ever built in the United States and still holds the record as fastest ocean liner to cross the Atlantic in either direction, earning the [Blue Riband](https://en.wikipedia.org/wiki/Blue_Riband) on her maiden voyage. She operated as a trans-Atlantic passenger liner until she was taken out of service in 1969. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "After completing his 10th circumnavigation of the globe under sail in December of 2017 at the age of 77, legendary West Australian sailor Jon Sanders said that he was done. He said that the 10th trip around would be his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/jonsanders2019.jpg)After completing his [10th circumnavigation of the globe](https://www.sail-world.com/news/200504/Jon-Sanders-completes-record-10th-circumnavigation) under sail in December of 2017 at the age of 77, legendary West Australian sailor [Jon Sanders](https://en.wikipedia.org/wiki/Jon_Sanders) said that he was done. He said that the 10th trip around would be his last. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/jonsanders2019.jpg)After completing his [10th circumnavigation of the globe](https://www.sail-world.com/news/200504/Jon-Sanders-completes-record-10th-circumnavigation) under sail in December of 2017 at the age of 77, legendary West Australian sailor [Jon Sanders](https://en.wikipedia.org/wiki/Jon_Sanders) said that he was done. He said that the 10th trip around would be his last. 
 
 A year and a half later, he is telling the [West Australian](https://thewest.com.au/sport/sailing/jon-sanders-to-circumnavigate-the-globe-in-his-yacht-for-the-11th-time-ng-b881231020z) a different story. At 79, he is getting ready for his 11th circumnavigation on his 34-foot *Perie Banou II*. 
 

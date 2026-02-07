@@ -14,7 +14,7 @@ tags:
   - "Pacific"
   - "US Navy"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/midwaydivebombers.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/midwaydivebombers.jpg"
 author: "Rick Spilman"
 description: "The Battle of Midway, fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it \"the most stunning and decisive … Continue reading &rarr;"
 ---

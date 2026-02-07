@@ -11,7 +11,7 @@ tags:
   - "87’ Patrol Boat"
   - "Erin Edwards"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/uscg87.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/uscg87.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video by Erin Edwards, a First Class Cadet at the US Coast Guard Academy. She gives us a quick tour of an 87′ patrol boat. THE REAL COAST GUARD || Life on an 87’ Patrol … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "Everett Pearson"
   - "fiberglass yachts"
   - "Pearson Yachts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/clintonpearson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/clintonpearson.jpg"
 author: "Rick Spilman"
 description: "Clinton J. Pearson, a pioneer in building fiberglass yachts, passed away on April 4, 2020, at the age of 91. With his cousin, Everett Pearson, Clinton began building fiberglass dinghies in their garage in Seekonk, MA in 1955. The venture … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/clintonpearson.jpg)Clinton J. Pearson, a pioneer in building fiberglass yachts, passed away on April 4, 2020, at the age of 91.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/clintonpearson.jpg)Clinton J. Pearson, a pioneer in building fiberglass yachts, passed away on April 4, 2020, at the age of 91.
 
 With his cousin, [Everett Pearson](http://www.oldsaltblog.com/2018/01/everett-pearson-founding-father-fiberglass/), Clinton began building fiberglass dinghies in their garage in Seekonk, MA in 1955. The venture would grow into  [Pearson Yachts](https://en.wikipedia.org/wiki/Pearson_Yachts). Their first auxiliary sailboat, the [Triton 28,](http://sailboatdata.com/viewrecord.asp?class_id=508) was launched at the New York Boat Show of 1959 and was an immediate success. The company grew rapidly and in 1961 was acquired by Grumman Allied Industries.
 

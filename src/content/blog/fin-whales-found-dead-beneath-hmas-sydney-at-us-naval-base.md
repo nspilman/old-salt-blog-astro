@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As if anyone needed a reminder of how vulnerable whales are to ship strikes, when HMAS Sydney pulled into Naval Base San Diego over the weekend, it brought with it a grim cargo. The carcasses of two fin whales were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/finwhalesydney.jpg)As if anyone needed a reminder of how vulnerable whales are to ship strikes, when [HMAS *Sydney*](https://en.wikipedia.org/wiki/HMAS_Sydney_\(D48\)) pulled into Naval Base San Diego over the weekend, it brought with it a grim cargo. The carcasses of [two fin whales were dislodged](https://www.news.com.au/technology/environment/fin-whale-carcasses-dislodged-from-hmas-sydney-at-us-naval-base/news-story/e07ab72aceec88eabbe0089e5117e964) from beneath the hull of the Royal Australian Navy destroyer. One whale was 20m long while the other was about 8m and are suspected to have been a mother and a calf.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/finwhalesydney.jpg)As if anyone needed a reminder of how vulnerable whales are to ship strikes, when [HMAS *Sydney*](https://en.wikipedia.org/wiki/HMAS_Sydney_\(D48\)) pulled into Naval Base San Diego over the weekend, it brought with it a grim cargo. The carcasses of [two fin whales were dislodged](https://www.news.com.au/technology/environment/fin-whale-carcasses-dislodged-from-hmas-sydney-at-us-naval-base/news-story/e07ab72aceec88eabbe0089e5117e964) from beneath the hull of the Royal Australian Navy destroyer. One whale was 20m long while the other was about 8m and are suspected to have been a mother and a calf.
 
 HMAS *Sydney* has been in the area conducting joint exercises with the US Navy since early April.
 

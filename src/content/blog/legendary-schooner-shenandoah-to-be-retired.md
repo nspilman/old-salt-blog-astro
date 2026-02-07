@@ -14,12 +14,12 @@ tags:
   - "Martha’s Vineyard Ocean Academy"
   - "schooner"
   - "Shenandoah"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/shenandoah.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/shenandoah.jpg"
 author: "Rick Spilman"
 description: "Sad news reported by the Vineyard Gazette. After 63 years sailing the waters around Martha’s Vineyard, the legendary schooner Shenandoah will sail her last season next summer. Martha’s Vineyard Ocean Academy, the educational nonprofit that currently owns and operates Shenandoah, … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/shenandoah.jpg)Sad news reported by the [Vineyard Gazette](https://vineyardgazette.com/news/2025/07/15/winds-change-come-historic-shenandoah-schooner). After 63 years sailing the waters around Martha’s Vineyard, the legendary schooner [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_\(schooner\)) will sail her last season next summer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/shenandoah.jpg)Sad news reported by the [Vineyard Gazette](https://vineyardgazette.com/news/2025/07/15/winds-change-come-historic-shenandoah-schooner). After 63 years sailing the waters around Martha’s Vineyard, the legendary schooner [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_\(schooner\)) will sail her last season next summer.
 
 [Martha’s Vineyard Ocean Academy](https://mvoceanacademy.org/), the educational nonprofit that currently owns and operates *Shenandoah*, announced that the final voyage will take place at the end of the 2026 summer season.
 

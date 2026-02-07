@@ -11,12 +11,12 @@ tags:
   - "fish"
   - "lobster"
   - "Teesside"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/teesside.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/teesside.jpg"
 author: "Rick Spilman"
 description: "Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the \"worst case … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/teesside.jpg)Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the “worst case ever seen” and “[apocalyptic](https://www.theguardian.com/uk-news/2021/oct/29/apocalyptic-dead-crabs-litter-beaches-north-east-england),” an investigation is underway to attempt to determine the cause.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/teesside.jpg)Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the “worst case ever seen” and “[apocalyptic](https://www.theguardian.com/uk-news/2021/oct/29/apocalyptic-dead-crabs-litter-beaches-north-east-england),” an investigation is underway to attempt to determine the cause.
 
 An Environment Agency spokesperson said: “Samples of water, sediment, mussel and crab have been collected and are being sent to our labs for analysis, to consider whether a pollution incident could have contributed to the deaths of the animals.”
 

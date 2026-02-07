@@ -11,12 +11,12 @@ tags:
   - "brawl"
   - "clown"
   - "P&amp;O Britannia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/pobritannia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/pobritannia.jpg"
 author: "Rick Spilman"
 description: "In the general category of you can’t make this stuff up, in early hours of Friday morning, a mass brawl broke out on the P&O Britannia, in which passengers used furniture and plates as weapons, according to witnesses. Six people—three … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/pobritannia.jpg)In the general category of you can’t make this stuff up, in early hours of Friday morning, a mass brawl broke out on the P&O Britannia, in which passengers used furniture and plates as weapons, according to witnesses. Six people—three men and three women—were treated for bruises and cuts sustained in the melee. The ship was returning from a week-long cruise to Norway’s fjords. The brawl reportedly followed an alcohol-fuelled afternoon of “patriotic” partying on the ship’s deck.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/pobritannia.jpg)In the general category of you can’t make this stuff up, in early hours of Friday morning, a mass brawl broke out on the P&O Britannia, in which passengers used furniture and plates as weapons, according to witnesses. Six people—three men and three women—were treated for bruises and cuts sustained in the melee. The ship was returning from a week-long cruise to Norway’s fjords. The brawl reportedly followed an alcohol-fuelled afternoon of “patriotic” partying on the ship’s deck.
 
 Here is where things get really odd. Early reports from multiple witnesses report that the brawl was triggered by the arrival of a man wearing a clown suit at a party in an upper deck restaurant on the ship.
 

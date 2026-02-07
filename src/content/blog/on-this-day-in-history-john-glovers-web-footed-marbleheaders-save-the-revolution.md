@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On August 29th, 1776, George Washington faced certain defeat.  Howe had been able to flank the Americans in Brooklyn, turning the Battle of Long Island into a rout. Washington was left with the remnants of his army on Brooklyn Heights, with the East River … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/Glover-statue.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Glover-statue.jpg)
 
 John Glover
 

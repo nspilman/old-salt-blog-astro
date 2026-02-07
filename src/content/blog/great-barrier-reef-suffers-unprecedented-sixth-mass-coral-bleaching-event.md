@@ -11,12 +11,12 @@ tags:
   - "Great Barrier Reef"
   - "Great Barrier Reef Marine Park Authority"
   - "La Niña"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/gbrbleach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/gbrbleach.jpg"
 author: "Rick Spilman"
 description: "Australia’s Great Barrier Reef has been hit with a sixth mass coral bleaching event, the marine park’s authority has confirmed, with aerial surveys showing almost no reefs across a 1,200km stretch escaping the heat, as reported by the Guardian. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/gbrbleach.jpg)Australia’s Great Barrier Reef has been hit with a sixth mass coral bleaching event, the marine park’s authority has confirmed, with aerial surveys showing almost no reefs across a 1,200km stretch escaping the heat, as reported by the [Guardian](https://www.theguardian.com/environment/2022/mar/25/we-need-action-immediately-great-barrier-reef-authority-confirms-sixth-mass-coral-bleaching-event).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/gbrbleach.jpg)Australia’s Great Barrier Reef has been hit with a sixth mass coral bleaching event, the marine park’s authority has confirmed, with aerial surveys showing almost no reefs across a 1,200km stretch escaping the heat, as reported by the [Guardian](https://www.theguardian.com/environment/2022/mar/25/we-need-action-immediately-great-barrier-reef-authority-confirms-sixth-mass-coral-bleaching-event).
 
 The confirmation from the Great Barrier Reef Marine Park Authority (GBRMPA) marks an alarming milestone for the ocean icon, with 2022 going down as the first time mass bleaching has happened in a cooler La Niña year which scientists had hoped would be a period of recovery for corals.
 

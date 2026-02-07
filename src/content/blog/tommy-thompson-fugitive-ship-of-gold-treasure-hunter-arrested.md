@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "\"Ship of Gold\" Treasure-hunter Tommy Thompson's two years on the run has come to an end.  He was arrested yesterday in a Palm Beach, Florida hotel."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2014/09/TTbillboard.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/TTbillboard.jpg)  
 Tommy Thompson’s two years on the run has come to an end.  He was arrested yesterday in a Palm Beach, Florida hotel.  Thompson was arrested along with his longtime companion, Alison Anteiker.
 
 In September, [we posted](Palm%20Beach) about the continued recovery of gold, jewelry and other valuable artifacts from the wreck of the steamer [SS*Central America*](http://en.wikipedia.org/wiki/SS_Central_America) which sank in 1857. Known as “the Ship of Gold,” the wreck of the ship believed to be carrying between 3 and 21 tons of gold from the California gold rush, was discovered by the Columbus-America Discovery Group, led by Tommy Thompson, after a decade long search.  Thompson was sued by his investors in 2005, when they did not receive promised returns from the over $100 million of cargo recovered in the initial salvage. Thompson went into hiding in 2012 and has been sought by US Marshalls on outstanding warrants. Notwithstanding his legal and financial problems, Thompson is recognized as a gifted engineer who pioneered many modern techniques in underwater salvage.

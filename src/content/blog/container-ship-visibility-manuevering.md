@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "One recurring comment related to the collision between the USS Fitzgerald and the container ship ACX Crystal was that the container ship might not have been able to see the destroyer over the containers stacked on deck. There are photographs … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/acxcrystal.jpg)One recurring comment related to the [collision between the USS *Fitzgerald* and the container ship ACX *Crystal*](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-collides-container-ship-seven-missing/) was that the container ship might not have been able to see the destroyer over the containers stacked on deck. There are photographs of containers on ACX *Crystal* [stacked five high on deck](https://www.marinetraffic.com/en/photos/of/ships/shipid:722169/#forward) forward of the house. Exactly how far forward did the ship’s blind spot extend? Was the view of of the USS *Fitzgerald* obscured by the containers stowed on the 2,858 TEU container ship? Are standards for container ship visibility too lax?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/acxcrystal.jpg)One recurring comment related to the [collision between the USS *Fitzgerald* and the container ship ACX *Crystal*](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-collides-container-ship-seven-missing/) was that the container ship might not have been able to see the destroyer over the containers stacked on deck. There are photographs of containers on ACX *Crystal* [stacked five high on deck](https://www.marinetraffic.com/en/photos/of/ships/shipid:722169/#forward) forward of the house. Exactly how far forward did the ship’s blind spot extend? Was the view of of the USS *Fitzgerald* obscured by the containers stowed on the 2,858 TEU container ship? Are standards for container ship visibility too lax?
 
 No doubt the answers to these questions will be answered in the multiple ongoing investigations. The answers will depend on the specifics of the container stow plan on the [ACX *Crystal*](https://en.wikipedia.org/wiki/MV_ACX_Crystal) as well as the ship’s draft and trim.
 
@@ -27,7 +27,7 @@ Specifically, “the view of the sea surface from the conning position shall not
 
 In the case of the ACX *Crystal*, the SOLAS allowable blind spot is about 445 meters (1,461′) or just under a quarter nautical mile.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/vizPC1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/vizPC1.jpg)
 
 Panama Canal Visibility Standards
 

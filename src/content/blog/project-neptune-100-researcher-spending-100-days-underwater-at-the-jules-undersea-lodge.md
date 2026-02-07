@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Jules Undersea Lodge is the only underwater hotel in the United States. Located 30 feet (9 m) deep at the bottom of the Emerald Lagoo in Key Largo, Florida, guests have to scuba dive to get to their rooms. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/neptune100.jpg)The [Jules Undersea Lodge](https://jul.com/about-us/) is the only underwater hotel in the United States. Located 30 feet (9 m) deep at the bottom of the Emerald Lagoo in Key Largo, Florida, guests have to scuba dive to get to their rooms. The hotel’s name comes from the novelist Jules Verne, author of [*20,000 Leagues Under the Sea*](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas). Scuba certification is required for entrance as the front door is located 21 feet (6.4 m) under water.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/neptune100.jpg)The [Jules Undersea Lodge](https://jul.com/about-us/) is the only underwater hotel in the United States. Located 30 feet (9 m) deep at the bottom of the Emerald Lagoo in Key Largo, Florida, guests have to scuba dive to get to their rooms. The hotel’s name comes from the novelist Jules Verne, author of [*20,000 Leagues Under the Sea*](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas). Scuba certification is required for entrance as the front door is located 21 feet (6.4 m) under water.
 
 Jules’ Undersea Lodge was formerly the [La Chalupa Research Laboratory](https://en.wikipedia.org/wiki/Underwater_habitat#La_Chalupa_research_laboratory), an undersea marine lab operated off Puerto Rico in the 1970s.
 

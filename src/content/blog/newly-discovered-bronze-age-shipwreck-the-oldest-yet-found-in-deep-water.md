@@ -12,12 +12,12 @@ tags:
   - "Bronze Age shipwreck"
   - "Canaanite amphorae"
   - "Israel Antiquities Authority"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/bronzeageshipwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/bronzeageshipwreck.jpg"
 author: "Rick Spilman"
 description: "Last July, a routine oil and gas survey discovered hundreds of intact amphorae – ancient storage jars – believed to be 3,300 years old, in a shipwreck located 90km (56 miles) off the northern coast of Israel on the sea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/bronzeageshipwreck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/bronzeageshipwreck.jpg)
 
 Photo: Israel Antiquities Authority
 

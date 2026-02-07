@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The called themselves the Wild Vikings.  They were to be the \"new generation of explorers.\"  From their website: The crew onboard Berserk II wish to pick up the old Norsemen traditions opposed to todays so called \"civilized\" and often artificial … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/berserk1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/berserk1.jpg)
 
 The called themselves the Wild Vikings.  They were to be the “new generation of explorers.”  From their [website](http://www.wildvikings.com/):
 

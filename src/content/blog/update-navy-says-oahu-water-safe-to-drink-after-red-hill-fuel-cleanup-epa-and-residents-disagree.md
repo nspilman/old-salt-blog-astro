@@ -14,12 +14,12 @@ tags:
   - "Red Hill"
   - "Red Hill Bulk Fuel Storage Facility"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg"
 author: "Rick Spilman"
 description: "Toward the end of December, the US Navy’s Red Hill Bulk Fuel Storage Facility at Pearl Harbor, Hawaii was drained of fuel, after chronic fuel oil leaks into Oahu’s sole drinking-water aquifer from the World War II era underground tanks. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg)Toward the end of December, the US Navy’s [Red Hill Bulk Fuel Storage Facility](https://www.oldsaltblog.com/2022/07/report-navy-failed-to-prevent-respond-to-hawaiis-red-hill-fuel-leaks/) at Pearl Harbor, Hawaii was drained of fuel, after chronic fuel oil leaks into Oahu’s sole drinking-water aquifer from the World War II era underground tanks. Now that the [final tanker has sailed](https://maritime-executive.com/article/final-tanker-leaves-pearl-harbor-with-the-last-of-red-hill-s-fuel), loaded with the last jet fuel from the vast underground tank farm, the Navy says that Oahu’s water supply is again safe to drink. Local residents, backed by a recent [report of an investigation by the Environmental Protection Agency (EPA)](https://www.usatoday.com/story/news/politics/2024/01/08/url-navy-petroleum-pearl-harbor-oahu-hawaii-epa/72034092007/), disagree.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill-1.jpg)Toward the end of December, the US Navy’s [Red Hill Bulk Fuel Storage Facility](https://www.oldsaltblog.com/2022/07/report-navy-failed-to-prevent-respond-to-hawaiis-red-hill-fuel-leaks/) at Pearl Harbor, Hawaii was drained of fuel, after chronic fuel oil leaks into Oahu’s sole drinking-water aquifer from the World War II era underground tanks. Now that the [final tanker has sailed](https://maritime-executive.com/article/final-tanker-leaves-pearl-harbor-with-the-last-of-red-hill-s-fuel), loaded with the last jet fuel from the vast underground tank farm, the Navy says that Oahu’s water supply is again safe to drink. Local residents, backed by a recent [report of an investigation by the Environmental Protection Agency (EPA)](https://www.usatoday.com/story/news/politics/2024/01/08/url-navy-petroleum-pearl-harbor-oahu-hawaii-epa/72034092007/), disagree.
 
 The [EPA findings have sparked inquiries](https://www.usatoday.com/story/news/politics/2024/01/08/url-navy-petroleum-pearl-harbor-oahu-hawaii-epa/72034092007/) into the Navy’s water distribution center and plumbing in Pearl Harbor Homes. While the Navy examines residents’ plumbing, a citizens group is urging the Navy to take further safety measures.
 

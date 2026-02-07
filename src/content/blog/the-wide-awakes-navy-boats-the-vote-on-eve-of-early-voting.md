@@ -14,12 +14,12 @@ tags:
   - "Shequida Hall"
   - "Wide Awakes"
   - "Wide Awakes Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/operaboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/operaboat.jpg"
 author: "Rick Spilman"
 description: "On the eve of the first day of early voting in New York, an exquisite mix of music and the sound of merriment rose from the murky waters of the Gowanus Canal as the Wide Awakes Navy and the Gowanus … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/operaboat.jpg)On the eve of the first day of early voting in New York, an exquisite mix of music and the sound of merriment rose from the murky waters of the Gowanus Canal as the [Wide Awakes Navy](https://www.instagram.com/wideawakesnavy/) and the [Gowanus Dredgers](http://www.gowanuscanal.org/) hosted a “[Boat the Vote](https://www.facebook.com/hashtag/boatthevote)” rally. Dozens of kayaks and small boats floated in the 4th Street basin while fellow supporters lined the shore, as [Shequida Hall](https://en.wikipedia.org/wiki/Shequida), a classically trained drag queen opera singer serenaded the assembled, backed up by French horn quartet, the [Metropolitan Horn Authority](https://www.facebook.com/MHAquartet/). The acoustics, visuals, and spirit of the event were said to be amazing. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/operaboat.jpg)On the eve of the first day of early voting in New York, an exquisite mix of music and the sound of merriment rose from the murky waters of the Gowanus Canal as the [Wide Awakes Navy](https://www.instagram.com/wideawakesnavy/) and the [Gowanus Dredgers](http://www.gowanuscanal.org/) hosted a “[Boat the Vote](https://www.facebook.com/hashtag/boatthevote)” rally. Dozens of kayaks and small boats floated in the 4th Street basin while fellow supporters lined the shore, as [Shequida Hall](https://en.wikipedia.org/wiki/Shequida), a classically trained drag queen opera singer serenaded the assembled, backed up by French horn quartet, the [Metropolitan Horn Authority](https://www.facebook.com/MHAquartet/). The acoustics, visuals, and spirit of the event were said to be amazing. 
 
 In 1860, the Wide Awakes were a group of abolitionists who worked to support the election of Abe Lincoln. Today, a new incarnation of the [Wide Awakes](https://www.nytimes.com/2020/09/15/style/wide-awakes-civil-war-activists.html) are also organizing around racial justice, immigration, and workers’ rights prior to another pivotal presidential election.
 

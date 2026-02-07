@@ -13,12 +13,12 @@ tags:
   - "Tethys"
   - "Tidal Turbine"
   - "underwater turbines"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/Horizontal-turbine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/Horizontal-turbine.jpg"
 author: "Rick Spilman"
 description: "Our recent posts about tidal turbines to create clean energy have raised interesting comments and questions about the impact of the underwater turbines on fish and mammals. Will seals, seabirds, and fish be sliced and diced by underwater turbines? Will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/Horizontal-turbine.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/Horizontal-turbine.jpg)
 
 Ocean Renewable Power Company (ORPC) Tidal Turbine
 

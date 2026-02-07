@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Chinese farmers have introduced diving pigs as a source of entertainment and because diving pigs are healthier, leaner and tastier."
 ---
 
-![divingpigs](http://www.oldsaltblog.com/wp-content/uploads/2015/05/divingpigs.jpg)
+![divingpigs](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/divingpigs.jpg)
 
 Pigs leap from a diving platform at Shiyan Lake in Changsha, Hunan Province. Photo: Hunan Daily
 

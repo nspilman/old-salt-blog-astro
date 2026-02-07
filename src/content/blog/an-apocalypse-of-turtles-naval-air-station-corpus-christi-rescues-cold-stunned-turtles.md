@@ -13,12 +13,12 @@ tags:
   - "Naval Air Station Corpus Christi"
   - "turtles"
   - "Will Bellamy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/coldturtles.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/coldturtles.jpg"
 author: "Rick Spilman"
 description: "As bitterly cold weather left millions without power in Texas, the extreme cold has also been a disaster for wildlife, including sea turtles. Thousands of green sea turtles in the water of Laguna Madre off Corpus Christi have become stunned … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/coldturtles.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/coldturtles.jpg)
 
 Will Bellamy with his son Jerome rescued sea turtles in Texas. (Will Bellamy)
 

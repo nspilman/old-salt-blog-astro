@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Crowley Establishing Flow of Relief Cargo Into Haiti Crowley Maritime Corporation, working under contract with the U.S. Transportation Command (USTRANSCOM), is unloading Haiti relief cargo in Rio Haina, Dominican Republic, today. Fifty six of the 68 20-foot containers of water … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/logo_color.gif)[Crowley Establishing Flow of Relief Cargo Into Haiti](http://www.joc.com/node/416154)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/logo_color.gif)[Crowley Establishing Flow of Relief Cargo Into Haiti](http://www.joc.com/node/416154)
 
 *Crowley Maritime Corporation, working under contract with the U.S. Transportation Command (USTRANSCOM), is unloading Haiti relief cargo in Rio Haina, Dominican Republic, today. Fifty six of the 68 20-foot containers of water and meals-ready-to-eat (MREs) will be trucked across the border into Haiti.*  
   

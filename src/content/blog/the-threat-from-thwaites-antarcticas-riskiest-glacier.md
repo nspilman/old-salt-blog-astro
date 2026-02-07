@@ -13,12 +13,12 @@ tags:
   - "sea level rise"
   - "The International Thwaites Glacier Collaboration"
   - "Thwaites"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/thwaites.jpg"
 author: "Rick Spilman"
 description: "At a meeting of the American Geophysical Union yesterday, scientists from The International Thwaites Glacier Collaboration (ITGC) discussed the rapid retreat of Thwaites glacier and the implications that will have on our planet in the coming years. Thwaites, often referred … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg)At a meeting of the [American Geophysical Union](https://www.agu.org/) yesterday, scientists from The [International Thwaites Glacier Collaboration](https://thwaitesglacier.org/) (ITGC) discussed the rapid retreat of [Thwaites glacier](https://en.wikipedia.org/wiki/Thwaites_Glacier) and the implications that will have on our planet in the coming years. Thwaites, often referred to as the Doomsday Glacier, is massive, the size of Florida or Britain, and currently contributes four percent of annual global sea-level rise. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/thwaites.jpg)At a meeting of the [American Geophysical Union](https://www.agu.org/) yesterday, scientists from The [International Thwaites Glacier Collaboration](https://thwaitesglacier.org/) (ITGC) discussed the rapid retreat of [Thwaites glacier](https://en.wikipedia.org/wiki/Thwaites_Glacier) and the implications that will have on our planet in the coming years. Thwaites, often referred to as the Doomsday Glacier, is massive, the size of Florida or Britain, and currently contributes four percent of annual global sea-level rise. 
 
 Thwaites glacier is retreating rapidly as a warming ocean slowly erases its ice from below, leading to faster flow, more fracturing, and a threat of collapse, according to an international team of scientists. If it does collapse, global sea levels could rise by several feet—putting millions of people living in coastal cities in danger zones for extreme flooding. The ice shelf, currently helping to restrain the glacier, could collapse within the next [five to 10 years](https://www.bbc.com/news/science-environment-59644494). 
 

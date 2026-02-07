@@ -13,12 +13,12 @@ tags:
   - "Rachelle Hruska MacPherson"
   - "Sean MacPherson"
   - "surfing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/MacPhereson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/MacPhereson.jpg"
 author: "Rick Spilman"
 description: "When Janet MacPherson started surfing around 1955, she was a rarity in a sport dominated by men. In those days, male surfers would sometimes throw rocks at her because they didn’t want a woman on their waves. She overcame the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/MacPhereson.jpg)When Janet MacPherson started surfing around 1955, she was a rarity in a sport dominated by men. In those days, male surfers would sometimes throw rocks at her because they didn’t want a woman on their waves. She overcame the initial resistance to become a surfing icon, known worldwide and revered in her native Malibu in Southern California. Remarkably, she continued surfing for more than 60 years, riding the waves through her 70s and into her 80s. She died on March 5th, at age 84, of cancer in her home on Carbon Beach in Malibu. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/MacPhereson.jpg)When Janet MacPherson started surfing around 1955, she was a rarity in a sport dominated by men. In those days, male surfers would sometimes throw rocks at her because they didn’t want a woman on their waves. She overcame the initial resistance to become a surfing icon, known worldwide and revered in her native Malibu in Southern California. Remarkably, she continued surfing for more than 60 years, riding the waves through her 70s and into her 80s. She died on March 5th, at age 84, of cancer in her home on Carbon Beach in Malibu. 
 
 Janet MacPherson often surfed with her son, Sean MacPherson, a well-known hotelier. She rode the waves while pregnant with him in New Zealand in the mid-1960s. “I was surfing before I was born,” he once told [The New York Times](https://www.nytimes.com/2010/08/15/nyregion/15routine.html).
 

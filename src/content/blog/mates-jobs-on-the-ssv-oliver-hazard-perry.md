@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The SSV Oliver Hazard Perry organization is looking for Licensed Mates. The tall ship is Rhode Island’s official Sailing Education Vessel."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2014/03/ohprendering.jpg)The [SSV *Oliver Hazard Perry*](http://www.ohpri.org/) organization is looking for Licensed Mates.  The 200-foot square-rigged tall ship *Oliver Hazard Perry*  is Rhode Island’s official Sailing Education Vessel, the largest of its kind to have been built in this country in the last 100 years.  A great opportunity for those with the right experience and credentials.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ohprendering.jpg)The [SSV *Oliver Hazard Perry*](http://www.ohpri.org/) organization is looking for Licensed Mates.  The 200-foot square-rigged tall ship *Oliver Hazard Perry*  is Rhode Island’s official Sailing Education Vessel, the largest of its kind to have been built in this country in the last 100 years.  A great opportunity for those with the right experience and credentials.
 
 **Licensed Mates Job Description**:
 

@@ -11,12 +11,12 @@ tags:
   - "Philly Shipyard"
   - "TOTE"
   - "training ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/nsmv.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/nsmv.jpg"
 author: "Rick Spilman"
 description: "Today, steel was cut for the first National Security Multi-Mission Vessel (NSMV) at Philly Shipyard, Inc. The NSMV is designed to be a state-of-the-art training vessel for America’s state maritime academies. The ship will also be available to support humanitarian … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/nsmv.jpg)Today, steel was cut for the first [National Security Multi-Mission Vessel (NSMV)](https://www.maritime.dot.gov/newsroom/press-releases/national-security-multi-mission-vessel-achieves-first-construction) at [Philly Shipyard, Inc.](http://www.phillyshipyard.com/) The NSMV is designed to be a state-of-the-art training vessel for America’s state maritime academies. The ship will also be available to support humanitarian assistance and disaster relief missions. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/nsmv.jpg)Today, steel was cut for the first [National Security Multi-Mission Vessel (NSMV)](https://www.maritime.dot.gov/newsroom/press-releases/national-security-multi-mission-vessel-achieves-first-construction) at [Philly Shipyard, Inc.](http://www.phillyshipyard.com/) The NSMV is designed to be a state-of-the-art training vessel for America’s state maritime academies. The ship will also be available to support humanitarian assistance and disaster relief missions. 
 
 In May 2019, MARAD awarded [TOTE Services](http://www.toteservices.com/), LLC, a company involved in ship management, marine operations, and vessel services, a contract to be the Vessel Construction Manager (VCM) for the NSMV program. In April 2020, TOTE Services awarded Philly Shipyard, Inc. a contract to construct up to five NSMVs.
 

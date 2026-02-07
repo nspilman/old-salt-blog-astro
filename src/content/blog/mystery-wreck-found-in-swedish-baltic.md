@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Recently a very interesting shipwreck was discovered in the waters between the islands of Gotland and Öland off the east coast of Sweden.  The article seems to claim that it is the \"world’s intact oldest wreck\" though most apparently think … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/34952.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/34952.jpg)
 
 Photo: Ocean Recycling
 

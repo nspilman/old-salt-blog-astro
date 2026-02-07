@@ -13,12 +13,12 @@ tags:
   - "supercarriers"
   - "USS John F Kennedy"
   - "USS Kitty Hawk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/kittyhawk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/kittyhawk.jpg"
 author: "Rick Spilman"
 description: "The decommissioned supercarriers USS Kitty Hawk and the USS John F. Kennedy have finally been sold for scrap for a modest one cent each to a Texas breaking yard. The last carriers to be powered by fuel oil, the ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/kittyhawk.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/kittyhawk.jpg)
 
 USS Kitty Hawk
 

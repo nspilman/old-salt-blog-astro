@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A  boat loaded with asylum seekers has capsized in Indonesian waters about 107 nautical miles north of Australia’s Christmas Island. The boat is reported to have had 150 passengers and crew aboard.  CNN is reporting that 136 have been rescued by two merchants ships. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/mvbison.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/mvbison.jpg)
 
 Photo taken by the MV Bison after arriving at the asylum-seeker boat before it capsized, June 27, 2012.
 

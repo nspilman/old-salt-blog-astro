@@ -12,12 +12,12 @@ tags:
   - "Delta Queen"
   - "riverboat"
   - "SOLAS fire protection"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/dq2x.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/dq2x.jpg"
 author: "Rick Spilman"
 description: "On the same day that I heard the news of the horrific fire on the dive boat Conception which killed 34 passengers and crew, I also saw an article attacking the safety waivers granted to the riverboat Delta Queen. It … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/dq2x.jpg)On the same day that I heard the news of the horrific fire on the dive boat *Conception* which killed 34 passengers and crew, I also saw [an article attacking the safety waivers](https://www.rollcall.com/news/politics/delta-queen-coast-guard-lawmakers) granted to the riverboat *Delta Queen*. It raised the question, do the *Delta Queen* fire safety exemptions make too many compromises? Should the old riverboat be allowed to operate without fully meeting the current regs? On the other hand, the dive boat *Conception* and boats like her, met and meet all the current regulations, and still, the [*Conception* turned out to be a death trap](http://www.oldsaltblog.com/2019/09/dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/dq2x.jpg)On the same day that I heard the news of the horrific fire on the dive boat *Conception* which killed 34 passengers and crew, I also saw [an article attacking the safety waivers](https://www.rollcall.com/news/politics/delta-queen-coast-guard-lawmakers) granted to the riverboat *Delta Queen*. It raised the question, do the *Delta Queen* fire safety exemptions make too many compromises? Should the old riverboat be allowed to operate without fully meeting the current regs? On the other hand, the dive boat *Conception* and boats like her, met and meet all the current regulations, and still, the [*Conception* turned out to be a death trap](http://www.oldsaltblog.com/2019/09/dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island/). 
 
 The *Delta Queen* is a 1927 built passenger riverboat with a long and storied history. She has a steel hull while her deckhouse is wood supported by a steel frame. Because of the wood in her deckhouse, she doesn’t meet the Saftey of Life at Sea (SOLAS) structural fire protection standards. For roughly 40 years, between  1966 and 2007, she was allowed to operate with a waiver of the SOLAS fire protection regulations. Her last exemption ran out in 2008, and she was laid up and then turned into a [hotel](https://deltaqueenhotel.net/). Her sister vessel, the [*Delta King*](https://en.wikipedia.org/wiki/Delta_King), has been a floating hotel in Sacramento, CA for the last 30 years. 
 

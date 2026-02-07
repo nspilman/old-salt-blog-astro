@@ -11,12 +11,12 @@ tags:
   - "Quarantine"
   - "Scientology"
   - "St. Lucia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/fairwinds.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/fairwinds.jpg"
 author: "Rick Spilman"
 description: "The cruise ship MV Freewinds is described on the Scientology website as \"a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.\" It is also home to at least one confirmed case of the measles. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/fairwinds.jpg)The cruise ship MV *Freewinds* is described on the [Scientology website](https://www.scientology.org/faq/the-organization-of-scientology/what-is-the-freewinds.html) as “a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.” It is also home to at least one confirmed case of the measles. The Caribbean nation of St. Lucia has quarantined the 440′ ship with 300 aboard in an attempt to avoid the spread of the contagious illness.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/fairwinds.jpg)The cruise ship MV *Freewinds* is described on the [Scientology website](https://www.scientology.org/faq/the-organization-of-scientology/what-is-the-freewinds.html) as “a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.” It is also home to at least one confirmed case of the measles. The Caribbean nation of St. Lucia has quarantined the 440′ ship with 300 aboard in an attempt to avoid the spread of the contagious illness.
 
 “Measles is a highly contagious disease. Anyone who is not adequately immunized against measles can contract the disease, if there has been close contact with a confirmed case,” according to a statement issued Wednesday by Dr. Merlene Fredericks-James, the island nation’s chief medical officer. “It is therefore likely that other persons on the boat may have been exposed.”
 

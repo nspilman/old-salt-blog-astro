@@ -10,12 +10,12 @@ tags:
   - "humpback"
   - "Jersey Shore"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/njhumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/njhumpback.jpg"
 author: "Rick Spilman"
 description: "Two groups of fishermen had recent close encounters with humpback whales off the Jersey Shore. In early June, two men fishing in a 25′ boat not far offshore near Seaside Park, NJ were thrown from their boat when it was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/njhumpback.jpg)Two groups of fishermen had recent close encounters with humpback whales off the Jersey Shore.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/njhumpback.jpg)Two groups of fishermen had recent close encounters with humpback whales off the Jersey Shore.
 
 In early June, two men fishing in a 25′ boat not far offshore near Seaside Park, NJ were thrown from their boat when it was capsized by a humpback whale. The juvenile humpback was apparently feeding on the same school of fish that the fishermen were trying to haul in.
 

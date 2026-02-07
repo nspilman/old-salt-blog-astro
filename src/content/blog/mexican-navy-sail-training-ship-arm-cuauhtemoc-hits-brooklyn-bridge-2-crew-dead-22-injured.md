@@ -15,12 +15,12 @@ tags:
   - "New York City"
   - "Pier 17"
   - "South Street Seaport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/05/ship-bridge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/ship-bridge.jpg"
 author: "Rick Spilman"
 description: "On Saturday evening, shortly after the Mexican Navy sail training ship ARM Cuauhtémoc departed  New York City’s South Street Seaport, Pier 17, on the East River, something went terribly wrong. The roughly 300′ long, steel-hulled, three-masted bark reportedly suffered some … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/05/ship-bridge.jpg)On Saturday evening, shortly after the Mexican Navy sail training ship *ARM Cuauhtémoc* departed  New York City’s South Street Seaport, Pier 17, on the East River, something went terribly wrong. The roughly 300′ long, steel-hulled, three-masted bark reportedly suffered some sort of mechanical failure and traveled, stern first, into the nearby Brooklyn Bridge.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/ship-bridge.jpg)On Saturday evening, shortly after the Mexican Navy sail training ship *ARM Cuauhtémoc* departed  New York City’s South Street Seaport, Pier 17, on the East River, something went terribly wrong. The roughly 300′ long, steel-hulled, three-masted bark reportedly suffered some sort of mechanical failure and traveled, stern first, into the nearby Brooklyn Bridge.
 
 The top of the training ship’s masts was 44.81 meters above the water, while the maximum clearance under the bridge was only 39 meters. When the ship’s masts struck the bridge, the top masts were knocked down, leaving the crew stationed in the rigging dangling from safety harnesses amidst the wreckage.
 

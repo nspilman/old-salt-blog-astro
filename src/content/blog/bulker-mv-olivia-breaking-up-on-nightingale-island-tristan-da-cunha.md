@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Greek-owned 75,000 tonne bulk carrier, MV Oliva ran aground  on March 16th at 04.30, at Spinners Point, on the far north-west promontory of Nightingale Island, a 4 square kilometer island in the Tristan da Cunha archipelago in the South Atlantic.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/mvolivia1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/mvolivia1.jpg)
 
 The Greek-owned 75,000 tonne bulk carrier, MV *Oliva* ran aground  on March 16th at 04.30, at Spinners Point, on the far north-west promontory of [Nightingale Island](http://www.tristandc.com/mapgroup.php), a 4 square kilometer island in the [Tristan da Cunha archipelago](http://en.wikipedia.org/wiki/Tristan_da_Cunha) in the South Atlantic.   The crew of 22 have been taken to safety on Tristan da Cuhna.   As of Friday, it was reported that the MV *Oliva* was breaking up and that all or part of  part of her 1,500 tonnes of heavy fuel oil was spilling into the water around Nightingale Island.   The MV *Oliva* was in transit from Santos, Brazil to Singapore with a cargo of soybeans.   A salvage tug is on its way from Cape Town and is expected to arrive at Nightingale on the 21st.
 

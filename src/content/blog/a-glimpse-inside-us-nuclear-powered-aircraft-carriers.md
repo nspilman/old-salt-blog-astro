@@ -10,7 +10,7 @@ categories:
 tags:
   - "aircraft carrier"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/glimpsecarrier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/glimpsecarrier.jpg"
 author: "Rick Spilman"
 description: "A video from the Fluctus Channel providing a glimpse inside US Navy aircraft carriers, from the engine room to the flight deck. Thanks to Alaric Bond for contributing to this post. … Continue reading &rarr;"
 ---

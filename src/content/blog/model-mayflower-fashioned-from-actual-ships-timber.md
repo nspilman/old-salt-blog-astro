@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Today in the Bucks County Courthouse in Pennsylvania, a 20-inch-long and 22-inch-tall model of the Mayflower, the ship that carried English separatists, known as Pilgrims, to Massachusetts in 1620,  will go on public display for the first time in the United States.  The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/mayflowermodel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/mayflowermodel.jpg)
 
 Attorney David Leslie-Hughes with model of the Mayflower
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Back in 2012, we posted about a series of photos that were floating around the internet. The photos were taken from a yacht that had encountered what appeared to be a beach, stretching as far as the eye could see … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/pumiceraft.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/pumiceraft.jpg)
 
 Pacific pumice raft
 

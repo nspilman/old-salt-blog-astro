@@ -11,12 +11,12 @@ tags:
   - "Ballyhoo"
   - "barge"
   - "Billboard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg"
 author: "Rick Spilman"
 description: "If you happen to have been on the Hudson or East River waterfront in Manhattan recently, there is a good chance that you might have seen a 60′ illuminated digital billboard on a barge passing by close to shore. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg)If you happen to have been on the Hudson or East River waterfront in Manhattan recently, there is a good chance that you might have seen a [60′ illuminated digital billboard](http://gothamist.com/2019/01/02/ad_barge_nyc_waterfront.php) on a barge passing by close to shore. The billboard features advertising pitching everything from beer to movies to helicopter rides. The company which operates the barge, Ballyhoo Media, considers it to be “the future of digital billboard advertising.” Many New Yorkers consider it to be a nuisance and an eyesore. The City of New York considers the billboard barge to be [illegal and has filed a lawsuit](https://www.nydailynews.com/new-york/ny-floating-billboards-lawsuit-20190327-dwinhfizabesvcyc36ccpwutnm-story.html) to shut it down.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg)If you happen to have been on the Hudson or East River waterfront in Manhattan recently, there is a good chance that you might have seen a [60′ illuminated digital billboard](http://gothamist.com/2019/01/02/ad_barge_nyc_waterfront.php) on a barge passing by close to shore. The billboard features advertising pitching everything from beer to movies to helicopter rides. The company which operates the barge, Ballyhoo Media, considers it to be “the future of digital billboard advertising.” Many New Yorkers consider it to be a nuisance and an eyesore. The City of New York considers the billboard barge to be [illegal and has filed a lawsuit](https://www.nydailynews.com/new-york/ny-floating-billboards-lawsuit-20190327-dwinhfizabesvcyc36ccpwutnm-story.html) to shut it down.
 
 The [suit alleges that the LED-illuminated seafaring signs](https://nypost.com/2019/03/27/nyc-sues-advertising-firm-over-floating-billboards/) along the Hudson and East rivers create a “public nuisance” that distract motorists and spoil the view for sightseers — and also are breaking local zoning laws.
 

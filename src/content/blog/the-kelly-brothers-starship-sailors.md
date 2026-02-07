@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "U.S. Navy Captain Mark Kelly, Congresswoman Gabby Giffords’ husband,  has been by her side since she was tragically shot in Tucson earlier this month.  We posted previously about how Captain Kelly, who is a NASA astronaut,  went to the United States Merchant … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/220px-Mark_E._Kelly.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/220px-Mark_E._Kelly.jpg)
 
 Captain Mark E. Kelly (right) and Captain Scott J. Kelly (left)
 

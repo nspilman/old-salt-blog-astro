@@ -14,12 +14,12 @@ tags:
   - "International Thwaites Glacier Collaboration"
   - "LNG-fueled electric hybrid icebreaker cruise ship"
   - "RRS Sir David Attenborough"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/attenborough-ice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/attenborough-ice.jpg"
 author: "Rick Spilman"
 description: "Britain’s new polar expedition ship, the RRS Sir David Attenborough, encountered particularly difficult sea ice conditions during a resupply mission as part of the research ship’s first polar expedition. It was assisted in its attempt to deliver the supplies to support … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/attenborough-ice.jpg)Britain’s new polar expedition ship, the [RRS *Sir David Attenborough*](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rrs-sir-david-attenborough/), encountered particularly difficult sea ice conditions during a resupply mission as part of the research ship’s first polar expedition. It was assisted in its attempt to deliver the supplies to support the [International Thwaites Glacier Collaboration](https://www.bas.ac.uk/project/international-thwaites-glacier-collaboration/), by a new and distinctive expedition cruise ship, *[Le Commandant Charcot](https://us.ponant.com/le-commandant-charcot),* operated by the French cruise company Compagnie du Ponant.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/attenborough-ice.jpg)Britain’s new polar expedition ship, the [RRS *Sir David Attenborough*](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/rrs-sir-david-attenborough/), encountered particularly difficult sea ice conditions during a resupply mission as part of the research ship’s first polar expedition. It was assisted in its attempt to deliver the supplies to support the [International Thwaites Glacier Collaboration](https://www.bas.ac.uk/project/international-thwaites-glacier-collaboration/), by a new and distinctive expedition cruise ship, *[Le Commandant Charcot](https://us.ponant.com/le-commandant-charcot),* operated by the French cruise company Compagnie du Ponant.
 
 RRS *Sir David Attenborough* is capable of breaking through 1-meter thick ice at a speed of three knots. It is a Polar Class 5 vessel, classed as “ice-capable” but not an icebreaker. *Le Commandant Charcot* is an LNG-fueled electric hybrid icebreaker cruise ship; the first PC2 Polar Class cruise ship with the ability to break through ice up to 2.5-meter thick at a speed of three knots.
 

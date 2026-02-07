@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "For sailors who still watch the skies, Jupiter will be passing the earth on Monday at its closest approach since 1963. The planet will not appear as big or as bright again until 2022. Jupiter making closest approach in nearly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/1-jupiter.jpg)For sailors who still watch the skies, Jupiter will be passing the earth on Monday at its closest approach since 1963. The planet will not appear as big or as bright again until 2022.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/1-jupiter.jpg)For sailors who still watch the skies, Jupiter will be passing the earth on Monday at its closest approach since 1963. The planet will not appear as big or as bright again until 2022.
 
 [Jupiter making closest approach in nearly 50 years](http://www.forbes.com/feeds/ap/2010/09/17/science-us-sci-jupiter-apos-s-approach_7939708.html?boxes=techchannelAP)
 

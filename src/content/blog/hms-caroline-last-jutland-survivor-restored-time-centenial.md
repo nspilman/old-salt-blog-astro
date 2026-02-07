@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "HMS Caroline, a decommissioned Royal Navy C-class light cruiser, is the last survivor of the Battle of Jutland, and one of only three surviving Royal Navy warships of the First World War. Now in Belfast, she has undergone a many … Continue reading &rarr;"
 ---
 
-[![hmscaroline1](http://www.oldsaltblog.com/wp-content/uploads/2016/05/hmscaroline1.jpg)HMS *Caroline*](http://www.nmrn.org.uk/hms-caroline)*,* a decommissioned Royal Navy C-class light cruiser, is the last survivor of the [Battle of Jutland](https://en.wikipedia.org/wiki/Battle_of_Jutland), and one of only three surviving Royal Navy warships of the First World War. Now in Belfast, she has undergone a many million pound renovation and restoration to reflect her condition in 1916, when she served with the Grand Fleet in the Battle of Jutland, May 31 – June 1, 1916. Appropriately, she will be opening to the public as a museum ship and interpretive center on June 1st.
+[![hmscaroline1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hmscaroline1.jpg)HMS *Caroline*](http://www.nmrn.org.uk/hms-caroline)*,* a decommissioned Royal Navy C-class light cruiser, is the last survivor of the [Battle of Jutland](https://en.wikipedia.org/wiki/Battle_of_Jutland), and one of only three surviving Royal Navy warships of the First World War. Now in Belfast, she has undergone a many million pound renovation and restoration to reflect her condition in 1916, when she served with the Grand Fleet in the Battle of Jutland, May 31 – June 1, 1916. Appropriately, she will be opening to the public as a museum ship and interpretive center on June 1st.
 
 The renovation has included the installation of replica six-inch guns and torpedoes
 

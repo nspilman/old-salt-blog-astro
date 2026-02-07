@@ -10,12 +10,12 @@ tags:
   - "Multidisciplinary drifting Observatory for the Study of Arctic Climate"
   - "North Pole"
   - "Polarstern"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/polarstern.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/polarstern.jpg"
 author: "Rick Spilman"
 description: "The Associated Press is reporting that the  RV Polarstern, a German icebreaker carrying scientists on a year-long international expedition in the high Arctic, has reached the North Pole after making an unplanned detour there due to lighter-than-usual sea ice conditions. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/polarstern.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/polarstern.jpg)
 
 Photo: Janek Uin
 

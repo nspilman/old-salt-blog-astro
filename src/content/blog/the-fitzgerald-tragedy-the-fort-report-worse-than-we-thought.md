@@ -12,12 +12,12 @@ tags:
   - "container ship"
   - "guided-missile cruiser"
   - "USS Fitzgerald"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg"
 author: "Rick Spilman"
 description: "There is a tragic irony in the collision of the guided-missile cruiser USS Fitzgerald, which resulted in the death of seven of its crew. The Fitzgerald is built around one of the most advanced anti-missile radar systems in the world and yet when it turned into … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fitz2.jpg)There is a tragic irony in the collision of the guided-missile cruiser [USS *Fitzgerald*](https://en.wikipedia.org/wiki/USS_Fitzgerald), which resulted in the death of seven of its crew. The *Fitzgerald* is built around one of the most advanced anti-missile radar systems in the world and yet when it turned into the path of the container ship *[ACX Crystal](https://en.wikipedia.org/wiki/MV_ACX_Crystal)* on June 17, 2017, the officers on the bridge of the cruiser didn’t know the containership was there until it was too late. The ship designed to intercept incoming ballistic missiles traveling at hundreds of miles an hour failed to spot a 730-foot long container ship traveling at less than 20 knots. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg)There is a tragic irony in the collision of the guided-missile cruiser [USS *Fitzgerald*](https://en.wikipedia.org/wiki/USS_Fitzgerald), which resulted in the death of seven of its crew. The *Fitzgerald* is built around one of the most advanced anti-missile radar systems in the world and yet when it turned into the path of the container ship *[ACX Crystal](https://en.wikipedia.org/wiki/MV_ACX_Crystal)* on June 17, 2017, the officers on the bridge of the cruiser didn’t know the containership was there until it was too late. The ship designed to intercept incoming ballistic missiles traveling at hundreds of miles an hour failed to spot a 730-foot long container ship traveling at less than 20 knots. 
 
 What happened? Was it a problem with equipment and technology or with personnel?  
 

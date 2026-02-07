@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The crew of the HMS Daring spelled out a message on the the flight deck to their loved ones at home. The Type 45 destroyer is on her way home to Portsmouth, Hampshire, after having spent nine months on deployment. … Continue reading &rarr;"
 ---
 
-![hms_navy_valentines-459687](http://www.oldsaltblog.com/wp-content/uploads/2014/02/hms_navy_valentines-459687.jpg)  
+![hms_navy_valentines-459687](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/hms_navy_valentines-459687.jpg)  
 The crew of the [HMS *Daring*](http://en.wikipedia.org/wiki/HMS_Daring_\(D32\)) spelled out a message on the the flight deck to their loved ones at home. The Type 45 destroyer is on her way home to Portsmouth, Hampshire, after having spent nine months on deployment.
 
 [Naval crew’s Valentine’s message](http://www.independent.ie/world-news/and-finally/naval-crews-valentines-message-30008875.html#.Uv222c6l6oI.email)

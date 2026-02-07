@@ -12,12 +12,12 @@ tags:
   - "Paris"
   - "River Seine"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/belugaseine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/belugaseine.jpg"
 author: "Rick Spilman"
 description: "Thousands of miles from its natural habitat, a wayward beluga whale has been found swimming 160 km up the River Seine between the French capital Paris and the city of Rouen in Normandy. The dangerously thin whale is refusing food … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/belugaseine.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/belugaseine.jpg)
 
 Photo: Twitter / Préfet de l’Eure
 

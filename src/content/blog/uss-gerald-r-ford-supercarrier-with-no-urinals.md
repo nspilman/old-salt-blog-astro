@@ -11,12 +11,12 @@ tags:
   - "Supercarrier"
   - "urinals"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg"
 author: "Rick Spilman"
 description: "The U.S. Navy’s new supercarrier, the USS Gerald R. Ford has had more than its share of problems. The ship has a reported  23 new or modified technologies, a number of which have been problematic, to be kind. They are still working the bugs out … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg)The U.S. Navy’s new supercarrier, the [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) has had more than its share of problems. The ship has a reported  [23 new or modified](http://navylive.dodlive.mil/2017/07/21/uss-gerald-r-ford-ushers-in-new-age-of-technology-and-innovation/) technologies, a number of which have been problematic, to be kind. They are still working the bugs out of the electromagnetic catapults. The ammunition elevators are not working properly. The propulsion plant has issues. And the list goes on. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg)The U.S. Navy’s new supercarrier, the [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) has had more than its share of problems. The ship has a reported  [23 new or modified](http://navylive.dodlive.mil/2017/07/21/uss-gerald-r-ford-ushers-in-new-age-of-technology-and-innovation/) technologies, a number of which have been problematic, to be kind. They are still working the bugs out of the electromagnetic catapults. The ammunition elevators are not working properly. The propulsion plant has issues. And the list goes on. 
 
 One of the complaints has been about the urinals. It is not that they do not work. Rather, [there aren’t any](https://www.navytimes.com/news/your-navy/2017/07/21/no-urinals-on-the-new-navy-aircraft-carrier/). The Navy says that this was intentional. As they say in the software business, this is a feature, not a bug. The accommodation blocks have been redesigned to more easily suit both male and female crews. Rather than designate male and female accommodation spaces, with and without urinals, the Navy decided to provide only water closets, making the toilets gender-neutral. 
 

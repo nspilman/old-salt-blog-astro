@@ -15,12 +15,12 @@ tags:
   - "Samuel \"Black Sam\" Bellamy"
   - "Whydah"
   - "Whydah Pirate Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/whydamodel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/whydamodel.jpg"
 author: "Rick Spilman"
 description: "Last February, archaeologists in Cape Cod recovered six skeletons from the ruins of the Whydah, a British pirate ship that sank during a 1717 storm with 146 men—and a trove of treasure—on board. A team led by Barry Clifford, who discovered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/whydamodel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/whydamodel.jpg)
 
 Model of the Whydah
 

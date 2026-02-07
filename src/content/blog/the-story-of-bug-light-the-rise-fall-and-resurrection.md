@@ -14,12 +14,12 @@ tags:
   - "Long Island"
   - "Orient"
   - "screwpile lighthouse"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/buglight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/buglight.jpg"
 author: "Rick Spilman"
 description: "The Long Beach Bar Light was built in 1871 as a \"screwpile\" lighthouse on the North Fork of Eastern Long Island, off Orient, New York. Because a screwpile lighthouse is a lighthouse that stands on thin piles that are screwed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/buglight.jpg)The [Long Beach Bar Light](https://en.wikipedia.org/wiki/Orient_Long_Beach_Bar_Light) was built in 1871 as a “[screwpile](https://en.wikipedia.org/wiki/Screw-pile_lighthouse)” lighthouse on the North Fork of Eastern Long Island, off Orient, New York. Because a screwpile lighthouse is a lighthouse that stands on thin piles that are screwed into a sandy bottom, many thought the lighthouse looked like a water bug, earning it the nickname “[Bug Light.](https://www.eastendseaport.org/bug-light)” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/buglight.jpg)The [Long Beach Bar Light](https://en.wikipedia.org/wiki/Orient_Long_Beach_Bar_Light) was built in 1871 as a “[screwpile](https://en.wikipedia.org/wiki/Screw-pile_lighthouse)” lighthouse on the North Fork of Eastern Long Island, off Orient, New York. Because a screwpile lighthouse is a lighthouse that stands on thin piles that are screwed into a sandy bottom, many thought the lighthouse looked like a water bug, earning it the nickname “[Bug Light.](https://www.eastendseaport.org/bug-light)” 
 
 It wasn’t a screwpile lighthouse for long, however.  The winter ice threatened to rip out the piles and so a breakwater was built around the base of the lighthouse foundation which was later additionally reinforced with a concrete caisson.
 

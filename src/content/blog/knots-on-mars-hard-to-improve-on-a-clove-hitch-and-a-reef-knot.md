@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "There is a wonderful discussion on the International Guild of Knot Tyers Forum titled \"Knots on Mars! (and a few thoughts on NASA’s knots)\" by Dfred.   I had never given much thought as to  how cable bundles on satellites and space craft … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/rovermars.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/rovermars.jpg)
 
 Square knots and clove hitches on wire bundles on the Mars Rover Curiosity
 

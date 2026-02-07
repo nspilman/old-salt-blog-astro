@@ -11,7 +11,7 @@ tags:
   - "hudson river"
   - "kayakers"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/dolphinkayakersNYC.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/dolphinkayakersNYC.jpg"
 author: "Rick Spilman"
 description: "Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the \"Hudson River whitefish\" that I saw that appeared to … Continue reading &rarr;"
 ---

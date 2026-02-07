@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The inner harbor of beautiful Victoria, Canada on Vancouver Island will be  filled with between 75 to 100 classic boats beginning today and running through the Sunday at the 33rd Annual Victoria Classic Boat Festival. Harbour plays host to classic boat fest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/10_second_head.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/10_second_head.jpg)
 
 The inner harbor of beautiful Victoria, Canada on Vancouver Island will be  filled with between 75 to 100 classic boats beginning today and running through the Sunday at the [33rd Annual Victoria Classic Boat Festival](http://www.classicboatfestival.ca/).
 

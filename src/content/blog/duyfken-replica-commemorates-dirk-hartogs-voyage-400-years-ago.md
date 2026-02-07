@@ -12,7 +12,7 @@ tags:
   - "Dirk Hartog"
   - "Duyfken"
   - "Western Australian"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/duyfkin16.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/duyfkin16.jpg"
 author: "Rick Spilman"
 description: "In 1606, Captain Willem Janszoon, in command of the Dutch ship Duyfken, became the first European to discover Australia. Now a replica of the Duyfken has completed a voyage to commemorate the 400th anniversary of Dutchman Dirk Hartog and his crew, the first Europeans to … Continue reading &rarr;"
 ---

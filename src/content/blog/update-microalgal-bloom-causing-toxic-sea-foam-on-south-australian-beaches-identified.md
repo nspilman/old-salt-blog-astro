@@ -12,12 +12,12 @@ tags:
   - "karenia mikimotoi"
   - "Microalgal Bloom"
   - "South Australia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/algalbloomsa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/algalbloomsa.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a mysterious foam on beaches of the Fleurieu Peninsula of South Australia, that is being blamed for sickening more than 100 surfers and for the deaths of leafy seadragons, fish, and octopuses. Now, the Australian Environment … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/algalbloomsa.jpg)We recently [posted about a mysterious foam](https://www.oldsaltblog.com/2025/03/sea-foam-sickens-over-100-surfers-on-south-australian-beaches/) on beaches of the Fleurieu Peninsula of South Australia, that is being blamed for sickening more than 100 surfers and for the deaths of leafy seadragons, fish, and octopuses. Now, the [Australian Environment Protection Authority (EPA)](https://www.epa.sa.gov.au/blog/2025/03/25/microalgae_bloom_on_the_fleurieu_peninsula_identified) has received results from water tests identifying the species [Karenia mikimotoi](https://en.wikipedia.org/wiki/Karenia_mikimotoi) (Kar-een-ia mickey-mow-toy) as the cause of the microalgae bloom on the Fleurieu Peninsula.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/algalbloomsa.jpg)We recently [posted about a mysterious foam](https://www.oldsaltblog.com/2025/03/sea-foam-sickens-over-100-surfers-on-south-australian-beaches/) on beaches of the Fleurieu Peninsula of South Australia, that is being blamed for sickening more than 100 surfers and for the deaths of leafy seadragons, fish, and octopuses. Now, the [Australian Environment Protection Authority (EPA)](https://www.epa.sa.gov.au/blog/2025/03/25/microalgae_bloom_on_the_fleurieu_peninsula_identified) has received results from water tests identifying the species [Karenia mikimotoi](https://en.wikipedia.org/wiki/Karenia_mikimotoi) (Kar-een-ia mickey-mow-toy) as the cause of the microalgae bloom on the Fleurieu Peninsula.
 
 Karenia mikimotoi is toxic to fish and invertebrates and can cause general allergic-type responses in humans.
 

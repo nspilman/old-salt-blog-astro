@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The historic lighthouse tender USCGC Lilac recently turned 88.  Lilac is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places. To celebrate her birthday, two temporary art installations featuring historic photography and dramatic audio … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/lilac88stack.jpg)The [historic lighthouse tender USCGC](http://www.lilacpreservationproject.org/) *Lilac* recently turned 88.  *Lilac* is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/lilac88stack.jpg)The [historic lighthouse tender USCGC](http://www.lilacpreservationproject.org/) *Lilac* recently turned 88.  *Lilac* is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places.
 
 To celebrate her birthday, two temporary art installations featuring historic photography and dramatic audio have been set up. LILAC 88 consists of an onboard paper mural to celebrate the history of the *Lilac* on Pier 25 in Lower Manhattan. This paper mural displays large-scale historic images displayed on the ship’s stack in order to make the ship visible from afar and attract public attention to the *Lilac* over the Memorial Day holiday.
 
@@ -30,4 +30,4 @@ The artist Aaron Asis, Untapped New York’s Artist in Residence says, “88 LIL
 
 To [learn more and to donate to *Lilac*‘s next 88 years click here.](http://www.lilacpreservationproject.org/how-you-can-help)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/lilacdock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/lilacdock.jpg)

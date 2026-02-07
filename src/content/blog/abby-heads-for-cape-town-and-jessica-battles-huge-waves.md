@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Abby Sunderland’s attempt to become the youngest sailor to sail around the world non-stop ended as she decided to put into Cape Town due to mechanical failures.  The boat’s main autopilot has been giving her problems during the voyage recently … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Abby_Sunderland2-150x128.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Abby_Sunderland2-150x128.jpg)
 
 Abby Sunderland
 
@@ -23,7 +23,7 @@ Abby Sunderland’s attempt to become the youngest sailor to sail around the wor
 
 [Repairs end Abby Sunderland’s shot at record nonstop sail](http://www.dailynews.com/news/ci_14954873)  
   
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Jessica2-150x197.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Jessica2-150x197.jpg)
 
 …
 

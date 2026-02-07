@@ -14,12 +14,12 @@ tags:
   - "Ticonderoga-class guided-missile cruisers"
   - "USS Antietam"
   - "USS Chancellorsville"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/antietam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/antietam.jpg"
 author: "Rick Spilman"
 description: "The US has sent two Ticonderoga-class guided-missile cruisers – the USS Antietam and the USS Chancellorsville – through the Taiwan Strait in a demonstration of freedom of navigation through international waters. The 100 mile-wide (160 kilometer-wide) strait divides Taiwan from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/antietam.jpg)The US has sent two [Ticonderoga-class](https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser) guided-missile cruisers – the [USS *Antietam*](https://en.wikipedia.org/wiki/USS_Antietam_\(CG-54\)) and the [USS *Chancellorsville*](https://en.wikipedia.org/wiki/USS_Chancellorsville) – through the Taiwan Strait in a demonstration of freedom of navigation through international waters. The 100 mile-wide (160 kilometer-wide) strait divides Taiwan from China. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/antietam.jpg)The US has sent two [Ticonderoga-class](https://en.wikipedia.org/wiki/Ticonderoga-class_cruiser) guided-missile cruisers – the [USS *Antietam*](https://en.wikipedia.org/wiki/USS_Antietam_\(CG-54\)) and the [USS *Chancellorsville*](https://en.wikipedia.org/wiki/USS_Chancellorsville) – through the Taiwan Strait in a demonstration of freedom of navigation through international waters. The 100 mile-wide (160 kilometer-wide) strait divides Taiwan from China. 
 
 The [BBC](https://www.bbc.com/news/world-asia-62704449) reports that the voyage is the first such operation to take place since tensions between Taiwan and China increased following a visit by US House Speaker Nancy Pelosi to Taiwan earlier this month.
 

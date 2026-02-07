@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Not every historic vessel can be saved and not every historic vessel should be saved.  The difficult question is deciding which are worthy of saving  before they fall prey to the ravages of time or, in this case,  the bureaucracy.  A story from today’s Daily … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/ryde.jpg)Not every historic vessel can be saved and not every historic vessel should be saved.  The difficult question is deciding which are worthy of saving  before they fall prey to the ravages of time or, in this case,  the bureaucracy.  A story from today’s [Daily Mail](http://www.dailymail.co.uk/news/article-1247465/Mine-sweeper-ship-defied-Germans-D-Day-set-scrapped-health-safety-reasons.html?ITO=1490#ixzz0eEBO0ROS):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/ryde.jpg)Not every historic vessel can be saved and not every historic vessel should be saved.  The difficult question is deciding which are worthy of saving  before they fall prey to the ravages of time or, in this case,  the bureaucracy.  A story from today’s [Daily Mail](http://www.dailymail.co.uk/news/article-1247465/Mine-sweeper-ship-defied-Germans-D-Day-set-scrapped-health-safety-reasons.html?ITO=1490#ixzz0eEBO0ROS):
 
 [Mine-sweeper ship that defied the Germans on D-Day set to be scrapped for health and safety reasons](http://www.dailymail.co.uk/news/article-1247465/Mine-sweeper-ship-defied-Germans-D-Day-set-scrapped-health-safety-reasons.html?ITO=1490#ixzz0eEBO0ROS)  
   

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Starting tomorrow, upwards of 50 tall ships will sail up the River Suir and berth along Waterford’s famous quayside, before setting sail for the first leg of the famous Tall Ships Races on Sunday, July 3rd.  During their stay, they … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/waterford1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/waterford1.jpg)
 
 Starting tomorrow, upwards of 50 tall ships will sail up the River Suir and berth along Waterford’s famous quayside, before setting sail for the first leg of the famous Tall Ships Races on Sunday, July 3rd.  During their stay, they will be greeted by a festival featuring street theater, fireworks, music and food.   The tall ships and the festival are expected to attract half a million visitors to Ireland’s oldest city.
 

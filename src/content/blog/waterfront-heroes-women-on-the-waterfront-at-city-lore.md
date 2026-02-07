@@ -10,12 +10,12 @@ tags:
   - "City Lore"
   - "Waterfront Heroes"
   - "Women on the Waterfront"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/whwomenwaterfront.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/whwomenwaterfront.jpg"
 author: "Rick Spilman"
 description: "Next Wednesday, May 1, from 7:00 PM – 9:00 PM, the City Lore gallery in Manhattan is hosting Waterfront Heroes: Women on the Waterfront which will feature a panel discussion moderated by maritime journalist Betsy Haggerty. The panelists will include Fulton … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/whwomenwaterfront.jpg)Next Wednesday, May 1, from 7:00 PM – 9:00 PM, the [City Lore](http://citylore.org/?fbclid=IwAR0f2NqAb9Xk0H0UWX7mq71iVrTx2zBhUlXe5_zCqK2UwKrUAwbTMHUnwxA) gallery in Manhattan is hosting [Waterfront Heroes: Women on the Waterfront](https://www.facebook.com/events/618723968595962/) which will feature a panel discussion moderated by maritime journalist [Betsy Haggerty](http://betsyhaggerty.com/). The panelists will include Fulton Fish Market painter [Naima Rauam](http://www.artpm.com/), Carolina Salguero, founder and director of [PortSide NewYork](http://portsidenewyork.org/), Jasmine Benitez, Public Programs Manager of [Rocking the Boat](https://rockingtheboat.org/), and Capt. Cait Field, captain with [Classic Harbor Line](https://www.sail-nyc.com/?utm_source=women+waterfront+may+1&utm_campaign=blog-0517&utm_medium=email).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/whwomenwaterfront.jpg)Next Wednesday, May 1, from 7:00 PM – 9:00 PM, the [City Lore](http://citylore.org/?fbclid=IwAR0f2NqAb9Xk0H0UWX7mq71iVrTx2zBhUlXe5_zCqK2UwKrUAwbTMHUnwxA) gallery in Manhattan is hosting [Waterfront Heroes: Women on the Waterfront](https://www.facebook.com/events/618723968595962/) which will feature a panel discussion moderated by maritime journalist [Betsy Haggerty](http://betsyhaggerty.com/). The panelists will include Fulton Fish Market painter [Naima Rauam](http://www.artpm.com/), Carolina Salguero, founder and director of [PortSide NewYork](http://portsidenewyork.org/), Jasmine Benitez, Public Programs Manager of [Rocking the Boat](https://rockingtheboat.org/), and Capt. Cait Field, captain with [Classic Harbor Line](https://www.sail-nyc.com/?utm_source=women+waterfront+may+1&utm_campaign=blog-0517&utm_medium=email).
 
 The panelists will describe their experiences working on and around New York’s 520 miles of coastline and Long Island’s 1600 miles of shoreline, and will answer questions from the audience. A reception will follow. Tickets are $5 and are [available here](https://www.eventbrite.com/e/waterfront-heroes-women-on-the-waterfront-tickets-60449631475?aff=efbeventtix).  City Lore is at 56 East 1st Street, New York, NY 10003. 
 

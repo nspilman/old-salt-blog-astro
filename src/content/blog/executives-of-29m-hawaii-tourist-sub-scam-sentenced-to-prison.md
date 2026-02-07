@@ -12,12 +12,12 @@ tags:
   - "Jamey Jackson"
   - "semi-submersible"
   - "Semisub"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/semisub1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/semisub1.jpg"
 author: "Rick Spilman"
 description: "Semisub One was billed as \"one of the world’s most luxurious high-tech watercraft.\" It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views.   Semisub’s CEO, Curtiss Jackson, and its … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/semisub1.jpg)[Semisub One was billed as “one of the world’s most luxurious high-tech watercraft.](https://www.tripadvisor.com/Attraction_Review-g60982-d16832528-Reviews-Semisub_Inc-Honolulu_Oahu_Hawaii.html)” It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/semisub1.jpg)[Semisub One was billed as “one of the world’s most luxurious high-tech watercraft.](https://www.tripadvisor.com/Attraction_Review-g60982-d16832528-Reviews-Semisub_Inc-Honolulu_Oahu_Hawaii.html)” It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views. 
 
  Semisub’s CEO, Curtiss Jackson, and its President, Jamey Denise Jackson, told investors for years that the prototype vessel was “weeks” or “months” away from beginning operations. For more than a decade, the married couple name-dropped major cruise line contracts, cited Coast Guard approvals, and claimed that sea trials were already underway. The brochures looked polished. The website was confident. Together, the couple raised $29 million dollars from investors.
 

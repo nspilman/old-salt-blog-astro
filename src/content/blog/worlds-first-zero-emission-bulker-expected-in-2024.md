@@ -14,12 +14,12 @@ tags:
   - "Norwegian Ship Design"
   - "Norwegian shipping firm"
   - "Zero-emission"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/orcapbn1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/orcapbn1.jpg"
 author: "Rick Spilman"
 description: "Marine Log reports that Norwegian shipping firm Egil Ulvan Rederi has been awarded a contract to build what is claimed will be the world’s first zero-emission bulk carrier. The 88-meter, 5,000 DWT self-unloading vessel will be used on a Norwegian … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/orcapbn1.jpg)Marine Log](https://www.marinelog.com/shipping/environment/worlds-first-zero-emission-bulker-planned-to-debut-in-2024/) reports that Norwegian shipping firm Egil Ulvan Rederi has been awarded a contract to build what is claimed will be the world’s first zero-emission bulk carrier.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/orcapbn1.jpg)Marine Log](https://www.marinelog.com/shipping/environment/worlds-first-zero-emission-bulker-planned-to-debut-in-2024/) reports that Norwegian shipping firm Egil Ulvan Rederi has been awarded a contract to build what is claimed will be the world’s first zero-emission bulk carrier.
 
 The 88-meter, 5,000 DWT self-unloading vessel will be used on a Norwegian route to transport aggregates from Heidelberg Cement Norway in western Norway in one direction and grain from farmer-owned cooperative Felleskjøpet AGRI, in eastern Norway, on the backhaul.
 

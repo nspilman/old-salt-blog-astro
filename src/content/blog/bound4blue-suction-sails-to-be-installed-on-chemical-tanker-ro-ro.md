@@ -17,12 +17,12 @@ tags:
   - "turbosail"
   - "ventfoil"
   - "Ville de Bordeaux"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/ldaairbus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/ldaairbus.jpg"
 author: "Rick Spilman"
 description: "Recently, it was announced that Bound4Blue’s eSAIL® suction sails will be installed on an Odfjell chemical tanker and a ro/ro for Louis Dreyfus Armateurs. The technology goes by various names. When developed for Jacques-Ives Cousteau’s research vessel, Alcyone, it was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/ldaairbus.jpg)Recently, it was announced that Bound4Blue’s eSAIL® suction sails will be installed on an [Odfjell chemical tanker](https://www.odfjell.com/about/our-stories/odfjell-first-to-install-suction-sails-on-deep-sea-chemical-tanker/) and a [ro/ro for Louis Dreyfus Armateurs](https://www.maritime-executive.com/article/ro-ro-transporting-assemblies-for-airbus-to-employ-suction-sails).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/ldaairbus.jpg)Recently, it was announced that Bound4Blue’s eSAIL® suction sails will be installed on an [Odfjell chemical tanker](https://www.odfjell.com/about/our-stories/odfjell-first-to-install-suction-sails-on-deep-sea-chemical-tanker/) and a [ro/ro for Louis Dreyfus Armateurs](https://www.maritime-executive.com/article/ro-ro-transporting-assemblies-for-airbus-to-employ-suction-sails).
 
 The technology goes by various names. When developed for [Jacques-Ives Cousteau’s research vessel, *Alcyone*](https://www.cousteau.org/legacy/technology/turbosail/), it was referred to as a turbosail. The Dutch firm [eConowind](https://www.econowind.nl/)‘s version is called a ventfoil. And [Bound4Blue eSAIL®](https://bound4blue.com/)  are termed suction sails. 
 

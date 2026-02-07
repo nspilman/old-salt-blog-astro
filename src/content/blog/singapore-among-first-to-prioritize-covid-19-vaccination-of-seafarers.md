@@ -11,12 +11,12 @@ tags:
   - "seafarers"
   - "Singapore"
   - "Vaccination"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/singaporevax.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/singaporevax.jpg"
 author: "Rick Spilman"
 description: "Singapore has become one of the first states to prioritize seafarers to receive the Covid-19 vaccine. Nautilus International reports that more than 10,000 maritime workers are scheduled for vaccination by the end of January 2021 under the country’s Sea – … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/singaporevax.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/singaporevax.jpg)
 
 Image: Singapore Maritime Officers’ Union
 

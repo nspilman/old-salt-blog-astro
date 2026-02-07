@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called \"The Strangest Coincidence … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/hwilliams2.jpg)I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/hwilliams2.jpg)I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams.
 
 There is a video bouncing around the web these days called “[The Strangest Coincidence Ever Recorded?](http://youtu.be/m29PQBLwF4E)”   (The video is embedded at the bottom of the post.) It tells the story of a ship that sank in the Menai Strait off the coast of Wales on December 5, 1664. All 81 passengers died, except one. His name was Hugh Williams.  Then on December 5th, 1785 another ship with 60 aboard sank in the Menai Strait. The only survivor – a man named Hugh Williams.   In 1820 on December 5th, a third vessel sank in the Menai Strait. All 25 aboard were drowned except, you guessed it, a man named Hugh Williams.
 

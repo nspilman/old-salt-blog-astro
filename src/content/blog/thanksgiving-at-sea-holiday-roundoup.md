@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Today is celebrated as a day of Thanksgiving in the United States.  At the Old Salt Blog we would like to express our sincere thanks and gratitude to all our readers and contributors, who make putting together the blog such … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/mayflower-ii.jpg)Today is celebrated as a day of Thanksgiving in the United States.  At the Old Salt Blog we would like to express our sincere thanks and gratitude to all our readers and contributors, who make putting together the blog such fun. We do appreciate it.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/mayflower-ii.jpg)Today is celebrated as a day of Thanksgiving in the United States.  At the Old Salt Blog we would like to express our sincere thanks and gratitude to all our readers and contributors, who make putting together the blog such fun. We do appreciate it.
 
 No one agrees when or where the first Thanksgiving celebration took place in North America.  Most point to the [Plimoth Colony](http://www.plimoth.org/) in Massachusetts in 1621 while some argue for [St Augustine, Florida in 1565](http://staugustine.com/stories/112405/new_3476042.shtml).  
   

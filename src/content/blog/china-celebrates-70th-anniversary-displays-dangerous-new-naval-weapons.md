@@ -12,12 +12,12 @@ tags:
   - "DF-21D"
   - "Dongfeng-17"
   - "missiles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/df17.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/df17.jpg"
 author: "Rick Spilman"
 description: "This week, as China looked back at 70 years of Communist rule, its military parade looked to the future with a whole new generation of deadly naval and airborne weaponry.  Newsweek reports that in a speech last week, retired Admiral … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/df17.jpg)This week, as China looked back at 70 years of Communist rule, its military parade looked to the future with a whole new generation of deadly naval and airborne weaponry.  [Newsweek](https://www.newsweek.com/chinas-hypersonic-missiles-aka-carrier-killers-are-holy-st-moment-us-military-1462794) reports that in a speech last week, retired Admiral William McRaven, the former head of U.S. special forces, called China’s intensifying military build-up “a holy shit moment for the United States.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/df17.jpg)This week, as China looked back at 70 years of Communist rule, its military parade looked to the future with a whole new generation of deadly naval and airborne weaponry.  [Newsweek](https://www.newsweek.com/chinas-hypersonic-missiles-aka-carrier-killers-are-holy-st-moment-us-military-1462794) reports that in a speech last week, retired Admiral William McRaven, the former head of U.S. special forces, called China’s intensifying military build-up “a holy shit moment for the United States.”
 
 One of the new weapons on display for the first time was the Dongfeng-17 (DF-17), a hypersonic anti-ship missile, dubbed a “carrier killer.”  Reportedly designed to operate at speeds of Mach 5 or greater and to be highly maneuverable in its glide stage, some analysts are concerned that the existing US anti-ballistic defense systems might not be able to counter the new missile.
 

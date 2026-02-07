@@ -11,7 +11,7 @@ tags:
   - "galveston"
   - "Tall Ship Elissa"
   - "Texas Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/elissasails.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/elissasails.jpg"
 author: "Rick Spilman"
 description: "One hundred and forty-two years ago today on October 27th, 1877, the three-masted iron-hulled merchant sailing ship Elissa was launched in Aberdeen, Scotland. She is now a museum ship at the Texas Seaport Museum. In honor of her birthday, here … Continue reading &rarr;"
 ---

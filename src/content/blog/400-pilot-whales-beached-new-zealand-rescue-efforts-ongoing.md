@@ -11,7 +11,7 @@ tags:
   - "Golden Bay"
   - "New Zealand"
   - "pilot whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/njstranding200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/njstranding200.jpg"
 author: "Rick Spilman"
 description: "Over 400 pilot whales became stranded after they swam into the shallow waters of Golden Bay, near Farewell Spit, at the northernmost tip of the South Island of New Zealand.  An estimated 300 of the whales have died, as a small … Continue reading &rarr;"
 ---

@@ -13,12 +13,12 @@ tags:
   - "london"
   - "Thames Estuary"
   - "World War II bomb"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/wrecklondon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/wrecklondon.jpg"
 author: "Rick Spilman"
 description: "Civilian divers were on an archeological dive on the London, a Royal Navy ship built-in 1656 which exploded and sank in 1665 in the Thames Estuary. They were shocked to find a large World War II bomb in the wreck. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/wrecklondon.jpg)Civilian divers were on an archeological dive on the [*London*](http://en.wikipedia.org/wiki/London_\(1656_English_ship\)), a Royal Navy ship built-in 1656 which exploded and sank in 1665 in the Thames Estuary. They were shocked to find a large World War II bomb in the wreck. And it wasn’t just any bomb. [The BBC reports](https://www.bbc.com/news/uk-england-essex-49863564) that it was a German parachute ground mine, at 987kg (2,175lbs) one of the biggest bombs used by the Luftwaffe during the war.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/wrecklondon.jpg)Civilian divers were on an archeological dive on the [*London*](http://en.wikipedia.org/wiki/London_\(1656_English_ship\)), a Royal Navy ship built-in 1656 which exploded and sank in 1665 in the Thames Estuary. They were shocked to find a large World War II bomb in the wreck. And it wasn’t just any bomb. [The BBC reports](https://www.bbc.com/news/uk-england-essex-49863564) that it was a German parachute ground mine, at 987kg (2,175lbs) one of the biggest bombs used by the Luftwaffe during the war.
 
 A team of eight Royal Navy bomb disposal experts worked for six days in poor visibility to retrieve the bomb, which was then detonated five miles away, at a disposal site at Shoeburyness, off the Essex coast.
 

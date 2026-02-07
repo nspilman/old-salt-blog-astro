@@ -14,12 +14,12 @@ tags:
   - "Rosyth"
   - "Scotland"
   - "starboard propeller shaft"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/princeofwales2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/princeofwales2.jpg"
 author: "Rick Spilman"
 description: "Late in August 2022, the Royal Navy’s newest aircraft carrier, HMS Prince of Wales, sailed from Portsmouth, UK bound for training exercises in the United States. She didn’t get very far. Two days after departing, the carrier broke down off … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/princeofwales2.jpg)Late in August 2022, the Royal Navy’s newest aircraft carrier, [HMS *Prince of Wales,*](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_\(R09\)) sailed from Portsmouth, UK bound for training exercises in the United States. She didn’t get very far. Two days after departing, the carrier broke down off the Isle of Wight. The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage to the shaft and the propeller, and lesser damage to the rudder. After proceeding to an anchorage for inspection, the ship was escorted by tugs to a dry dock at Rosyth, Scotland, for necessary repairs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/princeofwales2.jpg)Late in August 2022, the Royal Navy’s newest aircraft carrier, [HMS *Prince of Wales,*](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_\(R09\)) sailed from Portsmouth, UK bound for training exercises in the United States. She didn’t get very far. Two days after departing, the carrier broke down off the Isle of Wight. The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage to the shaft and the propeller, and lesser damage to the rudder. After proceeding to an anchorage for inspection, the ship was escorted by tugs to a dry dock at Rosyth, Scotland, for necessary repairs.
 
 The repairs that were originally estimated to cost £3 million and were to be completed by spring have now soared to an estimated £20 million and the ship deployment is now projected to be in the [autumn of 2023](https://maritime-executive.com/article/cost-estimates-for-repairs-to-hms-prince-of-wales-skyrocket). 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Concordia yawl, Winnie of Borne, which sank following a collision off Nantucket harbor was raised by a crane barge."
 ---
 
-[![Photo: Jim Powers for the Inquirer and Mirror](http://www.oldsaltblog.com/wp-content/uploads/2014/08/winnieconcordia.jpg)](http://www.ack.net/Sailboatsinksaftercollision080714.html)
+[![Photo: Jim Powers for the Inquirer and Mirror](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/winnieconcordia.jpg)](http://www.ack.net/Sailboatsinksaftercollision080714.html)
 
 Photo: Jim Powers for the Inquirer and Mirror
 

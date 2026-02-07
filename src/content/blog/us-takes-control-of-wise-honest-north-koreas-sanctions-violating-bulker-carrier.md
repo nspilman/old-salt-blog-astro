@@ -13,12 +13,12 @@ tags:
   - "North Korea"
   - "sanctions"
   - "Wise Honest"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/wisehonest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/wisehonest.jpg"
 author: "Rick Spilman"
 description: "The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named Wise Honest. Virtually every headline begins with \"US seizes North Korean ship\" or some variation thereof.  The Justice Department also used the word … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/wisehonest.jpg)The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named [*Wise Honest*.](https://www.marinetraffic.com/en/ais/details/ships/shipid:672235/mmsi:445582000/imo:8905490/vessel:WISE_HONEST) Virtually every headline begins with “US seizes North Korean ship” or some variation thereof.  The Justice Department also used the word “seized” to describe the taking control of the ship by the US in a [press release dated yesterday, May 9, 2019](https://www.justice.gov/opa/pr/north-korean-cargo-vessel-connected-sanctions-violations-seized-us-government). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/wisehonest.jpg)The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named [*Wise Honest*.](https://www.marinetraffic.com/en/ais/details/ships/shipid:672235/mmsi:445582000/imo:8905490/vessel:WISE_HONEST) Virtually every headline begins with “US seizes North Korean ship” or some variation thereof.  The Justice Department also used the word “seized” to describe the taking control of the ship by the US in a [press release dated yesterday, May 9, 2019](https://www.justice.gov/opa/pr/north-korean-cargo-vessel-connected-sanctions-violations-seized-us-government). 
 
 The story seems a bit confused, however. One might assume from the verb “seized” that the US apprehended the bulk carrier, whereas, in fact, [the ship and crew were arrested a year ago in April 2018 by Indonesian authorities.](https://www.nytimes.com/2019/05/09/us/politics/wise-honest-north-korea-ship-seized.html) The ship was found to be carrying coal in violation of international sanctions. Apparently, the transfer of the ship to the US was only completed recently. The ship, [*Wise Honest*, is reported to be approaching U.S. territorial waters in American Samoa](https://www.washingtonpost.com/world/national-security/us-seizes-north-korean-coal-ship-accuses-pyongyang-of-violating-sanctions/2019/05/09/8fc50d86-726e-11e9-8be0-ca575670e91c_story.html?utm_term=.0f9b6852c001), in coordination with the U.S. Marshals Service and the Coast Guard. 
 

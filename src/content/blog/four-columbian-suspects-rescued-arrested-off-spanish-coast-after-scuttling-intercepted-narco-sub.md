@@ -14,12 +14,12 @@ tags:
   - "semi-submersible"
   - "Spanish Customs Surveillance Service"
   - "US DEA"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/fulmar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fulmar.jpg"
 author: "Rick Spilman"
 description: "Spanish Customs has intercepted another semi-submersible transoceanic \"narco sub\" off the Atlantic coast of Spain, rescuing and arresting four suspects, who scuttled their vessel as authorities approached. On June 24, the Spanish Customs Surveillance Service and the US DEA detected … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/fulmar.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fulmar.jpg)
 
 Photo: Gondan Shipbuilders
 

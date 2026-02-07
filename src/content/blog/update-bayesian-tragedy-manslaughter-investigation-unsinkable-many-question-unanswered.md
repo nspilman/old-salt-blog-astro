@@ -16,12 +16,12 @@ tags:
   - "Roger Long"
   - "stability"
   - "Tad Roberts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg"
 author: "Rick Spilman"
 description: "Five days ago, the 56-meter-long sailing yacht Bayesian sank at anchor off Sicily in extreme weather. Fifteen people on board were rescued and seven died, including British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah. This morning Italian prosecutors said … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg)Five days ago, the 56-meter-long sailing yacht [*Bayesian*](https://www.superyachts.com/fleet/bayesian-3639/) sank at anchor off Sicily in extreme weather. Fifteen people on board were rescued and seven died, including British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg)Five days ago, the 56-meter-long sailing yacht [*Bayesian*](https://www.superyachts.com/fleet/bayesian-3639/) sank at anchor off Sicily in extreme weather. Fifteen people on board were rescued and seven died, including British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah.
 
 This morning Italian prosecutors said that they have opened an investigation into culpable shipwreck and manslaughter over the deaths in the yacht’s sinking. They stressed, however, that the investigation was in its initial stages and they were not currently looking at anyone specifically.
 

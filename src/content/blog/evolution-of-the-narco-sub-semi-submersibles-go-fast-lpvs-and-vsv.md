@@ -5,12 +5,12 @@ slug: "evolution-of-the-narco-sub-semi-submersibles-go-fast-lpvs-and-vsv"
 excerpt: "In the 1990s, rumors began to spread that the Colombian cartels were moving cocaine to the United States by submarine. In 2006 the navy intercepted a \"narco-sub\" off Costa Rica with 3.5 tonnes of cocaine on board. In 2019, thirty-three … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/VSVUSCG.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/VSVUSCG.jpg"
 author: "Rick Spilman"
 description: "The design of these narco subs has changed significantly over time."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/colombiansub.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/colombiansub.jpg)
 
 Narco-sub seized by Colombian Coast Guard — Photo: Guardian
 
@@ -26,12 +26,12 @@ The earliest narco subs looked generally like submarines, were difficult to spot
 
 On May 13, Coast Guard cutter *James* (WMSL-754) interdicted a high-speed LPV with three outboard motors, in Eastern Pacific carrying 3,100 lb of cocaine. The LPV looked more like a fast skiff than a “submarine.” 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/fastLPV.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/fastLPV.jpg)
 
 Fast LPV caught by Costa Rican Coast Guard , January 2020
 
 Another type of LPV is referred to as a Very Slender Vessel (VSV). As the name suggests the VSV is a long surface vessel with a narrow beam. In the same joint Navy-Coast Guard operation, the guided-missile destroyer USS *Pinckney* (DDG 91) intercepted a VSV on May 14.  The Pinkney caught a second VSV of a slightly different design only two days later. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/VSVUSCG.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/VSVUSCG.jpg)
 
 USCG intercepting VSV

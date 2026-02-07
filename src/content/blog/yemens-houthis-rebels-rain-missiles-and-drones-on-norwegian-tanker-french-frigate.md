@@ -14,12 +14,12 @@ tags:
   - "MT Strinda"
   - "Norwegian bio-diesel tanker"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/frenchfrigateL.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/frenchfrigateL.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, Yemen’s Houthi rebels announced that the organization would target any ships heading to or from Israel, regardless of their nationality, and warned all international shipping companies against dealing with Israeli ports. On Monday, the group attacked the MT … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/frenchfrigateL.jpg)Last Saturday, Yemen’s Houthi rebels announced that the organization would [target any ships heading to or from Israel,](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-will-target-ships-red-sea-en-route-israel-2023-12-09/) regardless of their nationality, and warned all international shipping companies against dealing with Israeli ports.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/frenchfrigateL.jpg)Last Saturday, Yemen’s Houthi rebels announced that the organization would [target any ships heading to or from Israel,](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-will-target-ships-red-sea-en-route-israel-2023-12-09/) regardless of their nationality, and warned all international shipping companies against dealing with Israeli ports.
 
 On Monday, the group attacked the [MT *Strinda*](https://www.marinetraffic.com/en/ais/details/ships/shipid:384991/mmsi:259096000/imo:9330771/vessel:STRINDA), a Norwegian bio-diesel tanker passing through the Bab-el-Mandeb, the strait that connects the Gulf of Aden to the Red Sea. At least one missile struck the tanker, causing a fire. No casualties were reported in the attack.  
 

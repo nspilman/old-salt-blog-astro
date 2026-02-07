@@ -12,7 +12,7 @@ tags:
   - "largest wooden ship ever built"
   - "schooner"
   - "Wyoming"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/schooner-wyoming.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/schooner-wyoming.jpg"
 author: "Rick Spilman"
 description: "Here is a well-done short video about the schooner Wyoming, one of the largest wooden ships ever built. Built as a collier in 1909 by Percy & Small in Bath, Maine, she was capable of carrying 6000 long tons of … Continue reading &rarr;"
 ---

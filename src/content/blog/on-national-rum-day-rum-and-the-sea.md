@@ -13,12 +13,12 @@ tags:
   - "Old Grog"
   - "Royal Navy"
   - "rum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/rumration.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/rumration.jpg"
 author: "Rick Spilman"
 description: "Today is \"National Rum Day\" in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea. Before there was rum, there was water. The problem with water was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/rumration.jpg)Today is “[National Rum Day](https://nationaldaycalendar.com/national-rum-day-august-16/)” in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/rumration.jpg)Today is “[National Rum Day](https://nationaldaycalendar.com/national-rum-day-august-16/)” in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea.
 
 Before there was rum, there was water. The problem with water was that it could kill you or at least make you sick due to poor sanitation both ashore and at sea. During the Age of Exploration, Royal Navy ships would provide a gallon of beer for each sailor each day, both for healthy hydration and morale. The problem with beer was it would spoil in the heat and motion of an ocean voyage. Wine, brandy and other spirits were tried as substitutes, with varying degrees of success. 
 

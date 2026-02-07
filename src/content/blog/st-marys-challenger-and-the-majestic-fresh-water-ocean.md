@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "This is the last season for the Great Lakes self-unloading bulk carrier St. Mary’s Challenger (ex William P. Snyder, Elton Hoyt II, Alex D. Chisolm, Medusa Challenger, Southdown Challenger.)  The ship has been in service for 107 years!  She was re-engined … Continue reading &rarr;"
 ---
 
-![STMARCHAL-6-14-09-LGb](http://www.oldsaltblog.com/wp-content/uploads/2013/11/STMARCHAL-6-14-09-LGb.jpg)
+![STMARCHAL-6-14-09-LGb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/STMARCHAL-6-14-09-LGb.jpg)
 
 Photo: Lou Gerard
 

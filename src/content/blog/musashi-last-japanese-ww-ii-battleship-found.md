@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "After eight years of searching, a team lead by Microsoft founder and billionaire, Paul Allen, has discovered the wreck of the Japanese battleship Musashi."
 ---
 
-![Musashi under  attack 1944](http://www.oldsaltblog.com/wp-content/uploads/2015/03/Musashi_under_fire.jpg)
+![Musashi under  attack 1944](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/Musashi_under_fire.jpg)
 
 Musashi under attack 1944
 

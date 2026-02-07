@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "I recall many years ago how excited the guide was on a whale watching trip out of Provincetown when we sighted a mother right whale and her calf not long after leaving the dock. I can only imagine how researchers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/rightwhale2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/rightwhale2.jpg)
 
 Photo: Cape Cod Times/Steve Heaslip
 

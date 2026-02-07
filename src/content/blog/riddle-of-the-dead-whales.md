@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Disturbing news from Patagonia: Riddle of the dead whales MORE than 300 southern right whales, most of them young calves, have been found dead in the past five years in the waters off Argentina’s Patagonian coast, one of their most … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/southernrightwhale.jpg)Disturbing news from Patagonia:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/southernrightwhale.jpg)Disturbing news from Patagonia:
 
 [Riddle of the dead whales](http://www.smh.com.au/environment/whale-watch/riddle-of-the-dead-whales-20100328-r5a7.html)
 

@@ -9,12 +9,12 @@ categories:
 tags:
   - "Jason deCaires Taylor"
   - "Museo Atlántico"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/museoatlantico.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/museoatlantico.jpg"
 author: "Rick Spilman"
 description: "In 2012, we posted about the Museo Subacuático de Arte, MUSA, an underwater museum of art between the islands of Isla Mujeres and Cancun. MUSA displays the sculpture of Jason deCaires Taylor. Now a new museum featuring Jason deCaires Taylor’s work has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/museoatlantico.jpg)In 2012, we [posted about the Museo Subacuático de Arte,](http://www.oldsaltblog.com/2012/09/sculptures-beneath-the-sea-part-ii-sculpture-to-help-save-the-reefs-of-cancun/) [MUSA](http://musamexico.org/), an underwater museum of art between the islands of Isla Mujeres and Cancun. MUSA displays the sculpture of [Jason deCaires Taylor.](http://www.underwatersculpture.com/) Now a new museum featuring Jason deCaires Taylor’s work has opened off Playa Blanca, Lanzarote in the Canary Islands. The [Museo Atlántico](http://underwatermuseumlanzarote.com/en/) is Europe´s only underwater sculpture museum.  The museum includes over 300 life-sized sculptures across 12 installations on the sea bed accessible to divers 39 feet below the surface.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/museoatlantico.jpg)In 2012, we [posted about the Museo Subacuático de Arte,](http://www.oldsaltblog.com/2012/09/sculptures-beneath-the-sea-part-ii-sculpture-to-help-save-the-reefs-of-cancun/) [MUSA](http://musamexico.org/), an underwater museum of art between the islands of Isla Mujeres and Cancun. MUSA displays the sculpture of [Jason deCaires Taylor.](http://www.underwatersculpture.com/) Now a new museum featuring Jason deCaires Taylor’s work has opened off Playa Blanca, Lanzarote in the Canary Islands. The [Museo Atlántico](http://underwatermuseumlanzarote.com/en/) is Europe´s only underwater sculpture museum.  The museum includes over 300 life-sized sculptures across 12 installations on the sea bed accessible to divers 39 feet below the surface.
 
 <iframe src="https://www.youtube.com/embed/z012BSqOnB4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

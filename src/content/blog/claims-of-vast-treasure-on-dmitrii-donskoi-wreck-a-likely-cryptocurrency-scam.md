@@ -12,12 +12,12 @@ tags:
   - "Russian armored cruiser"
   - "Shinil Group"
   - "South Korea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/Dmitrii-Donskoi.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Dmitrii-Donskoi.jpg"
 author: "Rick Spilman"
 description: "In July we posted about the discovery of the wreck of the Russian armored cruiser, Dmitrii Donskoi, off South Korea. The salvors claimed that the ship may contain 200 tons of gold, which would they said may be worth around $133.4 billion (£102bn) in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/Dmitrii-Donskoi.jpg)In July [we posted about the discovery of the wreck of the Russian armored cruiser, *Dmitrii Donskoi*](http://www.oldsaltblog.com/2018/07/gold-the-wreck-of-the-russian-cruiser-dmitrii-donskoi-real-or-hype/), off South Korea. The salvors claimed that the ship may contain 200 tons of gold, which would they said may be worth around $133.4 billion (£102bn) in today’s prices. It now appears that, while the wreck of the Russian cruiser is real enough, the claims of treasure may be part of an elaborate cryptocurrency scam.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Dmitrii-Donskoi.jpg)In July [we posted about the discovery of the wreck of the Russian armored cruiser, *Dmitrii Donskoi*](http://www.oldsaltblog.com/2018/07/gold-the-wreck-of-the-russian-cruiser-dmitrii-donskoi-real-or-hype/), off South Korea. The salvors claimed that the ship may contain 200 tons of gold, which would they said may be worth around $133.4 billion (£102bn) in today’s prices. It now appears that, while the wreck of the Russian cruiser is real enough, the claims of treasure may be part of an elaborate cryptocurrency scam.
 
 The salvage was being backed by the Shinil Group, which apparently also has ties to a new Singapore based cryptocurrency venture, Shinil Gold Coins.
 

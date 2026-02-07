@@ -14,12 +14,12 @@ tags:
   - "Honolulu"
   - "Port Glasgow"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "Great news! David O’Neill, director of the Falls of Clyde International, announced yesterday on Facebook that their bid to remove the historic tall ship Falls of Clyde, from Honolulu harbor, has been accepted by the state officials at the Department … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)Great news! David O’Neill, director of the [Falls of Clyde International](https://www.foci.scot/), announced yesterday on Facebook that their bid to remove the historic tall ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), from Honolulu harbor, has been accepted by the state officials at the Department of Transportation (Harbors) in Hawaii.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)Great news! David O’Neill, director of the [Falls of Clyde International](https://www.foci.scot/), announced yesterday on Facebook that their bid to remove the historic tall ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), from Honolulu harbor, has been accepted by the state officials at the Department of Transportation (Harbors) in Hawaii.
 
 The *Falls of Clyde*, launched in 1878 in Port Glasgow, Scotland, is the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world.  
 

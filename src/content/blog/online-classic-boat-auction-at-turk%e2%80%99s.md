@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "On April 14th Turk Film Services will be holding an online auction of up to 200 boats and floating craft ranging from the Cygnet, an iron steam launch built in 1873 to a \"swan boat\" which features a detachable fiberglass … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/cignet.jpg)On April 14th Turk Film Services will be holding an online auction of up to 200 boats and floating craft ranging from the *Cygnet*, an iron steam launch built in 1873 to a “swan boat” which features a detachable fiberglass swan built onto a double ended Swedish sailing dinghy.  The auction features a  highly eclectic mix of water craft including boats used in the television and movie productions of *Hornblower,* *Harry Potter, Swallows and Amazons*, *633 Squadron* and *Three Men in a Boat*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/cignet.jpg)On April 14th Turk Film Services will be holding an online auction of up to 200 boats and floating craft ranging from the *Cygnet*, an iron steam launch built in 1873 to a “swan boat” which features a detachable fiberglass swan built onto a double ended Swedish sailing dinghy.  The auction features a  highly eclectic mix of water craft including boats used in the television and movie productions of *Hornblower,* *Harry Potter, Swallows and Amazons*, *633 Squadron* and *Three Men in a Boat*.
 
 [Classic Boats on Auction](http://www.turksauction.com/)  
   

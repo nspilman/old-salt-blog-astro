@@ -10,7 +10,7 @@ tags:
   - "Alfred Dunhill"
   - "Iain Percy"
   - "Man at Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/manatsea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/manatsea.jpg"
 author: "Rick Spilman"
 description: "Man at Sea is one of Alfred Dunhill’s ‘Portraits of Achievement‘. It is five years old, but new to me.  Man at Sea is an ode to the sea and one man’s life long passion for sailing on it, following … Continue reading &rarr;"
 ---

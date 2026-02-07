@@ -11,12 +11,12 @@ tags:
   - "George Cassian"
   - "George Cuthbertson"
   - "Red Jacket"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/georgec.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/georgec.jpg"
 author: "Rick Spilman"
 description: "Yacht designer, boatbuilder, and entrepreneur George Cuthberston died on October 3, age 88. Cuthbertson was one of the founders of the Canadian yacht builder, C & C Yachts, which was a major player in the world of sailing in the 1970s and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/georgec.jpg)Yacht designer, boatbuilder, and entrepreneur George Cuthberston died on October 3, age 88. Cuthbertson was one of the founders of the Canadian yacht builder, [C & C Yachts](https://en.wikipedia.org/wiki/C%26C_Yachts), which was a major player in the world of sailing in the 1970s and 80s. As a yacht designer, Cuthbertson was known for fast designs with long waterlines, low wetted surface, and light but rigid cored hulls.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/georgec.jpg)Yacht designer, boatbuilder, and entrepreneur George Cuthberston died on October 3, age 88. Cuthbertson was one of the founders of the Canadian yacht builder, [C & C Yachts](https://en.wikipedia.org/wiki/C%26C_Yachts), which was a major player in the world of sailing in the 1970s and 80s. As a yacht designer, Cuthbertson was known for fast designs with long waterlines, low wetted surface, and light but rigid cored hulls.
 
 George Cuthbertson, who trained as a mechanical engineer, opened a yacht design and brokerage firm not long after he graduated from the University of Toronto in 1950. His design of *Inisfree*, a 54-footer which was launched in 1958, was an early success.
 

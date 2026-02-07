@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "WWII Captain Claudius has posthumously received credit for sinking a German submarine after the wreck was discovered this summer."
 ---
 
-![Photo: Ocean Exploration Trust](http://www.oldsaltblog.com/wp-content/uploads/2014/12/cam1-20140706220247_87123_990x742.jpg)
+![Photo: Ocean Exploration Trust](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/cam1-20140706220247_87123_990x742.jpg)
 
 Photo: Ocean Exploration Trust
 

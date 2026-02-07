@@ -12,12 +12,12 @@ tags:
   - "iceberg A23a"
   - "Weddell Sea"
   - "West Antarctica"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/iceberga23a.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/iceberga23a.jpg"
 author: "Rick Spilman"
 description: "In 1986, a massive iceberg, almost five times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf. The iceberg, designated A23a, immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/iceberga23a.jpg)In 1986, a massive iceberg, almost five times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf. The iceberg, designated A23a, immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/iceberga23a.jpg)In 1986, a massive iceberg, almost five times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf. The iceberg, designated A23a, immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades.
 
 Now, the world’s largest and among the world’s oldest icebergs is on the move, drifting into what is known as “iceberg alley” on the Antarctic Circumpolar Current. [Recent satellite images reveal that the berg](https://www.reuters.com/business/environment/worlds-largest-iceberg-breaks-free-heads-toward-southern-ocean-2023-11-24/), weighing nearly a trillion metric tonnes, is now drifting quickly past the northern tip of the Antarctic Peninsula, aided by strong winds and currents.
 

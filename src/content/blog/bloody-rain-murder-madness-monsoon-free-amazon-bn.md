@@ -7,12 +7,12 @@ categories:
   - "Lore of the Sea"
   - "Newbooks"
   - "Seastories"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/bloody-rain.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/bloody-rain.jpg"
 author: "Rick Spilman"
 description: "My short story Bloody Rain — Murder, Madness and the Monsoon, set on a sailing ship in the 1880s, is free as an ebook on Amazon and Barnes & Noble.  That’s right — free.  Feel free to grab a copy. About … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/bloody-rain.jpg)My short story [*Bloody Rain — Murder, Madness and the Monsoon*](https://www.amazon.com/dp/B00BDAIDQ4), set on a sailing ship in the 1880s, is free as an ebook on [Amazon](https://www.amazon.com/Bloody-Rain-Murder-Madness-Monsoon-ebook/dp/B00BDAIDQ4/ref=asap_bc?ie=UTF8) and [Barnes & Noble](https://www.barnesandnoble.com/w/bloody-rain-rick-spilman/1114769961?ean=2940044340619).  That’s right — free.  Feel free to grab a copy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/bloody-rain.jpg)My short story [*Bloody Rain — Murder, Madness and the Monsoon*](https://www.amazon.com/dp/B00BDAIDQ4), set on a sailing ship in the 1880s, is free as an ebook on [Amazon](https://www.amazon.com/Bloody-Rain-Murder-Madness-Monsoon-ebook/dp/B00BDAIDQ4/ref=asap_bc?ie=UTF8) and [Barnes & Noble](https://www.barnesandnoble.com/w/bloody-rain-rick-spilman/1114769961?ean=2940044340619).  That’s right — free.  Feel free to grab a copy.
 
 About the short story: *Queen Charlotte was a fine, three-masted iron bark; trim, low and fast on a reach – in all respects, the perfection of the shipbuilder’s art. If she had a single great flaw, it was on her quarterdeck in the man that the owners had chosen as captain. Captain John McPherson maintains absolute control over his ship and those who sail upon her. The only one that he cannot control is himself, slipping into murder and madness in the face of the relentless monsoon.*
 

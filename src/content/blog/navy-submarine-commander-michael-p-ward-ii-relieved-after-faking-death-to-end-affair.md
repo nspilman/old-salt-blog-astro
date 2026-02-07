@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The American singer/songwriter, Paul Simon, had a hit in 1975 titled \"50 Ways to Leave Your Lover.\"  Sending an email to your mistress telling her that you are dead is definitely not on the list.  Commander Michael P. Ward II was recently relieved of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/usspittsburg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/usspittsburg.jpg)
 
 USS Pittsburgh (SSN-720)
 

@@ -10,12 +10,12 @@ tags:
   - "Hilary Lister"
   - "quadriplegic"
   - "Solo Sailor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/hilarylister.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/hilarylister.jpg"
 author: "Rick Spilman"
 description: "Hilary Lister has died at the age of 46. She was a quadriplegic from Kent, England who found escape and freedom in solo sailing. In doing so, she set many sailing records and serves as an inspiration to us all. Lister was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/hilarylister.jpg)[Hilary Lister](https://en.wikipedia.org/wiki/Hilary_Lister) has died at the age of 46. She was a quadriplegic from Kent, England who found escape and freedom in solo sailing. In doing so, she set many sailing records and serves as an inspiration to us all.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/hilarylister.jpg)[Hilary Lister](https://en.wikipedia.org/wiki/Hilary_Lister) has died at the age of 46. She was a quadriplegic from Kent, England who found escape and freedom in solo sailing. In doing so, she set many sailing records and serves as an inspiration to us all.
 
 Lister was able-bodied until she was 15, when she was struck down by a degenerative disease, [reflex sympathetic dystrophy](https://en.wikipedia.org/wiki/Reflex_sympathetic_dystrophy "Reflex sympathetic dystrophy"). By the age of 19, she had lost the use of her legs and by 27 was a quadriplegic. In addition to paralysis, she was left in near constant pain. Lost in the tedium and pain of paralysis, she considered suicide. Then she discovered sailing. 
 

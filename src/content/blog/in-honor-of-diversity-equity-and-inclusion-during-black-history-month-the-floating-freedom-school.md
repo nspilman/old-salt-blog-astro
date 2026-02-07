@@ -16,12 +16,12 @@ tags:
   - "slavery"
   - "steamboat Ben Campbell"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/freedomschool.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/freedomschool.jpg"
 author: "Rick Spilman"
 description: "At a time when programs supporting the American values of diversity, equity, and inclusion are being banned in schools across the nation, it is incumbent on the rest of us to keep alive the history that some are now seeking … Continue reading &rarr;"
 ---
 
-[![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/freedomschool.jpg)](https://theamericanblackstory.com/2023/02/01/d12023/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/freedomschool.jpg)](https://theamericanblackstory.com/2023/02/01/d12023/)
 
 The steamboat Ben Campbell commonly attributed as John Berry Meachum’s Floating Freedom School. Courtesy of the Library of Congress.
 

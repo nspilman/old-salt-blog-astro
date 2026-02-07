@@ -11,12 +11,12 @@ tags:
   - "Malaysia"
   - "shipwreck"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/dredger2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/dredger2.jpg"
 author: "Rick Spilman"
 description: "In February, we posted about the strange disappearance of entire wrecks of Dutch and Japanese ships sunk off the coast of Indonesia during World War II. It was believed that grab dredgers might have literally picked the ships apart for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/dredger2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/dredger2.jpg)
 
 CHUAN HONG 68 Photo: timbo2 from [shipspotting.com](http://www.shipspotting.com/gallery/photo.php?lid=2575034)
 

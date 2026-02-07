@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Cousteau's famous research vessel, Calypso, which has been in danger of being sold or scrapped, may have a savior in Prince Albert II of Monaco."
 ---
 
-![Calypso in better days](http://www.oldsaltblog.com/wp-content/uploads/2015/03/calypso2.jpg)
+![Calypso in better days](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/calypso2.jpg)
 
 Calypso in better days
 

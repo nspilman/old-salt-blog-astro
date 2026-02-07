@@ -13,12 +13,12 @@ tags:
   - "Quarantine"
   - "Staten Island"
   - "yellow fever"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/quarantine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/quarantine.jpg"
 author: "Rick Spilman"
 description: "The story of the New York Marine Hospital in Staten Island—known simply as \"the Quarantine,\" seems very timely. It was the firey center of what became known as the Staten Island Quarantine War of 1858. At the time it was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/quarantine.jpg)The story of the New York Marine Hospital in Staten Island—known simply as “the Quarantine,” seems very timely. It was the firey center of what became known as the [Staten Island Quarantine War of 1858](https://en.wikipedia.org/wiki/Staten_Island_Quarantine_War). At the time it was the largest quarantine facility in the United States.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/quarantine.jpg)The story of the New York Marine Hospital in Staten Island—known simply as “the Quarantine,” seems very timely. It was the firey center of what became known as the [Staten Island Quarantine War of 1858](https://en.wikipedia.org/wiki/Staten_Island_Quarantine_War). At the time it was the largest quarantine facility in the United States.
 
 The idea to isolate the sick and contagious from the general population to limit the spread of disease may date back thousands of years. The word [*quarantine*](https://en.wikipedia.org/wiki/Quarantine#:~:text=The%20word%20quarantine%20comes%20from,thirty%2Dday%20isolation%20period%2C%20first) is from the 14th-century Venetian word *quarantena*, meaning “forty days,” the period that all ships were required to be isolated before passengers and crew could go ashore during the Black Death plague epidemic.
 

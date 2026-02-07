@@ -11,12 +11,12 @@ tags:
   - "macroalgal bloom"
   - "Sargassum"
   - "seaweed"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/GASBmap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/GASBmap.jpg"
 author: "Rick Spilman"
 description: "Floating mats of Sargassum seaweed in the center of the North Atlantic were first reported by Christopher Columbus in the 15th century. These mats, although abundant, have, until recently, been limited and scattered.  In recent years that has changed dramatically. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/GASBmap.jpg)Floating mats of [Sargassum](https://en.wikipedia.org/wiki/Sargassum) seaweed in the center of the North Atlantic were first reported by Christopher Columbus in the 15th century. These mats, although abundant, have, until recently, been limited and scattered.  In recent years that has changed dramatically. A new study by Mengqiu Wang and her colleagues from the University of South Florida, published in the journal [Science](https://science.sciencemag.org/content/365/6448/83), documents the formation of a massive mat of Sargassum seaweed stretching from West Africa to the Gulf of Mexico. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/GASBmap.jpg)Floating mats of [Sargassum](https://en.wikipedia.org/wiki/Sargassum) seaweed in the center of the North Atlantic were first reported by Christopher Columbus in the 15th century. These mats, although abundant, have, until recently, been limited and scattered.  In recent years that has changed dramatically. A new study by Mengqiu Wang and her colleagues from the University of South Florida, published in the journal [Science](https://science.sciencemag.org/content/365/6448/83), documents the formation of a massive mat of Sargassum seaweed stretching from West Africa to the Gulf of Mexico. 
 
 Last summer, the floating mat formed an 8850-kilometer-long belt of the brown buoyant seaweed, estimated to weight more than 20 million tons. The growth of what the authors of the study refer to as the [Great Atlantic Sargassum Belt](https://science.sciencemag.org/content/365/6448/83#login-pane) has been recorded by satellite imagery showing a dramatic increase in the size of the floating seaweed mats over the past 20 years. The researchers say that this Sargassum belt represents the world’s largest macroalgal bloom and that such recurrent blooms may become the new normal. 
 

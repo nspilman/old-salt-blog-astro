@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In September, we posted about a Swedish consortium that included Wallenius Marine has designed Oceanbird, a five-masted sailing car carrier, that, if built, will be the largest sailing cargo ship that the world has ever seen.  Last month, Alfa Laval and Wallenius … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/oceanbird.jpg)In September, we posted about a Swedish consortium that included [Wallenius Marine](https://www.walleniusmarine.com/our-services/ship-design-newbuilding/ship-design/wind-powered-vessels/) has designed [*Oceanbird*](https://www.oceanbirdwallenius.com/), a five-masted sailing car carrier, that, if built, will be the largest sailing cargo ship that the world has ever seen. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/oceanbird.jpg)In September, we posted about a Swedish consortium that included [Wallenius Marine](https://www.walleniusmarine.com/our-services/ship-design-newbuilding/ship-design/wind-powered-vessels/) has designed [*Oceanbird*](https://www.oceanbirdwallenius.com/), a five-masted sailing car carrier, that, if built, will be the largest sailing cargo ship that the world has ever seen. 
 
 Last month, [Alfa Laval](https://www.alfalaval.com/) and Wallenius Marine announced that they would form a 50/50 joint venture – AlfaWall Oceanbird – that will supply innovative wind propulsion solutions for cargo vessels and other ship types. The plan is to have the first Oceanbird system onboard a vessel within five years.
 

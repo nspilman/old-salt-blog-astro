@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The sloop Providence was blown off her jack stands while on shore at Newport Shipyard on Tuesday in blizzard conditions."
 ---
 
-![Photo: Rocky Steeves](http://www.oldsaltblog.com/wp-content/uploads/2015/01/IMG_0742.jpg)
+![Photo: Rocky Steeves](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/IMG_0742.jpg)
 
 Photo: Rocky Steeves
 

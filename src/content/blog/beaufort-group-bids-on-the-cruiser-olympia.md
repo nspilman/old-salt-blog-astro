@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A group in Beaufort, SC is bidding on acquiring the Cruiser Olympia. Beaufort group bids on century-old ship A Beaufort organization is bidding to become the next home of the ship Commodore George Dewey used as his flagship at the Battle of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/uss_olympia_side.jpg)A group in Beaufort, SC is bidding on acquiring the [Cruiser Olympia](http://en.wikipedia.org/wiki/USS_Olympia_\(C-6\)).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/uss_olympia_side.jpg)A group in Beaufort, SC is bidding on acquiring the [Cruiser Olympia](http://en.wikipedia.org/wiki/USS_Olympia_\(C-6\)).
 
 [Beaufort group bids on century-old ship](http://www.heraldonline.com/2011/04/24/3011170/beaufort-group-bids-on-century.html)
 

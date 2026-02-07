@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Chinese Freighter Slams Into Great Barrier Reef The Shen Neng 1 crashed into the reef at full speed a few hours after leaving the port of Gladstone, the Australian authorities said. The ship, which was nine miles outside its authorized … Continue reading &rarr;"
 ---
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/05carrier_337-span-articleL.jpg)*[](http://www.nytimes.com/2010/04/05/science/earth/05reef.html?hp)
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/05carrier_337-span-articleL.jpg)*[](http://www.nytimes.com/2010/04/05/science/earth/05reef.html?hp)
 
 [Chinese Freighter Slams Into Great Barrier Reef](http://www.nytimes.com/2010/04/05/science/earth/05reef.html?hp)
 

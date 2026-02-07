@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "We can only wish him the best of luck. The third time may be the charm. NYC rower tries for third time to cross Atlantic There is something about the sea that has caused Victor Mooney to lose all reason. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/nycrower.jpg)We can only wish him the best of luck. The third time may be the charm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/nycrower.jpg)We can only wish him the best of luck. The third time may be the charm.
 
 [NYC rower tries for third time to cross Atlantic](http://www.salon.com/wires/allwires/2011/02/26/D9LKID980_us_atlantic_rower/index.html)
 

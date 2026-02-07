@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The real victims of piracy are invariably the seafarers who are held for ransom often under grim conditions for long periods of time.  From a statement relased by the Round Table of international shipping associations – and the International Transport … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/somalipirateAFP543.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/somalipirateAFP543.jpg)
 
 The real victims of piracy are invariably the seafarers who are held for ransom often under grim conditions for long periods of time.  From a statement relased by the Round Table of international shipping associations – and the International Transport Workers’ Federation (ITF):
 

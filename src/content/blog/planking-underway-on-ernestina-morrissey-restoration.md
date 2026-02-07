@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Wooden vessels can be a bit like the ax that doesn’t wear out as long as you keep replacing the head and the handle.  Such is very nearly the case with the Ernestina-Morrissey, a 124-year-old schooner now being restored by Bristol Marine at Boothbay Harbor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/emshearplank.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/emshearplank.jpg)
 
 Ernestina-Morrissey shear plank
 

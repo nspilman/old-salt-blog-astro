@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a \"heat stain\" picked up by a US search place has come to naught.   More … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/arasanjuan2.jpg)The news of the Argentine submarine ARA *San Juan*, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a “heat stain” picked up by a US search place has come to naught.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/arasanjuan2.jpg)The news of the Argentine submarine ARA *San Juan*, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a “heat stain” picked up by a US search place has come to naught.  
 
 More disturbing is a [report by the Vienna-based Comprehensive Nuclear-Test-Ban Treaty Organization](http://www.bbc.com/news/world-latin-america-42100620) (CNTBTO) which said that data recorded by its hydro-acoustic stations detected an “underwater impulsive event” shortly after the submarine disappeared in an area close to the the vessel’s last reported position. CNTBTO monitors compliance with the proposed nuclear test ban treaty and has 11 hydro-acoustic stations positioned around the world listening for signs of nuclear explosions. 
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "There fire and explosions on the Lithuanian ferry Lisco Gloria early Saturday.  Twenty three minor injuries were reported.  Translated by Google from German from Der Spiegel : Second explosion reinforced fire on the Baltic Sea ferry 236 people rescued, but the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/ferryfire1j.jpg)There fire and explosions on the Lithuanian ferry *Lisco Gloria early Saturday.  T*wenty three minor injuries were reported.  Translated by Google from German from [Der Spiegel](http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=de&tl=en&u=http://www.spiegel.de/panorama/0,1518,722222,00.html&rurl=translate.google.com&twu=1&usg=ALkJrhhOp6S5BdGmNu5Jd5DjcIR5pC-nLQ) :
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/ferryfire1j.jpg)There fire and explosions on the Lithuanian ferry *Lisco Gloria early Saturday.  T*wenty three minor injuries were reported.  Translated by Google from German from [Der Spiegel](http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=de&tl=en&u=http://www.spiegel.de/panorama/0,1518,722222,00.html&rurl=translate.google.com&twu=1&usg=ALkJrhhOp6S5BdGmNu5Jd5DjcIR5pC-nLQ) :
 
 [Second explosion reinforced fire on the Baltic Sea ferry](http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=de&tl=en&u=http://www.spiegel.de/panorama/0,1518,722222,00.html&rurl=translate.google.com&twu=1&usg=ALkJrhhOp6S5BdGmNu5Jd5DjcIR5pC-nLQ)
 

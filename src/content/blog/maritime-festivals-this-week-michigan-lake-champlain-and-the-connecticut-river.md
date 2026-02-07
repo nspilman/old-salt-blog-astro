@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This is a busy week for maritime festivals in the US.   In Grand Haven, Michigan, the Michigan Pirate Festival 2010 kicked off yesterday with a very Hollywood version of pirates and piracy.  So aargh and shivery m’ timbers.  If only … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/home_4.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/home_4.jpg)
 
 This is a busy week for maritime festivals in the US.   In Grand Haven, Michigan, the [Michigan Pirate Festival 2010](http://www.michiganpiratefestival.com/2010/mpf10.htm) kicked off yesterday with a very Hollywood version of pirates and piracy.  So aargh and shivery m’ timbers.  If only the problem of piracy were so benign.  The festival runs through Sunday.    Also in Michigan, the [White Lake Area Maritime Festival](http://www.grandhaventribune.com/paid/329991444039136.bsp) will be held from August 12-14th.
 

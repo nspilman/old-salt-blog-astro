@@ -5,12 +5,12 @@ slug: "black-history-month-harriett-tubman-the-great-combahee-ferry-raid"
 excerpt: "In honor of Black History Month, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/htubman2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/htubman2.jpg"
 author: "Rick Spilman"
 description: "In honor of Black History Month, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which … Continue reading &rarr;"
 ---
 
-![Harriet Tubman](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Harriet-Tubman.jpg)In honor of Black History Month, here is a throwback Thursday repost of a story I think is well worth telling and retelling.  
+![Harriet Tubman](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Harriet-Tubman.jpg)In honor of Black History Month, here is a throwback Thursday repost of a story I think is well worth telling and retelling.  
 
 Born a slave, [Harriet Tubman](http://en.wikipedia.org/wiki/Harriet_Tubman) escaped and would become a leading “conductor” on the “[Underground Railroad](http://en.wikipedia.org/wiki/Underground_Railroad)” which helped slaves escape from bondage in the South to freedom in the North and in Canada, prior to the Civil War.  Nicknamed “Moses,” she is said to have made more than nineteen trips back into the slave-holding South to rescue more than 300 slaves.  Her greatest rescue mission, however, came when she planned and help lead a [Union riverboat raid at Combahee Ferry](http://en.wikipedia.org/wiki/Raid_at_Combahee_Ferry) in South Carolina on the second of June, 1863, freeing over 720 slaves.
 

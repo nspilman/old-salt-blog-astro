@@ -10,7 +10,7 @@ tags:
   - "Liebherr TLC crane"
   - "offshore installation support vessel"
   - "Orion 1"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/liebherrcranefail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/liebherrcranefail.jpg"
 author: "Rick Spilman"
 description: "How is your day going? We hope that it is going better than the folks who were load testing a new 90 meter high Liebherr TLC crane on the offshore installation support vessel Orion 1. The crane had a 160-meter … Continue reading &rarr;"
 ---

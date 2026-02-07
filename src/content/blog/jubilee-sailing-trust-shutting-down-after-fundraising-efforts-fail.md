@@ -12,12 +12,12 @@ tags:
   - "disabled people"
   - "Jubilee Sailing Trust"
   - "SV Tenacious"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/tstenacious.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tstenacious.jpg"
 author: "Rick Spilman"
 description: "After years of financial struggle, the Jubilee Sailing Trust has announced the closure of the company that owns and operates the tall ship SV Tenacious. The charity Jubilee Sailing Trust (JST) was founded in 1978 and has taken over 55,000 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/tstenacious.jpg)After years of financial struggle, the [Jubilee Sailing Trust](https://jst.org.uk/) has announced the closure of the company that owns and operates the tall ship [SV *Tenacious*](https://en.wikipedia.org/wiki/SV_Tenacious).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tstenacious.jpg)After years of financial struggle, the [Jubilee Sailing Trust](https://jst.org.uk/) has announced the closure of the company that owns and operates the tall ship [SV *Tenacious*](https://en.wikipedia.org/wiki/SV_Tenacious).
 
 The charity Jubilee Sailing Trust (JST) was founded in 1978 and has taken over 55,000 people to sea. The future of a charity offering sailing experiences to disabled people is uncertain after its associated company went into administration.
 

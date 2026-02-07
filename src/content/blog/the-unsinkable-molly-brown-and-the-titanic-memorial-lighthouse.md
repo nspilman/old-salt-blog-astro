@@ -11,12 +11,12 @@ tags:
   - "RMS Titanic"
   - "time ball"
   - "Unsinkable Molly Brown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/titanticmem.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/titanticmem.jpg"
 author: "Rick Spilman"
 description: "Thanks to Captain Richard Bailey for mentioning the time ball on the Titanic Memorial in the Financial District of downtown New York City. We neglected to mention it in our post \"Watching the Ball Drop — the Nautical Origins of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/titanticmem.jpg)Thanks to Captain Richard Bailey for mentioning the time ball on the [Titanic Memorial](https://en.wikipedia.org/wiki/Titanic_Memorial_\(New_York_City\)) in the Financial District of downtown New York City. We neglected to mention it in our post “[Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition](http://www.oldsaltblog.com/2021/01/new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition/).”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/titanticmem.jpg)Thanks to Captain Richard Bailey for mentioning the time ball on the [Titanic Memorial](https://en.wikipedia.org/wiki/Titanic_Memorial_\(New_York_City\)) in the Financial District of downtown New York City. We neglected to mention it in our post “[Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition](http://www.oldsaltblog.com/2021/01/new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition/).”
 
 The memorial, a 60-foot tall lighthouse with a time ball on a staff rising above it, feels just slightly of place, as it is largely surrounded by buildings and several blocks from the East River, at the entrance of the South Street Seaport. It has not always been so landlocked, however. There is also a  fascinating story behind the memorial.
 

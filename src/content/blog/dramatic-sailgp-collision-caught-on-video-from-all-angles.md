@@ -12,7 +12,7 @@ tags:
   - "collision"
   - "Nathan Outteridge's Japan Team"
   - "SailGP"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/sailgpcollision.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/sailgpcollision.jpg"
 author: "Rick Spilman"
 description: "Last week, just before the start of the third race in the SailGP Australian Sail Grand Prix in Sydney, Ben Ainslie’s Great Britain Team collided with Nathan Outteridge’s Japan Team. The crew onboard the British F50 were focussing on closing … Continue reading &rarr;"
 ---

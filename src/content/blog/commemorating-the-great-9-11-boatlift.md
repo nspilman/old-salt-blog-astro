@@ -13,12 +13,12 @@ tags:
   - "BOATLIFT"
   - "Classic Harbor Line Fleet"
   - "Flotilla"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/classicharborline.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/classicharborline.jpg"
 author: "Rick Spilman"
 description: "In honor of 9/11 and in commemoration of the 20th anniversary of Great Boatlift, the largest water evacuation in history, a Flotilla and Blessing of the Fleet is being organized on Friday, September 10. Passage aboard the Classic Harbor Line … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/classicharborline.jpg)In honor of 9/11 and in commemoration of the 20th anniversary of [Great Boatlift](https://sail-nyc.com/the-great-boatlift/), the largest water evacuation in history, a Flotilla and Blessing of the Fleet is being organized on Friday, September 10. Passage aboard the [Classic Harbor Line Fleet](https://sail-nyc.com/the-great-boatlift/) is being offered to participate in this grand event. 100% of all ticket sales are donated to various waterfront organizations.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/classicharborline.jpg)In honor of 9/11 and in commemoration of the 20th anniversary of [Great Boatlift](https://sail-nyc.com/the-great-boatlift/), the largest water evacuation in history, a Flotilla and Blessing of the Fleet is being organized on Friday, September 10. Passage aboard the [Classic Harbor Line Fleet](https://sail-nyc.com/the-great-boatlift/) is being offered to participate in this grand event. 100% of all ticket sales are donated to various waterfront organizations.
 
 ABOUT THE GREAT BOATLIFT OF 9/11:
 

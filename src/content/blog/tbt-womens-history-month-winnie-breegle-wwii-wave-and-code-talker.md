@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On Throw-back Thursday and in honor of Women’s History, here is a slightly reworked post from 2012 about Winnie Breegle, a World War II WAVE (Woman Accepted for Volunteer Emergency Service) and a Navajo code talker, who didn’t happen to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/winnie.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/winnie.jpg)
 
 Winnie Breegle WAVE Code Talker
 

@@ -12,12 +12,12 @@ tags:
   - "pandemic"
   - "Philippines"
   - "typhoon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/typhoonecruiseships.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/typhoonecruiseships.jpg"
 author: "Rick Spilman"
 description: "More than 20 cruise ships are departing Manila Bay to escape the wrath of Category 3 Typhoon Vongfong making landfall in the Philippines. Many of the cruise ships had been in the process of repatriating Filipino crew members, a process … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/typhoonecruiseships.jpg)More than [20 cruise ships are departing Manila Bay](https://www.cruisehive.com/cruise-ships-depart-as-typhoon-vongfong-batters-the-philippines/39681) to escape the wrath of [Category 3 Typhoon Vongfong](https://www.cnn.com/2020/05/14/weather/typhoon-vongfong-philippines-landfall-intl/index.html) making landfall in the Philippines. Many of the cruise ships had been in the process of repatriating Filipino crew members, a process interrupted by the arrival of the typhoon.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/typhoonecruiseships.jpg)More than [20 cruise ships are departing Manila Bay](https://www.cruisehive.com/cruise-ships-depart-as-typhoon-vongfong-batters-the-philippines/39681) to escape the wrath of [Category 3 Typhoon Vongfong](https://www.cnn.com/2020/05/14/weather/typhoon-vongfong-philippines-landfall-intl/index.html) making landfall in the Philippines. Many of the cruise ships had been in the process of repatriating Filipino crew members, a process interrupted by the arrival of the typhoon.
 
 With the Center for Disease Control (CDC) “no sail orders” resulting from the coronavirus pandemic, cruise operators faced challenges in getting their crews home, as they were effectively banned from commercial transportation. Several cruise lines, including the two largest, Carnival and Royal Caribbean, decided, in addition to arranging charter flights, to use their company’s ships to repatriate some of their crews. 
 

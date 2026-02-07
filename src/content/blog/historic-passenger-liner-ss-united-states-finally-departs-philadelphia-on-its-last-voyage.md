@@ -15,7 +15,7 @@ tags:
   - "Philadelphia"
   - "SS United States"
   - "SS United States Conservancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/bigu-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/bigu-1.jpg"
 author: "Rick Spilman"
 description: "[tribulant_slideshow gallery_id=8]    SS United States, the largest and fastest transatlantic passenger liner ever built in America, was towed this morning from the dock in Philadelphia where it has been moored for nearly three decades, on the first leg of … Continue reading &rarr;"
 ---

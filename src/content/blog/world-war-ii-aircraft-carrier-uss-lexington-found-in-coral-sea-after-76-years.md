@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The wreckage of the USS Lexington, sunk in the Battle of the Coral Sea during World War II, has been located by the expedition crew of research vessel (R/V) Petrel, owned by billionaire-explorer Paul Allen. The ship was found roughly 500 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/lexgun.jpg)The wreckage of the [USS *Lexington*](https://en.wikipedia.org/wiki/USS_Lexington_\(CV-2\)), sunk in the Battle of the Coral Sea during World War II, has been [located by the expedition crew of research vessel (R/V) *Petrel,* owned by billionaire-explorer Paul Allen.](https://navaltoday.com/2018/03/06/sunken-aircraft-carrier-uss-lexington-located-after-76-years/) The ship was found roughly 500 miles off the eastern coast of Australia in water almost 2 miles deep. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/lexgun.jpg)The wreckage of the [USS *Lexington*](https://en.wikipedia.org/wiki/USS_Lexington_\(CV-2\)), sunk in the Battle of the Coral Sea during World War II, has been [located by the expedition crew of research vessel (R/V) *Petrel,* owned by billionaire-explorer Paul Allen.](https://navaltoday.com/2018/03/06/sunken-aircraft-carrier-uss-lexington-located-after-76-years/) The ship was found roughly 500 miles off the eastern coast of Australia in water almost 2 miles deep. 
 
 “To pay tribute to the USS *Lexington* and the brave men that served on her is an honor,” said billionaire and Microsoft co-founder Paul Allen. “As Americans, all of us owe a debt of gratitude to everyone who served and who continue to serve our country for their courage, persistence, and sacrifice.”
 

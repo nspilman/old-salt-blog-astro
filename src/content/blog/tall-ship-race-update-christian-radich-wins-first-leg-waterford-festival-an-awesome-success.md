@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The  Tall  Ships Race 2011  is off to a great start.  The race was kicked off with a festival in Waterford, Ireland,  which was declared ‘an awesome success’ by the chairman of Fáilte Ireland, the national tourism authority. (See our previous … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/waterford1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/waterford1.jpg)
 
 The  [Tall  Ships Race 2011](http://www.sailtraininginternational.org/events/2011-onwards/2011-race)  is off to a great start.  The race was kicked off with a [festival in Waterford](http://www.waterfordtallshipsrace.ie/), Ireland,  which was declared [‘an awesome success’ by the chairman of Fáilte Ireland](http://www.waterford-today.ie/waterford-today-news/13332-waterford-s-hosting-of-the-tall-ships-races-declared-an-awesome-success-13332.html), the national tourism authority. ([See our previous post](http://www.oldsaltblog.com/2011/06/29/waterford-ireland-welcomes-the-tall-ship-racers-with-a-festival/).)  During the four day festival, an estimated 500,000 visited the ships and other festival events alongside the city quays or lining up on either side of the Suir Estuary to watch the Parade of Ships, which began the race last Sunday.
 

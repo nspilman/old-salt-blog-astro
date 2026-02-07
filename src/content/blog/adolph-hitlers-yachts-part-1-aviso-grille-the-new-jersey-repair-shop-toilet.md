@@ -14,12 +14,12 @@ tags:
   - "Greg's Auto Repair"
   - "NJ"
   - "ship's toilet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/grille.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/grille.jpg"
 author: "Rick Spilman"
 description: "With the advent of Putin’s brutal invasion of Ukraine, we have posted about superyachts owned by Russian oligarchs including several yachts that may or may not be owned by the dictator himself.  Here is a two-part post about yachts associated … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/grille.jpg)With the advent of Putin’s brutal invasion of Ukraine, we have posted about [superyachts owned by Russian oligarchs](https://www.oldsaltblog.com/2022/03/france-germany-seize-oligarchs-yachts-others-flee-sanctions/) including several yachts that may or may not be owned by [the dictator himself.](https://www.oldsaltblog.com/2022/02/putins-yacht-graceful-makes-hasty-departure-from-germany/)  Here is a two-part post about yachts associated with another brutal despot — Adolph Hitler. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/grille.jpg)With the advent of Putin’s brutal invasion of Ukraine, we have posted about [superyachts owned by Russian oligarchs](https://www.oldsaltblog.com/2022/03/france-germany-seize-oligarchs-yachts-others-flee-sanctions/) including several yachts that may or may not be owned by [the dictator himself.](https://www.oldsaltblog.com/2022/02/putins-yacht-graceful-makes-hasty-departure-from-germany/)  Here is a two-part post about yachts associated with another brutal despot — Adolph Hitler. 
 
 Adolph Hitler does not seem to have been much of a yachtsman. He may have been too busy invading other countries and committing mass murder to spend much time aboard ships and boats. Nevertheless, at least [one sailboat and one small ship](https://www.thisamericanlife.org/189/hitlers-yacht) have gone down in history labeled as “Hitler’s yachts.” Whether they deserved that designation is the subject of considerable disagreement. Both vessels are gone and yet remnants of each have stayed with us — in an artificial reef in the Atlantic off South Florida and, oddly enough, in the bathroom of an auto repair shop in South Jersey. 
 

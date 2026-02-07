@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "The first reports spoke of a \"mystery shipwreck\" uncovered by Hurricane Isaac on an Alabama beach about six miles from Fort Morgan.   It turns out the wooden vessel is not so mysterious after all. Local historians identified her as the 150 feet … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/rachael.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/rachael.jpg)
 
 Schooner Rachel makes another appearance Photo: MEYER VACATION RENTALS
 

@@ -14,12 +14,12 @@ tags:
   - "Norwegian Escape"
   - "Port Canaveral"
   - "Puerto Plata"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/Nescape.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Nescape.jpg"
 author: "Rick Spilman"
 description: "A cruise on the Norwegian Escape that sailed from Port Canaveral, Florida last Monday didn’t go well, and for a change, had little to do with Covid 19. On the second day of the cruise, the ship ran aground in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/Nescape.jpg)A cruise on the [*Norwegian Escape*](https://en.wikipedia.org/wiki/Norwegian_Escape) that sailed from Port Canaveral, Florida last Monday didn’t go well, and for a change, had little to do with Covid 19. On the second day of the cruise, the ship ran aground in high winds at Puerto Plata in the Dominican Republic, its first port-of-call. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Nescape.jpg)A cruise on the [*Norwegian Escape*](https://en.wikipedia.org/wiki/Norwegian_Escape) that sailed from Port Canaveral, Florida last Monday didn’t go well, and for a change, had little to do with Covid 19. On the second day of the cruise, the ship ran aground in high winds at Puerto Plata in the Dominican Republic, its first port-of-call. 
 
 The good news is that the ship was refloated on Tuesday and there were no reported injuries among the more than 2,000 passengers or the 1,700 member crew. The bad news is that the passengers were stuck aboard the ship for the two days it took to arrange a damage survey and to determine that the hull damage was severe enough to cancel both the current cruise and the next cruise scheduled to begin March 19th.
 

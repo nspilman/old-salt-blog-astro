@@ -13,7 +13,7 @@ tags:
   - "Maine"
   - "Margaret Todd"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/maragarettodd.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/maragarettodd.jpg"
 author: "Rick Spilman"
 description: "A short video aboard the schooner, Margaret Todd, sailing in Frenchman Bay from Bar Harbor, Maine. Built in 1998, Margaret Todd is the only four-masted schooner to work in New England in over a century Aboard the Margaret Todd … Continue reading &rarr;"
 ---

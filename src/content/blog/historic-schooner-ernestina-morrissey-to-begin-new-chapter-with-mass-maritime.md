@@ -15,12 +15,12 @@ tags:
   - "Massachusetts Maritime Academy"
   - "new bedford"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/erestinamorrisey.jpg"
 author: "Rick Spilman"
 description: "The schooner Ernestina-Morrissey, ex Ernestina, ex Effie M. Morrissey, will soon begin a new chapter in her long and storied career as a sail training vessel for the Massachusetts Maritime Academy. The schooner was built in 1894 at the James … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/erestinamorrisey.jpg)
 
 Photo: Susan S. Bank
 

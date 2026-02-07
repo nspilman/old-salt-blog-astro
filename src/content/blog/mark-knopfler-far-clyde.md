@@ -12,7 +12,7 @@ tags:
   - "Mark Knopfler"
   - "River Clyde"
   - "scrap yard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/sofarfromclyde.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/sofarfromclyde.jpg"
 author: "Rick Spilman"
 description: "Not many lead singers from an 80’s rock and roll band could write a compelling song about ship scrapping, but then Mark Knopfler is not just any singer/songwriter. Knopfler was born in Glasgow, Scotland on the River Clyde, which was … Continue reading &rarr;"
 ---

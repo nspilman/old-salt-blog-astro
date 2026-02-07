@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Professional surfer and Stand Up Paddleboard (SUP) ambassador Jodie Nelson became the first woman to paddle 39.8 grueling miles from the island of Catalina to Dana Point in an effort to raise awareness and funds for breast cancer research and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/minkepaddle.jpg)Professional surfer and Stand Up Paddleboard (SUP) ambassador Jodie Nelson became the first woman to paddle 39.8 grueling miles from the island of Catalina to Dana Point in an effort to raise awareness and funds for breast cancer research and prevention.  She has an unexpected escort for two hours of the nine hour paddle.  A 30 foot minke whale swan beside her 14 foot board, often rolling and blowing bubbles and around and under it.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/minkepaddle.jpg)Professional surfer and Stand Up Paddleboard (SUP) ambassador Jodie Nelson became the first woman to paddle 39.8 grueling miles from the island of Catalina to Dana Point in an effort to raise awareness and funds for breast cancer research and prevention.  She has an unexpected escort for two hours of the nine hour paddle.  A 30 foot minke whale swan beside her 14 foot board, often rolling and blowing bubbles and around and under it.
 
 [California surfer receives whale of an escort during marathon paddle](http://www.grindtv.com/outdoor/blog/16812/california+surfer+receives+whale+of+an+escort+during+marathon+paddle/)  
   

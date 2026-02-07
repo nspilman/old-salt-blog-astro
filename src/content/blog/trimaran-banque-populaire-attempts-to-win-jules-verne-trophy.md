@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "At just before 0800 GMT this morning,  Pascal Bidegorry and the crew of the 40 meter trimaran Banque Populaire set off from Brest in an attempt to win the Jules Verne Trophy.   The Jules Verne Trophy is a prize for the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Line1_800.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Line1_800.jpg)
 
 At just before 0800 GMT this morning,  Pascal Bidegorry and the crew of the 40 meter trimaran *[Banque Populaire](http://www.voile.banquepopulaire.fr/)* set off from Brest in an attempt to win the [Jules Verne Trophy](http://en.wikipedia.org/wiki/Jules_Verne_Trophy).   The Jules Verne Trophy is a prize for the fastest circumnavigation of the world.  The record is currently held by  the trimaran *[Groupma 3](http://yachtpals.com/fastest-boat-9044)* which, under the command of Franck Cammas, circumnavigated the globe in 48 days 7 hours 44 minutes 52 seconds.
 

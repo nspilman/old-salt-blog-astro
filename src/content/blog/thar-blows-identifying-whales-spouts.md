@@ -11,12 +11,12 @@ tags:
   - "right whales"
   - "spouts"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/rightwhalespout1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/rightwhalespout1.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about a whale swimming in New York’s East River. It was originally identified by the police as a humpback, but their photograph of the whale’s spout now makes it highly likely that the whales was in fact … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/rightwhalespout1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/rightwhalespout1.jpg)
 
 Right: NOAA photo of right whale spout, Left: NYPD photo of whale in East River
 
@@ -24,6 +24,6 @@ Yesterday [we posted about a whale swimming in New York’s East River](http://w
 
 The reason that many think that the whale sighted in the East River is an endangered right whale is because of the spout photographed by the New York Police Department. The photo to the right, above, shows a right whale spouting. The photo the left is of the whale in the East River taken by the NYPD on Saturday. Both have the same distinctive “V” shape.  Humpback whale spouts are usually a single vertical column as shown in the graphic below.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/whalespoutgraphic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/whalespoutgraphic.jpg)
 
 [How To Identify Whales](http://www.north-atlantic-society.com/education/how-to-identify-whales.html)

@@ -14,12 +14,12 @@ tags:
   - "Facebook Marketplace"
   - "SS Almond Branch"
   - "World War I shipwreck"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/almondbranch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/almondbranch.jpg"
 author: "Rick Spilman"
 description: "It is amazing what one can buy online these days.  Recently, Dom Robinson, 53, a diver and shipwreck aficionado from Portsmouth, Hampshire, saw an ad on Facebook Marketplace for a World War I shipwreck for sale for just £300. He … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/almondbranch.jpg)It is amazing what one can buy online these days.  Recently, [Dom Robinson](https://www.youtube.com/@D33pUK), 53, a diver and shipwreck aficionado from Portsmouth, Hampshire, saw an ad on Facebook Marketplace for a World War I shipwreck for sale for just £300. He couldn’t resist, so he snapped up the wreck of the 3,000-tonne *[SS Almond Branch](https://wrecksite.eu/wreck.aspx?77354).*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/almondbranch.jpg)It is amazing what one can buy online these days.  Recently, [Dom Robinson](https://www.youtube.com/@D33pUK), 53, a diver and shipwreck aficionado from Portsmouth, Hampshire, saw an ad on Facebook Marketplace for a World War I shipwreck for sale for just £300. He couldn’t resist, so he snapped up the wreck of the 3,000-tonne *[SS Almond Branch](https://wrecksite.eu/wreck.aspx?77354).*
 
 SS *Almond Branch*, a steam-powered cargo ship built in 1896, was torpedoed by German submarine UB-57 near Mevagissey on November 27, 1917, and has rested 58m underwater off the coast of Cornwall ever since. 
 

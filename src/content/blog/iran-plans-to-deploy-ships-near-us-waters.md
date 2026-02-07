@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Iranian state-run Islamic Republic News Agency reported Tuesday, that Adm. Habibollah Sayari of the Iranian Navy announced that Iran would be sending ships near US waters.   Iran is also planning to send ships to the Gulf of Aden to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/300px-Jamaranpng.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/300px-Jamaranpng.jpg)
 
 Jamaran Mowj Class multi purpose light guided missile frigate
 

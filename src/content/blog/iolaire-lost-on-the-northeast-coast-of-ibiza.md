@@ -11,12 +11,12 @@ categories:
 tags:
   - "Don Street"
   - "Iolaire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/iolaire2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/iolaire2.jpg"
 author: "Rick Spilman"
 description: "Sad news reported by ClassicSailboats.org. The 114-year-old sailing yacht Iolaire was lost off Ibiza in late July. She ran ashore after an uncontrolled jibe and sank. The crew escaped without injury. Iolaire, previously owned for over half a century by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/iolaire2.jpg)Sad news reported by [ClassicSailboats.org](http://classicsailboats.org/iolaire-lost-off-the-north-east-coast-of-ibeza/). The 114-year-old sailing yacht [*Iolaire*](http://classicsailboats.org/portfolio-view/harris-brothers-iolaire/) was lost off Ibiza in late July. She ran ashore after an uncontrolled jibe and sank. The crew escaped without injury.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/iolaire2.jpg)Sad news reported by [ClassicSailboats.org](http://classicsailboats.org/iolaire-lost-off-the-north-east-coast-of-ibeza/). The 114-year-old sailing yacht [*Iolaire*](http://classicsailboats.org/portfolio-view/harris-brothers-iolaire/) was lost off Ibiza in late July. She ran ashore after an uncontrolled jibe and sank. The crew escaped without injury.
 
 *Iolaire,* previously owned for over half a century by well-known sailor and author [Don Street](http://www.street-iolaire.com/bio.htm), had the distinction of being the only more than 100-year-old yacht to have been in continuous commission since she was launched; cruising and racing during both wars.
 

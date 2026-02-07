@@ -15,12 +15,12 @@ tags:
   - "Tillman"
   - "William Tillman"
   - "William Tillman American Civil War"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/tillman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/tillman.jpg"
 author: "Rick Spilman"
 description: "An updated repost in honor of Black History Month.  William Tillman was one of the first black heroes of the American Civil War. He was not a soldier but rather a 27-year-old  cook-steward on the schooner S.J. Waring.  On July … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/tillman.jpg)An updated repost in honor of Black History Month. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/tillman.jpg)An updated repost in honor of Black History Month. 
 
 [William Tillman](http://www.marad.dot.gov/education_landing_page/k_12/k_12_salute/k12_william_tillman/william_tillman_detail_page.htm) was one of the first black heroes of the American Civil War. He was not a soldier but rather a 27-year-old  cook-steward on the schooner [*S.J. Waring*](https://opinionator.blogs.nytimes.com/2011/08/04/the-lion-of-the-day/).  On July 7, 1861, the schooner was captured by the Confederate privateer *[Jefferson Davis](http://americancivilwar.com/tcwn/civil_war/Navy_Ships/Privateer_Jefferson_Davis.html)* while about 150 miles from Sandy Hook, New York.  Captain Smith, the master of the *S.J. Waring* was taken aboard the *Jefferson Davis*, and a five-man prize crew was put aboard the schooner, with orders to sail her to a Southern port where the ship and her cargo would be sold.
 

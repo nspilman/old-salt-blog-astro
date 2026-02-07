@@ -14,12 +14,12 @@ tags:
   - "Matecumbe Key"
   - "Save Alligator Lighthouse"
   - "USS Alligator"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/aligatorreeflight2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/aligatorreeflight2.jpg"
 author: "Rick Spilman"
 description: "After sitting dark for a decade, Alligator Reef Light in the Florida Keys is shining again. An Islamorada community group is spending $6 million to restore and preserve the 150-year-old lighthouse. The group turned on its new solar-powered lights last … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/aligatorreeflight2.jpg)After sitting dark for a decade, [Alligator Reef Light](https://en.wikipedia.org/wiki/Alligator_Reef_Light) in the Florida Keys is shining again. An Islamorada community group is spending $6 million to restore and preserve the 150-year-old lighthouse. The group turned on its new solar-powered lights last Saturday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/aligatorreeflight2.jpg)After sitting dark for a decade, [Alligator Reef Light](https://en.wikipedia.org/wiki/Alligator_Reef_Light) in the Florida Keys is shining again. An Islamorada community group is spending $6 million to restore and preserve the 150-year-old lighthouse. The group turned on its new solar-powered lights last Saturday.
 
 In 1822, the  U.S. Navy schooner [*Alligator*](https://en.wikipedia.org/wiki/USS_Alligator_\(1820\)), part of the U. S. Navy Anti-Piracy Squadron that had been established in Key West, went aground on a reef southeast of Upper Matecumbe Key in the Florida Keys. In 1873, a lighthouse was built just north of Alligator Reef, named after the ill-fated schooner. It was automated in 1963 and was last operational in July 2014, when it was replaced by a 16′ steel structure with a less powerful light located adjacent to it.  
 

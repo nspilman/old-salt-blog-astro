@@ -15,11 +15,11 @@ author: "Rick Spilman"
 description: "It is feeling like spring in New York harbor.   Earlier this month a harbor seal  was seem enjoying the sun on an old pier on the Jersey City side of the Hudson. Harbor seal were once common in New York harbor but were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/seal.jpg)It is feeling like spring in New York harbor.   Earlier this month a harbor seal  was seem enjoying the sun on an old pier on the Jersey City side of the Hudson. Harbor seal were once common in New York harbor but were hunted and finally driven out.  In 2006, after an absence of over 100 years, the first seals began returning to the outer harbor.   This year a young seal appears quite comfortable in the inner harbor directly across from lower Manhattan.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/seal.jpg)It is feeling like spring in New York harbor.   Earlier this month a harbor seal  was seem enjoying the sun on an old pier on the Jersey City side of the Hudson. Harbor seal were once common in New York harbor but were hunted and finally driven out.  In 2006, after an absence of over 100 years, the first seals began returning to the outer harbor.   This year a young seal appears quite comfortable in the inner harbor directly across from lower Manhattan.  
   
 The New York City Police and Fire Departments will both have new boats in the water this month.   The new fireboat, named in-artfully, the *Three Forty Three*, will replace the Fire Department’s *John D. McKean*, which was christened in 1954.   The *Three Forty Three* is said to be the longest and heaviest fireboat in the world and is capable of pumping about 50,000 gallons of water a minute, more than twice that of its predecessor.   The yet unnamed new Police boat will be capable of speed of up to  45 knots powered by Rolls-Royce Kamewa water jets. The officer’s flotation vests are bullet-proof  or their bullet proof vests float, depending on how one looks at it.
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/04policeboat-popup.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/04/04policeboat-popup.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/04policeboat-popup.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/04policeboat-popup.jpg)
 
 [New Vessels for New Perils](http://www.nytimes.com/2010/04/04/nyregion/04boats.html?scp=1&sq=fire%20boat%20police%20boat%20harbor&st=cse)
 

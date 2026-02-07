@@ -16,12 +16,12 @@ tags:
   - "landslide"
   - "Peloponnese"
   - "Saronic Gulf"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/corinthcanal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/corinthcanal.jpg"
 author: "Rick Spilman"
 description: "The Corinth Canal that connects the Gulf of Corinth in the Ionian Sea with the Saronic Gulf in the Aegean Sea, was closed by a landslide in January. It was recently announced that the canal will remain closed to marine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/corinthcanal.jpg)The [Corinth Canal](https://en.wikipedia.org/wiki/Corinth_Canal) that connects the Gulf of Corinth in the Ionian Sea with the Saronic Gulf in the Aegean Sea, was closed by a landslide in January. It was recently announced that the [canal will remain closed to marine traffic](https://www.theca.org.uk/news/med/corinth-canal-closure-2021-season) until the end of the summer 2021 season with a probable extension. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/corinthcanal.jpg)The [Corinth Canal](https://en.wikipedia.org/wiki/Corinth_Canal) that connects the Gulf of Corinth in the Ionian Sea with the Saronic Gulf in the Aegean Sea, was closed by a landslide in January. It was recently announced that the [canal will remain closed to marine traffic](https://www.theca.org.uk/news/med/corinth-canal-closure-2021-season) until the end of the summer 2021 season with a probable extension. 
 
 With the four-mile-long sea-level canal through the Isthmus of Corinth closed, vessels that would otherwise use the canal must travel 185 nautical miles around the Peloponnese. 
 

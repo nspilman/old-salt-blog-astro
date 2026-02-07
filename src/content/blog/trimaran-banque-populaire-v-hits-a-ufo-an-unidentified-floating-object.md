@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The press release, translated from the French by Google, reads, \"Maxi Banque Populaire V hit a UFO*. \"   The footnote clarifies that the trimaran hit an \"unidentified floating object.\"   (Late last month we posted about the trimaran Banque Populaire V setting off … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/banquepopulaireV.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/banquepopulaireV.jpg)
 
 Photo: Yacht Pals
 

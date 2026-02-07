@@ -13,12 +13,12 @@ tags:
   - "HMS Shannon"
   - "Lake Erie"
   - "USS Chesapeake"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/dontgiveupship1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/dontgiveupship1.jpg"
 author: "Rick Spilman"
 description: "On June 1, 1813, two hundred and seven years ago today, the British frigate HMS Shannon defeated and captured the USS Chesapeake in single-ship combat. Captain James  Lawrence on the Chesapeake was mortally wounded during the battle. His last words … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/dontgiveupship1.jpg)On June 1, 1813, two hundred and seven years ago today, the British frigate [HMS *Shannon*](http://en.wikipedia.org/wiki/HMS_Shannon_\(1806\)) defeated and captured the [USS *Chesapeake*](http://en.wikipedia.org/wiki/USS_Chesapeake_\(1799\)) in single-ship combat. [Captain James  Lawrence](http://en.wikipedia.org/wiki/James_Lawrence) on the *Chesapeake* was mortally wounded during the battle. His last words were, depending on the account,  “Don’t give up the ship. Fight her till she sinks,” or “Tell them to fire faster; don’t give up the ship.”  If  “don’t give up the ship” was an order, it was impossible to follow and never carried out. The ship had already been taken by British boarders.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/dontgiveupship1.jpg)On June 1, 1813, two hundred and seven years ago today, the British frigate [HMS *Shannon*](http://en.wikipedia.org/wiki/HMS_Shannon_\(1806\)) defeated and captured the [USS *Chesapeake*](http://en.wikipedia.org/wiki/USS_Chesapeake_\(1799\)) in single-ship combat. [Captain James  Lawrence](http://en.wikipedia.org/wiki/James_Lawrence) on the *Chesapeake* was mortally wounded during the battle. His last words were, depending on the account,  “Don’t give up the ship. Fight her till she sinks,” or “Tell them to fire faster; don’t give up the ship.”  If  “don’t give up the ship” was an order, it was impossible to follow and never carried out. The ship had already been taken by British boarders.
 
 The loss of the USS *Chesapeake* was a military defeat that became a  public relations victory. If Captain Lawrence had lived, it is possible that could have been court-martialed for accepting single ship combat with HMS *Shannon*. Some historians have argued that Lawrence dis­obeyed orders in giving battle while others have suggested that he acted within his prerogative as captain. In any case, it was a bad call. 
 

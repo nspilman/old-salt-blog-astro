@@ -11,7 +11,7 @@ tags:
   - "container ship"
   - "JeffHK"
   - "storm"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/jeffhkstormsea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/jeffhkstormsea.jpg"
 author: "Rick Spilman"
 description: "I love the videos shot and produced by maritime vlogger JeffHK. He describes himself as a sailor with a passion for photo/videography and drones who do vlogs while traveling the world on a mega container-ship. This has been a rough … Continue reading &rarr;"
 ---

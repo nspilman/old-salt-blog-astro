@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "In a statement Friday afternoon, the US Coast Guard announced that a U.S. Navy warship helicopter crew located the overturned hull of the Cheeki Rafiki 1,000 miles offshore Massachusetts and within the U.S. Coast Guard’s search area.   A Navy surface swimmer … Continue reading &rarr;"
 ---
 
-![Photo of capsozed boat taken from Maersk Kure](http://www.oldsaltblog.com/wp-content/uploads/2014/05/maerskraficki.jpg)
+![Photo of capsozed boat taken from Maersk Kure](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/maerskraficki.jpg)
 
 Photo of capsized boat taken from Maersk Kure
 

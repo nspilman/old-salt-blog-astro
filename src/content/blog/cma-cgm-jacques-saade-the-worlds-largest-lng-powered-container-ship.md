@@ -12,12 +12,12 @@ tags:
   - "CMA CGM Jacques Saadé"
   - "Shanghai Jiangnan-Changxing Shipyard"
   - "world's largest LNG-powered container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/lngcontainership.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/lngcontainership.jpg"
 author: "Rick Spilman"
 description: "Last month, China’s Shanghai Jiangnan-Changxing Shipyard launched the CMA CGM Jacques Saadé, the first in a new fleet of nine French-flagged, 23,000-TEU, LNG-powered containerships that will join the group’s fleet in 2020 on the French Asia Line. Not only will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/lngcontainership.jpg)Last month, China’s Shanghai Jiangnan-Changxing Shipyard launched the [CMA CGM *Jacques Saadé*,](https://www.cma-cgm.com/news/2749/world-premiere-launching-of-the-world-s-largest-lng-powered-containership-and-future-cma-cgm-group-flagship) the first in a new fleet of nine French-flagged, 23,000-TEU, LNG-powered containerships that will join the group’s fleet in 2020 on the French Asia Line. Not only will the new ship be one of the world’s largest container ships when it goes into service, and it will also be the largest LNG powered container ship in the world. The ship will be powered by a [Winterthur Gas & Diesel Ltd (WinGD) 12-cylinder X92DF dual-fuel low-speed engine](https://www.marinelog.com/news/cma-cgm-opts-for-wingd-engines-to-power-lng-fueled-box-giants/), developing 63,840 kW (91,766 HP) at 80 rpm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/lngcontainership.jpg)Last month, China’s Shanghai Jiangnan-Changxing Shipyard launched the [CMA CGM *Jacques Saadé*,](https://www.cma-cgm.com/news/2749/world-premiere-launching-of-the-world-s-largest-lng-powered-containership-and-future-cma-cgm-group-flagship) the first in a new fleet of nine French-flagged, 23,000-TEU, LNG-powered containerships that will join the group’s fleet in 2020 on the French Asia Line. Not only will the new ship be one of the world’s largest container ships when it goes into service, and it will also be the largest LNG powered container ship in the world. The ship will be powered by a [Winterthur Gas & Diesel Ltd (WinGD) 12-cylinder X92DF dual-fuel low-speed engine](https://www.marinelog.com/news/cma-cgm-opts-for-wingd-engines-to-power-lng-fueled-box-giants/), developing 63,840 kW (91,766 HP) at 80 rpm.
 
 [A recent study suggests that LNG can reduce the emission of Green House Gases (GHG)](https://www.thinkstep.com/content/life-cycle-ghg-emission-study-use-lng-marine-fuel-1) between 14% to 21% for 2-stroke slow-speed engines. [LNG also emits zero SOx and virtually zero particulate matter](https://sea-lng.org/lng-as-a-marine-fuel/). Compared to existing heavy marine fuel oils, LNG can, depending on the technology used, emit 90% fewer NOx emissions.
 

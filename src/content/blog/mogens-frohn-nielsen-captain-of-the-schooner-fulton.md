@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Sad news from Shipgaz: Fulton captain has passed away Legendary captain Mogens Frohn Nielsen has passed away at the age of 75.  Mogens Frohn Nielsen pioneered the use of sailing ships as floating schools for youngsters with problems. He started … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/nielson.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/nielson.jpg)
 
 Mogens Frohn Nielsen
 

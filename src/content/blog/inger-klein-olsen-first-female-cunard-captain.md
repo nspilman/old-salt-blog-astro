@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Our belated congratulations to Inger Klein Olsen, who took command of Cunard Line’s Queen Victoria at the beginning of December.  She is the first woman to take command of a Cunard Line ship in the line’s 170 year history. History is Made … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/cunardcaptain.jpg)Our belated congratulations to Inger Klein Olsen, who took command of Cunard Line’s *[Queen Victoria](http://www.cunard.com/Ships/Queen-Victoria/)* at the beginning of December.  She is the first woman to take command of a Cunard Line ship in the line’s 170 year history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cunardcaptain.jpg)Our belated congratulations to Inger Klein Olsen, who took command of Cunard Line’s *[Queen Victoria](http://www.cunard.com/Ships/Queen-Victoria/)* at the beginning of December.  She is the first woman to take command of a Cunard Line ship in the line’s 170 year history.
 
 [History is Made As Cunard Appoints the Line’s First Female Captain](http://www.maritime-executive.com/pressrelease/cunard-appoints-first-female-captain-dec/)
 

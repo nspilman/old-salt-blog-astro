@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The Russian Cruiser Aurora was launched 110 years ago this month. She is currently a museum ship in St. Petersburg, the city where she was built. The Cruiser \"Aurora\" The historical ship Aurora has been turned into a museum and is docked … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/aurora-1.jpg)The Russian [Cruiser Aurora](http://en.wikipedia.org/wiki/Russian_cruiser_Aurora) was launched 110 years ago this month. She is currently a museum ship in St. Petersburg, the city where she was built.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/aurora-1.jpg)The Russian [Cruiser Aurora](http://en.wikipedia.org/wiki/Russian_cruiser_Aurora) was launched 110 years ago this month. She is currently a museum ship in St. Petersburg, the city where she was built.
 
 [The Cruiser “Aurora”](http://www.saint-petersburg.com/virtual-tour/cruiser-aurora.asp)
 

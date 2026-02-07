@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Until recently only China, France, the United States, Britain and Russia have built and operated nuclear submarines. With the 6,000-ton INS Arihant ready for sea trials, India has joined this elite club.  The submarine will be the first Indian-built nuclear submarine to … Continue reading &rarr;"
 ---
 
-![Arihant_class-(1)](http://www.oldsaltblog.com/wp-content/uploads/2013/08/Arihant_class-1.jpg)
+![Arihant_class-(1)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Arihant_class-1.jpg)
 
 INS Arihant
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Be sure to stop by tomorrow from 6 -- 9 PM, for a reception to launch the LILAC Art Series on the the historic ex-Coast Guard Cutter Lilac."
 ---
 
-[![Click for a larger image](http://www.oldsaltblog.com/wp-content/uploads/2015/05/lilcaposter-151x200.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2015/05/lilcaposter.jpg)
+[![Click for a larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilcaposter-151x200.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilcaposter.jpg)
 
 Click for a larger image
 

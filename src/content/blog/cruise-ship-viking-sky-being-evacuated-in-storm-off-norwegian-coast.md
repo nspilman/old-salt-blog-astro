@@ -12,12 +12,12 @@ tags:
   - "Norway"
   - "Norwegian Coast Guard"
   - "Viking Sky"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/vikingsky.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/vikingsky.jpg"
 author: "Rick Spilman"
 description: "According to Norwegian authorities, roughly 1,300 people are being evacuated from the cruise ship Viking Sky. The ship suffered engine problems and sent out a distress call and was drifting toward shore in high winds and rough seas off the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/vikingsky.jpg)According to Norwegian authorities, roughly 1,300 people are being evacuated from the cruise ship *[Viking Sky](https://www.ship-technology.com/projects/viking-sky-cruise-ship/).* The ship suffered engine problems and sent out a distress call and was drifting toward shore in high winds and rough seas off the western coast of Norway. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/vikingsky.jpg)According to Norwegian authorities, roughly 1,300 people are being evacuated from the cruise ship *[Viking Sky](https://www.ship-technology.com/projects/viking-sky-cruise-ship/).* The ship suffered engine problems and sent out a distress call and was drifting toward shore in high winds and rough seas off the western coast of Norway. 
 
 The Norwegian [newspaper VG](https://www.vg.no/nyheter/innenriks/i/1nOlqB/1300-passasjerer-evakueres-fra-cruiseskip) is reporting that the ship was within 2.5 nautical miles from shore at around 4PM local time. Winds were reported to be around 38 knots with waves up to eight meters high. By 6:30 pm local time, the ship’s personnel were reported to have brought at least one of the ship’s four engines back on-line. By that time, around 100 passengers had been rescued according to Viking operations manager, Tor Andre Franck. 
 

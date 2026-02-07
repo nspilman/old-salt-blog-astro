@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "It is often referred to as the Caspian Sea Monster.  To my eye, it looks more like a spacecraft from a sci-fi movie than a creature of cryptozoology.  It is, in fact, a huge vessel, part plane, and part ship, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/caspianseamonster.jpg)It is often referred to as the [Caspian Sea Monster](https://en.wikipedia.org/wiki/Caspian_Sea_Monster).  To my eye, it looks more like a spacecraft from a sci-fi movie than a creature of cryptozoology.  It is, in fact, a huge vessel, part plane, and part ship, that has lay abandoned on the shore of the Caspian Sea for three decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/caspianseamonster.jpg)It is often referred to as the [Caspian Sea Monster](https://en.wikipedia.org/wiki/Caspian_Sea_Monster).  To my eye, it looks more like a spacecraft from a sci-fi movie than a creature of cryptozoology.  It is, in fact, a huge vessel, part plane, and part ship, that has lay abandoned on the shore of the Caspian Sea for three decades.
 
 It is more properly known as a [Lun-class Ekranoplan](https://en.wikipedia.org/wiki/Lun-class_ekranoplan), the only one of its kind ever put into service, between 1987 and sometime in the 1990s. An Ekranoplan, also known as a [Ground Effect Vehicle](https://en.wikipedia.org/wiki/Ground-effect_vehicle), is classified by IMO as a ship, but derives its unique high-speed capabilities by skimming the surface of the water at a height of between one and five meters (three to 16 feet). The aerodynamic ground effect allows low drag and relatively high speeds.  
 

@@ -12,12 +12,12 @@ tags:
   - "Empress of the Seas"
   - "fisherman"
   - "fishing boat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/empressseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/empressseas.jpg"
 author: "Rick Spilman"
 description: "Call it a miracle, serendipity, or just good luck, but two stranded Costa Rican fishermen were rescued by the Royal Caribbean cruise ship Empress of the Seas after the ship was rerouted because of a storm. If the ship had continued on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/empressseas.jpg)Call it a miracle, serendipity, or just good luck, but two stranded Costa Rican fishermen were rescued by the Royal Caribbean cruise ship [*Empress of the Seas*](https://en.wikipedia.org/wiki/MS_Empress_of_the_Seas) after the ship was rerouted because of a storm. If the ship had continued on its planned course, it would have missed the stranded sailors.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/empressseas.jpg)Call it a miracle, serendipity, or just good luck, but two stranded Costa Rican fishermen were rescued by the Royal Caribbean cruise ship [*Empress of the Seas*](https://en.wikipedia.org/wiki/MS_Empress_of_the_Seas) after the ship was rerouted because of a storm. If the ship had continued on its planned course, it would have missed the stranded sailors.
 
 The fishermen were near death after 20 days adrift. They had set out from Costa Rica on December 1, but had been run out of fuel after strong winds had separated them from their nets. They had a week’s supply of food and water aboard which they depleted almost two weeks before the rescue. One of the rescued fishermen was so weak that he could no longer walk and had to be carried from the *Empress of the Seas*‘ tender to the ship.   
 

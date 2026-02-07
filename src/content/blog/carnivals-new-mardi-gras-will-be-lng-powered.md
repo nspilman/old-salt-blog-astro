@@ -12,12 +12,12 @@ tags:
   - "LNG"
   - "Mardi Gras"
   - "Meyer Turku"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mardigras.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mardigras.jpg"
 author: "Rick Spilman"
 description: "Carnival Corporation is the world’s largest cruise line, operating over 100 ships across nine brands. Back in 1972, however, it owned only one ship, the TSS Mardi Gras, of 27,000 GRT and carrying roughly 1,000 passengers. Now, Carnival is building … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mardigras.jpg)[Carnival Corporation](http://www.carnivalcorp.com/) is the world’s largest cruise line, operating over 100 ships across nine brands. Back in 1972, however, it owned only one ship, the [TSS *Mardi Gras*, of 27,000 GRT and carrying roughly 1,000 passengers](http://www.oldsaltblog.com/2017/03/carnivals-first-ship-tss-mardi-gras/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mardigras.jpg)[Carnival Corporation](http://www.carnivalcorp.com/) is the world’s largest cruise line, operating over 100 ships across nine brands. Back in 1972, however, it owned only one ship, the [TSS *Mardi Gras*, of 27,000 GRT and carrying roughly 1,000 passengers](http://www.oldsaltblog.com/2017/03/carnivals-first-ship-tss-mardi-gras/).
 
 Now, Carnival is building a new *Mardi Gras* of 180,000 GT and capable of carrying 5,200 passengers. When delivered it will be the largest cruise ship in the Carnival fleet. The new *Mardi Gras* will be distinctive for more than just its size. In addition to being the only cruise ship with an onboard roller coaster, it will also be powered by Liquefied Natural Gas (LNG). 
 

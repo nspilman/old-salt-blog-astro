@@ -12,12 +12,12 @@ tags:
   - "Sumo wrestler"
   - "Suruga Bay"
   - "Yokozuna Iwashi"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/slickhead.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/slickhead.jpg"
 author: "Rick Spilman"
 description: "A recently discovered large predatory fish found in deep water off the coast of Japan is a reminder that we know more about the surface of the Moon or Mars than we do about the deep oceans. In 2016, marine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/slickhead.jpg)A recently discovered [large predatory fish found in deep water](https://www.yahoo.com/news/scientists-discover-giant-fish-species-140145749.html) off the coast of Japan is a reminder that we know more about the surface of the Moon or Mars than we do about the deep oceans.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/slickhead.jpg)A recently discovered [large predatory fish found in deep water](https://www.yahoo.com/news/scientists-discover-giant-fish-species-140145749.html) off the coast of Japan is a reminder that we know more about the surface of the Moon or Mars than we do about the deep oceans.
 
 In 2016, [marine biologists brought up a strange, large fish](https://www.cbsnews.com/news/new-species-fish-yokazuna-slickhead-deep-sea-predator-japan/) from 8,000 feet below the surface in [Suruga Bay](https://en.wikipedia.org/wiki/Suruga_Bay), on the Pacific coast of Honshū in Shizuoka Prefecture, Japan. The fish was over a meter long and weighed 25 kg. Subsequently, three more fish of the same type were also caught. While large bony fish are not uncommon in shallow water, they are relatively rare in the deep ocean. 
 

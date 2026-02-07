@@ -11,12 +11,12 @@ tags:
   - "Migaloo"
   - "New South Wales"
   - "white humpback whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/migaloo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/migaloo.jpg"
 author: "Rick Spilman"
 description: "There are reports that Migaloo, an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a \"rockstar\" and is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/migaloo.jpg)There are reports that [Migaloo](https://www.migaloo.org.au/), an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a “rockstar” and is arguably the world’s [most famous living whale](https://twitter.com/Migaloo1).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/migaloo.jpg)There are reports that [Migaloo](https://www.migaloo.org.au/), an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a “rockstar” and is arguably the world’s [most famous living whale](https://twitter.com/Migaloo1).
 
 First sighted in 1991, the all-white whale is among some 35,000 humpback whales that migrate north to subtropical waters where they mate and give birth. The timing of the migration depends on water temperatures, sea ice, predators, and the availability of food. [7news.com.au](https://7news.com.au/news/nsw/migaloo-the-white-whale-spotted-off-the-nsw-south-coast-c-1103272) notes that this year, Migaloo is early.
 

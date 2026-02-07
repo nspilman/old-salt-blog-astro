@@ -8,7 +8,7 @@ categories:
   - "Ships"
 tags:
   - "Schooner Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/virginiaframes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/virginiaframes.jpg"
 author: "Rick Spilman"
 description: "For Throwback-Thursday, here is a video beginning with the construction of the schooner Virginia in 2005 through to the sailing of the Gloucester Schooner race of 2007, which the Virginia won. Start to the Finishline from Mike Goodwin on Vimeo. … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "deep-sea mining"
   - "Pacific Ocean"
   - "rare earth metals"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/deepseamining.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/deepseamining.jpg"
 author: "Rick Spilman"
 description: "Deep-sea mining may provide the material necessary to create our latest and greatest electronics, electric cars and battery backup systems. The mining may also damage the environment and worsen climate change.  In 2018, we posted about the discovery of huge … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/deepseamining.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/deepseamining.jpg)
 
 Graphic: IUCN
 

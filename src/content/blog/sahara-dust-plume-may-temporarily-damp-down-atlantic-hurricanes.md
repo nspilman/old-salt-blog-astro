@@ -9,12 +9,12 @@ tags:
   - "Atlantic Ocean"
   - "hurricane"
   - "Sahara Dust Plume"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/saharaplume.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/saharaplume.jpg"
 author: "Rick Spilman"
 description: "A huge cloud of desert dust has blown off the Sahara and is bound across the Atlantic Ocean heading toward the United States. While dust plumes are not uncommon, this plume is exceptionally large and dense with the highest concentration … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/saharaplume.jpg)A huge cloud of desert dust has blown off the Sahara and is bound across the Atlantic Ocean heading toward the United States. While dust plumes are not uncommon, this plume is exceptionally large and dense with the highest concentration of dust particles observed in [50 to 60 years](https://www.mic.com/p/everything-you-need-to-know-about-the-massive-saharan-dust-plume-heading-our-way-23621328).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/saharaplume.jpg)A huge cloud of desert dust has blown off the Sahara and is bound across the Atlantic Ocean heading toward the United States. While dust plumes are not uncommon, this plume is exceptionally large and dense with the highest concentration of dust particles observed in [50 to 60 years](https://www.mic.com/p/everything-you-need-to-know-about-the-massive-saharan-dust-plume-heading-our-way-23621328).
 
 The plume has already [turned blue Caribbean skies a hazy brownish gray](https://www.cnn.com/2020/06/23/weather/saharan-dust-plume-caribbean-us-forecast/index.html) and is expected to arrive on the US Gulf Coast later this week after traveling 5,000 miles from Africa. 
 

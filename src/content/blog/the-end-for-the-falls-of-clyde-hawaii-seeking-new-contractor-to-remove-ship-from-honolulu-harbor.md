@@ -15,12 +15,12 @@ tags:
   - "Honolulu harbor"
   - "Matson Navigation Company"
   - "sail-driven oil tanker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/foclarger.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/foclarger.jpg"
 author: "Rick Spilman"
 description: "The State of Hawaii is moving closer to removing the historic four-masted iron-hulled ship Falls of Clyde from Honolulu harbor, where it has languished since 2008.  Though owned by the nonprofit Friends of the Falls of Clyde, the state government … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)The State of Hawaii is moving closer to removing the historic four-masted iron-hulled ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu harbor, where it has languished since 2008.  Though owned by the nonprofit Friends of the Falls of Clyde, the state government took over the vessel’s management seven years ago over safety concerns. *Falls of Clyde* is the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)The State of Hawaii is moving closer to removing the historic four-masted iron-hulled ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu harbor, where it has languished since 2008.  Though owned by the nonprofit Friends of the Falls of Clyde, the state government took over the vessel’s management seven years ago over safety concerns. *Falls of Clyde* is the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world.
 
 A [Hawaii Department of Transportation (HDOT) statement](https://files.hawaii.gov/dbedt/erp/Doc_Library/2023-12-23-OA-DEA-Removal-of-Falls-of-Clyde.pdf) notes that the ship is severely corroded, leaking, and has lost its structural and watertight integrity. It presents a risk of structural failure and sinking, threatening harbor safety and maritime operations.
 

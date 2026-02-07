@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Like many milestones, once it is past, it doesn’t seem like quite as big a deal.  Last week, three women made history by becoming the first female submariners to serve in the Royal Navy. Female officers have served on US … Continue reading &rarr;"
 ---
 
-![Lieutenants Maxine Stiles, Alexandra Olsson and Penny Thackray (left-right) the first female RN submariners](http://www.oldsaltblog.com/wp-content/uploads/2014/05/RNsubmariners.jpg)
+![Lieutenants Maxine Stiles, Alexandra Olsson and Penny Thackray (left-right) the first female RN submariners](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/RNsubmariners.jpg)
 
 Lieutenants Maxine Stiles, Alexandra Olsson and Penny Thackray (left-right) the first female RN submariners
 

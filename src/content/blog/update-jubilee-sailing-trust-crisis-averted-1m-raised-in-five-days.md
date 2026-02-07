@@ -10,12 +10,12 @@ categories:
 tags:
   - "emergency fundraising appeal"
   - "Jubilee Sailing Trust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/lnT.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lnT.jpg"
 author: "Rick Spilman"
 description: "The financial crisis that threatened to shut down the Jubilee Sailing Trust (JST) has been averted. The sailing charity says that its emergency fundraising appeal raised more than £1m in five days. The charity had warned that if it did … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/lnT.jpg)The financial crisis that threatened to shut down the [Jubilee Sailing Trust](https://jst.org.uk/jubilee-sailing-trust-looks-set-to-be-saved-after-1m-campaign/) (JST) has been averted. The sailing charity says that its emergency fundraising appeal raised more than £1m in five days. The [charity had warned that if it did not raise the funds by Friday](http://www.oldsaltblog.com/2019/07/crisis-at-the-jubilee-sailing-trust-emergency-appeal-hopes-to-prevent-shutdown/#more-52710), July 5th, it could be forced to shut down. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lnT.jpg)The financial crisis that threatened to shut down the [Jubilee Sailing Trust](https://jst.org.uk/jubilee-sailing-trust-looks-set-to-be-saved-after-1m-campaign/) (JST) has been averted. The sailing charity says that its emergency fundraising appeal raised more than £1m in five days. The [charity had warned that if it did not raise the funds by Friday](http://www.oldsaltblog.com/2019/07/crisis-at-the-jubilee-sailing-trust-emergency-appeal-hopes-to-prevent-shutdown/#more-52710), July 5th, it could be forced to shut down. 
 
 On a JST press release, Duncan Souster, CEO of the Jubilee Sailing Trust, said:
 

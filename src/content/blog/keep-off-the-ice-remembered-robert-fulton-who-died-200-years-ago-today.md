@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Robert Fulton died 200 years ago today after becoming soaked in icy water when a friend fell through the ice on the Hudson River."
 ---
 
-![Robert Fulton](http://www.oldsaltblog.com/wp-content/uploads/2015/02/fulton.jpg)
+![Robert Fulton](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/fulton.jpg)
 
 Robert Fulton
 

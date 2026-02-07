@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The Suezmax oil tanker United Kalavrvta has been motoring in large circles in the Gulf of Mexico for over a month. Today her AIS (Automatic Identification System) transponder was turned off, making her far more difficult to track. The ship has, at … Continue reading &rarr;"
 ---
 
-![A still image from video taken by a U.S. Coast Guard HC-144 Ocean Sentry aircraft shows the oil tanker United Kalavyrta carrying a cargo of Kurdish crude oil, approaching Galveston, Texas last month. (Reuters)](http://www.oldsaltblog.com/wp-content/uploads/2014/08/united-kalavyrta-kalavrvta-oil-tanker.jpg)
+![A still image from video taken by a U.S. Coast Guard HC-144 Ocean Sentry aircraft shows the oil tanker United Kalavyrta carrying a cargo of Kurdish crude oil, approaching Galveston, Texas last month. (Reuters)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/united-kalavyrta-kalavrvta-oil-tanker.jpg)
 
 A still image from video taken by a U.S. Coast Guard HC-144 Ocean Sentry aircraft shows the oil tanker United Kalavyrta carrying a cargo of Kurdish crude oil, approaching Galveston, Texas last month. (Reuters)
 

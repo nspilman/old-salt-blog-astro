@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Photographer Scott Haefner and a few of his friends snuck aboard ships in the Suisan Bay Reserve Fleet near San Francisco, CA and photographed and documented the rusting fleet.  Fascinating images.  The Mail Online ran an article today about his work.  For more images, see Haefner’s site: … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/ghostfleet.jpg)](http://scotthaefner.com/beyond/mothball-fleet-ghost-ships/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ghostfleet.jpg)](http://scotthaefner.com/beyond/mothball-fleet-ghost-ships/)
 
 [Photographer Scott Haefner](http://scotthaefner.com/beyond/mothball-fleet-ghost-ships/) and a few of his friends snuck aboard ships in the Suisan Bay Reserve Fleet near San Francisco, CA and photographed and documented the rusting fleet.  Fascinating images.  The [Mail Online](http://www.dailymail.co.uk/news/article-2001303/The-ghost-ships-Mothball-fleet-Incredible-pictures-abandoned-Navy-war-ships-taken-crew-illegal-squatters.html?ITO=1490) ran an article today about his work.  For more images, see Haefner’s site: [Inside the Ghost Ships of the Mothball Fleet](http://scotthaefner.com/beyond/mothball-fleet-ghost-ships/)  
   

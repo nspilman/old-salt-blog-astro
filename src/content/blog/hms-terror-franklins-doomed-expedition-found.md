@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In an interesting historical coincidence, just days after the luxury cruise ship, Crystal Serenity, completed a passage through the Canadian Arctic’s Northwest Passage,  HMS Terror has been found.  HMS Terror is the second of two ships from Sir John Franklin’s ill-fated expedition to traverse … Continue reading &rarr;"
 ---
 
-![HMS Terror trapped in the ice](http://www.oldsaltblog.com/wp-content/uploads/2016/09/terrorice.jpg)
+![HMS Terror trapped in the ice](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/terrorice.jpg)
 
 HMS Terror trapped in the ice
 

@@ -14,12 +14,12 @@ tags:
   - "orphan boys"
   - "smallpox"
   - "Vaccine ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/balmis.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/balmis.jpg"
 author: "Rick Spilman"
 description: "Today, the first doses of the Pfizer-BioNTech Covid-19 vaccine have begun to be distributed in the United States. It seems like a good time to look back at the voyage of the orphan boys in the vaccine ship that sailed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/balmis.jpg)Today, the first doses of the [Pfizer-BioNTech Covid-19 vaccine have begun to be distributed](https://www.nytimes.com/live/2020/12/13/world/covid-19-coronavirus) in the United States. It seems like a good time to look back at the voyage of the orphan boys in the vaccine ship that sailed from Spain in 1803.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/balmis.jpg)Today, the first doses of the [Pfizer-BioNTech Covid-19 vaccine have begun to be distributed](https://www.nytimes.com/live/2020/12/13/world/covid-19-coronavirus) in the United States. It seems like a good time to look back at the voyage of the orphan boys in the vaccine ship that sailed from Spain in 1803.
 
 Now know as the [Balmis Expedition](https://en.wikipedia.org/wiki/Balmis_Expedition), it was officially called the Real Expedición Filantrópica de la Vacuna (Royal Philanthropic Vaccine Expedition) and was a three-year mission, from 1803 to 1806, to Spanish America and Asia led by Dr. Francisco Javier de Balmis with the aim of vaccinating millions against smallpox. It was the first large scale mass vaccination of its kind.
 

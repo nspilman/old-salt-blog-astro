@@ -13,12 +13,12 @@ tags:
   - "hurricane"
   - "Hurricane Maria"
   - "St. Croix"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/alexham.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/alexham.jpg"
 author: "Rick Spilman"
 description: "In August of 1772, a powerful hurricane devastated much of the Leeward Islands in the Caribbean. On the island of St. Croix, the town of Christiansted was virtually leveled. An impoverished 17-year-old clerk, who worked for a local merchant, wrote a letter to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/alexham.jpg)In August of 1772, a powerful hurricane devastated much of the Leeward Islands in the Caribbean. On the island of St. Croix, the town of Christiansted was virtually leveled. An impoverished 17-year-old clerk, who worked for a local merchant, [wrote a letter](http://storyoftheweek.loa.org/2017/09/account-of-hurricane.html) to his long distant father describing the storm. That letter would influence the history of a nation not yet born. The young clerk’s name, of course, was Alexander Hamilton   
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/alexham.jpg)In August of 1772, a powerful hurricane devastated much of the Leeward Islands in the Caribbean. On the island of St. Croix, the town of Christiansted was virtually leveled. An impoverished 17-year-old clerk, who worked for a local merchant, [wrote a letter](http://storyoftheweek.loa.org/2017/09/account-of-hurricane.html) to his long distant father describing the storm. That letter would influence the history of a nation not yet born. The young clerk’s name, of course, was Alexander Hamilton   
 
 In addition to vividly describing the horrors of the hurricane, the letter also suggested that the storm was a “divine rebuke to human vanity and pomposity.” The letter passed through the hands of Hugh Knox, a minister, and journalist, who published the letter in the *Royal Danish-American Gazette.* The newspaper’s readers were so impressed by the eloquence and skill of the 17-year-old letter writer that they raised money to send him to be educated in New York.
 

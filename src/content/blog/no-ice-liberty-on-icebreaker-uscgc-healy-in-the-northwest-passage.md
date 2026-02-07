@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "One of the traditions of US icebreakers operating in the Arctic is \"ice liberty.\" When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/healynoice.jpg)One of the traditions of US icebreakers operating in the Arctic is “ice liberty.” When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch football to hockey. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/healynoice.jpg)One of the traditions of US icebreakers operating in the Arctic is “ice liberty.” When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch football to hockey. 
 
 This year as the icebreaker [USCGC *Healy*](https://www.pacificarea.uscg.mil/Our-Organization/Cutters/cgcHealy/) transited the Northwest Passage for the first time since 2005, ice liberty was canceled. In the melting Arctic, no ice floe was thick enough to be suitable.
 
@@ -34,6 +34,6 @@ The *Healy* is a medium icebreaker that is able to break ice up to 10-feet thick
 
 After leaving Boston, the Healy returned to sea, headed for Baltimore en route to a Panama Canal passage and a final jog north up the West Coast to Seattle. The goal is to make it back by Nov. 20, shortly before Thanksgiving.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/healynorthwestpassage.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/healynorthwestpassage.jpg)
 
 Thanks to Doug Bostrom for contributing to this post.

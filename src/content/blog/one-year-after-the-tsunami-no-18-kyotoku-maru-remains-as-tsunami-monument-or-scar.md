@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "One year ago today, the largest earthquake in Japan’s history, measuring 8.9 on the Richter scale, struck 70 miles offshore, triggering a 23-foot (7-meter) tsunami that washed far inland smashing towns, airports and highways across the north-eastern Japanese coast. Over 16,000 people are known … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/japanesefishing.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/japanesefishing.jpg)
 
 One year later, No. 18 Kyotoku-maru AP photo by Koji Sasahara
 

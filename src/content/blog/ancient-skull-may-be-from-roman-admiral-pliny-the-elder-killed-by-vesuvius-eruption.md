@@ -12,12 +12,12 @@ tags:
   - "Pompeii"
   - "Roman Admiral Gaius Plinius Secundus"
   - "Stabiae"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/skull.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/skull.jpg"
 author: "Rick Spilman"
 description: "A team of Italian researchers has concluded that the upper portion of a skull found near Pompeii 100 years ago, may indeed belong to Pliny the Elder.  In 79 AD, Roman Admiral Gaius Plinius Secundus, known as Pliny the Elder, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/skull.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/skull.jpg)
 
 Photo: Flavio Russo
 

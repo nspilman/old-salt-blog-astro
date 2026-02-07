@@ -14,12 +14,12 @@ tags:
   - "Kitty Hawk"
   - "last conventionally-powered aircraft carrier"
   - "texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/battlecat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/battlecat.jpg"
 author: "Rick Spilman"
 description: "The carrier USS Kitty Hawk has arrived at a scrapping yard in Brownsville, Texas after an epic 16,000-mile journey from Washington state. The carrier, too large to fit through the Panama Canal at over 280 feet wide, was towed around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/battlecat.jpg)The carrier [USS *Kitty Hawk*](https://en.wikipedia.org/wiki/USS_Kitty_Hawk_\(CV-63\)) has arrived at a scrapping yard in Brownsville, Texas after an epic 16,000-mile journey from Washington state. The carrier, too large to fit through the Panama Canal at over 280 feet wide, was towed around South America, via the Strait of Magellan before it docked in Texas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/battlecat.jpg)The carrier [USS *Kitty Hawk*](https://en.wikipedia.org/wiki/USS_Kitty_Hawk_\(CV-63\)) has arrived at a scrapping yard in Brownsville, Texas after an epic 16,000-mile journey from Washington state. The carrier, too large to fit through the Panama Canal at over 280 feet wide, was towed around South America, via the Strait of Magellan before it docked in Texas.
 
 *Kitty Hawk*, nicknamed “Battle Cat”, was the last conventionally-powered aircraft carrier to serve in the US Navy.  A veteran of the Vietnam and Afghan wars, *Kitty Hawk* also served as America’s only forward-deployed carrier in Japan.
 

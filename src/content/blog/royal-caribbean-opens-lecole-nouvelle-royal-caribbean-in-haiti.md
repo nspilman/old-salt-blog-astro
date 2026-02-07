@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The news from Haiti recently has been uniformly bad.  In addition to earthquake damage,  outbreaks of cholera are now sweeping the country. One bright spot is a new school, L’Ecole Nouvelle Royal Caribbean.  Built by Royal Caribbean Cruise Lines, it is one of the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/rcclCruise.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/rcclCruise.jpg)
 
 RCCL Cruise ship at Labadie, Haiti
 

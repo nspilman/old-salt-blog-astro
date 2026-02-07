@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In honor of Halloween, it seems appropriate to post about the Point Lookout Lighthouse of St. Mary’s County, Md., at the junction of the Potomac River and the Chesapeake Bay, which is said to be the most haunted lighthouse in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/3870882_f260.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/3870882_f260.jpg)
 
 Point Lookout Lighthouse
 

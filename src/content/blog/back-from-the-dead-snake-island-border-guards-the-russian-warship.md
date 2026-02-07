@@ -12,12 +12,12 @@ tags:
   - "Russian warship"
   - "Snake Island"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Vasily-Bykov-1.jpg"
 author: "Rick Spilman"
 description: "On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, \"Russian warship, go f*** yourself\". … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg)On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel [*Vasily Bykov*](https://en.wikipedia.org/wiki/Russian_patrol_boat_Vasily_Bykov) ordered the 13 Ukrainian border guards on [Snake Island in the Black Sea](https://en.wikipedia.org/wiki/Attack_on_Snake_Island) to surrender. The border guards replied, “[Russian warship, go f\*\*\* yourself](https://www.cnn.com/2022/02/25/europe/ukraine-russia-snake-island-attack-intl-hnk-ml/index.html)“. The warship shelled the island in response and the soldiers were reported to have been killed. Ukrainian President [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) announced he would “posthumously” award the soldiers on Snake Island with the highest Ukrainian honor, the [Hero of Ukraine](https://en.wikipedia.org/wiki/Hero_of_Ukraine).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Vasily-Bykov-1.jpg)On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel [*Vasily Bykov*](https://en.wikipedia.org/wiki/Russian_patrol_boat_Vasily_Bykov) ordered the 13 Ukrainian border guards on [Snake Island in the Black Sea](https://en.wikipedia.org/wiki/Attack_on_Snake_Island) to surrender. The border guards replied, “[Russian warship, go f\*\*\* yourself](https://www.cnn.com/2022/02/25/europe/ukraine-russia-snake-island-attack-intl-hnk-ml/index.html)“. The warship shelled the island in response and the soldiers were reported to have been killed. Ukrainian President [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) announced he would “posthumously” award the soldiers on Snake Island with the highest Ukrainian honor, the [Hero of Ukraine](https://en.wikipedia.org/wiki/Hero_of_Ukraine).
 
 Then on March 7, 2022, Ukrainian sources claimed that the Armed Forces of Ukraine had [attacked *Vasily Bykov*](https://www.oldsaltblog.com/2022/03/russian-warship-vasily-bykov-go-f-yourself-reported-sunk-by-ukrainian-missile/) using a shore-based multiple rocket launcher system off the coast of [Odessa](https://en.wikipedia.org/wiki/Odessa "Odessa"), stating that the ship had been heavily damaged or even sunk.
 

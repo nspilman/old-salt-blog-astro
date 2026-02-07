@@ -11,12 +11,12 @@ tags:
   - "Fat Leonard"
   - "navy"
   - "scandal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/fatleonard200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/fatleonard200.jpg"
 author: "Rick Spilman"
 description: "In a time of major cyber hacks and theft from data breaches, the Navy continues to be rocked by an old fashioned bribery scandal, the worst in Navy history. The scandal that has also revealed a massive national-security leak, which some … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/11/fatleonard.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/fatleonard.jpg)
 
   
 “Fat Leonard” Glen Francis

@@ -13,12 +13,12 @@ tags:
   - "unidentified aerial phenomena"
   - "unidentified flying objects"
   - "USS Omaha"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/uapomaha.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/uapomaha.jpg"
 author: "Rick Spilman"
 description: "Something very strange took place around the middle of July 2019 off the coast of California, near San Diego. Leaked radar images and video from the USS Omaha show unidentified objects swarming around the ship, visible on several sensor systems.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/uapomaha.jpg)Something very strange took place around the middle of July 2019 off the coast of California, near San Diego. Leaked radar images and video from the [USS *Omaha*](https://en.wikipedia.org/wiki/USS_Omaha_\(LCS-12\)) show unidentified objects swarming around the ship, visible on several sensor systems.  In common parlance, they would be referred to as UFOs, unidentified flying objects. The military refers to them as UAPs, unidentified aerial phenomena. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/uapomaha.jpg)Something very strange took place around the middle of July 2019 off the coast of California, near San Diego. Leaked radar images and video from the [USS *Omaha*](https://en.wikipedia.org/wiki/USS_Omaha_\(LCS-12\)) show unidentified objects swarming around the ship, visible on several sensor systems.  In common parlance, they would be referred to as UFOs, unidentified flying objects. The military refers to them as UAPs, unidentified aerial phenomena. 
 
 In the same area and over the same period [five US Navy destroyers and one cruise ship also reported swarms of unidentified objects.](https://www.thedrive.com/the-war-zone/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights)
 

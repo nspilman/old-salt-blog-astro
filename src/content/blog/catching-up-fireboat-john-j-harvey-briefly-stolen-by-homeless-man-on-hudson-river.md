@@ -15,12 +15,12 @@ tags:
   - "John J. Harvey"
   - "Juan Hernandez"
   - "Pier 66"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/Harveyp66.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/Harveyp66.jpg"
 author: "Rick Spilman"
 description: "I have been away for the better part of a month on a transatlantic sail from Barbados to Malta on a five-masted square rigger. (Click here for a short video of the ship under sail.) I had limited internet access … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/Harveyp66.jpg)I have been away for the better part of a month on a transatlantic sail from Barbados to Malta on a five-masted square rigger. ([Click here for a short video of the ship under sail](https://www.oldsaltblog.com/2024/04/spv-royal-clipper-scenes-from-a-square-rigger/).) I had limited internet access during the trip, so I am behind on posting.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/Harveyp66.jpg)I have been away for the better part of a month on a transatlantic sail from Barbados to Malta on a five-masted square rigger. ([Click here for a short video of the ship under sail](https://www.oldsaltblog.com/2024/04/spv-royal-clipper-scenes-from-a-square-rigger/).) I had limited internet access during the trip, so I am behind on posting.
 
 I appreciate the support of readers in forwarding news of interest while I was away. I plan to work in these “catch-up” posts over the next week or two. Here is the first. Thanks to Roberta Weisbrod for passing along the story of the attempted theft of the historic fireboat [*John J. Harvey.*](https://www.1931fireboat.org/)
 

@@ -14,12 +14,12 @@ tags:
   - "USS Michael Monsoor"
   - "USS Zumwalt"
   - "Zumwalt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg"
 author: "Rick Spilman"
 description: "The Zumwalt Class stealth destroyers will be the first US warship to have long-range hypersonic weapons installed. USNI News reports that the new weapons will be installed on the destroyers USS Zumwalt (DDG-1000) and USS Michael Monsoor (DDG-1001) during an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)The [Zumwalt Class](https://en.wikipedia.org/wiki/Zumwalt-class_destroyer) stealth destroyers will be the first US warship to have long-range hypersonic weapons installed. [USNI News](https://news.usni.org/2022/08/12/hii-set-to-install-first-hypersonic-missiles-on-uss-zumwalt-uss-michael-monsoor-during-repair-period) reports that the new weapons will be installed on the destroyers USS *Zumwalt* (DDG-1000) and USS *Michael Monsoor* (DDG-1001) during an upcoming repair period at Ingalls Shipbuilding.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg)The [Zumwalt Class](https://en.wikipedia.org/wiki/Zumwalt-class_destroyer) stealth destroyers will be the first US warship to have long-range hypersonic weapons installed. [USNI News](https://news.usni.org/2022/08/12/hii-set-to-install-first-hypersonic-missiles-on-uss-zumwalt-uss-michael-monsoor-during-repair-period) reports that the new weapons will be installed on the destroyers USS *Zumwalt* (DDG-1000) and USS *Michael Monsoor* (DDG-1001) during an upcoming repair period at Ingalls Shipbuilding.
 
 For the last six years, USS *Zumwalt* has been a destroyer without a primary weapons system. Commissioned in 2016, the ship was the latest and greatest, most high-tech destroyer in the fleet. At a cost of around $4 billion dollars, it is also the most expensive destroyer ever built.
 

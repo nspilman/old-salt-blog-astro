@@ -8,7 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/arikinj.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/arikinj.jpg"
 author: "Rick Spilman"
 description: "On a cold winter Sunday on the banks of the Hudson River, here is a video from the New Zealand summer about the restoration of one of the oldest yachts in the island nation, the 115-year-old Ariki.  For additional photos … Continue reading &rarr;"
 ---

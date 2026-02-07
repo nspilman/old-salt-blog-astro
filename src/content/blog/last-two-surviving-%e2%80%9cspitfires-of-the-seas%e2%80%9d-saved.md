@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last Operational World War II Motor Boats Saved For The Nation Two of the last remaining fully operational high-speed World War II motor boats have been saved for the nation today by Portsmouth Naval Base Property Trust, with the help … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/motorboats.jpg)[Last Operational World War II Motor Boats Saved For The Nation](http://www.historicdockyard.co.uk/news/news235.php)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/motorboats.jpg)[Last Operational World War II Motor Boats Saved For The Nation](http://www.historicdockyard.co.uk/news/news235.php)
 
 *Two of the last remaining fully operational high-speed World War II motor boats have been saved for the nation today by Portsmouth Naval Base Property Trust, with the help of a £580,000 grant from the National Heritage Memorial Fund (NHMF).*
 

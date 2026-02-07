@@ -13,12 +13,12 @@ tags:
   - "San Francisco Board of Supervisors"
   - "underway replenishment oilers"
   - "USNS Harvey Milk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/harveymilk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/harveymilk.jpg"
 author: "Rick Spilman"
 description: "At NASSCO in San Diego, they have begun cutting steel for a new Navy oiler, T-AO-206, to be named the USNS Harvey Milk. When completed it will be the second of the John Lewis class of underway replenishment oilers, operated … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/harveymilk.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/harveymilk.jpg)
 
 Then Ensign Harvey Milk
 

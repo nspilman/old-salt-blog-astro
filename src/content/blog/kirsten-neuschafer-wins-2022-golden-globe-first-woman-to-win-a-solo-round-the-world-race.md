@@ -13,12 +13,12 @@ tags:
   - "Les Sables-d'Olonne"
   - "Minnehaha"
   - "South African"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/Kirsten-Neuschafer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/Kirsten-Neuschafer.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Kirsten Neuschäfer, winner of the 2022 Golden Globe Race. After 235 days at sea, the 39-year-old South African sailor crossed the finish line off Les Sables d’Olonne in France at 9pm CEST on Thursday, becoming the first woman … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/Kirsten-Neuschafer.jpg)Congratulations to [Kirsten Neuschäfer](https://goldengloberace.com/skippers/kirsten-neuschafer/), winner of the [2022 Golden Globe Race](https://goldengloberace.com/). After 235 days at sea, the 39-year-old South African sailor crossed the finish line off Les Sables d’Olonne in France at 9pm CEST on Thursday, becoming the first woman to win a solo, round-the-world yacht race.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/Kirsten-Neuschafer.jpg)Congratulations to [Kirsten Neuschäfer](https://goldengloberace.com/skippers/kirsten-neuschafer/), winner of the [2022 Golden Globe Race](https://goldengloberace.com/). After 235 days at sea, the 39-year-old South African sailor crossed the finish line off Les Sables d’Olonne in France at 9pm CEST on Thursday, becoming the first woman to win a solo, round-the-world yacht race.
 
 The race is based on the [1968-69 Sunday Times Golden Globe Race](https://en.wikipedia.org/wiki/Sunday_Times_Golden_Globe_Race) which saw Sir Robin Knox-Johnston become the first person to circumnavigate the globe, sailing solo on his boat *Suhaili* without stopping.
 

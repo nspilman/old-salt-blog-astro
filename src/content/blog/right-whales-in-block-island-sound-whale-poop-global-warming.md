@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Recently almost one hundred endangered right whales were observed feeding in the waters of Block Island Sound. Given that only between 350 and 400 of the North Atlantic Right Whales are believed to currently exist, the gathering was quite unusual. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/rwhalebi.jpg)Recently almost one hundred endangered right whales were observed feeding in the waters of Block Island Sound. Given that only between 350 and 400 of the North Atlantic Right Whales are believed to currently exist, the gathering was quite unusual.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/rwhalebi.jpg)Recently almost one hundred endangered right whales were observed feeding in the waters of Block Island Sound. Given that only between 350 and 400 of the North Atlantic Right Whales are believed to currently exist, the gathering was quite unusual.
 
 [Scores of right whales ‘cavorting’ in Block Island Sound](http://www.projo.com/news/content/right_whales_04-23-10_ILI7ESH_v8.3978091.html)
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On Thursday, Water’s Soul, an 80-foot tall sculpture by Spanish artist Jaume Plensa was dedicated on the Hudson River in Jersey City. Located directly across the river from Lower Manhattan, Water’s Soul depicts the serene face of a young woman … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/waterssoul.jpg)On Thursday, [Water’s Soul, an 80-foot tall sculpture](https://abc7ny.com/waters-soul-jersey-city-newport-jaume-plansa/11151253/) by Spanish artist [Jaume Plensa](https://jaumeplensa.com/) was dedicated on the Hudson River in Jersey City. Located directly across the river from Lower Manhattan, Water’s Soul depicts the serene face of a young woman holding a finger to her lips in silent contemplation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/waterssoul.jpg)On Thursday, [Water’s Soul, an 80-foot tall sculpture](https://abc7ny.com/waters-soul-jersey-city-newport-jaume-plansa/11151253/) by Spanish artist [Jaume Plensa](https://jaumeplensa.com/) was dedicated on the Hudson River in Jersey City. Located directly across the river from Lower Manhattan, Water’s Soul depicts the serene face of a young woman holding a finger to her lips in silent contemplation.
 
 “Water is a marvelous metaphor for humanity,” Plensa said. “One drop of water is quite alone, like a single person, but many drops together can create a tidal wave, and form immense rivers and oceans. When individuals come together to exchange ideas and create community, we can build something incredibly powerful.”
 
@@ -29,6 +29,6 @@ Born in Barcelona where he currently lives and works, Plensa is one of the world
 
 Water’s Soul is the artist’s tallest public sculpture to date.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/waterssoul2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/waterssoul2.jpg)
 
 Thanks to [Dexter Donham](https://www.sailingshipadventures.com/) for contributing to this post.

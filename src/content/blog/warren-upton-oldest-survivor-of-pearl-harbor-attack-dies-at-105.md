@@ -14,12 +14,12 @@ tags:
   - "Pearl Harbor"
   - "USS Utah"
   - "Warren Upton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/warrenupton.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/warrenupton.jpg"
 author: "Rick Spilman"
 description: "The Washington Post reports that Warren Eric Upton died in Los Gatos, California on Dec. 25. At 105, he was the oldest survivor of the attack on Pearl Harbor and the last remaining crew member of the USS Utah, according … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2025/01/warrenupton.jpg)The [Washington Post](https://www.washingtonpost.com/obituaries/2025/01/04/warren-upton-pearl-harbor-dead/) reports that Warren Eric Upton died in Los Gatos, California on Dec. 25. At 105, he was the oldest survivor of the attack on Pearl Harbor and the last remaining crew member of the [USS *Utah*](https://en.wikipedia.org/wiki/USS_Utah_\(BB-31\)), according to Kathleen Farley, the California state chairwoman of the [Sons and Daughters of Pearl Harbor Survivors](https://sdphs.org/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/warrenupton.jpg)The [Washington Post](https://www.washingtonpost.com/obituaries/2025/01/04/warren-upton-pearl-harbor-dead/) reports that Warren Eric Upton died in Los Gatos, California on Dec. 25. At 105, he was the oldest survivor of the attack on Pearl Harbor and the last remaining crew member of the [USS *Utah*](https://en.wikipedia.org/wiki/USS_Utah_\(BB-31\)), according to Kathleen Farley, the California state chairwoman of the [Sons and Daughters of Pearl Harbor Survivors](https://sdphs.org/). 
 
 After Mr. Upton’s death, approximately 15 Pearl Harbor survivors are believed to be alive, the youngest of whom is 100, according to Farley.
 

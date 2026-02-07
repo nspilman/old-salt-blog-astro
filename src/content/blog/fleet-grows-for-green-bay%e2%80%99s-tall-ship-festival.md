@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "There are twelve tall ships scheduled to participate in Green Bay, Wisconsin’s  Tall Ship festival this August, though at this point, only six names have been announced. These are the HMS Bounty, the schooners Roseway, Amistad, the Pride of Baltimore II, the Unicorn … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/10/pride2-150x213.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/pride2-150x213.jpg)
 
 Pride of Baltimore II
 

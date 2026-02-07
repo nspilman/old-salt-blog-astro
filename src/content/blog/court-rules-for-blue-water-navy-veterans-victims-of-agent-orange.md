@@ -9,12 +9,12 @@ categories:
 tags:
   - "Agent Orange"
   - "Blue Water Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/bwnavy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/bwnavy.jpg"
 author: "Rick Spilman"
 description: "For the \"blue water\" Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do.  As reported by the Washington Post: The U.S. Court of Appeals … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/bwnavy.jpg)For the “blue water” Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/bwnavy.jpg)For the “blue water” Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do. 
 
 As reported by the [Washington Post](https://www.washingtonpost.com/local/legal-issues/blue-water-navy-veterans-from-vietnam-era-win-agent-orange-benefits-case/2019/01/29/3ec77bfc-23f0-11e9-ad53-824486280311_story.html?utm_term=.e9db7378aae4): The U.S. Court of Appeals for the Federal Circuit ruled overwhelmingly for these sailors, finding they are eligible for the same disability benefits as those who put boots on the ground or patrolled Vietnam’s inland rivers.
 

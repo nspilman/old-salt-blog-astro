@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "In a marina in the Far Rockaway neighborhood, in the New York City borough of Queens, a summer habitation has grown up from a group of abandoned docks and boats.  Part artists’ colony and part junk yard, the Boatel at Marina 59 is described as : … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/6001950462_fab0894c4e_o.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/6001950462_fab0894c4e_o.jpg)
 
 Photo: Nathan Kensinger
 

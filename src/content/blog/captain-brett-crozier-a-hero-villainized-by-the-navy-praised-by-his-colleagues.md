@@ -12,12 +12,12 @@ tags:
   - "Captain Brett Crozier"
   - "COVID-19"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/crozier2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/crozier2.jpg"
 author: "Rick Spilman"
 description: "One year ago today, Captain Brett Crozier walked down the gangway of the aircraft carrier USS Theodore Roosevelt. He had been relieved of command after the San Francisco Chronicle reported the contents of a leaked letter he wrote to his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/crozier2.jpg)One year ago today, Captain Brett Crozier walked down the gangway of the aircraft carrier USS *Theodore Roosevelt*. He had been relieved of command after the San Francisco Chronicle reported the contents of a leaked letter he wrote to his superiors in March pleading for help as his crew battled an outbreak of Covid-19 while underway.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/crozier2.jpg)One year ago today, Captain Brett Crozier walked down the gangway of the aircraft carrier USS *Theodore Roosevelt*. He had been relieved of command after the San Francisco Chronicle reported the contents of a leaked letter he wrote to his superiors in March pleading for help as his crew battled an outbreak of Covid-19 while underway.
 
 While the political appointees in Washington were displeased with Captain Crozier, his crew understood and appreciated what he had done for them. They gave him a [rousing send-off, to cheers and applause,](http://oldsaltblog.com/2020/04/sailors-cheer-carrier-captain-fired-by-navy-for-standing-up-for-crew-health-and-safety/) chanting his name and proclaiming him the GOAT( the Greatest Of All Time).
 

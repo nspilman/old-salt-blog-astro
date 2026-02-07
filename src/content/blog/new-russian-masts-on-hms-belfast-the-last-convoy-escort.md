@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The HMS Belfast, a Royal Navy light cruiser, now a museum ship on the Thames, is the last surviving  escort ship from the Arctic convoy run to Russia during World War II.  Last week, in a ceremony attended by HRH Prince Philip, The Duke of Edinburgh, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/19oct_0003.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/19oct_0003.jpg)
 
 New Masts for HMS Belfast
 

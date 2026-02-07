@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "37 Injured in Staten Island Ferry Crash Dozens of people were hurt when a Staten Island Ferry crashed into a dock at the St. George terminal on Staten Island about 9:30 a.m. Saturday, the authorities said.  The ferry was the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/barberibystatue_e.jpg)[37 Injured in Staten Island Ferry Crash](http://www.nytimes.com/2010/05/09/nyregion/09ferry.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/barberibystatue_e.jpg)[37 Injured in Staten Island Ferry Crash](http://www.nytimes.com/2010/05/09/nyregion/09ferry.html)
 
 Dozens of people were hurt when a Staten Island Ferry crashed into a dock at the St. George terminal on Staten Island about 9:30 a.m. Saturday, the authorities said.  The ferry was the [Andrew J. Barberi](http://en.wikipedia.org/wiki/MV_Andrew_J._Barberi), the same one involved in a 2003 crash that killed 11 people.  
   

@@ -16,7 +16,7 @@ description: "The sea ice in the Arctic has melted to a record low this year. Ya
 
 The [sea ice in the Arctic has melted to a record low](http://www.telegraph.co.uk/science/science-news/9502543/Arctic-ice-melts-to-record-low-levels.html) this year. Yachts are not voyaging where once only large icebreakers could travel. Recently, the three man crew of the [Belzebub II](http://belzebub2.com/boat-info?lang=en), a 1976 built Hallberg-Rassy Monsun 31 sloop, successfully completed a three month transit of the fabled Canadian Northwest Passage, including becoming the first sailboat to cross the infamous M’Clure strait, which normally would be icebound. From the [expedition web site](http://belzebub2.com/archives/5128?lang=en):
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/arcticyacht.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/arcticyacht.jpg)
 
 Photo: Belzebub II crew
 

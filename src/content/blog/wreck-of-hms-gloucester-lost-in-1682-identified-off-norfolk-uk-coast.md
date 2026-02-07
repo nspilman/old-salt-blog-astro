@@ -14,12 +14,12 @@ tags:
   - "King James II"
   - "King James II of England and Ireland"
   - "King James VII of Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/hmsGl.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/hmsGl.jpg"
 author: "Rick Spilman"
 description: "The wreck of HMS Gloucester, a 50-gun, third-rate, Royal Navy warship, which sank in 1682 while carrying the future king James Stuart, has been identified off the coast of Norfolk. According to Prof Claire Jowitt, a specialist in maritime history … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/hmsGl.jpg)The wreck of [HMS *Gloucester*](https://en.wikipedia.org/wiki/HMS_Gloucester_\(1654\)), a 50-gun, third-rate, Royal Navy warship, which sank in 1682 while carrying the future king James Stuart, has been identified off the coast of Norfolk. According to Prof Claire Jowitt, a specialist in maritime history at the University of East Anglia, the discovery of the wreckage could be the “single most significant historic maritime discovery since the raising of the Mary Rose in 1982”.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/hmsGl.jpg)The wreck of [HMS *Gloucester*](https://en.wikipedia.org/wiki/HMS_Gloucester_\(1654\)), a 50-gun, third-rate, Royal Navy warship, which sank in 1682 while carrying the future king James Stuart, has been identified off the coast of Norfolk. According to Prof Claire Jowitt, a specialist in maritime history at the University of East Anglia, the discovery of the wreckage could be the “single most significant historic maritime discovery since the raising of the Mary Rose in 1982”.
 
 The *Gloucester*‘s whereabouts remained a mystery until it was discovered 15 years ago half-buried in the seabed 28 miles (45km) out to sea, having sunk while navigating treacherous sandbanks.
 

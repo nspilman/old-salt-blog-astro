@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On Sunday, the 6535 dwt  South Korean tanker, Doola No. 3, exploded in the Yellow Sea near the port of Incheon.  Of the crew of 16, 5 are confirmed dead while 6 are missing.  The explosion ripped the tanker in half.  The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/tanker_450.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/tanker_450.jpg)
 
 Doola No. 3 Photo: Yonhap
 

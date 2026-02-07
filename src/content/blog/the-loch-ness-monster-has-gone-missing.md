@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Recently, the press has been abuzz with the lack of sightings of Loch Ness monster.  There have been no sightings of the famous beastie in the last 18 months.  The Daily Mail asks \"Is Nessie DEAD?\"  The BBC notes: No Loch … Continue reading &rarr;"
 ---
 
-![Hoaxed_photo_of_the_Loch_Ness_monster](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Hoaxed_photo_of_the_Loch_Ness_monster.jpg)
+![Hoaxed_photo_of_the_Loch_Ness_monster](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Hoaxed_photo_of_the_Loch_Ness_monster.jpg)
 
 Faked Nessie Photo from 1934
 

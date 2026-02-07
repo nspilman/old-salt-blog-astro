@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Given that we live on an ocean planet, it is remarkable how little know of the creatures of the sea. Recently, for example, scientists discovered the first hybrid sharks to be found in Australian waters. Also, teams of American and British researchers have just discovered new … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/hybrid-shark.jpg)Given that we live on an ocean planet, it is remarkable how little know of the creatures of the sea. Recently, for example, scientists discovered the first hybrid sharks to be found in Australian waters. Also, teams of American and British researchers have just discovered new species of life in deep sea hydrothermal vents.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/hybrid-shark.jpg)Given that we live on an ocean planet, it is remarkable how little know of the creatures of the sea. Recently, for example, scientists discovered the first hybrid sharks to be found in Australian waters. Also, teams of American and British researchers have just discovered new species of life in deep sea hydrothermal vents.
 
 The Australian sharks are believed to be the result of in-breeding between genetically distinct [Australian blacktip](http://en.wikipedia.org/wiki/Carcharhinus_tilstoni), whose range extends north from Brisbane, and the larger [common blacktip](http://en.wikipedia.org/wiki/Common_blacktip_shark) found in southeastern coastal waters.
 
@@ -25,7 +25,7 @@ The Australian sharks are believed to be the result of in-breeding between gen
 
 *“Hybridization could enable the sharks to adapt to environmental change as the smaller Australian blacktip currently favors tropical waters in the north while the larger common blacktip is more abundant in sub-tropical and temperate waters along the south-eastern Australian coastline,” Ovenden said.*
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/57455208_ventcreature_shri.jpg)British and American researchers have discovered species unknown to science in the [deep sea hydrothermal vents](http://divediscover.whoi.edu/vents/index.html) in the South West Indian Ridge in the Indian Ocean.  These deep sea vents were unknown until 1977 when scientists were surprised to find them teaming with life in water at temperatures of more than 800 degrees.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/57455208_ventcreature_shri.jpg)British and American researchers have discovered species unknown to science in the [deep sea hydrothermal vents](http://divediscover.whoi.edu/vents/index.html) in the South West Indian Ridge in the Indian Ocean.  These deep sea vents were unknown until 1977 when scientists were surprised to find them teaming with life in water at temperatures of more than 800 degrees.
 
 [Deep-sea vents, just north of Antarctica, flourish with species never seen before](http://www.washingtonpost.com/national/health-science/deep-sea-vents-just-north-of-antarctica-flourish-with-species-never-seen-before/2011/12/19/gIQAX4NgYP_story.html)
 

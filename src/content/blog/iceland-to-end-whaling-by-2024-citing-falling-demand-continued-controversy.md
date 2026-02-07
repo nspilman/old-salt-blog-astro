@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The government of Iceland has announced an end to commercial whaling by 2024. \"There are few justifications to authorize whale hunting beyond 2024,\" when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/whalingfleet.jpg)The government of [Iceland has announced an end to commercial whaling](https://www.cnn.com/2022/02/05/europe/iceland-whaling-to-end-2024-intl/index.html) by 2024.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/whalingfleet.jpg)The government of [Iceland has announced an end to commercial whaling](https://www.cnn.com/2022/02/05/europe/iceland-whaling-to-end-2024-intl/index.html) by 2024.
 
 “There are few justifications to authorize whale hunting beyond 2024,” when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s Morgunblaðið newspaper.
 

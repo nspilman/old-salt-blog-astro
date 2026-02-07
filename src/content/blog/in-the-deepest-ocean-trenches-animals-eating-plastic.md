@@ -11,12 +11,12 @@ tags:
   - "amhipod"
   - "Mariana Trench"
   - "plastic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/amphipod2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/amphipod2.jpg"
 author: "Rick Spilman"
 description: "The bottom of the Mariana Trench, in the western Pacific Ocean, is the deepest point in any ocean of the world.  At its deepest, the bottom is over 36,000 feet below the surface. In comparison, Mount Everest is 29,000 above … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/amphipod2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/amphipod2.jpg)
 
 Photo: ALAN JAMIESON / NEWCASTLE UNIVERSITY
 

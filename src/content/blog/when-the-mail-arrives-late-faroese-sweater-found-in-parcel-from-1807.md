@@ -15,12 +15,12 @@ tags:
   - "Prize Papers Project"
   - "Second Battle of Copenhagen"
   - "The National Archives"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/jumper2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/jumper2.jpg"
 author: "Rick Spilman"
 description: "A red traditional Faroese knit sweater was recently found in a stash of 19th-century letters at the British National Archives in their Prize Papers collection. The sweater, or jumper in British parlance, handknitted in vibrantly colored fine wool, was intended … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/faroejumper.jpg)A red traditional Faroese knit sweater was recently found in a stash of 19th-century letters at the British [National Archives](https://www.nationalarchives.gov.uk/) in their [Prize Papers collection](https://www.prizepapers.de/the-project). The sweater, or jumper in British parlance, handknitted in vibrantly colored fine wool, was intended for a woman in Denmark, but never reached its destination because the vessel on which it was shipped was seized by the British Navy during the [Second Battle of Copenhagen](https://en.wikipedia.org/wiki/Battle_of_Copenhagen_\(1807\)).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/faroejumper.jpg)A red traditional Faroese knit sweater was recently found in a stash of 19th-century letters at the British [National Archives](https://www.nationalarchives.gov.uk/) in their [Prize Papers collection](https://www.prizepapers.de/the-project). The sweater, or jumper in British parlance, handknitted in vibrantly colored fine wool, was intended for a woman in Denmark, but never reached its destination because the vessel on which it was shipped was seized by the British Navy during the [Second Battle of Copenhagen](https://en.wikipedia.org/wiki/Battle_of_Copenhagen_\(1807\)).
 
 On August 20, 1807, carpenter Niels C. Winther from Tórshavn in the Faroe Islands put a package aboard the ship *Anne-Marie*. The parcel was addressed to a Mr. P Ladsen in Copenhagen and included a letter, in Danish, that said, *‘my wife sends her regards, thank you for the pudding rice. She sends your fiancé this sweater and hopes that it is not displeasing to her.’* 
 

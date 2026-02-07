@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A new review from Historic Naval Fiction: Alaric Bond‘s new novel, Turn A Blind Eye, moves away from his ‘Fighting Sail’ series and the Royal Navy to the world of smuggling on the South Coast of England. It follows Commander Griffin … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2013/08/Alaric6.jpg)](http://www.amazon.com/gp/product/B00E0LJMT0/ref=as_li_ss_tl?ie=UTF8&tag=heaprcom05-20&linkCode=as2&camp=217145&creativeASIN=B00E0LJMT0)A new review from [Historic Naval Fiction](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/list/3335-review-turn-a-blind-eye-by-alaric-bond):
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Alaric6.jpg)](http://www.amazon.com/gp/product/B00E0LJMT0/ref=as_li_ss_tl?ie=UTF8&tag=heaprcom05-20&linkCode=as2&camp=217145&creativeASIN=B00E0LJMT0)A new review from [Historic Naval Fiction](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/list/3335-review-turn-a-blind-eye-by-alaric-bond):
 
 [Alaric Bond](http://www.alaricbond.com/)‘s new novel, [*Turn A Blind Eye*](http://www.historicnavalfiction.com/general/merchantman-fiction/list/3191-turn-a-blind-eye), moves away from his ‘Fighting Sail’ series and the Royal Navy to the world of smuggling on the South Coast of England. It follows Commander Griffin and the crew of the Revenue cutter *Bee* as they battle to rid Newhaven of an entrenched gang of snugglers who hold sway over the town.
 

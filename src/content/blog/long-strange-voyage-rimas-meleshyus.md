@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "His name is Rimas Meleshyus. He recently showed up adrift on his 30-foot sailboat, Mimsy, off Saipan, where he was towed into port. He had last been reported almost 3,000 nautical miles away on July 31, off Fiji.  Over the last several … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/rimas1.jpg)His name is Rimas Meleshyus. He recently showed up adrift on his 30-foot sailboat, *Mimsy*, off [Saipan, where he was towed into port](https://www.saipantribune.com/index.php/adrift-sailor-rescued-near-saipan/). He had last been reported almost 3,000 nautical miles away on July 31, off Fiji. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/rimas1.jpg)His name is Rimas Meleshyus. He recently showed up adrift on his 30-foot sailboat, *Mimsy*, off [Saipan, where he was towed into port](https://www.saipantribune.com/index.php/adrift-sailor-rescued-near-saipan/). He had last been reported almost 3,000 nautical miles away on July 31, off Fiji. 
 
 Over the last several years, he has undertaken a series of increasingly bizarre Pacific voyages in three different donated sailboats.Meleshyus is a 60-something Russian immigrant and naturalized US citizen, who set off to sail alone around the world without necessarily knowing much about sailing. Here is a brief recap of his ongoing voyaging, to the extent I can put it together. 
 

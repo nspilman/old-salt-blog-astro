@@ -10,7 +10,7 @@ categories:
 tags:
   - "Pilot Boats"
   - "Pilots"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/pilotboatedison.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/pilotboatedison.jpg"
 author: "Rick Spilman"
 description: "Sandy Hook pilots have been guiding ships into New York harbor since 1694 when Colonial legislators first mandated that pilots be stationed at the barrier beach at the mouth of the great harbor. Here are two short videos of New … Continue reading &rarr;"
 ---

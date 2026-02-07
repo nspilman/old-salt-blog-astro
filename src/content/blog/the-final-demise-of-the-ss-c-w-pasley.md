@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Concrete ships were constructed in both World War I and World War II when steel was in short supply.  They were not wildly successful, as they were limited in deadweight and had a tendency to crack.  (No concrete ships were built after the end … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/pailsey.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/pailsey.jpg)
 
 The S.S. Pasley arrives in Yaquina Bay to be sunk circa 1950.
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Two hundred and forty years ago today, the Continental Congress authorized the commissioning of privateers to attack British ships. It was still three months before the Declaration of Independence from Great Britain.  The legislation was in many respects simply catching up … Continue reading &rarr;"
 ---
 
-[![Letter of Marque & Reprisal, Click to see more](http://www.oldsaltblog.com/wp-content/uploads/2016/04/lomarque2-200x141.jpg)](http://rbsc.princeton.edu/republic/2013/02/letter-of-marque-18th-century/)
+[![Letter of Marque & Reprisal, Click to see more](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/lomarque2-200x141.jpg)](http://rbsc.princeton.edu/republic/2013/02/letter-of-marque-18th-century/)
 
 Letter of Marque, Click to see more
 

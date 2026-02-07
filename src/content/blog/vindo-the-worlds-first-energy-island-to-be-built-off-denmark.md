@@ -13,12 +13,12 @@ tags:
   - "North Sea"
   - "VindØ"
   - "wind farms"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/vindoenergyisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/vindoenergyisland.jpg"
 author: "Rick Spilman"
 description: "Denmark is planning on building three offshore wind farms with 200 turbines with a 3 GW capacity 100 kilometers off the coast in the North Sea.  Later phases of the project include an additional seven wind farms with 470 turbines.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/vindoenergyisland.jpg)Denmark is planning on building three offshore wind farms with 200 turbines with a 3 GW capacity 100 kilometers off the coast in the North Sea.  Later phases of the project include an additional seven wind farms with 470 turbines.  On its completion, the entire project will have a capacity of 10 GW. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/vindoenergyisland.jpg)Denmark is planning on building three offshore wind farms with 200 turbines with a 3 GW capacity 100 kilometers off the coast in the North Sea.  Later phases of the project include an additional seven wind farms with 470 turbines.  On its completion, the entire project will have a capacity of 10 GW. 
 
 To manage and service these new wind farms, Denmark has decided to build an artificial island to serve as an energy hub 80 kilometers from the shore of the Jutland peninsula. The artificial island will be owned by a public-private partnership through the [VindØ consortium](https://www.windisland.dk/). 
 

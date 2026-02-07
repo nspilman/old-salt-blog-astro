@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "As we posted last week, the US Navy has five times more aircraft carrier flight deck capacity than the rest of the world combined.   Nevertheless the Chinese have leapt ahead in the construction of a concrete air craft carrier on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/chi_1819914c.jpg)As we posted last week, the US Navy has five times more aircraft carrier flight deck capacity than the rest of the world combined.   Nevertheless the Chinese have leapt ahead in the construction of a concrete air craft carrier on a government building roof top.  What strategic advantage that might provide remains unclear.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/chi_1819914c.jpg)As we posted last week, the US Navy has five times more aircraft carrier flight deck capacity than the rest of the world combined.   Nevertheless the Chinese have leapt ahead in the construction of a concrete air craft carrier on a government building roof top.  What strategic advantage that might provide remains unclear.
 
 [Concrete evidence of China’s naval ambitions](http://www.telegraph.co.uk/news/worldnews/asia/china/8307646/Concrete-evidence-of-Chinas-naval-ambitions.html)  
   

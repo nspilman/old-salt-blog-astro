@@ -14,12 +14,12 @@ tags:
   - "MV St. Louis"
   - "Ostwind"
   - "Ostwind Reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/nordwind.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/nordwind.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the patrol ship, the Grille, described by some as \"Hitler’s yacht.\" Today we will look at a second vessel to bear the same title — the Ostwind. In 1936, the German government had two racing sailboats built, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/nordwind.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/nordwind.jpg)
 
 Nordwind, sister to Ostwind Image: ClassicSailboats.org
 

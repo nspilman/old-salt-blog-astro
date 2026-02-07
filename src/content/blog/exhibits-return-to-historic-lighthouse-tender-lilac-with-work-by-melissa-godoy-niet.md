@@ -13,12 +13,12 @@ tags:
   - "Melissa Godoy Nieto"
   - "steam-powered lighthouse tender"
   - "Waters Change"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/waterschange.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/waterschange.jpg"
 author: "Rick Spilman"
 description: "In addition to being a museum ship as America’s only steam-powered lighthouse tender, the ex-USCG Cutter Lilac serves as a community arts and education space. Unfortunately in the past year, the pandemic temporarily shut these programs down.  Now the exhibitions … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/waterschange.jpg)In addition to being a museum ship as America’s only steam-powered lighthouse tender, the [ex-USCG Cutter *Lilac*](http://www.lilacpreservationproject.org/) serves as a community arts and education space. Unfortunately in the past year, the pandemic temporarily shut these programs down.  Now the exhibitions are restarting, inaugurated with work by Melissa Godoy Nieto.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/waterschange.jpg)In addition to being a museum ship as America’s only steam-powered lighthouse tender, the [ex-USCG Cutter *Lilac*](http://www.lilacpreservationproject.org/) serves as a community arts and education space. Unfortunately in the past year, the pandemic temporarily shut these programs down.  Now the exhibitions are restarting, inaugurated with work by Melissa Godoy Nieto.
 
 [*Waters Change, Colors Fade*](http://www.lilacpreservationproject.org/upcoming-exhibition) is an exhibition by Mexican-born multi-media artist [Melissa Godoy Nieto](https://lilacpreservationproject.us2.list-manage.com/track/click?u=2a197f1ae59cfefb2ce14c8be&id=9308917dd0&e=ffd12cef29) drawing on her personal experience observing both the vibrancy of healthy coral reefs and the coral degradation caused by climate change, Godoy Nieto shares an underwater wilderness through drawings, textile collages and installation. 
 

@@ -16,12 +16,12 @@ tags:
   - "semi-autonomous"
   - "SK Shipping"
   - "Ultra-Large LNG Carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/prismcourage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/prismcourage.jpg"
 author: "Rick Spilman"
 description: "Earlier this month, the 180,000 cubic meter ultra-large LNG carrier Prism Courage completed a voyage from the Gulf of Mexico to South Korea using a semi-autonomous navigation system developed by HD Hyundai subsidiary Avikus. Delivered to South Korea’s SK Shipping … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/prismcourage.jpg)Earlier this month, the 180,000 cubic meter ultra-large LNG carrier [*Prism Courage*](https://lngprime.com/americas/sk-shippings-lng-carrier-completes-autonomous-transoceanic-trip/53480/) completed a voyage from the Gulf of Mexico to South Korea using a [semi-autonomous navigation system developed by HD Hyundai subsidiary Avikus](https://www.prnewswire.com/news-releases/hd-hyundais-avikus-successfully-conducts-the-worlds-first-transoceanic-voyage-of-a-large-merchant-ship-relying-on-autonomous-navigation-technologies-301559937.html).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/prismcourage.jpg)Earlier this month, the 180,000 cubic meter ultra-large LNG carrier [*Prism Courage*](https://lngprime.com/americas/sk-shippings-lng-carrier-completes-autonomous-transoceanic-trip/53480/) completed a voyage from the Gulf of Mexico to South Korea using a [semi-autonomous navigation system developed by HD Hyundai subsidiary Avikus](https://www.prnewswire.com/news-releases/hd-hyundais-avikus-successfully-conducts-the-worlds-first-transoceanic-voyage-of-a-large-merchant-ship-relying-on-autonomous-navigation-technologies-301559937.html).
 
 Delivered to South Korea’s [SK Shipping](https://www.skshipping.com/eng/index.aspx) last year by shipbuilder Hyundai Heavy Industries,  *Prism Courage*, arrived at the Boryeong LNG Terminal in South Korea from the Freeport LNG terminal, Texas, via the Panama Canal, after completing a 33-day voyage.
 

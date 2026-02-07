@@ -11,12 +11,12 @@ tags:
   - "Halcyon Days"
   - "halycon bird"
   - "Winter Solstice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/kingfisher.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/kingfisher.jpg"
 author: "Rick Spilman"
 description: "According to an ancient sailors’ legend, we are in the middle of the Halcyon days – seven days of calm on either side of the winter solstice. The legend says that the halcyon bird builds a floating nest on the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/kingfisher.jpg)According to an ancient sailors’ legend, we are in the middle of the [Halcyon days](http://en.wikipedia.org/wiki/Halcyon_Days) – seven days of calm on either side of the winter solstice. The legend says that the [halcyon bird](https://en.wikipedia.org/wiki/Halcyon_\(genus\)) builds a floating nest on the sea on the winter solstice and has the ability to calm the seas so as to be undisturbed when laying its eggs. The halcyon is generally associated with the [kingfisher](http://en.wikipedia.org/wiki/Kingfisher).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/kingfisher.jpg)According to an ancient sailors’ legend, we are in the middle of the [Halcyon days](http://en.wikipedia.org/wiki/Halcyon_Days) – seven days of calm on either side of the winter solstice. The legend says that the [halcyon bird](https://en.wikipedia.org/wiki/Halcyon_\(genus\)) builds a floating nest on the sea on the winter solstice and has the ability to calm the seas so as to be undisturbed when laying its eggs. The halcyon is generally associated with the [kingfisher](http://en.wikipedia.org/wiki/Kingfisher).
 
 The source of the belief in the bird’s power to calm the sea [originated in a myth recorded by Ovid](https://www.phrases.org.uk/meanings/halcyon-days.html). The story goes that Aeolus, the ruler of the winds, had a daughter named Alcyone, who was married to Ceyx, the king of Thessaly. Ceyx was drowned at sea and Alcyone threw herself into the waves in a fit of grief. Instead of drowning, she was transformed into a bird and carried to her husband by the wind.
 

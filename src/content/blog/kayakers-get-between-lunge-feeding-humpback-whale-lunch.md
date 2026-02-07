@@ -12,12 +12,12 @@ tags:
   - "kayak"
   - "lunge feeding"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/humpbackkayak.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/humpbackkayak.jpg"
 author: "Rick Spilman"
 description: "Recently, two kayakers off California inadvertently got between a lunge feeding humpback whale and its lunch. Videos of the encounter show the whale surfacing between the yellow kayak, almost appearing to swallow the kayakers and their boat. Fortunately, neither the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/humpbackkayak.jpg)Recently, two kayakers off California inadvertently got between a lunge feeding humpback whale and its lunch. Videos of the encounter show the whale surfacing between the yellow kayak, almost appearing to swallow the kayakers and their boat. Fortunately, neither the two kayakers nor the whale appears to have been injured.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/humpbackkayak.jpg)Recently, two kayakers off California inadvertently got between a lunge feeding humpback whale and its lunch. Videos of the encounter show the whale surfacing between the yellow kayak, almost appearing to swallow the kayakers and their boat. Fortunately, neither the two kayakers nor the whale appears to have been injured.
 
 On Monday morning, Julie McSorley and her friend, Liz Cottriel, were kayaking off Avila Beach, Calif., in San Luis Obispo County. In the distance, humpback whales were feeding and breaching. The two kayakers, paddling a yellow double sit-on-top kayak, found themselves surrounded by a large school of small silver fish churning the water, making a sound that one of the kayakers likened to “crackling glass.” Above them, sea birds wheeled and dove, feeding on the silver fish.
 

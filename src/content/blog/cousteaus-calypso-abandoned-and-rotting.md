@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Jacques Cousteau's RV Calypso is rotting in a shipyard shed appears to be in the first stages of being broken up."
 ---
 
-![calypsoshed](http://www.oldsaltblog.com/wp-content/uploads/2015/07/calypsoshed.jpg)
+![calypsoshed](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/calypsoshed.jpg)
 
 Photo: Dmitry Kostyukov for The New York Times
 

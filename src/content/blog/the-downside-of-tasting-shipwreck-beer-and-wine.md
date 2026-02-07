@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Recent tastings of shipwreck beer and wine have proven disappointing."
 ---
 
-![Photo: REUTERS/Randall Hill](http://www.oldsaltblog.com/wp-content/uploads/2015/03/shipwreckwine1.jpg)
+![Photo: REUTERS/Randall Hill](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/shipwreckwine1.jpg)
 
 Photo: REUTERS/Randall Hill
 

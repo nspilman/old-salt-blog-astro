@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On November 13, a U.S. Coast Guard cutter intercepted a self-propelled submersible loaded with over 3,800 pounds of cocaine in international waters off the coast of Panama. All three suspects will face charges in the U.S. The crew of three was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/narcosub.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/narcosub.jpg)
 
 Photo: US Coast Guard
 

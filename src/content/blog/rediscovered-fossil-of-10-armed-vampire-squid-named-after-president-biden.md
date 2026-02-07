@@ -10,12 +10,12 @@ tags:
   - "President Joe Biden"
   - "Syllipsimopodi bideni"
   - "vampire squid"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/vampiresquid.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/vampiresquid.jpg"
 author: "Rick Spilman"
 description: "NPR reports that researchers say they have found the oldest known relative of octopuses and vampire squids, in a fossil dug up decades ago in Montana. The official name of the newly discovered species is Syllipsimopodi bideni, named after President Joe … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/vampiresquid.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/vampiresquid.jpg)
 
 The fossil of Syllipsimopodi is from the Invertebrate Paleontology collections of the Royal Ontario Museum. Photo: Christopher Whalen
 

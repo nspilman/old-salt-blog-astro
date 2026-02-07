@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Boothbay is one of my favorite places on  the Maine coast. Sadly, I will not be anywhere near by this Friday, Saturday and Sunday, so I will miss the 39th Fisherman’s Festival.   From the Shrimp Princess Pageant on Friday to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/boothbay.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/boothbay.jpg)
 
 Cod Fish Relay Race
 

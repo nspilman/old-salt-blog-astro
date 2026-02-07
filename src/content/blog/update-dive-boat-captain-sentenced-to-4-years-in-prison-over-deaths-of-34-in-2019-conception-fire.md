@@ -13,12 +13,12 @@ tags:
   - "dive boat captain"
   - "Jerry Boyle"
   - "seaman’s manslaughter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/conceptionfire.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/conceptionfire.png"
 author: "Rick Spilman"
 description: "Over Labor Day weekend in 2019, a fire broke out in the early morning hours on the Conception, a 75-foot wood and fiberglass dive vessel in Santa Barbara Harbor, CA. All 33 passengers sleeping below decks and one of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/conceptionfire.png)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/conceptionfire.png)
 
 The dive boat Conception smolders at sunrise on Sept. 2, 2019, before sinking. (National Transportation Safety Board)
 

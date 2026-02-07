@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A recent ruling by the Occupational Safety and Health Review Commission, determined that orca trainers must either remain at a greater distance from the orcas, stand behind a physical barrier or use other devices to keep them safer during performances. This ruling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/03/orca.jpg)A recent ruling by the Occupational Safety and Health Review Commission, determined that orca trainers must either remain at a greater distance from the orcas, stand behind a physical barrier or use other devices to keep them safer during performances. This ruling comes two years after the [death of Dawn Brancheau](http://www.oldsaltblog.com/2010/02/24/orca-tilikum-kills-trainer-at-sea-world/), a trainer who was dragged underwater and killed by an orca at the SeaWorld park in Orlando.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/orca.jpg)A recent ruling by the Occupational Safety and Health Review Commission, determined that orca trainers must either remain at a greater distance from the orcas, stand behind a physical barrier or use other devices to keep them safer during performances. This ruling comes two years after the [death of Dawn Brancheau](http://www.oldsaltblog.com/2010/02/24/orca-tilikum-kills-trainer-at-sea-world/), a trainer who was dragged underwater and killed by an orca at the SeaWorld park in Orlando.
 
 [Ruling Puts Distance Between Killer Whales and Trainers](http://www.nytimes.com/2012/06/08/us/killer-whale-shows-restricted-at-seaworld-orlando.html?hp)
 

@@ -11,12 +11,12 @@ tags:
   - "Bannerman Island"
   - "hudson river"
   - "murder"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/graswald1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/graswald1.jpg"
 author: "Rick Spilman"
 description: "In May, 2015, we posted, Was a Kayaking \"Accident\" Really Murder on the Hudson? The question raised by that post has been answered. Angelika Graswald, 37, who had been accused of murdering her fiancée, Vincent Viafore, 46, while on an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/graswald1-200x187.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/graswald1-200x187.jpg)
 
 Photo: Allyse Pulliam
 

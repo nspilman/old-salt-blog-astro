@@ -14,7 +14,7 @@ tags:
   - "Maritime Museum of San Diego"
   - "Ramsey Shipyard"
   - "Star of India"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/starofindia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/starofindia.jpg"
 author: "Rick Spilman"
 description: "Over the Veterans’ Day weekend, the iron-hulled sailing ship Star of India left her dock at the Maritime Museum of San Diego, setting sail, for the first time in five years, to celebrate her 160th birthday.  A short news video: … Continue reading &rarr;"
 ---

@@ -13,12 +13,12 @@ tags:
   - "Jock Moffat"
   - "Moffat"
   - "Royal Navy Pilot"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/05/bobby-lawson_1636357c.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/bobby-lawson_1636357c.jpg"
 author: "Rick Spilman"
 description: "On May 27, 1941, the German battleship Bismarck had just sunk the pride of the Royal Navy, HMS Hood. As she was close to escaping into safe waters, Bismarck was attacked by a swarm of obsolete Fairey Swordfish biplanes launched from the carrier HMS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/bobby-lawson_1636357c.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/bobby-lawson_1636357c.jpg)
 
   
 (From left) Eric Margetts, Bobby Lawson, John Moffat, Buster May and Glan Evans

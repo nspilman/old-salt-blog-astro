@@ -14,12 +14,12 @@ tags:
   - "megaberg"
   - "South Georgia"
   - "West Antarctica"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/a23acave.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/a23acave.jpg"
 author: "Rick Spilman"
 description: "In 1986, a massive iceberg, more than three times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf and immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades. In … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/a23acave.jpg)In 1986, a massive iceberg, more than three times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf and immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/a23acave.jpg)In 1986, a massive iceberg, more than three times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf and immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades.
 
 In November, the [iceberg, designated A23a, broke free from the sea bottom](https://www.oldsaltblog.com/2023/11/worlds-largest-and-oldest-iceberg-floats-free-drifting-into-iceberg-alley/) and began drifting on the Antarctic Circumpolar Current into “iceberg alley”. [Satellite images showed the berg](https://www.reuters.com/business/environment/worlds-largest-iceberg-breaks-free-heads-toward-southern-ocean-2023-11-24/), weighing nearly a trillion metric tonnes, drifting quickly past the northern tip of the Antarctic Peninsula, aided by strong winds and currents.
 

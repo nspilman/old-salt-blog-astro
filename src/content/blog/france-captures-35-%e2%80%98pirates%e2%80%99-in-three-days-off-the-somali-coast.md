@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "France captures 35 ‘pirates’ in three days off the Somali coast The French Navy has captured 35 suspected pirates in three days of operations off the coast of Somalia — the biggest haul in the two years since EU naval … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/nivose.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/nivose.jpg)
 
 [France captures 35 ‘pirates’ in three days off the Somali coast](http://www.timesonline.co.uk/tol/news/world/africa/article7054575.ece)
 

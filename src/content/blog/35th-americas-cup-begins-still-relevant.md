@@ -9,12 +9,12 @@ categories:
 tags:
   - "35th America's Cup"
   - "foiling revolution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/amcup35.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/amcup35.jpg"
 author: "Rick Spilman"
 description: "After being postponed for two days by high winds, the 35th America’s Cup is scheduled to start this morning. Many consider the races to be the greatest show on the water — a thrilling, high-stakes extravaganza featuring cutting-edge technology and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/amcup35.jpg)After being [postponed for two days](https://www.americascup.com/en/news/2577_Americas-Cup-Opening-Day-postponed-until-Saturday-27th-May.html) by high winds, the [35th America’s Cup](https://www.americascup.com/en/home.html) is scheduled to start this morning. Many consider the races to be the greatest show on the water — a thrilling, high-stakes extravaganza featuring cutting-edge technology and the best sailors in the sport. Others view the races as an ego-fueled billionaire’s extravagance featuring obscenely costly beach-cats, wholly unrelated the rest of the world of sailing. There may be elements of truth in both viewpoints.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/amcup35.jpg)After being [postponed for two days](https://www.americascup.com/en/news/2577_Americas-Cup-Opening-Day-postponed-until-Saturday-27th-May.html) by high winds, the [35th America’s Cup](https://www.americascup.com/en/home.html) is scheduled to start this morning. Many consider the races to be the greatest show on the water — a thrilling, high-stakes extravaganza featuring cutting-edge technology and the best sailors in the sport. Others view the races as an ego-fueled billionaire’s extravagance featuring obscenely costly beach-cats, wholly unrelated the rest of the world of sailing. There may be elements of truth in both viewpoints.
 
 The races have certainly changed from the more stately America’s Cups of old, before the competing sailors started wearing crash helmets as part of their uniforms. The 35th competition is a continuation and refinement of the “foiling revolution” introduced in the last running of the races. The 50′ catamarans in this year’s race are among the most advanced sailing vessels ever seen and can sail at 45 knots in a 15-knot breeze, and up to 30 knots upwind.
 

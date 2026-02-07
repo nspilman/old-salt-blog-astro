@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/duck1.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/duck1.jpg)
 
 Duck Boat being struck by barge
 
@@ -27,5 +27,5 @@ The [National Transportation Safety Board (NTSB) released a preliminary repo
 
 The graphic below shows the relative position of the tug and barge and the *DUKW 34* at the time of the collision.  
 
-*[![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/Duck-barge-crash2W.jpg)](http://www.philly.com/philly/gallery/Search_suspended_for_two_missing_in_tour-boat_crash.html?view=graphic)  
+*[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Duck-barge-crash2W.jpg)](http://www.philly.com/philly/gallery/Search_suspended_for_two_missing_in_tour-boat_crash.html?view=graphic)  
 *

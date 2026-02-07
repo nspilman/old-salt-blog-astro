@@ -9,7 +9,7 @@ categories:
 tags:
   - "Super Blood Wolf Moon Eclipse"
   - "time lapse"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/superbloodmooneclipse.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/superbloodmooneclipse.jpg"
 author: "Rick Spilman"
 description: "Before turning in last night I peeked out at the moon in the frigid evening. I chose not to wait the next several hours to see the whole show. For those like me or in areas where the cloud cover … Continue reading &rarr;"
 ---

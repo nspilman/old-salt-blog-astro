@@ -17,13 +17,13 @@ author: "Rick Spilman"
 description: "On an overcast Friday in New York’s inner harbor, the windjammer Peking, was gently slipped into the flooded well deck of the heavy-lift ship Combi Dock III.  Once in position, the heavy-lift’s ballast tanks were pumped out, lifting the historic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/ploading1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/ploading1.jpg)
 
 Photo: Will Van Dorp
 
 On an overcast Friday in New York’s inner harbor, the windjammer [*Peking*](https://en.wikipedia.org/wiki/Peking_\(ship\)), was gently slipped into the flooded well deck of the heavy-lift ship [*Combi Dock III*](https://www.marinetraffic.com/en/ais/details/ships/305351000).  Once in position, the heavy-lift’s ballast tanks were pumped out, lifting the historic steel-hulled four-masted barque. In the next few days, the *Combi Dock III* will carry the *Peking* across the Atlantic for a complete restoration in a shipyard near Hamburg, where the ship was built in 1911. Once restored, the beautiful old ship will be the centerpiece of Hamburg’s new maritime museum. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/ploading2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/ploading2.jpg)
 
 Photo: Will Van Dorp
 

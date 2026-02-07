@@ -12,12 +12,12 @@ tags:
   - "New Rochelle"
   - "new york"
   - "Pea Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/columbiaisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/columbiaisland.jpg"
 author: "Rick Spilman"
 description: "Looking for a private island getaway within a reasonable commuting distance of New York City? Columbia (ex-Little Pea) and Pea Island are for sale. The two islands are in the western end of Long Island Sound and 10-minutes by boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/columbiaisland.jpg)Looking for a private island getaway within a reasonable commuting distance of New York City? [Columbia](https://en.wikipedia.org/wiki/Columbia_Island_\(New_York\)) (ex-Little Pea) and [Pea Island](https://en.wikipedia.org/wiki/Pea_Island_\(New_Rochelle,_New_York\)) are for sale. The two islands are in the western end of Long Island Sound and 10-minutes by boat from New Rochelle, NY.  Pea Island is roughly 2 acres and is undeveloped while Columbia Island is around an acre with a landscaped house. Columbia’s land area varies with the tides.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/columbiaisland.jpg)Looking for a private island getaway within a reasonable commuting distance of New York City? [Columbia](https://en.wikipedia.org/wiki/Columbia_Island_\(New_York\)) (ex-Little Pea) and [Pea Island](https://en.wikipedia.org/wiki/Pea_Island_\(New_Rochelle,_New_York\)) are for sale. The two islands are in the western end of Long Island Sound and 10-minutes by boat from New Rochelle, NY.  Pea Island is roughly 2 acres and is undeveloped while Columbia Island is around an acre with a landscaped house. Columbia’s land area varies with the tides.  
 
 The current owner, [Dr. Albert Sutton](https://en.wikipedia.org/wiki/Al_Sutton), bought Columbia Island for one million dollars in 2007 and subsequently bought Pea Island, 400 yards away, for $450,000. Dr. Sutton spent an additional $8 million over more than a decade, building a 5,625 square foot, 4 bedroom, 2 bath off-the-grid residence on Columbia. As reported by the [NYTimes](https://www.nytimes.com/2019/07/02/nyregion/island-sale-nyc.html?searchResultPosition=1), Dr. Sutton spent only one night on the island. And now, he has put Columbia and Pea Island up for sale for $13 million. If you should have the cash burning a hole in your pocket, be aware that the property taxes on the island are also listed at $42,885/year.
 

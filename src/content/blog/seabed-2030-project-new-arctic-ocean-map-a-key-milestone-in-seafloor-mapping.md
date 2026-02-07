@@ -12,12 +12,12 @@ tags:
   - "International Bathymetric Chart of the Arctic Ocean"
   - "Nippon Foundation"
   - "Seabed 2030"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/seabed2030.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/seabed2030.jpg"
 author: "Rick Spilman"
 description: "It is often said that we know more about the surface of the moon than we do about the ocean floor. The Seabed 2030 Project aims to help rectify this lack of knowledge by mapping the world’s ocean floor by … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/seabed2030.jpg)It is often said that we know more about the [surface of the moon than we do about the ocean floor](https://news.climate.columbia.edu/2019/04/19/you-asked-moon-oceans/#:~:text=The%20main%20reason%20for%20our,by%20light%20and%20radio%20waves.). The [Seabed 2030 Project](https://seabed2030.org/) aims to help rectify this lack of knowledge by mapping the world’s ocean floor by 2030. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/seabed2030.jpg)It is often said that we know more about the [surface of the moon than we do about the ocean floor](https://news.climate.columbia.edu/2019/04/19/you-asked-moon-oceans/#:~:text=The%20main%20reason%20for%20our,by%20light%20and%20radio%20waves.). The [Seabed 2030 Project](https://seabed2030.org/) aims to help rectify this lack of knowledge by mapping the world’s ocean floor by 2030. 
 
 [Seabed 2030  recently announced](https://seabed2030.org/2025/02/03/new-arctic-ocean-map-marks-key-milestone-in-global-seafloor-mapping/) the publication of the latest version of the International Bathymetric Chart of the Arctic Ocean (IBCAO), Version 5.0. This release adds 1.4 million square kilometers of mapping coverage – an area over three times the size of Sweden – to the global seafloor dataset. Seabed 2030 is a collaborative project between the [Nippon Foundation](https://en.nippon-foundation.or.jp/) and [GEBCO.](https://www.gebco.net/) 
 

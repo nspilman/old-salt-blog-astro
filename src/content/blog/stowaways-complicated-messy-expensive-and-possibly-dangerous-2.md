@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Dealing with stowaways on shipboard is usually expensive, complicated and in some cases dangerous."
 ---
 
-[![stowaway](http://www.oldsaltblog.com/wp-content/uploads/2015/07/stowaway-200x104.jpg)](http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html)First published in [gCaptain](http://gcaptain.com/stowaways-complicated-messy-expensive-and-possibly-dangerous/#.VbDynrNVhBe).
+[![stowaway](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/stowaway-200x104.jpg)](http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html)First published in [gCaptain](http://gcaptain.com/stowaways-complicated-messy-expensive-and-possibly-dangerous/#.VbDynrNVhBe).
 
 Recently, the New York Times published [Stowaways and Crimes Aboard Aboard a Scofflaw Ship](http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html), the first of a four part series, by Ian Urbina. At the core of the article, Urbina tells the story of two South Africans who have the misfortune to stowaway onboard a Greek reefer ship whose owner is notorious for shady dealings. Only one of the stowaways ultimately survives. The account is vivid, well researched and well told. Nevertheless, it doesn’t and really can’t capture the full scope of the problem of stowaways in shipping today.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As an update to our previous post, the fire on the Charlotte Maersk, which started July 7th, was finally extinguished last Sunday after 11 days of firefighting. Charlotte Maersk blaze is extinguished after 11 days … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/maersk-3.jpg)As an update to our [previous post](http://www.oldsaltblog.com/2010/07/09/hot-times-on-the-charlotte-maersk/), the fire on the *[Charlotte Maersk](http://www.maerskline.com/link/?page=brochure&path=/our_services/vessels)*, which started July 7th, was finally extinguished last Sunday after 11 days of firefighting.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/maersk-3.jpg)As an update to our [previous post](http://www.oldsaltblog.com/2010/07/09/hot-times-on-the-charlotte-maersk/), the fire on the *[Charlotte Maersk](http://www.maerskline.com/link/?page=brochure&path=/our_services/vessels)*, which started July 7th, was finally extinguished last Sunday after 11 days of firefighting.
 
 [Charlotte Maersk blaze is extinguished after 11 days](http://www.ifw-net.com/freightpubs/ifw/index/charlotte-maersk-blaze-is-extinguished-after-11-days/20017794184.htm;jsessionid=99F6A56F5911412E187A95858905513D.5d25bd3d240cca6cbbee6afc8c3b5655190f397f)  
   

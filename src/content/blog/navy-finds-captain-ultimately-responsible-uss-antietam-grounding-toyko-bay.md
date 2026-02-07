@@ -9,12 +9,12 @@ tags:
   - "Tokyo Bay"
   - "USS Antietam"
   - "Yokosuka Naval Base"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/antietam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/antietam.jpg"
 author: "Rick Spilman"
 description: "These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the USS Antietam, Captain Joseph Carrigan, was \"ultimately responsible\" for the cruiser running aground and spilling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/antietam.jpg)These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the [USS *Antietam*](https://en.wikipedia.org/wiki/USS_Antietam_\(CV-36\)), Captain Joseph Carrigan, was “ultimately responsible” for the cruiser running aground and spilling roughly 1,100 gallons of hydraulic fluid into Tokyo Bay in January.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/antietam.jpg)These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the [USS *Antietam*](https://en.wikipedia.org/wiki/USS_Antietam_\(CV-36\)), Captain Joseph Carrigan, was “ultimately responsible” for the cruiser running aground and spilling roughly 1,100 gallons of hydraulic fluid into Tokyo Bay in January.  
 
 The command report issued in April was obtained last week by [Stars and Stripes](https://www.stripes.com/news/pacific/navy-probe-blames-captain-s-judgment-in-uss-antietam-grounding-1.480879#.WYDgc4grJPY) though a Freedom of Information Act request.  The grounding took place on January 31st. Captain Carrigan was relieved of his command on March 1st.
 

@@ -13,7 +13,7 @@ tags:
   - "Pearl Harbor"
   - "radio broadcasts"
   - "surprise attack"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/pearlharbor-attack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/pearlharbor-attack.jpg"
 author: "Rick Spilman"
 description: "An interrupted broadcast of a football game, a newsbreak during a performance by the New York Philharmonic, a weather report followed by an announcement from President Roosevelt that Japan had bombed Pearl Harbor. Reports of attacks on the Philippines. Here … Continue reading &rarr;"
 ---

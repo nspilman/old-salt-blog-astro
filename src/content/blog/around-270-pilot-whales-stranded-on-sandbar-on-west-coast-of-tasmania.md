@@ -9,12 +9,12 @@ tags:
   - "Australia"
   - "pilot whales"
   - "Tasmania"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/strandedwhales.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/strandedwhales.jpg"
 author: "Rick Spilman"
 description: "Around 270 pilot whales have become stranded on a sandbar on the remote western coast of Tasmania. Rescuers in Australia say that at least a third of the whales have died and that more are dying.  The BBC reports that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/strandedwhales.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/strandedwhales.jpg)
 
 Around 270 [pilot whales](https://en.wikipedia.org/wiki/Pilot_whale) have become stranded on a sandbar on the remote western coast of Tasmania. Rescuers in Australia say that at least a third of the whales have died and that more are dying. 
 

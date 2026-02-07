@@ -12,12 +12,12 @@ tags:
   - "NOAA"
   - "oceanographic research vessel"
   - "Ronald H. Brown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/ronbrown.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/ronbrown.jpg"
 author: "Rick Spilman"
 description: "NOAA’s largest oceanographic research vessel, Ronald H. Brown, is based in Charleston, SC, although if you haven’t seen her in her homeport for quite a while, you are not alone. She only recently returned from a record deployment of 1,347 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/ronbrown.jpg)NOAA’s largest oceanographic research vessel, [*Ronald H. Brown*](http://oceanexplorer.noaa.gov/technology/vessels/ronbrown/ronbrown.html), is based in Charleston, SC, although if you haven’t seen her in her homeport for quite a while, you are not alone. She only recently returned from a record deployment of 1,347 days, which is to say 3 years, 8 months and 7 days in service. During the lengthy deployment, the research vessel spent nearly 800 days at sea and traveled nearly 130,000 miles conducting scientific research and servicing buoys that collect a wide variety of environmental data.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/ronbrown.jpg)NOAA’s largest oceanographic research vessel, [*Ronald H. Brown*](http://oceanexplorer.noaa.gov/technology/vessels/ronbrown/ronbrown.html), is based in Charleston, SC, although if you haven’t seen her in her homeport for quite a while, you are not alone. She only recently returned from a record deployment of 1,347 days, which is to say 3 years, 8 months and 7 days in service. During the lengthy deployment, the research vessel spent nearly 800 days at sea and traveled nearly 130,000 miles conducting scientific research and servicing buoys that collect a wide variety of environmental data.
 
 From the [NOAA press release](http://www.noaa.gov/media-release/noaa-research-ship-returns-to-charleston-home-port-after-worldwide-deployment):
 

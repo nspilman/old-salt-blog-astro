@@ -10,12 +10,12 @@ tags:
   - "Connecticut"
   - "Mystic"
   - "Mystic Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/07/mysticsm1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/mysticsm1.jpg"
 author: "Rick Spilman"
 description: "Sadly, this is not an April Fools joke. The Mystic Seaport Museum is another casualty of Covid-19, at least for the duration of the pandemic. The Hartford Courant reports that as of today the museum is closing indefinitely and laying … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/07/mysticsm1.jpg)Sadly, this is not an April Fools joke. The [Mystic Seaport Museum](https://www.mysticseaport.org/) is another casualty of Covid-19, at least for the duration of the pandemic. The [Hartford Courant](https://www.courant.com/coronavirus/hc-news-coronavirus-mystic-seaport-museum-layoffs-20200330-6jvlk364sje53lfx6vsfif5dl4-story.html) reports that as of today the museum is closing indefinitely and laying off 199 employees, 68 of which are full-time, according to a letter filed by the organization with the Connecticut Department of Labor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/mysticsm1.jpg)Sadly, this is not an April Fools joke. The [Mystic Seaport Museum](https://www.mysticseaport.org/) is another casualty of Covid-19, at least for the duration of the pandemic. The [Hartford Courant](https://www.courant.com/coronavirus/hc-news-coronavirus-mystic-seaport-museum-layoffs-20200330-6jvlk364sje53lfx6vsfif5dl4-story.html) reports that as of today the museum is closing indefinitely and laying off 199 employees, 68 of which are full-time, according to a letter filed by the organization with the Connecticut Department of Labor.
 
 While the period of time that the museum is closed is indefinite, the Seaport is not shutting down. From a statement titled “[Our Business Goes On](https://www.mysticseaport.org/news/2020/our-business-goes-on/)” on the Seaport website:
 

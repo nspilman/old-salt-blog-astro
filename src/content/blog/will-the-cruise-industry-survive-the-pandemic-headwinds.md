@@ -11,12 +11,12 @@ tags:
   - "Norwegian Cruise Lines"
   - "Pullmantur Cruceros"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/spanishcruiseship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/spanishcruiseship.jpg"
 author: "Rick Spilman"
 description: "Pullmantur Cruceros, a joint venture between Royal Caribbean and Cruises Investment Holding, has filed for reorganization under Spanish insolvency laws. Cruises Investment Holding owns 51 percent of the three-ship Spanish cruise line, while Royal Caribbean owns the remaining 49 percent.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/spanishcruiseship.jpg)Pullmantur Cruceros, a joint venture between Royal Caribbean and Cruises Investment Holding, has [filed for reorganization under Spanish insolvency laws](https://www.cruiseindustrynews.com/cruise-news/23124-pullmantur-files-for-reorganization.html?fbclid=IwAR3Eh2YzdFiUgRs_GRgr1r5qDuj2PhpWVZ5GqTa9UrqIV0_rwaCFUr4DIkc). Cruises Investment Holding owns 51 percent of the three-ship Spanish cruise line, while Royal Caribbean owns the remaining 49 percent. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/spanishcruiseship.jpg)Pullmantur Cruceros, a joint venture between Royal Caribbean and Cruises Investment Holding, has [filed for reorganization under Spanish insolvency laws](https://www.cruiseindustrynews.com/cruise-news/23124-pullmantur-files-for-reorganization.html?fbclid=IwAR3Eh2YzdFiUgRs_GRgr1r5qDuj2PhpWVZ5GqTa9UrqIV0_rwaCFUr4DIkc). Cruises Investment Holding owns 51 percent of the three-ship Spanish cruise line, while Royal Caribbean owns the remaining 49 percent. 
 
 Pullmantur’s board of directors issued a statement that reads in part, “Despite the great progress the company made to achieve a turnaround in 2019, … the headwinds caused by the pandemic are too strong for Pullmantur to overcome without a reorganization.”
 

@@ -10,12 +10,12 @@ tags:
   - "IMOCAs"
   - "UFOs"
   - "Vendee Globe Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg"
 author: "Rick Spilman"
 description: "Of the 33 IMOCAs which started the Vendee Globe Race, four have officially abandoned. Two, Hugo Boss and Arkea Paprec, were damaged after striking Unidentified Floating Objects (UFOs). A third boat, Sam Davies’ Initiatives Coeur was also damaged by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg)Of the 33 IMOCAs which started the [Vendee Globe Race](https://www.vendeeglobe.org/en), four have officially abandoned. Two, *Hugo Boss* and Arkea Paprec, were damaged after striking Unidentified Floating Objects (UFOs). A third boat, Sam Davies’ *Initiatives Coeur* was also damaged by a UFO collision. Davies is now evaluating whether she will be able to stay in the race. *Corum L’Épargne*, sailed by Nicolas Troussel, quit the race after dismasting, and *PRB* sank after an apparent structural failure.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg)Of the 33 IMOCAs which started the [Vendee Globe Race](https://www.vendeeglobe.org/en), four have officially abandoned. Two, *Hugo Boss* and Arkea Paprec, were damaged after striking Unidentified Floating Objects (UFOs). A third boat, Sam Davies’ *Initiatives Coeur* was also damaged by a UFO collision. Davies is now evaluating whether she will be able to stay in the race. *Corum L’Épargne*, sailed by Nicolas Troussel, quit the race after dismasting, and *PRB* sank after an apparent structural failure.
 
 In considering the status of the race, the French phrase, plus ça change, plus c’est la même chose, ( the more things change, the more they stay the same) comes to mind. Looking back at the 2016-2017 Vendee Globe Race, little seems to have changed. Four years ago, UFOs were the largest single cause of damage to the fleet.
 

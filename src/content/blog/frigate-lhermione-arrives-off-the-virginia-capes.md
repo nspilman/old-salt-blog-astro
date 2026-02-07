@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "The French frigate l'Hermoine arrived off the Virginia Capes yesterday where she was greeted by the guided-missile destroyer USS Mitscher."
 ---
 
-![hermioneAB](http://www.oldsaltblog.com/wp-content/uploads/2015/06/hermioneAB.jpg)
+![hermioneAB](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hermioneAB.jpg)
 
 U.S. Navy photo by Mass Communication Specialist 1st Class Michael Sandberg
 

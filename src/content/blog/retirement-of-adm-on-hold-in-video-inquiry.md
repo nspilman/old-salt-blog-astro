@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "An interesting followup to a previous post: Retirement of adm. on hold in video inquiry In an indication of just how seriously the Navy is taking the investigation into the racy shipboard videos aired four years ago aboard the carrier … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/011311navy_lawrence_rice_80.jpg)An interesting followup to a [previous post](http://www.oldsaltblog.com/2011/01/04/captain-owen-honors-relieved-of-duty-on-uss-enterprise/):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/011311navy_lawrence_rice_80.jpg)An interesting followup to a [previous post](http://www.oldsaltblog.com/2011/01/04/captain-owen-honors-relieved-of-duty-on-uss-enterprise/):
 
 [Retirement of adm. on hold in video inquiry](http://militarytimes.com/news/2011/01/navy-admirals-retirement-on-hold-011311w/)
 

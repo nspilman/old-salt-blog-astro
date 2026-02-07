@@ -19,16 +19,16 @@ Philadelphia’s tall ship, the barquentine *[Gazela Primeiro](http://gazela.org
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-2010-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-2010.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-2010-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-2010.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-a-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-a.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-a-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-a.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazella_3-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazella_3.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazella_3-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazella_3.jpg)
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-d-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-d.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-d-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-d.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-e-125x95.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazela-e.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-e-125x95.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-e.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazella_4-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/08/Gazella_4.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazella_4-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazella_4.jpg)

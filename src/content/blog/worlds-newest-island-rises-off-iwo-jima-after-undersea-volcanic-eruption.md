@@ -12,12 +12,12 @@ tags:
   - "Japan Meteorological Agency'"
   - "Pacific Ocean"
   - "volcanic eruption"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/newiwoisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/newiwoisland.jpg"
 author: "Rick Spilman"
 description: "The world’s newest island has risen from the Pacific Ocean off the Japanese island of Iwo Jima after an underwater volcanic eruption that began toward the end of October. In just 10 days, volcanic ash and rocks built up on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/newiwoisland.jpg)The world’s newest island has risen from the Pacific Ocean off the Japanese island of Iwo Jima after an underwater volcanic eruption that began toward the end of October. In just 10 days, volcanic ash and rocks built up on the shallow seabed, forming an island that emerged from below the water’s surface. The eruption has now subsided.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/newiwoisland.jpg)The world’s newest island has risen from the Pacific Ocean off the Japanese island of Iwo Jima after an underwater volcanic eruption that began toward the end of October. In just 10 days, volcanic ash and rocks built up on the shallow seabed, forming an island that emerged from below the water’s surface. The eruption has now subsided.
 
 By early November it was approximately 100 meters in diameter and had reached a height of 20 meters above sea level, according to Yuji Usui from the Japan Meteorological Agency’s volcanic division.
 

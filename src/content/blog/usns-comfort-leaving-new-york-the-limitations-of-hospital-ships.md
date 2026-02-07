@@ -13,12 +13,12 @@ tags:
   - "Mercy"
   - "New York City"
   - "patients"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usnscomfortarrivesnyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usnscomfortarrivesnyc.jpg"
 author: "Rick Spilman"
 description: "US military doctors, nurses, and technicians are among the best in the world, able to step in and to do their jobs under a range of challenging and demanding conditions. Fortunately, over 500 professionals from the Army, Navy, and Air … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usnscomfortarrivesnyc.jpg)US military doctors, nurses, and technicians are among the best in the world, able to step in and to do their jobs under a range of challenging and demanding conditions. Fortunately, over 500 professionals from the Army, Navy, and Air Force are [currently working alongside civilian medical professionals](https://www.cnn.com/2020/04/08/politics/military-doctor-surge-nyc/index.html) in New York City’s still overstressed hospitals. The military doctors and nurses are getting glowing reviews from all concerned. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usnscomfortarrivesnyc.jpg)US military doctors, nurses, and technicians are among the best in the world, able to step in and to do their jobs under a range of challenging and demanding conditions. Fortunately, over 500 professionals from the Army, Navy, and Air Force are [currently working alongside civilian medical professionals](https://www.cnn.com/2020/04/08/politics/military-doctor-surge-nyc/index.html) in New York City’s still overstressed hospitals. The military doctors and nurses are getting glowing reviews from all concerned. 
 
 The hospital ship USNS *Comfort* will soon be leaving New York harbor to return to its base in Virginia. Reviews of the hospital ship’s performance have been mixed at best.
 

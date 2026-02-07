@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "While the surface of the Earth is more than 70% covered by ocean, worlds covered by even greater expanses of water may be more common than previously thought.  We have previously posted about evidence of water on other bodies in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/waterworld.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/waterworld.jpg)
 
 Artist’s depiction of a water world. Image: NASA/JPL-Caltech
 

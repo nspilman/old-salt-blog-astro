@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "After attempting to sail on Wednesday and Thursday, the cruise ship Carnival Splendor finally departed San Diego under its own power on Friday, accompanied by two tugs.  As of Sunday morning, around 05:00 local time, the ship was approaching San Francisco under its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/CARNIVAL_SPLENDOR.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/CARNIVAL_SPLENDOR.jpg)
 
 Photo: Marko Thiem, Marinetraffic.com
 

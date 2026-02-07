@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "The Sultana Downrigging Weekend and Tall Ship and Wooden Boat Festival has grown to be one of the largest annual Tall Ship gatherings on the East Coast. Now in its 17th year, it is held on the Chester River in Chestertown, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/sultanadownrigging2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/sultanadownrigging2.jpg)
 
 The [Sultana Downrigging Weekend and Tall Ship and Wooden Boat Festival](http://sultanaeducation.org/public-programs/sultana-public-sails/downrigging-weekend-2/) has grown to be one of the largest annual Tall Ship gatherings on the East Coast. Now in its 17th year, it is held on the Chester River in Chestertown, MD, one of America’s best preserved colonial seaports. It always worth the trip. This year the [downrigging weekend is from October 27-29](http://sultanaeducation.org/public-programs/sultana-public-sails/downrigging-weekend-2/). 
 

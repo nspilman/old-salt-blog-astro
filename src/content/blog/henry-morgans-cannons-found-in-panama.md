@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Six guns from the ships of privateer Admiral Sir Henry Morgan are believed to have been found in the Chagres River in Panama. Henry Morgan’s cannons found in Panama, archaeologists say Archaeologists have recovered six cannons from the ships of Welsh privateer … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/59757030.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/59757030.jpg)
 
 Photo: Donnie Reid
 

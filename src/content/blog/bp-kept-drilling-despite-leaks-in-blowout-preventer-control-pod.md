@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "There is reported stonewalling by witnesses who have cancelled their scheduled testimonies at the ongoing investigation of the Deepwater Horizon disaster.  Nevertheless,  startling testimony was presented this Tuesday: A BP official, Ronald Sepulvado, a well-site leader, testified that BP continued drilling for oil … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/deepwater-horizon-explosion.jpg)There is [reported stonewalling](http://www.nytimes.com/2010/07/21/us/21hearings.html?_r=1) by witnesses who have cancelled their scheduled testimonies at the ongoing investigation of the Deepwater Horizon disaster.  Nevertheless,  startling testimony was presented this Tuesday:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg)There is [reported stonewalling](http://www.nytimes.com/2010/07/21/us/21hearings.html?_r=1) by witnesses who have cancelled their scheduled testimonies at the ongoing investigation of the Deepwater Horizon disaster.  Nevertheless,  startling testimony was presented this Tuesday:
 
 *A BP official, Ronald Sepulvado, a well-site leader, testified that BP continued drilling for oil in the days before the disaster despite internal reports of a leak on a safety device on the rig.*  
   

@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "USS Ling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/uss-ling.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uss-ling.jpg"
 author: "Rick Spilman"
 description: "Sometime between last Saturday afternoon and Sunday morning, vandals broke into the USS Ling, a World War II-era Balao-class submarine, which has been a museum ship in the Hackensack River since 1973. The vandals stole four bronze plaques, dedicated to the sailors lost … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/uss-ling.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/uss-ling.jpg)
 
 Photo: Chang W. Lee/The New York Times
 

@@ -12,7 +12,7 @@ tags:
   - "Fleet Week"
   - "new york harbor"
   - "Parade of Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/fleetweek2022.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/fleetweek2022.jpg"
 author: "Rick Spilman"
 description: "Fleet Week has returned to New York harbor after a two-year pandemic pause, bringing 3,000 sailors, marines, and coastguardsmen to the city. The week-long celebration will include public ship visitations, a variety of military demonstrations, and a mix of new … Continue reading &rarr;"
 ---

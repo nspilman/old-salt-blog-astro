@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "When the Swedish warship Vasa was raised from the seabed in 1961, to prevent her her waterlogged timbers from shrinking and cracking, the hull was sprayed, inside and out, continuously with polyethylene glycol for 17 years, followed by 9 years of slow drying.  The British … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/La-Belle.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/La-Belle.jpg)
 
 Photo: AP Photo/Texas A&M University
 

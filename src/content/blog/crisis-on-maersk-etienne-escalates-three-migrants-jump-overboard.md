@@ -10,12 +10,12 @@ tags:
   - "Maersk Etienne"
   - "Malta"
   - "migrants"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/maerskmigrants.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/maerskmigrants.jpg"
 author: "Rick Spilman"
 description: "In early August, the Maltese government asked the tanker, Maersk Etienne, to help a nearby boat in distress. The crew of the tanker found an overcrowded, wooden fishing boat carrying 27 African migrants — including a pregnant woman and a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/maerskmigrants.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/maerskmigrants.jpg)
 
 Photo: Maersk Tankers
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - "hudson river"
   - "humpback"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/humpbackbreach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/humpbackbreach.jpg"
 author: "Rick Spilman"
 description: "Over the last few years, we have been posting about the return of humpback whales to the waters around New York harbor.  Recently, nine humpbacks were sighted in the Hudson River. Several humpback whales spotted in Hudson River … Continue reading &rarr;"
 ---

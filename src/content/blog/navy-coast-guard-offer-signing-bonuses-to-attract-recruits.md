@@ -12,12 +12,12 @@ tags:
   - "signing bonus"
   - "US Coast Guard"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/recruits.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/recruits.jpg"
 author: "Rick Spilman"
 description: "The US military has been having problems meeting its recruiting targets. In response, the US Coast Guard and the US Navy have been offering signing bonuses of up to $50,000 for certain billets, after the number of sailors plummeted, in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/recruits.jpg)The US military has been having problems meeting its recruiting targets. In response, the US Coast Guard and the US Navy have been offering signing bonuses of up to $50,000 for certain billets, after the number of sailors plummeted, in part due to the military’s strict COVID-19 vaccination mandate. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/recruits.jpg)The US military has been having problems meeting its recruiting targets. In response, the US Coast Guard and the US Navy have been offering signing bonuses of up to $50,000 for certain billets, after the number of sailors plummeted, in part due to the military’s strict COVID-19 vaccination mandate. 
 
 [According to internal USCG documents](https://www.yahoo.com/video/coast-guard-offering-unheard-50k-182125913.html) obtained by Fox News Digital from October detailing fiscal year 2023 workforce planning, “Culinary Specialist,” or “CS,” level recruits could receive bonuses up to $50,000 each.
 

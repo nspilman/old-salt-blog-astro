@@ -12,12 +12,12 @@ tags:
   - "containers"
   - "ONE Apus"
   - "record for boxes lost over the side"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/onespusboxes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/onespusboxes.jpg"
 author: "Rick Spilman"
 description: "The one-year-old, 14,000 TEU capacity container ship, ONE Apus, has set a dubious new record. It encountered severe weather about 1,600 nautical miles northwest of Hawaii while sailing from Yantian in China to Long Beach, California. In the violent storm, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/onespusboxes.jpg)The one-year-old, 14,000 TEU capacity container ship, [*ONE Apus*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5855446/mmsi:431003000/imo:9806079/vessel:ONE_APUS), has set a dubious new record. It encountered severe weather about 1,600 nautical miles northwest of Hawaii while sailing from Yantian in China to Long Beach, California. In the violent storm, it is believed to have lost or damaged over 1,900 containers, a record for boxes lost over the side. Of these, 40 are believed to be Dangerous Goods containers. [Container News](https://container-news.com/one-apus-may-have-lost-a-quarter-of-its-cargo/) suggests that the ship may have lost up to 25% of its cargo. The ship was diverted to Kobe, Japan for assessment.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/onespusboxes.jpg)The one-year-old, 14,000 TEU capacity container ship, [*ONE Apus*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5855446/mmsi:431003000/imo:9806079/vessel:ONE_APUS), has set a dubious new record. It encountered severe weather about 1,600 nautical miles northwest of Hawaii while sailing from Yantian in China to Long Beach, California. In the violent storm, it is believed to have lost or damaged over 1,900 containers, a record for boxes lost over the side. Of these, 40 are believed to be Dangerous Goods containers. [Container News](https://container-news.com/one-apus-may-have-lost-a-quarter-of-its-cargo/) suggests that the ship may have lost up to 25% of its cargo. The ship was diverted to Kobe, Japan for assessment.
 
 To put the scope of this casualty in context, the loss on the *ONE Apus* appears to be greater than the total yearly loss of containers from all ships worldwide. The World Shipping Council, an association of the major container shipping companies, representing 80% of the total global vessel container capacity, states that ships of its members lost an average of 1,382 containers annually during the period 2008-2019. 
 

@@ -13,12 +13,12 @@ tags:
   - "turbosail"
   - "Van Dam Shipping"
   - "Ventifoil"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/ventisail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/ventisail.jpg"
 author: "Rick Spilman"
 description: "Van Dam Shipping, based in Spijk, Netherlands, has signed a contract for the installation of an eConowind propulsion system on its 3,600 DWT general cargo vessel Ankie. At first glance, two vertical structures in the graphic of the ship look … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/ventisail.jpg)[Van Dam Shipping](http://www.vandamshipping.com/page/1/), based in Spijk, Netherlands, has signed a contract for the installation of an [eConowind](https://www.econowind.nl/#top) propulsion system on its 3,600 DWT general cargo vessel [*Ankie*](http://www.vandamshipping.com/page/2/17/ankie.html). At first glance, two vertical structures in the graphic of the ship look like [Flettner rotors](https://en.wikipedia.org/wiki/Flettner_rotor). They are different, although a related technology. The two “sails” are a Ventifoil system, a development of [Jacques Cousteau’s turbosail design](https://en.wikipedia.org/wiki/Turbosail#Further_development) which he used on the research vessel *[Alcyone](https://en.wikipedia.org/wiki/Alcyone_\(ship\))* in the mid-1980s.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/ventisail.jpg)[Van Dam Shipping](http://www.vandamshipping.com/page/1/), based in Spijk, Netherlands, has signed a contract for the installation of an [eConowind](https://www.econowind.nl/#top) propulsion system on its 3,600 DWT general cargo vessel [*Ankie*](http://www.vandamshipping.com/page/2/17/ankie.html). At first glance, two vertical structures in the graphic of the ship look like [Flettner rotors](https://en.wikipedia.org/wiki/Flettner_rotor). They are different, although a related technology. The two “sails” are a Ventifoil system, a development of [Jacques Cousteau’s turbosail design](https://en.wikipedia.org/wiki/Turbosail#Further_development) which he used on the research vessel *[Alcyone](https://en.wikipedia.org/wiki/Alcyone_\(ship\))* in the mid-1980s.
 
 Unlike the Flettner rotor, which spins on its axis, the Ventifoil/turbosail is a fixed airfoil-shaped spar with an internal fan that uses boundary layer suction to generate thrust. The installation on the *Ankie* will feature two 10-meter wings with two 6 meter extensions that will reduce the need for motor power with the vessel operating effectively as a motor-sailor.
 

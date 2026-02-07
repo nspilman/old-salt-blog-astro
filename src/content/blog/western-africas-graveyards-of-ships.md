@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with \"graveyard of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/nigeriawreck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/nigeriawreck.jpg)
 
 Photo: BBC
 
@@ -28,13 +28,13 @@ Recently the BBC published an article, [Nigeria’s coast ‘threatened by sh
   
 The one of the [largest graveyard of ships in the world is in the Bay of Nouadhibou](http://www.artificialowl.net/2008/12/probably-one-of-largest-boat-graveyard.html) (formerly Port-Étienne.)  [Nouadhibou](http://en.wikipedia.org/wiki/Nouadhibou) is the second largest city in Mauritania.  An estimated 300 or more ships have been abandoned.  Reportedly the abandonment started in the 80s with the nationalization of the Mauritanian fishing industry, when  uneconomical fishing vessels were abandoned in the bay.  Foreign owners are said to have seen an opportunity to use the bay as a dumping ground, as well.  The bay is now said to have been heavily polluted by the abandoned ships.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/Nouadhibou-shipwreck3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Nouadhibou-shipwreck3.jpg)
 
 Graveyard of ships in the Bay of Nouadhibou
 
 The graveyard of ships on Namibia’s forbidding Skeleton Coast has had a happier outcome. The shipwrecks in this region were generally not dumped by owners but rather were driven ashore by gales or during persistent fogs.   The Skeleton Coast and its shipwrecks are now tourist attractions.  The government of Namibia has established the [Skeleton Coast National Park](http://www.namibian.org/travel/namibia/skeleton.htm).
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/skeleton_coast-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/skeleton_coast-1.jpg)
 
 Skeleton Coast
 

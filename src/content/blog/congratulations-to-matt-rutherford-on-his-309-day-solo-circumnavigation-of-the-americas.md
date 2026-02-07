@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "After a difficult last few days, Matt Rutherford sailed into Chesapeake Bay this morning at 10:42 AM, completing the first ever solo circumnavigation of the Americas, a voyage of 309 days and over 25,000 miles.  Matt’s plan is still to make his first landfall this Saturday the 21st … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/Matt2.jpg)After a difficult last few days, Matt Rutherford sailed into Chesapeake Bay this morning at 10:42 AM, completing the first ever solo circumnavigation of the Americas, a voyage of 309 days and over 25,000 miles.  Matt’s plan is still to make his first landfall this Saturday the 21st of April at noon in Annapolis. All are invited to help welcome him home.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Matt2.jpg)After a difficult last few days, Matt Rutherford sailed into Chesapeake Bay this morning at 10:42 AM, completing the first ever solo circumnavigation of the Americas, a voyage of 309 days and over 25,000 miles.  Matt’s plan is still to make his first landfall this Saturday the 21st of April at noon in Annapolis. All are invited to help welcome him home.
 
 [Sailor finishes 309-day trip at Bay bridge-tunnel](http://hamptonroads.com/2012/04/sailor-finishes-309day-circumnavigation-bridge-tunnel)  
   

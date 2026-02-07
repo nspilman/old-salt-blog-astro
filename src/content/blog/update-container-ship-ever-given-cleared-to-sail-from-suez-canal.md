@@ -13,12 +13,12 @@ tags:
   - "Great Bitter Lake"
   - "Suez Canal"
   - "Suez Canal Authority"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/evergivenstuck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/evergivenstuck.jpg"
 author: "Rick Spilman"
 description: "Reuters is reporting that an Egyptian court has lifted the detention order on the Ever Given container ship, allowing its expected release from the Suez Canal on Wednesday, according to a lawyer and judicial sources. The Ever Given’s owners and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/evergivenstuck.jpg)[Reuters](https://www.reuters.com/article/us-egypt-suezcanal-ship/ever-givens-suez-canal-detention-order-lifted-says-lawyer-idUSKCN2EC15C) is reporting that an Egyptian court has lifted the detention order on the [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN) container ship, allowing its expected release from the Suez Canal on Wednesday, according to a lawyer and judicial sources.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/evergivenstuck.jpg)[Reuters](https://www.reuters.com/article/us-egypt-suezcanal-ship/ever-givens-suez-canal-detention-order-lifted-says-lawyer-idUSKCN2EC15C) is reporting that an Egyptian court has lifted the detention order on the [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN) container ship, allowing its expected release from the Suez Canal on Wednesday, according to a lawyer and judicial sources.
 
 The *Ever Given*’s owners and insurers announced on Sunday that they had reached a settlement with the Suez Canal Authority (SCA) over compensation for the ship becoming grounded in March and blocking traffic in the waterway. The [amount of the settlement](https://www.ship-technology.com/news/sca-reaches-settlement/) has not been announced. The SCA initially demanded $916m in compensation to cover salvage efforts, reputational damage, and lost revenue. The demand was later lowered to $550 million. 
 

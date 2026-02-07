@@ -13,12 +13,12 @@ tags:
   - "Noah"
   - "Norway"
   - "One Whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/09/HvaldimirOnewhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/HvaldimirOnewhale.jpg"
 author: "Rick Spilman"
 description: "Animal rights groups on Wednesday said gunfire killed a beluga whale nicknamed Hvaldimir, which became famous in Norway after its unusual harness sparked suspicions the creature was trained by Russia as a spy. The organizations NOAH and One Whale said they … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/09/HvaldimirOnewhale.jpg)Animal rights groups on Wednesday said gunfire killed a [beluga whale](https://www.cbsnews.com/news/russian-spy-begluga-whale-found-dead-norway/) nicknamed [Hvaldimir](https://en.wikipedia.org/wiki/Hvaldimir), which became famous in Norway after its unusual harness sparked suspicions the creature was [trained by Russia as a spy](https://www.oldsaltblog.com/2019/05/russian-spy-beluga-whale-defects-to-norway/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/HvaldimirOnewhale.jpg)Animal rights groups on Wednesday said gunfire killed a [beluga whale](https://www.cbsnews.com/news/russian-spy-begluga-whale-found-dead-norway/) nicknamed [Hvaldimir](https://en.wikipedia.org/wiki/Hvaldimir), which became famous in Norway after its unusual harness sparked suspicions the creature was [trained by Russia as a spy](https://www.oldsaltblog.com/2019/05/russian-spy-beluga-whale-defects-to-norway/).
 
 The organizations [NOAH](https://www.dyrsrettigheter.no/) and [One Whale](https://www.onewhale.org/) said they had filed a complaint with Norwegian police asking them to open a “criminal investigation.”
 

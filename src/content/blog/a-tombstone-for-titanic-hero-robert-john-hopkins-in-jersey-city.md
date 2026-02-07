@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Robert John Hopkins was one of the lesser-known heroes on the Titanic. He died in 1943 at the age of 77 and was buried in an unmarked grave in the Holy Name Cemetery, in Jersey City, NJ.  Last Saturday, his descendants gathered … Continue reading &rarr;"
 ---
 
-[![hopkinstombstone](http://www.oldsaltblog.com/wp-content/uploads/2016/05/hopkinstombstone.jpg)](http://www.encyclopedia-titanica.org/titanic-survivor/robert-john-hopkins.html)
+[![hopkinstombstone](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hopkinstombstone.jpg)](http://www.encyclopedia-titanica.org/titanic-survivor/robert-john-hopkins.html)
 
 Photo: Nancy Benecki-Hawkins | The Jersey Journal
 

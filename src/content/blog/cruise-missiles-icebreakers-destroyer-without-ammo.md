@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "I sometimes wonder if the world is going a bit mad. Take, for example, the case of icebreakers with cruise missiles and destroyers with guns but no ammunition.  Despite the increased strategic importance of Arctic, the US has only one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg)
 
 USS Zumwalt, guns but no ammo
 

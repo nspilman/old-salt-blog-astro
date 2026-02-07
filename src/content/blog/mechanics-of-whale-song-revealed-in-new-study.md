@@ -12,12 +12,12 @@ tags:
   - "Humpbacks"
   - "larynx"
   - "whale song"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/humpack-layrnx.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/humpack-layrnx.jpg"
 author: "Rick Spilman"
 description: "For centuries, sailors heard the sounds made by whales reverberating through the hulls of wooden ships. Arctic whalers dubbed beluga whales the \"canaries of the seas\" for their clicks, chirps, and whistles.  Nevertheless, it was long thought that whale noises … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/humpack-layrnx.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/humpack-layrnx.jpg)
 
 Artwork indicating the cartilages of the larynx in a humpback whale. Patricia Jaqueline Matic, Vienna
 

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "From 1655 to 1970, the Royal Navy issued daily rations of rum to their sailors.  In the US Navy, alcohol was prohibited in 1913.  Now almost 100 years later, the US Navy is going one step farther.  Ray Mabus, the Secretary of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/navybreathylzer.jpg)From 1655 to 1970, the [Royal Navy issued daily rations](http://www.webhistoryofengland.com/?p=677) of rum to their sailors.  In the US Navy, alcohol was prohibited in 1913.  Now almost 100 years later, the US Navy is going one step farther.  Ray Mabus, the Secretary of the Navy, has ordered the installation of breath-test machines on all ships and submarines, as well as on Marine Corps bases.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/navybreathylzer.jpg)From 1655 to 1970, the [Royal Navy issued daily rations](http://www.webhistoryofengland.com/?p=677) of rum to their sailors.  In the US Navy, alcohol was prohibited in 1913.  Now almost 100 years later, the US Navy is going one step farther.  Ray Mabus, the Secretary of the Navy, has ordered the installation of breath-test machines on all ships and submarines, as well as on Marine Corps bases.
 
 [Navy to place breath-test machines on all its ships](http://www.washingtonpost.com/blogs/checkpoint-washington/post/navy-to-place-breathalyzers-on-all-its-ships/2012/03/06/gIQAIC4ZuR_blog.html)  
   

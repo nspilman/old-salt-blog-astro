@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Today is Columbus Day in the United States (and Thanksgiving Day in Canada. Happy Thanksgiving Canadians.)  Columbus Day is celebrated tomorrow in Spain. Every year about this time,  various scholars and pundits emerge to denigrate the memory of the Genoese naviator and explorer.   There were indeed many things … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/Columbus.jpg)Today is Columbus Day in the United States (and Thanksgiving Day in Canada. Happy Thanksgiving Canadians.)  Columbus Day is celebrated tomorrow in Spain.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Columbus.jpg)Today is Columbus Day in the United States (and Thanksgiving Day in Canada. Happy Thanksgiving Canadians.)  Columbus Day is celebrated tomorrow in Spain.
 
 Every year about this time,  various scholars and pundits emerge to denigrate the memory of the Genoese naviator and explorer.   There were indeed many things for which Christoffa Corombo, as he was known in his home of Genoa, could be criticized for.   He never reached China.  He severely underestimated the circumference of the Earth, (which may have been more Ptolomy’s fault that Christoffa’s.)
 

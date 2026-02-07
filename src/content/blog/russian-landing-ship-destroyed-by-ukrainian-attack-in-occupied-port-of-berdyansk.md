@@ -14,12 +14,12 @@ tags:
   - "Russian Alligator Class"
   - "Ukrainian military"
   - "Ukrainian port city"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/orskls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/orskls.jpg"
 author: "Rick Spilman"
 description: "The Ukrainian military claims to have destroyed the Russian Alligator Class landing ship Orsk in the Ukrainian port city of Berdyansk, which Russia captured in late February.  \"The destroyed ship in Berdyansk could carry up to 20 tanks, 45 armored … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/orskls.jpg)The [Ukrainian military claims](https://www.facebook.com/navy.mil.gov.ua/posts/340844301416492) to have destroyed the Russian [Alligator Class landing ship](https://en.wikipedia.org/wiki/Alligator-class_landing_ship) *Orsk* in the Ukrainian port city of Berdyansk, which Russia captured in late February. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/orskls.jpg)The [Ukrainian military claims](https://www.facebook.com/navy.mil.gov.ua/posts/340844301416492) to have destroyed the Russian [Alligator Class landing ship](https://en.wikipedia.org/wiki/Alligator-class_landing_ship) *Orsk* in the Ukrainian port city of Berdyansk, which Russia captured in late February. 
 
 “The destroyed ship in Berdyansk could carry up to 20 tanks, 45 armored personnel carriers, and 400 paratroopers,” the Ukrainian deputy defense minister, Anna Malyar, said in a statement on Thursday. “This is a huge target that was hit by our military.”
 

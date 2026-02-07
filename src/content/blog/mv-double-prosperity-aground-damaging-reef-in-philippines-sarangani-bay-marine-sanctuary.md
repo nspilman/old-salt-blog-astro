@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The perhaps poorly named MV Double Prosperity, loaded with  65,000 tons of coal, grounded on Bakud Reef on Sunday in Sarangani Bay in the Philippines. Stranded ship threatens Philippine reef … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/20110512093957_0.jpg)The perhaps poorly named *MV Double Prosperity*, loaded with  65,000 tons of coal, grounded on Bakud Reef on Sunday in Sarangani Bay in the Philippines.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/20110512093957_0.jpg)The perhaps poorly named *MV Double Prosperity*, loaded with  65,000 tons of coal, grounded on Bakud Reef on Sunday in Sarangani Bay in the Philippines.
 
 [Stranded ship threatens Philippine reef](http://www.google.com/hostednews/afp/article/ALeqM5iII_0iEPq_YI2J8gKmCT4LLcobOw?docId=CNG.e4f462767ca1ace6aa2cd1b04f2c40c5.111)  
   

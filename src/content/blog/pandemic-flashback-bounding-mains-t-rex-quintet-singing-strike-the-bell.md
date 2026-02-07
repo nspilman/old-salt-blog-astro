@@ -13,7 +13,7 @@ tags:
   - "Shanty"
   - "Strike the Bell"
   - "T-Rex quintet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/boundingmaintrex.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/boundingmaintrex.jpg"
 author: "Rick Spilman"
 description: "We are two years late in posting this. Nevertheless, it seems like a worthwhile bit of silliness for a Friday afternoon.  Back in 2020, a deadly virus was running rampant across the globe. Performance venues and even rehearsals were shut … Continue reading &rarr;"
 ---

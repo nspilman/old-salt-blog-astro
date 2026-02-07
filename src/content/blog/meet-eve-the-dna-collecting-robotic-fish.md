@@ -15,12 +15,12 @@ tags:
   - "Lake Zurich"
   - "robotic fish"
   - "SURF-eDNA"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/evefish.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/evefish.jpg"
 author: "Rick Spilman"
 description: "A fascinating article by CNN about a robotic fish named \"Eve\" that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by SURF-eDNA. The student-led group has spent … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/evefish.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/evefish.jpg)
 
 A fascinating article by [CNN](https://www.cnn.com/science/switzerland-dna-collecting-robot-fish-hnk-spc) about a robotic fish named “Eve” that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by [SURF-eDNA](https://surf.ethz.ch/Home.html). The [student-led group](https://surf.ethz.ch/Team.html) has spent the past two years building a school of soft robotic fish – of which Eve is the latest.
 

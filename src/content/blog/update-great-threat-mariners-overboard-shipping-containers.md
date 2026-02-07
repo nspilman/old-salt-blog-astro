@@ -11,12 +11,12 @@ tags:
   - "Maersk Shanghai"
   - "MOL Comfort"
   - "World Shipping Council"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/maerskshanghai.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/maerskshanghai.jpg"
 author: "Rick Spilman"
 description: "As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the US Coast Guard released an announcement that \"70 stray cargo containers pose a threat to mariners off North Carolina.\" The Maersk Shanghai lost approximately 70 to 73 cargo containers due … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/maerskshanghai.jpg)As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the [US Coast Guard released an announcement](https://content.govdelivery.com/accounts/USDHSCG/bulletins/1df7483) that “*70 stray cargo containers pose a threat to mariners off North Carolina*.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/maerskshanghai.jpg)As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the [US Coast Guard released an announcement](https://content.govdelivery.com/accounts/USDHSCG/bulletins/1df7483) that “*70 stray cargo containers pose a threat to mariners off North Carolina*.”
 
 The [*Maersk Shanghai*](https://www.bizjournals.com/southflorida/news/2017/06/14/largest-container-ship-to-ever-call-on-a-florida.html) lost approximately 70 to 73 cargo containers due to high winds and heavy seas on Saturday. The over 10,000 TEU ship was the [largest container ship to ever call on a Florida deep-water port](https://www.bizjournals.com/southflorida/news/2017/06/14/largest-container-ship-to-ever-call-on-a-florida.html) on its first port call to South Florida, this summer.
 

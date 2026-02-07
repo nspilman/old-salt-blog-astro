@@ -12,12 +12,12 @@ tags:
   - "Mary A.Whalen"
   - "RELIABLE TRANSFER"
   - "Supreme Court"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/mawhalen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/mawhalen.jpg"
 author: "Rick Spilman"
 description: "PortSide NewYork is hosting a fascinating virtual talk with Captain Lawrence Brennan, a Fordham law Professor, and PortSide Executive Director Carolina Salguero about the Supreme Court decision US vs RELIABLE TRANSFER involving PortSide’s historic ship Mary A. Whalen.  Brennan and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/mawhalen.jpg)[PortSide NewYork](https://portsidenewyork.org/calendar/2021/5/25/mary-whalens-game-changing-supreme-court-case) is hosting a fascinating virtual talk with [Captain Lawrence Brennan](https://www.fordham.edu/info/23642/a_-_b/7412/lawrence_b_brennan), a Fordham law Professor, and PortSide Executive Director [Carolina Salguero](https://www.linkedin.com/in/carolina-salguero-34169418) about the Supreme Court decision US vs RELIABLE TRANSFER involving PortSide’s historic ship *[Mary A. Whalen](https://www.facebook.com/hashtag/marywhalen).*  Brennan and Salguero will be on the *Mary A. Whalen* together, allowing you to see some of the ship. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/mawhalen.jpg)[PortSide NewYork](https://portsidenewyork.org/calendar/2021/5/25/mary-whalens-game-changing-supreme-court-case) is hosting a fascinating virtual talk with [Captain Lawrence Brennan](https://www.fordham.edu/info/23642/a_-_b/7412/lawrence_b_brennan), a Fordham law Professor, and PortSide Executive Director [Carolina Salguero](https://www.linkedin.com/in/carolina-salguero-34169418) about the Supreme Court decision US vs RELIABLE TRANSFER involving PortSide’s historic ship *[Mary A. Whalen](https://www.facebook.com/hashtag/marywhalen).*  Brennan and Salguero will be on the *Mary A. Whalen* together, allowing you to see some of the ship. 
 
 The talk will be on [Zoom on Thursday, June 10, 2021](https://portsidenewyork.org/calendar/2021/5/25/mary-whalens-game-changing-supreme-court-case), from 12:30 PM to 1:30 PM.  This virtual lunchtime presentation is tailored to a general audience and landlubbers, not just admiralty lawyers. There will be several opportunities for Q&A.
 

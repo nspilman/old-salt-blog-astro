@@ -17,12 +17,12 @@ tags:
   - "Strait of Hormuz"
   - "TRF Moss"
   - "USS McFaul"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/iraniannavy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/iraniannavy.jpg"
 author: "Rick Spilman"
 description: "US Naval Forces Central Command Public Affairs reports that on July 5, the Arleigh Burke-class guided-missile destroyer USS McFaul prevented two attempted commercial tanker seizures by the Iranian Navy. The Iranians opened fire in one of the incidents near the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/iraniannavy.jpg)[US Naval Forces Central Command Public Affairs reports](https://www.navy.mil/Press-Office/News-Stories/Article/3448330/us-prevents-iran-from-seizing-two-merchant-tankers-in-gulf-of-oman/) that on July 5, the Arleigh Burke-class guided-missile destroyer [USS *McFaul*](https://en.wikipedia.org/wiki/USS_McFaul) prevented two attempted commercial tanker seizures by the Iranian Navy. The Iranians opened fire in one of the incidents near the coast of Oman.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/iraniannavy.jpg)[US Naval Forces Central Command Public Affairs reports](https://www.navy.mil/Press-Office/News-Stories/Article/3448330/us-prevents-iran-from-seizing-two-merchant-tankers-in-gulf-of-oman/) that on July 5, the Arleigh Burke-class guided-missile destroyer [USS *McFaul*](https://en.wikipedia.org/wiki/USS_McFaul) prevented two attempted commercial tanker seizures by the Iranian Navy. The Iranians opened fire in one of the incidents near the coast of Oman.
 
 At 1 a.m. local time, one Iranian naval vessel approached the Marshall Islands-flagged oil tanker [*TRF Moss*](https://www.marinetraffic.com/en/ais/details/ships/shipid:4157583/mmsi:538006543/imo:9732826/vessel:TRF_MOSS) in international waters in the Gulf of Oman. The Iranian vessel departed the scene when the destroyer USS *McFaul* (DDG 74) arrived on station. Additionally, the US Navy deployed surveillance assets, including [MQ-9 Reaper](https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper) and [P-8 Poseidon maritime patrol aircraft](https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon).
 

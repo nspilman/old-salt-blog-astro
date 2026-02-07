@@ -13,12 +13,12 @@ tags:
   - "lunge feeding"
   - "Massachusetts"
   - "Provincetown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/humpbackfeeding.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/humpbackfeeding.jpg"
 author: "Rick Spilman"
 description: "A diver from Cape Cod, Massachusetts was gulped up and then spat out by a humpback whale feeding off the coast of Provincetown early Friday morning.  The diver, Michael Packard, 56, of Wellfleet, was hunting for lobsters while about 45 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/humpbackfeeding.jpg)A diver from Cape Cod, Massachusetts was [gulped up and then spat out by a humpback whale](https://www.theguardian.com/us-news/2021/jun/11/lobster-diver-swallowed-by-whale-cape-cod) feeding off the coast of Provincetown early Friday morning.  The diver, Michael Packard, 56, of Wellfleet, was hunting for lobsters while about 45 feet down. He told WBZ-TV, after he was released from Cape Cod hospital, how “all of a sudden I felt this huge bump, and everything went dark.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/humpbackfeeding.jpg)A diver from Cape Cod, Massachusetts was [gulped up and then spat out by a humpback whale](https://www.theguardian.com/us-news/2021/jun/11/lobster-diver-swallowed-by-whale-cape-cod) feeding off the coast of Provincetown early Friday morning.  The diver, Michael Packard, 56, of Wellfleet, was hunting for lobsters while about 45 feet down. He told WBZ-TV, after he was released from Cape Cod hospital, how “all of a sudden I felt this huge bump, and everything went dark.”
 
 “Then I realized, oh my God, I’m in a whale’s mouth … and he’s trying to swallow me,” he said. “And I thought to myself OK, this is it – I’m finally – I’m gonna die.” His thoughts went to his wife and children.
 

@@ -14,12 +14,12 @@ tags:
   - "Russia"
   - "Russian jets"
   - "Ukrainia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/hmsdefender.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/hmsdefender.jpg"
 author: "Rick Spilman"
 description: "Yesterday, more than 20 Russian aircraft and two coastguard ships shadowed the Royal Navy destroyer, HMS Defender, sailing near Crimea. Moscow’s defence ministry said a patrol ship fired warning shots and a jet dropped bombs in the path of HMS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/hmsdefender.jpg)Yesterday, more than 20 Russian aircraft and two coastguard ships shadowed the Royal Navy destroyer, [HMS *Defender*](https://en.wikipedia.org/wiki/HMS_Defender_\(D36\)), sailing near Crimea. Moscow’s defence ministry said a patrol ship fired warning shots and a jet dropped bombs in the path of HMS *Defender* as it sailed some 12 miles (19km) off Crimea’s coast. The UK government rejected Russia’s account of the incident and denied that any warning shots had been fired.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/hmsdefender.jpg)Yesterday, more than 20 Russian aircraft and two coastguard ships shadowed the Royal Navy destroyer, [HMS *Defender*](https://en.wikipedia.org/wiki/HMS_Defender_\(D36\)), sailing near Crimea. Moscow’s defence ministry said a patrol ship fired warning shots and a jet dropped bombs in the path of HMS *Defender* as it sailed some 12 miles (19km) off Crimea’s coast. The UK government rejected Russia’s account of the incident and denied that any warning shots had been fired.
 
 The [BBC](https://www.bbc.com/news/world-europe-57583363) reports that HMS *Defender* was sailing from Odessa in southern Ukraine to Georgia. To get there, it passed south of the Crimea peninsula, which Russia annexed from Ukraine in 2014 in a move that has not been recognized internationally.
 

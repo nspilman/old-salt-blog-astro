@@ -13,12 +13,12 @@ tags:
   - "Martha’s Vineyard"
   - "South Fork Wind Farm"
   - "Vineyard Wind"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/geturbine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/geturbine.jpg"
 author: "Rick Spilman"
 description: "Two offshore wind energy projects off the US Northeast coast have received new approvals from regulators. Vineyard Wind Vineyard Wind, an 800 megawatt (MW) wind farm to be built 15 miles off the coast of Martha’s Vineyard, was advised that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/geturbine.jpg)Two offshore wind energy projects off the US Northeast coast have received new approvals from regulators.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/geturbine.jpg)Two offshore wind energy projects off the US Northeast coast have received new approvals from regulators.
 
 ### Vineyard Wind
 

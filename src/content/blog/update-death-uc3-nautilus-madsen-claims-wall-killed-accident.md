@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On August 10th, inventor Peter Madsen took Swedish journalist Kim Wall on a trip aboard his private submarine UC3 Nautilus in Copenhagen harbor as part of an interview. The submarine sank under mysterious circumstances. Madsen was rescued but Wall disappeared. Madsen initially … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/kimwall2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/kimwall2.jpg)
 
 Kim Wall
 

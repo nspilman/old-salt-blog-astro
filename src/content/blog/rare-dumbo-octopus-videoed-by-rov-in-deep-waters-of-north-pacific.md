@@ -12,7 +12,7 @@ tags:
   - "Ocean Exploration Trust"
   - "Papahānaumokuākea Marine National Monument"
   - "ROV Hercules"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/jumbooctopus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/jumbooctopus.jpg"
 author: "Rick Spilman"
 description: "The ROV Hercules, operated by the E/V Nautilus, a research vessel owned by the nonprofit Ocean Exploration Trust, has captured video of a rare dumbo octopus at a depth of over 1,600 meters deep.  The research vessel was exploring the … Continue reading &rarr;"
 ---

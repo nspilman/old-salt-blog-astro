@@ -18,7 +18,7 @@ tags:
   - "schooner"
   - "Spirit of Bermuda"
   - "Tall Ships Festival"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/lynxbb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/lynxbb.jpg"
 author: "Rick Spilman"
 description: "This weekend four tall ships participated in the Tall Ships Festival that this year is a part of the Boothbay Harbor Windjammer Days which continues through July 2.  Two of the tall ships, the privateer schooner Lynx and the schooner … Continue reading &rarr;"
 ---

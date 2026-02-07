@@ -15,12 +15,12 @@ tags:
   - "Thames River sailing barges"
   - "Thames Sailing Barge Matc"
   - "Wyvenhoe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/thamessailingbargematch2023.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/thamessailingbargematch2023.jpg"
 author: "Rick Spilman"
 description: "In 1863, Henry Dodd organized a race between Thames River sailing barges. It has become the longest-running, regularly organized, national racing event for traditional sail in the world. In absolute terms, it ranks as the second oldest sailing race behind … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/thamessailingbargematch2023.jpg)In 1863, [Henry Dodd](https://en.wikipedia.org/wiki/Henry_Dodd) organized a race between Thames River sailing barges. It has become the longest-running, regularly organized, national racing event for traditional sail in the world. In absolute terms, it ranks as the second oldest sailing race behind the America’s Cup.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/thamessailingbargematch2023.jpg)In 1863, [Henry Dodd](https://en.wikipedia.org/wiki/Henry_Dodd) organized a race between Thames River sailing barges. It has become the longest-running, regularly organized, national racing event for traditional sail in the world. In absolute terms, it ranks as the second oldest sailing race behind the America’s Cup.
 
 Dodd was a wealthy barge owner, who started as a plowboy and made his fortune hauling rubbish. A friend of Charles Dickens, he probably inspired the character Noddy Boffin, the wealthy London “Golden Dustman,” in Dickens’ novel “*Our Mutual Friend*.”
 

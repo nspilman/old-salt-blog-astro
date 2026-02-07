@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Royal Navy has announced that it is putting on display one of the greatest treasures in British naval history before they return to storage for months, perhaps years, to protect them. The Armada Maps chart the Royal Navy’s defeat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/arrmada.jpg)The [Royal Navy](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2023/june/29/20230629-armada-maps) has announced that it is putting on display one of the greatest treasures in British naval history before they return to storage for months, perhaps years, to protect them.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/arrmada.jpg)The [Royal Navy](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2023/june/29/20230629-armada-maps) has announced that it is putting on display one of the greatest treasures in British naval history before they return to storage for months, perhaps years, to protect them.
 
 The [Armada Maps](https://www.nmrn.org.uk/news/extremely-rare-spanish-armada-maps-be-put-display-first-time-their-history-national-museum) chart the Royal Navy’s defeat of the Spanish fleet – or armada – in 1588, one of the defining moments in the history of the navy, nation, and Europe.
 

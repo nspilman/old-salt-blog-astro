@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Two interesting stories of shipwrecks in the press recently – the wreck of the Titanic is being consumed by newly identified steel-munching bacteria, while scientists are discovering large numbers of well preserved shipwrecks in the dark and cold Baltic where there are 1,500 confirmed wrecks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/rusticle.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/rusticle.jpg)
 
 Rusticles on the Titanic
 

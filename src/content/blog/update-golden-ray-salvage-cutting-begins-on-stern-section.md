@@ -15,12 +15,12 @@ tags:
   - "Port of Brunswick"
   - "St. Simons Sound"
   - "VB-10"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/goldenraycutting.jpg"
 author: "Rick Spilman"
 description: "Salvors on the heavy-lift barge VB-10,000 have begun making the second cut through the hull of the stranded car carrier Golden Ray which rolled over in shallow water shortly after departing the Port of Brunswick, Georgia on St. Simons Sound … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg)[Salvors on the heavy-lift barge VB-10,000 have begun making the second cut](https://thebrunswicknews.com/news/local_news/cutting-begins-on-stern-section-of-golden-ray/article_38fdae46-4791-11eb-addd-0ffeb0cb51d9.html) through the hull of the stranded car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) which rolled over in shallow water shortly after departing the Port of Brunswick, Georgia on St. Simons Sound in September 2019.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/goldenraycutting.jpg)[Salvors on the heavy-lift barge VB-10,000 have begun making the second cut](https://thebrunswicknews.com/news/local_news/cutting-begins-on-stern-section-of-golden-ray/article_38fdae46-4791-11eb-addd-0ffeb0cb51d9.html) through the hull of the stranded car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) which rolled over in shallow water shortly after departing the Port of Brunswick, Georgia on St. Simons Sound in September 2019.
 
 The 656-foot-long ship is now 114 feet shorter after the [VB 10,000](https://www.vbar.com/vb10000/index.html) cut off the vessel’s bow section on Nov. 28. The first cut that was originally expected to take a few days, took three weeks after being delayed by weather, the pandemic, and a broken link in the cutting chain.
 

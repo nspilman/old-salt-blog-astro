@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "On February 21, 1862, Nathaniel Gordon, captain of the slave ship, Erie, was executed by hanging in New York City. Under the Piracy Law of 1820, slave trading was considered to be an act of piracy punishable by death. He was … Continue reading &rarr;"
 ---
 
-![Hanging of Slave Trader Gordon](http://www.oldsaltblog.com/wp-content/uploads/2016/02/execution.jpg)
+![Hanging of Slave Trader Gordon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/execution.jpg)
 
 Hanging of Slave Trader Gordon
 

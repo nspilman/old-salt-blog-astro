@@ -10,7 +10,7 @@ tags:
   - "drone"
   - "Mystic Seaport Museum"
   - "Winter solitude"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/mysticwinter.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/mysticwinter.jpg"
 author: "Rick Spilman"
 description: "In June, we posted drone footage of Mystic Seaport as it was gradually reopening after being shut down by the pandemic. The grass was summer green, the river was shimmering deep blue, and the masts and spars of historic ships … Continue reading &rarr;"
 ---

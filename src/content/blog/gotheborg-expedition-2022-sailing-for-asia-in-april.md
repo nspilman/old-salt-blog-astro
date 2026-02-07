@@ -15,12 +15,12 @@ tags:
   - "Gothenburg"
   - "Sweden. China"
   - "Swedish East Indiaman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/Goterborg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/Goterborg.jpg"
 author: "Rick Spilman"
 description: "Götheborg of Sweden, a full-sized replica of a Swedish East Indiaman, sailed home today from Stockholm to her homeport in preparation for a voyage to Asia in April of next year.   The nearly 60-meter (197-feet) long East Indiaman is billed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/Goterborg.jpg)[*Götheborg of Sweden*](https://www.gotheborg.se/), a full-sized replica of a Swedish [East Indiaman](https://en.wikipedia.org/wiki/East_Indiaman), sailed home today from Stockholm to her homeport in preparation for a voyage to Asia in April of next year.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/Goterborg.jpg)[*Götheborg of Sweden*](https://www.gotheborg.se/), a full-sized replica of a Swedish [East Indiaman](https://en.wikipedia.org/wiki/East_Indiaman), sailed home today from Stockholm to her homeport in preparation for a voyage to Asia in April of next year.  
 
 The nearly [60-meter (197-feet) long East Indiaman](https://en.wikipedia.org/wiki/G%C3%B6theborg_\(ship\)) is billed the world’s largest operational wooden sailing vessel and is modeled after the *Götheborg* that sank off Gothenburg, Sweden in 1745 while approaching the harbor on her return from a third voyage to China.
 

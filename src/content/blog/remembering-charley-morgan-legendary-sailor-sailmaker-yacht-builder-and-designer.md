@@ -14,12 +14,12 @@ tags:
   - "Morgan Yacht Corporation"
   - "Out Island 41"
   - "St. Petersburg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/charleymorgan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/charleymorgan.jpg"
 author: "Rick Spilman"
 description: "Charles Eugene Morgan Jr., 93, known to all as Charley, passed away last weekend, just a few hours after his wife Maurine died. It has been said that Charley Morgan is the only person to ever single-handedly design, build, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/charleymorgan.jpg)[Charles Eugene Morgan Jr.](https://nshof.org/nominees/morgan-charles/), 93, known to all as Charley, passed away last weekend, just a few hours after his wife Maurine died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/charleymorgan.jpg)[Charles Eugene Morgan Jr.](https://nshof.org/nominees/morgan-charles/), 93, known to all as Charley, passed away last weekend, just a few hours after his wife Maurine died.
 
 It has been said that Charley Morgan is the only person to ever [single-handedly design, build, and skipper his own 12 Meter in the America’s Cup](https://forums.sailinganarchy.com/threads/rip-charley.240395/). Prior to and since Charley’s 1970 Cup attempt, all campaigns were organized by large syndicates. He even sailed the boat on its own bottom from St. Petersburg, Florida to Newport, Rhode Island to compete in the 1970 America’s Cup Defender Trials.
 

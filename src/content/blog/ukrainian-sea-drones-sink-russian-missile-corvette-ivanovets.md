@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The Defense Blog reports that a Ukrainian drone attack on a Russian missile corvette Ivanovets appears to have caused a massive explosion in Kyiv’s largest strike against Russia’s navy since December. The Ukrainian Defense Intelligence Directorate (GUR) has released footage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/useadroneattack.jpg)The [Defense Blog](https://defence-blog.com/ukraine-sinks-russian-missile-corvette/) reports that a Ukrainian drone attack on a [Russian missile corvette Ivanovets](https://www.kchf.ru/eng/ship/warfarecorvettes/ivanovets.htm) appears to have caused a massive explosion in Kyiv’s largest strike against Russia’s navy since December.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/useadroneattack.jpg)The [Defense Blog](https://defence-blog.com/ukraine-sinks-russian-missile-corvette/) reports that a Ukrainian drone attack on a [Russian missile corvette Ivanovets](https://www.kchf.ru/eng/ship/warfarecorvettes/ivanovets.htm) appears to have caused a massive explosion in Kyiv’s largest strike against Russia’s navy since December.
 
 The Ukrainian Defense Intelligence Directorate (GUR) has released footage capturing the destruction of the Russian Tarantul-III class missile corvette *Ivanovets* of the Black Sea Fleet at anchor in Donuzlav Lake in Crimea.
 

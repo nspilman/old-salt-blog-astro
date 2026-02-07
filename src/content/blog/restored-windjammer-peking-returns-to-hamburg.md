@@ -11,12 +11,12 @@ tags:
   - "Hamburg"
   - "Peking"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/pekinghamburg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/pekinghamburg.jpg"
 author: "Rick Spilman"
 description: "In all her former glory, the restored Flying P Liner Peking has returned to her home port of Hamburg. Four years ago, we posted about the Peking‘s departure from New York’s South Street Seaport. During the summer of 2017, she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/pekinghamburg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/pekinghamburg.jpg)
 
 In all her former glory, the restored [Flying P Liner](https://en.wikipedia.org/wiki/Flying_P-Liner) [*Peking*](https://en.wikipedia.org/wiki/Peking_\(ship\)) has returned to her home port of Hamburg. Four years ago, [we posted about the *Peking*‘s departure](http://www.oldsaltblog.com/2016/09/saying-goodbye-peking-windjammer-leaves-south-street-last-time/) from New York’s South Street Seaport. During the summer of 2017, [she was carried across the Atlantic on a heavy lift ship](http://www.oldsaltblog.com/2017/07/windjammer-peking-loaded-combi-dock-ii-voyage-home/) and underwent a three-year restoration at [Peters Werft shipyard](https://www.peters-werft.de/en/) in Wewelsfleth, Germany.
 

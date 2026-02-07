@@ -10,12 +10,12 @@ tags:
   - "dolphins"
   - "Seismic testing"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/humpback2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/humpback2.jpg"
 author: "Rick Spilman"
 description: "The Trump administration has approved seismic testing related to oil and gas exploration off the US Atlantic coast. The testing could harm tens of thousands of dolphins, whales and other marine animals. The testing uses blasts from high-powered airguns to map the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/humpback2.jpg)The Trump administration has approved seismic testing related to oil and gas exploration off the US Atlantic coast. The testing could harm tens of thousands of dolphins, whales and other marine animals. The testing uses blasts from high-powered airguns to map the ocean floor to estimate the whereabouts of oil and gas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/humpback2.jpg)The Trump administration has approved seismic testing related to oil and gas exploration off the US Atlantic coast. The testing could harm tens of thousands of dolphins, whales and other marine animals. The testing uses blasts from high-powered airguns to map the ocean floor to estimate the whereabouts of oil and gas.
 
 The decision is likely to further antagonize governors in states along the Eastern Seaboard who strongly oppose the administration’s proposal to expand federal oil and gas leases to the Atlantic. Every state executive on the coast below Maine opposed the plan. Federal leases could lead to exploratory drilling for the first time in more than a half-century.
 

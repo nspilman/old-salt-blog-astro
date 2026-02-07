@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The investigation is ongoing as to why the MV Delta Mariner  collided with the Eggner Ferry Bridge on the Tennessee River in Kentucky last Thursday night, taking out over 300′ of the span, but reportedly, the ship was in the wrong channel. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/deltamariner2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/deltamariner2.jpg)
 
 Photo: Sandy Joseph/ULA
 
@@ -29,4 +29,4 @@ The *Delta Mariner* is a [312-foot long roll-on roll-off ship designed to carr
 
 Decatur, AL is roughly 300 miles from the Gulf of Mexico. How did an ocean-going ship end up colliding with a bridge in Kentucky 500 miles from the Gulf and 200 miles north of Decatur, AL, where it was loaded?  There are two ways for the *Delta Mariner* to reach the Gulf of Mexico.  It can travel on the Tennessee River to the Tennessee–Tombigbee Waterway, then south to the Tombigbee River, and into Mobile Bay and the Gulf, a distance of about 550 miles.  The minimum depth of the Tennessee–Tombigbee Waterway, however, is 9 feet whereas when fully loaded the Delta Mariner can have a draft of 14 feet. In those cases, the ship can travel on the Tennessee River to the Ohio River, then down the Mississippi to the Gulf of Mexico a voyage of over a 1,000 miles.  The *Delta Mariner* was on this longer northern route when it collided with the Eggner Ferry Bridge in Kentucky.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/tennessee-tombigbee-waterwa.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/tennessee-tombigbee-waterwa.jpg)

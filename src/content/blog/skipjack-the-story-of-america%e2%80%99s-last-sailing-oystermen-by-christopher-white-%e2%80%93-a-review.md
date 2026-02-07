@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A review by Steven Toby, written for the Maritime History Listserv, included here with his kind permission.  Sounds like a fascinating book. Skipjack: The Story of America’s Last Sailing Oystermen by Christopher White is an excellent book on the last commercial fishing craft … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/skipjacks.jpg)](http://www.amazon.com/gp/product/0312545320?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312545320)A review by Steven Toby, written for the Maritime History Listserv, included here with his kind permission.  Sounds like a fascinating book.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/skipjacks.jpg)](http://www.amazon.com/gp/product/0312545320?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312545320)A review by Steven Toby, written for the Maritime History Listserv, included here with his kind permission.  Sounds like a fascinating book.
 
 *[Skipjack: The Story of America’s Last Sailing Oystermen](http://www.amazon.com/gp/product/0312545320?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0312545320)* by Christopher White is an excellent book on the last commercial fishing craft operating under sail in the US. The author has a journalistic rather than a scholarly approach, although he has an academic background in the biology/ecology area. He’s a great storyteller, and some of the anecdotes are almost novel-like.  
   

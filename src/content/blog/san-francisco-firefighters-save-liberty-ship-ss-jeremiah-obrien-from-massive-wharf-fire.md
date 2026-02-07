@@ -15,12 +15,12 @@ tags:
   - "submarine"
   - "USS Pampanito"
   - "World War II Liberty ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/jobriendire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/jobriendire.jpg"
 author: "Rick Spilman"
 description: "A major fire broke out on Saturday morning in a warehouse on Pier 45 on San Francisco’s Fisherman’s Wharf which came very close to the engulfing the historic World War II Liberty ship, SS Jeremiah O’Brien. The fire was reported … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/jobriendire.jpg)A major fire broke out on Saturday morning in a warehouse on Pier 45 on San Francisco’s Fisherman’s Wharf which came very close to the engulfing the historic World War II [Liberty ship](https://en.wikipedia.org/wiki/Liberty_ship), [SS *Jeremiah O’Brien*](https://www.ssjeremiahobrien.org/). The fire was reported at around 4:15 AM and quickly rose to four-alarms. At the height of the fire there were 130 firefighters and 50 apparatus on the scene. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/jobriendire.jpg)A major fire broke out on Saturday morning in a warehouse on Pier 45 on San Francisco’s Fisherman’s Wharf which came very close to the engulfing the historic World War II [Liberty ship](https://en.wikipedia.org/wiki/Liberty_ship), [SS *Jeremiah O’Brien*](https://www.ssjeremiahobrien.org/). The fire was reported at around 4:15 AM and quickly rose to four-alarms. At the height of the fire there were 130 firefighters and 50 apparatus on the scene. 
 
 Shortly after the first firetrucks arrived, the San Francisco [Fire Boat #3, *St. Francis*,](https://en.wikipedia.org/wiki/St._Francis_\(fireboat\)) also came on the scene. [CBS San Francisco](https://sanfrancisco.cbslocal.com/2020/05/23/massive-4-alarm-fire-erupts-at-san-francisco-waterfront-pier/) quotes fire department spokesman Lt. Jonathan Baxter who said that the fireboat crew saved the historic Liberty ship.
 

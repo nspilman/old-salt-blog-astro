@@ -11,12 +11,12 @@ tags:
   - "Blue Star Line"
   - "Clive Palmer"
   - "Titanic II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/titanic-ii.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/titanic-ii.jpg"
 author: "Rick Spilman"
 description: "Excentric Australian billionaire Clive Palmer made quite a splash in 2012 when he announced his plans to build a 21st-century almost a replica of theTitanic and sail it from England to New York by the end of 2016. That didn’t happen. In fact, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/titanic-ii.jpg)Excentric Australian billionaire Clive Palmer made quite a splash in 2012 when he announced his plans to build [a 21st-century almost a replica of the*Titanic*](http://www.oldsaltblog.com/2012/04/titanic-ii-unsinkable-australian-billionaire-clive-palmer-has-big-plans/) and sail it from England to New York by the end of 2016. That didn’t happen. In fact, the project has been dead in the water since 2015, [reportedly over disputed royalties](https://www.bbc.com/news/uk-england-hampshire-45663941) from a Chinese conglomerate. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/titanic-ii.jpg)Excentric Australian billionaire Clive Palmer made quite a splash in 2012 when he announced his plans to build [a 21st-century almost a replica of the*Titanic*](http://www.oldsaltblog.com/2012/04/titanic-ii-unsinkable-australian-billionaire-clive-palmer-has-big-plans/) and sail it from England to New York by the end of 2016. That didn’t happen. In fact, the project has been dead in the water since 2015, [reportedly over disputed royalties](https://www.bbc.com/news/uk-england-hampshire-45663941) from a Chinese conglomerate. 
 
 Last October, reports emerged that [the project was back on again](http://www.oldsaltblog.com/2012/04/titanic-ii-unsinkable-australian-billionaire-clive-palmer-has-big-plans/), and in mid-January, Clive Palmer’s [Blue Star Line](https://www.bluestarline.com.au/) entered into a contract with the Finnish naval architecture and engineering firm, [Deltamarin](https://www.deltamarin.com/2019/01/deltamarins-further-involvement-in-titanic-ii-project-confirmed/), to continue with the design of the ship. The newly announced [delivery date of the ship is 2022](https://www.irishcentral.com/news/titanic-ii-sail-2022).
 

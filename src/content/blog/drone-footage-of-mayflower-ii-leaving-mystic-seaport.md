@@ -10,7 +10,7 @@ tags:
   - "Mayflower II"
   - "mystic seaport"
   - "Ryan Smith"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/mayfloweriidrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/mayfloweriidrone.jpg"
 author: "Rick Spilman"
 description: "On Monday we posted about the Mayflower II leaving Mystic Seaport for sea trials in New London. Here is wonderful drone footage shot by Ryan Smith of the ship’s departure. Mayflower II departs Mystic Seaport! … Continue reading &rarr;"
 ---

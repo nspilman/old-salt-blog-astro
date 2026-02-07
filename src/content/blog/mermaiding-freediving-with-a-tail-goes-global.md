@@ -13,12 +13,12 @@ tags:
   - "Mermaiding"
   - "PADI"
   - "SSI"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/chinesemermaiding.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/chinesemermaiding.jpg"
 author: "Rick Spilman"
 description: "The title of an article in CNN was intriguing — Why so many people in China are becoming mermaids. The article featured a recent event described as the \"largest underwater mermaid show\" that set a Guinness World Record at the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/chinesemermaiding.jpg)The title of an article in CNN was intriguing — [Why so many people in China are becoming mermaids.](https://www.cnn.com/travel/article/china-mermaid-diving-cmd/index.html) The article featured a recent event described as the “[largest underwater mermaid show](https://www.cnn.com/videos/travel/2021/04/30/china-mermaid-show-guinness-world-record-orig-bdk.cnn)” that set a Guinness World Record at the Ambassador Lagoon inside China’s Atlantis Sanya resort on the island of Hainan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/chinesemermaiding.jpg)The title of an article in CNN was intriguing — [Why so many people in China are becoming mermaids.](https://www.cnn.com/travel/article/china-mermaid-diving-cmd/index.html) The article featured a recent event described as the “[largest underwater mermaid show](https://www.cnn.com/videos/travel/2021/04/30/china-mermaid-show-guinness-world-record-orig-bdk.cnn)” that set a Guinness World Record at the Ambassador Lagoon inside China’s Atlantis Sanya resort on the island of Hainan.
 
 Apparently, mermaid diving, also known as mermaiding, has become very popular in China. Akin to freediving, the would-be mermaids don’t wear a tank or use any external aids except for their mermaid tail. While the name may imply females, men are also joining in the fun.
 

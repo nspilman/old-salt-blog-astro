@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "During World War II, the United States worked to develop a \"bat bomb\" that consisted of an air dropped canister containing Mexican free-tailed bats with a small timed incendiary bombs attached to their tails. Work on the bat bomb was cancelled due to the … Continue reading &rarr;"
 ---
 
-![tbomb](http://www.oldsaltblog.com/wp-content/uploads/2013/01/tbomb.jpg)
+![tbomb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/tbomb.jpg)
 
 Photo: ALAMY
 

@@ -13,7 +13,7 @@ tags:
   - "Iran"
   - "straitof Hormuz"
   - "tankers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/tankerburningoman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/tankerburningoman.jpg"
 author: "Rick Spilman"
 description: "Early this morning, two tankers in the Gulf of Oman, not far from the Strait of Hormuz, were struck and disabled by explosions. The 110,000-dwt Front Altair, built in 2016 was carrying naphtha and broke out in flames following the … Continue reading &rarr;"
 ---

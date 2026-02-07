@@ -14,12 +14,12 @@ tags:
   - "Tucker Class destroyer"
   - "USS Jacob Jones"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/jacobjones.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/jacobjones.jpg"
 author: "Rick Spilman"
 description: "British divers have located the wreck of the USS Jacob Jones in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/jacobjones.jpg)British divers have located [the wreck of the USS *Jacob Jones*](https://www.dailymail.co.uk/news/article-11110447/Divers-missing-WWI-Navy-destroyer-Wreck-USS-Jacob-Jones-40-miles-Isles-Scilly.html) in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat on December 6, 1917. [USS *Jacob Jones*](https://en.wikipedia.org/wiki/USS_Jacob_Jones_\(DD-61\)) was the first US destroyer ever to be lost to enemy action and went down in 8 minutes. 64 of her crew of 110 were lost in the attack.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/jacobjones.jpg)British divers have located [the wreck of the USS *Jacob Jones*](https://www.dailymail.co.uk/news/article-11110447/Divers-missing-WWI-Navy-destroyer-Wreck-USS-Jacob-Jones-40-miles-Isles-Scilly.html) in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat on December 6, 1917. [USS *Jacob Jones*](https://en.wikipedia.org/wiki/USS_Jacob_Jones_\(DD-61\)) was the first US destroyer ever to be lost to enemy action and went down in 8 minutes. 64 of her crew of 110 were lost in the attack.
 
 As recounted by the [Naval History and Heritage Command](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-i/history/the-sinking-of-jacob-jones.html): Approximately one month after the United States declared war on Germany, the destroyer steamed to Queenstown \[Cobh\], Ireland, under Lieutenant Commander David W. Bagley with Division Seven of the Destroyer Force, the second group of destroyers to enter the war zone. Arriving at the British base on 17 May 1917, *Jacob Jones* operated out of Queenstown, patrolling the U-boat-infested western approaches to the British Isles. Later, as the Entente Powers instituted a worldwide convoy system, the destroyer escorted inbound and outbound convoys through the submarine danger zone.
 

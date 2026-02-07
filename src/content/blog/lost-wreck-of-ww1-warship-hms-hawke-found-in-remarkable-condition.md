@@ -14,12 +14,12 @@ tags:
   - "Lost in Waters Deep"
   - "RMS Olympic"
   - "Royal Navy warship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/hmshawke.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/hmshawke.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that the wreck discovered off the Aberdeenshire coast is believed to be the lost Royal Navy warship HMS Hawke sunk by a torpedo during World War One. The wreck of the Edgar-class protected cruiser was discovered by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/hmshawke.jpg)The [BBC](https://www.bbc.com/news/articles/c9qg4z1149eo) reports that the wreck discovered off the Aberdeenshire coast is believed to be the lost Royal Navy warship [HMS *Hawke*](https://en.wikipedia.org/wiki/HMS_Hawke_\(1891\)) sunk by a torpedo during World War One.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/hmshawke.jpg)The [BBC](https://www.bbc.com/news/articles/c9qg4z1149eo) reports that the wreck discovered off the Aberdeenshire coast is believed to be the lost Royal Navy warship [HMS *Hawke*](https://en.wikipedia.org/wiki/HMS_Hawke_\(1891\)) sunk by a torpedo during World War One.
 
 The wreck of the [*Edgar*\-class](https://en.wikipedia.org/wiki/Edgar-class_cruiser "Edgar-class cruiser") [protected cruiser](https://en.wikipedia.org/wiki/Protected_cruiser "Protected cruiser") was discovered by a team of divers about 70 miles east of Fraserburgh earlier this week in “remarkable” condition.
 

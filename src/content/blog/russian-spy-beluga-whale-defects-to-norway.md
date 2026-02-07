@@ -11,12 +11,12 @@ tags:
   - "Norway"
   - "Russia"
   - "spy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/belugaspy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/belugaspy.jpg"
 author: "Rick Spilman"
 description: "Two days ago, NPR reported: \"Fisherman off the coast of Norway encountered a beluga whale with \"Equipment of St. Petersburg\" inscribed on its harness. Researchers think the beluga may be a Russian spy in training.\"  There was speculation that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/belugaspy.jpg)Two days ago, [NPR](https://www.npr.org/2019/04/30/718735455/beluga-whale-found-in-norway-may-be-a-russian-spy) reported: “Fisherman off the coast of Norway encountered a beluga whale with “Equipment of St. Petersburg” inscribed on its harness. Researchers think the beluga may be a Russian spy in training.” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/belugaspy.jpg)Two days ago, [NPR](https://www.npr.org/2019/04/30/718735455/beluga-whale-found-in-norway-may-be-a-russian-spy) reported: “Fisherman off the coast of Norway encountered a beluga whale with “Equipment of St. Petersburg” inscribed on its harness. Researchers think the beluga may be a Russian spy in training.” 
 
 There was speculation that the harness wearing beluga was part of Russian spycraft gone wrong. The harness was believed to be designed for some sort of camera or possibly a weapon. 
 

@@ -9,7 +9,7 @@ tags:
   - "Cape Cod Canal"
   - "drone"
   - "SSV Oliver Hazard Perry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/ohpccc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ohpccc.jpg"
 author: "Rick Spilman"
 description: "Here is some glorious drone footage of the Sailing School Vessel (SSV) Oliver Hazard Perry transiting the Cape Cod Canal. At 207 feet long, the SSV Oliver Hazard Perry is the largest civilian Sailing School Vessel in the United States … Continue reading &rarr;"
 ---

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Pepsi Tall Ships Chicago 2016 festival begins tomorrow, July 27th, and runs for five days through the 31st, at Chicago’s Navy Pier on Lake Michigan. One of the participating ships was expected to be the replica Viking longship Draken Harald Hårfagre. Earlier … Continue reading &rarr;"
 ---
 
-![Photo: Draken Expedition/Peder Jacobsson](http://www.oldsaltblog.com/wp-content/uploads/2016/07/drakenhf2.jpg)
+![Photo: Draken Expedition/Peder Jacobsson](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/drakenhf2.jpg)
 
 Photo: Draken Expedition/Peder Jacobsson
 

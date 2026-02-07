@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Since the Japanese tsunami of 2011 and the meltdown of the reactors at Fukushima, the Internet has been full of scary accounts of the Pacific Ocean becoming radioactive as well as stories of radioactive salmon and other fish. One widely … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/tsunamispecies1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/tsunamispecies1.jpg)
 
 Marine sea slugs from a derelict Japanese vessel that washed ashore in Oregon. (John W. Chapman)
 

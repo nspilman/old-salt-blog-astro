@@ -16,12 +16,12 @@ tags:
   - "Rare Whisky 101 Pacific Row"
   - "rowing"
   - "three brothers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/maclean.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/maclean.jpg"
 author: "Rick Spilman"
 description: "Jamie, Ewan, and Lachlan Maclean have set a new record for rowing non-stop and unsupported across the Pacific Ocean.  The three brothers from Edinburgh set off in April 2025 on their 9,000-mile journey, from Lima, Peru, to Cairns, Australia, completing … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/maclean.jpg)Jamie, Ewan, and Lachlan Maclean have set a new record for rowing non-stop and unsupported across the Pacific Ocean.  The three brothers from Edinburgh set off in April 2025 on their 9,000-mile journey, from Lima, Peru, to Cairns, Australia, completing the crossing in 139 days.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/maclean.jpg)Jamie, Ewan, and Lachlan Maclean have set a new record for rowing non-stop and unsupported across the Pacific Ocean.  The three brothers from Edinburgh set off in April 2025 on their 9,000-mile journey, from Lima, Peru, to Cairns, Australia, completing the crossing in 139 days.
 
 The Macleans are the first team to row the full Pacific from South America to Australia. The previous record for the fastest full, unassisted, non-stop Pacific row was 162 days, set by Russian solo rower [Fyodor Konyukhov](https://www.bbc.com/news/uk-scotland-49852050) in 2014.
 

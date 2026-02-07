@@ -11,12 +11,12 @@ tags:
   - "International Maritime Organization"
   - "Poseidon Principles"
   - "ship finance"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/pprin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/pprin.jpg"
 author: "Rick Spilman"
 description: "The International Maritime Organization (IMO), the UN agency responsible for regulating shipping, has set the ambitious goal of cutting greenhouse gas emissions from ships by 50% from 2008 levels by 2050. Around the world, engineers, ship owners and managers, universities, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/pprin.jpg)The [International Maritime Organization](http://www.imo.org/en/MediaCentre/PressBriefings/Pages/06GHGinitialstrategy.aspx) (IMO), the UN agency responsible for regulating shipping, has set the ambitious goal of cutting greenhouse gas emissions from ships by 50% from 2008 levels by 2050. Around the world, engineers, ship owners and managers, universities, and governments have been working to develop the new technologies to make meeting this target possible.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/pprin.jpg)The [International Maritime Organization](http://www.imo.org/en/MediaCentre/PressBriefings/Pages/06GHGinitialstrategy.aspx) (IMO), the UN agency responsible for regulating shipping, has set the ambitious goal of cutting greenhouse gas emissions from ships by 50% from 2008 levels by 2050. Around the world, engineers, ship owners and managers, universities, and governments have been working to develop the new technologies to make meeting this target possible.
 
 As of last summer, support for cutting shipboard emissions has come from a very different source — big banks and financial institutions. A group of leading banks, key industry representatives, and experts have developed the [Poseidon Principles](https://www.poseidonprinciples.org/#home), an attempt to tie the banks’ shipping portfolios to the IMO emissions targets. The Poseidon Principles are the first global climate alignment agreement between financial institutions and the shipping industry. So far, the signatories to the principles represent a combined bank loan portfolio of approximately $100 billion – roughly 22% of the total value of all shipping asset portfolios.
 

@@ -14,12 +14,12 @@ tags:
   - "LCS"
   - "U.S.S Independence"
   - "USS Freedom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/littlerock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/littlerock.jpg"
 author: "Rick Spilman"
 description: "We posted back in February, about the Navy’s plans to decommission four relatively new Littoral Combat Ships (LCS). Congress granted approval to decommission two, the USS Independence and the USS Freedom. The Independence was decommissioned on July 29, 20201 and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/littlerock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/littlerock.jpg)
 
 USS Little Rock
 

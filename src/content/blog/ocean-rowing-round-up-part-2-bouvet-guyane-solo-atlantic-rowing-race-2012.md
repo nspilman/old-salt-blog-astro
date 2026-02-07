@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Twenty three boats set off this weekend in the the third Bouvet Guyane Solo Atlantic Rowing Race 2012 in a 2,600 mile race between between Senegal and Guyana.  All solo rowers are competing in identical 8 meter long boats.  One major challenge of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/atlanticsolo.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/atlanticsolo.jpg)
 
 Photo: Eric Rousseau
 

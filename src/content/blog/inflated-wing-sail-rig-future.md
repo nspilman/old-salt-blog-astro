@@ -10,7 +10,7 @@ categories:
 tags:
   - "Inflated Wing Sail"
   - "Next Technologies"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/inflatedwingsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/inflatedwingsail.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating new approach to the design of a mast and sail. The developers at Next Technologies claim that their Inflated Wing Sail (IWS) is stable in every wind conditions and offers a smooth balanced new way of … Continue reading &rarr;"
 ---

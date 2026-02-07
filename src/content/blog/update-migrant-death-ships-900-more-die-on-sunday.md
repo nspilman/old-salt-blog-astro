@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The migrant crisis in the Mediterranean worsened as 900 are believed to have drowned on Sunday when their ship foundered."
 ---
 
-![Photo: REUTERS/MOAS/Darrin Zammit Lupi/Handout via Reuters](http://www.oldsaltblog.com/wp-content/uploads/2015/04/refugeecrisis1.jpg)
+![Photo: REUTERS/MOAS/Darrin Zammit Lupi/Handout via Reuters](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/refugeecrisis1.jpg)
 
 Photo: REUTERS/MOAS/Darrin Zammit Lupi/Handout via Reuters
 

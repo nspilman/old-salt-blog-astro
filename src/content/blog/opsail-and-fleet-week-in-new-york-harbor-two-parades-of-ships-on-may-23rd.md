@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Next Wednesday, May 23rd, OpSail 2012 and New York Fleet Week kick off with two parades of ships in the harbor and up the Hudson River.   This year’s OpSail is organized to mark the bicentennial of the War of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/opsaillogo.jpg)Next Wednesday, May 23rd, [OpSail 2012](http://opsail.org/) and New York [Fleet Week](http://www.fleetweeknewyork.com/index.html) kick off with two parades of ships in the harbor and up the Hudson River.   This year’s OpSail is organized to mark the bicentennial of the War of 1812 and the writing of “The Star-Spangled Banner.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/opsaillogo.jpg)Next Wednesday, May 23rd, [OpSail 2012](http://opsail.org/) and New York [Fleet Week](http://www.fleetweeknewyork.com/index.html) kick off with two parades of ships in the harbor and up the Hudson River.   This year’s OpSail is organized to mark the bicentennial of the War of 1812 and the writing of “The Star-Spangled Banner.”
 
 At 8:10 AM, 17 international tall ships will depart from the Verrazano Narrows Bridge and proceed north, up the harbor and up the Hudson River to the George Washington Bridge in a magnificent  “Parade of Sail”.   At 10 AM, a “Military Parade of Ships,” of ten ships, will set off from the  Verrazano Narrows Bridge and head north. They should meet the flotilla of tall ships traveling South around the aircraft carrier *Intrepid*.
 

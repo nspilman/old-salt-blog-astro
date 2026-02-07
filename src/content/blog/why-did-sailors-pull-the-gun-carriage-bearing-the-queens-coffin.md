@@ -12,12 +12,12 @@ tags:
   - "Queen Victoria's funeral"
   - "Royal Navy sailors"
   - "state funeral procession"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/rnsailorsgunc2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/rnsailorsgunc2.jpg"
 author: "Rick Spilman"
 description: "The BBC recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was \"overwhelmed\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/rnsailorsgunc2.jpg)The [BBC](https://www.bbc.com/news/uk-england-hereford-worcester-62986002) recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was “overwhelmed” by the honor and that, “if someone had told me a year ago I’d be taking the Queen’s coffin to her funeral, I wouldn’t have believed them.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/rnsailorsgunc2.jpg)The [BBC](https://www.bbc.com/news/uk-england-hereford-worcester-62986002) recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was “overwhelmed” by the honor and that, “if someone had told me a year ago I’d be taking the Queen’s coffin to her funeral, I wouldn’t have believed them.”
 
 For those of us on the other side of the pond, this raises the question, “Why use Royal Navy sailors, rather than horses, to draw the gun carriage carrying the coffin?” Apparently, the tradition originated with [Queen Victoria’s funeral](https://en.wikipedia.org/wiki/State_funeral_of_Queen_Victoria) on February 2, 1901.
 

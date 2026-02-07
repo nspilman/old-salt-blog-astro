@@ -13,12 +13,12 @@ tags:
   - "Evergreen Marine"
   - "HMM Algeciras"
   - "Suez Canal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/everace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/everace.jpg"
 author: "Rick Spilman"
 description: "Ever Ace, the newest world’s largest container ship capable of carrying the 23,992 TEU (twenty-foot equivalent units) transitted the Suez Canal at the beginning of this month. The Ever Ace is notionally 28 TEU larger than the previously largest container … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/everace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/everace.jpg)
 
 Photo: Taiwan International Ports Corp
 

@@ -16,12 +16,12 @@ tags:
   - "search and rescue vessel"
   - "Spain"
   - "Tarragona"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/ElonoraE.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/ElonoraE.jpg"
 author: "Rick Spilman"
 description: "Sad news. The Eleonora E is being scrapped. Last June, we posted that the classic 49m schooner was struck by a 60m long search and rescue vessel in Port Tárraco, Tarragona, Spain, and subsequently sank. The search and rescue vessel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/ElonoraE.jpg)Sad news. The [*Eleonora E*](https://www.boatinternational.com/yachts/the-superyacht-directory/eleonora-e--42501) is being scrapped.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/ElonoraE.jpg)Sad news. The [*Eleonora E*](https://www.boatinternational.com/yachts/the-superyacht-directory/eleonora-e--42501) is being scrapped.
 
 Last June, we [posted that the classic 49m schooner](https://www.oldsaltblog.com/2022/06/schooner-eleonora-e-sunk-by-out-of-control-offshore-supply-vessel/) was struck by a 60m long search and rescue vessel in Port Tárraco, Tarragona, Spain, and subsequently sank. The search and rescue vessel *Punta Mayor* was maneuvering in the harbor and became stuck in reverse. The vessel struck *Eleonora E* at midships on the starboard side, crushing the schooner against a seawall.
 

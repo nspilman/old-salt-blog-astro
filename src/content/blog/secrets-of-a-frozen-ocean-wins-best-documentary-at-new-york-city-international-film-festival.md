@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Congratulations to Neil and Ariel Weisbrod. Their documentary, Secrets of a Frozen Ocean, won Best Documentary at the New York City International Film Festival.  I was fortunate enough to see the world premiere of this fascinating documentary last Wednesday. The premiere, fittingly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/secretsfrozenocean.jpg)Congratulations to [Neil and Ariel Weisbrod](https://vimeo.com/user17331159). Their documentary, [Secrets of a Frozen Ocean](http://www.imdb.com/title/tt7822156/), won Best Documentary at the [New York City International Film Festival](http://www.nyciff.com/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/secretsfrozenocean.jpg)Congratulations to [Neil and Ariel Weisbrod](https://vimeo.com/user17331159). Their documentary, [Secrets of a Frozen Ocean](http://www.imdb.com/title/tt7822156/), won Best Documentary at the [New York City International Film Festival](http://www.nyciff.com/). 
 
 I was fortunate enough to see the world premiere of this fascinating documentary last Wednesday. The premiere, fittingly enough, coincided with a nor’easter and blinding snow. Very appropriate for a documentary about the Arctic. (Truth be told, the weather was not nearly as bad as had been predicted.) Extremely atmospheric, nevertheless. 
 

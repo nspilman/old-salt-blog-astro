@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Draken Harald Hårfagre, the largest Viking longship built in modern times, has begun its summer tour of the East Coast of the United States.  After departing from Mystic Seaport on July 9th, it is now bound for Boothbay Harbor, Maine. Only the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/drakensail.jpg)The [*Draken Harald Hårfagre*](https://www.drakenhh.com/), the largest Viking longship built in modern times, has begun its summer tour of the East Coast of the United States.  After departing from Mystic Seaport on July 9th, it is now bound for Boothbay Harbor, Maine. Only the first three ports of call have been announced as follows:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/drakensail.jpg)The [*Draken Harald Hårfagre*](https://www.drakenhh.com/), the largest Viking longship built in modern times, has begun its summer tour of the East Coast of the United States.  After departing from Mystic Seaport on July 9th, it is now bound for Boothbay Harbor, Maine. Only the first three ports of call have been announced as follows:
 
 *   Boothbay Harbor, ME — July 13-15
 *   Plymouth, MA — July 17-20

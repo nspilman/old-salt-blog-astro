@@ -13,12 +13,12 @@ tags:
   - "Dali"
   - "Francis Scott Key Bridge"
   - "U.S. Army Corps of Engineers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/keybridgedali.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/keybridgedali.jpg"
 author: "Rick Spilman"
 description: "The trapped container ship Dali will \"hopefully\" be refloated this week after authorities set off charges at a key portion of the collapsed Francis Scott Key Bridge in Baltimore on Monday evening, an official said. The charges helped demolish a portion of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/keybridgedali.jpg)The trapped container ship *Dali* will “hopefully” be refloated this week after authorities set off charges at a [key portion of the collapsed Francis Scott Key Bridge in Baltimore](https://www.oldsaltblog.com/2024/03/baltimore-key-bridge-collapses-after-being-struck-by-container-ship-mv-dali/) on Monday evening, an official said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/keybridgedali.jpg)The trapped container ship *Dali* will “hopefully” be refloated this week after authorities set off charges at a [key portion of the collapsed Francis Scott Key Bridge in Baltimore](https://www.oldsaltblog.com/2024/03/baltimore-key-bridge-collapses-after-being-struck-by-container-ship-mv-dali/) on Monday evening, an official said.
 
 The charges helped demolish a portion of the bridge wreckage resting on the ship – a move meant to help free the vessel, nearly seven weeks after it struck the bridge and caused the span to collapse. During the planned detonation, a chunk of the collapsed structure appeared to fall away from the ship and into the water, though a portion of wreckage remained on top of the ship, video showed.
 

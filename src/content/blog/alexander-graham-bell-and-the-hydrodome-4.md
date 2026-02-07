@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Most of us think of Alexander Graham Bell as the inventor of the telephone, as indeed he was. He was also an early pioneer in hydrofoil boats. His hydrofoil, Hydrodome #4, better known as the HD-4, set a world marine speed record … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/hd4.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/hd4.jpg)
 
 Bell’s HD-4
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "JPK Composites, a boat builder from Brittany, is helping to redefine performance cruising sailboats. In 2013, the father and son team of Pascal and Alexis Loison won the biannual Fastnet Race on corrected time, sailing their 33′ Night and Day, a JPK … Continue reading &rarr;"
 ---
 
-[![jpk1080](http://www.oldsaltblog.com/wp-content/uploads/2015/09/jpk1080.jpg)](http://www.jpk.fr/?mode=contact)
+[![jpk1080](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/jpk1080.jpg)](http://www.jpk.fr/?mode=contact)
 
 JPK 10.80 Photo: Jean-Marie Liot
 

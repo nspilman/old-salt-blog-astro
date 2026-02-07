@@ -13,12 +13,12 @@ tags:
   - "Chesapeake Bay Maritime Museum"
   - "Historic St. Mary’s City"
   - "Maryland Dove"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/newmarylanddove.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/newmarylanddove.jpg"
 author: "Rick Spilman"
 description: "The Chesapeake Bay Maritime Museum is nearing the completion of the construction of a new Maryland Dove, a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now Maryland in 1634. Maryland Dove is owned … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/newmarylanddove.jpg)The [Chesapeake Bay Maritime Museum](https://cbmm.org/) is nearing the completion of the construction of a new *[Maryland Dove](https://www.marylanddove.org/),* a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now Maryland in 1634. *Maryland Dove* is owned by the state of Maryland and operated and maintained by the Historic St. Mary’s City Commission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/newmarylanddove.jpg)The [Chesapeake Bay Maritime Museum](https://cbmm.org/) is nearing the completion of the construction of a new *[Maryland Dove](https://www.marylanddove.org/),* a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now Maryland in 1634. *Maryland Dove* is owned by the state of Maryland and operated and maintained by the Historic St. Mary’s City Commission.
 
 [*Ark* and *Dove*](https://en.wikipedia.org/wiki/Maryland_Dove#The_original_Ark_and_Dove) were the two ships that began the Maryland Colony. *Dove* was a small, 40-ton capacity cargo ship purchased by Cecil Calvert and investors so that the colonists would have their own ship to use once Ark had sailed for England.
 

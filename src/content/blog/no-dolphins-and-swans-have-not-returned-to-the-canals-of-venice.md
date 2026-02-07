@@ -12,12 +12,12 @@ tags:
   - "Sardinia"
   - "swans"
   - "Venice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/swansvenice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/swansvenice.jpg"
 author: "Rick Spilman"
 description: "Social and the mainstream press have been running stories showing swans and dolphins returning to the canals of Venice in the wake of the shutdowns to limit the coronavirus.  The possible silver lining to the overwhelming tragedy in Italy appears, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/swansvenice.jpg)Social and the mainstream press have been running stories showing swans and dolphins returning to the canals of Venice in the wake of the shutdowns to limit the coronavirus.  The possible silver lining to the overwhelming tragedy in Italy appears, however, to be largely fiction.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/swansvenice.jpg)Social and the mainstream press have been running stories showing swans and dolphins returning to the canals of Venice in the wake of the shutdowns to limit the coronavirus.  The possible silver lining to the overwhelming tragedy in Italy appears, however, to be largely fiction.
 
 As reported by [Snopes](https://www.snopes.com/fact-check/dolphins-swans-italy-lockdown/): “The dolphins shown in the video, it turns out, were not swimming in the iconic canals of Venice, but off the coast of Sardinia, an Italian island in the Mediterranean Sea,” 653 km from Venice. Sightings of dolphins in Sardina predate the coronavirus outbreak by many years. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "BMW Oracle easily beat Alinghi in their second race, winning the America’s Cup.  The US boat won, literally, by a mile. BMW Oracle claim America’s Cup triumph BMW Oracle won the America’s Cup as victory in Sunday’s second race off … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/bmworacle2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/bmworacle2.jpg)
 
 *BMW Oracle* easily beat *Alinghi* in their second race, winning the America’s Cup.  The US boat won, literally, by a mile.
 

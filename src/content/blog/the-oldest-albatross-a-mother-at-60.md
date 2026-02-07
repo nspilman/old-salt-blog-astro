@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The U.S. Geological Survey press release began:  \"The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.\" Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/OLDEST-BIRD-IN-AMERICA.jpg)The [U.S. Geological Survey press release](http://www.usgs.gov/newsroom/article.asp?ID=2722&from=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+UsgsNewsroom+\(USGS+Newsroom\)&utm_content=Netvibes) began:  “*The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.*”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/OLDEST-BIRD-IN-AMERICA.jpg)The [U.S. Geological Survey press release](http://www.usgs.gov/newsroom/article.asp?ID=2722&from=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+UsgsNewsroom+\(USGS+Newsroom\)&utm_content=Netvibes) began:  “*The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.*”
 
 [Why the Albatross Is Our Albatross](http://ecocentric.blogs.time.com/2011/03/09/who-knew-60-year-old-albatross-found-in-pacific/)
 

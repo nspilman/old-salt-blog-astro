@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Between 5 and 6 AM Thursday morning, the passenger ferry, MV Rabaul Queen, capsized about 10 miles off Finschhafen on the northern coast of Papua New Guinea.  The ferry had a capacity for 300 people, but as many as 350 people are believed to have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/1280px-Rabaul_Queen.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/1280px-Rabaul_Queen.jpg)
 
 MV Rabaul Queen at the port of Kimbe
 

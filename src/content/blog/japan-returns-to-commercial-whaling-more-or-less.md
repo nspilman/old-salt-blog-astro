@@ -12,12 +12,12 @@ tags:
   - "Japan"
   - "research whaling"
   - "whaling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/japanwhaleship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/japanwhaleship.jpg"
 author: "Rick Spilman"
 description: "Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called \"research whaling\" to resume commercial whaling for the first time in 31 years. That is the bad news. There is another way to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/japanwhaleship.jpg)Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called “research whaling” to resume [commercial whaling](https://www.bbc.com/news/world-asia-48821797) for the first time in 31 years. That is the bad news.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/japanwhaleship.jpg)Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called “research whaling” to resume [commercial whaling](https://www.bbc.com/news/world-asia-48821797) for the first time in 31 years. That is the bad news.
 
 There is another way to look at the story, whoever. Japan has withdrawn from Antarctic whaling, is limiting new commercial whaling to Japanese territorial waters and is reducing the number of whales killed by 30 – 75%, depending on how you do the math.
 

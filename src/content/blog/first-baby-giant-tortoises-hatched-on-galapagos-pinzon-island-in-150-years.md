@@ -10,12 +10,12 @@ tags:
   - "Galapagos"
   - "Pinzón Island"
   - "Tortoises"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/gtortoise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/gtortoise.jpg"
 author: "Rick Spilman"
 description: "For the first time in 150 years, baby giant tortoises have been born on the Galapagos island of Pinzón. Biologists reported that they had observed ten tiny, newly hatched saddleback tortoises on the island early last month. They commented that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/gtortoise.jpg)For the first time in 150 years, baby giant tortoises have been born on the Galapagos island of Pinzón. Biologists reported that they had observed [ten tiny, newly hatched saddleback tortoises](https://www.readcube.com/articles/10.1038%2F517271a) on the island early last month. They commented that there may be many more because their size and camouflage makes them hard to spot. The discovery indicates that the [giant tortoise](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise) is once again able to reproduce on its own in the wild.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/gtortoise.jpg)For the first time in 150 years, baby giant tortoises have been born on the Galapagos island of Pinzón. Biologists reported that they had observed [ten tiny, newly hatched saddleback tortoises](https://www.readcube.com/articles/10.1038%2F517271a) on the island early last month. They commented that there may be many more because their size and camouflage makes them hard to spot. The discovery indicates that the [giant tortoise](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise) is once again able to reproduce on its own in the wild.
 
 In the 1600s, there were an estimated 250,000 giant tortoises on the islands of the Galapagos archipelago. Indeed, around 1535, Bishop Tomás de Berlanga christened the islands, Galapagos, an archaic Spanish word for turtle or tortoise. By the 1970s, the number had dropped to only around 3,000, accompanied by predictions of the extinction of the tortoises which had given the islands their name.
 

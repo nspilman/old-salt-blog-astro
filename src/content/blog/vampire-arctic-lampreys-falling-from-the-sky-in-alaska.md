@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "CBS News reports: Terrifying \"vampire fish\" falling from the sky in Alaska. Lampreys have been falling from the sky in Fairbanks, AL."
 ---
 
-![Arctic Lamprey, Yukon River near Kaltag. (Randy Brown/USFWS)](http://www.oldsaltblog.com/wp-content/uploads/2015/06/usfws_arctic_lamprey04.jpg)
+![Arctic Lamprey, Yukon River near Kaltag. (Randy Brown/USFWS)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/usfws_arctic_lamprey04.jpg)
 
 Arctic Lamprey, Yukon River near Kaltag. (Randy Brown/USFWS)
 

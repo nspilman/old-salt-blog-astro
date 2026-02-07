@@ -24,13 +24,13 @@ Yesterday [we posted about Nannie Dee](http://www.oldsaltblog.com/2012/10/06/fig
 
 When the ship was restored in the early 1980s, she was lacking a figurehead.   Eli Kuslansky, a sculptor and woodcarver was hired.  Two different women were used as the model.  From Kurt Voss’ [Galveston’s the Elissa:: The Tall Ship of Texas](http://www.barnesandnoble.com/w/galvestons-the-elissa-kurt-d-voss/1111670665?ean=9780738578552), “*As a tribute to the generous support of the Moody Foundation, the face of the sculpture was styled in the likeness of a young Mary Moody Northen.”*   The life model for the rest of the figurehead was a part-time rigger and cadet at Texas A&M Maritime Academy, Amy McAllister.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/livingfigurehead.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/livingfigurehead.jpg)
 
 McAllister as living figurehead
 
 McAllister modeled not only in the studio, but on the bow of the ship as well. To ensure he got the proper angle of the figurehead to the bow, [Kuslansky arranged to have McAllister strapped in place on the prow of the ship.](http://books.google.com/books?id=ysTVgOm4ML4C&pg=PA77&lpg=PA77&dq=amy+mcallister+figurehead+elissa&source=bl&ots=6s7Xm1XjnF&sig=Dfb--QilJiiwII-dcMXZF8SAUYw&hl=en&ei=PPSXS_9ElLW2B6_c3OQB&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAkQ6AEwAA#v=onepage&q=amy%20mcallister%20figurehead%20elissa&f=false)  The photograph of her as a living figurehead, holding a yellow rose to her bosom, was picked up by the international wire services and broadcast around the world.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/mcallisterstudio1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/mcallisterstudio1.jpg)
 
 Modeling in the studio
 

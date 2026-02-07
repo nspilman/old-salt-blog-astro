@@ -12,12 +12,12 @@ tags:
   - "Coast Guard"
   - "MH-65 Dolphin helicopter"
   - "NJ"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/bertiecapsized.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/bertiecapsized.jpg"
 author: "Rick Spilman"
 description: "Coast Guard crews rescued a man and woman from a capsized sailboat in rough seas about 65 miles east of Atlantic City, NJ, late Wednesday night. Heidi Snyder and Peter Bailey, who have been sailing around the world for two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/bertiecapsized.jpg)Coast Guard crews rescued a man and woman from a capsized sailboat in rough seas about 65 miles east of Atlantic City, NJ, late Wednesday night. Heidi Snyder and Peter Bailey, who have been sailing around the world for two years, were traveling from South Carolina to New York City when a microburst capsized their 55-foot wooden-hull sailboat, *Bertie*. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/bertiecapsized.jpg)Coast Guard crews rescued a man and woman from a capsized sailboat in rough seas about 65 miles east of Atlantic City, NJ, late Wednesday night. Heidi Snyder and Peter Bailey, who have been sailing around the world for two years, were traveling from South Carolina to New York City when a microburst capsized their 55-foot wooden-hull sailboat, *Bertie*. 
 
 Beyond the range of VHS radio, the couple activated their EPIRB (Emergency Position Indicating Radio Beacon) which allowed the Coast Guard to locate them clinging to the capsized hull.
 

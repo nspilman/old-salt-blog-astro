@@ -18,12 +18,12 @@ tags:
   - "Norway"
   - "Stad Peninsula"
   - "Trondheim"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/faroseviking.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/faroseviking.jpg"
 author: "Rick Spilman"
 description: "A crew of 6 adventurers set sail on a 500-nautical-mile voyage in the North Sea from Tvøroyri on the Faroe Islands bound for Trondheim, Norway aboard Naddoddur, a 33′ long Faroese Viking ship replica. The voyage, expected to take 3-5 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/faroseviking.jpg)A crew of 6 adventurers set sail on a 500-nautical-mile voyage in the North Sea from Tvøroyri on the Faroe Islands bound for Trondheim, Norway aboard *Naddoddur*, a 33′ long Faroese Viking ship replica. The voyage, expected to take 3-5 days, ended in tragedy last Tuesday when the craft capsized in high seas near Norway’s dreaded [Stad Peninsula](https://en.wikipedia.org/wiki/Stad_\(peninsula\)). American archeologist [Karla Dana](https://www.linkedin.com/in/karla-dana/) drowned. The remaining five, one Faroese and four Swiss nationals, were rescued from a liferaft.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/faroseviking.jpg)A crew of 6 adventurers set sail on a 500-nautical-mile voyage in the North Sea from Tvøroyri on the Faroe Islands bound for Trondheim, Norway aboard *Naddoddur*, a 33′ long Faroese Viking ship replica. The voyage, expected to take 3-5 days, ended in tragedy last Tuesday when the craft capsized in high seas near Norway’s dreaded [Stad Peninsula](https://en.wikipedia.org/wiki/Stad_\(peninsula\)). American archeologist [Karla Dana](https://www.linkedin.com/in/karla-dana/) drowned. The remaining five, one Faroese and four Swiss nationals, were rescued from a liferaft.  
 
 The voyage referred to as “The “Legendary Viking Voyage,” was organized by [Sail2North Expeditions](https://www.sail2north.earth/) and was attempting to recreate Viking travel between Norway and the Faroe Islands.
 

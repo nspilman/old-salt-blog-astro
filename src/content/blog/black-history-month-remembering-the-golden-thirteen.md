@@ -11,12 +11,12 @@ tags:
   - "Golden Thirteen"
   - "US Navy"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/golden13.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/golden13.jpg"
 author: "Rick Spilman"
 description: "The Golden Thirteen, a wonderful bit of history from the Naval History and Heritage Command: In January 1944, there were nearly 100,000 Black Sailors in the United States Navy, but none were officers. That would change when a group of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/golden13.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/golden13.jpg)
 
 Twelve of the Golden Thirteen
 

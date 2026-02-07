@@ -13,12 +13,12 @@ tags:
   - "Rear Adm. Keith Davids"
   - "Rear Adm. Yvette Davids"
   - "U.S. Naval Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/admiraldavids2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/admiraldavids2.jpg"
 author: "Rick Spilman"
 description: "The Navy has nominated Rear Adm. Yvette Davids to become the first female superintendent of the U.S. Naval Academy at Annapolis, Maryland. Unfortunately, her confirmation is being delayed, as are the promotions of over 180 fellow senior military officers, by Senator … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/admiraldavids2.jpg)The [Navy](https://www.military.com/navy) has nominated [Rear Adm. Yvette Davids](https://www.navy.mil/Leadership/Flag-Officer-Biographies/Search/Article/2236396/rear-admiral-yvette-davids/) to become the first female superintendent of the [U.S. Naval Academy](https://www.military.com/base-guide/us-naval-academy) at Annapolis, Maryland. Unfortunately, her confirmation is being delayed, as are the promotions of over 180 fellow senior military officers, by [Senator Tommy Tuberville (R, Alabama), who is blocking promotions](https://www.usatoday.com/story/news/politics/2023/04/25/sen-tommy-tuberville-blocks-military-promotions-abortion-pentagon/11737649002/) as part of his protest against the Pentagon’s new abortion policy. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/admiraldavids2.jpg)The [Navy](https://www.military.com/navy) has nominated [Rear Adm. Yvette Davids](https://www.navy.mil/Leadership/Flag-Officer-Biographies/Search/Article/2236396/rear-admiral-yvette-davids/) to become the first female superintendent of the [U.S. Naval Academy](https://www.military.com/base-guide/us-naval-academy) at Annapolis, Maryland. Unfortunately, her confirmation is being delayed, as are the promotions of over 180 fellow senior military officers, by [Senator Tommy Tuberville (R, Alabama), who is blocking promotions](https://www.usatoday.com/story/news/politics/2023/04/25/sen-tommy-tuberville-blocks-military-promotions-abortion-pentagon/11737649002/) as part of his protest against the Pentagon’s new abortion policy. 
 
 [Military.com](https://www.military.com/daily-news/2023/04/21/navy-names-first-woman-lead-naval-academy.html) notes that Davids, who became a naval officer in 1989, has commanded the frigate USS *Curts*, the cruiser USS *Bunker Hill*, and she was the commander of Carrier Strike Group 11. Her assignment to *Curts* made her the first Hispanic American woman to command a Navy warship. She was also one of the first Hispanic American women to command a carrier strike group.
 

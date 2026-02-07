@@ -13,12 +13,12 @@ tags:
   - "Ministry of Defence"
   - "misaligned propeller shaft."
   - "Royal Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/princeofwales2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/princeofwales2.jpg"
 author: "Rick Spilman"
 description: "We now have the answer why the  Royal Navy’s newest aircraft carrier, HMS Prince of Wales, broke down off the Isle of Wight, in late August 2022.  The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/princeofwales2.jpg)We now have the answer why the  Royal Navy’s newest aircraft carrier, [HMS *Prince of Wales,*](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_\(R09\)) broke down off the Isle of Wight, in late August 2022.  The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage to the shaft and the propeller, and lesser damage to the rudder. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/princeofwales2.jpg)We now have the answer why the  Royal Navy’s newest aircraft carrier, [HMS *Prince of Wales,*](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_\(R09\)) broke down off the Isle of Wight, in late August 2022.  The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage to the shaft and the propeller, and lesser damage to the rudder. 
 
 But why did the shaft coupling fail?  As we noted in a [previous post](https://www.oldsaltblog.com/2023/03/as-repair-costs-soar-and-deployment-delayed-what-happened-on-the-hms-prince-of-wales/), the failure of a propeller shaft coupling is extremely rare. The First Sea Lord described the failure as “unprecedented.” Indeed, few marine engineers can remember an instance of this happening.
 

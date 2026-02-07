@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Bowsprite was kind enough to pass along this forgotten moment in history, which fits in well with recent posts.  Like the case of the Liberty ship SS Richard Montgomery, it involves a ship loaded with high explosives and like the apparent \"Blind Date\" hoax, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/El_Estero_sunk_in_NY_Harbor_1943.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/El_Estero_sunk_in_NY_Harbor_1943.jpg)
 
 El Estero scuttled Near Robbins Reef, New York Harbor
 

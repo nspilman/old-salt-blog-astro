@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "From Marine Log: A fireboat launched September 11, 2009 at Eastern Shipbuilding, Panama City, Fla. is named the Three Forty Three in honor of the 343 New York City firefighters killed at the World Trade Center on September 11, 2001. … Continue reading &rarr;"
 ---
 
-![fireboat350](http://www.oldsaltblog.com/wp-content/uploads/2009/09/fireboat350.jpg)From [Marine Log](http://www.marinelog.com/DOCS/NEWSMMIX/2009sep00120.html):
+![fireboat350](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/fireboat350.jpg)From [Marine Log](http://www.marinelog.com/DOCS/NEWSMMIX/2009sep00120.html):
 
 A fireboat launched September 11, 2009 at Eastern Shipbuilding, Panama City, Fla. is named the *Three Forty Three* in honor of the 343 New York City firefighters killed at the World Trade Center on September 11, 2001.
 

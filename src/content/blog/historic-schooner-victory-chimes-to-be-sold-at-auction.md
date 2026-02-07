@@ -13,12 +13,12 @@ tags:
   - "Maine windjammer fleet"
   - "three masted schooner"
   - "Victory Chimes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/vivtchimes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/vivtchimes.jpg"
 author: "Rick Spilman"
 description: "The three-masted schooner Victory Chimes, based in Rockland, Maine, will soon be sold at public auction. The 128-foot schooner will be auctioned through online bidding that begins at 9 a.m. on April 23 and continues until 1 p.m. on May … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/vivtchimes.jpg)The three-masted schooner [*Victory Chimes*](https://en.wikipedia.org/wiki/Victory_Chimes_\(schooner\)), based in Rockland, Maine, will soon be [sold at public auction](https://www.pressherald.com/2023/04/11/historic-maine-schooner-goes-on-auction-block/). The 128-foot schooner will be auctioned through online bidding that begins at 9 a.m. on April 23 and continues until 1 p.m. on May 8, according to [Keenan Auction Company](https://keenanauction.com/auction.cgi?i=5197) of Portland. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/vivtchimes.jpg)The three-masted schooner [*Victory Chimes*](https://en.wikipedia.org/wiki/Victory_Chimes_\(schooner\)), based in Rockland, Maine, will soon be [sold at public auction](https://www.pressherald.com/2023/04/11/historic-maine-schooner-goes-on-auction-block/). The 128-foot schooner will be auctioned through online bidding that begins at 9 a.m. on April 23 and continues until 1 p.m. on May 8, according to [Keenan Auction Company](https://keenanauction.com/auction.cgi?i=5197) of Portland. 
 
 The schooner has been a fixture of the Maine windjammer fleet for almost 70 years.  Built in Bethel, Delaware in 1900, for the first 45 years of her career, she carried general cargo in the Chesapeake Bay until she was converted for the passenger trade in 1946 and moved to Maine in 1954.
 

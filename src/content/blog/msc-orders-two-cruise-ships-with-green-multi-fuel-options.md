@@ -18,12 +18,12 @@ tags:
   - "Methanol"
   - "MSC"
   - "synthetic gas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/MSCExplora.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/MSCExplora.jpg"
 author: "Rick Spilman"
 description: "The headline on Cruise&Ferry.net reads \"MSC confirms orders for hydrogen-powered ships for Explora Journeys.\" The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand Explora Journeys, will not be hydrogen-powered, per se, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/MSCExplora.jpg)The headline on Cruise&Ferry.net reads “[MSC confirms orders for hydrogen-powered ships for Explora Journeys.](https://www.cruiseandferry.net/articles/MSC-confirm-orders-for-hydrogen-powered-ships-for-Explora-Journeys)” The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand [Explora Journeys](https://explorajourneys.com/us/en?gclid=CjwKCAjwgsqoBhBNEiwAwe5w0zlTOtxS4isyMX6PEsA9xdCq9t81GMGuzXtPMEHkxE9BslXfkWR8ARoC1f4QAvD_BwE), will not be hydrogen-powered, per se, but will apparently be configured with the capability to burn a range of green or at least greener fuels. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/MSCExplora.jpg)The headline on Cruise&Ferry.net reads “[MSC confirms orders for hydrogen-powered ships for Explora Journeys.](https://www.cruiseandferry.net/articles/MSC-confirm-orders-for-hydrogen-powered-ships-for-Explora-Journeys)” The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand [Explora Journeys](https://explorajourneys.com/us/en?gclid=CjwKCAjwgsqoBhBNEiwAwe5w0zlTOtxS4isyMX6PEsA9xdCq9t81GMGuzXtPMEHkxE9BslXfkWR8ARoC1f4QAvD_BwE), will not be hydrogen-powered, per se, but will apparently be configured with the capability to burn a range of green or at least greener fuels. 
 
 The new ships, *Explora V* and *VI* will reportedly make use of liquid hydrogen with fuel cells for their hotel operations while docked in ports to enable them to switch off their engines and eliminate carbon emissions. Propulsive power will be provided by a new generation of liquefied natural gas (LNG) engines that will reduce the issue of methane slip, in which unburned fuel escapes into the atmosphere. 
 

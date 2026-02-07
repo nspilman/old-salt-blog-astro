@@ -10,12 +10,12 @@ tags:
   - "giant squid"
   - "Lionel Messi"
   - "Peru"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/messi200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/messi200.jpg"
 author: "Rick Spilman"
 description: "Last week, Peruvian customs officials, in the port of Callo, found more than a tonne of cocaine in three shipping containers packed with filets of giant squid about to be loaded on board a ship bound for Belgium. The cocaine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/messi2.jpg)Last week, Peruvian customs officials, in the port of Callo, found more than [a tonne of cocaine in three shipping containers](https://www.washingtonpost.com/news/early-lead/wp/2017/03/23/police-find-more-than-a-ton-of-lionel-messi-branded-cocaine-in-a-shipment-of-giant-squid/?utm_term=.e22dad984648) packed with filets of giant squid about to be loaded on board a ship bound for Belgium. The cocaine was estimated to be worth $85 million. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/messi2.jpg)Last week, Peruvian customs officials, in the port of Callo, found more than [a tonne of cocaine in three shipping containers](https://www.washingtonpost.com/news/early-lead/wp/2017/03/23/police-find-more-than-a-ton-of-lionel-messi-branded-cocaine-in-a-shipment-of-giant-squid/?utm_term=.e22dad984648) packed with filets of giant squid about to be loaded on board a ship bound for Belgium. The cocaine was estimated to be worth $85 million. 
 
 One unusual aspect of the seizure was that roughly half of the cocaine packages were branded in the name of the Argentine football star, [Lionel Messi](https://fi.wikipedia.org/wiki/Lionel_Messi), who plays as a forward for Spanish club FC Barcelona and the Argentina national team. The other half of the cocaine was branded “King” with the the seal of the king of Spain. There is no indication that Messi or the Spanish monarch had anything to do with the cocaine.
 

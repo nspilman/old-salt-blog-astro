@@ -13,12 +13,12 @@ tags:
   - "Philadelphia Navy Yard"
   - "USS New Jersey"
   - "USS Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/ussnewjersey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/ussnewjersey.jpg"
 author: "Rick Spilman"
 description: "At the beginning of the month, we posted a drone video of the battleship USS Texas being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston. Here is another drone video of a historic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/ussnewjersey.jpg)At the beginning of the month, [we posted a drone video of the battleship USS *Texas*](https://www.oldsaltblog.com/2024/03/battleship-uss-texas-refloating-in-drydock/) being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/ussnewjersey.jpg)At the beginning of the month, [we posted a drone video of the battleship USS *Texas*](https://www.oldsaltblog.com/2024/03/battleship-uss-texas-refloating-in-drydock/) being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston.
 
 Here is another drone video of a historic battleship being moved to a drydock for repairs. On Thursday, March 21st, the [Iowa-class](https://en.wikipedia.org/wiki/Iowa-class_battleship) [battleship USS *New Jersey*](https://www.battleshipnewjersey.org/) was towed down the Delaware River towards the North Atlantic Ship Repair facility at the Philadelphia Navy Yard where she will be drydocked for 60 days. The 45,000-ton historic vessel will be dry-docked in the very berth where it was [built and subsequently launched on December 7, 1942.](https://www.oldsaltblog.com/2021/12/one-year-after-pearl-harbor-launching-of-the-battleship-uss-new-jersey-december-7-1942/)
 

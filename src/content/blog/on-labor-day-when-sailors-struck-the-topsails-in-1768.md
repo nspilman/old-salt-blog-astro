@@ -14,12 +14,12 @@ tags:
   - "Sailors"
   - "strike"
   - "topsails"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/thamesstrike.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/thamesstrike.jpg"
 author: "Rick Spilman"
 description: "Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word \"strike,\" referring … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/thamesstrike.jpg)Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word “strike,” referring to workers withholding their labor to demand better wages or conditions.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/thamesstrike.jpg)Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word “strike,” referring to workers withholding their labor to demand better wages or conditions.
 
 The first use of the word “[strike](https://jacobinmag.com/2018/05/strikes-history-london-sailors-coal-heavers/)” as a labor protest dates to April of 1768 when sailors in the Port of Sunderland in Great Britain announced that they would strike the topsails of merchant ships to prevent them from sailing unless wages were increased. The ship owners agreed to their demands. In May, sailors on ships in the Thames followed their example and struck their topsails. The sailors petitioned Parliament and the Lord Mayor for a wage increase. By May 11, fourteen thousand sailors, dock workers, water-men, and coal-heavers marched on Westminster. Soon, all trade on the Thames had been brought to a standstill.
 

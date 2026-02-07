@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In publicity photos to celebrate the tenth year anniversary of the Queen Mary 2 going into service, Captain Kevin Oprey is seen standing on the ship’s bulbous bow.  The photos dramatically capture the size of the mighty ship. Click on the … Continue reading &rarr;"
 ---
 
-[![qm2captainbulb](http://www.oldsaltblog.com/wp-content/uploads/2014/03/qm2captainbulb.jpg)](http://www.dailymail.co.uk/news/article-2575169/Adrift-sea-Extraordinary-photos-captain-Queen-Mary-II-standing-largest-ocean-liner-world.html)
+[![qm2captainbulb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/qm2captainbulb.jpg)](http://www.dailymail.co.uk/news/article-2575169/Adrift-sea-Extraordinary-photos-captain-Queen-Mary-II-standing-largest-ocean-liner-world.html)
 
 Captain standing on the bulbous bow. Click for larger images
 

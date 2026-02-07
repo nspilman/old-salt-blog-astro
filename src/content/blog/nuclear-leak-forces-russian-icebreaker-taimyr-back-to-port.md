@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "A nuclear leak on the Russian icebreaker Taimyr forced it to attempt to return to the port of Murmansk. Nuclear leak in Russian icebreaker RUSSIA launched an urgent rescue mission overnight after one of its atomic-powered icebreakers developed a nuclear leak … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Taimyr-Icebreaker.jpg)A nuclear leak on the [Russian icebreaker Taimyr](http://en.wikipedia.org/wiki/Nuclear-powered_icebreaker#Taimyr_class) forced it to attempt to return to the port of Murmansk.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Taimyr-Icebreaker.jpg)A nuclear leak on the [Russian icebreaker Taimyr](http://en.wikipedia.org/wiki/Nuclear-powered_icebreaker#Taimyr_class) forced it to attempt to return to the port of Murmansk.
 
 [Nuclear leak in Russian icebreaker](http://www.dailytelegraph.com.au/news/world/nuclear-leak-in-russian-icebreaker/story-e6frev00-1226050898019)
 

@@ -9,7 +9,7 @@ tags:
   - "beluga"
   - "san diego"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/belugasd.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/belugasd.jpg"
 author: "Rick Spilman"
 description: "Whale watchers off San Diego were shocked to see what appeared to be a beluga whale in southern Californian waters. Video shot from a drone confirmed the sighting. Belugas typically live in the waters of the Arctic and sub-Arctic. This … Continue reading &rarr;"
 ---

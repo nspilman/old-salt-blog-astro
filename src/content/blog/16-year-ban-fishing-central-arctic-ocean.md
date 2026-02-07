@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Nine nations; the United States, Canada, Norway, Russia, Denmark, Iceland, Japan, South Korea, China; and the European Union have agreed to ban commercial fishing in the Central Arctic Ocean for at least the next 16 years. The goal of the pact … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/caoice.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/caoice.jpg)
 
 Photo: NASA/Kathryn Hansen
 

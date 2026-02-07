@@ -12,12 +12,12 @@ tags:
   - "England"
   - "Israel"
   - "tin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/tinignots.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/tinignots.jpg"
 author: "Rick Spilman"
 description: "One open question about the Bronze Age in the Middle East was where the tin was sourced. Bronze is an alloy of primarily copper and tin. Recently, scientists identified the surprising source of tin ingots found in three shipwrecks off … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/tinignots.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/tinignots.jpg)
 
 Tin ingots mined in Cornwall 1300 BCE
 

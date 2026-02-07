@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "On Tuesday the Emirates Team New Zealand beat the defending Oracle Team USA in the fifth race of the America’s Cup finals with a victory of 1 minute, 5 seconds on San Francisco Bay. This is the fourth Kiwi victory. … Continue reading &rarr;"
 ---
 
-![Photo: Emirates Team New Zealand ](http://www.oldsaltblog.com/wp-content/uploads/2013/09/CC130907.jpg)
+![Photo: Emirates Team New Zealand ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/CC130907.jpg)
 
 Photo: Emirates Team New Zealand
 

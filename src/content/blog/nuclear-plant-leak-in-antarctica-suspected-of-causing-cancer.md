@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Reports are surfacing of Navy veterans contracting cancer after serving  at the McMurdo Station in Antarctica when the station was powered by a problem-prone nuclear power plant. Nuclear plant leak in Antarctica suspected of causing cancer … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/McMurdo_Station.jpg)Reports are surfacing of Navy veterans contracting cancer after serving  at the McMurdo Station in Antarctica when the station was powered by a problem-prone nuclear power plant.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/McMurdo_Station.jpg)Reports are surfacing of Navy veterans contracting cancer after serving  at the McMurdo Station in Antarctica when the station was powered by a problem-prone nuclear power plant.
 
 [Nuclear plant leak in Antarctica suspected of causing cancer](http://www.newsnet5.com/dpp/news/local_news/investigations/nuclear-plant-leak-suspected-of-causing-cancer)  
   

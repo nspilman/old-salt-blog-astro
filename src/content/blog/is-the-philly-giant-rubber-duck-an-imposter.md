@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Philadelphia-Camden Tall Ships Festival 2015 will feature a 61-foot tall, 11-ton inflatable rubber duck. But is the Philly duck an imposter?"
 ---
 
-![Photo: Craig Samborski](http://www.oldsaltblog.com/wp-content/uploads/2015/06/phillyduck.jpg)
+![Photo: Craig Samborski](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/phillyduck.jpg)
 
 Photo: Craig Samborski
 

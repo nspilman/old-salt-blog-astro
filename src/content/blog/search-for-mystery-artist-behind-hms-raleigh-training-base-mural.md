@@ -17,12 +17,12 @@ tags:
   - "mystery artist"
   - "painting"
   - "RFA Sir Galahad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/mystery-mural.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mystery-mural.jpg"
 author: "Rick Spilman"
 description: "A striking painting of the Falklands War has prompted a search to find the artist behind it. Recently, Jon Rickman-Dawson, facilities manager for HMS Raleigh, a training establishment for new recruits to the Royal Navy, discovered an unusual mural hidden … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/mystery-mural.jpg)A striking painting of the Falklands War has prompted a search to find the artist behind it.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mystery-mural.jpg)A striking painting of the Falklands War has prompted a search to find the artist behind it.
 
 Recently, [Jon Rickman-Dawson](https://insidedio.blog.gov.uk/2024/01/15/how-dio-discovered-a-mysterious-painting-of-the-falklands-war/), facilities manager for [HMS Raleigh](https://en.wikipedia.org/wiki/HMS_Raleigh_\(shore_establishment\)), a training establishment for new recruits to the Royal Navy, discovered an unusual mural hidden away in one of the classrooms.
 

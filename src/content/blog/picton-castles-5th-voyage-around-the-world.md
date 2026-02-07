@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "An interesting article by Dan Moreland, Captain and owner of Picton Castle from Sail Training International. Picton Castle’s 5th Voyage around the World … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/JulieandPaulaRiggingforStun.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/JulieandPaulaRiggingforStun.jpg)
 
 An interesting article by Dan Moreland, Captain and owner of [Picton Castle](http://www.picton-castle.com/) from [Sail Training International](http://www.sailtraininginternational.org/news/article/read_picton-castles-5th-voyage-around-the-world_item_100508.htm).
 

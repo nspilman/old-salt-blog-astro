@@ -13,12 +13,12 @@ tags:
   - "Endurance"
   - "National Geographic"
   - "Sir Ernest Shackleton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/endurancescan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/endurancescan.jpg"
 author: "Rick Spilman"
 description: "A new National Geographic documentary \"Endurance,\" will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year. The documentary includes a 3D digital scan of Sir Ernest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/endurancescan.jpg)A new National Geographic documentary “[Endurance](https://films.nationalgeographic.com/endurance),” will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/endurancescan.jpg)A new National Geographic documentary “[Endurance](https://films.nationalgeographic.com/endurance),” will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year.
 
 The documentary includes a 3D digital scan of [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship, created from 25,000 high-resolution images taken after the ship was found in 2022. The 3D scan, by [Falklands Maritime Heritage Trust](https://fmht.co.uk/), reveals amazing details about the ship that sank in 1915 and lies 3,000m down at the bottom of the Weddell Sea. The documentary tells the story of Shackleton’s ill-fated voyage, as well as that of the expedition that discovered the wreck of the Endurance.
 

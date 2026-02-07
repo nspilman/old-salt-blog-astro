@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  \"We’d like … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/larry_ellison.gi_.top_.jpg)Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  ”We’d like this to not be a matter of who invests the most money in designing their boat but who sails the best.”  If he is true to his word, this might open up the America’s Cup races again to mere millionaires rather than being so costly that only billionaires can play.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/larry_ellison.gi_.top_.jpg)Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  ”We’d like this to not be a matter of who invests the most money in designing their boat but who sails the best.”  If he is true to his word, this might open up the America’s Cup races again to mere millionaires rather than being so costly that only billionaires can play.
 
 [Larry Ellison: Make America’s Cup about sailing, not money](http://money.cnn.com/2010/03/18/technology/ellison_americas_cup.fortune/index.htm)  
   

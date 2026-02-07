@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The death of Eustace at the Battle of Sandwich The Oxford Dictionary of National Bi0graphies features an intriguing character from history today – Eustace the Monk,  a Benedictine monk from the 13th century who was also a sea captain, a mercenary and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/EustaceTheMonk.jpg)The death of Eustace at the Battle of Sandwich
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/EustaceTheMonk.jpg)The death of Eustace at the Battle of Sandwich
 
 [The Oxford Dictionary of National Bi0graphies](http://www.oxforddnb.com/public/lotw/1.html) features an intriguing character from history today – [Eustace the Monk](http://en.wikipedia.org/wiki/Eustace_the_Monk),  a Benedictine monk from the 13th century who was also a sea captain, a mercenary and a pirate. Quite a resume.  A romance biography written about Eustace around 1225 by an unknown poet from Picardy, is said to have influenced the medieval myths of Robin Hood.  
   

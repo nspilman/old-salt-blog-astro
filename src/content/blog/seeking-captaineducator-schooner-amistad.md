@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Almost exactly a year ago, we posted, The Return of the Schooner Amistad, about the efforts of the non-profit, Discovering Amistad, to return the schooner to operation.  Discovering Amistad has recently announced that it is searching for a Captain/Educator for the  replica … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/01/amistad.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/amistad.jpg)
 
   
 Photo: Sean D. Elliot/The Day

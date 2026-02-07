@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "Dead zones are areas where there is too little oxygen in the water to support fish and other aquatic life.  They are usually caused by fertilizers and/or other organic materials causing algae blooms which deplete the oxygen in the water. Dead zones in the … Continue reading &rarr;"
 ---
 
-D![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/09_MEXIC.jpg)ead zones are areas where there is too little oxygen in the water to support fish and other aquatic life.  They are usually caused by fertilizers and/or other organic materials causing algae blooms which deplete the oxygen in the water. Dead zones in the Gulf of Mexico from the run-off from fertilizers and chemicals flowing into the Mississippi have been forming yearly since the 1970s. Now there is serious concern about the impact  this year’s flood in the Midwest may have on the waters of the Gulf.
+D![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/09_MEXIC.jpg)ead zones are areas where there is too little oxygen in the water to support fish and other aquatic life.  They are usually caused by fertilizers and/or other organic materials causing algae blooms which deplete the oxygen in the water. Dead zones in the Gulf of Mexico from the run-off from fertilizers and chemicals flowing into the Mississippi have been forming yearly since the 1970s. Now there is serious concern about the impact  this year’s flood in the Midwest may have on the waters of the Gulf.
 
 [Chemicals in Farm Runoff Rattle States on the Mississippi](http://www.nytimes.com/2011/06/03/science/earth/03runoff.html?_r=2&pagewanted=1&om_rid=Nsfpfz&om_mid=_BN6Nd$B8bhCaFN)  
   

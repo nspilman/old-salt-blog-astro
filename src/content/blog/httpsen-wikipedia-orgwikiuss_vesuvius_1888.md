@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The US Navy is currently testing some potentially revolutionary new weapons, including electromagnetic rail guns. This is not the first time that the navy has experimented with new and exotic weapons systems, not all of which have been successful. USS … Continue reading &rarr;"
 ---
 
-![vesuvious](http://www.oldsaltblog.com/wp-content/uploads/2016/03/vesuvious.jpg)
+![vesuvious](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/vesuvious.jpg)
 
 The US Navy is currently testing some potentially revolutionary new weapons, including [electromagnetic rail guns](http://www.oldsaltblog.com/2010/12/navy-electromagnetic-railgun-annihilates-targets-100-miles-away-in-six-minutesn/). This is not the first time that the navy has experimented with new and exotic weapons systems, not all of which have been successful. [USS *Vesuvius*](https://en.wikipedia.org/wiki/USS_Vesuvius_\(1888\)), commissioned in 1890, featured three 15-inch (38-cm) cast iron pneumatic guns,  which used compressed air to propel “dynamite shells.”  The shells were steel or brass casings 7 feet long packed with nitrocellulose and nitroglycerine. The three dynamite guns had a range of between one to two miles depending on the weight of the charge.  Oddly, the guns themselves were fixed, so to aim the projectiles they needed to aim the ship toward the target.
 

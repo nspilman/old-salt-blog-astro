@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Jazz Turner sailed back into Brighton on Monday afternoon, June 30, after a voyage of 28 days, becoming the first disabled person to make the journey around the British Isles non-stop and unassisted. Turner sailed from Brighton on June 2 … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/jazzturner.jpg)[Jazz Turner](https://www.instagram.com/jazturnersailing/) sailed back into Brighton on Monday afternoon, June 30, after a voyage of 28 days, becoming the first disabled person to make the journey around the British Isles non-stop and unassisted. Turner sailed from Brighton on June 2 on her Albin Vega 27-foot yacht named *Fear*, which stands for “Face Everything and Rise.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/jazzturner.jpg)[Jazz Turner](https://www.instagram.com/jazturnersailing/) sailed back into Brighton on Monday afternoon, June 30, after a voyage of 28 days, becoming the first disabled person to make the journey around the British Isles non-stop and unassisted. Turner sailed from Brighton on June 2 on her Albin Vega 27-foot yacht named *Fear*, which stands for “Face Everything and Rise.”
 
 A 26-year-old, engineer from Seaford, Turner lives with [Ehlers-Danlos Syndrom](https://www.mayoclinic.org/diseases-conditions/ehlers-danlos-syndrome/symptoms-causes/syc-20362125)e, a debilitating genetic condition that affects connective tissue. She was diagnosed with the illness when she was 18, which causes fainting and seizures.  A full-time wheelchair user, doctors have told her that her condition is now terminal, due to complications.
 

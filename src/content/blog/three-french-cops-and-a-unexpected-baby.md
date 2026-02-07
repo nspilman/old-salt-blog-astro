@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "DWIGHT D. EISENHOWER"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/dwightd.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/dwightd.jpg"
 author: "Rick Spilman"
 description: "The aircraft carrier USS Dwight D. Eisenhower is big. Like other Nimitz class carriers, it is over 1000′ long on the waterline, wit a beam of 244′ and is powered by nuclear steam plant which develops a quarter of a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/dwightd.jpg)The aircraft carrier [USS *Dwight D. Eisenhower*](https://en.wikipedia.org/wiki/USS_Dwight_D._Eisenhower) is big. Like other [Nimitz class carriers,](https://en.wikipedia.org/wiki/Nimitz-class_aircraft_carrier) it is over 1000′ long on the waterline, wit a beam of 244′ and is powered by nuclear steam plant which develops a quarter of a million horsepower. It has a crew of 3,200 with an additional air wing of 2,480. Recently, although briefly, it added a few additional temporary crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/dwightd.jpg)The aircraft carrier [USS *Dwight D. Eisenhower*](https://en.wikipedia.org/wiki/USS_Dwight_D._Eisenhower) is big. Like other [Nimitz class carriers,](https://en.wikipedia.org/wiki/Nimitz-class_aircraft_carrier) it is over 1000′ long on the waterline, wit a beam of 244′ and is powered by nuclear steam plant which develops a quarter of a million horsepower. It has a crew of 3,200 with an additional air wing of 2,480. Recently, although briefly, it added a few additional temporary crew.
 
 [Three French police officers](http://taskandpurpose.com/3-french-cops-accidentally-ship-uss-eisenhower/) had been working security for the aircraft carrier during her port call in Marseilles, France in late December. They stepped aboard for a last minute tour and found themselves departing with the ship. The three officers, who did not speak English, were treated to a ride back to port in a harbor tug. Reportedly their supervisors were not pleased.
 

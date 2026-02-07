@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "There will be a preliminary hearing into the sinking of the ferry, Princess Ashika, next Thursday in Nuku’alofa by the Royal Commission set up by the Government to investigate the tragedy. A letter from Port Authority Port Authority general manager, … Continue reading &rarr;"
 ---
 
-![lifering](http://www.oldsaltblog.com/wp-content/uploads/2009/09/lifering.jpg)There will be a [preliminary hearing into the sinking of the ferry, *Princess Ashika*](http://www.rnzi.com/pages/news.php?op=read&id=49327), next Thursday in Nuku’alofa by the Royal Commission set up by the Government to investigate the tragedy.
+![lifering](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/lifering.jpg)There will be a [preliminary hearing into the sinking of the ferry, *Princess Ashika*](http://www.rnzi.com/pages/news.php?op=read&id=49327), next Thursday in Nuku’alofa by the Royal Commission set up by the Government to investigate the tragedy.
 
 A [letter from Port Authority Port Authority general manager](http://www.abc.net.au/worldtoday/content/2009/s2688615.htm), Lupeti Vi, to the Tongan Prime Minister, Feleti Sevele, revealed that welding repairs were carried out at night on the ill-fated ferry, without permission, to try to conceal how rusty the ferry was.  The letter also implied that the ferry might not have been insured.   According to the [Lloyd’s Marine Intelligence Unit database](http://www.lloydslistdcn.com.au/archive/2009/september/18/port-authority-feared-tongan-ferry-was-unsafe), Princess Ashika had no current International Safety Management or International Ship and Port Facility Security code documentation.
 

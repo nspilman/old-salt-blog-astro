@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "It was announced recently that Swashbuckle would be joining the 40 heavy metal bands on the 70,000 Tons of Metal cruise. Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/swashbuckle.jpg)It was announced recently that [Swashbuckle](http://www.facebook.com/pages/Swashbuckle/71641780327) would be joining the 40 heavy metal bands on the [70,000 Tons of Metal](http://www.70000tons.com/home.htm) cruise. [](http://www.facebook.com/pages/Swashbuckle/71641780327)Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From their Facebook page, they describe themselves thusly:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/swashbuckle.jpg)It was announced recently that [Swashbuckle](http://www.facebook.com/pages/Swashbuckle/71641780327) would be joining the 40 heavy metal bands on the [70,000 Tons of Metal](http://www.70000tons.com/home.htm) cruise. [](http://www.facebook.com/pages/Swashbuckle/71641780327)Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From their Facebook page, they describe themselves thusly:
 
 *Forged upon the seven seas, Swashbuckle hath come to take the metal community by storm. We’ve faced rum-runners of the northern Caribbean to bring you the most brutal in yar face metal upon the Spanish Main. If ye be double crossin’ us, we’ll make ye walk the plank ye scurvy dogs! Yarr! Swab the poop-deck, and set sail for the Pirate Metal experience of your lifetime ye hornswogglers! Cheers!*  
   

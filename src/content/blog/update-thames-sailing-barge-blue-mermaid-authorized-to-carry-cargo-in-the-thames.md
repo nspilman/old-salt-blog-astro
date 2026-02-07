@@ -12,12 +12,12 @@ tags:
   - "Maritime and Coastguard Agency"
   - "Sea-Change Sailing Trust"
   - "Thames sailing barge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/bluemermaid.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/bluemermaid.jpg"
 author: "Rick Spilman"
 description: "In 2019, we posted about Blue Mermaid, the first sailing barge built for trade in Britain since 1930. Recently, the Maritime and Coastguard Agency has granted permission to the Sea-Change Sailing Trust, which owns the Blue Mermaid, for the barge … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/bluemermaid.jpg)In 2019, we posted about *[Blue Mermaid](https://en.wikipedia.org/wiki/Blue_Mermaid)*, the first [sailing barge](https://en.wikipedia.org/wiki/Thames_sailing_barge) built for trade in Britain since 1930. Recently, the [Maritime and Coastguard Agency has granted permission](https://www.ianvisits.co.uk/articles/sailing-ship-authorised-for-cargo-deliveries-in-the-thames-60609/?fbclid=IwAR3fMfg5XF9vdOknfOWzDqwWPiTxVD6vhAJ90Smcnie0zDRPVy_2rh4AkeU) to the [Sea-Change Sailing Trust](https://seachangesailingtrust.org.uk/), which owns the *Blue Mermaid,* for the barge to carry cargoes of up to 110 tonnes, between Lowestoft and Sandwich – and up the Thames. *Blue Mermaid* is also the first UK-registered sailing vessel to be authorized as a commercial cargo carrier since the 1970s.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/bluemermaid.jpg)In 2019, we posted about *[Blue Mermaid](https://en.wikipedia.org/wiki/Blue_Mermaid)*, the first [sailing barge](https://en.wikipedia.org/wiki/Thames_sailing_barge) built for trade in Britain since 1930. Recently, the [Maritime and Coastguard Agency has granted permission](https://www.ianvisits.co.uk/articles/sailing-ship-authorised-for-cargo-deliveries-in-the-thames-60609/?fbclid=IwAR3fMfg5XF9vdOknfOWzDqwWPiTxVD6vhAJ90Smcnie0zDRPVy_2rh4AkeU) to the [Sea-Change Sailing Trust](https://seachangesailingtrust.org.uk/), which owns the *Blue Mermaid,* for the barge to carry cargoes of up to 110 tonnes, between Lowestoft and Sandwich – and up the Thames. *Blue Mermaid* is also the first UK-registered sailing vessel to be authorized as a commercial cargo carrier since the 1970s.
 
 The sailing ship trust, which provides training and education for young people and vulnerable adults is working with Brightlingsea-based Essex Cement to carry cargo within its authorized range.
 

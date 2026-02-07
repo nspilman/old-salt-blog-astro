@@ -13,12 +13,12 @@ tags:
   - "thermoplastic"
   - "turbine blades"
   - "Verdant"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/verdanttri.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/verdanttri.jpg"
 author: "Rick Spilman"
 description: "One of the concerns with wind and tidal energy installations is that the turbine blades are built from materials that are not easily recyclable. As the blades wear out with use, they could create a significant disposal problem. For the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/verdanttri.jpg)One of the concerns with wind and tidal energy installations is that the turbine blades are built from [materials that are not easily recyclable](https://www.bloomberg.com/news/features/2020-02-05/wind-turbine-blades-can-t-be-recycled-so-they-re-piling-up-in-landfills). As the blades wear out with use, they could create a significant disposal problem. For the last several years, the [US Department of Energy’s National Renewable Energy Laboratory (NREL) has been developing new designs](https://cleantechnica.com/2021/08/13/nrels-thermoplastic-blade-research-dives-deep-with-verdant-powers-tidal-energy-turbines/) for turbine blades that could be more easily recycled and may prove more durable in high-energy environments like tidal streams.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/verdanttri.jpg)One of the concerns with wind and tidal energy installations is that the turbine blades are built from [materials that are not easily recyclable](https://www.bloomberg.com/news/features/2020-02-05/wind-turbine-blades-can-t-be-recycled-so-they-re-piling-up-in-landfills). As the blades wear out with use, they could create a significant disposal problem. For the last several years, the [US Department of Energy’s National Renewable Energy Laboratory (NREL) has been developing new designs](https://cleantechnica.com/2021/08/13/nrels-thermoplastic-blade-research-dives-deep-with-verdant-powers-tidal-energy-turbines/) for turbine blades that could be more easily recycled and may prove more durable in high-energy environments like tidal streams.  
 
 NREL is now partnering with [Verdant Power, whose tidal turbines are currently deployed in New York City’s East River](http://www.oldsaltblog.com/2012/01/east-river-water-turbine-energy-licence-awarded-to-verdant-power/), to test the new thermoplastic blade design. Unlike the current epoxy-infused composite thermoset blades, the [thermoplastic blades can be melted down and recycled](https://www.sciencedaily.com/releases/2020/11/201117192628.htm). The thermoplastic blades may also be better suited for use in tidal currents. The current testing should provide real-world data to determine if the new design is more rugged than the current blades. 
 

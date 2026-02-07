@@ -15,12 +15,12 @@ tags:
   - "Pacific"
   - "pipeline"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/mscdanit.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/mscdanit.jpg"
 author: "Rick Spilman"
 description: "In early October, a crack in a pipeline off the coast of Huntington Beach, California spilled some 3,000 barrels (126,000 gallons) of crude oil into the Pacific Ocean. On Saturday, the US Coast Guard announced that it had determined that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/mscdanit.jpg)In early October, a crack in a pipeline off the coast of Huntington Beach, California spilled some 3,000 barrels (126,000 gallons) of crude oil into the Pacific Ocean. On Saturday, the [US Coast Guard announced](https://content.govdelivery.com/accounts/USDHSCG/bulletins/2f7d652?fbclid=IwAR00ax4O3sS6DeTlJdlRGbS7dTf9GHH8NvuShrQQK5HAjNCEMxkWyco_Vko) that it had determined that the container ship [MSC *Danit*](https://en.wikipedia.org/wiki/MSC_Danit) had dragged its anchor in heavy weather on January 25, 2021, “in close proximity to a subsea pipeline, which was subsequently discovered to be the source of the Orange County oil spill on October 2, 2021.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/mscdanit.jpg)In early October, a crack in a pipeline off the coast of Huntington Beach, California spilled some 3,000 barrels (126,000 gallons) of crude oil into the Pacific Ocean. On Saturday, the [US Coast Guard announced](https://content.govdelivery.com/accounts/USDHSCG/bulletins/2f7d652?fbclid=IwAR00ax4O3sS6DeTlJdlRGbS7dTf9GHH8NvuShrQQK5HAjNCEMxkWyco_Vko) that it had determined that the container ship [MSC *Danit*](https://en.wikipedia.org/wiki/MSC_Danit) had dragged its anchor in heavy weather on January 25, 2021, “in close proximity to a subsea pipeline, which was subsequently discovered to be the source of the Orange County oil spill on October 2, 2021.”
 
 Coast Guard and National Transportation Safety Board (NTSB) marine casualty investigators boarded the container ship MSC *Danit* in the Port of Long Beach on Saturday.
 

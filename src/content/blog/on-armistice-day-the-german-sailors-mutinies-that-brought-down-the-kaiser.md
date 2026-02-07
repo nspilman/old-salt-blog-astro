@@ -14,12 +14,12 @@ tags:
   - "Mutinies"
   - "Wilhelmshaven"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/hegoland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hegoland.jpg"
 author: "Rick Spilman"
 description: "In the US, today is Veteran’s Day, when we honor those who have served in the military.  It coincides with Armistice Day, the anniversary of the signing of the armistice which ended World War I, on the 11th hour of the 11th day, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/hegoland.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hegoland.jpg)
 
 Crew on SMS Hegoland were among the first to mutiny in 1918.
 

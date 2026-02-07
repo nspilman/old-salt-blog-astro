@@ -11,12 +11,12 @@ tags:
   - "Newport"
   - "Rhode Island"
   - "SSV Oliver Hazard Perry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/OHPRI200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/OHPRI200.jpg"
 author: "Rick Spilman"
 description: "The 200′ long three-masted square-rigger SSV Oliver Hazard Perry was departing from a local dockside festival on Sunday evening when she lost power while maneuvering in very close quarters in Newport Harbor, Rhode Island. The steel ship drifted into four boats. No one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/OHPRI200.jpg)The 200′ long three-masted square-rigger [SSV *Oliver Hazard Perry*](https://www.ohpri.org/ship/) was departing from a local dockside festival on Sunday evening when she lost power while maneuvering in very close quarters in Newport Harbor, Rhode Island. The steel ship drifted into four boats. No one was injured in the collisions.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/OHPRI200.jpg)The 200′ long three-masted square-rigger [SSV *Oliver Hazard Perry*](https://www.ohpri.org/ship/) was departing from a local dockside festival on Sunday evening when she lost power while maneuvering in very close quarters in Newport Harbor, Rhode Island. The steel ship drifted into four boats. No one was injured in the collisions.  
 
 This morning just before 10AM, the [Oliver Hazard Perry Rhode Island](https://www.facebook.com/ohpri/) organization released the following [statement](http://whatsupnewp.com/tall-ship-ssv-oliver-hazard-perry-loses-power-hits-multiple-boats-before-grounding-in-newport-harbor/):
 

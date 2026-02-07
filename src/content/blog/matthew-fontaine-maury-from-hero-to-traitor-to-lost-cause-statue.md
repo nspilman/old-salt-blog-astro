@@ -12,12 +12,12 @@ tags:
   - "mines"
   - "torpedoes"
   - "Wind and Current Charts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/mfmaury.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/mfmaury.jpg"
 author: "Rick Spilman"
 description: "Recently, four statues of Confederates were removed from city property in Richmond, Virginia. Three of the individuals represented by the statues were well know — Jefferson Davis, the president of the Confederacy, and the Confederate generals, Stonewall Jackson and J.E.B. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/mfmaury.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/mfmaury.jpg)
 
 Matthew Fontaine Maury in US Navy uniform
 

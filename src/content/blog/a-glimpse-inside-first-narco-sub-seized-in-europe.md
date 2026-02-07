@@ -11,12 +11,12 @@ tags:
   - "Galicia"
   - "narco sub"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/narcosub1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/narcosub1.jpg"
 author: "Rick Spilman"
 description: "In late 2019, we posted about Spanish authorities seizing a narco sub loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/narcosub1.jpg)In late 2019, [we posted](https://www.oldsaltblog.com/2019/12/spain-busts-first-known-trans-atlantic-narco-sub/) about [Spanish authorities seizing a narco sub](https://www.popularmechanics.com/military/navy-ships/a30085631/spain-narcosub/) loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the Gulf of Mexico for several years. The vessel seized by Spain is believed to be the first narco sub apprehended after crossing the Atlantic Ocean from South America to Europe.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/narcosub1.jpg)In late 2019, [we posted](https://www.oldsaltblog.com/2019/12/spain-busts-first-known-trans-atlantic-narco-sub/) about [Spanish authorities seizing a narco sub](https://www.popularmechanics.com/military/navy-ships/a30085631/spain-narcosub/) loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the Gulf of Mexico for several years. The vessel seized by Spain is believed to be the first narco sub apprehended after crossing the Atlantic Ocean from South America to Europe.
 
 Last month, another sub was discovered off the Spanish coast – again in the Galicia region.
 

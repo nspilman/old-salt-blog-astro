@@ -14,12 +14,12 @@ tags:
   - "JARI"
   - "the unmanned surface vessel"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/jari.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/jari.jpg"
 author: "Rick Spilman"
 description: "Both the US Navy and the Chinese Navy are working to develop \"ghost fleets\" of drone ships. The US Navy has been working on developing unmanned vessels since at least 2016. Four years ago, we posted about Sea Hunter, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/jari.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/jari.jpg)
 
 JARI, Chinese Drone
 

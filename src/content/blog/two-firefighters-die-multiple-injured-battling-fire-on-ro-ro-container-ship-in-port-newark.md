@@ -13,12 +13,12 @@ tags:
   - "Port Newark"
   - "ro-ro/container ship"
   - "vehicle fire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/grimaldiifire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/grimaldiifire.jpg"
 author: "Rick Spilman"
 description: "Two firefighters were killed on Wednesday night after they became trapped while fighting a fire on the ro-ro/container ship, Grande Costa D’Avorio, docked at Port Newark. Approximately a dozen other firefighters were reported to be injured. The fire broke out … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/grimaldiifire.jpg)[Two firefighters were killed](https://www.nj.com/essex/2023/07/2-firefighters-killed-battling-ship-cargo-fire-in-newark.html?e=5c33e11c52ff0787a33082b461be8a62&utm_source=Sailthru&utm_medium=email&utm_campaign=2-ff-killed&utm_term=Newsletter_breaking_news) on Wednesday night after they became trapped while fighting a fire on the ro-ro/container ship, [*Grande Costa D’Avorio*](https://www.marinetraffic.com/en/ais/details/ships/shipid:281391/mmsi:247311200/imo:9465382/vessel:GRANDE_COSTA_D_AVORIO), docked at Port Newark. Approximately a dozen other firefighters were reported to be injured.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/grimaldiifire.jpg)[Two firefighters were killed](https://www.nj.com/essex/2023/07/2-firefighters-killed-battling-ship-cargo-fire-in-newark.html?e=5c33e11c52ff0787a33082b461be8a62&utm_source=Sailthru&utm_medium=email&utm_campaign=2-ff-killed&utm_term=Newsletter_breaking_news) on Wednesday night after they became trapped while fighting a fire on the ro-ro/container ship, [*Grande Costa D’Avorio*](https://www.marinetraffic.com/en/ais/details/ships/shipid:281391/mmsi:247311200/imo:9465382/vessel:GRANDE_COSTA_D_AVORIO), docked at Port Newark. Approximately a dozen other firefighters were reported to be injured.
 
 The fire broke out around 9:30 p.m. The fire started on the 10th deck as crew members and local stevedores were moving cars, vans and trucks. Upon arrival, firefighters located the fire, which broke out in five to seven cars and spread to the 11th and 12th decks of the ship.
 

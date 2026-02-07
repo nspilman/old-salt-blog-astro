@@ -13,12 +13,12 @@ tags:
   - "Iceland"
   - "Westfjords"
   - "whaling ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/basquewhaler.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/basquewhaler.jpg"
 author: "Rick Spilman"
 description: "I recently came back from a voyage on a small ship along the west coast of Iceland. One of the highlights of the trip were stops in ports in the Westfjords, an isolated peninsula in the northwest of the island. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/basquewhaler.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/basquewhaler.jpg)
 
 Basque whaling ship
 

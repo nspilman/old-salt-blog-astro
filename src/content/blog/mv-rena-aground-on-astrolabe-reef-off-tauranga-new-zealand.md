@@ -13,7 +13,7 @@ tags:
   - "MV Rena"
   - "New Zealand"
   - "Tauranga"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2011/10/Rena-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Rena-1.jpg"
 author: "Rick Spilman"
 description: "The Liberian flagged container ship, MV Rena, ran aground on the Astrolabe Reef off Tauranga, New Zealand yesterday, flooding two cargo holds.   The ship is loaded with approximately 2,100 containers and has around 1,700 tonnes of heavy fuel.  There has been no spillage of … Continue reading &rarr;"
 ---

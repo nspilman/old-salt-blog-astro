@@ -12,12 +12,12 @@ tags:
   - "Grace Hopper College"
   - "Mother of computing"
   - "USS Hopper"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/ghopper2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/ghopper2.jpg"
 author: "Rick Spilman"
 description: "During Women’s History Month, it is good to remember and to honor Admiral Grace Hopper. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and a Ph.D. in mathematics from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/ghopper2.jpg)During Women’s History Month, it is good to remember and to honor [Admiral Grace Hopper](https://www.womenshistory.org/education-resources/biographies/grace-hopper). Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and a Ph.D. in mathematics from Yale. She was nicknamed “Amazing Grace” and is often referred to as the “mother of computing.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/ghopper2.jpg)During Women’s History Month, it is good to remember and to honor [Admiral Grace Hopper](https://www.womenshistory.org/education-resources/biographies/grace-hopper). Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and a Ph.D. in mathematics from Yale. She was nicknamed “Amazing Grace” and is often referred to as the “mother of computing.”
 
 In October of 2020, the [U.S. Naval Academy officially opened Hopper Hall](https://www.military.com/daily-news/2020/10/19/naval-academy-officially-opens-new-cyber-building-named-after-rear-adm-grace-hopper.html), the academy’s new center for cybersecurity studies, named in her honor.  The cybersecurity facility is the first building named after a woman at the three main service academies.
 

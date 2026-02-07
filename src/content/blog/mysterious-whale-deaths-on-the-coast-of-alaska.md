@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Since May, 30 dead whales have been found along the coast of Alaska. This compares to a total of five dead whales reported for all of last year.  According to the National Oceanic & Atmospheric Administration (NOAA) 11 fin whales, 14 … Continue reading &rarr;"
 ---
 
-![bearswhale](http://www.oldsaltblog.com/wp-content/uploads/2015/08/bearswhale.jpg)
+![bearswhale](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/bearswhale.jpg)
 
 Bears feeding on dead whale
 

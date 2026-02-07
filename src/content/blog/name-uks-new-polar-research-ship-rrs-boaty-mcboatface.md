@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The British Natural Environment Research Council (NERC) is asking for suggestions for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead.  The closing date for entries is 16th April 2016. They have gotten … Continue reading &rarr;"
 ---
 
-![Nameboat](http://www.oldsaltblog.com/wp-content/uploads/2016/03/Nameboat.jpg)The [British Natural Environment Research Council (NERC) is asking for suggestions](https://www.bas.ac.uk/media-post/news-story-suggest-a-name-for-new-polar-ship/#) for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead.  The closing date for entries is 16th April 2016.
+![Nameboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Nameboat.jpg)The [British Natural Environment Research Council (NERC) is asking for suggestions](https://www.bas.ac.uk/media-post/news-story-suggest-a-name-for-new-polar-ship/#) for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead.  The closing date for entries is 16th April 2016.
 
 They have gotten quite a response. As of this morning if you attempt to submit [your suggestion online](https://nameourship.nerc.ac.uk/), you are sent to a page which reads: “***NAME YOUR SHIP IS CURRENTLY EXPERIENCING A HIGH VOLUME OF TRAFFIC** — Our website is currently experiencing an extremely high volume of traffic. Sorry for any inconvenience caused. This team of penguins are doing their best to fix the problem! Please try again later.*”
 

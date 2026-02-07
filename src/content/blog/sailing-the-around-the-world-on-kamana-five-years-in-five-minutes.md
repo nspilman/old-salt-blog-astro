@@ -10,7 +10,7 @@ categories:
 tags:
   - "Kamana"
   - "sailing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/kamana.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/kamana.jpg"
 author: "Rick Spilman"
 description: "Here is an incredibly beautiful video shot by Enrico Tettamanti and his wife Giulia Azzalli who spent over five years exploring the globe aboard their Solaris 72 Kamana.  Truly amazing footage. Well worth just over 5 minutes of your time. … Continue reading &rarr;"
 ---

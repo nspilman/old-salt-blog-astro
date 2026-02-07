@@ -12,7 +12,7 @@ tags:
   - "Massachusetts Maritime Academy"
   - "Ryan Smith"
   - "TS Kennedy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/seatermkennedy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/seatermkennedy.jpg"
 author: "Rick Spilman"
 description: "Here is wonderful drone footage by Ryan Smith of the Massachusetts Maritime Academy‘s school ship TS Kennedy as it departs for its Sea Term 2020. The ship sails down Buzzard’s Bay bound for Panama where it will transit the Canal. … Continue reading &rarr;"
 ---

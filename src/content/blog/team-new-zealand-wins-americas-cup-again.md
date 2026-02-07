@@ -10,12 +10,12 @@ tags:
   - "America's Cup"
   - "Luna Rossa"
   - "Team New Zealand"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/kiwibow.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kiwibow.jpg"
 author: "Rick Spilman"
 description: "Team New Zealand has won the America’s Cup again, defeating Luna Rossa, seven races to three, in the waters off Aukland, New Zealand. The victory was the second in a row for a syndicate representing the Royal New Zealand Yacht … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/kiwibow.jpg)[Team New Zealand](https://emirates-team-new-zealand.americascup.com/) has won the [America’s Cup](https://www.americascup.com/) again, defeating [Luna Rossa,](https://www.lunarossachallenge.com/) seven races to three, in the waters off Aukland, New Zealand. The victory was the second in a row for a syndicate representing the Royal New Zealand Yacht Squadron, and the fourth win in the finals since 1995 for a team from New Zealand.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kiwibow.jpg)[Team New Zealand](https://emirates-team-new-zealand.americascup.com/) has won the [America’s Cup](https://www.americascup.com/) again, defeating [Luna Rossa,](https://www.lunarossachallenge.com/) seven races to three, in the waters off Aukland, New Zealand. The victory was the second in a row for a syndicate representing the Royal New Zealand Yacht Squadron, and the fourth win in the finals since 1995 for a team from New Zealand.
 
 In the America’s Cup of twenty years ago, New Zealand had a 5-0 win over Luna Rossa. This round of races started out closely matched with the first six races ending in three victories for each team. This week, however, New Zealand triumphed in light and flukey winds, racking up more four victories to retain the cup.
 

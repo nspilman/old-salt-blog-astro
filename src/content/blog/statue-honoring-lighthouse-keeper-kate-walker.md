@@ -13,12 +13,12 @@ tags:
   - "New York City"
   - "Robbins Reef Lighthouse"
   - "Staten Island Ferry landing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
 description: "New York City has announced a new statue of the late Robbins Reef Lighthouse keeper Katherine Walker which will be installed at the Staten Island Ferry landing. Though standing only 4’10\" tall and weighing around 100 pounds, Katherine Walker served … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)[New York City has announced a new statue](https://www.silive.com/news/2019/03/city-to-construct-statue-of-late-lighthouse-keeper-katherine-walker-at-ferry-landing.html) of the late [Robbins Reef Lighthouse](http://www.noblemaritime.org/robbins-reef) keeper [Katherine Walker](https://en.wikipedia.org/wiki/Katherine_Walker) which will be installed at the Staten Island Ferry landing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg)[New York City has announced a new statue](https://www.silive.com/news/2019/03/city-to-construct-statue-of-late-lighthouse-keeper-katherine-walker-at-ferry-landing.html) of the late [Robbins Reef Lighthouse](http://www.noblemaritime.org/robbins-reef) keeper [Katherine Walker](https://en.wikipedia.org/wiki/Katherine_Walker) which will be installed at the Staten Island Ferry landing.
 
 Though standing only 4’10” tall and weighing around 100 pounds, Katherine Walker served as the keeper of the [Robbins Reef Lighthouse](http://www.noblemaritime.org/robbins-reef) for 35 years, following the death of her husband. In addition to the arduous task of keeping the light burning, she also rowed across the choppy waters of Upper New York harbor, a mile each way, to take her two children to school on Staten Island, weather permitting. 
 

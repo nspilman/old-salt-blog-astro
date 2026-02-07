@@ -13,12 +13,12 @@ tags:
   - "Norwegian Coast Guard"
   - "tug"
   - "Viking Sky"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/vikingskytrack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/vikingskytrack.jpg"
 author: "Rick Spilman"
 description: "The cruise ship Viking Sky is now underway bound for the port of Molde, Norway, accompanied by a tug and support vessels. Prior to getting underway, 479 passengers were evacuated by helicopters, leaving 436 passengers and 458 crew members onboard. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/vikingskytrack.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/vikingskytrack.jpg)
 
 The ship was less than a half a ship-length off the rocks when it was able to anchor. 
 

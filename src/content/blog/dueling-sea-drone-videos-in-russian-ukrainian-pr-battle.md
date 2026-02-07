@@ -14,12 +14,12 @@ tags:
   - "sea drone"
   - "Ukraine"
   - "Yury Ivanov"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/ukrainianumv.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/ukrainianumv.jpg"
 author: "Rick Spilman"
 description: "Recent videos of a sea drone attack on a Russian warship released by Russia’s Defence Ministry and by Ukraine’s public broadcaster Suspilne tell two very different stories of the encounter. The Russian video shows a Ukrainian sea drone, a small … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/ukrainianumv.jpg)Recent videos of a sea drone attack on a Russian warship released by Russia’s Defence Ministry and by Ukraine’s public broadcaster Suspilne tell two very different stories of the encounter.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/ukrainianumv.jpg)Recent videos of a sea drone attack on a Russian warship released by Russia’s Defence Ministry and by Ukraine’s public broadcaster Suspilne tell two very different stories of the encounter.
 
 The Russian video shows a Ukrainian sea drone, a small unmanned boat packed with explosives, being destroyedmin what is described as a foiled attack. A day later, an Ukrainian video shows a successful attack, at least damaging the Russian vessel, identified as the intelligence ship *Yury Ivanov.*
 

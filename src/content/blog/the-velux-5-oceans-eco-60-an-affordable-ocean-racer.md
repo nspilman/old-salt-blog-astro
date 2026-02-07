@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this \"new\" class of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/teamlazarus.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/teamlazarus.jpg)
 
 American Brad Van Liew's Eco 60, Le Pingouin
 

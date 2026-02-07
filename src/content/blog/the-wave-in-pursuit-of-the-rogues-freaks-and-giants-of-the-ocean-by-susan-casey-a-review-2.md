@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Sea monsters exist. They break ships in half and pull them below the waves. Sometimes they swallow them whole. Most who encounter them never return to tell the tale and those few who do, until very recently, were rarely believed. … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/wave_.jpg)](http://www.amazon.com/gp/product/0767928849?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0767928849)Sea monsters exist. They break ships in half and pull them below the waves. Sometimes they swallow them whole. Most who encounter them never return to tell the tale and those few who do, until very recently, were rarely believed.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/wave_.jpg)](http://www.amazon.com/gp/product/0767928849?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0767928849)Sea monsters exist. They break ships in half and pull them below the waves. Sometimes they swallow them whole. Most who encounter them never return to tell the tale and those few who do, until very recently, were rarely believed.
 
 I am referring to rogue waves, which until only the last decade or so, have been dismissed as myths, merely sailor’s tall tales. Only in roughly the last ten or fifteen years has the existence of rogue waves been fully documented and accepted by oceanographers.  Scientists are only beginning to gain some understanding of how and where the waves rise up from the oceans to crush the unfortunate and the unlucky.
 

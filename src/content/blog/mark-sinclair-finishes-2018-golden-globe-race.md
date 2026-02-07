@@ -12,12 +12,12 @@ tags:
   - "Lello 34"
   - "Mark Sinclair"
   - "Sinclair"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/sinclair1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/sinclair1.jpg"
 author: "Rick Spilman"
 description: "On May 27, 2022, Australian solo sailor Mark Sinclair, 63, finished the 2018-2019 Golden Globe Race. He finished last and took four years to complete the race, but he finished, which is an accomplishment in its own right.  Sinclair had … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/sinclair1.jpg)On May 27, 2022, Australian solo sailor [Mark Sinclair](https://www.yachtingmonthly.com/boat-events/golden-globe-race/mark-sinclair-golden-globe-race-2022-skipper-79955), 63, finished the [2018-2019 Golden Globe Race](https://en.wikipedia.org/wiki/2018_Golden_Globe_Race). He finished last and took four years to complete the race, but he finished, which is an accomplishment in its own right. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/sinclair1.jpg)On May 27, 2022, Australian solo sailor [Mark Sinclair](https://www.yachtingmonthly.com/boat-events/golden-globe-race/mark-sinclair-golden-globe-race-2022-skipper-79955), 63, finished the [2018-2019 Golden Globe Race](https://en.wikipedia.org/wiki/2018_Golden_Globe_Race). He finished last and took four years to complete the race, but he finished, which is an accomplishment in its own right. 
 
 Sinclair had made it halfway around the world before [pulling out of the race in Australia](https://www.oldsaltblog.com/wp-admin/post.php?post=51249&action=edit) in December 2018. He calculated that he had taken too long to reach the halfway point in the race and at his current average speed would arrive too late in the season at Cape Horn. Earlier in the race, Sinclair had run perilously low on freshwater.
 

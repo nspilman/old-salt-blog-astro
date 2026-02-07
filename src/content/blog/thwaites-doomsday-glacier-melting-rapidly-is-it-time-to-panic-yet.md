@@ -13,12 +13,12 @@ tags:
   - "Rolling Stone magazine"
   - "Thwaites"
   - "US Antarctic program"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/thwaites.jpg"
 author: "Rick Spilman"
 description: "The continued rapid melting of Antarctica’s Thwaites glacier is worrying, at the very least. The glacier was dubbed \"The Doomsday Glacier\" by an article in Rolling Stone magazine in 2017. At 80 miles across, Thwaites is the widest glacier in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/thwaites.jpg)
 
 The calving front of Thwaites Ice Shelf in 2012. Photo by JamesYungel | NASA IceBridge.
 

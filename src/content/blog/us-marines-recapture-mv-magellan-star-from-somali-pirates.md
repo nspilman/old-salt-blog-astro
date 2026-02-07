@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Twenty-four U.S. Marines from the 15th Marine Expeditionary Unit’s Maritime Raid Force stormed the German-owned containership M/V Magellan Star today, capturing the pirates that had seized control of the ship in the Gulf of Aden off the coast of Somalia.   No … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/image6849617g.jpg)Twenty-four U.S. Marines from the 15th Marine Expeditionary Unit’s Maritime Raid Force stormed the German-owned containership *[M/V Magellan Star](http://www.marinetraffic.com/ais/shipdetails.aspx?mmsi=304408000)* today, capturing the pirates that had seized control of the ship in the Gulf of Aden off the coast of Somalia.   No shots were fired and there were no injuries.  The crew had locked themselves in a safe room aboard the ship to await the arrival of assistance.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/image6849617g.jpg)Twenty-four U.S. Marines from the 15th Marine Expeditionary Unit’s Maritime Raid Force stormed the German-owned containership *[M/V Magellan Star](http://www.marinetraffic.com/ais/shipdetails.aspx?mmsi=304408000)* today, capturing the pirates that had seized control of the ship in the Gulf of Aden off the coast of Somalia.   No shots were fired and there were no injuries.  The crew had locked themselves in a safe room aboard the ship to await the arrival of assistance.
 
 [U.S. forces board pirate-captured vessel, seize control](http://www.cnn.com/2010/WORLD/africa/09/09/us.somalia.pirates/index.html?eref=mrss_igoogle_cnn)  
   

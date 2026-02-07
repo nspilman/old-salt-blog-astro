@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Well planned passive resistance proved to be an effective tactic for the crew of the MV Lugela this weekend.  Earlier this month we posted about the hijacking and subsequent recapture of the M/V Magellan Star from Somali pirates by US Marine commandos, after … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/LUGELA.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/LUGELA.jpg)
 
 Photo: T. Michalis - MarineTraffic.com
 

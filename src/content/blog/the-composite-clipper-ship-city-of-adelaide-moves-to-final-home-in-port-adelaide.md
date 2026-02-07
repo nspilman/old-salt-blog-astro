@@ -15,12 +15,12 @@ tags:
   - "Port Adelaide"
   - "Port River"
   - "South Australia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/coaashor2e.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/coaashor2e.jpg"
 author: "Rick Spilman"
 description: "Sometimes the final miles can take the longest to travel. A full decade after being carried by heavy-lift ship over 10,000 nautical miles from Scotland to her namesake port city, City of Adelaide, the oldest surviving composite clipper ship in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/coaashor2e.jpg)Sometimes the final miles can take the longest to travel. A full decade after being carried by heavy-lift ship over 10,000 nautical miles from Scotland to her namesake port city, [*City of Adelaide*](https://www.cityofadelaide.com.au/about-adelaide/city-of-adelaide-clipper-ship/), the oldest surviving composite clipper ship in the world, has finally been moved ashore to its final berth at Dock Two at Port Adelaide. The 160-year-old clipper ship will become the centerpiece of a proposed new maritime heritage precinct, showcasing the Port’s colorful and important role in the development of South Australia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/coaashor2e.jpg)Sometimes the final miles can take the longest to travel. A full decade after being carried by heavy-lift ship over 10,000 nautical miles from Scotland to her namesake port city, [*City of Adelaide*](https://www.cityofadelaide.com.au/about-adelaide/city-of-adelaide-clipper-ship/), the oldest surviving composite clipper ship in the world, has finally been moved ashore to its final berth at Dock Two at Port Adelaide. The 160-year-old clipper ship will become the centerpiece of a proposed new maritime heritage precinct, showcasing the Port’s colorful and important role in the development of South Australia.
 
 More than 250,000 Australians can trace their ancestry through the clipper ship as it worked the Britain-Adelaide migrant route.
 

@@ -10,12 +10,12 @@ tags:
   - "Kazanets"
   - "refrigerated ship"
   - "Russian Navy corvette"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/icerose.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/icerose.jpg"
 author: "Rick Spilman"
 description: "The Danish Ministry of Defense has confirmed that the Russian Navy corvette, Kazanets, collided with the refrigerated cargo vessel, Ice Rose, in dense fog, near the Øresund Bridge, which spans the entrance to the Baltic.   The Russian ship, a Parchim-class … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/icerose.jpg)The Danish Ministry of Defense has confirmed that the Russian Navy corvette, *Kazanets*, collided with the refrigerated cargo vessel, *[Ice Rose](https://www.balticshipping.com/vessel/imo/8311106),* in dense fog, near the Øresund Bridge, which spans the entrance to the Baltic.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/icerose.jpg)The Danish Ministry of Defense has confirmed that the Russian Navy corvette, *Kazanets*, collided with the refrigerated cargo vessel, *[Ice Rose](https://www.balticshipping.com/vessel/imo/8311106),* in dense fog, near the Øresund Bridge, which spans the entrance to the Baltic.  
 
 The Russian ship, a [Parchim-class corvette](https://en.wikipedia.org/wiki/Parchim-class_corvette), is reported to have been operating with this AIS turned off. The corvette is said to have suffered a hull breach above the waterline and to have proceeded under its own power toward the Baltiysk Naval Base, Kaliningrad Region, Russia.
 

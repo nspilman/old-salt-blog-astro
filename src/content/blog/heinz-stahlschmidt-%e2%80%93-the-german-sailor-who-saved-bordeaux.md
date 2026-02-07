@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Heinz Stahlschmidt, a renegade former member of Germany’s World War Two navy, who thwarted plans to wreck the French port of Bordeaux by retreating Nazi forces, has died at the age of 91, officials said.  Thanks to Andy Hall at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/heinzstahlschmidt.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/heinzstahlschmidt.jpg)
 
 Heinz Stahlschmidt
 

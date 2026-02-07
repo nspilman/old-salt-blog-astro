@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The wreck of HMS Tarpon, a British submarine sunk by a German Q-ship during World War II, was discovered last March in the North Sea, near Thyborøn, Denmark. The wreck was discovered in 40 meters of water by a Danish … Continue reading &rarr;"
 ---
 
-![hmstarpon](http://www.oldsaltblog.com/wp-content/uploads/2016/09/hmstarpon.jpg)
+![hmstarpon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/hmstarpon.jpg)
 
 British T Class Submarine
 

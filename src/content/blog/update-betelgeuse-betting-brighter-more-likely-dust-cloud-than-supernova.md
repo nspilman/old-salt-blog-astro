@@ -11,12 +11,12 @@ tags:
   - "Orion"
   - "red giant"
   - "supernova"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/bbrightdim.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/bbrightdim.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the red giant navigational star Betelgeuse in the constellation Orion, which was observed to be growing significantly dimmer. Not a little dimmer but about 40% dimmer. Some astronomers speculated that the dimming suggested that the star … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/bbrightdim.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/bbrightdim.jpg)
 
 Betelgeuse, with and without dust cloud
 

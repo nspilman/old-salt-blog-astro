@@ -11,12 +11,12 @@ tags:
   - "oysters"
   - "Thomas Downing"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/tdowning.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/tdowning.jpg"
 author: "Rick Spilman"
 description: "In the decades before the Civil War, Thomas Downing, the son of slaves, became the acknowledged oyster king of New York City when New York was the oyster capital of the known universe.  He had learned how to rake oysters … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/tdowning.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/tdowning.jpg)
 
 Image: NY Public Library
 

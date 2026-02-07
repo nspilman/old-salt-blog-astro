@@ -9,12 +9,12 @@ categories:
 tags:
   - "Golden Globe Race"
   - "Susie Goodall"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/susiegoodall.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/susiegoodall.jpg"
 author: "Rick Spilman"
 description: "British sailor Susie Goodall‘s Rustler 36 yacht, DHL Starlight, is reported to have been pitchpoled and been dismasted in the Southern Ocean, approximately 2,000 miles west of Cape Horn. Goodall was racing in the Golden Globe single-handed around the world race and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/susiegoodall.jpg)British sailor [Susie Goodall](https://goldengloberace.com/skipper/susie-goodall/)‘s Rustler 36 yacht, *DHL Starlight*, is reported to have been pitchpoled and been dismasted in the Southern Ocean, approximately 2,000 miles west of Cape Horn. Goodall was racing in the Golden Globe single-handed around the world race and was knocked unconscious when the boat rolled end over end. When she came to, she activated her EPIRB (Emergency Position Indicating Beacon) and sent the following message to race officials:*DISMASTED. HULL OK. NO FORM OF JURY RIG, TOTAL LOSS Position: 45′ 27.787 S 122′ 23.537 W.*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/susiegoodall.jpg)British sailor [Susie Goodall](https://goldengloberace.com/skipper/susie-goodall/)‘s Rustler 36 yacht, *DHL Starlight*, is reported to have been pitchpoled and been dismasted in the Southern Ocean, approximately 2,000 miles west of Cape Horn. Goodall was racing in the Golden Globe single-handed around the world race and was knocked unconscious when the boat rolled end over end. When she came to, she activated her EPIRB (Emergency Position Indicating Beacon) and sent the following message to race officials:*DISMASTED. HULL OK. NO FORM OF JURY RIG, TOTAL LOSS Position: 45′ 27.787 S 122′ 23.537 W.*
 
 Race officials report that they reached Goodall by satellite phone and she said: *“I have been dismasted. Thought I had holed the hull because the boat filled with water, but the hull is NOT holed. The hull is OK.*
 

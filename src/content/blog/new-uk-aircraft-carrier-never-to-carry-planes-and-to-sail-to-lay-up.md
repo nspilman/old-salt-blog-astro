@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "This morning we posted about the possibility of the immediate lay-up of the UK’s flagship, the aircraft carrier Ark Royal. We now read that one of the two new £3 billion aircraft carriers will never carry aircraft and may sail  into lay-up or be put … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/aircraftc.jpg)This morning we posted about the possibility of the immediate lay-up of the UK’s flagship, the aircraft carrier *Ark Royal*. We now read that one of the two new £3 billion aircraft carriers will never carry aircraft and may sail  into lay-up or be put up for sale, shortly after she is delivered.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/aircraftc.jpg)This morning we posted about the possibility of the immediate lay-up of the UK’s flagship, the aircraft carrier *Ark Royal*. We now read that one of the two new £3 billion aircraft carriers will never carry aircraft and may sail  into lay-up or be put up for sale, shortly after she is delivered.
 
 [Navy aircraft carrier will be sold after three years – and never carry jets](http://www.telegraph.co.uk/news/newstopics/politics/defence/8072041/Navy-aircraft-carrier-will-be-sold-after-three-years-and-never-carry-jets.html)  
   

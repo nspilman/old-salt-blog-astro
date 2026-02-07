@@ -15,12 +15,12 @@ tags:
   - "superyacht"
   - "Ukraine"
   - "US investment bank"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/Axomia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/Axomia.jpg"
 author: "Rick Spilman"
 description: "Axioma, a $75-million superyacht linked to a sanctioned Russian steel billionaire, was auctioned on Tuesday in Gibraltar, court sources said, in what is understood to be the first sale of its kind since Russia invaded Ukraine in February. The 72.5-meter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/Axomia.jpg)*[Axioma](https://www.yachtcharterfleet.com/luxury-charter-yacht-22231/axioma.htm)*, a $75-million superyacht linked to a sanctioned Russian steel billionaire, was auctioned on Tuesday in Gibraltar, court sources said, in what is understood to be the first sale of its kind since Russia invaded Ukraine in February.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/Axomia.jpg)*[Axioma](https://www.yachtcharterfleet.com/luxury-charter-yacht-22231/axioma.htm)*, a $75-million superyacht linked to a sanctioned Russian steel billionaire, was auctioned on Tuesday in Gibraltar, court sources said, in what is understood to be the first sale of its kind since Russia invaded Ukraine in February.
 
 The 72.5-meter yacht was impounded by the Gibraltar authorities in March after U.S. bank JP Morgan said its alleged owner Dmitry Pumpyansky had defaulted on the terms of a $20 million loan.
 

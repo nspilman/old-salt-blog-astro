@@ -14,12 +14,12 @@ tags:
   - "Newfoundland"
   - "smallest boat to cross the Atlantic"
   - "St Johns"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/bigc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/bigc.jpg"
 author: "Rick Spilman"
 description: "A year ago, we posted about Andrew Bedwell, who planned on attempting to set a new world record for sailing the smallest boat to cross the Atlantic. His vessel, Big C is just over 1m/3.2ft long. On Saturday, Bedwell set … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/bigc.jpg)A year ago, [we posted about Andrew Bedwell](https://www.oldsaltblog.com/2022/05/solo-sailor-on-tiny-big-c-hopes-to-set-record-for-smallest-boat-to-cross-the-atlantic/), who planned on attempting to set a new world record for sailing the smallest boat to cross the Atlantic. His vessel, *Big C* is just over 1m/3.2ft long.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/bigc.jpg)A year ago, [we posted about Andrew Bedwell](https://www.oldsaltblog.com/2022/05/solo-sailor-on-tiny-big-c-hopes-to-set-record-for-smallest-boat-to-cross-the-atlantic/), who planned on attempting to set a new world record for sailing the smallest boat to cross the Atlantic. His vessel, *Big C* is just over 1m/3.2ft long.
 
 On Saturday, Bedwell set sail from St Johns, Newfoundland bound for Lizard Point in Cornwall. On the first day of the planned 1,900 nm voyage, however, his boat started to take on water, and he thought it best to turn around. 
 

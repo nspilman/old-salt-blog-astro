@@ -11,12 +11,12 @@ tags:
   - "Bert Rogers"
   - "Tall &amp; Historic Ships"
   - "Tall Ships America"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/brogers.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/brogers.jpg"
 author: "Rick Spilman"
 description: "We were deeply saddened to learn of the death of Bert Rogers, the long-time Executive Director of Tall Ships America, who died of a heart attack. Our condolences to his family and all those who cared for him. Bert’s seafaring … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/brogers.jpg)We were deeply saddened to learn of the death of [Bert Rogers](http://www.tallshipsamerica.org/about/board/Rogers.php), the long-time Executive Director of [Tall Ships America](http://www.tallshipsamerica.org), who died of a heart attack. Our condolences to his family and all those who cared for him.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/brogers.jpg)We were deeply saddened to learn of the death of [Bert Rogers](http://www.tallshipsamerica.org/about/board/Rogers.php), the long-time Executive Director of [Tall Ships America](http://www.tallshipsamerica.org), who died of a heart attack. Our condolences to his family and all those who cared for him.
 
 Bert’s seafaring career began in 1978 when he joined the brigantine *Romance* on which he sailed for almost three years and circumnavigated the globe. He would go on to serve as bos’n, rigger, mate, and captain aboard many future sailing school vessels including *Regina Maris*, *Sea Cloud*, *Elizabeth II*, *Mayflower II*, *Lindo/Alexandria* and the *Spirit of Massachusetts*. 
 

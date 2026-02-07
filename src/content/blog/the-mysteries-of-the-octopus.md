@@ -11,7 +11,7 @@ tags:
   - "New England Aquarium"
   - "octopus"
   - "Sy Montgomery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/cbsoctopus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/cbsoctopus.jpg"
 author: "Rick Spilman"
 description: "This morning’s CBS Sunday Morning news program had an intriguing featuring the octopus, in particular, and cephalopods, in general. Both unworldly and highly intelligent they are as close to alien life forms as one can find on the planet. CBS’s … Continue reading &rarr;"
 ---

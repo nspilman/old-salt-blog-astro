@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The car carrier, Baltic Ace, is reported to have collided with the container ship, Corvus J, this evening in crowded shipping lanes around 60 miles off the coast of Rotterdam.  The Baltic Ace is believed to have sunk. Her crew of 24 took to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/12/Baltic_Ace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Baltic_Ace.jpg)
 
 Baltic Ace
 

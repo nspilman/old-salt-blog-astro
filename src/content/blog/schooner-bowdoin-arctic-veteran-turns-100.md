@@ -13,12 +13,12 @@ tags:
   - "Maine"
   - "Maine Maritime Academy"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/bowdoin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bowdoin.jpg"
 author: "Rick Spilman"
 description: "The schooner Bowdoin turned 100 years old this year. She was designed by William H. Hand, Jr., and built in East Boothbay, Maine, at the Hodgdon Brothers Shipyard. The only American schooner built specifically for Arctic exploration, she was designed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/bowdoin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bowdoin.jpg)
 
 Photo: Tom Stewart
 

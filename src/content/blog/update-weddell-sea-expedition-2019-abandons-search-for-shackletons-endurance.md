@@ -14,12 +14,12 @@ tags:
   - "Shackleton"
   - "Weddell Sea"
   - "Weddell Sea Expedition 2019"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/04/enduranceice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/enduranceice.jpg"
 author: "Rick Spilman"
 description: "It was a long-shot from the beginning. The Weddell Sea Expedition 2019 had dispatched the icebreaking polar-supply and research-vessel SA Agulhas II to study Antarctica’s Larsen C ice sheet. While in the area, the expedition attempted to locate Sir Ernest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/enduranceice.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/enduranceice.jpg)
 
 Endurance caught in the ice
 

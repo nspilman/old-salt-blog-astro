@@ -10,12 +10,12 @@ tags:
   - "cruise ship"
   - "Dr. Robert R. Redfield"
   - "No-Sail Orders"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg"
 author: "Rick Spilman"
 description: "The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of \"No-Sail Orders\" which have kept the ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg)The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of “[No-Sail Orders](http://www.oldsaltblog.com/2020/04/cdc-modifies-extends-no-sail-order-for-all-cruise-ships/)” which have kept the ships in port ever since. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg)The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of “[No-Sail Orders](http://www.oldsaltblog.com/2020/04/cdc-modifies-extends-no-sail-order-for-all-cruise-ships/)” which have kept the ships in port ever since. 
 
 Now the [New York Times](https://www.nytimes.com/2020/09/30/health/covid-cruise-ships.html?searchResultPosition=1) is reporting that the White House has blocked a new order from the Centers for Disease Control and Prevention to keep cruise ships docked until mid-February, a step that would have displeased the politically powerful tourism industry in the crucial swing state of Florida.
 

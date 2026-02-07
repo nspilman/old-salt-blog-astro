@@ -14,12 +14,12 @@ tags:
   - "LNG"
   - "Maiden Voyage"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/iconoftheseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/iconoftheseas.jpg"
 author: "Rick Spilman"
 description: "On Saturday, the world’s largest cruise ship, Royal Caribbean’s Icon of the Seas, set sail from Miami on its maiden voyage. The nearly 1,200-foot-long and 250,800 gross-ton behemoth can accommodate close to 8,000 passengers across 20 decks. The ship is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/iconoftheseas.jpg)On Saturday, the world’s largest cruise ship, Royal Caribbean’s [*Icon of the Seas*](https://en.wikipedia.org/wiki/Icon_of_the_Seas), set sail from Miami on its maiden voyage. The nearly 1,200-foot-long and 250,800 gross-ton behemoth can accommodate close to 8,000 passengers across 20 decks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/iconoftheseas.jpg)On Saturday, the world’s largest cruise ship, Royal Caribbean’s [*Icon of the Seas*](https://en.wikipedia.org/wiki/Icon_of_the_Seas), set sail from Miami on its maiden voyage. The nearly 1,200-foot-long and 250,800 gross-ton behemoth can accommodate close to 8,000 passengers across 20 decks.
 
 The ship is the first Royal Caribbean vessel to be powered by liquefied natural gas (LNG), which the company claims sets a new standard for sustainability with the use of energy-efficient technology designed to minimize the ship’s carbon footprint and move closer to the company’s goal of introducing a net-zero ship by 2035.
 

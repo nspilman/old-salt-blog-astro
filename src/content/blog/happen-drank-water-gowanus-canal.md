@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Christopher Swain's recent swim in New York's Gowanus Canal raises the question, what would happen if you drank the water in the Gowanus Canal ?"
 ---
 
-![Photo:Kirsten Luce for The New York Times](http://www.oldsaltblog.com/wp-content/uploads/2015/04/GOWANUS2.jpg)
+![Photo:Kirsten Luce for The New York Times](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/GOWANUS2.jpg)
 
 Photo:Kirsten Luce for The New York Times
 

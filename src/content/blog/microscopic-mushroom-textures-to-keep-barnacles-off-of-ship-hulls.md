@@ -10,12 +10,12 @@ tags:
   - "antifouling"
   - "barnacles"
   - "Texture"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/micromushrooms.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/micromushrooms.jpg"
 author: "Rick Spilman"
 description: "For most of history, the only way to keep ship and boat hulls from fouling with barnacles was to put some sort of material toxic to marine growth on vessel hulls. Copper sheathing was one of the first effective, albeit costly, forms … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/micromushrooms.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/micromushrooms.jpg)
 
 A microscopic image of the mushroom-shaped silicone surface used in the experiment. Photo: Lars Heepe
 

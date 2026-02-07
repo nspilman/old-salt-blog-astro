@@ -12,12 +12,12 @@ tags:
   - "Tonga"
   - "tsunami"
   - "underwater eruption"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/tongaeruption.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/tongaeruption.jpg"
 author: "Rick Spilman"
 description: "Tsunami waves caused by a major underwater eruption of the Hunga Tonga-Hunga Haʻapai volcano have hit the Pacific country of Tonga. A tsunami warning sent residents scrambling to higher ground. Tonga’s capital lies just 65km north of the volcano, on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/tongaeruption.jpg)Tsunami waves caused by a major underwater eruption of the Hunga Tonga-Hunga Haʻapai volcano have hit the Pacific country of Tonga. A tsunami warning sent residents scrambling to higher ground. Tonga’s capital lies just 65km north of the volcano, on the country’s main island of Tongatapu.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/tongaeruption.jpg)Tsunami waves caused by a major underwater eruption of the Hunga Tonga-Hunga Haʻapai volcano have hit the Pacific country of Tonga. A tsunami warning sent residents scrambling to higher ground. Tonga’s capital lies just 65km north of the volcano, on the country’s main island of Tongatapu.
 
 The eruption was heard across the South Pacific, reportedly as far as New Zealand and Australia. The plumes of gas, smoke and ash pouring from the volcano reached 20km into the sky, Tonga Geological Services said.
 

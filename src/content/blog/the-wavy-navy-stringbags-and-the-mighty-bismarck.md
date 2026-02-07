@@ -14,12 +14,12 @@ tags:
   - "Jock Moffatt"
   - "stringbag"
   - "Wavy Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/stringbag1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/stringbag1.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the death of John \"Jock\" Moffatt, at 97, the Scottish pilot credited with disabling the German battleship Bismarck with a torpedo fired from his Fairey Swordfish biplane in May 1941. In the post, we included a photo of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/bobby-lawson_1636357c.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/bobby-lawson_1636357c.jpg)
 
   
 (From left) Eric Margetts, Bobby Lawson, John Moffat, Buster May and Glen Evans
@@ -34,7 +34,7 @@ In the [Battle of Denmark Strait](https://en.wikipedia.org/wiki/Battle_of_the_De
 
 The “Wavy Navy” pilots were flying lumbering biplanes which were considered obsolete by many when they first came off the assembly line in 1936.  They had a metal frame but were covered in a skin of canvas. They had open cockpits, fixed wheels, were terribly slow and carried two machine guns which [one pilot described as “one stage above the bow and arrow.”](http://warfarehistorynetwork.com/daily/wwii/wwii-weapons-the-fairey-swordfish-torpedo-plane-a-k-a-stringbag/)  Early on, they earned the nickname “stringbag,” because like a shopper’s stringbag, they could carry almost anything. On May 24, the stringbags each carried a torpedo.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/stringbag1.jpg)Despite their shortcomings, as bi-planes, the Swordfish “stringbags” could take off in a very short space, which made them perfect for the small flight decks of the aircraft carriers of the day. They were also remarkably rugged, able to survive carrier landings and enemy bullets which passed cleanly through their canvas skins. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/stringbag1.jpg)Despite their shortcomings, as bi-planes, the Swordfish “stringbags” could take off in a very short space, which made them perfect for the small flight decks of the aircraft carriers of the day. They were also remarkably rugged, able to survive carrier landings and enemy bullets which passed cleanly through their canvas skins. 
 
 Moffatt’s squadron of 15 stringbags attacked the *Bismarck* at almost wave top level despite heavy anti-aircraft fire. [All planes returned to the Ark Royal](http://ww2today.com/26th-may-1940-torpedo-attack-on-the-bismarck) and only one pilot and one gunner were wounded. 
 

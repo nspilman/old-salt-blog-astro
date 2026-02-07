@@ -11,12 +11,12 @@ tags:
   - "National Oceanic and Atmospheric Administration"
   - "nautical charts"
   - "UK Hydrographic Office"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/admiraltychart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/admiraltychart.jpg"
 author: "Rick Spilman"
 description: "In 2019, the US National Oceanic and Atmospheric Administration (NOAA ) announced that it was phasing out the production of traditional paper nautical charts over a five-year period. NOAA intends to focus on improving the fully electronic navigational charts (ENCs) … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/admiraltychart.jpg)In 2019, the US National Oceanic and Atmospheric Administration (NOAA ) announced that it was [phasing out the production of traditional paper nautical charts](https://www.oldsaltblog.com/2019/11/noaa-phasing-out-paper-chart-production/) over a [five-year period](https://www.noaa.gov/media-release/noaa-begins-transition-exclusively-to-electronic-navigation-charts). NOAA intends to focus on improving the fully electronic navigational charts (ENCs) that they provide.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/admiraltychart.jpg)In 2019, the US National Oceanic and Atmospheric Administration (NOAA ) announced that it was [phasing out the production of traditional paper nautical charts](https://www.oldsaltblog.com/2019/11/noaa-phasing-out-paper-chart-production/) over a [five-year period](https://www.noaa.gov/media-release/noaa-begins-transition-exclusively-to-electronic-navigation-charts). NOAA intends to focus on improving the fully electronic navigational charts (ENCs) that they provide.
 
 Now, the UK Hydrographic Office (UKHO) has [announced it will stop producing Admiralty paper charts](https://www.yachtingmonthly.com/news/admiralty-paper-charts-to-cease-88829) by late 2026 to likewise increase its focus on its digital navigation products and services. Admiralty charts are the most widely used paper charts globally.
 

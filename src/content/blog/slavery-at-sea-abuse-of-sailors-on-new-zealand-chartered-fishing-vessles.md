@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A disturbing report from New Zealand on abusive conditions for  seamen  aboard  chartered  fishing vessels in New Zealand waters. Slavery at sea exposed Alerted to terrible conditions on foreign fishing vessels after nearly 30 people lost their lives, Michael Field began asking questions. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/4841654.jpg)A disturbing report from New Zealand on abusive conditions for  seamen  aboard  chartered  fishing vessels in New Zealand waters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/4841654.jpg)A disturbing report from New Zealand on abusive conditions for  seamen  aboard  chartered  fishing vessels in New Zealand waters.
 
 [Slavery at sea exposed](http://www.stuff.co.nz/national/4841777/Slavery-at-sea-exposed)
 

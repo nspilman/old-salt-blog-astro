@@ -11,12 +11,12 @@ tags:
   - "ex-Flying Clipper"
   - "Golden Horizon"
   - "Tradewind Voyages"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/goldenhorizon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/goldenhorizon.jpg"
 author: "Rick Spilman"
 description: "While this may not appear to be the best time to start a new cruise venture, if all goes well, in the Spring of 2021, Tradewind Voyages will offer voyages on the Golden Horizon, a 272 passenger five-masted barque.  Setting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/goldenhorizon.jpg)While this may not appear to be the best time to start a new cruise venture, if all goes well, in the Spring of 2021, [Tradewind Voyages](https://www.facebook.com/TradewindVoyages/) will offer voyages on the *Golden Horizon*, a 272 passenger five-masted barque.  Setting 68,000 square feet of sail, or over twice the sail area of the clipper ship *Cutty Sark*, she is the largest square-rigged sailing ship in the world.  The design of the ship was inspired by the *[France II](https://en.wikipedia.org/wiki/France_II),* built in 1913.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/goldenhorizon.jpg)While this may not appear to be the best time to start a new cruise venture, if all goes well, in the Spring of 2021, [Tradewind Voyages](https://www.facebook.com/TradewindVoyages/) will offer voyages on the *Golden Horizon*, a 272 passenger five-masted barque.  Setting 68,000 square feet of sail, or over twice the sail area of the clipper ship *Cutty Sark*, she is the largest square-rigged sailing ship in the world.  The design of the ship was inspired by the *[France II](https://en.wikipedia.org/wiki/France_II),* built in 1913.
 
 Some of this may sound familiar. For the last five years, we have been following [the construction of the *Flying Clipper*](http://www.oldsaltblog.com/2017/06/update-flying-clipper-worlds-largest-square-rigged-sailing-ship-launched/) for [Star Clipper Lines](https://www.starclippers.com/us-dom).  Last year [we posted about a contract dispute](http://www.oldsaltblog.com/2019/10/flying-clipper-worlds-largest-square-rigged-sailing-ship-on-trials-in-limbo/) between Star Clipper and the Croatian shipyard [Brodosplit](https://en.wikipedia.org/wiki/Brodosplit). Unable to come to terms, the shipyard took over the ship.  Reportedly, Brodosplit still owns the square-rigger which is, or will be, chartered to the UK based Tradewind. 
 

@@ -11,12 +11,12 @@ tags:
   - "John Henry Turpin"
   - "USS Bennington"
   - "USS Maine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/turpin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/turpin.jpg"
 author: "Rick Spilman"
 description: "John Henry Turpin was one of the first Black Chief Petty Officers to serve in the United States Navy. He was also a survivor of two naval disasters — the catastrophic explosions of the USS Maine in 1898, and USS Bennington in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/turpin.jpg)[John Henry Turpin](https://en.wikipedia.org/wiki/John_Henry_Turpin) was one of the first Black Chief Petty Officers to serve in the United States Navy. He was also a survivor of two naval disasters — the catastrophic explosions of the [USS *Maine*](https://en.wikipedia.org/wiki/USS_Maine_\(1889\)) in 1898, and [USS *Bennington*](https://en.wikipedia.org/wiki/USS_Bennington_\(PG-4\) "USS Bennington (PG-4)") in 1905.  He was one of 12 sailors nominated for the Medal of Honor for their efforts in rescuing their fellow crew members on the *Bennington*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/turpin.jpg)[John Henry Turpin](https://en.wikipedia.org/wiki/John_Henry_Turpin) was one of the first Black Chief Petty Officers to serve in the United States Navy. He was also a survivor of two naval disasters — the catastrophic explosions of the [USS *Maine*](https://en.wikipedia.org/wiki/USS_Maine_\(1889\)) in 1898, and [USS *Bennington*](https://en.wikipedia.org/wiki/USS_Bennington_\(PG-4\) "USS Bennington (PG-4)") in 1905.  He was one of 12 sailors nominated for the Medal of Honor for their efforts in rescuing their fellow crew members on the *Bennington*.
 
 Turpin was born in Long Branch, NJ in 1876. He enlisted in the Navy at age 20, as a Messman, one of the only positions available to Black sailors at the time. 
 

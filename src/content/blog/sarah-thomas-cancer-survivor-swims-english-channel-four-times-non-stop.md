@@ -12,12 +12,12 @@ tags:
   - "English channel"
   - "four times non-stop"
   - "Sarah Thomas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/sarah-thomas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/sarah-thomas.jpg"
 author: "Rick Spilman"
 description: "In November 2017, Sarah Thomas, a marathon swimmer from Colorado, was diagnosed with an aggressive form of breast cancer. She underwent chemotherapy, surgery, and radiation to fight the disease. One of the ways she coped was by continuing to swim. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/sarah-thomas.jpg)In November 2017, [Sarah Thomas](https://www.facebook.com/SarahThomasMarathonSwimmer/posts/2583391475059091?__tn__=-R), a marathon swimmer from Colorado, was diagnosed with an aggressive form of breast cancer. She underwent chemotherapy, surgery, and radiation to fight the disease. One of the ways she coped was by continuing to swim.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/sarah-thomas.jpg)In November 2017, [Sarah Thomas](https://www.facebook.com/SarahThomasMarathonSwimmer/posts/2583391475059091?__tn__=-R), a marathon swimmer from Colorado, was diagnosed with an aggressive form of breast cancer. She underwent chemotherapy, surgery, and radiation to fight the disease. One of the ways she coped was by continuing to swim.
 
 And cope she has indeed. From Sunday to Tuesday, over a period of 54 hours, [Sarah Thomas, 37, swam the English Channel four times, nonstop](https://www.theguardian.com/society/2019/sep/17/cancer-survivor-sarah-thomas-first-person-swim-channel-four-times-non-stop), becoming the first person ever on record to do so. Only one year out of treatment for cancer, she swam nearly 134 miles (215km) in the open sea, a swim made more challenging by strong tides and choppy conditions. 
 

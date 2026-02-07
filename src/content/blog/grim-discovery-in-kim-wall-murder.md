@@ -13,12 +13,12 @@ tags:
   - "Peter Madsen"
   - "submarine"
   - "UC3 Nautilus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/kimwall2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/kimwall2.jpg"
 author: "Rick Spilman"
 description: "The Danish police made a grim discovery in the murder of Kim Wall. On Friday, divers discovered the severed head, legs and arms of the Swedish journalist, as well as some of her clothing and a knife. The body parts … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/kimwall2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/kimwall2.jpg)
 
 Kim Wall
 

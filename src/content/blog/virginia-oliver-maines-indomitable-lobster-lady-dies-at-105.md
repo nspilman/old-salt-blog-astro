@@ -12,12 +12,12 @@ tags:
   - "Maine"
   - "Penobscott Bay"
   - "Virginia Oliver"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2026/01/Ginnyoliver.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/Ginnyoliver.jpg"
 author: "Rick Spilman"
 description: "Virginia \" Ginny\" Oliver has hauled her last lobster pot. Widely known as  Maine’s \"Lobster Lady,\" she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling … Continue reading &rarr;"
 ---
 
-![](https://oldsaltblog.com/wp-content/uploads/2026/01/Ginnyoliver.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/Ginnyoliver.jpg)  
 Virginia ” Ginny” Oliver has hauled her last lobster pot. Widely known as  Maine’s “Lobster Lady,” she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling traps on Penobscott Bay.
 
 “Ginny” gained national and international attention for continuing to lobster well past her 100th birthday, becoming a symbol of longevity, resilience, and Maine’s working waterfront.

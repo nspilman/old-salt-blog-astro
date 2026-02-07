@@ -11,7 +11,7 @@ tags:
   - "carbon-neutral"
   - "green methanol"
   - "Maersk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/maerskmethanol.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/maerskmethanol.jpg"
 author: "Rick Spilman"
 description: "Earlier this year we posted Maersk Bets on Methanol — Orders One Feeder and Eight Large Dual Fuel Containerships. The feeder vessel is expected to be delivered in 2023, with the first of the eight 16,000 TEU ships, built by … Continue reading &rarr;"
 ---

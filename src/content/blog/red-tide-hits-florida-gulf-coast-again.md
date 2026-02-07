@@ -13,12 +13,12 @@ tags:
   - "red tide"
   - "St. Petersburg"
   - "Tampa Bay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/redtide.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/redtide.jpg"
 author: "Rick Spilman"
 description: "A recent editorial headline in the Tampa Bay Times read \"In St. Petersburg, climate change smells like rotting fish\" and was subtitled \"A massive fish kill reminds us how climate change can suddenly wash up on our shores.\" The latest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/redtide.jpg)A recent editorial headline in the Tampa Bay Times read [“In St. Petersburg, climate change smells like rotting fish”](https://www.tampabay.com/opinion/2021/07/13/in-st-petersburg-climate-change-smells-like-rotting-fish-editorial/) and was subtitled “A massive fish kill reminds us how climate change can suddenly wash up on our shores.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/redtide.jpg)A recent editorial headline in the Tampa Bay Times read [“In St. Petersburg, climate change smells like rotting fish”](https://www.tampabay.com/opinion/2021/07/13/in-st-petersburg-climate-change-smells-like-rotting-fish-editorial/) and was subtitled “A massive fish kill reminds us how climate change can suddenly wash up on our shores.”
 
 The latest round of red tide has returned to the waters of Florida’s Gulf Coast.
 

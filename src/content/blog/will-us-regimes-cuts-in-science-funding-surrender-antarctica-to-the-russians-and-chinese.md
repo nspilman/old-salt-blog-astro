@@ -13,12 +13,12 @@ tags:
   - "National Science Foundation"
   - "polar science"
   - "Russian"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/antarctica1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/antarctica1.jpg"
 author: "Rick Spilman"
 description: "Under one of the most successful treaties in the world, Antarctica has been a refuge for peace and science. Military activity has been prohibited, and the environment has been protected. The Antarctic Treaty, in force since 1961, promotes international collaboration … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/antarctica1.jpg)Under one of the most successful treaties in the world, Antarctica has been a refuge for peace and science. Military activity has been prohibited, and the environment has been protected. The [Antarctic Treaty](https://www.ats.aq/index_e.html), in force since 1961, promotes international collaboration and lays aside the territorial claims of seven countries, which have all agreed not to act on their claimed ownership.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/antarctica1.jpg)Under one of the most successful treaties in the world, Antarctica has been a refuge for peace and science. Military activity has been prohibited, and the environment has been protected. The [Antarctic Treaty](https://www.ats.aq/index_e.html), in force since 1961, promotes international collaboration and lays aside the territorial claims of seven countries, which have all agreed not to act on their claimed ownership.
 
 There are real concerns that all this may change as the current US regime slashes funding to key science programs on the frozen continent. The National Science Foundation — the primary agency that funds and oversees activities in both Antarctica and the Arctic — is proposing massive research cuts to polar science in 2026. Around 70 percent of the money currently in that pot for both poles could vanish.
 

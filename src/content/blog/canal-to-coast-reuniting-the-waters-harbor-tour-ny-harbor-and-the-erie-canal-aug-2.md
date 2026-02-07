@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "As part of the continuing Erie Canal Bicentennial celebration, the Waterfront Alliance is sponsoring a harbor tour on August 2. During the tour, I will be providing commentary and narration on the enormous impact that the Erie Canal has had on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/erietour.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/erietour.jpg)
 
 Photo: Chris Kreussling
 

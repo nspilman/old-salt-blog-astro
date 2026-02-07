@@ -12,12 +12,12 @@ tags:
   - "Tomb of the Unknown Soldier"
   - "USS Olympia"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/ussolympiaUnknown.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ussolympiaUnknown.jpg"
 author: "Rick Spilman"
 description: "The Tomb of the Unknown Soldier in Arlington National Cemetary commemorated its 100th year anniversary last Thursday. On November 9, 1921, the cruiser USS Olympia arrived at the Washington Navy Yard on the Anacostia River, carrying the casket of an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/ussolympiaUnknown.jpg)The [Tomb of the Unknown Soldier](https://arlingtoncemetery.mil/Tomb100) in Arlington National Cemetary commemorated its 100th year anniversary last Thursday. On November 9, 1921, the cruiser [USS *Olympia*](https://en.wikipedia.org/wiki/USS_Olympia_\(C-6\)) arrived at the Washington Navy Yard on the Anacostia River, carrying the casket of an unknown American soldier, to be interred in the tomb on Armistice Day, November 11th.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ussolympiaUnknown.jpg)The [Tomb of the Unknown Soldier](https://arlingtoncemetery.mil/Tomb100) in Arlington National Cemetary commemorated its 100th year anniversary last Thursday. On November 9, 1921, the cruiser [USS *Olympia*](https://en.wikipedia.org/wiki/USS_Olympia_\(C-6\)) arrived at the Washington Navy Yard on the Anacostia River, carrying the casket of an unknown American soldier, to be interred in the tomb on Armistice Day, November 11th.
 
 In celebrating the centennial it seems worthwhile to also remember the harrowing transatlantic voyage of the cruiser *Olympia* that very nearly ended in disaster as the ship battled mountainous seas in the remnants of two hurricanes, threatening both the ship and its precious cargo.
 

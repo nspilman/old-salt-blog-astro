@@ -11,12 +11,12 @@ tags:
   - "Maersk Line"
   - "Newark"
   - "Virginia Beach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/maerskidaho.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/maerskidaho.jpg"
 author: "Rick Spilman"
 description: "The 958-foot long, US flag container ship, Maersk Idaho is anchored off the coast of Virginia after several crew members tested positive for COVID-19. Maersk is working on a plan to evacuate the ship, bring the crew to a quarantine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/maerskidaho.jpg)The 958-foot long, US flag container ship, *Maersk Idaho* is anchored off the coast of Virginia after several crew members tested positive for COVID-19. Maersk is working on a plan to evacuate the ship, bring the crew to a quarantine facility, clean the ship and then bring a new crew on board, said Patrick McCaffery, Maersk Line’s general counsel, as reported by the [Virginia Pilot](https://www.pilotonline.com/news/health/vp-nw-container-ship-coronavirus-20200625-tufpyndc4rdfheq7bhtw6rf5xe-story.html). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/maerskidaho.jpg)The 958-foot long, US flag container ship, *Maersk Idaho* is anchored off the coast of Virginia after several crew members tested positive for COVID-19. Maersk is working on a plan to evacuate the ship, bring the crew to a quarantine facility, clean the ship and then bring a new crew on board, said Patrick McCaffery, Maersk Line’s general counsel, as reported by the [Virginia Pilot](https://www.pilotonline.com/news/health/vp-nw-container-ship-coronavirus-20200625-tufpyndc4rdfheq7bhtw6rf5xe-story.html). 
 
 The ship had transited the Atlantic from Bremerhaven Germany to Newark, NJ. One crew member had become ill with symptoms of pneumonia after the ship arrived in the Port of Newark. He was taken to a hospital where he tested positive for COVID-19. By the time Maersk was notified of the positive case, the *Idaho* was en route to Norfolk where, according to the Port of Virginia’s vessel schedule, it was scheduled to load and unload cargo at Virginia International Gateway this weekend. 
 

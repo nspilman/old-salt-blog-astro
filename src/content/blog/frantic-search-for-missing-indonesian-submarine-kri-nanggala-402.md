@@ -11,12 +11,12 @@ tags:
   - "Bali"
   - "Indonesian Submarine"
   - "KRI Nanggala-402"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/nanggala402.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/nanggala402.jpg"
 author: "Rick Spilman"
 description: "The Indonesian submarine KRI Nanggala 402, with a crew of 53, disappeared on Wednesday during exercises off the coast of Bali, sparking a frantic search to locate the stricken vessel. Australia, India, Malaysia, Singapore, and the United States have sent … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/nanggala402.jpg)The Indonesian submarine KRI [*Nanggala 402*](https://en.wikipedia.org/wiki/KRI_Nanggala_\(402\)), with a crew of 53, [disappeared on Wednesday](https://www.bbc.com/news/world-asia-56851487) during exercises off the coast of Bali, sparking a frantic search to locate the stricken vessel. Australia, India, Malaysia, Singapore, and the United States have sent specialized ships or aircraft in response to Indonesian requests for assistance.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/nanggala402.jpg)The Indonesian submarine KRI [*Nanggala 402*](https://en.wikipedia.org/wiki/KRI_Nanggala_\(402\)), with a crew of 53, [disappeared on Wednesday](https://www.bbc.com/news/world-asia-56851487) during exercises off the coast of Bali, sparking a frantic search to locate the stricken vessel. Australia, India, Malaysia, Singapore, and the United States have sent specialized ships or aircraft in response to Indonesian requests for assistance.
 
 If the submarine was still intact, officials said it would only have enough air to last until early Saturday morning.
 

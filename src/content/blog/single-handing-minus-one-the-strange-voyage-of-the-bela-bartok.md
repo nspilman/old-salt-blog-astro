@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Here is a wonderful story from Cruising World’s Editor’s Log about the very strange voyage of the 31-foot cruising sailboat, Bela Bartok. Derk Wolmuth was sailing Bela Bartok in last summer’s Singlehanded TransPac race between San Francisco and Kaua’i, Hawaii … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/bela.jpg)Here is a wonderful story from [Cruising World’s Editor’s Log](http://www.cruisingworld.com/people/passage-notes/editors-log-all-in-it-together) about the very strange voyage of the 31-foot cruising sailboat, *Bela Bartok*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bela.jpg)Here is a wonderful story from [Cruising World’s Editor’s Log](http://www.cruisingworld.com/people/passage-notes/editors-log-all-in-it-together) about the very strange voyage of the 31-foot cruising sailboat, *Bela Bartok*.
 
 Derk Wolmuth was sailing *Bela Bartok* in last summer’s Singlehanded TransPac race between San Francisco and Kaua’i, Hawaii when he suffered a life-threatening bout of septic shock and couldn’t continue in the race. He deployed his EPIRB and was rescued by a passing ship, bound for California, about 450 miles short of the finish line. Remarkably, he had the presence of mind to lower the main sail, trim the boat’s jib and set wind-vane self-steering to hold a course for Hawaii, so as Derk was carried east on the cargo ship, the *Bela Bartok* continued sailing south-west.
 

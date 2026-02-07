@@ -10,12 +10,12 @@ tags:
   - "HMS Daedalus"
   - "sea serpent"
   - "Sei whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/dseaserpent.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/dseaserpent.jpg"
 author: "Rick Spilman"
 description: "One of the most interesting accounts of a sea serpent is that of the HMS Daedalus in 1848. When sailing in the South Atlantic, some 300 miles from the coast of present-day Namibia, officers and crew aboard the ship saw … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/dseaserpent.jpg)One of the most interesting accounts of a sea serpent is that of the [HMS *Daedalus*](https://en.wikipedia.org/wiki/HMS_Daedalus_\(1826\)) in 1848. When sailing in the South Atlantic, some 300 miles from the coast of present-day Namibia, officers and crew aboard the ship saw what they described as an enormous serpent swimming with its head four feet above the water and roughly another sixty feet of the creature extending back in the sea. Captain McQuahoe also said that “\[The creature\] passed rapidly, but so close under our lee quarter, that had it been a man of my acquaintance I should have easily have recognized his features with the naked eye.” According to seven members of the crew, it remained in view for around twenty minutes. Lt. E.A. Drummond recorded the events in his diary the day he observed them and also made sketches of what he saw.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/dseaserpent.jpg)One of the most interesting accounts of a sea serpent is that of the [HMS *Daedalus*](https://en.wikipedia.org/wiki/HMS_Daedalus_\(1826\)) in 1848. When sailing in the South Atlantic, some 300 miles from the coast of present-day Namibia, officers and crew aboard the ship saw what they described as an enormous serpent swimming with its head four feet above the water and roughly another sixty feet of the creature extending back in the sea. Captain McQuahoe also said that “\[The creature\] passed rapidly, but so close under our lee quarter, that had it been a man of my acquaintance I should have easily have recognized his features with the naked eye.” According to seven members of the crew, it remained in view for around twenty minutes. Lt. E.A. Drummond recorded the events in his diary the day he observed them and also made sketches of what he saw.
 
 What makes the sighting so unusual is the length of the observation, the number of witnesses and that several Royal Navy officers were among that number. Three professional drawings of the creature, based on the captain’s account, were later published. Sketches made by Lt. Drummond finally turned up in 1977.
 
@@ -27,7 +27,7 @@ So, what did the officers and crew of HMS *Daedalus* see? There have been numero
 
 Four years ago, Gary J. Galbreath writing in the [Skeptical Inquirer](https://skepticalinquirer.org/2015/09/the_1848_enormous_serpent_of_the_daedalus_identified/) came up with the most likely explanation. He suggests that those aboard HMS *Daedalus* saw a [sei whale](https://en.wikipedia.org/wiki/Sei_whale) skim feeding on the surface.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/seiwhaleskimfeeding.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/seiwhaleskimfeeding.jpg)
 
 Sei whale at the surface. Photo from http://www.planetwhale.com/boat-767\_HEBRIDEAN\_WHALE\_CRUISES\_Whale\_Dolphin\_Watching
 
@@ -35,10 +35,10 @@ Sei whales can be up to 60 feet long and are baleen whales. When skim feeding al
 
 The sketches for Captain McQuahoe, prepared some months after the fact, clearly, reflect his perspective that he saw a sea serpent. Lt. Drummond’s sketch, on the other hand, is more detailed and naturalistic and looks potentially far more like a sei whale.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/drummondsketch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/drummondsketch.jpg)
 
 Lt. Drummond’s sketch, showing head, dorsal fin and estimated lengths
 
 Interesting enough, the sea serpent of HMS *Daedalus*, or perhaps its cousin, was again observed about a year later from the deck of [HMS *Plumper*](https://en.wikipedia.org/wiki/HMS_Plumper_\(1848\)) when cruising off the Portuguese coast. The sketch of the “long black creature” as it appeared in the Illustrated London News, of 14 April 1849, to my eye looks very much like the upper jaw of a sei whale. Perhaps a sei monster, indeed.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/plumper.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/plumper.jpg)

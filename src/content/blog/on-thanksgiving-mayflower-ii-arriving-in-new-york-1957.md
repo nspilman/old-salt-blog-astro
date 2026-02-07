@@ -13,7 +13,7 @@ tags:
   - "Mayflower"
   - "Puritans"
   - "Thanksgiving"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/mayflowerii1957.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/mayflowerii1957.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving! Today has been celebrated as a day of Thanksgiving in the United States on the third Thursday of November since 1863. The holiday is notionally based on a harvest feast in 1621 between Native Americans and Puritans who had arrived on the … Continue reading &rarr;"
 ---

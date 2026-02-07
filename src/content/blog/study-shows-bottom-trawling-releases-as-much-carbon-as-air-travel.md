@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A ground-breaking study suggests that bottom trawling, a fishing practice in which heavy nets are dragged along the seabed, may be releasing more than a billion metric tons of carbon every year, which is comparable to carbon dioxide produced by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/bottomtrawlnets.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/bottomtrawlnets.jpg)
 
 Photo: Alex Proimos, CC BY 2.0
 
@@ -29,4 +29,4 @@ The report – [Protecting the global ocean for biodiversity, food and climate](
 
 The top 10 countries with the most carbon emissions from bottom trawling were China, Russia, Italy, UK, Denmark, France, the Netherlands, Norway, Croatia and Spain.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/bottomtrawlnets2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/bottomtrawlnets2.jpg)

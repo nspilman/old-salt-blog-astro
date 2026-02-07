@@ -11,12 +11,12 @@ tags:
   - "coronavirus"
   - "Cruise and Maritime Voyages"
   - "Vasco da Gama"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/cvmcolumbus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/cvmcolumbus.jpg"
 author: "Rick Spilman"
 description: "The plan was for the Cruise and Maritime Voyages (CMV) ships Vasco da Gama and Columbus to refuel, reprovision and swap passengers in the port of Phuket, Thailand before returning to their respective homeports to be temporarily laid up. When … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/cvmcolumbus.jpg)The plan was for the [Cruise and Maritime Voyages](https://us.cruiseandmaritime.com/) (CMV) ships [*Vasco da Gama*](https://us.cruiseandmaritime.com/ship/vasco-da-gama) and [*Columbus*](https://us.cruiseandmaritime.com/ship/columbus) to refuel, reprovision and swap passengers in the port of Phuket, Thailand before returning to their respective homeports to be temporarily laid up. When barred from entering Phuket and all other Southeast Asian ports over coronavirus concerns, however, CMV got creative. The two ships rendezvoused 12 miles off the coast of Thailand and transferred 239 passengers and over 500 pieces of luggage by launch. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/cvmcolumbus.jpg)The plan was for the [Cruise and Maritime Voyages](https://us.cruiseandmaritime.com/) (CMV) ships [*Vasco da Gama*](https://us.cruiseandmaritime.com/ship/vasco-da-gama) and [*Columbus*](https://us.cruiseandmaritime.com/ship/columbus) to refuel, reprovision and swap passengers in the port of Phuket, Thailand before returning to their respective homeports to be temporarily laid up. When barred from entering Phuket and all other Southeast Asian ports over coronavirus concerns, however, CMV got creative. The two ships rendezvoused 12 miles off the coast of Thailand and transferred 239 passengers and over 500 pieces of luggage by launch. 
 
 The CMV *Columbus* had been on a 120 night round the world voyage while the CMV *Vasco da Gama* had been on a 71-day voyage one-way from Fremantle to London Tilbury. On February 13th, CMV decided to temporarily cease operations given the concerns about the spread of the coronavirus and the challenges associated with port closures and restrictions.
 

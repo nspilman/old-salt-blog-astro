@@ -17,12 +17,12 @@ tags:
   - "Orca"
   - "the Grind"
   - "Tórshavn"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/faroegrind.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/faroegrind.jpg"
 author: "Rick Spilman"
 description: "When the Ambassador Cruise Line cruise ship Ambition arrived recently in the port of Tórshavn, the capital of the Faroe Islands, its passengers admired the rugged coastline and the breathtaking views of the surrounding mountains. For many, however, the sense … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/faroegrind.jpg)When the [Ambassador Cruise Line](https://www.ambassadorcruiseline.com/) cruise ship [*Ambition*](https://www.ambassadorcruiseline.com/our-ships/ambition/) arrived recently in the port of Tórshavn, the capital of the [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), its passengers admired the rugged coastline and the breathtaking views of the surrounding mountains. For many, however, the sense of awe quickly shifted to alarm as the water of the port was stained red with blood. Passengers were horrified to watch as local islanders slaughtered pilot whales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/faroegrind.jpg)When the [Ambassador Cruise Line](https://www.ambassadorcruiseline.com/) cruise ship [*Ambition*](https://www.ambassadorcruiseline.com/our-ships/ambition/) arrived recently in the port of Tórshavn, the capital of the [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), its passengers admired the rugged coastline and the breathtaking views of the surrounding mountains. For many, however, the sense of awe quickly shifted to alarm as the water of the port was stained red with blood. Passengers were horrified to watch as local islanders slaughtered pilot whales.
 
 Among those passengers were conservationists with the [Ocean Research & Conservation Association (ORCA)](https://orca.org.uk/news-blog/cruise-ship-passengers-horrified-as-faroe-islands-pilot-whales-slaughtered-in-front-of-them), a marine life advocacy group that seeks to protect whales and dolphins in European waters. Since 2021, Ambassador has paid for ORCA staff to join their cruises in order to educate tourists on marine wildlife and collect data on the animals.
 

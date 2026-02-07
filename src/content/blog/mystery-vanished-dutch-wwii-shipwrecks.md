@@ -16,12 +16,12 @@ tags:
   - "scavenger"
   - "shipwreck"
   - "war graves"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/deruyter200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/deruyter200.jpg"
 author: "Rick Spilman"
 description: "In 2002, amateur divers discovered the wrecks of three Dutch warships sunk off Indonesia in World War II. The three ships; the HNLMS De Ruyter, HNLMS Java and HNLMS Kortenaer;  were found at 70 meters deep, 60 miles off the … Continue reading &rarr;"
 ---
 
-![deruyter1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/deruyter1.jpg)
+![deruyter1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/deruyter1.jpg)
 
 The wreck of HNLMS De Ruyter and two other ships are missing.
 

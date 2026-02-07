@@ -11,7 +11,7 @@ tags:
   - "blimp"
   - "Mayflower II"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/mayflowerblimp.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/mayflowerblimp.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the renewal and reconstruction of the Mayflower II at Mystic Seaport Museum. Here is a short video of the ship in 1957 arriving in New York on its maiden voyage across the Atlantic. I love the … Continue reading &rarr;"
 ---

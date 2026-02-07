@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Horatio Nelson ‘was French football captain’, say children Research carried out to mark the anniversary of the Battle of Trafalgar shows many schoolchildren believe that Horatio Nelson was captain of the French national football team in the 1990s. Almost one-in-four … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/nelson-suet_1121278c-150x184.jpg)[Horatio Nelson ‘was French football captain’, say children](http://www.telegraph.co.uk/education/educationnews/8075874/Horatio-Nelson-was-French-football-captain-say-children.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/nelson-suet_1121278c-150x184.jpg)[Horatio Nelson ‘was French football captain’, say children](http://www.telegraph.co.uk/education/educationnews/8075874/Horatio-Nelson-was-French-football-captain-say-children.html)
 
 *Research carried out to mark the anniversary of the Battle of Trafalgar shows many schoolchildren believe that Horatio Nelson was captain of the French national football team in the 1990s.*
 

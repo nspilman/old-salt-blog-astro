@@ -11,12 +11,12 @@ tags:
   - "munitions"
   - "Thames Estuary"
   - "USS Richard Montgomery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/mastsmontgomery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/mastsmontgomery.jpg"
 author: "Rick Spilman"
 description: "Three rusting masts rise from the Thames Estuary, off Sheppy Island, not far from Sheerness. They are the masts that once supported the swinging booms on the Liberty ship USS Richard Montgomery, which sank with a cargo of high explosive … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/mastsmontgomery.jpg)Three rusting masts rise from the Thames Estuary, off Sheppy Island, not far from Sheerness. They are the masts that once supported the swinging booms on the Liberty ship USS *Richard Montgomery,* which sank with a cargo of high explosive bombs and other munitions in 1944. The wreck still contains an estimated 1,400 tonnes of potentially highly volatile explosives. The remaining munitions are too dangerous to remove and also too dangerous to ignore. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/mastsmontgomery.jpg)Three rusting masts rise from the Thames Estuary, off Sheppy Island, not far from Sheerness. They are the masts that once supported the swinging booms on the Liberty ship USS *Richard Montgomery,* which sank with a cargo of high explosive bombs and other munitions in 1944. The wreck still contains an estimated 1,400 tonnes of potentially highly volatile explosives. The remaining munitions are too dangerous to remove and also too dangerous to ignore. 
 
 Now, the Ministry of Defence is offering to pay £5 million ‘danger money’ to any company prepared to hack off the rusting masts of the ship that the BBC has referred to as the “[ticking time bomb of the Thames](http://www.bbc.com/future/story/20151027-the-ticking-time-bomb-of-the-thames).” The concerns are that the rusting masts could waste away and fall onto the munitions, potentially causing a detonation.
 

@@ -11,12 +11,12 @@ tags:
   - "lost dog"
   - "sea foam"
   - "sea snakes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/seafoam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/seafoam.jpg"
 author: "Rick Spilman"
 description: "Severe weather off the east coast of Australia has left beaches in the Northern Rivers region of New South Wales and on the Gold and Sunshine coasts covered in a thick layer of sea foam, attracting crowds of curious locals, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/seafoam.jpg)Severe weather off the east coast of Australia has left beaches in the Northern Rivers region of New South Wales and on the Gold and Sunshine coasts covered in a thick layer of sea foam, attracting crowds of curious locals, and, at least potentially, venomous sea snakes. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/seafoam.jpg)Severe weather off the east coast of Australia has left beaches in the Northern Rivers region of New South Wales and on the Gold and Sunshine coasts covered in a thick layer of sea foam, attracting crowds of curious locals, and, at least potentially, venomous sea snakes. 
 
 [News.com.au](https://www.news.com.au/technology/environment/experts-warn-snakes-pollution-and-viruses-could-be-hidden-in-sea-foam/news-story/eb5346de3c8c35a76b74ce40c7d1e434) reports that the foam went viral across the globe after a local Byron Bay woman interrupted a live weather update to search for her missing dog, Hazel, who was later rescued from the mess. 
 

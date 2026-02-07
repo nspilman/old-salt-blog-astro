@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Happy autumnal equinox. The first day of Fall.  I know of no good sailor’s tradition for the autumnal equinox. It seems to be too busy a time to stop for such foolishness.  Everyone is trying to get the last trips … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/warmsocks.jpg)Happy autumnal equinox. The first day of Fall.  I know of no good sailor’s tradition for the autumnal equinox. It seems to be too busy a time to stop for such foolishness.  Everyone is trying to get the last trips of the season in or is already getting ready for winter.  In the Northeast, I always wondered why I didn’t have at least as much sense as the geese, who were all flying south to warmer climes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/warmsocks.jpg)Happy autumnal equinox. The first day of Fall.  I know of no good sailor’s tradition for the autumnal equinox. It seems to be too busy a time to stop for such foolishness.  Everyone is trying to get the last trips of the season in or is already getting ready for winter.  In the Northeast, I always wondered why I didn’t have at least as much sense as the geese, who were all flying south to warmer climes.
 
 I would like to suggest an autumnal equinox tradition of putting on warm socks. There is a sailor’s ritual of burning one’s socks at the vernal equinox socks, presumably the socks one wore all winter. ([See: Spring equinox – Sailors burn their socks](http://www.examiner.com/sailing-in-baltimore/spring-equinox-sailors-burn-their-socks))  Putting on a warmer pair now, has a certain seasonal symmetry.  If anyone has other, and no doubt better, autumnal equinox traditions I would love to hear of them.
 

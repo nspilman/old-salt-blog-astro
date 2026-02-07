@@ -9,12 +9,12 @@ tags:
   - "Alaska"
   - "COVID-19"
   - "salmon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/bristolblay.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/bristolblay.jpg"
 author: "Rick Spilman"
 description: "Every year, the Alaskan fishing industry attracts tens of thousands of migrant workers. In remote Bristol Bay, Alaska, between 10,000 and 15,000 fishermen come to work on the salmon boats plying the Bering Sea, while another 6,000 workers or so … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/bristolblay.jpg)Every year, the Alaskan fishing industry attracts tens of thousands of migrant workers. In remote Bristol Bay, Alaska, between 10,000 and 15,000 fishermen come to work on the salmon boats plying the Bering Sea, while another 6,000 workers or so arrive to process the salmon brought ashore. Salmon fishing brings in $700 million each year to this remote, sparsely populated area. But, as reported by the [Counter](https://thecounter.org/covid-19-coronavirus-bristol-bay-alaska-sockeye-salmon-workers/), with only 15 hospital beds and limited medical resources, local tribal leaders are wondering: Are the risks worth it?  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/bristolblay.jpg)Every year, the Alaskan fishing industry attracts tens of thousands of migrant workers. In remote Bristol Bay, Alaska, between 10,000 and 15,000 fishermen come to work on the salmon boats plying the Bering Sea, while another 6,000 workers or so arrive to process the salmon brought ashore. Salmon fishing brings in $700 million each year to this remote, sparsely populated area. But, as reported by the [Counter](https://thecounter.org/covid-19-coronavirus-bristol-bay-alaska-sockeye-salmon-workers/), with only 15 hospital beds and limited medical resources, local tribal leaders are wondering: Are the risks worth it?  
 
 As of June 23rd, [Alaska Public Media](https://www.alaskapublic.org/2020/06/23/dillingham-reports-12-cases-of-covid-19-among-seafood-workers/) reports that 12 seafood workers in Dillingham, a Bristol Bay hub town, have tested positive for COVID-19 while under quarantine, sparking anxiety in the small community. The Bristol Bay region didn’t have a single Covid-19 case until May 16. The salmon fishing season starts at the beginning of June.
 

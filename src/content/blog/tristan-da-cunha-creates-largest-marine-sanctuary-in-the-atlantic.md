@@ -10,12 +10,12 @@ tags:
   - "marine protection zone"
   - "most remote inhabited island"
   - "Tristan de Cunha"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/rockhopperpenguins.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/rockhopperpenguins.jpg"
 author: "Rick Spilman"
 description: "Tristan Da Cuhna is one of the most remote inhabited islands in the world. The government of the island is now creating the fourth largest completely protected marine area in the world and the largest in the Atlantic. Fishing and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/rockhopperpenguins.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/rockhopperpenguins.jpg)
 
 Rockhopper penguins on Tristan da Cuhna, Photo: Andy Schofield/Pew Charitable Trust via AP
 

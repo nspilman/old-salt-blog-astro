@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The Kalmar Nyckel Foundation is seeking recruits to train as volunteer crew for the replica ship Kalmar Nyckel."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/kn1.jpg)The [Kalmar Nyckel Foundation](http://www.kalmarnyckel.org/Index.asp) is seeking recruits to train as volunteer crew for the replica ship *Kalmar Nyckel.*  The original ship of that name served as Peter Minuit’s flagship for the 1638 expedition that founded the colony of New Sweden, establishing the first permanent European settlement in the Delaware Valley, Fort Christina, in present-day Wilmington, Delaware.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/kn1.jpg)The [Kalmar Nyckel Foundation](http://www.kalmarnyckel.org/Index.asp) is seeking recruits to train as volunteer crew for the replica ship *Kalmar Nyckel.*  The original ship of that name served as Peter Minuit’s flagship for the 1638 expedition that founded the colony of New Sweden, establishing the first permanent European settlement in the Delaware Valley, Fort Christina, in present-day Wilmington, Delaware.
 
 From the [Kalmar Nyckel Foundation website:](http://kalmarnyckel.org/dy.asp?p=65)
 

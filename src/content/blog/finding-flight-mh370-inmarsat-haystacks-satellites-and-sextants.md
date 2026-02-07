@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "It appears that the British satellite firm, Inmarsat, combined high tech analysis with very basic navigation to estimate the flight path of MH370, after all other other searchers had failed to find the plane. The Prime Minister of Malaysia announced … Continue reading &rarr;"
 ---
 
-![graph-flightpath](http://www.oldsaltblog.com/wp-content/uploads/2014/03/graph-flightpath.jpg)It appears that the British satellite firm, Inmarsat, combined high tech analysis with very basic navigation to estimate the flight path of MH370, after all other other searchers had failed to find the plane.
+![graph-flightpath](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/graph-flightpath.jpg)It appears that the British satellite firm, Inmarsat, combined high tech analysis with very basic navigation to estimate the flight path of MH370, after all other other searchers had failed to find the plane.
 
 The Prime Minister of Malaysia announced yesterday that Flight MH370 had crashed in a remote area of the Indian Ocean with no survivors. Debris, which may be from the 777 jet liner which disappeared on March 8th, has been sighted by satellite imagery and by search planes. So far, however, no debris has been recovered as a cyclone in the area has turned back ships attempting to collect and identify the debris.  
 

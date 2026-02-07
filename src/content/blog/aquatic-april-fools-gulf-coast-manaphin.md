@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Yesterday was April 1st, often known as April Fool’s Day. (Our post on a dramatic man overboard rescue was definitively not a spoof.) Yesterday \"Visit St Pete-Clearwater\" issued a press release about a recent sighting of the legendary \"Manaphin\" in … Continue reading &rarr;"
 ---
 
-![The illusive manaphin](http://www.oldsaltblog.com/wp-content/uploads/2014/04/manaphin-seen-while-scuba-diving-v2-304xx639-426-1-0.jpg)
+![The illusive manaphin](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/manaphin-seen-while-scuba-diving-v2-304xx639-426-1-0.jpg)
 
 The illusive manaphin
 

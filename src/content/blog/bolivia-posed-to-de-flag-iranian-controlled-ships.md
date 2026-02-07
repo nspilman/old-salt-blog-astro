@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Bolivia is poised to de-flag fifteen ships linked to the Islamic Republic of Iran Shipping Lines (IRISL) just weeks after these ships were flagged into the Bolivian registry. The ships had previously been registered in Malta and Cyprus. Facing international sanctions over its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/Flag_of_Bolivia_state.svg_.jpg)Bolivia is poised to de-flag fifteen ships linked to the Islamic Republic of Iran Shipping Lines (IRISL) just weeks after these ships were flagged into the Bolivian registry. The ships had previously been registered in Malta and Cyprus.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Flag_of_Bolivia_state.svg_.jpg)Bolivia is poised to de-flag fifteen ships linked to the Islamic Republic of Iran Shipping Lines (IRISL) just weeks after these ships were flagged into the Bolivian registry. The ships had previously been registered in Malta and Cyprus.
 
 Facing international sanctions over its nuclear polices, Iran has been playing games to avoid sanctions on its shipping assets.  IRISL has been changing the names of the ships and reflagging them in order to dodge the sanctions. The ships’ IMO identification numbers stay the same, but by continually changing names and flags, [the Iranians have, for several years, often managed to stay one step ahead](http://www.nytimes.com/2010/06/08/world/middleeast/08sanctions.html?pagewanted=all) of those monitoring the sanctions.  The recent dodge, however, of transferring ships from Maltese and Cypriot registries to the Bolivian has apparently not been successful.
 

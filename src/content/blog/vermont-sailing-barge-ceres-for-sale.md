@@ -10,12 +10,12 @@ tags:
   - "Ceres"
   - "Eric Andrus"
   - "Vermont Sailing Barge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/ceres2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ceres2.jpg"
 author: "Rick Spilman"
 description: "Around six years ago, Vermont farmer Eric Andrus had an idea. Why not build a sailing barge to carry non-perishable produce down Lake Champlain to the Hudson and onward to markets along the river and on to New York City?  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/ceres2.jpg)Around six years ago, Vermont farmer Eric Andrus had an idea. Why not build a [sailing barge to carry non-perishable produce down Lake Champlain to the Hudson](http://www.oldsaltblog.com/2013/10/vermont-sail-freight-projects-cere-setting-sail/) and onward to markets along the river and on to New York City?  They raised money and built the sailing barge *Ceres.* On the 330 mile journey downriver, the barge carried produce from 30 different farms and made stops at historic river towns along the way, selling goods at “pop-up” markets along the riverside. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ceres2.jpg)Around six years ago, Vermont farmer Eric Andrus had an idea. Why not build a [sailing barge to carry non-perishable produce down Lake Champlain to the Hudson](http://www.oldsaltblog.com/2013/10/vermont-sail-freight-projects-cere-setting-sail/) and onward to markets along the river and on to New York City?  They raised money and built the sailing barge *Ceres.* On the 330 mile journey downriver, the barge carried produce from 30 different farms and made stops at historic river towns along the way, selling goods at “pop-up” markets along the riverside. 
 
 As a demonstration project, the sailing barge was a success. Economically, however, it didn’t pay. Logistics and facilities on the river and especially in New York harbor were challenging and costs were higher than anticipated. So, the 39’6″ long sailing cargo barge *Ceres* was moved into a barn for storage. 
 

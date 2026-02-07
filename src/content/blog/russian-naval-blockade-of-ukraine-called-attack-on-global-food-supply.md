@@ -14,12 +14,12 @@ tags:
   - "naval blockade"
   - "Russia"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/black-sea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/black-sea.jpg"
 author: "Rick Spilman"
 description: "As the Russian invasion of Ukraine grinds to a bloody stalemate, the Russian navy is effectively blockading the northern Black Sea, cutting off maritime trade at Ukrainian ports, in what world leaders call a deliberate attack on the global food … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/black-sea.jpg)As the Russian invasion of Ukraine grinds to a bloody stalemate, the Russian navy is effectively blockading the northern Black Sea, cutting off maritime trade at Ukrainian ports, in what world leaders call [a deliberate attack on the global food supply chain](https://www.washingtonpost.com/national-security/2022/05/24/naval-blockade-food-supply-ukraine-russia/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/black-sea.jpg)As the Russian invasion of Ukraine grinds to a bloody stalemate, the Russian navy is effectively blockading the northern Black Sea, cutting off maritime trade at Ukrainian ports, in what world leaders call [a deliberate attack on the global food supply chain](https://www.washingtonpost.com/national-security/2022/05/24/naval-blockade-food-supply-ukraine-russia/). 
 
 [Foreign Policy](https://foreignpolicy.com/2022/05/24/russia-ukraine-blockade-food-crisis-black-sea/) is reporting that Western governments are scrambling to find ways to break the blockade and ease the strains on the global commodities and agricultural markets rocked by the war. Ukraine, referred to as the “breadbasket of Europe,” feeds some 400 million people around the world and is a top grain supplier to dozens of developing countries, including politically unstable Middle Eastern and African countries that have seen food prices skyrocket since Russia first launched its invasion of Ukraine in late February. 
 

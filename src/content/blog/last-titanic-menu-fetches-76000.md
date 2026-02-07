@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A menu of the last meal served to first-class passengers on board the Titanic has sold at auction for £76,000.  The menu was dated April 14, 1912 and featured several courses, such as eggs Argenteuil, consomme fermier and chicken a la … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/menu.jpg)A menu of the last meal served to first-class passengers on board the *Titanic* has sold at auction for £76,000.  The menu was dated April 14, 1912 and featured several courses, such as eggs Argenteuil, consomme fermier and chicken a la Maryland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/menu.jpg)A menu of the last meal served to first-class passengers on board the *Titanic* has sold at auction for £76,000.  The menu was dated April 14, 1912 and featured several courses, such as eggs Argenteuil, consomme fermier and chicken a la Maryland.
 
 [Last Titanic menu fetches £76,000](http://www.bbc.co.uk/news/uk-england-wiltshire-17571445)  
   

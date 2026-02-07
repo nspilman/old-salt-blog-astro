@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Pride of Baltimore II is visiting New York, calling in Manhattan’s North Cove on the Hudson River.  She should be arriving around mid-day today and will be staying through Sunday.  Daysails and dockside tours will be available.  (See the schedule after the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/pride.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pride.jpg)
 
 Photo: Lynn Digennaro
 

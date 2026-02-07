@@ -14,12 +14,12 @@ tags:
   - "replenishment oiler"
   - "Secretary of Defense"
   - "USNS Harvey Milk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/usnsharveymilk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/usnsharveymilk.jpg"
 author: "Rick Spilman"
 description: "Secretary of Defense Pete Hegseth has ordered the Navy to take the rare step of renaming the USNS Harvey Milk, an underway replenishment oiler, named after the late gay rights leader. The Pentagon is also reviewing changing the names of … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/usnsharveymilk.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/usnsharveymilk.jpg)
 
 USNS Harvey Milk
 

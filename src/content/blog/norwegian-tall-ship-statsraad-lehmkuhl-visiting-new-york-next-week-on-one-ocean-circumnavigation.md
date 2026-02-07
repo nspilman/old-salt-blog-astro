@@ -14,12 +14,12 @@ tags:
   - "sail training ship"
   - "Statsraad Lehmkuhl"
   - "three masted barque"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/Statsraad-Lehmkuhl.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/Statsraad-Lehmkuhl.jpg"
 author: "Rick Spilman"
 description: "The Norwegian sail training ship Statsraad Lehmkuhl will be visiting New York harbor next week. The three-masted barque, built in 1914, will be docking at Brooklyn Bridge Park and will be available for tours from December 19 to 27, from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/Statsraad-Lehmkuhl.jpg)The Norwegian sail training ship [*Statsraad Lehmkuhl*](https://en.wikipedia.org/wiki/Statsraad_Lehmkuhl) will be visiting New York harbor next week. The three-masted barque, built in 1914, will be docking at [Brooklyn Bridge Park](https://www.brooklynbridgepark.org/) and will be available for tours from December 19 to 27, from 11:30am to 4:45pm. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/Statsraad-Lehmkuhl.jpg)The Norwegian sail training ship [*Statsraad Lehmkuhl*](https://en.wikipedia.org/wiki/Statsraad_Lehmkuhl) will be visiting New York harbor next week. The three-masted barque, built in 1914, will be docking at [Brooklyn Bridge Park](https://www.brooklynbridgepark.org/) and will be available for tours from December 19 to 27, from 11:30am to 4:45pm. 
 
 **Update: Since our original post, the tours are now fully booked.**
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Ohio River may just be too high to allow the running of the Great Steamboat Race on May 4th, between the Belle of Louisville and the Belle of Cincinnati on May 4.   If the river doesn’t fall, officials are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/steamboats.jpg)The Ohio River may just be too high to allow the running of the [Great Steamboat Race on May 4th](http://www.hellolouisville.com/commons/pages/articles/event/2011_great_steamboat_race_hits_the_ohio_may_4/198731/), between the [Belle of Louisville](http://www.belleoflouisville.org/) and the [Belle of Cincinnati](http://www.bbriverboats.com/) on May 4.   If the river doesn’t fall, officials are considering several options including not leaving the dock and simply having a party.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/steamboats.jpg)The Ohio River may just be too high to allow the running of the [Great Steamboat Race on May 4th](http://www.hellolouisville.com/commons/pages/articles/event/2011_great_steamboat_race_hits_the_ohio_may_4/198731/), between the [Belle of Louisville](http://www.belleoflouisville.org/) and the [Belle of Cincinnati](http://www.bbriverboats.com/) on May 4.   If the river doesn’t fall, officials are considering several options including not leaving the dock and simply having a party.
 
 [Ohio River conditions could cloud outlook for Great Steamboat Race](http://www.courier-journal.com/article/20110421/DERBYFUN03/304210062/Ohio-River-conditions-could-cloud-outlook-Great-Steamboat-Race?odyssey=tab|topnews|text|Home)  
   

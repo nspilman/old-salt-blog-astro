@@ -12,12 +12,12 @@ tags:
   - "Proceeding of the National Academy of Sciences"
   - "ship strikes"
   - "whale shark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/whaleshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/whaleshark.jpg"
 author: "Rick Spilman"
 description: "Ship strikes — collisions between ships and large marine life — are a serious threat to whales and other large marine creatures.  According to the non-profit Friend of the Sea, ship strikes kill more than 20,000 whales every year. Now, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/whaleshark.jpg)Ship strikes — collisions between ships and large marine life — are a serious threat to whales and other large marine creatures.  According to the non-profit [Friend of the Sea](https://friendofthesea.org/), [ship strikes kill more than 20,000 whales](https://www.earth.com/news/thousands-of-whales-are-killed-by-ship-strikes-each-year/) every year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/whaleshark.jpg)Ship strikes — collisions between ships and large marine life — are a serious threat to whales and other large marine creatures.  According to the non-profit [Friend of the Sea](https://friendofthesea.org/), [ship strikes kill more than 20,000 whales](https://www.earth.com/news/thousands-of-whales-are-killed-by-ship-strikes-each-year/) every year.
 
 Now, [new research, published in the Proceeding of the National Academy of Sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2117440119?af=R) (PNAS), has identified ship strikes as a likely cause for the alarming decrease in the population of the world’s largest fish, the [whale shark](https://www.nationalgeographic.com/animals/fish/facts/whale-shark).
 

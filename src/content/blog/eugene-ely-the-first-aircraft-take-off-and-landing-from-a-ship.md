@@ -12,12 +12,12 @@ tags:
   - "Ely"
   - "Eugene Burton Ely"
   - "naval aviation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/eugeneely2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/eugeneely2.jpg"
 author: "Rick Spilman"
 description: "On November 14, 1910, one hundred and nine years ago today, pilot Eugene Burton Ely successfully took off in a biplane from the deck of the light cruiser USS Birmingham in the waters off Norfolk, Virginia, becoming the first pilot … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/eugeneely2.jpg)On November 14, 1910, one hundred and nine years ago today, pilot [Eugene Burton Ely](https://www.nationalaviation.org/our-enshrinees/ely-eugene/) successfully took off in a biplane from the deck of the light cruiser [USS *Birmingham*](https://en.wikipedia.org/wiki/USS_Birmingham_\(CL-2\)) in the waters off Norfolk, Virginia, becoming the first pilot to fly a plane from the deck of a ship. He flew roughly three miles and landed onshore. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/eugeneely2.jpg)On November 14, 1910, one hundred and nine years ago today, pilot [Eugene Burton Ely](https://www.nationalaviation.org/our-enshrinees/ely-eugene/) successfully took off in a biplane from the deck of the light cruiser [USS *Birmingham*](https://en.wikipedia.org/wiki/USS_Birmingham_\(CL-2\)) in the waters off Norfolk, Virginia, becoming the first pilot to fly a plane from the deck of a ship. He flew roughly three miles and landed onshore. 
 
 Two months later, on January 18, 1911, Ely landed his Curtiss Pusher biplane on a platform on the armored cruiser [USS *Pennsylvania*](https://en.wikipedia.org/wiki/USS_Pennsylvania_\(ACR-4\)) anchored in San Francisco Bay, becoming the first pilot to land a plane on a ship.  He stopped the plane using the first-ever tailhook arresting gear, designed and built by circus performer and aviator [Hugh Robinson](https://en.wikipedia.org/wiki/Hugh_Armstrong_Robinson "Hugh Armstrong Robinson").
 

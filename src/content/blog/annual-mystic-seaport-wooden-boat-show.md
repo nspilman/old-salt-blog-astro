@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "For anyone in the area, the Mystic Seaport Wooden Boat Show, which starts today and runs through Sunday,  is well worth stopping by.   The show is sponsored in partnership with WoodenBoat  Publications. The WoodenBoat Show A video about the show: 20th … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/woodenBoatBanner-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/woodenBoatBanner-1.jpg)
 
 For anyone in the area, the [Mystic Seaport Wooden Boat Show](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=864E118B-1E4F-379B-6036692662F21863), which starts today and runs through Sunday,  is well worth stopping by.   The show is sponsored in partnership with [WoodenBoat  Publications](http://www.woodenboat.com/).
 

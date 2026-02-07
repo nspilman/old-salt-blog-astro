@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Yesterday morning, the 14,400 TEU container ship, CMA CGM Theodore Roosevelt, sailed under the newly-elevated Bayonne Bridge becoming the largest container ship ever to call on the Port of New York and New Jersey.  She previously set a record as the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/teddyroose.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/teddyroose.jpg)
 
 Photo:Reena Rose Sibayan | The Jersey Journal
 
@@ -28,4 +28,4 @@ Her arrival was made possible by a 4 year, $1.6 billion dollar project to raise 
 
 From the NY Times: [How and Why They Are Raising the Bayonne Bridge Roadway](https://www.nytimes.com/interactive/2014/03/23/nyregion/how-and-why-they-are-raising-the-bayonne-bridge-roadway.html?mcubz=1&_r=0)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/nytimesrasingbridge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/nytimesrasingbridge.jpg)

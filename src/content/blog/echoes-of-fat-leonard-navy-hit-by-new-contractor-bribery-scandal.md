@@ -11,12 +11,12 @@ tags:
   - "MLS"
   - "Multinational Logistics Services"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/cvincent.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/cvincent.jpg"
 author: "Rick Spilman"
 description: "For almost a decade the US Navy has struggled through an ongoing corruption and bribery scandal involving ship support contractor Glenn Defense Marine Asia, a firm run by Leonard Glenn Francis, a Malaysian national known as \"Fat Leonard.\" U.S. federal … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/cvincent.jpg)For almost a decade the US Navy has struggled through an ongoing corruption and bribery scandal involving ship support contractor Glenn Defense Marine Asia, a firm run by Leonard Glenn Francis, a Malaysian national known as “[Fat Leonard](http://www.oldsaltblog.com/2013/11/fat-leonard-prostitutes-lady-gaga-tickets-third-officer-charged-in-navy-bribery-scandal/).” U.S. federal prosecutors have filed criminal charges against 33 people in connection with the scandal, in what has been described as “perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/cvincent.jpg)For almost a decade the US Navy has struggled through an ongoing corruption and bribery scandal involving ship support contractor Glenn Defense Marine Asia, a firm run by Leonard Glenn Francis, a Malaysian national known as “[Fat Leonard](http://www.oldsaltblog.com/2013/11/fat-leonard-prostitutes-lady-gaga-tickets-third-officer-charged-in-navy-bribery-scandal/).” U.S. federal prosecutors have filed criminal charges against 33 people in connection with the scandal, in what has been described as “perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.”
 
 Navy officials pledged to clean up their contracting processes in response to the Fat Leonard scandal, but a new case suggests that corruption persists.
 

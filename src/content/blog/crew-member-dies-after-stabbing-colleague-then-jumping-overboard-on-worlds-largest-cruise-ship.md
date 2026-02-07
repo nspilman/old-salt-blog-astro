@@ -14,12 +14,12 @@ tags:
   - "Royal Bahamas Police Force"
   - "Royal Caribbean"
   - "stabbing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/07/iconoftheseas2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/iconoftheseas2.jpg"
 author: "Rick Spilman"
 description: "A crew member on Royal Caribbean’s Icon of the Seas is reported to have stabbed a fellow crew member multiple times before jumping overboard to his death as the ship cruised off the coast of San Salvador Island in the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/07/iconoftheseas2.jpg)A crew member on Royal Caribbean’s [*Icon of the Seas*](https://en.wikipedia.org/wiki/Icon_of_the_Seas) is reported to have stabbed a fellow crew member multiple times before jumping overboard to his death as the ship cruised off the coast of San Salvador Island in the Bahamas on Thursday night.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/iconoftheseas2.jpg)A crew member on Royal Caribbean’s [*Icon of the Seas*](https://en.wikipedia.org/wiki/Icon_of_the_Seas) is reported to have stabbed a fellow crew member multiple times before jumping overboard to his death as the ship cruised off the coast of San Salvador Island in the Bahamas on Thursday night.
 
 According to the Royal Bahamas Police Force (RBPF), the unidentified male crew member allegedly stabbed a female co-worker during a dispute.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Update:  Reports of the defection of the frigate Hetman Sahaidachny are being denied by the Ukrainian military.  The ship is reported to have be sighted in port in Crete still flying the Ukrainian flag. There are reports that the Ukraine’s Navy flagship, the frigate … Continue reading &rarr;"
 ---
 
-![ukraine-navy-flaghsip-protest.si](http://www.oldsaltblog.com/wp-content/uploads/2014/03/ukraine-navy-flaghsip-protest.si_.jpg)Update:  [Reports of the defection of the frigate *Hetman Sahaidachny* are being denied by the Ukrainian military.](http://blog.qtau.com/2014/03/reports-of-hetman-sahaidachnys.html)  The ship is reported to have be sighted in port in Crete still flying the Ukrainian flag.
+![ukraine-navy-flaghsip-protest.si](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ukraine-navy-flaghsip-protest.si_.jpg)Update:  [Reports of the defection of the frigate *Hetman Sahaidachny* are being denied by the Ukrainian military.](http://blog.qtau.com/2014/03/reports-of-hetman-sahaidachnys.html)  The ship is reported to have be sighted in port in Crete still flying the Ukrainian flag.
 
 There are reports that the Ukraine’s Navy flagship, the [frigate *Hetman Sahaidachny*](http://en.wikipedia.org/wiki/Ukrainian_frigate_Hetman_Sahaydachniy_\(U130\)), is refusing to follow orders from Kiev and has defected to Russia.  The ship is returning home after taking part in NATO operation in the Gulf of Aden and is claimed to be flying the Russian naval flag.
 

@@ -11,12 +11,12 @@ tags:
   - "Great North River Tugboat Race"
   - "tugboat"
   - "Working Harbor Committee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/tugracebanner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tugracebanner.jpg"
 author: "Rick Spilman"
 description: "A short video of this morning’s 26th Annual Great North River Tugboat Race sponsored by the Working Waterfront Committee. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/tugracebanner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tugracebanner.jpg)
 
 A short video of this morning’s [26th Annual Great North River Tugboat Race](http://www.oldsaltblog.com/2018/09/26th-annual-great-north-river-tugboat-race-competition-this-sunday/) sponsored by the [Working Waterfront Committee](http://workingharbor.org/).
 

@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Last November, we posted about the wrecks of three Dutch World War IIship wrecks in the Java Sea that have apparently vanished.   The three ships; the HNLMS De Ruyter, HNLMS Java and HNLMS Kortenaer;  had been in waters 70 meters … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/shipwreckscrap.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/shipwreckscrap.jpg)
 
 Remains of Rice Bowl Wreck
 

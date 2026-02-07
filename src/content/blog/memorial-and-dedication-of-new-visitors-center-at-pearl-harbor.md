@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The attack on the Pearl Harbor Naval Base, on Oʻahu, Hawaii by Japan on December 7th 1941 still resonates with Americans as evidenced by the literally hundreds of  Pearl  Harbor  memorials  scheduled around the country  in remembrance of what President Franklin Delano Roosevelt referred to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/phVC.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/phVC.jpg)
 
 New Pearl Harbor Visitors Center
 

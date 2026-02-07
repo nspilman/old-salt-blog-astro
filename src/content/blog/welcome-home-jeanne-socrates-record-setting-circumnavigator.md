@@ -13,12 +13,12 @@ tags:
   - "Jeanne Socrates"
   - "S/V Nereida"
   - "Victoria"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg"
 author: "Rick Spilman"
 description: "For the last several days, Jeanne Socrates has been within sight of the mountains of the Vancouver coast, tantalizingly close to completing her 4th circumnavigation, and, at 77, becoming the oldest person to sail around the world solo, unassisted and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg)For the last several days, [Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) has been within sight of the mountains of the Vancouver coast, tantalizingly close to completing her 4th circumnavigation, and, at 77, becoming the oldest person to sail around the world solo, unassisted and non-stop.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg)For the last several days, [Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) has been within sight of the mountains of the Vancouver coast, tantalizingly close to completing her 4th circumnavigation, and, at 77, becoming the oldest person to sail around the world solo, unassisted and non-stop.
 
 Just 20 nautical miles from the entrance of the Strait of Juan De Fuca, and less than 80 miles from her destination in Victoria, British, Columbia, she has been set back by contrary currents and a lack of wind. Weather forecasts suggest a northwesterly wind later today may yet allow her to make landfall in Victoria this evening.
 

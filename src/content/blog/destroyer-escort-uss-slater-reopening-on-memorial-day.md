@@ -12,12 +12,12 @@ tags:
   - "destroyer escort"
   - "Memorial Day"
   - "USS Slater"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/slater.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/slater.jpg"
 author: "Rick Spilman"
 description: "Museum ships are slowly reopening.  The USS Slater on the Albany waterfront, the last Destroyer Escort afloat in America, is set to open to the public on Memorial Day, Monday, May 31st. After Memorial Day the ship will operate normal … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/slater.jpg)Museum ships are slowly reopening.  The [USS *Slater*](https://ussslater.org/) on the Albany waterfront, the last Destroyer Escort afloat in America, is set to open to the public on Memorial Day, Monday, May 31st. After Memorial Day the ship will operate normal hours Wednesday through Sunday, from 10 am to 4 pm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/slater.jpg)Museum ships are slowly reopening.  The [USS *Slater*](https://ussslater.org/) on the Albany waterfront, the last Destroyer Escort afloat in America, is set to open to the public on Memorial Day, Monday, May 31st. After Memorial Day the ship will operate normal hours Wednesday through Sunday, from 10 am to 4 pm.
 
 Guided tours take place every 30 minutes. All visitors and volunteers are required to wear a mask while aboard *Slater*. Tour groups will be kept small, and the ship will be disinfected regularly. No reservations are required.
 

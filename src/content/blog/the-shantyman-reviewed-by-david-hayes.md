@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "David Hayes recently reviewed The Shantyman on his Historic Naval Fiction blog."
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2015/02/shantymanthumbebook.jpg)](http://www.amazon.com/gp/product/B00T57OQYA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00T57OQYA&linkCode=as2&tag=astrodene-20&linkId=XZLLVWVXXFSRZWVS)David Hayes recently reviewed [*The Shantyman*](http://www.amazon.com/gp/product/B00T57OQYA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00T57OQYA&linkCode=as2&tag=astrodene-20&linkId=XZLLVWVXXFSRZWVS) on his [Historic Naval Fiction blog](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/3905-review-the-shantyman-by-rick-spilman).  Reposted with permission.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg)](http://www.amazon.com/gp/product/B00T57OQYA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00T57OQYA&linkCode=as2&tag=astrodene-20&linkId=XZLLVWVXXFSRZWVS)David Hayes recently reviewed [*The Shantyman*](http://www.amazon.com/gp/product/B00T57OQYA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00T57OQYA&linkCode=as2&tag=astrodene-20&linkId=XZLLVWVXXFSRZWVS) on his [Historic Naval Fiction blog](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/3905-review-the-shantyman-by-rick-spilman).  Reposted with permission.
 
 *If you want to be taken to the deck of a clipper in the mountainous seas of a southern ocean gale, Rick Spilman is the author for you. His description of life at sea in such vessels are vivid and bring to life the conditions faced by the officers and crew of such vessels.*
 

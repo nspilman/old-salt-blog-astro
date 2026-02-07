@@ -9,12 +9,12 @@ categories:
 tags:
   - "NOAA"
   - "paper charts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/NOAApapercharts.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/NOAApapercharts.jpg"
 author: "Rick Spilman"
 description: "NOAA announced in the Federal Register of November 15, 2019, that it is initiating a five-year process to end all traditional paper nautical chart production and is seeking the public’s feedback on the program."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/NOAApapercharts.jpg)When I bought my new-to-me old boat, I bought several booklets of paper charts covering the waters from the Chesapeake to Maine. Over the last few years, I have never used them. Never, not once. Instead, I have chart plotters on a laptop, two tablets, and my phone. My paper charts have stayed buried at the bottom of the cabinet beneath the chart table. Nevertheless, I still had mixed feelings when I read that the National Oceanic and Atmospheric Administration (NOAA ) is phasing out the production of traditional paper nautical charts.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/NOAApapercharts.jpg)When I bought my new-to-me old boat, I bought several booklets of paper charts covering the waters from the Chesapeake to Maine. Over the last few years, I have never used them. Never, not once. Instead, I have chart plotters on a laptop, two tablets, and my phone. My paper charts have stayed buried at the bottom of the cabinet beneath the chart table. Nevertheless, I still had mixed feelings when I read that the National Oceanic and Atmospheric Administration (NOAA ) is phasing out the production of traditional paper nautical charts.
 
 [NOAA announced in the Federal Register of November 15, 2019](https://www.nauticalcharts.noaa.gov/updates/noaa-seeks-public-comment-on-ending-production-of-traditional-paper-nautical-charts/?fbclid=IwAR2nlLRW2An3lA5vfwPscegEDS9iYU08G33rKFix6v9JspOr47ZNkCsKZss), that it is initiating a five-year process to end all traditional paper nautical chart production and is seeking the public’s feedback on the program.
 

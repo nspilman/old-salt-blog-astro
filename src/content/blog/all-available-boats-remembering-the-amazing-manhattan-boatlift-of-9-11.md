@@ -11,12 +11,12 @@ tags:
   - "BOATLIFT"
   - "manhattan"
   - "World Trade Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/boatlift911.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/boatlift911.jpg"
 author: "Rick Spilman"
 description: "The events of 9/11 are still more clear in my memory than I would like. The dry, clear morning. The call from my wife from the mezzanine of the World Trade Center after the first plane hit the North Tower. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/boatlift911.jpg)The events of 9/11 are still more clear in my memory than I would like. The dry, clear morning. The call from my wife from the mezzanine of the World Trade Center after the first plane hit the North Tower. The orange blossom of flame when I saw the second plane hit the South Tower. The maelstrom of dust, smoke, and fire after the towers collapsed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/boatlift911.jpg)The events of 9/11 are still more clear in my memory than I would like. The dry, clear morning. The call from my wife from the mezzanine of the World Trade Center after the first plane hit the North Tower. The orange blossom of flame when I saw the second plane hit the South Tower. The maelstrom of dust, smoke, and fire after the towers collapsed.
 
 There was a part of that day, however, that was not only worth remembering but worth celebrating — the amazing, virtually miraculous, spontaneous maritime evacuation of somewhere between 300,000 and one million people who were trapped in lower Manhattan on the afternoon of September 11, 2001. It truly was an [American Dunkirk](http://www.oldsaltblog.com/2016/09/book-review-american-dunkirk-waterborne-evacuation-manhattan-911/).
 

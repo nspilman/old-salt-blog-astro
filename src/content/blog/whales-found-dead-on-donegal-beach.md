@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Sad news from over the weekend.   A post-mortem on the 35 dead pilot whales was cancelled Sunday due to bad weather. Whales found dead on Donegal beach … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/0003e351-314.jpg)Sad news from over the weekend.   A [post-mortem on the 35 dead pilot whales was cancelled Sunday](http://www.afloat.ie/marine-wildlife/item/14446-post-mortem-on-mass-pilot-whale-strandings-cancelled-due-to-bad-weather/) due to bad weather.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0003e351-314.jpg)Sad news from over the weekend.   A [post-mortem on the 35 dead pilot whales was cancelled Sunday](http://www.afloat.ie/marine-wildlife/item/14446-post-mortem-on-mass-pilot-whale-strandings-cancelled-due-to-bad-weather/) due to bad weather.
 
 [Whales found dead on Donegal beach](http://www.rte.ie/news/2010/1106/whales.html)  
   

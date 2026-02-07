@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The thief is described as a man, 40 to 50 years old, dressed in black leather, wearing a dark coat, carrying an 8 foot long whale tooth. The man was also reportedly walking a white dog.  He allegedly stole the tooth … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/NarwhalTusk.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/NarwhalTusk.jpg)
 
 Was the stolen 8' long "whale tooth" a narwhal tusk?
 

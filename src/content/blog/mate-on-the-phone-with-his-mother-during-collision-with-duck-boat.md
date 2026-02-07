@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/duck1.jpg)
 
 Last July, there was [a collision involving the tug Caribbean Sea pushing a barge and a disabled “Duck boat”](http://www.oldsaltblog.com/index.php?s=duck+boat) DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in the collision.  The mate, the officer on watch, was apparently talking to his mother on the phone prior to and during the collision.
 

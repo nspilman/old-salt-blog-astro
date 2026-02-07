@@ -12,12 +12,12 @@ tags:
   - "Oceangate"
   - "submersible"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/titanictrips.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/titanictrips.jpg"
 author: "Rick Spilman"
 description: "OceanGate, a privately owned manned submersible and survey company, recently tested its newest submersible, Titan, at depths of 13,000 feet underwater in the Abacos. Next year, the company plans to use the sub to perform 3D laser surveys of RMS Titanic. For $105,129 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/titanictrips.jpg)[OceanGate](http://www.oceangate.com/our-company/about.html), a privately owned manned submersible and survey company, recently tested its newest submersible, *Titan*, at depths of 13,000 feet underwater in the Abacos. Next year, the company plans to use the sub to perform [3D laser surveys](http://www.titanicsurveyexpedition.com/index.html) of [RMS *Titanic*](https://en.wikipedia.org/wiki/RMS_Titanic). For $105,129 per person, which OceanGate represents as the cost of an inflation-adjusted first class ticket on the original *Titanic,* passengers (referred to as Mission Specialists) can ride along/participate in the *Titanic* surveys. While this might seem to be a high price for most of us, of the [first six voyages planned for 2019](http://www.titanicsurveyexpedition.com/join.html), the first four trips are sold out and there is limited availability on the last two. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/titanictrips.jpg)[OceanGate](http://www.oceangate.com/our-company/about.html), a privately owned manned submersible and survey company, recently tested its newest submersible, *Titan*, at depths of 13,000 feet underwater in the Abacos. Next year, the company plans to use the sub to perform [3D laser surveys](http://www.titanicsurveyexpedition.com/index.html) of [RMS *Titanic*](https://en.wikipedia.org/wiki/RMS_Titanic). For $105,129 per person, which OceanGate represents as the cost of an inflation-adjusted first class ticket on the original *Titanic,* passengers (referred to as Mission Specialists) can ride along/participate in the *Titanic* surveys. While this might seem to be a high price for most of us, of the [first six voyages planned for 2019](http://www.titanicsurveyexpedition.com/join.html), the first four trips are sold out and there is limited availability on the last two. 
 
 What was the cost of a first-class ticket on the ill-fated maiden voyage of the *Titanic* in 1912? [OceanGate quotes the price of first-class passage](https://www.cbsnews.com/news/titanic-wreckage-trips-oceangate-next-summer-for-about-100000-each/) as $4,350. Is this the right figure? How much did passage on the Titanic actually cost? And how much has the price increased due to inflation? As is so often the case, it depends on who you ask. 
 

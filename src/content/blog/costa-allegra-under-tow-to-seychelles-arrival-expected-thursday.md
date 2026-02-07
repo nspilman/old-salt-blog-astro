@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A French fishing vessel was the first ship to reach the stricken Costa Allegra, which has been drifting without power in the Indian Ocean, as the result of an engine room fire Monday. The fishing vessel took the cruise ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/costa_wide.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/costa_wide.jpg)
 
 Photo released Tuesday by the Seychelles coast guard Photo:AFP/Getty
 

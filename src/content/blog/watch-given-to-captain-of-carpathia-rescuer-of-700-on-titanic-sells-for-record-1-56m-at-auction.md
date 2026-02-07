@@ -15,12 +15,12 @@ tags:
   - "Madeleine Astor"
   - "record for Titanic memorabilia"
   - "RMS Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/titanicwatch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/titanicwatch.jpg"
 author: "Rick Spilman"
 description: "An interesting story from the Guardian. When the RMS Titanic struck an iceberg and sank on 15 April 1912, approximately 1,500 died. The RMS Carpathia, under the command of Captain Arthur Rostron, rescued 706 passengers and crew from the Titanic‘s lifeboats. A … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/titanicwatch.jpg)An interesting story from the [Guardian](https://www.theguardian.com/uk-news/2024/nov/16/watch-given-to-captain-who-saved-700-titanic-passengers-sells-for-156m). When the [RMS *Titanic*](https://en.wikipedia.org/wiki/Titanic) struck an iceberg and sank on 15 April 1912, approximately 1,500 died. The [RMS *Carpathia*](https://en.wikipedia.org/wiki/RMS_Carpathia), under the command of Captain Arthur Rostron, rescued 706 passengers and crew from the *Titanic*‘s lifeboats.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/titanicwatch.jpg)An interesting story from the [Guardian](https://www.theguardian.com/uk-news/2024/nov/16/watch-given-to-captain-who-saved-700-titanic-passengers-sells-for-156m). When the [RMS *Titanic*](https://en.wikipedia.org/wiki/Titanic) struck an iceberg and sank on 15 April 1912, approximately 1,500 died. The [RMS *Carpathia*](https://en.wikipedia.org/wiki/RMS_Carpathia), under the command of Captain Arthur Rostron, rescued 706 passengers and crew from the *Titanic*‘s lifeboats.
 
 A gold pocket watch, presented to Captain Rostron by Madeleine Astor and two other widows of high-profile and wealthy businessmen, was sold at auction over the weekend for a record £1.56m, the highest amount ever paid for *Titanic* memorabilia, according to auctioneers [Henry Aldridge & Son](https://www.henryaldridge.com/) of Devizes, Wiltshire.
 

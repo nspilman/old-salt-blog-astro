@@ -11,12 +11,12 @@ tags:
   - "German Navy"
   - "Gorch Fock"
   - "scandal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/gorshfolkII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/gorshfolkII.jpg"
 author: "Rick Spilman"
 description: "The German Navy sail training ship Gorch Fock is finally back in the water after a lengthy repair/rebuilding, plagued by scandal and extraordinary cost overruns. Delivered in 1958, she is a near-sister vessel of the original ship of the same … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/gorshfolkII.jpg)The German Navy sail training ship [*Gorch Fock*](https://en.wikipedia.org/wiki/Gorch_Fock_\(1958\)) is finally back in the water after a lengthy repair/rebuilding, plagued by scandal and extraordinary cost overruns. Delivered in 1958, she is a near-sister vessel of the original ship of the same name commissioned in 1933. The ship is often referred to unofficially as the *Gorch Fock II* to distinguish her from her older sister ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/gorshfolkII.jpg)The German Navy sail training ship [*Gorch Fock*](https://en.wikipedia.org/wiki/Gorch_Fock_\(1958\)) is finally back in the water after a lengthy repair/rebuilding, plagued by scandal and extraordinary cost overruns. Delivered in 1958, she is a near-sister vessel of the original ship of the same name commissioned in 1933. The ship is often referred to unofficially as the *Gorch Fock II* to distinguish her from her older sister ship.
 
 Depending on who you ask the training ship is either the “pride of the German Navy” or an ongoing embarrassment. The [Berlin Spectator](https://berlinspectator.com/2019/03/01/germany-the-never-ending-problems-with-a-sailing-vessel/) took the later view when it noted that “replacing the second ‘o’ in ‘Gorch Fock’ with a ‘u’ will show what many Germans think of the scandals surrounding the vessel.”
 

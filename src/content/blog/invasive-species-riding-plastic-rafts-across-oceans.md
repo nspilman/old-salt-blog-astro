@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Another good news-bad news story. The good news is that the fears of radiation spreading across the Pacific from the Fukushima meltdown following the Japanese tsunami of 2011, have been wildly overstated.  Yes, trace elements of radiation traceable to Fukushima have been recorded in Pacific … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/invasivespecies-200x158.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/invasivespecies-200x158.jpg)
 
 Japanese marine sea slugs photo: John Chapman
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered \"satisfactory.\"  Anything below is considered \"not satisfactory.\"  The Queen Mary 2 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/story.queen_.mary2_.gi_.jpg)The [RMS *Queen Mary 2*](http://www.cunard.com/ships/queen-mary-2/),  flagship of the Cunard fleet,  recently failed a [Centers for Disease Control and Prevention’s Vessel Sanitation Program](http://www.cdc.gov/nceh/vsp/) inspection.  A scores of 86 or higher is considered “satisfactory.”  Anything below is considered “not satisfactory.”  The *Queen Mary 2* received a score of  84.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/story.queen_.mary2_.gi_.jpg)The [RMS *Queen Mary 2*](http://www.cunard.com/ships/queen-mary-2/),  flagship of the Cunard fleet,  recently failed a [Centers for Disease Control and Prevention’s Vessel Sanitation Program](http://www.cdc.gov/nceh/vsp/) inspection.  A scores of 86 or higher is considered “satisfactory.”  Anything below is considered “not satisfactory.”  The *Queen Mary 2* received a score of  84.
 
 [Queen Mary 2 fails sanitation inspection](http://www.cnn.com/2011/TRAVEL/06/24/queen.mary.inspection/index.html?eref=mrss_igoogle_cnn)  
   

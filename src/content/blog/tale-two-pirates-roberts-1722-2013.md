@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This is the tale of two very different men, from different places and different times. The first was a Welshman named John Roberts, though he took the name Bartholomew when he began his wildly successful but extremely short career as … Continue reading &rarr;"
 ---
 
-![Roberts](http://www.oldsaltblog.com/wp-content/uploads/2013/10/Roberts.jpg)This is the tale of two very different men, from different places and different times. The first was a Welshman named John Roberts, though he took the name Bartholomew when he began his wildly successful but extremely short career as a pirate in 1719. Within three years of turning pirate, [Bartholomew Roberts](http://en.wikipedia.org/wiki/Bartholomew_Roberts) was dead, his throat blown out by Royal Navy grape shot. In his short career, he and his pirate crews took over 470 prizes, making him the most successful pirate captain in what is considered the Great Age of Piracy.
+![Roberts](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Roberts.jpg)This is the tale of two very different men, from different places and different times. The first was a Welshman named John Roberts, though he took the name Bartholomew when he began his wildly successful but extremely short career as a pirate in 1719. Within three years of turning pirate, [Bartholomew Roberts](http://en.wikipedia.org/wiki/Bartholomew_Roberts) was dead, his throat blown out by Royal Navy grape shot. In his short career, he and his pirate crews took over 470 prizes, making him the most successful pirate captain in what is considered the Great Age of Piracy.
 
 Robert’s crew signed articles which have become known as the “pirate code” which featured a division of prize money, crew voting rights, and guarantees of fair treatment including payments for lost limbs. This good treatment did not apply to Robert’s victims, however. Roberts was notorious for torturing and killing prisoners.
 
@@ -24,7 +24,7 @@ His career ended when his ship *Royal Fortune* was surprised by *HMS Swallow* ne
 
 Which brings us to Ross William Ulbricht, founder of Silk Road, an untraceable secret Internet marketplace on which criminals traded drugs, laundered money, and even marketed assassinations.  His online nom de web was the Dread Pirate Roberts. His booty was in [Bitcoins](http://en.wikipedia.org/wiki/Bitcoin), a cryptocurrency that is independent of any central authority.  The modern Dread Pirate Roberts was not the swashbuckler of old, though he allegedly did hire a hitman to kill a Silk Road client who was threatening to blackmail him.  He claimed that it was not the first time that he had arranged a hit.
 
-![ulbricht](http://www.oldsaltblog.com/wp-content/uploads/2013/10/ulbricht.jpg)
+![ulbricht](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/ulbricht.jpg)
 
 Ross Ulbricht, the Dread Pirate Roberts
 

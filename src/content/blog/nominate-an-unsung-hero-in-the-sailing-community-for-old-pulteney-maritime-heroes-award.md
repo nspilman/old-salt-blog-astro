@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Sailing and sipping single malt scotch are among two of my favorite activities, (though not necessarily at the same time.)   It does seem fitting that Old Pulteney Single Malt Scotch Whisky and US Sailing have partnered to introduce the inaugural Old … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/banner1.jpg)Sailing and sipping single malt scotch are among two of my favorite activities, (though not necessarily at the same time.)   It does seem fitting that [Old Pulteney Single Malt Scotch Whisky](http://www.oldpulteney.com/home.php) and [US Sailing](http://home.ussailing.org/) have partnered to introduce the inaugural [Old Pulteney Maritime Heroes Award.](http://www.maritimeheroes.com/)  From their press release:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/banner1.jpg)Sailing and sipping single malt scotch are among two of my favorite activities, (though not necessarily at the same time.)   It does seem fitting that [Old Pulteney Single Malt Scotch Whisky](http://www.oldpulteney.com/home.php) and [US Sailing](http://home.ussailing.org/) have partnered to introduce the inaugural [Old Pulteney Maritime Heroes Award.](http://www.maritimeheroes.com/)  From their press release:
 
 [Old Pulteney Single Malt Scotch Whisky and US Sailing Introduce the Maritime Heroes Award: Calling Nominations for an Unsung Hero in the Sailing Community](http://www.prweb.com/releases/prweb2012/5/prweb9483517.htm)  
   

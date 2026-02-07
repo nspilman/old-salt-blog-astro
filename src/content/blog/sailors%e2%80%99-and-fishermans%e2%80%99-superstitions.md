@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of \"Fishing Boats\". … Continue reading &rarr;"
 ---
 
-![dory](http://www.oldsaltblog.com/wp-content/uploads/2009/10/dory.jpg)Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of “Fishing Boats”.  
+![dory](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/dory.jpg)Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of “Fishing Boats”.  
 
 *   Never start a trip on a Friday.
 *   Some fishermen would not sail if they passed a nun, rook, or a cat on the way to their vessel.

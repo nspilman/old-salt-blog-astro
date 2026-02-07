@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  \"Salute to Schooners,\" where schooners and other vessels will \"fire\" cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/gcsrbanner1.jpg)The festivities associated with the [Great Chesapeake Schooner Race 2017](http://www.gcbsr.org/) kick off tomorrow at 10 AM with a  “Salute to Schooners,” where schooners and other vessels will “fire” cannons, horns, etc. On land, students from Baltimore City schools will sing and play a musical tribute to the USA. From 1700-1900 hours, (5PM  – 7 PM) the schooners will be available for viewing dockside in Canton at the Baltimore Marine Center at Lighthouse Point. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/gcsrbanner1.jpg)The festivities associated with the [Great Chesapeake Schooner Race 2017](http://www.gcbsr.org/) kick off tomorrow at 10 AM with a  “Salute to Schooners,” where schooners and other vessels will “fire” cannons, horns, etc. On land, students from Baltimore City schools will sing and play a musical tribute to the USA. From 1700-1900 hours, (5PM  – 7 PM) the schooners will be available for viewing dockside in Canton at the Baltimore Marine Center at Lighthouse Point. 
 
 Wednesday will feature educational programs on certain schooners and dockside viewing from 10 AM to 2 PM. A Parade of sail will begin at 5 PM. The public is invited to view the schooners from the Canton, Fells Point, Harbor East and Inner Harbor shorelines. [Click here for a more detailed schedule of events.](http://www.gcbsr.org/schedule)
 

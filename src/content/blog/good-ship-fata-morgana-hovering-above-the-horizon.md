@@ -11,12 +11,12 @@ tags:
   - "Fata Morgana"
   - "superior mirage"
   - "temperature inversion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/fatamorgana.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/fatamorgana.jpg"
 author: "Rick Spilman"
 description: "David Morris was taking a walk along the coast near Falmouth, Cornwall, in the UK, when he saw what looked to be a large tanker hovering in the air above the horizon. He documented what he witnessed with several photographs.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/fatamorgana.jpg)David Morris was taking a walk along the coast near Falmouth, Cornwall, in the UK, when he saw what looked to be a large tanker hovering in the air above the horizon. He documented what he witnessed with several photographs.  Apparently, Mr. Morris saw a “superior mirage” also known as a [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_\(mirage\)). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/fatamorgana.jpg)David Morris was taking a walk along the coast near Falmouth, Cornwall, in the UK, when he saw what looked to be a large tanker hovering in the air above the horizon. He documented what he witnessed with several photographs.  Apparently, Mr. Morris saw a “superior mirage” also known as a [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_\(mirage\)). 
 
 The [BBC](https://www.bbc.com/news/uk-england-cornwall-56286719) quotes meteorologist David Braine said the “superior mirage” occurred because of “special atmospheric conditions that bend light”.
 

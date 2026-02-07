@@ -13,12 +13,12 @@ tags:
   - "court martial"
   - "san diego"
   - "Seaman Ryan Mays"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "The verdict in the court-martial of 21-year-old Seaman Ryan Mays, accused of deliberately setting the fire that torched the billion-plus dollar amphibious assault ship USS Bonhomme Richard, is in the hands of a military judge. If convicted of arson and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)The verdict in the court-martial of 21-year-old Seaman Ryan Mays, accused of deliberately setting the fire that torched the billion-plus dollar amphibious assault ship [USS *Bonhomme Richard*](https://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/), is in the [hands of a military judge](https://www.cbs8.com/article/news/investigations/fate-of-accused-arsonist-in-the-uss-bonhomme-richard-fire-now-in-hands-of-military-judge/509-adecaaee-5364-4ca2-aedd-ce1cf27fe5fc). If convicted of arson and willful hazarding a vessel, Mays could face a sentence of life in prison.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)The verdict in the court-martial of 21-year-old Seaman Ryan Mays, accused of deliberately setting the fire that torched the billion-plus dollar amphibious assault ship [USS *Bonhomme Richard*](https://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/), is in the [hands of a military judge](https://www.cbs8.com/article/news/investigations/fate-of-accused-arsonist-in-the-uss-bonhomme-richard-fire-now-in-hands-of-military-judge/509-adecaaee-5364-4ca2-aedd-ce1cf27fe5fc). If convicted of arson and willful hazarding a vessel, Mays could face a sentence of life in prison.
 
 Now that the trial has concluded, it is hard not to wonder whether the Navy’s case will go up in smoke. The nine-day trial featured a Navy case that was largely circumstantial and relied heavily on a single witness, whose story changed over time. The Navy also admitted to [identifying and interviewing another suspect](https://www.cbs8.com/article/news/investigations/fate-of-accused-arsonist-in-the-uss-bonhomme-richard-fire-now-in-hands-of-military-judge/509-adecaaee-5364-4ca2-aedd-ce1cf27fe5fc) but being forced to stop looking into the sailor because he was discharged from the service.
 

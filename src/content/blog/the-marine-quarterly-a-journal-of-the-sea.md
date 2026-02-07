@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The Maritime Quarterly, a new maritime journal, was launched on the first of this month.  Looks very interesting.   Extracts are available on its website.  About the journal: The Marine Quarterly is a new kind of sea journal, reporting subjects of strong interest to everyone … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/flyer.jpg)The [Maritime Quarterly](http://www.themarinequarterly.com/), a new maritime journal, was launched on the first of this month.  Looks very interesting.   [Extracts](http://www.themarinequarterly.com/?page_id=66) are available on its website.  About the journal:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/flyer.jpg)The [Maritime Quarterly](http://www.themarinequarterly.com/), a new maritime journal, was launched on the first of this month.  Looks very interesting.   [Extracts](http://www.themarinequarterly.com/?page_id=66) are available on its website.  About the journal:
 
 *The Marine Quarterly is a new kind of sea journal, reporting subjects of strong interest to everyone who goes on the sea. It will be full of big, authoritative articles on sailing, fisheries, adventuring, merchant shipping, conservation, natural history, heritage, trade, naval matters, and anything else connected with salt water.*  
   

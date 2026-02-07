@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Enormous Ice Block Breaks Off Greenland Glacier A 100-square-mile block of ice 600 feet thick has calved off one of the largest ocean-bordering glaciers in Greenland. The Arctic hasn’t lost a chunk of ice that big since 1962. \"In the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/Petermann.jpg)[Enormous Ice Block Breaks Off Greenland Glacier](http://www.wired.com/wiredscience/2010/08/ice-breaks-off/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Petermann.jpg)[Enormous Ice Block Breaks Off Greenland Glacier](http://www.wired.com/wiredscience/2010/08/ice-breaks-off/)
 
 *A 100-square-mile block of ice 600 feet thick has calved off one of the largest ocean-bordering glaciers in Greenland. The Arctic hasn’t lost a chunk of ice that big since 1962.*
 

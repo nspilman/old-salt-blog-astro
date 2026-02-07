@@ -13,12 +13,12 @@ tags:
   - "National Museum of the Royal Navy. submarines"
   - "pirate flag"
   - "Royal Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/subjollyR.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/subjollyR.jpg"
 author: "Rick Spilman"
 description: "The National Museum of the Royal Navy at the Portsmouth Historic Dockyard has a new exhibition — Jolly Roger: A Symbol of Terror and Pride. The website describes the exhibition as telling the story of the skull and crossbones flag, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/subjollyR.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/subjollyR.jpg)
 
 Flag flown by HMS Safari in WW II
 

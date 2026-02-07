@@ -12,12 +12,12 @@ tags:
   - "Bayshore Center"
   - "Lake Champlain Maritime Museum"
   - "Lois McClure"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/meerwald200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/meerwald200.jpg"
 author: "Rick Spilman"
 description: "Two fine schooners are looking for crew. The A.J. Meerwald is looking for various crew and staff positions.  A.J. Meerwald was built in 1928 as a Delaware Bay oyster schooner and is New Jersey’s official Tall Ship. A.J. Meerwald is operated by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/AJ-Meerwald-Lavin-HR-SS.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/AJ-Meerwald-Lavin-HR-SS.jpg)
 
 A.J. Meerwald
 
@@ -25,7 +25,7 @@ Two fine schooners are looking for crew. The [*A.J. Meerwald*](http://bayshorec
 
 In New York State, the [Lake Champlain Maritime Museum](http://www.lcmm.org/) has numerous [crew positions open](https://councilofamericanmaritimemuseums.org/2017/02/08/job-posting-lake-champlain-maritime-museum-seeks-crew-for-schooner-lois-mcclure-tour/) aboard the replica 1862 Canal Schooner [*Lois McClure*](http://www.lcmm.org/our_fleet/lois_mcclure.htm). Based on the archaeological remains of shipwrecks Lois McClure was built and launched in Burlington, Vermont. For the past 13 years she has been traveling the northeast, interpreting the shared history along the inland waterways. From the museum’s job posting: 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/louismcclure2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/louismcclure2.jpg)
 
 Lois McClure
 

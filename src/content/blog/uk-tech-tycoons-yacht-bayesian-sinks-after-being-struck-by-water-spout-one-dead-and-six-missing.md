@@ -15,12 +15,12 @@ tags:
   - "Sicily"
   - "UK’s Bill Gates"
   - "waterspout"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/sybaysean.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/sybaysean.jpg"
 author: "Rick Spilman"
 description: "The 56-meter sailing yacht Bayesian sank early Monday morning in severe weather while at anchor off the coast of Sicily. The yacht is believed to have been struck by a waterspout. There were 22 passengers and crew aboard when the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/sybaysean.jpg)The 56-meter sailing yacht [*Bayesian*](https://www.superyachts.com/fleet/bayesian-3639/) sank early Monday morning in severe weather while at anchor off the coast of Sicily. The yacht is believed to have been struck by a waterspout. There were 22 passengers and crew aboard when the yacht sank.  Fifteen were rescued from a life raft, while one person died. Six are reported missing and feared dead.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/sybaysean.jpg)The 56-meter sailing yacht [*Bayesian*](https://www.superyachts.com/fleet/bayesian-3639/) sank early Monday morning in severe weather while at anchor off the coast of Sicily. The yacht is believed to have been struck by a waterspout. There were 22 passengers and crew aboard when the yacht sank.  Fifteen were rescued from a life raft, while one person died. Six are reported missing and feared dead.
 
 Among the missing are British tech tycoon [Mike Lynch](https://en.wikipedia.org/wiki/Mike_Lynch_\(businessman\)) and his 18-year-old daughter, Hannah. His wife, Angela Bacares, was reported to have been rescued.
 

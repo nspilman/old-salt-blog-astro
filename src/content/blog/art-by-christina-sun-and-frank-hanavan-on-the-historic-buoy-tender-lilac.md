@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The bulkheads of the historic buoy tender Lilac will be graced by the maritime paintings of Christina Sun and Frank Hanavan from Tuesday, August 7 through August 31.  The Lilac is berthed at Hudson River Park’s Pier 25 at West Street and N. Moore Street in lower … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/wodecker.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/wodecker.jpg)
 
 Frank Hanavan’s W.O. Decker
 

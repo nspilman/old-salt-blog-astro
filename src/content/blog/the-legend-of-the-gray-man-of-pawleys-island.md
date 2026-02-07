@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Halloween, it seems appropriate to look at the legend of the Gray Man of Pawley’s Island, South Carolina, a benevolent ghost said to warn residents of coming severe storms and hurricanes. Those who heed his warnings are said to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/grayman.jpg)On Halloween, it seems appropriate to look at the legend of the [Gray Man of Pawley’s Island](https://en.wikipedia.org/wiki/The_Gray_Man_\(ghost\)), South Carolina, a benevolent ghost said to warn residents of coming severe storms and hurricanes. Those who heed his warnings are said to survive the storms while their homes and property remain undamaged. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/grayman.jpg)On Halloween, it seems appropriate to look at the legend of the [Gray Man of Pawley’s Island](https://en.wikipedia.org/wiki/The_Gray_Man_\(ghost\)), South Carolina, a benevolent ghost said to warn residents of coming severe storms and hurricanes. Those who heed his warnings are said to survive the storms while their homes and property remain undamaged. 
 
 The [story, with several variations](https://deepsouthmag.com/2018/07/10/legends-of-pawleys-island/), is said to date from 1822. Its origin is alleged to be of a young man going to visit his fiance, who dies after falling into quicksand on Pawley’s Island. His ghost is said to continue to walk the beaches of the island, providing warnings of foul weather — a ghostly freelance meteorologist, of sorts.
 

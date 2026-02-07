@@ -12,12 +12,12 @@ tags:
   - "Patriots Point"
   - "submarine"
   - "USS Clamagore"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/clamagore.jpg"
 author: "Rick Spilman"
 description: "For several years, there has been an ongoing discussion at the Patriots Point Naval & Maritime Museum about what to do with the World War II era, USS Clamagore. The 1945 built Balao-class submarine has been an exhibit at the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg)For several years, there has been an ongoing discussion at the [Patriots Point Naval & Maritime Museum](https://www.patriotspoint.org/) about what to do with the World War II era, [USS *Clamagore*.](https://en.wikipedia.org/wiki/USS_Clamagore_\(SS-343\)) The 1945 built Balao-class submarine has been an exhibit at the museum in Charleston, SC since 1981, but has become too costly to maintain. Current plans are to [sink the submarine as an artificial reef](http://www.clamagorereef.com/). The primary question now is when.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/clamagore.jpg)For several years, there has been an ongoing discussion at the [Patriots Point Naval & Maritime Museum](https://www.patriotspoint.org/) about what to do with the World War II era, [USS *Clamagore*.](https://en.wikipedia.org/wiki/USS_Clamagore_\(SS-343\)) The 1945 built Balao-class submarine has been an exhibit at the museum in Charleston, SC since 1981, but has become too costly to maintain. Current plans are to [sink the submarine as an artificial reef](http://www.clamagorereef.com/). The primary question now is when.
 
 Unfortunately, it is not as easy as it might sound to sink the submarine. The vessel has to be stripped of toxic materials and chemicals and wholly cleaned and prepared before it can be sent to the bottom.
 

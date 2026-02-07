@@ -13,12 +13,12 @@ tags:
   - "Rudyard Kipling"
   - "South Africa"
   - "women and children first"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/birkenheadwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/birkenheadwreck.jpg"
 author: "Rick Spilman"
 description: "HMS Birkenhead was one of the first iron-hulled ships built for the Royal Navy. She was designed as a steam frigate, but was converted to a troopship before being commissioned in 1851. While transporting troops and a few civilians to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/birkenheadwreck.jpg)HMS *Birkenhead* was one of the first iron-hulled ships built for the Royal Navy. She was designed as a steam frigate, but was converted to a troopship before being commissioned in 1851.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/birkenheadwreck.jpg)HMS *Birkenhead* was one of the first iron-hulled ships built for the Royal Navy. She was designed as a steam frigate, but was converted to a troopship before being commissioned in 1851.
 
 While transporting troops and a few civilians to Algoa Bay, the *Birkenhead* was wrecked on 26 February 1852 at Danger Point near Gansbaai, 87 miles (140 km) from Cape Town in the Cape Colony of South Africa. There were insufficient serviceable lifeboats for all the passengers, and the soldiers famously stood in ranks on board, thereby allowing the women and children to board the boats safely and escape the sinking.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "What appears to be the carcass of a Bryde’s whale has washed ashore in Case Inlet in Puget Sound in Washington State.   If it is a Bryde’s whale, it is a mystery what a whale that favors tropical waters was doing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/deadwhale2.jpg)What appears to be the carcass of a Bryde’s whale has washed ashore in Case Inlet in Puget Sound in Washington State.   If it is a Bryde’s whale, it is a mystery what a whale that favors tropical waters was doing in the frigid waters of the Pacific Northwest.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/deadwhale2.jpg)What appears to be the carcass of a Bryde’s whale has washed ashore in Case Inlet in Puget Sound in Washington State.   If it is a Bryde’s whale, it is a mystery what a whale that favors tropical waters was doing in the frigid waters of the Pacific Northwest.
 
 [Cetaceous stranger washes up in Puget Sound](http://www.king5.com/news/local/Cetaceous-Stranger-Washes-Up-in-Puget-Sound--82103912.html)  
   

@@ -14,12 +14,12 @@ tags:
   - "Netherlands"
   - "Ukrainian refugees"
   - "Volendam"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/volendam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/volendam.jpg"
 author: "Rick Spilman"
 description: "Cruise Industry News reports that Holland America Line‘s Volendam will be used to accommodate Ukrainian refugees as part of an agreement announced by Netherlands and City of Rotterdam government officials. According to a press release, the ship will dock in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/volendam.jpg)[Cruise Industry News](https://www.cruiseindustrynews.com/cruise-news/27132-holland-america-cruise-ship-to-provide-housing-ukrainian-refugees-in-the-netherlands.html) reports that [Holland America Line](https://en.wikipedia.org/wiki/Holland_America_Line)‘s [*Volendam*](https://en.wikipedia.org/wiki/MS_Volendam) will be used to accommodate Ukrainian refugees as part of an agreement announced by Netherlands and City of Rotterdam government officials.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/volendam.jpg)[Cruise Industry News](https://www.cruiseindustrynews.com/cruise-news/27132-holland-america-cruise-ship-to-provide-housing-ukrainian-refugees-in-the-netherlands.html) reports that [Holland America Line](https://en.wikipedia.org/wiki/Holland_America_Line)‘s [*Volendam*](https://en.wikipedia.org/wiki/MS_Volendam) will be used to accommodate Ukrainian refugees as part of an agreement announced by Netherlands and City of Rotterdam government officials.
 
 According to a press release, the ship will dock in Rotterdam for three months to provide a temporary home for approximately 1,500 Ukrainians, part of a larger commitment from the Netherlands to accommodate 50,000 people who fled the war in their homeland.
 

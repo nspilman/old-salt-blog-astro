@@ -12,12 +12,12 @@ tags:
   - "Lloyd Werft shipyard crane"
   - "Miguel de Cervantes"
   - "tilt at windmills"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/bremerhavencrane.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/bremerhavencrane.jpg"
 author: "Rick Spilman"
 description: "In Miguel de Cervantes’ epic novel Don Quixote, the namesake hero mistakes a row of windmills for evil giants and launches a bold, if comically unsuccessful, attack.  The windmills win, as the errant knight is swatted from his steed by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/bremerhavencrane.jpg)In Miguel de Cervantes’ epic novel *[Don Quixote](https://www.vesselfinder.com/vessels/details/9138525),* the namesake hero mistakes a row of windmills for evil giants and launches a bold, if comically unsuccessful, attack.  The windmills win, as the errant knight is swatted from his steed by a windmill blade spinning in the breeze. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/bremerhavencrane.jpg)In Miguel de Cervantes’ epic novel *[Don Quixote](https://www.vesselfinder.com/vessels/details/9138525),* the namesake hero mistakes a row of windmills for evil giants and launches a bold, if comically unsuccessful, attack.  The windmills win, as the errant knight is swatted from his steed by a windmill blade spinning in the breeze. 
 
 On Sunday night, in Bremerhaven, the eponymously named car carrier [*Don Quijote*](https://www.vesselfinder.com/vessels/details/9138525) did not “tilt at windmills” but instead drifted into a [Lloyd Werft shipyard](https://en.wikipedia.org/wiki/Lloyd_Werft) crane after being blown off its moorings in high winds. This time, *Don Quijote* won. Luckily, no one was injured.
 

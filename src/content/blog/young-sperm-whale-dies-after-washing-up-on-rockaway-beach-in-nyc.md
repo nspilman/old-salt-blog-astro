@@ -12,12 +12,12 @@ tags:
   - "New York City"
   - "Rockaway Beach"
   - "sperm whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/spermwhalerockaway.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/spermwhalerockaway.jpg"
 author: "Rick Spilman"
 description: "A sperm whale, estimated to be a female between three and five-years-old, died after washing up on Rockaway Beach in New York City on Tuesday. PIX11 reports that the Parks Department was told about the approximately 30-foot sperm whale near … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/spermwhalerockaway.jpg)A sperm whale, estimated to be a female between three and five-years-old, died after washing up on Rockaway Beach in New York City on Tuesday. [PIX11](https://pix11.com/news/local-news/queens/whale-dies-at-rockaway-beach-in-queens/) reports that the Parks Department was told about the approximately 30-foot sperm whale near Beach 73rd Street around 9 a.m. They’re working with the National Oceanic and Atmospheric Administration (NOAA), the [Atlantic Marine Conservation Society](https://www.amseas.org/) (AMSEAS), and NYS Department of Environmental Conservation on a plan for examination and disposal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/spermwhalerockaway.jpg)A sperm whale, estimated to be a female between three and five-years-old, died after washing up on Rockaway Beach in New York City on Tuesday. [PIX11](https://pix11.com/news/local-news/queens/whale-dies-at-rockaway-beach-in-queens/) reports that the Parks Department was told about the approximately 30-foot sperm whale near Beach 73rd Street around 9 a.m. They’re working with the National Oceanic and Atmospheric Administration (NOAA), the [Atlantic Marine Conservation Society](https://www.amseas.org/) (AMSEAS), and NYS Department of Environmental Conservation on a plan for examination and disposal.
 
 According to AMSEAS, the whale is the sixth large whale stranded in New York since Oct. 20, 2022. Two others were sperm whales. The group plans on performing a necropsy within the next several days, a NOAA spokesperson said.
 

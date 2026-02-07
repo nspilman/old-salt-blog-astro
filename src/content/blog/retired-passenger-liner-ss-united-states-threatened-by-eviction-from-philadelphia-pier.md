@@ -11,12 +11,12 @@ tags:
   - "Philadelphia"
   - "Pier 82"
   - "SS United States"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "The SS United States, the largest and fastest transatlantic passenger liner ever built in America, has spent the last 27 years moored at Philadephia’s Pier 82 on the Delaware River. The venerable ship is now threatened with eviction.  Yahoo reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)The SS [*United States*](https://en.wikipedia.org/wiki/SS_United_States), the largest and fastest transatlantic passenger liner ever built in America, has spent the last 27 years moored at Philadephia’s Pier 82 on the Delaware River. The venerable ship is now threatened with eviction.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg)The SS [*United States*](https://en.wikipedia.org/wiki/SS_United_States), the largest and fastest transatlantic passenger liner ever built in America, has spent the last 27 years moored at Philadephia’s Pier 82 on the Delaware River. The venerable ship is now threatened with eviction.
 
  [Yahoo](https://news.yahoo.com/americas-flagship-under-threat-eviction-083503503.html) reports that during the pandemic in 2021, the vessel’s landlords doubled the dockage fees. Now, according to federal legal filings, pier operators would like the ship gone. 
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Two weeks ago the remains of an 18th century ship were found in the excavation of the World Trade Center site in Lower Manhattan.    On Thursday Warren Riess, an archaeologist specializing in marine history, speculated that the ship was  most likely a brigantine; … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/CityRoom-ShipA.jpg)Two weeks ago the remains of an [18th century ship were found in the excavation of the World Trade Center site](18th Century Ship Found Buried at New York’s World Trade Center Site) in Lower Manhattan.    On Thursday Warren Riess, an archaeologist specializing in marine history, speculated that the ship was  most likely a brigantine; the two-masted workhorse of the coastal trade.  “It’s one of the ships that helped build New York.”    It also now appears that work on  a concrete wall last year may have inadvertently destroyed the after section of the ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/CityRoom-ShipA.jpg)Two weeks ago the remains of an [18th century ship were found in the excavation of the World Trade Center site](18th Century Ship Found Buried at New York’s World Trade Center Site) in Lower Manhattan.    On Thursday Warren Riess, an archaeologist specializing in marine history, speculated that the ship was  most likely a brigantine; the two-masted workhorse of the coastal trade.  “It’s one of the ships that helped build New York.”    It also now appears that work on  a concrete wall last year may have inadvertently destroyed the after section of the ship.
 
 [A Brigantine Beneath Washington Street](http://cityroom.blogs.nytimes.com/2010/07/29/a-brigantine-beneath-washington-street/)  
   

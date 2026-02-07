@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "HMS Victory in recent snowy weather Portsmouth Historic Dockyard marks 88 years of HMS Victory From broadside battles off the Mediterranean coast to Vice Admiral Lord Nelson’s triumph in the Battle of Trafalgar and campaigns in the Baltic, the guardians … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/victorysnow.jpg)HMS Victory in recent snowy weather
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/victorysnow.jpg)HMS Victory in recent snowy weather
 
 [Portsmouth Historic Dockyard marks 88 years of HMS Victory](http://www.culture24.org.uk/history+%2526+heritage/transport/maritime+history/art74910)
 

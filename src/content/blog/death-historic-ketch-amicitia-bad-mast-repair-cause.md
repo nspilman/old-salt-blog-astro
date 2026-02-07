@@ -11,12 +11,12 @@ tags:
   - "Amicitia"
   - "mast"
   - "repair"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/Amicitia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/Amicitia.jpg"
 author: "Rick Spilman"
 description: "Germany’s Federal Bureau of Maritime Casualty Investigation has released a preliminary report suggesting that a mast repair on the ketch Amicita may have been the cause of a fatal accident in which three male passengers were struck and killed by … Continue reading &rarr;"
 ---
 
-![amicitia](http://www.oldsaltblog.com/wp-content/uploads/2016/10/Amicitia.jpg)Germany’s Federal Bureau of Maritime Casualty Investigation has released a preliminary report suggesting that a mast repair on the ketch *[Amicita](http://www.wadcharter.nl/index.php/english/amicitia-3)* may have been the cause of a fatal accident in which three male passengers were struck and killed by falling rigging on August 21th.
+![amicitia](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/Amicitia.jpg)Germany’s Federal Bureau of Maritime Casualty Investigation has released a preliminary report suggesting that a mast repair on the ketch *[Amicita](http://www.wadcharter.nl/index.php/english/amicitia-3)* may have been the cause of a fatal accident in which three male passengers were struck and killed by falling rigging on August 21th.
 
 The ketch *Amicita* was built in 1889 and worked as a sailing cargo carrier. In the 90s, she was converted for passenger service. A German family of twelve had chartered the ketch with the captain and his wife, for a family vacation on the Wadden sea.  On a Sunday in the early afternoon, on the last day of their vacation, the main mast broke. The falling mast and rigging killed three men aged 19, 43 and 48.
 

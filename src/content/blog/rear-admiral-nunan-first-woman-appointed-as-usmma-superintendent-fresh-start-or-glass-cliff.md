@@ -11,12 +11,12 @@ tags:
   - "retired US Coast Guard two-star admiral"
   - "superintendent"
   - "US Merchant Marine Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/admrlnunam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/admrlnunam.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Rear Admiral Joanna Nunan, a retired US Coast Guard two-star admiral, recently appointed to be the superintendent of the US Merchant Marine Academy at King’s Point, NY, the first woman appointed as superintendent in the academy’s eight-decade history.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/admrlnunam.jpg)Congratulations to [Rear Admiral Joanna Nunan](https://www.maritime.dot.gov/newsroom/rear-admiral-joanna-nunan-announced-as14th-superintendent-us-merchant-marine-academy), a retired US Coast Guard two-star admiral, recently appointed to be the superintendent of the [US Merchant Marine Academy at King’s Point](https://www.usmma.edu/), NY, the first woman appointed as superintendent in the academy’s eight-decade history. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/admrlnunam.jpg)Congratulations to [Rear Admiral Joanna Nunan](https://www.maritime.dot.gov/newsroom/rear-admiral-joanna-nunan-announced-as14th-superintendent-us-merchant-marine-academy), a retired US Coast Guard two-star admiral, recently appointed to be the superintendent of the [US Merchant Marine Academy at King’s Point](https://www.usmma.edu/), NY, the first woman appointed as superintendent in the academy’s eight-decade history. 
 
 “Rear Admiral Nunan is uniquely prepared to lead and strengthen USMMA on every front,” said Maritime Administrator Ann Phillips in a [statement](https://www.maritime.dot.gov/newsroom/rear-admiral-joanna-nunan-announced-as14th-superintendent-us-merchant-marine-academy). “She understands both the critical role USMMA plays in our economic and national security and the organizational transformations that are essential to ensuring USMMA prepares students in a safe and respectful environment to excel in a maritime industry undergoing rapid change.”
 

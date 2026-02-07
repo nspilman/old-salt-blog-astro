@@ -10,12 +10,12 @@ tags:
   - "ghost ship"
   - "Romanian Art collective"
   - "Visual Skin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/ghostship2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ghostship2.jpg"
 author: "Rick Spilman"
 description: "Grasping at any excuse to stop thinking about the pandemic, for Throw-back Thursday, here is an updated repost from several years ago about an almost magical ghost ship. What should a ghost ship be made of? Why not water, wind, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/ghostship2.jpg)Grasping at any excuse to stop thinking about the pandemic, for Throw-back Thursday, here is an updated repost from several years ago about an almost magical ghost ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ghostship2.jpg)Grasping at any excuse to stop thinking about the pandemic, for Throw-back Thursday, here is an updated repost from several years ago about an almost magical ghost ship.
 
 What should a ghost ship be made of? Why not water, wind, and light? That is precisely what the designers at the Romanian art collective [Visual Skin](https://visualskin.ro/) used to create the [Ghost Ship](https://visualskin.ro/visual-skin-ghost-ship-3d-water-projection/), a glowing ship of light projected onto flowing water and billowing breezes. It floated gently on the water of canal in Amsterdam, with the spectral sails billowing in the wind. The ghost ship was part of the Amsterdam Light Festival of 2014. Since then the Ghost Ship has also appeared at Spotlight Bucharest and Berlin Leuchtet.
 

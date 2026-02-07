@@ -11,12 +11,12 @@ tags:
   - "Crozier"
   - "US Navy"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg"
 author: "Rick Spilman"
 description: "The US government has now reversed the recommendation made by high ranking Navy officials that Capt. Brett Crozier, commander of the aircraft carrier USS Theodore Roosevelt, be reinstated.   In April, the coronavirus was spreading out of control on the aircraft … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg)The US government has now reversed the recommendation made by high ranking Navy officials that Capt. Brett Crozier, commander of the aircraft carrier [USS](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_\(CVN-71\)) *[Theodore Roosevelt](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_\(CVN-71\)),* be reinstated.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg)The US government has now reversed the recommendation made by high ranking Navy officials that Capt. Brett Crozier, commander of the aircraft carrier [USS](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_\(CVN-71\)) *[Theodore Roosevelt](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_\(CVN-71\)),* be reinstated.  
 
 In April, the coronavirus was [spreading out of control on the aircraft carrier USS *Theodore Roosevelt.*](http://www.oldsaltblog.com/2020/04/first-sailor-from-uss-theodore-roosevelt-dies-from-coronavirus/)  When a letter he wrote seeking help for his ship’s crew was leaked to the press, Captain Crozier was fired. Notwithstanding his dismissal, the Navy acted on Capt. Crozier’s recommendations and requests. 
 

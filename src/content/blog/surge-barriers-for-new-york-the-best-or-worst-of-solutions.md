@@ -11,12 +11,12 @@ tags:
   - "hudson river"
   - "New York harobr"
   - "surge barrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/surgebarriernyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/surgebarriernyc.jpg"
 author: "Rick Spilman"
 description: "After the flooding caused by Superstorm Sandy in 2012, a proposal was developed to build storm surge barriers to protect New York City and nearby municipalities. Given the rising sea levels and increasingly violent storms associated with climate change, many … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/surgebarriernyc.jpg)After the flooding caused by [Superstorm Sandy](https://en.wikipedia.org/wiki/Effects_of_Hurricane_Sandy_in_New_York) in 2012, a proposal was developed to build storm surge barriers to protect New York City and nearby municipalities. Given the rising sea levels and increasingly violent storms associated with climate change, many argue that this storm barriers are an absolute necessity to prevent more devastating flooding in the immediate future.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/surgebarriernyc.jpg)After the flooding caused by [Superstorm Sandy](https://en.wikipedia.org/wiki/Effects_of_Hurricane_Sandy_in_New_York) in 2012, a proposal was developed to build storm surge barriers to protect New York City and nearby municipalities. Given the rising sea levels and increasingly violent storms associated with climate change, many argue that this storm barriers are an absolute necessity to prevent more devastating flooding in the immediate future.
 
 The [U.S. Army Corps of Engineers is now considering six different plans](https://www.riverkeeper.org/blogs/ecology/storm-surge-barrier-plans-ny-harbor-process/) involving massive in-water barriers and/or land-based floodwalls, dunes and levees intended to “manage the risk of coastal storm damage” to New York Harbor and the Hudson Valley.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Here is a time-lapse video of the U.S. Coast Guard’s 81-year-old Barque Eagle departing the floating drydock, the ex-USS Oak Ridge, on February 27, 2018, at the Coast Guard Yard, Baltimore, Maryland. The 295-foot Eagle went on dock in August … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/eagledd1.jpg)Here is a time-lapse video of the U.S. Coast Guard’s 81-year-old Barque [*Eagle*](https://en.wikipedia.org/wiki/USCGC_Eagle_\(WIX-327\)) departing the floating drydock, the ex-USS [*Oak Ridge*](https://en.wikipedia.org/wiki/USS_Oak_Ridge_\(ARDM-1\)), on February 27, 2018, at the Coast Guard Yard, Baltimore, Maryland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/eagledd1.jpg)Here is a time-lapse video of the U.S. Coast Guard’s 81-year-old Barque [*Eagle*](https://en.wikipedia.org/wiki/USCGC_Eagle_\(WIX-327\)) departing the floating drydock, the ex-USS [*Oak Ridge*](https://en.wikipedia.org/wiki/USS_Oak_Ridge_\(ARDM-1\)), on February 27, 2018, at the Coast Guard Yard, Baltimore, Maryland.
 
 The 295-foot *Eagle* went on dock in August of 2017, to complete the fourth and final phase of a service life extension project under the Coast Guard’s in-service vessel sustainment program. While in the drydock repairs to the mechanical and electrical systems were completed, was well inspections and structural repairs. The work should provide an additional decade of service life for the historic training vessel, and will allow America’s Tall Ship Eagle to train the Coast Guard’s future officers for years to come. Eagle will now return to the Coast Guard Academy for its [summer ports of call](https://www.facebook.com/CoastGuardCutterEagle/).
 

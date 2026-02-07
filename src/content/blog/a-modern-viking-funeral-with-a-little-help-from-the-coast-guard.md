@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "US Coast Guard, Station Atlantic City, helped give Andrew Haines, a World War II veteran, the Viking funeral that he had dreamed of for years."
 ---
 
-![Photo: Petty Officer 2nd Class Cynthia Oldham -- Coast Guard](http://www.oldsaltblog.com/wp-content/uploads/2014/10/vikingpyre.jpg)
+![Photo: Petty Officer 2nd Class Cynthia Oldham -- Coast Guard](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/vikingpyre.jpg)
 
 Photo: Petty Officer 2nd Class Cynthia Oldham — Coast Guard
 

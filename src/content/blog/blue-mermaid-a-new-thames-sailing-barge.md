@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Classic Sailor reports on a new Thames sailing barge: A new sailing barge is a rare sight – but in 1900 there were around 4,000 such barges registered to carry cargo up and down the London river – and the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/bluedophin.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/bluedophin.jpg)  
 [Classic Sailor](https://classicsailor.com/2019/07/a-new-thames-sailing-barge/) reports on a new Thames sailing barge: *A new sailing barge is a rare sight – but in 1900 there were around 4,000 such barges registered to carry cargo up and down the London river – and the surrounding coasts, using just the wind and the tide.  A**nd mostly with a crew of just two…*
 
 *And the Blue Mermaid has also been built for trade… in fact, she’s the first sailing barge built for trade in Britain since 1930. She’s 87ft long and has a hold that can carry 84 pallettes or 150 tons of loose cargo – that’s The equivalent of Five articulated lorry loads.*

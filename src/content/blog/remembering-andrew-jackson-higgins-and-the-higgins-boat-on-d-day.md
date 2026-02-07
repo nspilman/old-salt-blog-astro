@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "I am aware of only one man who was praised by both Eisenhower and Hitler. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for us. … If Higgins had not designed and … Continue reading &rarr;"
 ---
 
-![lilboatpic](http://www.oldsaltblog.com/wp-content/uploads/2014/06/lilboatpic.jpg)I am aware of only one man who was praised by both Eisenhower and Hitler.
+![lilboatpic](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/lilboatpic.jpg)I am aware of only one man who was praised by both Eisenhower and Hitler.
 
 General Dwight David Eisenhower said that “Andrew Higgins … is the man who won the war for us. … If Higgins had not designed and built those LCVPs, we never could have landed over an open beach. The whole strategy of the war would have been different.”  Adolph Hitler referred to Andrew Higgins as the “new Noah,” though his admiration was more begrudging. On the 70th anniversary of the [Normandy landings](http://en.wikipedia.org/wiki/Normandy_landings), better known as D-Day, is seems worthwhile to remember Andrew Higgins and the amazing Higgins boat.
 

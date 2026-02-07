@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In January we posted that the Hudson River Park Trust was seeking proposals to dock historic vessels on the newly refurbished Pier 25 in the Hudson River off Tribecca.   Earlier this month the the Hudson River Park Trust announced … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/clipper-city.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/clipper-city.jpg)
 
 Clipper City
 

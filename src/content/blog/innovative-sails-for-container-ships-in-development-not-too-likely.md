@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I saw the headline and immediately shook my head.  There may indeed be an application for sails on bulk carriers, but containerships, well, not so much.  With a five high (or higher) stack of boxes on deck, containerships have exactly the stability they need – … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Med_Eco-marine-powered-ship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Med_Eco-marine-powered-ship.jpg)
 
 Definitely not a containership
 

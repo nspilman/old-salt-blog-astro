@@ -9,7 +9,7 @@ tags:
   - "F-35 Lightning stealth jets"
   - "HMS Queen Elizabeth"
   - "Portsmouth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/hmsqeplane.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/hmsqeplane.jpg"
 author: "Rick Spilman"
 description: "From the BBC:  Fighter jets, specifically F-35 Lightning stealth jets, have landed on the UK’s new £3.1bn aircraft carrier for the first time.  Portsmouth-based HMS Queen Elizabeth was commissioned into the British fleet last year. The crew are currently undergoing sea … Continue reading &rarr;"
 ---

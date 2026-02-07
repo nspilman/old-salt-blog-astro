@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "My River Chronicle – Rediscovering the America on the Hudson, is a fascinating voyage in the life of a young woman, who finds herself oddly quite at home in a most unlikely new job. It is also a journey through … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/riverchron.jpg)*[My River Chronicle – Rediscovering the America on the Hudson](http://www.amazon.com/gp/product/B003IWYG66?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003IWYG66)*, is a fascinating voyage in the life of a young woman, who finds herself oddly quite at home in a most unlikely new job. It is also a journey through the history of America itself as it moves from an industrial past into an uncertain future.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/riverchron.jpg)*[My River Chronicle – Rediscovering the America on the Hudson](http://www.amazon.com/gp/product/B003IWYG66?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B003IWYG66)*, is a fascinating voyage in the life of a young woman, who finds herself oddly quite at home in a most unlikely new job. It is also a journey through the history of America itself as it moves from an industrial past into an uncertain future.
 
 While working for a dot-com startup, started volunteering on a retired fire boat, the John J. Harvey. She was the first woman ever to run the engines. When her day job disappeared, she was offered a position on the fireboat where she spent so many hours as a volunteer. Over time, she became a licensed engineer on the historic fire boat, as well as the pilot on another tug.
 

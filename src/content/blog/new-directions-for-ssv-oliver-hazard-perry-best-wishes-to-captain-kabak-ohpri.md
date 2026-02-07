@@ -12,12 +12,12 @@ tags:
   - "Captain Jonathan Kabak"
   - "Oliver Hazard Perry Rhode Island"
   - "SSV Oliver Hazard Perry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/ohp3.jpg"
 author: "Rick Spilman"
 description: "We recently posted that the Oliver Hazard Perry Rhode Island (OHPRI) organization had taken a \"strategic pause\" to rethink its strategy for the financial sustainability of the SS Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a new … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg)We recently [posted](http://www.oldsaltblog.com/2019/02/tallship-oliver-hazard-perry-in-drydock-with-uncertain-future/) that the [Oliver Hazard Perry Rhode Island](https://www.ohpri.org/) (OHPRI) organization had taken a “strategic pause” to rethink its strategy for the financial sustainability of the SS *Oliver Hazard Perry*, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a [new operating plan](https://www.ohpri.org/ohpri-2019-moving-forward). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/ohp3.jpg)We recently [posted](http://www.oldsaltblog.com/2019/02/tallship-oliver-hazard-perry-in-drydock-with-uncertain-future/) that the [Oliver Hazard Perry Rhode Island](https://www.ohpri.org/) (OHPRI) organization had taken a “strategic pause” to rethink its strategy for the financial sustainability of the SS *Oliver Hazard Perry*, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a [new operating plan](https://www.ohpri.org/ohpri-2019-moving-forward). 
 
 “We explored different options for the ship, even one of selling it to a corporation,” said OHPRI’s new Chairman Avery “Whip” Seaman, “but really the best plan for Oliver Hazard Perry is for her to remain here in Rhode Island serving the people of Rhode Island and adjacent coastal communities with year-round programming.” 
 

@@ -9,12 +9,12 @@ categories:
 tags:
   - "gender-neutral"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/figureheadshe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/figureheadshe.jpg"
 author: "Rick Spilman"
 description: "There has been a minor hub-bub of late over the decision by the Scottish Maritime Museum to use gender-neutral references to ships after vandals have scratched out references to \"she\" several times on museum displays. Putting aside the question of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/figureheadshe.jpg)There has been a minor hub-bub of late over the decision by the [Scottish Maritime Museum to use gender-neutral references to ships](https://www.telegraph.co.uk/news/2019/04/23/gender-neutral-boats-rise-maritime-museum-removes-signs-referring/) after vandals have scratched out references to “she” several times on museum displays. Putting aside the question of whether vandals are the best choice for dictating museum policies, the museum is not alone in moving to gender-neutral labeling for ships. Lloyd’s List, the more than 280-year-old publication has been [referring to ships as “it” rather than as “she” since 2002.](https://www.telegraph.co.uk/news/uknews/1388373/Lloyds-List-sinks-the-tradition-of-calling-ships-she.html) 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/figureheadshe.jpg)There has been a minor hub-bub of late over the decision by the [Scottish Maritime Museum to use gender-neutral references to ships](https://www.telegraph.co.uk/news/2019/04/23/gender-neutral-boats-rise-maritime-museum-removes-signs-referring/) after vandals have scratched out references to “she” several times on museum displays. Putting aside the question of whether vandals are the best choice for dictating museum policies, the museum is not alone in moving to gender-neutral labeling for ships. Lloyd’s List, the more than 280-year-old publication has been [referring to ships as “it” rather than as “she” since 2002.](https://www.telegraph.co.uk/news/uknews/1388373/Lloyds-List-sinks-the-tradition-of-calling-ships-she.html) 
 
 Not surprisingly, not everyone is happy with the change. The [Telegraph](https://www.telegraph.co.uk/news/2019/04/23/gender-neutral-boats-rise-maritime-museum-removes-signs-referring/) reports that supporters of the museum expressed their dismay on social media. “This isn’t how it works. You don’t get to erase history, and like it or not ships have always been referred to as she,” said Jennifer Sorbara.
 

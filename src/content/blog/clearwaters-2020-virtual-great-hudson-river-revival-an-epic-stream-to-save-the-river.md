@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Clearwater Great Hudson River Revival is a music and environmental summer festival held yearly since 1966, on the banks of the Hudson River. It is said to be America’s oldest and the largest annual festival of its kind.  In … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/clearvaterrevival2020.jpg)The *Clearwater* [Great Hudson River Revival](https://www.clearwaterfestival.org/) is a music and environmental summer festival held yearly since 1966, on the banks of the Hudson River. It is said to be America’s oldest and the largest annual festival of its kind. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/clearvaterrevival2020.jpg)The *Clearwater* [Great Hudson River Revival](https://www.clearwaterfestival.org/) is a music and environmental summer festival held yearly since 1966, on the banks of the Hudson River. It is said to be America’s oldest and the largest annual festival of its kind. 
 
 In the year of a pandemic,  the things have changed. This year’s Revival will be a series of online performances and events streamed live on Saturday, June 20th, from 11 a.m. to 11 p.m. on the [*Clearwater*’s website](https://www.clearwaterfestival.org/), [YouTube channel](https://www.youtube.com/user/HRSloopClearwater) and [Facebook page](https://www.facebook.com/events/252368766081467/).
 

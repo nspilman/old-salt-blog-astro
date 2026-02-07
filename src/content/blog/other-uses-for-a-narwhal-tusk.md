@@ -11,12 +11,12 @@ tags:
   - "narwhal"
   - "Queen Elizabeth I"
   - "tusk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/narwhal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/narwhal.jpg"
 author: "Rick Spilman"
 description: "When a terrorist began attacking people with knives on London Bridge recently, a man, described in news reports as a Polish chef, at nearby Fishmongers’ Hall, where the incident began, grabbed a narwhal tusk that was displayed by the side … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/narwhal.jpg)When a terrorist began attacking people with knives on London Bridge recently, a man, described in news reports as a Polish chef, at nearby Fishmongers’ Hall, where the incident began, [grabbed a narwhal tusk](https://www.theguardian.com/uk-news/2019/nov/30/narwhal-tusk-and-fire-extinguisher-used-to-tackle-london-bridge-attacker) that was displayed by the side of the hall’s doorway and, wielding it like a lance, deployed it against the assailant outside. It was one of the more unusual uses of a narwhal tusk in recent memory. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/narwhal.jpg)When a terrorist began attacking people with knives on London Bridge recently, a man, described in news reports as a Polish chef, at nearby Fishmongers’ Hall, where the incident began, [grabbed a narwhal tusk](https://www.theguardian.com/uk-news/2019/nov/30/narwhal-tusk-and-fire-extinguisher-used-to-tackle-london-bridge-attacker) that was displayed by the side of the hall’s doorway and, wielding it like a lance, deployed it against the assailant outside. It was one of the more unusual uses of a narwhal tusk in recent memory. 
 
 The [Washington Post](https://www.washingtonpost.com/world/2019/11/30/narwhal-tusk-has-wondrous-mystical-history-new-chapter-was-added-london-bridge/) quotes British historian and journalist Guy Walters on the use of the tusk. “*There’s something very British about fighting a terrorist with something as surreal as a narwhal tusk,” he said. “We don’t carry weapons in this country. But we do have narwhal tusks around.”* 
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In the first two races of the Louis Vuitton finals to determine which challenger will compete against the Team Oracle for the America’s Cup, both races were determined by which boat didn’t break before crossing the finish line. In race one, Emirates Team … Continue reading &rarr;"
 ---
 
-![628x471](http://www.oldsaltblog.com/wp-content/uploads/2013/08/628x471.jpg)
+![628x471](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/628x471.jpg)
 
 Photo: Eric Risberg
 

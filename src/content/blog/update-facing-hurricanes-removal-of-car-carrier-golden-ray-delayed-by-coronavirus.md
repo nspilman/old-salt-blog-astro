@@ -11,12 +11,12 @@ tags:
   - "GA"
   - "Golden Arches"
   - "Golden Ray"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/goldenarches.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/goldenarches.jpg"
 author: "Rick Spilman"
 description: "The removal of the capsized car carrier Golden Ray is being delayed by the coronavirus. We recently posted about the VB-10,000, nicknamed the \"Golden Arches,\" the largest heavy-lift vessel ever built in the United States, that was getting ready to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/goldenarches.jpg)The removal of the capsized car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) is being delayed by the coronavirus. We [recently posted](http://www.oldsaltblog.com/2020/07/versabars-vb-10000-golden-arches-readies-to-lift-golden-ray/) about the [VB-10,000, nicknamed the “*Golden Arches*,](http://www.vbar.com/vb10000/index.html)” the largest heavy-lift vessel ever built in the United States, that was getting ready to use chains to slice the *Golden Ray* into eight sections, to be placed on barges and towed away to be scrapped. The *Golden Ray* partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles last September.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/goldenarches.jpg)The removal of the capsized car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) is being delayed by the coronavirus. We [recently posted](http://www.oldsaltblog.com/2020/07/versabars-vb-10000-golden-arches-readies-to-lift-golden-ray/) about the [VB-10,000, nicknamed the “*Golden Arches*,](http://www.vbar.com/vb10000/index.html)” the largest heavy-lift vessel ever built in the United States, that was getting ready to use chains to slice the *Golden Ray* into eight sections, to be placed on barges and towed away to be scrapped. The *Golden Ray* partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles last September.
 
 The initial goal was to have the ship cut up and removed before the onset of the hurricane season beginning June 1.  That date slipped to September 1, still hoping to avoid the worst of the storms.
 

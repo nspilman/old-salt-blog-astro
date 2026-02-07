@@ -15,12 +15,12 @@ tags:
   - "South Korea"
   - "Sun Yol Kim"
   - "U.S Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/msc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/msc.jpg"
 author: "Rick Spilman"
 description: "In a case with distinct echoes of the Navy’s almost decade-long \"Fat Leonard\" scandal, a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities. Stars and Stripes reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/msc.jpg)In a case with distinct echoes of the Navy’s almost decade-long [“Fat Leonard” scandal](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/), a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/msc.jpg)In a case with distinct echoes of the Navy’s almost decade-long [“Fat Leonard” scandal](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/), a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities.
 
 [Stars and Stripes](https://www.stripes.com/branches/navy/2022-08-23/navy-director-traded-insider-info-bribes-prostitution-7081202.html) reports that Fernando Xavier Monroy, who worked as the director of operations of the U.S. Navy’s Military Sealift Command Office in Busan, South Korea, was convicted of engaging in a conspiracy to commit bribery with a South Korea-based company, according to a news release from the Department of Justice.
 

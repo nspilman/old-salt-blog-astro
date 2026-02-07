@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Sunken Canadian ship spewing oil off Alaskan coast: U.S. Coast Guard A storied Canadian steamship that offered luxury cruises for decades along the British Columbia coast, then served a crucial role during the Second World War transporting troops, supplies and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/PrincessKathleen-02-150x93.jpg)[Sunken Canadian ship spewing oil off Alaskan coast: U.S. Coast Guard](http://www.kelowna.com/2010/02/25/sunken-canadian-ship-spewing-oil-off-alaskan-coast-u-s-coast-guard/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/PrincessKathleen-02-150x93.jpg)[Sunken Canadian ship spewing oil off Alaskan coast: U.S. Coast Guard](http://www.kelowna.com/2010/02/25/sunken-canadian-ship-spewing-oil-off-alaskan-coast-u-s-coast-guard/)
 
 *A storied Canadian steamship that offered luxury cruises for decades along the British Columbia coast, then served a crucial role during the Second World War transporting troops, supplies and Jewish refugees is now adding an unfortunate chapter to its rich history: the polluting of a major Pacific Ocean inlet.*  
   

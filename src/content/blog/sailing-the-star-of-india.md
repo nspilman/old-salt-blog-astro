@@ -10,7 +10,7 @@ categories:
 tags:
   - "Maritime Museum of San Diego"
   - "Star of India"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/sorrigging.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/sorrigging.jpg"
 author: "Rick Spilman"
 description: "As we posted yesterday, over last weekend, the Maritime Museum of San Diego celebrated the 155th birthday of the Star of India by taking her for a sail. Here is nicely done, roughly ten-minute, video by Barrett Canfield of Sunday’s sail on the grand old ship.  The museum’s other … Continue reading &rarr;"
 ---

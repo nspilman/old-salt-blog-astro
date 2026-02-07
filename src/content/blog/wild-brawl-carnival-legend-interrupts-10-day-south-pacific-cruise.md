@@ -11,12 +11,12 @@ tags:
   - "Australia"
   - "brawl"
   - "Carnival Legend"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/Carnival-Legend.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/Carnival-Legend.jpg"
 author: "Rick Spilman"
 description: "Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that \"the ship was alright. The problem was the people on it.\" The comment seems to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/Carnival-Legend.jpg)Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that “the ship was alright. The problem was the people on it.” The comment seems to apply to a recent 10-day South Pacific cruise on the [*Carnival Legend*](https://www.cruisecritic.com/reviews/review.cfm?ShipID=253).  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/Carnival-Legend.jpg)Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that “the ship was alright. The problem was the people on it.” The comment seems to apply to a recent 10-day South Pacific cruise on the [*Carnival Legend*](https://www.cruisecritic.com/reviews/review.cfm?ShipID=253).  
 
 According to published accounts, there was a three-day running brawl on the cruise ship involving 23 members of an unruly family group, resulting in what some passengers are describing as a [“bloodbath” and “the cruise from hell.”](https://www.dailystar.co.uk/news/world-news/682620/cruise-ship-bloodbath-Carnival-Legend-cruise-ship-Australia-brawl-video-lasted-three-days)   Exactly how it started and what happened is unclear but cell phone video of the fights in various parts of the ship are disturbing. 
 

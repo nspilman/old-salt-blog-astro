@@ -13,12 +13,12 @@ tags:
   - "Oshima Shipbuilding"
   - "Tohoku Electric Power Co"
   - "Wind Challenger"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/windchallengerc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/windchallengerc.jpg"
 author: "Rick Spilman"
 description: "Mitsui O.S.K. Lines, Ltd. (MOL) has reached a coal transport deal with Tohoku Electric Power Co., Inc., which will use a new 99,000 DWT collier equipped with a retractable wing sail propulsion system, known as the Wind Challenger. Construction of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/windchallengerc.jpg)Mitsui O.S.K. Lines, Ltd. (MOL) has reached a coal transport deal with Tohoku Electric Power Co., Inc., which will use a [new 99,000 DWT collier equipped with a retractable wing sail](https://www.hellenicshippingnews.com/mol-tohoku-electric-power-sign-deal-for-transport-usingcoal-carrier-equippedwith-hard-sail-wind-power-propulsion-system-wind-challenger/) propulsion system, known as the Wind Challenger. Construction of the vessel will start at Oshima Shipbuilding with the goal of going into service in 2022.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/windchallengerc.jpg)Mitsui O.S.K. Lines, Ltd. (MOL) has reached a coal transport deal with Tohoku Electric Power Co., Inc., which will use a [new 99,000 DWT collier equipped with a retractable wing sail](https://www.hellenicshippingnews.com/mol-tohoku-electric-power-sign-deal-for-transport-usingcoal-carrier-equippedwith-hard-sail-wind-power-propulsion-system-wind-challenger/) propulsion system, known as the Wind Challenger. Construction of the vessel will start at Oshima Shipbuilding with the goal of going into service in 2022.
 
 The new ship will feature a single retractable sail, mounted near the bow, which is expected to reduce emissions of greenhouse gases (GHGs) by about 5% on the Japan-Australia route or about 8% on the Japan-North America West Coast route, in comparison with a conventional vessel of the same class.
 

@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The Glyndebourne Festival Opera’s Michael Grandage production of Benjamin Britten’s opera, Billy Budd, opened last night at the Brooklyn Academy of Music(BAM.) Herman Melville’s Billy Budd was his last work, which almost died with him in 1891. The unfinished manuscript was … Continue reading &rarr;"
 ---
 
-![The British tenor Mark Padmore as Captain Vere in “Billy Budd.”  Photo: Joshua Bright for The New York Times](http://www.oldsaltblog.com/wp-content/uploads/2014/02/07PADMORE-master675.jpg)
+![The British tenor Mark Padmore as Captain Vere in “Billy Budd.”  Photo: Joshua Bright for The New York Times](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/07PADMORE-master675.jpg)
 
 The British tenor Mark Padmore as Captain Vere in “Billy Budd.” Photo: Joshua Bright for The New York Times
 

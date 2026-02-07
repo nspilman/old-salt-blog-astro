@@ -10,12 +10,12 @@ tags:
   - "Charlestown Navy Yard"
   - "USS Constitution"
   - "virtual tour"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/ussconstitutionboston.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ussconstitutionboston.jpg"
 author: "Rick Spilman"
 description: "If you are among the hundreds of millions locked down during the current coronavirus outbreak and would like to get out, even virtually, you might want to take a virtual tour of the USS Constitution, also known as Old Ironsides. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/ussconstitutionboston.jpg)If you are among the hundreds of millions locked down during the current coronavirus outbreak and would like to get out, even virtually, you might want to take a virtual tour of the [USS *Constitution*](https://en.wikipedia.org/wiki/USS_Constitution), also known as Old Ironsides.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/ussconstitutionboston.jpg)If you are among the hundreds of millions locked down during the current coronavirus outbreak and would like to get out, even virtually, you might want to take a virtual tour of the [USS *Constitution*](https://en.wikipedia.org/wiki/USS_Constitution), also known as Old Ironsides.  
 
 Actually, there are at least two virtual tours to choose from. In normal times, there are daily public tours onboard the historic ship. To help limit the spread of the virus, these tours have been suspended until further notice. There is, however, currently a [live virtual tour available at 1PM ET every day on *Facebook*.](https://www.facebook.com/ussconstitutionofficial/?__tn__=%2Cd%2CP-R&eid=ARAMM1A6K0knv0dGDtDNRQOdw0o7exM15phlv8E7QUMjGQWignr-NjzDEytgN_jgWVj-Uc4t_2SC4jS2)  As the tour guides lead you virtually through the warship, you can ask questions by posting in the comment section.
 

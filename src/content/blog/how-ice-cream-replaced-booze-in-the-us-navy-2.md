@@ -14,12 +14,12 @@ tags:
   - "reward"
   - "US Navy"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/navyicecream.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/navyicecream.jpg"
 author: "Rick Spilman"
 description: "General Order 99 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued General Order 99, banning \"the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, … Continue reading &rarr;"
 ---
 
-**![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/navyicecream.jpg)General Order 99**  
+**![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/navyicecream.jpg)General Order 99**  
 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued [General Order 99](https://news.usni.org/2014/07/01/hundred-years-dry-u-s-navys-end-alcohol-sea), banning “the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, or within any navy yard or station.”
 
 The US Navy had ended the rum ration in 1862 and imposed progressively more stringent restrictions on what alcohol sailors could have on shipboard. General Order 99 ended even the serving of alcohol in the wardroom and the captain’s cabin. An updated repost.

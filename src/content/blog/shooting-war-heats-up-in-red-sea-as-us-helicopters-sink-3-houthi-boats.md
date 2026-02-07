@@ -15,12 +15,12 @@ tags:
   - "USS Eisenhower carrier group"
   - "USS Gravely"
   - "USS Laboon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/maerskhangzhou.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maerskhangzhou.jpg"
 author: "Rick Spilman"
 description: "On Sunday morning, Dec. 31, at 6:30am (local time) the container ship Maersk Hangzhou issued a second distress call in less than 24 hours reporting being under attack by four Iranian-backed Houthi small boats. The boats, originating from Houthi-controlled areas … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/maerskhangzhou.jpg)On Sunday morning, Dec. 31, at 6:30am (local time) the container ship [*Maersk Hangzhou*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5316927/mmsi:563042200/imo:9784300/vessel:MAERSK_HANGZHOU) issued a second distress call in less than 24 hours reporting being under attack by four Iranian-backed Houthi small boats. The boats, originating from Houthi-controlled areas in Yemen, fired at the container ship, getting to within 20 meters of the ship, and attempted to board.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maerskhangzhou.jpg)On Sunday morning, Dec. 31, at 6:30am (local time) the container ship [*Maersk Hangzhou*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5316927/mmsi:563042200/imo:9784300/vessel:MAERSK_HANGZHOU) issued a second distress call in less than 24 hours reporting being under attack by four Iranian-backed Houthi small boats. The boats, originating from Houthi-controlled areas in Yemen, fired at the container ship, getting to within 20 meters of the ship, and attempted to board.
 
 As the ship’s security forces attempted to hold the attackers at bay, helicopters from the USS *Eisenhower* carrier group arrived and the Houthis opened fire on them.
 

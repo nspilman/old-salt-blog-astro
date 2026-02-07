@@ -15,12 +15,12 @@ tags:
   - "ferrocement tanker"
   - "Seacliff State Beach"
   - "SS Palo Alto"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/sspaloalto.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/sspaloalto.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, winter storm Kori sent record high waves smashing into the California coast. The National Weather Service said a new wave record was set as the Monterey Bay buoy recorded 34-foot waves. At Seacliff State Beach in Aptos, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/sspaloalto.jpg)Over the weekend, winter storm Kori sent record high waves smashing into the California coast. The National Weather Service said a new wave record was set as the Monterey Bay buoy recorded 34-foot waves. At Seacliff State Beach in Aptos, California, the [storm waves tore the stern off](https://www.washingtonpost.com/news/morning-mix/wp/2017/01/23/historic-concrete-ship-s-s-palo-alto-smashed-in-half-by-record-calif-storm-waves/?utm_term=.d110bce83374) the [SS *Palo Alto*](https://en.wikipedia.org/wiki/SS_Palo_Alto), a concrete ship built as a tanker in 1919, at the end of World War I.  A storm last winter had rolled the ship to starboard and had cracked the hull. This weekend’s storm may have delivered the coup de grâce.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/sspaloalto.jpg)Over the weekend, winter storm Kori sent record high waves smashing into the California coast. The National Weather Service said a new wave record was set as the Monterey Bay buoy recorded 34-foot waves. At Seacliff State Beach in Aptos, California, the [storm waves tore the stern off](https://www.washingtonpost.com/news/morning-mix/wp/2017/01/23/historic-concrete-ship-s-s-palo-alto-smashed-in-half-by-record-calif-storm-waves/?utm_term=.d110bce83374) the [SS *Palo Alto*](https://en.wikipedia.org/wiki/SS_Palo_Alto), a concrete ship built as a tanker in 1919, at the end of World War I.  A storm last winter had rolled the ship to starboard and had cracked the hull. This weekend’s storm may have delivered the coup de grâce.
 
 The SS *Palo Alto* had a strange but interesting career. Although she was built as a tanker, by the time she was delivered, World War I had ended, so the ship was laid up for a decade, until it was purchased as an “amusement” ship.  The *Palo Alto* was towed to Aptos, California on Monterrey bay. In 1930, the ship was sunk in a few feet in the water off the beach and a pier was built to the ship. Operated by the Seacliff Amusement Corporation, she was refitted a dance floor, a swimming pool and a café. 
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Bad weather is adding to an already bad situation as salvage and clean up crews struggle to staunch the flow of oil from the container ship, MV Rena, which has been grounded on Astrolabe Reef in New Zealand’s Bay of Plenty near Tauranga for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/rena1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/rena1.jpg)
 
 Photo : Maritime New Zealand
 

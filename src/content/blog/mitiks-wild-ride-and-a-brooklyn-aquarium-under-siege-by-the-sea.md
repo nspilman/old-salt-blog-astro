@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Mitik is the name given to a 234-pound 15-week-old orphaned walrus rescued from the open ocean off Alaska in early October. The walrus calf was transported aboard a FedEx cargo jet, accompanied by a veterinarian and a handler, and delivered to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/WALRUS1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/WALRUS1.jpg)
 
 Mitik Photo: Alaska Sea Life Center
 

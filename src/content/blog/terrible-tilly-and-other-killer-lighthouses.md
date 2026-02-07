@@ -17,7 +17,7 @@ description: "Lighthouses can be dangerous places. They are placed specifically 
 
 Lighthouses can be dangerous places. They are placed specifically near hazards to navigation, where the seas are the roughest and the rocks the most treacherous. Here is a brief look at three deadly lighthouses.
 
-![Terrible Tilly](http://www.oldsaltblog.com/wp-content/uploads/2014/03/Tillamookrock.jpg)
+![Terrible Tilly](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Tillamookrock.jpg)
 
 Terrible Tilly
 
@@ -27,7 +27,7 @@ Four lighthouse keepers were assigned to the lighthouse that quickly earned the 
 
 “Terrible Tilley” was finally shut down in 1957, replaced by a whistle buoy. It then had a short , if odd career, as the Eternity at Sea Columbarium, a place for the storage of crematory urns.  The lighthouse is now privately owned and accessible primarily by helicopter.  Read more — [Terrible Tilly, the Lighthouse of Death and Madness](http://www.slate.com/blogs/atlas_obscura/2014/02/20/tillamook_rock_lighthouse_in_oregon_has_a_history_of_death_and_madness.html?wpisrc=burger_bar)
 
-![Execution Rocks Light](http://www.oldsaltblog.com/wp-content/uploads/2014/03/exrock.jpg)
+![Execution Rocks Light](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/exrock.jpg)
 
 Execution Rocks Light
 
@@ -37,7 +37,7 @@ Execution Rocks Light
 
 *The island’s gruesome history added a new chapter in the 1920s, when famed serial killer Carl Panzram confessed to luring sailors away from bars, murdering them and dumping their bodies on the island. When the last lighthouse keeper retired in the 1970s, the lighthouse turned fully automatic. But visitors still report unusual sounds, apparitions and footsteps, ghostly reminders of the islands troubled past.*
 
-![St. George Reef Light](http://www.oldsaltblog.com/wp-content/uploads/2014/03/440px-Stgeorgereef.jpg)
+![St. George Reef Light](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/440px-Stgeorgereef.jpg)
 
 St. George Reef Light
 

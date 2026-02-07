@@ -13,12 +13,12 @@ tags:
   - "Jazz Turner"
   - "Project Fear"
   - "Sailability"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/fear.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/fear.jpg"
 author: "Rick Spilman"
 description: "\"I've accepted the idea of dying and I know it is imminent\", she says confidently. \"I don't want to die in a hospice; instead I've chosen to sail and chase my dreams\"."
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/fear.jpg)On June 2, [Jazz Turner](https://www.instagram.com/jazturnersailing/) set sail from Brighton, UK, to attempt to become the first disabled person to complete a solo, non-stop, and unassisted 2,070 mile (3,331km) circumnavigation of the UK and Ireland in a sail boat. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/fear.jpg)On June 2, [Jazz Turner](https://www.instagram.com/jazturnersailing/) set sail from Brighton, UK, to attempt to become the first disabled person to complete a solo, non-stop, and unassisted 2,070 mile (3,331km) circumnavigation of the UK and Ireland in a sail boat. 
 
 Turner, a 26-year-old, engineer from Seaford, lives with [Ehlers Danlos Syndrome](https://www.mayoclinic.org/diseases-conditions/ehlers-danlos-syndrome/symptoms-causes/syc-20362125), a debilitating genetic condition that affects connective tissue. She was diagnosed with the illness when she was 18, which causes fainting and seizures.  A full-time wheelchair user, doctors have told her that her condition is now terminal, due to complications.
 

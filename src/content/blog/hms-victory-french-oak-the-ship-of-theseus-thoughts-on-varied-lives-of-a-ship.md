@@ -16,12 +16,12 @@ tags:
   - "HMS Victory"
   - "Plato"
   - "Ship of Theseus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/victory-stern3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/victory-stern3.jpg"
 author: "Rick Spilman"
 description: "The BBC recently reported that HMS Victory, one of the most celebrated warships in British history, is being repaired using wood from France. The conservation work is part of a 10-year project titled The Big Repair, which will cost £40-£45m. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/victory-stern3.jpg)The [BBC](https://www.bbc.com/news/articles/c05gy3zz740o) recently reported that [HMS *Victory*](https://en.wikipedia.org/wiki/HMS_Victory), one of the most celebrated warships in British history, is being repaired using wood from France. The conservation work is part of a 10-year project titled The Big Repair, which will cost £40-£45m.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/victory-stern3.jpg)The [BBC](https://www.bbc.com/news/articles/c05gy3zz740o) recently reported that [HMS *Victory*](https://en.wikipedia.org/wiki/HMS_Victory), one of the most celebrated warships in British history, is being repaired using wood from France. The conservation work is part of a 10-year project titled The Big Repair, which will cost £40-£45m.
 
 They commented that some have said Nelson “might have been shocked” by the use of wood from his old enemy, to which Andrew Baines, executive director of museum operations, said: “The Royal Navy has a long history of using timbers from across Europe and the world.”
 

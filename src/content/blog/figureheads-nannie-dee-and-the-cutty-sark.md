@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The figurehead on the Cutty Sark is dramatic – a woman, all in white, wearing a flowing robe which leaves her upper body uncovered.  He face is fixed in a scowl or grimace and she is reaching out with one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/nanniedee.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/nanniedee.jpg)
 
 Photo: R. Spilman
 

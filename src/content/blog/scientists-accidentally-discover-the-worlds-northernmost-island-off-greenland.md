@@ -12,12 +12,12 @@ tags:
   - "Morten Rasch"
   - "Qeqertaq Avannarleq"
   - "world's northernmost island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/northernmost-island.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/northernmost-island.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that a group of scientists say they have discovered by luck what they believe is the world’s northernmost island off Greenland’s coast. In July, the scientists flew to collect samples to what they thought was Oodaaq Island, that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/northernmost-island.jpg)The [BBC](https://www.bbc.com/news/world-europe-58362752?piano-modal) reports that a group of scientists say they have discovered by luck what they believe is the world’s northernmost island off Greenland’s coast.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/northernmost-island.jpg)The [BBC](https://www.bbc.com/news/world-europe-58362752?piano-modal) reports that a group of scientists say they have discovered by luck what they believe is the world’s northernmost island off Greenland’s coast.
 
 In July, the scientists flew to collect samples to what they thought was Oodaaq Island, that has been known since 1978. But when they checked their position with the Danish official in charge of registering Arctic islands, they were 800m (2,625ft) further north. The 60X30m island is the closest point of land to the North Pole, they say.
 

@@ -15,12 +15,12 @@ tags:
   - "Hawaii"
   - "Hawaii Department of Transportation"
   - "Honolulu harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/focremoval.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/focremoval.jpg"
 author: "Rick Spilman"
 description: "The Hawai‘i Department of Transportation (HDOT) has issued a request for proposals (RFP) to permanently remove the historic ship Falls of Clyde from Honolulu Harbor, where it has languished since 2008. Bids must be submitted by September 25, 2024. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/focremoval.jpg)The [Hawai‘i Department of Transportation (HDOT) has issued a request for proposals](https://hidot.hawaii.gov/blog/2024/07/25/hdot-seeks-bid-for-removal-of-falls-of-clyde-from-honolulu-harbor/) (RFP) to permanently remove the historic ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor, where it has languished since 2008. Bids must be submitted by September 25, 2024.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/focremoval.jpg)The [Hawai‘i Department of Transportation (HDOT) has issued a request for proposals](https://hidot.hawaii.gov/blog/2024/07/25/hdot-seeks-bid-for-removal-of-falls-of-clyde-from-honolulu-harbor/) (RFP) to permanently remove the historic ship [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) from Honolulu Harbor, where it has languished since 2008. Bids must be submitted by September 25, 2024.
 
 The 145-year-old vessel is currently berthed at Pier 7 where it once served as a museum ship as part of the Hawai‘i Maritime Center.  The vessel is privately owned but was impounded in 2016 and remains in the custody of the department.
 

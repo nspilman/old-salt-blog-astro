@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Hudson river docks in New York harbor were once elegant terminals that greeted the arrival of passenger ships in the 1900s. Several were designed by the same architects that designed New York’s Grand Central Station. By the 70s, when … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/PIER_25.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/PIER_25.jpg)
 
 Photo: Hudson River Park Trust
 

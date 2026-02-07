@@ -15,12 +15,12 @@ tags:
   - "Maritime Applied Physics Corp."
   - "Maryland"
   - "Project Liberty Ship Inc."
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/johnbrownliberty2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/johnbrownliberty2.jpg"
 author: "Rick Spilman"
 description: "As we have previously posted, the restored Liberty ship, John W. Brown, was at risk of becoming homeless when its five-year agreement for berthing at Rukert Terminals’ Pier C in Canton, Maryland expired last September. Now, if all goes well, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/johnbrownliberty2.jpg)As we have [previously posted](http://www.oldsaltblog.com/2019/11/update-liberty-ship-ss-john-w-brown-still-looking-for-a-new-berth/), the restored Liberty ship, [*John W. Brown*](https://en.wikipedia.org/wiki/SS_John_W._Brown), was at risk of becoming homeless when its five-year agreement for berthing at Rukert Terminals’ Pier C in Canton, Maryland expired last September. Now, if all goes well, the historic ship may find a new home at the site of the [Bethlehem Fairfield Shipyard](https://en.wikipedia.org/wiki/Bethlehem_Fairfield_Shipyard) in Baltimore, where she was built in 1942.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/johnbrownliberty2.jpg)As we have [previously posted](http://www.oldsaltblog.com/2019/11/update-liberty-ship-ss-john-w-brown-still-looking-for-a-new-berth/), the restored Liberty ship, [*John W. Brown*](https://en.wikipedia.org/wiki/SS_John_W._Brown), was at risk of becoming homeless when its five-year agreement for berthing at Rukert Terminals’ Pier C in Canton, Maryland expired last September. Now, if all goes well, the historic ship may find a new home at the site of the [Bethlehem Fairfield Shipyard](https://en.wikipedia.org/wiki/Bethlehem_Fairfield_Shipyard) in Baltimore, where she was built in 1942.
 
 In a [press release](https://www.ssjohnwbrown.org/new-page-2) from earlier in the week:
 

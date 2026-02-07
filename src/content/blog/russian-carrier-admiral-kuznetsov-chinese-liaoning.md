@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Russia and China each have one aircraft carrier in service, Admiral Kuznetsov & Liaoning. Both face serious operational problems."
 ---
 
-![CNS Liaoning ](http://www.oldsaltblog.com/wp-content/uploads/2014/10/liaoning-close-600-ts300.jpg)
+![CNS Liaoning ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/liaoning-close-600-ts300.jpg)
 
 CNS Liaoning
 

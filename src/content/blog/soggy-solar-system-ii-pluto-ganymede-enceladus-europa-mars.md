@@ -6,12 +6,12 @@ excerpt: "Recently, we posted about two possible water worlds orbiting around Ke
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/pluto2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/pluto2.jpg"
 author: "Rick Spilman"
 description: "Recently, we posted about two possible water worlds orbiting around Kepler-62. While just slightly drier than these potential distant water worlds, so far, our planet is the only one we know of with a stable ocean. This is not to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/pluto2.jpg)Recently, [we posted about two possible water worlds](http://www.oldsaltblog.com/2016/12/water-worlds-kepler-62/) orbiting around Kepler-62. While just slightly drier than these potential distant water worlds, so far, our planet is the only one we know of with a stable ocean. This is not to say that our solar system is not soggy. It appears that our solar system is veritably awash in water. Here are six planets or moons, other than the Earth, which scientists believe have liquid water or entire oceans.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/pluto2.jpg)Recently, [we posted about two possible water worlds](http://www.oldsaltblog.com/2016/12/water-worlds-kepler-62/) orbiting around Kepler-62. While just slightly drier than these potential distant water worlds, so far, our planet is the only one we know of with a stable ocean. This is not to say that our solar system is not soggy. It appears that our solar system is veritably awash in water. Here are six planets or moons, other than the Earth, which scientists believe have liquid water or entire oceans.  
 
 *   We have previously posted about the [dwarf planet Ceres,](http://www.oldsaltblog.com/2014/10/dwarf-plant-ceres-more-freshwater-than-on-the-surface-of-the-earth/) which may contain more freshwater than Earth.
 *   Likewise, scientists now believe that Jupiter’s largest moon, [Ganymede, has an underground ocean](http://www.rawstory.com/2015/03/jupiters-largest-moon-definitely-has-an-underground-ocean-and-might-contain-life-nasa/) that also may contain more water than Earth’s.

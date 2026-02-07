@@ -15,12 +15,12 @@ tags:
   - "Polar Star"
   - "Southern Ocean"
   - "US Coast Guard Cutter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2026/01/polarstar2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/polarstar2.jpg"
 author: "Rick Spilman"
 description: "Last month, the US Coast Guard Cutter Polar Star (WAGB 10)  began icebreaking operations in the Southern Ocean in support of Operation Deep Freeze 2026. The deployment also marked the cutter’s 50th year of commissioned service. This milestone was further … Continue reading &rarr;"
 ---
 
-![](https://oldsaltblog.com/wp-content/uploads/2026/01/polarstar2.jpg)Last month, the US Coast Guard Cutter *[Polar Star](https://en.wikipedia.org/wiki/USCGC_Polar_Star)* (WAGB 10)  began icebreaking operations in the Southern Ocean in support of [Operation Deep Freeze 2026](https://www.news.uscg.mil/Press-Releases/Article/4385905/us-coast-guard-cutter-polar-star-marks-50-years-of-service-begins-operation-dee/#:~:text=23%2C%202026-,U.S.%20Coast%20Guard%20Cutter%20Polar%20Star%20marks%2050%20years%20of,ship%20trapped%20in%20pack%20ice.). The deployment also marked the cutter’s 50th year of commissioned service.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/polarstar2.jpg)Last month, the US Coast Guard Cutter *[Polar Star](https://en.wikipedia.org/wiki/USCGC_Polar_Star)* (WAGB 10)  began icebreaking operations in the Southern Ocean in support of [Operation Deep Freeze 2026](https://www.news.uscg.mil/Press-Releases/Article/4385905/us-coast-guard-cutter-polar-star-marks-50-years-of-service-begins-operation-dee/#:~:text=23%2C%202026-,U.S.%20Coast%20Guard%20Cutter%20Polar%20Star%20marks%2050%20years%20of,ship%20trapped%20in%20pack%20ice.). The deployment also marked the cutter’s 50th year of commissioned service.
 
 This milestone was further commemorated by the *Polar Star* rescuing the  Australian-owned cruise ship [*Scenic Eclipse II*,](https://www.swoop-antarctica.com/cruises/ships/eclipse-ii?utm_source=google&utm_medium=cpc&utm_campaign=23191574292&utm_adgroup=193361009171&utm_content=&utm_term=&gad_source=1&gad_campaignid=23191574292&gbraid=0AAAAADxjfc94bWrQXzf7zCT5YfBcdd3bj&gclid=Cj0KCQiAkPzLBhD4ARIsAGfah8iysRd9OOmQxfLuwfR4r9MOREJ_mLf8WF4OqkEMAamKjU1hhTT96hIaAv7TEALw_wcB) which became trapped in pack ice, eight nautical miles from McMurdo Sound. After receiving a call from the distressed cruise ship shortly before midnighton January 17, the *Polar Star* broke the ice surrounding the *Scenic Eclipse II* by encircling it twice before escorting it for four nautical miles until it reached open water.
 

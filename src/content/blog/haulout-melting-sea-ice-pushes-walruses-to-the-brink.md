@@ -12,7 +12,7 @@ tags:
   - "nominated for Best Documentary Short at the 2023 Academy Awards"
   - "Siberian Arctic"
   - "walrus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/haulout.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/haulout.jpg"
 author: "Rick Spilman"
 description: "A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. \"Haulout\" is nominated for Best Documentary Short … Continue reading &rarr;"
 ---

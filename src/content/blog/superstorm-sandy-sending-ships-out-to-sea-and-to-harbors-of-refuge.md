@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Tropical Storm Sandy returned to hurricane strength on Saturday morning as it heads toward the U.S. northeast coast.   The US Navy as ordered 24 of the larger ships in southeastern Virginia bases, including the aircraft carrier USS Harry S. Truman, out to sea to avoid the storm. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/bountyposition.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/bountyposition.jpg)
 
 Position of HMS Bounty
 

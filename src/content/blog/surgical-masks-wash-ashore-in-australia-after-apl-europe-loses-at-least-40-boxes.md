@@ -14,12 +14,12 @@ tags:
   - "containers"
   - "surgical masks"
   - "Sydney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/apleuorpabox.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/apleuorpabox.jpg"
 author: "Rick Spilman"
 description: "It would appear to be a sign of times. Surgical masks have been washing ashore on the beaches of New South Wales, Australia. Not pandemic aid from King Neptune, but the result of containers of medical supplies among the at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/apleuorpabox.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/apleuorpabox.jpg)
 
 Photo:AMSA
 

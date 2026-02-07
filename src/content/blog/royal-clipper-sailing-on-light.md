@@ -10,7 +10,7 @@ categories:
 tags:
   - "eastbound transatlantic crossing"
   - "Royal Clipper"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/rcsailingonlight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/rcsailingonlight.jpg"
 author: "Rick Spilman"
 description: "Another short video of the Royal Clipper from her recent eastbound transatlantic crossing, sea day 13, two days out of Lisbon, that raises the question, when the wind is fluky, why not sail on light? Royal Clipper Sailing on Light … Continue reading &rarr;"
 ---

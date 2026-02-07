@@ -14,12 +14,12 @@ tags:
   - "Jon Lindbergh"
   - "UDT"
   - "United States Navy Underwater Demolition Team"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/jonlindberg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/jonlindberg.jpg"
 author: "Rick Spilman"
 description: "Jon Morrow Lindbergh died recently at the age of 88. He was an American underwater diver who worked as a United States Navy demolition expert and as a commercial diver. He was also a pioneer in cave diving and was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/jonlindberg.jpg)[Jon Morrow Lindbergh](https://en.wikipedia.org/wiki/Jon_Lindbergh) died recently at the age of 88. He was an American underwater diver who worked as a United States Navy demolition expert and as a commercial diver. He was also a pioneer in cave diving and was one of the world’s earliest [aquanauts](https://en.wikipedia.org/wiki/Aquanaut) in the 1960s. He was one of the children of aviators [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) and [Anne Morrow Lindbergh](https://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/jonlindberg.jpg)[Jon Morrow Lindbergh](https://en.wikipedia.org/wiki/Jon_Lindbergh) died recently at the age of 88. He was an American underwater diver who worked as a United States Navy demolition expert and as a commercial diver. He was also a pioneer in cave diving and was one of the world’s earliest [aquanauts](https://en.wikipedia.org/wiki/Aquanaut) in the 1960s. He was one of the children of aviators [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) and [Anne Morrow Lindbergh](https://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh).
 
 His father, Charles Lindbergh, was the first to fly solo non-stop across the Atlantic from New York City to Paris on May 20–21, 1927. In doing so, he became a worldwide celebrity. In 1932, [Anne and Charles Lindbergh’s first child was kidnapped and murdered](https://en.wikipedia.org/wiki/Lindbergh_kidnapping) in what would become known as the “crime of the century.” Jon Lindbergh was born on August 16, 1932, only five months after the death of his older brother. 
 

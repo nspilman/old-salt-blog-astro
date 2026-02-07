@@ -12,12 +12,12 @@ tags:
   - "Iniki"
   - "Lane"
   - "Pacific"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/pacific-hurricanes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/pacific-hurricanes.jpg"
 author: "Rick Spilman"
 description: "The good news is that Hurricane Lane has been downgraded to a Category 4 hurricane. The bad news is that it is still heading straight for the Hawaiian islands.  The storm’s outer bands have been pounding parts of Hawaii’s Big … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/pacific-hurricanes.jpg)The good news is that Hurricane Lane has been downgraded to a Category 4 hurricane. The bad news is that it is still heading straight for the Hawaiian islands.  The storm’s outer bands have been pounding parts of Hawaii’s Big Island with rain Thursday morning, triggering landslides and threatening serious flooding. The hurricane is the first major cyclone to make landfall in the state in 26 years when [Hurricane Iniki](https://en.wikipedia.org/wiki/Hurricane_Iniki) caused around $3.1 billion of damage and six deaths. Like Hurricane Lane, Iniki was also a Category 4 hurricane and was the most powerful hurricane to strike the U.S. state of Hawaii in recorded history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/pacific-hurricanes.jpg)The good news is that Hurricane Lane has been downgraded to a Category 4 hurricane. The bad news is that it is still heading straight for the Hawaiian islands.  The storm’s outer bands have been pounding parts of Hawaii’s Big Island with rain Thursday morning, triggering landslides and threatening serious flooding. The hurricane is the first major cyclone to make landfall in the state in 26 years when [Hurricane Iniki](https://en.wikipedia.org/wiki/Hurricane_Iniki) caused around $3.1 billion of damage and six deaths. Like Hurricane Lane, Iniki was also a Category 4 hurricane and was the most powerful hurricane to strike the U.S. state of Hawaii in recorded history.
 
 Why are hurricanes so rare in Hawaii? One reason has to do with the size of the islands. In the largest ocean in the globe, the islands are relatively small. The state of Florida is roughly six times larger in area, for example.  Compared to Florida and the US East Coast, the Hawaiian islands are a small target. 
 

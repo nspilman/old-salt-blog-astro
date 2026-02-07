@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Two recent items on sharks in the news — a photobombing shark off the coast of California and Australian sharks posting warnings on Twitter. Off Manhattan Beach, California, June Emerson took a photograph of her son and a friend playing in … Continue reading &rarr;"
 ---
 
-![shark30n-2-web](http://www.oldsaltblog.com/wp-content/uploads/2013/12/shark30n-2-web.jpg)Two recent items on sharks in the news — a photobombing shark off the coast of California and Australian sharks posting warnings on Twitter.
+![shark30n-2-web](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/shark30n-2-web.jpg)Two recent items on sharks in the news — a photobombing shark off the coast of California and Australian sharks posting warnings on Twitter.
 
 Off Manhattan Beach, California, [June Emerson took a photograph of her son and a friend](http://ktla.com/2013/12/28/photo-captures-apparent-encounter-with-shark-in-manhattan-beach/#axzz2opqjVNOg) playing in the surf but didn’t realize until they were on their way home that there appears to be a large shark behind them and to the right.  She posted the photo on Facebook and Instagram where it quickly went viral –spreading across the internet and being picked up by national newspapers and television news programs.   [Local station KTLA](http://ktla.com/2013/12/28/photo-captures-apparent-encounter-with-shark-in-manhattan-beach/#axzz2opqjVNOg) reports that sightings of great white sharks are not uncommon near Manhattan Beach.
 

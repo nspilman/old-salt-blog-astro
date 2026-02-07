@@ -11,12 +11,12 @@ tags:
   - "Mystic Seaport Museum"
   - "New London"
   - "Plymouth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/mayflowermysticdock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/mayflowermysticdock.jpg"
 author: "Rick Spilman"
 description: "Today, Mayflower II, a replica of the ship that carried the Pilgrims to Plymouth, MA, was towed to New London, CT for two weeks of sea trials and final outfitting before returning to its homeport in Plymouth. In September of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/mayflowermysticdock.jpg)Today, [*Mayflower II*](https://www.plimoth.org/what-see-do/mayflower), a replica of the ship that carried the Pilgrims to Plymouth, MA, was towed to New London, CT for two weeks of sea trials and final outfitting before returning to its homeport in Plymouth.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/mayflowermysticdock.jpg)Today, [*Mayflower II*](https://www.plimoth.org/what-see-do/mayflower), a replica of the ship that carried the Pilgrims to Plymouth, MA, was towed to New London, CT for two weeks of sea trials and final outfitting before returning to its homeport in Plymouth.
 
 In September of last year, [we posted about the launching](http://www.oldsaltblog.com/2019/09/launching-of-the-mayflower-ii-at-mystic-seaport/) of the *Mayflower II* at the [Mystic Seaport Museum](https://www.mysticseaport.org/)‘s [Henry B. duPont Preservation Shipyard](https://www.mysticseaport.org/explore/shipyard-gallery/). The 64-year-old ship underwent a more than three-year $11 million restoration at the seaport shipyard.
 

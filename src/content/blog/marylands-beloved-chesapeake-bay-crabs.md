@@ -9,7 +9,7 @@ categories:
 tags:
   - "Chesapeake Bay"
   - "maryland. blue crabs"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/marylandcrab.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/marylandcrab.jpg"
 author: "Rick Spilman"
 description: "With decreased pollution, the Chesapeake Bay has seen a significant recovery in its blue crab population in recent years. All is not good news, however. The 2017 crabbing season was cut short by a significant population decline. With luck, the … Continue reading &rarr;"
 ---

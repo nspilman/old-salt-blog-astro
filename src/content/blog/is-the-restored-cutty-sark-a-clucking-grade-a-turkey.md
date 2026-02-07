@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "After a long commercial career, the 1869 composite clipper ship Cutty Sark became a museum ship in a drydock in Greenwich in 1954.  Then in May 21, 2007, a fire broke out that burned a significant portion of the ship.  After a 5 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/cutty-sark-greenhouse.jpg)After a long commercial career, the 1869 composite clipper ship *[Cutty Sark](http://en.wikipedia.org/wiki/Cutty_sark)* became a museum ship in a drydock in Greenwich in 1954.  Then in May 21, 2007, a fire broke out that burned a significant portion of the ship.  After a 5 year £50 million restoration,  the newly refurbished ship will be opened by the Queen this Wednesday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/cutty-sark-greenhouse.jpg)After a long commercial career, the 1869 composite clipper ship *[Cutty Sark](http://en.wikipedia.org/wiki/Cutty_sark)* became a museum ship in a drydock in Greenwich in 1954.  Then in May 21, 2007, a fire broke out that burned a significant portion of the ship.  After a 5 year £50 million restoration,  the newly refurbished ship will be opened by the Queen this Wednesday.
 
 Not everyone is pleased with the restoration. Andrew Gilligan, the [Telegraph](http://www.telegraph.co.uk/)‘s London Editor, recently wrote a scathing review calling the *Cutty Sark* restoration “[a clucking, Grade A, Bernard Matthews-class turkey](http://blogs.telegraph.co.uk/news/andrewgilligan/100152428/cutty-sark-restoration-a-clucking-grade-a-bernard-matthews-class-turkey/).”  (For non-Britons — [Bernard Matthews Farms Ltd](http://en.wikipedia.org/wiki/Bernard_Matthews_Farms) specialises in turkey farming.)
 

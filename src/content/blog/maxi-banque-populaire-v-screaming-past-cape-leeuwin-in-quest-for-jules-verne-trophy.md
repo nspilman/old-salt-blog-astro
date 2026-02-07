@@ -19,7 +19,7 @@ description: "Last February the crew of  the  130′ long by 120′ wide maxi
 
 [](http://www.voile.banquepopulaire.fr/Maxi-Trimaran-Banque-Populaire-V/cartographie-c5191.html)
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/bptriverne.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/bptriverne.jpg)
 
 Track of the Banque Populaire V in purple, track of current record holder Groupma in green
 

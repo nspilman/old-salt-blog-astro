@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The US military hopes to have the port of Port-au-Prince open for shipments of emergency relief supplies in two or three days. Damaged Haiti port to open in 2-3 days: U.S. commander In related news, the Maritime Administration has ordered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/cornhusker.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/cornhusker.jpg)
 
 SS Cornhusker State
 

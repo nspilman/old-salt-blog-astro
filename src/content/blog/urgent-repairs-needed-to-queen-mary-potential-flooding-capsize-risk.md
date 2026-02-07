@@ -12,12 +12,12 @@ tags:
   - "Long beach"
   - "Queen Mary"
   - "tourist attraction and hotel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg"
 author: "Rick Spilman"
 description: "The ex-Cunard luxury liner Queen Mary, which had served as a tourist attraction and hotel in Long Beach, CA since 1972, was shut down by the pandemic. Then in January, the manager of the ship on behalf of the City … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg)The ex-Cunard luxury liner [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62), which had served as a tourist attraction and hotel in Long Beach, CA since 1972, was shut down by the pandemic. Then in January, the manager of the ship on behalf of the City of Long Beach [filed for bankruptcy](http://www.oldsaltblog.com/2021/01/manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy/). Now, the [Long Beach Post](https://lbpost.com/news/new-queen-mary-report-says-urgent-repairs-needed-to-keep-ship-viable-in-the-next-two-years) reports that a recent *Queen Mary* inspection survey reveals that urgent repairs have been neglected over the last five years, leaving the historic ship vulnerable to flooding or possibly even capsizing if critical work isn’t addressed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg)The ex-Cunard luxury liner [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62), which had served as a tourist attraction and hotel in Long Beach, CA since 1972, was shut down by the pandemic. Then in January, the manager of the ship on behalf of the City of Long Beach [filed for bankruptcy](http://www.oldsaltblog.com/2021/01/manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy/). Now, the [Long Beach Post](https://lbpost.com/news/new-queen-mary-report-says-urgent-repairs-needed-to-keep-ship-viable-in-the-next-two-years) reports that a recent *Queen Mary* inspection survey reveals that urgent repairs have been neglected over the last five years, leaving the historic ship vulnerable to flooding or possibly even capsizing if critical work isn’t addressed.
 
 The report from a city-hired naval architecture and marine engineering firm [Elliott Bay Design Group](https://www.ebdg.com/), which inspected the ship on April 28, says the city would need an additional $23 million in urgent safety repairs to keep the ship “viable” over the next two years.
 

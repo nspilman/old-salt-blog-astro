@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "For those near New York harbor next Monday, I will be giving a presentation on \"The Future of Commercial Sail\" at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
 ---
 
-![beamon1](http://www.oldsaltblog.com/wp-content/uploads/2013/06/beamon1.jpg)For those near New York harbor next Monday, I will be giving a presentation on “*The Future of Commercial Sail*” at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th floor, in Manhattan.
+![beamon1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/beamon1.jpg)For those near New York harbor next Monday, I will be giving a presentation on “*The Future of Commercial Sail*” at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th floor, in Manhattan.
 
 Oil prices are four times higher today than they were just a decade ago.  Wind power is the fastest growing sector in the energy business.  Is it time for a return to wind power to propel modern commercial ships?
 

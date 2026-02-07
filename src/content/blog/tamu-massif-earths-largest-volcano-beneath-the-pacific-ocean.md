@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Scientists have identified the largest volcano on earth, beneath the Pacific Ocean roughly half way between Japan and the Hawaiian Islands.  The giant shield volcano has been named Tamu Massif and it is roughly, 100,000 square miles or approximately the … Continue reading &rarr;"
 ---
 
-![underwater-megavolcano](http://www.oldsaltblog.com/wp-content/uploads/2013/09/underwater-megavolcano.jpg)Scientists have identified the largest volcano on earth, beneath the Pacific Ocean roughly half way between Japan and the Hawaiian Islands.  The giant [shield volcano](http://en.wikipedia.org/wiki/Shield_volcano) has been named Tamu Massif and it is roughly, 100,000 square miles or approximately the size of the British Isles or New mexico.  [Mauna Loa](http://en.wikipedia.org/wiki/Mauna_Loa), on the island of Hawaii, now the second largest volcano on earth covers, by comparison, 2,000 square miles.
+![underwater-megavolcano](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/underwater-megavolcano.jpg)Scientists have identified the largest volcano on earth, beneath the Pacific Ocean roughly half way between Japan and the Hawaiian Islands.  The giant [shield volcano](http://en.wikipedia.org/wiki/Shield_volcano) has been named Tamu Massif and it is roughly, 100,000 square miles or approximately the size of the British Isles or New mexico.  [Mauna Loa](http://en.wikipedia.org/wiki/Mauna_Loa), on the island of Hawaii, now the second largest volcano on earth covers, by comparison, 2,000 square miles.
 
 [Underwater volcano is Earth’s biggest](http://www.nature.com/news/underwater-volcano-is-earth-s-biggest-1.13680)
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Yesterday, the container ship, Maersk Tigris, was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far."
 ---
 
-![tigris2](http://www.oldsaltblog.com/wp-content/uploads/2015/04/tigris2.jpg)Yesterday, [we posted about the *Maersk Tigris*](http://www.oldsaltblog.com/2015/04/container-ship-maersk-tigris-diverted-by-iran-in-strait-of-hormuz/), a 5470-TEU container ship, which was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far.
+![tigris2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/tigris2.jpg)Yesterday, [we posted about the *Maersk Tigris*](http://www.oldsaltblog.com/2015/04/container-ship-maersk-tigris-diverted-by-iran-in-strait-of-hormuz/), a 5470-TEU container ship, which was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far.
 
 **1\. Is the *Maersk Tigris* a “U.S. cargo ship?”**
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In the United States, today is \"Presidents’ Day,\"   a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  It seems a good day to recall the tale of Lincoln’s camel. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/nantucketcamel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/nantucketcamel.jpg)
 
 Nantucket Camel Ride
 
@@ -29,4 +29,4 @@ So what does this have to do with Abraham Lincoln?  Lincoln is the only US Pres
 
 *On May 22, 1849, he was granted Patent No. 6469 by the U.S. Patent Office (USPO) in Washington, D.C. This boat model, submitted with the drawings of his idea, is inscribed “Pat./May 22/49/Abram Lincoln” on the surface of the upper deck. According to a Lincoln biographer, the President visited the Patent Office during his presidency (1861–1865) and inspected his model. His considerable talents lay elsewhere, and the idea he patented was never formally applied in the construction of a watercraft.*
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/lincolnpatent.jpg)*
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/lincolnpatent.jpg)*

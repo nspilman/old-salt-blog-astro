@@ -10,12 +10,12 @@ tags:
   - "Historic St. Mary’s City"
   - "Maryland Dove"
   - "shipyard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/marylanddove.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/marylanddove.jpg"
 author: "Rick Spilman"
 description: "A bit over a year ago, we posted about the construction of a new Maryland Dove by the Chesapeake Bay Maritime Museum shipyard. The ship, a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/marylanddove.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/marylanddove.jpg)
 
 Photo by George Sass.
 

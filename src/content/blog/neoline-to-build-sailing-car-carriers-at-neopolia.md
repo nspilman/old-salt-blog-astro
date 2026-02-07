@@ -11,12 +11,12 @@ tags:
   - "Neoline"
   - "ro-ro"
   - "sailing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/neoline.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/neoline.jpg"
 author: "Rick Spilman"
 description: "Neoline, a French designer and operator of cargo sailing ships, is partnering with car manufacturer Groupe Renault, heavy equipment builder Manitou, and boat builder Groupe Beneteau, to build two 136-meter ro-ros, each with 4,200 square meters of sail area and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/neoline.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/neoline.jpg)
 
 Graphic: NEOLINE
 

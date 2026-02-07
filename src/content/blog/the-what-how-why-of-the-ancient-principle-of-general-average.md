@@ -12,12 +12,12 @@ tags:
   - "general average"
   - "Lex Rhodia"
   - "York Antwerp Rules"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/kyrena-ship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/kyrena-ship.jpg"
 author: "Rick Spilman"
 description: "Following several attempts to free the Ever Forward, the ship’s owner declared General Average, citing \"the increasing costs arising from the continued attempts to refloat the vessel.\" What this means, in practice, is that the owners of the cargo now … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/kyrena-ship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/kyrena-ship.jpg)
 
 Kyrenia Ship. When the original ship was sailing in around 300 BC, General Average had already been in practice for 500-1,000 years.
 

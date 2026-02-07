@@ -11,12 +11,12 @@ tags:
   - "4th of July"
   - "Liberty Riots"
   - "Madeira"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/madiera74.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/madiera74.jpg"
 author: "Rick Spilman"
 description: "A post from five years ago, which is still fitting for the day. Happy 4th of July!  Those of us in the United States celebrate the anniversary of the adoption of the Declaration of Independence on July 4th 1776. Immediately after declaring independence from Great Britain, the representatives in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/wine-glass-dinner-toast.jpg)A post from five years ago, which is still fitting for the day.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/wine-glass-dinner-toast.jpg)A post from five years ago, which is still fitting for the day.
 
 Happy 4th of July!  Those of us in the United States celebrate the anniversary of the adoption of the [Declaration of Independence](http://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) on July 4th 1776. Immediately after declaring independence from Great Britain, the representatives in the Continental Congress drank a toast with glasses of Madeira wine.
 

@@ -14,12 +14,12 @@ tags:
   - "Mercator projection"
   - "The Principall Navigations"
   - "The Principall Navigations Voiages Traffiques and Discoueries of the English Nation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/hakmap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/hakmap.jpg"
 author: "Rick Spilman"
 description: "The three-volume The Principall Navigations, Voiages, Traffiques and Discoueries of the English Nation, written by Richard Hakluyt in 1599, and published bound as two books, were only expected to sell for between £3,000 and £5,000. Instead, they sold at an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/hakmap.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/hakmap.jpg)
 
 Image: BEARNES, HAMPTON AND LITTLEWOOD
 

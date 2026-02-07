@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "The calendar has been out since July, but I only got around to ordering mine yesterday. Thad Koza’s Tall Ships 2011 calendar features  SAGRESs II, JOLIE BRISE, PICTON CASTLE, WESTWARD, BOUNTY, EUROPA, the schooner THOMAS E LANNON, and five other tall ships. … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/2011-cover.jpg)](http://www.amazon.com/gp/product/1594906408?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594906408)The calendar has been out since July, but I only got around to ordering mine yesterday.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/2011-cover.jpg)](http://www.amazon.com/gp/product/1594906408?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594906408)The calendar has been out since July, but I only got around to ordering mine yesterday.
 
 Thad Koza’s [Tall Ships 2011 calendar](http://www.amazon.com/gp/product/1594906408?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594906408) features  *SAGRESs II, JOLIE BRISE, PICTON CASTLE, WESTWARD, BOUNTY, EUROPA,* the schooner *THOMAS E LANNON*, and five other tall ships. Beautiful photogaphy of glorious ships.
 

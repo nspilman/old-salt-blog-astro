@@ -12,12 +12,12 @@ tags:
   - "Giant Penguin"
   - "Old Three Toes"
   - "Tony Signorini"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/pfeet2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/pfeet2.jpg"
 author: "Rick Spilman"
 description: "This seems like a suitable post for a Sunday in 2020. On a morning in February 1948, a local beachcomber was walking the beautiful white sand beach in Clearwater, FL, and was shocked to find large three-toed footprints in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/pfeet2.jpg)This seems like a suitable post for a Sunday in 2020.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/pfeet2.jpg)This seems like a suitable post for a Sunday in 2020.
 
 On a morning in February 1948, a local beachcomber was walking the beautiful white sand beach in Clearwater, FL, and was shocked to find large three-toed footprints in the sand coming out of the Gulf of Mexico. The tracks were large, 14 inches long and 11 inches wide, made a deep impression in the sand, and were widely spaced. Whatever made the tracks appeared to be heavy and very large. The tracks went on for close to two miles before returning to the water.
 

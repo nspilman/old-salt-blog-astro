@@ -11,7 +11,7 @@ tags:
   - "Henry B. duPont Preservation Shipyard"
   - "Mayflower II"
   - "Mystic Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/mayIIatmystic1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/mayIIatmystic1.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating new video from Mystic Seaport Museum describing the restoration of Mayflower II  at the seaport’s Henry B. duPont Preservation Shipyard.  Mayflower II is a  reproduction of the original Mayflower  built from 1955-1957.   Restoration Continues: Mayflower II … Continue reading &rarr;"
 ---

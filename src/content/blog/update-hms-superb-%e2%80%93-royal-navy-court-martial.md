@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Last January we posted about the the HMS Superb, a  British nuclear submarine, which in 2008 crashed into a massive stone pinnacle under the Red Sea. (See Submarines Navigating Badly.)   Now the commander and two other officers have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/subcommander.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/subcommander.jpg)
 
 Commander Drysdale
 

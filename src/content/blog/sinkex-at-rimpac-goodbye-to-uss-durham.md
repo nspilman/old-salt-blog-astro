@@ -10,12 +10,12 @@ tags:
   - "RIMPAC"
   - "SINKEX"
   - "USS Durham"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/dunham.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/dunham.jpg"
 author: "Rick Spilman"
 description: "SINKEX sounds to me like a drain cleaner and RIMPAC could be something for a spare tire. In fact, RIMPAC is an acronym for Rim of the Pacific Exercise, the world’s largest international maritime warfare exercise, held in biennially on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/dunham.jpg)SINKEX sounds to me like a drain cleaner and RIMPAC could be something for a spare tire. In fact, [RIMPAC](https://en.wikipedia.org/wiki/Exercise_RIMPAC) is an acronym for Rim of the Pacific Exercise, the world’s largest international maritime warfare exercise, held in biennially on even-numbered years. This year, the exercise involved ten nations, 22 ships, one submarine, and approximately 5,300 personnel. It was held Aug.17-31 near the Hawaiian Islands. The exercise was limited to offshore activities and represented a smaller fleet than in previous years due to the ongoing pandemic.  In comparison, RIMPAC 2010 involved 14 nations, thirty-two ships, five submarines, over 170 aircraft, and 20,000 personnel. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/dunham.jpg)SINKEX sounds to me like a drain cleaner and RIMPAC could be something for a spare tire. In fact, [RIMPAC](https://en.wikipedia.org/wiki/Exercise_RIMPAC) is an acronym for Rim of the Pacific Exercise, the world’s largest international maritime warfare exercise, held in biennially on even-numbered years. This year, the exercise involved ten nations, 22 ships, one submarine, and approximately 5,300 personnel. It was held Aug.17-31 near the Hawaiian Islands. The exercise was limited to offshore activities and represented a smaller fleet than in previous years due to the ongoing pandemic.  In comparison, RIMPAC 2010 involved 14 nations, thirty-two ships, five submarines, over 170 aircraft, and 20,000 personnel. 
 
 One highlight of the exercises is SINKEX, an exercise to sink a naval ship. This time around, the target was the USS *Durham*. [Miltiary.com](https://www.military.com/daily-news/2020/08/31/decommissioned-navy-warship-blasted-and-sunk-pacific-exercise.html) reports that *Durham*, a Charleston-class amphibious cargo ship, entered service in 1969 and was decommissioned after 24 years in 1994. The 575-foot, 10,000-ton ship, which deployed in support of the Vietnam and Gulf War conflicts, was stricken from the Naval Vessel Register in 2015, and has since awaited disposal at the Pearl Harbor, Hawaii Naval Inactive Ship Maintenance Facility.
 

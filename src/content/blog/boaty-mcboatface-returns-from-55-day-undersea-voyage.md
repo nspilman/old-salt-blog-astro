@@ -10,12 +10,12 @@ tags:
   - "autonomous underwater vehicle"
   - "Boaty McBoatface"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg"
 author: "Rick Spilman"
 description: "Boaty McBoatface, referred to as the UK’s most famous robot, recently returned to Scotland after 55 days on a more-than-2,000km undersea scientific odyssey from Iceland, studying the pace of climate change.  BBC reports that the autonomous underwater vehicle (AUV) was hunting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/boatysub.jpg)[Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface), referred to as the UK’s most famous robot, recently returned to Scotland after 55 days on a more-than-2,000km undersea scientific odyssey from Iceland, studying the pace of climate change. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/boatysub.jpg)[Boaty McBoatface](https://en.wikipedia.org/wiki/Boaty_McBoatface), referred to as the UK’s most famous robot, recently returned to Scotland after 55 days on a more-than-2,000km undersea scientific odyssey from Iceland, studying the pace of climate change. 
 
 [BBC](https://www.bbc.com/news/articles/cy849kzep98o) reports that the autonomous underwater vehicle (AUV) was hunting for marine snow – “poo, basically” in the words of one researcher. This refers to tiny particles that sink to the ocean floor, storing huge amounts of carbon.
 

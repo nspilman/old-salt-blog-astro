@@ -11,12 +11,12 @@ tags:
   - "sperm whales"
   - "whalers"
   - "whaling ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/spermwhales2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/spermwhales2.jpg"
 author: "Rick Spilman"
 description: "When American and British whaling ships hunted for sperm whales in the North Pacific in the early 1800s, they noted something disturbing. After initially good results, the whalers’ success in harpooning the whales fell by about 58% over the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/spermwhales2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/spermwhales2.jpg)
 
 Image: Gabriel Barathieu
 

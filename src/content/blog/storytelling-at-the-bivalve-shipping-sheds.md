@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "If Detroit was and is the \"motor city,\" then perhaps Bivalve, New Jersey was the Oyster Capital of the World.  By the late 1880s, 90 railcars full of oysters were shipped from Bivalve every week.  Oysters were once the largest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/oystersdock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/oystersdock.jpg)
 
 Bagged oysters catching the train to Philadelphia
 

@@ -11,12 +11,12 @@ tags:
   - "Hell Around the Horn"
   - "National Maritime Historical Society"
   - "NMHS"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/HARTH200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/HARTH200.jpg"
 author: "Rick Spilman"
 description: "If you are in the neighborhood, consider joining us when I give a presentation about my novel, Hell Around the Horn, at the National Maritime Historical Society Seminar Series this Saturday at the Hendrick Hudson Free Library, 185 Kings Ferry Road, Montrose, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/HARTH200.jpg)If you are in the neighborhood, consider joining us when I give a presentation about my novel, *[Hell Around the Horn](https://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7),* at the [National Maritime Historical Society](https://seahistory.org/) Seminar Series this Saturday at the [Hendrick Hudson Free Library](https://www.henhudfreelibrary.org/), 185 Kings Ferry Road, Montrose, NY. Welcome and refreshments begin at 10:30 AM, with the presentation at 11:00 AM.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/HARTH200.jpg)If you are in the neighborhood, consider joining us when I give a presentation about my novel, *[Hell Around the Horn](https://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7),* at the [National Maritime Historical Society](https://seahistory.org/) Seminar Series this Saturday at the [Hendrick Hudson Free Library](https://www.henhudfreelibrary.org/), 185 Kings Ferry Road, Montrose, NY. Welcome and refreshments begin at 10:30 AM, with the presentation at 11:00 AM.
 
 From the [National Maritime Historical Society](https://seahistory.org/seminar-series-rick-spillman-2018/) website: 
 

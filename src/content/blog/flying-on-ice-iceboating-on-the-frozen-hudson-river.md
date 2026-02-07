@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Not all sailors in the Northeast are sick of winter. For some ice boaters on the Hudson, this has been a great season and isn’t over quite yet. Ice boating, or ice yachting, as some call it, is a cross … Continue reading &rarr;"
 ---
 
-![Photo: Issac Kestenbaum](http://www.oldsaltblog.com/wp-content/uploads/2014/03/iceyacht3.jpg)
+![Photo: Issac Kestenbaum](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/iceyacht3.jpg)
 
 Photo: Issac Kestenbaum
 

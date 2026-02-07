@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "We recently endured the media farce in which dozens of newspapers and websites reported that \"a ghost ship filled with cannibal rats may be headed straight for Britain,\" even though the ship has probably sunk and the bit about the rats … Continue reading &rarr;"
 ---
 
-![finkeltab](http://www.oldsaltblog.com/wp-content/uploads/2014/02/finkeltab.jpg)
+![finkeltab](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/finkeltab.jpg)
 
 Dr. Finkel and the Tiny Tablet Photo: AP/Sang Tan
 

@@ -10,12 +10,12 @@ categories:
 tags:
   - "Captain Radhika Menon"
   - "IMO Award for Exceptional Bravery at Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/captmenon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/captmenon.jpg"
 author: "Rick Spilman"
 description: "Our belated congratulations to Captain Radhika Menon, who was awarded the IMO Award for Exceptional Bravery at Sea at a ceremony at the end of last month. Captain Menon is both the first Indian female merchant marine captain and the first … Continue reading &rarr;"
 ---
 
-![captmenon](http://www.oldsaltblog.com/wp-content/uploads/2016/12/captmenon.jpg)Our belated congratulations to Captain Radhika Menon, who was awarded the I[MO Award for Exceptional Bravery at Sea](http://www.imo.org/en/MediaCentre/PressBriefings/Pages/30-Bravery-2016.aspx) at a ceremony at the end of last month. Captain Menon is both the first Indian female merchant marine captain and the first woman to win the award for bravery, which recognizes those who risk their own lives to save others at sea.
+![captmenon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/captmenon.jpg)Our belated congratulations to Captain Radhika Menon, who was awarded the I[MO Award for Exceptional Bravery at Sea](http://www.imo.org/en/MediaCentre/PressBriefings/Pages/30-Bravery-2016.aspx) at a ceremony at the end of last month. Captain Menon is both the first Indian female merchant marine captain and the first woman to win the award for bravery, which recognizes those who risk their own lives to save others at sea.
 
 Captain Menon was in command of the product tanker *[Sampurna Swarajya](http://www.marinetraffic.com/en/ais/details/ships/shipid:655891/mmsi:419213000/imo:9176656/vessel:SAMPURNA_SWARAJYA)* when she lead the extremely difficult rescue of seven fisherman, who had been adrift in heavy seas for a week in the Bay of Bengal.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "On Saturday, we posted that the Danish inventor Peter Madsen has been held on suspicion of murder following the disappearance of Kim Wall, a Swedish journalist, and the sinking of the privately owned submarine UC3 Nautilus on Friday off Denmark. Madsen claimed that he … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/wallnautiuls.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/wallnautiuls.jpg)
 
 Missing Journalist Kim Wall and Submarine UC3 Nautilus
 

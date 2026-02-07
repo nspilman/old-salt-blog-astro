@@ -12,12 +12,12 @@ tags:
   - "USS Kidd"
   - "USS Makin Island"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/usskidd.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/usskidd.jpg"
 author: "Rick Spilman"
 description: "USS Kidd, an Arleigh Burke-class destroyer, was diverted to San Diego following a shipboard outbreak of the coronavirus. The ship had been deployed off South America on an anti-drug-trafficking mission when the outbreak occurred. So far, 64 of the crew … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/usskidd.jpg)[USS *Kidd*](https://en.wikipedia.org/wiki/USS_Kidd_\(DDG-100\)), an Arleigh Burke-class destroyer, was [diverted to San Diego following a shipboard outbreak of the coronavirus](https://www.nbcsandiego.com/news/local/coronavirus-cases-aboard-uss-kidd-rise-as-destroyer-docks-in-san-diego/2314836/). The ship had been deployed off South America on an anti-drug-trafficking mission when the outbreak occurred. So far, 64 of the crew on the *Kidd* have tested positive, or roughly 27% of the sailors tested so far. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/usskidd.jpg)[USS *Kidd*](https://en.wikipedia.org/wiki/USS_Kidd_\(DDG-100\)), an Arleigh Burke-class destroyer, was [diverted to San Diego following a shipboard outbreak of the coronavirus](https://www.nbcsandiego.com/news/local/coronavirus-cases-aboard-uss-kidd-rise-as-destroyer-docks-in-san-diego/2314836/). The ship had been deployed off South America on an anti-drug-trafficking mission when the outbreak occurred. So far, 64 of the crew on the *Kidd* have tested positive, or roughly 27% of the sailors tested so far. 
 
 While on its way to San Diego, the *Kidd* rendezvoused with the amphibious assault ship [USS *Makin Island*](https://en.wikipedia.org/wiki/USS_Makin_Island_\(LHD-8\)) which is [equipped with an onboard intensive care unit staffed by a fleet surgical team](https://news.usni.org/2020/04/26/2-uss-kidd-sailors-evacuated-as-covid-19-outbreak-spreads-uss-makin-island-steaming-to-assist) to assist with care and screening of the crew. 
 

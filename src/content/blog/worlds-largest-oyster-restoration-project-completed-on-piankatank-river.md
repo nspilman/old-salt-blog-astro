@@ -13,12 +13,12 @@ tags:
   - "Oyster Restoration"
   - "Piankatank River"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the dire conditions of Texas and Gulf Coast oyster beds that have been devastated by floods, droughts, and hurricanes. In contrast, here is good news about oyster bed restoration in the Chesapeake Bay. The Virginia Mercury … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg)We recently posted about the [dire conditions of Texas and Gulf Coast oyster beds](https://www.oldsaltblog.com/2022/05/texas-oysters-devastated-by-floods-droughts-and-hurricanes/) that have been devastated by floods, droughts, and hurricanes. In contrast, here is good news about oyster bed restoration in the Chesapeake Bay.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg)We recently posted about the [dire conditions of Texas and Gulf Coast oyster beds](https://www.oldsaltblog.com/2022/05/texas-oysters-devastated-by-floods-droughts-and-hurricanes/) that have been devastated by floods, droughts, and hurricanes. In contrast, here is good news about oyster bed restoration in the Chesapeake Bay.
 
 The [Virginia Mercury](https://www.virginiamercury.com/2021/11/30/worlds-largest-oyster-restoration-completed-on-piankatank-river/) reports that Virginia’s [Piankatank River](https://en.wikipedia.org/wiki/Piankatank_River), with more than 438 acres of restored oyster reef, is home to what Nature Conservancy Virginia [Chesapeake Bay Program](https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/chesapeake-bay/) Director Andy Lacatell says is “the largest completed oyster restoration project on the planet.”
 

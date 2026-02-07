@@ -10,12 +10,12 @@ categories:
 tags:
   - "oil rigs"
   - "Pioneering Spirit"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/pioneering-spirit2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/pioneering-spirit2.jpg"
 author: "Rick Spilman"
 description: "The oil fields beneath the North Sea are running out of oil. As there is less oil to pump, costs rise per tonne of oil delivered from the now aging offshore platforms. A decline in oil prices only makes the economics … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/pioneering-spirit2.jpg)The oil fields beneath the North Sea are running out of oil. As there is less oil to pump, costs rise per tonne of oil delivered from the now aging offshore platforms. A decline in oil prices only makes the economics of these rigs worse and yet they cannot be simply shut down and abandoned.  Under a 15-nation protocol called the “Convention for the Protection of the Marine Environment of the North East Atlantic,” known simply as [OSPAR](https://www.ospar.org/convention),  the rigs must be removed and taken ashore for scrapping. To dump them at sea or allow them to decay in place would risk serious environmental damage. But how does one dismantle an offshore rig that can weigh anywhere from 100,000 to 300,000 tonnes of steel?  And there are a lot of them. According to the [BBC](http://www.bbc.com/future/story/20160804-what-it-takes-to-dismantle-an-oil-rig):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/pioneering-spirit2.jpg)The oil fields beneath the North Sea are running out of oil. As there is less oil to pump, costs rise per tonne of oil delivered from the now aging offshore platforms. A decline in oil prices only makes the economics of these rigs worse and yet they cannot be simply shut down and abandoned.  Under a 15-nation protocol called the “Convention for the Protection of the Marine Environment of the North East Atlantic,” known simply as [OSPAR](https://www.ospar.org/convention),  the rigs must be removed and taken ashore for scrapping. To dump them at sea or allow them to decay in place would risk serious environmental damage. But how does one dismantle an offshore rig that can weigh anywhere from 100,000 to 300,000 tonnes of steel?  And there are a lot of them. According to the [BBC](http://www.bbc.com/future/story/20160804-what-it-takes-to-dismantle-an-oil-rig):
 
 *There are currently 470 oil or gas rigs and 3,000 pipelines in need of decommissioning – and 5,000 wells that need plugging with cement to depths of thousands of metres. The topsides weigh typically in the tens of thousands of tonnes – with, for example, Shell’s Brent Delta platform’s topside weighing in at a cool 24,000 tonnes.*
 

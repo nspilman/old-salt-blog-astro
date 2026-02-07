@@ -15,12 +15,12 @@ tags:
   - "Cuba"
   - "Roald Amundsen"
   - "Tenerife"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/admunsen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/admunsen.jpg"
 author: "Rick Spilman"
 description: "More that one hundred Australian doctors and dentists on a medical conference cruise have found themselves stranded onboard the cruise ship Roald Amundsen off Punta Arenas, Chile after the country after the country banned cruise ships from docking in response … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/admunsen.jpg)More that one hundred Australian doctors and dentists on a medical conference cruise have found themselves stranded onboard the cruise ship [*Roald Amundsen*](https://www.hurtigruten.com/our-ships/green-pioneer/?gclid=Cj0KCQjwjcfzBRCHARIsAO-1_OpLY0HBopBTM-LD8JNU4_ONgY9yCrSGR9sfMhY4NFf_EzkJVadDUzsaApK4EALw_wcB&gclsrc=aw.ds#/) off Punta Arenas, Chile after the country after the country banned cruise ships from docking in response to the Covid-19 pandemic. Chile announced the ban on Sunday following an elderly passenger on one cruise ship testing positive for the coronavirus.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/admunsen.jpg)More that one hundred Australian doctors and dentists on a medical conference cruise have found themselves stranded onboard the cruise ship [*Roald Amundsen*](https://www.hurtigruten.com/our-ships/green-pioneer/?gclid=Cj0KCQjwjcfzBRCHARIsAO-1_OpLY0HBopBTM-LD8JNU4_ONgY9yCrSGR9sfMhY4NFf_EzkJVadDUzsaApK4EALw_wcB&gclsrc=aw.ds#/) off Punta Arenas, Chile after the country after the country banned cruise ships from docking in response to the Covid-19 pandemic. Chile announced the ban on Sunday following an elderly passenger on one cruise ship testing positive for the coronavirus.
 
 [Guardian Australian](https://www.theguardian.com/world/2020/mar/17/coronavirus-covid-19-australian-doctors-dentists-stuck-cruise-ship-coast-chile) has confirmed the doctors, dentists and medical experts from Australia were on board for a 10-night cruise to Antarctica, the Falkland Islands and the Chilean Fjords as part of a combined medical and dental conference put on by Unconventional Conventions.
 

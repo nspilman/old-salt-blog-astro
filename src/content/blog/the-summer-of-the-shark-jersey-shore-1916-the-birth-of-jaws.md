@@ -11,12 +11,12 @@ tags:
   - "great white shark"
   - "New Jersey"
   - "shark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg"
 author: "Rick Spilman"
 description: "One hundred and five years ago today, Americans learned to be afraid of sharks. An updated repost. On the evening of July 1, 1916, Charles Vansant, 25, of Philadelphia was on vacation with his family at the beach-side resort town … Continue reading &rarr;"
 ---
 
-![sharknj](http://www.oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg)One hundred and five years ago today, Americans learned to be afraid of sharks. An updated repost.
+![sharknj](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg)One hundred and five years ago today, Americans learned to be afraid of sharks. An updated repost.
 
 On the evening of July 1, 1916, [Charles Vansant, 25, of Philadelphia](https://en.wikipedia.org/wiki/Jersey_Shore_shark_attacks_of_1916) was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey Shore. He decided to go for a swim before dinner. Shortly after he dove into the surf, he was attacked by a large shark and died of loss of blood.
 

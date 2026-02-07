@@ -14,12 +14,12 @@ tags:
   - "Russian"
   - "Saratov"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/aligator.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/aligator.jpg"
 author: "Rick Spilman"
 description: "In March, we posted about the sinking of a Russian Alligator Class landing ship by a Ukrainian ballistic missile strike in the Ukrainian port city of Berdyansk, which Russia captured in late February.  The Russians are now salvaging the landing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/aligator.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/aligator.jpg)
 
 Saratov in 2020
 

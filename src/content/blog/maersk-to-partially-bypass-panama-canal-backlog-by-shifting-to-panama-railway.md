@@ -13,12 +13,12 @@ tags:
   - "Panama Canal"
   - "Panama Canal Railway"
   - "Panama Railway"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/PCRRintermodal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/PCRRintermodal.jpg"
 author: "Rick Spilman"
 description: "Maersk Lines has announced that it will be routing containers on its Oceania-to-the Americas \"OC1\" service around the backlogged, drought-stricken Panama Canal. The line will be transporting cargo via the \"land bridge\" across the isthmus by the Panama Canal Railway … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/PCRRintermodal.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/PCRRintermodal.jpg)
 
 Photo: Nils Öberg
 

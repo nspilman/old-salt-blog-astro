@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/puller1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/puller1.jpg"
 author: "Rick Spilman"
 description: "The USNS Lewis B. Puller has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The Puller is the first of two expeditionary sea bases. A sister vessel, the USNS Hershel \"Woody\" Williams  is expected … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/puller1.jpg)The USNS [*Lewis B. Puller*](https://en.wikipedia.org/wiki/USNS_Lewis_B._Puller_\(T-ESB-3\)) has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The *Puller* is the first of two expeditionary sea bases. A sister vessel, the USNS [*Hershel “Woody” Williams*](https://en.wikipedia.org/wiki/USNS_Hershel_%22Woody%22_Williams_\(T-ESB-4\))  is expected to enter service in 2018. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/puller1.jpg)The USNS [*Lewis B. Puller*](https://en.wikipedia.org/wiki/USNS_Lewis_B._Puller_\(T-ESB-3\)) has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The *Puller* is the first of two expeditionary sea bases. A sister vessel, the USNS [*Hershel “Woody” Williams*](https://en.wikipedia.org/wiki/USNS_Hershel_%22Woody%22_Williams_\(T-ESB-4\))  is expected to enter service in 2018. 
 
 What is an expeditionary sea base? The [Military Sealift Command (MSC) defines the type as](http://www.msc.navy.mil/inventory/ships.asp?ship=235): *An afloat forward staging base-variant of the mobile landing platform designed to provide dedicated support for air mine countermeasures and special warfare missions. The ship is capable of executing additional missions including counter-piracy, maritime security, and humanitarian and disaster relief. The platform supports a variety of rotary wing aircraft.*
 

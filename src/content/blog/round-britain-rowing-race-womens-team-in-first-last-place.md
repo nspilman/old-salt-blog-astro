@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Virgin GB Row 2010 is one of  strangest and most challenging rowing races in the world.    As described on the Virgin GB Row 2010 website: It’s 2,010 miles non-stop and unassisted rowing around Great Britain in some of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/go_commando.jpg)The Virgin GB Row 2010 is one of  strangest and most challenging rowing races in the world.    As described on the [Virgin GB Row 2010 website](http://www.gbrowchallenge.com/about.php):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/go_commando.jpg)The Virgin GB Row 2010 is one of  strangest and most challenging rowing races in the world.    As described on the [Virgin GB Row 2010 website](http://www.gbrowchallenge.com/about.php):
 
 *It’s 2,010 miles non-stop and unassisted rowing around Great Britain in some of the most dangerous tides on the globe, in the busiest shipping lanes and with some of the most unpredictable summer weather anywhere.* *Together all those hazards make this officially the toughest rowing race in the world – tougher even than rowing the Pacific or the Atlantic.*  
   

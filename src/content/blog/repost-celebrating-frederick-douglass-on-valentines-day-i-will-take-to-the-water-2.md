@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Happy Valentine’s Day! In honor of both the day and Black History Month, here is an updated repost about Frederick Douglass. But what does Valentine’s Day have to do with Frederick Douglass?  As a slave, Douglass never knew the date … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/freddouglass.jpg)Happy Valentine’s Day! In honor of both the day and Black History Month, here is an updated repost about [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass). But what does Valentine’s Day have to do with Frederick Douglass?  As a slave, Douglass never knew the date of his birth, so he chose to celebrate it every year on February 14th.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg)Happy Valentine’s Day! In honor of both the day and Black History Month, here is an updated repost about [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass). But what does Valentine’s Day have to do with Frederick Douglass?  As a slave, Douglass never knew the date of his birth, so he chose to celebrate it every year on February 14th.
 
 Frederick Douglass was born around 1818. From an early age, he developed a close attachment to ships and the sea. His path to freedom led directly through the docks and shipyards of Baltimore, Maryland.
 

@@ -12,7 +12,7 @@ tags:
   - "Delaware"
   - "Kalmar Nyckel"
   - "pinnance"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/knvideocapt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/knvideocapt.jpg"
 author: "Rick Spilman"
 description: "Here is a short video about the Kalmar Nyckel, a replica of Dutch built pinnace purchased by Sweden in the mid-1600s. What makes the Kalmar Nyckel so fascinating for me is that while there are a goodly number of 18th … Continue reading &rarr;"
 ---

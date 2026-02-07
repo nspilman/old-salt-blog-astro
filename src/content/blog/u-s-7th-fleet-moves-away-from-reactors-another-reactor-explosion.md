@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The US 7th fleet has moved away from the Fukushima nuclear power plants after helicopters from the carrier Ronald Reagan were exposed to an airborne radioactive plume.  Seventeen Navy personnel are being treated for what is described as \"low levels of contamination.\"   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Bow-aircraft.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Bow-aircraft.jpg)
 
 USS Ronald Reagan
 

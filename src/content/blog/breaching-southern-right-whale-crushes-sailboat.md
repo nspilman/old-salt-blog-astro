@@ -22,14 +22,14 @@ A breaching Southern Right Whale landed on top of a ten meter long sail boat off
 
 #gallery-3 { margin: auto; } #gallery-3 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-3 img { border: 2px solid #cfcfcf; } #gallery-3 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_whale_onto_boat_100721_ssh-125x97.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_whale_onto_boat_100721_ssh.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_whale_onto_boat_100721_ssh-125x97.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_whale_onto_boat_100721_ssh.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_after_the_crash_100721_ssh-125x97.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_after_the_crash_100721_ssh.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_after_the_crash_100721_ssh-125x97.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_after_the_crash_100721_ssh.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_046_100721_ssh-125x97.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_046_100721_ssh.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_046_100721_ssh-125x97.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_046_100721_ssh.jpg)
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_043_100721_ssh-125x97.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_043_100721_ssh.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_043_100721_ssh-125x97.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_043_100721_ssh.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_033_100721_ssh-125x97.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/ht_wales_and_grumples_033_100721_ssh.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_033_100721_ssh-125x97.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_wales_and_grumples_033_100721_ssh.jpg)

@@ -12,12 +12,12 @@ tags:
   - "Lubec"
   - "Maine"
   - "Prescott Ford Jernegan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/prospectusgold.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/prospectusgold.jpg"
 author: "Rick Spilman"
 description: "On April Fool’s Day, a repost about not an April Fool’s Day prank but a hoax and a swindle. In October of 1897, at the height of the Alaskan Gold Rush, two men, Prescott Ford Jernegan, a Baptist minister, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/prospectusgold.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/prospectusgold.jpg)
 
 Prospectus for The Electrolytic Marine Salts Company
 

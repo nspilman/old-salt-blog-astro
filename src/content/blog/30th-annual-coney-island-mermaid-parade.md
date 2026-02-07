@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Mermaid Parade has been held on Coney Island in Brooklyn, New York since 1983.  And I missed it again this year.  Damn. Maybe next year.  Fortunately, the intrepid Will Van Dorp was on hand with his camera.   Check out his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/mmp1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/mmp1.jpg)
 
 Photo: Will Van Dorp
 

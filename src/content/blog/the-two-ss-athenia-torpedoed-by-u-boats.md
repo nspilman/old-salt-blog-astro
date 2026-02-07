@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Seventy five years ago this month, Donaldson Line passenger liner SS Athenia became the first British ship to be sunk by a German U-boat in World War II."
 ---
 
-![Athenia 1923-1939](http://www.oldsaltblog.com/wp-content/uploads/2014/09/Athenia-2-01.jpg)
+![Athenia 1923-1939](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Athenia-2-01.jpg)
 
 Athenia 1923-1939
 
@@ -27,7 +27,7 @@ Tragically, more passengers and crew died in attempt at rescue than died due t
 
 Torpedoing a passenger was a violation of international law.  Oberleutnant Lemp claimed that he thought the ship was a troop transport because it was running blacked out. [Plywood panels had been used to cover SS *Athenia’s* ports](http://www.jcs-group.com/military/war1941allies/athenia.html) as camouflage.  Fearful that the death of Americans would help draw the US into the war, the German government denied responsibility.  There suggestions that the liner had hit an English mine. Only after the war was it officially confirmed that a German torpedo had sunk the ship.
 
-![Athenia 1904-1917](http://www.oldsaltblog.com/wp-content/uploads/2014/09/Athenia-1-01.jpg)
+![Athenia 1904-1917](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Athenia-1-01.jpg)
 
 Athenia 1904-1917
 

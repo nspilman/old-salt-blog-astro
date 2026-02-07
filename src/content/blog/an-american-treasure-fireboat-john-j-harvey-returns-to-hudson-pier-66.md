@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Yesterday, we posted about the arrival of the World War II Destroyer Escort USS Slater at Caddell Dry Dock. The day before, the historic fireboat, John J. Harvey, left Caddell to return to her Hudson River dock after a month of … Continue reading &rarr;"
 ---
 
-![Photo: Will Van Dorp](http://www.oldsaltblog.com/wp-content/uploads/2014/04/0aaaafb1.jpg)
+![Photo: Will Van Dorp](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/0aaaafb1.jpg)
 
 Photo: Will Van Dorp
 

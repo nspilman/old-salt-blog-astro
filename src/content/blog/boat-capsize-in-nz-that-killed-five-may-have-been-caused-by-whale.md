@@ -13,12 +13,12 @@ tags:
   - "New Zealand"
   - "sperm whales"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/humpback2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/humpback2.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that five people died in New Zealand after a birdwatching boat capsized, possibly after colliding with a whale. Eleven people, mostly from the birdwatching group, were onboard when the boat capsized on Saturday in Goose Bay near … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/humpback2.jpg)The [BBC](https://www.bbc.com/news/world-asia-62860778) reports that five people died in New Zealand after a birdwatching boat capsized, possibly after colliding with a whale. Eleven people, mostly from the birdwatching group, were onboard when the boat capsized on Saturday in Goose Bay near the town of Kaikōura.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/humpback2.jpg)The [BBC](https://www.bbc.com/news/world-asia-62860778) reports that five people died in New Zealand after a birdwatching boat capsized, possibly after colliding with a whale. Eleven people, mostly from the birdwatching group, were onboard when the boat capsized on Saturday in Goose Bay near the town of Kaikōura.
 
 Police declined to speculate on what had caused the accident, merely confirming the collision. But Craig Mackle, the mayor of Kaikōura, told reporters he believed the boat had hit a surfacing whale.
 

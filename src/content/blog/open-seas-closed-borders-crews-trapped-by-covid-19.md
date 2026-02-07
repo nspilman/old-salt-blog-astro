@@ -12,12 +12,12 @@ tags:
   - "crews"
   - "ports"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/maerskvirginia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/maerskvirginia.jpg"
 author: "Rick Spilman"
 description: "Despite the pandemic caused by the coronavirus, known as Covid-19, ships keep moving across the oceans.  Oil tankers, bulk carriers, and container ships carry critical resources and manufactured goods to industry and consumers across the globe. Now, however, dozens of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/maerskvirginia.jpg)Despite the pandemic caused by the coronavirus, known as Covid-19, ships keep moving across the oceans.  Oil tankers, bulk carriers, and container ships carry critical resources and manufactured goods to industry and consumers across the globe. Now, however, dozens of nations, including the 27 nations of the European Union, have temporarily closed their external borders to most foreign nationals.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/maerskvirginia.jpg)Despite the pandemic caused by the coronavirus, known as Covid-19, ships keep moving across the oceans.  Oil tankers, bulk carriers, and container ships carry critical resources and manufactured goods to industry and consumers across the globe. Now, however, dozens of nations, including the 27 nations of the European Union, have temporarily closed their external borders to most foreign nationals.
 
 The problem is that ships’ crew, whose contracts of employment are up, can be effectively trapped. They are often prevented from disembarking and, even in the increasingly race cases where they can go ashore, in many countries, international air travel is just not available.
 

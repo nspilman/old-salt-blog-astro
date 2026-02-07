@@ -11,12 +11,12 @@ tags:
   - "Ever Given"
   - "Suez Canal"
   - "Suez-Max"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven3.jpg"
 author: "Rick Spilman"
 description: "The Ever Given, the 20,000 TEU container that has been blocking all traffic on the Suez Canal since Tuesday, is one of the largest container ships in the world and one of the largest ships allowed to transit the Canal. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/evergiven3.jpg)The [*Ever Given*](https://en.wikipedia.org/wiki/Ever_Given), the 20,000 TEU container that has been blocking all traffic on the Suez Canal since Tuesday, is one of the largest container ships in the world and one of the largest ships allowed to transit the Canal. In the shipping industry, it is referred to as a [Suez-Max](https://en.wikipedia.org/wiki/Suezmax). The recent grounding of the *Ever Given,* in high winds during a dust storm, raises the question, are these ultra-large container ships too large to safely transit the Suez Canal?  Put another way, for large container ships, is Suez-Max Suez too much?   
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven3.jpg)The [*Ever Given*](https://en.wikipedia.org/wiki/Ever_Given), the 20,000 TEU container that has been blocking all traffic on the Suez Canal since Tuesday, is one of the largest container ships in the world and one of the largest ships allowed to transit the Canal. In the shipping industry, it is referred to as a [Suez-Max](https://en.wikipedia.org/wiki/Suezmax). The recent grounding of the *Ever Given,* in high winds during a dust storm, raises the question, are these ultra-large container ships too large to safely transit the Suez Canal?  Put another way, for large container ships, is Suez-Max Suez too much?   
 
 ### What is Suez Max?
 
@@ -36,7 +36,7 @@ Crossing an open ocean is less of a problem on the *Ever Given* than maneuvering
 
 In high winds, limited visibility, in what was a very narrow channel given the size and windage of the ship, it is easy to understand how the *Ever Given* came to run hard aground, wedged across the canal, blocking a major shipping thoroughfare.
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/canalcrosssection.jpg)](https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalCharacteristics.aspx)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/canalcrosssection.jpg)](https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalCharacteristics.aspx)
 
 Source: Suez Canal Authority
 

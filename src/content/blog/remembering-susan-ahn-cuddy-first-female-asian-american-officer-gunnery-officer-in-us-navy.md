@@ -14,12 +14,12 @@ tags:
   - "Susan Ahn"
   - "Susan Ahn Cuddy"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/ahncuddy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/ahncuddy.jpg"
 author: "Rick Spilman"
 description: "May is Asian American and Pacific Islander Heritage Month, so it seems appropriate to remember the life and accomplishments of Susan Ahn Cuddy, a Korean American who would serve as the first female Asian-American officer in the US Navy and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/ahncuddy-156x200.jpg)May is [Asian American and Pacific Islander Heritage Month](https://asianpacificheritage.gov/), so it seems appropriate to remember the life and accomplishments of [Susan Ahn Cuddy](https://www.defense.gov/Explore/Features/Story/Article/2586537/navy-lt-susan-ahn-cuddy-carved-the-path-for-asian-american-women/), a Korean American who would serve as the first female Asian-American officer in the US Navy and would also become the first female Navy gunnery instructor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/ahncuddy-156x200.jpg)May is [Asian American and Pacific Islander Heritage Month](https://asianpacificheritage.gov/), so it seems appropriate to remember the life and accomplishments of [Susan Ahn Cuddy](https://www.defense.gov/Explore/Features/Story/Article/2586537/navy-lt-susan-ahn-cuddy-carved-the-path-for-asian-american-women/), a Korean American who would serve as the first female Asian-American officer in the US Navy and would also become the first female Navy gunnery instructor.
 
 After leaving the Navy at the end of World War II, Cuddy also worked as an intelligence analyst and section chief at the National Security Agency and ran a think tank during the Cold War. She worked on top-secret projects for the Defense Department and supervised more than 300 scholars and experts in Russian affairs.
 

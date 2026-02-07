@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The rudder for the composite clipper ship, City of Adelaide, arrived in Australia the week before Christmas   Typically, when a ship comes into port, the rudder arrives last. Very little has been typical, however, about the struggle to save the oldest composite clipper ship, the City … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/cityadelaidewebpic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cityadelaidewebpic.jpg)
 
 The composite clipper ship is still in Scotland but her rudder is in Australia
 

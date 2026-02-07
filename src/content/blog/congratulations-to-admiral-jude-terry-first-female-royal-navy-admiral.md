@@ -11,12 +11,12 @@ tags:
   - "Director of People and Training"
   - "Naval Secretary"
   - "Royal Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/admirealterry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/admirealterry.jpg"
 author: "Rick Spilman"
 description: "Congratulations to ex-Commodore Judith Helen \"Jude\" Terry, who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/admirealterry.jpg)Congratulations to ex-Commodore [Judith Helen “Jude” Terry](https://en.wikipedia.org/wiki/Jude_Terry), who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, will serve as Director of People and Training and Naval Secretary. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/admirealterry.jpg)Congratulations to ex-Commodore [Judith Helen “Jude” Terry](https://en.wikipedia.org/wiki/Jude_Terry), who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, will serve as Director of People and Training and Naval Secretary. 
 
 From the [RN announcement](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2022/january/17/20220117-royal-navys-first-but-definitely-not-last-female-admiral-takes-command):
 

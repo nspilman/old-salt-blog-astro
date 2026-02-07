@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "HMS Bounty recently called at St. Augustine, FL.  During a dockside party on the ship, Dr. Roger Clark Smith, a local historian, decided that there would be no better setting to propose marriage to the fair Christine Whalen, who graciously accepted. Our congratulations to the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/bountyvow.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/bountyvow.jpg)
 
 Dr. Roger Clark and fiance Christine Whalen on HMS Bounty Photo: Rhonda Parker
 

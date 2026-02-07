@@ -15,12 +15,12 @@ tags:
   - "St Johns"
   - "Titan"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/titandebris.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titandebris.jpg"
 author: "Rick Spilman"
 description: "NPR reports that human remains have likely been recovered from the wreckage of the submersible that imploded during an underwater voyage to view the Titanic, the U.S. Coast Guard said Wednesday. The news came hours after the announcement that debris … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/titandebris.jpg)[NPR](https://www.npr.org/2023/06/29/1184970204/presumed-human-remains-and-more-titan-debris-have-been-recovered-coast-guard-say) reports that human remains have likely been recovered from the wreckage of the submersible that imploded during an underwater voyage to view the *Titanic*, the U.S. Coast Guard said Wednesday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titandebris.jpg)[NPR](https://www.npr.org/2023/06/29/1184970204/presumed-human-remains-and-more-titan-debris-have-been-recovered-coast-guard-say) reports that human remains have likely been recovered from the wreckage of the submersible that imploded during an underwater voyage to view the *Titanic*, the U.S. Coast Guard said Wednesday.
 
 The news came hours after the announcement that debris from the *Titan*, collected from the seafloor more than 12,000 feet (3,658 meters) below the surface of the North Atlantic, had arrived in St. John’s, Newfoundland. Twisted chunks of the submersible were unloaded at a Canadian Coast Guard pier.
 

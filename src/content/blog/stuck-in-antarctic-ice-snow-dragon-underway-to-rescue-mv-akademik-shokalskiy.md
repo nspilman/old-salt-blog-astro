@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Expedition cruising is often considered \"adventure travel\" as it involves smaller ships and often more exotic destinations.  The scientists and passengers on the current cruise on the ice-strengthened expedition cruise ship, MV Akademik Shokalskiy, appear to be having more of an … Continue reading &rarr;"
 ---
 
-![ MV Akademik Shokalskiy](http://www.oldsaltblog.com/wp-content/uploads/2013/12/munsoncruise.jpg)
+![ MV Akademik Shokalskiy](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/munsoncruise.jpg)
 
 MV Akademik Shokalskiy
 

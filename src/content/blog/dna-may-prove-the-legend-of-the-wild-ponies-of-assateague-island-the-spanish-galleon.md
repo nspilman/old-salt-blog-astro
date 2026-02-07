@@ -16,12 +16,12 @@ tags:
   - "Puerto Real"
   - "Spanish galleon"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/ponies.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ponies.jpg"
 author: "Rick Spilman"
 description: "Two herds of wild ponies have lived for hundreds of years on Assateague Island, a 37-mile-long Atlantic barrier island that crosses the border between the states of Virginia and Maryland. The Virginia side of the island is just east of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ponies.jpg)Two herds of wild ponies have lived for hundreds of years on [Assateague Island](https://en.wikipedia.org/wiki/Assateague_Island), a 37-mile-long Atlantic barrier island that crosses the border between the states of Virginia and Maryland. The Virginia side of the island is just east of Chincoteague Island.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ponies.jpg)Two herds of wild ponies have lived for hundreds of years on [Assateague Island](https://en.wikipedia.org/wiki/Assateague_Island), a 37-mile-long Atlantic barrier island that crosses the border between the states of Virginia and Maryland. The Virginia side of the island is just east of Chincoteague Island.
 
 This week was the 97th Annual [Chincoteague Island Pony Swim](https://www.chincoteague.com/pony_swim_guide.html), where local wranglers, dubbed “Salt Water Cowboys,” swim the herd across to Chincoteague Island. Following a parade of the horses through the village, foals are auctioned off to help maintain the size of the herd at around 150, roughly the number of horses that the island can support. The remaining horses are then led back to Assateague Island.
 

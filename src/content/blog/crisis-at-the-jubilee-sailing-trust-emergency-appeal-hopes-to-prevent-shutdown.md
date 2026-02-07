@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "Jubilee Sailing Trust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/lnT.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lnT.jpg"
 author: "Rick Spilman"
 description: "The emergency appeal from the Jubilee Sailing Trust dated June 28th, could not be more dire.  Our objective is to urgently raise £1m (one million pounds) of unrestricted funds by Friday July 5th 2019 … If we are unable to reach this target, then it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/lnT.jpg)The [emergency appeal](https://jst.org.uk/emergency-appeal/) from the [Jubilee Sailing Trust](https://jst.org.uk/) dated June 28th, could not be more dire. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lnT.jpg)The [emergency appeal](https://jst.org.uk/emergency-appeal/) from the [Jubilee Sailing Trust](https://jst.org.uk/) dated June 28th, could not be more dire. 
 
 Our objective is to **urgently raise £1m (one million pounds)** of unrestricted funds **by Friday July 5th 2019** … **If we are unable to reach this target, then it is likely the JST’s activities will cease immediately …**
 

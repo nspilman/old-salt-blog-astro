@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "One hundred and twelve years ago today, the disaster on the General Slocum resulted in one of the largest loss of life in New York City prior to the attacks of 9/11/01. At around 9AM on June 15, 1904, approximately 1,350 passengers, … Continue reading &rarr;"
 ---
 
-![genslocum](http://www.oldsaltblog.com/wp-content/uploads/2016/06/genslocum.jpg)One hundred and twelve years ago today, the disaster on the [*General Slocum*](https://en.wikipedia.org/wiki/PS_General_Slocum) resulted in one of the largest loss of life in New York City prior to the attacks of 9/11/01.
+![genslocum](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/genslocum.jpg)One hundred and twelve years ago today, the disaster on the [*General Slocum*](https://en.wikipedia.org/wiki/PS_General_Slocum) resulted in one of the largest loss of life in New York City prior to the attacks of 9/11/01.
 
 At around 9AM on June 15, 1904, approximately 1,350 passengers, mostly women and children from the German-American community of New York’s Lower East Side, boarded the Knickerbocker Steamship Company paddle steamer *General Slocum* for an annual end-of-school outing to Locust Grove Picnic Ground at Eatons Neck on Long Island.  The trip was sponsored by the [St. Mark’s Evangelical Lutheran Church](https://en.wikipedia.org/wiki/German_Evangelical_Lutheran_Church_of_St._Mark).
 

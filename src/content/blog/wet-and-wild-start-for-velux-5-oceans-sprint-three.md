@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Blustery winds, gray skies and rain marked the beginning of the 6,000 nautical mile Sprint 3 of the Velux Five Oceans Singlehanded Around the World Race.  The four remaining boats departed Sunday from Wellington, New Zealand bound for to Punta del … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/11_V50_sprint3start_360.jpg)Blustery winds, gray skies and rain marked the beginning of the 6,000 nautical mile Sprint 3 of the [Velux Five Oceans](http://www.velux5oceans.com/) Singlehanded Around the World Race.  The four remaining boats departed Sunday from Wellington, New Zealand bound for to Punta del Este in Uruguay, by way of Cape Horn.  After two days American skipper Brad Van Liew retains the lead with Polish skipper Zbigniew ‘Gutek’ Gutkowski just a few miles behind.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/11_V50_sprint3start_360.jpg)Blustery winds, gray skies and rain marked the beginning of the 6,000 nautical mile Sprint 3 of the [Velux Five Oceans](http://www.velux5oceans.com/) Singlehanded Around the World Race.  The four remaining boats departed Sunday from Wellington, New Zealand bound for to Punta del Este in Uruguay, by way of Cape Horn.  After two days American skipper Brad Van Liew retains the lead with Polish skipper Zbigniew ‘Gutek’ Gutkowski just a few miles behind.
 
 [Wet And Wild Start For VELUX 5 OCEANS Sprint Three](http://www.sailing.org/35332.php)  
   

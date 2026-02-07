@@ -13,12 +13,12 @@ tags:
   - "Great Pacific Garbage Patch"
   - "Maersk"
   - "The Ocean Cleanup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/oceancleanup.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oceancleanup.jpg"
 author: "Rick Spilman"
 description: "The Ocean Cleanup‘s latest attempt to clean plastic from the Northern Pacific has proven to be unimpressive.  After two offshore supply vessels, donated by Maersk, towed a 520-meter wide boom for 120 hours, they succeeded in collecting around 8 tonnes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/oceancleanup.jpg)[The Ocean Cleanup](https://theoceancleanup.com/)‘s latest attempt to clean plastic from the Northern Pacific has proven to be unimpressive.  After two offshore supply vessels, donated by Maersk, towed a 520-meter wide boom for 120 hours, they succeeded in collecting around 8 tonnes of floating plastic, or roughly the equivalent to a single load of a standard garbage truck.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oceancleanup.jpg)[The Ocean Cleanup](https://theoceancleanup.com/)‘s latest attempt to clean plastic from the Northern Pacific has proven to be unimpressive.  After two offshore supply vessels, donated by Maersk, towed a 520-meter wide boom for 120 hours, they succeeded in collecting around 8 tonnes of floating plastic, or roughly the equivalent to a single load of a standard garbage truck.
 
 Around 2014, the [media became enthralled](https://www.bbc.com/news/magazine-29631332) with a story of a 19-year-old Dutch engineer named Boyan Slat, who claimed to have designed a boom system that would clean up half the plastic in the [Great Pacific garbage patch](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch) within a decade. Many engineers and oceanographers doubted that the scheme would work, but the media and several large corporate sponsors bought into the grand vision. The title of an article in the magazine Fast Money from 2017, [Boy Genius Boyan Slat’s Giant Ocean Cleanup Machine Is Real](https://www.fastcompany.com/40419899/boy-genius-boyan-slats-giant-ocean-cleanup-machine-is-real), reflects the enthusiasm for the project.
 

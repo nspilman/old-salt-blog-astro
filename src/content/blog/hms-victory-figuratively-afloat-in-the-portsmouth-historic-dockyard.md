@@ -10,12 +10,12 @@ tags:
   - "HMS Victory"
   - "National Museum of the Royal Navy"
   - "Portsmouth Historic Dockyard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/victoryrudder.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/victoryrudder.jpg"
 author: "Rick Spilman"
 description: "When HMS Victory went into drydock in the Portsmouth Historic Dockyard in 1922, she was supported by 22 steel cradles. In the almost 100 years that she has remained on the dock, the historic ship’s 3,500-tonne hull had been to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/victoryrudder.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/victoryrudder.jpg)
 
 View from Astern, June 2020
 

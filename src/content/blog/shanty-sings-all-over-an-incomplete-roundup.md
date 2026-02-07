@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This Saturday night, January7th, the Mystic Seaport will be hosting a \"Chantey Blast and Pub Sing\" from 1-5 PM in the Frohsinn Hall (aka the German Club), 54 Greenmanville Avenue, in Mystic CT as a fundraiser for the 33rd Annual Mystic Seaport Sea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/seashanty1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/seashanty1.jpg)
 
 William Main Doerflinger Memorial Sea Shanty Sessions at the Noble Maritime Collection at Snug Harbor
 

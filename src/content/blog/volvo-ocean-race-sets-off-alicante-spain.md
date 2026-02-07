@@ -11,12 +11,12 @@ tags:
   - "Alicante"
   - "Spain"
   - "Volvo Ocean Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/volvostart1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/volvostart1.jpg"
 author: "Rick Spilman"
 description: "A fleet of seven teams of racers set off this morning from Alicante, Spain bound for Lisbon, on the first leg of the Volvo Ocean Race 2017-2018.  The eleven leg race will visit 12 cities in six continents, ending next July in The Hague, Netherlands. The teams … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/volvostart1.jpg)A fleet of seven teams of racers set off this morning from Alicante, Spain bound for Lisbon, on the first leg of the [Volvo Ocean Race 2017-2018](http://www.volvooceanrace.com).  The eleven leg race will visit 12 cities in six continents, ending next July in The Hague, Netherlands. The teams will race Volvo Ocean 65 one-designs 45,000 miles around the globe.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/volvostart1.jpg)A fleet of seven teams of racers set off this morning from Alicante, Spain bound for Lisbon, on the first leg of the [Volvo Ocean Race 2017-2018](http://www.volvooceanrace.com).  The eleven leg race will visit 12 cities in six continents, ending next July in The Hague, Netherlands. The teams will race Volvo Ocean 65 one-designs 45,000 miles around the globe.
 
 The seven teams are [Team AkzoNobel](http://www.volvooceanrace.com/en/teams/Team-AkzoNobel.html), backed by a Dutch paint company; [Team Dongfeng](http://www.volvooceanrace.com/en/teams/Dongfeng-Race-Team.html), sponsored by a Chinese automobile manufacturer; [Team MAPFRE](http://www.volvooceanrace.com/en/teams/Mapfre.html), backed by a Spanish insurance company; [Team Vestas](http://www.volvooceanrace.com/en/teams/Vestas-11th-Hour-Racing.html), supported by the Dutch wind turbine producer; [Team Sun Hung Kai/Scallywag](http://www.volvooceanrace.com/en/teams/Team-Sun-Hung-Kai-Scallywag.html), representing a Hong Kong real estate firm; [Team Turn the Tide on Plastic/Clean Seas](http://www.volvooceanrace.com/en/teams/Turn-The-Tide-On-Plastic.html) representing a UN environmental group with the support of the Spanish government; and [Team Brunel,](http://www.volvooceanrace.com/en/teams/Team-Brunel.html) backed by a Dutch-based global consultancy. 
 

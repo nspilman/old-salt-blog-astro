@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The replica of the HMS Bounty built for the 1962 movie, Mutiny on the Bounty, starring Marlon Brando make the port of Galveston, its winter home.  The deal apparently has not been finalized but the Galveston Daily News reports that negotiations … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/bounty-004.jpg)The replica of the [HMS *Bounty*](http://www.tallshipbounty.org/) built for the 1962 movie, *Mutiny on the Bounty*, starring Marlon Brando make the port of Galveston, its winter home.  The deal apparently has not been finalized but the [Galveston Daily News](http://galvestondailynews.com/story/349902) reports that negotiations are on-going. Thanks to Stacy for passing along the news.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/bounty-004.jpg)The replica of the [HMS *Bounty*](http://www.tallshipbounty.org/) built for the 1962 movie, *Mutiny on the Bounty*, starring Marlon Brando make the port of Galveston, its winter home.  The deal apparently has not been finalized but the [Galveston Daily News](http://galvestondailynews.com/story/349902) reports that negotiations are on-going. Thanks to Stacy for passing along the news.
 
 [‘Mutiny on the Bounty’ ship could dock at isle](http://galvestondailynews.com/story/349902)
 

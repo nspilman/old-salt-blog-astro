@@ -13,12 +13,12 @@ tags:
   - "Eleanor Creesy"
   - "Flying Cloud"
   - "navigator"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/flyingcloud2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/flyingcloud2.jpg"
 author: "Rick Spilman"
 description: "On the first day of Women’s History Month, it is worth remembering Eleanor Creesy, the navigator of the clipper ship Flying Cloud, who with her husband, Captain Josiah Creesy, set world sailing records for the fastest passage between New York … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/flyingcloud2.jpg)On the first day of Women’s History Month, it is worth remembering [Eleanor Creesy](https://en.wikipedia.org/wiki/Eleanor_Creesy#CITEREFRoss2014), the navigator of the clipper ship [*Flying Cloud*](https://en.wikipedia.org/wiki/Flying_Cloud_\(clipper\)#Ballad), who with her husband, [Captain Josiah Creesy](https://www.findagrave.com/memorial/10061845/josiah-perkins-creesy), set world sailing records for the fastest passage between New York and San Francisco. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/flyingcloud2.jpg)On the first day of Women’s History Month, it is worth remembering [Eleanor Creesy](https://en.wikipedia.org/wiki/Eleanor_Creesy#CITEREFRoss2014), the navigator of the clipper ship [*Flying Cloud*](https://en.wikipedia.org/wiki/Flying_Cloud_\(clipper\)#Ballad), who with her husband, [Captain Josiah Creesy](https://www.findagrave.com/memorial/10061845/josiah-perkins-creesy), set world sailing records for the fastest passage between New York and San Francisco. 
 
 Eleanor Prentiss was born in 1814, in Marblehead, Massachusetts, the daughter of a master mariner, who taught his daughter the art and science of navigation. Eleanor knew how to use a chronometer and a sextant and how to make a sight reduction. In 1841, Eleanor married Captain Josiah Perkins Creesy. The couple sailed together on the ship *Oneida* in the China trade. Josiah was captain of the ship but Eleanor was the navigator.
 

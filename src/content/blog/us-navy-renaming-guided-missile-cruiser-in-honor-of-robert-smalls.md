@@ -12,12 +12,12 @@ tags:
   - "Ticonderoga-class guided-missile cruiser"
   - "USS Chancellorsville"
   - "USS Robert Smalls"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/ussrobertsmalls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/ussrobertsmalls.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the Secretary of the Navy Carlos Del Toro announced that the Ticonderoga-class guided-missile cruiser formerly named USS Chancellorsville (CG 62) will be renamed USS Robert Smalls. Earlier this month, we posted Remembering Robert Smalls – Former Slave, Pilot of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/ussrobertsmalls.jpg)Yesterday, the [Secretary of the Navy Carlos Del Toro announced](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/3312337/secnav-renames-ticonderoga-class-guided-missile-cruiser-uss-chancellorsville-af/) that the Ticonderoga-class guided-missile cruiser formerly named USS *Chancellorsville* (CG 62) will be renamed USS *Robert Smalls*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/ussrobertsmalls.jpg)Yesterday, the [Secretary of the Navy Carlos Del Toro announced](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/3312337/secnav-renames-ticonderoga-class-guided-missile-cruiser-uss-chancellorsville-af/) that the Ticonderoga-class guided-missile cruiser formerly named USS *Chancellorsville* (CG 62) will be renamed USS *Robert Smalls*.
 
 Earlier this month, we posted [Remembering Robert Smalls – Former Slave, Pilot of the Planter, First Black Captain in the US Navy & US Congressman.](https://www.oldsaltblog.com/2023/02/remembering-robert-smalls-former-slave-pilot-of-the-planter-first-black-captain-in-the-us-navy-us-congressman-2/) On May 13, 1862, [Robert Smalls](http://en.wikipedia.org/wiki/Robert_Smalls), a 23-year-old slave, who served as the pilot of the Confederate armed transport, [CSS *Planter*](http://en.wikipedia.org/wiki/USS_Planter_\(1862\)), led eight fellow slaves in an audacious flight to freedom. They seized the [CSS *Planter*](http://en.wikipedia.org/wiki/USS_Planter_\(1862\)), steamed it out past the batteries and forts of Charleston harbor, and turned it over to the Union naval blockade.  Smalls would go on to become the first black captain of a US Navy vessel, a South Carolina State Legislator, a Major General in the South Carolina Militia, a five-term U.S. Congressman, and a U.S. Collector of Customs. 
 

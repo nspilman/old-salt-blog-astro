@@ -15,12 +15,12 @@ tags:
   - "pirate"
   - "Queen Anne's Revenge"
   - "Supreme Court"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/qarsketch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/qarsketch.jpg"
 author: "Rick Spilman"
 description: "Edward Teach, better known as the pirate Blackbeard, terrorized the Caribbean and the North American East Coast in the early 18th century. Now a documentary filmmaker is claiming that the State of North Carolina is engaging in modern-day digital piracy. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/qarsketch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/qarsketch.jpg)
 
 Queen Anne’s Revenge
 

@@ -13,12 +13,12 @@ tags:
   - "HMS Chiddingfold"
   - "HMS Penzance"
   - "minehunter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/mineunterallision.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/mineunterallision.jpg"
 author: "Rick Spilman"
 description: "UK Royal Navy minehunter HMS Chiddingfold collided with HMS Bangor while maneuvering in Bahrain harbor on January 18th. No one was reported to be injured but Bangor was seriously damaged, with a large hole ripped in its fiberglass hull. Both ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/mineunterallision.jpg)UK Royal Navy minehunter [HMS *Chiddingfold*](https://en.wikipedia.org/wiki/HMS_Chiddingfold_\(M37\)) collided with [HMS](https://en.wikipedia.org/wiki/HMS_Bangor_\(M109\)) *Bangor* while maneuvering in Bahrain harbor on January 18th. No one was reported to be injured but *Bangor* was seriously damaged, with a large hole ripped in its fiberglass hull.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/mineunterallision.jpg)UK Royal Navy minehunter [HMS *Chiddingfold*](https://en.wikipedia.org/wiki/HMS_Chiddingfold_\(M37\)) collided with [HMS](https://en.wikipedia.org/wiki/HMS_Bangor_\(M109\)) *Bangor* while maneuvering in Bahrain harbor on January 18th. No one was reported to be injured but *Bangor* was seriously damaged, with a large hole ripped in its fiberglass hull.
 
 Both ships are specialist minesweeper vessels, part of the UK’s long-standing presence in the Gulf.
 

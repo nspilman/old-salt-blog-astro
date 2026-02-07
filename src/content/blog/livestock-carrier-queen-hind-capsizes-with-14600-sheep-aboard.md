@@ -13,12 +13,12 @@ tags:
   - "Midia"
   - "Queen Hind"
   - "Romania"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/queenhind.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/queenhind.jpg"
 author: "Rick Spilman"
 description: "The livestock carrier, Queen Hind, carrying 14,600 sheep, capsized on Sunday after leaving the Black Sea port of Midia, near the south-eastern Romanian city of Constanta. The crew escaped safely. It is unclear how many of the sheep aboard were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/queenhind.jpg)The livestock carrier, [*Queen Hind*](http://www.vesseltracking.net/ship/queen-hind-7920675), carrying 14,600 sheep, [capsized on Sunday after leaving the Black Sea port of Midia](https://www.bbc.com/news/world-europe-50538592?fbclid=IwAR1Z1chesS6nLgY2SH4K1NvjTJtC8kWCMGDQGKNOrLN60N5AcbuygYI1Mpo), near the south-eastern Romanian city of Constanta. The crew escaped safely. It is unclear how many of the sheep aboard were killed. As of Sunday, 32 sheep were reported to be rescued, with thousands believed still trapped inside the hull.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/queenhind.jpg)The livestock carrier, [*Queen Hind*](http://www.vesseltracking.net/ship/queen-hind-7920675), carrying 14,600 sheep, [capsized on Sunday after leaving the Black Sea port of Midia](https://www.bbc.com/news/world-europe-50538592?fbclid=IwAR1Z1chesS6nLgY2SH4K1NvjTJtC8kWCMGDQGKNOrLN60N5AcbuygYI1Mpo), near the south-eastern Romanian city of Constanta. The crew escaped safely. It is unclear how many of the sheep aboard were killed. As of Sunday, 32 sheep were reported to be rescued, with thousands believed still trapped inside the hull.
 
 The ship, which left Midia at about 12:00 local time (10:00 GMT), was heading to the Saudi port of Jeddah with its cargo.
 

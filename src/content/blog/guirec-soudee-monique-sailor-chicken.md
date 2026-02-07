@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Guirec Soudée, a 24 year old sailor, has spent the last two years sailing the globe with a female chicken named Monique.  Soudée began the cruise in the Canary Islands in May 2014, sailing to St. Barts in the Caribbean and … Continue reading &rarr;"
 ---
 
-![gmonique](http://www.oldsaltblog.com/wp-content/uploads/2016/06/gmonique.jpg)Guirec Soudée, a 24 year old sailor, has spent the last two years sailing the globe with a female chicken named Monique.  Soudée began the cruise in the Canary Islands in May 2014, sailing to St. Barts in the Caribbean and then to Greenland on his boat, *Yvinec*. Apparently, Monique has proven to be both good company and a reliable producer of eggs.
+![gmonique](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gmonique.jpg)Guirec Soudée, a 24 year old sailor, has spent the last two years sailing the globe with a female chicken named Monique.  Soudée began the cruise in the Canary Islands in May 2014, sailing to St. Barts in the Caribbean and then to Greenland on his boat, *Yvinec*. Apparently, Monique has proven to be both good company and a reliable producer of eggs.
 
 “I knew she was the one straight away,” Guirec told the [BBC](http://www.bbc.com/news/world-europe-36475672?ocid=socialflow_facebook&ns_mchannel=social&ns_campaign=bbcnews&ns_source=facebook) from western Greenland, where he is now moored.
 

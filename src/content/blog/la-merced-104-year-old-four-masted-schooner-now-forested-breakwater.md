@@ -13,12 +13,12 @@ tags:
   - "four-masted auxiliary schooner"
   - "La Merced"
   - "wooden-hulled"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/lamerced.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/lamerced.jpg"
 author: "Rick Spilman"
 description: "Last September, we posted about the wreck of the steam collier SS Ayrfield, abandoned in Homebush Bay, near Sydney, Australia, before it could be scrapped, that has now been taken over by a mangrove forest.  A reader pointed out a similar … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/lamerced.jpg)Last September, we [posted about the wreck of the steam collier SS *Ayrfield,*](http://www.oldsaltblog.com/2020/09/ss-ayrfield-from-wreck-to-mangrove-forest/) abandoned in Homebush Bay, near Sydney, Australia, before it could be scrapped, that has now been taken over by a mangrove forest.  A reader pointed out a similar vessel on the other side of the globe that has also been taken over by nature.  The four-masted auxiliary schooner *[La Merced](http://lcweb2.loc.gov/master/pnp/habshaer/wa/wa0900/wa0912/data/wa0912data.pdf),* built in 1917, is now a breakwater at a marina in Anacortes, WA. The schooner’s hull is also home to a small forest of trees.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/lamerced.jpg)Last September, we [posted about the wreck of the steam collier SS *Ayrfield,*](http://www.oldsaltblog.com/2020/09/ss-ayrfield-from-wreck-to-mangrove-forest/) abandoned in Homebush Bay, near Sydney, Australia, before it could be scrapped, that has now been taken over by a mangrove forest.  A reader pointed out a similar vessel on the other side of the globe that has also been taken over by nature.  The four-masted auxiliary schooner *[La Merced](http://lcweb2.loc.gov/master/pnp/habshaer/wa/wa0900/wa0912/data/wa0912data.pdf),* built in 1917, is now a breakwater at a marina in Anacortes, WA. The schooner’s hull is also home to a small forest of trees.
 
 The wooden-hulled 232 foot long by 42.6 feet of beam, 4-masted schooner was built in California during World War I, and began her career carrying petroleum products for Standard Oil. In the late 1920s, *La Merced* was converted for use as a floating cannery in Alaskan waters. In 1965, she was sold for scrap and in the following year her hull was scuttled on the shore of Fidalgo  
 Island at Anacortes Washington to be used as the breakwater for Lovric’s marina. 

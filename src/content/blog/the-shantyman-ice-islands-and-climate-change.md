@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In my new novel, The Shantyman, the clipper ship Alhambra nearly collides with a massive ice island."
 ---
 
-![iceisland](http://www.oldsaltblog.com/wp-content/uploads/2015/04/iceisland.jpg)In my new novel, [*The Shantyman*](http://www.amazon.com/Shantyman-Rick-Spilman-ebook/dp/B00T57OQYA/ref=asap_bc?ie=UTF8), the clipper ship *Alhambra* nearly collides with a massive ice island.  From Chapter Nine:
+![iceisland](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/iceisland.jpg)In my new novel, [*The Shantyman*](http://www.amazon.com/Shantyman-Rick-Spilman-ebook/dp/B00T57OQYA/ref=asap_bc?ie=UTF8), the clipper ship *Alhambra* nearly collides with a massive ice island.  From Chapter Nine:
 
 *In the forenoon watch came the cry, “Ice, dead ahead.”*
 

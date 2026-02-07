@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Two years ago, we posted about the delivery of the E-Ship 1, a ship built for Enercon, a German producer of wind turbines. The ship is intended to demonstrate energy saving technology as well as to deliver Enercon wind turbine assemblies … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/eship1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/eship1.jpg)
 
 Photo: Lieven Van Assche
 

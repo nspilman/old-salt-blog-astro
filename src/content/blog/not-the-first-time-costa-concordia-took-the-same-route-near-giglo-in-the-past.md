@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "MSNBC is quoting Adam Smallman, editor of Lloyd’s List, as saying that the Costa Concordia took close to the same route in August, based on satellite tracking, as it took when it ran aground last Friday night. He also is … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/0117-Costa-Concordia-italia.jpg)MSNBC is quoting Adam Smallman](http://overheadbin.msnbc.msn.com/_news/2012/01/18/10179794-concordia-reportedly-took-ill-fated-route-before), editor of *[Lloyd’s List](http://www.lloydslist.com/ll/)*, as saying that the *Costa Concordia* took close to the same route in August, based on satellite tracking, as it took when it ran aground last Friday night. He also is quoted as saying that the course was “*authorized by the company and the coast guard.*”
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/0117-Costa-Concordia-italia.jpg)MSNBC is quoting Adam Smallman](http://overheadbin.msnbc.msn.com/_news/2012/01/18/10179794-concordia-reportedly-took-ill-fated-route-before), editor of *[Lloyd’s List](http://www.lloydslist.com/ll/)*, as saying that the *Costa Concordia* took close to the same route in August, based on satellite tracking, as it took when it ran aground last Friday night. He also is quoted as saying that the course was “*authorized by the company and the coast guard.*”
 
 *“Our assessment of the route this vessel took (in August) is it must have come perilously close, and I mean possibly within touching distance of the rock that it hit this time … which the company is saying wholly unauthorized in terms of its proximity to the island,” Smallman said.*
 

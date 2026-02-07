@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The New Year's tradition of dropping a ball at Time Square dates to the time ball developed in 1833 used to calibrate ship's chronometers."
 ---
 
-![Time ball at US Naval Observatory, Washington D.C.](http://www.oldsaltblog.com/wp-content/uploads/2015/01/US_Naval_Observatory_Washington_District_of_Columbia.jpg)
+![Time ball at US Naval Observatory, Washington D.C.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/US_Naval_Observatory_Washington_District_of_Columbia.jpg)
 
 Time ball at US Naval Observatory, Washington D.C.
 

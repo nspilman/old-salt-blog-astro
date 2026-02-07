@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Like most of the historic vessels in and around New York harbor, the tanker Mary A. Whalen survived Superstorm Sandy Sandy better than her shore based neighbors. The tanker, which weathered Sandy at the inshore end of Pier 9B in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/rubber-glovs-on-van-b-crop.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/rubber-glovs-on-van-b-crop.jpg)
 
 Rubber gloves drying – Portside & the Tanker Mary Whalen help in Red Hook recovery
 

@@ -10,12 +10,12 @@ tags:
   - "climate change"
   - "oceans"
   - "warming"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/oceansteam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/oceansteam.jpg"
 author: "Rick Spilman"
 description: "A new study published in the journal Nature suggests that over the last quarter-century, the oceans have been retaining 60% more heat than scientists had previously thought.  If so, the Earth could be set to warm even faster than predicted.  The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/oceansteam.jpg)A new study published in the journal [Nature](https://www.nature.com/) suggests that over the last quarter-century, the oceans have been retaining 60% more heat than scientists had previously thought.  If so, the Earth could be set to warm even faster than predicted. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/oceansteam.jpg)A new study published in the journal [Nature](https://www.nature.com/) suggests that over the last quarter-century, the oceans have been retaining 60% more heat than scientists had previously thought.  If so, the Earth could be set to warm even faster than predicted. 
 
 [The Washington Post](https://www.washingtonpost.com/energy-environment/2018/10/31/startling-new-research-finds-large-buildup-heat-oceans-suggesting-faster-rate-global-warming/?utm_term=.0976cb6103ac) reports that the higher-than-expected amount of heat in the oceans means more heat is being retained within Earth’s climate system each year, rather than escaping into space. In essence, more heat in the oceans signals that global warming is more advanced than scientists thought.
 

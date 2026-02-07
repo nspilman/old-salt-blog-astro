@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Five Somali pirates who attacked the USS Nicholas, an Oliver Hazard Perry-class frigate,  in a wildly misguided attempt to hijack the ship in a late night attack last April, were convicted of piracy in a court in Virginia.  The prosecution … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/USS_Nicholas.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/USS_Nicholas.jpg)
 
 USS Nicholas
 

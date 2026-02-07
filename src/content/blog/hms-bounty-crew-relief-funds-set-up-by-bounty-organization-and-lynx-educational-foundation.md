@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Following the tragic sinking of HMS Bounty, both the HMS Bounty organization and the Lynx Educational Foundation have set up relief funds for the crews and families of those lost on the ship. From the Bounty Facebook page: A Relief … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/Lynx-and-Bounty-WPB-JW-Photo2-1024x768.jpg)](http://www.privateerlynx.com/news/?p=2081)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Lynx-and-Bounty-WPB-JW-Photo2-1024x768.jpg)](http://www.privateerlynx.com/news/?p=2081)
 
 HMS Bounty and Lynx – Peanut Island, West Palm Beach 2010
 

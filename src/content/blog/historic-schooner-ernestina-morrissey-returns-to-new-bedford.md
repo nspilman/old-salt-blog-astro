@@ -16,12 +16,12 @@ tags:
   - "Maine"
   - "Massachusetts Maritime Academy"
   - "new bedford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/erestinamorrisey.jpg"
 author: "Rick Spilman"
 description: "After seven years of reconstruction and restoration in Boothbay Harbor, ME, the historic schooner Ernestina-Morrissey returned to her home port in New Bedford, MA earlier this week.  \"It’s been a long time since we’ve seen the Ernestina-Morrissey sailing into New … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/erestinamorrisey.jpg)
 
 Photo: Susan S. Bank
 

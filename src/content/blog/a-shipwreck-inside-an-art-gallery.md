@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Artist Josh Beckman’s \"Sea Nymph\" in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/boatmachine1_0.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/boatmachine1_0.jpg)
 
 Artist Josh Beckman’s “Sea Nymph” in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as an opera by and for dogs. Sea-dogs, we hope. The exhibition continues through October 8th.
 

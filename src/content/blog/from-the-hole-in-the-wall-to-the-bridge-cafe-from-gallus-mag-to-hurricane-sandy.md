@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In March, we posted about \"The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870,\" at 273 Water Street in Lower Manhattan. In addition to being the third oldest building in Manhattan, the building has a rich … Continue reading &rarr;"
 ---
 
-![Photo: R. Spilman](http://www.oldsaltblog.com/wp-content/uploads/2014/04/bridgecafe.jpg)
+![Photo: R. Spilman](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/bridgecafe.jpg)
 
 Photo: R. Spilman
 

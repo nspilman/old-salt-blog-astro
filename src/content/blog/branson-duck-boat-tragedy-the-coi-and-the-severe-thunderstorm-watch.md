@@ -13,12 +13,12 @@ tags:
   - "Stretch Duck 07"
   - "Table Rock Lake"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/bransonduckboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/bransonduckboat.jpg"
 author: "Rick Spilman"
 description: "The Coast Guard has begun a high-level investigation into the recent duck boat capsize and sinking on July 19th, which cost the lives of 17 aboard.  The boat, designated as Stretch Duck 07,  which sank on Table Rock Lake, near Branson, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/bransonduckboat.jpg)The Coast Guard has begun a [high-level investigation into the recent duck boat capsize](https://www.washingtonpost.com/national/coast-guard-launches-high-level-probe-into-duck-boat-tragedy-that-killed-17/2018/08/01/6e6dd8ea-95d6-11e8-a679-b09212fb69c2_story.html?utm_term=.20f7ac2b9561) and sinking on July 19th, which cost the lives of 17 aboard.  The boat, designated as Stretch Duck 07,  which sank on Table Rock Lake, near Branson, MO, was inspected by the US Coast Guard as a Small Passenger Vessel, under Subchapter T of the Code of Federal Regulations. The boat’s [Certificate of Inspection (COI)](https://media.defense.gov/2018/Aug/01/2001949364/-1/-1/0/STRETCHDUCK07COI-AMENDED16MAR2018_REDACTED.PDF) has been made public and what it reveals is disturbing, if not entirely surprising. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/bransonduckboat.jpg)The Coast Guard has begun a [high-level investigation into the recent duck boat capsize](https://www.washingtonpost.com/national/coast-guard-launches-high-level-probe-into-duck-boat-tragedy-that-killed-17/2018/08/01/6e6dd8ea-95d6-11e8-a679-b09212fb69c2_story.html?utm_term=.20f7ac2b9561) and sinking on July 19th, which cost the lives of 17 aboard.  The boat, designated as Stretch Duck 07,  which sank on Table Rock Lake, near Branson, MO, was inspected by the US Coast Guard as a Small Passenger Vessel, under Subchapter T of the Code of Federal Regulations. The boat’s [Certificate of Inspection (COI)](https://media.defense.gov/2018/Aug/01/2001949364/-1/-1/0/STRETCHDUCK07COI-AMENDED16MAR2018_REDACTED.PDF) has been made public and what it reveals is disturbing, if not entirely surprising. 
 
 Under “Route Permitted and Operation” it specifies that :
 

@@ -12,12 +12,12 @@ tags:
   - "Portsmouth"
   - "Royal Navy"
   - "Tenacious"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/tstenacious.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tstenacious.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy has announced that for the first time in decades, its sailors are learning the art of seafaring on a traditional tall ship. Over four months junior sailors are crewing TS Tenacious – giving them a unique insight … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/tstenacious.jpg)The [Royal Navy has announced](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/march/17/20210317-tenacious) that for the first time in decades, its sailors are learning the art of seafaring on a traditional tall ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tstenacious.jpg)The [Royal Navy has announced](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/march/17/20210317-tenacious) that for the first time in decades, its sailors are learning the art of seafaring on a traditional tall ship.
 
 Over four months junior sailors are crewing [*TS Tenacious*](https://en.wikipedia.org/wiki/SV_Tenacious) – giving them a unique insight into the days of sail and the chance to pick up key leadership skills.
 

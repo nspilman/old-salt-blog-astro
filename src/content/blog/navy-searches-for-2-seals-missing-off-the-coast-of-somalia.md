@@ -11,12 +11,12 @@ tags:
   - "Gulf of Aden"
   - "Special Operations forces"
   - "two Navy SEALs missing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/destroyerdhow.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/destroyerdhow.jpg"
 author: "Rick Spilman"
 description: "Stars and Stripes reports that the US Navy is still searching for two SEALs missing in the Gulf of Aden more than two days after conducting nighttime operations off the coast of Somalia. The incident happened Thursday as the SEALs … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/destroyerdhow.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/destroyerdhow.jpg)
 
 Service members from the destroyer USS Winston S. Churchill board a stateless dhow off the coast of Somalia on Feb. 12, 2021. (Louis Thompson Staats IV/U.S. Navy)
 

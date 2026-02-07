@@ -10,12 +10,12 @@ tags:
   - "Australia"
   - "Gold Coast"
   - "surfing duck"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/ducksurf.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ducksurf.jpg"
 author: "Rick Spilman"
 description: "Here is a heartwarming video for a cold Saturday (at least cold here on the West bank of the Hudson River.)  A body surfing pet duck on Australia’s Gold Coast has become a local celebrity for riding the waves. Kate … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/ducksurf.jpg)Here is a heartwarming video for a cold Saturday (at least cold here on the West bank of the Hudson River.)  A body surfing pet duck on Australia’s Gold Coast has become a local celebrity for riding the waves.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ducksurf.jpg)Here is a heartwarming video for a cold Saturday (at least cold here on the West bank of the Hudson River.)  A body surfing pet duck on Australia’s Gold Coast has become a local celebrity for riding the waves.
 
 Kate Miller and her son take their pet duck, affectionately, if unimaginatively called “Duck”, to the beach every day to swim. The duck picked up body surfing apparently on its own. In an interview with the [BBC](https://www.bbc.com/news/av/world-australia-55836596), Kate Miller commented, “I would be confident in saying that he is the only duck like it in the world.”
 

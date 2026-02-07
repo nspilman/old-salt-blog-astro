@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This has been a busy day for Queen Elizabeth II and the Duke of Edinburgh. They braved heavy rain and driving winds to name the Gloriana, a new 94-foot ornately carved royal barge, decorated with gold leaf. The Gloriana is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/glorianna1.jpg)This has been a busy day for Queen Elizabeth II and the Duke of Edinburgh. They braved heavy rain and driving winds to name the *Gloriana*, a new 94-foot ornately carved royal barge, decorated with gold leaf. The *Gloriana* is the first royal barge to have been built in 100 years. The barge will lead the Jubilee pageant on June 3rd.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/glorianna1.jpg)This has been a busy day for Queen Elizabeth II and the Duke of Edinburgh. They braved heavy rain and driving winds to name the *Gloriana*, a new 94-foot ornately carved royal barge, decorated with gold leaf. The *Gloriana* is the first royal barge to have been built in 100 years. The barge will lead the Jubilee pageant on June 3rd.
 
 [Resplendent in red! Queen brightens the gloom as she names Gloriana, the first royal barge to be built in 100 years](http://www.dailymail.co.uk/femail/article-2134915/Queen-brightens-gloom-names-Gloriana-royal-barge-built-100-years.html#ixzz1t5eKsFUo)
 

@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "For just over a century, an 80-foot long iron sand-dumping scow has been stuck on a rock in the raging currents of the Niagara River just upriver from the Canadian side of Niagara Falls. After a powerful storm blew through … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/scow2.jpg)For just over a century, an 80-foot long iron sand-dumping scow has been stuck on a rock in the raging currents of the Niagara River just upriver from the Canadian side of Niagara Falls. After a powerful storm blew through on Halloween night, the scow began to shift and slip downriver toward the thundering falls. The scow has been stuck on a rock shelf in the rapids, roughly 600 meters from the edge, since 1918.  It is now 50 yards closer to the precipice.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/scow2.jpg)For just over a century, an 80-foot long iron sand-dumping scow has been stuck on a rock in the raging currents of the Niagara River just upriver from the Canadian side of Niagara Falls. After a powerful storm blew through on Halloween night, the scow began to shift and slip downriver toward the thundering falls. The scow has been stuck on a rock shelf in the rapids, roughly 600 meters from the edge, since 1918.  It is now 50 yards closer to the precipice.  
 
 “It appears to have sort of flipped on its side and spun around,” Jim Hill, superintendent of heritage at the Niagara Parks Commission, described in [a Facebook video](https://www.facebook.com/watch/?v=523086951862379). 
 

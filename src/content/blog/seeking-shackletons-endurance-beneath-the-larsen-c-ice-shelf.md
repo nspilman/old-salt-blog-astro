@@ -14,12 +14,12 @@ tags:
   - "SA Agulhas II"
   - "Sir Ernest Shackleton"
   - "Weddel Sea Expedition 2019"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/larsenib1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/larsenib1.jpg"
 author: "Rick Spilman"
 description: "Last April, we posted about a planned expedition to the Antarctic’s Weddell Sea on the icebreaking polar-supply and research-vessel SA Agulhas II. The Weddell Sea Expedition 2019 is now underway, and scientists have spent the past two weeks investigating the Larsen C … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/larsenib1.jpg)Last April, we [posted about a planned expedition](http://www.oldsaltblog.com/2018/04/searching-for-shackletons-ship-endurance-while-studying-the-larsen-c-ice-shelf/) to the Antarctic’s Weddell Sea on the icebreaking polar-supply and research-vessel [SA *Agulhas II.*](https://en.wikipedia.org/wiki/S._A._Agulhas_II) The [Weddell Sea Expedition 2019](https://weddellseaexpedition.org/) is now underway, and scientists have spent the past two weeks investigating the [Larsen C Ice Shelf](http://www.oldsaltblog.com/2017/07/larsen-c-iceberg-calves-trillion-tons-ice-size-delaware/) and the continent’s biggest iceberg, [known as A68](https://www.bbc.com/news/science-environment-40321674). The iceberg is estimated to be four times the size of Greater London. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/larsenib1.jpg)Last April, we [posted about a planned expedition](http://www.oldsaltblog.com/2018/04/searching-for-shackletons-ship-endurance-while-studying-the-larsen-c-ice-shelf/) to the Antarctic’s Weddell Sea on the icebreaking polar-supply and research-vessel [SA *Agulhas II.*](https://en.wikipedia.org/wiki/S._A._Agulhas_II) The [Weddell Sea Expedition 2019](https://weddellseaexpedition.org/) is now underway, and scientists have spent the past two weeks investigating the [Larsen C Ice Shelf](http://www.oldsaltblog.com/2017/07/larsen-c-iceberg-calves-trillion-tons-ice-size-delaware/) and the continent’s biggest iceberg, [known as A68](https://www.bbc.com/news/science-environment-40321674). The iceberg is estimated to be four times the size of Greater London. 
 
 The expedition is now within a few hundred kilometers from where, in November 1915, [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship, the [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), was crushed by pack ice and sank, in waters 3,000 meters deep. Whether the SA *Agulhas II* will be able to reach the location of the sunken ship is an open question.
 

@@ -12,12 +12,12 @@ tags:
   - "Irish South and West Fish Producer's Organisation"
   - "Russia"
   - "Russian Naval Exercises"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/irishfishermeneussia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/irishfishermeneussia.jpg"
 author: "Rick Spilman"
 description: "Russia planned on holding naval exercises off the coast of Ireland. Fishermen from County Cork on Ireland’s southern coast saw the exercises as a threat to their livelihood and threatened to continue fishing as usual, despite the threatened use of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/irishfishermeneussia.jpg)Russia planned on holding naval exercises off the coast of Ireland. Fishermen from County Cork on Ireland’s southern coast saw the exercises as a threat to their livelihood and threatened to continue fishing as usual, despite the threatened use of naval artillery and rockets in the area. They stated, “[Our presence is our protest](https://www.yahoo.com/now/irish-fishermen-plan-disrupt-russian-073140988.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALxGSoIQLrNgpVlC_kyFc7DtNOmzC0MYmmbND6V40W387mbH4s02XJ6UKjxu--1kOkjaMvaEvx0fW-sJjiOKHia_qiW3oO9ZHkba7o55DaFlQ7z9DulEV0Sh2FrtqF1vrRWPXdq6eVxAqYhPdGWP6Sp2NDDBcool4dx64z4h_0tL).”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/irishfishermeneussia.jpg)Russia planned on holding naval exercises off the coast of Ireland. Fishermen from County Cork on Ireland’s southern coast saw the exercises as a threat to their livelihood and threatened to continue fishing as usual, despite the threatened use of naval artillery and rockets in the area. They stated, “[Our presence is our protest](https://www.yahoo.com/now/irish-fishermen-plan-disrupt-russian-073140988.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALxGSoIQLrNgpVlC_kyFc7DtNOmzC0MYmmbND6V40W387mbH4s02XJ6UKjxu--1kOkjaMvaEvx0fW-sJjiOKHia_qiW3oO9ZHkba7o55DaFlQ7z9DulEV0Sh2FrtqF1vrRWPXdq6eVxAqYhPdGWP6Sp2NDDBcool4dx64z4h_0tL).”
 
 Remarkably, the Russia military backed down, announcing the exercises would be moved as “a gesture of goodwill” after appeals from the Irish government and the fishermen, “with the aim not to hinder fishing activities.”  
 

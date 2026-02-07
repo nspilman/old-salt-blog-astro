@@ -12,7 +12,7 @@ tags:
   - "Bath"
   - "Maine's first ship"
   - "Pinnace Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/mainesfirstship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/mainesfirstship.jpg"
 author: "Rick Spilman"
 description: "Here is a short documentary about the construction of the pinnace Virginia, Maine’s First Ship, as told through interviews with former and current volunteers. Maine’s First Ship – History, Ingenuity, Community … Continue reading &rarr;"
 ---

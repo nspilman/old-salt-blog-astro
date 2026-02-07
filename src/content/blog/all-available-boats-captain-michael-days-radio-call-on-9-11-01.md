@@ -14,12 +14,12 @@ tags:
   - "Michael Day"
   - "US Coast Guard"
   - "World Trade Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/mday911.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/mday911.jpg"
 author: "Rick Spilman"
 description: "There are moments in history when an individual makes the right choice at exactly the right moment and it makes all the difference. Such was the case with LT. Michael Day on the morning of September 11, 2001, in New … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/mday911.jpg)There are moments in history when an individual makes the right choice at exactly the right moment and it makes all the difference. Such was the case with LT. Michael Day on the morning of September 11, 2001, in New York harbor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/mday911.jpg)There are moments in history when an individual makes the right choice at exactly the right moment and it makes all the difference. Such was the case with LT. Michael Day on the morning of September 11, 2001, in New York harbor.
 
 LT Day was supposed to attend a meeting in the World Trade Center on that clear Tuesday morning in September.  Before he arrived, a commercial airliner flew into the World Trade Center’s North Tower. Just over a dozen minutes later, a second plane hit the South Tower. In less than two hours, both buildings would collapse in a maelstrom of fire and debris. New York City’s emergency response center had been in the World Trade Center complex and was buried in the rubble. 
 

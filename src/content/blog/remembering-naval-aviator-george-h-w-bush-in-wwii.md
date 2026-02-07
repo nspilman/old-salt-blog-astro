@@ -11,12 +11,12 @@ tags:
   - "George H.W. Bush"
   - "Naval Aviator"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ghwbushbanner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ghwbushbanner.jpg"
 author: "Rick Spilman"
 description: "Regardless of what one may think of the political career of the late President George H.W. Bush , who died recently at the age of 94, it seems worthwhile to remember his service as one of the youngest pilots in the US Navy during … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ghwbushbanner.jpg)Regardless of what one may think of the political career of the late President [George H.W. Bush](https://en.wikipedia.org/wiki/George_H._W._Bush) , who died recently at the age of 94, it seems worthwhile to remember his service as one of the youngest pilots in the US Navy during World War II, service for which he was awarded the Distinguished Flying Cross for heroism under fire. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ghwbushbanner.jpg)Regardless of what one may think of the political career of the late President [George H.W. Bush](https://en.wikipedia.org/wiki/George_H._W._Bush) , who died recently at the age of 94, it seems worthwhile to remember his service as one of the youngest pilots in the US Navy during World War II, service for which he was awarded the Distinguished Flying Cross for heroism under fire. 
 
 When he heard of the attack on Pearl Harbor, George H.W. Bush, a student at Phillips Academy in Andover, Massachusetts, decided that he wanted to be a Navy pilot.  Immediately after graduation, on his 18th birthday, [George Bush enlisted in the Navy](https://www.washingtonpost.com/history/2018/12/01/george-hw-bush-pearl-harbor-changed-everything-world-war-ii-made-him-hero/?utm_term=.0168536ec8b4) and began preflight training at the University of North Carolina at Chapel Hill. After completing the 10-month course, he was commissioned as an ensign in the US Naval Reserve on 9 June 1943, several days before his 19th birthday, making him one of the youngest naval aviators.  
 

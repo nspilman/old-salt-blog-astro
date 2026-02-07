@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Alan Olson, a Sausalito boat builder and founder of the educational sailing nonprofit Call of the Sea,  has some ambitious plans.  He wants to build a new 140-foot wood long brigantine to be used as a sail training ship for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/obj600geo343pg7p5.jpg)Alan Olson, a Sausalito boat builder and founder of the educational sailing nonprofit [Call of the Sea](http://www.callofthesea.org/our-vessel.php),  has some ambitious plans.  He wants to build a new 140-foot wood long brigantine to be used as a sail training ship for the San Francisco Bay area and he would like to see it completely to coincide with the San Francisco America’s Cup during the summer of 2013.  His new project has been named, [Educational Tall Ship for San Francisco Bay](http://www.educationaltallship.org/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/obj600geo343pg7p5.jpg)Alan Olson, a Sausalito boat builder and founder of the educational sailing nonprofit [Call of the Sea](http://www.callofthesea.org/our-vessel.php),  has some ambitious plans.  He wants to build a new 140-foot wood long brigantine to be used as a sail training ship for the San Francisco Bay area and he would like to see it completely to coincide with the San Francisco America’s Cup during the summer of 2013.  His new project has been named, [Educational Tall Ship for San Francisco Bay](http://www.educationaltallship.org/).
 
 [Sailing in Marin: Sausalito boat builder out to construct tall ship by America’s Cup](http://www.marinij.com/sports/ci_19722623#.Tw8-TtZPNwE.email)  
   

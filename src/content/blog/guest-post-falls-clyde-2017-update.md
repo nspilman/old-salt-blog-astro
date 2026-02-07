@@ -12,12 +12,12 @@ tags:
   - "Falls of Clyde"
   - "Maritime Hawai‘i"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/fochonu.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/fochonu.jpg"
 author: "Susan Yamamoto"
 description: "A guest post by Susan Yamamoto from her new and wonderful blog, Maritime Hawai‘i, on the latest developments to help save the four masted sailing ship, Falls of Clyde.   David O’Neill is leading the ‎Save The Tall Ship Falls of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/fochonu.jpg)A guest post by Susan Yamamoto from her new and wonderful blog, [Maritime Hawai‘i,](http://www.maritimehawaii.com/) on the latest developments to help save the four masted sailing ship, *[Falls of Clyde.](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\))*   David O’Neill is leading the [‎Save The Tall Ship Falls of Clyde – International Group](https://www.facebook.com/savefallsofclyde/) in its effort to bring the historic ship back to Scotland, where she was built in 1878. From [Maritime Hawai‘i:](http://www.maritimehawaii.com/2017/06/falls-of-clyde-june-2017-update/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/fochonu.jpg)A guest post by Susan Yamamoto from her new and wonderful blog, [Maritime Hawai‘i,](http://www.maritimehawaii.com/) on the latest developments to help save the four masted sailing ship, *[Falls of Clyde.](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\))*   David O’Neill is leading the [‎Save The Tall Ship Falls of Clyde – International Group](https://www.facebook.com/savefallsofclyde/) in its effort to bring the historic ship back to Scotland, where she was built in 1878. From [Maritime Hawai‘i:](http://www.maritimehawaii.com/2017/06/falls-of-clyde-june-2017-update/)
 
 *At the beginning of the month, David O’Neill met with Friends of Falls of Clyde (FFOC) president, Bruce McEwan. Mr. O’Neill tells Maritime Hawai‘i that the meeting was positive in general. Both parties recognize there is a tremendous amount of work that needs to be done in short order if they are to succeed in returning the Falls of Clyde to Scotland. Maritime Hawai‘i urges DOT Harbors to give both organizations the time they need.*
 

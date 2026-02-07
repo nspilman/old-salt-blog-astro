@@ -11,12 +11,12 @@ tags:
   - "Man o’ War"
   - "Portuguese Man o' War"
   - "stinging tentacles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/portmanofwar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/portmanofwar.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond was kind enough to pass along an article from the Eastbourne Herald titled, Killer ‘jellyfish’ which can grow to 160ft long are washing up on Britain’s beaches. While more common in tropical waters, Portuguese man o’ wars have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/portmanofwar.jpg)[Alaric Bond](https://www.alaricbond.com/) was kind enough to pass along an article from the Eastbourne Herald titled, [Killer ‘jellyfish’ which can grow to 160ft long are washing up on Britain’s beaches](https://www.eastbourneherald.co.uk/read-this/killer-jellyfish-which-can-grow-to-160ft-long-are-washing-up-on-britains-beaches-3410953). While more common in tropical waters, Portuguese man o’ wars have been drifting ashore near tourist areas in Cornwall, Sennen Beach, and Porteras Cove. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/portmanofwar.jpg)[Alaric Bond](https://www.alaricbond.com/) was kind enough to pass along an article from the Eastbourne Herald titled, [Killer ‘jellyfish’ which can grow to 160ft long are washing up on Britain’s beaches](https://www.eastbourneherald.co.uk/read-this/killer-jellyfish-which-can-grow-to-160ft-long-are-washing-up-on-britains-beaches-3410953). While more common in tropical waters, Portuguese man o’ wars have been drifting ashore near tourist areas in Cornwall, Sennen Beach, and Porteras Cove. 
 
 The man o’ war have no independent means of movement and often move with the winds or sea currents. They are known to wash up on British shores between September and December.
 

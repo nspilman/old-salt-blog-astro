@@ -13,12 +13,12 @@ tags:
   - "International Shark Attack File"
   - "Sharks"
   - "Sydney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/bullshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/bullshark.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that several popular beaches in Sydney, Australia have been closed after sharks attacked a dolphin in waters near the city. At least two bull sharks were spotted in the Shelly Beach area, in northern Sydney, after the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/bullshark.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/bullshark.jpg)
 
 Bull Shark — Photo: Chaloklum Diving
 

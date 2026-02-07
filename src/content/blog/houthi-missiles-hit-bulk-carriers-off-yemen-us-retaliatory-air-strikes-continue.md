@@ -16,12 +16,12 @@ tags:
   - "Red Sea"
   - "USS Laboon"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/Zografia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/Zografia.jpg"
 author: "Rick Spilman"
 description: "Houthi anti-ship missiles struck two more commercial ships in the Red Sea off Yemen in the last two days. There were no reports of injuries on either ship. On Tuesday, the Greek-owned 57,000 DWT bulk carrier MT Zografia with 24 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/Zografia.jpg)Houthi anti-ship missiles struck two more commercial ships in the Red Sea off Yemen in the last two days. There were no reports of injuries on either ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/Zografia.jpg)Houthi anti-ship missiles struck two more commercial ships in the Red Sea off Yemen in the last two days. There were no reports of injuries on either ship.
 
 On Tuesday, the Greek-owned 57,000 DWT bulk carrier [MT *Zografia*](https://www.marinetraffic.com/en/ais/details/ships/shipid:284247/mmsi:248185000/imo:9486013/vessel:ZOGRAFIA) with 24 crew was sailing in ballast from Vietnam to Israel when it was struck by a missile. It is said to have suffered only minor damage.
 

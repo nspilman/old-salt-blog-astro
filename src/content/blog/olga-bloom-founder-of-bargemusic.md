@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "We were saddened to learn of the death of Olga Bloom, who died on Thanksgiving Day at the age of 92. Thirty five years ago, Ms. Bloom, a violinist and violist, founded Bargemusic, a floating concert hall moored on the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/26bloom-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/26bloom-articleLarge.jpg)
 
 Olga Bloom, far right in 2004 Photo:Nan Melville for The New York Times
 

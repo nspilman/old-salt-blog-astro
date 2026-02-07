@@ -12,12 +12,12 @@ tags:
   - "Crowley Maritime Corporation"
   - "eWolf"
   - "san diego"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/ewolf.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/ewolf.jpg"
 author: "Rick Spilman"
 description: "Crowley Maritime Corporation has announced that it will build and operate eWolf, the first all-electric powered harbor tugboat in the United States. The electric ship assist and escort tug will be 200 GRT, 82 feet long, with a main propulsion … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/ewolf.jpg)[Crowley Maritime Corporation has announced](https://www.crowley.com/news-and-media/press-releases/ewolf-electric-tug/) that it will build and operate *eWolf*, the first all-electric powered harbor tugboat in the United States. The electric ship assist and escort tug will be 200 GRT, 82 feet long, with a main propulsion battery of 6.2 MWh, and a bollard pull of 70 short tons. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/ewolf.jpg)[Crowley Maritime Corporation has announced](https://www.crowley.com/news-and-media/press-releases/ewolf-electric-tug/) that it will build and operate *eWolf*, the first all-electric powered harbor tugboat in the United States. The electric ship assist and escort tug will be 200 GRT, 82 feet long, with a main propulsion battery of 6.2 MWh, and a bollard pull of 70 short tons. 
 
 Over the first 10 years of its use, the operation of the new eTug will reduce 178 tons of nitrogen oxide (NOx), 2.5 tons of diesel particulate matter, and 3,100 metric tons of carbon dioxide (CO2) versus a conventional tug. The electric tug will replace one that consumes more than 30,000 gallons of diesel per year. The *eWolf* will operate at the Port of San Diego’s Tenth Avenue Marine Terminal and will be operational by mid-2023.
 

@@ -9,12 +9,12 @@ categories:
 tags:
   - "Brunt Ice Shelf"
   - "iceberg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/blunticeberg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/blunticeberg.jpg"
 author: "Rick Spilman"
 description: "For several months now, scientists have been monitoring growing cracks in Antarctica’s Brunt Ice Shelf which have been spreading at an alarming rate. At almost any time, perhaps even in days, an iceberg over 560 square miles, or twice the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/blunticeberg.jpg)For several months now, [scientists have been monitoring](https://www.nytimes.com/interactive/2019/03/28/climate/antarctica-brunt-iceberg.html) growing cracks in Antarctica’s Brunt Ice Shelf which have been spreading at an alarming rate. At almost any time, perhaps even in days, an iceberg over 560 square miles, or twice the size of New York City, is expected to calve from the ice shelf.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/blunticeberg.jpg)For several months now, [scientists have been monitoring](https://www.nytimes.com/interactive/2019/03/28/climate/antarctica-brunt-iceberg.html) growing cracks in Antarctica’s Brunt Ice Shelf which have been spreading at an alarming rate. At almost any time, perhaps even in days, an iceberg over 560 square miles, or twice the size of New York City, is expected to calve from the ice shelf.
 
 While the crack was first noted 35 years ago, it was slow moving and the ice shelf has been stable. Recently, however, the crack has started accelerating toward another fissure called the Halloween crack.
 

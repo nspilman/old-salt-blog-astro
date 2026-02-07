@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "No, this is not a knot tying contest exactly. No bowlines, or Matthew Walker knots need be produced. This is a contest sponsored by NJWedding.com to win a chance to get married for free aboard New Jersey’s official Tall Ship, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/36.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/36.jpg)
 
 No, this is not a knot tying contest exactly. No bowlines, or Matthew Walker knots need be produced. This is a contest sponsored by [NJWedding.com](http://www.njwedding.com/maillist/index.cfm) to win a chance to get married for free aboard New Jersey’s official Tall Ship, the [A.J. Meerwald](http://www.ajmeerwald.org/) in Long Beach Island, NJ.  
 [Want to get hitched this summer? Be the lucky couple to win a free wedding ceremony this July](http://www.prlog.org/10675310-want-to-get-hitched-this-summer-be-the-lucky-couple-to-win-free-wedding-ceremony-this-july.html)  

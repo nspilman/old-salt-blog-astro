@@ -11,12 +11,12 @@ tags:
   - "Kings Point"
   - "National Academy of Public Administration"
   - "US Merchant Marine Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/kingspoint1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/kingspoint1.jpg"
 author: "Rick Spilman"
 description: "A recent report by the National Academy of Public Administration concluded that the US Merchant Marine Academy at Kings Point has \"lost its way.\"  The congressionally ordered review of the federal merchant marine academy determined that the school was beset … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/kingspoint1.jpg)A recent [report by the National Academy of Public Administration](https://s3.us-west-2.amazonaws.com/napa-2021/NAPA-Panel-Report-FINAL.pdf) concluded that the [US Merchant Marine Academy at Kings Point](https://www.usmma.edu/) has “lost its way.”  The congressionally ordered review of the federal merchant marine academy determined that the school was beset with problems including aging facilities, a striking lack of diversity, and a curriculum that was failing to keep up with the needs of an evolving shipping industry.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/kingspoint1.jpg)A recent [report by the National Academy of Public Administration](https://s3.us-west-2.amazonaws.com/napa-2021/NAPA-Panel-Report-FINAL.pdf) concluded that the [US Merchant Marine Academy at Kings Point](https://www.usmma.edu/) has “lost its way.”  The congressionally ordered review of the federal merchant marine academy determined that the school was beset with problems including aging facilities, a striking lack of diversity, and a curriculum that was failing to keep up with the needs of an evolving shipping industry.
 
 “The findings and recommendations of this report address long-standing issues that put the safety and health of the midshipmen and the entire USMMA community in peril,” wrote Teresa W. Gerton, the public administration academy’s chief executive.
 

@@ -13,12 +13,12 @@ tags:
   - "retractable sails"
   - "solar panels"
   - "zero-emissions electric cruise ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/Hurtigrutenseazero.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/Hurtigrutenseazero.jpg"
 author: "Rick Spilman"
 description: "Norwegian ferry and expedition cruise operator Hurtigruten has revealed plans for a zero-emissions electric cruise ship with retractable sails fitted with solar panels, that will sail the Norwegian coast by 2030. The 500-passenger ship is designed for coastal service with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/Hurtigrutenseazero.jpg)Norwegian ferry and expedition cruise operator [Hurtigruten](https://www.hurtigruten.com/) has revealed plans for a zero-emissions electric cruise ship with retractable sails fitted with solar panels, that will sail the Norwegian coast by 2030.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/Hurtigrutenseazero.jpg)Norwegian ferry and expedition cruise operator [Hurtigruten](https://www.hurtigruten.com/) has revealed plans for a zero-emissions electric cruise ship with retractable sails fitted with solar panels, that will sail the Norwegian coast by 2030.
 
 The 500-passenger ship is designed for coastal service with an estimated range of 300 to 350 NM when powered by its 60-megawatt batteries. The line’s Hurtigruten Norwegian Coastal Express stops at 34 ports, which means there are good opportunities for fully electric ships to use future clean energy infrastructure. Renewable energy accounts for 98% of Norway’s electricity supply.
 

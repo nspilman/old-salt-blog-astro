@@ -13,12 +13,12 @@ tags:
   - "Dutch fishing vessel"
   - "kayaker"
   - "Pas-de-Calais"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/kayakerrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/kayakerrescue.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that a Dutch fishing vessel has rescued a British kayaker found clinging to a buoy in the Channel after his kayak capsized. He is reported to have been holding onto the buoy for several days. The captain, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/kayakerrescue.jpg)The [BBC](https://www.bbc.com/news/world-europe-63424568) reports that a Dutch fishing vessel has rescued a British kayaker found clinging to a buoy in the Channel after his kayak capsized. He is reported to have been holding onto the buoy for several days.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/kayakerrescue.jpg)The [BBC](https://www.bbc.com/news/world-europe-63424568) reports that a Dutch fishing vessel has rescued a British kayaker found clinging to a buoy in the Channel after his kayak capsized. He is reported to have been holding onto the buoy for several days.
 
 The captain, Teunis de Boer, said he had by chance seen the kayaker waving frantically as his boat *Madeleine* sailed past.
 

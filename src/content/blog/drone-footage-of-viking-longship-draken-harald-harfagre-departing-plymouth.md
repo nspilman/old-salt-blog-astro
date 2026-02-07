@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We have been posting about the ongoing East Coast tour by the Viking longship Draken Harald Hårfagre. Here is a lovely drone video by Ryan Smith of the longship as she departs Plymouth, MA bound for Rockland, ME. The 115 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/drakanporstmouth.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/drakanporstmouth.jpg)
 
 Photo: Smith Aerial Photography
 

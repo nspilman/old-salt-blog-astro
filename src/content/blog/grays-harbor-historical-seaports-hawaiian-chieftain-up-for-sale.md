@@ -10,12 +10,12 @@ tags:
   - "Gray's Harbor Historical Seaport"
   - "Hawaiian Chieftain"
   - "Lady Washington"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/hawaiianchieftan2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/hawaiianchieftan2.jpg"
 author: "Rick Spilman"
 description: "For several years now, the Grays Harbor Historical Seaport‘s tall ships, the replica brig Lady Washington and the square topsail ketch Hawaiian Chieftain, have sailed the Pacific Coast offering educational and sail training programs. One highlight of these programs were the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/hawaiianchieftan2.jpg)For several years now, the [Grays Harbor Historical Seaport](https://www.historicalseaport.org/)‘s tall ships, the replica brig [*Lady Washington*](https://en.wikipedia.org/wiki/Lady_Washington) and the square topsail ketch *[Hawaiian Chieftain](https://en.wikipedia.org/wiki/Hawaiian_Chieftain),* have sailed the Pacific Coast offering educational and sail training programs. One highlight of these programs were the “battle-sails” where the two ships maneuvered to fire blanks at each other in mock combat. [We recently posted a video of a “battle-sail.](http://www.oldsaltblog.com/2020/01/grays-harbor-lady-washington-hawaiian-chieftain-columbia-river-battle-sail/)”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/hawaiianchieftan2.jpg)For several years now, the [Grays Harbor Historical Seaport](https://www.historicalseaport.org/)‘s tall ships, the replica brig [*Lady Washington*](https://en.wikipedia.org/wiki/Lady_Washington) and the square topsail ketch *[Hawaiian Chieftain](https://en.wikipedia.org/wiki/Hawaiian_Chieftain),* have sailed the Pacific Coast offering educational and sail training programs. One highlight of these programs were the “battle-sails” where the two ships maneuvered to fire blanks at each other in mock combat. [We recently posted a video of a “battle-sail.](http://www.oldsaltblog.com/2020/01/grays-harbor-lady-washington-hawaiian-chieftain-columbia-river-battle-sail/)”
 
 The “battle-sails,” at least those involving the *Hawaiian Chieftain,* appear to be coming to an end. Grays Harbor Historical Seaport (GHHS) has announced its intention to sell the *Hawaiian Chieftain* to focus on the operation of **Lady Washington.** The decision was precipitated by the discovery of significant problems with the steel in her hull and bowsprit last year by Coast Guard inspectors. 
 

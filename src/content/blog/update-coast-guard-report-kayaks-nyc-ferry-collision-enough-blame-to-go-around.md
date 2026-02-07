@@ -12,12 +12,12 @@ tags:
   - "kayak"
   - "Manhattan Kayak Company"
   - "NY Waterway"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/kayakcollision.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/kayakcollision.jpg"
 author: "Rick Spilman"
 description: "On August 30, 2016, just before 6PM, a commuter ferry collided with a group of nine kayakers, shortly after departing from the NY Waterway terminal at 39th Street on the Hudson River in Manhattan. Four of the kayakers were injured included the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/kayakcollision.jpg)On August 30, 2016, just before 6PM, [a commuter ferry collided with a group of nine kayakers](http://www.oldsaltblog.com/2016/08/ferry-collides-group-kayakers-hudson-river/), shortly after departing from the [NY Waterway](http://www.nywaterway.com/) terminal at 39th Street on the Hudson River in Manhattan. Four of the kayakers were injured included the group guide who suffered a nearly severed arm. Now, the Coast Guard’s report on the accident concludes that blame for the accident was shared by all parties.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/kayakcollision.jpg)On August 30, 2016, just before 6PM, [a commuter ferry collided with a group of nine kayakers](http://www.oldsaltblog.com/2016/08/ferry-collides-group-kayakers-hudson-river/), shortly after departing from the [NY Waterway](http://www.nywaterway.com/) terminal at 39th Street on the Hudson River in Manhattan. Four of the kayakers were injured included the group guide who suffered a nearly severed arm. Now, the Coast Guard’s report on the accident concludes that blame for the accident was shared by all parties.
 
 The Coast Guard faulted the kayakers, a group organized and led by Manhattan Kayak Company, for a lack of communication with the ferry operators, NY Waterway. The Coast Guard determined that Manhattan Kayak Company acted negligently “by not taking action early in the trip to avoid collision and not notifying ferry operator they would be traveling in the area.” The leader of the group of kayakers did not have a marine radio, so did not have the means to make the ferry captain aware of their presence. 
 

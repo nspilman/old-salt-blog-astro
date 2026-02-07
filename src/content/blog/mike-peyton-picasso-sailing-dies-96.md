@@ -8,12 +8,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Mike Peyton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/peyton2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/peyton2.jpg"
 author: "Rick Spilman"
 description: "You may not necessarily know his name, but if you have been reading yachting magazines over the years, his cartoons probably brought a smile to your face. British cartoonist Mike Peyton, who died on January 25th at the age of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/peyton2.jpg)You may not necessarily know his name, but if you have been reading yachting magazines over the years, his cartoons probably brought a smile to your face. British cartoonist [Mike Peyton](https://en.wikipedia.org/wiki/Mike_Peyton), who died on January 25th at the age of 96, was described variously as “the world’s greatest yachting cartoonist” and as the “Picasso of sailing.” A lifelong sailor himself, for over sixty years his cartoons captured the joys, sorrows, absurdity and outright silliness of sailing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/peyton2.jpg)You may not necessarily know his name, but if you have been reading yachting magazines over the years, his cartoons probably brought a smile to your face. British cartoonist [Mike Peyton](https://en.wikipedia.org/wiki/Mike_Peyton), who died on January 25th at the age of 96, was described variously as “the world’s greatest yachting cartoonist” and as the “Picasso of sailing.” A lifelong sailor himself, for over sixty years his cartoons captured the joys, sorrows, absurdity and outright silliness of sailing.
 
 In 2012 the Royal Cruising Club gave Peyton their award for lifetime services to yachting. Last year the [Yachting Journalists’ Association](http://www.dominionmarinemedia.com/boats-com-yja-yachtsman-of-the-year-award-2015/) awarded their Diamond Anniversary Lifetime Achievement Award to Peyton. Comedian and sailor Griff Rhys Jones says of Peyton, “He captures the anti-glamour of yachting.” Sir Robin Knox-Johnston says, “Mike’s been my favorite yachting cartoonist for decades.”  At the presentation, Paul Gelder noted: 
 

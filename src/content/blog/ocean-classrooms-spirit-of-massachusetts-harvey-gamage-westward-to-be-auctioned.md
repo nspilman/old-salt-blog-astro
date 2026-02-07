@@ -17,7 +17,7 @@ author: "Tony Souza"
 description: "The rumors had been dire for some time and now they appear to be confirmed.  Marlinspike Magazine is reporting that  the Ocean Classroom Foundation‘s three vessels, the schooners Spirit of Massachusetts, Harvey Gamage, & Westward will be auctioned.  As reported by Marlinspike: … Continue reading &rarr;"
 ---
 
-[![Harvey Gamage](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Harvey-Gamage.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Harvey-Gamage.jpg)
+[![Harvey Gamage](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Harvey-Gamage.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Harvey-Gamage.jpg)
 
 Harvey Gamage
 

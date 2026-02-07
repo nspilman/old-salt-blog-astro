@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The South Korean icebreaker Araon and the fishing vessel Chiyo Maru No 3 may reach the stricken Russian fishing vessel Sparta on Christmas Day. The Sparta is a 157 feet long fishing vessel with a crew of 32 aboard which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/KoreanIcebreaker.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/KoreanIcebreaker.jpg)
 
 South Korean icebreaker Araon
 

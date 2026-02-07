@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "In 2008, a young Kemp’s ridley sea turtle washed up, stranded, in the Netherlands.  Kemp’s ridleys are the smallest and rarest of all sea turtles and are a critically endangered species.  The Kemp’s ridley turtles typically live in the warm waters of the Gulf … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/b4s_turtle1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/b4s_turtle1.jpg)
 
 Photo: Mote Marine Laboratory
 

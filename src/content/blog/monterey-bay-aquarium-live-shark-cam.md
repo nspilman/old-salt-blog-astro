@@ -12,7 +12,7 @@ tags:
   - "sevengill sharks"
   - "Shark Cam"
   - "spiny dogfish"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/sharkcam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/sharkcam.jpg"
 author: "Rick Spilman"
 description: "Whether in quarantine or not, the Monterey Bay Aquarium live shark cam is a great spot to escape to. The cam features sevengill sharks, leopard sharks, spiny dogfish, and the elusive Pacific angel shark in an aquarium that replicates the … Continue reading &rarr;"
 ---

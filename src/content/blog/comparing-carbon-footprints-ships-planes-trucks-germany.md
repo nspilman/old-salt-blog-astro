@@ -14,12 +14,12 @@ tags:
   - "greenhouse gas"
   - "planed"
   - "trucks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/gramspertonnekm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/gramspertonnekm.jpg"
 author: "Rick Spilman"
 description: "We recently posted \"No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.\" It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/gramspertonnekm.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/gramspertonnekm.jpg)
 
 We recently posted “[No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.](http://www.oldsaltblog.com/2021/04/no-sixteen-large-ships-do-no-pollute-more-than-all-the-cars-in-the-world/)” It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up on the catchy claim and said that 15 large ships create more total pollution than all the cars in the world. The problem with that assertion is that Corbett’s rough calculation did not, among other things, include the trillion-tonne gorilla in the room, the carbon footprint of cars vs ships. Cars actually produce far more greenhouse gases than ships.
 

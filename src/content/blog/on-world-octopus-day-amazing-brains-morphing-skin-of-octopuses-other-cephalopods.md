@@ -12,7 +12,7 @@ tags:
   - "Roger Hanlon"
   - "TED talk"
   - "World Octopus Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/octo1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/octo1.jpg"
 author: "Rick Spilman"
 description: "In observance of World Octopus Day, here is a short video of a TED talk by Roger Hanlon looking at the amazing brains and morphing skins of octopuses and other cephalopods. The amazing brains and morphing skin of octopuses and … Continue reading &rarr;"
 ---

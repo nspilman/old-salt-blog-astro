@@ -9,12 +9,12 @@ categories:
 tags:
   - "King tide"
   - "supermoon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/supernormmoon200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/supernormmoon200.jpg"
 author: "Rick Spilman"
 description: "The media has been full of stories about tonight’s \"supermoon,\" which is the largest in 68 years. Supermoon is the popular term for what astronomers call a moon perigee–syzygy. This means that the moon is at its closest point to … Continue reading &rarr;"
 ---
 
-![Not so big a difference --supermoon vs normal full moon](http://www.oldsaltblog.com/wp-content/uploads/2016/11/supernormmoon1.jpg)
+![Not so big a difference --supermoon vs normal full moon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/supernormmoon1.jpg)
 
 Not so big a difference –supermoon vs normal full moon
 

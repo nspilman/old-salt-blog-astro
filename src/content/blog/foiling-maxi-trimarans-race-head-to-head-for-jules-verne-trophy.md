@@ -11,12 +11,12 @@ tags:
   - "Jules Verne trophy"
   - "Maxi Edmond de Rothschild/Gitana"
   - "Sodebo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/sobedo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/sobedo.jpg"
 author: "Rick Spilman"
 description: "Early Wednesday, two 100′ long foiling maxi-trimarans, Sodebo and Maxi Edmond de Rothschild/Gitana 17 set out to race around the globe to attempt to win the Jules Verne Trophy. Sailing within hours of each other, Sodebo crossed the starting line, which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/sobedo.jpg)Early Wednesday, two 100′ long foiling maxi-trimarans, [*Sodebo*](https://www.sodebo.com/aventure-voile/) and [*Maxi Edmond de Rothschild/Gitana 17*](http://www.gitana-team.com/en/) set out to race around the globe to attempt to win the [Jules Verne Trophy](http://www.tropheejulesverne.org/en/). Sailing within hours of each other, [*Sodebo* crossed the starting line,](https://www.yachtingworld.com/news/jules-verne-trophy-foiling-round-the-world-sailing-record-128667) which lies between the Créac’h lighthouse (Ouessant) and the Lizard in south-west England, at 0255 (CET). An hour and a half later, *Edmond de Rothschild*, followed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/sobedo.jpg)Early Wednesday, two 100′ long foiling maxi-trimarans, [*Sodebo*](https://www.sodebo.com/aventure-voile/) and [*Maxi Edmond de Rothschild/Gitana 17*](http://www.gitana-team.com/en/) set out to race around the globe to attempt to win the [Jules Verne Trophy](http://www.tropheejulesverne.org/en/). Sailing within hours of each other, [*Sodebo* crossed the starting line,](https://www.yachtingworld.com/news/jules-verne-trophy-foiling-round-the-world-sailing-record-128667) which lies between the Créac’h lighthouse (Ouessant) and the Lizard in south-west England, at 0255 (CET). An hour and a half later, *Edmond de Rothschild*, followed.
 
 Technically, the two tris are not racing each other. Each is racing the clock. The Jules Verne Trophy is awarded to the challenger who breaks the previous Jules Verne record of the round the world voyage under sail. The [current record](https://en.wikipedia.org/wiki/Jules_Verne_Trophy) of 40 days 23 hours 30 minutes 30 seconds was set by Francis Joyon sailing *IDEC Sport* in 2017.
 

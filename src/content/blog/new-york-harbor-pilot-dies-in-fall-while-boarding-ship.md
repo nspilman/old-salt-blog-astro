@@ -11,12 +11,12 @@ tags:
   - "Captain Dennis R. Sherwood"
   - "New York Harbor Pilot"
   - "Sandy Hook Pilots Association"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/captsherwood.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/captsherwood.jpg"
 author: "Rick Spilman"
 description: "Sandy Hook harbor pilots guide merchant ships in and out of New York harbor, all year round, day and night, in all weather. They are highly skilled professionals who routinely make a very difficult job look easy. It easy to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/captsherwood.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/captsherwood.jpg)
 
 Photo: Sandy Hook Pilots.
 

@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "An interesting perspective from the  The Diplomat Magazine on Chinese naval expansion. Thanks to Alaric Bond for passing it along. Why China’s Naval Rise Could Help the World … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/12.jpg)An interesting perspective from the  The [Diplomat Magazine](http://www.the-diplomat.com/001f1281_r.aspx?artid=392) on Chinese naval expansion. Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing it along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/12.jpg)An interesting perspective from the  The [Diplomat Magazine](http://www.the-diplomat.com/001f1281_r.aspx?artid=392) on Chinese naval expansion. Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing it along.
 
 [Why China’s Naval Rise Could Help the World](http://www.the-diplomat.com/001f1281_r.aspx?artid=392)  
   

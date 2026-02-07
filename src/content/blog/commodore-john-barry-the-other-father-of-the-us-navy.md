@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Happy birthday to Commodore John Barry, born on this day in 1745, considered by many to be the \"father of the United States Navy.\""
 ---
 
-![John Barry by Gilbert Stuart 1801](http://www.oldsaltblog.com/wp-content/uploads/2015/03/John_Barry_by_Gilbert_Stuart.jpg)
+![John Barry by Gilbert Stuart 1801](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/John_Barry_by_Gilbert_Stuart.jpg)
 
 John Barry by Gilbert Stuart 1801
 

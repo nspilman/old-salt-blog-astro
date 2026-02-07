@@ -16,12 +16,12 @@ tags:
   - "Petty Ofc. 1st Class Keith Warren Tipsword"
   - "Petty Ofc. 2nd Class Claude Ralph Garcia"
   - "USS West Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/battleshipwestvirginia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/battleshipwestvirginia.jpg"
 author: "Rick Spilman"
 description: "Eighty-one years after the attack on Pearl Harbor, the identification of fallen US sailors is ongoing. Recently, the Defense POW/MIA Accounting Agency identified the remains of two sailors missing in action since Dec. 7, 1941.  Petty Ofc. 2nd Class Claude … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/battleshipwestvirginia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/battleshipwestvirginia.jpg)
 
 Battleship West Virginia
 

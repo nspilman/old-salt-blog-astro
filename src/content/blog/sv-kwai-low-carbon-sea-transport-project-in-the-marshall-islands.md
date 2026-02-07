@@ -14,7 +14,7 @@ tags:
   - "RMI 2050 Climate Strategy"
   - "sailing cargo ship"
   - "SV Kwai"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/svkwai.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/svkwai.jpg"
 author: "Rick Spilman"
 description: "The sailing cargo ship SV Kwai has been owned by the Republic of the Marshall Islands (RMI) since January 2021, as one element of the island archipelago’s goal of achieving net-zero greenhouse gas emissions by 2050. This multi-faceted RMI effort … Continue reading &rarr;"
 ---

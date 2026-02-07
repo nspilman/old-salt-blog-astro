@@ -11,12 +11,12 @@ tags:
   - "significant wave height"
   - "WAVE"
   - "World Meteorological Organization"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/wave200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/wave200.jpg"
 author: "Rick Spilman"
 description: "In the last day or two, there have been numerous press reports of a 19 meter (62.3 ft) wave, recorded by an automated buoy in the North Atlantic between Iceland and the UK off the Outer Hebrides. This is a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/wave2.jpg)In the last day or two, there have been [numerous press reports](http://www.bbc.com/news/uk-38312935) of a 19 meter (62.3 ft) wave, recorded by an automated buoy in the North Atlantic between Iceland and the UK off the Outer Hebrides. This is a new record for a wave recorded by a buoy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/wave2.jpg)In the last day or two, there have been [numerous press reports](http://www.bbc.com/news/uk-38312935) of a 19 meter (62.3 ft) wave, recorded by an automated buoy in the North Atlantic between Iceland and the UK off the Outer Hebrides. This is a new record for a wave recorded by a buoy.
 
 What does this really mean? Rogue waves are often larger than 19 meters. The first scientifically reported rogue, the [Draupner wave](https://en.wikipedia.org/wiki/Draupner_wave), which struck a drilling platform of the same name on New Year’s Day in 1995, was recorded to be 25.6 metres (84 ft) high. So why is a 19 meter wave such a big deal? 
 

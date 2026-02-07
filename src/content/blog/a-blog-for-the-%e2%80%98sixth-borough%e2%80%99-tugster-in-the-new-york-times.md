@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "One of my favorite blogs is Will van Dorp’s Tugster : a water blog – part shipspotting, part anthropology and part wry commentary on life and the universe, Will and his omnipresent camera do a great job covering New York’s \"six borough.\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/20NYOL2-articleInline.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/20NYOL2-articleInline.jpg)
 
 Will Van Dorp, Tugster Photo: Brian Luster
 

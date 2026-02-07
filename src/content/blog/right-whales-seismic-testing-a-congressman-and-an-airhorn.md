@@ -10,12 +10,12 @@ tags:
   - "House Natural Resources subcommittee"
   - "right whales"
   - "Seismic testing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/airhorn.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/airhorn.jpg"
 author: "Rick Spilman"
 description: "Recently, an official with the Trump administration testified repeatedly at a hearing of the House Natural Resources subcommittee that the firing of commercial air guns under water every 10 seconds over a period of months in search of oil and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/airhorn.jpg)Recently, an official with the Trump administration testified repeatedly at a hearing of the House Natural Resources subcommittee that the firing of commercial air guns under water every 10 seconds over a period of months in search of oil and gas deposits would have next to no effect on endangered right whales. Right whales use echolocation to communicate, feed, mate and keep track of their babies.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/airhorn.jpg)Recently, an official with the Trump administration testified repeatedly at a hearing of the House Natural Resources subcommittee that the firing of commercial air guns under water every 10 seconds over a period of months in search of oil and gas deposits would have next to no effect on endangered right whales. Right whales use echolocation to communicate, feed, mate and keep track of their babies.
 
 Despite testimony that the loud noises caused stress in the whales, lowered resistance to disease and was likely to interfere with the reproduction of the highly endangered whales, the administration, represented by Chris Oliver, an assistant administrator for fisheries, argued that there was no conclusive evidence that the seismic testing had ever actually killed a right whale. Oliver described the noise from commercial air guns as “sub-lethal.” 
 

@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a \"couture superyacht\" designed by a fashion designer.   I would worry that it might be more fashionable … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/t1larg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/t1larg.jpg)
 
 I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a “couture superyacht” designed by a fashion designer.   I would worry that it might be more fashionable than seaworthy but it does look rather conventional overall.  (As a naval architect, I  promise that I will never, ever design clothes.)
 

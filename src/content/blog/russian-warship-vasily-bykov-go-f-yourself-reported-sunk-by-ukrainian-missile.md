@@ -15,12 +15,12 @@ tags:
   - "Ukraine"
   - "Ukrainian Navy"
   - "Vasily Bykov"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Vasily-Bykov-1.jpg"
 author: "Rick Spilman"
 description: "On the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, \"go f*** yourself\". The warship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg)On the first day of the Russian invasion of Ukraine, the Russian naval vessel [*Vasily Bykov*](https://en.wikipedia.org/wiki/Russian_patrol_boat_Vasily_Bykov) ordered the 13 Ukrainian border guards on [Snake Island in the Black Sea](https://en.wikipedia.org/wiki/Attack_on_Snake_Island) to surrender. The border guards replied, “[go f\*\*\* yourself](https://www.cnn.com/2022/02/25/europe/ukraine-russia-snake-island-attack-intl-hnk-ml/index.html)“. The warship shelled the island in response and the soldiers were reported to have been killed. Later reports suggested that the border guards may have survived and been taken prisoner. The border guards’ response has become an informal rallying cry of the Ukrainian military and militias in resisting Russian aggression. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/Vasily-Bykov-1.jpg)On the first day of the Russian invasion of Ukraine, the Russian naval vessel [*Vasily Bykov*](https://en.wikipedia.org/wiki/Russian_patrol_boat_Vasily_Bykov) ordered the 13 Ukrainian border guards on [Snake Island in the Black Sea](https://en.wikipedia.org/wiki/Attack_on_Snake_Island) to surrender. The border guards replied, “[go f\*\*\* yourself](https://www.cnn.com/2022/02/25/europe/ukraine-russia-snake-island-attack-intl-hnk-ml/index.html)“. The warship shelled the island in response and the soldiers were reported to have been killed. Later reports suggested that the border guards may have survived and been taken prisoner. The border guards’ response has become an informal rallying cry of the Ukrainian military and militias in resisting Russian aggression. 
 
 Now, the Ukrainian Navy reports that the patrol boat *Vasily Bykov* that ordered the surrender has been destroyed by Ukrainian missiles in the Black Sea near Odessa. Ukrainian small boats lured the patrol boat to a camouflaged firing position, where it was shelled. 
 

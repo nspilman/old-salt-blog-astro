@@ -11,12 +11,12 @@ tags:
   - "autonomous"
   - "Sea Hunter"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/seahuntertop.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/seahuntertop.jpg"
 author: "Rick Spilman"
 description: "Two years ago we posted about the ASW Continuous Trail Unmanned Vessel (ACTUV), Sea Hunter, a 132′ long autonomous drone trimaran designed to track enemy submarines, being developed by the US Navy. The unmanned ship reached a major milestone recently after sailing autonomously … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/seahuntertop.jpg)Two years ago we [posted](http://www.oldsaltblog.com/2016/04/us-navy-tests-anti-submarine-drone-ship/) about the [ASW Continuous Trail Unmanned Vessel (ACTUV),](https://en.wikipedia.org/wiki/ACTUV) *Sea Hunter,* a 132′ long autonomous drone trimaran designed to track enemy submarines, being developed by the US Navy. The unmanned ship reached a major milestone recently after [sailing autonomously](https://www.navalnews.com/news/2019/02/sea-hunter-usv-reaches-new-autonomy-milestone/) from San Diego to Pearl Harbor, Hawaii, and back.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/seahuntertop.jpg)Two years ago we [posted](http://www.oldsaltblog.com/2016/04/us-navy-tests-anti-submarine-drone-ship/) about the [ASW Continuous Trail Unmanned Vessel (ACTUV),](https://en.wikipedia.org/wiki/ACTUV) *Sea Hunter,* a 132′ long autonomous drone trimaran designed to track enemy submarines, being developed by the US Navy. The unmanned ship reached a major milestone recently after [sailing autonomously](https://www.navalnews.com/news/2019/02/sea-hunter-usv-reaches-new-autonomy-milestone/) from San Diego to Pearl Harbor, Hawaii, and back.
 
 While *Sea Hunter* may have sailed autonomously to Hawaii and back, it was not unattended. Crew members from an escort vessel boarded the ship for short durations to check electrical and propulsion systems. For most of the voyage, however, the [ship was unmanned](https://www.military.com/defensetech/2019/02/15/navy-ship-sailed-hawaii-and-back-no-one-board.html). 
 

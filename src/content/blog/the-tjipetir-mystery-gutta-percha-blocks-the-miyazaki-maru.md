@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Mysterious rubber-like blocks that have been washing ashore on beaches in Britain and Europe are believed to have come from a Japanese ship sunk in WWI"
 ---
 
-![Tracey Williams with two washed-up Tjipetir blocks Photo: Tom Quinn Williams](http://www.oldsaltblog.com/wp-content/uploads/2014/12/79318197_traceywilliams_tomquinnwiliams.jpg)
+![Tracey Williams with two washed-up Tjipetir blocks Photo: Tom Quinn Williams](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/79318197_traceywilliams_tomquinnwiliams.jpg)
 
 Tracey Williams with two washed-up Tjipetir blocks Photo: Tom Quinn Williams
 
@@ -24,7 +24,7 @@ For the last several years, and perhaps much longer, blocks of a rubber-like sub
 
 After finding a “THIPETIR” block while walking her dog on a beach near her home in 2010, Ms. Williams began her own investigation. She learned that [Thipetir was the name of a rubber plantation in Indonesia](http://en.wikipedia.org/wiki/Tjipetir) which was in operation in the late 19th and early 20th centuries. The blocks themselves, however, are not rubber. They appear to be a tree gum known as [gutta-percha](http://en.wikipedia.org/wiki/Gutta-percha), which was used as an electrical insulator and an alternative to plastic in the early 20th century.
 
-![Miyazaki Maru](http://www.oldsaltblog.com/wp-content/uploads/2014/12/4187.jpg)
+![Miyazaki Maru](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/4187.jpg)
 
 Miyazaki Maru
 

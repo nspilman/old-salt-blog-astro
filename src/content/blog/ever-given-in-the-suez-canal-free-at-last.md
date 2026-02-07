@@ -11,12 +11,12 @@ tags:
   - "Ever Given"
   - "Suez Canal"
   - "ultra-large container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven6.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven6.jpg"
 author: "Rick Spilman"
 description: "The combination of a peak high tide, excavation by dredgers, and the combined pull of more than a dozen tugs has finally freed the ultra-large container ship Ever Given.  The 400-meter long container ship carrying 18,000 containers ran aground last … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/evergiven6.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven6.jpg)
 
 The combination of a peak high tide, excavation by dredgers, and the combined pull of more than a dozen tugs has finally freed the ultra-large container ship [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN).  The 400-meter long container ship carrying 18,000 containers [ran aground last Tuesday blocking the Suez Canal](http://oldsaltblog.com/2021/03/suez-canal-still-blocked-by-ultra-large-container-ship-ever-given/) and resulting in a traffic jam of roughly 400 ships. The shutting down of the canal cost an estimated $10 billion per day in lost commerce.
 

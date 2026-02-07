@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Norwegian Jarle Andhøy, 34, who calls himself a \"Wild Viking,\" is in trouble again. Andhøy and two others are sailing the 54-foot yacht, Nilaya, off Antarctica. They have reported that the yacht has a broken boom and that they are heading for an unspecified  Argentine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/314x407.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/314x407.jpg)
 
 Jarle Andhøy
 

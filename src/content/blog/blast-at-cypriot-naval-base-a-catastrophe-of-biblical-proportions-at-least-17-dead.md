@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "This morning, an explosion at a munitions dump at the Evangelos Florakis naval base on the southern coast of Cyprus has killed at least 17 and injured over 40.  The explosion knocked out the island’s largest power station at Vassilik and did significant … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/powerplantcyprus.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/powerplantcyprus.jpg)
 
 Damage to power plant Photo: AP
 

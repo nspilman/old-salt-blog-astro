@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "My novel Hell around the Horn is set on a British windjammer on a voyage around Cape Horn in the particularly brutal winter of 1905.  I wanted to write the novel, in part, because the windjammers have been largely forgotten … Continue reading &rarr;"
 ---
 
-![Windjammer British Isles, inspiration for the Lady Rebecca](http://www.oldsaltblog.com/wp-content/uploads/2013/09/mastBIsmall.jpg)
+![Windjammer British Isles, inspiration for the Lady Rebecca](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/mastBIsmall.jpg)
 
 Windjammer British Isles, inspiration for the Lady Rebecca
 
@@ -31,7 +31,7 @@ While it is easy to look back at windjammers now as old fashioned and an anachro
 
 Nevertheless, the windjammers hung on.  They continued making money for their owners well into the twentieth century.  The last commercial cargo carrying voyage by a windjammer was in 1957. Several windjammers are still sailing today, as training and schools ships. The Russian training ship *[Kruzenshtern](http://en.wikipedia.org/wiki/Kruzenshtern_\(ship\)),* was built in 1926 as the *Pauda* for the [Flying P-Line](http://en.wikipedia.org/wiki/Flying_P-Liner).   Likewise, the Russian train training ship *[Sedov](http://en.wikipedia.org/wiki/Sedov), was* originally the German windjammer the *Magdalene Vinnen II* built in 1921.  Several dozen windjammers have been preserved as museum ships around the world.
 
-![fairtransport](http://www.oldsaltblog.com/wp-content/uploads/2013/09/fairtransport.jpg)
+![fairtransport](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/fairtransport.jpg)
 
 A modern windjammer designed for Fairtransport
 

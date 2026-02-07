@@ -11,12 +11,12 @@ tags:
   - "Bouchard"
   - "German saboteurs"
   - "Jersey City"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/captfred.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/captfred.jpg"
 author: "Rick Spilman"
 description: "Bouchard Transportation recently filed for Chapter 11 bankruptcy protection. The 102-year-old Long Island petroleum barge operator has been struggling over the last several years, involved financial shortfalls and a string of accidents, including a fatal explosion in 2017.  Rather than … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/captfred.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/captfred.jpg)
 
 Captain Frederick Bouchard
 

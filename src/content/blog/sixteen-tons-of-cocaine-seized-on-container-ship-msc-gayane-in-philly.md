@@ -12,12 +12,12 @@ tags:
   - "MSC Desiree"
   - "MSC Gayane"
   - "Philadelphia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mscg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscg.jpg"
 author: "Rick Spilman"
 description: "In one of the largest drug seizures in United States history, Federal authorities seized 15,500 kilos of cocaine hidden in seven shipping containers on the container ship MSC Gayane in the port of Philadelphia. The street value of the drugs … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mscg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscg.jpg)
 
 MSC Gayane – Photo: HHM / Dietmar Hasenpusch
 

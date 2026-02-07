@@ -12,12 +12,12 @@ tags:
   - "Monterey Bay Aquarium Research Institute"
   - "Pacific Seamount"
   - "tusk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/mamtusk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/mamtusk.jpg"
 author: "Rick Spilman"
 description: "Interesting news from the Monterey Bay Aquarium Research Institute (MBARI). While exploring a seamount by ROV from aboard the R/V Western Flyer in 2019 the MBARI team spotted what looked like an elephant’s tusk. The seamount is located 300 kilometers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/mamtusk.jpg)Interesting news from the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/mammoth-tusk-discovery/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/mamtusk.jpg)Interesting news from the [Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/mammoth-tusk-discovery/).
 
 While exploring a seamount by ROV from aboard the R/V *Western Flyer* in 2019 the MBARI team spotted what looked like an elephant’s tusk. The seamount is located 300 kilometers (185 miles) offshore of California and is 3,070 meters (10,000 feet) deep.
 

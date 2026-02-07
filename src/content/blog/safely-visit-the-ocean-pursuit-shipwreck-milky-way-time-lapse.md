@@ -12,7 +12,7 @@ tags:
   - "Outer Banks"
   - "shipwreck"
   - "Wes Snyder"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/oceanpursuit.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/oceanpursuit.jpg"
 author: "Rick Spilman"
 description: "On March 1st, the 72′ scallop fishing vessel Ocean Pursuit came ashore on Bodie Island, part of the Cape Hatteras National Seashore, on North Carolina’s Outer Banks. Since then the boat has been settling into the sand as well as … Continue reading &rarr;"
 ---

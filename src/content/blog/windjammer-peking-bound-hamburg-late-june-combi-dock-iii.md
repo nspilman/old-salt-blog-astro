@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/peking4.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/peking4.jpg"
 author: "Rick Spilman"
 description: "A recent post on the Combi Lift company blog says that the windjammer Peking, long a resident of New York’s South Street Seaport, will travel back to its original homeport of Hamburg Germany carried by the heavy lift ship Combi Dock … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/peking4.jpg)A recent post on the [Combi Lift](http://www.combi-lift.net/) company [blog](http://www.combi-lift.net/blog.html) says that the windjammer *[Peking](https://en.wikipedia.org/wiki/Peking_\(ship\))*, long a resident of New York’s [South Street Seaport](http://southstreetseaportmuseum.org/), will travel back to its original homeport of Hamburg Germany carried by the heavy lift ship [*Combi Dock III*](https://www.marinetraffic.com/en/ais/details/ships/305351000)  at the end of June. From their May 26th post:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/peking4.jpg)A recent post on the [Combi Lift](http://www.combi-lift.net/) company [blog](http://www.combi-lift.net/blog.html) says that the windjammer *[Peking](https://en.wikipedia.org/wiki/Peking_\(ship\))*, long a resident of New York’s [South Street Seaport](http://southstreetseaportmuseum.org/), will travel back to its original homeport of Hamburg Germany carried by the heavy lift ship [*Combi Dock III*](https://www.marinetraffic.com/en/ais/details/ships/305351000)  at the end of June. From their May 26th post:
 
 *Stiftung Hamburg Maritim (Hamburg Maritime Foundation) chose Bremen-based heavy lift expert Combi Lift as its logistics partner for the transport of the historic windjammer Peking. The steel-hulled, four-masted barque will be carried home to Germany this summer on-board a Combi Lift ship. Combi Lift, founded in 2000, is a member of the Harren & Partner Group.*
 

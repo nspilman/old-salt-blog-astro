@@ -14,7 +14,7 @@ tags:
   - "San Francisco"
   - "singlehanded Pacific crossing"
   - "Suntory Mermaid III"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/mermaid1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/mermaid1.jpg"
 author: "Rick Spilman"
 description: "Sixty years after his first singlehanded Pacific crossing from Japan to San Francisco, Kenichi Horie is ready to go again. If all goes well, famed Japanese singlehander Kenichi Horie, 83, will set sail today from San Francisco bound for Japan. … Continue reading &rarr;"
 ---

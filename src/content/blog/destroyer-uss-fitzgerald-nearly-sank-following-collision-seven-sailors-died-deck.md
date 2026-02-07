@@ -11,12 +11,12 @@ tags:
   - "ACX Crystal"
   - "collision"
   - "USS Fitzgerald"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/fitzgerald2.jpg"
 author: "Rick Spilman"
 description: "We now know that the USS Fitzgerald came perilously close to sinking  following its collision with the Philippine-flagged container ship ACX Crystal, early Saturday morning off the Japaneses coast near Tokyo.   \"Heroic efforts prevented the flooding from catastrophically spreading, which could have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg)We now know that the [USS *Fitzgerald*](https://en.wikipedia.org/wiki/USS_Fitzgerald) came perilously close to sinking  [following its collision](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-collides-container-ship-seven-missing/) with the Philippine-flagged container ship [*ACX Crystal,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:722169/mmsi:548789000/imo:9360611/vessel:ACX_CRYSTAL) early Saturday morning off the Japaneses coast near Tokyo.    
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/fitzgerald2.jpg)We now know that the [USS *Fitzgerald*](https://en.wikipedia.org/wiki/USS_Fitzgerald) came perilously close to sinking  [following its collision](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-collides-container-ship-seven-missing/) with the Philippine-flagged container ship [*ACX Crystal,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:722169/mmsi:548789000/imo:9360611/vessel:ACX_CRYSTAL) early Saturday morning off the Japaneses coast near Tokyo.    
 “Heroic efforts prevented the flooding from catastrophically spreading, which could have caused the ship to founder or sink,” said Vice Adm. Joseph P. Aucoin, commander of the Navy’s Seventh Fleet. “It could have been much worse.”   The seven sailors initially reported missing have since been found in their berths where they died in the flooding which followed the collision. 
 
 The Japanese Coast Guard is now reporting that the collision took place around 1:30AM rather than an hour later, a s previously reported. Apparently, the collision was reported for close to an hour. The authorities are investigating the cause for the delay in the reporting. Based on the revised time of the collision, the container ship [*ACX Crystal*](https://www.marinetraffic.com/en/ais/details/ships/shipid:722169/mmsi:548789000/imo:9360611/vessel:ACX_CRYSTAL)  appears to have been maintaining a constant course and speed prior to the collision.  Previously, it was reported that the container ship dramatically changed course prior to the collision. It now appears that the course changes took place after the impact.  

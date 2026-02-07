@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Russian fishing vessel Sparta is afloat, though just barely after being holed by ice at the edge of the Ross ice shelf in Antarctica.  Why was an non-ice strengthened fishing boat fishing in such treacherous waters in the first place?  That is the question being raised by the Vyacheslav Martyanov, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/sparta5.jpg)The Russian fishing vessel *[Sparta](http://www.oldsaltblog.com/2011/12/16/russian-fishing-vessel-sparta-listing-after-striking-sea-ice-in-antarctica/)* is afloat, though just barely after being holed by ice at the edge of the Ross ice shelf in Antarctica.  Why was an non-ice strengthened fishing boat fishing in such treacherous waters in the first place?  That is the question being raised by the Vyacheslav Martyanov, the deputy head of the Russian Antarctic expedition at the research institute of the Arctic and Antarctic regions.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sparta5.jpg)The Russian fishing vessel *[Sparta](http://www.oldsaltblog.com/2011/12/16/russian-fishing-vessel-sparta-listing-after-striking-sea-ice-in-antarctica/)* is afloat, though just barely after being holed by ice at the edge of the Ross ice shelf in Antarctica.  Why was an non-ice strengthened fishing boat fishing in such treacherous waters in the first place?  That is the question being raised by the Vyacheslav Martyanov, the deputy head of the Russian Antarctic expedition at the research institute of the Arctic and Antarctic regions.
 
 [Troubled fishing boat ‘not suitable for ice’](http://www.stuff.co.nz/national/6165535/Troubled-fishing-boat-not-suitable-for-ice)
 

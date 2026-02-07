@@ -11,12 +11,12 @@ tags:
   - "City of Long Beach"
   - "Paycheck Protection Program loan"
   - "Queen Mary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg"
 author: "Rick Spilman"
 description: "In January of last year, we posted that the operator of the ex-Cunard Queen Mary filed for bankruptcy. The converted ship is owned by the City of Long Beach and has been managed by Eagle Hospitality, ex-Urban Commons, since 2016. Now, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg)In January of last year, [we posted](https://www.oldsaltblog.com/2021/01/manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy/) that the operator of the ex-Cunard *[Queen Mary](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62)* filed for bankruptcy. The converted ship is owned by the City of Long Beach and has been managed by [Eagle Hospitality](https://eagleht.com/), ex-Urban Commons, since 2016. Now, two executives of the bankrupt operator have been accused of stealing $2.4 million from a COVID-19 relief loan meant to pay their employees during the pandemic.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg)In January of last year, [we posted](https://www.oldsaltblog.com/2021/01/manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy/) that the operator of the ex-Cunard *[Queen Mary](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62)* filed for bankruptcy. The converted ship is owned by the City of Long Beach and has been managed by [Eagle Hospitality](https://eagleht.com/), ex-Urban Commons, since 2016. Now, two executives of the bankrupt operator have been accused of stealing $2.4 million from a COVID-19 relief loan meant to pay their employees during the pandemic.
 
 As reported by the [LA Times](https://www.latimes.com/california/story/2021-12-15/ex-queen-mary-operators-court-ordered-fine-in-alleged-ppp-loan-fraud): At the center of the bankruptcy proceedings are Urban Commons executives Howard Wu and Taylor Woods. In court filings, U.S. Bankruptcy Judge Christopher S. Sontchi has labeled the two as “fraudsters.”
 

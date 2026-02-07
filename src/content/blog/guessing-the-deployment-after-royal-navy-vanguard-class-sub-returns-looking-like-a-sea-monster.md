@@ -13,12 +13,12 @@ tags:
   - "nuclear ballistic missile submarine"
   - "Scotland"
   - "Vanguard class"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/vanguardbiofouling.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/vanguardbiofouling.jpg"
 author: "Rick Spilman"
 description: "The War Zone column from the Drive.com blog recently featured photographs of a Royal Navy Vanguard class submarine returning to HM Naval Base Clyde, which is also known as Faslane, on the west coast of Scotland, after a 197-day nuclear … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/vanguardbiofouling.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/vanguardbiofouling.jpg)
 
 Photo: Sheila Weir / Royal Navy
 

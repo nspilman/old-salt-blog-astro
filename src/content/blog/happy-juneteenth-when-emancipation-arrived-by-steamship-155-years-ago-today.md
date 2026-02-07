@@ -14,12 +14,12 @@ tags:
   - "texas"
   - "USS Cornubia"
   - "USS Preston"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/usscornubia.jpg"
 author: "Rick Spilman"
 description: "Today is Juneteenth, the oldest nationally celebrated commemoration of the ending of slavery in the United States, when 155 years ago, emancipation arrived in Galveston, Texas by steamship. Here is an updated repost from a few years ago. Although the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/usscornubia.jpg)
 
 USS Cornubia, ex lady Davis
 

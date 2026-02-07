@@ -10,12 +10,12 @@ tags:
   - "all-women team"
   - "Antigua"
   - "Talisker Whisky Atlantic Challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/islandgirls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/islandgirls.jpg"
 author: "Rick Spilman"
 description: "The Talisker Whisky Atlantic Challenge is billed as the world’s toughest row, 3,000 miles across the Atlantic from San Sebastian in La Gomera, Canary Islands, Spain to Nelson’s Dockyard, English Harbour, Antigua & Barbuda. This year an all-female Antiguan team made history by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/islandgirls-200x175.jpg)The [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/) is billed as the world’s toughest row, 3,000 miles across the Atlantic from San Sebastian in La Gomera, Canary Islands, Spain to Nelson’s Dockyard, English Harbour, Antigua & Barbuda. This year an all-female Antiguan team made history by becoming the first all-women team to represent the island and as the first Black team to row across an ocean. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/islandgirls-200x175.jpg)The [Talisker Whisky Atlantic Challenge](https://www.taliskerwhiskyatlanticchallenge.com/) is billed as the world’s toughest row, 3,000 miles across the Atlantic from San Sebastian in La Gomera, Canary Islands, Spain to Nelson’s Dockyard, English Harbour, Antigua & Barbuda. This year an all-female Antiguan team made history by becoming the first all-women team to represent the island and as the first Black team to row across an ocean. 
 
 The [Island Girls team](https://www.antiguabarbudaislandgirls.com/); Elvira Bell, Christal Clashing, Kevinia Francis, and Samara Emmanuel; departed La Gomera on December 12 and arrived in English Harbour 47 days, eight hours and 25 minutes later, on January 28th.  They placed 13th out of 28 teams competing. As of this morning, six boats are still at sea bound for Antigua. 
 

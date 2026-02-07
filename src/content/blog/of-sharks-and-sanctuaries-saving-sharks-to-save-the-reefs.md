@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Federated States of Micronesia, along with the Republic of the Marshall Islands, the Republic of Palau, the Territory of Guam and the Commonwealth of the Northern Marianas Islands, announced earlier this month that they were establishing a shark sanctuary … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/sharks_wide.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/sharks_wide.jpg)
 
 Photo: Yves Lefebre/AP
 

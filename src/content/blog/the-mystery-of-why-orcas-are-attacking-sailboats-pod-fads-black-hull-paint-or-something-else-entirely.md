@@ -12,12 +12,12 @@ tags:
   - "Iberia"
   - "orcas"
   - "sailboats"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "Since 2020, juvenile orcas within pods that feed on migrating tuna traveling through the Strait of Gibraltar and around the Iberian Peninsula, have taken to bumping and ramming the hulls of small yachts and damaging rudders. In the last several … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)Since 2020, juvenile orcas within pods that feed on migrating tuna traveling through the Strait of Gibraltar and around the Iberian Peninsula, have taken to bumping and ramming the hulls of small yachts and damaging rudders. In the last several years there have been over 100 orca ‘interactions’ where boats have been spun around and repeatedly rammed. [Up to 15% of yachts experiencing this behavior](https://www.theca.org.uk/orcas) have had to be towed to port, usually due to steering gear damage. In two such attacks, damage done by the orcas resulted in the yachts sinking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)Since 2020, juvenile orcas within pods that feed on migrating tuna traveling through the Strait of Gibraltar and around the Iberian Peninsula, have taken to bumping and ramming the hulls of small yachts and damaging rudders. In the last several years there have been over 100 orca ‘interactions’ where boats have been spun around and repeatedly rammed. [Up to 15% of yachts experiencing this behavior](https://www.theca.org.uk/orcas) have had to be towed to port, usually due to steering gear damage. In two such attacks, damage done by the orcas resulted in the yachts sinking.
 
 Why the primarily juvenile orcas have taken to attacking sailboats has [mystified scientists](https://www.oldsaltblog.com/2020/09/scientists-baffled-by-orcas-ramming-sailboats-grabbing-rudders/). Recently, two theories have been proposed that might explain the behavior.  
 

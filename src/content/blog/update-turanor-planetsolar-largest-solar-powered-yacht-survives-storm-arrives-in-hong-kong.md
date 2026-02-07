@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In June we posted that the 31-meter Turanor PlanetSolar,  a catamaran yacht fitted with 536 square meters of photovoltaic panels, had successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.  The yacht recently arrived in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/PlanetSolarHongKong.jpg)In June [we posted that the 31-meter *Turanor PlanetSolar,*](http://www.oldsaltblog.com/2011/06/05/halfway-around-the-world-powered-only-by-the-sun-solar-yacht-turanor-arrives-in-brisbane/)  a catamaran yacht fitted with 536 square meters of photovoltaic panels, had successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.  The yacht recently arrived in Hong Kong after navigating through monsoons and tropical storms for six days powered only with solar photovoltaic panels.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/PlanetSolarHongKong.jpg)In June [we posted that the 31-meter *Turanor PlanetSolar,*](http://www.oldsaltblog.com/2011/06/05/halfway-around-the-world-powered-only-by-the-sun-solar-yacht-turanor-arrives-in-brisbane/)  a catamaran yacht fitted with 536 square meters of photovoltaic panels, had successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.  The yacht recently arrived in Hong Kong after navigating through monsoons and tropical storms for six days powered only with solar photovoltaic panels.
 
 [Turanor PlanetSolar survives storm, arrives in Hong Kong](http://www.cleanenergyauthority.com/solar-energy-news/solar-boat-arrives-in-hong-kong-081611/)  
   

@@ -12,12 +12,12 @@ tags:
   - "launch"
   - "Mayflower II"
   - "mystic seaport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/mayfloweriilaunch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/mayfloweriilaunch.jpg"
 author: "Rick Spilman"
 description: "On September 7th at 2PM, the Plimoth Plantation‘s Mayflower II will be launched and recommissioned at Mystic Seaport Museum. The replica of the ship which carried the Pilgrims to Plymouth, MA has undergone a major three-year restoration at the seaport’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/mayfloweriilaunch.jpg)On September 7th at 2PM, the [Plimoth Plantation](https://www.plimoth.org/)‘s [*Mayflower II*](https://mayflower.plimoth.org/) will be launched and recommissioned at [Mystic Seaport Museum](https://www.mysticseaport.org/event/launch-of-mayflower-ii/)[.](https://www.mysticseaport.org/event/launch-of-mayflower-ii/) The replica of the ship which carried the Pilgrims to Plymouth, MA has undergone a major three-year restoration at the seaport’s [Henry B. duPont Preservation Shipyard](https://www.mysticseaport.org/locations/shipyard/).  In preparation for launching, the ship will be christened with water from all 50 states as well as Plymouth, U.K., and Leiden, Netherlands. Once the *Mayflower II* returns to Massachusetts in spring 2020, the ship will be the centerpiece of the 400th commemoration of the Pilgrims’ arrival to historic Patuxet, now known as Plymouth. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/mayfloweriilaunch.jpg)On September 7th at 2PM, the [Plimoth Plantation](https://www.plimoth.org/)‘s [*Mayflower II*](https://mayflower.plimoth.org/) will be launched and recommissioned at [Mystic Seaport Museum](https://www.mysticseaport.org/event/launch-of-mayflower-ii/)[.](https://www.mysticseaport.org/event/launch-of-mayflower-ii/) The replica of the ship which carried the Pilgrims to Plymouth, MA has undergone a major three-year restoration at the seaport’s [Henry B. duPont Preservation Shipyard](https://www.mysticseaport.org/locations/shipyard/).  In preparation for launching, the ship will be christened with water from all 50 states as well as Plymouth, U.K., and Leiden, Netherlands. Once the *Mayflower II* returns to Massachusetts in spring 2020, the ship will be the centerpiece of the 400th commemoration of the Pilgrims’ arrival to historic Patuxet, now known as Plymouth. 
 
 From the [Mystic Seaport website](https://www.mysticseaport.org/event/launch-of-mayflower-ii/):
 

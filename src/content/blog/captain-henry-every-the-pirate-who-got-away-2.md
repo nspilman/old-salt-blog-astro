@@ -11,12 +11,12 @@ tags:
   - "Golden Age of Piracy"
   - "Henry Ever"
   - "Mughal treasure fleet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/henryevery.jpg"
 author: "Rick Spilman"
 description: "During the \"Golden Age of Piracy,\" the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. While his career … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg)During the “[Golden Age of Piracy](https://en.wikipedia.org/wiki/Golden_Age_of_Piracy),” the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was [Captain Henry Every](https://www.history.com/news/henry-everys-bloody-pirate-raid-320-years-ago). While his career as a pirate lasted only two years and was vastly successful, unlike other well know pirates, Every got away.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/henryevery.jpg)During the “[Golden Age of Piracy](https://en.wikipedia.org/wiki/Golden_Age_of_Piracy),” the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was [Captain Henry Every](https://www.history.com/news/henry-everys-bloody-pirate-raid-320-years-ago). While his career as a pirate lasted only two years and was vastly successful, unlike other well know pirates, Every got away.
 
 During just two years prowling the seas, Every and his band captured roughly a dozen vessels and made off with tens of millions of dollars in booty. His exploits inspired songs, books and plays, including one called “The Successful Pyrate” that was performed on London stages for several years. Most astonishing of all—and unlike Blackbeard and many others—he did it all without getting captured or killed.
 

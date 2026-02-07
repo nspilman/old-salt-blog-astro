@@ -13,12 +13,12 @@ tags:
   - "peroxide powder"
   - "Storm Zeetje"
   - "West Frisian Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/msczoe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/msczoe.jpg"
 author: "Rick Spilman"
 description: "MSC Zoe is one of the largest container ships in the world with a capacity of over 19,000 twenty foot containers. Nevertheless, when Storm Zeetje pounded northern Germany with gale force winds late on Tuesday night, 277 containers were washed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/msczoe.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/msczoe.jpg)  
 [*MSC Zoe*](https://www.marinetraffic.com/en/ais/details/ships/shipid:3482020/mmsi:352757000/imo:9703318/vessel:MSC_ZOE) is one of the largest container ships in the world with a capacity of over 19,000 twenty foot containers. Nevertheless, when Storm Zeetje pounded northern Germany with gale force winds late on Tuesday night, 277 containers were washed off the huge ship in the Wadden Sea. Some of these containers or their contents were carried onto the beaches of five West Frisian Islands islands including Terschelling, Vlieland and Ameland. At least one lost container was loaded with toxic chemicals. The Netherlands deployed 100 troops to help in the clean up and to search for dangerous cargo.
 
 The [New York Times](https://www.nytimes.com/2019/01/04/world/europe/netherlands-container-spill.html) reports that the *MSC Zoe* was carrying three containers containing seven tons of peroxide powder each in small bags. One such bag was found on Thursday on a beach in Schiermonnikoog, a Dutch island near the German border. It was not yet clear how many of the three containers went overboard.

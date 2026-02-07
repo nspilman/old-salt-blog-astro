@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Two letters from the Titanic are in the news.  One is a letter from Dr. John Edward Simpson, who died when the ship sank,   He wrote to his mother on April 11, 1912, on notepaper headed RMS Titanic, and had it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/EJ_Smith.jpg)Two letters from the *Titanic* are in the news.  One is a letter from Dr. John Edward Simpson, who died when the ship sank,   He wrote to his mother on April 11, 1912, on notepaper headed *RMS Titanic*, and had it mailed from Cohb, Ireland, the last port of call prior to the ship sailing across the North Atlantic. [The letter, which was owned by a collector in Long Island, NY will be returning  Belfast to be part of a new Titanic exhibition.](Titanic letter to return to Belfast)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/EJ_Smith.jpg)Two letters from the *Titanic* are in the news.  One is a letter from Dr. John Edward Simpson, who died when the ship sank,   He wrote to his mother on April 11, 1912, on notepaper headed *RMS Titanic*, and had it mailed from Cohb, Ireland, the last port of call prior to the ship sailing across the North Atlantic. [The letter, which was owned by a collector in Long Island, NY will be returning  Belfast to be part of a new Titanic exhibition.](Titanic letter to return to Belfast)
 
 A second, somewhat controversial, letter was written by *Titanic* survivor, Emily Richards, a second class passenger, who claims to have seen Captain Smith a drinking few hours before the collision.  The letter written on board the *Carpathia*, which rescued survivors from the sinking, blames the captain for the sinking:
 

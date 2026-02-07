@@ -16,12 +16,12 @@ tags:
   - "Santander"
   - "Spain"
   - "Wisby Tankers AB"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/Atlantic-Orchard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/Atlantic-Orchard.jpg"
 author: "Rick Spilman"
 description: "The Spanish cleantech engineering firm bound4blue has installed four 26-meter high eSAILs® on the MV Atlantic Orchard, a 35,584-dwt juice carrier. The eSAILs® are said to be the world’s largest suction sails ever installed. The sails were installed in under … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/Atlantic-Orchard.jpg)The Spanish cleantech engineering firm [bound4blue](https://bound4blue.com/) has installed four 26-meter high eSAILs® on the [MV *Atlantic Orchard*](https://www.vesselfinder.com/vessels/details/9638159), a 35,584-dwt juice carrier. The [eSAILs®](https://bound4blue.com/esail/) are said to be the world’s largest [suction sails](https://futurefuels.imo.org/faq/what-are-suction-wings-and-how-do-they-work/) ever installed. The sails were installed in under a day per unit during the vessel’s 10-year survey at [Astander Shipyard](https://www.astander.es/), Santander, Spain. The ship is chartered by Louis Dreyfus Company (LDC) and owned by Wisby Tankers AB, Sweden.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/Atlantic-Orchard.jpg)The Spanish cleantech engineering firm [bound4blue](https://bound4blue.com/) has installed four 26-meter high eSAILs® on the [MV *Atlantic Orchard*](https://www.vesselfinder.com/vessels/details/9638159), a 35,584-dwt juice carrier. The [eSAILs®](https://bound4blue.com/esail/) are said to be the world’s largest [suction sails](https://futurefuels.imo.org/faq/what-are-suction-wings-and-how-do-they-work/) ever installed. The sails were installed in under a day per unit during the vessel’s 10-year survey at [Astander Shipyard](https://www.astander.es/), Santander, Spain. The ship is chartered by Louis Dreyfus Company (LDC) and owned by Wisby Tankers AB, Sweden.
 
 The 2014-built vessel was originally built as a dry bulk vessel before being converted to a juice carrier in 2020. With the new suction sails, the ship will benefit from fuel consumption and emission savings, projected to reach around 10% depending on its trade route. These savings will contribute towards compliance with [FuelEU Maritime](https://bound4blue.com/fueleu-maritime-compliance-with-wind/) and other regulations, including the [Carbon Intensity Indicator](https://www.dnv.com/maritime/insights/topics/CII-carbon-intensity-indicator/#:~:text=The%20CII%20\(Carbon%20Intensity%20Indicator,operation%20in%20calendar%20year%202023.) (CII) and the [European Union Emissions Trading System](https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets_en) (EU ETS).
 

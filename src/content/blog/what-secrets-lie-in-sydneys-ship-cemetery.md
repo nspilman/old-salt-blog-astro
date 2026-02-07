@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Earlier in the month we posted about New York harbor’s \"graveyard of ships\".  Yesterday the Daily Telegraph featured an interesting article about Sydney’s ship cemetery – an abandoned wrecking yard in Homebush Bay where several wooden barges and at least five ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/sydney-shipyard.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/sydney-shipyard.jpg)
 
 Photo: Craig Greenhill Source: The Daily Telegraph
 

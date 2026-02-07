@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "World’s smallest tall ships sail under Tower Bridge… without the bridge deck opening With the traditional rigging of a tall ship but only a fraction of the size, these two vessels are dwarfed by Tower Bridge. The world’s smallest tall … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/smallshipbridge.jpg)[World’s smallest tall ships sail under Tower Bridge… without the bridge deck opening](http://www.dailymail.co.uk/news/article-1270122/Worlds-smallest-tall-ships-sail-Tower-Bridge--bridge-deck-opening.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/smallshipbridge.jpg)[World’s smallest tall ships sail under Tower Bridge… without the bridge deck opening](http://www.dailymail.co.uk/news/article-1270122/Worlds-smallest-tall-ships-sail-Tower-Bridge--bridge-deck-opening.html)
 
 *With the traditional rigging of a tall ship but only a fraction of the size, these two vessels are dwarfed by Tower Bridge.*
 

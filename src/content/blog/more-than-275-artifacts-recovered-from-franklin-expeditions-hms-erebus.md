@@ -16,12 +16,12 @@ tags:
   - "HMS Terror"
   - "Inuit Heritage Trust"
   - "Parks Canada"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/erebusartificats.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/erebusartificats.jpg"
 author: "Rick Spilman"
 description: "A team of researchers conducted 56 dives over 11 days in September on the wreck of the HMS Erebus from the 1845 Franklin Expedition near Gjoa Haven recovering more than 275 additional artifacts from the historic shipwreck. The newly retrieved artifacts … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/erebusartificats.jpg)A team of [researchers conducted 56 dives over 11 days in September on the wreck of the HMS *Erebus*](https://nunatsiaq.com/stories/article/more-than-275-artifacts-recovered-from-franklin-expedition-wreckage/) from the 1845 Franklin Expedition near Gjoa Haven recovering more than 275 additional artifacts from the historic shipwreck. The newly retrieved artifacts included a corrective lens from a pair of eyeglasses, a leather portfolio with a quill still pressed inside as well as a decorative box for drafting, a piece of paper that may be infused with metal, and a box of officers’ epaulets.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/erebusartificats.jpg)A team of [researchers conducted 56 dives over 11 days in September on the wreck of the HMS *Erebus*](https://nunatsiaq.com/stories/article/more-than-275-artifacts-recovered-from-franklin-expedition-wreckage/) from the 1845 Franklin Expedition near Gjoa Haven recovering more than 275 additional artifacts from the historic shipwreck. The newly retrieved artifacts included a corrective lens from a pair of eyeglasses, a leather portfolio with a quill still pressed inside as well as a decorative box for drafting, a piece of paper that may be infused with metal, and a box of officers’ epaulets.
 
 In 2020, [archaeologists from Parks Canada retrieved more than 350 artifacts](https://www.oldsaltblog.com/2020/03/hms-erebus-artifacts-provide-glimpse-into-franklin-expedition-sailors-lives/) from the wreck site, including epaulets from a lieutenant’s uniform, ceramic dishes, wine bottles, a hairbrush with strands of human hair, and a pencil case. 
 

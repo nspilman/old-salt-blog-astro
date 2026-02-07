@@ -10,12 +10,12 @@ tags:
   - "VE Day"
   - "Victory in Europe"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/ve75.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/ve75.jpg"
 author: "Rick Spilman"
 description: "Parades and large celebrations were planned for the 75th anniversary of VE Day, Victory in Europe Day, the end of World War II in Europe on this day in 1945. And then the pandemic came along. Nevertheless, the Royal Navy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/ve75.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/ve75.jpg)
 
 Crew of the RFA Argus celebrating 75 years since VE day.
 

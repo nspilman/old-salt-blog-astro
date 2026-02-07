@@ -10,12 +10,12 @@ tags:
   - "orcas"
   - "Spain"
   - "Spanish Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "Some sailors along Spain’s Galician coast must be saying \"we’re gonna need a bigger boat.\" There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal. Now, the Spanish … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)Some sailors along Spain’s Galician coast must be saying “we’re gonna need a bigger boat.” There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)Some sailors along Spain’s Galician coast must be saying “we’re gonna need a bigger boat.” There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal.
 
 Now, the [Spanish Coast guard is banning boats under 15 meters](https://www.reuters.com/article/spain-sailing-killerwhales/spanish-coastguard-bans-small-sailboats-after-damage-from-orcas-idUSL5N2GL4FU) (49 feet) long from taking to the sea for at least a week off about 90 km (56 miles) of the coast between Cape Piorino Grande and Point Estacas de Bares. The ban could be extended if the pods remain in the area.
 

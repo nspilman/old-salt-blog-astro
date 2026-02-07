@@ -12,12 +12,12 @@ tags:
   - "Nigeria"
   - "overloaded boat"
   - "West Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/nigeria.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/nigeria.jpg"
 author: "Rick Spilman"
 description: "The death toll from an overloaded boat that capsized in a remote part of Nigeria’s north central region has risen to more than 100, police and officials said on Wednesday, in one of the worst such disasters in recent years. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/nigeria.jpg)The death toll from an overloaded boat that capsized in a remote part of Nigeria’s north central region has risen to more than 100, police and officials said on Wednesday, in one of the worst such disasters in recent years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/nigeria.jpg)The death toll from an overloaded boat that capsized in a remote part of Nigeria’s north central region has risen to more than 100, police and officials said on Wednesday, in one of the worst such disasters in recent years.
 
 The wooden boat was ferrying people to Kwara state across the Niger River from neighboring Niger state after a wedding party when it capsized on Monday night. Approximately 270 individuals were loaded on the boat, well above its capacity of 100 people.
 

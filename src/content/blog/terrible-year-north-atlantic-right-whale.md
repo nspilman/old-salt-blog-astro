@@ -6,12 +6,12 @@ excerpt: "2017 was a disastrous year for the North Atlantic right whale and 2018
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/naright.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/naright.jpg"
 author: "Rick Spilman"
 description: "2017 was a disastrous year for the North Atlantic right whale and 2018 looks no better. In fact, it could be worse. Last year 17 North Atlantic right whales, died which is more than died in the past five years … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/naright.jpg)2017 was a disastrous year for the North Atlantic right whale and 2018 looks no better. In fact, it could be worse. Last year 17 North Atlantic right whales, died which is more than died in the past five years combined. Even worse, during this year’s breeding season, which typically runs from November through February, no newly-born calves have been sighted.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/naright.jpg)2017 was a disastrous year for the North Atlantic right whale and 2018 looks no better. In fact, it could be worse. Last year 17 North Atlantic right whales, died which is more than died in the past five years combined. Even worse, during this year’s breeding season, which typically runs from November through February, no newly-born calves have been sighted.
 
 The [Boston Globe](https://www.bostonglobe.com/metro/2018/02/25/after-year-record-deaths-right-whales-produce-new-calves-which-could-catastrophic/wzPwtQSk9iRDlIvmaFp5nJ/story.html) quotes Barb Zoodsma, a biologist who oversees the right whale recovery program in the Southeast for the National Oceanic and Atmospheric Administration. “This is the worst-case scenario. This season appears to be a total bomb. You don’t have to be a math major to see that things are going in the wrong direction.”
 

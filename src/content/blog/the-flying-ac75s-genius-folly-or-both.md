@@ -10,7 +10,7 @@ categories:
 tags:
   - "AC75"
   - "America's Cup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/ac75.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/ac75.jpg"
 author: "Rick Spilman"
 description: "The new design for the AC75s is an engineering marvel. Nevertheless, I am having an argument with myself whether they are works of genius or folly. More specifically whether carbon fiber and foils will have any practical application to real-world … Continue reading &rarr;"
 ---

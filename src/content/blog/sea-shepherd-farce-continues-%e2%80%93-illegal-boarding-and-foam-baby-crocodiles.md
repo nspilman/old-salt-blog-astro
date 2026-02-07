@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Sea Shepherd farce continues.  The ex-captain of the Ady Gil cut through anti-boarding nets to board a Japanese whaler and was immediately arrested.   In related news, Sea Shepherd crew onboard the Steve Irwin, a vessel named for the television … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/irwin_crock.jpg)The Sea Shepherd farce continues.  The ex-captain of the *Ady Gil* cut through anti-boarding nets to board a Japanese whaler and was immediately arrested.   In related news, Sea Shepherd crew onboard the *Steve Irwin*, a vessel named for the television host of the show “Crocodile Hunter,”  are now throwing fake crocodile eggs at the Japanese whalers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/irwin_crock.jpg)The Sea Shepherd farce continues.  The ex-captain of the *Ady Gil* cut through anti-boarding nets to board a Japanese whaler and was immediately arrested.   In related news, Sea Shepherd crew onboard the *Steve Irwin*, a vessel named for the television host of the show “Crocodile Hunter,”  are now throwing fake crocodile eggs at the Japanese whalers.
 
 Paul Bethune, the captain of the speed boat *Ady Gil* who managed to get the boat run down by a Japanese whaler, jumped aboard the Japanese whaling ship *Shonan Maru* 2 from a jet ski on Monday, “with the stated goal of making a citizen’s arrest of the ship’s captain and presenting him with a $3 million bill for the destruction of a protest ship last month.  As reported by the [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hsHv9pJ7Ey7Nt0kwv93b7Z8ECgPwD9DT9TE00),  Bethune was immediately arrested himself.  
   

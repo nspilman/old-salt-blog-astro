@@ -12,7 +12,7 @@ tags:
   - "Lehigh Valley No 79"
   - "Tug Pegasus"
   - "Waterfront Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/04/tugbargenylovestory.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/tugbargenylovestory.jpg"
 author: "Rick Spilman"
 description: "Here is a short and beautiful video to end the week. The video by Paul Demonte features two historic vessels in New York harbor — the 1907 built tug Pegasus and the Hudson River railroad barge, Lehigh Valley No. 79, … Continue reading &rarr;"
 ---

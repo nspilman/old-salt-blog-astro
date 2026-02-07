@@ -10,12 +10,12 @@ tags:
   - "knots"
   - "Science."
   - "Vishal P. Patil"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/figure8knot.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/figure8knot.jpg"
 author: "Rick Spilman"
 description: "An interesting new technology, involving special fibers that change color when they are under strain, is allowing scientists to analyze the efficiency of knots. The technology is described in a recent paper by a team lead Vishal P. Patil in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/figure8knot.jpg)An interesting new technology, involving special fibers that change color when they are under strain, is allowing scientists to analyze the efficiency of knots. The technology is described in a recent paper by a team lead Vishal P. Patil in the [journal Science](https://science.sciencemag.org/content/367/6473/71).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/figure8knot.jpg)An interesting new technology, involving special fibers that change color when they are under strain, is allowing scientists to analyze the efficiency of knots. The technology is described in a recent paper by a team lead Vishal P. Patil in the [journal Science](https://science.sciencemag.org/content/367/6473/71).
 
 On observation from the study is, as [Patil explained to NPR](https://www.npr.org/2020/01/02/793050811/a-knotty-problem-solved?fbclid=IwAR3aq1wtmVIMRAAtG_ANKW9fiQYIEpqWlWZIfOBZw9KdwdaWjYU_ukjkoYg), is that “twist is quite important in how knots behave.”  Having lots of twists going in opposite directions along the knot can kind of lock it. “But if lots of twists are going in the same direction, then the whole thing can roll out.”
 

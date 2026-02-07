@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "More than 200 whales have been found stranded on a remote beach at the entrance to Macquarie Harbour on the west coast of Tasmania, Australia. Half of the pod, thought to be pilot whales, are believed to be still alive. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/strandedwhales.jpg)[More than 200 whales have been found stranded](https://www.bbc.com/news/world-australia-62976749) on a remote beach at the entrance to Macquarie Harbour on the west coast of Tasmania, Australia. Half of the pod, thought to be pilot whales, are believed to be still alive.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/strandedwhales.jpg)[More than 200 whales have been found stranded](https://www.bbc.com/news/world-australia-62976749) on a remote beach at the entrance to Macquarie Harbour on the west coast of Tasmania, Australia. Half of the pod, thought to be pilot whales, are believed to be still alive.
 
 Experts were planning a rescue of the 230 whales discovered on Wednesday but the operation would be “complex” due to the location, Tasmania’s Department of Natural Resources and Environment said in a statement.
 

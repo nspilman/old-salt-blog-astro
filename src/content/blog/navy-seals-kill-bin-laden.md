@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "US naval special forces commandos are called SEALs, referring to their ability to operate at SEa, in the Air and on Land.   Yesterday Navy SEALs were called upon to capture or kill Osama Bin Laden who was hiding in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/navy-seal-4.jpg)US naval special forces commandos are called [SEALs](http://en.wikipedia.org/wiki/United_States_Navy_SEALs), referring to their ability to operate at SEa, in the Air and on Land.   Yesterday [Navy SEALs were called upon to capture or kill Osama Bin Laden](http://en.wikipedia.org/wiki/Death_of_Osama_bin_Laden) who was hiding in a mansion in Abbottabad, a garrison city of 100,000 about 65 miles north of Islamabad, Pakistan.  In an operation reported to be carried out by 20-25 Navy SEALs, Bin Laden was killed after a forty minute firefight.  Bin Laden’s body was subsequently buried at sea from the aircraft carrier USS *Carl Vinson*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/navy-seal-4.jpg)US naval special forces commandos are called [SEALs](http://en.wikipedia.org/wiki/United_States_Navy_SEALs), referring to their ability to operate at SEa, in the Air and on Land.   Yesterday [Navy SEALs were called upon to capture or kill Osama Bin Laden](http://en.wikipedia.org/wiki/Death_of_Osama_bin_Laden) who was hiding in a mansion in Abbottabad, a garrison city of 100,000 about 65 miles north of Islamabad, Pakistan.  In an operation reported to be carried out by 20-25 Navy SEALs, Bin Laden was killed after a forty minute firefight.  Bin Laden’s body was subsequently buried at sea from the aircraft carrier USS *Carl Vinson*.
 
 [Osama Bin Laden Killed By Navy SEALs in Firefight](http://abcnews.go.com/Blotter/osama-bin-laden-killed-navy-seals-firefight/story?id=13505792)[](http://abcnews.go.com/Blotter/osama-bin-laden-killed-navy-seals-firefight/story?id=13505792)  
   
@@ -25,5 +25,5 @@ description: "US naval special forces commandos are called SEALs, referring to t
 
 [The Secret Team That Killed bin Laden](http://nationaljournal.com/whitehouse/the-secret-team-that-killed-bin-laden-20110502)
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/seal-graphic.jpg)  
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/seal-graphic.jpg)  
 *

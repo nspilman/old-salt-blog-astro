@@ -12,12 +12,12 @@ tags:
   - "humpback whale"
   - "mating strategies"
   - "Royal Society Open Science"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/humpbackmigration.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/humpbackmigration.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that a humpback whale has made one of the longest and most unusual migrations ever recorded, possibly driven by climate change, scientists say. It was seen in the Pacific Ocean off Colombia in 2017 and then popped up … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/humpbackmigration.jpg)The [BBC](https://www.bbc.com/news/articles/cp3zywxlqlxo) reports that a humpback whale has made one of the longest and most unusual migrations ever recorded, possibly driven by climate change, scientists say.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/humpbackmigration.jpg)The [BBC](https://www.bbc.com/news/articles/cp3zywxlqlxo) reports that a humpback whale has made one of the longest and most unusual migrations ever recorded, possibly driven by climate change, scientists say.
 
 It was seen in the Pacific Ocean off Colombia in 2017 and then popped up several years later near Zanzibar in the Indian Ocean—a distance of at least 7,000 nautical miles.
 

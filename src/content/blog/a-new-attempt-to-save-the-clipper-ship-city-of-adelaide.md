@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "More talks to save the fine old ship from being broken up.  Only time will tell whether anyone will come up with the funds to rescue her. Fresh bid to salvage historic Scots ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/07/city_of_adelaide-150x114.jpg)More talks to save the fine old ship from being broken up.  Only time will tell whether anyone will come up with the funds to rescue her.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/city_of_adelaide-150x114.jpg)More talks to save the fine old ship from being broken up.  Only time will tell whether anyone will come up with the funds to rescue her.
 
 [Fresh bid to salvage historic Scots ship](http://www.heraldscotland.com/news/home-news/fresh-bid-to-salvage-historic-scots-ship-1.999984)  
   

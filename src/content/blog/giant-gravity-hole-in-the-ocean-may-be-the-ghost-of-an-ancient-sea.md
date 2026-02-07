@@ -11,12 +11,12 @@ tags:
   - "African blob"
   - "gravitational anomaly"
   - "Indian Ocean geoid low (IOGL)"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/indianoceangravity-hole.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/indianoceangravity-hole.jpg"
 author: "Rick Spilman"
 description: "A fascinating story from Scientific American: A vast expanse of the Indian Ocean is a staggering 100 meters lower than the global average sea level because of a major dip in Earth’s gravity. Scientists now think they know the cause. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/indianoceangravity-hole.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/indianoceangravity-hole.jpg)
 
 Image: International Centre for Global Earth Models (ICGEM)
 

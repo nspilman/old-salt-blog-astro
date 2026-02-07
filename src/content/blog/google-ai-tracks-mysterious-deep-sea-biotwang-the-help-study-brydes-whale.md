@@ -13,12 +13,12 @@ tags:
   - "Mariana Trench"
   - "National Oceanic and Atmospheric Administration"
   - "NOAA"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/brydeswhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/brydeswhale.jpg"
 author: "Rick Spilman"
 description: "The National Oceanic and Atmospheric Administration (NOAA) has partnered with Google AI to analyze an ocean of long-term passive acoustic data. Using AI and machine learning, they have analyzed in hours what would otherwise take decades to process. In 2014, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/brydeswhale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/brydeswhale.jpg)
 
 The [National Oceanic and Atmospheric Administration](https://www.fisheries.noaa.gov/feature-story/hey-google-find-new-whale-sound) (NOAA) has partnered with Google AI to analyze an ocean of long-term passive acoustic data. Using AI and machine learning, they have analyzed in hours what would otherwise take decades to process.
 

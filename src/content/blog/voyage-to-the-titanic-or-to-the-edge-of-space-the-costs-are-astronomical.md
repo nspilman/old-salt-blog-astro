@@ -12,12 +12,12 @@ tags:
   - "Oceangate Expeditions"
   - "Titanic"
   - "Virgin Galactic SpaceShipTwo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/wrecktitanic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/wrecktitanic.jpg"
 author: "Rick Spilman"
 description: "Would you rather take a voyage to the wreck of the Titanic or to the edge of space? A ticket for either happens to start at around $250,000, which makes the likelihood of experiencing either well out of reach for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/wrecktitanic.jpg)Would you rather take a voyage to the wreck of the [*Titanic*](https://en.wikipedia.org/wiki/Titanic) or to the edge of space? A ticket for either happens to start at around $250,000, which makes the likelihood of experiencing either well out of reach for most of us mere mortals.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/wrecktitanic.jpg)Would you rather take a voyage to the wreck of the [*Titanic*](https://en.wikipedia.org/wiki/Titanic) or to the edge of space? A ticket for either happens to start at around $250,000, which makes the likelihood of experiencing either well out of reach for most of us mere mortals.
 
 [Oceangate Expeditions](https://oceangateexpeditions.com/) has announced its second annual trip to the *Titanic’*s final resting place. It will carry passengers, dubbed, ‘mission specialists,’ along with researchers, 12,500 ft beneath the North Atlantic Ocean to survey the vessel up close from inside the company’s submersible Titan.
 

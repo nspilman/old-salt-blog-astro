@@ -12,12 +12,12 @@ tags:
   - "Saildrone Explorer"
   - "Saildrone Surveyor"
   - "uncrewed surface vehicle"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/saildrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/saildrone.jpg"
 author: "Rick Spilman"
 description: "Saildrone‘s new 72’ long Surveyor is described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor. The Saildrone Surveyor is a step up from the 22′ long Saildrone Explorer, yet both combine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/saildrone.jpg)[Saildrone](https://www.saildrone.com/technology/vehicles)‘s new 72’ long [*Surveyo*r](https://www.saildrone.com/news/saildrone-launches-72-foot-surveyor-ocean-mapping) is described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/saildrone.jpg)[Saildrone](https://www.saildrone.com/technology/vehicles)‘s new 72’ long [*Surveyo*r](https://www.saildrone.com/news/saildrone-launches-72-foot-surveyor-ocean-mapping) is described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor.
 
 The Saildrone *Surveyor* is a step up from the [22′ long Saildrone *Explorer*](https://www.saildrone.com/news/saildrone-launches-72-foot-surveyor-ocean-mapping), yet both combine wind and solar power to perform autonomous long-range data collection in the harshest of ocean environments. The Saildrone wing technology enables a mission duration of up to 12 months, without the need to return to land for maintenance or refueling. The 22′ Saildrone Explorer travels at an average speed of two to three knots and can reach top speeds above eight knots; the 72′ Saildrone Surveyor travels at ten knots.
 

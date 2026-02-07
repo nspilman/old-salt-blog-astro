@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/grford1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/grford1.jpg"
 author: "Rick Spilman"
 description: "Back in January, Richard V. Spencer, Secretary of the Navy, made a promise to President Trump that the advanced weapons elevators on the new carrier USS Gerald R. Ford would be operational by the end of the summer or the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/grford1.jpg)Back in January, Richard V. Spencer, Secretary of the Navy, [made a promise to President Trump](https://www.forbes.com/sites/craighooper/2019/10/16/the-navys-accountability-crisis-over-a-bet-ensnares-its-top-leader/#75a51d141098) that the advanced weapons elevators on the new carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) would be operational by the end of the summer or the president should fire him. The new carrier, costing $13 billion dollars, the most expensive warship ever built, cannot operate in combat without the electromagnetically powered elevators that carry munitions from the ship’s magazine to the hangar.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/grford1.jpg)Back in January, Richard V. Spencer, Secretary of the Navy, [made a promise to President Trump](https://www.forbes.com/sites/craighooper/2019/10/16/the-navys-accountability-crisis-over-a-bet-ensnares-its-top-leader/#75a51d141098) that the advanced weapons elevators on the new carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) would be operational by the end of the summer or the president should fire him. The new carrier, costing $13 billion dollars, the most expensive warship ever built, cannot operate in combat without the electromagnetically powered elevators that carry munitions from the ship’s magazine to the hangar.
 
 Without functional elevators, Rep. Elaine Luria (D-Va.), a Navy veteran, recently described the new carrier as a “[$13-billion nuclear-powered floating berthing barge](https://news.usni.org/2019/10/22/carrier-ford-may-not-deploy-until-2024-3rd-weapons-elevator-certified).”
 

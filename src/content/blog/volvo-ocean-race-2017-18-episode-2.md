@@ -9,7 +9,7 @@ tags:
   - "Alicante"
   - "Spain"
   - "Volvo Ocean Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/volvoep2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/volvoep2.jpg"
 author: "Rick Spilman"
 description: "Volvo Ocean Race 2017-18: Episode 2 The Volvo Ocean Race, now in its 13th edition, is back. From the start on October 22 in Alicante, Spain, seven teams are racing around the world, and will be stopping in 12 cities before … Continue reading &rarr;"
 ---

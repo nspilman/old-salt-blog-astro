@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An historic poster that originally sold for just a tuppence to celebrate Lord Nelson’s victory over the French and Spanish fleets at the Battle of Trafalgar went on the auction block this week. It was expected to fetch £40,000 but bids failed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/nelsonvictory-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/nelsonvictory-1.jpg)
 
 An historic poster that originally sold for just a tuppence to celebrate Lord Nelson’s victory over the French and Spanish fleets at the Battle of Trafalgar went on the auction block this week. It was expected to fetch £40,000 but bids failed to meet the reserve price.
 

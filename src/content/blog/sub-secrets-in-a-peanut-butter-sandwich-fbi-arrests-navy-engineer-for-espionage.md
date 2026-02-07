@@ -15,12 +15,12 @@ tags:
   - "navy"
   - "Navy nuclear engineer"
   - "Virginia-class submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/virginiaclasssub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/virginiaclasssub.jpg"
 author: "Rick Spilman"
 description: "Half of a peanut butter sandwich in a plastic bag was left at an agreed location in West Virginia by a Navy nuclear engineer. Inside the sandwich, wrapped in plastic, was a 16 GB memory card containing detailed secret information … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/virginiaclasssub.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/virginiaclasssub.jpg)
 
 Virginia Class Submarine
 

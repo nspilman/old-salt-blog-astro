@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "the concerns about radiation from Fukushima are serious and real, but the fear mongering does no one any good."
 ---
 
-![No, this is not radiation from Fukushima](http://www.oldsaltblog.com/wp-content/uploads/2014/08/300-tons-radioactive-water-japan.jpg)
+![No, this is not radiation from Fukushima](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/300-tons-radioactive-water-japan.jpg)
 
 No, this is not radiation from Fukushima
 

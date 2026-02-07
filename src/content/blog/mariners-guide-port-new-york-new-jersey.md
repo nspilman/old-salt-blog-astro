@@ -12,7 +12,7 @@ tags:
   - "mariners"
   - "New Jersey"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/portnynj.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/portnynj.jpg"
 author: "Rick Spilman"
 description: "New York Harbor is the busiest port on the east coast of the United States. Here is a fascinating video about the challenges and dangers of the being on the water where cargo ships, tugs and barges, ferries, sailboats, power … Continue reading &rarr;"
 ---

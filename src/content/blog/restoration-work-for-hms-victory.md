@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Earlier this month we posted about a report which features dire warnings about the condition of HMS Victory.     Thanks to David Hayes for passing along  an update on the restoration work planned for the old ship. Restoration work for HMS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/victory1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/victory1.jpg)
 
 HMS Victory
 

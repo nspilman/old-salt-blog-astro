@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Bayshore Discovery Project, the good folks who keep the historic schooner A.J. Meerwald sailing, are having their yearly Oyster Fest! this Friday, November 12th  at the Centerton Country Club in Pittsgrove, NJ.  Today, Monday November 8th, is the last day to reserve tickets. From … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/171.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/171.jpg)
 
 Photo of the Meerwald at Sunset by Gail South will be among the auction offerings.
 

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Armed guards, reported to be Italian naval personnel, on the tanker, Enrica Lexie, fired on and killed two Tamil Nadu fishermen off Kochi on Wednesday, believing the fishermen to be pirates.  Indian authorities said the Italian guards fired without warning in violation … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/ENRICA_LEXIE.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/ENRICA_LEXIE.jpg)
 
 Enrica Lexie
 

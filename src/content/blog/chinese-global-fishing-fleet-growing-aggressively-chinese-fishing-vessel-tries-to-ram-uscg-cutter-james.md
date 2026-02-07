@@ -9,12 +9,12 @@ categories:
 tags:
   - "Chinese global fishing fleet"
   - "Galapagos Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/james-chinese-squid.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/james-chinese-squid.jpg"
 author: "Rick Spilman"
 description: "Having overfished its own coastal waters, China is aggressively deploying a global fishing fleet to exploit fishing grounds thousands of miles from its shores. The New York Times reports that over the last two decades, China has built the world’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/james-chinese-squid.jpg)Having overfished its own coastal waters, China is aggressively deploying a global fishing fleet to exploit fishing grounds thousands of miles from its shores. The [New York Times](https://www.nytimes.com/interactive/2022/09/26/world/asia/china-fishing-south-america.html) reports that over the last two decades, China has built the world’s largest deep-water fishing fleet, by far, with nearly 3,000 ships. The impact is increasingly being felt from the Indian Ocean to the South Pacific, from the coasts of Africa to those off South America — a manifestation on the high seas of China’s global economic might.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/james-chinese-squid.jpg)Having overfished its own coastal waters, China is aggressively deploying a global fishing fleet to exploit fishing grounds thousands of miles from its shores. The [New York Times](https://www.nytimes.com/interactive/2022/09/26/world/asia/china-fishing-south-america.html) reports that over the last two decades, China has built the world’s largest deep-water fishing fleet, by far, with nearly 3,000 ships. The impact is increasingly being felt from the Indian Ocean to the South Pacific, from the coasts of Africa to those off South America — a manifestation on the high seas of China’s global economic might.
 
 In July 2020, [we posted that Ecuador raised an alarm](https://www.oldsaltblog.com/2020/07/ecuadorian-navy-raises-alarm-over-fleet-of-chinese-fishing-vessels-near-galapagos/) after a naval patrol sighted a fleet of around 260 Chinese fishing vessels just outside the Galápagos protection zone. Naval patrols have been stepped up to monitor the Chinese ships. Chinese fishing vessels come regularly to the Pacific around the Galápagos, but in recent years fleets have been the largest on record.
 

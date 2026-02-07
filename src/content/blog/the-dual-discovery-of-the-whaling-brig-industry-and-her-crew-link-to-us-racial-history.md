@@ -20,12 +20,12 @@ tags:
   - "Westport"
   - "whaling brig"
   - "whaling ship Elizabeth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/tryworks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/tryworks.jpg"
 author: "Rick Spilman"
 description: "The shipwreck in 6,000 feet of water in the Gulf of Mexico, 70 miles from the mouth of the Mississippi River, had first been spotted in 2011, by a geological data company scanning an oil lease area. The wreck was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/tryworks.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/tryworks.jpg)
 
 Tryworks from whaling brig Industry
 

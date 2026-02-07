@@ -15,12 +15,12 @@ tags:
   - "Orca"
   - "Salish Sea"
   - "Tokitae"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/lolitaorca.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/lolitaorca.jpg"
 author: "Rick Spilman"
 description: "News of two captive orcas. In Canada, Kiska, an orca often referred to as \"the loneliest whale in the world\" has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/lolitaorca.jpg)News of two captive orcas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/lolitaorca.jpg)News of two captive orcas.
 
 In Canada, Kiska, an orca often referred to as “[the loneliest whale in the world](https://www.npr.org/2023/03/11/1162863883/kiska-the-loneliest-whale-in-the-world-dies-at-canada-amusement-park)” has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska was the last captive killer whale in Canada and was captured in Icelandic waters in 1979 alongside [Keiko](https://en.wikipedia.org/wiki/Keiko_\(orca\)), the star of the movie, Free Willy, 
 

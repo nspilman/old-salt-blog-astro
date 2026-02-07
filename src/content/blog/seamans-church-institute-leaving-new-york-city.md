@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "After 176 years the Seaman’s Church Institute is leaving New York.    The organization announced that they will be putting its building at 241 Water Street, near South Street Seaport, up for sale next week.  The ministry will shift all … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/09/seachurch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/seachurch.jpg)
 
 Seaman's Church Institute Floating Chapel, New York 1844
 

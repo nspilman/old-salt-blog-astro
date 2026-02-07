@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Is it safe to go into the water? Officials with the Florida Department of Health are warning that vibro vulnificus, a flesh eating bacteria, poses a threat to those who eat uncooked seafood or go into the state ocean water with cuts or … Continue reading &rarr;"
 ---
 
-![Vibrio vulnificus (CDC/James Gathany)](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Florida-health-officials-warn-of-flesh-eating-bacteria.jpg)
+![Vibrio vulnificus (CDC/James Gathany)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Florida-health-officials-warn-of-flesh-eating-bacteria.jpg)
 
 Vibrio vulnificus (CDC/James Gathany)
 

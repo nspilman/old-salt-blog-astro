@@ -13,12 +13,12 @@ tags:
   - "Japan"
   - "liquefied hydrogen carrier"
   - "Suiso Frontier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/lh2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/lh2.jpg"
 author: "Rick Spilman"
 description: "Reuters is reporting that Suiso Frontier, the world’s first liquefied hydrogen carrier could leave Japan for Australia to pick up its first cargo of hydrogen late this month. The ship will carry 1,250 m3 of liquefied hydrogen cooled to –253°C, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/lh2.jpg)[Reuters](https://www.reuters.com/business/energy/kawasaki-heavy-says-liquefied-hydrogen-carrier-may-leave-japan-this-month-2021-12-03/) is reporting that *Suiso Frontier*, the world’s first liquefied hydrogen carrier could leave Japan for Australia to pick up its first cargo of hydrogen late this month. The ship will carry 1,250 m3 of liquefied hydrogen cooled to –253°C, at 1/800 of its original gas volume from Australia to Japan. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/lh2.jpg)[Reuters](https://www.reuters.com/business/energy/kawasaki-heavy-says-liquefied-hydrogen-carrier-may-leave-japan-this-month-2021-12-03/) is reporting that *Suiso Frontier*, the world’s first liquefied hydrogen carrier could leave Japan for Australia to pick up its first cargo of hydrogen late this month. The ship will carry 1,250 m3 of liquefied hydrogen cooled to –253°C, at 1/800 of its original gas volume from Australia to Japan. 
 
 The A$500 million ($353 million) pilot project, led by Kawasaki and backed by the Japanese and Australian governments, was originally scheduled to ship its first cargo of hydrogen extracted from brown coal in Australia in spring. It was delayed to the second half of Kawasaki’s financial year in October to March due to the COVID-19 pandemic.
 

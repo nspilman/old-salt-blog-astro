@@ -14,12 +14,12 @@ tags:
   - "Gulf Copper Shipyard"
   - "world war I"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/battleshiptexas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/battleshiptexas.jpg"
 author: "Rick Spilman"
 description: "The 110-year-old Battleship Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II. Over the last decade or so, the historic ship has been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/battleshiptexas.jpg)The 110-year-old [Battleship *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)) is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II. Over the last decade or so, the historic ship has been at the center of a pitched battle just to stay afloat at her berth in the [San Jacinto Battleground State Historic Site](https://www.thc.texas.gov/historic-sites/san-jacinto-battleground-state-historic-site) in La Porte, TX. As the saying goes, rust never sleeps.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/battleshiptexas.jpg)The 110-year-old [Battleship *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)) is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II. Over the last decade or so, the historic ship has been at the center of a pitched battle just to stay afloat at her berth in the [San Jacinto Battleground State Historic Site](https://www.thc.texas.gov/historic-sites/san-jacinto-battleground-state-historic-site) in La Porte, TX. As the saying goes, rust never sleeps.
 
 Soon, the venerable old ship will be moving to Gulf Copper Shipyard in Galveston for long overdue repairs. If all goes well, weather permitting, the ship will be towed to the shipyard on August 31.
 

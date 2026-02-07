@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Strange but true.  Digital memory cards are indeed an amazing technology. Couple’s precious holiday snaps recovered intact from the bottom of the Atlantic… 16 months after digital camera was dropped overboard from QM2 When Dennis and Barbara Gregory accidentally dropped … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/cameramemcard.jpg)Strange but true.  Digital memory cards are indeed an amazing technology.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/cameramemcard.jpg)Strange but true.  Digital memory cards are indeed an amazing technology.
 
 [Couple’s precious holiday snaps recovered intact from the bottom of the Atlantic… 16 months after digital camera was dropped overboard from QM2](http://www.dailymail.co.uk/news/worldnews/article-1250270/Couples-holiday-pictures-recovered-fishing-net-16-months-camera-dropped-cruise-ship.html)
 

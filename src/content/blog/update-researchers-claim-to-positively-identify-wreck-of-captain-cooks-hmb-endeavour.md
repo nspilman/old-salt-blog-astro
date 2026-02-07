@@ -15,12 +15,12 @@ tags:
   - "Narragansett Bay"
   - "Newport"
   - "Rhode Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/endeavourreplica.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/endeavourreplica.jpg"
 author: "Rick Spilman"
 description: "For more than a decade, we have followed the work of researchers from Rhode Island and  Australia in their efforts to locate the wreck of  Captain James Cook’s famous barque, HMB Endeavour, that sailed from 1768-1771 on a voyage of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/endeavourreplica.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/endeavourreplica.jpg)
 
 Endeavour replica image: ANMM
 

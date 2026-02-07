@@ -13,12 +13,12 @@ tags:
   - "NYK Line"
   - "Orca AI"
   - "Tokyo Bay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/orcaai.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/orcaai.jpg"
 author: "Rick Spilman"
 description: "In January, we posted about the successful test demonstration of the world’s first fully autonomous ship navigation systems on a large car ferry on a 240-km route from Shinmoji (Northern Kyushu) to Iyonada, Japan. Now, ​​Nippon Yusen Kabushiki Kaisha (NYK Line), … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/orcaai.jpg)In January, we [posted about the successful test demonstration](https://www.oldsaltblog.com/2022/01/nippon-foundations-meguri-2040-project-demonstrates-autonomous-car-ferry/) of the world’s first fully autonomous ship navigation systems on a large car ferry on a 240-km route from Shinmoji (Northern Kyushu) to Iyonada, Japan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/orcaai.jpg)In January, we [posted about the successful test demonstration](https://www.oldsaltblog.com/2022/01/nippon-foundations-meguri-2040-project-demonstrates-autonomous-car-ferry/) of the world’s first fully autonomous ship navigation systems on a large car ferry on a 240-km route from Shinmoji (Northern Kyushu) to Iyonada, Japan.
 
 Now, [​​Nippon Yusen Kabushiki Kaisha](https://www.nyk.com/english/profile/) (NYK Line), partnering with Israeli based software platform designers, [Orca AI](https://www.orca-ai.io/), has demonstrated an autonomous 750 gross-ton commercial cargo ship, *Suzaka*, on a 40 hour, 500-mile voyage in the congested waters of Tokyo Bay, traveling without human intervention for 99% of the trip.   
 

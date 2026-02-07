@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The norovirus has hit the Celebrity Mercury with a vengeance.    The Mercury returned to its home port of Charleston today, a day early, and the next cruise will be delayed by two days for an extensive top-to-bottom cleaning and sanitizing of the ship.  This … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Celebrity-Mercury.jpg)The [norovirus](http://www.cdc.gov/nceh/vsp/pub/norovirus/Norovirus.htm) has hit the *Celebrity Mercury* with a vengeance.    The *Mercury* returned to its home port of Charleston today, a day early, and the next cruise will be delayed by two days for an extensive top-to-bottom cleaning and sanitizing of the ship.  This will be the third time in three cruises that the ship has been taken out of service for cleaning.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Celebrity-Mercury.jpg)The [norovirus](http://www.cdc.gov/nceh/vsp/pub/norovirus/Norovirus.htm) has hit the *Celebrity Mercury* with a vengeance.    The *Mercury* returned to its home port of Charleston today, a day early, and the next cruise will be delayed by two days for an extensive top-to-bottom cleaning and sanitizing of the ship.  This will be the third time in three cruises that the ship has been taken out of service for cleaning.
 
 [More than 20% of passengers on Celebrity cruise ship are sick](http://www.usatoday.com/travel/cruises/item.aspx?type=blog&ak=83955.blog)  
   

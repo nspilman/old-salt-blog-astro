@@ -12,7 +12,7 @@ tags:
   - "Mystic Seaport Museum"
   - "Sabino"
   - "steamer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/sabinorestored1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/sabinorestored1.jpg"
 author: "Rick Spilman"
 description: "In January 2016, we posted about how during a major restoration of the 1908 coal-fired steamer Sabino at the Mystic Seaport Museum, it was determined that the boiler was beyond repair and would need to be replaced. Now with new decking … Continue reading &rarr;"
 ---

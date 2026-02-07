@@ -12,12 +12,12 @@ tags:
   - "LCS"
   - "Littoral Combat Ship"
   - "Senate Armed Services Committee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/lcs2.jpg"
 author: "Rick Spilman"
 description: "\"The experience of LCS, it broke the Navy,\" said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition. The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they … Continue reading &rarr;"
 ---
 
-![lcs2](http://www.oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg)“The experience of LCS, it broke the Navy,” said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition.
+![lcs2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/lcs2.jpg)“The experience of LCS, it broke the Navy,” said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition.
 
 The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they have delivered none of these. Last Thursday, a [panel of Navy and government oversight officials told the Senate Armed Services Committee](http://www.military.com/daily-news/2016/12/02/acquisition-chief-lcs-program-broke-navy.html) about billions in cost overruns, delayed deliveries, repeated breakdowns, reduced mission capabilities and the questionable survivability of the new LCS.
 

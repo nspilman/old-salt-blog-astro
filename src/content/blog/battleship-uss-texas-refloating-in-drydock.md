@@ -11,7 +11,7 @@ tags:
   - "Battleship USS Texas"
   - "galveston"
   - "Gulf Copper Shipyard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/battleshiptexasrefloat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/battleshiptexasrefloat.jpg"
 author: "Rick Spilman"
 description: "A drone video of the 110-year-old battleship USS Texas being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston.  The Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to … Continue reading &rarr;"
 ---

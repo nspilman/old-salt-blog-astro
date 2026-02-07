@@ -12,7 +12,7 @@ tags:
   - "Mayflower II"
   - "mystic seaport"
   - "Thanksgiving"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/mayflowerhaul.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/mayflowerhaul.jpg"
 author: "Rick Spilman"
 description: "Mayflower II is undergoing an extensive renovation and rebuild. She was hauled last Friday at the Henry B. duPont Preservation Shipyard at Mystic Seaport."
 ---

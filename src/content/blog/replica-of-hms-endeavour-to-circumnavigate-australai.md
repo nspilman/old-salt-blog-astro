@@ -12,12 +12,12 @@ tags:
   - "Australia"
   - "Captain James Cook"
   - "HMS Endeavour"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/Captain_Cooks_Boat__Endeavour__-_geograph.org_.uk_-_103834.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Captain_Cooks_Boat__Endeavour__-_geograph.org_.uk_-_103834.jpg"
 author: "Rick Spilman"
 description: "To celebrate the 250th anniversary of Captain Cook’s voyage to Australia, HMS Endeavour, a replica of Cook’s ship, will circumnavigate the continent. Prime minister Scott Morrison has announced the Australian government will be providing 6.7 million Australian dollars (£3.72 million) … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Captain_Cooks_Boat__Endeavour__-_geograph.org_.uk_-_103834.jpg)To celebrate the 250th anniversary of Captain Cook’s voyage to Australia, [HMS *Endeavour*](https://en.wikipedia.org/wiki/HM_Bark_Endeavour_Replica), a replica of Cook’s ship, will circumnavigate the continent. Prime minister Scott Morrison has announced the Australian government will be providing 6.7 million Australian dollars (£3.72 million) to the Australian National Maritime Museum for the voyage, which is due to embark from Sydney in March 2020 and end in May the following year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Captain_Cooks_Boat__Endeavour__-_geograph.org_.uk_-_103834.jpg)To celebrate the 250th anniversary of Captain Cook’s voyage to Australia, [HMS *Endeavour*](https://en.wikipedia.org/wiki/HM_Bark_Endeavour_Replica), a replica of Cook’s ship, will circumnavigate the continent. Prime minister Scott Morrison has announced the Australian government will be providing 6.7 million Australian dollars (£3.72 million) to the Australian National Maritime Museum for the voyage, which is due to embark from Sydney in March 2020 and end in May the following year.
 
 The [Evening Express](https://www.eveningexpress.co.uk/news/uk/replica-of-hms-endeavour-to-sail-around-australia-on-250th-anniversary-of-voyage/) quotes Mr. Morrison saying the famed explorer’s expedition “is the reason Australia is what it is today and it’s important we take the opportunity to reflect on it”.
 

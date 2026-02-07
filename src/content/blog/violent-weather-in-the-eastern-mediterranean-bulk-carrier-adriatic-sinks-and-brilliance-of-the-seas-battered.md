@@ -23,7 +23,7 @@ author: "Rick Spilman"
 description: "Heavy rains, strong winds and high seas hit the eastern Mediterranean over the weekend with winds of 100 kilometres per hour and waves reaching heights of 10 metres,  sinking the Moldavian bulk carrier, Adriatic, off the coast of Israel and  battering the RCCL cruise ship, Brilliance of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/rcibrill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/rcibrill.jpg)
 
 Brilliance of the Seas
 
@@ -57,25 +57,25 @@ Photos: Alesha Cirillo.  Click on the thumbnails for a lager image.
 
 *
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas5-cannon-94x125.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas5-cannon.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas5-cannon-94x125.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas5-cannon.jpg)
 
 *
 
 *
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas3-cannon-125x83.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas3-cannon.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas3-cannon-125x83.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas3-cannon.jpg)
 
 *
 
 *  
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas2-cannon-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas2-cannon.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas2-cannon-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas2-cannon.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas1-cannon-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/pb-101212-brillseas1-cannon.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas1-cannon-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pb-101212-brillseas1-cannon.jpg)
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/rcibrill-125x79.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/rcibrill.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/rcibrill-125x79.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/rcibrill.jpg)
 
 Brilliance of the Seas
 

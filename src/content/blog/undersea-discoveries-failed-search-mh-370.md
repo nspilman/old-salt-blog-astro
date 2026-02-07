@@ -11,12 +11,12 @@ tags:
   - "Indian Ocean"
   - "Malaysian Air"
   - "MH370"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/mh370map.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/mh370map.jpg"
 author: "Rick Spilman"
 description: "The disappearance of Malaysian Air flight MH370, which vanished in March 2014 en route to Beijing from Kuala Lumpur with 239 people on board, remains one of the worlds greatest aviation mysteries. After surveying over 120,000 square kilometers of Indian … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/mh370map-200x169.jpg)The disappearance of Malaysian Air flight MH370, which vanished in March 2014 en route to Beijing from Kuala Lumpur with 239 people on board, remains one of the worlds greatest aviation mysteries. After surveying over 120,000 square kilometers of Indian Ocean and reportedly spending $160 million, the [search for the missing plane was finally called off](http://www.independent.co.uk/news/world/australasia/mh370-hunt-for-missing-malaysia-airlines-flight-plane-abandoned-called-off-two-years-a7530641.html) last January.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/mh370map-200x169.jpg)The disappearance of Malaysian Air flight MH370, which vanished in March 2014 en route to Beijing from Kuala Lumpur with 239 people on board, remains one of the worlds greatest aviation mysteries. After surveying over 120,000 square kilometers of Indian Ocean and reportedly spending $160 million, the [search for the missing plane was finally called off](http://www.independent.co.uk/news/world/australasia/mh370-hunt-for-missing-malaysia-airlines-flight-plane-abandoned-called-off-two-years-a7530641.html) last January.
 
 Even though the plane was not found, the [information gathered during the massive search](https://www.theguardian.com/world/2017/jul/19/mh370-search-maps-remote-depths-indian-ocean), however, may provide fishermen, oceanographers and geologists with insight into the region in unprecedented detail, said Charitha Pattiaratchi, professor of coastal oceanography at the University of Western Australia.
 

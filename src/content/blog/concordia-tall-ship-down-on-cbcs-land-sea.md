@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The CBC’s program \"Land and Sea\" broadcast their documentary \"Concordia: Tall Ship Down\" today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Concordia3-1.jpg)The CBC’s program “[Land and Sea](http://www.cbc.ca/landandsea/)” broadcast their documentary “[Concordia: Tall Ship Down](http://www.cbc.ca/landandsea/2010/11/concordia.html)” today, focusing on the knockdown and sinking of the *[SV Concordia](http://www.oldsaltblog.com/index.php?s=concordia)*.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about the sinking, but is a fascinating account by those onboard when the ship was hit by what many believe was a microburst.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Concordia3-1.jpg)The CBC’s program “[Land and Sea](http://www.cbc.ca/landandsea/)” broadcast their documentary “[Concordia: Tall Ship Down](http://www.cbc.ca/landandsea/2010/11/concordia.html)” today, focusing on the knockdown and sinking of the *[SV Concordia](http://www.oldsaltblog.com/index.php?s=concordia)*.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about the sinking, but is a fascinating account by those onboard when the ship was hit by what many believe was a microburst.
 
 [Concordia: Tall Ship Down](http://www.cbc.ca/landandsea/2010/11/concordia.html)  
   

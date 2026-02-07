@@ -17,12 +17,12 @@ tags:
   - "Maher Terminals"
   - "New Jersey"
   - "Port of New York and New Jersey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/bigliftbaffin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/bigliftbaffin.jpg"
 author: "Rick Spilman"
 description: "Three megamax container cranes have arrived in the Port of New York and New Jersey on the Netherlands-flagged heavy-lift ship BigLift Baffin. They will be offloaded and installed at the Maher Terminals in Elizabeth, New Jersey.  The new cranes, built … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/bigliftbaffin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/bigliftbaffin.jpg)
 
 BigLift Baffin sailing from Cobh, Ireland
 

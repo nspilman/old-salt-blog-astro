@@ -12,12 +12,12 @@ tags:
   - "Lord Nelson"
   - "tall ship"
   - "Tenacious"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/stslordnelson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/stslordnelson.jpg"
 author: "Rick Spilman"
 description: "The tall ship Lord Nelson is being offered for sale at an online auction by the global advisory and investment firm Gordon Brothers, acting on behalf of Richard Lewis and Sarah O’Toole, the joint administrators of Jubilee Sailing Trust Limited. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/stslordnelson.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/stslordnelson.jpg)
 
 STS Lord Nelson
 

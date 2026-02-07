@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Joan Druett, award winning maritime historian and novelist, recently reviewed Hell Around the Horn for Historic Naval Fiction. Those Gallant Seamen Get their Story Told at Last Ringing with authenticity, this nail-biter is a tale of battling wind and weather to … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/BookCoverconradgthumb2001.jpg)](http://www.amazon.com/gp/product/B0091614MM/)[Joan Druett,](http://www.joan.druett.gen.nz/) [award winning](http://www.oldsaltblog.com/2012/08/joan-druetts-tupaia-wins-2012-new-zealand-post-book-award/) maritime historian and novelist, recently reviewed *[Hell Around the Horn](http://www.amazon.com/gp/product/B0091614MM/)* for [Historic Naval Fiction](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/list/3008-joan-druett-review-hell-around-the-horn-by-rick-spilman).
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg)](http://www.amazon.com/gp/product/B0091614MM/)[Joan Druett,](http://www.joan.druett.gen.nz/) [award winning](http://www.oldsaltblog.com/2012/08/joan-druetts-tupaia-wins-2012-new-zealand-post-book-award/) maritime historian and novelist, recently reviewed *[Hell Around the Horn](http://www.amazon.com/gp/product/B0091614MM/)* for [Historic Naval Fiction](http://www.historicnavalfiction.com/general-hnf-info/book-reviews/list/3008-joan-druett-review-hell-around-the-horn-by-rick-spilman).
 
 ***Those Gallant Seamen Get their Story Told at Last***
 

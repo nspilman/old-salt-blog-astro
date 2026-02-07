@@ -12,12 +12,12 @@ tags:
   - "NOAA Monitor National Marine Sanctuary"
   - "North Carolina"
   - "USS Monitor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/monitorstorm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/monitorstorm.jpg"
 author: "Rick Spilman"
 description: "On New Year’s Eve, 1862, USS Monitor was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis \"Frank\" Butts, of Providence, R.I., the Monitor‘s helmsman, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/monitorstorm.jpg)On New Year’s Eve, 1862, [USS *Monitor*](https://en.wikipedia.org/wiki/USS_Monitor) was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis “Frank” Butts, of Providence, R.I., the *Monitor*‘s helmsman, was bailing water from the ship’s turret which housed two 11″ smoothbore Dahlgren guns.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/monitorstorm.jpg)On New Year’s Eve, 1862, [USS *Monitor*](https://en.wikipedia.org/wiki/USS_Monitor) was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis “Frank” Butts, of Providence, R.I., the *Monitor*‘s helmsman, was bailing water from the ship’s turret which housed two 11″ smoothbore Dahlgren guns.
 
 USS *Monitor* was an iron-hulled steam-powered warship whose battle with the Confederate ironclad CSS *Virginia, ex-Merrimack*, had made wooden battleships obsolete in a single afternoon. While the *Monitor* survived its battle with CSS *Virginia*, it was losing its battle with the Atlantic winter storm.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The best way to combat plastic pollution in the oceans is to stop the plastic before it gets there. We have been posting about the ever-growing garbage patches in the world’s oceans for the better part of a decade. The posts are beginning … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/222380-677x450-Plastic-bag-floating-in-the-ocean.jpg)The best way to combat plastic pollution in the oceans is to stop the plastic before it gets there.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/222380-677x450-Plastic-bag-floating-in-the-ocean.jpg)The best way to combat plastic pollution in the oceans is to stop the plastic before it gets there.
 
 We have been posting about the ever-growing garbage patches in the world’s oceans for the better part of a decade. The posts are beginning to have a certain sameness. Things are getting worse. The garbage patches trapped in the ocean gyres are getting growing larger. Six years ago, the Eastern Pacific Garbage Patch was a [wide as the Continental United States](http://www.oldsaltblog.com/2012/04/the-eastern-pacific-garbage-patch-how-big-really/). Whales are dying from [ingesting plastic](http://www.oldsaltblog.com/2013/03/sign-of-the-times-sperm-whale-killed-by-plastic-garbage/).  Record levels of [microplastics are being found in Arctic ice](http://www.oldsaltblog.com/2018/04/record-quantities-of-microplastics-found-in-sea-ice/).  A popular dive spot near Bali is turned into a “[sea of trash](http://www.oldsaltblog.com/2018/06/sea-of-trash-at-near-bali-the-bad-the-slightly-less-bad-news/)” by plastic bags. And on and on and on.
 

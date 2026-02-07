@@ -14,12 +14,12 @@ tags:
   - "pinnace"
   - "Popham Colony"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/virginia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/virginia.jpg"
 author: "Rick Spilman"
 description: "A reconstruction of the pinnace Virginia is nearing completion after being under construction for over a decade in Bath, Maine. The original 51-foot pinnace, built in 1607 by the Popham Colony at its settlement at the mouth of the Kennebec … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/virginia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/virginia.jpg)
 
 Pinnace Virginia, Image: Maine’s First Ship
 

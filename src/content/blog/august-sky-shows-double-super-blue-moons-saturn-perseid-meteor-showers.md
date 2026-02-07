@@ -12,12 +12,12 @@ tags:
   - "Perseid meteor showers"
   - "Saturn"
   - "supermoon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/augustmoon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/augustmoon.jpg"
 author: "Rick Spilman"
 description: "Sailors have always watched the sky. This August, the sky is putting on quite a show. In case you missed it, last night was a supermoon. A supermoon occurs when the Moon is at the closest point to the Earth, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/augustmoon.jpg)Sailors have always watched the sky. This August, the sky is putting on quite a show.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/augustmoon.jpg)Sailors have always watched the sky. This August, the sky is putting on quite a show.
 
 In case you missed it, last night was a [supermoon](https://moon.nasa.gov/overlay-supermoon/#:~:text=The%20name%20%E2%80%9Csupermoon%E2%80%9D%20was%20coined,in%20its%20orbit%20around%20Earth.). A supermoon occurs when the Moon is at the closest point to the Earth, known as the lunar perigee. A full Moon during perigee will appear 14% larger and 30% brighter than when it is furthest away from Earth. If you did miss it, the moon will still be very bright, nearly 99% of the brightness of yesterday’s full moon
 

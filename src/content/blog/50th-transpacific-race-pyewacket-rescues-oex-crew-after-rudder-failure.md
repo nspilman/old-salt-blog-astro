@@ -13,12 +13,12 @@ tags:
   - "OEX"
   - "Pyewacket"
   - "Roy Disney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/OEXyacht.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/OEXyacht.jpg"
 author: "Rick Spilman"
 description: "At around 2AM on Monday, OEX, a Santa Cruz 70, owned by John Sangmeister, suffered a catastrophic rudder failure while sailing in the 50th Transpacific Yacht Race. Sangmeister reported that the lower rudder bearing had blown off and the rudder … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/OEXyacht.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/OEXyacht.jpg)
 
 OEX in better days
 

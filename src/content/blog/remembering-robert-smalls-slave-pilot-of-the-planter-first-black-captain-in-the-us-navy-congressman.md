@@ -11,12 +11,12 @@ tags:
   - "CSS Planter"
   - "Robert Smalls"
   - "South Carolina"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2012/05/robertsmalls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "Robert Smalls is an unsung American hero. If all goes well, he may soon get some of the recognition that he deserves. Last year, it was announced that Charles Burnett is directing a movie about Robert Smalls for Amazon Studios. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/robertsmalls.jpg)Robert Smalls is an unsung American hero. If all goes well, he may soon get some of the recognition that he deserves. Last year, it was announced that Charles Burnett is directing a movie about Robert Smalls for Amazon Studios. It is expected to be released later this year. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg)Robert Smalls is an unsung American hero. If all goes well, he may soon get some of the recognition that he deserves. Last year, it was announced that Charles Burnett is directing a movie about Robert Smalls for Amazon Studios. It is expected to be released later this year. 
 
 In the meantime, his is a story well worth retelling. An updated repost. The remarkable story of Robert Smalls.
 

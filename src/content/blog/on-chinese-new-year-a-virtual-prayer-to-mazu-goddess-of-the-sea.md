@@ -10,12 +10,12 @@ tags:
   - "Lin Mo-niang"
   - "Mazu"
   - "Taoist and Chinese Buddhist goddess of the sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/mazu.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/mazu.jpg"
 author: "Rick Spilman"
 description: "Today is Chinese New Year when we bid goodbye to the Year of the Rat and say hello to the Year of the Ox. While not directly related to the New Year, it also seems a good time to say … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/mazu.jpg)Today is [Chinese New Year](https://www.cnn.com/travel/article/lunar-new-year-2021-ox/index.html) when we bid goodbye to the Year of the Rat and say hello to the Year of the Ox. While not directly related to the New Year, it also seems a good time to say a prayer, at least figuratively or perhaps virtually, to the [Goddess Mazu](https://en.wikipedia.org/wiki/Mazu#:~:text=Mazu%20is%20a%20Chinese%20sea,dated%20from%20960%20to%20987.), the Taoist and Chinese Buddhist goddess of the sea and protector of sailors, fishermen, and travelers. Mazu is said to be worshipped in over 20 countries by more than 200 million people. Traditionally, one prays to Mazu for peace and safety, both worthwhile goals in this New Year. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/mazu.jpg)Today is [Chinese New Year](https://www.cnn.com/travel/article/lunar-new-year-2021-ox/index.html) when we bid goodbye to the Year of the Rat and say hello to the Year of the Ox. While not directly related to the New Year, it also seems a good time to say a prayer, at least figuratively or perhaps virtually, to the [Goddess Mazu](https://en.wikipedia.org/wiki/Mazu#:~:text=Mazu%20is%20a%20Chinese%20sea,dated%20from%20960%20to%20987.), the Taoist and Chinese Buddhist goddess of the sea and protector of sailors, fishermen, and travelers. Mazu is said to be worshipped in over 20 countries by more than 200 million people. Traditionally, one prays to Mazu for peace and safety, both worthwhile goals in this New Year. 
 
 In addition to peace and safety, believers also prayed to Mazu to eradicate a plague during the Qing dynasty. Ironically, a yearly celebration of the event, held at Cihyun Temple, known as “Gongpaocheng” (攻炮城), has [been canceled due to COVID-19.](https://focustaiwan.tw/culture/202101220014)
 

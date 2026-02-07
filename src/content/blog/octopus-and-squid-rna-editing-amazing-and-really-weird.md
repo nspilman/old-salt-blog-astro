@@ -12,12 +12,12 @@ tags:
   - "octopus"
   - "RNA editing"
   - "squid"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/octopus2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/octopus2.jpg"
 author: "Rick Spilman"
 description: "If a science fiction writer wanted to create a really bizarre alien space creature, using an octopus as a model would not be a bad place to start. After all, an octopus has three hearts, nine brains, and blue blood. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/octopus2.jpg)If a science fiction writer wanted to create a really bizarre alien space creature, using an octopus as a model would not be a bad place to start. After all, an [octopus has three hearts, nine brains, and blue blood](http://theterramarproject.org/dc-archive/an-octopus-has-3-hearts-9-brains-and-blue-blood/). The nervous system includes a central brain and large brain-like ganglion at the base of each arm which controls movement. The [majority of neurons in an octopus](https://www.scientificamerican.com/article/the-mind-of-an-octopus/) are found in the arms, which can independently taste and touch and also control basic motions without input from the brain. An octopus also has the highest brain-to-body mass ratios of any invertebrates; greater than that of many vertebrates, as well. Not surprisingly, octopuses are highly intelligent.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/octopus2.jpg)If a science fiction writer wanted to create a really bizarre alien space creature, using an octopus as a model would not be a bad place to start. After all, an [octopus has three hearts, nine brains, and blue blood](http://theterramarproject.org/dc-archive/an-octopus-has-3-hearts-9-brains-and-blue-blood/). The nervous system includes a central brain and large brain-like ganglion at the base of each arm which controls movement. The [majority of neurons in an octopus](https://www.scientificamerican.com/article/the-mind-of-an-octopus/) are found in the arms, which can independently taste and touch and also control basic motions without input from the brain. An octopus also has the highest brain-to-body mass ratios of any invertebrates; greater than that of many vertebrates, as well. Not surprisingly, octopuses are highly intelligent.
 
 But it gets weirder. Unlike most other living creatures, octopuses, along with some squid and cuttlefish species, [routinely edit their RNA](https://www.theatlantic.com/science/archive/2017/04/octopuses-do-something-really-strange-to-their-genes/522024/) (ribonucleic acid) sequences to adapt to their environment. That is RNA, not DNA. 
 

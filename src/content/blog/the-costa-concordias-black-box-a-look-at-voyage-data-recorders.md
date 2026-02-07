@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "What really happened on the Costa Concordia in the final hours leading up to and following her grounding and sinking off Giglio on January 13, 2012?  The first step in definitively answering that question began in early March when an Italian judge … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/vdr.jpg)What really happened on the *Costa Concordia* in the final hours leading up to and following her grounding and sinking off Giglio on January 13, 2012?  The first step in definitively answering that question began in early March when an Italian judge directed court appointed experts to examine the ship’s voyage data recorder, the so called “black box.”  The examination is expected to take 90 days, so the first results will be presented to the court sometime in early May.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/vdr.jpg)What really happened on the *Costa Concordia* in the final hours leading up to and following her grounding and sinking off Giglio on January 13, 2012?  The first step in definitively answering that question began in early March when an Italian judge directed court appointed experts to examine the ship’s voyage data recorder, the so called “black box.”  The examination is expected to take 90 days, so the first results will be presented to the court sometime in early May.
 
 But exactly what is the “black box” taken off the *Costa Concordia?*    
   

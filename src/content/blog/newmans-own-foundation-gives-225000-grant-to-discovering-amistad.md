@@ -12,12 +12,12 @@ tags:
   - "Discovering Amistad"
   - "Newman's Own Foundation"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/Amistadname.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Amistadname.jpg"
 author: "Rick Spilman"
 description: "Newman’s Own Foundation has awarded a $225,000 sustainability grant to the non-profit Discovering Amistad, the group which operates the replica schooner Amistad.   Discovering Amistad operates the replica of the historic schooner Amistad,  a 129-foot 19th century Baltimore clipper which was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/Amistadname.jpg)[Newman’s Own Foundation](http://newmansownfoundation.org/) has awarded a $225,000 sustainability grant to the non-profit [Discovering Amistad](https://discoveringamistad.org/), the group which operates the replica schooner *Amistad*.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Amistadname.jpg)[Newman’s Own Foundation](http://newmansownfoundation.org/) has awarded a $225,000 sustainability grant to the non-profit [Discovering Amistad](https://discoveringamistad.org/), the group which operates the replica schooner *Amistad*.  
 
 Discovering *Amistad* operates the replica of the historic schooner *Amistad,*  a 129-foot 19th century Baltimore clipper which was the site of a July 1839 slave revolt by Mende captives, who had been enslaved in Sierra Leone, and were being transported from Havana, Cuba, to their purchasers’ plantations. The schooner sailed to Long Island and the Africans were jailed in New Haven, CT.  A series of court cases over whether the Africans should be freed or sent back to Cuban slaveholders ended in a Supreme Court case in 1841 in which the survivors were ultimately freed.
 

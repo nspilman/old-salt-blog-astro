@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last Friday, the Indian Navy picked up as distress call from the container ship MV Vancouver Bridge, which was under attack by pirates  in the Indian Ocean, about 600 nautical miles off the Indian coast.  When spotted by an Indian patrol … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/2010092158190201.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/2010092158190201.jpg)
 
 INS Kalpeni
 

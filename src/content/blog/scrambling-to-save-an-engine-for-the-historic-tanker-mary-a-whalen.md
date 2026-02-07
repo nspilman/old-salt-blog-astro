@@ -11,12 +11,12 @@ tags:
   - "Kennett"
   - "Mary A.Whalen"
   - "Missouri"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/mwengine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/mwengine.jpg"
 author: "Rick Spilman"
 description: "The historic tanker Mary A. Whalen is in dire need of parts to restore its diesel engine. A powerplant in Missouri has a compatible diesel. All that needs to be done is to raise the money to move the engine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/mwengine.jpg)The historic tanker [*Mary A. Whalen*](https://redhookwaterstories.org/items/show/1739) is in dire need of parts to restore its diesel engine. A [powerplant in Missouri](http://www.clgw.net/dept_powerplant.php) has a compatible diesel. All that needs to be done is to raise the money to move the engine cross-country before the power plant needs to dispose of the engine. Arrangements had been made and the plans were set to make the transfer, but then the pandemic hit. Things became more complicated and a lot more expensive. Now time is running out.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/mwengine.jpg)The historic tanker [*Mary A. Whalen*](https://redhookwaterstories.org/items/show/1739) is in dire need of parts to restore its diesel engine. A [powerplant in Missouri](http://www.clgw.net/dept_powerplant.php) has a compatible diesel. All that needs to be done is to raise the money to move the engine cross-country before the power plant needs to dispose of the engine. Arrangements had been made and the plans were set to make the transfer, but then the pandemic hit. Things became more complicated and a lot more expensive. Now time is running out.
 
 [*Mary A. Whalen*](https://portsidenewyork.org/mary-a-whalen-history) is a coastal/harbor tanker built in 1938 and is one of the last of her type. The ship had a long and storied career and is listed on the [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places "National Register of Historic Places"). The non-profit [PortSide NewYork](https://portsidenewyork.org/) saved the tanker from the scrapper’s torch in 2005. Based on the Brooklyn waterfront, the ship has been the home of Portside’s nautical and community programming ever since.
 

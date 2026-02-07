@@ -12,12 +12,12 @@ tags:
   - "oldest museum in Wales"
   - "Olga"
   - "Swansea Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/olgaswansea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/olgaswansea.jpg"
 author: "Rick Spilman"
 description: "Swansea Museum, the oldest museum in Wales, is seeking a new partner to sail the 1909 Bristol Channel Pilot Cutter Olga.  Their 5-year loan agreement with Sailing Tectona comes to an end this year, and the vessel will return to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/olgaswansea.jpg)[Swansea Museum](http://www.swanseamuseum.co.uk/), the oldest museum in Wales, is seeking a new partner to sail the 1909 Bristol Channel Pilot Cutter [*Olga*](https://www.nationalhistoricships.org.uk/register/615/olga).  Their 5-year loan agreement with [Sailing Tectona](https://www.nationalhistoricships.org.uk/shipshape/projects/sailing-tectona-cic-devon) comes to an end this year, and the vessel will return to Swansea in September.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/olgaswansea.jpg)[Swansea Museum](http://www.swanseamuseum.co.uk/), the oldest museum in Wales, is seeking a new partner to sail the 1909 Bristol Channel Pilot Cutter [*Olga*](https://www.nationalhistoricships.org.uk/register/615/olga).  Their 5-year loan agreement with [Sailing Tectona](https://www.nationalhistoricships.org.uk/shipshape/projects/sailing-tectona-cic-devon) comes to an end this year, and the vessel will return to Swansea in September.
 
 Sailing Tectona has decided to focus on the refit of their 1928 gaff ketch yacht, [*Tectona*](https://www.nationalhistoricships.org.uk/register/2839/tectona), and getting her sailing again as soon as possible.  In June 2023, the organization won £70,000 towards the community rebuild of *Tectona* from the [National Lottery’s People’s Projects fund](https://www.nationalhistoricships.org.uk/news/shipshape/sailing-tectona-win-ps70k-national-lottery-peoples-projects-fund), voted for by the public. 
 

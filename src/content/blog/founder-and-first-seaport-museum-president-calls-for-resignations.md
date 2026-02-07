@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Peter Stanford, a founder and first president of the South Street Seaport Museum has written a letter calling for the resignation of the museum’s current chairman, Frank J. Sciame,  and its president, Mary Pelzer.  The museum recently laid of most of its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/southstreet2.jpg)Peter Stanford, a founder and first president of the South Street Seaport Museum has written a letter calling for the resignation of the museum’s current chairman, Frank J. Sciame,  and its president, Mary Pelzer.  The museum recently laid of most of its staff and is in severe financial trouble. See out previous post – [New York’s Seaport Museum Struggles to Stay Afloat](http://www.oldsaltblog.com/2011/02/15/new-yorks-seaport-museum-struggles-to-stay-afloat/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/southstreet2.jpg)Peter Stanford, a founder and first president of the South Street Seaport Museum has written a letter calling for the resignation of the museum’s current chairman, Frank J. Sciame,  and its president, Mary Pelzer.  The museum recently laid of most of its staff and is in severe financial trouble. See out previous post – [New York’s Seaport Museum Struggles to Stay Afloat](http://www.oldsaltblog.com/2011/02/15/new-yorks-seaport-museum-struggles-to-stay-afloat/)
 
 From the [New York Times Art Beats Blog](http://artsbeat.blogs.nytimes.com/2011/02/24/founding-president-of-seaport-museum-calls-for-resignations/):
 

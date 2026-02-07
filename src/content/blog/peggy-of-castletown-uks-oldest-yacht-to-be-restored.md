@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Peggy, the oldest yacht in the UK and the oldest schooner in the world, is being restored."
 ---
 
-![Peggy of Castletown](http://www.oldsaltblog.com/wp-content/uploads/2015/01/peggyC.jpg)
+![Peggy of Castletown](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/peggyC.jpg)
 
 Peggy of Castletown
 

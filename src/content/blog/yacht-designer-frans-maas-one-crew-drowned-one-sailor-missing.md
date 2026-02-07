@@ -11,12 +11,12 @@ tags:
   - "keel"
   - "Ostend"
   - "yacht designer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/fransmaas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/fransmaas.jpg"
 author: "Rick Spilman"
 description: "On July 1, Dutch yacht designer Frans Maas and his friend and crew, Freddy Franssens died when the yacht, Capella, capsized after losing her keel during the Genisol Light Vessel Race off Ostend, Belgium. Crew member Hannes Goegebeur is still missing and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/fransmaas.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/fransmaas.jpg)
 
 Frans Mass Photo: C Yachts
 

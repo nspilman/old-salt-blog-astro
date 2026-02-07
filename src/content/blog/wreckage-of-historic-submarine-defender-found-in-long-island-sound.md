@@ -15,12 +15,12 @@ tags:
   - "Old Saybrook"
   - "Richard Simon"
   - "Simon Lake"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/defenderblocks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/defenderblocks.jpg"
 author: "Rick Spilman"
 description: "Connecticut divers have discovered the wreckage of an experimental submarine built in 1907 and later scuttled in Long Island Sound. The Defender was found Sunday by a team led by Richard Simon, a commercial diver from Coventry, Connecticut. The submarine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/defenderblocks.jpg)Connecticut divers have discovered the [wreckage of an experimental submarine](https://apnews.com/article/submarine-wreckage-divers-connecticut-long-island-sound-482c153fa328bf86ce12024c7fb6b05a?fbclid=IwAR3lKzO41VrKgjWNfSm3Dk7K_pB0w857x7XMIgA0IgKLMqnoCVQ-OMJzFdI) built in 1907 and later scuttled in Long Island Sound.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/defenderblocks.jpg)Connecticut divers have discovered the [wreckage of an experimental submarine](https://apnews.com/article/submarine-wreckage-divers-connecticut-long-island-sound-482c153fa328bf86ce12024c7fb6b05a?fbclid=IwAR3lKzO41VrKgjWNfSm3Dk7K_pB0w857x7XMIgA0IgKLMqnoCVQ-OMJzFdI) built in 1907 and later scuttled in Long Island Sound.
 
 The [*Defender*](https://www.navsource.org/archives/08/08452.htm) was found Sunday by a team led by Richard Simon, a commercial diver from Coventry, Connecticut. The submarine was discovered at a depth of over 150 feet (45 meters) off the coast of Old Saybrook, CT.
 

@@ -11,12 +11,12 @@ tags:
   - "Spanish-American War"
   - "US Navy"
   - "USS Maine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/USSMaine1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/USSMaine1.jpg"
 author: "Rick Spilman"
 description: "One hundred and twenty years ago today, on February 15, 1898, a mysterious explosion ripped through the hull of the American battleship USS Maine, at anchor in Havana harbor in Cuba. The ship sank killing 266 of the 350 men aboard. The loss … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/USSMaine1.jpg)One hundred and twenty years ago today, on February 15, 1898, a mysterious explosion ripped through the hull of the American battleship USS *Maine,* at anchor in Havana harbor in Cuba. The ship sank killing 266 of the 350 men aboard. The loss of the USS *Maine* heightened the tension between the United States and Spain. Cuba was a Spanish colony and the island was gripped in a rebellion against Spain. USS *Maine* was in Havanna to protect U.S. interests.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/USSMaine1.jpg)One hundred and twenty years ago today, on February 15, 1898, a mysterious explosion ripped through the hull of the American battleship USS *Maine,* at anchor in Havana harbor in Cuba. The ship sank killing 266 of the 350 men aboard. The loss of the USS *Maine* heightened the tension between the United States and Spain. Cuba was a Spanish colony and the island was gripped in a rebellion against Spain. USS *Maine* was in Havanna to protect U.S. interests.  
 
 It was widely assumed at the time that the Spanish had placed a mine or launched a torpedo which sank the ship.  The American press whipped up the  American public with the slogan, “[*Remember*](http://www.ushistory.org/us/44c.asp) *the Maine. The Hell with Spain.*”  After initially attempting to continue with ongoing diplomacy, the US declared war on Spain on April 25, 1898. By August, Spain had ceded Cuba, along with the Philippines, Puerto Rico and Guam, to the United States.
 

@@ -13,12 +13,12 @@ tags:
   - "Maine"
   - "Maine Maritime Academy"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/bowdoin2024.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/bowdoin2024.jpg"
 author: "Rick Spilman"
 description: "The schooner Bowdoin, built for Arctic exploration in 1921, is headed for the Arctic for the first time since 2008, more than 100 years since her first such expedition.  The schooner, owned by Maine Maritime Academy (MMA), is sailed by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/bowdoin2024.jpg)The [schooner](https://en.wikipedia.org/wiki/Bowdoin_\(Arctic_schooner\)) *Bowdoin,* built for Arctic exploration in 1921, is headed for the Arctic for the first time since 2008, more than 100 years since her first such expedition.  The schooner, owned by [Maine Maritime Academy (MMA)](https://mainemaritime.edu/), is sailed by a professional crew of 6 and 10 MMA students on a voyage from Maine to Greenland, and continuing beyond 70° North.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/bowdoin2024.jpg)The [schooner](https://en.wikipedia.org/wiki/Bowdoin_\(Arctic_schooner\)) *Bowdoin,* built for Arctic exploration in 1921, is headed for the Arctic for the first time since 2008, more than 100 years since her first such expedition.  The schooner, owned by [Maine Maritime Academy (MMA)](https://mainemaritime.edu/), is sailed by a professional crew of 6 and 10 MMA students on a voyage from Maine to Greenland, and continuing beyond 70° North.
 
 The 72′ long schooner set sail from Castine, Maine on May 24, and has called on Boothbay Harbor, Maine, St. John’s, Newfoundland. [She is now in Nuuk, Greenland and will continue northward](https://mainemaritime.edu/schooner-bowdoin-cruise-blog/schedule/), expecting to cross the Arctic Circle around June 19th, on her way to port calls in Sisimuit and Oqatsut, Greenland before returning to Castine.
 

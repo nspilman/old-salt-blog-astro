@@ -15,12 +15,12 @@ tags:
   - "HMS Hood"
   - "Stringbags"
   - "Wavy Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/stringbag1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/stringbag1.jpg"
 author: "Rick Spilman"
 description: "On the evening of May 26, 1941, eighty years ago today, a squadron of obsolete biplanes flown by volunteer pilots succeeded in crippling the Bismarck, the mightiest battleship in the German Kriegsmarine. A revised repost. The Bismarck was about to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/Bismarckcrop.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/Bismarckcrop.jpg)
 
 Bismarck
 
@@ -34,7 +34,7 @@ The “Wavy Navy” pilots were flying lumbering biplanes which were considered 
 
 Despite their shortcomings, as bi-planes the Swordfish stringbags could take off in a very short space, which made them perfect for the small flight decks of the aircraft carriers of the day. They were also remarkably rugged, able to survive carrier landings and enemy bullets which passed cleanly through their canvas skins. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/stringbag1.jpg)The squadron of 15 stringbags attacked the *Bismarck* at almost wave top level despite heavy anti-aircraft fire. Two torpedos struck the ship. The first hit near amidships in an area of heavy armor and did minor damage. The second struck the stern and jammed the Bismarck’s rudders.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/stringbag1.jpg)The squadron of 15 stringbags attacked the *Bismarck* at almost wave top level despite heavy anti-aircraft fire. Two torpedos struck the ship. The first hit near amidships in an area of heavy armor and did minor damage. The second struck the stern and jammed the Bismarck’s rudders.
 
 [All planes returned to the Ark Royal](http://ww2today.com/26th-may-1940-torpedo-attack-on-the-bismarck) and only one pilot and one gunner were wounded. 
 

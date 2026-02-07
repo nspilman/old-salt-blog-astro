@@ -19,42 +19,42 @@ Last night I went out to see some of the participating OpSail tall ships in New 
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/brazilian-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/brazilian.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/brazilian-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/brazilian.jpg)
 
 CISNE BRANCO (Brazil)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/eagle1s-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/eagle1s.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/eagle1s-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/eagle1s.jpg)
 
 EAGLE, the sail training ship of the U.S. Coast Guard Academy
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/guyas1-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/guyas1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/guyas1-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/guyas1.jpg)
 
 BAE GUAYAS, the sail training ship of the Navy of Ecuador
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/indonesia2-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/indonesia2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/indonesia2-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/indonesia2.jpg)
 
 KRI DEWARUCI, the sail training ship of Indonesia
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/mexico2ship-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/mexico2ship.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/mexico2ship-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/mexico2ship.jpg)
 
 CUAUHTEMOC (Mexico)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/shipbridge1-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/shipbridge1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/shipbridge1-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/shipbridge1.jpg)
 
 CISNE BRANCO (Brazil)
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/tschooner1s-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/tschooner1s.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/tschooner1s-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/tschooner1s.jpg)
 
 JUAN SEBASTIAN de EL CANO (Spain)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/tschooner2s-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/tschooner2s.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/tschooner2s-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/tschooner2s.jpg)
 
 JUAN SEBASTIAN de EL CANO (Spain) Figurehead
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/05/twships1-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/05/twships1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/twships1-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/twships1.jpg)
 
 BAE GUAYAS & GLORIA

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "There is some very interesting beachcombing going on these days in the UK.  Two weeks ago, we posted about  four large, barrel-shaped pieces of lard that washed up on the beach at St.Cyrus nature reserve in Scotland.  Locals opined that … Continue reading &rarr;"
 ---
 
-![Ken Wilman, his dog Madge and their smelly find Photo:Manchester Evening News](http://www.oldsaltblog.com/wp-content/uploads/2013/02/Ken+Wilman.jpg)
+![Ken Wilman, his dog Madge and their smelly find Photo:Manchester Evening News](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Ken+Wilman.jpg)
 
 Ken Wilman, his dog Madge and their smelly find Photo:Manchester Evening News
 

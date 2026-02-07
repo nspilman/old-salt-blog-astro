@@ -10,12 +10,12 @@ tags:
   - "discipline"
   - "Rear Adm. Collin Green"
   - "Seal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/seallogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/seallogo.jpg"
 author: "Rick Spilman"
 description: "In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns \"We have a problem.\" The sentence was in bold-faced print and underlined. The letter follows a series of incidents … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/seallogo.jpg)In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns “We have a problem.” The sentence was in bold-faced print and underlined. The letter follows a series of incidents of alleged misbehavior by the elite special operations forces, including alleged illegal activity by two Navy SEAL teams.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/seallogo.jpg)In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns “We have a problem.” The sentence was in bold-faced print and underlined. The letter follows a series of incidents of alleged misbehavior by the elite special operations forces, including alleged illegal activity by two Navy SEAL teams.
 
 Also, toward the end of July, an [entire platoon of SEAL commandos](https://www.nytimes.com/2019/07/25/us/navy-seal-platoon-withdrawn-iraq.html) was abruptly removed from Iraq after reports of serious misconduct and a breakdown of discipline. The Navy is investigating reports that Foxtrot Platoon of SEAL Team 7, held a Fourth of July party where some members consumed alcohol against regulations, and that a senior enlisted member of the platoon had raped a female service member attached to the platoon.
 

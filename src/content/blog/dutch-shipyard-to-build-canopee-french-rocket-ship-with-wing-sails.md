@@ -13,12 +13,12 @@ tags:
   - "Canopée"
   - "Dutch shipyard"
   - "Neptune Marine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/Canopee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/Canopee.jpg"
 author: "Rick Spilman"
 description: "The Dutch shipyard Neptune Marine has begun construction of the sailing cargo vessel Canopée, which will transport Ariane 6 rockets from Europe to the launch site in Kourou in French Guyana. The ship will feature 1,500 square meter sails to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/Canopee.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/Canopee.jpg)
 
 The Dutch shipyard [Neptune Marine has begun construction of the sailing cargo vessel *Canopée*](https://www.neptunemarine.com/neptune-has-started-to-build-the-first-large-sailing-cargo-vessel-the-canopee-ever-made/), which will transport Ariane 6 rockets from Europe to the launch site in Kourou in French Guyana. The ship will feature 1,500 square meter sails to lower fuel consumption and emissions.
 

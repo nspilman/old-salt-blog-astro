@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/REV.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/REV.jpg"
 author: "Rick Spilman"
 description: "Norwegian Billionaire Kjell Inge Røkke has pledged to give away a substantial portion of his US$ 3.8 billion fortune to fund efforts to help save the world’s oceans. Last May, he announced the construction of a 596′ long state-of-the-art ice-strengthened oceanographic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/REV.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/REV.jpg)
 
 Norwegian Billionaire [Kjell Inge Røkke](https://en.wikipedia.org/wiki/Kjell_Inge_R%C3%B8kke) has pledged to give away a substantial portion of his [US$ 3.8 billion fortune](https://www.forbes.com/profile/kjell-inge-rokke/) to fund efforts to help save the world’s oceans. Last May, he announced the construction of a [596′ long state-of-the-art ice-strengthened oceanographic research expedition vessel](http://rosellinisfour-10.no/), which will be operated in partnership with the World Wildlife Fund ([WWF](https://www.worldwildlife.org/).) The ship is scheduled to be launched in the summer of 2020.  Reportedly, the ship will be the world’s largest of its type, able to carry 60 scientists and 40 crew, and will have the ability to remove up to five tons of plastic daily from the ocean and melt it down for recycling.
 

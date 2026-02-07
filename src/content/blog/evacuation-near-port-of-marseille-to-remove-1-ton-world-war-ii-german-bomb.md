@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In November, we posted about how a drought on the Rhine River was exposing unexploded World War II munitions, and then in December about the evacuation of half of the German city of Koblenz, when several large bombs were found buried in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/1201marseille-bomb-22be77d3.jpg)In November, [we posted about how a drought on the Rhine River was exposing unexploded World War II munitions](http://www.oldsaltblog.com/2011/11/26/bombs-along-the-rhine-drought-exposing-wwii-unexploded-munitions/), and then in December about the [evacuation of half of the German city of Koblenz](http://www.oldsaltblog.com/2011/12/01/update-bombs-along-the-rhine-half-of-koblentz-evacuated/), when several large bombs were found buried in the riverbank.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/1201marseille-bomb-22be77d3.jpg)In November, [we posted about how a drought on the Rhine River was exposing unexploded World War II munitions](http://www.oldsaltblog.com/2011/11/26/bombs-along-the-rhine-drought-exposing-wwii-unexploded-munitions/), and then in December about the [evacuation of half of the German city of Koblenz](http://www.oldsaltblog.com/2011/12/01/update-bombs-along-the-rhine-half-of-koblentz-evacuated/), when several large bombs were found buried in the riverbank.
 
 This morning, we understand that officials are evacuating 1,000 residents in an area near the French Mediterranean port of Marseille in order to remove a one ton German bomb dating from WWII which was uncovered last week by construction workers.
 

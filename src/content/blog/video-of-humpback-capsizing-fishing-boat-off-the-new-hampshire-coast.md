@@ -13,12 +13,12 @@ tags:
   - "lunge feeding"
   - "New Hampshire"
   - "Portsmouth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/whalecapsize2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/whalecapsize2.jpg"
 author: "Rick Spilman"
 description: "A humpback whale that appeared to be lunge feeding breached the water and landed on a recreational boat near Portsmouth, New Hampshire, on Tuesday, capsizing the vessel and tossing two occupants into the water, the United States Coast Guard said. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/whalecapsize2.jpg)A humpback whale that appeared to be [lunge feeding](https://en.wikipedia.org/wiki/Cetacean_surfacing_behaviour) breached the water and landed on a recreational boat near Portsmouth, New Hampshire, on Tuesday, capsizing the vessel and tossing two occupants into the water, the United States Coast Guard said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/whalecapsize2.jpg)A humpback whale that appeared to be [lunge feeding](https://en.wikipedia.org/wiki/Cetacean_surfacing_behaviour) breached the water and landed on a recreational boat near Portsmouth, New Hampshire, on Tuesday, capsizing the vessel and tossing two occupants into the water, the United States Coast Guard said.
 
 The [New York Times](https://www.nytimes.com/2024/07/24/us/whale-boat-capsize-new-hampshire.html) reports that the Northern New England sector of the Coast Guard received a mayday call for a 23-foot boat that had capsized when a whale shot up from underneath the boat and flopped onto it, about half a mile east of Odiorne Point State Park.
 

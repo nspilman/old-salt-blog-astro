@@ -15,12 +15,12 @@ tags:
   - "Rouse Simmons"
   - "three masted schooner"
   - "U.S. Coast Guard Cutter Mackinaw"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ctschooner-1.jpg"
 author: "Rick Spilman"
 description: "One hundred and seven years ago today, the three-masted schooner Rouse Simmons, under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the \"Christmas Tree … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg)One hundred and seven years ago today, the three-masted schooner [*Rouse Simmons*](https://en.wikipedia.org/wiki/Rouse_Simmons), under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the “Christmas Tree Ship,” carried a cargo close to 5,000 Christmas trees to be sold in Chicago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ctschooner-1.jpg)One hundred and seven years ago today, the three-masted schooner [*Rouse Simmons*](https://en.wikipedia.org/wiki/Rouse_Simmons), under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the “Christmas Tree Ship,” carried a cargo close to 5,000 Christmas trees to be sold in Chicago.
 
 Selling Christmas trees had been part of the Schuenemann businesses for several decades. Captain Schuenemann sold his trees directly from the dock by Chicago’s Clark Street Bridge using the slogan, “Christmas Tree Ship: My Prices are the Lowest.”  Schuenemann strung electric Christmas lights from the ship’s masts and had a tree atop the mainmast. Herman, his wife Barbara and their three daughters also made and sold wreaths, garlands, and other holiday decorations from the ship.  The trees were sold for between 50 cents and $1, but Captain Schuenemann, who came to be known as “Captain Santa”, also gave away some of the trees to needy families.
 

@@ -13,12 +13,12 @@ tags:
   - "Invasion Barges"
   - "roll-on/roll-off ferries"
   - "Taiwan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/chineseinvasionbarge-2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/chineseinvasionbarge-2.jpg"
 author: "Rick Spilman"
 description: "Many have dismissed Chinese threats to invade Taiwan as saber-rattling. Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building a fleet of \"invasion barges\" apparently designed to facilitate an … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/chineseinvasionbarge-2.jpg)Many have dismissed [Chinese threats to invade Taiwan as saber-rattling.](https://asiatimes.com/2024/01/xis-taiwan-saber-rattling-all-about-self-preservation/#) Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building [a fleet of “invasion barges”](http://www.hisutton.com/Chinese-Invasion-Barge-OSINT.html) apparently designed to facilitate an amphibious assault on Taiwan. The self-propelled barges, built in several sizes and configurations, feature jack-up cylinder legs and long “[Bailey Bridge](https://en.wikipedia.org/wiki/Bailey_bridge)” style bow ramps.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/chineseinvasionbarge-2.jpg)Many have dismissed [Chinese threats to invade Taiwan as saber-rattling.](https://asiatimes.com/2024/01/xis-taiwan-saber-rattling-all-about-self-preservation/#) Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building [a fleet of “invasion barges”](http://www.hisutton.com/Chinese-Invasion-Barge-OSINT.html) apparently designed to facilitate an amphibious assault on Taiwan. The self-propelled barges, built in several sizes and configurations, feature jack-up cylinder legs and long “[Bailey Bridge](https://en.wikipedia.org/wiki/Bailey_bridge)” style bow ramps.
 
 Once a barge is close ashore, the jack-up cylinder legs can be lowered, lifting the barge out of the water to create a secure pier platform.  With the bow bridge ramp lowered the barges could provide docks for China’s large fleet of civilian ferries. China’s roll-on/roll-off (RORO) ferries are built to carry military vehicles including heavy main battle tanks. They are exercised in this role regularly. The new barges could provide a unique way to offload large numbers of tanks, trucks and other heavy equipment directly onto Taiwanese roads.
 

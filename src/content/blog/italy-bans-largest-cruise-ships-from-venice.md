@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Italy bans large cruise ships from Venice lagoon and limits overall cruise traffic"
 ---
 
-![Photo: Reuters](http://www.oldsaltblog.com/wp-content/uploads/2014/08/venice_3001593b.jpg)
+![Photo: Reuters](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/venice_3001593b.jpg)
 
 Photo: Reuters
 

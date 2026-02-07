@@ -10,7 +10,7 @@ tags:
   - "collision"
   - "container ship"
   - "No. 5 Elbe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/no4elbecollision.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/no4elbecollision.jpg"
 author: "Rick Spilman"
 description: "Disturbing video shot from the deck of the pilot schooner No. 5 Elbe immediately before her collision with the container ship Astrosprinter. It appears that the helmsman made the wrong maneuver at exactly the wrong time. Kurz vor der Kollision … Continue reading &rarr;"
 ---

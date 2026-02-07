@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Three quick updates on recent posts – the salvage of the USS Guardian is finally underway, Shell Oil has cancelled plans for Alaskan arctic drilling for 2013 due to rig problems; and the Emma Mærsk has arrived at a shipyard for repairs after engine … Continue reading &rarr;"
 ---
 
-![Stack of USS Guardian hoisted by crane ship. Photo:PCG ](http://www.oldsaltblog.com/wp-content/uploads/2013/03/guardianstack.jpg)
+![Stack of USS Guardian hoisted by crane ship. Photo:PCG ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/guardianstack.jpg)
 
 Stack of USS Guardian hoisted by crane ship. Photo:PCG
 

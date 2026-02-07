@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Mass surrender of Nazi U-boats documented in new book For 65 years residents of a remote Scottish village have paid heed to the wartime warning that \"loose lips sink ships\". The surrender of German submarines in Loch Eriboll in Sutherland … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Greywolves.jpg)](http://www.amazon.com/gp/product/1904445322?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1904445322)[Mass surrender of Nazi U-boats documented in new book](http://www.telegraph.co.uk/news/newstopics/politics/scotland/7479898/Mass-surrender-of-Nazi-U-boats-documented-in-new-book.html)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Greywolves.jpg)](http://www.amazon.com/gp/product/1904445322?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1904445322)[Mass surrender of Nazi U-boats documented in new book](http://www.telegraph.co.uk/news/newstopics/politics/scotland/7479898/Mass-surrender-of-Nazi-U-boats-documented-in-new-book.html)
 
 *For 65 years residents of a remote Scottish village have paid heed to the wartime warning that “loose lips sink ships”.*
 

@@ -11,12 +11,12 @@ tags:
   - "Connecticut"
   - "Stonington"
   - "War of 1812"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/stoningtoncannon1r.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/stoningtoncannon1r.jpg"
 author: "Rick Spilman"
 description: "Two hundred and four years ago this week, in a three day battle, the militia at Stonington, CT drove off a four ship Royal Navy flotilla during the War of 1812.  Here is lightly edited repost about the battle from July … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/stoningtoncannon1r.jpg)Two hundred and four years ago this week, in a three day battle, the militia at Stonington, CT drove off a four ship Royal Navy flotilla during the War of 1812.  Here is lightly edited [repost about the battle from July 11, 2012](http://www.oldsaltblog.com/2012/07/the-rockets-red-glare-bombs-bursting-in-air-the-battle-of-stonington-1814/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/stoningtoncannon1r.jpg)Two hundred and four years ago this week, in a three day battle, the militia at Stonington, CT drove off a four ship Royal Navy flotilla during the War of 1812.  Here is lightly edited [repost about the battle from July 11, 2012](http://www.oldsaltblog.com/2012/07/the-rockets-red-glare-bombs-bursting-in-air-the-battle-of-stonington-1814/).
 
 [Stonington, Connecticut](http://en.wikipedia.org/wiki/Stonington,_Connecticut), is a small village on the extreme eastern coast of the state.  In the center of the village, two 18 pound cannon are on display in the fittingly named Cannon Square.  On their tampions, blocking the ends of the cannon’s muzzles, is the date 1814, when the two cannons, manned by local militia, almost miraculously drove off a British force of four Royal Navy ships under the command of [Captain Sir Thomas Hardy](http://en.wikipedia.org/wiki/Captain_thomas_hardy), Nelson’s flag captain on HMS *Victory* at the Battle of Trafalgar.  The battle may not have been of any great strategic importance, but was one of a series of American victories in the last days of the War of 1812.
 

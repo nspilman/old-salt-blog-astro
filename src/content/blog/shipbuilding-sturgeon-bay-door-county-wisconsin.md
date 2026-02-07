@@ -12,7 +12,7 @@ tags:
   - "shipbuilding"
   - "Sturgeon Bay"
   - "Wisconsin"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/doorshipb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/doorshipb.jpg"
 author: "Rick Spilman"
 description: "The Great Lakes are rightly referred to the United State’s \"fourth coast.\" Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan. Historic Door County – Shipbuilding … Continue reading &rarr;"
 ---

@@ -16,11 +16,11 @@ author: "Rick Spilman"
 description: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of \"Humanitarian Services to Isolated Island … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/vega_banner.jpg)](http://sailvega.wordpress.com/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/vega_banner.jpg)](http://sailvega.wordpress.com/)
 
 Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the [historic vessel *Vega*](http://www.sailvega.com/) for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of “Humanitarian Services to Isolated Island Communities.”  
   
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/vegaaward.jpg)Capt. Shane Granger writes in the current [Vega Newsletter](http://www.sailvega.com/newsletters/november2010/december.html): *This prestigious award came as a complete surprise to us. We were not even aware we had been proposed for it. Meggi and I were given this award in recognition of Humanitarian Services to Isolated Island Communities. We are very excited about it. As our friend Capt. Marty says, “Great news mate , you and Meggi really deserve this award”. But, as we see it this award should really go to our sponsors such as Jotun Paints, QBE Insurance, ModuSpec, and Scandinavian Bunkering along with all our individual supporters. Together they make our work possible. Without them we simply could not help the communities we assist in a meaningful manner.*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/vegaaward.jpg)Capt. Shane Granger writes in the current [Vega Newsletter](http://www.sailvega.com/newsletters/november2010/december.html): *This prestigious award came as a complete surprise to us. We were not even aware we had been proposed for it. Meggi and I were given this award in recognition of Humanitarian Services to Isolated Island Communities. We are very excited about it. As our friend Capt. Marty says, “Great news mate , you and Meggi really deserve this award”. But, as we see it this award should really go to our sponsors such as Jotun Paints, QBE Insurance, ModuSpec, and Scandinavian Bunkering along with all our individual supporters. Together they make our work possible. Without them we simply could not help the communities we assist in a meaningful manner.*
 
 More about the *Vega* from her [website](http://www.sailvega.com):
 

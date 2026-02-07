@@ -13,12 +13,12 @@ tags:
   - "Oceanways"
   - "submarine"
   - "UK startup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/oceansways.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oceansways.jpg"
 author: "Rick Spilman"
 description: "The UK startup, Oceanways, has been awarded funding to develop an autonomous hydrogen/battery-powered submarine in a UK government competition to tackle emissions from shipping. The firm has been given £380,000 ($525,000 ) to develop the sub to deliver parcels without … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/oceansways.jpg)The UK startup, [Oceanways](https://www.oceanways.co/), has been awarded funding to develop an autonomous hydrogen/battery-powered submarine in a UK government competition to tackle emissions from shipping.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oceansways.jpg)The UK startup, [Oceanways](https://www.oceanways.co/), has been awarded funding to develop an autonomous hydrogen/battery-powered submarine in a UK government competition to tackle emissions from shipping.
 
 The firm has been given £380,000 ($525,000 ) to develop the sub to deliver parcels without a captain or crew. The submarine will follow shipping routes but 50 metres below the surface. When not under the waves, the sub will also be able to deliver goods in shallow waters where container ships can’t operate.
 

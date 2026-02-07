@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Bad news and good news.  The Tacoma Tall Ships Organization is no more and the hoped for Tacoma Tall Ships Festival in 2011 will not be happening, a victim of the recession.   On the other side of the globe, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/nsn_awbf3.jpg)Bad news and good news.  The Tacoma Tall Ships Organization is no more and the hoped for [Tacoma Tall Ships Festival](http://www.tallshipstacoma.com/) in 2011 will not be happening, a victim of the recession.   On the other side of the globe, however, the [Australian Wooden Boat Festival](http://www.australianwoodenboatfestival.com.au/) on Hobart’s historic  Sullivan’s Cove waterfront is on its way in February 2011, and this year it will be free!
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/nsn_awbf3.jpg)Bad news and good news.  The Tacoma Tall Ships Organization is no more and the hoped for [Tacoma Tall Ships Festival](http://www.tallshipstacoma.com/) in 2011 will not be happening, a victim of the recession.   On the other side of the globe, however, the [Australian Wooden Boat Festival](http://www.australianwoodenboatfestival.com.au/) on Hobart’s historic  Sullivan’s Cove waterfront is on its way in February 2011, and this year it will be free!
 
 [Tacoma Tall Ships Festival sunk by recession](http://threesheetsnw.com/blog/archives/13572)
 

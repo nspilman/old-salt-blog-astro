@@ -14,12 +14,12 @@ tags:
   - "guided-missile submarine"
   - "Ohio-class"
   - "USS Georgia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/ussgeorgia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/ussgeorgia.jpg"
 author: "Rick Spilman"
 description: "The US Navy announced in a statement that on January 12, 2024, Commander, Submarine Group Ten, Rear Adm. Thomas \"T.R.\" Buchanan, relieved Capt. Geoffry Patterson as commanding officer of USS Georgia (SSGN 729) Blue Crew due to loss of confidence … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/ussgeorgia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/ussgeorgia.jpg)
 
 The Ohio-class guided-missile submarine USS Georgia returns to its homeport at Naval Submarine Base Kings Bay, Georgia, after a 790-day forward-deployment. (U.S. Navy photo by Chief Mass Communication Specialist Ashley Berumen)
 

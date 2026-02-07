@@ -14,12 +14,12 @@ tags:
   - "RMS Titanic"
   - "SS Mesaba"
   - "U-boat U-118"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/mesaba.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/mesaba.jpg"
 author: "Rick Spilman"
 description: "In April of 1912, the cargo-passenger liner SS Mesaba radioed an ice warning to RMS Titanic. The message was received but never made it to the bridge.  The supposedly unsinkable Titanic then hit an iceberg and sank on her maiden … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/mesaba.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/mesaba.jpg)
 
 Graphic: Bangor University
 
@@ -35,7 +35,7 @@ The *Mesaba* was one among 273 shipwrecks lying in 7,500 square miles of Irish S
 
 Twenty lives were lost, including that of the ship’s commander and a young able seaman from Wrexham, when it sank about 21 miles (34km) off Tuskar Rock, south-east of Rosslare in Ireland.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/mesaba2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/mesaba2.jpg)
 
 SS Mesaba photo: State Library of Queensland
 

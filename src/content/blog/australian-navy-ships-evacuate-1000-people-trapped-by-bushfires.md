@@ -13,7 +13,7 @@ tags:
   - "HMAS Choules"
   - "Mallacoota"
   - "MV Sycamore"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/fireevacaus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/fireevacaus.jpg"
 author: "Rick Spilman"
 description: "The Australian Navy landing ship HMAS Choules, supported by the training ship, MV Sycamore, evacuated 1,000 tourists and residents stranded by bushfires in Mallacoota, Australia. ABC News Australia reports that about 4,000 people, including some 3,000 tourists, have been stranded … Continue reading &rarr;"
 ---

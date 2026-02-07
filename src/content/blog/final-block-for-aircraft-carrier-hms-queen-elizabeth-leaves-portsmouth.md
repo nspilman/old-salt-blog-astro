@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Remember when ships were built from the keel up and launched by sliding down the building ways into the water with a satisfying splash?  OK, maybe I am showing my age. These days ships are built like LEGOs, massive LEGOs, … Continue reading &rarr;"
 ---
 
-![Upper Block 07](http://www.oldsaltblog.com/wp-content/uploads/2013/02/blockhmsqe.jpg)
+![Upper Block 07](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/blockhmsqe.jpg)
 
 Upper Block 07
 

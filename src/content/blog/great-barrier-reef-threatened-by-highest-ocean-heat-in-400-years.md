@@ -12,12 +12,12 @@ tags:
   - "Great Barrier Reef"
   - "highest on record for 400 years"
   - "sea surface temperatures"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/gbrbleach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/gbrbleach.jpg"
 author: "Rick Spilman"
 description: "In a new study, published in the journal Nature, scientists say that sea surface temperatures over the past decade in and around Australia’s Great Barrier Reef are the highest on record for 400 years. The study concludes that these increased temperatures, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/gbrbleach.jpg)In a [new study, published in the journal Nature](https://www.nature.com/articles/s41586-024-07672-x), scientists say that sea surface temperatures over the past decade in and around Australia’s [Great Barrier Reef](https://greatbarrierreef.org/) are the highest on record for 400 years. The study concludes that these increased temperatures, driven by climate change, now pose an “existential threat” to the vast coral reef.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/gbrbleach.jpg)In a [new study, published in the journal Nature](https://www.nature.com/articles/s41586-024-07672-x), scientists say that sea surface temperatures over the past decade in and around Australia’s [Great Barrier Reef](https://greatbarrierreef.org/) are the highest on record for 400 years. The study concludes that these increased temperatures, driven by climate change, now pose an “existential threat” to the vast coral reef.
 
 Extreme heat has caused five mass [coral bleaching](https://coral.org/en/blog/what-is-coral-bleaching-and-why-should-you-care/) events in the past nine years alone.
 

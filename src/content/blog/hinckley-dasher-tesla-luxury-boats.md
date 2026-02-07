@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Hinckley Yachts claims to build \"luxury yachts with innovative technology.\" Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the \"Tesla of luxury yachts.\"  The new design, which uses carbon fiber to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/dasher1.jpg)[Hinckley Yachts](http://www.hinckleyyachts.com/) claims to build “luxury yachts with innovative technology.” Their new 28’6″ fully electric runabout [*Dasher*](http://www.hinckleyyachts.com/models/dasher/dasher/) lives up to the boast.  [Fortune](http://fortune.com/2017/09/15/electric-luxury-yachts/) magazine referred to it as the “[Tesla](https://www.tesla.com/) of luxury yachts.” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/dasher1.jpg)[Hinckley Yachts](http://www.hinckleyyachts.com/) claims to build “luxury yachts with innovative technology.” Their new 28’6″ fully electric runabout [*Dasher*](http://www.hinckleyyachts.com/models/dasher/dasher/) lives up to the boast.  [Fortune](http://fortune.com/2017/09/15/electric-luxury-yachts/) magazine referred to it as the “[Tesla](https://www.tesla.com/) of luxury yachts.” 
 
 The new design, which uses carbon fiber to keep the boat light, features twin 80-horsepower Deep Blue 80i 1800 motors from German company [Torqeedo](http://www.torqeedo.com/us/en-us), best known for its electric outboard motors. Two 40-kilowatt-hour BMW i3 lithium-ion batteries provide power to the motors.  
 

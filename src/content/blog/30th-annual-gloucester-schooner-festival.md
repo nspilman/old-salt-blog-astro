@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Twenty three schooners are participating in this year's 30th Annual Gloucester Schooner Festival in Gloucester, MA."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/08/DougMangum004-banner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/DougMangum004-banner.jpg)
 
   
 Photo: Doug Mangum

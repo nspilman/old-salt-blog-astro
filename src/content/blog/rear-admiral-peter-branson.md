@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Rear Admiral Peter Branson, who died recently at age 86, had an illustrious career in the Royal Navy.   His career almost ended before it began.  Branson was twice torpedoed while he was still under training, on one occasion surviving five days adrift in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/peter-branson.jpg)Rear Admiral Peter Branson, who died recently at age 86, had an illustrious career in the Royal Navy.   His career almost ended before it began.  Branson was twice torpedoed while he was still under training, on one occasion surviving five days adrift in a lifeboat off the coast of Africa.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/peter-branson.jpg)Rear Admiral Peter Branson, who died recently at age 86, had an illustrious career in the Royal Navy.   His career almost ended before it began.  Branson was twice torpedoed while he was still under training, on one occasion surviving five days adrift in a lifeboat off the coast of Africa.
 
 [Rear-Admiral Peter Branson](http://www.telegraph.co.uk/news/obituaries/military-obituaries/naval-obituaries/8306889/Rear-Admiral-Peter-Branson.html)  
   

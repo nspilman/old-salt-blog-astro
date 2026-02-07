@@ -19,14 +19,14 @@ One year ago last Wednesday, Haiti was struck by a magnitude 7.0 earthquake. The
 
 #gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince3-125x76.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince3.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince3-125x76.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince3.jpg)
 
 Port-au-Prince 11/08/2010
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince2-125x76.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince2-125x76.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince2.jpg)
 
 Port-au-Prince 1/12/2010
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince1-125x76.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/01/portportauprince1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince1-125x76.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince1.jpg)
 
 Port-au-Prince 8/09/2009

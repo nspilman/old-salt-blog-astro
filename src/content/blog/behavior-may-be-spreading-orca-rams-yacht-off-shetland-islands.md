@@ -12,12 +12,12 @@ tags:
   - "orca attacks"
   - "orcas"
   - "Shetland Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
 description: "For the last several years, we have been posting about orca attacks on yachts and fishing boats in the Strait of Gibraltar and the Iberian peninsula. Pods of orcas have been ramming sailboats and often grabbing their rudders and keels, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)For the last several years, we have been posting about orca attacks on [yachts and fishing boats](https://www.oldsaltblog.com/2020/09/scientists-baffled-by-orcas-ramming-sailboats-grabbing-rudders/) in the Strait of Gibraltar and the Iberian peninsula. Pods of orcas have been ramming sailboats and often grabbing their rudders and keels, and have caused significant damage, most often to the boat’s steering. In the last three years, there have been close o 500 such attacks and at least [three sailboats have been sun](https://www.livescience.com/animals/orcas/orcas-have-sunk-3-boats-in-europe-and-appear-to-be-teaching-others-to-do-the-same-but-why)k.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/orcasurge.jpg)For the last several years, we have been posting about orca attacks on [yachts and fishing boats](https://www.oldsaltblog.com/2020/09/scientists-baffled-by-orcas-ramming-sailboats-grabbing-rudders/) in the Strait of Gibraltar and the Iberian peninsula. Pods of orcas have been ramming sailboats and often grabbing their rudders and keels, and have caused significant damage, most often to the boat’s steering. In the last three years, there have been close o 500 such attacks and at least [three sailboats have been sun](https://www.livescience.com/animals/orcas/orcas-have-sunk-3-boats-in-europe-and-appear-to-be-teaching-others-to-do-the-same-but-why)k.
 
 What has prompted the attacks [remains a mystery to scientists](https://www.oldsaltblog.com/2023/02/the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely/). 
 

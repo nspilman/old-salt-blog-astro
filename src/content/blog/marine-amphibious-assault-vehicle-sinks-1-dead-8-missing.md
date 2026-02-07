@@ -12,12 +12,12 @@ tags:
   - "Marines"
   - "San Clemente Island"
   - "USS Somerset"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/AAV.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/AAV.jpg"
 author: "Rick Spilman"
 description: "One Marine died and two were critically injured on Thursday off the coast of California when an amphibious assault vehicle (AAV) from the 15th Marine Expeditionary Unit took on water and sank rapidly. Seven Marines and one Navy sailor are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/AAV.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/AAV.jpg)
 
 Photo:Mass Communication Specialist 1st Class Daniel Barker/Navy
 

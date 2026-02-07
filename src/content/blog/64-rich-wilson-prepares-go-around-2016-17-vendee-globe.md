@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 2009, Rich Wilson at 58 was the oldest sailor in the Vendee Globe single-handed round-the-world yacht race. Now at 64, he is preparing to do it again."
 ---
 
-![richwilson](http://www.oldsaltblog.com/wp-content/uploads/2016/01/richwilson.jpg)In 2009, Rich Wilson at 58 was the oldest sailor in the [Vendee Globe](https://en.wikipedia.org/wiki/Vend%C3%A9e_Globe#2008.E2.80.9309) non-stop single-handed round-the-world yacht race.  He finished ninth of the thirty boats which began the race. Wilson was the only American in the eleven finished.
+![richwilson](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/richwilson.jpg)In 2009, Rich Wilson at 58 was the oldest sailor in the [Vendee Globe](https://en.wikipedia.org/wiki/Vend%C3%A9e_Globe#2008.E2.80.9309) non-stop single-handed round-the-world yacht race.  He finished ninth of the thirty boats which began the race. Wilson was the only American in the eleven finished.
 
 The Vendee Globe is said to be the world’s toughest ocean race. Wilson suffered broken ribs, a gash in his face and compressed vertebrae as he sailed 28,790 miles in 121 days.  [Now at 64, he is preparing to do it again](http://www.sailingscuttlebutt.com/2015/11/12/rich-wilson-go-around-again/) in the [eighth Vendée Globe](http://www.vendeeglobe.org/en/), which starts on November 6, 2016.
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The National Transportation Safety Board (NTSB) announced that \"cargo ship El Faro’s voyage data recorder was located early Tuesday morning in 15,000 feet of water, about 41 miles (36 nautical miles) northeast of Acklins and Crooked Islands, Bahamas, by a … Continue reading &rarr;"
 ---
 
-![vdrelfaro](http://www.oldsaltblog.com/wp-content/uploads/2016/04/vdrelfaro.jpg)[The National Transportation Safety Board (NTSB) announced](http://www.ntsb.gov/news/press-releases/Pages/PR20160426b.aspx) that “*cargo ship El Faro’s voyage data recorder was located early Tuesday morning in 15,000 feet of water, about 41 miles (36 nautical miles) northeast of Acklins and Crooked Islands, Bahamas, by a team of investigators and scientists using remotely operated undersea search equipment.* 
+![vdrelfaro](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/vdrelfaro.jpg)[The National Transportation Safety Board (NTSB) announced](http://www.ntsb.gov/news/press-releases/Pages/PR20160426b.aspx) that “*cargo ship El Faro’s voyage data recorder was located early Tuesday morning in 15,000 feet of water, about 41 miles (36 nautical miles) northeast of Acklins and Crooked Islands, Bahamas, by a team of investigators and scientists using remotely operated undersea search equipment.* 
 
 *The investigative team is comprised of specialists from the National Transportation Safety Board, the U.S. Coast Guard, Woods Hole Oceanographic Institution and Tote Services, the* owner *and operator of El Faro.*
 

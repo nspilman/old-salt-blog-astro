@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "One hundred years ago today, Americans learned to be afraid of sharks. On the evening of July 1, 1916, Charles Vansant, 25, of Philadelphia was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey … Continue reading &rarr;"
 ---
 
-![sharknj](http://www.oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg)One hundred years ago today, Americans learned to be afraid of sharks. On the evening of July 1, 1916, [Charles Vansant, 25, of Philadelphia](https://en.wikipedia.org/wiki/Jersey_Shore_shark_attacks_of_1916) was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey Shore. He decided to go for a swim before dinner. Shortly after he dove into the surf, he was attacked by a large shark and died of loss of blood.
+![sharknj](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg)One hundred years ago today, Americans learned to be afraid of sharks. On the evening of July 1, 1916, [Charles Vansant, 25, of Philadelphia](https://en.wikipedia.org/wiki/Jersey_Shore_shark_attacks_of_1916) was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey Shore. He decided to go for a swim before dinner. Shortly after he dove into the surf, he was attacked by a large shark and died of loss of blood.
 
 Worse was yet to come. Five days later and 45 miles to the north in the resort town of Spring Lake, New Jersey, Charles Bruder, 27, a Swiss bell captain at a local hotel, was attacked by a shark while swimming. A shark bit him in the abdomen and severed his legs.
 

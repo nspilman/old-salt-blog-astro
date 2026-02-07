@@ -10,12 +10,12 @@ tags:
   - "Cooper's ferry"
   - "Ice age"
   - "Sailors"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/coopersferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/coopersferry.jpg"
 author: "Rick Spilman"
 description: "More evidence that the first travelers to the Americas may have been sailors. The classic theory of the arrival of early people in North America was the Clovis model. The theory was that early humans migrated to North America by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/coopersferry.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/coopersferry.jpg)
 
 Cooper’s Ferry, Idaho  Photo: Loren Davis, Oregon State University
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Does the wind seem to blowing harder and the waves growing ever higher? Perhaps they are after all. A new study finds that wind speeds and wave heights have been rising significantly over the last two decades. Study finds oceanic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/waves.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/waves.jpg)
 
 Does the wind seem to blowing harder and the waves growing ever higher? Perhaps they are after all. A new study finds that wind speeds and wave heights have been rising significantly over the last two decades.
 

@@ -14,12 +14,12 @@ tags:
   - "Project Ceti"
   - "sperm whale"
   - "sperm whale phonetic alphabet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/spermwhalesaplpha.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/spermwhalesaplpha.jpg"
 author: "Rick Spilman"
 description: "Recently, researchers have used machine learning to decode a \"sperm whale phonetic alphabet,\" revealing sophisticated structures in sperm whale communication akin to human phonetics and communication systems in other animal species.  For centuries, sailors have heard the sounds made by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/spermwhalesaplpha.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/spermwhalesaplpha.jpg)
 
 Photo: Amanda Cotton/Project CETI
 

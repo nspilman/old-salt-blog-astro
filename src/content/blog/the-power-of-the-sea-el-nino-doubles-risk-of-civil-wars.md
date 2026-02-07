@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that \"El … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/nino_globe.jpg)With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that “El Nino,” the periodic warming of a large patch of the Pacific, doubles the risk of civil wars in 90 tropical countries.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/nino_globe.jpg)With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that “El Nino,” the periodic warming of a large patch of the Pacific, doubles the risk of civil wars in 90 tropical countries.
 
 [El Nino doubles risk of civil wars: Study](http://www.torontosun.com/2011/08/25/el-nino-doubles-risk-of-civil-wars-study)  
   

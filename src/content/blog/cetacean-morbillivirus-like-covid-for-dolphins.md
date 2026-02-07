@@ -11,12 +11,12 @@ tags:
   - "contagious virus"
   - "dolphins"
   - "marine mammals"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphinspod.jpg"
 author: "Rick Spilman"
 description: "\"Social distancing\" during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg)“Social distancing” during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs in recent years. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphinspod.jpg)“Social distancing” during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs in recent years. 
 
 [Cetacean morbillivirus](https://en.wikipedia.org/wiki/Cetacean_morbillivirus) is a lethal and highly contagious virus that infects marine mammals including dolphins, porpoises, and whales. First discovered in Virginia and Maryland waters in 1987, the virus is related to measles in humans. It can spread rapidly among dolphins, as it did from 2013 to 2015 in populations along the Atlantic Coast. 
 

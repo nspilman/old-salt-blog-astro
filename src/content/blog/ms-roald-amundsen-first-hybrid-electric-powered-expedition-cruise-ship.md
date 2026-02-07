@@ -12,12 +12,12 @@ tags:
   - "Hurtigruten'"
   - "hybrid electric-powered expedition cruise ship"
   - "MS Roald Amundsen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/hybridcruise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/hybridcruise.jpg"
 author: "Rick Spilman"
 description: "Hurtigruten, a Norwegian ferry and expedition cruise operator, has put into service, MS Roald Amundsen, the world’s first hybrid electric-powered expedition cruise ship. The 530-passenger ship has twin battery banks that operate in conjunction with the ship’s four diesel generators … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/hybridcruise.jpg)[Hurtigruten](https://www.hurtigruten.com/), a Norwegian ferry and expedition cruise operator, has put into service, [MS *Roald Amundsen*](https://www.hurtigruten.com/our-ships/ms-roald-amundsen/), the world’s first hybrid electric-powered expedition cruise ship. The 530-passenger ship has twin battery banks that operate in conjunction with the ship’s four diesel generators and are expected to reduce overall fuel consumption by 20%. The MS *Roald Amundsen* is the first of three hybrid-powered cruise ships ordered by Hurtigruten. [Forbes](https://www.forbes.com/sites/terricolby/2018/11/19/hurtigruten-announces-it-will-fuel-cruise-ships-with-dead-fish/#741576d46f3b) quotes the company as saying that it is investing more than $850 million in building the world’s greenest cruise line.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/hybridcruise.jpg)[Hurtigruten](https://www.hurtigruten.com/), a Norwegian ferry and expedition cruise operator, has put into service, [MS *Roald Amundsen*](https://www.hurtigruten.com/our-ships/ms-roald-amundsen/), the world’s first hybrid electric-powered expedition cruise ship. The 530-passenger ship has twin battery banks that operate in conjunction with the ship’s four diesel generators and are expected to reduce overall fuel consumption by 20%. The MS *Roald Amundsen* is the first of three hybrid-powered cruise ships ordered by Hurtigruten. [Forbes](https://www.forbes.com/sites/terricolby/2018/11/19/hurtigruten-announces-it-will-fuel-cruise-ships-with-dead-fish/#741576d46f3b) quotes the company as saying that it is investing more than $850 million in building the world’s greenest cruise line.
 
 The company is also moving beyond just hybrid technology in an effort to cut the use of fossil fuels. Last year the company announced that its ships will be outfitted to run on biogas and biofuel. They plan on using waste from Norwegians lumber and fishing industries to fuel their ships. Or as [one travel writer noted](https://www.forbes.com/sites/terricolby/2018/11/19/hurtigruten-announces-it-will-fuel-cruise-ships-with-dead-fish/#741576d46f3b), “Hurtigruten cruise ships will soon be powered with dead fish.”
 

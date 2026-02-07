@@ -11,12 +11,12 @@ tags:
   - "South Street Seaport"
   - "William Main Doerflinger Memorial Sea Shanty Sing"
   - "X-Seamen's Institute"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/frankw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/frankw.jpg"
 author: "Rick Spilman"
 description: "I was stunned and saddened to read that shanty singer and folklorist Frank Woerner has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, \"It is with great shock and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/frankw.jpg)I was stunned and saddened to read that shanty singer and folklorist [Frank Woerner](https://www.facebook.com/frank.woerner.3) has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, “It is with great shock and sorrow that my dear friend and folk father Frank Woerner has passed away suddenly.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/frankw.jpg)I was stunned and saddened to read that shanty singer and folklorist [Frank Woerner](https://www.facebook.com/frank.woerner.3) has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, “It is with great shock and sorrow that my dear friend and folk father Frank Woerner has passed away suddenly.”
 
 I first encountered Frank in the last quarter of the previous century when I had a summer job in New York CIty. On Thursday evenings, if my memory serves, there was a weekly free shanty concert featuring Bernie Clay and the X-Seamen’s Institute, at the South Street Seaport. A small crowd sat on the rotting planks of Pier 17, jutting out into the East River as they sang shanties and sea songs.  Frank Woerner was one of the X-Seamen, along with Bernie Clay, John Townley, and Dan Aguiar.
 

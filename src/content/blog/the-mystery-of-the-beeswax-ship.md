@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "An intriguing item from Jim Klein on the Marine History List.     They are now filming the search for the cannons from the Beeswax wreck.   From the Beeswax Wreck Project site: One of the most popular mysteries of the Oregon Coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/beeswaxwreck.jpg)An intriguing item from Jim Klein on the [Marine History List](http://209.68.8.11/marhst-l.html).     They are now filming the search for the cannons from the Beeswax wreck.   From the [Beeswax Wreck Project site:](http://www.nagagroup.org/BeesWax/about/about.htm)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/beeswaxwreck.jpg)An intriguing item from Jim Klein on the [Marine History List](http://209.68.8.11/marhst-l.html).     They are now filming the search for the cannons from the Beeswax wreck.   From the [Beeswax Wreck Project site:](http://www.nagagroup.org/BeesWax/about/about.htm)
 
 *One of the most popular mysteries of the Oregon Coast has been the identification of the “Beeswax Wreck” at Nehalem Beach, in Tillamook County. Identified over time by various researchers as either a Chinese or Japanese junk, a Spanish galleon, a Portuguese trader, or a lost English or Dutch pirate vessel, we have been able to determine that the ship was in fact a Spanish Galleon of the Manila Trade. Nehalem Indian oral histories and the journals of the earliest traders in the area indicate that the galleon wrecked prior to European settlement and indeed most European exploration of the Pacific Northwest.*
 

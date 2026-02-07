@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the \"world’s oldest champagne\" which was judged to be … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/champagne.jpg)In July of last year [we posted about the discovery of 30 bottles of champagne](http://www.oldsaltblog.com/2010/07/18/worlds-oldest-champagne-found-on-baltic-seabed/) thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In [November, wine experts tasted the “world’s oldest champagne”](http://www.oldsaltblog.com/2010/11/22/tasting-the-shipwreck-champagne-and-brewing-shipwreck-beer/) which was judged to be quite palatable.  Recently it was announced that two bottles of 200-year old champagne will be auctioned off in June.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/champagne.jpg)In July of last year [we posted about the discovery of 30 bottles of champagne](http://www.oldsaltblog.com/2010/07/18/worlds-oldest-champagne-found-on-baltic-seabed/) thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In [November, wine experts tasted the “world’s oldest champagne”](http://www.oldsaltblog.com/2010/11/22/tasting-the-shipwreck-champagne-and-brewing-shipwreck-beer/) which was judged to be quite palatable.  Recently it was announced that two bottles of 200-year old champagne will be auctioned off in June.
 
 [‘World’s oldest champagne’ to be sold at June auction](http://www.google.com/hostednews/afp/article/ALeqM5j8txKOXG02eFkCTl0ekXKjjw8lDw?docId=CNG.8bdb18d8dfec8b281f12d24654f48e0f.2b1)  
   

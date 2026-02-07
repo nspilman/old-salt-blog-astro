@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "More progress in the completion of Rhode Island’s tall ship, SSV Oliver Hazard Perry. The not yet tall ship was recently launched at Sims Metal Management in Providence and towed to Senesco Marine in North Kingstown to continue construction, including … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/mattgineohp8-150x150.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/mattgineohp8-150x150.jpg)
 
 Photo: OHPRI/Matt Gineo
 

@@ -11,12 +11,12 @@ tags:
   - "iceberg"
   - "Larsen C Ice Shelf"
   - "South Georgia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/bergbreakup.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bergbreakup.jpg"
 author: "Rick Spilman"
 description: "In November we posted that the world’s largest iceberg, dubbed A68a, was drifting on a collision course with the island of South Georgia. The iceberg calved from Antarctica’s Larsen C ice-shelf in 2017. The berg weighed roughly one trillion tons … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/bergbreakup.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bergbreakup.jpg)
 
 A view of the A68a iceberg from a Royal Air Force reconnaissance plane near South Georgia Island on Nov. 18. Image: UK Ministry of Defence
 

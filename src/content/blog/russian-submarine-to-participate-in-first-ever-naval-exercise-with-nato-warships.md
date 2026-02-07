@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A sign of changing times.  A Russian submarine will be participating in a NATO undersea rescue exercise off the Spanish coast scheduled for next month. Russian submarine to participate in first-ever naval exercise with NATO warships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/RussianAkula.jpg)A sign of changing times.  A Russian submarine will be participating in a NATO undersea rescue exercise off the Spanish coast scheduled for next month.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/RussianAkula.jpg)A sign of changing times.  A Russian submarine will be participating in a NATO undersea rescue exercise off the Spanish coast scheduled for next month.
 
 [Russian submarine to participate in first-ever naval exercise with NATO warships](http://www.google.com/hostednews/canadianpress/article/ALeqM5gi1xIyEsUPhvPQ34QzOSGWRf0xBQ?docId=6607960)  
   

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  \"Britain’s Atlantis.\"   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
 ---
 
-![doggerland](http://www.oldsaltblog.com/wp-content/uploads/2013/05/doggerland.jpg)
+![doggerland](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/doggerland.jpg)
 
 Doggerland, in red
 
@@ -36,7 +36,7 @@ A recent article in the [Mail-Online](http://www.dailymail.co.uk/sciencetech/art
 
 **Britain’s Other Atlantis – Dunwich, the Incredible sinking town**
 
-![dunwich-britains-atlantis-university-southampton](http://www.oldsaltblog.com/wp-content/uploads/2013/05/dunwich-britains-atlantis-university-southampton.jpg)
+![dunwich-britains-atlantis-university-southampton](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/dunwich-britains-atlantis-university-southampton.jpg)
 
 A 3D visualisation of the Chapel of St Katherine. Image Credit: University of Southampton.
 

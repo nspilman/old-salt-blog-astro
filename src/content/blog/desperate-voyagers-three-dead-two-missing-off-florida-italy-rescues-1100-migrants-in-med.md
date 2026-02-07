@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The two stories were drastically different and yet fundamentally the same. Off Florida on Thursday, roughly 75 miles northeast of West Palm Beach,  Zeeland, a Royal Netherlands Navy patrol craft bound for Key West, spotted and rescued seven on an overturned … Continue reading &rarr;"
 ---
 
-![marinamilitare](http://www.oldsaltblog.com/wp-content/uploads/2014/02/marinamilitare.jpg)
+![marinamilitare](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/marinamilitare.jpg)
 
 Photo: Marina Militare
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Early last month we posted about an ice island four times the size of Manhattan, a 100-square-mile block of ice 600 feet thick , that broke off from the Petermann glacier in Greenland.  In a case of an irresistible force meeting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/t1larg.ice_.island.esa_.jpg)Early last month we [posted about an ice island](http://www.oldsaltblog.com/2010/08/07/huge-ice-island-calves-from-greenlands-peterman-glacier/) four times the size of Manhattan, a 100-square-mile block of ice 600 feet thick *,* that broke off from the Petermann glacier in Greenland.  In a case of an irresistible force meeting an immovable object, the ice island has collided with Joe Island, a small rocky outcrop in the Nares Strait, west of Greenland.  Joe Island appears to have won as the ice island has now broken in two.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/t1larg.ice_.island.esa_.jpg)Early last month we [posted about an ice island](http://www.oldsaltblog.com/2010/08/07/huge-ice-island-calves-from-greenlands-peterman-glacier/) four times the size of Manhattan, a 100-square-mile block of ice 600 feet thick *,* that broke off from the Petermann glacier in Greenland.  In a case of an irresistible force meeting an immovable object, the ice island has collided with Joe Island, a small rocky outcrop in the Nares Strait, west of Greenland.  Joe Island appears to have won as the ice island has now broken in two.
 
 [‘Manhattan’ ice island splits in two](http://www.cnn.com/2010/WORLD/americas/09/10/petermann.ice.island/index.html?eref=mrss_igoogle_cnn)  
   

@@ -14,12 +14,12 @@ tags:
   - "Samuel B Roberts"
   - "USS Johnston"
   - "Victor Vescovo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/sammyb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/sammyb.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that explorers have found the deepest shipwreck ever identified, a US navy destroyer escort sunk during WWII. The USS Samuel B Roberts went down during the Battle Off Samar in the Philippine Sea in October 1944. It … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/sammyb.jpg)The [BBC](https://www.bbc.com/news/science-environment-61925862) reports that explorers have found the deepest shipwreck ever identified, a US navy destroyer escort sunk during WWII.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/sammyb.jpg)The [BBC](https://www.bbc.com/news/science-environment-61925862) reports that explorers have found the deepest shipwreck ever identified, a US navy destroyer escort sunk during WWII.
 
 The [USS *Samuel B Roberts*](https://en.wikipedia.org/wiki/USS_Samuel_B._Roberts_\(DE-413\)) went down during the [Battle Off Samar](https://en.wikipedia.org/wiki/Battle_off_Samar) in the Philippine Sea in October 1944. It lies in 6,895m (22,621ft) of water.
 

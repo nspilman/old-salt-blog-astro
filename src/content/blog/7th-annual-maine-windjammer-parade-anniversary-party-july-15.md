@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 1936, Frank Swift founded Maine Windjammer Cruises and began chartering or buying old cargo schooners and offering passenger cruises along the Maine Coast.  This Friday, the Maine Windjammer Association will hold the 7th Annual Maine Windjammer Parade & Anniversary Party in honor of Swift’s founding … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/CWF1.jpg)In 1936, [Frank Swift founded Maine Windjammer Cruises](http://www.mainewindjammercruises.com/stories.cfm?storyid=7) and began chartering or buying old cargo schooners and offering passenger cruises along the Maine Coast.  This Friday, the [Maine Windjammer Association](http://www.sailmainecoast.com/) will hold the [7th Annual Maine Windjammer Parade & Anniversary Party](http://camdenme.org/news/festivities-mark-windjammer-fleets-75th-anniversary-july-15) in honor of Swift’s founding of the Maine Windjammer industry seventy five years ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/CWF1.jpg)In 1936, [Frank Swift founded Maine Windjammer Cruises](http://www.mainewindjammercruises.com/stories.cfm?storyid=7) and began chartering or buying old cargo schooners and offering passenger cruises along the Maine Coast.  This Friday, the [Maine Windjammer Association](http://www.sailmainecoast.com/) will hold the [7th Annual Maine Windjammer Parade & Anniversary Party](http://camdenme.org/news/festivities-mark-windjammer-fleets-75th-anniversary-july-15) in honor of Swift’s founding of the Maine Windjammer industry seventy five years ago.
 
 [Festivities Mark Windjammer Fleet’s 75th Anniversary, July 15](http://camdenme.org/news/festivities-mark-windjammer-fleets-75th-anniversary-july-15)  
   

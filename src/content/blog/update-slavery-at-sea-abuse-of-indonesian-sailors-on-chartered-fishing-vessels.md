@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last April we posted, Slavery at Sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessels. Secret papers reveal the government has allowed fishermen from poor countries to be exploited in New Zealand waters.  Workers are fishing in rusting boats turned … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/fish.jpg)Last April we posted, [Slavery at Sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessels](http://www.oldsaltblog.com/2011/04/06/slavery-at-sea-abuse-of-sailors-on-new-zealand-chartered-fishing-vessles/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/fish.jpg)Last April we posted, [Slavery at Sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessels](http://www.oldsaltblog.com/2011/04/06/slavery-at-sea-abuse-of-sailors-on-new-zealand-chartered-fishing-vessles/).
 
 *Secret papers reveal the government has allowed fishermen from poor countries to be exploited in New Zealand waters.  Workers are fishing in rusting boats turned into high seas sweatshops that take large parts of the country’s $1.4 billion-a-year catch. …  Files obtained under the Official Information Act show the government has known about the problem for some time.*
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As Women’s History Month comes to a close, it seems a good time to remember Mary Ann Brown Patten, the first woman to command an American merchant ship. An updated repost. The year was 1856. The ship was the clipper … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/marypatten.jpg)As Women’s History Month comes to a close, it seems a good time to remember [Mary Ann Brown Patten](http://www.newenglandhistoricalsociety.com/mary-patten-19-pregnant-takes-command-clipper-ship-1856/), the first woman to command an American merchant ship. An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/marypatten.jpg)As Women’s History Month comes to a close, it seems a good time to remember [Mary Ann Brown Patten](http://www.newenglandhistoricalsociety.com/mary-patten-19-pregnant-takes-command-clipper-ship-1856/), the first woman to command an American merchant ship. An updated repost.
 
 The year was 1856. The ship was the clipper ship [*Neptune’s Car,*](http://www.bruzelius.info/Nautica/Ships/Clippers/Neptunes_Car\(1853\).html) bound for San Francisco from New York City. Mary’s husband Captain Joshua had collapsed, suffering from “brain fever.”  For 56 days, Mary took over the command and navigation of the ship. She faced down a mutiny and successfully brought the clipper into San Francisco. On her arrival, Mary was 19 years old and pregnant with her first child.
 

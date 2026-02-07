@@ -11,7 +11,7 @@ tags:
   - "Gloucester"
   - "Labor Day"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/glocesterschoonerfest2017.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/glocesterschoonerfest2017.jpg"
 author: "Rick Spilman"
 description: "One day, I really want to make it to Gloucester, MA for the yearly schooner festival held over the Labor Day weekend. Perhaps one year I will sail there in my own boat, which is definitely not a schooner.  In … Continue reading &rarr;"
 ---

@@ -14,12 +14,12 @@ tags:
   - "ULCC"
   - "ultra large crude carrier"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/safer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/safer.jpg"
 author: "Rick Spilman"
 description: "CNN reports that the United Nations has released a plan to offload 1 million barrels of oil off FSO Safer, a floating oil storage and offloading vessel, that has been moored off the coast of Yemen for more than 30 years. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/safer.jpg)CNN reports that the United Nations has released a plan to offload 1 million barrels of oil off FSO *Safer,* a floating oil storage and offloading vessel, that has been moored off the coast of Yemen for more than 30 years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/safer.jpg)CNN reports that the United Nations has released a plan to offload 1 million barrels of oil off FSO *Safer,* a floating oil storage and offloading vessel, that has been moored off the coast of Yemen for more than 30 years.
 
 In an attempt to avert what could be one of the worst environmental disasters in history, the converted tanker was purchased by the UN to get the oil off the vessel.
 

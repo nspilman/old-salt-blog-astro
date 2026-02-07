@@ -31,6 +31,6 @@ These are not the only options. There are also [hydrofoil bikes](http://www.yout
 
 My favorite form of on-the-water peddling are the [Hobie Mirage series of kayaks.](http://www.hobiecat.com/mirage/mirage-sport/)  These pedal powered kayaks with the Hobie [Mirage Drive](http://www.hobiecat.com/mirage/miragedrive/) pedal wonderfully on the water, but obviously not so well on land.  One could tie a [folding bicycle on the stern](http://dahon.com/mainnav/folding-bikes/all-folding-bikes.html) and save on set-up time as compared to inflating and deflating pontoon hulls.  You would still have to find a place to tie up the kayak.
 
-![sport-studio-3-4-caribbean-blue-shadowed_2](http://www.oldsaltblog.com/wp-content/uploads/2013/10/sport-studio-3-4-caribbean-blue-shadowed_2.jpg)
+![sport-studio-3-4-caribbean-blue-shadowed_2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/sport-studio-3-4-caribbean-blue-shadowed_2.jpg)
 
 Mirage Sport

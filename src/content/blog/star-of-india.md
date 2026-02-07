@@ -21,57 +21,57 @@ A few photos from a recent visit to the *[Star of India](http://www.sdmaritime.o
 
 #gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/dolphinboomsmall-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/dolphinboomsmall.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/dolphinboomsmall-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/dolphinboomsmall.jpg)
 
 Jib Boom and Dolphin
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/workingjb2-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/workingjb2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/workingjb2-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/workingjb2.jpg)
 
 Working on the Jib Boom
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/jibboom2small-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/jibboom2small.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/jibboom2small-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/jibboom2small.jpg)
 
 On the bowsprit
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard1small-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard1small.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard1small-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard1small.jpg)
 
 Volunteer Crew on the Yard
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard3a-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard3a.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard3a-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard3a.jpg)
 
 On the topsail yard
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard2asmall-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/ontheyard2asmall.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard2asmall-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ontheyard2asmall.jpg)
 
 At the yard arm
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/hove2small-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/hove2small.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/hove2small-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/hove2small.jpg)
 
 Staysail and topsail
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/topsail-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/topsail.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/topsail-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/topsail.jpg)
 
 Topsail
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/staysail2bsmall-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/staysail2bsmall.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/staysail2bsmall-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/staysail2bsmall.jpg)
 
 Staysails
 
   
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/spanker1small-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/spanker1small.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/spanker1small-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/spanker1small.jpg)
 
 Spanker & Staysail
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/pinrail1a-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/pinrail1a.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/pinrail1a-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/pinrail1a.jpg)
 
 Pinrail
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/06/painting1small-125x70.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/06/painting1small.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/painting1small-125x70.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/painting1small.jpg)
 
 Touching up the paint
 

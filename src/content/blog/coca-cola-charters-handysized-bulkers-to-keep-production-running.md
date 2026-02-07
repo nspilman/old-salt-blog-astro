@@ -11,12 +11,12 @@ tags:
   - "Coca-Cola"
   - "Handy Bulkers"
   - "port congestion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/cocacolabulk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/cocacolabulk.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Home Depot and Costco independently chartering containerships to address ship and port congestion problems. Now, Coca-Cola is taking another approach to fix its broken supply chains. Splash247.com reports that Coca-Cola becomes the latest global mega-brand to decide … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/cocacolabulk.jpg)We recently posted about [Home Depot and Costco independently chartering containerships](http://www.oldsaltblog.com/2021/09/port-congestion-spreads-to-east-coast-major-shippers-charter-ships-independently/) to address ship and port congestion problems. Now, Coca-Cola is taking another approach to fix its broken supply chains.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/cocacolabulk.jpg)We recently posted about [Home Depot and Costco independently chartering containerships](http://www.oldsaltblog.com/2021/09/port-congestion-spreads-to-east-coast-major-shippers-charter-ships-independently/) to address ship and port congestion problems. Now, Coca-Cola is taking another approach to fix its broken supply chains.
 
 [Splash247.com](https://splash247.com/its-the-real-thing-coke-sources-handy-bulkers-as-container-choices-run-dry/) reports that Coca-Cola becomes the latest global mega-brand to decide to switch from regular liner choices for crucial deliveries, instead opting to move just over 60,000 tonnes of material on three handysize bulk carriers to keep its production lines running across the world.
 

@@ -12,12 +12,12 @@ tags:
   - "Hawaii Department of Transportation (HDOT) Harbors Division"
   - "International Friends of the Falls of Clyde"
   - "State of Hawaii"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg"
 author: "Rick Spilman"
 description: "Even though it was expected, it still comes as a shock. Yesterday, the Hawaii Department of Transportation (HDOT) Harbors Division filed a public notification that the historic windjammer, Falls of Clyde, is being offered for sale by auction.  Those who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg)Even though it was expected, it still comes as a shock. Yesterday, the Hawaii Department of Transportation (HDOT) Harbors Division filed a [public notification](http://hidot.hawaii.gov/blog/2019/02/07/notice-of-public-auction-for-the-falls-of-clyde/?platform=hootsuite) that the historic windjammer, [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), is being offered for sale by auction. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg)Even though it was expected, it still comes as a shock. Yesterday, the Hawaii Department of Transportation (HDOT) Harbors Division filed a [public notification](http://hidot.hawaii.gov/blog/2019/02/07/notice-of-public-auction-for-the-falls-of-clyde/?platform=hootsuite) that the historic windjammer, [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), is being offered for sale by auction. 
 
 Those who wish to bid on the ship must [post a performance bond](https://hidot.hawaii.gov/harbors/files/2019/02/Notice-of-Public-Auction-FOC-2-7-2019.pdf) in the amount of $1.5 million guaranteeing removal of the vessel from Honolulu Harbor within 60 calendar days from the bill of sale. The 280 foot long, iron-hulled, four-masted ship will be available for inspection to potential bidders on February 15. Sealed bids are due by 11 AM on February 28th. The winning bidder will be announced later that day. If no bids are received the State reserves the right to sell the ship by negotiation, to scrap it or to dispose of it by any other legal means.
 

@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The high-tech canting keels on the Vendée Globe Open 60 racing sailboats continue to be problematic, at best.  On Sunday, Javier Sanso’s boat, Acciona, capsized, when his keel broke off.  Sanso was rescued today.  Also today, Jean-Pierre Dick crossed the finish line despite having lost his … Continue reading &rarr;"
 ---
 
-![Acciona - Upside Down without a Keel](http://www.oldsaltblog.com/wp-content/uploads/2013/02/acciona-retourne-sans-sa-qu.jpg)
+![Acciona - Upside Down without a Keel](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/acciona-retourne-sans-sa-qu.jpg)
 
 Acciona – Upside Down without a Keel
 

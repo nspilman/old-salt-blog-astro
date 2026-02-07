@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Joseph Conrad, who claimed not to be a sentimentalist when came to the life at sea, waxed poetic when writing of the trade winds:  In the middle belt of the earth the Trade Winds reign supreme, undisputed, like monarchs of … Continue reading &rarr;"
 ---
 
-[![Colour shading shows observed temperature trends (°C per decade) during 1992–2011 at the sea surface ](http://www.oldsaltblog.com/wp-content/uploads/2014/02/nclimate2106-f3.jpg)](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2106.html)
+[![Colour shading shows observed temperature trends (°C per decade) during 1992–2011 at the sea surface ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/nclimate2106-f3.jpg)](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2106.html)
 
 Colour shading shows observed temperature trends (°C per decade) during 1992–2011 at the sea surface
 

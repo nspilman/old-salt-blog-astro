@@ -11,7 +11,7 @@ tags:
   - "Bikini atoll"
   - "nuclear"
   - "sunken fleet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/bikinifleet1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/bikinifleet1.jpg"
 author: "Rick Spilman"
 description: "A fascinating and sobering video about diving on the fleet of ships destroyed by 23 nuclear detonations by the United States between 1946 and 1958 in seven test sites on and near the Bikini Atoll in the Marshall Islands in … Continue reading &rarr;"
 ---

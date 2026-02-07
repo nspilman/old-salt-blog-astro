@@ -8,12 +8,12 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/USS_James_Madison_SSBN-627.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/USS_James_Madison_SSBN-627.jpg"
 author: "Rick Spilman"
 description: "A Russian spy ship lingering off the US coast has been in the news recently. Within the last day or so, the spy ship Viktor Leonov was hanging out off the US Navy submarine base at New London. (The ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/USS_James_Madison_SSBN-627.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/USS_James_Madison_SSBN-627.jpg)
 
 USS James Madison
 

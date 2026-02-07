@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "The Northwest School of Wooden Boat Building in Port Hadlock, WA, is restoring a forgotten piece of sailing history –  the Felicity Ann, a 23′ wooden boat, launched in 1949.  In 1952-1953, Ann Davison, at 39, sailed  the Felicity Ann single-handed across the Atlantic, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/felicityann.jpg)The [Northwest School of Wooden Boat Building](http://www.nwboatschool.org/) in Port Hadlock, WA, is restoring a forgotten piece of sailing history –  the *[Felicity Ann](http://felicityann.com/)*, a 23′ wooden boat, launched in 1949.  In 1952-1953, [Ann Davison,](http://www.windlasscreative.com/shshof_web/ann_davison.htm) at 39, sailed  the *Felicity Ann* single-handed across the Atlantic, becoming the first woman ever to do so.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/felicityann.jpg)The [Northwest School of Wooden Boat Building](http://www.nwboatschool.org/) in Port Hadlock, WA, is restoring a forgotten piece of sailing history –  the *[Felicity Ann](http://felicityann.com/)*, a 23′ wooden boat, launched in 1949.  In 1952-1953, [Ann Davison,](http://www.windlasscreative.com/shshof_web/ann_davison.htm) at 39, sailed  the *Felicity Ann* single-handed across the Atlantic, becoming the first woman ever to do so.
 
 The project is a partnership between Northwest School of Wooden Boat Building, the [Community Boat Project](http://communityboats.wordpress.com/) and [WSU Jefferson County 4-H](http://county.wsu.edu/jefferson/youth/Pages/default.aspx). From the *[Felicity Ann](http://felicityann.com/)* website:  
   

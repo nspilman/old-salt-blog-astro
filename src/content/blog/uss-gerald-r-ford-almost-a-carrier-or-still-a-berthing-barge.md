@@ -13,12 +13,12 @@ tags:
   - "General Accounting Office"
   - "navy"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg"
 author: "Rick Spilman"
 description: "The $13 billion dollar aircraft carrier USS Gerald R. Ford  is the most expensive warship the world has ever seen. Commissioned in 2017, the ship is still not ready for deployment.  Is the Ford almost ready for combat service or … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg)The $13 billion dollar aircraft carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford)  is the most expensive warship the world has ever seen. Commissioned in 2017, the ship is still not ready for deployment.  Is the *Ford* almost ready for combat service or is it still what critics have called a $13 billion berthing barge? It all depends on who you ask — the Navy or the General Accounting Office (GAO).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg)The $13 billion dollar aircraft carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford)  is the most expensive warship the world has ever seen. Commissioned in 2017, the ship is still not ready for deployment.  Is the *Ford* almost ready for combat service or is it still what critics have called a $13 billion berthing barge? It all depends on who you ask — the Navy or the General Accounting Office (GAO).
 
 According to the Navy, things are going well. [The National Interest](https://nationalinterest.org/blog/buzz/us-navys-new-uss-gerald-ford-aircraft-carrier-getting-close-combat-ready-160256) reports that the *USS Gerald R. Ford* (CVN 78) recently completed the tests to prove that the latest aircraft carrier to enter service can launch and recover jets. Now the U.S. Navy has announced that it has the largest air wing embark to date. In addition, the *Ford* completed its first ordnance movement from a lower deck magazine to the carrier’s F/A-18E Super Hornets using the ship’s state-of-the-art Advanced Weapons Elevators.
 

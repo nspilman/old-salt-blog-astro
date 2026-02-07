@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Russian cargo ship Simushir lost power off British Columbia Thursday. The ship is now under tow by the CCGS Gordon Reid. More tugs are on the way."
 ---
 
-![Photo: Maritime Forces Pacific/Facebook](http://www.oldsaltblog.com/wp-content/uploads/2014/10/simushir-under-tow-oct-18-2014.jpg)
+![Photo: Maritime Forces Pacific/Facebook](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/simushir-under-tow-oct-18-2014.jpg)
 
 Photo: Maritime Forces Pacific/Facebook
 

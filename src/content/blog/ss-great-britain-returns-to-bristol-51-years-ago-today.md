@@ -12,7 +12,7 @@ tags:
   - "Isambard Kingdom Brunel"
   - "SS Great Britain"
   - "steamship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/brunelsgb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/brunelsgb.jpg"
 author: "Rick Spilman"
 description: "[tribulant_slideshow gallery_id=\"4″]  Fifty-one years ago today, 100,000 people lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk was meticulously restored to her former glory … Continue reading &rarr;"
 ---

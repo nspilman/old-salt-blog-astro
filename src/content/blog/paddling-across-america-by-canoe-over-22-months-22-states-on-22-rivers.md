@@ -15,12 +15,12 @@ tags:
   - "Mississippi River"
   - "Neal Moore"
   - "paddle across America"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/nealmoore.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/nealmoore.jpg"
 author: "Rick Spilman"
 description: "Last Tuesday, Neal Moore, 50, paddled his 16-foot red Old Town Penobscot canoe into New York harbor completing an epic 7,500-mile journey across America in over 22 months, traveling through 22 states, while paddling on 22 rivers.  For 675 days, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/nealmoore.jpg)Last Tuesday, [Neal Moore](https://www.instagram.com/riverjournalist/?hl=en), 50, paddled his 16-foot red Old Town Penobscot canoe into New York harbor completing an epic 7,500-mile journey across America in over 22 months, traveling through 22 states, while paddling on 22 rivers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/nealmoore.jpg)Last Tuesday, [Neal Moore](https://www.instagram.com/riverjournalist/?hl=en), 50, paddled his 16-foot red Old Town Penobscot canoe into New York harbor completing an epic 7,500-mile journey across America in over 22 months, traveling through 22 states, while paddling on 22 rivers. 
 
 For 675 days, [from February 9, 2020 until December 14, 2021](https://22rivers.com/the-expedition/), Neal Moore went the distance in an expedition inspired by the travelogues of Mark Twain, from Astoria, Oregon on the Pacific Coast to the Statue of Liberty in New York harbor. He set out to roam “community to community” and write about the people he met.
 
@@ -34,6 +34,6 @@ He then paddled for 8-months over 3,599 river miles down the Missouri, up and do
 
 By early 2021, Moore headed back north up the Ohio and Allegheny and other rivers to Lake Erie and finally the Hudson River, covering 2,890 river and portage miles to New York City, on the third and final leg of the trip. Along the route, he was forced to complete a 170-mile portage from Syracuse to Albany alongside the Oneida and the Mohawk (due to the NY Canal System shutting down operations in mid-October, 2021).
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/canoeriverroute.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/canoeriverroute.jpg)
 
 On his arrival in New York harbor, Moore was met by well-wishers including [Bjoern Kils and the New York Media Boat](https://www.facebook.com/NewYorkMediaBoat/).

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On February 16, 1941 the S.S. Gairsoppa was bound from India to Britain, when she was torpedoed by a German submarine and sank 300 miles southwest of Galway Bay.  In addition to pig iron and tea, she carried silver bullion … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/ssgairsoppa.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/ssgairsoppa.jpg)
 
 On February 16, 1941 the [S.S.](http://en.wikipedia.org/wiki/SS_Gairsoppa) *[Gairsoppa](http://en.wikipedia.org/wiki/SS_Gairsoppa)* was bound from India to Britain, when she was torpedoed by a German submarine and sank 300 miles southwest of Galway Bay.  In addition to pig iron and tea, she carried silver bullion currently valued at $260 million.   This week,   [Odyssey Marine Exploration , Inc.](http://www.shipwreck.net/) has been awarded a contract by the British government to locate the ship and to salvage the cargo. If successful Odyssey will be allowed to keep about 80 percent of  the silver bullion.
 

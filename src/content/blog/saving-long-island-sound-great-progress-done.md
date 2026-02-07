@@ -10,12 +10,12 @@ tags:
   - "Long Island Sound"
   - "nitrogen"
   - "sewage"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/longislandsound.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/longislandsound.jpg"
 author: "Rick Spilman"
 description: "When my wife and I recently passed through Western Long Island Sound near City Island on a recent Saturday morning, we saw dozens of fishing boats — large and small, including at least three kayaks outfitted for fishing. I recall … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/longislandsound.jpg)When my wife and I recently passed through Western Long Island Sound near City Island on a recent Saturday morning, we saw dozens of fishing boats — large and small, including at least three kayaks outfitted for fishing. I recall a couple of decades ago when the western sound was so depleted of oxygen by algae blooms that fish couldn’t survive. There were no fish to be caught, and if there had been fish, the range of pollutants in the water might not have made them appealing to catch and eat. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/longislandsound.jpg)When my wife and I recently passed through Western Long Island Sound near City Island on a recent Saturday morning, we saw dozens of fishing boats — large and small, including at least three kayaks outfitted for fishing. I recall a couple of decades ago when the western sound was so depleted of oxygen by algae blooms that fish couldn’t survive. There were no fish to be caught, and if there had been fish, the range of pollutants in the water might not have made them appealing to catch and eat. 
 
 Likewise, when we picked up the launch to go out to the boat in Oyster Bay the night before, I was amazed to see a large school of bluefish swarming right off the dock. Menhaden, also known as bunker, have returned to the Sound and to Oyster Bay with a vengeance and the bluefish are feasting. So too are the humpback whales, which have returned to Long Island Sound for the first time in two decades.
 

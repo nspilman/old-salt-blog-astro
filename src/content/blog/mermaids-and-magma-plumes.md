@@ -10,12 +10,12 @@ tags:
   - "Galapagos"
   - "magma plume"
   - "Mermaids"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/mermaidplume.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/mermaidplume.jpg"
 author: "Rick Spilman"
 description: "Scientists have identified a huge magma plume under the Galapagos archipelago using an array of floating robotic seismometers. In other news, the acronym writers have been working overtime. The robotic seismometers used in study have been named Mobile Earthquake Recording in Marine Areas by Independent … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/mermaidplume-200x154.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/mermaidplume-200x154.jpg)
 
 Credit: Princeton University
 

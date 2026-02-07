@@ -17,17 +17,17 @@ author: "Rick Spilman"
 description: "Fire Island is a thirty mile long barrier island on the south shore of Long Island, east of the entrance of New York harbor.   Last week, Le Papillon, a 50′ steel pinky schooner, went ashore on the beach on Fire … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/papillionwill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/papillionwill.jpg)
 
 Photo: Will van Dorp
 
-Fire Island is a thirty mile long barrier island on the south shore of Long Island, east of the entrance of New York harbor.   Last week, [**Le Papillon**, a 50′ steel pinky schooner](https://www.st.nmfs.noaa.gov/pls/webpls/cgv_pkg.vessel_id_list?vessel_id_in=564500), went ashore on the beach on Fire Island near the village of SaltAire.   The 19 year old captain and the two 20 year old passengers were rescued without injury.  [Will van Dorp of the Tugster blog captured dramatic photos of the grounded schooner in the Fire Island surf.](http://tugster.wordpress.com/2011/04/05/ashore-2/) What will become of  **Le Papillon?** That is difficult to say, but by Tuesday of this week, an [ad appeared in Craigslist offering the schooner for sale for $15,000](http://www.oldsaltblog.com/wp-content/uploads/2011/04/papillionforsale.jpg), with the important requirement: “Needs immediate removal.”  *Le Papillon* is neither the first nor likely to be the last vessel to run aground on the Fire Island shoals.  
+Fire Island is a thirty mile long barrier island on the south shore of Long Island, east of the entrance of New York harbor.   Last week, [**Le Papillon**, a 50′ steel pinky schooner](https://www.st.nmfs.noaa.gov/pls/webpls/cgv_pkg.vessel_id_list?vessel_id_in=564500), went ashore on the beach on Fire Island near the village of SaltAire.   The 19 year old captain and the two 20 year old passengers were rescued without injury.  [Will van Dorp of the Tugster blog captured dramatic photos of the grounded schooner in the Fire Island surf.](http://tugster.wordpress.com/2011/04/05/ashore-2/) What will become of  **Le Papillon?** That is difficult to say, but by Tuesday of this week, an [ad appeared in Craigslist offering the schooner for sale for $15,000](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/papillionforsale.jpg), with the important requirement: “Needs immediate removal.”  *Le Papillon* is neither the first nor likely to be the last vessel to run aground on the Fire Island shoals.  
   
 One hundred and eighteen years ago, a historically significant ship ran aground up the beach from where **Le Papillon** now lies**.** The *[Gluckauf](http://www.aukevisser.nl/german/id95.htm),* built in 1886, was the first “modern tanker ” and the basis for many tankers to follow.   Despite her name, she was very unlucky on March 24, 1893 when she went [aground off Blue Point Beach on Fire Island](http://www.davispark.org/GLUCKAUF.shtml).   She was never salvaged.  Over time she was simply swallowed up by the Fire Island sands.  She was 300 feet long, had a 37 foot beam, and displaced 2,307 gross tons. She is now  is completely buried beneath the sand only 100 feet offshore in 25 feet of water.
 
 From the [New York Times of November 10, 1895](http://query.nytimes.com/gst/abstract.html?res=F30A14FD3A5D15738DDDA90994D9415B8585F0D3&scp=3&sq=gluckauf&st=cse)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/G1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/G1.jpg)
 
 The Unlucky Gluckauf
 

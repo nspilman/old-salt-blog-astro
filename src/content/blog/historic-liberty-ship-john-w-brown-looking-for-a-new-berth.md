@@ -11,12 +11,12 @@ tags:
   - "Baltimore"
   - "John W. Brown"
   - "Liberty ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/johnbrownliberty1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/johnbrownliberty1.jpg"
 author: "Rick Spilman"
 description: "Of the more than 2,700 Liberty ships built during World War II, only two are still operational in the United States. One, the John W. Brown, now docked in Baltimore, may become homeless when its five-year agreement for free berthing at Rukert … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2014/12/jownwbrown.jpg)Of the more than 2,700 Liberty ships built during World War II, only two are still operational in the United States. One, the John W. Brown, now docked in Baltimore, may become homeless when its five-year agreement for free berthing at Rukert Terminals’ Pier C in Canton, Maryland expires at the end of next September.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/jownwbrown.jpg)Of the more than 2,700 Liberty ships built during World War II, only two are still operational in the United States. One, the John W. Brown, now docked in Baltimore, may become homeless when its five-year agreement for free berthing at Rukert Terminals’ Pier C in Canton, Maryland expires at the end of next September.
 
 The [Baltimore Sun](https://www.baltimoresun.com/news/maryland/baltimore-city/bs-fe-john-w-brown-20181120-story.html) quotes, Richard Bauman, 65, a retired ship pilot for the state of Maryland who serves as captain and master of the John W. Brown, saying “We’ve spent a good bit of time looking for a new, permanent home, but we haven’t really had a whole lot of luck.  They’re not going to throw us out, but they run a business, and they would like to have us find a place where we can stay permanently.”
 

@@ -12,12 +12,12 @@ tags:
   - "Posidonia australis"
   - "sea grass"
   - "Shark Bay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/seagrass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/seagrass.jpg"
 author: "Rick Spilman"
 description: "Australian researchers were performing a genetic survey of Poseidon’s ribbon weed (Posidonia australis), a species of seagrass growing widely in Shark Bay, off the westernmost tip of Australia. Researchers collected shoots from across the bay and examined 18,000 genetic markers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/seagrass.jpg)Australian researchers were performing a genetic survey of Poseidon’s ribbon weed ([Posidonia australis](https://en.wikipedia.org/wiki/Posidonia_australis)), a species of seagrass growing widely in Shark Bay, off the westernmost tip of Australia. Researchers collected shoots from across the bay and examined 18,000 genetic markers to create a “fingerprint” from each sample. They had aimed to discover how many plants made up the meadow. When the DNA results came in, they made a remarkable discovery. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/seagrass.jpg)Australian researchers were performing a genetic survey of Poseidon’s ribbon weed ([Posidonia australis](https://en.wikipedia.org/wiki/Posidonia_australis)), a species of seagrass growing widely in Shark Bay, off the westernmost tip of Australia. Researchers collected shoots from across the bay and examined 18,000 genetic markers to create a “fingerprint” from each sample. They had aimed to discover how many plants made up the meadow. When the DNA results came in, they made a remarkable discovery. 
 
 The seagrass, covering over 180km, an area three times the size of Manhattan, is, in fact, a single plant, having grown from a single seed over at least 4,500 years.  The self-cloning plant is also the largest single plant in the world.
 

@@ -12,12 +12,12 @@ tags:
   - "Clydebank Declaration for Green Shipping Corridors"
   - "COP26"
   - "U.N. climate talks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/clydebank.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/clydebank.jpg"
 author: "Rick Spilman"
 description: "While many were disappointed by the lack of major breakthroughs at COP26, the recent U.N. climate talks, significant progress was made in beginning to clean up shipping emissions on global trade routes. As reported by the Washington Post, the United … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/clydebank.jpg)While many were disappointed by the lack of major breakthroughs at COP26, the recent U.N. climate talks, significant progress was made in beginning to clean up shipping emissions on global trade routes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/clydebank.jpg)While many were disappointed by the lack of major breakthroughs at COP26, the recent U.N. climate talks, significant progress was made in beginning to clean up shipping emissions on global trade routes.
 
 As reported by the [Washington Post](https://www.washingtonpost.com/politics/2021/11/30/22-countries-agreed-establish-green-shipping-routes-thats-big-news/), the United States, Japan, Germany, Britain, France, and others — 22 countries in all — signed the [Clydebank Declaration for Green Shipping Corridors](https://ukcop26.org/cop-26-clydebank-declaration-for-green-shipping-corridors/), a new framework for reducing carbon dioxide and other greenhouse gas emissions from shipping. The signatories commit to establishing “zero-emission maritime routes” for ships using clean marine fuels such as methanol or ammonia.
 

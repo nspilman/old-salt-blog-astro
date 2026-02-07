@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Coast Guard released a report yesterday that was highly critical of  Transocean, the owner of the Deepwater Horizon drill rig, which exploded and sank last year. Transocean contributed to Gulf disaster, Coast Guard report says Flaws in Transocean Ltd.’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/deepwater-horizon-explosion.jpg)The Coast Guard released a report yesterday that was highly critical of  Transocean, the owner of the Deepwater Horizon drill rig, which exploded and sank last year.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg)The Coast Guard released a report yesterday that was highly critical of  Transocean, the owner of the Deepwater Horizon drill rig, which exploded and sank last year.
 
 [Transocean contributed to Gulf disaster, Coast Guard report says](http://www.cleveland.com/business/index.ssf/2011/04/transocean_contributed_to_gulf.html)
 

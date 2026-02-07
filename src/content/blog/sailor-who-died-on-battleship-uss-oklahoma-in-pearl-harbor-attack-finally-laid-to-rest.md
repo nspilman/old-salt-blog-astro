@@ -13,12 +13,12 @@ tags:
   - "Herbert \"Bert\" Jacobson"
   - "Pearl Harbor"
   - "USS Oklahoma"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/bertj1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/bertj1.jpg"
 author: "Rick Spilman"
 description: "Herbert \"Bert\" Jacobson was 21 when he died in the Japanese attack on Pearl Harbor on December 7, 1941. Over 80 years later, he was finally laid to rest yesterday in Arlington National Cemetery in Virginia. He was one of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/bertj1.jpg)Herbert “Bert” Jacobson was 21 when he died in the Japanese attack on Pearl Harbor on December 7, 1941. Over 80 years later, he was finally laid to rest yesterday in Arlington National Cemetery in Virginia. He was one of 429 sailors and Marines on the battleship [USS *Oklahoma*](https://en.wikipedia.org/wiki/USS_Oklahoma_\(BB-37\)), who were killed in the attack.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/bertj1.jpg)Herbert “Bert” Jacobson was 21 when he died in the Japanese attack on Pearl Harbor on December 7, 1941. Over 80 years later, he was finally laid to rest yesterday in Arlington National Cemetery in Virginia. He was one of 429 sailors and Marines on the battleship [USS *Oklahoma*](https://en.wikipedia.org/wiki/USS_Oklahoma_\(BB-37\)), who were killed in the attack.
 
 In the years following the attack, only 35 of the 429 crew who died on *Oklahoma* were identified. In 2015, the Department of Defense announced that the unidentified remains of the crew members of *Oklahoma* would be exhumed for DNA analysis, with the goal of returning identified remains to their families.
 

@@ -13,12 +13,12 @@ tags:
   - "Luna Rossa Prada Pirelli"
   - "Prada Cup"
   - "Team New Zealand"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/lunarossa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/lunarossa.jpg"
 author: "Rick Spilman"
 description: "This weekend, the Italian team Luna Rossa Prada Pirelli decisively won the Prada Cup Final, eliminating INEOS Team UK by 7 races to 1. Luna Rossa is now preparing for the final America’s Cup races against Emirates Team New Zealand … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/lunarossa.jpg)This weekend, the Italian team [Luna Rossa Prada Pirelli](https://www.lunarossachallenge.com/) decisively won the [Prada Cup Final](https://www.americascup.com/en/news/1130_LUNA-ROSSA-PRADA-PIRELLI-WIN-THE-PRADA-CUP), eliminating [INEOS Team UK](https://www.ineosteamuk.com/) by 7 races to 1. Luna Rossa is now preparing for the final [America’s Cup race](https://www.americascup.com/)s against [Emirates Team New Zealand](https://emirates-team-new-zealand.americascup.com/) beginning on March 6th. The final races for the Cup between Luna Rossa and Team New Zealand will be a rematch 21 years in the making.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/lunarossa.jpg)This weekend, the Italian team [Luna Rossa Prada Pirelli](https://www.lunarossachallenge.com/) decisively won the [Prada Cup Final](https://www.americascup.com/en/news/1130_LUNA-ROSSA-PRADA-PIRELLI-WIN-THE-PRADA-CUP), eliminating [INEOS Team UK](https://www.ineosteamuk.com/) by 7 races to 1. Luna Rossa is now preparing for the final [America’s Cup race](https://www.americascup.com/)s against [Emirates Team New Zealand](https://emirates-team-new-zealand.americascup.com/) beginning on March 6th. The final races for the Cup between Luna Rossa and Team New Zealand will be a rematch 21 years in the making.
 
 Team Luna Rossa won the [Louis Vuitton Cup](https://en.wikipedia.org/wiki/Louis_Vuitton_Cup "Louis Vuitton Cup") on their first America’s Cup attempt in 2000 but then [lost the competition in the finals](https://en.wikipedia.org/wiki/2000_America%27s_Cup) against the defending champion team, Team New Zealand.
 

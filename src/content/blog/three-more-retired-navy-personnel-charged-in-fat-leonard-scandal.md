@@ -9,12 +9,12 @@ categories:
 tags:
   - "Fat Leonard"
   - "US Navy scandal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
 description: "Two retired U.S. Navy chief petty officers and one retired captain were charged with bribery and fraud in the multi-year \"Fat Leonard\" criminal investigation, which has been described as the worst corruption scandal in Navy history. Leonard Glenn Francis, who at 6’3″ tall and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg)
 
 Fat Leonard
 

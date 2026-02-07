@@ -11,12 +11,12 @@ tags:
   - "Indonesia"
   - "Sunda Strait"
   - "tsunami"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/anakkrakatoa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/anakkrakatoa.jpg"
 author: "Rick Spilman"
 description: "On Saturday, a tsunami in Indonesia’s Sunda Strait killed at least 222 and injured 843. The huge wave hit without warning at night destroying hundreds of homes and buildings, sweeping away cars and uprooting trees. Officials say more than 160 people were killed in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/anakkrakatoa.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/anakkrakatoa.jpg)
 
 Anak Krakatau
 

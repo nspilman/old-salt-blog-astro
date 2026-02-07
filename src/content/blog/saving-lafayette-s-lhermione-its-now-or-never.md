@@ -16,12 +16,12 @@ tags:
   - "Marquis de Lafayette"
   - "Rochefort"
   - "rot"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2014/09/accueil__066374100_1654_28062007.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/accueil__066374100_1654_28062007.jpg"
 author: "Rick Spilman"
 description: "French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, L’Hermione. The Hermione-La Fayette Association says that to finance the ship’s restoration,\" It’s now or never.\" The original frigate carried the Marquis de … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2014/09/accueil__066374100_1654_28062007.jpg)French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, *[L’Hermione](https://fregate-hermione.com/). [The Hermione-La Fayette Association says that to finance the ship’s restoration,” It’s now or never.](https://fregate-hermione.com/association/soutenez-laventure/manifeste-soutien-entreprises-mecenes/)“*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/accueil__066374100_1654_28062007.jpg)French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, *[L’Hermione](https://fregate-hermione.com/). [The Hermione-La Fayette Association says that to finance the ship’s restoration,” It’s now or never.](https://fregate-hermione.com/association/soutenez-laventure/manifeste-soutien-entreprises-mecenes/)“*
 
 The original frigate carried the Marquis de Lafayette across the Atlantic to announce France’s support for American independence from Great Britain in the American Revolutionary War. 
 

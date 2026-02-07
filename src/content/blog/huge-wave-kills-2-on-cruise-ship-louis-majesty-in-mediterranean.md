@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Huge wave kills 2 on cruise ship in Mediterranean A 26-foot wave smashed into a cruise ship carrying nearly 2,000 people in the Mediterranean on Wednesday, smashing glass windshields and killing two passengers, according to officials and news reports. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/lm.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/lm.jpg)
 
 Louis Majesty
 

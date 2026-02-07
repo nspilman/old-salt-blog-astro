@@ -13,12 +13,12 @@ tags:
   - "New Zealand"
   - "NIWA"
   - "USB memory card"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/amandaneely.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/amandaneely.jpg"
 author: "Rick Spilman"
 description: "The owner of a USB memory card, which was found in a pile of leopard seal scat, has been located.  Last week we posted about USB memory card that was buried in a pile of leopard seal scat near Oreti Beach … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/amandaneely.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/amandaneely.jpg)
 
 Amanda Nally
 

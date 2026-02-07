@@ -14,12 +14,12 @@ tags:
   - "Royal Navy"
   - "time"
   - "Times Square"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg"
 author: "Rick Spilman"
 description: "Last night in New York City, people watched, primarily on-line or on television, as a jeweled ball dropped in Times Square at exactly midnight to mark the arrival of the New Year, 2021. In past years, the crowd in Times … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg)
 
 The USNO Millennium Time Ball
 

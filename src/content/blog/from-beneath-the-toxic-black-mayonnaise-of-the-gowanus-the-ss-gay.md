@@ -5,12 +5,12 @@ slug: "from-beneath-the-toxic-black-mayonnaise-of-the-gowanus-the-ss-gay"
 excerpt: "The Gowanus Canal in Brooklyn is one of the most polluted waterways in the nation. When I went to work for Moore McCormack many, many years ago, their New York terminal was on 23rd Street on the Gowanus. I recall … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/ssgay.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/ssgay.jpg"
 author: "Rick Spilman"
 description: "The Gowanus Canal in Brooklyn is one of the most polluted waterways in the nation. When I went to work for Moore McCormack many, many years ago, their New York terminal was on 23rd Street on the Gowanus. I recall … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/ssgay.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/ssgay.jpg)
 
 Remains of the SS Gy
 

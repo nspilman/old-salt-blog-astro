@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Ninety years on, locations of Royal Navy warships sunk in Russian Revolution are found The wrecks of three British warships sunk more than 90 years ago – seeking to prevent the Bolshevik Revolution from spreading West – have been located … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/rnshipsestonia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/rnshipsestonia.jpg)
 
 HMS Cassandra
 

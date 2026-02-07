@@ -13,12 +13,12 @@ tags:
   - "Puerto Rico"
   - "Rhapsody of the Seas"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/09/rhasodyofthe-seas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/rhasodyofthe-seas.jpg"
 author: "Rick Spilman"
 description: "After accumulating more than $16,000 in gambling debt, Jey Gonzalez-Diaz, a passenger on the Rhapsody of the Seas, jumped overboard after the ship docked in Puerto Rico last weekend, authorities said. The passenger leaped from the Royal Caribbean cruise ship … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/09/rhasodyofthe-seas.jpg)After accumulating more than $16,000 in gambling debt, Jey Gonzalez-Diaz, a passenger on the *[Rhapsody of the Seas](https://www.royalcaribbean.com/cruise-ships/rhapsody-of-the-seas),* jumped overboard after the ship docked in Puerto Rico last weekend, authorities said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/rhasodyofthe-seas.jpg)After accumulating more than $16,000 in gambling debt, Jey Gonzalez-Diaz, a passenger on the *[Rhapsody of the Seas](https://www.royalcaribbean.com/cruise-ships/rhapsody-of-the-seas),* jumped overboard after the ship docked in Puerto Rico last weekend, authorities said.
 
 The passenger leaped from the Royal Caribbean cruise ship at around 9:15 a.m. on Sept. 7 as guests were disembarking, according to a criminal complaint filed in the U.S. District Court in Puerto Rico. He was rescued by two people, one of whom pulled him onto his jet ski. He was brought to shore before Customs and Border Protection officers detained him at 9:45 a.m.
 

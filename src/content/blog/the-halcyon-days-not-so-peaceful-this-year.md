@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "According to an ancient sailors’ legend, we are in the middle of the Halcyon days – seven days of calm on either side of the winter solstice. The legend says that the halycon bird lays its eggs on the winter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/halcyon-kingfisher.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/halcyon-kingfisher.jpg)
 
 Kingfishers and Calm Seas
 

@@ -14,12 +14,12 @@ tags:
   - "Indonesian teenager"
   - "North Sulawesi"
   - "rompong"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/fishtrap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/fishtrap.jpg"
 author: "Rick Spilman"
 description: "An Indonesian teenager working as a lamp keeper on a floating fish trap anchored off North Sulawesi was rescued off Guam after drifting for 49 days.  Aldi Novel Adilang, 19, had one of the loneliest jobs in the world. He worked on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/fishtrap.jpg)An Indonesian teenager working as a lamp keeper on a floating fish trap anchored off [North Sulawesi](https://en.wikipedia.org/wiki/North_Sulawesi "North Sulawesi") was [rescued off Guam after drifting for 49 days](http://www.thejakartapost.com/news/2018/09/23/indonesian-teenager-survives-49-days-adrift-in-guam-waters.html). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/fishtrap.jpg)An Indonesian teenager working as a lamp keeper on a floating fish trap anchored off [North Sulawesi](https://en.wikipedia.org/wiki/North_Sulawesi "North Sulawesi") was [rescued off Guam after drifting for 49 days](http://www.thejakartapost.com/news/2018/09/23/indonesian-teenager-survives-49-days-adrift-in-guam-waters.html). 
 
 Aldi Novel Adilang, 19, had one of the loneliest jobs in the world. He worked on a rompong, floating fish trap anchored 125 kilometers offshore. Above the water, the rompong looked like a shed on a small floating platform. Every night Aldi turned on lamps suspended below the trap to attract fish. His only contact with people was a boat sent out weekly to harvest the fish and to resupply the rompong with food, gas for cooking, clean water and fuel for the generator.
 

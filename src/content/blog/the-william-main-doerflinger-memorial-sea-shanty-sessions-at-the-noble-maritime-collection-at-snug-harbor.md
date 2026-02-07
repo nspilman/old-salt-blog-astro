@@ -15,9 +15,9 @@ author: "Rick Spilman"
 description: "This Sunday, May 15, from 2 to 5 PM, the first monthly  William Main Doerflinger Memorial Sea Shanty Session will be held at the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace, building D, in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Shanty-Sessionbanner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Shanty-Sessionbanner.jpg)
 
-This Sunday, May 15, from 2 to 5 PM, the first monthly  [William Main Doerflinger Memorial Sea Shanty Session](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Shanty-Session-Flyer-PDF-Dr.jpg) will be held at the [Noble Maritime Collection](http://www.noblemaritime.org/) at the [Snug Harbor Cultural Center](http://www.snug-harbor.org/) at 1000 Richmond Terrace, building D, in Staten Island New York.  
+This Sunday, May 15, from 2 to 5 PM, the first monthly  [William Main Doerflinger Memorial Sea Shanty Session](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Shanty-Session-Flyer-PDF-Dr.jpg) will be held at the [Noble Maritime Collection](http://www.noblemaritime.org/) at the [Snug Harbor Cultural Center](http://www.snug-harbor.org/) at 1000 Richmond Terrace, building D, in Staten Island New York.  
   
 Back in 1995, a group of folks who love the songs of the sea got together on the historic ship *[Peking](http://en.wikipedia.org/wiki/Peking_\(ship\))* to sing sea shanties.  For the next fifteen plus years, the group got together every month.  For many years, the sea shanty sessions were held at the Seaman’s Church Institute at 241 Water Street, near South Street Seaport,  until [the church sold the building and moved out of New York City last October.](http://www.oldsaltblog.com/2010/10/07/seamans-church-institute-leaving-new-york-city/)
 

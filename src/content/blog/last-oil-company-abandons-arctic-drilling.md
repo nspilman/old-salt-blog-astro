@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last week, Repsol, the last of a group oil companies which had invested billions of dollars in Arctic drilling rights in Alaska’s Chukchi Sea, abandoned its leases and sailed away. The Spanish drilling company gave up 55 leases and plans … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/01/kulluk1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/kulluk1.jpg)
 
   
 Shell rig Kulluck aground 2013

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The US Coast Guard has resumed the search for the U.S. flagged ro/ro cargo ship, El Faro, with a crew of 33, still missing after losing power and communications in the path of Hurricane Joaquin. The 735-foot ship was bound … Continue reading &rarr;"
 ---
 
-![El Faro Photo: TOTE Maritime](http://www.oldsaltblog.com/wp-content/uploads/2015/10/elfaro.jpg)
+![El Faro Photo: TOTE Maritime](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro.jpg)
 
 El Faro Photo: TOTE Maritime
 

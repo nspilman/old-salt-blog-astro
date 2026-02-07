@@ -11,12 +11,12 @@ tags:
   - "IWO JIMA"
   - "Pacific island"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/ghostshipsiwo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ghostshipsiwo.jpg"
 author: "Rick Spilman"
 description: "A number of small Pacific island nations, including Tuvalu, Kiribati and the Marshal Islands, are facing an existential threat from rising sea levels. According to the United States Geological Survey (USGS), sea level in the western Pacific Ocean has been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/ghostshipsiwo.jpg)A number of small Pacific island nations, including Tuvalu, Kiribati and the Marshal Islands, are facing an existential threat from rising sea levels. According to the [United States Geological Survey (USGS)](https://www.usgs.gov/centers/pcmsc/science/impact-sea-level-rise-and-climate-change-pacific-ocean-atolls?qt-science_center_objects=0#qt-science_center_objects), sea level in the western Pacific Ocean has been increasing at a rate 2–3 times the global average, resulting in almost 0.3 meters of net rise since 1990.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ghostshipsiwo.jpg)A number of small Pacific island nations, including Tuvalu, Kiribati and the Marshal Islands, are facing an existential threat from rising sea levels. According to the [United States Geological Survey (USGS)](https://www.usgs.gov/centers/pcmsc/science/impact-sea-level-rise-and-climate-change-pacific-ocean-atolls?qt-science_center_objects=0#qt-science_center_objects), sea level in the western Pacific Ocean has been increasing at a rate 2–3 times the global average, resulting in almost 0.3 meters of net rise since 1990.
 
 Not every island group is sinking, however. [The Drive](https://www.thedrive.com/news/42802/volcanic-activity-lifts-sunken-wwii-ghost-ships-from-the-ocean-off-iwo-jima?fbclid=IwAR3Yy8JCzn6_-mAf5MhF5y58FjkPDu4oxp-VRs3Cxm8Q793bMvc2WFobInc) recently highlighted a beach on [Iwo Jima](https://en.wikipedia.org/wiki/Iwo_Jima),  which is rising due to recent volcanic activity, revealing two dozen “ghost ships” sunk during World War II. The ships were originally scuttled to create an artificial breakwater for a planned harbor. 
 

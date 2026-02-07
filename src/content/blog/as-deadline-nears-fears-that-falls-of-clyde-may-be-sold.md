@@ -11,12 +11,12 @@ tags:
   - "Falls of Clyde"
   - "Hawai"
   - "Honolulu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg"
 author: "Rick Spilman"
 description: "The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until February 6th to move the 1878 built, four-masted iron windjammer out of Honolulu harbor. The Harbor Divisions concerns are that \"the condition of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg)The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until [February 6th to move the 1878 built, four-masted iron windjammer](http://www.hawaiinewsnow.com/2019/01/19/year-old-ship-honolulu-harbor-could-be-auctioned-off-after-restoration-plan-falls-through/) out of Honolulu harbor. The Harbor Divisions concerns are that “*the condition of the [Falls of Clyde](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) poses an unacceptable risk to navigation in Honolulu Harbor and a safety and security risk to harbor users.*”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg)The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until [February 6th to move the 1878 built, four-masted iron windjammer](http://www.hawaiinewsnow.com/2019/01/19/year-old-ship-honolulu-harbor-could-be-auctioned-off-after-restoration-plan-falls-through/) out of Honolulu harbor. The Harbor Divisions concerns are that “*the condition of the [Falls of Clyde](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) poses an unacceptable risk to navigation in Honolulu Harbor and a safety and security risk to harbor users.*”
 
 The hope was that another group, the [International Friends of the Falls of Clyde,](http://www.oldsaltblog.com/2019/01/save-the-falls-of-clyde-international-postpones-ship-move/) would raise the funds to charter a heavy lift ship to carry the *Falls of Clyde* back to where she was built in Scotland. Unfortunately, [that plan fell through](http://www.oldsaltblog.com/2019/01/save-the-falls-of-clyde-international-postpones-ship-move/) for both financial and logistical reasons. 
 

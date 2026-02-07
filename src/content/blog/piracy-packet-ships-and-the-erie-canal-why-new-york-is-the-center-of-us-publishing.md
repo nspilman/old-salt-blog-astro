@@ -15,12 +15,12 @@ tags:
   - "packet ships"
   - "piracy"
   - "publishing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2015/05/packetship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/packetship.jpg"
 author: "Rick Spilman"
 description: "Why did New York become the book publishing center of the United States? The answer: piracy, packet ships and the Erie Canal."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/05/packetship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/packetship.jpg)
 
 This week, [Book Expo America](http://www.bookexpoamerica.com/Show-Info/Booksellers/?utm_source=Google&utm_medium=BEA+2015+PPC&utm_campaign=Booksellers%23page%3dABA-Benefits&campaignid=61863221&iusercampaignid=87194045#page=ABA-Benefits) and [Book-Con](http://www.thebookcon.com/), collectively among of the largest book publishing events in the world, are being held in New York City, on the Hudson River in the Javit’s Center. (My novel, [The Shantyman](http://www.amazon.com/Shantyman-Rick-Spilman-ebook/dp/B00T57OQYA/ref=asap_bc?ie=UTF8), is one of seemingly countless books on display.)
 

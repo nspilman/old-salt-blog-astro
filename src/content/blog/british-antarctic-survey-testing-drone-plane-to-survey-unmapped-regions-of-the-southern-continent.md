@@ -12,12 +12,12 @@ tags:
   - "Rothera Research Station"
   - "uncrewed aerial vehicle"
   - "Windracers ULTRA UAV"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/antarcticdrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/antarcticdrone.jpg"
 author: "Rick Spilman"
 description: "This week, a team arrived at Rothera Research Station, on Adelaide Island to the west of the Antarctic Peninsula, ready to start testing the new Windracers ULTRA autonomous drone in Antarctica. If successful, the new drone platform could represent a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/antarcticdrone.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/antarcticdrone.jpg)
 
 Photo: Windracers & British Antarctic Survey
 

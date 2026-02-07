@@ -11,12 +11,12 @@ tags:
   - "Jubilee Sailing Trust"
   - "STS Lord Nelson"
   - "STSTenacious"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/stslordnelson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/stslordnelson.jpg"
 author: "Rick Spilman"
 description: "In early July, the Jubilee Sailing Trust (JST) faced a financial crisis where it needed to raise £1m in five days in order to stay in operation. Fortunately, the charity succeeded in raising the funds in time. Their financial challenges … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/stslordnelson.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/stslordnelson.jpg)
 
 STS Lord Nelson
 

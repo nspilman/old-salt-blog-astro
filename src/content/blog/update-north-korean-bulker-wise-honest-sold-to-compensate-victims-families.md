@@ -12,12 +12,12 @@ tags:
   - "Otto Warmbier"
   - "Rev. Dong Shik Kim"
   - "Wise Honest"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/wisehonest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/wisehonest.jpg"
 author: "Rick Spilman"
 description: "The North Korean handysize bulk carrier Wise Honest has been sold in a sealed bid auction. The proceeds of the auction will go to compensate the family of Otto Warmbier, the American student who died in 2017 shortly after being … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/wisehonest.jpg)The North Korean handysize bulk carrier [*Wise Honest*](https://www.marinetraffic.com/en/ais/details/ships/shipid:672235/mmsi:445582000/imo:8905490/vessel:WISE_HONEST) has been sold in a sealed bid auction. The proceeds of the auction will go to compensate the family of Otto Warmbier, the American student who died in 2017 shortly after being released in a vegetative state by North Korea after being tortured for allegedly trying to steal a propaganda poster, as well as the family of the Rev. Dong Shik Kim, who was kidnapped, tortured and executed by North Korean agents in 2000.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/wisehonest.jpg)The North Korean handysize bulk carrier [*Wise Honest*](https://www.marinetraffic.com/en/ais/details/ships/shipid:672235/mmsi:445582000/imo:8905490/vessel:WISE_HONEST) has been sold in a sealed bid auction. The proceeds of the auction will go to compensate the family of Otto Warmbier, the American student who died in 2017 shortly after being released in a vegetative state by North Korea after being tortured for allegedly trying to steal a propaganda poster, as well as the family of the Rev. Dong Shik Kim, who was kidnapped, tortured and executed by North Korean agents in 2000.
 
 The 580-foot, 17,601-ton single-hull bulk carrier was seized in April 2018 by Indonesian authorities for violating international sanctions. [The ship was taken over by the US in May of 2019](http://www.oldsaltblog.com/2019/05/us-takes-control-of-wise-honest-north-koreas-sanctions-violating-bulker-carrier/) and was towed to American Samoa. In July, it was sold under the orders of federal judges in New York and Washington.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Representatives of Titan-Micoperi presented their plans to raise the Costa Concordia from where she sank after running aground off the island of Gilgio last January.  Titan-Micoperi is the consortium of Titan Salvage, the Crowley-owned specialist marine salvage company, and Italian marine contractor Micoperi, which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/0117-Costa-Concordia-italia.jpg)Representatives of Titan-Micoperi presented their plans to raise the *Costa Concordia* from where she sank after running aground off the island of Gilgio last January.  Titan-Micoperi is the consortium of Titan Salvage, the Crowley-owned specialist marine salvage company, and Italian marine contractor Micoperi, which was [selected to salvage the cruise ship](http://www.oldsaltblog.com/2012/04/21/costa-concordia-update-titan-salvage-awarded-contract-more-bodies-identified-tourism-suffers/)*.* 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/0117-Costa-Concordia-italia.jpg)Representatives of Titan-Micoperi presented their plans to raise the *Costa Concordia* from where she sank after running aground off the island of Gilgio last January.  Titan-Micoperi is the consortium of Titan Salvage, the Crowley-owned specialist marine salvage company, and Italian marine contractor Micoperi, which was [selected to salvage the cruise ship](http://www.oldsaltblog.com/2012/04/21/costa-concordia-update-titan-salvage-awarded-contract-more-bodies-identified-tourism-suffers/)*.* 
 
 [Wrecked Costa Concordia to be raised from Italian sea bed](http://www.cnn.com/2012/05/18/world/europe/italy-cruise-ship/index.html?eref=mrss_igoogle_cnn)
 

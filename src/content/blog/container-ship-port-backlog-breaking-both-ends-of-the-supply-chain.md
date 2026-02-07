@@ -15,12 +15,12 @@ tags:
   - "Los Angeles"
   - "pandemic"
   - "port congestion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/containershipdelay.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/containershipdelay.jpg"
 author: "Rick Spilman"
 description: "The Marine Exchange of Southern California reports a new record for congestion in the ports of Los Angeles and Long Beach. As of Monday, of 140 ships in the ports, 85 are container ships. Only 31 containerships are alongside the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/containershipdelay.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/containershipdelay.jpg)
 
 Photo: REUTERS/Lucy Nicholson
 

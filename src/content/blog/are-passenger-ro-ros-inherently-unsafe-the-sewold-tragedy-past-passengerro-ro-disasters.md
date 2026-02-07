@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Are passenger ro-ro ferries inherently unsafe? No one knows why the passenger ro-ro ferry Sewol capsized last Wednesday off the south-west coast of Korea. There are indications that poor crew training and inadequate safety and evacuation procedures may have contributed … Continue reading &rarr;"
 ---
 
-![140416_2p03_sewol](http://www.oldsaltblog.com/wp-content/uploads/2014/04/140416_2p03_sewol.jpg)Are passenger ro-ro ferries inherently unsafe?
+![140416_2p03_sewol](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/140416_2p03_sewol.jpg)Are passenger ro-ro ferries inherently unsafe?
 
 No one knows why the passenger ro-ro ferry [*Sewol* capsized last Wednesday](http://www.oldsaltblog.com/2014/04/south-korean-ferry-tragedy-close-to-300-missing-as-ferry-sewol-sinks/) off the south-west coast of Korea. There are indications that poor crew training and inadequate safety and evacuation procedures may have contributed to the deaths of more than 50 and the likely loss of more than 200 passengers and crew who remain missing.  Why the ship capsized, however, is still an unanswered question.  It is an important question because many similar ferries are operating around the world, carrying thousands of passengers and crew every day. Passenger ro-ro ferries are an extremely efficient means of moving passengers and cargo. Unfortunately, their safety record is disturbing.
 

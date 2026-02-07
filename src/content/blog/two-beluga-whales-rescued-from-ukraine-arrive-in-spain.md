@@ -13,12 +13,12 @@ tags:
   - "Spain"
   - "Ukraine"
   - "Valencia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/krainebeluga.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/krainebeluga.jpg"
 author: "Rick Spilman"
 description: "CNN reports that two beluga whales have been rescued from the besieged city of Kharkiv in Ukraine and taken to an aquarium in Valencia, Spain, in a complex operation. A multinational team involving marine mammal care experts from Oceanogràfic de Valencia, the largest oceanarium … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/krainebeluga.jpg)[CNN](https://www.cnn.com/2024/06/20/travel/kharkiv-beluga-whales-spain-scli-intl/index.html) reports that two beluga whales have been rescued from the besieged city of Kharkiv in Ukraine and taken to an aquarium in Valencia, Spain, in a complex operation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/krainebeluga.jpg)[CNN](https://www.cnn.com/2024/06/20/travel/kharkiv-beluga-whales-spain-scli-intl/index.html) reports that two beluga whales have been rescued from the besieged city of Kharkiv in Ukraine and taken to an aquarium in Valencia, Spain, in a complex operation.
 
 A multinational team involving marine mammal care experts from Oceanogràfic de Valencia, the largest oceanarium in Europe; Georgia Aquarium in Atlanta; and SeaWorld were involved in the high-risk journey.
 

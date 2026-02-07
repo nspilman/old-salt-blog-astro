@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The command senior chief of the medical facility on the USNS Comfort was fired after allegedly getting drunk at a reception for the president of Panama."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/04/comfort1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/comfort1.jpg)
 
   
 USNS COMFORT

@@ -14,12 +14,12 @@ tags:
   - "Dutch"
   - "Fugger"
   - "shipwreck"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/fuggarcopper.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/fuggarcopper.jpg"
 author: "Rick Spilman"
 description: "In early January, we posted about the containership ship MSC Zoe which lost 350 containers over the side in a storm off the Frisian Islands of the Netherlands. Now, a Dutch salvage team, looking for lost containers from the Zoe, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/fuggarcopper.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/fuggarcopper.jpg)
 
 Copper plate bearing Fugger family marks
 

@@ -12,12 +12,12 @@ tags:
   - "German-Iraqi team"
   - "Mesopotamian Boat"
   - "Uruk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/mesoboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/mesoboat.jpg"
 author: "Rick Spilman"
 description: "When the burial ship at Sutton Hoo in the UK was uncovered in 1939, the ship itself was missing. The wooden planks and frames of the ship, dating from around 600 AD, had rotted away. Nevertheless, an almost intact impression … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/mesoboat.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/mesoboat.jpg)
 
 Photo: Deutsches Archäologisches Institut
 

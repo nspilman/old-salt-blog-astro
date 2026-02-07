@@ -11,7 +11,7 @@ tags:
   - "Mc Gregor"
   - "Murdoch Mc Gregor"
   - "Sailor of the Year 2021"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/sailorMacGregor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/sailorMacGregor.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Murdoch McGregor, who was named Sailor of the Year 2021 at the British Yachting Awards. At the age of 82, Murdoch McGregor completed a 1,900-mile trip around the UK in June. The 80-day-long solo voyage in his 23-foot … Continue reading &rarr;"
 ---

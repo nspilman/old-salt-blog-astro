@@ -13,12 +13,12 @@ tags:
   - "oldest remaining dreadnought battleship"
   - "Texas Parks and Wildlife Department"
   - "USS Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/usstex1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/usstex1.jpg"
 author: "Rick Spilman"
 description: "The battleship USS Texas, the oldest remaining dreadnought battleship, may finally have a permaneny home in Galveston, TX. After decades of heglect, the venerable old ship was drydocked in 2022 to undergo $60 million in repairs and refurbishment, which was … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/usstex1.jpg)The battleship [USS *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)), the oldest remaining dreadnought battleship, may finally have a permaneny home in Galveston, TX.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/usstex1.jpg)The battleship [USS *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)), the oldest remaining dreadnought battleship, may finally have a permaneny home in Galveston, TX.
 
 After decades of heglect, the venerable old ship was [drydocked in 2022](https://www.oldsaltblog.com/2022/08/battleship-texas-scheduled-to-be-towed-to-yard-for-repairs-on-august-31-weather-permitting/) to undergo $60 million in repairs and refurbishment, which was largely completed early this year. However, the USS *Texas* still lacked a secure place to dock. Last week, the Galveston Wharves Board of Trustees finally agreed to berth the battleship at Pier 15, securing a long-term home as a museum ship for the historic warship.
 

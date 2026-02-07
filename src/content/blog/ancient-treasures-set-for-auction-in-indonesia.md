@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Ancient treasures set for auction in Indonesia An ancient treasure trove salvaged from a 1,000-year-old shipwreck found by Indonesian fishermen is set to go under the hammer in Jakarta Wednesday with a minimum price of 80 million dollars.  Belgian treasure-hunter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/liaotreasure.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/liaotreasure.jpg)
 
 Belgian treasure-hunter Luc Heymans holds a rare large vase from the Liao Dynasty
 

@@ -9,12 +9,12 @@ categories:
 tags:
   - "black whaling ship master"
   - "Captain William Thomas Shorey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/shorey200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/shorey200.jpg"
 author: "Rick Spilman"
 description: "As we noted in our post yesterday, over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained whaling ships, at least 63 were men of color. Many of the … Continue reading &rarr;"
 ---
 
-![Williamshorey](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Williamshorey.jpg)As we noted in our post yesterday, over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the [2,500 masters who captained whaling ships](https://vineyardgazette.com/news/2017/01/13/skip), at least 63 were men of color. Many of the 63 sailed from the US East Coast, including Absalom Boston, Paul Cuffee, William A. Martin, and Collins A. Stevenson, among others. Here is a revised repost from 2014, about a black whaling ship master from the West Coast in last days of the whale fisheries, Captain Shorey. 
+![Williamshorey](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Williamshorey.jpg)As we noted in our post yesterday, over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the [2,500 masters who captained whaling ships](https://vineyardgazette.com/news/2017/01/13/skip), at least 63 were men of color. Many of the 63 sailed from the US East Coast, including Absalom Boston, Paul Cuffee, William A. Martin, and Collins A. Stevenson, among others. Here is a revised repost from 2014, about a black whaling ship master from the West Coast in last days of the whale fisheries, Captain Shorey. 
 
 [Captain William Thomas Shorey](http://en.wikipedia.org/wiki/William_T._Shorey), who was affectionately nicknamed “Black Ahab” by his crew, was born in Barbados in 1859 and ran away to sea as a young man. He learned navigation from a British ship captain and became a ship’s officer by the age of 21. After only a decade at sea, he rose to command whaling ships sailing out of San Francisco.
 

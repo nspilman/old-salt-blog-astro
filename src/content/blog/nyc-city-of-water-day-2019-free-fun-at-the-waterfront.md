@@ -12,12 +12,12 @@ tags:
   - "new york harbor"
   - "PortNYC Boat Tours"
   - "South Street Seaport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/cowd2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/cowd2.jpg"
 author: "Rick Spilman"
 description: "If you are near New York harbor on Saturday, July 13th, stop by the South Street Seaport, Piers 16 and 17, from 10AM to 4PM, to help celebrate City of Water Day 2019. In its 12th year, City of Water … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/cowd2.jpg)If you are near New York harbor on Saturday, July 13th, stop by the South Street Seaport, Piers 16 and 17, from 10AM to 4PM, to help celebrate [City of Water Day 2019](https://waterfrontalliance.org/what-we-do/city-of-water-day/#). In its 12th year, City of Water Day is a free harbor-wide day organized by the [Waterfront Alliance](https://waterfrontalliance.org/) in partnership with the [South Street Seaport Museum](https://southstreetseaportmuseum.org/), among others. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/cowd2.jpg)If you are near New York harbor on Saturday, July 13th, stop by the South Street Seaport, Piers 16 and 17, from 10AM to 4PM, to help celebrate [City of Water Day 2019](https://waterfrontalliance.org/what-we-do/city-of-water-day/#). In its 12th year, City of Water Day is a free harbor-wide day organized by the [Waterfront Alliance](https://waterfrontalliance.org/) in partnership with the [South Street Seaport Museum](https://southstreetseaportmuseum.org/), among others. 
 
 The [Con Edison Cardboard Kayak Race](https://waterfrontalliance.org/what-we-do/city-of-water-day/activities/) will return to Lower Manhattan and free PortNYC Boat Tours on all kinds of vessels, from tall ships to tugboats, will be offered from homeport docks throughout New York City.
 

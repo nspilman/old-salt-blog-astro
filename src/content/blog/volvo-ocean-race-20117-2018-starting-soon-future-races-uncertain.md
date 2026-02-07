@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Seven boats will be setting off on the 2017-2018 Volvo Ocean Race in 16 days. The race will start in Alicante on October 22, 2017 and finish in The Hague in June 2018, visiting 12 stopover ports– Alicante, Lisbon, Cape … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/volvor1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/volvor1.jpg)
 
 Photo: Francisco Vignale/MAPFRE/Volvo Ocean Race
 

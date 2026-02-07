@@ -14,12 +14,12 @@ tags:
   - "Louis Burton"
   - "Vendée Globe"
   - "Yannick Bestaven"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/apivia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/apivia.jpg"
 author: "Rick Spilman"
 description: "The Vendee Globe 2020-2021 has been a remarkable race by many standards. It was incredibly close, more competitors are likely to complete the race than in previous years, and the race times didn’t set any new records. For most of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/apivia.jpg)The [Vendee Globe 2020-2021](https://www.vendeeglobe.org/en) has been a remarkable race by many standards. It was incredibly close, more competitors are likely to complete the race than in previous years, and the race times didn’t set any new records. For most of the competitors, the race is still underway. At this moment, seven racers have crossed the finish line at Les Sables-d’Olonne, France, while a remaining eighteen are still sailing.    
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/apivia.jpg)The [Vendee Globe 2020-2021](https://www.vendeeglobe.org/en) has been a remarkable race by many standards. It was incredibly close, more competitors are likely to complete the race than in previous years, and the race times didn’t set any new records. For most of the competitors, the race is still underway. At this moment, seven racers have crossed the finish line at Les Sables-d’Olonne, France, while a remaining eighteen are still sailing.    
 
 ### A Close Race
 

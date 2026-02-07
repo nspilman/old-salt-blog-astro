@@ -20,12 +20,12 @@ tags:
   - "Rubymar"
   - "UK-owned"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/rubymar2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/rubymar2.jpg"
 author: "Rick Spilman"
 description: "On Sunday, February 18th, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the MV Rubymar, a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/rubymar2.jpg)On Sunday, February 18th, [anti-ship ballistic missiles, launched by Houthi rebels from Yemen](https://www.oldsaltblog.com/2024/02/crew-of-bulker-mv-rubymar-abandons-ship-off-yemen-after-houthi-attack/), struck the [MV *Rubymar*](https://www.vesselfinder.com/vessels/details/9138898), a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage that the crew was forced to abandon the ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/rubymar2.jpg)On Sunday, February 18th, [anti-ship ballistic missiles, launched by Houthi rebels from Yemen](https://www.oldsaltblog.com/2024/02/crew-of-bulker-mv-rubymar-abandons-ship-off-yemen-after-houthi-attack/), struck the [MV *Rubymar*](https://www.vesselfinder.com/vessels/details/9138898), a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage that the crew was forced to abandon the ship.
 
 Today, Yemen’s internationally recognized government said that the ship had sunk in the Red Sea on Friday night. They warned that the ship’s cargo of fertilizer could pose an “environmental catastrophe” to the waterway.
 

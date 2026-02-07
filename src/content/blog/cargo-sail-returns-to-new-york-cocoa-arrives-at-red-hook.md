@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The last time that a commercial cargo was unloaded from a sailing vessels at the New York docks was 1939.  That is, at least, until yesterday, when the 70′ schooner Black Seal arrived in Red Hook, Brooklyn and began unloading a cargo … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/NY-AZ887_SHIP_G_20110614185.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/NY-AZ887_SHIP_G_20110614185.jpg)
 
 The last time that a commercial cargo was unloaded from a sailing vessels at the New York docks was 1939.  That is, at least, until yesterday, when the [70′ schooner *Black Seal*](http://www.mastandsail.org/) arrived in Red Hook, Brooklyn and began unloading a cargo of 20 tons of cocoa beans for Brooklyn’s [Mast Brothers Chocolate](http://www.mastbrotherschocolate.com/).   See [Will Van Dorp’s tugster blog for great photos](https://tugster.wordpress.com/2011/06/14/figuring-out-by-doing/) of unloading the bagged cocoa.  See also [A Captain’s Lament: Cocoa Cargo on Rough Seas](http://blogs.wsj.com/metropolis/2011/06/14/a-captains-lament-cocoa-cargo-on-rough-seas/).
 

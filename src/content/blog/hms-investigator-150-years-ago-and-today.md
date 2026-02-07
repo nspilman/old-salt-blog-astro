@@ -19,11 +19,11 @@ description: "The HMS Investigator was found in remarkably good shape in only 11
 
 #gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 50%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/Ship-2-125x99.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/Ship-2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Ship-2-125x99.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Ship-2.jpg)
 
 HMS Investigator Caught in the Ice 1854
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/HMS-Investigator-125x107.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/HMS-Investigator.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/HMS-Investigator-125x107.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/HMS-Investigator.jpg)
 
 Sonar Image of HMS Investigator Photo: Parks Canda
 

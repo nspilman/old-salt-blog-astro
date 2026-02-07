@@ -14,12 +14,12 @@ tags:
   - "Shipworms"
   - "Sir Ernest Shackleton"
   - "whalebone"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/sternendurance.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/sternendurance.jpg"
 author: "Rick Spilman"
 description: "The Endurance22 Expedition announced yesterday that they have discovered the wreck of Sir Ernest Shackleton‘s ship Endurance, which was crushed by pack ice off Antarctica in 1915.  The ship was in remarkably good condition. How is it that the ship is so … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/sternendurance.jpg)The [Endurance22 Expedition](https://endurance22.org/) announced yesterday that they have discovered the wreck of [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), which was crushed by pack ice off Antarctica in 1915.  The ship was in remarkably good condition. How is it that the ship is so well preserved after having been sitting on the bottom 10,000 feet beneath the Southern Ocean for over a century?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/sternendurance.jpg)The [Endurance22 Expedition](https://endurance22.org/) announced yesterday that they have discovered the wreck of [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), which was crushed by pack ice off Antarctica in 1915.  The ship was in remarkably good condition. How is it that the ship is so well preserved after having been sitting on the bottom 10,000 feet beneath the Southern Ocean for over a century?
 
 The [BBC](https://www.bbc.com/news/science-environment-60662541) notes that the ship looks much the same as when photographed for the last time by Shackleton’s filmmaker, Frank Hurley, in 1915. The masts are down, the rigging is in a tangle, but the hull is broadly coherent. Some damage is evident at the bow, presumably where the descending ship hit the seabed. The anchors are present. The subs even spied some boots and crockery.
 

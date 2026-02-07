@@ -9,12 +9,12 @@ categories:
 tags:
   - "Amazon River"
   - "coral reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/amazonreef.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/amazonreef.jpg"
 author: "Rick Spilman"
 description: "A 3,600 sq mile (9,300 sq km) coral reef has been discovered off the mouth of the Amazon River. Stretching for over 600 miles, from French Guiana to Brazil’s Maranhão state, the reef is in water from 160 to over 320 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/amazonreef.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/amazonreef.jpg)
 
 Graphic: The Guardian
 

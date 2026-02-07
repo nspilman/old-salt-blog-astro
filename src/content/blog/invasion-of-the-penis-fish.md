@@ -13,12 +13,12 @@ tags:
   - "Penis Fish"
   - "spoonworm"
   - "Urechis caupo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/penisfish.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/penisfish.jpg"
 author: "Rick Spilman"
 description: "Thousands of worms looking considerably like penises washed up recently on Drakes's Beach, in California about 50 miles north of San Francisco."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/penisfish.jpg)If our [post yesterday about the North Pacific Blob](http://www.oldsaltblog.com/2019/12/the-blob-shuts-down-the-alaskan-cod-season/) sounded like something from 1950s sci-fi, then our post today – *Invasion of the Penis Fish* – must sound like 1960s porn. In fact, [thousands of worms looking considerably like penises](https://www.bbc.com/news/world-us-canada-50779461) washed up recently on Drakes’s Beach, in California about 50 miles north of San Francisco. The worms go by various names, including fat innkeeper worm and spoonworm, but appear to be best known as penis fish. Neither penises nor fish, they are [Urechis caupo](https://en.wikipedia.org/wiki/Urechis_caupo) — plump, unsegmented, cylindrical pink worms growing to a length of up 20 inches, with 8 inches being about average.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/penisfish.jpg)If our [post yesterday about the North Pacific Blob](http://www.oldsaltblog.com/2019/12/the-blob-shuts-down-the-alaskan-cod-season/) sounded like something from 1950s sci-fi, then our post today – *Invasion of the Penis Fish* – must sound like 1960s porn. In fact, [thousands of worms looking considerably like penises](https://www.bbc.com/news/world-us-canada-50779461) washed up recently on Drakes’s Beach, in California about 50 miles north of San Francisco. The worms go by various names, including fat innkeeper worm and spoonworm, but appear to be best known as penis fish. Neither penises nor fish, they are [Urechis caupo](https://en.wikipedia.org/wiki/Urechis_caupo) — plump, unsegmented, cylindrical pink worms growing to a length of up 20 inches, with 8 inches being about average.
 
 Urechis caupo live in burrows beneath the sand in shallow water on the west coast of North America, between southern Oregon and Baja California. Recent storms are thought to have uprooted them and washed them on to the beach. This is not the first Californian penis fish invasion. Apparently similar events have been reported over the years at Pajaro Dunes, Moss Landing, Bodega Bay, and Princeton Harbor. 
 

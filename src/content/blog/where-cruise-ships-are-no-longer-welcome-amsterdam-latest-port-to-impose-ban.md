@@ -16,12 +16,12 @@ tags:
   - "Norway"
   - "Santorini"
   - "Venice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/cruiseport-amsterdam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/cruiseport-amsterdam.jpg"
 author: "Rick Spilman"
 description: "Have cruise ships worn out their welcome? Increasingly, port cities around the world are banning or regulating cruise ship dockings and operations in their coastal waters. Amsterdam has become only the most recent to do so. The BBC reports that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/cruiseport-amsterdam.jpg)Have cruise ships worn out their welcome? Increasingly, port cities around the world are banning or regulating cruise ship dockings and operations in their coastal waters. Amsterdam has become only the most recent to do so.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/cruiseport-amsterdam.jpg)Have cruise ships worn out their welcome? Increasingly, port cities around the world are banning or regulating cruise ship dockings and operations in their coastal waters. Amsterdam has become only the most recent to do so.
 
 The [BBC](https://www.bbc.com/news/world-europe-66264226) reports that Amsterdam’s council has banned cruise ships from the city center as the Dutch capital tries to limit visitor numbers and curb pollution.
 

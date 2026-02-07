@@ -21,11 +21,11 @@ author: "Rick Spilman"
 description: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A \"tall ship\" served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
 ---
 
-[![peacemaker](http://www.oldsaltblog.com/wp-content/uploads/2015/09/peacemaker.jpg)](Peacemaker)For the past fifteen years, the three masted barquentine motorsailer *[Peacemaker](http://www.peacemakermarine.com/)* has been owned by the [Twelve Tribes](http://twelvetribes.com/), a religious community, often referred to as a cult. The 158′ Class A “tall ship” served as floating ambassador for the fundamentalist group, which has 50 or so communities in North and South America, Europe, and Australia. *Peacemaker* is now [for sale for around $3 million](http://www.northropandjohnson.com/yachts-for-sale/3122-peacemaker/). (Please, do not contact us. We have no involvement in the vessel. )
+[![peacemaker](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/peacemaker.jpg)](Peacemaker)For the past fifteen years, the three masted barquentine motorsailer *[Peacemaker](http://www.peacemakermarine.com/)* has been owned by the [Twelve Tribes](http://twelvetribes.com/), a religious community, often referred to as a cult. The 158′ Class A “tall ship” served as floating ambassador for the fundamentalist group, which has 50 or so communities in North and South America, Europe, and Australia. *Peacemaker* is now [for sale for around $3 million](http://www.northropandjohnson.com/yachts-for-sale/3122-peacemaker/). (Please, do not contact us. We have no involvement in the vessel. )
 
 Originally named *Avany*, the ship was built by the Maccarini shipyard in southern Brazil using traditional methods and tropical ironwood, and was launched in 1989. In 2000, the ship was purchased by the Twelve Tribes and rigged as a barquentine. The refit vessel set sail for the first time in the spring of 2007, under the name *Peacemaker.*
 
-![Coronet 1885](http://www.oldsaltblog.com/wp-content/uploads/2015/09/coronet.jpg)
+![Coronet 1885](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/coronet.jpg)
 
 Coronet 1885
 

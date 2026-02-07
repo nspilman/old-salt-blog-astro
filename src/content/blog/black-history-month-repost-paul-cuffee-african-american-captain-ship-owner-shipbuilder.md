@@ -12,12 +12,12 @@ tags:
   - "Cuttyhunk Island"
   - "Martha's Vineyard"
   - "Paul Cuffee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/paulcuffee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/paulcuffee.jpg"
 author: "Rick Spilman"
 description: "During Black History Month, it is worthwhile to remember early African-American shipmasters. Who was the first? That is hard to say. Paul Cuffe is a good candidate.  An updated repost. Paul Cuffee was born on Cuttyhunk Island, MA on January … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/paulcuffee.jpg)During Black History Month, it is worthwhile to remember early African-American shipmasters. Who was the first? That is hard to say. [Paul Cuffe](https://en.wikipedia.org/wiki/Paul_Cuffee) is a good candidate.  An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/paulcuffee.jpg)During Black History Month, it is worthwhile to remember early African-American shipmasters. Who was the first? That is hard to say. [Paul Cuffe](https://en.wikipedia.org/wiki/Paul_Cuffee) is a good candidate.  An updated repost.
 
 Paul Cuffee was born on Cuttyhunk Island, MA on January 17, 1759, the seventh of ten children of Kofi or Cuffee Slocum and Ruth Moses. His father, a freed black man, was a member of the [Ashanti](https://en.wikipedia.org/wiki/Ashanti_Region) people of Ghana. His mother was a Native American of the [Wampanoag](https://en.wikipedia.org/wiki/Wampanoag_people "Wampanoag people") Nation of [Martha’s Vineyard](https://en.wikipedia.org/wiki/Martha%27s_Vineyard "Martha's Vineyard"). Cuffee Slocum was a skilled carpenter, farmer, and fisherman, who taught himself to read and write. In 1766, Cuffee Slocum was able to purchase a 116-acre farm in Westport, Massachusetts.
 

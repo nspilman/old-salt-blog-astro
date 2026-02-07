@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Barista Uno at the Marine Café Blog shares his perspective on \" downside and upside, the agony and joy, of maritime blogging.\" Confessions of a maritime blogger The Marine Café Blog was launched in late August of 2009, succeeding the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/cafeblog-150x150.jpg)Barista Uno at the [Marine Café Blog](http://marine-cafe.com/) shares his perspective on ” downside and upside, the agony and joy, of maritime blogging.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/cafeblog-150x150.jpg)Barista Uno at the [Marine Café Blog](http://marine-cafe.com/) shares his perspective on ” downside and upside, the agony and joy, of maritime blogging.”
 
 [Confessions of a maritime blogger](http://marine-cafe.com/mcblog/?p=1075)
 

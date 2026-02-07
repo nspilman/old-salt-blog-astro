@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Two species of Asian carp, the bighead and the silver, were imported in the US in the 1970s by catfish farmers to eat algae in ponds. In flood in the 1990s, Asian trout escaped in the Mississippi River basin have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/carpy.jpg)Two species of Asian carp, the bighead and the silver, were imported in the US in the 1970s by catfish farmers to eat algae in ponds. In flood in the 1990s, Asian trout escaped in the Mississippi River basin have been multiplying wildly and heading north. A few days ago an 20 pound Asian bighead carp was caught by a fisherman in Illinois’s Lake Calumet, on the South Side of Chicago.  That is north of the electric fences installed to stop the carp and only six miles from Lake Michigan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/carpy.jpg)Two species of Asian carp, the bighead and the silver, were imported in the US in the 1970s by catfish farmers to eat algae in ponds. In flood in the 1990s, Asian trout escaped in the Mississippi River basin have been multiplying wildly and heading north. A few days ago an 20 pound Asian bighead carp was caught by a fisherman in Illinois’s Lake Calumet, on the South Side of Chicago.  That is north of the electric fences installed to stop the carp and only six miles from Lake Michigan.
 
 [Carp-Pocalypse: The Great Lakes Asian Carp Invasion Begins?](http://newsfeed.time.com/2010/06/24/carp-pocalypse-the-great-lakes-asian-carp-invasion-begins/)  
   

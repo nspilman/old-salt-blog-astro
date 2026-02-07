@@ -11,12 +11,12 @@ tags:
   - "international waters"
   - "marine protected areas"
   - "United Nations"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/mpamap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/mpamap.jpg"
 author: "Rick Spilman"
 description: "CNN reports that nearly 200 countries have agreed to a legally-binding High Seas Treaty to protect marine life in international waters, which cover around half of the planet’s surface, but have long been essentially lawless. The agreement was signed on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/mpamap.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/mpamap.jpg)
 
 Marine protected areas as of 2020 (data from MPAtlas)
 

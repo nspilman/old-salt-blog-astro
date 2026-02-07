@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Could the arrival of the the USS Slater, the last World War II destroyer escort still afloat in the United States, be a sign of spring in New York harbor?  We can only hope, although as the sky today remains … Continue reading &rarr;"
 ---
 
-![Photo: Michael Sheehan](http://www.oldsaltblog.com/wp-content/uploads/2014/04/ussslater.jpg)
+![Photo: Michael Sheehan](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/ussslater.jpg)
 
 Photo: Michael Sheehan
 

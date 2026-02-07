@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Coast Guard Day in the United States is this Sunday, August 4th, commemorating the founding of the U. S. Coast Guard as the Revenue Marine on August 4, 1790, by the Secretary of the Treasury, Alexander Hamilton. On the ex-USCG … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/lilacbow2.jpg)[Coast Guard Day](https://en.wikipedia.org/wiki/Coast_Guard_Day) in the United States is this Sunday, August 4th, commemorating the founding of the U. S. Coast Guard as the Revenue Marine on August 4, 1790, by the Secretary of the Treasury, Alexander Hamilton.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/lilacbow2.jpg)[Coast Guard Day](https://en.wikipedia.org/wiki/Coast_Guard_Day) in the United States is this Sunday, August 4th, commemorating the founding of the U. S. Coast Guard as the Revenue Marine on August 4, 1790, by the Secretary of the Treasury, Alexander Hamilton.
 
 On the ex-USCG [Cutter *Lilac*](http://www.lilacpreservationproject.org/), however, they will be celebrating the 229th birthday of the Coast Guard all weekend with programs and activities. The ship is open from 2:00 to 6:00 PM Saturday and Sunday. Admission is free. *Lilac* is berthed at Hudson River Park’s Pier 25 at West Street and N. Moore Street, in lower Manhattan.
 

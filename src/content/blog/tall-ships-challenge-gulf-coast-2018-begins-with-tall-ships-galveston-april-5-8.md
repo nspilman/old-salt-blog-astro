@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A fleet of tall ships is sailing to Galveston Island, Texas which will host Tall Ships Galveston from April 5 – 8th to kick off the Tall Ships Challenge Gulf Coast 2018 tall ship race. Included in the fleet will be: Galveston’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/TSGalveston.jpg)A fleet of tall ships is sailing to Galveston Island, Texas which will host [Tall Ships Galveston](http://www.galvestonhistory.org/events/tall-ships-galveston-2) from April 5 – 8th to kick off the [Tall Ships Challenge Gulf Coast 2018](http://www.sailtraining.org/tallships/2018Gulf/TSC2018officialhostports.php) tall ship race. Included in the fleet will be:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/TSGalveston.jpg)A fleet of tall ships is sailing to Galveston Island, Texas which will host [Tall Ships Galveston](http://www.galvestonhistory.org/events/tall-ships-galveston-2) from April 5 – 8th to kick off the [Tall Ships Challenge Gulf Coast 2018](http://www.sailtraining.org/tallships/2018Gulf/TSC2018officialhostports.php) tall ship race. Included in the fleet will be:
 
 *   Galveston’s [*Elissa*](http://www.galvestonhistory.org/attractions/maritime-heritage/1877-tall-ship-elissa-3), an 1877 square-rigged three-masted iron barque,
 *   [*Oliver Hazard Perry*](https://www.ohpri.org/), a three-masted steel ship, commissioned in 2015, the largest civilian Sailing School Vessel in the United States and the first ocean-going full-rigged ship to be built in the U.S. in over 100 years,

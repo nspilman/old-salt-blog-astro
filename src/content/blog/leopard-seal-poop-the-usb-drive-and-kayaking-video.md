@@ -5,12 +5,12 @@ slug: "leopard-seal-poop-the-usb-drive-and-kayaking-video"
 excerpt: "Did you, by any chance, lose a USB memory stick while kayaking sometime before November 2017, near Oreti Beach in Invercargill, a city on the southern tip of New Zealand’s southern island? If you did, the memory stick has been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/lepsealvideo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/lepsealvideo.jpg"
 author: "Rick Spilman"
 description: "Did you, by any chance, lose a USB memory stick while kayaking sometime before November 2017, near Oreti Beach in Invercargill, a city on the southern tip of New Zealand’s southern island? If you did, the memory stick has been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/lepsealvideo-200x167.jpg)Did you, by any chance, lose a USB memory stick while kayaking sometime before November 2017, near Oreti Beach in Invercargill, a city on the southern tip of New Zealand’s southern island? If you did, the memory stick has been found and it is still functioning. There are some nice photos and [video footage of sea lions and a kayak](https://youtu.be/4cfjIOXJsao).  The finders are willing to return the stick to you in exchange for some leopard seal poop. And no, I am not making this up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/lepsealvideo-200x167.jpg)Did you, by any chance, lose a USB memory stick while kayaking sometime before November 2017, near Oreti Beach in Invercargill, a city on the southern tip of New Zealand’s southern island? If you did, the memory stick has been found and it is still functioning. There are some nice photos and [video footage of sea lions and a kayak](https://youtu.be/4cfjIOXJsao).  The finders are willing to return the stick to you in exchange for some leopard seal poop. And no, I am not making this up.
 
 Several weeks ago, researchers in New Zealand were analyzing a pile of leopard seal poop. (Note to self, be very grateful that I don’t have that job.) Buried in the poop was a USB memory stick. 
 

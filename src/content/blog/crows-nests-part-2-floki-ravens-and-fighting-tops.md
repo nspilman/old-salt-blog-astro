@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The crows nest, as a shelter for the lookout on whaling ships sailing the icy waters of the Arctic, was by all indications, invented by Captain William Scoresby around 1807.  (See yesterday’s post:  Crow’s Nests : Part 1 — Melville & … Continue reading &rarr;"
 ---
 
-![Stamp commemorating Floki and his ravens ](http://www.oldsaltblog.com/wp-content/uploads/2014/07/viking20a.jpg)
+![Stamp commemorating Floki and his ravens ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/viking20a.jpg)
 
 Stamp commemorating Floki and his ravens
 
@@ -37,7 +37,7 @@ What doesn’t make any sense, however, is the second half of the tale.  There 
 
 So, where did the name “crow’s nest” come from?  Captain Scoresby’s design was basically a wooden barrel covered either in leather or canvas.  The canvas is likely to have been tarred to make it waterproof.   The crow’s nest probably looked black against the sky, not unlike a bird’s nest high in a tree.  Why not associate this lofty perch with a large black bird?  It is also possible that the makeshift canvas shelters made by whaling lookouts could have been referred to as a bird’s nest, even prior to Scoreby’s innovation. Birds build their nests from whatever they have on hand, which was what the sailors were doing in the frigid Greenland waters. Why a crow? Why not? The crow’s call is harsh and loud, not unlike that of the lookout on a whaling ship.
 
-[![Carrack of 1480](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Carrack_Vespucci.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Carrack_Vespucci.jpg)
+[![Carrack of 1480](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Carrack_Vespucci.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Carrack_Vespucci.jpg)
 
 Carrack of 1480, Click for a larger image
 

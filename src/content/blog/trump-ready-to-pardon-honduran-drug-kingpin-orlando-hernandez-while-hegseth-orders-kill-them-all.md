@@ -12,12 +12,12 @@ tags:
   - "Juan Orlando Hernández"
   - "USS Gerald R. Ford"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/venboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/venboat.jpg"
 author: "Rick Spilman"
 description: "President Trump is threatening to start a war with Venezuela, allegedly to counter drug trafficking to the United States. At the same time, the would-be king has announced his intention to pardon the notorious drug kingpin and former president of … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/venboat.jpg)President Trump is threatening to start a war with Venezuela, allegedly to counter drug trafficking to the United States. At the same time, the would-be king has announced his intention to pardon the notorious drug kingpin and former president of Honduras, [Juan Orlando Hernández](https://www.nytimes.com/2025/11/29/nyregion/honduras-hernandez-drug-trafficking.html). In a Federal Court last year prosecutors argued that Hernández “paved a cocaine superhighway to the United States.” Hernández was convicted of flooding the US with more than 500 tons of cocaine and was sentenced to 45 years in prison. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/venboat.jpg)President Trump is threatening to start a war with Venezuela, allegedly to counter drug trafficking to the United States. At the same time, the would-be king has announced his intention to pardon the notorious drug kingpin and former president of Honduras, [Juan Orlando Hernández](https://www.nytimes.com/2025/11/29/nyregion/honduras-hernandez-drug-trafficking.html). In a Federal Court last year prosecutors argued that Hernández “paved a cocaine superhighway to the United States.” Hernández was convicted of flooding the US with more than 500 tons of cocaine and was sentenced to 45 years in prison. 
 
 Venezuela, by contrast, is not considered an important player in drug production, even though it allows cartels to use the country as a transit point.
 

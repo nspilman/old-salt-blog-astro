@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In a few days, the composite clipper ship Cutty Sark will be graced with a new carved wooden figurehead carved by one of the last master carvers, Andy Peters. The figurehead, like its two predecessors, represents the witch Nannie Dee, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/nanniedee.jpg)In a few days, the composite clipper ship [*Cutty Sark*](https://en.wikipedia.org/wiki/Cutty_Sark) will be graced with a new carved wooden figurehead carved by one of the last master carvers, [Andy Peters](https://www.maritimawoodcarving.co.uk/ships-carver-figurehead-carver/). The figurehead, like its two predecessors, represents the witch Nannie Dee, from Robert Burn’s poem, [Tam o’ Shanter](https://en.wikipedia.org/wiki/Tam_o%27_Shanter_\(poem\)). She is scantily clad and holds a long tuft of a horse’s tail in her outstretched hand. The figurehead itself tells the story of why the grand old ship is named *Cutty Sark*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/nanniedee.jpg)In a few days, the composite clipper ship [*Cutty Sark*](https://en.wikipedia.org/wiki/Cutty_Sark) will be graced with a new carved wooden figurehead carved by one of the last master carvers, [Andy Peters](https://www.maritimawoodcarving.co.uk/ships-carver-figurehead-carver/). The figurehead, like its two predecessors, represents the witch Nannie Dee, from Robert Burn’s poem, [Tam o’ Shanter](https://en.wikipedia.org/wiki/Tam_o%27_Shanter_\(poem\)). She is scantily clad and holds a long tuft of a horse’s tail in her outstretched hand. The figurehead itself tells the story of why the grand old ship is named *Cutty Sark*.
 
 In Burn’s poem, Tam o’Shanter stays too long drinking at the pub and on his way home witnesses strange goings-on in a churchyard. In the Alloawy Kirk, he sees witches and warlocks and even the devil himself dancing and cavorting in wild abandon. Tam is particularly taken by a young witch, Nannie Dee,  “*ae winsome wench and wawlie*,” dancing nearly naked in a small nightgown, called a cutty sark, that she has clearly outgrown. In a fit of passion Tam calls out, “Weel done, Cutty-sark!”
 
@@ -26,7 +26,7 @@ The witches and devils take off after Tam, who jumps of his horse and rides for 
 
 The first figurehead that adorned the bow was delivered with the ship in 1869 and is believed to have been based on a sketch made by Hercules Linton, who designed and built the clipper ship. Almost a century later, the original figurehead was rather worse for the wear, missing its head and arm either due to heavy weather or perhaps a collision.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/nanniedee.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/nanniedee.jpg)
 
 Second Figurehead Carved in 1957
 

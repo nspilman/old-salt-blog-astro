@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Rivers have always made the best highways. On Monday, a massive heat-recovery steam generator left the Port of Coeymans, near Albany, on the Hudson River, on a barge bound for a new power plant under construction in Sewaren, NJ. The generator … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/steam-generator.jpg)Rivers have always made the best highways. On Monday, a massive [heat-recovery steam generator](https://en.wikipedia.org/wiki/Heat_recovery_steam_generator) left the Port of Coeymans, near Albany, on the Hudson River, on a barge bound for a new power plant under construction in Sewaren, NJ. The generator weighs in at an impressive 4,000 short tons, is 130 feet tall and costs $195 million. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/steam-generator.jpg)Rivers have always made the best highways. On Monday, a massive [heat-recovery steam generator](https://en.wikipedia.org/wiki/Heat_recovery_steam_generator) left the Port of Coeymans, near Albany, on the Hudson River, on a barge bound for a new power plant under construction in Sewaren, NJ. The generator weighs in at an impressive 4,000 short tons, is 130 feet tall and costs $195 million. 
 
 The generator was welded to the deck of a 400′ long deck barge with a 100′ beam and was taken under tow down the Hudson River.  Once in New York harbor, the barge was towed up the Arthur Kill to Sewaren.  The pace of the voyage was determined by the currents and several bridges, including the Mid-Hudson Bridge and the Arthur Kill Vertical Lift Bridge, which the generator could only pass under at low water.  
 

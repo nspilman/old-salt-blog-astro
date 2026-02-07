@@ -13,12 +13,12 @@ tags:
   - "St. Thomas"
   - "Vanuatu-flagged ro-ro"
   - "Virgin Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/bonnieg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/bonnieg.jpg"
 author: "Rick Spilman"
 description: "Yesterday the USCG issued a press release: A Coast Guard boat crew rescued 12 people, Wednesday morning, after they were forced to abandon the M/V Bonnie G that was taking on water and ran aground just south of the airport … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/bonnieg.jpg)Yesterday the [USCG issued a press release](https://www.news.uscg.mil/Press-Releases/Article/3547735/coast-guard-rescues-12-persons-from-mv-bonnie-g-aground-off-us-virgin-islands/): A Coast Guard boat crew rescued 12 people, Wednesday morning, after they were forced to abandon the M/V *Bonnie G* that was taking on water and ran aground just south of the airport in St. Thomas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/bonnieg.jpg)Yesterday the [USCG issued a press release](https://www.news.uscg.mil/Press-Releases/Article/3547735/coast-guard-rescues-12-persons-from-mv-bonnie-g-aground-off-us-virgin-islands/): A Coast Guard boat crew rescued 12 people, Wednesday morning, after they were forced to abandon the M/V *Bonnie G* that was taking on water and ran aground just south of the airport in St. Thomas.
 
 All 12 persons aboard the *Bonnie G*, a 195-foot Vanuatu-flagged “ro-ro” cargo vessel, are safe and no injuries have been reported to the Coast Guard. 
 

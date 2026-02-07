@@ -11,12 +11,12 @@ tags:
   - "Maine"
   - "Maine Windjammers"
   - "schooners"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/victorychimesmwa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/victorychimesmwa.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a delay in the start of the Maine windjammer schooner passenger season due to the pandemic and concerns that it may not start at all. The good news is that the State of Maine, working with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/victorychimesmwa.jpg)We recently [posted about a delay in the start of the Maine windjammer schooner passenger season](http://www.oldsaltblog.com/2020/06/maine-windjammers-face-uncertain-season-with-pandemic/) due to the pandemic and concerns that it may not start at all. The good news is that the State of Maine, working with the [Maine Windjammer Association](https://sailmainecoast.com/) and others, has agreed on a [set of rules and guidelines](https://www.maine.gov/dmr/news-details.html?id=2599576) to allow overnight windjammer cruises to start in July. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/victorychimesmwa.jpg)We recently [posted about a delay in the start of the Maine windjammer schooner passenger season](http://www.oldsaltblog.com/2020/06/maine-windjammers-face-uncertain-season-with-pandemic/) due to the pandemic and concerns that it may not start at all. The good news is that the State of Maine, working with the [Maine Windjammer Association](https://sailmainecoast.com/) and others, has agreed on a [set of rules and guidelines](https://www.maine.gov/dmr/news-details.html?id=2599576) to allow overnight windjammer cruises to start in July. 
 
 [Cruise Critic](https://www.cruisecritic.com/news/5418/) reports that Maine has been one of the most cautious states in allowing non-residents to enter for tourism. The regulations surrounding windjammer cruising reflect that. All out-of-state visitors must have a negative COVID-19 test result within 72 hours of travel. While the state exempts fellow New England states Vermont and New Hampshire, the MWA said some captains might require all passengers to prove they tested negative for COVID-19, regardless of the state.
 

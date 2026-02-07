@@ -14,12 +14,12 @@ tags:
   - "Endurance22 Expedition"
   - "Sir Ernest Shackleton"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/endurancestern.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/endurancestern.jpg"
 author: "Rick Spilman"
 description: "The Endurance22 Expedition announced today that they have discovered the remarkably intact remains of Sir Ernest Shackleton‘s ship Endurance, which was crushed by pack ice off Antarctica in 1915.  A team of marine archeologists, adventurers, and technicians on the icebreaking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/endurancestern.jpg)The [Endurance22 Expedition](https://endurance22.org/) announced today that they have discovered the remarkably intact remains of [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), which was crushed by pack ice off Antarctica in 1915. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/endurancestern.jpg)The [Endurance22 Expedition](https://endurance22.org/) announced today that they have discovered the remarkably intact remains of [Sir Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton)‘s ship [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), which was crushed by pack ice off Antarctica in 1915. 
 
 A team of marine archeologists, adventurers, and technicians on the icebreaking research vessel [SA *Agulhas II*](https://en.wikipedia.org/wiki/S._A._Agulhas_II), battled shifting sea ice, blizzards, and temperatures that dropped to -18 degrees C, for over two weeks, before finding the sunken ship. Using undersea drones, the shipwreck of the *Endurance* was located 10,000 feet below the ice-covered surface of the Weddell Sea. 
 

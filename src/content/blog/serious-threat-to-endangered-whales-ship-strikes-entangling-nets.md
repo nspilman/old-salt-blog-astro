@@ -23,7 +23,7 @@ author: "Rick Spilman"
 description: "One of the greatest threats to many endangered species of whale is being run down by ships or getting entangled in fishing nets.  This week, federal maritime officials have approved a plan to protect whales in and around San Francisco Bay that features … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/120713-whales-ship-strike-660.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/120713-whales-ship-strike-660.jpg)
 
 Photo/John Calambokidis, Cascadia Research
 

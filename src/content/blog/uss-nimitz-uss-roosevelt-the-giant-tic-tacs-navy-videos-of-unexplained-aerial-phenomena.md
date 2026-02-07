@@ -13,12 +13,12 @@ tags:
   - "unidentified flying objects"
   - "USS Nimitz"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/FLIR1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/FLIR1.jpg"
 author: "Rick Spilman"
 description: "The videos have been flying across the internet for several years. They are purported to be F-18 gun-camera footage taken in 2004 from planes flying off the carrier USS Nimitz and in footage from 2015 from planes off the USS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/FLIR1.jpg)The videos have been flying across the internet for several years. They are purported to be F-18 gun-camera footage taken in 2004 from [planes flying off the carrier USS *Nimitz*](https://en.wikipedia.org/wiki/USS_Nimitz_UFO_incident) and in footage from 2015 from [planes off the USS *Theodore Roosevelt.*](https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video?playlist_slug=ufo-fighter-pilots-video-playlist) The videos show unidentified flying objects which have been described as looking something like bright, white giant [Tic Tacs,](https://www.tictac.com/us/en/) approximately 30 to 46 feet long. The objects appeared on radar and were observed visually. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/FLIR1.jpg)The videos have been flying across the internet for several years. They are purported to be F-18 gun-camera footage taken in 2004 from [planes flying off the carrier USS *Nimitz*](https://en.wikipedia.org/wiki/USS_Nimitz_UFO_incident) and in footage from 2015 from [planes off the USS *Theodore Roosevelt.*](https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video?playlist_slug=ufo-fighter-pilots-video-playlist) The videos show unidentified flying objects which have been described as looking something like bright, white giant [Tic Tacs,](https://www.tictac.com/us/en/) approximately 30 to 46 feet long. The objects appeared on radar and were observed visually. 
 
 The [Navy has now confirmed that the videos are real.](https://www.history.com/news/navy-confirms-ufo-videos-real) They prefer to describe what was observed as a UAP, an “Unexplained Aerial Phenomena” rather than as a UFO, “Unidentified Flying Objects,” which has come to imply extraterrestrials. Nevertheless, whichever term is used, it suggests that the Navy is taking the observations seriously.
 

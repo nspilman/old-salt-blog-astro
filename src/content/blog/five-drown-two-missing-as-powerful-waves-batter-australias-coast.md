@@ -12,12 +12,12 @@ tags:
   - "huge waves"
   - "New South Wales"
   - "Victoria"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/aussiewaves.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/aussiewaves.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that five people have drowned after huge waves hit parts of Australia at the start of the Easter weekend.  Two others are missing off the coasts of New South Wales and Victoria. On Saturday, the body of … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/aussiewaves.jpg)The [BBC](https://www.bbc.com/news/articles/c1jx9dknd6go) reports that five people have drowned after huge waves hit parts of Australia at the start of the Easter weekend.  Two others are missing off the coasts of New South Wales and Victoria.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/aussiewaves.jpg)The [BBC](https://www.bbc.com/news/articles/c1jx9dknd6go) reports that five people have drowned after huge waves hit parts of Australia at the start of the Easter weekend.  Two others are missing off the coasts of New South Wales and Victoria.
 
 On Saturday, the body of a man was found in the water [near Tathra](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE4MDAyLmh0bWwmYWxsPTE%3D) in southern New South Wales. It came a day after a [58-year-old fisherman](https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE3OTgyLmh0bWwmYWxsPTE%3D) and two other men were found dead in separate incidents in the state.
 

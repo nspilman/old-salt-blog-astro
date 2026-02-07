@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The cruise industry continues to change.  While Boston reported a record number of cruise passengers traveling through its cruise terminal in 2010, the city of Philadelphia is planning on turning its cruise terminal into an an Urban Outfitters retail store, having only two cruise ships scheduled to call … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/50665921_thomsondream.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/50665921_thomsondream.jpg)
 
 Thomson Dream recently docked in Cuba
 

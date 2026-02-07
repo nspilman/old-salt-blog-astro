@@ -12,12 +12,12 @@ tags:
   - "algal bloom"
   - "sea foam"
   - "South Australia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/seafoam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/seafoam.jpg"
 author: "Rick Spilman"
 description: "Five years ago, we posted about a surge of sea foam stirred up by severe weather off the east coast of Australia that inundated several beaches. While that foam proved harmless and non-toxic, recent sea foam washing up on Australian … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/seafoam.jpg)Five years ago, [we posted about a surge of sea foam](https://www.oldsaltblog.com/2020/12/australian-beaches-sea-foam-sea-snakes-and-a-lost-dog/) stirred up by severe weather off the east coast of Australia that inundated several beaches. While that foam proved harmless and non-toxic, recent sea foam washing up on Australian beaches has been more problematic. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/seafoam.jpg)Five years ago, [we posted about a surge of sea foam](https://www.oldsaltblog.com/2020/12/australian-beaches-sea-foam-sea-snakes-and-a-lost-dog/) stirred up by severe weather off the east coast of Australia that inundated several beaches. While that foam proved harmless and non-toxic, recent sea foam washing up on Australian beaches has been more problematic. 
 
 The [Guardian](https://www.theguardian.com/australia-news/2025/mar/18/mysterious-sea-foam-on-south-australian-beaches-reportedly-leaves-more-than-100-surfers-ill) reports that mysterious foam on South Australian beaches is being blamed for more than 100 surfers becoming ill and for the deaths of leafy seadragons, fish, and octopuses.
 

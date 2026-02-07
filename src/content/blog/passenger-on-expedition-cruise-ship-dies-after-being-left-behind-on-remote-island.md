@@ -16,12 +16,12 @@ tags:
   - "Great Barrier Reef"
   - "Lizard Island"
   - "Suzanne Rees"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/coraladventurer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/coraladventurer.jpg"
 author: "Rick Spilman"
 description: "On October 24, the expedition cruise ship Coral Adventurer set sail from Cairns on a 60-day luxury voyage around Australia. One day later, at the ship’s first stop, at Lizard Island on the Great Barrier Reef, things went tragically wrong. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/coraladventurer.jpg)On October 24, the expedition cruise ship [*Coral Adventurer*](https://www.coralexpeditions.com/vessel/coral-adventurer) set sail from Cairns on a 60-day luxury voyage around Australia. One day later, at the ship’s first stop, at [Lizard Island](https://en.wikipedia.org/wiki/Lizard_Island) on the Great Barrier Reef, things went tragically wrong. Suzanne Rees, an 80-year-old passenger, died after the ship sailed, leaving her alone on the remote island.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/coraladventurer.jpg)On October 24, the expedition cruise ship [*Coral Adventurer*](https://www.coralexpeditions.com/vessel/coral-adventurer) set sail from Cairns on a 60-day luxury voyage around Australia. One day later, at the ship’s first stop, at [Lizard Island](https://en.wikipedia.org/wiki/Lizard_Island) on the Great Barrier Reef, things went tragically wrong. Suzanne Rees, an 80-year-old passenger, died after the ship sailed, leaving her alone on the remote island.
 
 Passengers on the ship were offered snorkeling and island hiking excursions. Rees joined a hike to Cook’s Look, a lookout on top of a hill named after Captain James Cook, who passed by the island in 1770. 
 

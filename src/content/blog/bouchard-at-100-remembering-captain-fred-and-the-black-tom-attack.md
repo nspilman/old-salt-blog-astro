@@ -13,12 +13,12 @@ tags:
   - "Captain Frederick Bouchard"
   - "Jersey City"
   - "new york harbor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/captfred.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/captfred.jpg"
 author: "Rick Spilman"
 description: "This year the East Coast tug and barge operator, Bouchard Transportation Company, turned 100 years old. The company’s origin, however, dates back to 1916, and to Captain Frederick Bouchard’s heroism during the worst attack on New York harbor prior to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/captfred.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/captfred.jpg)
 
 Captain Frederick Bouchard
 

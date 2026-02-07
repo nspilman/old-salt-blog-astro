@@ -11,12 +11,12 @@ tags:
   - "coral bleaching"
   - "Coral Spawning"
   - "Great Barrier Reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/gbr-coralspawn.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/gbr-coralspawn.jpg"
 author: "Rick Spilman"
 description: "Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change. \"It’s a sign … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/gbr-coralspawn.jpg)Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/gbr-coralspawn.jpg)Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change.
 
 “It’s a sign of hope that it’s doing well, and we need to keep protecting it,” said marine biologist Gareth Phillips, who monitored the coral spawning event, which is when the corals breed over two to three days by casting sperm and eggs into the water once every year in the Pacific Ocean.
 

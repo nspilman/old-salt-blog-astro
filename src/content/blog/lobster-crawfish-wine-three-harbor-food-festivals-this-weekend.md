@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This is the season for waterfront and harbor festivals.   Here are three that promise good food along with music and the sea air. In Washington state, the first Gig Harbor Wine & Food Festival starts at noon today at the future … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/crawfish.jpg)This is the season for waterfront and harbor festivals.   Here are three that promise good food along with music and the sea air.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/crawfish.jpg)This is the season for waterfront and harbor festivals.   Here are three that promise good food along with music and the sea air.
 
 In Washington state, the first [Gig Harbor Wine & Food Festival](http://www.harborwineandfoodfest.com/) starts at noon today at the future site of the Harbor History Museum.   The festival features tasting tent with more than 35 wineries, local restaurants and food businesses and is sponsored by the Harbor History Museum and the Gig Harbor Historic Waterfront Association.
 

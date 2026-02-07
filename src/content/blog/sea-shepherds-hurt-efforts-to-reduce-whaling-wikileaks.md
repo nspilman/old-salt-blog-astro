@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Rather than pressuring the Japanese to stop whaling, the vigilante violence of the Sea Shepherds made it more difficult for Japanese diplomats  to compromise in negotiations to reduce whaling according to documents released by WikiLeaks. WikiLeaks releases documents about anti-whaling group Sea Shepherd … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/steveirwin.jpg)Rather than pressuring the Japanese to stop whaling, the vigilante violence of the [Sea Shepherds](http://www.seashepherd.org/) made it more difficult for Japanese diplomats  to compromise in negotiations to reduce whaling according to documents released by WikiLeaks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/steveirwin.jpg)Rather than pressuring the Japanese to stop whaling, the vigilante violence of the [Sea Shepherds](http://www.seashepherd.org/) made it more difficult for Japanese diplomats  to compromise in negotiations to reduce whaling according to documents released by WikiLeaks.
 
 [WikiLeaks releases documents about anti-whaling group Sea Shepherd](http://latimesblogs.latimes.com/unleashed/2011/01/wikileaks-releases-documents-about-anti-whaling-group-sea-shepherd.html)  
   

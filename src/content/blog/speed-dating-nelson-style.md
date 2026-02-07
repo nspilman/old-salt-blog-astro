@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Nelson style speed dating?   I hope this doesn’t involve boarding with cutlasses. Unlucky in love? Try speed dating Nelson-style! His romance with mistress Lady Hamilton is the stuff of legend – and singletons will hope to harness some of Lord Nelson’s pulling … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/lord-nelson.jpg)Nelson style speed dating?   I hope this doesn’t involve boarding with cutlasses.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/lord-nelson.jpg)Nelson style speed dating?   I hope this doesn’t involve boarding with cutlasses.
 
 [Unlucky in love? Try speed dating Nelson-style!](http://www.portsmouth.co.uk/people/Unlucky-in-love-Try-speed.6695097.jp)
 

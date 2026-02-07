@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Update:  According to her AIS (Automatic Identification System) the A Whale is now off Louisiana.  Thanks to Buck for pointing it out. Click here to see per position on the chart. A Taiwanese-owned, Liberian-flagged tanker,  the A Whale, has been modified … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/awhaleskimmer.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/awhaleskimmer.jpg)
 
 A Whale - Slots along sides are skimmer suctions
 

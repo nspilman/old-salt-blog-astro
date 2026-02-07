@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The April Smithsonian Magazine features photos of the SSV Oliver Hazard Perry and an article titled \"Building a War of 1812 Warship.\"   One can only imagine what Oliver Hazard Perry would have thought of the new ship that bears his name. … Continue reading &rarr;"
 ---
 
-![Photo: Kim Fuller](http://www.oldsaltblog.com/wp-content/uploads/2014/03/ohpreenact.jpg)
+![Photo: Kim Fuller](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ohpreenact.jpg)
 
 Photo: Kim Fuller
 

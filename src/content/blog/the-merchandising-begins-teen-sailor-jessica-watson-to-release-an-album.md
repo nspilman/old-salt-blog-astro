@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Jessica Watson’s book True Spirit will be published in August in Australia and in October in the United States.  It was also recently announced that she will be releasing an album as well.  Fast work given that she only returned in the middle of May. Teen sailor … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/truespirit.jpg)](http://www.amazon.com/gp/product/0733624979?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0733624979)[](http://uk.ibtimes.com/articles/33368/20100708/jessica-watson-to-release-an-album.htm)  
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/truespirit.jpg)](http://www.amazon.com/gp/product/0733624979?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0733624979)[](http://uk.ibtimes.com/articles/33368/20100708/jessica-watson-to-release-an-album.htm)  
 Jessica Watson’s book *[True Spirit](http://www.amazon.com/gp/product/0733624979?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0733624979)* will be published in August in Australia and in October in the United States.  It was also recently announced that she will be releasing an album as well.  Fast work given that she only returned in the middle of May.
 
 [Teen sailor Jessica Watson to release an album](http://uk.ibtimes.com/articles/33368/20100708/jessica-watson-to-release-an-album.htm)

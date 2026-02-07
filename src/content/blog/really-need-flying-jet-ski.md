@@ -8,7 +8,7 @@ categories:
 tags:
   - "flying car"
   - "jet ski"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/flyingjetski.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/flyingjetski.jpg"
 author: "Rick Spilman"
 description: "Last week there was considerable media attention to a new \"flying car\" developed by a start-up called Kitty Hawk, which is funded in part by Google’s Larry Page, as well as Uber and Airbus.  The only problem, at least to my … Continue reading &rarr;"
 ---

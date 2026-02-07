@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Star Clippers is now building what will be the world's largest square-rigged passenger ship."
 ---
 
-![Royal Clipper Photo: Star Clipper](http://www.oldsaltblog.com/wp-content/uploads/2015/05/royalclipper1-200x163.jpg)
+![Royal Clipper Photo: Star Clipper](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/royalclipper1-200x163.jpg)
 
 Royal Clipper Photo: Star Clipper
 

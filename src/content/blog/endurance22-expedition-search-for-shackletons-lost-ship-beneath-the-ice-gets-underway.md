@@ -18,12 +18,12 @@ tags:
   - "Sir Ernest Shackleton"
   - "South African icebreaking polar supply and research ship"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/endurance.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/endurance.jpg"
 author: "Rick Spilman"
 description: "In early January, we posted about two memorial Antarctic expeditions on the 100th anniversary of Sir Ernest Shackleton’s death. One of the expeditions, Endurance22, organized by the Falklands Maritime Heritage Trust, hopes to locate, survey, and film the wreck of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/endurance.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/endurance.jpg)
 
 Endurance trapped in the ice.
 

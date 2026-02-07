@@ -9,12 +9,12 @@ tags:
   - "Noble Maritime Collection"
   - "Shanty"
   - "William Main Doerflinger Sea Shanty Sessions"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/shantysession.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/shantysession.jpg"
 author: "Rick Spilman"
 description: "Earlier this month, we posted about the virtual return of the San Francisco Maritime Association’s Hyde Street Pier Sea Chantey Sing series beginning this Saturday on September 19, 2020. Click here for details. For even more maritime music, on Sunday, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/shantysession.jpg)Earlier this month, we [posted about the virtual return](http://www.oldsaltblog.com/2020/09/east-west-coast-online-chantey-sings-nys-south-street-seaport-sfs-hyde-street-pier/) of the San Francisco Maritime Association’s [Hyde Street Pier Sea Chantey Sing](https://www.eventbrite.com/e/hyde-street-pier-sea-chantey-sing-goes-virtual-tickets-117816224499) series beginning this Saturday on September 19, 2020. [Click here for details.](https://maritime.org/events-home/chantey-sing/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/shantysession.jpg)Earlier this month, we [posted about the virtual return](http://www.oldsaltblog.com/2020/09/east-west-coast-online-chantey-sings-nys-south-street-seaport-sfs-hyde-street-pier/) of the San Francisco Maritime Association’s [Hyde Street Pier Sea Chantey Sing](https://www.eventbrite.com/e/hyde-street-pier-sea-chantey-sing-goes-virtual-tickets-117816224499) series beginning this Saturday on September 19, 2020. [Click here for details.](https://maritime.org/events-home/chantey-sing/)
 
 For even more maritime music, on Sunday, September 20, the [Noble Maritime Collection](http://www.noblemaritime.org/?fbclid=IwAR0pXZXN1V3BjgbAyeOgOTEvUU9at-hZCgkfzCSTG6GjVEB4HyK-vh-Y9Sc) at historic [Sailor’s Snug Harbor](https://www.nycgovparks.org/parks/sailors-snug-harbor) is co-sponsoring another of its virtual William Main Doerflinger Sea Shanty Sessions. From their [events page](https://www.eventbrite.com/e/sea-shanty-sessions-tickets-121413726725?aff=erelexpmlt):
 

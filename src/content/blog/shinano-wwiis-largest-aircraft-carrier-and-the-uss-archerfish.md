@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Shinano was the largest aircraft carrier ever built, but was also the shortest lived of any major warship of World War II, surviving only ten days."
 ---
 
-![Japanese aircraft carrier Shinano](http://www.oldsaltblog.com/wp-content/uploads/2015/03/Japanese_aircraft_carrier_Shinano.jpg)
+![Japanese aircraft carrier Shinano](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/Japanese_aircraft_carrier_Shinano.jpg)
 
 Japanese aircraft carrier Shinano
 

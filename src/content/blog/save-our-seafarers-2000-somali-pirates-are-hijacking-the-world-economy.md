@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In view of the failure of current efforts to combat piracy,  BIMCO, the International Chamber of Shipping (ICS), the International Shipping Federation (ISF), Intercargo, INTERTANKO and the International Transport Workers’ Federation (ITF) have launched a campaign to Save Our Seafarers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/sosBanner.jpg)In view of the failure of current efforts to combat piracy,  BIMCO, the International Chamber of Shipping (ICS), the International Shipping Federation (ISF), Intercargo, INTERTANKO and the International Transport Workers’ Federation (ITF) have launched a campaign to [Save Our Seafarers](http://saveourseafarers.net/#topnav) to encourage people around the world to pressure their national governments to crack down on piracy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/sosBanner.jpg)In view of the failure of current efforts to combat piracy,  BIMCO, the International Chamber of Shipping (ICS), the International Shipping Federation (ISF), Intercargo, INTERTANKO and the International Transport Workers’ Federation (ITF) have launched a campaign to [Save Our Seafarers](http://saveourseafarers.net/#topnav) to encourage people around the world to pressure their national governments to crack down on piracy.
 
 From the [Save Our Seafarers](http://saveourseafarers.net/#topnav) website:  
   

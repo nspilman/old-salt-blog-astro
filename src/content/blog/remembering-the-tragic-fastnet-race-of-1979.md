@@ -10,12 +10,12 @@ tags:
   - "1979"
   - "Fastnet"
   - "Fastnet Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/fastnetrocl.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/fastnetrocl.jpg"
 author: "Rick Spilman"
 description: "Forty years ago today, on the third day of the 605-mile Fastnet Race, an unexpectedly strong storm struck the fleet with tragic results. The fleet of 303 sailing yachts had set off on August 11,1979 in clear weather with calm … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/fastnetrocl.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/fastnetrocl.jpg)
 
 Fastnet Rock in Fair Weather
 

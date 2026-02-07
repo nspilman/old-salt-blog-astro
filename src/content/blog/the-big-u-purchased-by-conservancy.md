@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/SSUSSUNRAYSPS21.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/SSUSSUNRAYSPS21.jpg)
 
 Today, the [SS United States Conservancy](http://www.ssunitedstatesconservancy.org/news/_/2011/2/conservancy-purchases-ss-united-states-through-grant-from-lenfest-foundation/) purchased the *[S.S. United States](http://en.wikipedia.org/wiki/SS_United_States)* from Norwegian Cruise Line.  As [we posted last July](http://www.oldsaltblog.com/2010/07/01/ss-united-states-saved-from-scrappers/), the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. “Gerry” Lenfest.   The sale was delayed  when the Environmental Protection Agency raised questions about toxic PCBs on the ship.
 

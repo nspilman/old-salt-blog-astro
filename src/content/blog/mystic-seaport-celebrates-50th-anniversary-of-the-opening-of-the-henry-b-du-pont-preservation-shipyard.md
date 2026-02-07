@@ -10,7 +10,7 @@ categories:
 tags:
   - "Henry B du Pont Preservation Shipyard"
   - "Mystic Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/dupontshipyard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/dupontshipyard.jpg"
 author: "Rick Spilman"
 description: "The year 2022 marks the 50th anniversary of the opening of the Henry B. du Pont Preservation Shipyard at the Mystic Seaport Museum, the first shipyard built specifically for preservation in the United States, and possibly the world, marking a … Continue reading &rarr;"
 ---

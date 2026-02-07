@@ -11,12 +11,12 @@ tags:
   - "Carnival Corp"
   - "federal judge"
   - "probation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/carnivalcorp1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/carnivalcorp1.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, a federal judge decided to get Carnival Corp.‘s attention. U.S. District Judge Patricia Seitz said she is considering temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/carnivalcorp1.jpg)On Wednesday, a federal judge decided to get [Carnival Corp.](https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc)‘s attention. U.S. District Judge Patricia Seitz said she is considering temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as punishment for a possible probation violation. A final decision will come in a hearing in June.  The [Miami Herald](https://www.miamiherald.com/news/business/tourism-cruises/article229069589.html) reports that Judge Seitz wants company chairman Micky Arison and president Donald Arnold to attend that hearing. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/carnivalcorp1.jpg)On Wednesday, a federal judge decided to get [Carnival Corp.](https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc)‘s attention. U.S. District Judge Patricia Seitz said she is considering temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as punishment for a possible probation violation. A final decision will come in a hearing in June.  The [Miami Herald](https://www.miamiherald.com/news/business/tourism-cruises/article229069589.html) reports that Judge Seitz wants company chairman Micky Arison and president Donald Arnold to attend that hearing. 
 
 “The people at the top are treating this as a gnat,” Judge Seitz said. “If I could, I would give all the members of the executive committee a visit to the detention center for a couple of days. It’s amazing how that helps people come to focus on reality.”
 

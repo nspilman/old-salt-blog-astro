@@ -17,12 +17,12 @@ tags:
   - "Oman"
   - "Pacific Zircon"
   - "Shahed-136 exploding drone"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/pacific-zircon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/pacific-zircon.jpg"
 author: "Rick Spilman"
 description: "The 50,000 DWT product tanker Pacific Zircon was struck by a bomb-carrying drone off the coast of Oman on Tuesday night. The ship is operated by Singapore-based Eastern Pacific Shipping, a company ultimately owned by Israeli billionaire Idan Ofer. In a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/pacific-zircon.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/pacific-zircon.jpg)
 
 Photo: Marine Traffic
 

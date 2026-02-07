@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The steam collier SS Ayrfield was 61 years old. Formally called the Corrimal, the 1,140-tonne ship, ran coal between Newcastle and Sydney before serving as a transport ship for Australia during World War II. After the war, she operated again … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/homebushmangrove2.jpg)The steam collier SS *Ayrfield* was 61 years old. Formally called the *Corrimal*, the 1,140-tonne ship, ran coal between Newcastle and Sydney before serving as a transport ship for Australia during World War II. After the war, she operated again as a collier between Newcastle and Miller’s terminal in Blackwattle Bay. By 1972, she had reached the end of her useful life and was sent to a scrapyard in Homebush Bay, near Sydney, Australia, to be broken up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/homebushmangrove2.jpg)The steam collier SS *Ayrfield* was 61 years old. Formally called the *Corrimal*, the 1,140-tonne ship, ran coal between Newcastle and Sydney before serving as a transport ship for Australia during World War II. After the war, she operated again as a collier between Newcastle and Miller’s terminal in Blackwattle Bay. By 1972, she had reached the end of her useful life and was sent to a scrapyard in Homebush Bay, near Sydney, Australia, to be broken up.
 
 The ship arrived just as the scrap market collapsed and the yard closed. Part of her hull was cut away but her scrapping was interrupted. She settled into the mudflats of the bay, to rust slowly away, a tired relic of another time.
 

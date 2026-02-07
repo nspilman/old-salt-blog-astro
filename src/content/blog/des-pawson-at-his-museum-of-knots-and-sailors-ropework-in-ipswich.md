@@ -13,7 +13,7 @@ tags:
   - "Ipswich"
   - "Museum of Knots and Sailors' Ropework"
   - "UK"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/desmuseumrope.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/desmuseumrope.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video by Classic Sailor of Des Pawson at his Museum of Knots and Sailors’ Ropework in Ipswich. Now in his seventies, Des is cataloging the contents of the museum for safekeeping curation at Chatham Historic … Continue reading &rarr;"
 ---

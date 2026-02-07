@@ -10,12 +10,12 @@ tags:
   - "equator"
   - "Null Island"
   - "Prime Meridian"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/nullislandweatherbouy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/nullislandweatherbouy.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about a ship which allegedly crossed the International Date Line and the equator at exactly the right time. Today, we will look at the other side of the globe, where the Prime Meridian crosses the equator, to the crowded, yet … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/nullislandweatherbouy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/nullislandweatherbouy.jpg)
 
 Weather buoy — Null Island
 
@@ -31,6 +31,6 @@ Null Island is an in-joke created by Nate Kelso and Tom Patterson as part of the
 
 *Zoom the map out and you can see why this unique property seems to be alone in the middle of the ocean; it’s really on Null Island. Either that or someone hasn’t been checking their geocoding results properly. A bad geocoding result is almost probably definitely the reason for this little geographic faux pas, but a part of me likes to think that Null Island really does exist and you really can spend close to a million pounds securing a 3 bedroom apartment on one of geography’s most tongue in cheek places.*”
 
-![nullisland](http://www.oldsaltblog.com/wp-content/uploads/2016/05/nullisland.jpg)
+![nullisland](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/nullisland.jpg)
 
 Notwithstanding all the structures which have been given the virtual location of 0,0, there is one physical manifestation of Null Island, a [weather buoy](https://en.wikipedia.org/wiki/Null_Island#'Soul'_Buoy) anchored in over 16,000 ft of water over position 0,0.

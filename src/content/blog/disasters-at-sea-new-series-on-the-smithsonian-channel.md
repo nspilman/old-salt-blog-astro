@@ -12,12 +12,12 @@ tags:
   - "Discovery Channel (Canada)"
   - "Exploration Production Inc"
   - "Smithsonian Channel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/dasbanner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/dasbanner.jpg"
 author: "Rick Spilman"
 description: "I am very excited by a new series, \"Disasters at Sea\" that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/dasbanner.jpg)I am very excited by a new series, “[Disasters at Sea](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669)” that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The series will be airing in Canada in early February. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/dasbanner.jpg)I am very excited by a new series, “[Disasters at Sea](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669)” that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The series will be airing in Canada in early February. 
 
 The premiere episode, “[*Trapped in Typhoon Alley*](https://www.smithsonianchannel.com/shows/disasters-at-sea/trapped-in-typhoon-alley/1005669/3467453) “, looks at the mysterious sinking of MV *Derbyshire,* which disappeared in Typhoon Orchid off Japan with a load of 160,000 tonnes of iron ore in 1980. She remains the largest British ship ever to have been lost at sea.
 

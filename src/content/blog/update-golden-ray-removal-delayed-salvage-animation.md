@@ -12,7 +12,7 @@ tags:
   - "removal"
   - "salvage"
   - "VB-10000"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/golenraysalvageanimation.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/golenraysalvageanimation.jpg"
 author: "Rick Spilman"
 description: "Lasy week, we posted that the removal of the capsized car carrier Golden Ray was being delayed by an outbreak of coronavirus in the salvage team on the heavy-lift barge VB-10,000, nicknamed the \"Golden Arches.\"  Now with the onset of the hurricane … Continue reading &rarr;"
 ---

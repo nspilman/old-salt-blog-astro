@@ -11,7 +11,7 @@ tags:
   - "horn"
   - "Oriana"
   - "Southhampton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/oriana.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/oriana.jpg"
 author: "Rick Spilman"
 description: "I am not sure when this actually takes place, but it seems like an appropriate video for a grey cold and rainy Monday.  Here is the P&O Cruises Oriana departing Southampton’s City Cruise Terminal for a refit. As per the Rules … Continue reading &rarr;"
 ---

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Barrier-shattering naval engineer Raye Montague has died at the age of 83. At the age of 7, she was inspired to become an engineer after she toured a captured German submarine with her grandmother during World War II.  As an African-American … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/RayeM.jpg)Barrier-shattering naval engineer [Raye Montague](https://en.wikipedia.org/wiki/Raye_Montague) has died at the age of 83. At the age of 7, she was inspired to become an engineer after she toured a captured German submarine with her grandmother during World War II.  As an African-American girl, however, she was told that becoming an engineer was simply not an option.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg)Barrier-shattering naval engineer [Raye Montague](https://en.wikipedia.org/wiki/Raye_Montague) has died at the age of 83. At the age of 7, she was inspired to become an engineer after she toured a captured German submarine with her grandmother during World War II.  As an African-American girl, however, she was told that becoming an engineer was simply not an option.
 
 Thirty years later, Raye Montague became the first person to use a computer program to rapidly develop a preliminary ship design for the U.S. Navy. The design process had previously taken the Navy two years. Montague completed the preliminary design of the [Oliver Hazard Perry Class](https://en.wikipedia.org/wiki/Oliver_Hazard_Perry-class_frigate) frigate in less than 19 hours. Her accomplishment revolutionized the way the Navy designs ships and submarines. 
 

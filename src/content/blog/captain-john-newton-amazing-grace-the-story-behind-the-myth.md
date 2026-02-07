@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The story of Captain John Newton and the song Amazing Grace is quite remarkable. The problem is separating the myth from what actually happened."
 ---
 
-![agmusical](http://www.oldsaltblog.com/wp-content/uploads/2015/07/agmusical-200x137.jpg)A new musical is coming to Broadway this summer, which features a ship’s captain and stage sets with lots of ship’s rigging. It is based on the story of [Captain John Newton](https://en.wikipedia.org/wiki/John_Newton) and the song *[Amazing Grace](https://en.wikipedia.org/wiki/Amazing_Grace).  T*he musical is described: *AMAZING GRACE is a new original musical based on the awe-inspiring true story behind the world’s most beloved song. A captivating tale of romance, rebellion and redemption, this radiant production follows one man whose incredible journey ignited a historic wave of change.*
+![agmusical](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/agmusical-200x137.jpg)A new musical is coming to Broadway this summer, which features a ship’s captain and stage sets with lots of ship’s rigging. It is based on the story of [Captain John Newton](https://en.wikipedia.org/wiki/John_Newton) and the song *[Amazing Grace](https://en.wikipedia.org/wiki/Amazing_Grace).  T*he musical is described: *AMAZING GRACE is a new original musical based on the awe-inspiring true story behind the world’s most beloved song. A captivating tale of romance, rebellion and redemption, this radiant production follows one man whose incredible journey ignited a historic wave of change.*
 
 The story of Captain Newton and the song *Amazing Grace* is quite remarkable. The problem is separating [the myth](http://www.snopes.com/religion/amazing.asp) from what actually happened.
 

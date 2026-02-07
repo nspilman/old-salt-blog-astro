@@ -13,12 +13,12 @@ tags:
   - "Seawolf Class submarine"
   - "South China Sea"
   - "underwater collision"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/connecticut.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg"
 author: "Rick Spilman"
 description: "On Monday, the US Navy released the report of its investigation of the underwater collision of the Seawolf Class submarine, USS Connecticut, with a seamount in the South China Sea. From the report’s Executive Summary: On 2 October 2021, Connecticut … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/connecticut.jpg)On Monday, the US Navy released the [report of its investigation](https://s3.documentcloud.org/documents/22035153/connecticut-investigation.pdf) of the [underwater collision](https://www.oldsaltblog.com/2021/10/submarine-uss-connecticut-collides-with-underwater-object-in-south-china-sea/) of the Seawolf Class submarine, [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)), with a seamount in the South China Sea. From the report’s Executive Summary:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg)On Monday, the US Navy released the [report of its investigation](https://s3.documentcloud.org/documents/22035153/connecticut-investigation.pdf) of the [underwater collision](https://www.oldsaltblog.com/2021/10/submarine-uss-connecticut-collides-with-underwater-object-in-south-china-sea/) of the Seawolf Class submarine, [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)), with a seamount in the South China Sea. From the report’s Executive Summary:
 
 *On 2 October 2021, Connecticut grounded on an uncharted bathymetric feature while operating submerged in a poorly surveyed area in international waters. This mishap was preventable. It resulted from an accumulation of errors and omissions in navigation planning, watchteam execution, and risk management that fell far below U.S. Navy standards. Prudent* *decision-making and adherence to required procedures in any of these three areas could have prevented the grounding.*
 

@@ -11,12 +11,12 @@ tags:
   - "jet ski"
   - "new york harbor"
   - "Sea the City"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/hottubboat-2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hottubboat-2.jpg"
 author: "Rick Spilman"
 description: "Will Van Dorp, host of the Tugster blog, recently saw an odd craft on the Hudson River, heading up into the Morris Canal Big Basin toward Liberty Landing Marina. It appeared to be a catamaran with a rather blocky deckhouse … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/hottubboat-2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/hottubboat-2.jpg)
 
 Photo: Will Van Dorp
 

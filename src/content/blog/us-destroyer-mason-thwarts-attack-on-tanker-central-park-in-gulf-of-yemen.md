@@ -15,12 +15,12 @@ tags:
   - "Somali pirates"
   - "USS Mason"
   - "Zodiac Maritime Ltd"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/ussmason.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/ussmason.jpg"
 author: "Rick Spilman"
 description: "On Sunday, the Arleigh Burke-class destroyer USS Mason received a distress call from the M/V Central Park, a 20,000 DWT oil/chemical tanker, in the Gulf of Aden, that reported they were under attack by an unknown entity. Five armed individuals … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/ussmason.jpg)On Sunday, the Arleigh Burke-class destroyer [USS *Mason*](https://en.wikipedia.org/wiki/USS_Mason_\(DDG-87\)) received a distress call from the [M/V *Central Park*](https://www.marinetraffic.com/en/ais/details/ships/shipid:3700298/mmsi:636016933/imo:9725823/vessel:CENTRAL_PARK), a 20,000 DWT oil/chemical tanker, in the Gulf of Aden, that reported they were under attack by an unknown entity. Five armed individuals had boarded the tanker. The tanker’s crew barricaded themselves in the tanker’s citadel, an armored panic room.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/ussmason.jpg)On Sunday, the Arleigh Burke-class destroyer [USS *Mason*](https://en.wikipedia.org/wiki/USS_Mason_\(DDG-87\)) received a distress call from the [M/V *Central Park*](https://www.marinetraffic.com/en/ais/details/ships/shipid:3700298/mmsi:636016933/imo:9725823/vessel:CENTRAL_PARK), a 20,000 DWT oil/chemical tanker, in the Gulf of Aden, that reported they were under attack by an unknown entity. Five armed individuals had boarded the tanker. The tanker’s crew barricaded themselves in the tanker’s citadel, an armored panic room.
 
 When the USS *Mason* and other coalition vessels arrived at the *Central Par*k, they demanded the release of the ship. Five gunmen attempted to flee from the tanker in a skiff. [The crew of *Mason* pursued the skiff](https://news.usni.org/2023/11/26/u-s-warships-monitoring-potential-oil-tanker-seizure-in-gulf-of-aden) as it headed toward Yemen with the ship’s embarked helicopter and ultimately forced the five to surrender. They were detained for questioning*.*
 

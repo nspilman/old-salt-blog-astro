@@ -13,12 +13,12 @@ tags:
   - "Mary A.Whalen"
   - "PortSide NewYork"
   - "Red Hook"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/psmw911-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/psmw911-1.jpg"
 author: "Rick Spilman"
 description: "Portside NewYork is hosting an exhibit of 9/11 videos, documents, and photography in a video booth on the deck of their flagship Mary A. Whalen in Red Hook, Brooklyn, and in an outdoor exhibit of banners. The exhibit runs through … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/psmw911.jpg)[Portside NewYork](https://portsidenewyork.org/) is hosting an exhibit of 9/11 videos, documents, and photography in a video booth on the deck of their flagship [*Mary A. Whalen*](https://portsidenewyork.org/mary-a-whalen) in Red Hook, Brooklyn, and in an outdoor exhibit of banners. The exhibit runs through 9/26/21, open from 10am to 9pm. (If it is raining, the video booth and reading material will not be available; the exhibit banners on the fence are there in all weather.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/psmw911.jpg)[Portside NewYork](https://portsidenewyork.org/) is hosting an exhibit of 9/11 videos, documents, and photography in a video booth on the deck of their flagship [*Mary A. Whalen*](https://portsidenewyork.org/mary-a-whalen) in Red Hook, Brooklyn, and in an outdoor exhibit of banners. The exhibit runs through 9/26/21, open from 10am to 9pm. (If it is raining, the video booth and reading material will not be available; the exhibit banners on the fence are there in all weather.)
 
 The videos and oral histories are also available [online here](https://portsidenewyork.org/9-11) and include:
 

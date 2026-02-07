@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "PortSide NewYork is hosting a Fundraiser -- Resiliency is our Hook, on October 28, 2014."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/102910_7394-bernie-Ente-sq-.jpg)[PortSide NewYork](http://portsidenewyork.org/) is hosting a Fundraiser — *Resiliency is our Hook*, on October 28, 2014.  There will be smoky BBQ and sizzling Dixieland Jazz by the Red Hook Ramblers.  Good food, good music and good times for a good cause.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/102910_7394-bernie-Ente-sq-.jpg)[PortSide NewYork](http://portsidenewyork.org/) is hosting a Fundraiser — *Resiliency is our Hook*, on October 28, 2014.  There will be smoky BBQ and sizzling Dixieland Jazz by the Red Hook Ramblers.  Good food, good music and good times for a good cause.
 
 PortSide NewYork, the organization behind the historic tanker [*Mary A. Whalen*](http://portsidenewyork.org/mary-a-whalen/), is nothing if not resilient.  The harbor-based educational non-profit has weathered many storms, both figuratively and literally.  In Superstorm Sandy, the organization suffered around $300,000 worth of damage. Nevertheless, PortSide Director Carolina Salguero and her team set up a post-hurricane recovery center ashore to help the equally hard-hit residents of the Red Hook section of Brooklyn. The organization was subsequently rewarded a White House [Champions of Change](http://www.whitehouse.gov/champions) award in recognition for the wonderful work they did in Red Hook during those terrible days following Sandy.
 

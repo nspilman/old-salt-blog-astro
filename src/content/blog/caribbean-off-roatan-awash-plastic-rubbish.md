@@ -10,12 +10,12 @@ tags:
   - "plastic"
   - "Roatan"
   - "trash"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/roatan1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/roatan1.jpg"
 author: "Rick Spilman"
 description: "I was recently shocked and disturbed to see photos of a significant quantity of floating plastics and trash in the Caribbean near the Honduran Island of Roatán. Roatán is the largest of the Bay Islands of Honduras.  It is a beautiful island with incredible diving. My … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/roatan1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/roatan1.jpg)
 
 Photo: Caroline Power Photography
 

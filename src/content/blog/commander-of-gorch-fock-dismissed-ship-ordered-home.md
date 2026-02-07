@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An update on yesterday’s post. German defense minister fires ship’s captain amid mutiny rumors The German defense minister has dismissed the commander of the naval training ship Gorch Fock after cadets complained of harsh treatment from superiors following a fatal … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/06412621_100.jpg)An update on [yesterday’s post](http://www.oldsaltblog.com/2011/01/21/mutiny-on-the-gorch-fock/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/06412621_100.jpg)An update on [yesterday’s post](http://www.oldsaltblog.com/2011/01/21/mutiny-on-the-gorch-fock/).
 
 [German defense minister fires ship’s captain amid mutiny rumors](http://www.dw-world.de/dw/article/0,,14779559,00.html)
 

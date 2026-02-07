@@ -13,13 +13,13 @@ author: "Rick Spilman"
 description: "It is remarkably difficult to grasp how large ships can be. I remember, many years ago, being amazed how a full sized city bus, which looked so large on the pier, seemed to shrink dramatically as it was hoisted and … Continue reading &rarr;"
 ---
 
-![qm2captainbulb](http://www.oldsaltblog.com/wp-content/uploads/2014/03/qm2captainbulb.jpg)It is remarkably difficult to grasp how large ships can be. I remember, many years ago, being amazed how a full sized city bus, which looked so large on the pier, seemed to shrink dramatically as it was hoisted and lowered into the hold of a ship.  The ship was not particularly large by today’s standards, yet the bus seem so small as it disappeared into the hold.  This memory was triggered by the recent [publicity photo of the captain of the *Queen Mary 2* standing on the ship’s bulbous bow](http://www.oldsaltblog.com/2014/03/queen-mary-2-at-10-years-old/).  Depending on the scale of the photo, Captain Kevin Oprey is barely visible with the bow of the ship towering over him.
+![qm2captainbulb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/qm2captainbulb.jpg)It is remarkably difficult to grasp how large ships can be. I remember, many years ago, being amazed how a full sized city bus, which looked so large on the pier, seemed to shrink dramatically as it was hoisted and lowered into the hold of a ship.  The ship was not particularly large by today’s standards, yet the bus seem so small as it disappeared into the hold.  This memory was triggered by the recent [publicity photo of the captain of the *Queen Mary 2* standing on the ship’s bulbous bow](http://www.oldsaltblog.com/2014/03/queen-mary-2-at-10-years-old/).  Depending on the scale of the photo, Captain Kevin Oprey is barely visible with the bow of the ship towering over him.
 
 But how does one even properly compare the sizes of different types of ships?  Tankers and dry bulk carriers are measured in terms of deadweight tons.  Cruise ships are measured in Gross Tonnage, which is the internal volume of the ship, or alternatively by the number of passengers and crew aboard. Container ships are sized by the number of TEU (Twenty-foot Equivalent Units), while LNG ships are judged by the number of cubic meters of LNG carried. And, on it goes.
 
 The least accurate but most convenient way to compare different ship types is simply by length.  It does have the advantage that it is easy to visually compare different ships, assuming that they are all drawn to scale.
 
-![shipcompinfographic](http://www.oldsaltblog.com/wp-content/uploads/2014/03/shipcompinfographic.jpg)
+![shipcompinfographic](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/shipcompinfographic.jpg)
 
 The [*Queen Mary 2*](http://en.wikipedia.org/wiki/RMS_Queen_Mary_2) was the largest cruise ship when it was delivered, but is now roughly 15 meters shorter than the *[Allure of the Seas](http://en.wikipedia.org/wiki/MS_Allure_of_the_Seas),* which can accommodate around 8,000 passengers and crew*.*  The [*Vale Brasil*](http://en.wikipedia.org/wiki/MS_Vale_Brasil) is among the largest ore carriers ever built, with a capacity approaching 400,000 deadweight tons.  The largest container ships now sailing are the [Mærsk “Triple E” class](http://en.wikipedia.org/wiki/Maersk_Triple_E_class), which can each carry 18,270 TEU.  The [*Mærsk Mc-Kinney Møller*](http://en.wikipedia.org/wiki/M%C3%A6rsk_Mc-Kinney_M%C3%B8ller_\(ship\)) was the first of the class to enter service.
 
@@ -31,4 +31,4 @@ Will larger ships be built, or have we reached the practical upper limits? The *
 
 To find a ship larger than the *Seawise Giant* or the *Prelude FLNG,* one needs to look to fiction. Apparently, only the later versions of Star Trek’s *Starship Enterprise* are notionally bigger than the *Seawise Giant/Knock Nevis*.
 
-![USS-Enterprise-size-comparisons-640](http://www.oldsaltblog.com/wp-content/uploads/2014/03/USS-Enterprise-size-comparisons-640.jpg)
+![USS-Enterprise-size-comparisons-640](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/USS-Enterprise-size-comparisons-640.jpg)

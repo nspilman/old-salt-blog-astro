@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Today there are 1.6 million or so residents on the island of Manhattan.  How things have changed. Four hundred years ago on September 12th, 1609, when Henry Hudson first stepped onto the island, there were roughly 600 Lenape Indians living … Continue reading &rarr;"
 ---
 
-![halfmoon3](http://www.oldsaltblog.com/wp-content/uploads/2009/08/halfmoon3.jpg)Today there are 1.6 million or so residents on the island of Manhattan.  How things have changed. Four hundred years ago on September 12th, 1609, when Henry Hudson first stepped onto the island, there were roughly 600 Lenape Indians living there.  The natives called the island Manna-hata, as recorded in the 1609 logbook of Robert Juet, an officer on Hudson’s ship, *Half Moon*. Manna-hata is translated from the Lenape to mean the “island of many hills.”
+![halfmoon3](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/halfmoon3.jpg)Today there are 1.6 million or so residents on the island of Manhattan.  How things have changed. Four hundred years ago on September 12th, 1609, when Henry Hudson first stepped onto the island, there were roughly 600 Lenape Indians living there.  The natives called the island Manna-hata, as recorded in the 1609 logbook of Robert Juet, an officer on Hudson’s ship, *Half Moon*. Manna-hata is translated from the Lenape to mean the “island of many hills.”
 
 The Lenape Indians would later gave a different account of the name to Moravian missionary John Heckewelder. They called it Manahachtanienk, which in the Delaware language, means “the island where we all became intoxicated.”  OK, so maybe things haven’t changed so much after all.
 

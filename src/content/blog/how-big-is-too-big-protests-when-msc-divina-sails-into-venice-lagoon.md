@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "MSC’s newest passenger ship, the MSC Davina, recently called at the Venice lagoon setting off a storm of protests. The protesters think that such a large ship creates too much pollution and could damage the fragile environment of the lagoon. The MSC Davina is 139,400 GT, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/davina.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/davina.jpg)
 
 MSC Divina dwarfs the historic domes of Venice Photo: Splash News
 

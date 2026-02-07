@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Water transportation on two of the world’s longest river systems have been disrupted by extremes in water levels. On the Ohio and Mississippi Rivers record  flooding  has  disrupted  or halted barge traffic while on China’s Yangtze River a record drought has snarled … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/05_full_600x400.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/05_full_600x400.jpg)
 
 Photo: Jeff Roberson/AP
 

@@ -13,7 +13,7 @@ tags:
   - "riveted"
   - "shipbuilding"
   - "steel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/steelgoestosea.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/steelgoestosea.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating short video of British riveted steel shipbuilding in the 1940s. The shipyard in the film is the Burntisland Shipbuilding Company in Fife. The ship being built is thought to be either the MV Dalhousie or the … Continue reading &rarr;"
 ---

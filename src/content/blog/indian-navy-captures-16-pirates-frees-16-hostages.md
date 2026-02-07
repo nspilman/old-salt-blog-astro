@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "On Sunday the MV Maersk Kensington reported an attempted boarding by pirates while underway off the southern coast of India.  The Indian navy ship Suvarna and Coast Guard ship Sangram responded, intercepting the Iranian fishing trawler Morteza which had been hijacked and was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/sagram.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/sagram.jpg)
 
 Indian Coast Guard ship Sangram
 

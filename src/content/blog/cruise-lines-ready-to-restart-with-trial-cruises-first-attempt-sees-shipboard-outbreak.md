@@ -13,12 +13,12 @@ tags:
   - "cruise ship"
   - "Royal Caribbean"
   - "SeaDream !"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/anthemofthe-seas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/anthemofthe-seas.jpg"
 author: "Rick Spilman"
 description: "Would you volunteer to go on a cruise ship again? Apparently, tens of thousands are eager to do so. One of the first trial cruises in the Caribbean did not go well. The Center for Disease Control (CDCC) lifted its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/anthemofthe-seas.jpg)Would you volunteer to go on a cruise ship again? Apparently, tens of thousands are eager to do so. One of the first trial cruises in the Caribbean did not go well.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/anthemofthe-seas.jpg)Would you volunteer to go on a cruise ship again? Apparently, tens of thousands are eager to do so. One of the first trial cruises in the Caribbean did not go well.
 
 The Center for Disease Control (CDCC) [lifted its “No-Sail” order on cruise lines](https://www.cdc.gov/quarantine/cruise/index.html) calling on US ports as of the end of last month. This does not mean, however, a return to business as usual. The CDCs is providing a “[framework for conditional sailing](https://www.cdc.gov/quarantine/pdf/CDC-Conditional-Sail-Order_10_30_2020-p.pdf)” that requires cruise lines to run “simulated voyages” designed “to replicate real-world onboard conditions of cruising if they want to get permission to recommence regularly scheduled sailings.
 

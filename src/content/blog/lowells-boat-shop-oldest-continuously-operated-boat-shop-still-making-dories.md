@@ -13,7 +13,7 @@ tags:
   - "dory"
   - "Lowell"
   - "Massachusetts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/lowells.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/lowells.jpg"
 author: "Rick Spilman"
 description: "When Simeon Lowell moved his boat-building business to Amesbury, Massachusetts in 1793, I wonder whether he could have possibly imagined that the boat shop would still be producing boats, dories, and skiffs 226 years later. Lowell’s Boat Shop is the … Continue reading &rarr;"
 ---

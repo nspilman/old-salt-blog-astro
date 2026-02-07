@@ -14,12 +14,12 @@ tags:
   - "migrants"
   - "United Nations"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/fisherman-rescue-migrants.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fisherman-rescue-migrants.jpg"
 author: "Rick Spilman"
 description: "At least 49 people from the Horn of Africa have died and 140 are missing after their boat capsized off the coast of Yemen, according to the UN’s International Organization for Migration (IOM). Among the dead were six children and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/fisherman-rescue-migrants.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/fisherman-rescue-migrants.jpg)
 
 Fishermen rescuing survivors
 

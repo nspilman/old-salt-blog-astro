@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The municipality of Amsterdam has a population of  just under 800,000 people.  Amsterdam’s population almost doubled this weekend as  SAIL 2010 attracted roughly 1.5 million visitors.   Some final thoughts on the festival, which ended this morning, by Marijke Peters of Radio Netherlands Worldwide: Bon voyage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/SailAmsterdam2010.jpg)The municipality of Amsterdam has a population of  just under 800,000 people.  Amsterdam’s population almost doubled this weekend as  SAIL 2010 attracted roughly 1.5 million visitors.   Some final thoughts on the festival, which ended this morning, by Marijke Peters of Radio Netherlands Worldwide:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/SailAmsterdam2010.jpg)The municipality of Amsterdam has a population of  just under 800,000 people.  Amsterdam’s population almost doubled this weekend as  SAIL 2010 attracted roughly 1.5 million visitors.   Some final thoughts on the festival, which ended this morning, by Marijke Peters of Radio Netherlands Worldwide:
 
 [Bon voyage Sail 2010](http://www.rnw.nl/english/article/bon-voyage-sail-2010)  
   

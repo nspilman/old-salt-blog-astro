@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Lilac Preservation Project is hosting \"LILAC: Flower of the Delaware, A Coast Guard Day Presentation\" on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
 ---
 
-![lilaccgday](http://www.oldsaltblog.com/wp-content/uploads/2016/08/lilaccgday.jpg)The [Lilac Preservation Project](http://lilacpreservationproject.org/) is hosting “LILAC: Flower of the Delaware, A Coast Guard Day Presentation” on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender *Lilac* at Pier 25, the foot of West Street and N. Moore Street, on the Hudson River in Manhattan.
+![lilaccgday](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/lilaccgday.jpg)The [Lilac Preservation Project](http://lilacpreservationproject.org/) is hosting “LILAC: Flower of the Delaware, A Coast Guard Day Presentation” on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender *Lilac* at Pier 25, the foot of West Street and N. Moore Street, on the Hudson River in Manhattan.
 
 *Lilac* is a retired 1933 Coast Guard cutter that once carried supplies to lighthouses and maintained buoys. Decommissioned in 1972, USCGC *Lilac* is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places and is eligible to become a National Historic Landmark.
 

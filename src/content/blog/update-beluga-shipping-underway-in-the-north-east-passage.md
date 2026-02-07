@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the \"Northern Sea Route\" which is also referred to as the \"North East Passage.\"  See our \"Beluga Group attempts the Northern Sea Route\" … Continue reading &rarr;"
 ---
 
-[![passage_600a](http://www.oldsaltblog.com/wp-content/uploads/2009/09/passage_600a.jpg)](http://www.nytimes.com/2009/09/11/science/earth/11passage.html?_r=1&scp=1&sq=beluga&st=cse)We have been following the progress of [Beluga Shipping](http://www.beluga-group.com/en/) in their attempt to make a commercial transit of the “Northern Sea Route” which is also referred to as the “North East Passage.”  See our “[Beluga Group attempts the Northern Sea Route](http://www.oldsaltblog.com/2009/08/01/beluga-group-attempts-the-northern-sea-route/)” and “[Arctic Waters are Getting Busier](http://www.oldsaltblog.com/2009/08/08/arctic-waters-are-getting-busier/)“.
+[![passage_600a](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/passage_600a.jpg)](http://www.nytimes.com/2009/09/11/science/earth/11passage.html?_r=1&scp=1&sq=beluga&st=cse)We have been following the progress of [Beluga Shipping](http://www.beluga-group.com/en/) in their attempt to make a commercial transit of the “Northern Sea Route” which is also referred to as the “North East Passage.”  See our “[Beluga Group attempts the Northern Sea Route](http://www.oldsaltblog.com/2009/08/01/beluga-group-attempts-the-northern-sea-route/)” and “[Arctic Waters are Getting Busier](http://www.oldsaltblog.com/2009/08/08/arctic-waters-are-getting-busier/)“.
 
 Captain D. Peter Boucher has a great update on Beluga’s progress on the [Nautical Log Blog](http://nauticallog.blogspot.com/2009/08/northeast-passage.html) , in his post, [North East Passage](http://nauticallog.blogspot.com/2009/08/northeast-passage.html) , as does yesterday’s New York Times, [Arctic Shortcut Beckons Shippers as Ice Thaws](http://www.nytimes.com/2009/09/11/science/earth/11passage.html?_r=1&scp=1&sq=beluga&st=cse).  
   
@@ -17,7 +17,7 @@ Beluga’s ice class ships, MS *Beluga Family*, MS *Beluga Fraternity*, and MS 
 
 “This may be as much of a test run for the bureaucracy as for the ice,” said Dr. Brigham, an oceanographer who is a former Coast Guard icebreaker captain.
 
-[![Click for a larger map](http://www.oldsaltblog.com/wp-content/uploads/2009/09/passage_map_190.jpg)](http://graphics8.nytimes.com/images/2009/09/11/science/earth/0910-for-web-PASSAGEmap.jpg)
+[![Click for a larger map](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/passage_map_190.jpg)](http://graphics8.nytimes.com/images/2009/09/11/science/earth/0910-for-web-PASSAGEmap.jpg)
 
 Click for a larger map
 

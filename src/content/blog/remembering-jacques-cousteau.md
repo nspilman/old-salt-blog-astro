@@ -11,12 +11,12 @@ tags:
   - "Calypso"
   - "Jacques Cousteau"
   - "The Silent World"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/cousteauredcap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/cousteauredcap.jpg"
 author: "Rick Spilman"
 description: "Jacques Cousteau; the co-developer of the Aqua-Lung, as well as an explorer, author, conservationist, and filmmaker; died twenty years ago today. He opened the eye of millions both to the wonders of the world beneath the sea but also the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/cousteauredcap.jpg)[Jacques Cousteau](https://en.wikipedia.org/wiki/Jacques_Cousteau); the co-developer of the Aqua-Lung, as well as an explorer, author, conservationist, and filmmaker; died twenty years ago today. He opened the eye of millions both to the wonders of the world beneath the sea but also the environmental damage being wreaked upon the oceans.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/cousteauredcap.jpg)[Jacques Cousteau](https://en.wikipedia.org/wiki/Jacques_Cousteau); the co-developer of the Aqua-Lung, as well as an explorer, author, conservationist, and filmmaker; died twenty years ago today. He opened the eye of millions both to the wonders of the world beneath the sea but also the environmental damage being wreaked upon the oceans.  
 
 I remember how, as a teenager, his book, *[The Silent World: A Story of Undersea Discovery and Adventure](https://en.wikipedia.org/wiki/The_Silent_World:_A_Story_of_Undersea_Discovery_and_Adventure)* , fired my imagination. While my friends were inspired by the space program I became fascinated with the world beneath the ocean.  The documentary version of the book, [*Silent World*](https://en.wikipedia.org/wiki/The_Silent_World), would earn Cousteau both the Palme d’or at the 1956 Cannes Film Festival and an Academy Award. Cousteau would win his second Oscar for his 1964 documentary, [World Without Sun](https://en.wikipedia.org/wiki/World_Without_Sun).
 

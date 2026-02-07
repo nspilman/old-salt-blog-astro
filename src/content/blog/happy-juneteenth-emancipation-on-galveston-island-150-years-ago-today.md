@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Today is Juneteeth, a commemoration of the abolition of slavery in the Confederate states one hundred and fifty years ago today."
 ---
 
-![Model of SS Cornubia of 1865](http://www.oldsaltblog.com/wp-content/uploads/2015/06/sscornubia.jpg)
+![Model of SS Cornubia of 1865](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/sscornubia.jpg)
 
 Model SS Cornubia
 

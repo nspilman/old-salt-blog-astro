@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last week, the  MV Olovaha arrived in Nuku’alofa.  The MV Olovaha is a new interisland ferry built for Tonga to replace the Princess Ashika which sank last July with a loss of 74 passengers and crew.   The ferry was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/tongaferry1.jpg)Last week, the  *MV Olovaha* arrived in Nuku’alofa.  The *MV Olovaha* is a new interisland ferry built for Tonga to replace the *[Princess Ashika](http://www.oldsaltblog.com/2009/09/25/update-aftermath-of-the-sinking-of-the-princess-ashika/)* which sank last July with a loss of 74 passengers and crew.   The ferry was built in Japan with Japanese funds.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/tongaferry1.jpg)Last week, the  *MV Olovaha* arrived in Nuku’alofa.  The *MV Olovaha* is a new interisland ferry built for Tonga to replace the *[Princess Ashika](http://www.oldsaltblog.com/2009/09/25/update-aftermath-of-the-sinking-of-the-princess-ashika/)* which sank last July with a loss of 74 passengers and crew.   The ferry was built in Japan with Japanese funds.
 
 [Ferry arrives to replace Princess Ashika](http://tvnz.co.nz/world-news/ferry-arrives-replace-princess-ashika-3840287)
 

@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The New York Times is featuring a new four part series, Outlaw Ocean, by Ian Urbina, which presents a vivid and disturbing look at crime at sea."
 ---
 
-![stowaway](http://www.oldsaltblog.com/wp-content/uploads/2015/07/stowaway-200x104.jpg)The New York Times is featuring a new four part series, *Outlaw Ocean*, by Ian Urbina, which presents a vivid and disturbing look at crime at sea.  Definitely worth reading.
+![stowaway](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/stowaway-200x104.jpg)The New York Times is featuring a new four part series, *Outlaw Ocean*, by Ian Urbina, which presents a vivid and disturbing look at crime at sea.  Definitely worth reading.
 
 The first installment, [Stowaways and Crimes Aboard Aboard a Scofflaw Ship](http://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html), looks at the case of two desperate men from South Africa who have the bad luck to stowaway aboard the Dona Liberta, Greek refrigerated ship, notorious for not paying its crew, cheating creditors and fouling the oceans. Only one of the twos stowaways survived.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The luxury cruise ship Silver Shadow  may have lived up to its name on Friday morning when it collided with a container ship in Ha Long Bay, Vietnam.  There were no reported injuries on the cruise ship, though passengers reported being knocked off their … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/imagejpg-2039012_p9.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/imagejpg-2039012_p9.jpg)
 
 Photo of damage to the container ship bridge taken by passenger Andrew lock
 

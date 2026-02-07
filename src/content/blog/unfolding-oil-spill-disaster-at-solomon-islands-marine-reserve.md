@@ -12,12 +12,12 @@ tags:
   - "Rennell Island"
   - "Solomon Islands"
   - "Solomon Trader"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/solomontrader.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/solomontrader.jpg"
 author: "Rick Spilman"
 description: "Almost a month ago, the bulk carrier Solomon Trader was driven onto a reef on Rennell Island in the Solomon Islands by Cyclone Oma. Since then the 74,000 DWT ship has been leaking oil which threatens to destroy a world … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/solomontrader.jpg)Almost a month ago, the bulk carrier [*Solomon Trader*](https://www.vesselfinder.com/vessels/SOLOMON-TRADER-IMO-9075670-MMSI-477690400) was driven onto a reef on Rennell Island in the Solomon Islands by Cyclone Oma. Since then the 74,000 DWT ship has been leaking oil which threatens to destroy a world heritage-listed marine sanctuary.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/solomontrader.jpg)Almost a month ago, the bulk carrier [*Solomon Trader*](https://www.vesselfinder.com/vessels/SOLOMON-TRADER-IMO-9075670-MMSI-477690400) was driven onto a reef on Rennell Island in the Solomon Islands by Cyclone Oma. Since then the 74,000 DWT ship has been leaking oil which threatens to destroy a world heritage-listed marine sanctuary.
 
 Of the estimated 700 tonnes of fuel oil aboard, 75 tonnes has leaked onto the [Rennell Island](https://en.wikipedia.org/wiki/East_Rennell) shoreline. Rennell Island is a UNESCO World Heritage Site and is the home to the largest [raised coral atoll](https://en.wikipedia.org/wiki/Raised_coral_atoll) in the world contains many endemic species.
 

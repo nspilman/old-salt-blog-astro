@@ -13,12 +13,12 @@ tags:
   - "COSCO"
   - "CSP Abu Dhabi"
   - "United Arab Emirates"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/coscoabu.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/coscoabu.jpg"
 author: "Rick Spilman"
 description: "Following pressure from the United States, work has been halted on what intelligence agencies believe was a secret Chinese military facility under construction in a commercial port in the United Arab Emirates (UAE). The Wall Street Journal reported that satellite imagery … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/coscoabu.jpg)Following pressure from the United States, [work has been halted](https://www.theguardian.com/world/2021/nov/19/chinese-military-base-uae-construction-abandoned-us-intelligence-report) on what intelligence agencies believe was a secret Chinese military facility under construction in a commercial port in the United Arab Emirates (UAE). The [Wall Street Journal](https://www.wsj.com/articles/us-china-uae-military-11637274224) reported that satellite imagery of the port of Khalifa had revealed suspicious construction work inside the CSP Abu Dhabi container terminal built and operated by a Chinese shipping corporation, COSCO.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/coscoabu.jpg)Following pressure from the United States, [work has been halted](https://www.theguardian.com/world/2021/nov/19/chinese-military-base-uae-construction-abandoned-us-intelligence-report) on what intelligence agencies believe was a secret Chinese military facility under construction in a commercial port in the United Arab Emirates (UAE). The [Wall Street Journal](https://www.wsj.com/articles/us-china-uae-military-11637274224) reported that satellite imagery of the port of Khalifa had revealed suspicious construction work inside the CSP Abu Dhabi container terminal built and operated by a Chinese shipping corporation, COSCO.
 
 [CNN](https://www.cnn.com/2021/11/19/politics/china-uae-us-construction-port/index.html?s=03) reports that US officials for at least a year have been closely watching the construction of what they believed was a military facility inside the commercial Khalifa port, about 50 miles from the UAE capital. The United States considers the UAE a key partner in counterterrorism efforts in the region and has thousands of troops based at an Emirati airbase 20 miles outside of Abu Dhabi.
 

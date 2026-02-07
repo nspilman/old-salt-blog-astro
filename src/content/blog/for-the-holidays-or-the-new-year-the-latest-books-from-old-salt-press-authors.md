@@ -15,12 +15,12 @@ tags:
   - "Old Salt Press"
   - "Seymour Hamilton"
   - "The Seeds of War"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/ospbanner2021.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/ospbanner2021.jpg"
 author: "Rick Spilman"
 description: "Whether as a holiday gift or just great reading for the New Year, check out the latest nautical fiction from Old Salt Press authors Alaric Bond, Joan Druett, Antione Vanner, and Seymour Hamilton. The Seeds of War,  (The Fighting Sail … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/ospbanner2021.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/ospbanner2021.jpg)
 
 Whether as a holiday gift or just great reading for the New Year, check out the latest nautical fiction from Old Salt Press authors [Alaric Bond](https://www.alaricbond.com/), [Joan Druett](https://www.amazon.com/Joan-Druett/e/B000APKEAQ%3Fref=dbs_a_mng_rwt_scns_share), [Antione Vanner](https://dawlishchronicles.com/), and [Seymour Hamilton](https://seymourhamilton.com/).
 

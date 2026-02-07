@@ -14,12 +14,12 @@ tags:
   - "Panama"
   - "SS Charles H. Cugle"
   - "Sturgis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/sturgis.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sturgis.jpg"
 author: "Rick Spilman"
 description: "Did you know that in the 1960s the US Army converted a World War II Liberty ship to a floating nuclear power plant? Neither did I. And as it is now heading for the scrap yard, will soon be no … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/sturgis.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sturgis.jpg)
 
 Photo: Erhard Koehler, 2014.
 

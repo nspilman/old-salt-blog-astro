@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I just read that Lars Hansen died the day before yesterday in a nursing home in Florida.  He was 86.  For three decades he had been the master rigger of the  historic vessels of the South Street Seaport until he suffered … Continue reading &rarr;"
 ---
 
-![hansen](http://www.oldsaltblog.com/wp-content/uploads/2009/10/hansen.jpg)
+![hansen](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/hansen.jpg)
 
 Lars Hansen atop the Peking at the South Street Seaport in 1991.
 

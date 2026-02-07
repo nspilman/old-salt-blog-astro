@@ -18,7 +18,7 @@ author: "Kurt Voss"
 description: "Thanks to Kurt Voss for this post on the repairs to the Tall Ship ELISSA.  Over thirty years ago Kurt became one of the original stateside volunteers for the 1877, 150-foot sailing vessel ELISSA. He has been a member of the ship’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/elissadrydock1-125x93.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/elissadrydock1-125x93.jpg)
 
 ELISSA entering drydock, click for larger image
 
@@ -28,7 +28,7 @@ Thanks to Kurt Voss for this post on the repairs to the [Tall Ship *ELISSA*](h
 
 When Jamie White took over as director of the Texas Seaport Museum and 1877 barque ELISSA, he thought most of his time would be spent on the “cocktails and khakis” circuit. Instead, less than three months after taking the helm, he discovered the ELISSA’s future as an active sailing vessel faced profound challenges. During her routine dry-docking early in 2011, White and his staff found that electrolytic corrosion caused by Hurricane Ike had attacked 16% of the ship’s hull plates, nearly all of which were part of her original 1877 iron fabric. Last week, after a year and a half of planning, using experts from around the globe, the ELISSA entered dry-dock to begin repairs that will allow her to sail again.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/elissadrydock2-125x83.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/elissadrydock2-125x83.jpg)
 
 ELISSA in drydock, click for a larger image
 
@@ -36,7 +36,7 @@ The path to the shipyard was much longer than the ten nautical miles between the
 
 Through process of elimination, White and his team began investigating what could have changed since the ELISSA’s last dry-docking in January 2008. The most obvious answer to that question was Hurricane Ike, which struck Galveston on September 13, 2008. Although no smoking gun was found, White’s team of experts began a rigorous process of elimination and determined that such unprecedented corrosion had to have been related to the storm. After a year of testimony, even FEMA accepted Galveston Historical Foundation’s argument that regardless of the exact details, the electrolytic corrosion was not present before Hurricane Ike and it has not been present since.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/Elissadrydock3-125x188.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Elissadrydock3-125x188.jpg)
 
 ELISSA in drydock, click for a larger image
 

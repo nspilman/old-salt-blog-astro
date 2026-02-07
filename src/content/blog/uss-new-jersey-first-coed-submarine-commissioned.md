@@ -12,12 +12,12 @@ tags:
   - "fully gender-integrated"
   - "USS New Jersey"
   - "Virginia-class attack submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/09/subnewjerey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/subnewjerey.jpg"
 author: "Rick Spilman"
 description: "The US Navy commissioned its first-ever coed submarine, the Virginia-class attack submarine USS New Jersey, at a ceremony at Naval Weapons Station Earle in Middletown, NJ. The US Navy has allowed women to serve on US Navy submarines for more … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/09/subnewjerey.jpg)The US Navy commissioned its first-ever coed submarine, the Virginia-class attack submarine [USS *New Jersey,*](https://en.wikipedia.org/wiki/USS_New_Jersey_\(SSN-796\)) at a ceremony at [Naval Weapons Station Earle](https://www.nj.com/monmouth/2024/09/navys-newest-submarine-the-uss-new-jersey-makes-its-debut-in-jersey-shore-ceremony.html) in Middletown, NJ.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/subnewjerey.jpg)The US Navy commissioned its first-ever coed submarine, the Virginia-class attack submarine [USS *New Jersey,*](https://en.wikipedia.org/wiki/USS_New_Jersey_\(SSN-796\)) at a ceremony at [Naval Weapons Station Earle](https://www.nj.com/monmouth/2024/09/navys-newest-submarine-the-uss-new-jersey-makes-its-debut-in-jersey-shore-ceremony.html) in Middletown, NJ.
 
 The US Navy has allowed women to serve on US Navy submarines for more than a decade. In 2010, Secretary of Defense Robert M. Gates lifted the ban on females serving aboard US submarines. A year later, the first female officers began reporting for duty on Ohio-class ballistic missile submarines.
 

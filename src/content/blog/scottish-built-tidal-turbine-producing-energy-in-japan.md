@@ -11,12 +11,12 @@ tags:
   - "Scotland"
   - "Simec Atlantis Energy"
   - "Tidal Turbine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/tideturbine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tideturbine.jpg"
 author: "Rick Spilman"
 description: "A tidal turbine, built and tested in Scotland, has been installed in waters off Naru Island, part of Japan’s Goto Island chain. Simec Atlantis Energy said its pilot turbine had generated 10 megawatt-hours in its first 10 days of operation. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/tideturbine.jpg)[A tidal turbine, built and tested in Scotland](https://www.cnbc.com/2021/02/15/a-tidal-turbine-built-in-scotland-is-now-producing-power-in-japan.html), has been installed in waters off Naru Island, part of Japan’s Goto Island chain. [Simec Atlantis Energy](https://simecatlantis.com/) said its pilot turbine had generated 10 megawatt-hours in its first 10 days of operation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/tideturbine.jpg)[A tidal turbine, built and tested in Scotland](https://www.cnbc.com/2021/02/15/a-tidal-turbine-built-in-scotland-is-now-producing-power-in-japan.html), has been installed in waters off Naru Island, part of Japan’s Goto Island chain. [Simec Atlantis Energy](https://simecatlantis.com/) said its pilot turbine had generated 10 megawatt-hours in its first 10 days of operation.
 
 The AR500 turbine was put together at a facility in Scotland before being shipped to Japan.  According to SAE, the overall project involves the leasing of tidal generation equipment as well as the provision of offshore construction services to Japanese company Kyuden Mirai Energy.
 

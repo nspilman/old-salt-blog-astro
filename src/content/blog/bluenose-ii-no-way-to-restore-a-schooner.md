@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The new construction/restoration of the Canadian schooner Bluenose II has not gone well.  Years behind schedule and millions over budget. Nova Scotia Premier Stephen McNeil is calling it a \"boondoggle\" and is demanding an investigation into the project.  Recent lawsuits involving the … Continue reading &rarr;"
 ---
 
-![Photo: Andrew Vaughan](http://www.oldsaltblog.com/wp-content/uploads/2014/04/bluenose11.jpg)
+![Photo: Andrew Vaughan](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/bluenose11.jpg)
 
 Photo: Andrew Vaughan
 

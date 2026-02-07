@@ -12,12 +12,12 @@ tags:
   - "chronometer"
   - "new york"
   - "time ball"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg"
 author: "Rick Spilman"
 description: "Last night in New York City, over one million people watched a jeweled ball drop in Time Square at exactly midnight to mark the arrival of the New Year. Over a billion people are believed to have watched the festivities … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/timeball.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/timeball.jpg)
 
 The USNO Millennium Time Ball
 

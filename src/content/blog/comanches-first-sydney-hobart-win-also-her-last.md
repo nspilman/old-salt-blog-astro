@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Despite having a damaged rudder, the American super-maxi Comanche was first across the finish line in this year’s Rolex Sydney-Hobart Race, leading the next closest boat, Rambler by roughly 50 miles. This is the first time since 1998 that an … Continue reading &rarr;"
 ---
 
-![Comanche: Jim Clark and Kristy Hinze-Clark.](http://www.oldsaltblog.com/wp-content/uploads/2015/12/rogerscomanche-1.jpg)
+![Comanche: Jim Clark and Kristy Hinze-Clark.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/rogerscomanche-1.jpg)
 
 Comanche: Jim Clark and Kristy Hinze-Clark.
 

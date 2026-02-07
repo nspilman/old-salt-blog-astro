@@ -12,12 +12,12 @@ tags:
   - "Boston Light Little Brewster Island"
   - "last official lighthouse keeper"
   - "Sally Snowman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/sallysnowman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/sallysnowman.jpg"
 author: "Rick Spilman"
 description: "For the last twenty years, Sally Snowman has worked as the keeper of the Boston Light on Little Brewster Island. She was the first woman to serve as lighthouse keeper at the lighthouse in Boston Harbor, the oldest continually used … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/sallysnowman.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/sallysnowman.jpg)
 
 Photo: US Coast Guard
 

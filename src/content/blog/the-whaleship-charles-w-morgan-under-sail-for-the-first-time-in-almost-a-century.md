@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Yesterday, the Charles W. Morgan set sail for the first time in almost a century.  The whaling ship built in 1841 has been extensively rebuilt at Mystic Seaport Museum and successfully completed its first day of sea trials in Long Island … Continue reading &rarr;"
 ---
 
-![Sean D. Elliot/The Day](http://www.oldsaltblog.com/wp-content/uploads/2014/06/morganseatrial.jpg)
+![Sean D. Elliot/The Day](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/morganseatrial.jpg)
 
 Sean D. Elliot/The Day
 

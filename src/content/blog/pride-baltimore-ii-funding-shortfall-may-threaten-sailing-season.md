@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 2016, we posted about a public-private partnership between the State of Maryland and the replica Baltimore clipper, Pride of Baltimore II. It appears likely that the partnership may not be renewed, leaving a $500,000 shortfall in funding which may … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/pride2shortfall.jpg)In 2016, we posted about a [public-private partnership](http://www.oldsaltblog.com/2016/01/maryland-1-5-million-partnership-pride-baltimore-ii/) between the State of Maryland and the replica Baltimore clipper, [*Pride of Baltimore II*](http://www.pride2.org/). It appears likely that the partnership may not be renewed, leaving a $500,000 shortfall in funding which may curtail this year’s sailing season unless sufficient money can be raised.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/pride2shortfall.jpg)In 2016, we posted about a [public-private partnership](http://www.oldsaltblog.com/2016/01/maryland-1-5-million-partnership-pride-baltimore-ii/) between the State of Maryland and the replica Baltimore clipper, [*Pride of Baltimore II*](http://www.pride2.org/). It appears likely that the partnership may not be renewed, leaving a $500,000 shortfall in funding which may curtail this year’s sailing season unless sufficient money can be raised.
 
 From the [Pride of Baltimore II organization press release](http://www.pride2.org/featured/pride-battling-financial-headwinds/):
 

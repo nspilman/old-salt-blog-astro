@@ -14,12 +14,12 @@ tags:
   - "PNWA"
   - "U.S. Army Corps of Engineers"
   - "USACE"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/PNWA.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/PNWA.jpg"
 author: "Rick Spilman"
 description: "In a surreal moment, Elon Musk, who heads the ‘Department of Government Efficiency’ (DOGE), pranced around on stage at the Conservative Political Action Conference last week in oversized sunglasses, a black gothic MAGA hat, a thick gold chain around his … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/PNWA.jpg)In a surreal moment, Elon Musk, who heads the ‘Department of Government Efficiency’ ([DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)), [pranced around on stage](https://newrepublic.com/post/191811/musk-chainsaw-cpac-trump-right-wing-ignorance) at the Conservative Political Action Conference last week in oversized sunglasses, a black gothic MAGA hat, a thick gold chain around his neck—and wielding a chainsaw that the unelected billionaire wants to use figuratively to cut down the size of the US government. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/PNWA.jpg)In a surreal moment, Elon Musk, who heads the ‘Department of Government Efficiency’ ([DOGE](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)), [pranced around on stage](https://newrepublic.com/post/191811/musk-chainsaw-cpac-trump-right-wing-ignorance) at the Conservative Political Action Conference last week in oversized sunglasses, a black gothic MAGA hat, a thick gold chain around his neck—and wielding a chainsaw that the unelected billionaire wants to use figuratively to cut down the size of the US government. 
 
 In the wake of the chaotic and apparently indiscriminate firing of federal employees, Musk and his questionably legal department have begun to face pushback from those affected. 
 

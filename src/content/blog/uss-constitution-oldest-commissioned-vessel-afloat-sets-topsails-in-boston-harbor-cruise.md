@@ -12,12 +12,12 @@ tags:
   - "Heritage Week Training"
   - "Old Ironsides"
   - "USS Constitution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/contopsails2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/contopsails2.jpg"
 author: "Rick Spilman"
 description: "The USS Constitution left its berth in the Charleston Navy Yard last Friday for a short cruise in Boston Harbor. CBS Boston reports that the ship fired a 21-gun salute while carrying 120 newly-trained Navy sailors. The sailors were recently selected … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/contopsails2.jpg)The [USS *Constitution*](https://ussconstitutionmuseum.org/) left its berth in the [Charleston Navy Yard](https://www.nps.gov/bost/learn/historyculture/cny.htm) last Friday for a short cruise in Boston Harbor. [CBS Boston](https://boston.cbslocal.com/2021/10/22/uss-constitution-navy-sailors-21-gun-salute-boston-harbor/) reports that the ship fired a 21-gun salute while carrying 120 newly-trained Navy sailors. The sailors were recently selected to advance to the rank of chief petty officer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/contopsails2.jpg)The [USS *Constitution*](https://ussconstitutionmuseum.org/) left its berth in the [Charleston Navy Yard](https://www.nps.gov/bost/learn/historyculture/cny.htm) last Friday for a short cruise in Boston Harbor. [CBS Boston](https://boston.cbslocal.com/2021/10/22/uss-constitution-navy-sailors-21-gun-salute-boston-harbor/) reports that the ship fired a 21-gun salute while carrying 120 newly-trained Navy sailors. The sailors were recently selected to advance to the rank of chief petty officer.
 
 As part of the Navy’s Heritage Week Training, the sailors lived aboard the ship, which is the world’s oldest commissioned warship afloat.
 

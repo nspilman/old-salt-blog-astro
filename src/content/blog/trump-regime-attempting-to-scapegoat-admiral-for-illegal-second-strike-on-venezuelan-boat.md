@@ -13,12 +13,12 @@ tags:
   - "murder"
   - "Trump regime"
   - "Venezuelan vessel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/hegsethboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/hegsethboat.jpg"
 author: "Rick Spilman"
 description: "The criminal clown circus that is the Trump regime continues to spin out of control with lethal consequences. The Washington Post reports that during an attack on an unidentified Venezuelan vessel on September 2, the US Defense Secretary Pete Hegseth … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/hegsethboat.jpg)The criminal clown circus that is the Trump regime continues to spin out of control with lethal consequences.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/hegsethboat.jpg)The criminal clown circus that is the Trump regime continues to spin out of control with lethal consequences.
 
 The [Washington Post](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/) reports that during an attack on an unidentified Venezuelan vessel on September 2, the US Defense Secretary Pete Hegseth gave a spoken directive “to kill everybody,” according to two people with direct knowledge of the operation.
 

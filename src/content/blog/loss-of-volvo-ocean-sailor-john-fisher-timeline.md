@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Team Sun Hung Kai/Scallywag has put out a timeline of events in the recent loss of John Fisher overboard while sailing in high winds and seas in the Southern Ocean in the Volvo Ocean Race. They were sailing in Leg 7 … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/johnfisher2.jpg)Team Sun Hung Kai/Scallywag](https://www.volvooceanrace.com/en/teams/Team-Sun-Hung-Kai-Scallywag.html) has put out a [timeline of events](https://www.volvooceanrace.com/en/news/11370_Update-from-Team-Sun-Hung-Kai-Scallywag.html) in the recent loss of John Fisher overboard while sailing in high winds and seas in the Southern Ocean in the [Volvo Ocean Race](https://www.volvooceanrace.com).
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/johnfisher2.jpg)Team Sun Hung Kai/Scallywag](https://www.volvooceanrace.com/en/teams/Team-Sun-Hung-Kai-Scallywag.html) has put out a [timeline of events](https://www.volvooceanrace.com/en/news/11370_Update-from-Team-Sun-Hung-Kai-Scallywag.html) in the recent loss of John Fisher overboard while sailing in high winds and seas in the Southern Ocean in the [Volvo Ocean Race](https://www.volvooceanrace.com).
 
 *   They were sailing in Leg 7 of the Volvo Ocean Race from Auckland, New Zealand to Itajai, Brazil, approximately 1,400 nautical miles west of Cape Horn. The wind was blowing 35-45 knots with 4 to 5 meter seas. Intermittent showers reduced visibility.
 *   At 15 minutes before sunrise, Fisher unclipped his tether to go forward to “tidy up” a jib sheet. The Team statement says that untethering was “standard procedure when moving between positions.”

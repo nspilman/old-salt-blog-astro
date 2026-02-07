@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/spiers.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/spiers.png"
 author: "Rick Spilman"
 description: "Simon Speirs, a 60 year old sailor from Bristol, UK, has died in the Clipper Round the World Race. On Saturday, Speirs,  was washed overboard while handling sails on the foredeck of the Clipper CV30 Great Britain, while sailing in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/spiers.png)[Simon Speirs, a 60 year old sailor from Bristol, UK](https://www.clipperroundtheworld.com/team/great-britain/crew), has died in the [Clipper Round the World Race](https://www.clipperroundtheworld.com). On Saturday, Speirs,  was washed overboard while handling sails on the foredeck of the Clipper CV30 *Great Britain*, while sailing in rough seas in the Southern Ocean. Speirs was recovered but never regained consciousness. The cause of death is unconfirmed but is thought to be drowning. Simon Spears was buried at sea this morning. Speirs was a retired solicitor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/spiers.png)[Simon Speirs, a 60 year old sailor from Bristol, UK](https://www.clipperroundtheworld.com/team/great-britain/crew), has died in the [Clipper Round the World Race](https://www.clipperroundtheworld.com). On Saturday, Speirs,  was washed overboard while handling sails on the foredeck of the Clipper CV30 *Great Britain*, while sailing in rough seas in the Southern Ocean. Speirs was recovered but never regained consciousness. The cause of death is unconfirmed but is thought to be drowning. Simon Spears was buried at sea this morning. Speirs was a retired solicitor.
 
 A [statement by the Clipper Round the World Race organization](https://www.clipperroundtheworld.com/news/article/fatality-statement-simon-speirs--cv30) reads: 
 

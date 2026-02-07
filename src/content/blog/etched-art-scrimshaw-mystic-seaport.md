@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A new and fascinating video from Mystic Seaport Museum. From their website: From the history and lore inspired by whaling in the 19th century, it can be hard to imagine the whalers being idle at sea. However, whaleships were often … Continue reading &rarr;"
 ---
 
-![mysticschrimshaw](http://www.oldsaltblog.com/wp-content/uploads/2016/08/mysticschrimshaw.jpg)A new and fascinating video from [Mystic Seaport Museum](http://www.mysticseaport.org/). From their [website](http://stories.mysticseaport.org/scrimshaw-mystic-seaport/):
+![mysticschrimshaw](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/mysticschrimshaw.jpg)A new and fascinating video from [Mystic Seaport Museum](http://www.mysticseaport.org/). From their [website](http://stories.mysticseaport.org/scrimshaw-mystic-seaport/):
 
 *From the history and lore inspired by whaling in the 19th century, it can be hard to imagine the whalers being idle at sea. However, whaleships were often at sea for months or even years, leaving the crew with an excess of downtime. Much like hobbyists today, sailors tried to keep busy by making use of what they had available onboard their ship. Using crude tools, sailors etched designs into whale teeth, bones, and baleen to create intricate and often useful pieces of art.*
 

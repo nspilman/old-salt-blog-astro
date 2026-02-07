@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "I am attending the Weymouth Leviathan, a maritime literary festival, in the lovely, historic port at the mouth of the River Wey in Dorset on the south-western coast of England. It is a fitting locale. Most of the writers attending … Continue reading &rarr;"
 ---
 
-![Riverywey1](http://www.oldsaltblog.com/wp-content/uploads/2016/03/Riverywey1.jpg)I am attending the [Weymouth Leviathan](http://weymouthleviathan.org.uk/), a maritime literary festival, in the lovely, historic port at the mouth of the River Wey in Dorset on the south-western coast of England. It is a fitting locale. Most of the writers attending write historical nautical fiction, history or both. [Weymouth](https://en.wikipedia.org/wiki/Weymouth,_Dorset) indeed has no shortage of interesting history.
+![Riverywey1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Riverywey1.jpg)I am attending the [Weymouth Leviathan](http://weymouthleviathan.org.uk/), a maritime literary festival, in the lovely, historic port at the mouth of the River Wey in Dorset on the south-western coast of England. It is a fitting locale. Most of the writers attending write historical nautical fiction, history or both. [Weymouth](https://en.wikipedia.org/wiki/Weymouth,_Dorset) indeed has no shortage of interesting history.
 
 While Weymouth today is primarily a resort town, as a port, it dates back to the 12th century. Weymouth was officially registered as a port in 1252, largely as an export port for wool. Not all imports and exports were intended. In 1348, Weymouth was the entry point for [a most undesirable import into Britain — the Black Death](https://www.awesomestories.com/asset/view/Black-Death-Entered-Britain-Through-the-Port-of-Weymouth).
 

@@ -10,12 +10,12 @@ tags:
   - "circumnavigation"
   - "Jeanne Socrates"
   - "knockdown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg"
 author: "Rick Spilman"
 description: "Singlehander Jeanne Socrates, 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite damage to solar and wind charging equipment, Socrates is unhurt, and sails, rig, most instruments, autopilot and radio … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg)Singlehander [Jeanne Socrates](http://www.oldsaltblog.com/2019/01/jeanne-socrates-singlehanding-non-stop-around-the-world-at-76/), 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite damage to solar and wind charging equipment, Socrates is unhurt, and sails, rig, most instruments, autopilot and radio are undamaged. She sent the following message:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg)Singlehander [Jeanne Socrates](http://www.oldsaltblog.com/2019/01/jeanne-socrates-singlehanding-non-stop-around-the-world-at-76/), 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite damage to solar and wind charging equipment, Socrates is unhurt, and sails, rig, most instruments, autopilot and radio are undamaged. She sent the following message:
 
 A brief note to let you know that we were knocked down, losing both solar and wind charging items as a result, just before dawn on Wed 15th May local time. Position: 150ml SW of S end of South Island, New Zealand
 

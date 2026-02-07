@@ -9,12 +9,12 @@ tags:
   - "Ever Given"
   - "Evergreen"
   - "Suez Canal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven2.jpg"
 author: "Rick Spilman"
 description: "Despite optimistic estimates yesterday, the Suez Canal remains blocked in both direction by the ultra-large container ship Ever Given. The 20,000 TEU, 400-meter long ship, operated by Evergreen Marine Corp, ran aground during a dust storm and high winds on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/evergiven2.jpg)Despite optimistic estimates yesterday, the Suez Canal remains blocked in both direction by the ultra-large container ship [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN). The 20,000 TEU, 400-meter long ship, operated by Evergreen Marine Corp, ran aground during a dust storm and high winds on Tuesday. The ship is blocking transit in both directions through one of the world’s busiest shipping channels for goods, oil, grain and other products linking Asia and Europe.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven2.jpg)Despite optimistic estimates yesterday, the Suez Canal remains blocked in both direction by the ultra-large container ship [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN). The 20,000 TEU, 400-meter long ship, operated by Evergreen Marine Corp, ran aground during a dust storm and high winds on Tuesday. The ship is blocking transit in both directions through one of the world’s busiest shipping channels for goods, oil, grain and other products linking Asia and Europe.
 
 [Channel News Asia](https://www.channelnewsasia.com/news/world/suez-canal-ever-given-ship-stuck-14486784) reports that Peter Berdowski, CEO of Dutch company Boskalis, which is trying to free the ship, said it was too early to say how long the job might take.
 

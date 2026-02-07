@@ -13,12 +13,12 @@ tags:
   - "New Zealand"
   - "shark"
   - "southern lanternshark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/kitefin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kitefin.jpg"
 author: "Rick Spilman"
 description: "Researchers have photographed a large bioluminescent shark in deep water off New Zealand. The kitefin shark was a known species of ocean predator but was only recently discovered to be able to glow in the darkness of its deep-ocean environment. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/kitefin.jpg)Researchers have photographed a large bioluminescent shark in deep water off New Zealand. The [kitefin shark](https://en.wikipedia.org/wiki/Kitefin_shark) was a known species of ocean predator but was only recently discovered to be able to glow in the darkness of its deep-ocean environment. The kitefin shark, which can grow to 180cm, is now the largest-known luminous vertebrate in the world, on land or sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/kitefin.jpg)Researchers have photographed a large bioluminescent shark in deep water off New Zealand. The [kitefin shark](https://en.wikipedia.org/wiki/Kitefin_shark) was a known species of ocean predator but was only recently discovered to be able to glow in the darkness of its deep-ocean environment. The kitefin shark, which can grow to 180cm, is now the largest-known luminous vertebrate in the world, on land or sea.
 
 The researchers also identified two smaller species of shark — the blackbelly lanternshark, and the southern lanternshark that are also bioluminescent.
 

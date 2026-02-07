@@ -12,7 +12,7 @@ tags:
   - "Daniel Kelly"
   - "Home For Christmas"
   - "Ukulele Christmas Singalong"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/homeforxmas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/homeforxmas.jpg"
 author: "Rick Spilman"
 description: "Home for Christmas — Old Style, a poem by Cicely Fox Smith, performed by Daniel Kelly from his Ukulele Christmas Singalong 2021. Home for Christmas – Old Style – Ukulele Christmas Singalong … Continue reading &rarr;"
 ---

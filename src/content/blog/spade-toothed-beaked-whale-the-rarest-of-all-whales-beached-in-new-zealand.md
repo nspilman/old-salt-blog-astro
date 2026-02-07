@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Spade-toothed beaked whales (Mesoplodon traversii) are so rare that they had never been seen alive.  Until recently, the only evidence of their existence were portions of three skulls found in 1872 and in the 1950s in New Zealand  and in 1986 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/spadetoothedbeakedwhale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/spadetoothedbeakedwhale.jpg)
 
 Photo: New Zealand Department of Conservation
 

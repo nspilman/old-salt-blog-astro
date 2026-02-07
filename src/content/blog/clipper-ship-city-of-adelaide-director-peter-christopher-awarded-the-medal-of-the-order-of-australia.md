@@ -13,12 +13,12 @@ tags:
   - "Dock 2"
   - "Peter Christopher"
   - "Port Adelaide"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/PeterChristopherCoA.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/PeterChristopherCoA.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Clipper Ship City of Adelaide Director Peter Christopher, on being awarded the  Medal of the Order of Australia for his services to Maritime History. Peter Christopher convened the first meeting of Adelaide volunteers to save the City of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/PeterChristopherCoA.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/PeterChristopherCoA.jpg)
 
 Congratulations to [Clipper Ship City of Adelaide](https://www.cityofadelaide.org.au/) Director [Peter Christopher](https://www.linkedin.com/in/peter-christopher-1b6498196/?originalSubdomain=au), on being awarded the  [Medal of the Order of Australia](https://www.pmc.gov.au/honours-and-symbols/list-australian-honours/medal-order-australia#:~:text=The%20design%20of%20the%20Medal,the%20Crown%20of%20St%20Edward.) for his services to Maritime History.
 

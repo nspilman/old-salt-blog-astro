@@ -12,12 +12,12 @@ tags:
   - "Shenzhen"
   - "whale shark"
   - "Xiaomeisha Sea World"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/robotwhaleshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/robotwhaleshark.jpg"
 author: "Rick Spilman"
 description: "After being closed for five years for renovations, the Xiaomeisha Sea World aquarium in Shenzhen, China reopened its doors on October 1. During its week-long trial run, the 60,000 sqm sea park attracted around 100,000 visitors who each paid around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/robotwhaleshark.jpg)After being closed for five years for renovations, the [Xiaomeisha Sea World](https://www.travelchinaguide.com/attraction/guangdong/shenzhen/xiaomeisha-sea-world.htm) aquarium in Shenzhen, China reopened its doors on October 1. During its week-long trial run, the 60,000 sqm sea park attracted around 100,000 visitors who each paid around $40 to enter the aquarium. But, much to their disappointment, they discovered that the giant whale shark on display was, in reality, a robot.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/robotwhaleshark.jpg)After being closed for five years for renovations, the [Xiaomeisha Sea World](https://www.travelchinaguide.com/attraction/guangdong/shenzhen/xiaomeisha-sea-world.htm) aquarium in Shenzhen, China reopened its doors on October 1. During its week-long trial run, the 60,000 sqm sea park attracted around 100,000 visitors who each paid around $40 to enter the aquarium. But, much to their disappointment, they discovered that the giant whale shark on display was, in reality, a robot.
 
 Many social media users posted under the hashtag “Netizens complain about spending hundreds of yuan at Xiaomeisha Sea World to see fake fish.”
 

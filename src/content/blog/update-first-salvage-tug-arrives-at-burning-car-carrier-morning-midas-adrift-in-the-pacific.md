@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The car carrier Morning Midas, adrift off the coast of Alaska, is still burning, with the first salvage tug arriving at the scene on Monday, as reported by Splash. The tug Gretchen Dunlap arrived Monday afternoon with salvage personnel and has … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/morningmidas2.jpg)The car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910), adrift off the coast of Alaska, is still burning, with the first salvage tug arriving at the scene on Monday, as reported by [Splash](https://splash247.com/morning-midas-completely-burned-through-as-salvors-arrive-on-scene/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas2.jpg)The car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910), adrift off the coast of Alaska, is still burning, with the first salvage tug arriving at the scene on Monday, as reported by [Splash](https://splash247.com/morning-midas-completely-burned-through-as-salvors-arrive-on-scene/).
 
 The tug [*Gretchen Dunlap*](https://www.tugboatinformation.com/tug.cfm?id=6868) arrived Monday afternoon with salvage personnel and has begun a full assessment of the conditions on scene. An additional two vessels are scheduled to arrive in approximately six days, while the second should arrive in around 12 days.
 

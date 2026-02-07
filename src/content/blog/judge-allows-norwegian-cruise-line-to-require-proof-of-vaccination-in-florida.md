@@ -14,12 +14,12 @@ tags:
   - "Gov. Ron DeSantis"
   - "Norwegian Cruise Line. vaccination"
   - "U.S. District Judge Kathleen Williams"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/NCLship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/NCLship.jpg"
 author: "Rick Spilman"
 description: "On Sunday, a preliminary injunction was granted by U.S. District Judge Kathleen Williams in Miami to allow NCL to require that passengers show proof of a COVID-19 vaccination before boarding any of its ships in Florida."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/NCLship.jpg)Last May, [we posted](http://www.oldsaltblog.com/2021/05/cruise-line-threatens-to-pull-out-of-florida-when-politics-and-policy-collide/) about a threat by [Norwegian Cruise Line](https://www.ncl.com/) (NCL) to pull its ships from Florida ports after the [Florida legislature passed a law](https://www.cnn.com/2021/04/03/us/florida-covid-vaccine-passport-ban/index.html) prohibiting businesses from asking whether employees or customers have been vaccinated against Covid-19, contradicting certain CDC guidelines to resume cruise operations. The law, championed by Gov. Ron DeSantis, slaps businesses with a fine of $5,000 per violation for asking customers to prove they were inoculated against the coronavirus.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/NCLship.jpg)Last May, [we posted](http://www.oldsaltblog.com/2021/05/cruise-line-threatens-to-pull-out-of-florida-when-politics-and-policy-collide/) about a threat by [Norwegian Cruise Line](https://www.ncl.com/) (NCL) to pull its ships from Florida ports after the [Florida legislature passed a law](https://www.cnn.com/2021/04/03/us/florida-covid-vaccine-passport-ban/index.html) prohibiting businesses from asking whether employees or customers have been vaccinated against Covid-19, contradicting certain CDC guidelines to resume cruise operations. The law, championed by Gov. Ron DeSantis, slaps businesses with a fine of $5,000 per violation for asking customers to prove they were inoculated against the coronavirus.
 
 NCL’s intended policy is to require 100% vaccinations for guests and crew members in each port it sails out of around the world. NCL subsequently [sued the State of Florida over the law](https://www.usatoday.com/story/travel/cruises/2021/08/06/norwegian-cruise-line-lawsuit-florida-covid-vaccine-passport-ban/5520050001/).
 

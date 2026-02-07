@@ -13,12 +13,12 @@ tags:
   - "EcoClipper500"
   - "Jorne Langelaan"
   - "Maiden Voyage"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/ecoclipper.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/ecoclipper.jpg"
 author: "Rick Spilman"
 description: "Ecoclipper has announced that with the maiden voyage of the recently refitted De Tukke, their emission-free short-sea Western European liner service has begun. From their press release: De Tukker, the first ship operated by the sail cargo company Ecoclipper, has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/ecoclipper.jpg)[Ecoclipper](https://ecoclipper.org/about/) has announced that with the maiden voyage of the recently refitted [*De Tukke*](https://ecoclipper.org/fleet/tukker/), their emission-free short-sea Western European liner service has begun.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/ecoclipper.jpg)[Ecoclipper](https://ecoclipper.org/about/) has announced that with the maiden voyage of the recently refitted [*De Tukke*](https://ecoclipper.org/fleet/tukker/), their emission-free short-sea Western European liner service has begun.
 
 From their [press release](https://ecoclipper.org/News/press-release-sail-cargo-company-ecoclipper-on-maiden-voyage/): *De Tukker*, the first ship operated by the sail cargo company Ecoclipper, has set sail. Leaving Amsterdam carrying chocolate, 5 crew members, and 5 trainees, *De Tukker* is headed for Porto where she is expected to arrive around May 13th and take on a cargo of wine and olive oil. This is the first voyage on a sailing schedule which will see the ship sail on a regular route across North and West Europe.
 

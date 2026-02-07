@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "We recently posted about a press release by Sub Sea Research (SSR) claiming to have located the wreck of a British cargo ship sunk in June 1942 by the German submarine U87. Sub Sea Research claims that the ship was carrying 70 tons of platinum … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/10244.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/10244.jpg)
 
 Top image from 2009 provided by SSR, Bottom image Port Nicholson - www.shippingtimes.co.uk
 

@@ -13,12 +13,12 @@ tags:
   - "Memorial Day"
   - "unknown soldier"
   - "USS Olympia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/ussolympiaUnknown.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ussolympiaUnknown.jpg"
 author: "Rick Spilman"
 description: "On Memorial Day, an updated repost about the last mission of the USS Olympia in 1921, when she carried an American unknown soldier killed during World War I  from a cemetery in France back to Washington to be entombed at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/ussolympiaUnknown.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/ussolympiaUnknown.jpg)
 
 On Memorial Day, an updated repost about the last mission of the [*USS Olympia*](http://www.phillyseaport.org/olympia) in 1921, when she carried an American unknown soldier killed during World War I  from a cemetery in France back to Washington to be entombed at Arlington National Cemetery.  The *Olympia* was decommissioned the following year. 
 

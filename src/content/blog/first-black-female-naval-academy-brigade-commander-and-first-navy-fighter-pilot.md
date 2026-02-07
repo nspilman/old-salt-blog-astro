@@ -12,12 +12,12 @@ tags:
   - "Midshipman 1st Class Sydney Barber"
   - "Naval Academy Brigade Commander"
   - "US Naval Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/navyfirsts1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/navyfirsts1.jpg"
 author: "Rick Spilman"
 description: "Two recent firsts in the US Navy. Congratulations to Midshipman 1st Class Sydney Barber who has been awarded the position of brigade commander next semester at the US Naval Academy in Annapolis. Brigade commander is the highest leadership position within the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/navyfirsts1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/navyfirsts1.jpg)
 
 Midshipman 1st Class Sydney Barber & Lieutenant Madeline Swegle
 

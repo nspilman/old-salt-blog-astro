@@ -11,12 +11,12 @@ tags:
   - "\"Mystical Fjords\" Cruise"
   - "cruise from hell"
   - "Norwegian Spirit"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/norwegian-spirit.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/norwegian-spirit.jpg"
 author: "Rick Spilman"
 description: "Late season cruises have their own inherent risks. In the case of a recent cruise on the Norwegian Spirit these risks were compounded by the remnants of Hurricane Lorenzo, now a post-tropical storm, which was pounding the Atlantic Coast of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/norwegian-spirit.jpg)Late season cruises have their own inherent risks. In the case of a recent cruise on the [*Norwegian Spirit*](https://www.cruisecritic.com/reviews/review.cfm?ShipID=299) these risks were compounded by the remnants of Hurricane Lorenzo, now a post-tropical storm, which was pounding the Atlantic Coast of Europe. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/norwegian-spirit.jpg)Late season cruises have their own inherent risks. In the case of a recent cruise on the [*Norwegian Spirit*](https://www.cruisecritic.com/reviews/review.cfm?ShipID=299) these risks were compounded by the remnants of Hurricane Lorenzo, now a post-tropical storm, which was pounding the Atlantic Coast of Europe. 
 
 The 2,016 passenger *Norwegian Spirit* left Southampton on September 27th, bound for a two-week cruise with nine port calls in the Netherlands, Norway, Iceland, and Ireland. It was billed as the “Mystical Fjords” cruise. For many of its passengers, it would become the “cruise from hell,” featuring missed port calls, spoiled food, and overflowing toilets. Before it was all over, the passengers were in a near mutiny and close to rioting
 

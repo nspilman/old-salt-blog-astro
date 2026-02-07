@@ -13,12 +13,12 @@ tags:
   - "Scheveningen"
   - "the Netherlands"
   - "Ushuaia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/europatrack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/europatrack.jpg"
 author: "Rick Spilman"
 description: "The bark Europa arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as \"the end of the world, the beginning of everything,\" would normally be the jumping-off point for the ship’s regular voyage to Antarctica. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/europaw.jpg)The [bark *Europa*](https://www.barkeuropa.com/) arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as “the end of the world, the beginning of everything,” would normally be the jumping-off point for the ship’s regular voyage to Antarctica. This year, however, the concurrent arrival of the Covid-19 pandemic changed everyone’s plans. The crew found themselves stuck aboard in port in pandemic limbo. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/europaw.jpg)The [bark *Europa*](https://www.barkeuropa.com/) arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as “the end of the world, the beginning of everything,” would normally be the jumping-off point for the ship’s regular voyage to Antarctica. This year, however, the concurrent arrival of the Covid-19 pandemic changed everyone’s plans. The crew found themselves stuck aboard in port in pandemic limbo. 
 
 As reported by [Newsweek](https://www.newsweek.com/tall-ship-bark-europa-sails-10000-miles-end-world-during-covid-19-1506928), since there was no way on how to know when this world crisis would be finished, Dutch Captain Eric Kesteloo and his international sailing crew of 11 women and 8 men refused to sit and wait, and so they decided to sail back to *Bark Europa*‘s home harbor in Scheveningen, the Netherlands.
 
@@ -32,4 +32,4 @@ The *Europa* was built in 1911 as the schooner *Senator Brockes.*  She served a
 
 The *Europa*‘s current track:
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/europatrack.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/europatrack.jpg)

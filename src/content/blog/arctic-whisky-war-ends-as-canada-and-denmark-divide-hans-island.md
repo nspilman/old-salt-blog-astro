@@ -13,12 +13,12 @@ tags:
   - "Hans Island"
   - "Nares Strait"
   - "whisky war"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/hansisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/hansisland.jpg"
 author: "Rick Spilman"
 description: "Canada and Denmark have ended the good-natured \"whisky war\" over Hans Island, a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when Canada and Denmark discovered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/hansisland.jpg)Canada and Denmark have ended the good-natured “whisky war” over [Hans Island](https://en.wikipedia.org/wiki/Hans_Island), a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when [Canada and Denmark discovered that both countries had laid claim](https://www.reuters.com/world/americas/canada-denmark-divide-small-arctic-island-ending-ownership-dispute-2022-06-14/) to the slightly over one square kilometer island. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/hansisland.jpg)Canada and Denmark have ended the good-natured “whisky war” over [Hans Island](https://en.wikipedia.org/wiki/Hans_Island), a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when [Canada and Denmark discovered that both countries had laid claim](https://www.reuters.com/world/americas/canada-denmark-divide-small-arctic-island-ending-ownership-dispute-2022-06-14/) to the slightly over one square kilometer island. 
 
 Greenland is an autonomous territory within the Kingdom of Denmark. It leaves Copenhagen to manage certain policy areas, including foreign and security policy.
 

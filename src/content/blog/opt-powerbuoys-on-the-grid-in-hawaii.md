@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Recently we have been posting about the PowerBuoys developed by Ocean Power Technology.  They will soon be connected to the word’s largest  \"Wave Hub\" off the coast of England. They are also working toward deploying their buoys off the Oregon … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/buoy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/buoy.jpg)
 
 PowerBuoy
 

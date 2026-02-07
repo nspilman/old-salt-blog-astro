@@ -12,7 +12,7 @@ tags:
   - "Clipper Round the World Yacht Race"
   - "Punta del Este"
   - "Race 3"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/clipperrace3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/clipperrace3.jpg"
 author: "Rick Spilman"
 description: "On a brisque late November day on the west bank of the Hudson River, here is a dramatic video of a portion of Race 3 of the Clipper Round the World Yacht Race, from Punta del Este, Uruguay to Cape … Continue reading &rarr;"
 ---

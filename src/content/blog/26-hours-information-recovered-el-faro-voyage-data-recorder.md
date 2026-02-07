@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The National Transportation Safety Board (NTSB) announced Wednesday that they had successfully retrieved 26 hours of information from the El Faro Voyage Data Recorder (VDR). The VDR was recovered earlier in August in 15,000 feet of water.  The US flagged … Continue reading &rarr;"
 ---
 
-![El Faro, Photo: TOTE Maritime](http://www.oldsaltblog.com/wp-content/uploads/2015/10/elfaro.jpg)
+![El Faro, Photo: TOTE Maritime](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro.jpg)
 
 El Faro, Photo: TOTE Maritime
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last week the yacht, Making Waves, a 48 foot Sea Ray Sundancer, with its engine running and the autopilot engaged, came ashore on Redding Beach, FL, on the Gulf of Mexico, with no one aboard.  The boat is estimated to be … Continue reading &rarr;"
 ---
 
-![Sea Ray Sundancer 48  ](http://www.oldsaltblog.com/wp-content/uploads/2010/08/searay48.jpg)
+![Sea Ray Sundancer 48  ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/searay48.jpg)
 
 Last week the yacht, *Making Waves*, a 48 foot Sea Ray Sundancer, with its engine running and the autopilot engaged, came ashore on Redding Beach, FL, on the Gulf of Mexico, with no one aboard.  The boat is estimated to be worth around a million dollars.   Not quite the [Mary Celeste](http://en.wikipedia.org/wiki/Mary_Celeste) but mysterious all the same.
 

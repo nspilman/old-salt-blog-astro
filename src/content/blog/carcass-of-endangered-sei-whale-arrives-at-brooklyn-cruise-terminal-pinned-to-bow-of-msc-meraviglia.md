@@ -13,12 +13,12 @@ tags:
   - "new york harbor"
   - "Sei whale"
   - "ship strikes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/seimscmer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/seimscmer.jpg"
 author: "Rick Spilman"
 description: "On Saturday, May 4, the cruise ship MSC Meraviglia arrived at the Brooklyn Cruise Terminal in New York Harbor dragging the carcass of a 44-foot-long endangered sei whale, caught on the ship’s bulbous bow. Sei whales are endangered and are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/seimscmer.jpg)On Saturday, May 4, the cruise ship [MSC *Meraviglia*](https://en.wikipedia.org/wiki/MSC_Meraviglia) arrived at the Brooklyn Cruise Terminal in New York Harbor dragging the carcass of a 44-foot-long endangered [sei whale](https://www.fisheries.noaa.gov/species/sei-whale), caught on the ship’s bulbous bow.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/seimscmer.jpg)On Saturday, May 4, the cruise ship [MSC *Meraviglia*](https://en.wikipedia.org/wiki/MSC_Meraviglia) arrived at the Brooklyn Cruise Terminal in New York Harbor dragging the carcass of a 44-foot-long endangered [sei whale](https://www.fisheries.noaa.gov/species/sei-whale), caught on the ship’s bulbous bow.
 
 Sei whales are endangered and are typically observed in deeper waters far from the coastline. NOAA’s [Office of Law Enforcement](https://www.fisheries.noaa.gov/about/office-law-enforcement) is investigating this incident. The whale was relocated and towed to shore at Sandy Hook, New Jersey, to allow for better access to heavy equipment and resources to conduct a necropsy.
 

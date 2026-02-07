@@ -17,12 +17,12 @@ tags:
   - "slave ship"
   - "slave trading"
   - "USS Mohican"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/executiongordon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/executiongordon.jpg"
 author: "Rick Spilman"
 description: "A repost in honor of Black History Month. On this day,  February 21, 1862, 163 years ago, Nathaniel Gordon, captain of the slave ship, Erie, was executed by hanging in New York City. Under the Piracy Law of 1820, slave … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/executiongordon.jpg)A repost in honor of Black History Month.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/executiongordon.jpg)A repost in honor of Black History Month.
 
 On this day,  February 21, 1862, 163 years ago, [Nathaniel Gordon](https://en.wikipedia.org/wiki/Nathaniel_Gordon), captain of the [slave ship, *Erie*](http://www.nytimes.com/1860/10/24/news/the-slave-ship-erie-for-the-examination-of-the-case.html), was executed by hanging in New York City. Under the [Piracy Law of 1820](https://en.wikipedia.org/wiki/Act_to_Protect_the_Commerce_of_the_United_States_and_Punish_the_Crime_of_Piracy), slave trading was considered to be an act of piracy punishable by death. He was the only slave trader ever to be tried, convicted, and executed in American history.
 

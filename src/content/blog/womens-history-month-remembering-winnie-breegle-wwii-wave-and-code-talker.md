@@ -10,12 +10,12 @@ tags:
   - "WAVE"
   - "Winnie Breegle"
   - "Woman Accepted for Volunteer Emergency Service"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/breegle44.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/breegle44.jpg"
 author: "Rick Spilman"
 description: "During Women’s History Month, it is a good time to honor Winnie Breegle who served in World War II as a WAVE (Woman Accepted for Volunteer Emergency Service) cryptographer and a Navajo \"Code Talker\", who didn’t happen to be a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/breegle44.jpg)During Women’s History Month, it is a good time to honor [Winnie Breegle](https://fox17.com/news/local/spring-hill-world-war-ii-turns-100-years-old) who served in World War II as a WAVE (Woman Accepted for Volunteer Emergency Service) cryptographer and a Navajo “Code Talker”, who didn’t happen to be a Navajo. Ms. Breegle passed away at the age of 100 on January 3, 2023.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/breegle44.jpg)During Women’s History Month, it is a good time to honor [Winnie Breegle](https://fox17.com/news/local/spring-hill-world-war-ii-turns-100-years-old) who served in World War II as a WAVE (Woman Accepted for Volunteer Emergency Service) cryptographer and a Navajo “Code Talker”, who didn’t happen to be a Navajo. Ms. Breegle passed away at the age of 100 on January 3, 2023.
 
 In 1941, Winnie Breegle, a 21-year-old farm girl from Ohio taught Latin, Spanish, and English in high school, and women with such backgrounds were highly sought after for work as coders. When she enlisted in the Navy, she was trained as a cryptographer.
 

@@ -11,12 +11,12 @@ tags:
   - "collision"
   - "conspriacy"
   - "USS Fitzgerald"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/crystalais130.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/crystalais130.jpg"
 author: "Rick Spilman"
 description: "The one thing we can say for certain is that we do not have all the facts surrounding the collision between the guided-missile destroyer USS Fitzgerald  and the Philippine container ship ACX Crystal . The collision nearly sank the destroyer, killed seven … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/crystalais130.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/crystalais130.jpg)
 
 Graphic: NYTimes
 

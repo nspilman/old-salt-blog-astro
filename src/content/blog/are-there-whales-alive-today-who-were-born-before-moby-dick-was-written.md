@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A recent article in the Alaska Dispatch celebrated the recent population rebound of bowhead whales off Alaska’s North Slope.  The bowheads had been hunted to near extinction. A whale count in 1978 estimated that only 1,200 bowhead whales remained in the region. … Continue reading &rarr;"
 ---
 
-![Bowhead Whale Photo:Martha Holmes/arkive.org](http://www.oldsaltblog.com/wp-content/uploads/2013/01/bowheadwhale.jpg)
+![Bowhead Whale Photo:Martha Holmes/arkive.org](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/bowheadwhale.jpg)
 
 Bowhead Whale Photo:  
 Martha Holmes/arkive.org

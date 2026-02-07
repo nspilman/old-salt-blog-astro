@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In an announcement that raises as many questions as it answers, U.S. Coast Guard marine casualty investigation team leader, Lt. Cmdr. Teresa Hatfield, said in a conference call with reporters that the fuel oil return line in the No. 6 … Continue reading &rarr;"
 ---
 
-![Photo: John David Mercer/AP](http://www.oldsaltblog.com/wp-content/uploads/2013/02/triumph.jpg)
+![Photo: John David Mercer/AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/triumph.jpg)
 
 Photo: John David Mercer/AP
 

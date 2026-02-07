@@ -10,7 +10,7 @@ tags:
   - "Lake Michigan"
   - "St. Joseph inner and outer lighthouses"
   - "St. Joseph River"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/icylight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/icylight.jpg"
 author: "Rick Spilman"
 description: "Icy images on the first day of winter — the St. Joseph inner and outer lighthouses sit on a pier at the entrance to the St. Joseph River on Lake Michigan. The two lights were built in 1906 and 1907 and … Continue reading &rarr;"
 ---

@@ -13,7 +13,7 @@ tags:
   - "Royal Caribbean"
   - "Sovereign"
   - "Turkey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/soverignmonarch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/soverignmonarch.jpg"
 author: "Rick Spilman"
 description: "Carnival Fantasy entering in Aliaga to be scrapped In the video, the Carnival Fantasy is being beached at the Aliaga scrapyard in Turkey.  Next to it are two other cruise ships, the Sovereign and the Monarch, which had been operated … Continue reading &rarr;"
 ---

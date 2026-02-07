@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The day after Philadelphia’s tall ship, the newly repaired, Gazela, arrived in New York harbor, an article in this morning’s New York Times focussed on the three historic ships in trouble on the Delaware River, in or near Philadelphia – the Olympia, the battleship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/olympia2e.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/olympia2e.jpg)
 
 Cruiser Olympia, the oldest steel warship afloat, but for how long?
 

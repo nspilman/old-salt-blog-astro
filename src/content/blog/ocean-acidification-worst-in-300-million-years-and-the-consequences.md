@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Two recent articles suggest a grim future if ocean acidification is allowed  to  continue  at current rates. Oceans absorb much of the carbon in the atmosphere and as we increase atmospheric CO2, the oceans grow progressively more acidic. A new study published in Science suggest that ocean acidification … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/dead-coral-reef.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/dead-coral-reef.jpg)
 
 White coral skeleton, Cocos Island, Pacific Ocean. Coral bleaching is one consequence of ocean acidification. Photo: OXFORD SCIENTIFIC / GETTY IMAGE
 

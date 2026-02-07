@@ -13,12 +13,12 @@ tags:
   - "Egyptian Red Sea"
   - "Marsa Alam"
   - "Port Ghalib"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/hurricanefire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/hurricanefire.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that three British tourists are missing after a fire broke out on board a dive boat on the Egyptian Red Sea.   Twenty-six other people, including 12 Britons, were rescued from the boat, called Hurricane. Initial reports suggested the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/hurricanefire.jpg)The [BBC](https://www.bbc.com/news/business-65871310.amp) reports that three British tourists are missing after a fire broke out on board a dive boat on the Egyptian Red Sea.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/hurricanefire.jpg)The [BBC](https://www.bbc.com/news/business-65871310.amp) reports that three British tourists are missing after a fire broke out on board a dive boat on the Egyptian Red Sea.  
 
 Twenty-six other people, including 12 Britons, were rescued from the boat, called *Hurricane.* Initial reports suggested the fire was caused by an electrical fault. The boat caught fire at about 9 am on Sunday morning in the Elphistone region of the Red Sea, about 25 kilometers north of Marsa Alam.
 

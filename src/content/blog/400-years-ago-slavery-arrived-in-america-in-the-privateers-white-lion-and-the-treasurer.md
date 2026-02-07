@@ -5,12 +5,12 @@ slug: "400-years-ago-slavery-arrived-in-america-in-the-privateers-white-lion-and
 excerpt: "On or around August 20th, 1619, four hundred years ago today, the privateer White Lion made landfall at Point Comfort, Virginia. Short on supplies, the privateer’s crew was eager to sell its cargo for food.  The cargo for sale was \"20, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/firstafricans.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/firstafricans.jpg"
 author: "Rick Spilman"
 description: "On or around August 20th, 1619, four hundred years ago today, the privateer White Lion made landfall at Point Comfort, Virginia. Short on supplies, the privateer’s crew was eager to sell its cargo for food.  The cargo for sale was \"20, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/firstafricans.jpg)On or around [August 20th, 1619](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html), four hundred years ago today, the privateer *White Lion* made landfall at Point Comfort, Virginia. Short on supplies, the privateer’s crew was eager to sell its cargo for food. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/firstafricans.jpg)On or around [August 20th, 1619](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html), four hundred years ago today, the privateer *White Lion* made landfall at Point Comfort, Virginia. Short on supplies, the privateer’s crew was eager to sell its cargo for food. 
 
 The cargo for sale was “20, and odd Negroes” captured from the slave ship, *San Juan Bautista*.  A second privateer, the *Treasurer**,* docked at Port Comfort a few days later and sold another 20 to 30 Africans also captured from the same ship.
 

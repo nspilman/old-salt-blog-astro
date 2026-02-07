@@ -13,12 +13,12 @@ tags:
   - "Floating Instrument Platform"
   - "France"
   - "La Ciotat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/flip2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/flip2.jpg"
 author: "Rick Spilman"
 description: "In August of last year, we bade a sad farewell to the Floating Instrument Platform, known as FLIP, which after 61 years of service, had been retired and was scheduled to be sent to a scrapyard. Fortunately, our reporting was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/flip2.jpg)In August of last year, we bade a sad farewell to the [Floating Instrument Platform](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform), known as FLIP, which after 61 years of service, had been retired and was scheduled to be sent to a scrapyard. Fortunately, our reporting was premature. It now appears that FLIP will flip again.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/flip2.jpg)In August of last year, we bade a sad farewell to the [Floating Instrument Platform](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform), known as FLIP, which after 61 years of service, had been retired and was scheduled to be sent to a scrapyard. Fortunately, our reporting was premature. It now appears that FLIP will flip again.
 
 [Maritime Executive](https://maritime-executive.com/article/world-s-strangest-research-vessel-saved-from-scrappers-to-flip-again) reports that the iconic offshore platform has been saved from scrapping and is now in France where it is being modernized to start a new phase of its research missions. The vessel/platform was developed for the US Navy’s Office of Naval Research and operated by the Scripps Institution of Oceanography.
 

@@ -11,12 +11,12 @@ tags:
   - "Haliade-X offshore turbine"
   - "Offshore Wind Turbine"
   - "Turbine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/geturbine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/geturbine.jpg"
 author: "Rick Spilman"
 description: "Sometimes size matters. We have recently seen ever-larger container ships delivered from Asian shipyards. This year, the HMM Algeciras claimed the title of the world’s largest container ship with a carrying capacity of 24,000 TEUs. It is one of twelve … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/geturbine.jpg)Sometimes size matters. We have recently seen ever-larger container ships delivered from Asian shipyards. This year, the [HMM *Algeciras*](https://en.wikipedia.org/wiki/Algeciras-class_container_ship) claimed the title of the world’s largest container ship with a carrying capacity of 24,000 TEUs. It is one of twelve eco-friendly container vessels delivered or under construction at Daewoo Shipbuilding and Marine Engineering in Ulsan, Korea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/geturbine.jpg)Sometimes size matters. We have recently seen ever-larger container ships delivered from Asian shipyards. This year, the [HMM *Algeciras*](https://en.wikipedia.org/wiki/Algeciras-class_container_ship) claimed the title of the world’s largest container ship with a carrying capacity of 24,000 TEUs. It is one of twelve eco-friendly container vessels delivered or under construction at Daewoo Shipbuilding and Marine Engineering in Ulsan, Korea.
 
 Bigger is not always better, of course. The Ultra Large Crude Carrier (ULCC) tanker [*Seawise Giant*](https://en.wikipedia.org/wiki/Seawise_Giant), later *Knock Nevis*, at 565,000 DWT was by many standards just too large. It was too large, for example, to transit the English Channel at a full load. After a long and generally successful career, it was scrapped in 2009 and no tanker has been built as large since.
 

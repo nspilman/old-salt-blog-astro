@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Day before yesterday, we posted about the body of Manfred Fritz Bajorat, 59, a German sailor, who had been found adrift on his yacht off the Philippines. The body was a dusty grey in color and the sailor was widely … Continue reading &rarr;"
 ---
 
-![Manfred Fritz Bajorat ](http://www.oldsaltblog.com/wp-content/uploads/2016/03/german-sailor.jpg)
+![Manfred Fritz Bajorat ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/german-sailor.jpg)
 
 Manfred Fritz Bajorat
 

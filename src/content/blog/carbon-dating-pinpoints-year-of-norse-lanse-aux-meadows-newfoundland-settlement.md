@@ -12,12 +12,12 @@ tags:
   - "Norse"
   - "solar storm"
   - "tree trunks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/norsemeadows.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/norsemeadows.jpg"
 author: "Rick Spilman"
 description: "In 1960, the archaeological remains of Norse buildings were discovered at L’Anse aux Meadows in Newfoundland. Until recently the settlement date was estimated within about a sixty-year span around 1000 CE. On Wednesday, scientists published a study in the journal … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/norsemeadows.jpg)In 1960, the archaeological remains of Norse buildings were discovered at [L’Anse aux Meadows](https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows) in Newfoundland. Until recently the settlement date was estimated within about a sixty-year span around 1000 CE. On Wednesday, scientists published a study in the journal [Nature](https://www.nature.com/articles/s41586-021-03972-8) pinpointing the arrival date to 1021 CE, or 470 years before Christopher Columbus reached the Bahamas in 1492.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/norsemeadows.jpg)In 1960, the archaeological remains of Norse buildings were discovered at [L’Anse aux Meadows](https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows) in Newfoundland. Until recently the settlement date was estimated within about a sixty-year span around 1000 CE. On Wednesday, scientists published a study in the journal [Nature](https://www.nature.com/articles/s41586-021-03972-8) pinpointing the arrival date to 1021 CE, or 470 years before Christopher Columbus reached the Bahamas in 1492.
 
 Archaeologists identified three trees at the site that were cut with metal tools, which the Norse had, while indigenous peoples did not. The archaeologists were able to accurately date when the trees were cut based on markings on the tree rings from a rare solar storm — called a [Miyake event](https://theweek.com/health-and-science/1006268/archaeologists-used-tree-rings-and-astrophysics-to-prove-vikings-were-in) — that took place in 992 or 993 A.D. With the date of that inner ring fixed, “all you need to do is count to when you get to the cutting edge,” said Michael Dee, a study co-author from the University of Groningen. 
 

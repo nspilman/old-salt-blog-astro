@@ -10,7 +10,7 @@ categories:
 tags:
   - "HMS Black Prince"
   - "HMS Warrior"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/hmswarrior.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/hmswarrior.jpg"
 author: "Rick Spilman"
 description: "HMS Warrior is a fascinating ship. It may be heresy to say so, but when I visited Portsmouth, I spent more time on HMS Warrior than I did on Nelson’s Victory. Warrior is a 40-gun steam-powered armored frigate built for the Royal Navy in 1859–61. … Continue reading &rarr;"
 ---

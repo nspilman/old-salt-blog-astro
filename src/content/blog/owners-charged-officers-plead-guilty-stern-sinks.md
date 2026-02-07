@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In early October,  the container ship MV Rena ran hard aground on the Astrolabe Reef off Tauranga, New Zealand, resulting in an oil spill which the New Zealand Environment minister Nick Smith has referred to as the country’s most serious maritime environmental … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/MV-Rena-containers-wash-up-.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/MV-Rena-containers-wash-up-.jpg)
 
 Photo: MNZ
 

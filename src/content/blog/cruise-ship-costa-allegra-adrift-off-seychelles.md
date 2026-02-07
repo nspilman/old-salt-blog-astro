@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Sixteen months after the Carnival Splendor was blacked out by an engine room fire in the Pacific off the coast of Mexico, another Carnival owned cruise ship is drifting, dead in the water, after an engine room fire.  The Costa Allegra, a cruise ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/n_allegra_img01.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/n_allegra_img01.jpg)
 
 Costa Allegra
 

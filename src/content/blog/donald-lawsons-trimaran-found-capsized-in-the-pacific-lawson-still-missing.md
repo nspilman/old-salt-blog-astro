@@ -15,12 +15,12 @@ tags:
   - "Mexican Navy"
   - "Mexico"
   - "ORMA 60 trimaran"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/lawsond.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lawsond.jpg"
 author: "Rick Spilman"
 description: "Donald Lawson and his Dark Seas Project was nothing if not ambitious. Lawson, 41, was preparing to set out to break at least 35 sailing records on his ORMA 60 trimaran, Defiant.  Lawson is a professional sailor from Baltimore who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/lawsond.jpg)[Donald Lawson and his Dark Seas Project](https://captaindonaldlawson.com/home) was nothing if not ambitious. Lawson, 41, was preparing to set out [to break at least 35 sailing records](https://www.sail-world.com/news/264951/Keeping-a-candle-lit-for-Captain-Donald-Lawson) on his ORMA 60 trimaran, *Defiant.* 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lawsond.jpg)[Donald Lawson and his Dark Seas Project](https://captaindonaldlawson.com/home) was nothing if not ambitious. Lawson, 41, was preparing to set out [to break at least 35 sailing records](https://www.sail-world.com/news/264951/Keeping-a-candle-lit-for-Captain-Donald-Lawson) on his ORMA 60 trimaran, *Defiant.* 
 
 Lawson is a professional sailor from Baltimore who hoped to become the fastest person to sail solo and nonstop around the world in a boat no longer than 60 feet. He also hoped to become one of the few African Americans to set world records in the sport of sailing. Lawson and his wife started the [Dark Seas Project](https://captaindonaldlawson.com/home), an effort to promote more diversity in the sport of sailing. He is also the chairman of the diversity, equity, and inclusion committee for U.S. Sailing, the national governing body for the sport.
 

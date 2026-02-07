@@ -10,12 +10,12 @@ tags:
   - "Great Lakes bulk carrier"
   - "Interlake Steamship"
   - "Mark W Barker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/interlakelaker2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/interlakelaker2.jpg"
 author: "Rick Spilman"
 description: "On June 23, the keel was laid for the Interlake Steamship‘s new Great Lakes bulk carrier at Fincantieri Bay Shipbuilding in Sturgeon Bay, WI.  The 639 ft-long, 28,000-tonne Lake-Class self-unloading bulker is the first US flag self-propelled bulk carrier to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/interlakelaker2.jpg)On June 23, the keel was laid for the [Interlake Steamship](http://www.interlake-steamship.com/)‘s new Great Lakes bulk carrier at [Fincantieri Bay Shipbuilding](https://fincantieribayshipbuilding.com/) in Sturgeon Bay, WI.  The 639 ft-long, 28,000-tonne Lake-Class self-unloading bulker is the first US flag self-propelled bulk carrier to be built in the Great Lakes in 35 years. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/interlakelaker2.jpg)On June 23, the keel was laid for the [Interlake Steamship](http://www.interlake-steamship.com/)‘s new Great Lakes bulk carrier at [Fincantieri Bay Shipbuilding](https://fincantieribayshipbuilding.com/) in Sturgeon Bay, WI.  The 639 ft-long, 28,000-tonne Lake-Class self-unloading bulker is the first US flag self-propelled bulk carrier to be built in the Great Lakes in 35 years. 
 
 The ship’s name was revealed by Interlake chairman James R Barker who named it *Mark W Barker*, after his son. Barker said: “This ship is more than the steel assembled here by Fincantieri Bay Shipbuilding.
 

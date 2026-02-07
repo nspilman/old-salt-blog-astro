@@ -10,12 +10,12 @@ tags:
   - "Captain Carl Anton Larsen"
   - "Icesheet"
   - "Larsen C"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/larsenc200a.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/larsenc200a.jpg"
 author: "Rick Spilman"
 description: "In December of 1893, Captain Carl Anton Larsen, the master of the Norwegian whaling ship Jason, sailed along a vast Antarctic ice shelf in the northwest part of the Weddell Sea on the east coast of the Antarctic Peninsula. Now, just over 120 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/larsenc200.jpg)In December of 1893, [Captain Carl Anton Larsen](https://en.wikipedia.org/wiki/Carl_Anton_Larsen), the master of the Norwegian whaling ship *Jason*, sailed along a vast Antarctic ice shelf in the northwest part of the Weddell Sea on the east coast of the Antarctic Peninsula. Now, just over 120 years later, the ice sheet that bears Larsen’s name is collapsing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/larsenc200.jpg)In December of 1893, [Captain Carl Anton Larsen](https://en.wikipedia.org/wiki/Carl_Anton_Larsen), the master of the Norwegian whaling ship *Jason*, sailed along a vast Antarctic ice shelf in the northwest part of the Weddell Sea on the east coast of the Antarctic Peninsula. Now, just over 120 years later, the ice sheet that bears Larsen’s name is collapsing.
 
 [British scientists with](http://www.projectmidas.org/blog/larsen-c-ice-shelf-poised-to-calve/) [Project Midas](http://www.projectmidas.org/) [recently predicted](http://www.projectmidas.org/blog/larsen-c-ice-shelf-poised-to-calve/) that a widening crack in the ice shelf could cause a 2,000 square mile ice island the size of the State of Delaware to break off this winter.  Swansea University’s Adrian Luckman, who heads up Project MIDAS, told the [BBC](http://www.bbc.com/news/science-environment-38522954) that “If it doesn’t go in the next few months, I’ll be amazed.”
 

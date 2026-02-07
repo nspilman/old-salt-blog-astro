@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The government of Ukrainia is claiming that the Russian Navy has issued an ultimatum demanding the surrender of two Ukrainian Navy vessels in in Sevastopol’s harbor. They claim that four Russian Navy vessels have the Ukrainian anti-submarine ship, Ternopil,  and the the command ship, Slavutych, blocked … Continue reading &rarr;"
 ---
 
-![Ukrainian seamen stand guard on the navy ship Slavutich at harbor of Sevastopol on March 3, 2014. Photo: Andrew Lubimov/AP Photo ](http://www.oldsaltblog.com/wp-content/uploads/2014/03/iuQUS6W.fGIU_.jpg)
+![Ukrainian seamen stand guard on the navy ship Slavutich at harbor of Sevastopol on March 3, 2014. Photo: Andrew Lubimov/AP Photo ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/iuQUS6W.fGIU_.jpg)
 
 Ukrainian seamen stand guard on the navy ship Slavutich at harbor of Sevastopol on March 3, 2014.  
 Photo: Andrew Lubimov/AP Photo

@@ -13,12 +13,12 @@ tags:
   - "Jacksonville"
   - "Naval Station Mayport"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/ussshamal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ussshamal.jpg"
 author: "Rick Spilman"
 description: "The US Navy is sending six ships from the Naval Station Mayport in Jacksonville, Florida into the Atlantic in an attempt to get out of the path of Hurricane Dorian, which is expected to strengthen to a category 3 and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/ussshamal.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ussshamal.jpg)
 
 USS Shamal
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "As reported by the Stockholm News – WW1 Russian submarine found The submarine wreck was discovered by a research ship of the Swedish Maritime Administration the 10 September. A closer study with a radio-controlled underwater vessel indicate that the submarine … Continue reading &rarr;"
 ---
 
-![gepard](http://www.oldsaltblog.com/wp-content/uploads/2009/09/gepard.jpg)As reported by the Stockholm News –  
+![gepard](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/gepard.jpg)As reported by the Stockholm News –  
 [WW1 Russian submarine found](http://www.stockholmnews.com/more.aspx?NID=4027)
 
 *The submarine wreck was discovered by a research ship of the Swedish Maritime Administration the 10 September. A closer study with a radio-controlled underwater vessel indicate that the submarine may be ‘Gepard’, one of twelve submarines of the Bars (snow leopard) class who operated in the Baltic Sea during WW1. “We have a strong suspicion that it’s ‘Gepard’, says Hans Oiås, responsible for the Swedish database of shipwrecks, to news agency TT.*  

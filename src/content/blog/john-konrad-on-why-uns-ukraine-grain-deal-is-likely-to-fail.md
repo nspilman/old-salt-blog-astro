@@ -13,7 +13,7 @@ tags:
   - "Russia"
   - "Turkey"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/gcaptain-video.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/gcaptain-video.jpg"
 author: "Rick Spilman"
 description: "At the end of July, Ukraine and Russia signed \"mirror\" deals that allowed Kyiv to resume exports of grain through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the … Continue reading &rarr;"
 ---

@@ -13,12 +13,12 @@ tags:
   - "Sydney Cove"
   - "Tasmanian shipwreck"
   - "yeast"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/tazbeer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/tazbeer.jpg"
 author: "Rick Spilman"
 description: "The yeast from a 220-year-old bottle of beer found in a shipwreck off the coast of Tasmania has been used to brew what is being described as the \"world’s oldest surviving beer.\" This is similar to the claims made for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/tazbeer.jpg)The yeast from a [220-year-old bottle of beer found in a shipwreck off the coast of Tasmania](https://www.thecourier.com.au/story/6252822/worlds-oldest-surviving-beer-brought-back-to-life/) has been used to brew what is being described as the “world’s oldest surviving beer.” This is similar to the claims made for [170-year old beer found in a shipwreck off the Åland Islands of Sweden.](http://www.oldsaltblog.com/2014/06/update-a-shipwrecked-beer-reborn-aland-brewery-recreates-170-year-old-beer/) It appears that the Tasmanian beer may be older, but does raise an obvious question — isn’t there more to beer than yeast? 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/tazbeer.jpg)The yeast from a [220-year-old bottle of beer found in a shipwreck off the coast of Tasmania](https://www.thecourier.com.au/story/6252822/worlds-oldest-surviving-beer-brought-back-to-life/) has been used to brew what is being described as the “world’s oldest surviving beer.” This is similar to the claims made for [170-year old beer found in a shipwreck off the Åland Islands of Sweden.](http://www.oldsaltblog.com/2014/06/update-a-shipwrecked-beer-reborn-aland-brewery-recreates-170-year-old-beer/) It appears that the Tasmanian beer may be older, but does raise an obvious question — isn’t there more to beer than yeast? 
 
 The 500-year-old German beer purity law, [Das Reinheitsgebot](https://www.german-way.com/travel-and-tourism/germany-for-tourists/dining-out-in-germany/beer-and-wine/das-reinheitsgebot/), initially included only hops, barley, water for making beer. The understanding of yeast and fermentation only came later. In the case of the Åland Island beer, there was at least an attempt to recreate the proper blend of other ingredients. The new/old Tasmanian beers seems to be based strictly on the very old yeast. As a home-brewer myself, I can testify that while yeast is important, hops and barley define the beer. 
 

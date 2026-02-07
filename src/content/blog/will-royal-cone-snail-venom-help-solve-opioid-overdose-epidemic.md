@@ -10,12 +10,12 @@ tags:
   - "opiods"
   - "painkiller"
   - "Royal Cone Snail"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/royalcone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/royalcone.jpg"
 author: "Rick Spilman"
 description: "The United State is facing an epidemic of fatal drug overdoses due to the use of prescription opioids as painkillers. In the US in 2015, there were over 20,000 overdose deaths related to prescription pain relievers, and 12,990 overdose deaths related to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/royalcone.jpg)The United State is facing an epidemic of fatal drug overdoses due to the use of prescription opioids as painkillers. [In the US in 2015, there were over 20,000 overdose deaths](http://www.asam.org/docs/default-source/advocacy/opioid-addiction-disease-facts-figures.pdf) related to prescription pain relievers, and 12,990 overdose deaths related to heroin. Four in five new heroin users started out misusing prescription painkillers. Now, researchers may have found an alternative to opioids in the venom of the royal cone snail, a mollusk found in shallow waters from the Caribbean to the Brazilian coast.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/royalcone.jpg)The United State is facing an epidemic of fatal drug overdoses due to the use of prescription opioids as painkillers. [In the US in 2015, there were over 20,000 overdose deaths](http://www.asam.org/docs/default-source/advocacy/opioid-addiction-disease-facts-figures.pdf) related to prescription pain relievers, and 12,990 overdose deaths related to heroin. Four in five new heroin users started out misusing prescription painkillers. Now, researchers may have found an alternative to opioids in the venom of the royal cone snail, a mollusk found in shallow waters from the Caribbean to the Brazilian coast.
 
 The royal cone snail, known scientifically as [*Conus regius*](https://en.wikipedia.org/wiki/Conus_regius), has a fish-immobilizing sting that can be venomous enough to be potentially fatal to humans. The chemical mix in the venom has been of interest to scientists because of its pain blocking characteristics. One compound in the venom, Rg1A, has been found to act very differently from opioids. Unlike opioids which dull the brain’s awareness of pain, and are dangerously addictive, Rg1A acts on the pain receptors in the body itself, dulling the pain at its source. The compound also has anti-inflammatory and neuroprotective effects.
 

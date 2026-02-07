@@ -11,12 +11,12 @@ tags:
   - "Jason Bruck"
   - "signature whistles"
   - "urine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphinspod.jpg"
 author: "Rick Spilman"
 description: "A fascinating story from CBC Radio — based on a new study in the academic journal Science Advances, dolphins can recognize the sound of a whistle or the taste of urine — yes, taste — to spot their friends. What started … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg)A fascinating story from [CBC Radio](https://www.cbc.ca/radio/asithappens/as-it-happens-the-friday-edition-1.6460668/dolphins-can-recognize-each-others-whistles-and-their-pee-new-study-finds-1.6461640) — based on a new study in the academic journal [Science Advances](https://www.science.org/doi/10.1126/sciadv.abm7684), dolphins can recognize the sound of a whistle or the taste of urine — yes, taste — to spot their friends.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphinspod.jpg)A fascinating story from [CBC Radio](https://www.cbc.ca/radio/asithappens/as-it-happens-the-friday-edition-1.6460668/dolphins-can-recognize-each-others-whistles-and-their-pee-new-study-finds-1.6461640) — based on a new study in the academic journal [Science Advances](https://www.science.org/doi/10.1126/sciadv.abm7684), dolphins can recognize the sound of a whistle or the taste of urine — yes, taste — to spot their friends.
 
 What started as a study of how dolphins use their signature whistles has uncovered another way the cetaceans communicate: their urine. 
 

@@ -16,12 +16,12 @@ tags:
   - "Saildrone Explorer SD 1078"
   - "uncrewed surface vehicle"
   - "USV"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/saildrone-fiona.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/saildrone-fiona.jpg"
 author: "Rick Spilman"
 description: "Saildrone, Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released video footage gathered by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean. For the second year, NOAA … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/saildrone-fiona.jpg)[Saildrone, Inc.](https://www.saildrone.com/) and the National Oceanic and Atmospheric Administration (NOAA) have released video footage gathered by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/saildrone-fiona.jpg)[Saildrone, Inc.](https://www.saildrone.com/) and the National Oceanic and Atmospheric Administration (NOAA) have released video footage gathered by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean.
 
 For the second year, NOAA and Saildrone are hurricane chasing with uncrewed wind-powered vehicles. Last year, [the Saildrone Explorer SD 1045](https://www.oldsaltblog.com/2021/10/saildrone-captures-video-from-inside-category-4-hurricane-sam/) was directed into the midst of Hurricane Sam where it battled 50-foot waves and winds of over 120 mph to collect critical scientific data.
 

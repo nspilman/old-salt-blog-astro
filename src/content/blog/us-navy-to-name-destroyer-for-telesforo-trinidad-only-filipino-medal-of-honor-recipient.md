@@ -15,12 +15,12 @@ tags:
   - "Trinidad"
   - "USS San Diego"
   - "USS Telesforo Trinidad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/Trinidad.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/Trinidad.jpg"
 author: "Rick Spilman"
 description: "U.S. Secretary of the Navy Carlos Del Toro has announced that a future Arleigh Burke-class guided-missile destroyer will be named the USS Telesforo Trinidad in honor of a Filipino sailor who rescued two crew members when their ship caught fire … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/Trinidad.jpg)U.S. Secretary of the Navy [Carlos Del Toro](https://en.wikipedia.org/wiki/Carlos_Del_Toro) has announced that a future Arleigh Burke-class guided-missile destroyer will be named the [USS *Telesforo Trinidad*](https://en.wikipedia.org/wiki/USS_Telesforo_Trinidad_\(DDG-139\)) in honor of a Filipino sailor who rescued two crew members when their ship caught fire more than a century ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/Trinidad.jpg)U.S. Secretary of the Navy [Carlos Del Toro](https://en.wikipedia.org/wiki/Carlos_Del_Toro) has announced that a future Arleigh Burke-class guided-missile destroyer will be named the [USS *Telesforo Trinidad*](https://en.wikipedia.org/wiki/USS_Telesforo_Trinidad_\(DDG-139\)) in honor of a Filipino sailor who rescued two crew members when their ship caught fire more than a century ago.
 
 The [Washington Post](https://www.washingtonpost.com/politics/navy-ship-to-be-named-for-filipino-sailor-telesforo-trinidad/2022/05/19/c45066a8-d7a2-11ec-be17-286164974c54_story.html) reports that Fireman [Telesforo De La Cruz Trinidad](https://en.wikipedia.org/wiki/Telesforo_Trinidad) is the only Filipino in the US Navy to be awarded the Medal of Honor. He received the honor for his actions on the [USS *San Diego*](https://en.wikipedia.org/wiki/USS_California_\(ACR-6\)) in 1915 and at a time when it could be awarded for non-combat valor.
 

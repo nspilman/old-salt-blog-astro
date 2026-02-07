@@ -12,12 +12,12 @@ tags:
   - "Lake Maggiore"
   - "spies"
   - "spy party"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/spyparty.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/spyparty.jpg"
 author: "Rick Spilman"
 description: "On Sunday, an overloaded chartered houseboat on Italy’s Lake Maggiore was caught in a sudden, violent storm and capsized, killing four of the 21 passengers and two crew. Sadly, this sort of boating accident, while tragic, is not entirely out … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/spyparty.jpg)On Sunday, an overloaded chartered houseboat on Italy’s Lake Maggiore was caught in a sudden, violent storm and capsized, killing four of the 21 passengers and two crew. Sadly, this sort of boating accident, while tragic, is not entirely out of the ordinary.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/spyparty.jpg)On Sunday, an overloaded chartered houseboat on Italy’s Lake Maggiore was caught in a sudden, violent storm and capsized, killing four of the 21 passengers and two crew. Sadly, this sort of boating accident, while tragic, is not entirely out of the ordinary.
 
 What made the accident unusual was that all of the 21 passengers aboard the boat were currently or formerly tied to Israeli and Italian defense and intelligence work, which is to say spies or former spies. Of the passengers, 13 were connected to Israel’s intelligence service Mossad, and eight were from Italian intelligence.
 

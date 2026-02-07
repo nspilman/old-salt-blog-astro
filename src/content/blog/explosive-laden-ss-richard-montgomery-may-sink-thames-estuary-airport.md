@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Liberty ship SS Richard Montgomery, with a cargo of high explosives, was wrecked off the Nore in the Thames Estuary in 1944.  Shortly after the wreck, an attempt was made to remove her cargo but the ship broke apart with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/60586722_jex_21119_de28-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/60586722_jex_21119_de28-1.jpg)
 
 The masts of the SS Richard Montgomery – too dangerous to move, too dangerous to ignore
 

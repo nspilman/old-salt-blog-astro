@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Terrible news from St. Lucia.  Roger Pratt, 62, was killed while defending his wife from intruders on their Premier 41 sailboat, Magnetic Attraction, near the town of Vieux Fort on the island nation of St. Lucia in the eastern Caribbean. … Continue reading &rarr;"
 ---
 
-![Roger & Margaret Pratt,  Photo:Mirror](http://www.oldsaltblog.com/wp-content/uploads/2014/01/Roger-Pratt-with-his-wife-Margaret-3037706.jpg)
+![Roger & Margaret Pratt,  Photo:Mirror](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Roger-Pratt-with-his-wife-Margaret-3037706.jpg)
 
 Roger & Margaret Pratt Photo: Mirror
 
@@ -29,6 +29,6 @@ Terrible news from St. Lucia.  Roger Pratt, 62, was killed while defending his 
 
  *The couple had been on their voyage since June, when they left Lowestoft, Suffolk, and headed for the Algarve before navigating their way to the Caribbean. They had been celebrating Mrs Pratt’s birthday when the attack took place.*
 
-![Graphic: Daily Mail](http://www.oldsaltblog.com/wp-content/uploads/2014/01/stluciacrime.jpg)
+![Graphic: Daily Mail](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/stluciacrime.jpg)
 
 Graphic: Daily Mail

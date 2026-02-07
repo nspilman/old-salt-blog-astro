@@ -12,12 +12,12 @@ tags:
   - "Buffalo and Erie County Naval &amp; Military Park"
   - "Fletcher-class destroyer"
   - "USS The Sullivans"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/sullivansupdate.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/sullivansupdate.jpg"
 author: "Rick Spilman"
 description: "The museum ship, the retired United States Navy Fletcher-class destroyer USS The Sullivans,  partially sank after taking on water at its berth in the Buffalo and Erie County Naval & Military Park, in mid-April. Now that the historic ship has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/sullivansupdate.jpg)The museum ship, the retired United States Navy [Fletcher-class](https://en.wikipedia.org/wiki/Fletcher-class_destroyer) destroyer [USS *The Sullivans*](https://en.wikipedia.org/wiki/USS_The_Sullivans_\(DD-537\)),  partially [sank after taking on water](https://www.oldsaltblog.com/2022/04/museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie/) at its berth in the [Buffalo and Erie County Naval & Military Park](https://buffalonavalpark.org/), in mid-April. Now that the historic ship has been refloated, an assessment of the damage from the casualty has been underway. There is both good and bad news.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/sullivansupdate.jpg)The museum ship, the retired United States Navy [Fletcher-class](https://en.wikipedia.org/wiki/Fletcher-class_destroyer) destroyer [USS *The Sullivans*](https://en.wikipedia.org/wiki/USS_The_Sullivans_\(DD-537\)),  partially [sank after taking on water](https://www.oldsaltblog.com/2022/04/museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie/) at its berth in the [Buffalo and Erie County Naval & Military Park](https://buffalonavalpark.org/), in mid-April. Now that the historic ship has been refloated, an assessment of the damage from the casualty has been underway. There is both good and bad news.
 
 The good news is that many of the historic artifacts aboard the ship at the time of the flooding were either undamaged or may be salvageable. 5,000 folders of ship blueprints survived untouched while many documents stored in the ship’s office were submerged and all but ruined.  An attempt will be made to freeze many of the papers in an attempt to preserve them.
 

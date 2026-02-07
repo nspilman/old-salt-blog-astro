@@ -10,12 +10,12 @@ tags:
   - "Orca"
   - "Pacific Northwest"
   - "Southern Resident orca"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/j35j37.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/j35j37.jpg"
 author: "Rick Spilman"
 description: "In the summer of 2018, a female orca whale became of a symbol of the perilous state of the Southern Resident orca pods of the Pacific Northwest. The whale, designated J35 by researchers, had given birth to a calf that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/j35j37.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/j35j37.jpg)
 
 The new calf, J57, with its mother, J35. Credit: Katie Jones, via Center for Whale Research
 

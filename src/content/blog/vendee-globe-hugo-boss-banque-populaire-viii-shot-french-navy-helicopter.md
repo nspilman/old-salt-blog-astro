@@ -13,7 +13,7 @@ tags:
   - "Banque Populaire VIII"
   - "Hugo Boss"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/vendeefrigate.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vendeefrigate.jpg"
 author: "Rick Spilman"
 description: "Here is some remarkable video footage of the two leaders of the Vendee Globe single-handed around the world race, shot from a French Navy helicopter from the frigate Nivôse. The helicopter videoed Armel le Cleac’h, sailing Banque Populaire VIII, and … Continue reading &rarr;"
 ---

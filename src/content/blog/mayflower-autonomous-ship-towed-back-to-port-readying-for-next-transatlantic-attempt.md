@@ -7,12 +7,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Mayflower"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/mayflower4002.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/mayflower4002.jpg"
 author: "Rick Spilman"
 description: "In September 2020, we posted about the unveiling of an autonomous craft named Mayflower, after the Pilgrim’s ship of 1620. The post title posed the question, Autonomous Mayflower, Technological Breakthrough or Hazard to Navigation? Now that the 49-foot long trimaran … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/mayflower4002.jpg)In September 2020, we posted about the unveiling of an autonomous craft named *Mayflower*, after the Pilgrim’s ship of 1620. The post title posed the question, [Autonomous Mayflower, Technological Breakthrough or Hazard to Navigation?](http://www.oldsaltblog.com/2020/09/autonomous-mayflower-technological-breakthrough-or-hazard-to-navigation/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/mayflower4002.jpg)In September 2020, we posted about the unveiling of an autonomous craft named *Mayflower*, after the Pilgrim’s ship of 1620. The post title posed the question, [Autonomous Mayflower, Technological Breakthrough or Hazard to Navigation?](http://www.oldsaltblog.com/2020/09/autonomous-mayflower-technological-breakthrough-or-hazard-to-navigation/)
 
 Now that the 49-foot long trimaran has been towed back into port after completing only 10% of a planned transatlantic voyage, the question remains unanswered.
 

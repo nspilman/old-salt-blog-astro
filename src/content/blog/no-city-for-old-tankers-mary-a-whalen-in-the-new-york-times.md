@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "There are over five hundred miles of waterfront in New York harbor. The Mary A. Whalen only needs around 200 feet of it to tie up, yet for the last six years, the historic tanker and PortSide New York, the non-profit educational … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/22subTANKER-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/22subTANKER-articleLarge.jpg)
 
 Photo: Emily Berl for The New York Times
 

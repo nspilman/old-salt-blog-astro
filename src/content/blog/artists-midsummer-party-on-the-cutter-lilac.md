@@ -17,4 +17,4 @@ description: "If you are in the neighborhood, stop by the Cutter Lilac on Saturd
 
 If you are in the neighborhood, stop by the [Cutter Lilac](http://lilacpreservationproject.org/) on Saturday for the Artist’s Midsummer Party at the Hudson River Park’s Pier 25. The ship opens to visitors at 2:00 PM. The party is from 6:00 – 9:00 PM.
 
-![lilacmidsummer](http://www.oldsaltblog.com/wp-content/uploads/2015/06/lilacmidsummer.jpg)
+![lilacmidsummer](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/lilacmidsummer.jpg)

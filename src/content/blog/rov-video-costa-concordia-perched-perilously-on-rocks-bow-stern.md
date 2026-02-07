@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Video shot by a remotely operated vehicle (ROV), roughly a month after the ship ran aground, shows that the Costa Concordia is not sitting evenly on the bottom.  Instead, the 950′ long ship is perched perilously on two rocky outcroppings at the bow … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/concordiazoom.jpg)Video shot by a remotely operated vehicle (ROV), roughly a month after the ship ran aground, shows that the *[Costa Concordia](http://en.wikipedia.org/wiki/Costa_Concordia)* is not sitting evenly on the bottom.  Instead, the 950′ long ship is perched perilously on two rocky outcroppings at the bow and the stern. The rest of the ship’s hull is largely unsupported, except by its own buoyancy. This raises the possibility that the bending stresses on the hull may do serious structural damage and, in the worst case, break the ship in half.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/concordiazoom.jpg)Video shot by a remotely operated vehicle (ROV), roughly a month after the ship ran aground, shows that the *[Costa Concordia](http://en.wikipedia.org/wiki/Costa_Concordia)* is not sitting evenly on the bottom.  Instead, the 950′ long ship is perched perilously on two rocky outcroppings at the bow and the stern. The rest of the ship’s hull is largely unsupported, except by its own buoyancy. This raises the possibility that the bending stresses on the hull may do serious structural damage and, in the worst case, break the ship in half.
 
 [CONCORDIA COULD COLLAPSE UNDER ITS OWN WEIGHT](http://news.discovery.com/earth/costa-concordia-collapse-121902.html)
 

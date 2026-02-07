@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A human foot wearing a running shoe washed ashore in British Columbia  recently.   It is the eleventh foot to have washed up on the coast of the Salish Sea, the coastal waterways surrounding southern Vancouver Island and Puget Sound, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/nc_severed_foot_canada_beac.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/nc_severed_foot_canada_beac.jpg)
 
 Running shoe that contained a mystery foot
 

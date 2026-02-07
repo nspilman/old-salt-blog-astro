@@ -10,12 +10,12 @@ tags:
   - "Iceland"
   - "testing"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
 description: "When the COVID-19 infection broke out on the aircraft carrier USS Theodore Roosevelt, the decision was made to test all the 4,865 sailors aboard the ship. As of today, the Navy says that 94% of the crew has been tested. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg)When the COVID-19 infection broke out on the aircraft carrier USS *Theodore Roosevelt*, the decision was made to test all the 4,865 sailors aboard the ship. As of today, the Navy says that 94% of the crew has been tested. The results were stunning. From an initial three infections, the number of [sailors testing positive had risen to 660](https://www.newsweek.com/660-crew-members-uss-theodore-roosevelt-test-positive-coronavirus-1498612) or over 14% of the ship’s personnel tested. One of the crew, Chief Petty Officer Charles Robert Thacker Jr, has died. Another six sailors have been hospitalized and two are reported to be in intensive care.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg)When the COVID-19 infection broke out on the aircraft carrier USS *Theodore Roosevelt*, the decision was made to test all the 4,865 sailors aboard the ship. As of today, the Navy says that 94% of the crew has been tested. The results were stunning. From an initial three infections, the number of [sailors testing positive had risen to 660](https://www.newsweek.com/660-crew-members-uss-theodore-roosevelt-test-positive-coronavirus-1498612) or over 14% of the ship’s personnel tested. One of the crew, Chief Petty Officer Charles Robert Thacker Jr, has died. Another six sailors have been hospitalized and two are reported to be in intensive care.
 
 As disturbing as the total number of infections, there was something even more alarming. [60% of those who tested positive were asymptomatic](https://www.reuters.com/article/us-health-coronavirus-usa-military-sympt/coronavirus-clue-most-cases-aboard-us-aircraft-carrier-are-symptom-free-idUSKCN21Y2GB) – they showed no symptoms, no indication that they were sick. Why is this so troubling? [According to new research](https://www.sciencenews.org/article/coronavirus-covid-19-infection-contagious-days-before-symptoms-appear), people with coronavirus infections may be the most contagious one to two days before they start to feel ill. One study suggests that more than 4 in 10 coronavirus cases are spread by those not obviously sick.
 

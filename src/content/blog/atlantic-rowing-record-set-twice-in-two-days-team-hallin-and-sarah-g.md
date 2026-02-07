@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On Monday, the six British rowers of Team Hallin have set a new world record for rowing the Atlantic Ocean.  The five men and one woman landed in Barbados after completing the 3,000 mile course from Tenerife in 31days and 23hours … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/P1000228.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/P1000228.jpg)
 
 Team Hallin Held the Record for One Day
 

@@ -19,13 +19,13 @@ author: "Rick Spilman"
 description: "The E Ship 1 arrived in Dublin last week with a cargo of wind turbines manufactured by Enercon.    What was striking was the ship itself, with four tall pillars rising vertically from the ship, two forward and two aft.   The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/eshiip1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/eshiip1.jpg)
 
 The *[E Ship 1](http://en.wikipedia.org/wiki/E-Ship_1)* arrived in Dublin last week with a cargo of wind turbines manufactured by [Enercon](http://www.enercon.de/en/_home.htm).    What was striking was the ship itself, with four tall pillars rising vertically from the ship, two forward and two aft.   The pillars are [Flettner rotors](http://en.wikipedia.org/wiki/Rotor_ship), first  developed in the 1920s by German engineer [Anton Flettner](http://en.wikipedia.org/wiki/Anton_Flettner).  They are in essence, motor powered sails, 27 meters tall and 4 meters in diameter.  The spinning vertical rotors develop aerodynamic lift using the [Magnus effect](http://en.wikipedia.org/wiki/Magnus_effect).   As the wind blows across the spinning rotors, they develop lift similar that of an airfoil shape of a conventional sail.  Unlike masts and sails, however, the vertical Flettner rotor does not interfere with cargo operations.  The Flettner rotors are expected to save  30-40% in fuel costs at 16 knots.  
   
 The *E Ship 1* is owned by Enercon and is intended to demonstrate energy saving technology as well as to deliver Enercon wind turbine assemblies to customers.  In addition to the Flettner rotors, the ship is powered by diesel engines driving  twin propellers.  Exhaust gas from the engines power a downstream steam turbine, which drives the four Enercon-developed Flettner rotors.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/Buckau.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Buckau.jpg)
 
 Buckau
 

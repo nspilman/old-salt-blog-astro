@@ -9,7 +9,7 @@ categories:
 tags:
   - "Antique &amp; Classic Rendevous"
   - "mystic seaport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/msboatparade.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/msboatparade.jpg"
 author: "Rick Spilman"
 description: "Here is some lovely drone footage of the boat parade from the 2017 Mystic Seaport Antique & Classic Rendevous.  The recently restored 1908 steamboat Sabino leads the parade. Mystic Seaport Antique & Classic Boat Parade 2017 … Continue reading &rarr;"
 ---

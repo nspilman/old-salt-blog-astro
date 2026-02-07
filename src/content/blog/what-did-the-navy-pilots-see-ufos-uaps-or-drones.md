@@ -14,12 +14,12 @@ tags:
   - "UFOs"
   - "Unexplained Aerial Phenomena"
   - "unidentified flying objects"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/uapomaha.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/uapomaha.jpg"
 author: "Rick Spilman"
 description: "The first Congressional hearing addressing UFOs (Unidentified Flying Objects) in more than fifty years, yielded very few answers. The main takeaway from the hearings was that, while most sightings could be identified, a number of events have defied all attempts … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/uapomaha.jpg)The first [Congressional hearing addressing UFOs](https://www.bbc.com/news/world-us-canada-61474201) (Unidentified Flying Objects) in more than fifty years, yielded very few answers. The main takeaway from the hearings was that, while most sightings could be identified, a number of events have defied all attempts at explanation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/uapomaha.jpg)The first [Congressional hearing addressing UFOs](https://www.bbc.com/news/world-us-canada-61474201) (Unidentified Flying Objects) in more than fifty years, yielded very few answers. The main takeaway from the hearings was that, while most sightings could be identified, a number of events have defied all attempts at explanation.
 
 Unlike the last Congressional public hearings into the issue in 1966, when the Air Force dismissed the sightings as “[swamp gas](https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf),” the government now acknowledged that the more recent observations involved unknown objects that were observed on video, radar, and other sensors.
 

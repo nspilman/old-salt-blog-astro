@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The clipper ship City of Adelaide (later HMS Carrick), the oldest surviving composite clipper ship in the world, is being made ready for her long trip home to her namesake city in Australia, from her current berth in Irvine, Scotland. Carrick … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/cityadelaidewebpic.jpg)The [clipper ship *City of Adelaide*](http://cityofadelaide.org.au/) (later HMS *Carrick*), the oldest surviving composite clipper ship in the world, is being made ready for her long trip home to her namesake city in Australia, from her current berth in Irvine, Scotland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cityadelaidewebpic.jpg)The [clipper ship *City of Adelaide*](http://cityofadelaide.org.au/) (later HMS *Carrick*), the oldest surviving composite clipper ship in the world, is being made ready for her long trip home to her namesake city in Australia, from her current berth in Irvine, Scotland.
 
 [Carrick gets ship-shape for Oz voyage](http://www.irvineherald.co.uk/ayrshire-news/local-news-ayrshire/local-news-irvine/2010/12/10/carrick-gets-ship-shape-for-oz-voyage-75485-27788488/)
 

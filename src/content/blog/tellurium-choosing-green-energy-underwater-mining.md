@@ -10,12 +10,12 @@ tags:
   - "deep-sea mining"
   - "tellurium"
   - "Tropic Seamount"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/tellurium.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/tellurium.jpg"
 author: "Rick Spilman"
 description: "Deep-sea mining has long been a controversial subject. For the last 50 years, proponents have called for the mining of silver, gold, copper, manganese, cobalt, and zinc from the seafloor, while environmentalists have argued that seabed mining should not be permitted because of … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/tellurium.jpg)Deep-sea mining](https://en.wikipedia.org/wiki/Deep_sea_mining) has long been a controversial subject. For the last 50 years, proponents have called for the mining of silver, gold, copper, manganese, cobalt, and zinc from the seafloor, while environmentalists have argued that seabed mining should not be permitted because of the potential damage to deep-sea ecosystems. So far, no actual commercial mining has taken place although at least one project is scheduled to start in 2018. Recently a new discovery has, perhaps somewhat paradoxically, renewed interest in undersea mining in order to help produce green energy.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/tellurium.jpg)Deep-sea mining](https://en.wikipedia.org/wiki/Deep_sea_mining) has long been a controversial subject. For the last 50 years, proponents have called for the mining of silver, gold, copper, manganese, cobalt, and zinc from the seafloor, while environmentalists have argued that seabed mining should not be permitted because of the potential damage to deep-sea ecosystems. So far, no actual commercial mining has taken place although at least one project is scheduled to start in 2018. Recently a new discovery has, perhaps somewhat paradoxically, renewed interest in undersea mining in order to help produce green energy.
 
 Tellurium is a rare metallic element, number 52 on the Periodic Table, which is a key component used in the fabrication of advanced solar panels. The [BBC recently reported](http://www.bbc.com/news/science-environment-39347620) that British scientists exploring an underwater mountain in the Atlantic Ocean have discovered a treasure trove of rare minerals, including a particularly rich source of tellurium.  The tellurium was reported to be in concentrations 50,000 times higher than in deposits on land. In addition to the tellurium, The rock samples also contained rare earth elements that are used in wind turbines and electronics. 
 

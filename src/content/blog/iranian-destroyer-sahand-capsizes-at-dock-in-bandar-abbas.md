@@ -12,12 +12,12 @@ tags:
   - "capsize"
   - "Iranian Moudge-class destroyer"
   - "Sahand"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/sahand.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/sahand.jpg"
 author: "Rick Spilman"
 description: "The Iranian Moudge-class destroyer Sahand capsized and sank in shallow water while undergoing dockside repairs in its home port of Bandar Abbas. The 1,300-tonne ship, commissioned in 2018, is one of the newest Iranian-built warships, fitted with surface-to-surface and surface-to-air … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/sahand.jpg)The Iranian [Moudge-class](https://en.wikipedia.org/wiki/Moudge-class_frigate) destroyer *[Sahand](https://en.wikipedia.org/wiki/IRIS_Sahand_\(2012\))* capsized and sank in shallow water while undergoing dockside repairs in its home port of Bandar Abbas. The 1,300-tonne ship, commissioned in 2018, is one of the newest Iranian-built warships, fitted with surface-to-surface and surface-to-air missiles, as well as anti-aircraft batteries and sophisticated radar and radar-evading capabilities.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/sahand.jpg)The Iranian [Moudge-class](https://en.wikipedia.org/wiki/Moudge-class_frigate) destroyer *[Sahand](https://en.wikipedia.org/wiki/IRIS_Sahand_\(2012\))* capsized and sank in shallow water while undergoing dockside repairs in its home port of Bandar Abbas. The 1,300-tonne ship, commissioned in 2018, is one of the newest Iranian-built warships, fitted with surface-to-surface and surface-to-air missiles, as well as anti-aircraft batteries and sophisticated radar and radar-evading capabilities.
 
 “As *Sahand* was being repaired at the wharf, it lost its balance due to water ingress. Fortunately… the vessel is being returned to balance quickly,” IRNA news service reported, citing a navy statement.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "gCaptain’s Captain John Konrad has a excellent post today that describes in detail why he believes that the destroyerUSS Fitzgerald was at fault in its recent collision with the container ship ACX Crystal.  He suggests a simple rule for avoiding collisions with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/gcaptainnbridge.jpg)gCaptain’s [Captain John Konrad](https://www.linkedin.com/in/gcaptain/) has a excellent [post today](https://gcaptain.com/uss-fitzgerald-fault/) that describes in detail why he believes that the destroyer*USS Fitzgerald* was at fault in its recent collision with the container ship *ACX Crystal*.  He suggests a simple rule for avoiding collisions with Navy warships is missing: “If it’s grey stay away.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/gcaptainnbridge.jpg)gCaptain’s [Captain John Konrad](https://www.linkedin.com/in/gcaptain/) has a excellent [post today](https://gcaptain.com/uss-fitzgerald-fault/) that describes in detail why he believes that the destroyer*USS Fitzgerald* was at fault in its recent collision with the container ship *ACX Crystal*.  He suggests a simple rule for avoiding collisions with Navy warships is missing: “If it’s grey stay away.”
 
 Konrad details the likely communications failures on the *Fitzgerald,* which are endemic on most Navy ships. He also describes the difference in training and focus of the merchant versus the naval captain, as well as the resources available to and responsibilities of each. And, no, he does not argue that the USS Fitzgerald was *solely* at fault. As he points out, “Under COLREGS, whenever two ships touch each other, both ships are to blame.”
 

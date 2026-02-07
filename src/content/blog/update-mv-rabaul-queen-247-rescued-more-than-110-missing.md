@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "As of Thursday evening, 246 survivors had been pulled from the sea, following the sinking of the passenger ferry MV Rabaul Queen off the coast of Papua New Guinea early Thursday.  Only one survivor was reported to be found on Friday.  According … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/new_guinea_rescue.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/new_guinea_rescue.jpg)
 
 Photo: AP /Post Courier
 

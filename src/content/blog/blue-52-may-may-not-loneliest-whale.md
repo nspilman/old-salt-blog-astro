@@ -11,12 +11,12 @@ tags:
   - "Blue-52"
   - "fin whale"
   - "Loneliest Whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/lonelywhale-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/lonelywhale-1.jpg"
 author: "Rick Spilman"
 description: "Somewhere in the vast North Pacific Ocean, there is a singular whale singing a unique song, which was first recorded in 1989. For close to thirty years, researchers monitoring anti-submarine hydrophone arrays have heard a whale call which is much higher than the calls … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/lonelywhale.jpg)](https://www.lonelywhale.org/#intro)Somewhere in the vast North Pacific Ocean, there is a singular whale singing a unique song, which was first recorded in 1989. For close to thirty years, researchers monitoring anti-submarine hydrophone arrays have heard a whale call which is much higher than the calls of other large whales. While most blue whale calls are around 10–25 hertz and fin whales tend to be around 20-hertz, this whale has been calling at 52-hertz. If most blue and fin whales are singing bass, this whale is an alto, at least by whale standards. 52-hertz is just higher than the lowest note on a tuba.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/lonelywhale.jpg)](https://www.lonelywhale.org/#intro)Somewhere in the vast North Pacific Ocean, there is a singular whale singing a unique song, which was first recorded in 1989. For close to thirty years, researchers monitoring anti-submarine hydrophone arrays have heard a whale call which is much higher than the calls of other large whales. While most blue whale calls are around 10–25 hertz and fin whales tend to be around 20-hertz, this whale has been calling at 52-hertz. If most blue and fin whales are singing bass, this whale is an alto, at least by whale standards. 52-hertz is just higher than the lowest note on a tuba.
 
 Scientists do not know even what type of whale it is. The whale’s movements have been similar to a blue whale but the timing of its calls are similar to fin whales.  Scientists at Woods Hole Oceanographic Institute speculate that it could be malformed, or a hybrid of a blue whale and another species. 
 

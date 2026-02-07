@@ -13,12 +13,12 @@ tags:
   - "Ireland"
   - "new york"
   - "Project Empower"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/dbrowne.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/dbrowne.jpg"
 author: "Rick Spilman"
 description: "Former-professional rugby player Damian Browne became the first person ever to row from New York to Galway.  Browne began the 112-day voyage, titled Project Empower, from Chelsea Piers in Manhattan on Tuesday, June 14 at 3.10am. After spending 2,686 hours … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/dbrowne.jpg)Former-professional rugby player Damian Browne became the first person ever to row from New York to Galway.  Browne began the 112-day voyage, titled Project Empower, from Chelsea Piers in Manhattan on Tuesday, June 14 at 3.10am.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/dbrowne.jpg)Former-professional rugby player Damian Browne became the first person ever to row from New York to Galway.  Browne began the 112-day voyage, titled Project Empower, from Chelsea Piers in Manhattan on Tuesday, June 14 at 3.10am.
 
 After spending 2,686 hours at sea and rowing over 3,450 nautical miles, Browne’s arrival in Ireland was particularly dramatic. When only seven miles from Galway harbor, Browne and his boat *Cushlamachree* were caught in a storm. [He said the boat flipped over in 30-to-35-knot winds](https://www.nytimes.com/2022/10/06/nyregion/damian-browne-atlantic-row-nyc-ireland.html) and slammed against rocks at Na Forbacha at Furbo Beach, Galway. An emergency services crew was dispatched and took him to safety. Browne received a hero’s welcome from friends, family, and well-wishers.
 

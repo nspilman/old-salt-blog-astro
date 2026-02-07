@@ -11,7 +11,7 @@ tags:
   - "Chesapeake Bay"
   - "container ship"
   - "Ever Forward"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/everfcrane.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/everfcrane.jpg"
 author: "Rick Spilman"
 description: "Stuck in Chesapeake Bay mud for more than five weeks, the container ship Ever Forward is finally free. Refloating the 1,100-foot long ship required discharging 500 containers and additional dredging but she was dragged by seven tugs from the mudbank … Continue reading &rarr;"
 ---

@@ -10,12 +10,12 @@ tags:
   - "Glassboro State College"
   - "Martin Creamer"
   - "navigational instruments"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/creamer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/creamer.jpg"
 author: "Rick Spilman"
 description: "Martin Creamer, who died recently at the age of 104, was a retired professor of geography at Glassboro State College, now Rowan University, in Glassboro, N.J. He is best remembered, however, for sailing around the world on a 36-foot sailboat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/creamer.jpg)[Martin Creamer](https://publicart.rowan.edu/artists/dr-marvin-creamer/), who died recently at the age of 104, was a retired professor of geography at Glassboro State College, now Rowan University, in Glassboro, N.J. He is best remembered, however, for sailing around the world on a 36-foot sailboat without the use of navigational instruments. That is without the use of a watch, a radio, a compass, a sextant, or GPS. He is believed to be the only person ever to do so.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/creamer.jpg)[Martin Creamer](https://publicart.rowan.edu/artists/dr-marvin-creamer/), who died recently at the age of 104, was a retired professor of geography at Glassboro State College, now Rowan University, in Glassboro, N.J. He is best remembered, however, for sailing around the world on a 36-foot sailboat without the use of navigational instruments. That is without the use of a watch, a radio, a compass, a sextant, or GPS. He is believed to be the only person ever to do so.
 
 At 66, Creamer set off on December 21, 1982, aboard his steel-hulled boat — the 36-foot *Globe Star.”*  His 513-day journey would entail nearly a year at sea, plus time in ports for repairs and reprovisioning.
 

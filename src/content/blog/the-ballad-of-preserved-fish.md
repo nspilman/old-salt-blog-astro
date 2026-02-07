@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A brief appreciation of the ship's captain, merchant and financier, Preserved Fish."
 ---
 
-![Preserved Fish](http://www.oldsaltblog.com/wp-content/uploads/2015/06/preservedfish.jpg)
+![Preserved Fish](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/preservedfish.jpg)
 
 Preserved Fish
 

@@ -9,12 +9,12 @@ categories:
 tags:
   - "Death Metal"
   - "Sharks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/sharkdm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/sharkdm.jpg"
 author: "Rick Spilman"
 description: "What does death metal music sound like to you? Apparently to sharks, death metal sounds like struggling fish. (Funny, that is kind of what it sounds like to me too.) Recently a documentary crew for the Discovery Channel experimented with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/sharkdm.jpg)What does [death metal](https://en.wikipedia.org/wiki/Death_metal) music sound like to you? Apparently to sharks, death metal sounds like struggling fish. (Funny, that is kind of what it sounds like to me too.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/sharkdm.jpg)What does [death metal](https://en.wikipedia.org/wiki/Death_metal) music sound like to you? Apparently to sharks, death metal sounds like struggling fish. (Funny, that is kind of what it sounds like to me too.)
 
 Recently a documentary crew for the Discovery Channel experimented with blasting death metal music underwater to attract sharks. They succeeded. Apparently, the low frequencies common in death metal music sound something like fish in distress to sharks, who come looking for dinner.  
 

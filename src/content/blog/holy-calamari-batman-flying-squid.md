@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Though often confused with flying fish, the Japanese flying squid, Todarodes pacificus, uses jet propulsion to leap out of the sea and fly up to 65ft to escape predators.   Graham Ekins, 60, a retired deputy head teacher from Boreham, Essex, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/flyingsquid.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/flyingsquid.jpg)
 
 Though often confused with flying fish, the [Japanese flying squid, *Todarodes pacificus*](http://en.wikipedia.org/wiki/Japanese_Flying_Squid), uses jet propulsion to leap out of the sea and fly up to 65ft to escape predators.   Graham Ekins, 60, a retired deputy head teacher from Boreham, Essex, recently documented their aerial performances in the waters south of Japan.  Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing the article along.
 

@@ -12,12 +12,12 @@ tags:
   - "megaliths"
   - "seafarers"
   - "Stonehenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/stonehenge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/stonehenge.jpg"
 author: "Rick Spilman"
 description: "For centuries, ancient megalithic monuments, such as Stonehenge, existing all across Europe, have been abiding mysteries. Who built them, how and why? A new study by Bettina Schulz Paulsson of the University of Gothenburg, Sweden may have at least one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/stonehenge.jpg)For centuries, ancient megalithic monuments, such as Stonehenge, existing all across Europe, have been abiding mysteries. Who built them, how and why?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/stonehenge.jpg)For centuries, ancient megalithic monuments, such as Stonehenge, existing all across Europe, have been abiding mysteries. Who built them, how and why?
 
 A [new study by Bettina Schulz Paulsson](https://www.pnas.org/content/116/9/3460) of the University of Gothenburg, Sweden may have at least one of the answers. Who built the monuments? She concludes that sailors spread the practice of building megalith monuments.
 

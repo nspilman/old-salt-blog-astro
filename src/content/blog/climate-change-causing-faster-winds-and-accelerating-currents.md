@@ -12,12 +12,12 @@ tags:
   - "ocean currents"
   - "rising wind speeds"
   - "Scientific American"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/oceancurrents.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/oceancurrents.jpg"
 author: "Rick Spilman"
 description: "Climate change is affecting the oceans in a wide variety of ways. Oceans are warming and acidifying as temperatures rise and CO2 increases. Sea levels are rising as polar ice caps melt. Recently a study suggests that ocean currents have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/oceancurrents.jpg)Climate change is affecting the oceans in a wide variety of ways. Oceans are warming and acidifying as temperatures rise and CO2 increases. Sea levels are rising as polar ice caps melt. Recently a study suggests that ocean currents have been accelerating, driven by rising wind speeds.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/oceancurrents.jpg)Climate change is affecting the oceans in a wide variety of ways. Oceans are warming and acidifying as temperatures rise and CO2 increases. Sea levels are rising as polar ice caps melt. Recently a study suggests that ocean currents have been accelerating, driven by rising wind speeds.
 
 [Scientific American](https://www.scientificamerican.com/article/ocean-currents-are-speeding-up-driven-by-faster-winds/) reports that a study published…in [Science Advances](https://advances.sciencemag.org/content/6/6/eaax7727) finds that global ocean circulation has been accelerating since the 1990s. The study examined decades of observations from instruments that monitor the seas’ kinetic energy—a measurement of how fast the water is moving.
 

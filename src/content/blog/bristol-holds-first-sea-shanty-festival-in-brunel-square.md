@@ -13,12 +13,12 @@ tags:
   - "Docks Heritage Weekend"
   - "SS Great Britain"
   - "The Matthew"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/bristolshanty.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bristolshanty.jpg"
 author: "Rick Spilman"
 description: "On Sunday, October 10, from noon to 6PM, Bristol, England will host its first sea shanty festival with ten shanty crews performing on outdoor stages on the city’s harborside. Classicalmusic.com reports that crews will perform in Brunel Square beside the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/bristolshanty.jpg)On Sunday, October 10, from noon to 6PM, Bristol, England will host its first sea shanty festival with ten shanty crews performing on outdoor stages on the city’s harborside.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bristolshanty.jpg)On Sunday, October 10, from noon to 6PM, Bristol, England will host its first sea shanty festival with ten shanty crews performing on outdoor stages on the city’s harborside.
 
 [Classicalmusic.com](https://www.classical-music.com/news/bristol-to-host-its-first-sea-shanty-festival/) reports that crews will perform in Brunel Square beside the iconic [SS *Great Britain*](https://www.ssgreatbritain.org/); on [The *Matthew*](https://matthew.co.uk/), a modern reconstruction of the original *Matthew* that sailed to Newfoundland in 1497; in Underfall Yard, a historic boatyard on Spike Island; and within the grounds of the SS *Great Britain* itself.
 

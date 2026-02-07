@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The biggest World War II bomb ever found in Poland exploded underwater on Tuesday as navy divers tried to defuse it with a remote control device. No one was injured in the explosion. During World War II, the British developed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/tallboy.jpg)The [biggest World War II bomb ever found in Poland](https://www.reuters.com/article/poland-bomb-tallboy/biggest-world-war-two-bomb-found-in-poland-explodes-while-being-defused-idINKBN26Y2IM) exploded underwater on Tuesday as navy divers tried to defuse it with a remote control device. No one was injured in the explosion.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/tallboy.jpg)The [biggest World War II bomb ever found in Poland](https://www.reuters.com/article/poland-bomb-tallboy/biggest-world-war-two-bomb-found-in-poland-explodes-while-being-defused-idINKBN26Y2IM) exploded underwater on Tuesday as navy divers tried to defuse it with a remote control device. No one was injured in the explosion.
 
 During World War II, the British developed the [tallboy](https://en.wikipedia.org/wiki/Tallboy_\(bomb\)), an “earthquake bomb,” designed to be used against large, heavily fortified structures. It also proved to be very effective against ships. The 12,000-pound bomb was packed with 5,200 pounds of high explosive and could only be carried in specially modified  [Avro Lancaster](https://en.wikipedia.org/wiki/Avro_Lancaster "Avro Lancaster") heavy bombers. 
 

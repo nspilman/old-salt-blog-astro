@@ -11,12 +11,12 @@ tags:
   - "River Seine"
   - "Sea Shepherd France"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/belugaseine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/belugaseine.jpg"
 author: "Rick Spilman"
 description: "Sad news. We recently posted about a wayward beluga whale that had been found swimming over 100 km up the River Seine in France. After the dangerously thin whale refused food, an attempt to rescue the whale was undertaken. Sadly, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/belugaseine.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/belugaseine.jpg)
 
 Photo: Twitter / Préfet de l’Eure
 

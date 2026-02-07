@@ -13,12 +13,12 @@ tags:
   - "Shetland"
   - "SM UC-55"
   - "Type UC II minelaying submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/s55.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/s55.jpg"
 author: "Rick Spilman"
 description: "Last Friday, July 21, divers dove 110m (361ft) beneath the waters off the Shetland Islands, about eight miles south-east of Lerwick, and positively identified the wreck of the SM UC-55, a German Type UC II minelaying submarine that was sunk … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/s55.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/s55.jpg)
 
 UC-55 wreckage. Photo: Jacob Mackenzie
 

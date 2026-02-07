@@ -13,12 +13,12 @@ tags:
   - "Sailors"
   - "skiff"
   - "SOS"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/sosbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/sosbeach.jpg"
 author: "Rick Spilman"
 description: "A recent news item brought to Gilligan’s Island, a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a \"three-hour tour\" was swept away in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/sosbeach.jpg)A recent news item brought to [Gilligan’s Island](https://en.wikipedia.org/wiki/Gilligan%27s_Island), a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a [“three-hour tour”](https://youtu.be/cfR7qxtgCgY) was swept away in a storm to an “uncharted desert isle.” Fortunately for all concerned, the sailors involved were stranded on an uninhabited island for only three days because they marked the beach with a large “SOS” to assist rescuers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/sosbeach.jpg)A recent news item brought to [Gilligan’s Island](https://en.wikipedia.org/wiki/Gilligan%27s_Island), a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a [“three-hour tour”](https://youtu.be/cfR7qxtgCgY) was swept away in a storm to an “uncharted desert isle.” Fortunately for all concerned, the sailors involved were stranded on an uninhabited island for only three days because they marked the beach with a large “SOS” to assist rescuers. 
 
 Recently three Micronesian sailors set off a 42km voyage from Pulawat to Pulap atolls but ran out of fuel. Their 23ft skiff ended up at Pikelot Island, nearly 200km west of where they had set off.  When the sailors were overdue, a search was initiated by authorities in Guam, a nearby US territory.  The US asked the Australian Navy to assist in the search and rescue.
 

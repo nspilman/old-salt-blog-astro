@@ -10,7 +10,7 @@ tags:
   - "Jonathan Atkin"
   - "Maritime Love Affair"
   - "ship shooter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/atkinmla.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/atkinmla.jpg"
 author: "Rick Spilman"
 description: "After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by \"ship shooter\" Jonathan Atkin. Maritime Love Affair from (mostly) above. from jonathan atkin on Vimeo. … Continue reading &rarr;"
 ---

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The brochure for for the cruise liner Lakonia promised \"A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.\" Now fifty years later, … Continue reading &rarr;"
 ---
 
-![lakoniaBurning1](http://www.oldsaltblog.com/wp-content/uploads/2013/12/lakoniaBurning1.jpg)The brochure for for the cruise liner [*Lakonia*](http://en.wikipedia.org/wiki/TSMS_Lakonia) promised “*A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.*”
+![lakoniaBurning1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/lakoniaBurning1.jpg)The brochure for for the cruise liner [*Lakonia*](http://en.wikipedia.org/wiki/TSMS_Lakonia) promised “*A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.*”
 
 Now fifty years later, the survivors and families of those aboard remember the last cruise of the *Lakonia,* which ended in disaster and the loss of 128 passengers and crew. Earlier this month, survivors unveiled a plaque on Gibraltar to commemorate those lost.  As reported by the *[Gibraltar Chronicle](http://www.chronicle.gi/headlines_details.php?id=32016):*
 

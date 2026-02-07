@@ -14,12 +14,12 @@ tags:
   - "Hell Roaring Mile Healy"
   - "United States Revenue Cutter Service"
   - "USS Bear"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/bear.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bear.jpg"
 author: "Rick Spilman"
 description: "The wreck of the legendary cutter USS Bear was recently identified off Cape Sable. The wreck was located in 2019 but it was only in August of this year that a team of experts looking at the evidence came to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/bear.jpg)The wreck of the legendary cutter [USS *Bear*](https://en.wikipedia.org/wiki/USS_Bear) was recently identified off Cape Sable. The wreck was located in 2019 but it was only in August of this year that a team of experts looking at the evidence came to the conclusion that [they are “reasonably certain” that the wreck is indeed the *Bear*,](https://www.theguardian.com/us-news/2021/oct/15/wreck-of-legendary-naval-cutter-uss-bear-found-off-coast-of-boston) officials of the US Coast Guard and National Oceanic and Atmospheric Administration said at a waterfront news conference in Boston.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/bear.jpg)The wreck of the legendary cutter [USS *Bear*](https://en.wikipedia.org/wiki/USS_Bear) was recently identified off Cape Sable. The wreck was located in 2019 but it was only in August of this year that a team of experts looking at the evidence came to the conclusion that [they are “reasonably certain” that the wreck is indeed the *Bear*,](https://www.theguardian.com/us-news/2021/oct/15/wreck-of-legendary-naval-cutter-uss-bear-found-off-coast-of-boston) officials of the US Coast Guard and National Oceanic and Atmospheric Administration said at a waterfront news conference in Boston.
 
 The *Bear* sank in 1963 about 260 miles east of Boston as it was being towed to Philadelphia, where it was going to be converted into a floating restaurant.
 

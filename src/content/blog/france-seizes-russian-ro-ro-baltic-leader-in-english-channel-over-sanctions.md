@@ -14,12 +14,12 @@ tags:
   - "Russian-flagged ro/ro cargo ship"
   - "sanctions"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/baltic-leader.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/baltic-leader.jpg"
 author: "Rick Spilman"
 description: "France seized a Russian-flagged ro/ro cargo ship, Baltic Leader, on Saturday, in the English Channel, in accordance with recent sanctions put in place following the Russian invasion of Ukraine. The ship was bound for St. Petersburg, Russia, but was diverted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/baltic-leader.jpg)France seized a Russian-flagged ro/ro cargo ship, *[Baltic Leader](https://www.vesselfinder.com/vessels/BALTIC-LEADER-IMO-9220639-MMSI-273297850),* on Saturday, in the English Channel, in accordance with recent sanctions put in place following the Russian invasion of Ukraine. The ship was bound for St. Petersburg, Russia, but was diverted to the port of Boulogne-sur-Mer in northern France between 3 a.m. and 4 a.m. (0200-0300 GMT), Captain Veronique Magnin of the French Maritime Prefecture told [Reuters](https://www.reuters.com/world/europe/france-seizes-ship-suspected-violating-russia-sanctions-official-2022-02-26/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/baltic-leader.jpg)France seized a Russian-flagged ro/ro cargo ship, *[Baltic Leader](https://www.vesselfinder.com/vessels/BALTIC-LEADER-IMO-9220639-MMSI-273297850),* on Saturday, in the English Channel, in accordance with recent sanctions put in place following the Russian invasion of Ukraine. The ship was bound for St. Petersburg, Russia, but was diverted to the port of Boulogne-sur-Mer in northern France between 3 a.m. and 4 a.m. (0200-0300 GMT), Captain Veronique Magnin of the French Maritime Prefecture told [Reuters](https://www.reuters.com/world/europe/france-seizes-ship-suspected-violating-russia-sanctions-official-2022-02-26/).
 
 The vessel was “strongly suspected of being linked to Russian interests targeted by the sanctions,” she said.
 

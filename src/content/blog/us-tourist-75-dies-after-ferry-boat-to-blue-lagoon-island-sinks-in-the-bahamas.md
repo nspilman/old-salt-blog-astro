@@ -14,12 +14,12 @@ tags:
   - "ferry boat"
   - "Nassau"
   - "partial capsize"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/bluelagooonsinking.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/bluelagooonsinking.jpg"
 author: "Rick Spilman"
 description: "A popular, full-day excursion to Blue Lagoon Island, from a cruise ship docked in Nassau in the Bahamas, ended in tragedy on Tuesday when a ferry boat loaded with 100 passengers rolled over and sank in choppy waters. A 75-year-old … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/bluelagooonsinking.jpg)A popular, full-day excursion to [Blue Lagoon Island](https://www.tripadvisor.com/Attraction_Review-g147416-d149861-Reviews-Blue_Lagoon_Island-Nassau_New_Providence_Island_Bahamas.html), from a cruise ship docked in Nassau in the Bahamas, ended in tragedy on Tuesday when a ferry boat loaded with 100 passengers rolled over and sank in choppy waters. A 75-year-old American woman from Colorado died in the partial capsize.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/bluelagooonsinking.jpg)A popular, full-day excursion to [Blue Lagoon Island](https://www.tripadvisor.com/Attraction_Review-g147416-d149861-Reviews-Blue_Lagoon_Island-Nassau_New_Providence_Island_Bahamas.html), from a cruise ship docked in Nassau in the Bahamas, ended in tragedy on Tuesday when a ferry boat loaded with 100 passengers rolled over and sank in choppy waters. A 75-year-old American woman from Colorado died in the partial capsize.
 
 The [NY Post](https://nypost.com/2023/11/15/news/american-tourist-75-dies-after-bahamas-excursion-boat-capsizes-on-trip-to-blue-lagoon/) reports that the ferry was nearing its destination when conditions on the water began to deteriorate.
 

@@ -16,12 +16,12 @@ tags:
   - "Newfoundland"
   - "Norse"
   - "White Sands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/whitesandfootprints.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/whitesandfootprints.jpg"
 author: "Rick Spilman"
 description: "Like millions of other children, I was taught that Christopher Columbus discovered America in 1492.  Then when I was seven years old, the site of the Norse settlement at L’Anse aux Meadows, Newfoundland was discovered and I learned that Columbus … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/whitesandfootprints.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/whitesandfootprints.jpg)
 
 Ancient human footprints from White Sands. Photo: national Parks Service
 

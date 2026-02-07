@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "After damaging a wingtip that extended beyond the side of the barge when the Space Shuttle Enterprise was moved from Kennedy Airport on Sunday, today the shuttle was moved to a larger barge for its last and shorter leg of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/11134187-large.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/11134187-large.jpg)
 
 The Space Shuttle Enterprise at Weeks Marine as seen from Port Jersey Boulevard in Jersey City on Tuesday, June 5, 2012, being moved to a larger barge. Photo: Reena Rose Sibayan/The Jersey Journal
 

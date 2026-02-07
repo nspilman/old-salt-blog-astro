@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "Engineers from MIT have developed a new means of predicting the formation of rogue waves, which may give mariners a two to three-minute warning."
 ---
 
-![Image: MIT News](http://www.oldsaltblog.com/wp-content/uploads/2016/03/mitwave.jpg)
+![Image: MIT News](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/mitwave.jpg)
 
 Image: MIT News
 

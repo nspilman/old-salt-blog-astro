@@ -18,7 +18,7 @@ description: "A wonderful, if odd, account reported by Robert Mackey in the NY T
 
 A wonderful, if odd, account reported by [Robert Mackey in the NY Time Lede blog](http://thelede.blogs.nytimes.com/2009/04/15/china-reports-dolphins-foiled-pirate-attack/):
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/15lede_dolphins.480.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/15lede_dolphins.480.jpg)
 
 [China Reports Dolphins Foiled Pirate Attack](http://thelede.blogs.nytimes.com/2009/04/15/china-reports-dolphins-foiled-pirate-attack/)
 

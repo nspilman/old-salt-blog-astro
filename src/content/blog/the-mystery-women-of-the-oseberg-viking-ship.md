@@ -14,12 +14,12 @@ tags:
   - "Oslo"
   - "two women"
   - "Viking Ship Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/osebership.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/osebership.jpg"
 author: "Rick Spilman"
 description: "Here is a post suitable for Halloween. It is not a ghost story but rather the tale of two mysterious skeletons found in a Viking ship discovered in a large burial mound at the Oseberg farm near Tønsberg in Vestfold … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/osebership.jpg)Here is a post suitable for Halloween. It is not a ghost story but rather the tale of two mysterious skeletons found in a [Viking ship](https://en.wikipedia.org/wiki/Oseberg_Ship) discovered in a large burial mound at the Oseberg farm near Tønsberg in Vestfold og Telemark county, Norway. The ship itself, dating back to the early 800s AD, is among the best-preserved vessels to have survived from the Viking era. As beautiful and fascinating as the ship is, what is truly intriguing are the remains of the two individuals laid to rest inside the ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/osebership.jpg)Here is a post suitable for Halloween. It is not a ghost story but rather the tale of two mysterious skeletons found in a [Viking ship](https://en.wikipedia.org/wiki/Oseberg_Ship) discovered in a large burial mound at the Oseberg farm near Tønsberg in Vestfold og Telemark county, Norway. The ship itself, dating back to the early 800s AD, is among the best-preserved vessels to have survived from the Viking era. As beautiful and fascinating as the ship is, what is truly intriguing are the remains of the two individuals laid to rest inside the ship.
 
 Ship burials were reserved for the most powerful and wealthiest of the elites of their time. But rather than finding that the Oseberg ship was the burial place of a king or mighty warlord, DNA studies revealed that the partial skeletons in the ship were the remains of two women. The elder is believed to have been roughly 80 when she died, while the younger woman must have been around 40. The women were found together in one bed.
 

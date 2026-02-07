@@ -11,7 +11,7 @@ tags:
   - "Bivalve"
   - "oysters"
   - "Port Norris"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/bivalve.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/bivalve.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful short video from 1993, which visits Bivalve and Shellpile, the last of New Jersey’s oystering communities, near Port Norris, where the Maurice River meets the Delaware Bay. The oystering industry was once highly profitable. Port Norris … Continue reading &rarr;"
 ---

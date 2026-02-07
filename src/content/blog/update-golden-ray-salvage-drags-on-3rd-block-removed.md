@@ -14,12 +14,12 @@ tags:
   - "Golden Ray"
   - "Hurricane season"
   - "VB-10000"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/goldenray-sect2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/goldenray-sect2.jpg"
 author: "Rick Spilman"
 description: "Last November, salvors began cutting up the Golden Ray and predicted that the job would be completed by the New Year.  Now, five months later, the job is less than half-finished and the new target for completion looks more like … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/goldenray-sect2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/goldenray-sect2.jpg)
 
 Last November, salvors began cutting up the [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) and predicted that the job would be completed by the New Year.  Now, five months later, the job is less than half-finished and the new target for completion looks more like June 2021.  
 

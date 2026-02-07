@@ -13,12 +13,12 @@ tags:
   - "Normandy"
   - "Royal Navy"
   - "World War 2. bomb disposal diver"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/lastbombdisposal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/lastbombdisposal.jpg"
 author: "Rick Spilman"
 description: "From the Royal Navy News: The last surviving World War 2 bomb disposal diver was honoured during a visit to the Diving Museum in Gosport. John Payne, now 96, was on the first ‘P’ Party 1571 group – a select team … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/lastbombdisposal.jpg)From the [Royal Navy News](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/september/02/20210902-p-diver): The last surviving World War 2 bomb disposal diver was honoured during a visit to the Diving Museum in Gosport.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/lastbombdisposal.jpg)From the [Royal Navy News](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/september/02/20210902-p-diver): The last surviving World War 2 bomb disposal diver was honoured during a visit to the Diving Museum in Gosport.
 
 John Payne, now 96, was on the first ‘P’ Party 1571 group – a select team of divers who cleared mines and unexploded bombs from harbours and ports in occupied Europe.
 

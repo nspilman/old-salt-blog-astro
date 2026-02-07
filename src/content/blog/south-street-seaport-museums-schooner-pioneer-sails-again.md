@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This weekend,  the South Street Seaport Museum’s schooner Pioneer set sail again from the seaport in New York’s East River.  After two summers of sitting tied to the dock the venerable old schooner, built of iron in 1885, is again carrying passengers on regular sails in … Continue reading &rarr;"
 ---
 
-![SeaportPioneerRichardDorfman](http://www.oldsaltblog.com/wp-content/uploads/2013/05/SeaportPioneerRichardDorfman.jpg)
+![SeaportPioneerRichardDorfman](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/SeaportPioneerRichardDorfman.jpg)
 
 Captain Richard Dorfman at the helm of the schooner Pioneer – Photo by Terese Loeb Kreuzer
 

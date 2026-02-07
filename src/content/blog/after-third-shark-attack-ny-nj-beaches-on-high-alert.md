@@ -12,12 +12,12 @@ tags:
   - "Jones Beach"
   - "new york"
   - "shark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/sharkwarning.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sharkwarning.jpg"
 author: "Rick Spilman"
 description: "The bad news is that there have been three reported shark attacks off New York’s beaches in just over a week. The good news is that the injuries, so far, have been minor. Nevertheless, beaches in New York and along … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/sharkwarning.jpg)The bad news is that there have been three reported shark attacks off New York’s beaches in just over a week. The good news is that the injuries, so far, have been minor. Nevertheless, beaches in New York and along the Jersey Shore are on high alert, flying red flags near beach signs and purple flags in lifeguard areas to alert visitors of the potential danger.  Lifeguards are patrolling on paddle boards and jet skis, while overhead, helicopters and drones are helping to watch for sharks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sharkwarning.jpg)The bad news is that there have been three reported shark attacks off New York’s beaches in just over a week. The good news is that the injuries, so far, have been minor. Nevertheless, beaches in New York and along the Jersey Shore are on high alert, flying red flags near beach signs and purple flags in lifeguard areas to alert visitors of the potential danger.  Lifeguards are patrolling on paddle boards and jet skis, while overhead, helicopters and drones are helping to watch for sharks.
 
 Last Thursday, a 17-year-old lifeguard was participating in a training exercise off Ocean Beach on Fire Island, when [he was bitten around the ankle](https://abc7ny.com/shark-attack-long-island-lifeguard-bitten-attacks-ocean-beach/12028972/). The injury required stitches but was not life-threatening. Officials with the Town of Islip say experts told them it was most likely a sand tiger shark about three to five feet in length.
 

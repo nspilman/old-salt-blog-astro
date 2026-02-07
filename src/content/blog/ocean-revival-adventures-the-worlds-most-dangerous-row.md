@@ -13,12 +13,12 @@ tags:
   - "Ocean Revival"
   - "Plastic Oceans"
   - "Royal Marines Charity"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/rb2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/rb2.jpg"
 author: "Rick Spilman"
 description: "While getting our boat ready to move to her summer mooring, I had the good fortune to meet Ian Clinton and Simon Chalk, members of the Ocean Revival Adventures crew, waiting with their ocean rowing boats at Liberty Landing in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/rb2.jpg)While getting our boat ready to move to her summer mooring, I had the good fortune to meet [Ian Clinton and Simon Chalk](https://oceanrevivaladventures.com/the-crew/), members of the Ocean Revival Adventures crew, waiting with their ocean rowing boats at Liberty Landing in New York harbor for a suitable weather window to set off on what has been dubbed the “world’s most dangerous row.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/rb2.jpg)While getting our boat ready to move to her summer mooring, I had the good fortune to meet [Ian Clinton and Simon Chalk](https://oceanrevivaladventures.com/the-crew/), members of the Ocean Revival Adventures crew, waiting with their ocean rowing boats at Liberty Landing in New York harbor for a suitable weather window to set off on what has been dubbed the “world’s most dangerous row.”
 
 From their [website](https://oceanrevivaladventures.com/):  Ocean Revival 2020 is a team of serving and former serving Royal Marine Commandos, who have fought alongside each other in 45 Commando. They have now teamed up to take the fight against plastic by rowing across the North Atlantic Ocean, rowing a route that has never been completed before and one that is statistically the most dangerous and arduous ocean row to attempt.
 

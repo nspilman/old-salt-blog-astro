@@ -14,12 +14,12 @@ tags:
   - "Google"
   - "Oceana"
   - "SkyTruth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/fishingvesselsais.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/fishingvesselsais.jpg"
 author: "Rick Spilman"
 description: "Way back in 2015, we posted – Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed? The post described a new project in which Google partnered with SkyTruth and Oceana to produce a tool to track global fishing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/fishingvesselsais.jpg)Way back in 2015, we posted – [Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?](https://www.oldsaltblog.com/2015/11/can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed/) The post described a new project in which Google partnered with [SkyTruth](https://skytruth.org/) and [Oceana](https://oceana.org/) to produce a tool to track global fishing activity, in hopes of identifying and cracking down on illegal fishing. Known as [Global Fishing Watch](https://globalfishingwatch.org/) (GFW) the interactive web tool uses satellite data to provide detailed vessel tracking and aims to harness the power of citizen engagement to tackle the issue of overfishing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/fishingvesselsais.jpg)Way back in 2015, we posted – [Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?](https://www.oldsaltblog.com/2015/11/can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed/) The post described a new project in which Google partnered with [SkyTruth](https://skytruth.org/) and [Oceana](https://oceana.org/) to produce a tool to track global fishing activity, in hopes of identifying and cracking down on illegal fishing. Known as [Global Fishing Watch](https://globalfishingwatch.org/) (GFW) the interactive web tool uses satellite data to provide detailed vessel tracking and aims to harness the power of citizen engagement to tackle the issue of overfishing.
 
 Now, almost a decade later, the answer to our original question “Will Google’s Global Fishing Watch succeed?” is a muddled “yes” and “no”.
 

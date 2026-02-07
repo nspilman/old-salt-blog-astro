@@ -11,12 +11,12 @@ tags:
   - "New York City"
   - "screening"
   - "USNS Comfort"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/usnscomfort2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/usnscomfort2.jpg"
 author: "Rick Spilman"
 description: "The Navy hospital ship USNS Comfort  is currently steaming north toward New York harbor to help support the city hospital system during the coronavirus crisis. The ship will dock at a newly dredged berth at Pier 90 on the Hudson … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/usnscomfort2.jpg)The Navy hospital ship [USNS *Comfort*](https://en.wikipedia.org/wiki/USNS_Comfort_\(T-AH-20\))  is currently steaming north toward New York harbor to help support the city hospital system during the coronavirus crisis. The ship will dock at a [newly dredged berth at Pier 90](https://www.usatoday.com/story/travel/cruises/2020/03/28/covid-19-cruise-terminal-nyc-preparing-arrival-usns-comfort/2932926001/) on the Hudson River.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/usnscomfort2.jpg)The Navy hospital ship [USNS *Comfort*](https://en.wikipedia.org/wiki/USNS_Comfort_\(T-AH-20\))  is currently steaming north toward New York harbor to help support the city hospital system during the coronavirus crisis. The ship will dock at a [newly dredged berth at Pier 90](https://www.usatoday.com/story/travel/cruises/2020/03/28/covid-19-cruise-terminal-nyc-preparing-arrival-usns-comfort/2932926001/) on the Hudson River.
 
 The ship does not have the facilities or equipment to cope with an infectious disease outbreak, so the *Comfort* will take overflow patients who do not have the coronavirus, from other New York hospitals. There is a concern, however, whether the more than 1,200 personnel aboard have been adequately screened for the Covid-19 virus.
 

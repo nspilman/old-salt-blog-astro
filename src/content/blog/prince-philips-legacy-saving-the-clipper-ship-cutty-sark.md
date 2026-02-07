@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Great Britain’s Prince Philip, the Duke of Edinburgh, died yesterday at the age of 99. He has been referred to as a sailor prince. The grandson of an admiral of the fleet and first sea lord, he was commissioned as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/cuttysarkbow1.jpg)Great Britain’s [Prince Philip, the Duke of Edinburgh](https://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html), died yesterday at the age of 99. He has been referred to as a sailor prince. The grandson of an admiral of the fleet and first sea lord, he was commissioned as a midshipman in the Royal Navy at 19. He would earn decorations for valor during World War II. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/cuttysarkbow1.jpg)Great Britain’s [Prince Philip, the Duke of Edinburgh](https://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html), died yesterday at the age of 99. He has been referred to as a sailor prince. The grandson of an admiral of the fleet and first sea lord, he was commissioned as a midshipman in the Royal Navy at 19. He would earn decorations for valor during World War II. 
 
 The Duke was a patron for many charities and causes but may be best remembered by the nautical community for his efforts to save and restore the world’s only remaining tea clipper, the [*Cutty Sark*](https://www.bbc.com/news/uk-england-london-50515857).
 

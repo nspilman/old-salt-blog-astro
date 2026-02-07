@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "With the advent of climate change red tide outbreaks have grown more frequent. A red tide occurs when certain types of algae grow out of control. The name \"red tide\" comes from the fact that overgrowth of algae can cause … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/redtidebluewave.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/redtidebluewave.jpg)
 
 Photo: Patrick Coyne
 

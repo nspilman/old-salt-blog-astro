@@ -10,12 +10,12 @@ tags:
   - "Charlotte Harris"
   - "Jessica Oliver"
   - "Talisker Whisky Atlantic Challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/taliskerecord.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/taliskerecord.jpg"
 author: "Rick Spilman"
 description: "Congratulations to rowers Jessica Oliver and Charlotte Harris who finished five days ahead of their nearest rivals in the pairs category of the Talisker Whisky Atlantic Challenge when they rowed into Antigua on January 26 after starting from La Gomera … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/taliskerecord.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/taliskerecord.jpg)
 
 Photo: Atlantic Campaigns Pennybird SWNS
 

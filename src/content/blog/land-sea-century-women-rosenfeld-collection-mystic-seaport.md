@@ -9,7 +9,7 @@ tags:
   - "mystic seaport"
   - "Rosenfeld"
   - "women"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/lSMystic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/lSMystic.jpg"
 author: "Rick Spilman"
 description: "In 2011, we posted about the Rosenfeld Collection at the Mystic Seaport with a particular focus on their maritime photography. Mystic Seaport has a new exhibit of another aspect of the work of the Rosenfelds \"On Land and On Sea: A … Continue reading &rarr;"
 ---

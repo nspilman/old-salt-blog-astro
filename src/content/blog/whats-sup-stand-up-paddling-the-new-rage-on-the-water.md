@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "About a year ago, I saw what appeared to be a man standing up in the middle of the Hudson River. That is about all I could see.  He appeared to making a sweeping motion with his hands and arms … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/sup.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/sup.jpg)
 
 About a year ago, I saw what appeared to be a man standing up in the middle of the Hudson River. That is about all I could see.  He appeared to making a sweeping motion with his hands and arms and looked to be holding a broom stick of some sort.  As he got closer I could see that he was standing on a rather wide surf board and the  broomstick was a paddle. He was paddling standing up, which to a kayaker like myself seemed both tiring and a bit perilous.
 

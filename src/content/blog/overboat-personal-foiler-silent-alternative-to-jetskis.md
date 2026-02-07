@@ -11,7 +11,7 @@ tags:
   - "Neoocean"
   - "Overboat"
   - "Yachting World"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/overboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/overboat.jpg"
 author: "Rick Spilman"
 description: "Here is a short demonstration video from Toby Hodges at Yachting World of Neoocean’s Overboat electric personal foiler. Unlike the noisy and generally noxious jetski, the Overboat is practically silent, uses roughly 80% less energy than a comparable outboard motor-driven … Continue reading &rarr;"
 ---

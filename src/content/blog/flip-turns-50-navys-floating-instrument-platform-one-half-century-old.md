@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it \"flips\" vertically 90 degrees and becomes the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/croppedflip.3.jpg)The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it “flips” vertically 90 degrees and becomes the equivalent of a massive spar buoy.   Because the hydrodynamic forces act primarily on the bottom of the vessel, which is far below the surface waves, the ship is highly stable in heavy seas and up to 80′ waves.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/croppedflip.3.jpg)The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it “flips” vertically 90 degrees and becomes the equivalent of a massive spar buoy.   Because the hydrodynamic forces act primarily on the bottom of the vessel, which is far below the surface waves, the ship is highly stable in heavy seas and up to 80′ waves.
 
 [Bizarre ‘flipping’ research ship turns 50](http://news.cnet.com/8301-17938_105-57465526-1/bizarre-flipping-research-ship-turns-50/)
 

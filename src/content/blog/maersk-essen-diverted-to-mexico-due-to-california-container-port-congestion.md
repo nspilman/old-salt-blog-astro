@@ -14,12 +14,12 @@ tags:
   - "Maersk Essen"
   - "pandemic"
   - "port congestion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/messen2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/messen2.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the Maersk Essen that recently lost 750 containers over the side in a  storm in the North Pacific. An unknown number of containers still aboard the ship are believed to have been damaged during the storm. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/messen2.jpg)Yesterday, we posted about the [*Maersk Essen* that recently lost 750 containers](http://www.oldsaltblog.com/2021/01/maersk-essen-loses-750-boxes-overboard-in-north-pacific/) over the side in a  storm in the North Pacific. An unknown number of containers still aboard the ship are believed to have been damaged during the storm. The ship was originally scheduled to dock in Los Angeles but has now been diverted to Port of Lázaro Cárdenas, where it is expected to spend some time alongside taking off damaged boxes on deck. The ship will also be surveyed for storm damage. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/messen2.jpg)Yesterday, we posted about the [*Maersk Essen* that recently lost 750 containers](http://www.oldsaltblog.com/2021/01/maersk-essen-loses-750-boxes-overboard-in-north-pacific/) over the side in a  storm in the North Pacific. An unknown number of containers still aboard the ship are believed to have been damaged during the storm. The ship was originally scheduled to dock in Los Angeles but has now been diverted to Port of Lázaro Cárdenas, where it is expected to spend some time alongside taking off damaged boxes on deck. The ship will also be surveyed for storm damage. 
 
 The ship was diverted due to [extraordinary container port congestion in Southern California](https://www.freightwaves.com/news/inside-californias-colossal-container-ship-traffic-jam). The Port of Los Angeles, the busiest container port in the Western Hemisphere, is absolutely jammed with container ships. Recently, there were over 30 container ships at anchor in San Pedro Bay off Los Angeles and Long Beach waiting for berths. Container loading and discharge operations, designed for the fast turn-around of the ships in port, have slowed dramatically. 
 

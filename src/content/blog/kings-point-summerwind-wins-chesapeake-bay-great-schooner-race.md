@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The  Summerwind, a 1929 Alden schooner, donated to the US Merchant Marine Academy at Kings Point just last year by Mr. and Mrs. J. Don Williamson,  won the Class AA division of the Great Chesapeake Bay Schooner Race on corrected time.  The other … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/summerwind.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/summerwind.jpg)
 
 King's Point schooner Summerwind
 

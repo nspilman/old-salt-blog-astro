@@ -11,7 +11,7 @@ tags:
   - "five-masted barque"
   - "Golden Horizon"
   - "Tradewind Voayages"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/goldenhorizon.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/goldenhorizon.jpg"
 author: "Rick Spilman"
 description: "Tradewind Voyages Golden Horizon has recently embarked on her maiden voyage, after a brief delay. As she set sail on a four-day voyage from Dover, UK, the ship was forced to turn around due to a financial dispute between the … Continue reading &rarr;"
 ---

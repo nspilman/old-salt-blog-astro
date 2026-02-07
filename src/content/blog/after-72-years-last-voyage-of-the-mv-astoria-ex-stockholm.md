@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be \"nearing its final voyage.\" The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/stockholm.jpg)[Brittany Shammas](https://www.washingtonpost.com/history/2020/01/29/historic-cruise-ship/) of the Washington Post recently wrote that the ship originally built as MS *Stockholm,* just after World War II, is likely to be “nearing its final voyage.” The 72-year-old ship is one of the oldest cruise ships in service.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/stockholm.jpg)[Brittany Shammas](https://www.washingtonpost.com/history/2020/01/29/historic-cruise-ship/) of the Washington Post recently wrote that the ship originally built as MS *Stockholm,* just after World War II, is likely to be “nearing its final voyage.” The 72-year-old ship is one of the oldest cruise ships in service.
 
 The ship has gone by many names. Including MS *Stockholm*, she has sailed as *Völkerfreundschaft*, *Volker*, *Fridtjof Nansen*, *Italia I*, *Italia Prima*, *Valtur Prima*, *Caribe*, *Athena*, and *Azores.* Since 2016 she has operated as *[Astoria](https://en.wikipedia.org/wiki/MV_Astoria),* operated by [Cruise and Maritime Voyages](https://en.wikipedia.org/wiki/Cruise_%26_Maritime_Voyages) (CMV). CMV has announced that the 2020 season will be the old ship’s last.
 

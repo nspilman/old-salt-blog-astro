@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "When I was in high school in Flordia, before I learned the error of my ways and become a sailor, I ran all over Boca Ciega Bay and the around the mouth of Tampa Bay in an outboard motor powered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/76281_uss-narcissus.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/76281_uss-narcissus.jpg)
 
 Wreckage of the USS Narcissus
 

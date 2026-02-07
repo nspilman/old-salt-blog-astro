@@ -16,7 +16,7 @@ description: "For something so relatively new, we take the internet very much 
 
 [](http://www.submarinecablemap.com/)
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/underseacable1.jpg)](http://www.submarinecablemap.com/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/underseacable1.jpg)](http://www.submarinecablemap.com/)
 
 Click for a larger image
 
@@ -26,7 +26,7 @@ For something so relatively new, we take the internet very much for granted. �
   
 [](http://upload.wikimedia.org/wikipedia/commons/a/a5/1901_Eastern_Telegraph_cables.png)
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/740px-1901_Eastern_Telegrap.jpg)](http://en.wikipedia.org/wiki/File:1901_Eastern_Telegraph_cables.png)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/740px-1901_Eastern_Telegrap.jpg)](http://en.wikipedia.org/wiki/File:1901_Eastern_Telegraph_cables.png)
 
 Click for a larger image
 

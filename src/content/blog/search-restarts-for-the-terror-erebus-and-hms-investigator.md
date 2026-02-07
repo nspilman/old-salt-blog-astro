@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "After a season’s delay due to lack of access to icebreakers, Parks Canada is renewing its search for Franklin’s ship’s Erebus and Terror.  They will also be searching for the HMS Investigator, a ship which was caught in the ice … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/shipsfranklin.jpg)After a season’s delay due to lack of access to icebreakers, Parks Canada is renewing its search for Franklin’s ship’s *[Erebus](http://en.wikipedia.org/wiki/HMS_Erebus_\(1826\))* and *[Terror](http://en.wikipedia.org/wiki/HMS_Terror_\(1813\))*.  They will also be searching for the *[HMS Investigator](http://en.wikipedia.org/wiki/HMS_Investigator_\(1848\))*[,](http://en.wikipedia.org/wiki/HMS_Investigator_\(1848\)) a ship which was caught in the ice and sank when sent to search for Franklin.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipsfranklin.jpg)After a season’s delay due to lack of access to icebreakers, Parks Canada is renewing its search for Franklin’s ship’s *[Erebus](http://en.wikipedia.org/wiki/HMS_Erebus_\(1826\))* and *[Terror](http://en.wikipedia.org/wiki/HMS_Terror_\(1813\))*.  They will also be searching for the *[HMS Investigator](http://en.wikipedia.org/wiki/HMS_Investigator_\(1848\))*[,](http://en.wikipedia.org/wiki/HMS_Investigator_\(1848\)) a ship which was caught in the ice and sank when sent to search for Franklin.
 
 [Parks Canada mounting summertime search for three storied Arctic wrecks](http://www.thestarphoenix.com/technology/Parks+Canada+mounting+summertime+search+three+storied+Arctic+wrecks/3203345/story.html)
 

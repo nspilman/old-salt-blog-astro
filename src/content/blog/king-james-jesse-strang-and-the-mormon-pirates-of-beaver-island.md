@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We recently posted about the Michigan State Senate passing a resolution which officially recognized \"International Talk Like a Pirate Day\". (It appears that they nothing better to do, in a state with a gaping budget deficit, collapsing cities and failing schools. … Continue reading &rarr;"
 ---
 
-![James Jesse Strang](http://www.oldsaltblog.com/wp-content/uploads/2013/06/220px-James_Strang_daguerreotype_1856.jpg)
+![James Jesse Strang](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/220px-James_Strang_daguerreotype_1856.jpg)
 
 James Jesse Strang
 

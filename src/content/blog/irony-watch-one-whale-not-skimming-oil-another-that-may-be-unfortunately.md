@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named \"A Whale\" has not yet proven effective in skimming oil from the water, though modifications and testing continue. ‘A Whale’ oil skimmer testing extended a week Unfortunately, whale … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/whaleshark.jpg)A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named [“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[A Whale](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/) has not yet proven effective in skimming oil from the water, though modifications and testing continue.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whaleshark.jpg)A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named [“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[A Whale](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/) has not yet proven effective in skimming oil from the water, though modifications and testing continue.
 
 [‘A Whale’ oil skimmer testing extended a week](http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/07/a_whale_oil_skimmer_testing_ex.html)
 

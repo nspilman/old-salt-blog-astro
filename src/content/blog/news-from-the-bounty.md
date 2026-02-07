@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "\"HMS\" Bounty, the replica of the ship of the mutiny fame, built for the Marlon Brando movie of 1965, is on her way home from her European Summer cruise.  Doug Faunt, with whom I briefly sailed on the Rose, has been … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/bbird.jpg)](http://www.tallshipbounty.org/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/bbird.jpg)](http://www.tallshipbounty.org/)
 
 Photo by Robert Sawyer
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "We have previously posted about the experimental sailboat Plastiki, built using  12,500 recycled soda bottles.  The craft sailed last March from San Francisco and has now arrived in Sydney, Australia after a voyage of 9,000 miles (15,000 km.) Boat made from plastic bottles completes Pacific voyage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/plastiki2.jpg)We have previously posted about the experimental sailboat [Plastiki](http://www.oldsaltblog.com/index.php?s=plastiki), built using  12,500 recycled soda bottles.  The craft sailed last March from San Francisco and has now arrived in Sydney, Australia after a voyage of 9,000 miles (15,000 km.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/plastiki2.jpg)We have previously posted about the experimental sailboat [Plastiki](http://www.oldsaltblog.com/index.php?s=plastiki), built using  12,500 recycled soda bottles.  The craft sailed last March from San Francisco and has now arrived in Sydney, Australia after a voyage of 9,000 miles (15,000 km.)
 
 [Boat made from plastic bottles completes Pacific voyage](http://www.bbc.co.uk/news/world-asia-pacific-10759623)  
   

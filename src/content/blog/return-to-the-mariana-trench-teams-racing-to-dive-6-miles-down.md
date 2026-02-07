@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Fifty two years ago, U.S. Navy Lieutenant Don Walsh and oceanographer Jacques Piccard dove to the bottom of the Mariana Trench in the bathyscaphe Trieste. They were the first, and so far, the only humans to have ventured to the deepest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/VO_sub_landscape.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/VO_sub_landscape.jpg)
 
 Virgin Deep Flight Challenger, submersible from one of possibly four attempts to return to the bottom of the Mariana Trench
 

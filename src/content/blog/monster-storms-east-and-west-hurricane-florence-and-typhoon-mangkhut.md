@@ -13,12 +13,12 @@ tags:
   - "Pacific"
   - "Philippines"
   - "Typhoon Mangkhut"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/hurricanes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/hurricanes.jpg"
 author: "Rick Spilman"
 description: "Two monster storms are bearing down on vulnerable coastlines on opposite sides of the globe. In the Atlantic,  Hurricane Florence, now a Category 2 storm, is sending lashing winds, powerful rains and the threat of major flooding as it approaches the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/hurricanes.jpg)Two monster storms are bearing down on vulnerable coastlines on opposite sides of the globe. In the Atlantic,  [Hurricane Florence](https://www.washingtonpost.com/news/post-nation/wp/2018/09/13/the-water-is-the-devil-hurricane-florence-roars-closer-to-the-southeast-with-punishing-rain-wind/?utm_term=.5e783859aee5), now a Category 2 storm, is sending lashing winds, powerful rains and the threat of major flooding as it approaches the coast of the Carolinas. In the Pacific, [Super Typhoon Mangkhut](https://www.cnn.com/2018/09/12/asia/super-typhoon-ompong-mangkhut-wxc-intl/index.html) is still gathering strength as it nears the northern Philippines. With winds of 180 mph, Mangkhut is equivalent to a Category 5 Hurricane. It is expected to make landfall on Luzon island Saturday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/hurricanes.jpg)Two monster storms are bearing down on vulnerable coastlines on opposite sides of the globe. In the Atlantic,  [Hurricane Florence](https://www.washingtonpost.com/news/post-nation/wp/2018/09/13/the-water-is-the-devil-hurricane-florence-roars-closer-to-the-southeast-with-punishing-rain-wind/?utm_term=.5e783859aee5), now a Category 2 storm, is sending lashing winds, powerful rains and the threat of major flooding as it approaches the coast of the Carolinas. In the Pacific, [Super Typhoon Mangkhut](https://www.cnn.com/2018/09/12/asia/super-typhoon-ompong-mangkhut-wxc-intl/index.html) is still gathering strength as it nears the northern Philippines. With winds of 180 mph, Mangkhut is equivalent to a Category 5 Hurricane. It is expected to make landfall on Luzon island Saturday.
 
 “All things being equal, Mangkhut is a bigger, stronger and more dangerous storm” than Florence, said [CNN Meteorologist Brandon Miller](https://www.cnn.com/2018/09/12/asia/super-typhoon-ompong-mangkhut-wxc-intl/index.html). “Any land hit directly would see more significant and destructive impacts from the Super Typhoon due to its size and intensity.”
 

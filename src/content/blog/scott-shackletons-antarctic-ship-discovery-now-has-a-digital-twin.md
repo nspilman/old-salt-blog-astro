@@ -17,12 +17,12 @@ tags:
   - "Robert Falcon Scott"
   - "RRS Discovery"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/discoverydundee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/discoverydundee.jpg"
 author: "Rick Spilman"
 description: "RRS Discovery is a barque-rigged auxiliary steamship built for Antarctic research. She was the last traditional wooden three-masted ship to be built in the United Kingdom. Her first mission was the British National Antarctic Expedition, carrying Robert Falcon Scott and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/discoverydundee.jpg)[RRS *Discovery*](https://en.wikipedia.org/wiki/RRS_Discovery) is a barque-rigged auxiliary steamship built for Antarctic research. She was the last traditional wooden three-masted ship to be built in the United Kingdom. Her first mission was the British National Antarctic Expedition, carrying Robert Falcon Scott and Ernest Shackleton on their first, and highly successful, journey to the Antarctic, known as the [Discovery Expedition](https://en.wikipedia.org/wiki/Discovery_Expedition).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/discoverydundee.jpg)[RRS *Discovery*](https://en.wikipedia.org/wiki/RRS_Discovery) is a barque-rigged auxiliary steamship built for Antarctic research. She was the last traditional wooden three-masted ship to be built in the United Kingdom. Her first mission was the British National Antarctic Expedition, carrying Robert Falcon Scott and Ernest Shackleton on their first, and highly successful, journey to the Antarctic, known as the [Discovery Expedition](https://en.wikipedia.org/wiki/Discovery_Expedition).
 
 The aptly named *Discovery* is now a museum ship in Dundee, Scotland, the port where she was built in 1901. After a storied and arduous career spanning 123 years, it is remarkable that the ship has survived.
 

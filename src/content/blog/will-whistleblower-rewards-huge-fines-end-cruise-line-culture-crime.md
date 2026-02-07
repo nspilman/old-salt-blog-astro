@@ -12,12 +12,12 @@ tags:
   - "magic pipe"
   - "Princess Cruise Lines"
   - "Whistleblower"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/CaribbeanPrincess2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/CaribbeanPrincess2.jpg"
 author: "Rick Spilman"
 description: "For one Scottish ship’s engineer doing the right thing paid off. In 2013, Christopher Keays risked his entire career when he turned whistleblower shortly after taking a job as a junior engineer on board the cruise ship, Caribbean Princess. At the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/CaribbeanPrincess2.jpg)For one Scottish ship’s engineer doing the right thing paid off. In 2013, Christopher Keays risked his entire career when he turned whistleblower shortly after taking a job as a junior engineer on board the cruise ship, *Caribbean Princess.* At the end of last month, he was awarded by US courts $1 million for his role in exposing Princess Cruise Line’s illegal polluting.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/CaribbeanPrincess2.jpg)For one Scottish ship’s engineer doing the right thing paid off. In 2013, Christopher Keays risked his entire career when he turned whistleblower shortly after taking a job as a junior engineer on board the cruise ship, *Caribbean Princess.* At the end of last month, he was awarded by US courts $1 million for his role in exposing Princess Cruise Line’s illegal polluting.  
 
 Keays found that oily waste was being dumped by the *Caribbean Princess* into UK water waters using a “magic pipe.” “Magic pipes” are piping and valves which allow unscrupulous engineers to discretely divert oily waste overboard without being treated. They are highly illegal, but also incredibly difficult to spot except by an engineer who knows the ship’s engine room very well. Keays spotted the magic pipe. The easiest and safest thing to do would have been to just keep his mouth shut. Instead, the young engineer secretly took photographs and recorded video footage of key equipment with his cell phone. He then reported what he had found to the UK’s Maritime and Coastguard Agency. 
 

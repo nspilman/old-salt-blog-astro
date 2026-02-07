@@ -14,12 +14,12 @@ tags:
   - "Romandisea"
   - "Sichuan province"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/chinese-titanic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/chinese-titanic.jpg"
 author: "Rick Spilman"
 description: "Five years ago we posted about the beginning of the construction of \"A Close to Unsinkable Titanic in China’s Sichuan Province.\" Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/chinese-titanic.jpg)Five years ago we posted about the beginning of the construction of “[A Close to Unsinkable Titanic in China’s Sichuan Province.](http://www.oldsaltblog.com/2016/12/close-unsinkable-titanic-chinas-sichuan-province/)” Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica will be a fixed attraction, rather than a ship, as a part of Star Energy Investment Group’s plans for a tourist resort called [Romandisea](https://www.facebook.com/RomandiseaTitanic/), along the Qijiang River in Sichuan’s Daying County.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/chinese-titanic.jpg)Five years ago we posted about the beginning of the construction of “[A Close to Unsinkable Titanic in China’s Sichuan Province.](http://www.oldsaltblog.com/2016/12/close-unsinkable-titanic-chinas-sichuan-province/)” Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica will be a fixed attraction, rather than a ship, as a part of Star Energy Investment Group’s plans for a tourist resort called [Romandisea](https://www.facebook.com/RomandiseaTitanic/), along the Qijiang River in Sichuan’s Daying County.
 
 Our [recent post about the collapsing ice wall](http://www.oldsaltblog.com/2021/08/wall-of-ice-collapses-at-tennessee-titanic-museum-injuring-three/) on the half-scale partial mock-up of the *Titanic* in an attraction in Pigeon Forge, TN, brought to mind the Chinese full-sized replica. While the replica *Titanic* was originally expected to take just over a year to complete, [CNN](https://www.cnn.com/travel/article/titanic-replica-china/index.html) reports that the replica is still under construction, with no announced completion date.
 

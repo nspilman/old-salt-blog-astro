@@ -11,7 +11,7 @@ tags:
   - "Gloucester Schooner Festival"
   - "Parade of Sail"
   - "Parade of Sail 2019"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/schoonerparadeof-sail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/schoonerparadeof-sail.jpg"
 author: "Rick Spilman"
 description: "Here is a fun \"superlapse\" video of last weekend’s Gloucester Schooner Festival Parade of Sail. Gloucester Schooner Festival Parade of Sail 2019 … Continue reading &rarr;"
 ---

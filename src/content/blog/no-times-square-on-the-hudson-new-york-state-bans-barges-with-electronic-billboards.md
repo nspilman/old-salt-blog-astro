@@ -12,12 +12,12 @@ tags:
   - "Billboards"
   - "New York State"
   - "Times Square on the Hudson"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg"
 author: "Rick Spilman"
 description: "If you haven’t been in Times Square in New York City within the past few decades, it has been transformed into a realm of light and video with every available building and wall covered with electronic billboards advertising products and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/digitalbillboard.jpg)If you haven’t been in Times Square in New York City within the past few decades, it has been transformed into a realm of light and video with every available building and wall covered with electronic billboards advertising products and entertainment. Recently, there has been a concern that the waterways around New York City might be turned into  “floating Times Squares.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/digitalbillboard.jpg)If you haven’t been in Times Square in New York City within the past few decades, it has been transformed into a realm of light and video with every available building and wall covered with electronic billboards advertising products and entertainment. Recently, there has been a concern that the waterways around New York City might be turned into  “floating Times Squares.”
 
 Toward the end of last March, [we posted](http://www.oldsaltblog.com/2019/03/nyc-sues-digital-billboard-barge-cruising-city-rivers/) about a  [60′ illuminated digital billboard](http://gothamist.com/2019/01/02/ad_barge_nyc_waterfront.php) on a barge being towed close to shore on the Hudson and East Rivers. The billboard featured advertising pitching everything from beer to movies to helicopter rides. The company which operated the barge, Ballyhoo Media, considered it to be “the future of digital billboard advertising.” Many New Yorkers considered it to be a nuisance and an eyesore. The City of New York called the billboard barge [illegal and filed a lawsuit](https://www.nydailynews.com/new-york/ny-floating-billboards-lawsuit-20190327-dwinhfizabesvcyc36ccpwutnm-story.html) to shut it down. 
 

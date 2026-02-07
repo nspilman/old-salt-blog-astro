@@ -10,12 +10,12 @@ tags:
   - "drone"
   - "lifesaving"
   - "Littler Ripper"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/littleripperdrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/littleripperdrone.jpg"
 author: "Rick Spilman"
 description: "Amazon is currently testing using drones to deliver packages. Recently in Australia, lifeguards used a drone to deliver something far more vital than a package from an online retailer.  They successfully used a Little Ripper drone to drop a flotation rescue … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/littleripperdrone.jpg)Amazon is currently testing using drones to deliver packages. Recently in Australia, lifeguards used a drone to deliver something far more vital than a package from an online retailer.  They successfully used a [Little Ripper drone](https://www.engadget.com/tag/littleripper/) to drop a flotation rescue pod to two teenaged swimmers in danger of drowning in heavy surf on Lennox Head on the state’s Far North Coast.  From the  [Surf Life Saving NSW press release](http://surflifesavingnewsouthwales.cmail20.com/t/ViewEmail/d/D3514B73F355D6632540EF23F30FEDED/4C6E21F72FD99BF8667CCDA886AB700A): 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/littleripperdrone.jpg)Amazon is currently testing using drones to deliver packages. Recently in Australia, lifeguards used a drone to deliver something far more vital than a package from an online retailer.  They successfully used a [Little Ripper drone](https://www.engadget.com/tag/littleripper/) to drop a flotation rescue pod to two teenaged swimmers in danger of drowning in heavy surf on Lennox Head on the state’s Far North Coast.  From the  [Surf Life Saving NSW press release](http://surflifesavingnewsouthwales.cmail20.com/t/ViewEmail/d/D3514B73F355D6632540EF23F30FEDED/4C6E21F72FD99BF8667CCDA886AB700A): 
 
 At about 11:30, two men were swimming in powerful surf conditions approximately a kilometre north of the patrolled area when a member of the public noticed that they were having difficulty in the 3 metre swell.
 

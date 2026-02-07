@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A fire in deck containers stowed forward of the house on the 8,000 TEU containership,  Charlotte Maersk, is reported to be contained.   The fire broke out on Wednesday as the ship was passing through the Straits of Malacca bound … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/mrskfirenew.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mrskfirenew.jpg)
 
 Charlotte Maersk (photo: Scanpix)
 

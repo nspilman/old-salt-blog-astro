@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Russian Oscar-II class nuclear-powered cruise missile submarine Kursk sank ten years ago yesterday with a loss of all aboard.  One hundred and sixteen crew members and two weapons experts died in what is believed to have been the explosion of a faulty torpedo.  At 154m … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/kursk.jpg)The Russian Oscar-II class nuclear-powered cruise missile submarine *[Kursk](http://en.wikipedia.org/wiki/Russian_submarine_K-141_Kursk)* sank ten years ago yesterday with a loss of all aboard.  One hundred and sixteen crew members and two weapons experts died in what is believed to have been the explosion of a faulty torpedo.  At 154m long and four stories high, the *Kursk* was the largest attack submarine ever built.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/kursk.jpg)The Russian Oscar-II class nuclear-powered cruise missile submarine *[Kursk](http://en.wikipedia.org/wiki/Russian_submarine_K-141_Kursk)* sank ten years ago yesterday with a loss of all aboard.  One hundred and sixteen crew members and two weapons experts died in what is believed to have been the explosion of a faulty torpedo.  At 154m long and four stories high, the *Kursk* was the largest attack submarine ever built.
 
 [10 years after Kursk sinking, questions remain](http://news.bostonherald.com/news/international/europe/view/2010081110_years_after_kursk_sinking_questions_remain/srvc=home&position=recent)  
   

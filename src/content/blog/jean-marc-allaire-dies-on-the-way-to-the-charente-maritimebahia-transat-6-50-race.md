@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Tommorrow, the Charente-Maritime/Bahia Transat 6.50 sets off from La Rochelle, France bound for Salvador de Bahia, Brazil via Funchal, Madeira.  Roughly eighty sailors from sixteen countries will sail the Open/Mini 6.5, a 21 foot long ocean racer, across the Atlantic. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/jeanmarcallaire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/jeanmarcallaire.jpg)
 
 Photo: DR
 

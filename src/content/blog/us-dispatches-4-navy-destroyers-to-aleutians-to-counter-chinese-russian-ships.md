@@ -15,12 +15,12 @@ tags:
   - "destroyers"
   - "Lisa Murkowski"
   - "US Senators"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/usdispatchesdestroyers.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/usdispatchesdestroyers.jpg"
 author: "Rick Spilman"
 description: "The US Navy dispatched four destroyers and a reconnaissance airplane after 11 Chinese and Russian military vessels carried out a joint naval patrol near Alaska’s Aleutian islands last week. The combined naval patrol, which the Wall Street Journal first reported, appeared … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/usdispatchesdestroyers.jpg)The [US Navy dispatched four destroyers and a reconnaissance airplane](https://www.theguardian.com/us-news/2023/aug/06/us-navy-warships-china-russia-naval-patrol-near-alaska) after 11 Chinese and Russian military vessels carried out a joint naval patrol near Alaska’s Aleutian islands last week.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/usdispatchesdestroyers.jpg)The [US Navy dispatched four destroyers and a reconnaissance airplane](https://www.theguardian.com/us-news/2023/aug/06/us-navy-warships-china-russia-naval-patrol-near-alaska) after 11 Chinese and Russian military vessels carried out a joint naval patrol near Alaska’s Aleutian islands last week.
 
 The combined naval patrol, which the [Wall Street Journal](https://www.wsj.com/articles/russia-and-china-sent-large-naval-patrol-near-alaska-127de28b) first reported, appeared to be the largest such flotilla to approach US territory, according to experts that spoke to the outlet.
 

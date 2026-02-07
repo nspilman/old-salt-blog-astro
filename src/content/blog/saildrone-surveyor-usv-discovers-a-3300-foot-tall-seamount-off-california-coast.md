@@ -15,12 +15,12 @@ tags:
   - "Saildrone Surveyor"
   - "seamount"
   - "Surveyor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/seadrones2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/seadrones2.jpg"
 author: "Rick Spilman"
 description: "Two years ago,  we posted about Saildrone‘s new 72’ long Surveyor, which was described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor. Now, the Saildrone Surveyor has discovered a 3,300-foot-tall sea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/seadrones2.jpg)Two years ago,  [we posted](https://www.oldsaltblog.com/2021/01/saildrone-launches-72-surveyor-for-high-resolution-ocean-seabed-mapping/) about [Saildrone](https://www.saildrone.com/technology/vehicles)‘s new 72’ long [Surveyor](https://www.saildrone.com/news/saildrone-launches-72-foot-surveyor-ocean-mapping), which was described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/seadrones2.jpg)Two years ago,  [we posted](https://www.oldsaltblog.com/2021/01/saildrone-launches-72-surveyor-for-high-resolution-ocean-seabed-mapping/) about [Saildrone](https://www.saildrone.com/technology/vehicles)‘s new 72’ long [Surveyor](https://www.saildrone.com/news/saildrone-launches-72-foot-surveyor-ocean-mapping), which was described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor.
 
 Now, the Saildrone Surveyor has discovered a 3,300-foot-tall sea mountain, or seamount, about 200 miles off the coast of California.
 

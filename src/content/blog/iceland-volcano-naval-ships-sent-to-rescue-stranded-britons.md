@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Iceland volcano: Naval ships sent to rescue stranded Britons Three Royal Navy ships are on their way to help repatriate up to 200,000 Britons stranded by five days of flight restrictions following the Icelandic volcano eruption. The aircraft carrier Ark … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Ark-Royal.jpg)[Iceland volcano: Naval ships sent to rescue stranded Britons](http://www.guardian.co.uk/world/2010/apr/19/iceland-volcano-naval-ships-rescue)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Ark-Royal.jpg)[Iceland volcano: Naval ships sent to rescue stranded Britons](http://www.guardian.co.uk/world/2010/apr/19/iceland-volcano-naval-ships-rescue)
 
 Three Royal Navy ships are on their way to help repatriate up to 200,000 Britons stranded by five days of flight restrictions following the Icelandic volcano eruption.
 

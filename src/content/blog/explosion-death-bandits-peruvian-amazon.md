@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Last October, we took a five day cruise on the Amazon from Iquitos, Peru.  It was a fascinating trip. Iquitos is 2,000 nautical miles up the Amazon and yet is a deep water port with a controlling draft of around … Continue reading &rarr;"
 ---
 
-![Aqua](http://www.oldsaltblog.com/wp-content/uploads/2016/07/aquaamazon.jpg)
+![Aqua](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/aquaamazon.jpg)
 
 Aqua
 

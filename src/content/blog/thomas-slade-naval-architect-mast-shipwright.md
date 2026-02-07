@@ -16,12 +16,12 @@ tags:
   - "Surveyor of the Navy"
   - "Thomas Slade"
   - "victory"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/thomasslade.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/thomasslade.jpg"
 author: "Rick Spilman"
 description: "Thomas Slade, a pioneering naval architect and shipwright, died in 1771, 250 years ago today. While he is most famous for the design and construction of Admiral Horatio Nelson’s Victory, his larger contribution to the Royal Navy and even in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/thomasslade.jpg)[Thomas Slade](https://www.wikitree.com/wiki/Slade-702#_note-0), a pioneering naval architect and shipwright, died in 1771, 250 years ago today. While he is most famous for the design and construction of Admiral Horatio Nelson’s [*Victory*](https://en.wikipedia.org/wiki/HMS_Victory), his larger contribution to the Royal Navy and even in Nelson’s victory at Trafalgar itself, can not be overstated.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/thomasslade.jpg)[Thomas Slade](https://www.wikitree.com/wiki/Slade-702#_note-0), a pioneering naval architect and shipwright, died in 1771, 250 years ago today. While he is most famous for the design and construction of Admiral Horatio Nelson’s [*Victory*](https://en.wikipedia.org/wiki/HMS_Victory), his larger contribution to the Royal Navy and even in Nelson’s victory at Trafalgar itself, can not be overstated.
 
 [N.A.M. Rodger](https://en.wikipedia.org/wiki/Nicholas_A._M._Rodger) wrote of Slade: *The ships which \[he\] designed…were admirably suited to Britain’s strategic requirements…By common consent, Slade was the greatest British naval architect of the century…it was generally agreed (even by themselves) that his successors, though competent designers, never matched his genius.*
 

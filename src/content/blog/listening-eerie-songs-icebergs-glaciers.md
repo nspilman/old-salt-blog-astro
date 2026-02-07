@@ -10,12 +10,12 @@ tags:
   - "bloop"
   - "glaciers"
   - "iceberg"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/berg200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/berg200.jpg"
 author: "Rick Spilman"
 description: "In the summer of 1997, researchers at the U.S. National Oceanic and Atmospheric Administration (NOAA) detected a mysterious ultra-low frequency underwater sound over an acoustic hydrophone array in the Pacific ocean.  They had no idea what it was. was it some form of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/berg200.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/berg200.jpg)
 
 Photo: Andreas Weith
 

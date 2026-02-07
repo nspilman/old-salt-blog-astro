@@ -13,12 +13,12 @@ tags:
   - "Christmas Tree Ship"
   - "Lake Michigan"
   - "Rouse Simmons"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ctschooner-1.jpg"
 author: "Rick Spilman"
 description: "A report from a few years ago. A story well worth retelling. Today the Christmas Ship is Chicago’s largest all-volunteer charitable support program for inner-city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ctschooner-1.jpg)
 
 Rouse Simmons
 

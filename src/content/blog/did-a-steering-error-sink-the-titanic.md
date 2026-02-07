@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "In Good as Gold, a new book by Louise Patten, the granddaughter of the most senior surviving officer on the Titanic, reveals a long hidden family secret. She claims that an error in steering on the bridge of the Titanic led to the collision … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/Titanic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Titanic.jpg)
 
 In *[Good as Gold](http://www.amazon.com/gp/product/1849162468?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849162468)*, a new book by Louise Patten, the granddaughter of the most senior surviving officer on the *[Titanic](http://en.wikipedia.org/wiki/RMS_Titanic)*, reveals a long hidden family secret. She claims that an error in steering on the bridge of the *Titanic* led to the collision with the iceberg.  According to Ms. Patten, the ship had plenty of time to miss the iceberg, but the helmsman turned wheel the wrong way in a moment of confusion.   She also says a subsequent order to steam slow ahead rather than stopping the ship, given by the owner Bruce Ismay, chairman of the White Star Line, owners of the *Titanic*, may have dramatically accelerated the flooding and markedly reduced the time the *Titanic* remained afloat.    
   

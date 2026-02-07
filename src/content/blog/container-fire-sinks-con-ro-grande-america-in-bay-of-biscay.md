@@ -12,12 +12,12 @@ tags:
   - "Con/Ro"
   - "container fire"
   - "Grande America"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/grandeamericafire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/grandeamericafire.jpg"
 author: "Rick Spilman"
 description: "Another container fire has claimed another ship. On Sunday, a fire broke out in a weather-deck container on the roll on/roll off container ship MV Grande America while in the Bay of Biscay, 150 miles off the French coast. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/grandeamericafire.jpg)Another container fire has claimed another ship. On Sunday, a fire broke out in a weather-deck container on the roll on/roll off container ship [MV *Grande America*](https://www.marinetraffic.com/en/ais/details/ships/shipid:283162/mmsi:247594000/imo:9130937/vessel:GRANDE_AMERICA) while in the Bay of Biscay, 150 miles off the French coast. The fire quickly spread to other containers and to vehicles on the ro-ro deck. The captain ordered the crew of 27 to abandon ship. A lifeboat was launched but was damaged in heavy seas. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/grandeamericafire.jpg)Another container fire has claimed another ship. On Sunday, a fire broke out in a weather-deck container on the roll on/roll off container ship [MV *Grande America*](https://www.marinetraffic.com/en/ais/details/ships/shipid:283162/mmsi:247594000/imo:9130937/vessel:GRANDE_AMERICA) while in the Bay of Biscay, 150 miles off the French coast. The fire quickly spread to other containers and to vehicles on the ro-ro deck. The captain ordered the crew of 27 to abandon ship. A lifeboat was launched but was damaged in heavy seas. 
 
 Fortunately, [*HMS Argyll*,](https://en.wikipedia.org/wiki/HMS_Argyll_\(F231\)) a Royal Navy ‘Duke’ Class frigate, was in the area and was diverted to rescue *Grande America’s* crew. [The rescue lasted eight hours in rough conditions](https://www.bbc.com/news/uk-england-devon-47524010). The crew were taken to the French port of Brest. Some of the crew required hospitalization, but no life-threatening injuries were reported.
 

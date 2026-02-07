@@ -11,12 +11,12 @@ tags:
   - "Galapagos Islands"
   - "Galápagos Marine Reserve"
   - "UNESCO World Heritage site"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/chinesefishfleetgalop.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/chinesefishfleetgalop.jpg"
 author: "Rick Spilman"
 description: "Ecuador has raised an alarm after a naval patrol sighted a fleet of around 260 Chinese fishing vessels just outside the Galápagos protection zone. Naval patrols had been stepped up to monitor the Chinese ships. Chinese fishing vessels come regularly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/chinesefishfleetgalop.jpg)Ecuador has raised an alarm after a naval patrol sighted a fleet of around 260 Chinese fishing vessels just outside the Galápagos protection zone. Naval patrols had been stepped up to monitor the Chinese ships. Chinese fishing vessels come regularly to the Pacific around the Galápagos, but this year’s fleet is one of the largest in recent years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/chinesefishfleetgalop.jpg)Ecuador has raised an alarm after a naval patrol sighted a fleet of around 260 Chinese fishing vessels just outside the Galápagos protection zone. Naval patrols had been stepped up to monitor the Chinese ships. Chinese fishing vessels come regularly to the Pacific around the Galápagos, but this year’s fleet is one of the largest in recent years.
 
 The Galápagos islands were declared a UNESCO World Heritage site in 1978. The waters surrounding the islands have been protected since 1998 by the [Galápagos Marine Reserve](http://www.mpatlas.org/mpa/sites/901/), which spans more than 50,000 square miles around the archipelago. 
 

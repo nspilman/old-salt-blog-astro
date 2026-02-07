@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Thanks to Alaric Bond for pointing out this wonderful auction on EBay.  No bids yet but there are still five days left.   I would love to own these beauties but can’t figure out where I would put them or what I would … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/cannon-1.jpg)Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for pointing out this wonderful auction on EBay.  No bids yet but there are still five days left.   I would love to own these beauties but can’t figure out where I would put them or what I would do with them.  It would be awfully tempting to fire them from time to time.  Probably upset the neighbors.  Difficult to tell whether they are authentic.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/cannon-1.jpg)Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for pointing out this wonderful auction on EBay.  No bids yet but there are still five days left.   I would love to own these beauties but can’t figure out where I would put them or what I would do with them.  It would be awfully tempting to fire them from time to time.  Probably upset the neighbors.  Difficult to tell whether they are authentic.
 
 [Revolutionary War Sister Cannons](http://cgi.ebay.co.uk/ws/eBayISAPI.dll?ViewItem&item=300444094543&ssPageName=ADME:B:SS:GB:1123)  
   

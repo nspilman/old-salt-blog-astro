@@ -14,12 +14,12 @@ tags:
   - "Navy commanding officers"
   - "Navy SEAL"
   - "two submarine captains"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/navyisignia2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/navyisignia2.jpg"
 author: "Rick Spilman"
 description: "Task & Purpose reports that three of the five Navy commanding officers who have been fired so far this year, including a Navy SEAL and two submarine captains, were relieved after being arrested off-base for driving under the influence. Navy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/navyisignia2.jpg)[Task & Purpose](https://taskandpurpose.com/news/navy-commanders-fired-dui/) reports that three of the five Navy commanding officers who have been fired so far this year, including a Navy SEAL and two submarine captains, were relieved after being arrested off-base for driving under the influence.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/navyisignia2.jpg)[Task & Purpose](https://taskandpurpose.com/news/navy-commanders-fired-dui/) reports that three of the five Navy commanding officers who have been fired so far this year, including a Navy SEAL and two submarine captains, were relieved after being arrested off-base for driving under the influence.
 
 Navy [Capt. Richard A. Zaszewski](https://taskandpurpose.com/news/navy-special-warfare-group-fired/), who was relieved this week as commander of Naval Special Warfare Group Eight, was arrested on Jan. 19 in Virginia, according to [online court records](https://eapps.courts.state.va.us/gdcourts/landing.do?landing=landing). His Blood Alcohol Content was measured at 0.15%, nearly double Virginia’s legal limit of 0.08%.
 

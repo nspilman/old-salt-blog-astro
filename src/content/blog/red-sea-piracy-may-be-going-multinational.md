@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Piracy in the Red Sea and the Indian Ocean can be wildly profitable and is relatively risk free.   If a pirate is caught by any of the multinational naval task force, chances are that they will simply let the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/pirates2.jpg)Piracy in the Red Sea and the Indian Ocean can be wildly profitable and is relatively risk free.   If a pirate is caught by any of the multinational naval task force, chances are that they will simply let the pirate go free.   So I suppose it isn’t surprising that that not only has the scope of piracy expanded to encompass the Indian Oceans and Arabia Sea, but now it also appears that the pool of pirates is also becoming multi-national.  In addition to Somalis,  Yemenis are also getting into the act.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg)Piracy in the Red Sea and the Indian Ocean can be wildly profitable and is relatively risk free.   If a pirate is caught by any of the multinational naval task force, chances are that they will simply let the pirate go free.   So I suppose it isn’t surprising that that not only has the scope of piracy expanded to encompass the Indian Oceans and Arabia Sea, but now it also appears that the pool of pirates is also becoming multi-national.  In addition to Somalis,  Yemenis are also getting into the act.
 
 [Red Sea piracy may be going multinational – U.S.](http://af.reuters.com/article/somaliaNews/idAFLDE72625K20110307)  
   

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "HMS Bounty open to public in Maine The HMS Bounty tall ship is open to the public during its stop in Maine.   The three-masted, 120-foot ship is open for tours Saturday and Sunday from 9:30 a.m. to 5 p.m. at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/bounty1.jpg)[HMS *Bounty* open to public in Maine](http://www.wgme.com/template/inews_wire/wires.regional.me/29de829d-www.wgme.com.shtml)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/bounty1.jpg)[HMS *Bounty* open to public in Maine](http://www.wgme.com/template/inews_wire/wires.regional.me/29de829d-www.wgme.com.shtml)
 
 *The* [*HMS Bounty*](http://www.tallshipbounty.org/) *tall ship is open to the public during its stop in Maine.   The three-masted, 120-foot ship is open for tours Saturday and Sunday from 9:30 a.m. to 5 p.m. at Maine Maritime Museum in Bath.  The vessel arrived at the museum on Thursday and was also open to the public on Friday.*
 

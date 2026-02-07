@@ -15,12 +15,12 @@ tags:
   - "new york"
   - "Royal Navy"
   - "Sir Guy Carleton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/evacuationday.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/evacuationday.jpg"
 author: "Rick Spilman"
 description: "Happy Evacuation Day! 240 years ago today, on November 25, 1783, the last shot of the American Revolution was fired by a gunner on a departing Royal Navy ship at jeering crowds gathered on the shore of Staten Island, at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/evacuationday.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/evacuationday.jpg)  
 [Happy Evacuation Day!](https://en.wikipedia.org/wiki/Evacuation_Day_\(New_York\)) 240 years ago today, on November 25, 1783, the last shot of the American Revolution was fired by a gunner on a departing Royal Navy ship at jeering crowds gathered on the shore of Staten Island, at the mouth of New York Harbor. The shot went wide, missing its target.  
 
 Sir Guy Carleton had ordered his troops to sail at noon on November 25th.  George Washington and an honor guard from the Continental Army marched in shortly thereafter. Before Washington could arrive, officially ending the seven-year occupation of New York, the British flag, which had been nailed to a greased flag pole at the Battery, needed to be taken down. [John Van Arsdale](https://en.wikipedia.org/wiki/John_Van_Arsdale), a survivor of a British prison ship, climbed the greasy pole, ripped down the Union Jack, and nailed up the Stars and Stripes.  For years, [greased pole climbing contests](https://en.wikipedia.org/wiki/Greasy_pole#:~:text=of%20the%20pole.-,New%20York%20City,the%20event%20for%20many%20years.) were popular in celebrations of Evacuation Day in New York.

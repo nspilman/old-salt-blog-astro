@@ -10,12 +10,12 @@ tags:
   - "UFOs"
   - "unidentified floating objects"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg"
 author: "Rick Spilman"
 description: "At roughly this point in the last sailing of the Vendee Globe in 2016-2017, 5 boats had been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. In this year’s race, 18 of the 33 boats … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg)At roughly this point in the last sailing of the Vendee Globe in 2016-2017, [5 boats had been forced to retire](http://www.oldsaltblog.com/2016/12/cluttered-ocean-ufos-vendee-globe/) after being damaged by collisions with UFOs, unidentified floating objects.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg)At roughly this point in the last sailing of the Vendee Globe in 2016-2017, [5 boats had been forced to retire](http://www.oldsaltblog.com/2016/12/cluttered-ocean-ufos-vendee-globe/) after being damaged by collisions with UFOs, unidentified floating objects.
 
 In this year’s race, 18 of the 33 boats competing are carrying a new high-tech collision avoidance package dubbed [OSCAR](https://marineindustrynews.co.uk/18-vendee-globe-competitors-fitted-with-oscar-ai/). The electronics package, installed at the boat’s masthead, uses day and thermal cameras combined with artificial intelligence, to provide a second set of ‘eyes’ for the solo skipper both day and night. 
 

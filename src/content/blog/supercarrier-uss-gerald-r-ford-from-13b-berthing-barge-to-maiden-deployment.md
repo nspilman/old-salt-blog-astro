@@ -13,12 +13,12 @@ tags:
   - "Electromagnetic Aircraft Launch System"
   - "Supercarrier"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/forddeployment.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/forddeployment.jpg"
 author: "Rick Spilman"
 description: "The USS Gerald R. Ford, the first of the US Navy’s newest generation of aircraft carriers and the largest and most expensive warship ever built, is ready to begin her maiden deployment after years of delay and cost overruns. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/forddeployment.jpg)The [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford), the first of the US Navy’s newest generation of aircraft carriers and the largest and most expensive warship ever built, is ready to begin her maiden deployment after years of delay and cost overruns.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/forddeployment.jpg)The [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford), the first of the US Navy’s newest generation of aircraft carriers and the largest and most expensive warship ever built, is ready to begin her maiden deployment after years of delay and cost overruns.
 
 The *Ford’s* keel was laid in 2009 and was estimated to cost $10.49 billion. It ultimately cost $13.316 billion.
 

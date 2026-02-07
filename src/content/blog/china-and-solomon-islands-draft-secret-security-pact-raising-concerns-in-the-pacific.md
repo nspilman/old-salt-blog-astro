@@ -11,12 +11,12 @@ tags:
   - "China"
   - "New Zealand"
   - "Solomon Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/chinesenavy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/chinesenavy.jpg"
 author: "Rick Spilman"
 description: "The New York Times reports that a leaked document has revealed that China and the Solomon Islands are close to signing a security agreement that could open the door to Chinese troops and naval warships flowing into a Pacific Island … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/chinesenavy.jpg)[The New York Times](https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html) reports that a leaked document has revealed that China and the Solomon Islands are close to signing a security agreement that could open the door to Chinese troops and naval warships flowing into a Pacific Island nation that played a pivotal role in World War II.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/chinesenavy.jpg)[The New York Times](https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html) reports that a leaked document has revealed that China and the Solomon Islands are close to signing a security agreement that could open the door to Chinese troops and naval warships flowing into a Pacific Island nation that played a pivotal role in World War II.
 
 [The agreement](https://twitter.com/AnnaPowles/status/1506845794728837120?s=20&t=h4DpRVQS2VOEGoSpg7hgwg), kept secret until now, was shared online Thursday night by opponents of the deal and verified as legitimate by the Australian government. Though it is marked as a draft and cites a need for “social order” as a justification for sending Chinese forces, it has set off alarms throughout the Pacific, where concerns about China’s intentions have been growing for years.
 

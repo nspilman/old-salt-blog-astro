@@ -12,12 +12,12 @@ tags:
   - "Canada"
   - "Lunenburg"
   - "Nova Scotia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/bosunschool.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/bosunschool.jpg"
 author: "Rick Spilman"
 description: "Exciting news from the crew of the Barque Picton Castle.  Full scholarships are now being offered to those accepted in the highly regarded Picton Castle’s Bosun School. From their announcement:  Bosun School is going ahead this summer! We’re thrilled to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/bosunschool.jpg)Exciting news from the crew of the [Barque *Picton Castle.*](https://www.picton-castle.com/)  Full scholarships are now being offered to those accepted in the highly regarded Picton Castle’s [Bosun School](https://www.picton-castle.com/bosun-school.html). From their announcement: 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/bosunschool.jpg)Exciting news from the crew of the [Barque *Picton Castle.*](https://www.picton-castle.com/)  Full scholarships are now being offered to those accepted in the highly regarded Picton Castle’s [Bosun School](https://www.picton-castle.com/bosun-school.html). From their announcement: 
 
 ### Bosun School is going ahead this summer!
 

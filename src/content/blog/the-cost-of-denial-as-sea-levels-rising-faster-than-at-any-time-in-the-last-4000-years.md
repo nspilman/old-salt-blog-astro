@@ -11,12 +11,12 @@ tags:
   - "North Carolina Outer Banks"
   - "Rutgers University"
   - "Sea Levels Rise"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/sealevelrise2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/sealevelrise2.jpg"
 author: "Rick Spilman"
 description: "In 2012, the North Carolina state legislature believed it had found the solution to the rising sea levels along its Atlantic coast. They would simply ignore it. They passed a law requiring government planning boards to use predictions of sea … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/sealevelrise2.jpg)In 2012, the [North Carolina state legislature](https://www.oldsaltblog.com/2012/06/north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal/) believed it had found the solution to the rising sea levels along its Atlantic coast. They would simply ignore it. They passed a law requiring government planning boards to use predictions of sea level rise based on linear projections from 1900. The increase in sea levels due to climate change would not only be ignored, but it would also be made illegal for land use planning purposes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/sealevelrise2.jpg)In 2012, the [North Carolina state legislature](https://www.oldsaltblog.com/2012/06/north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal/) believed it had found the solution to the rising sea levels along its Atlantic coast. They would simply ignore it. They passed a law requiring government planning boards to use predictions of sea level rise based on linear projections from 1900. The increase in sea levels due to climate change would not only be ignored, but it would also be made illegal for land use planning purposes.
 
 Guess what? It didn’t work. In the last five years, at least [27 houses in North Carolina’s Outer Bank](https://www.cnn.com/2025/11/07/homes/why-are-homes-collapsing-in-north-carolina)s have collapsed due to coastal erosion, strong storms, and rising sea levels. 18 of these collapses occurred during 2024 and 2025.
 

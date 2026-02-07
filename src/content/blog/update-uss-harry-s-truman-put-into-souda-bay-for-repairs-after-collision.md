@@ -10,12 +10,12 @@ tags:
   - "merchant bulk carrier"
   - "Nimitz-class aircraft carrier"
   - "U.S.S. Harry S. Truman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/trumandamage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/trumandamage.jpg"
 author: "Rick Spilman"
 description: "USS Harry S. Truman, the Nimitz-class aircraft carrier that collided with the merchant bulk carrier M/V Besiktas-M off the coast of Egypt, put into Souda Bay, Greece, for repairs, US 6th Fleet announced on Sunday. \"While the ship is fully … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/trumandamage.jpg)[USS *Harry S. Truman*](https://en.wikipedia.org/wiki/USS_Harry_S._Truman), the Nimitz-class aircraft carrier that [collided with the merchant bulk carrier](https://www.oldsaltblog.com/2025/02/aircraft-carrier-uss-harry-s-truman-collides-with-bulk-carrier-in-mediterranean-sea-near-suez-canal/) [M/V *Besiktas-M*](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9291365) off the coast of Egypt, put into Souda Bay, Greece, for repairs, [US 6th Fleet announced on Sunday](https://www.c6f.navy.mil/Press-Room/News/Article/4068846/uss-harry-s-truman-conducts-emergent-repair-availability/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/trumandamage.jpg)[USS *Harry S. Truman*](https://en.wikipedia.org/wiki/USS_Harry_S._Truman), the Nimitz-class aircraft carrier that [collided with the merchant bulk carrier](https://www.oldsaltblog.com/2025/02/aircraft-carrier-uss-harry-s-truman-collides-with-bulk-carrier-in-mediterranean-sea-near-suez-canal/) [M/V *Besiktas-M*](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9291365) off the coast of Egypt, put into Souda Bay, Greece, for repairs, [US 6th Fleet announced on Sunday](https://www.c6f.navy.mil/Press-Room/News/Article/4068846/uss-harry-s-truman-conducts-emergent-repair-availability/).
 
 “While the ship is fully mission capable and the ship conducted flight operations following the collision, pulling into port for emergent repairs will enable the ship to continue deployment as scheduled,” said Capt. Dave Snowden, H*arry S. Truman*’s commanding officer.
 

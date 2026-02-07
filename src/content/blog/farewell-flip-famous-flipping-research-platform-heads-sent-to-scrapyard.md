@@ -13,12 +13,12 @@ tags:
   - "Floating Instrument Platform"
   - "Scripps Institution of Oceanography"
   - "U.S. Office of Naval Research"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/FLIP.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/FLIP.jpg"
 author: "Rick Spilman"
 description: "After 61 years of service, the one of its kind research vessel FLoating Instrument Platform, known as FLIP, has been retired and sent to a scrapyard.  I distinctly recall being absolutely fascinated by this engineering marvel when it was almost brand … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/FLIP.jpg)After 61 years of service, the one of its kind research vessel [**FL**oating **I**nstrument *P*latform, known as FLIP](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform), has been retired and sent to a scrapyard.  I distinctly recall being absolutely fascinated by this engineering marvel when it was almost brand new. As not quite a teenager, I remember being taken by both the simplicity and wonderful weirdness of the 355-foot-long research platform with a generally ship-shaped bow and a largely cylindrical hull. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/FLIP.jpg)After 61 years of service, the one of its kind research vessel [**FL**oating **I**nstrument *P*latform, known as FLIP](https://ocean.si.edu/human-connections/exploration/flip-floating-instrument-platform), has been retired and sent to a scrapyard.  I distinctly recall being absolutely fascinated by this engineering marvel when it was almost brand new. As not quite a teenager, I remember being taken by both the simplicity and wonderful weirdness of the 355-foot-long research platform with a generally ship-shaped bow and a largely cylindrical hull. 
 
 The vessel would be towed to deep water, where the ballast tanks in the stern would be filled with seawater and the craft would literally “flip” from horizontal to vertical. With 300 feet of the hull floating upright underwater, the research platform would float serenely in deep water, literally unmoved by ocean swells. (If this description doesn’t make any sense to you, check out the video below of the FLIP flipping.”
 

@@ -18,7 +18,7 @@ description: "For Throw-Back Thursday (TBT) here is a repost of an unlikely bit 
 
 For Throw-Back Thursday (TBT) here is a repost of an unlikely bit of history which we posted three years ago.  
 
-![USS_Wanderer_(1857)](http://www.oldsaltblog.com/wp-content/uploads/2014/09/USS_Wanderer_1857.jpg)The schooner yacht [*Wanderer*](http://en.wikipedia.org/wiki/The_Wanderer_\(slave_ship\)) was built in 1857 for Colonel John D. Johnson, a New Orleans sugar baron. At just over 100 feet long, she was luxurious, sleek and extremely fast, reportedly capable of sailing at 20 knots.  The *Wanderer* is not remembered, however, either for her beauty or her speed. She is remembered as the last slave ship to carry a human cargo to the shores of the United States.
+![USS_Wanderer_(1857)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/USS_Wanderer_1857.jpg)The schooner yacht [*Wanderer*](http://en.wikipedia.org/wiki/The_Wanderer_\(slave_ship\)) was built in 1857 for Colonel John D. Johnson, a New Orleans sugar baron. At just over 100 feet long, she was luxurious, sleek and extremely fast, reportedly capable of sailing at 20 knots.  The *Wanderer* is not remembered, however, either for her beauty or her speed. She is remembered as the last slave ship to carry a human cargo to the shores of the United States.
 
 In her only voyage as a slaver, she flew the New York Yacht Club burgee at her peak. That turned out to be a critical detail. The burgee and the complete implausibility of a luxury yacht whose owner wore the uniform of the New York Yacht Club, operating as a slave ship, allowed the ship to slip past the American and British anti-slavery patrol on the African coast.
 

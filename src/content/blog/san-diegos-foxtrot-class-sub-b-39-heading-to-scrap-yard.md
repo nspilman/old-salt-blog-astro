@@ -13,12 +13,12 @@ tags:
   - "Foxtrot-class"
   - "Maritime Museum of San Diego"
   - "Soviet-era"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/b-39.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/b-39.jpg"
 author: "Rick Spilman"
 description: "For the last 15 years, the Soviet-era Foxtrot-class diesel-electric submarine B-39 has been a museum ship at the Maritime Museum of San Diego. Now, with its outer hull deteriorating, the museum has decided to scrap the retired attack submarine.  Stars … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/b-39.jpg)For the last 15 years, the Soviet-era [Foxtrot-class diesel-electric submarine *B-39*](https://en.wikipedia.org/wiki/Soviet_submarine_B-39) has been a museum ship at the [Maritime Museum of San Diego](https://sdmaritime.org/). Now, with its outer hull deteriorating, the museum has decided to scrap the retired attack submarine. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/b-39.jpg)For the last 15 years, the Soviet-era [Foxtrot-class diesel-electric submarine *B-39*](https://en.wikipedia.org/wiki/Soviet_submarine_B-39) has been a museum ship at the [Maritime Museum of San Diego](https://sdmaritime.org/). Now, with its outer hull deteriorating, the museum has decided to scrap the retired attack submarine. 
 
 [Stars and Stripes](https://www.stripes.com/theaters/us/2021-10-02/russian-sub-b-39-san-diego-maritime-museum-3101935.html) reports that museum officials said the sub is not as bad as it looks — that the pressure hull remains stable, making *B-39* as seaworthy as it was when it debuted at the Embarcadero in 2005.
 

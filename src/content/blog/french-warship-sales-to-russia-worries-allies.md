@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Does politics make for strange shipmates? NATO allies worry about France’s decision to sell big warships to Russia CHAMPAGNE and other French products may soon face declining sales in Tallinn, Tbilisi and places in between. The possible sale by France … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/mistral.jpg)Does politics make for strange shipmates?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/mistral.jpg)Does politics make for strange shipmates?
 
 [NATO allies worry about France’s decision to sell big warships to Russia](http://www.economist.com/world/europe/displaystory.cfm?story_id=15514914)
 

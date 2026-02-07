@@ -11,12 +11,12 @@ tags:
   - "New York City Economic Development Corporation"
   - "Offshore Wind"
   - "Offshore Wind NYC"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/oswnyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oswnyc.jpg"
 author: "Rick Spilman"
 description: " Last week Mayor Bill de Blasio and the New York City Economic Development Corporation (NYCEDC) committed to a plan called Offshore Wind NYC that will invest more than $191 million to make New York City a hub for the offshore … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/oswnyc.jpg) Last week Mayor Bill de Blasio and the New York City Economic Development Corporation ([NYCEDC](https://edc.nyc/)) committed to a plan called [Offshore Wind NYC](https://edc.nyc/sites/default/files/2021-09/NYCEDC-Offshore-Wind-NYC-Plan.pdf) that will invest more than $191 million to make New York City a hub for the offshore wind industry in the region.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/oswnyc.jpg) Last week Mayor Bill de Blasio and the New York City Economic Development Corporation ([NYCEDC](https://edc.nyc/)) committed to a plan called [Offshore Wind NYC](https://edc.nyc/sites/default/files/2021-09/NYCEDC-Offshore-Wind-NYC-Plan.pdf) that will invest more than $191 million to make New York City a hub for the offshore wind industry in the region.
 
 New York City has committed to 100-percent clean electricity by 2040 and carbon neutrality by 2050. This requires a shift to renewable energy from many sources—from rooftop solar and utility-scale renewables to energy storage. Offshore wind (OSW) has an important role to play in the decarbonization of NYC’s electric grid.
 

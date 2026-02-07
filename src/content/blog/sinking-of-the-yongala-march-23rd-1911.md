@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Today is the 100th anniversary of the tragic sinking of the passenger ship SS Yongala in a cyclone off Australia with the loss of 122 lives. Yongala Centenary Expedition CAIRNS tourism pioneer Charles Woodward is today heading for the shipwreck … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/SS-Yongala-off-coast-of-Ayr.jpg)Today is the 100th anniversary of the tragic sinking of the passenger ship *[SS Yongala](http://en.wikipedia.org/wiki/SS_Yongala)* in a cyclone off Australia with the loss of 122 lives.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/SS-Yongala-off-coast-of-Ayr.jpg)Today is the 100th anniversary of the tragic sinking of the passenger ship *[SS Yongala](http://en.wikipedia.org/wiki/SS_Yongala)* in a cyclone off Australia with the loss of 122 lives.
 
 [Yongala Centenary Expedition](http://www.cairns.com.au/article/2011/03/22/155335_local-news.html)
 

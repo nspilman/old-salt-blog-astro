@@ -13,8 +13,8 @@ author: "Rick Spilman"
 description: "Russell and Graham Henry, two brothers from British Columbia, hauled their kayaks ashore in Juno Beach, Florida over the weekend. They had set out from the mouth of the Amazon river in Belém Brazil on July 30, 2013.  In their … Continue reading &rarr;"
 ---
 
-![henrybros2](http://www.oldsaltblog.com/wp-content/uploads/2014/02/henrybros2.jpg)[Russell and Graham Henry](https://www.facebook.com/henrykayak), two brothers from British Columbia, hauled their kayaks ashore in Juno Beach, Florida over the weekend. They had set out from the mouth of the Amazon river in Belém Brazil on July 30, 2013.  In their 207 day expedition, they paddled 6,500 km and visited 23 different countries and territories.  [Their website](http://www.henrykayak.com/) describes the brothers: *“Growing up in Victoria BC, Russell (21) and Graham (22) have been partners in crime since their earliest days of exploration*.”
+![henrybros2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/henrybros2.jpg)[Russell and Graham Henry](https://www.facebook.com/henrykayak), two brothers from British Columbia, hauled their kayaks ashore in Juno Beach, Florida over the weekend. They had set out from the mouth of the Amazon river in Belém Brazil on July 30, 2013.  In their 207 day expedition, they paddled 6,500 km and visited 23 different countries and territories.  [Their website](http://www.henrykayak.com/) describes the brothers: *“Growing up in Victoria BC, Russell (21) and Graham (22) have been partners in crime since their earliest days of exploration*.”
 
 [Adventure for ‘the hell of it’: B.C. brothers make 7,000 km Atlantic voyage for fun, not fundraising](http://news.nationalpost.com/2014/02/23/adventure-for-the-hell-of-it-b-c-brothers-make-7000-km-atlantic-voyage-for-fun-not-fundraising/)
 
-![henrybros](http://www.oldsaltblog.com/wp-content/uploads/2014/02/henrybros.jpg)
+![henrybros](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/henrybros.jpg)

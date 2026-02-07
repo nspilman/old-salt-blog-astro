@@ -14,12 +14,12 @@ tags:
   - "monohull"
   - "Vendée Globe"
   - "Volvo Ocean Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/volvoconcept1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/volvoconcept1.jpg"
 author: "Rick Spilman"
 description: "Almost two years ago, we raised the question — Are the new foiling Open 60 monohulls \"the future of ocean racing or [are they] a foil too far?\" The results of the Vendee Globe around-the-world, single-handed race last January may have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/volvoconcept1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/volvoconcept1.jpg)
 
 Volvo Ocean Concept Design
 

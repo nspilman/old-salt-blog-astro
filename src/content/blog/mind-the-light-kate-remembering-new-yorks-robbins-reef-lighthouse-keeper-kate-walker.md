@@ -12,12 +12,12 @@ tags:
   - "Robbins Reef Lighthouse"
   - "Staten Island"
   - "USCGS Katherine Walker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
 description: "An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light — from that day on, every single day, for more than three decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/katewalker.jpg)An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light — from that day on, every single day, for more than three decades.
 
 Though standing only 4’10” tall and weighing around 100 pounds, [Katherine Walker](https://en.wikipedia.org/wiki/Katherine_Walker) served as the keeper of the [Robbins Reef Lighthouse](http://www.noblemaritime.org/robbins-reef) for 35 years, following the death of her husband. In addition to the arduous task of keeping the light burning, she also rowed across the choppy waters of Upper New York harbor, a mile each way, to take her two children to school on Staten Island, weather permitting. 
 

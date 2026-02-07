@@ -14,6 +14,6 @@ author: "Rick Spilman"
 description: "Last Thursday, Bulgaria’s defence ministry lifted the ban on women serving aboard Bulgarian submarines. Also on Thursday, the Bulgarian parliament voted to moth-ball the only Bulgarian submarine. Bulgaria lifts women in submarines ban — but too late … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/grandmaslava.jpg)Last Thursday, Bulgaria’s defence ministry lifted the ban on women serving aboard Bulgarian submarines. Also on Thursday, the Bulgarian parliament voted to moth-ball the only Bulgarian submarine.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/grandmaslava.jpg)Last Thursday, Bulgaria’s defence ministry lifted the ban on women serving aboard Bulgarian submarines. Also on Thursday, the Bulgarian parliament voted to moth-ball the only Bulgarian submarine.
 
 [Bulgaria lifts women in submarines ban — but too late](http://news.yahoo.com/s/afp/20101028/od_afp/bulgariamilitarywomenoffbeat)

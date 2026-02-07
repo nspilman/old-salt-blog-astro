@@ -16,12 +16,12 @@ tags:
   - "Maui"
   - "Pioneer Inn"
   - "Wildfire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/lfire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lfire.jpg"
 author: "Rick Spilman"
 description: "Lāhainā, a town on the island of Maui in Hawaii, was the capital of the Hawaiian Kingdom in the early nineteenth century, Lāhainā was also a historic whaling port during the whaling boom of the mid-1800s.  In recent years, Lāhainā … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/lfire.jpg)[Lāhainā,](https://www.gohawaii.com/islands/maui/regions/west-maui/Lahaina) a town on the island of Maui in Hawaii, was the capital of the Hawaiian Kingdom in the early nineteenth century, Lāhainā was also a historic whaling port during the whaling boom of the mid-1800s. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lfire.jpg)[Lāhainā,](https://www.gohawaii.com/islands/maui/regions/west-maui/Lahaina) a town on the island of Maui in Hawaii, was the capital of the Hawaiian Kingdom in the early nineteenth century, Lāhainā was also a historic whaling port during the whaling boom of the mid-1800s. 
 
 In recent years, Lāhainā has become a popular vacation destination, attracting tourists to the shops and restaurants along Front Street, going whale watching, or just keeping cool in the shade of a majestic banyan tree planted in 1873.
 

@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "According to one study the US has enough offshore wind to power the country four times over.  In Europe there are currently 830 wind turbines now installed and grid connected, totalling 2,063 MW in 39 wind farms in nine European … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/windmill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/windmill.jpg)
 
 Photo: Ayesha Rascoe
 

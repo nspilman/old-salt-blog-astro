@@ -13,12 +13,12 @@ tags:
   - "Jacob Astor"
   - "QAnon"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/titanic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/titanic.jpg"
 author: "Rick Spilman"
 description: "The QAnon conspiracy nuts seem to be growing in number, so it seems to be a good time to look at an older conspiracy picked up by the current QAnon crowd.  The conspiracy theory claims that J.P. Morgan sank the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/titanic.jpg)The QAnon conspiracy nuts seem to be growing in number, so it seems to be a good time to look at an older conspiracy picked up by the current QAnon crowd.  The conspiracy theory claims that [J.P. Morgan](https://en.wikipedia.org/wiki/J._P._Morgan) sank the [*Titanic*](https://en.wikipedia.org/wiki/Titanic), or at least arranged to have it sunk. It doesn’t make any particular sense, but here is how the story goes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/titanic.jpg)The QAnon conspiracy nuts seem to be growing in number, so it seems to be a good time to look at an older conspiracy picked up by the current QAnon crowd.  The conspiracy theory claims that [J.P. Morgan](https://en.wikipedia.org/wiki/J._P._Morgan) sank the [*Titanic*](https://en.wikipedia.org/wiki/Titanic), or at least arranged to have it sunk. It doesn’t make any particular sense, but here is how the story goes.
 
 J.P. Morgan was supposed to be aboard the *Titanic* on its ill-fated maiden voyage but canceled at the last minute. Morgan’s rival millionaires Jacob Astor, Isidor Straus, and Benjamin Guggenheim had also booked passage on the ship. The conspiracy goes on to claim that Morgan somehow arranged for the ship to sink, killing 1,503 of its 2,224 passengers, in order to get rid of Astor, Straus, and Guggenheim. How Morgan arranged the rendevous with the iceberg and how he could have assured that his targets would be among the drowned and not the more than 700 survivors is not clear, but conspiracy theories are like that.
 

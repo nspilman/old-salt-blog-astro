@@ -15,12 +15,12 @@ tags:
   - "Morning Midas"
   - "thermal runaway"
   - "Zodiac Maritime"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/morningmidas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas.jpg"
 author: "Rick Spilman"
 description: "The car carrier Morning Midas was on a voyage from China to Mexico when it caught fire on Tuesday in the mid-Pacific, some 300 miles southwest of Alaska’s Aleutian Islands. The ship was carrying 3,048 vehicles, including over 700 fully … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/morningmidas.jpg)The car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910) was on a voyage from China to Mexico when it caught fire on Tuesday in the mid-Pacific, some 300 miles southwest of Alaska’s Aleutian Islands. The ship was carrying 3,048 vehicles, including over 700 fully electric or hybrid electric vehicles.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas.jpg)The car carrier [*Morning Midas*](https://www.vesselfinder.com/vessels/details/9289910) was on a voyage from China to Mexico when it caught fire on Tuesday in the mid-Pacific, some 300 miles southwest of Alaska’s Aleutian Islands. The ship was carrying 3,048 vehicles, including over 700 fully electric or hybrid electric vehicles.
 
 “Smoke was initially seen emanating from a deck carrying electric vehicles,” reported a spokesperson for [Zodiac Maritime](https://www.zodiac-maritime.com/), the manager of the Liberian-flagged car carrier. “The crew immediately initiated emergency firefighting procedures using the vessel’s onboard fire suppression systems. However, despite their efforts, the situation could not be brought under control.”
 

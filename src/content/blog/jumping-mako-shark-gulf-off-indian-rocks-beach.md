@@ -12,7 +12,7 @@ tags:
   - "Indian Rocks Beach"
   - "Mako shark"
   - "shark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/sharkfly1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/sharkfly1.jpg"
 author: "Rick Spilman"
 description: "This video brings back memories of fishing in an open boat in the Gulf off John’s Pass, FL when I was in high school, back in another century. I remember when a friend landed a fairly small 3-4′ shark and … Continue reading &rarr;"
 ---

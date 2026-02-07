@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "We have blogged too often about the loss of life after overcrowded boats capsized off Indonesia, India, Bangladesh and Papau New Guinea.  This week was sad reminder that the problem of overloaded boats is not limited to the developing world.  On Wednesday evening … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/silverton34.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/silverton34.jpg)
 
 Silverton 34, a similar motor yacht to the Kandi Won which capsized on July 4th
 

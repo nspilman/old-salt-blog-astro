@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The captain of the Seastreak Wall Street ferry which hit the Pier 11 in New York yesterday morning, injuring more than 70 passengers, told investigators that the ferry suffered a mechanical failure.  Captain Jason Reimer said that the engines would not … Continue reading &rarr;"
 ---
 
-![Photo: AP / AP](http://www.oldsaltblog.com/wp-content/uploads/2013/01/sswallstreet.jpg)
+![Photo: AP / AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/sswallstreet.jpg)
 
 Photo: AP / AP
 

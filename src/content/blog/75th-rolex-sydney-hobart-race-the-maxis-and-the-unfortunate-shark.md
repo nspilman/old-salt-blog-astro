@@ -15,12 +15,12 @@ tags:
   - "maxi yachts"
   - "SHK Scallywag 100"
   - "Wild Oats XI"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/skallywag.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/skallywag.jpg"
 author: "Rick Spilman"
 description: "The five 100′ long maxi yachts dominated the 75th sailing of the Rolex Sydney Hobart Yacht Race, each finishing the 630 nautical mile race within the same two-hour window. Commanche took line honors finishing the race in 1 day, 18 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/skallywag.jpg)The five 100′ long maxi yachts dominated the 75th sailing of the [Rolex Sydney Hobart Yacht Race](https://www.rolexsydneyhobart.com/), each finishing the 630 nautical mile race within the same two-hour window. [Commanche](https://en.wikipedia.org/wiki/Comanche_\(yacht\)) took line honors finishing the race in 1 day, 18 hours, 30 minutes and 24 seconds.  She was followed closely by [*InfoTrack*](https://www.boatinternational.com/yachts/the-superyacht-directory/infotrack--96499), [*Wild Oats XI*](https://en.wikipedia.org/wiki/Wild_Oats_XI), [*SHK Scallywag 100*](https://www.rolexsydneyhobart.com/the-yachts/2019/shk-scallywag-100/), and *[Black Jack,](http://blackjackyachting.com/)* respectively.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/skallywag.jpg)The five 100′ long maxi yachts dominated the 75th sailing of the [Rolex Sydney Hobart Yacht Race](https://www.rolexsydneyhobart.com/), each finishing the 630 nautical mile race within the same two-hour window. [Commanche](https://en.wikipedia.org/wiki/Comanche_\(yacht\)) took line honors finishing the race in 1 day, 18 hours, 30 minutes and 24 seconds.  She was followed closely by [*InfoTrack*](https://www.boatinternational.com/yachts/the-superyacht-directory/infotrack--96499), [*Wild Oats XI*](https://en.wikipedia.org/wiki/Wild_Oats_XI), [*SHK Scallywag 100*](https://www.rolexsydneyhobart.com/the-yachts/2019/shk-scallywag-100/), and *[Black Jack,](http://blackjackyachting.com/)* respectively.
 
 The standings in the race may have been altered by an unfortunate collision by *Scallywag* and a shark.
 

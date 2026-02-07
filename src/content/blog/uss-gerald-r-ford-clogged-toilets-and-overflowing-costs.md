@@ -11,12 +11,12 @@ tags:
   - "US Navy"
   - "USS George H.W. Bush"
   - "USS Gerald R. Ford"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg"
 author: "Rick Spilman"
 description: "The US Navy’s newest aircraft carrier, USS Gerald R. Ford, is the largest aircraft carrier ever built and, at over $13 billion, is also the most expensive. Nevertheless, because of problems with mission-critical systems, the ship has been referred to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg)The US Navy’s newest aircraft carrier, [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford), is the largest aircraft carrier ever built and, at over $13 billion, is also the most expensive. Nevertheless, because of problems with [mission-critical systems](https://www.thedrive.com/the-war-zone/30626/top-navy-official-lashes-out-over-troubled-new-carrier-that-may-not-be-ready-until-2024-now), the ship has been referred to by one critic as nothing more than a “[nuclear-powered berthing barge](https://taskandpurpose.com/military-tech/navy-aircraft-carrier-maintenance-delays).” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg)The US Navy’s newest aircraft carrier, [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford), is the largest aircraft carrier ever built and, at over $13 billion, is also the most expensive. Nevertheless, because of problems with [mission-critical systems](https://www.thedrive.com/the-war-zone/30626/top-navy-official-lashes-out-over-troubled-new-carrier-that-may-not-be-ready-until-2024-now), the ship has been referred to by one critic as nothing more than a “[nuclear-powered berthing barge](https://taskandpurpose.com/military-tech/navy-aircraft-carrier-maintenance-delays).” 
 
 Unfortunately, a recent [GAO report](https://www.gao.gov/assets/710/705463.pdf) on unaccounted maintenance costs suggests that the *Ford* may not be so great as a berthing barge either. The problem? The toilets and the entire sewage system tends to get easily clogged. When this happens, the Navy has to flush the system with acid to clear it at a reported cost of $400,000. How often does this happen? The GAO says that the Navy cannot say.
 

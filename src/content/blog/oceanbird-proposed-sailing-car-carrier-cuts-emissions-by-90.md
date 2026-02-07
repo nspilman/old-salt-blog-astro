@@ -10,12 +10,12 @@ tags:
   - "five-masted sailing car carrier"
   - "Oceanbird"
   - "Wallenius Marine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/oceanbird.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/oceanbird.jpg"
 author: "Rick Spilman"
 description: "A Swedish consortium that includes Wallenius Marine has designed Oceanbird, a five-masted sailing car carrier, that could have a huge impact on the development of modern commercial sail.  The design is intended to be finished in 2021 with potential delivery … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/oceanbird.jpg)A Swedish consortium that includes [Wallenius Marine](https://www.walleniusmarine.com/our-services/ship-design-newbuilding/ship-design/wind-powered-vessels/) has designed [*Oceanbird*](https://www.oceanbirdwallenius.com/), a five-masted sailing car carrier, that could have a huge impact on the development of modern commercial sail.  The design is intended to be finished in 2021 with potential delivery by 2025.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/oceanbird.jpg)A Swedish consortium that includes [Wallenius Marine](https://www.walleniusmarine.com/our-services/ship-design-newbuilding/ship-design/wind-powered-vessels/) has designed [*Oceanbird*](https://www.oceanbirdwallenius.com/), a five-masted sailing car carrier, that could have a huge impact on the development of modern commercial sail.  The design is intended to be finished in 2021 with potential delivery by 2025.
 
 *Oceanbird* is a revolutionary design. It is not a small vessel. Whereas [another sailing ro/ro project](http://www.oldsaltblog.com/2019/08/neoline-to-build-sailing-car-carriers-at-neopolia/) is working toward building a ship with a capacity of fewer than 500 vehicles, the *Oceanbird* design is a full-sized car carrier, 200 meters long with a 40 meter beam, and a capacity to carry 7,000 vehicles. If built, *Oceanbird* will be the largest sailing cargo ship that the world has ever seen.
 

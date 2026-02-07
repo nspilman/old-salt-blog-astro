@@ -13,12 +13,12 @@ tags:
   - "dreadnought"
   - "drydock"
   - "USS Texas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/battleshiptexas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/battleshiptexas.jpg"
 author: "Rick Spilman"
 description: "For years, we have been following the valiant efforts to keep the battleship USS Texas afloat at its berth in the Buffalo Bayou at the San Jacinto Battleground Historic Site in La Porte, Texas. Now, the Battleship Texas Foundation has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/battleshiptexas.jpg)For years, [we have been following](https://www.oldsaltblog.com/?s=uss+texas+-richard+-vestal+-carnival++-veep&x=17&y=3) the valiant efforts to keep the battleship [USS *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)) afloat at its berth in the Buffalo Bayou at the [San Jacinto Battleground Historic Site](https://www.thc.texas.gov/historic-sites/san-jacinto-battleground-state-historic-site) in La Porte, Texas. Now, the [Battleship Texas Foundation](https://battleshiptexas.org/) has announced that the historic ship, commissioned in 1914 and the last surviving dreadnought as well as the only battleship in existence today that fought in both World War I and World War II, will move to a drydock in 2022 for critical repairs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/battleshiptexas.jpg)For years, [we have been following](https://www.oldsaltblog.com/?s=uss+texas+-richard+-vestal+-carnival++-veep&x=17&y=3) the valiant efforts to keep the battleship [USS *Texas*](https://en.wikipedia.org/wiki/USS_Texas_\(BB-35\)) afloat at its berth in the Buffalo Bayou at the [San Jacinto Battleground Historic Site](https://www.thc.texas.gov/historic-sites/san-jacinto-battleground-state-historic-site) in La Porte, Texas. Now, the [Battleship Texas Foundation](https://battleshiptexas.org/) has announced that the historic ship, commissioned in 1914 and the last surviving dreadnought as well as the only battleship in existence today that fought in both World War I and World War II, will move to a drydock in 2022 for critical repairs.
 
 From the [announcement](https://battleshiptexas.org/battleship-updates/):
 

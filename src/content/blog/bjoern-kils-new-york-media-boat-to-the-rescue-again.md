@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Bjoern Kils & New York Media Boat rescue three people in New York's East River near South Street Seaport"
 ---
 
-![newyorkmboat](http://www.oldsaltblog.com/wp-content/uploads/2014/08/newyorkmboat.jpg)On Tuesday, the [New York Media Boat](http://nymediaboat.com/)‘s 2pm Adventure Sightseeing Tour was interrupted just off South Street Seaport, when the boat captain, Bjoern Kils, spotted three people in the water near Pier 15.  They immediatey went to help.  Bjoern [describes what happened next in his blog](http://nymediaboat.com/2014/08/rescue-at-south-street-seaport/):
+![newyorkmboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/newyorkmboat.jpg)On Tuesday, the [New York Media Boat](http://nymediaboat.com/)‘s 2pm Adventure Sightseeing Tour was interrupted just off South Street Seaport, when the boat captain, Bjoern Kils, spotted three people in the water near Pier 15.  They immediatey went to help.  Bjoern [describes what happened next in his blog](http://nymediaboat.com/2014/08/rescue-at-south-street-seaport/):
 
 *When we arrived, two men were in the water trying to keep an unconscious victim afloat. Apparently, he had been handling lines for a large vessel when a line snapped, knocking him into the water.*
 

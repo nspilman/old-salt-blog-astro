@@ -10,12 +10,12 @@ categories:
 tags:
   - "eConowind"
   - "Ventfoils"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/econobox.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/econobox.jpg"
 author: "Rick Spilman"
 description: "Econology is a word that has been floating around the internet recently. A combination of economy and ecology, it refers to technology that is good for the ecology, while at the same time making economic sense. The Dutch firm eConowind … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/econobox.jpg)Econology is a word that has been floating around the internet recently. A combination of economy and ecology, it refers to technology that is good for the ecology, while at the same time making economic sense. The Dutch firm [eConowind](https://www.econowind.nl/) is seeking to apply econology to shipping. We recently posted about the [upcoming installation of two of eConowind’s Ventfoils](http://www.oldsaltblog.com/2019/09/dutch-shipowner-investing-in-new-ventifoil-wind-assist-technology/#more-53405) on the 3,600 DWT general cargo vessel *Ankie*, operated by Van Dam Shipping.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/econobox.jpg)Econology is a word that has been floating around the internet recently. A combination of economy and ecology, it refers to technology that is good for the ecology, while at the same time making economic sense. The Dutch firm [eConowind](https://www.econowind.nl/) is seeking to apply econology to shipping. We recently posted about the [upcoming installation of two of eConowind’s Ventfoils](http://www.oldsaltblog.com/2019/09/dutch-shipowner-investing-in-new-ventifoil-wind-assist-technology/#more-53405) on the 3,600 DWT general cargo vessel *Ankie*, operated by Van Dam Shipping.
 
 While the Ventfoils on the *Ankie* will be fixed, eCononsail also offers an innovative modular sail-assist product, which they developed by literally thinking inside the box.
 
@@ -29,4 +29,4 @@ In heavy and/or unfavorable wind conditions the Ventifoils can be easily stored 
 
 All equipment, like hydraulics, automation and ventilation are integrated in the containerized unit. The only support of the vessel to the unit is 400-460 V, 3 phase, 50-60 Hz power connection.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/econobox2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/econobox2.jpg)

@@ -8,7 +8,7 @@ categories:
 tags:
   - "Gavin Atkin"
   - "Hornpipe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/sundayhornpipe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/sundayhornpipe.jpg"
 author: "Rick Spilman"
 description: "Here is a fine hornpipe for a Saturday. It is the tune from \"Come Ashore, Jolly Tar, With Your Trousers On\" played by Gavin Atkin. For the lyrics go to In the Boat Shed. Jacky Tar … Continue reading &rarr;"
 ---

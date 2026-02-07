@@ -11,12 +11,12 @@ tags:
   - "Azipod"
   - "Norwegian Star"
   - "pod"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/norwegianstar200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/norwegianstar200.jpg"
 author: "Rick Spilman"
 description: "Azipods strike again. The Norwegian Star, operated by Norwegian Cruise Lines, was towed into Melbourne, Australia over the weekend after losing propulsion when the ship’s azipods failed, leaving the ship adrift last Friday. In the latest round of failures, the … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/norwegianstar2.jpg)Azipods](https://en.wikipedia.org/wiki/Azipod) strike again. The [*Norwegian Star*](https://en.wikipedia.org/wiki/Norwegian_Star), operated by Norwegian Cruise Lines, was [towed into Melbourne, Australia](http://www.travelweekly.com/Cruise-Travel/Norwegian-Star-towed-Melbourne) over the weekend after losing propulsion when the ship’s azipods failed, leaving the ship adrift last Friday. In the latest round of failures, the ship’s Azipods have been breaking down [on cruises since December](http://www.cruisecritic.com/news/news.cfm?ID=7495), which has limited the ship’s speed and resulted in cancelled port calls.  
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/norwegianstar2.jpg)Azipods](https://en.wikipedia.org/wiki/Azipod) strike again. The [*Norwegian Star*](https://en.wikipedia.org/wiki/Norwegian_Star), operated by Norwegian Cruise Lines, was [towed into Melbourne, Australia](http://www.travelweekly.com/Cruise-Travel/Norwegian-Star-towed-Melbourne) over the weekend after losing propulsion when the ship’s azipods failed, leaving the ship adrift last Friday. In the latest round of failures, the ship’s Azipods have been breaking down [on cruises since December](http://www.cruisecritic.com/news/news.cfm?ID=7495), which has limited the ship’s speed and resulted in cancelled port calls.  
 
 Pod failures have been a chronic problem on the *Norwegian Star.*  The sixteen year old ship has had intermittent problems with its Azipod propulsion system for at least the last 12 years, dating back to 2004. [Pod failures persisted through 2006](http://www.cruisereviews.com/forum/norwegian-cruise-line/26809-star-has-azipods-problems.html#b) and [then reemerged in 2015](http://www.seatrade-cruise.com/news/news-headlines/azipod-glitch-cancels-upcoming-14-day-norwegian-star-cruise.html) and have continued despite NCL efforts to repair the pods. 
 

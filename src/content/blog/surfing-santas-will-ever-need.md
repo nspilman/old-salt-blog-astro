@@ -6,7 +6,7 @@ excerpt: "It is a brisk Christmas morning on the west bank of the Hudson River a
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/ssanta2016.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/ssanta2016.jpg"
 author: "Rick Spilman"
 description: "It is a brisk Christmas morning on the west bank of the Hudson River and I will admit that I wouldn’t mind being a warmer climate right now. So, in the spirit of the holidays, here is a compilation video … Continue reading &rarr;"
 ---

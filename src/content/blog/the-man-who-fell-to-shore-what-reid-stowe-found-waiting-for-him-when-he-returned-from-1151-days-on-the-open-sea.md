@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "We have posted about Reid Stowe’s remarkable non-stop voyage of over 1100 days at sea.   Now that Reid has been home for several months, Adam Sternbergh writing in the New Yorker magazine has written a portrait of Reid’s voyage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/manatsea100927_560.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/manatsea100927_560.jpg)
 
 Soanya Ahmad, Reid Stowe, and their son, Darshen, aboard the Anne. (Photo: Gillian Laub)
 

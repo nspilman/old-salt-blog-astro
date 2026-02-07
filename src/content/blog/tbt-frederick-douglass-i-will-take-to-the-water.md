@@ -11,12 +11,12 @@ tags:
   - "Frederick Douglass"
   - "Maryland"
   - "slavery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/freddouglass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg"
 author: "Rick Spilman"
 description: "An updated repost in honor of Frederick Douglass and Black History Month.  Frederick Douglass was born around 1818. From an early age, he developed a close attachment to ships and the sea. His path to freedom led directly through the docks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/freddouglass.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg)
 
 Frederick Douglas
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On the heels of the centennial of the sinking of the Titanic, Australian mining billionaire Clive Palmer has announced his plans to build a 21st-century replica of the Titanic and sail it from England to New York accompanied by the Chinese navy by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/201204_Titanic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/201204_Titanic.jpg)
 
 Just like this, but not so sinkable
 

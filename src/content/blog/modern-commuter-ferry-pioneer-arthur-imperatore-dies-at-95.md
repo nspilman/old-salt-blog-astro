@@ -10,12 +10,12 @@ tags:
   - "commuter ferries"
   - "New York City"
   - "NY Waterway"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/imperatore.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/imperatore.jpg"
 author: "Rick Spilman"
 description: "Arthur E. Imperatore Sr., an entrepreneur who built a successful New York City commuter ferry system, died Nov. 18 at the age of 95. Imperatore founded NY Waterway in 1986 in Weehawken, NJ with a single route across the Hudson … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/imperatore.jpg)[Arthur E. Imperatore Sr](https://en.wikipedia.org/wiki/Arthur_Imperatore_Sr.)., an entrepreneur who built a successful New York City commuter ferry system, died Nov. 18 at the age of 95.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/imperatore.jpg)[Arthur E. Imperatore Sr](https://en.wikipedia.org/wiki/Arthur_Imperatore_Sr.)., an entrepreneur who built a successful New York City commuter ferry system, died Nov. 18 at the age of 95.
 
 Imperatore founded [NY Waterway](https://www.nywaterway.com/) in 1986 in Weehawken, NJ with a single route across the Hudson River to Pier 78 in New York. Once derided as “Arthur’s Folly,” he built the operation into an integrated ferry and bus service that has carried close to 300 million passengers. The success of NY Waterway helped to inspire a rebirth of commuter ferry services in New York harbor. The service also prompted the redevelopment of former railroad and industrial land in Weehawken, Edgewater, and other cities and towns on the west side of the Hudson River.
 

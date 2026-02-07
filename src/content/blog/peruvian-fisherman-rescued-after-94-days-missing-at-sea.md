@@ -6,12 +6,12 @@ excerpt: "A remarkable story of survival against all odds. A Peruvian fisherman 
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/peruvianfishermanrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/peruvianfishermanrescue.jpg"
 author: "Rick Spilman"
 description: "A remarkable story of survival against all odds. A Peruvian fisherman was found alive after drifting at sea for 94 days, a navy official said.  Maximo Napa, 61, was rescued in his small fishing boat on Tuesday after being spotted by … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/peruvianfishermanrescue.jpg)A remarkable story of survival against all odds. [A Peruvian fisherman was found alive](https://www.cbsnews.com/news/fisherman-found-alive-90-days-at-sea-peru-ate-turtles/) after drifting at sea for 94 days, a navy official said.  Maximo Napa, 61, was rescued in his small fishing boat on Tuesday after being spotted by an Ecuadoran vessel off the coast of Chimbote in northern Peru.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/peruvianfishermanrescue.jpg)A remarkable story of survival against all odds. [A Peruvian fisherman was found alive](https://www.cbsnews.com/news/fisherman-found-alive-90-days-at-sea-peru-ate-turtles/) after drifting at sea for 94 days, a navy official said.  Maximo Napa, 61, was rescued in his small fishing boat on Tuesday after being spotted by an Ecuadoran vessel off the coast of Chimbote in northern Peru.
 
 In a tearful interview, he told local media that he had survived at sea by eating cockroaches, birds, and turtles.
 

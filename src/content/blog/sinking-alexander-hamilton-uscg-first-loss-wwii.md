@@ -7,12 +7,12 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/uscgalexh-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/uscgalexh-1.jpg"
 author: "Rick Spilman"
 description: "Seventy five years ago today, the USCG Cutter Alexander Hamilton was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the \"Father of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/uscgalexh.jpg)Seventy five years ago today, the USCG Cutter *[Alexander Hamilton](https://www.uscg.mil/history/articles/Hamiltonsinking.asp)* was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the “Father of the US Coast Guard.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/uscgalexh.jpg)Seventy five years ago today, the USCG Cutter *[Alexander Hamilton](https://www.uscg.mil/history/articles/Hamiltonsinking.asp)* was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the “Father of the US Coast Guard.”
 
 On January 29, 1942, the 327′ long Treasury-class United States Coast Guard Cutter *Alexander Hamilton* was patrolling the Icelandic coast near Reykjavík when she was torpedoed by the German submarine U-132. The torpedo struck on the starboard side between the fireroom and the engine room. Twenty sailors died in the initial explosion and six more subsequently died from burns.  The ship’s wartime compliment was 221 officers and crew.
 

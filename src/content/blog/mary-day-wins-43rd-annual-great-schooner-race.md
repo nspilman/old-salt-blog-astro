@@ -13,12 +13,12 @@ tags:
   - "Mary Day"
   - "Penobscot Bay"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/maryday1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/maryday1.jpg"
 author: "Rick Spilman"
 description: "On July 5, in a very close race, the schooner Mary Day won the 43rd Annual Great Schooner Race.  Fourteen schooners sailed in Penobscot Bay from Gilkey Harbor in Islesboro to the finish line at the Rockland Breakwater Lighthouse in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/maryday1.jpg)On July 5, in a very close race, the schooner [*Mary Day*](https://schoonermaryday.com/) won the [43rd Annual Great Schooner Race](http://www.greatschoonerrace.com/).  Fourteen schooners sailed in Penobscot Bay from Gilkey Harbor in Islesboro to the finish line at the Rockland Breakwater Lighthouse in the race sponsored by the [Maine Windjammer Association](https://sailmainecoast.com/?gclid=CjwKCAjwmZbpBRAGEiwADrmVXrBApJbPgVCakorrV80DAdLlDLZ_jN4cCc66NGOa-BbUuk8jYmOsoxoCA6YQAvD_BwE). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/maryday1.jpg)On July 5, in a very close race, the schooner [*Mary Day*](https://schoonermaryday.com/) won the [43rd Annual Great Schooner Race](http://www.greatschoonerrace.com/).  Fourteen schooners sailed in Penobscot Bay from Gilkey Harbor in Islesboro to the finish line at the Rockland Breakwater Lighthouse in the race sponsored by the [Maine Windjammer Association](https://sailmainecoast.com/?gclid=CjwKCAjwmZbpBRAGEiwADrmVXrBApJbPgVCakorrV80DAdLlDLZ_jN4cCc66NGOa-BbUuk8jYmOsoxoCA6YQAvD_BwE). 
 
 The first to cross the finish line was the schooner [*Columbia*](https://panamacityliving.com/homeport-and-destinations-brian-disernias-schooner-columbia/), a modern steel replica of the 1923 A.J. Story-built schooner. The 141′ LOD *Columbia* had a 20-minute handicap over the 90′ LOD *Mary Day*. *Mary Day* finished the race 19 minutes and 16 seconds after the Columbia and was awarded the Great Schooner Race Cutty Sark Award, on corrected time.
 

@@ -13,12 +13,12 @@ tags:
   - "long-finned pilot whales"
   - "record slaughter"
   - "white-sided dolphins"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/grind.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/grind.jpg"
 author: "Rick Spilman"
 description: "The inhabitants of the Faroe Islands, a windswept archipelago in the North Atlantic roughly halfway between Norway and Iceland, have been hunting long-finned pilot whales and white-sided dolphins for food for almost a thousand years. The summer hunt is known … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/grind.jpg)The inhabitants of the [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), a windswept archipelago in the North Atlantic roughly halfway between Norway and Iceland, have been hunting long-finned pilot whales and white-sided dolphins for food for almost a thousand years. The summer hunt is known as the Grindadráp, often called the Grind, and typically slaughters around 600 whales. The whale meat is considered a key part of Faroese culture and is shared among the community. The grind has been the target of international protests for years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/grind.jpg)The inhabitants of the [Faroe Islands](https://en.wikipedia.org/wiki/Faroe_Islands), a windswept archipelago in the North Atlantic roughly halfway between Norway and Iceland, have been hunting long-finned pilot whales and white-sided dolphins for food for almost a thousand years. The summer hunt is known as the Grindadráp, often called the Grind, and typically slaughters around 600 whales. The whale meat is considered a key part of Faroese culture and is shared among the community. The grind has been the target of international protests for years.
 
 This year was more brutal than ever before. Faroese hunters corralled an extremely large pod of white-sided dolphins in a fjord and butchered a record 1,428 dolphins in a single day. 
 

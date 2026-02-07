@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A quarter of a million LEGO blocks!   That is what it took to build the model of the Pacific Princess \"Love Boat\"  in LEGOs. The model took six months to construct, is 10.5 feet long and 5 feet high.   … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/lovelego1.jpg)](http://www.flickr.com/photos/ryanmcnaught/5364414007/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/lovelego1.jpg)](http://www.flickr.com/photos/ryanmcnaught/5364414007/)
 
 Interior Bow of the LEGO "Love Boat"
 

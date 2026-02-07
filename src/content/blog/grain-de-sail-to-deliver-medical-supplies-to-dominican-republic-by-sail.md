@@ -14,12 +14,12 @@ tags:
   - "Grain de Sail"
   - "MOSCTHA Association"
   - "St. Malo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/graindesail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/graindesail.jpg"
 author: "Rick Spilman"
 description: "In what is described as the first carbon-free humanitarian logistics effort, Grain de Sail has announced that it is partnering with two non-profits to deliver unused medical supplies from New York to the Dominican Republic by sail. Grain de Sail … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/graindesail.jpg)In what is described as the first carbon-free humanitarian logistics effort, [Grain de Sail](https://graindesailwines.com/grain-de-sail) has announced that it is partnering with two non-profits to deliver unused medical supplies from New York to the Dominican Republic by sail.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/graindesail.jpg)In what is described as the first carbon-free humanitarian logistics effort, [Grain de Sail](https://graindesailwines.com/grain-de-sail) has announced that it is partnering with two non-profits to deliver unused medical supplies from New York to the Dominican Republic by sail.
 
 [Grain de Sail](https://graindesail.com/en/) is a French company that sells fine chocolates, coffee, and organic wines.  Its cargo-sailboat, a modern 72′ schooner, was built to carry wines across the Atlantic from St. Malo, France to New York and then pick up cocoa and coffee in the Dominican Republic and return to France. The schooner is currently on its [third transatlantic voyage](https://graindesailwines.com/sailings/fall-2021), bound for New York City, carrying 10,000 bottles of wine.
 

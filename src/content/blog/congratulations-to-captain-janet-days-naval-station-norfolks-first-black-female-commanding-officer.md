@@ -13,12 +13,12 @@ tags:
   - "Naval Station Norfolk"
   - "Naval Station Norfolk’s 51st commanding officer"
   - "world’s largest naval base"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/captdays.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/captdays.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Captain Janet Days due to take command as Naval Station Norfolk’s 51st commanding officer in a change of command ceremony today. Captain Days is the first Black woman commanding officer of the world’s largest naval base. Days will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/captdays.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/captdays.jpg)
 
 Congratulations to [Captain Janet Days](https://cnrma.cnic.navy.mil/About/Leadership/Bio-Detail/Article/2965129/xo/) due to [take command as Naval Station Norfolk’s 51st commanding officer](https://www.wavy.com/news/local-news/norfolk/naval-station-norfolk-to-welcome-first-black-female-commanding-officer/) in a change of command ceremony today. Captain Days is the first Black woman commanding officer of the world’s largest naval base.
 

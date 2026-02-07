@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "When, many, many years ago, I moved from Florida to Michigan to go to school,  I stopped scuba diving entirely.  I had learned to dive in the warm and clear waters of the Florida keys. Why would I want to dive … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/9707688-large.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/9707688-large.jpg)
 
 Photo : Doug Bell
 

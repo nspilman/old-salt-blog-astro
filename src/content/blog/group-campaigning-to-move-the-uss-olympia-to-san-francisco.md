@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A group of former workers at the Mare Island Naval Shipyard in the San Francisco Bay Area has launched a campaign to bring the USS Olympia to San Pablo Bay.  The Olympia, Commodore George Dewey’s flagship at the Battle of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/olympia3.jpg)A group of former workers at the Mare Island Naval Shipyard in the San Francisco Bay Area has launched a campaign to bring the *USS Olympia* to San Pablo Bay.  The *Olympia*, Commodore George Dewey’s flagship at the Battle of Manila Bay, is the only surviving steel warship of its era.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/olympia3.jpg)A group of former workers at the Mare Island Naval Shipyard in the San Francisco Bay Area has launched a campaign to bring the *USS Olympia* to San Pablo Bay.  The *Olympia*, Commodore George Dewey’s flagship at the Battle of Manila Bay, is the only surviving steel warship of its era.
 
 [USS Olympia may find home in San Francisco](http://www.thenewstribune.com/2011/01/20/1509784/uss-olympia-may-find-home-in-san.html)  
   

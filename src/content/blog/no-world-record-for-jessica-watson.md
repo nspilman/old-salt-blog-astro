@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "When Jessica Watson arrives back in Australia in a few weeks, she may be the youngest person to have circumnavigated the world non-stop, but she will not necessarily be granted the record for doing so.  According to the rules laid … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Jessica2.jpg)When Jessica Watson arrives back in Australia in a few weeks, she may be the youngest person to have circumnavigated the world non-stop, but she will not necessarily be granted the record for doing so.  According to the rules laid down by the [World Sailing Speed Record Council](http://www.sailspeedrecords.com/the-courses-offshore.html) a circumnavigation is defined as follows :
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Jessica2.jpg)When Jessica Watson arrives back in Australia in a few weeks, she may be the youngest person to have circumnavigated the world non-stop, but she will not necessarily be granted the record for doing so.  According to the rules laid down by the [World Sailing Speed Record Council](http://www.sailspeedrecords.com/the-courses-offshore.html) a circumnavigation is defined as follows :
 
 *To sail around the World, a vessel must start from and return to the same point, must cross all meridians of longitude and must cross the Equator. It may cross some but not all meridians more than once (i.e. two roundings of Antarctica do not count). The shortest orthodromic track of the vessel must be at least 21,600 nautical miles in length calculated based on a ‘perfect sphere’.*  
   

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Thirty five years ago today the ore carrier Edmund Fitzgerald, loaded with more 26,000 tons of taconite pellets, sank in a November gale in Lake Superior. All 29 of her officers and crew were lost. The sinking was the greatest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/edmundfitzgerald.jpg)Thirty five years ago today the ore carrier *[Edmund Fitzgerald](http://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald)*, loaded with more 26,000 tons of taconite pellets, sank in a November gale in Lake Superior. All 29 of her officers and crew were lost. The sinking was the greatest disaster in the history of the Great Lakes and was made legendary by a song by Canadian folk singer Gordon Light foot. (A video of the song after the jump)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/edmundfitzgerald.jpg)Thirty five years ago today the ore carrier *[Edmund Fitzgerald](http://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald)*, loaded with more 26,000 tons of taconite pellets, sank in a November gale in Lake Superior. All 29 of her officers and crew were lost. The sinking was the greatest disaster in the history of the Great Lakes and was made legendary by a song by Canadian folk singer Gordon Light foot. (A video of the song after the jump)
 
 Despite repeated investigation of the wreck site, no single cause for the sinking has been agreed on. The US Coast Guard analysis suggested that ineffective closure of the hatch covers could have caused the sinking while the Lake Carriers Association believe it was due to damage following a grounding.  A third theory suggests that a rogue wave sank the ship.
 

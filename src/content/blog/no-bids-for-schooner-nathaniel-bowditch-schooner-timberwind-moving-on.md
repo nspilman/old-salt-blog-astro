@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Sadly, just before Christmas, the schooner Nathaniel Bowditch, owned by Owen and Cathie Dorr, was seized at its Rockland Harbor berth in Lermond Cove by U.S. Marshals and towed to Camden Harbor, Maine.  The Nathaniel Bowditch is one of the … Continue reading &rarr;"
 ---
 
-![Photo: Alex Plummer USHarbors.com](http://www.oldsaltblog.com/wp-content/uploads/2014/02/the_nathaniel_bowditch.jpg)
+![Photo: Alex Plummer USHarbors.com](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/the_nathaniel_bowditch.jpg)
 
 Nathaniel Bowditch Photo: Alex Plummer USHarbors.com
 
@@ -25,7 +25,7 @@ Sadly, just before Christmas, the schooner *[Nathaniel Bowditch](https://www.goo
 
 The *Nathaniel Bowditch* is a 1922 built, 82′ LOA schooner, certified to carry 30 passengers.  A [recent survey](http://www.penbaypilot.com/sites/default/files/SurveyAppraisal_1-15.pdf) valued the schooner at $700,000. When the schooner went to auction last Friday, the minimum required opening bid was $250,000.  Nevertheless, there were no bids and the auction ended after 27 seconds.  Lacking bidders, the schooner remains with the mortgage holder.
 
-![Timberwind](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Timberwind.jpg)
+![Timberwind](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Timberwind.jpg)
 
 Timberwind
 

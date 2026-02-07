@@ -14,12 +14,12 @@ tags:
   - "National Oceanic and Atmospheric Administration"
   - "NOAA"
   - "Project 2025"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/noaalogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/noaalogo.jpg"
 author: "Rick Spilman"
 description: "Yesterday, hundreds of weather forecasters and other federal National Oceanic and Atmospheric Administration (NOAA) employees were fired, lawmakers and weather experts said.  Federal workers who were not let go said the afternoon layoffs included meteorologists who do crucial local forecasts … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/noaalogo.jpg)Yesterday, [hundreds of weather forecasters](https://www.kbtx.com/2025/02/28/hundreds-employees-be-cut-noaa-former-chief-scientist-administration-says/) and other federal [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) (NOAA) employees were fired, lawmakers and weather experts said.  Federal workers who were not let go said the afternoon layoffs included meteorologists who do crucial local forecasts in National Weather Service offices across the country.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/noaalogo.jpg)Yesterday, [hundreds of weather forecasters](https://www.kbtx.com/2025/02/28/hundreds-employees-be-cut-noaa-former-chief-scientist-administration-says/) and other federal [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) (NOAA) employees were fired, lawmakers and weather experts said.  Federal workers who were not let go said the afternoon layoffs included meteorologists who do crucial local forecasts in National Weather Service offices across the country.
 
 Cuts at NOAA appeared to be happening in two rounds, one of 500 and one of 800, said Craig McLean, a former NOAA chief scientist who said he got the information from someone with first-hand knowledge. That’s about 10% of NOAA’s workforce.
 

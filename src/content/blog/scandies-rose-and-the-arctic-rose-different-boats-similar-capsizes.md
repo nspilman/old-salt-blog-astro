@@ -11,12 +11,12 @@ categories:
 tags:
   - "Arctic Rose"
   - "Scandies Rose"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/articrosemystery.jpg"
 author: "Rick Spilman"
 description: "On New Year’s Eve, in 20-foot seas and high winds, the 130′ crab boat Scandies Rose operating off the Alaska Peninsula, developed a starboard list and suddenly capsized. Two of the seven crew were able to don exposure suits and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg)On New Year’s Eve, in 20-foot seas and high winds, the 130′ crab boat [*Scandies Rose*](http://scandiesrose.com/?p=1&cpage=1) operating off the Alaska Peninsula, developed a starboard list and suddenly capsized. [Two of the seven crew](https://www.nytimes.com/2020/01/09/us/alaska-fishing-boat-sank-scandies-rose-coast-guard.html) were able to don exposure suits and were ultimately rescued. The remaining [five crew are missing](https://www.nytimes.com/2020/01/01/us/scandies-rose-fishing-boat-alaska.html?action=click&module=RelatedLinks&pgtype=Article) and presumed dead. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/articrosemystery.jpg)On New Year’s Eve, in 20-foot seas and high winds, the 130′ crab boat [*Scandies Rose*](http://scandiesrose.com/?p=1&cpage=1) operating off the Alaska Peninsula, developed a starboard list and suddenly capsized. [Two of the seven crew](https://www.nytimes.com/2020/01/09/us/alaska-fishing-boat-sank-scandies-rose-coast-guard.html) were able to don exposure suits and were ultimately rescued. The remaining [five crew are missing](https://www.nytimes.com/2020/01/01/us/scandies-rose-fishing-boat-alaska.html?action=click&module=RelatedLinks&pgtype=Article) and presumed dead. 
 
 I was struck by the similarities between the loss of the *Scandies Rose* and the [*Arctic Rose*](https://www.smithsonianchannel.com/shows/disasters-at-sea/the-arctic-rose-mystery/1005669/3478922), nineteen years ago. The two boats were very different. *Scandies Rose* was a crabber in the Gulf of Alaska, whereas the *Arctic Rose* was a trawler fishing for sole in the Bering Sea.
 

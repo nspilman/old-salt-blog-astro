@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a \"disgusting smell.\"  Nor, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/fishdock.jpg)Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a “disgusting smell.”  Nor, for that matter, were the fish pleasent to look at.  [As reported by the Telegraph, via Yahoo](http://uk.travel.yahoo.com/p-promo-3361576):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/fishdock.jpg)Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a “disgusting smell.”  Nor, for that matter, were the fish pleasent to look at.  [As reported by the Telegraph, via Yahoo](http://uk.travel.yahoo.com/p-promo-3361576):
 
 *The 46-year-old was outraged that his children, aged seven and nine, had been forced to endure the sight of 12 crates of dead fish and crabs, piled up on the quayside.*    
 

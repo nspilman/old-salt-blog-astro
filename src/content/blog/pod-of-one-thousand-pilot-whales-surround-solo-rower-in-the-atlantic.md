@@ -13,12 +13,12 @@ tags:
   - "pilot whales"
   - "solo rower"
   - "Tom Waddinton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/pilotwhalesrower.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilotwhalesrower.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the tragic stranding on a beach in the Orkneys that resulted in the deaths of 77 long-finned pilot whales.  Here is a much more cheerful story involving a pod of pilot whales and a solo transatlantic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/pilotwhalesrower.jpg)Yesterday, we [posted about the tragic stranding](https://www.oldsaltblog.com/2024/07/pod-of-77-pilot-whales-die-after-stranding-on-orkney-beach/) on a beach in the Orkneys that resulted in the deaths of 77 long-finned pilot whales.  Here is a much more cheerful story involving a pod of pilot whales and a solo transatlantic rower.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/pilotwhalesrower.jpg)Yesterday, we [posted about the tragic stranding](https://www.oldsaltblog.com/2024/07/pod-of-77-pilot-whales-die-after-stranding-on-orkney-beach/) on a beach in the Orkneys that resulted in the deaths of 77 long-finned pilot whales.  Here is a much more cheerful story involving a pod of pilot whales and a solo transatlantic rower.
 
 [Tom Waddington set off on an attempt to break the world record](https://mindoarmatter.com/) for rowing solo across the Atlantic, while also raising money for the [mental health charity Mind](https://www.mind.org.uk/). Last Sunday, some 100 nautical miles off the coast of Newfoundland, he had an unexpected visit by what he estimates was a pod of at least a thousand long-finned pilot whales that playfully swam around his boat for several hours.
 

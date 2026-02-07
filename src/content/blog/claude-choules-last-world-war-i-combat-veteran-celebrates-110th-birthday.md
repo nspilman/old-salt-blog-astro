@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Claude Choules, the last surviving combat veteran of World War I celebrated his 110th birthday with family and friends in Perth earlier this month.   Though he served in two World Wars, the first in the Royal Navy and the second in … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg)](http://www.amazon.com/gp/product/1845966317/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1845966317)Claude Choules, the last surviving combat veteran of World War I celebrated his 110th birthday with family and friends in Perth earlier this month.   Though he served in two World Wars, the first in the Royal Navy and the second in the Australian Navy, he hated war according to his son, who said that he only marched in Anzac Day parades when he was ordered to.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg)](http://www.amazon.com/gp/product/1845966317/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1845966317)Claude Choules, the last surviving combat veteran of World War I celebrated his 110th birthday with family and friends in Perth earlier this month.   Though he served in two World Wars, the first in the Royal Navy and the second in the Australian Navy, he hated war according to his son, who said that he only marched in Anzac Day parades when he was ordered to.
 
 [Claude Choules, last World War I veteran ‘hated war,’ says son](http://www.perthnow.com.au/news/claude-choules-last-world-war-i-veteran-hated-war-says-son/story-e6frg12c-1226015338023)
 

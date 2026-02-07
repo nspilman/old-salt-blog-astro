@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A near record drought has lowered the water levels on the Rhine River, Europe’s most important inland maritime waterway, by five feet below average, stopping many ships and barges from trading.  In several locations, river levels have fallen to one hundred year lows.  To … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/rhine_2064003b.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/rhine_2064003b.jpg)
 
 Bomb disposal experts blow up an incendiary bomb near Cologne Photo: DPA
 

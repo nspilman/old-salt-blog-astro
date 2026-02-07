@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We have recently posted about the roller coaster ride that has been container ship design over the last few decades.  See Containerships – from Slow to Fast to Slow to Fast to Slow Again.  The smartest minds in the shipping … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/MAERSK_BEAUMONT.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/MAERSK_BEAUMONT.jpg)
 
 MAERSK BEAUMONT Photo: Hannes van Rijn http://www.marinetraffic.com
 

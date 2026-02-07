@@ -10,7 +10,7 @@ tags:
   - "Battle of Trafalgar"
   - "BC Highland Games"
   - "Strictly Scottish dance team"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/strictlyscottish.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/strictlyscottish.jpg"
 author: "Rick Spilman"
 description: "I like it, even if I am not sure I understand it. Here is the Strictly Scottish dance team dancing a ‘Battle of Trafalgar’ medley at the BC Highland Games of 2023. Thanks to Frank Hanavan for pointing it out. … Continue reading &rarr;"
 ---

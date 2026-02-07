@@ -17,13 +17,13 @@ author: "Rick Spilman"
 description: "What is history? What is fiction?  These seem to be straightforward questions. The conventional answer would be that history is what happened and fiction are the stories that we make up.  In writing my recent novel I was faced with … Continue reading &rarr;"
 ---
 
-![Ship British Isles](http://www.oldsaltblog.com/wp-content/uploads/2013/09/britishislessmall1.jpg)
+![Ship British Isles](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/britishislessmall1.jpg)
 
 Ship British Isles
 
 What is history? What is fiction?  These seem to be straightforward questions. The conventional answer would be that history is what happened and fiction are the stories that we make up.  In writing my recent novel I was faced with these questions and have come away with only more questions.  My novel, [*Hell Around the Horn*](http://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7), is based on an actual voyage of the British windjammer, *British Isles*, from Cardiff, Wales to Pisaqua, Chile in the the terrible Cape Horn winter of 1905. Unlike most windjammer voyages of the late 19th and early 20th centuries, the 1905 voyage of the *British Isles* was very well documented.  And that is where the troubles start.
 
-![Captain James Barker 1934](http://www.oldsaltblog.com/wp-content/uploads/2013/09/barkersmall.jpg)
+![Captain James Barker 1934](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/barkersmall.jpg)
 
 Captain James Barker 1934
 

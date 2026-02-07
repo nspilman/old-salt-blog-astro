@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Zheng He’s fleet of ships has been the subject of mystery and myth for centuries.   Now a joint  Chinese-Kenyan expedition to excavate where one of his fleet is thought to have been sunk in the 15th century may finally shed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/zheng-he-boat.jpg)Zheng He’s fleet of ships has been the subject of mystery and myth for centuries.   Now a joint  Chinese-Kenyan expedition to excavate where one of his fleet is thought to have been sunk in the 15th century may finally shed light on the amazing exploits of the legendary Chinese navigator.  Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing the article along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/zheng-he-boat.jpg)Zheng He’s fleet of ships has been the subject of mystery and myth for centuries.   Now a joint  Chinese-Kenyan expedition to excavate where one of his fleet is thought to have been sunk in the 15th century may finally shed light on the amazing exploits of the legendary Chinese navigator.  Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing the article along.
 
 [Experts set to unravel puzzle of a Chinese ship that sank near Lamu](http://www.nation.co.ke/News/regional/-/1070/965156/-/9a6t5r/-/index.html)  
   

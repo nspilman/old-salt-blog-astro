@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Update: CNN is now reporting that there are three dead blue whales on nearby beaches in Newfoundland. Thanks to Phil Leon for the heads-up. In case you missed the news, a dead 25m (81ft) blue whale has drifted ashore on the … Continue reading &rarr;"
 ---
 
-![_74525457_nfwhale1](http://www.oldsaltblog.com/wp-content/uploads/2014/05/74525457_nfwhale1.jpg)Update: [CNN is now reporting that there are three dead blue whales](http://www.cnn.com/2014/04/30/world/blue-whale-carcass-problem/) on nearby beaches in Newfoundland. Thanks to Phil Leon for the heads-up.
+![_74525457_nfwhale1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/74525457_nfwhale1.jpg)Update: [CNN is now reporting that there are three dead blue whales](http://www.cnn.com/2014/04/30/world/blue-whale-carcass-problem/) on nearby beaches in Newfoundland. Thanks to Phil Leon for the heads-up.
 
 In case you missed the news, [a dead 25m (81ft) blue whale has drifted ashore](http://www.bbc.com/news/world-us-canada-27210992) on the rocky beach of Trout River on the island of Newfoundland, Canada.  It was believed to have died in heavy ice several weeks ago.  The now decaying whale is bloating with methane gas as it decomposes.  As local officials and federal authorities argue over who is responsible for the whale’s removal, there is a real concern that the whale may explode. Last year a sperm whale carcass that washed up on the Faroe Islands exploded as a biologist attempted to dissect it.  (Video after the page break.)
 

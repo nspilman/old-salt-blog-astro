@@ -12,12 +12,12 @@ tags:
   - "Loch Ness monster"
   - "quest weekend"
   - "thermal-imaging drones"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/lochness.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lochness.jpg"
 author: "Rick Spilman"
 description: "Over the weekend of August 26th and 27th, hundreds of volunteers gathered on the shores and on the waters of Loch Ness for what was billed as the largest search for the Loch Ness monster in 50 years. What was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/lochness.jpg)Over the weekend of August 26th and 27th, hundreds of volunteers gathered on the shores and on the waters of Loch Ness for what was billed as the largest search for the Loch Ness monster in 50 years. What was discovered during the “quest” weekend?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lochness.jpg)Over the weekend of August 26th and 27th, hundreds of volunteers gathered on the shores and on the waters of Loch Ness for what was billed as the largest search for the Loch Ness monster in 50 years. What was discovered during the “quest” weekend?
 
 The so-called monster proved to be elusive, despite hundreds of searchers using everything from binoculars and webcams to thermal-imaging drones and hydrophones. With live streaming of the event, the world was invited to observe, but sadly for the Nessie enthusiasts, the monster did not show.
 

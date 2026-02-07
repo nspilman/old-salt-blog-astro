@@ -10,7 +10,7 @@ tags:
   - "blue whale"
   - "drone"
   - "krill"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/krillfeed.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/krillfeed.jpg"
 author: "Rick Spilman"
 description: "Something to take one’s mind off the apocalyptic hurricane bearing down on the west coast of Florida. Rare images of blue whale feeding behavior Krill Joy From Slate:This video catches a rare glimpse of a gigantic, lunge-feeding blue whale deciding … Continue reading &rarr;"
 ---

@@ -11,12 +11,12 @@ tags:
   - "East Antarctica"
   - "glaciers"
   - "Heat Wave"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/congerice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/congerice.jpg"
 author: "Rick Spilman"
 description: "Reuters reports that an East Antarctica ice shelf almost the size of Los Angeles disintegrated this month following a period of extreme heat in the region, according to scientists. Satellite images show the 1,200 square-kilometer Conger Ice Shelf collapsed completely … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/congerice.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/congerice.jpg)
 
 [Reuters](https://www.reuters.com/business/environment/thinning-antarctic-ice-shelf-finally-crumbles-after-heatwave-2022-03-25/) reports that an East Antarctica ice shelf almost the size of Los Angeles disintegrated this month following a period of extreme heat in the region, according to scientists. Satellite images show the 1,200 square-kilometer Conger Ice Shelf collapsed completely on or around March 15.
 

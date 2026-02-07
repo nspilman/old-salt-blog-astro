@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "In her long and varied career, the historic cutter Lilac has had many jobs. She served as a lighthouse and buoy tender — bringing supplies to lighthouse and maintaining aids to navigation. She also fought ship fires and rescued the keepers on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/05/lilacstern1.jpg)In her long and varied career, the historic cutter *[Lilac](http://lilacpreservationproject.org/home.html)* has had many jobs. She served as a lighthouse and buoy tender — bringing supplies to lighthouse and maintaining aids to navigation. She also fought ship fires and rescued the keepers on endangered offshore lighthouses. During World War II, she was armed with guns and depth charge, but never fired a shot in combat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilacstern1.jpg)In her long and varied career, the historic cutter *[Lilac](http://lilacpreservationproject.org/home.html)* has had many jobs. She served as a lighthouse and buoy tender — bringing supplies to lighthouse and maintaining aids to navigation. She also fought ship fires and rescued the keepers on endangered offshore lighthouses. During World War II, she was armed with guns and depth charge, but never fired a shot in combat.
 
 Yesterday, *Lilac* took on a more unusual role, as a star in a saucy television commercial.  Specifically, she was towed to the [Caddell Dry Dock and Repair](http://www.caddelldrydock.com/) in Staten Island for the afternoon to appear in a commercial celebrating the 1937 arrival of the Italian immigrants. Following the shoot, the *Lilac* was towed back to her berth at Pier 25 on the Manhattan side of the Hudson river.
 

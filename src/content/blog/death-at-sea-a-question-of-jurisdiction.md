@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A Ukrainian sailor, on a Dutch ship in international waters steaming toward Houston, Texas, got into a fight with a fellow crew member  New Year’s Eve and the next morning was found dead in his cabin.   An autopsy is being performed to determine the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/alexia.jpg)A Ukrainian sailor, on a Dutch ship in international waters steaming toward Houston, Texas, got into a fight with a fellow crew member  New Year’s Eve and the next morning was found dead in his cabin.   An autopsy is being performed to determine the cause of death as the various authorities discuss the jurisdiction if it is determined that a crime has been committed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/alexia.jpg)A Ukrainian sailor, on a Dutch ship in international waters steaming toward Houston, Texas, got into a fight with a fellow crew member  New Year’s Eve and the next morning was found dead in his cabin.   An autopsy is being performed to determine the cause of death as the various authorities discuss the jurisdiction if it is determined that a crime has been committed.
 
 [Death at sea poses jurisdiction puzzle to 3 nations – Ukrainian dies on Dutch vessel going to Houston](http://www.chron.com/disp/story.mpl/metropolitan/7369937.html)  
   

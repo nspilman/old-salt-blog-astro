@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "After the Egyptian liveaboard dive boat, Sea Story, capsized and sank in heavy weather in the Red Sea early Monday morning, 28 of the 44 passengers and crew were rescued. On Tuesday, divers rescued five additional survivors trapped in air … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/seastory2.jpg)After the Egyptian liveaboard dive boat, [*Sea Story*, capsized and sank in heavy weather in the Red Sea](https://www.oldsaltblog.com/2024/11/egyptian-liveaboard-dive-boat-sinks-in-red-sea-sixteen-missing/) early Monday morning, 28 of the 44 passengers and crew were rescued. On Tuesday, divers rescued five additional survivors trapped in air pockets for roughly 30 hours within the sunken boat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/seastory2.jpg)After the Egyptian liveaboard dive boat, [*Sea Story*, capsized and sank in heavy weather in the Red Sea](https://www.oldsaltblog.com/2024/11/egyptian-liveaboard-dive-boat-sinks-in-red-sea-sixteen-missing/) early Monday morning, 28 of the 44 passengers and crew were rescued. On Tuesday, divers rescued five additional survivors trapped in air pockets for roughly 30 hours within the sunken boat.
 
 The rescue divers also recovered four dead bodies from the boat. Seven passengers or crew remain missing.  
 

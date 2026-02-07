@@ -11,7 +11,7 @@ tags:
   - "Galveston Hurricane of 1900"
   - "hurricane 1900"
   - "Wasn't That a Mighty Storm"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/galhurricane.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/galhurricane.jpg"
 author: "Rick Spilman"
 description: "One hundred and twenty years ago yesterday, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 … Continue reading &rarr;"
 ---

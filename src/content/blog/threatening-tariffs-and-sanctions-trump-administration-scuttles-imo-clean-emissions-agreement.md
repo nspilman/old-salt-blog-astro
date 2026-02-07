@@ -13,12 +13,12 @@ tags:
   - "IMO Net-zero Framewor"
   - "International Maritime Organization"
   - "Trump administration"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/10/imomeeting.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/imomeeting.jpg"
 author: "Rick Spilman"
 description: "During a meeting of the International Maritime Organization (IMO) in London, the Trump administration issued a torrent of threats of tariffs and other sanctions to block a landmark deal to cut global shipping emissions. The IMO plan was intended to … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/10/imomeeting.jpg)During a meeting of the International Maritime Organization (IMO) in London, the Trump administration issued a torrent of threats of tariffs and other sanctions to block a landmark deal to cut global shipping emissions. The IMO plan was intended to achieve net-zero shipping emissions by 2050.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/imomeeting.jpg)During a meeting of the International Maritime Organization (IMO) in London, the Trump administration issued a torrent of threats of tariffs and other sanctions to block a landmark deal to cut global shipping emissions. The IMO plan was intended to achieve net-zero shipping emissions by 2050.
 
 The [IMO Net-zero Framework](https://www.imo.org/en/mediacentre/hottopics/pages/cutting-ghg-emissions.aspx), [first agreed in April after ten years of negotiations](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-approves-netzero-regulations.aspx), would have been the first in the world to combine mandatory emissions limits and GHG pricing across an entire industry sector.  The agreement had meant that from 2028, ship owners would have to use increasingly cleaner fuels or face fines.
 

@@ -12,12 +12,12 @@ tags:
   - "Sarah Josepha Hale"
   - "Thanksgiving"
   - "whaling ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is a repost of a story I think is well worth retelling.  Thanksgiving is one of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/tgam.jpg)Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is a repost of a story I think is well worth retelling. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/tgam.jpg)Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is a repost of a story I think is well worth retelling. 
 
 Thanksgiving is one of the central creation myths of the founding of the United States. The story is based on an account of a one time feast of thanksgiving in the Plymouth colony of Massachusetts in 1621 during a period of atypically good relations with local tribes. Thanksgiving only became a national holiday in 1863.  Before the celebration spread across the country, Thanksgiving was most popular in New England. [On 19th-century American whale ships, which sailed from New England ports](http://www.whalingmuseum.org/learn/research-topics/overview-of-north-american-whaling/life-aboard#Holidays), they celebrated only the Fourth of July, Thanksgiving, and Christmas. Of the three holidays, Thanksgiving may have been the most popular. On [Norfolk Island](http://en.wikipedia.org/wiki/Thanksgiving#Norfolk_Island) in the Pacific, they also celebrate Thanksgiving, the holiday brought to the island by visiting American whaling ships.
 

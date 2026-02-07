@@ -13,12 +13,12 @@ tags:
   - "Gerda III"
   - "Jews"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/gerdaIII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/gerdaIII.jpg"
 author: "Rick Spilman"
 description: "Among the fleet of ships and boats that make up the fleet at the Mystic Seaport Museum, the Danish lighthouse tender Gerda III, built in 1926, is a ruggedly attractive double-ender. Nevertheless, she could easily be overlooked. That would be a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/gerdaIII.jpg)Among the fleet of ships and boats that make up the fleet at the [Mystic Seaport Museum](https://www.mysticseaport.org/), the Danish lighthouse tender [*Gerda III*](https://www.mysticseaport.org/locations/gerda/), built in 1926, is a ruggedly attractive double-ender. Nevertheless, she could easily be overlooked. That would be a mistake. *Gerda III* played an important role in an audacious and risky rescue mission to save Jewish refugees from Denmark in 1943.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/gerdaIII.jpg)Among the fleet of ships and boats that make up the fleet at the [Mystic Seaport Museum](https://www.mysticseaport.org/), the Danish lighthouse tender [*Gerda III*](https://www.mysticseaport.org/locations/gerda/), built in 1926, is a ruggedly attractive double-ender. Nevertheless, she could easily be overlooked. That would be a mistake. *Gerda III* played an important role in an audacious and risky rescue mission to save Jewish refugees from Denmark in 1943.
 
 When it became apparent that the invading Germans intended to round up Danish Jews and send them to concentration camps, the Danes began a desperate effort to rescue the Jews. A flotilla of fishing and cargo vessels assembled to smuggle the refugees to safety in neutral Sweden. *Gerda III* was based in the fishing village of Gilleleje, only about 11 miles from Sweden. About one-fifth of the Danish Jews escaped to Sweden via Gilleleje. 
 

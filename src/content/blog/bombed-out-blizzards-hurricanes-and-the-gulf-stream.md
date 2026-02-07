@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Blizzard Juno is \"bombing out\" in the Gulf Stream, acting like a winter hurricane, potentially dropping record snowfall on New York harbor."
 ---
 
-![Graphic: Weather.com](http://www.oldsaltblog.com/wp-content/uploads/2015/01/dct_iola_prim_sat.jpg)
+![Graphic: Weather.com](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/dct_iola_prim_sat.jpg)
 
 Graphic: Weather.com
 

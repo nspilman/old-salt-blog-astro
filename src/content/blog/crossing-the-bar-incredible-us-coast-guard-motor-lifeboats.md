@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "It takes a special breed of sailor to attempt to crest the monstrous waves of a harbor bar in a motor lifeboat.  It also takes a very specially designed and built boat to make crossing the bar possible. We recently … Continue reading &rarr;"
 ---
 
-![47' Motor Lifeboat](http://www.oldsaltblog.com/wp-content/uploads/2016/02/47mlb1.jpg)
+![47' Motor Lifeboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/47mlb1.jpg)
 
 47′ Motor Lifeboat
 
@@ -26,11 +26,11 @@ When large ocean swells hit sand bars at a harbor entrance, the resulting breaki
 
 ## 36-Foot Motor Lifeboat, 1929-1963/1987
 
-![36mlb1](http://www.oldsaltblog.com/wp-content/uploads/2016/02/36mlb1.jpg)The motor lifeboat that Bernie Webber and his crew used to save the crew of the Pembleton was a [36′ wooden lifeboat](https://en.wikipedia.org/wiki/Lifeboat_\(rescue\)#36-foot), introduced in 1929. Two hundred and eighteen of these boats were built. [CG-36500, the boat used in the Pembleton rescue,](https://en.wikipedia.org/wiki/Coast_Guard_Motor_Lifeboat_CG_36500) has been preserved and is maintained by the Orleans Historical Society Rock Harbor in Orleans, Massachusetts. the 36′ lifeboats began to be phased out in 1963 with the introduction of the 44′ motor lifeboat.  The last 36′ motor lifeboat was retired in  1987.
+![36mlb1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/36mlb1.jpg)The motor lifeboat that Bernie Webber and his crew used to save the crew of the Pembleton was a [36′ wooden lifeboat](https://en.wikipedia.org/wiki/Lifeboat_\(rescue\)#36-foot), introduced in 1929. Two hundred and eighteen of these boats were built. [CG-36500, the boat used in the Pembleton rescue,](https://en.wikipedia.org/wiki/Coast_Guard_Motor_Lifeboat_CG_36500) has been preserved and is maintained by the Orleans Historical Society Rock Harbor in Orleans, Massachusetts. the 36′ lifeboats began to be phased out in 1963 with the introduction of the 44′ motor lifeboat.  The last 36′ motor lifeboat was retired in  1987.
 
 ## 44-Foot Motor Lifeboat, 1963-1997
 
-[![44mlb1](http://www.oldsaltblog.com/wp-content/uploads/2016/02/44mlb1.jpg)From the U.S. Coast Guard History Program](http://www.uscg.mil/history/cutters/boats/docs/44footmlb.pdf):  
+[![44mlb1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/44mlb1.jpg)From the U.S. Coast Guard History Program](http://www.uscg.mil/history/cutters/boats/docs/44footmlb.pdf):  
 Probably one of the most legendary boats that was ever introduced into American coastal rescue service was the 44’ motor lifeboat. The 44’ motor lifeboat is a unique craft in the overall development of American coastal lifeboats, having been used successfully for the past forty-two years around the  
 nation, as well as having had a worldwide influence on search and rescue craft designs. The development of the 44-footer is a prime example of a vessel being designed for very specific conditions, translating design concepts of seaworthiness, ease of handling, speed, weight, draft, strength and capacity into a much-loved boat that Coast Guard crews speak of in almost reverent  
 tones.

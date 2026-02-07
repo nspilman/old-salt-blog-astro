@@ -12,12 +12,12 @@ tags:
   - "District Judge Patricia Seitz"
   - "Princess Cruise Lines"
   - "probation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/carnivalcorp1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/carnivalcorp1.jpg"
 author: "Rick Spilman"
 description: "In April, we posted, Judge Threatens to Block Carnival Cruise Ships from Docking in US Ports, in which U.S. District Judge Patricia Seitz considered temporarily blocking the largest cruise corporation in the world from docking its ships at ports in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/carnivalcorp1.jpg)In April, we posted, [Judge Threatens to Block Carnival Cruise Ships from Docking in US Ports](http://www.oldsaltblog.com/2019/04/judge-threatens-to-block-carnival-cruise-ships-from-docking-in-us-ports/), in which U.S. District Judge Patricia Seitz considered temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as punishment for a possible probation violation of a previous pollution settlement.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/carnivalcorp1.jpg)In April, we posted, [Judge Threatens to Block Carnival Cruise Ships from Docking in US Ports](http://www.oldsaltblog.com/2019/04/judge-threatens-to-block-carnival-cruise-ships-from-docking-in-us-ports/), in which U.S. District Judge Patricia Seitz considered temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as punishment for a possible probation violation of a previous pollution settlement.
 
 In 2016, Princess Cruise Lines, a Carnival subsidiary, agreed to pay a $40 million fine for illegally dumping and attempting the cover up the dumping of oil-contaminated waste into the sea. Part of the deal was an agreement that Carnival, Princess and associated cruise lines would, figuratively and literally, clean up their act. The cruise giant was put on five years’ probation.
 

@@ -15,12 +15,12 @@ tags:
   - "Fort Sumter"
   - "Robert Smalls"
   - "USS Planter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2012/05/robertsmalls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "Here is a story well worth retelling; an updated repost in honor of Black History Month; the remarkable story of Robert Smalls. On May 13, 1862, Robert Smalls, a 23-year-old slave, who served as the pilot of the Confederate armed transport, CSS Planter, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/robertsmalls.jpg)Here is a story well worth retelling; an updated repost in honor of Black History Month; the remarkable story of Robert Smalls.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg)Here is a story well worth retelling; an updated repost in honor of Black History Month; the remarkable story of Robert Smalls.
 
 On May 13, 1862, [Robert Smalls](http://en.wikipedia.org/wiki/Robert_Smalls), a 23-year-old slave, who served as the pilot of the Confederate armed transport, [CSS *Planter*](http://en.wikipedia.org/wiki/USS_Planter_\(1862\)), led eight fellow slaves in an audacious flight to freedom. They seized the [CSS *Planter*](http://en.wikipedia.org/wiki/USS_Planter_\(1862\)), steamed it out past the batteries and forts of Charleston harbor, and turned it over to the Union naval blockade.  Smalls would go on to become the first black captain of a U.S. Navy vessel, a South Carolina State Legislator, a Major General in the South Carolina Militia, a five-term U.S. Congressman, and a U.S. Collector of Customs.  
 

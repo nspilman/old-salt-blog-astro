@@ -15,12 +15,12 @@ tags:
   - "Taylor Column"
   - "Weddell Sea"
   - "West Antarctica"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/a23aspin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/a23aspin.jpg"
 author: "Rick Spilman"
 description: "In January, we posted about an iceberg designated A23a, the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into \"iceberg alley.\" As it drifted, it was being eroded by waves and melting in the relatively warmer … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/a23aspin.jpg)In January, we [posted about an iceberg](https://www.oldsaltblog.com/2024/01/worlds-largest-iceberg-a23a-eroding-melting-rapidly-as-it-drifts-into-warmer-water/) designated [A23a](https://en.wikipedia.org/wiki/A23a), the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into “iceberg alley.” As it drifted, it was being eroded by waves and melting in the relatively warmer waters of the Southern Ocean. The impact of the waves carved huge arches and caves in the 400-meter-high walls of the iceberg.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/a23aspin.jpg)In January, we [posted about an iceberg](https://www.oldsaltblog.com/2024/01/worlds-largest-iceberg-a23a-eroding-melting-rapidly-as-it-drifts-into-warmer-water/) designated [A23a](https://en.wikipedia.org/wiki/A23a), the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into “iceberg alley.” As it drifted, it was being eroded by waves and melting in the relatively warmer waters of the Southern Ocean. The impact of the waves carved huge arches and caves in the 400-meter-high walls of the iceberg.
 
 The expectations were that the berg would continue to melt as it drifted and would begin to break up, with luck, missing the British Overseas Territory of South Georgia.  
 

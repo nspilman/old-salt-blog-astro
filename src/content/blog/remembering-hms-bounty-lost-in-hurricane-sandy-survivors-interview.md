@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Ten years ago today, the replica of HMS Bounty sank in Hurricane Sandy off the coast of North Carolina. Despite horrific conditions, the US Coast Guard was able to rescue 14 of the 16 aboard the ship when she sank. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/bountysinking.jpg)Ten years ago today, the replica of [HMS *Bounty*](https://en.wikipedia.org/wiki/Bounty_\(1960_ship\)) sank in Hurricane Sandy off the coast of North Carolina. Despite horrific conditions, the US Coast Guard was able to rescue 14 of the 16 aboard the ship when she sank.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/bountysinking.jpg)Ten years ago today, the replica of [HMS *Bounty*](https://en.wikipedia.org/wiki/Bounty_\(1960_ship\)) sank in Hurricane Sandy off the coast of North Carolina. Despite horrific conditions, the US Coast Guard was able to rescue 14 of the 16 aboard the ship when she sank.
 
 Tragically, two died. Crew member Claudene Christian was recovered from the water by the Coast Guard but was unresponsive and was later pronounced dead at a hospital. Captain Robin Walbridge’s body was never recovered.
 

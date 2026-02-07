@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An update to a story that we have been following. The 50′ schooner Le Papillon came ashore on a beach  on Fire Island, northeast of New York harbor, at the beginning of April.   Just as it looked like the schooner would be … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/206177.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/206177.jpg)
 
 Photo: RK8776 Noreast.com
 

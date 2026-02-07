@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Yesterday we posted about the Google Doodle honoring Herman Melville‘s Moby Dick on the anniversary of its publication.  The reviews of Herman Melville’s Moby Dick when it was published in 1851 were decidedly mixed. There were indeed positive reviews to balance the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/Herman_Melville.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Herman_Melville.jpg)
 
 Herman Melville
 

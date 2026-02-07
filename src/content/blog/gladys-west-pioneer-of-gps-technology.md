@@ -13,12 +13,12 @@ tags:
   - "GPS"
   - "Naval Surface Warfare Center"
   - "Va"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/gladyswest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/gladyswest.jpg"
 author: "Rick Spilman"
 description: "I will admit to being dependent on GPS. I rely on it for both maps and apps on my phone as well as the chartplotters on several tablets on my boat. Nevertheless, until recently I knew nothing of Gladys West, a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/gladyswest.jpg)I will admit to being dependent on GPS. I rely on it for both maps and apps on my phone as well as the chartplotters on several tablets on my boat. Nevertheless, until recently I knew nothing of [Gladys West](https://en.wikipedia.org/wiki/Gladys_West), a black female mathematician for the Navy whose work made a major contribution to the development of the Global Positioning System.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/gladyswest.jpg)I will admit to being dependent on GPS. I rely on it for both maps and apps on my phone as well as the chartplotters on several tablets on my boat. Nevertheless, until recently I knew nothing of [Gladys West](https://en.wikipedia.org/wiki/Gladys_West), a black female mathematician for the Navy whose work made a major contribution to the development of the Global Positioning System.
 
 This month, [Dr. Gladys West was inducted](http://www.blackengineer.com/article/dr-gladys-west-inducted-in-pioneers-hall-of-fame/) into the Air Force Space and Missile Pioneers Hall of Fame during a ceremony at the Pentagon. The Pioneers Hall of Fame is one of Air Force’s Space Commands Highest Honors. 
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Despite being rare, two hurricanes came close to hitting the islands of Hawaii. El Nino may be one of the reasons for the close call."
 ---
 
-![Hurricanes Iselle and Julio threatening Hawaii Photo: AP](http://www.oldsaltblog.com/wp-content/uploads/2014/08/tropical-weather.jpg)
+![Hurricanes Iselle and Julio threatening Hawaii Photo: AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/tropical-weather.jpg)
 
 Hurricanes Iselle and Julio threatening Hawaii Photo: AP
 

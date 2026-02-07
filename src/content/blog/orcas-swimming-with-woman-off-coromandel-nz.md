@@ -10,12 +10,12 @@ tags:
   - "Judie Johnson"
   - "New Zealnd"
   - "Orca"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/judieorca.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/judieorca.jpg"
 author: "Rick Spilman"
 description: "Judie Johnson was swimming alone at Hahei Beach on the Coromandel Peninsula in New Zealand when she saw a huge shape appear from underwater. Initially, she thought that it was a dolphin but the black and white coloration made it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/judieorca.jpg)Judie Johnson was swimming alone at Hahei Beach on the Coromandel Peninsula in New Zealand when she saw a huge shape appear from underwater. Initially, she thought that it was a dolphin but the black and white coloration made it clear that it was an orca. She found herself surrounded by three rather playful Orca whales — an adult, a juvenile and a calf.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/judieorca.jpg)Judie Johnson was swimming alone at Hahei Beach on the Coromandel Peninsula in New Zealand when she saw a huge shape appear from underwater. Initially, she thought that it was a dolphin but the black and white coloration made it clear that it was an orca. She found herself surrounded by three rather playful Orca whales — an adult, a juvenile and a calf.
 
 Remarkably, the encounter was captured on video by a drone launched by an Australian tourist, Dylan Brayshaw, who saw the orcas heading toward Ms. Johnson. (See the video below the page break.)
 

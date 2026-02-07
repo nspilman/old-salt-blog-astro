@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Something is terribly wrong on the coast of Peru.  At least 877 dolphins and more than 1,500 birds, most of them brown pelicans and boobies, have died along the coast since February when the government started tracking the deaths. The government says that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/perudolphin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/perudolphin.jpg)
 
 Photo: Peru21
 

@@ -10,12 +10,12 @@ tags:
   - "Corlear's Hook"
   - "National Maritime Day"
   - "Savannah"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/sssavannah.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/sssavannah.jpg"
 author: "Rick Spilman"
 description: "In the United States, May 22nd is celebrated as National Maritime Day. The day brings to mind a largely forgotten monument, a ship’s anchor on a concrete slab, on Corlear’s Hook in New York’s East River Park.  National Maritime Day … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/sssavannah.jpg)In the United States, May 22nd is celebrated as [National Maritime Day](https://en.wikipedia.org/wiki/United_States_National_Maritime_Day). The day brings to mind a largely forgotten monument, a ship’s anchor on a concrete slab, on Corlear’s Hook in New York’s East River Park. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/sssavannah.jpg)In the United States, May 22nd is celebrated as [National Maritime Day](https://en.wikipedia.org/wiki/United_States_National_Maritime_Day). The day brings to mind a largely forgotten monument, a ship’s anchor on a concrete slab, on Corlear’s Hook in New York’s East River Park. 
 
 National Maritime Day was created by Congress in 1933 in honor of the sailing of the steam auxiliary packet ship [*Savannah*](https://en.wikipedia.org/wiki/SS_Savannah) sailing from her namesake city in 1819. Built as a sailing packet ship, the *Savannah* was outfitted with a 90 HP steam engine which drove twin paddle wheels and is credited as the first ship to cross the Atlantic under steam. The claim is a bit of a stretch, as she used her engine for 80 hours in a voyage of 29 days and 11 hours on the eastbound voyage across the Atlantic. On the westbound voyage, which lasted 40 days, she did not use her engines at all.  Nevertheless, she was a technological marvel in her day. Unfortunately, *Savannah* was not an economic success and the steam engine was removed after her first voyage.
 

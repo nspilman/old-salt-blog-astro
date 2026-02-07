@@ -10,7 +10,7 @@ tags:
   - "container ships"
   - "James Corbett"
   - "pollution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/moreorlessshipvscars.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/moreorlessshipvscars.jpg"
 author: "Rick Spilman"
 description: "In 2009, Dr. James Corbett, a professor of marine policy at the University of Delaware, came up with what he describes as a thought experiment. He compared the sulfur dioxide produced by the largest container ship burning the dirtiest bunker … Continue reading &rarr;"
 ---
@@ -19,7 +19,7 @@ In 2009, Dr. [James Corbett](https://www.udel.edu/academics/colleges/ceoe/depart
 
 BBC’s program/podcast [More or Less: Behind the Stats with Tim Harford](https://www.bbc.co.uk/programmes/p05hm7ws), examines the shortcomings of this thought experiment. To listen to the podcast, click the banner below. Otherwise, read on.
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/moreorlessshipvscars.jpg)](https://www.bbc.co.uk/sounds/play/p05hm7ws)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/moreorlessshipvscars.jpg)](https://www.bbc.co.uk/sounds/play/p05hm7ws)
 
 The figure is alarming and was picked up first by the [Guardian](https://www.theguardian.com/environment/2009/apr/09/shipping-pollution), who managed to slightly manage the message. They wrote that “just 15 of the world’s biggest ships may now emit as much pollution as all the world’s 760m cars.”
 

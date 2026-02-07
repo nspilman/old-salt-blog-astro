@@ -11,12 +11,12 @@ tags:
   - "Charles Fryatt"
   - "Fryatt"
   - "SS Brussels"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/captainfryatt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/captainfryatt.jpg"
 author: "Rick Spilman"
 description: "One hundred and one years ago today, on July 27th, 1916, Captain Charles Fryatt was executed by the Imperial German Navy for attempting to ram the German U-boat, U33, with the 1902-built passenger ferry, SS Brussels, owned by the Great Eastern Railway. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/captainfryatt.jpg)One hundred and one years ago today, on July 27th, 1916, [Captain Charles Fryatt](https://en.wikipedia.org/wiki/Charles_Fryatt) was executed by the Imperial German Navy for attempting to ram the German U-boat, U33, with the 1902-built passenger ferry, [SS](https://en.wikipedia.org/wiki/SS_Brussels) *Brussels,* owned by the Great Eastern Railway.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/captainfryatt.jpg)One hundred and one years ago today, on July 27th, 1916, [Captain Charles Fryatt](https://en.wikipedia.org/wiki/Charles_Fryatt) was executed by the Imperial German Navy for attempting to ram the German U-boat, U33, with the 1902-built passenger ferry, [SS](https://en.wikipedia.org/wiki/SS_Brussels) *Brussels,* owned by the Great Eastern Railway.
 
 In March of 1915, near the Maas light-vessel off the Dutch coast, [U33](https://en.wikipedia.org/wiki/SM_U-33_\(Germany\)) surfaced and ordered the *Brussels* to stop. Captain Fryatt believed that the submarine was loading a torpedo to sink the ferry and he ordered full speed ahead attempted to ram the submarine, forcing it submerge without damage. SS *Brussels* escaped and Captain Fryatt was awarded a gold watch by the Admiralty for valor. The watch was inscribed: *Presented by the Lords Commissioners of the Admiralty to Chas. Algernon Fryatt Master of the S.S. ‘Brussels’ in recognition of the example set by that vessel when attacked by a German submarine on March 28th, 1915.*
 

@@ -15,12 +15,12 @@ tags:
   - "Nine-Dash-Line"
   - "South China Sea"
   - "Vietnam"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/barbienine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/barbienine.jpg"
 author: "Rick Spilman"
 description: "The much-anticipated live-action movie Barbie has been banned in Vietnam over the appearance of a map in the background of one scene allegedly depicting Chinese territorial claims in the South China Sea, claims disputed by Vietnam and at least seven … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/barbienine.jpg)The much-anticipated live-action movie [Barbie](https://www.imdb.com/title/tt1517268/) has been banned in Vietnam over the appearance of a map in the background of one scene allegedly depicting Chinese territorial claims in the South China Sea, claims disputed by Vietnam and at least seven other countries. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/barbienine.jpg)The much-anticipated live-action movie [Barbie](https://www.imdb.com/title/tt1517268/) has been banned in Vietnam over the appearance of a map in the background of one scene allegedly depicting Chinese territorial claims in the South China Sea, claims disputed by Vietnam and at least seven other countries. 
 
 The map in question is purported to show the “nine-dash line,” reflecting a Chinese claim to roughly 80% of all maritime and territorial areas in the South China Sea, a claim flatly rejected by a United Nations Law of the Sea Convention Tribunal in 2016 that ruled unanimously that China’s claim had no basis in international law.
 

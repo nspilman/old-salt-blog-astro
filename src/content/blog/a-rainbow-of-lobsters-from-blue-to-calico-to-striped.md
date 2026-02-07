@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "There has been an increase in the number of blue, orange, yellow, calico and albino lobsters showing up in lobster traps these days. No one is sure why."
 ---
 
-![Photo: Associated Press](http://www.oldsaltblog.com/wp-content/uploads/2014/08/ap-rare-blue-lobster_606.jpg)
+![Photo: Associated Press](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/ap-rare-blue-lobster_606.jpg)
 
 Photo: Associated Press
 
@@ -23,7 +23,7 @@ Recently, Meghan LaPlante, 14, and her father Jay, caught a [blue lobster](http
 
 For reasons that no one seems to understand, there has been an apparent increase in the number of oddly colored lobsters showing up in lobster traps these days.  Normal lobsters are a mottled greenish-brown, and turn red when cooked.  Bright blue, orange, yellow, calico and albino lobsters are being reported more and more often.  Last year a lobsterman caught a lobster that was striped half orange and half brown, a variation believed to be the rarest of all.  The colored lobsters apparently taste and look very much like regular lobsters when cooked. They all turn red, except for albinos, which lacking pigment, stay white.  Why are we seeing such a range of odd colored lobsters?
 
-![Striped Lobster Photo: Elsie Mason/ Ship to Shore Lobster Company](http://www.oldsaltblog.com/wp-content/uploads/2014/08/lobster.jpg)
+![Striped Lobster Photo: Elsie Mason/ Ship to Shore Lobster Company](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/lobster.jpg)
 
 Striped Lobster Photo: Elsie Mason/ Ship to Shore Lobster Company
 

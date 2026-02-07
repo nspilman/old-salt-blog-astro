@@ -12,12 +12,12 @@ tags:
   - "Lake Tanganyika"
   - "Liemba"
   - "Tanzania"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/liemba4.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/liemba4.jpg"
 author: "Rick Spilman"
 description: "Two years ago, we posted about MV Liemba — the World’s Oldest Passenger/Cargo Steamer at 100. Now 102 years old, MV Liemba continues her passenger and cargo ferry service along the eastern shore of Lake Tanganyika. With luck and funding from … Continue reading &rarr;"
 ---
 
-[![liemba](http://www.oldsaltblog.com/wp-content/uploads/2014/11/liemba.jpg)](http://www.bbc.com/news/world-africa-29895341)Two years ago, we posted about [MV *Liemba* — the World’s Oldest Passenger/Cargo Steamer at 100](http://www.oldsaltblog.com/2014/11/mv-liemba-the-worlds-oldest-passengercargo-steamer-at-100/). Now 102 years old, [MV *Liemba*](https://en.wikipedia.org/wiki/MV_Liemba) continues her passenger and cargo ferry service along the eastern shore of [Lake Tanganyika](https://en.wikipedia.org/wiki/Lake_Tanganyika). With luck and funding from the government of Tanganyika, the *Liemba* may continue to operate for years to come.  
+[![liemba](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/liemba.jpg)](http://www.bbc.com/news/world-africa-29895341)Two years ago, we posted about [MV *Liemba* — the World’s Oldest Passenger/Cargo Steamer at 100](http://www.oldsaltblog.com/2014/11/mv-liemba-the-worlds-oldest-passengercargo-steamer-at-100/). Now 102 years old, [MV *Liemba*](https://en.wikipedia.org/wiki/MV_Liemba) continues her passenger and cargo ferry service along the eastern shore of [Lake Tanganyika](https://en.wikipedia.org/wiki/Lake_Tanganyika). With luck and funding from the government of Tanganyika, the *Liemba* may continue to operate for years to come.  
 
 This August, the [Tanzanian government announced](http://allafrica.com/stories/201608040090.html) that they were budgeting 31 billion Tanzanian shillings (roughly US$14 million)  for the repair and refurbishment of three ships, including MV *Liemba* and the purchase of a new ship during the 2016/17 financial year.  Of these funds, 5.6 billion shillings (roughly US$2.6 million) will be dedicated to the *Liemba*.
 

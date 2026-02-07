@@ -13,12 +13,12 @@ tags:
   - "feeder vessel"
   - "Hyundai Heavy Industries"
   - "Methanol"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/maerskcarbonneutral.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/maerskcarbonneutral.jpg"
 author: "Rick Spilman"
 description: "In February we posted about an announcement by A.P. Moller-Maersk, the largest container ship operator in the world, that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. Maersk’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/maerskcarbonneutral.jpg)In February we [posted about an announcement](http://www.oldsaltblog.com/2021/02/maersk-to-operate-first-carbon-neutral-containership-by-2023/) by [A.P. Moller-Maersk](https://www.maersk.com/about), the largest container ship operator in the world, [that it would launch the world’s first carbon-neutral cargo liner](https://www.maersk.com/news/articles/2021/02/17/maersk-first-carbon-neutral-liner-vessel-by-2023) vessel in 2023 – seven years ahead of its initial 2030 target. Maersk’s first carbon-neutral ship will be a 2,000 TEU feeder vessel fueled by [methanol](https://www.methanol.org/renewable-methanol-companies/), operating on one of its intra-regional networks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/maerskcarbonneutral.jpg)In February we [posted about an announcement](http://www.oldsaltblog.com/2021/02/maersk-to-operate-first-carbon-neutral-containership-by-2023/) by [A.P. Moller-Maersk](https://www.maersk.com/about), the largest container ship operator in the world, [that it would launch the world’s first carbon-neutral cargo liner](https://www.maersk.com/news/articles/2021/02/17/maersk-first-carbon-neutral-liner-vessel-by-2023) vessel in 2023 – seven years ahead of its initial 2030 target. Maersk’s first carbon-neutral ship will be a 2,000 TEU feeder vessel fueled by [methanol](https://www.methanol.org/renewable-methanol-companies/), operating on one of its intra-regional networks.
 
 A little over a month ago, [A.P. Moller-Maersk doubled down on its strategy](https://www.maersk.com/news/articles/2021/08/24/maersk-accelerates-fleet-decarbonisation) by ordering 8 large ocean-going container vessels capable of being operated on carbon-neutral methanol. The vessels will be built by Hyundai Heavy Industries (HHI) for delivery around 2024, and have a nominal capacity of approximately 16,000 TEU.  The agreement with HHI includes an option for 4 additional vessels in 2025.
 

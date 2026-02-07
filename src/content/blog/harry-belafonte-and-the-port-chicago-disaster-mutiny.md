@@ -15,12 +15,12 @@ tags:
   - "navy"
   - "Port Chicago"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/belafonte44.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/belafonte44.jpg"
 author: "Rick Spilman"
 description: "Harry Belafonte, the multi-talented  American singer, actor, and activist, died last week at the age of 96. Born in Harlem to Jamaican immigrants, he shattered racial boundaries in the 1950s. During his career, Belafonte popularized calypso music with audiences around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/belafonte44.jpg)[Harry Belafonte](https://www.nytimes.com/2023/04/25/arts/music/harry-belafonte-dead.html), the multi-talented  American singer, actor, and activist, died last week at the age of 96. Born in Harlem to Jamaican immigrants, he shattered racial boundaries in the 1950s. During his career, Belafonte popularized calypso music with audiences around the world. He also won an Emmy, three Grammys, an Oscar, and a Tony, earning the distinction of being an [EGOT winner](https://en.wikipedia.org/wiki/List_of_EGOT_winners). His 1956 album *Calypso* was the first million-selling LP by a single artist. In addition to his accomplishments as a performer, Belafonte was a lifelong [activist for civil rights and a supporter of humanitarian causes](https://www.nps.gov/features/malu/feat0002/wof/Harold_Belafonte.htm).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/belafonte44.jpg)[Harry Belafonte](https://www.nytimes.com/2023/04/25/arts/music/harry-belafonte-dead.html), the multi-talented  American singer, actor, and activist, died last week at the age of 96. Born in Harlem to Jamaican immigrants, he shattered racial boundaries in the 1950s. During his career, Belafonte popularized calypso music with audiences around the world. He also won an Emmy, three Grammys, an Oscar, and a Tony, earning the distinction of being an [EGOT winner](https://en.wikipedia.org/wiki/List_of_EGOT_winners). His 1956 album *Calypso* was the first million-selling LP by a single artist. In addition to his accomplishments as a performer, Belafonte was a lifelong [activist for civil rights and a supporter of humanitarian causes](https://www.nps.gov/features/malu/feat0002/wof/Harold_Belafonte.htm).
 
 Belafonte also served in the Navy during World War II, dropping out of high school to enlist in 1944. During WWII, the military remained segregated and African Americans were not generally allowed in combat roles. He was assigned to work loading munitions ships in Port Chicago, California, and narrowly missed one of the deadliest stateside explosions of the war.
 

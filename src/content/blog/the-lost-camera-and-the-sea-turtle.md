@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I am not making this up. In the middle of May, a gentleman, whose internet nickname is Aquahound, found a camera in an underwater housing that had washed ashore in Key West.   There were still photos and video on the memory card dating back to November of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/sea-turtle.jpg)I am not making this up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/sea-turtle.jpg)I am not making this up.
 
 In the middle of May, a gentleman, whose internet nickname is Aquahound, found a camera in an underwater housing that had washed ashore in Key West.   There were still photos and video on the memory card dating back to November of last year.   From the photos and his understanding of the currents, he surmised that the camera must have originated in Aruba.  There was video footage on the memory card from January,  which he found quite disturbing.  
 

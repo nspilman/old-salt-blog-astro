@@ -11,12 +11,12 @@ tags:
   - "destroyer"
   - "Panama Canal"
   - "USS Zumwalt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/zumwalt200a.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt200a.jpg"
 author: "Rick Spilman"
 description: "More teething problems on USS Zumwalt, the US Navy’s newest, most advanced and most expensive destroyer. While transiting the Panama Canal, the ship lost propulsion on its port shaft. Two of the four bearings that connect the ship’s port and … Continue reading &rarr;"
 ---
 
-![zumwalt1a](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt1a.jpg)More teething problems on [USS *Zumwalt*](https://en.wikipedia.org/wiki/USS_Zumwalt), the US Navy’s newest, most advanced and most expensive destroyer. While transiting the Panama Canal, the [ship lost propulsion on its port shaft](https://news.usni.org/2016/11/22/uss-zumwalt-sidelined-panama). Two of the four bearings that connect the ship’s port and starboard electric motors to the drive shafts were reported to be leaking. Both of the shafts locked and tugs were called to help complete the passage through the canal.
+![zumwalt1a](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt1a.jpg)More teething problems on [USS *Zumwalt*](https://en.wikipedia.org/wiki/USS_Zumwalt), the US Navy’s newest, most advanced and most expensive destroyer. While transiting the Panama Canal, the [ship lost propulsion on its port shaft](https://news.usni.org/2016/11/22/uss-zumwalt-sidelined-panama). Two of the four bearings that connect the ship’s port and starboard electric motors to the drive shafts were reported to be leaking. Both of the shafts locked and tugs were called to help complete the passage through the canal.
 
 In September, USS *Zumwalt*, suffered a [similar failure resulting in a seawater leak](https://news.usni.org/2016/09/20/21690) in the propulsion motor drive lube oil auxiliary system which sidelined the ship for repairs.
 

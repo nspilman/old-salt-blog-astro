@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last November, we posted about the rebuilding of the last commercial Thames sailing barge, Cambria. The reconstruction is nearing its completion. Tomorrow, Monday 21st March, 2011, the Cambria will be relaunched into Faversham Creek, and move downstream to Iron Wharf … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/cambria1.jpg)Last November, [we posted](http://www.oldsaltblog.com/2010/11/01/the-famous-sailing-barge-cambria-reborn/) about the rebuilding of the [last commercial Thames sailing barge, *Cambria*](http://www.cambriatrust.org.uk/). The reconstruction is nearing its completion. Tomorrow, Monday 21st March, 2011, the *Cambria* will be relaunched into Faversham Creek, and move downstream to Iron Wharf to complete fitting-out.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/cambria1.jpg)Last November, [we posted](http://www.oldsaltblog.com/2010/11/01/the-famous-sailing-barge-cambria-reborn/) about the rebuilding of the [last commercial Thames sailing barge, *Cambria*](http://www.cambriatrust.org.uk/). The reconstruction is nearing its completion. Tomorrow, Monday 21st March, 2011, the *Cambria* will be relaunched into Faversham Creek, and move downstream to Iron Wharf to complete fitting-out.
 
 [CAMBRIA News: Today is the our day](http://www.cambriatrust.org.uk/cambria_news/detail.asp?ID=128)  
   

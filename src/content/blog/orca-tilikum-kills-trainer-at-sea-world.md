@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Orcas, commonly known as killer whales, have never been known to kill a human in the wild.  The same is not true of orcas in captivity. Today Tilikum, a 12,300 pound bull orca,  the largest whale in captivity, attacked and drowned a female … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/tilikum.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/tilikum.jpg)
 
 Tilikum
 

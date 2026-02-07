@@ -14,12 +14,12 @@ tags:
   - "Lake Tear of the Clouds"
   - "Lewis Pugh"
   - "New York City"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/pugh.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/pugh.jpg"
 author: "Rick Spilman"
 description: "On August 13 2023, British endurance swimmer and environmental activist Lewis Pugh began his 315-mile (507-km) swim down the Hudson River, from its source at Lake Tear of the Clouds, to its end at New York City. He finished the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/pugh.jpg)On August 13 2023, British endurance swimmer and environmental activist [Lewis Pugh](https://www.lewispughfoundation.org/hudson-swim-2023) began his 315-mile (507-km) swim down the Hudson River, from its source at [Lake Tear of the Clouds,](https://en.wikipedia.org/wiki/Lake_Tear_of_the_Clouds) to its end at New York City. He finished the swim, ‘exhausted but rejuvenated’, on Wednesday, September 13, at Battery Park.  Pugh made the epic swim to raise awareness of water quality.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/pugh.jpg)On August 13 2023, British endurance swimmer and environmental activist [Lewis Pugh](https://www.lewispughfoundation.org/hudson-swim-2023) began his 315-mile (507-km) swim down the Hudson River, from its source at [Lake Tear of the Clouds,](https://en.wikipedia.org/wiki/Lake_Tear_of_the_Clouds) to its end at New York City. He finished the swim, ‘exhausted but rejuvenated’, on Wednesday, September 13, at Battery Park.  Pugh made the epic swim to raise awareness of water quality.
 
 The [53-year-old endurance swimmer emerged from the water](https://apnews.com/article/hudson-river-swim-new-york-city-2a35eaba7b371da227023b7f80d5e952) off the lower tip of Manhattan after a month-long journey, clad in a Speedo, cap and goggles. He smiled and raised his fist in triumph as he climbed out. Supporters who had gathered despite light rain cheered.
 

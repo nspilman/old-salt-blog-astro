@@ -14,12 +14,12 @@ tags:
   - "Sea Year"
   - "sexual assault"
   - "United States Maritime Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/maerskcs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/maerskcs.jpg"
 author: "Rick Spilman"
 description: "The United States Maritime Academy at King’s Point has paused Sea Year, a program that sends cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/maerskcs.jpg)The [United States Maritime Academy](https://en.wikipedia.org/wiki/United_States_Merchant_Marine_Academy) at King’s Point has paused [Sea Year](https://www.usmma.edu/academics/departments/sea-year), a program that sends cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew member while serving at sea. This is the [second suspension of the program in the last six years](https://www.professionalmariner.com/sea-year-suspended-as-marad-usmma-address-sex-harassment/) over allegations of sexual harassment and assault.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/maerskcs.jpg)The [United States Maritime Academy](https://en.wikipedia.org/wiki/United_States_Merchant_Marine_Academy) at King’s Point has paused [Sea Year](https://www.usmma.edu/academics/departments/sea-year), a program that sends cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew member while serving at sea. This is the [second suspension of the program in the last six years](https://www.professionalmariner.com/sea-year-suspended-as-marad-usmma-address-sex-harassment/) over allegations of sexual harassment and assault.
 
 In a post on the website of an advocacy group, and in a subsequent interview with [the Washington Post](https://theislandnow.com/featured/merchant-marine-academy-cadet-details-sexual-assault-allegations/), the woman described being assaulted and having to spend several more weeks onboard with her alleged attacker.
 

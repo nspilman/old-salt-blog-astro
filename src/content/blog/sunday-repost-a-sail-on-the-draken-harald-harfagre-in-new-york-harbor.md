@@ -12,12 +12,12 @@ tags:
   - "Highland Park Whisky"
   - "new york harbor"
   - "New York Media Boat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/dragonnyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/dragonnyc.jpg"
 author: "Rick Spilman"
 description: "What could be more gloriously incongruous than sailing on a replica 9th-century Viking longship and sipping whisky on a blustery Autumn day in New York harbor? Here is an updated repost:  In late October 2018, I was fortunate enough to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/dragonnyc.jpg)What could be more gloriously incongruous than sailing on a replica 9th-century Viking longship and sipping whisky on a blustery Autumn day in New York harbor? Here is an updated repost: 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/dragonnyc.jpg)What could be more gloriously incongruous than sailing on a replica 9th-century Viking longship and sipping whisky on a blustery Autumn day in New York harbor? Here is an updated repost: 
 
 In late October 2018, I was fortunate enough to have been invited by the good folks at [Highland Park Whisky](https://www.highlandparkwhisky.com/) to sail for an afternoon on the [*Draken Harald Hårfagre*](https://www.drakenhh.com) in New York harbor. At 115′ feet from stem to stern, *Draken Harald Hårfagre* is the largest Viking ship built in modern times. 
 

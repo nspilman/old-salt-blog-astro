@@ -14,12 +14,12 @@ tags:
   - "sexual abuse"
   - "US Coast Guard"
   - "US Coast Guard Academy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/uscglogo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/uscglogo.jpg"
 author: "Rick Spilman"
 description: "CNN reports that a secret investigation into alleged sexual abuse at the US Coast Guard Academy uncovered a dark history of rapes, assaults, and other serious misconduct being ignored and, at times, covered up by high-ranking officials. The findings of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/uscglogo.jpg)[CNN](https://www.cnn.com/2023/06/30/politics/coast-guard-academy-secret-sexual-assault-investigation-invs/index.html) reports that a secret investigation into alleged sexual abuse at the US Coast Guard Academy uncovered a dark history of rapes, assaults, and other serious misconduct being ignored and, at times, covered up by high-ranking officials.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/uscglogo.jpg)[CNN](https://www.cnn.com/2023/06/30/politics/coast-guard-academy-secret-sexual-assault-investigation-invs/index.html) reports that a secret investigation into alleged sexual abuse at the US Coast Guard Academy uncovered a dark history of rapes, assaults, and other serious misconduct being ignored and, at times, covered up by high-ranking officials.
 
 The findings of the probe, dubbed “Operation Fouled Anchor,” were kept confidential by the agency’s top leadership for several years. Coast Guard officials briefed members of Congress this month after inquiries from CNN, which had reviewed internal documents from the probe.
 

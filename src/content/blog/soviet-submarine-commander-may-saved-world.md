@@ -11,12 +11,12 @@ tags:
   - "Cuban Missle Crisis"
   - "submarine B-59"
   - "Vasili Arkhipov"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/VasiliArkhipov200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/VasiliArkhipov200.jpg"
 author: "Rick Spilman"
 description: "Fifty two years ago today, the world came perilously close to being destroyed in a nuclear World War III. Fortunately, one brave Soviet naval officer stood in the way. Imagine — a Soviet submarine is trapped by an American destroyer … Continue reading &rarr;"
 ---
 
-![Arkhipov](http://www.oldsaltblog.com/wp-content/uploads/2016/03/Arkhipov.jpg)Fifty two years ago today, the world came perilously close to being destroyed in a nuclear World War III. Fortunately, one brave Soviet naval officer stood in the way.
+![Arkhipov](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Arkhipov.jpg)Fifty two years ago today, the world came perilously close to being destroyed in a nuclear World War III. Fortunately, one brave Soviet naval officer stood in the way.
 
 Imagine — a Soviet submarine is trapped by an American destroyer at the height of the [Cuban missile crisis](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis). The Soviet sub commander has not been in communication with Moscow in over a week. He does not know if the world is at peace or at war. Depth charges are exploding around the stricken Soviet sub. The temperature inside the submarine has risen above 100 degrees. Unknown to the Americans, the submarine commander has a new and terrible weapon at his disposal, a nuclear torpedo that could vaporize the destroyer and most of the American fleet. Certain that his ship is under attack, the submarine commander wants to fire the nuclear torpedo.  Given everything else that is going on on the surface, that launch would likely start World War III.  Only one man stood in the way of potential global nuclear annihilation, the Soviet flotilla commander, Vasili Arkhipov.
 

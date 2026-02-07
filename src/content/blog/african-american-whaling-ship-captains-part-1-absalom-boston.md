@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "As Black History Month for 2017 comes to a close, we look at African American whaling ship captains. Over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained these … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/captainboston.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/captainboston.jpg)
 
 Captain Absalom Boston
 

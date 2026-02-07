@@ -15,12 +15,12 @@ tags:
   - "oldest known living wild orca"
   - "Orca"
   - "University of Exeter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/orcapod.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/orcapod.jpg"
 author: "Rick Spilman"
 description: "Why do the matriarchs of orca pods often live such long lives? The average lifespan for male killer whales is about 30 years, but they can live up to at least 60 years. Females typically live about 50 years, but … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/orcapod.jpg)Why do the matriarchs of orca pods often live such long lives? The [average lifespan](https://www.fisheries.noaa.gov/species/killer-whale) for male killer whales is about 30 years, but they can live up to at least 60 years. Females typically live about 50 years, but can live up to at least 90 years in the wild. The pod matriarch can live even longer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/orcapod.jpg)Why do the matriarchs of orca pods often live such long lives? The [average lifespan](https://www.fisheries.noaa.gov/species/killer-whale) for male killer whales is about 30 years, but they can live up to at least 60 years. Females typically live about 50 years, but can live up to at least 90 years in the wild. The pod matriarch can live even longer.
 
 Take the orca designated by researchers as L25, for example. The [Seattle Times](https://www.spokesman.com/stories/2023/oct/22/the-oldest-puget-sound-orca-l25-may-be-approaching/#:~:text=She%20is%20still%20out%20there,orcas%20that%20frequent%20Puget%20Sound.) reports that L25 is the world’s oldest known living wild orca, the uncontested reigning matriarch of the southern resident orcas that frequent Puget Sound. She ascended to that post after the death of J2, in 2017 at an estimated age of 105.
 

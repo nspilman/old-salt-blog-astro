@@ -16,12 +16,12 @@ tags:
   - "Pete Davidson"
   - "Saturday Night Live"
   - "Staten Island Ferry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/davidsonferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/davidsonferry.jpg"
 author: "Rick Spilman"
 description: "It sounds like the setup to a joke or a late-night skit — two comedians from NBC’s Saturday Night Live, Pete Davidson and Colin Jost, along with comedy club owner Paul Italia, just bought a decommissioned Staten Island Ferry boat. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/davidsonferry.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/davidsonferry.jpg)
 
 Pete Davidson & the ferry MV John F. Kennedy Photo: Robert Miller for the NY Post
 

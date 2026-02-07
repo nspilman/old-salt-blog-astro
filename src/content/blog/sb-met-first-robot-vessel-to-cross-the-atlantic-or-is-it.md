@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Recent reports in the media have announced that the 2-meter long robot sailboat, SB Met, has become the first unmanned vessel to cross the Atlantic after completing a 1,800-mile (3,000 km) journey from Newfoundland in Canada to Ireland. The Daily Mail reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/sbmet.jpg)Recent reports in the media have announced that the 2-meter long robot sailboat, [*SB Met*,](http://www.sailbuoy.no/) has become the [first unmanned vessel to cross the Atlantic](https://www.dailymail.co.uk/sciencetech/article-6129497/Robot-boat-sails-history-finishing-Atlantic-crossing.html) after completing a 1,800-mile (3,000 km) journey from Newfoundland in Canada to Ireland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sbmet.jpg)Recent reports in the media have announced that the 2-meter long robot sailboat, [*SB Met*,](http://www.sailbuoy.no/) has become the [first unmanned vessel to cross the Atlantic](https://www.dailymail.co.uk/sciencetech/article-6129497/Robot-boat-sails-history-finishing-Atlantic-crossing.html) after completing a 1,800-mile (3,000 km) journey from Newfoundland in Canada to Ireland.
 
 The [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-6129497/Robot-boat-sails-history-finishing-Atlantic-crossing.html) reports that the boat’s two-and-a-half-month journey saw it cross the North Atlantic as part of the [Microtransat Challenge](https://www.microtransat.org/index.php) – a transatlantic race for autonomous boats.
 

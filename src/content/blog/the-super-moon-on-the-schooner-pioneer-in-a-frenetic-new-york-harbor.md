@@ -17,13 +17,13 @@ author: "Rick Spilman"
 description: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the \"super moon\" rise over New York harbor.   The \"super moon,\" is in scientific terms referred to as a \"perigee moon,\" a … Continue reading &rarr;"
 ---
 
-[!["Supermoon" over the bow of Clipper City.  Click for a larger image.](http://www.oldsaltblog.com/wp-content/uploads/2014/08/clippercitybowmoon-200x112.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/08/clippercitybowmoon.jpg)
+[!["Supermoon" over the bow of Clipper City.  Click for a larger image.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/clippercitybowmoon-200x112.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/clippercitybowmoon.jpg)
 
 “Supermoon” over the bow of Clipper City. Click for a larger image.
 
 Last night, my wife and I took to a two hour sail on the [schooner *Pioneer*](http://southstreetseaportmuseum.org/visit/street-of-ships/pioneer/) to watch the “super moon” rise over New York harbor.   The “super moon,” is in scientific terms referred to as a “perigee moon,” a full moon at perigee, when the moon is closest to the earth.  This year we are having a [solid streak of “supermoons.”](http://science.nasa.gov/science-news/science-at-nasa/2014/10jul_supermoons/)  We had one last month on July 12th, one last night August 10th and will will have another on September 28th.   On nights with a “supermoon” the moon is roughly 14% larger and 30% brighter than other, non-super full moons. So, [supermoons are not really all that impressive](http://www.ibtimes.com/neil-degrasse-tyson-supermoon-astrophysicist-startalk-radio-says-its-slightly-bigger-moon-i-aint), but it was a beautiful night for a sail on the harbor.
 
-[![Supermoon over the Brooklyn Bridge Photo: K Lorentz, Click for a larger image](http://www.oldsaltblog.com/wp-content/uploads/2014/08/bridgemoon-200x112.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/08/bridgemoon.jpg)
+[![Supermoon over the Brooklyn Bridge Photo: K Lorentz, Click for a larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/bridgemoon-200x112.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/bridgemoon.jpg)
 
 Supermoon over the Brooklyn Bridge Photo: K Lorentz
 

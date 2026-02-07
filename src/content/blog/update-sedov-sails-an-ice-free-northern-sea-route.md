@@ -12,12 +12,12 @@ tags:
   - "ice-free"
   - "Northern Sea Route"
   - "Sedov"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/sedov.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/sedov.jpg"
 author: "Rick Spilman"
 description: "In late August, we posted about how the 99-year-old four-masted steel bark Sedov set off to transit the Arctic by the Northern Sea Route to reach her home port of Kaliningrad.  She has now almost completed the voyage, passing the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/sedov.jpg)In late August, [we posted about how the 99-year-old four-masted steel bark](http://www.oldsaltblog.com/2020/08/sedov-sets-off-on-trans-arctic-voyage/) *Sedov* set off to transit the Arctic by the Northern Sea Route to reach her home port of Kaliningrad.  She has now almost completed the voyage, passing the southern tip of archipelago Novaya Zemlya and is expected in Murmansk in the course of the week.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/sedov.jpg)In late August, [we posted about how the 99-year-old four-masted steel bark](http://www.oldsaltblog.com/2020/08/sedov-sets-off-on-trans-arctic-voyage/) *Sedov* set off to transit the Arctic by the Northern Sea Route to reach her home port of Kaliningrad.  She has now almost completed the voyage, passing the southern tip of archipelago Novaya Zemlya and is expected in Murmansk in the course of the week.
 
 Remarkably, [the passage was almost entirely ice-free](https://thebarentsobserver.com/en/climate-crisis/2020/10/there-was-no-ice-water-says-captain-tall-ship-sedov-about-arctic-voyage). “We expected that we at least would have encountered some finely-crushed ice in the Vilkitsky Strait and the Longa Strait,” ship captain Novikov told newspaper Neft.
 

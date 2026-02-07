@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Close cooperation between the ship’s personnel and the Russian military allowed Russian special forces to storm the captured tanker Moscow University without unduly jeopardizing the safety of the crew. Russian special forces capture oil tanker … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/moscowuniversity.jpg)Close cooperation between the ship’s personnel and the Russian military allowed Russian special forces to storm the captured tanker *Moscow Universit*y without unduly jeopardizing the safety of the crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/moscowuniversity.jpg)Close cooperation between the ship’s personnel and the Russian military allowed Russian special forces to storm the captured tanker *Moscow Universit*y without unduly jeopardizing the safety of the crew.
 
 [Russian special forces capture oil tanker](http://www.stuff.co.nz/world/africa/3667173/Russian-special-forces-capture-oil-tanker)  
   

@@ -10,7 +10,7 @@ tags:
   - "Chicago"
   - "Penguin"
   - "Shedd Aquarium"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/belugapenguin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/belugapenguin.jpg"
 author: "Rick Spilman"
 description: "And now, for something completely different. While Chicago’s Shedd Aquarium has been closed to visitors, the aquarium has allowed its penguins to take ‘field trips’ inside the facility. Here is a short video of Wellington, a rockhopper penguin, coming face … Continue reading &rarr;"
 ---

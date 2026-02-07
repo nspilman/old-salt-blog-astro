@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Sixteen hostages were freed when the Danish warship HDMS Absalon attacked pirates in control of a hijacker vessel off the coast of Somalia late Sunday.  Two crew from the hijacked ship were found to have severe injuries and subsequently died.   The circumstances of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/hdms-absalon-l16_4.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/hdms-absalon-l16_4.jpg)
 
 HDMS Absalon
 

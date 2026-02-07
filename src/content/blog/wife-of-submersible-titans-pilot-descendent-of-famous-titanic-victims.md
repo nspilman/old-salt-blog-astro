@@ -16,12 +16,12 @@ tags:
   - "Titan"
   - "Titanic"
   - "Wendy Rush"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/strauss.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/strauss.jpg"
 author: "Rick Spilman"
 description: "Wendy Rush, the wife of the late Stockton Rush, the co-founder of OceanGate and pilot of the Titan when the submersible imploded, is a great-great-granddaughter of two first-class passengers who died when the Titanic sank in 1912. Ms. Rush is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/strauss.jpg)Wendy Rush, the wife of the late Stockton Rush, the co-founder of OceanGate and pilot of the *Titan* when the submersible imploded, is a [great-great-granddaughter of two first-class passengers](https://www.nytimes.com/2023/06/21/us/wendy-stockton-rush-titanic-missing-submersible.html) who died when the *Titanic* sank in 1912.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/strauss.jpg)Wendy Rush, the wife of the late Stockton Rush, the co-founder of OceanGate and pilot of the *Titan* when the submersible imploded, is a [great-great-granddaughter of two first-class passengers](https://www.nytimes.com/2023/06/21/us/wendy-stockton-rush-titanic-missing-submersible.html) who died when the *Titanic* sank in 1912.
 
 Ms. Rush is a great-great-granddaughter of the retailing magnate [Isidor Straus](https://en.wikipedia.org/wiki/Isidor_Straus) and his wife, Ida, two of the wealthiest people aboard the *Titanic* for its first voyage. Mr. Straus, born in 1845, was a co-owner of Macy’s department store.
 

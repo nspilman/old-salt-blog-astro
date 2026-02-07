@@ -12,12 +12,12 @@ tags:
   - "Roger Payne"
   - "Songs of the Humpback Whale"
   - "whale song"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/rogerpaynetedtalk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/rogerpaynetedtalk.jpg"
 author: "Rick Spilman"
 description: "Harrison Smith, writing in the Washington Post, describes Roger Payne as \"a biologist who put his ear to the ocean and pioneered the study of whale songs.\" His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/rogerpaynetedtalk.jpg)Harrison Smith, writing in the [Washington Post](https://www.washingtonpost.com/obituaries/2023/06/14/roger-payne-whale-songs-dead/), describes [Roger Payne](https://en.wikipedia.org/wiki/Roger_Payne) as “a biologist who put his ear to the ocean and pioneered the study of whale songs.” His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, playful squeals, and mournful moos — suggested that the animals had a far richer inner life than previously imagined and helped to galvanize the anti-whaling movement. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/rogerpaynetedtalk.jpg)Harrison Smith, writing in the [Washington Post](https://www.washingtonpost.com/obituaries/2023/06/14/roger-payne-whale-songs-dead/), describes [Roger Payne](https://en.wikipedia.org/wiki/Roger_Payne) as “a biologist who put his ear to the ocean and pioneered the study of whale songs.” His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, playful squeals, and mournful moos — suggested that the animals had a far richer inner life than previously imagined and helped to galvanize the anti-whaling movement. 
 
 Roger Payne died of cancer on June 10 at his home in South Woodstock, Vt. He was 88.
 

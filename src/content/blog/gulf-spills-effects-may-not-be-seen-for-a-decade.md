@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "In contrast to claims made by BP suggesting that the Gulf will have recovered from the Deep Horizon oil spill by 2012, a recent study presented at an American Association for the Advancement of Science conference says that the damage is far … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/51347460_51347459.jpg)In contrast to claims made by BP suggesting that the Gulf will have recovered from the Deep Horizon oil spill by 2012, a recent study presented at an [American Association for the Advancement of Science conference](http://www.aaas.org/meetings/) says that the damage is far worse. The report by [Dr. Samantha Joye of the University of Georgia](http://www.marsci.uga.edu/directory/mjoye.htm) suggests that  it may be a decade before the full effects on the Gulf become apparent.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/51347460_51347459.jpg)In contrast to claims made by BP suggesting that the Gulf will have recovered from the Deep Horizon oil spill by 2012, a recent study presented at an [American Association for the Advancement of Science conference](http://www.aaas.org/meetings/) says that the damage is far worse. The report by [Dr. Samantha Joye of the University of Georgia](http://www.marsci.uga.edu/directory/mjoye.htm) suggests that  it may be a decade before the full effects on the Gulf become apparent.
 
 [Gulf spill’s effects ‘may not be seen for a decade’](http://www.bbc.co.uk/news/science-environment-12520630?om_rid=Nsfpfz&om_mid=_BNYnO3B8ZB7Z9D)  
   

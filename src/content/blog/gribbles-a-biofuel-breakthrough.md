@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Gribbles?  A wood eating marine pest may lead to a breakthrough in biofuels?  What’s next?  Teredo worms as a cure for cancer?   An intriguing article from the Times. Thanks to Alaric  Bond for the reference. ‘Gribble’ marine pest may be key … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Gribble.jpg)[Gribbles](http://en.wikipedia.org/wiki/Gribble)?  A wood eating marine pest may lead to a breakthrough in biofuels?  What’s next?  Teredo worms as a cure for cancer?   An intriguing article from the Times. Thanks to [Alaric  Bond](http://www.alaricbond.com/index.html) for the reference.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Gribble.jpg)[Gribbles](http://en.wikipedia.org/wiki/Gribble)?  A wood eating marine pest may lead to a breakthrough in biofuels?  What’s next?  Teredo worms as a cure for cancer?   An intriguing article from the Times. Thanks to [Alaric  Bond](http://www.alaricbond.com/index.html) for the reference.
 
 [‘Gribble’ marine pest may be key to biofuel breakthrough, say scientists](http://www.timesonline.co.uk/tol/news/science/earth-environment/article7054684.ece)
 

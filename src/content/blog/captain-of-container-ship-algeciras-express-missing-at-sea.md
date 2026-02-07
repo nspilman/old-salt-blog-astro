@@ -13,12 +13,12 @@ tags:
   - "captain"
   - "container ship"
   - "Hapag-Lloyd"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/algecirasexpress.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/algecirasexpress.jpg"
 author: "Rick Spilman"
 description: "The first officer of the 4,250 TEU container ship Algeciras Express, chartered by Hapag Lloyd, reported that the ship’s captain was missing on a voyage from Turkey to Spain. The crew had noticed the captain’s absence on July 3. They … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/algecirasexpress.jpg)The first officer of the 4,250 TEU container ship [*Algeciras Express*](https://www.fleetmon.com/vessels/algeciras-express_9227015_32486/), chartered by Hapag Lloyd, reported that the [ship’s captain was missing](https://maritime-executive.com/article/hapag-boxship-arrives-in-algeciras-missing-its-captain) on a voyage from Turkey to Spain. The crew had noticed the captain’s absence on July 3. They searched the vessel and reported that the captain could not be located.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/algecirasexpress.jpg)The first officer of the 4,250 TEU container ship [*Algeciras Express*](https://www.fleetmon.com/vessels/algeciras-express_9227015_32486/), chartered by Hapag Lloyd, reported that the [ship’s captain was missing](https://maritime-executive.com/article/hapag-boxship-arrives-in-algeciras-missing-its-captain) on a voyage from Turkey to Spain. The crew had noticed the captain’s absence on July 3. They searched the vessel and reported that the captain could not be located.
 
 [Safety4Sea](https://safety4sea.com/master-of-containership-algeciras-express-reported-missing-at-sea/) reports that the container ship arrived at Algeciras on July 7. Upon arrival, a new captain came on board, and the ship was authorized to moor at the TTI Algeciras terminal.
 

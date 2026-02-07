@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "In June of last year, we posted about the Quest for the South Magnetic Pole.  Recently the Independent featured an article describing how the magnetic north pole is  moving faster than at any time in human history, apparently shifting from Canada … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/magneticnorth.jpg)In June of last year, we posted about the [Quest for the South Magnetic Pole](http://www.oldsaltblog.com/2010/06/30/quest-for-the-south-magnetic-pole/).  Recently the [Independent](http://www.independent.co.uk/news/science/adjust-your-compass-now-the-north-pole-is-migrating-to-russia-2233610.html) featured an article describing how the magnetic north pole is  moving faster than at any time in human history, apparently shifting from Canada to Russia.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/magneticnorth.jpg)In June of last year, we posted about the [Quest for the South Magnetic Pole](http://www.oldsaltblog.com/2010/06/30/quest-for-the-south-magnetic-pole/).  Recently the [Independent](http://www.independent.co.uk/news/science/adjust-your-compass-now-the-north-pole-is-migrating-to-russia-2233610.html) featured an article describing how the magnetic north pole is  moving faster than at any time in human history, apparently shifting from Canada to Russia.
 
 [Adjust your compass now: the north pole is migrating to Russia](http://www.independent.co.uk/news/science/adjust-your-compass-now-the-north-pole-is-migrating-to-russia-2233610.html)  
   

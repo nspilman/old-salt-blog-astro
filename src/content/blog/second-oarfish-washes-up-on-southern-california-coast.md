@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "A second rare oarfish has washed up on the California coast. Last week a dead 18 foot oarfish was found by a snorkeling marine science instructor off Catalina Island. On Sunday, a second 14′ long oarfish washed up on a … Continue reading &rarr;"
 ---
 
-![oarfish1](http://www.oldsaltblog.com/wp-content/uploads/2013/10/oarfish1.jpg)A second rare [oarfish](http://en.wikipedia.org/wiki/Oarfish) has washed up on the California coast. Last week [a dead 18 foot oarfish was found by a snorkeling marine science instructor](http://www.oldsaltblog.com/2013/10/18-oar-fish-found-catalina-island/) off Catalina Island. On Sunday, a second 14′ long oarfish washed up on a beach near Oceanside, also in Southern California. Milton Love, a research biologist at the Marine Science Institute at UC Santa Barbara speculates that both fish might have been carried shore-ward by the same current.
+![oarfish1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/oarfish1.jpg)A second rare [oarfish](http://en.wikipedia.org/wiki/Oarfish) has washed up on the California coast. Last week [a dead 18 foot oarfish was found by a snorkeling marine science instructor](http://www.oldsaltblog.com/2013/10/18-oar-fish-found-catalina-island/) off Catalina Island. On Sunday, a second 14′ long oarfish washed up on a beach near Oceanside, also in Southern California. Milton Love, a research biologist at the Marine Science Institute at UC Santa Barbara speculates that both fish might have been carried shore-ward by the same current.
 
 [Deaths of two giant oarfish may be linked, scientists say](http://www.latimes.com/local/la-me-1022-oarfish-20131022,0,995333.story#axzz2iTgwfKJZ)
 

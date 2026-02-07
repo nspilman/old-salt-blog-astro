@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the\"globsters,\"  massive carcasses which have been washing shore … Continue reading &rarr;"
 ---
 
-![The St. Augustine Monster,1897, by DeWitt Webb, photograph](http://www.oldsaltblog.com/wp-content/uploads/2013/05/staugglob.jpg)
+![The St. Augustine Monster,1897, by DeWitt Webb, photograph](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/staugglob.jpg)
 
 The St. Augustine Monster,1897, by DeWitt Webb, photograph
 

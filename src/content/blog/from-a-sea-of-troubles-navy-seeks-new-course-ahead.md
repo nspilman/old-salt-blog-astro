@@ -15,12 +15,12 @@ tags:
   - "US Chief of Naval Operations"
   - "USS Gerald Ford"
   - "USS Zumwalt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/cnolcs.jpg"
 author: "Rick Spilman"
 description: "In January of this year, while speaking before the annual Surface Navy Association symposium, US Chief of Naval Operations Adm. Mike Gilday was blunt. He said, \"I don’t mean to be dramatic, but I feel like if the Navy loses its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/cnolcs.jpg)
 
 Chief of Naval Operations Adm. Mike Gilday aboard the littoral combat ship USS Detroit
 

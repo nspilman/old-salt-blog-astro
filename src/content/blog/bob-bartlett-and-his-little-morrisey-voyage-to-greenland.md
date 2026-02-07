@@ -13,7 +13,7 @@ tags:
   - "Effie Morrissey"
   - "Ernestina"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/morriseyvideo1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/morriseyvideo1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the restoration of the historic schooner Ernestina, ex-Effie M. Morrissey.  Here is a documentary, narrated by the polar explorer, Captain Bob Bartlett, describing a voyage to Greenland in the schooner he refers to as his \"Little Morrisey.\" … Continue reading &rarr;"
 ---

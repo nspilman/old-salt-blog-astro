@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "When a storm destroyed Xerxes the Great’s bridge across the Hellespont in 480 BCE, he ordered that the sea be flogged with chains. Now, the North Carolina legislature is playing Xerxes. Some North Carolina legislators do not like the estimates of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/xerxeslashingthesea.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/xerxeslashingthesea.jpg)
 
 Xerxes orders the sea to be lashed
 

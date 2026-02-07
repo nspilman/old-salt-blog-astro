@@ -13,12 +13,12 @@ tags:
   - "MSC Carlotta"
   - "MSC Desiree"
   - "MSC Gayane"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg"
 author: "Rick Spilman"
 description: "Anyone who thinks that a Southern border wall will stop cocaine trafficking into this country has not been paying at attention to the news. Cocaine seizures from container ships have been setting records in ports along the East Coast for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg)Anyone who thinks that a Southern border wall will stop cocaine trafficking into this country has not been paying at attention to the news. Cocaine seizures from container ships have been setting records in ports along the East Coast for the last several months. Most recently, a shipping container full of beach chairs discharged in Baltimore was found to contain [333 pounds of cocaine](https://wtop.com/baltimore/2019/06/agents-seize-record-333-pounds-of-cocaine-at-baltimore-port/) worth an estimated $10 million, a record seizure for the port.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg)Anyone who thinks that a Southern border wall will stop cocaine trafficking into this country has not been paying at attention to the news. Cocaine seizures from container ships have been setting records in ports along the East Coast for the last several months. Most recently, a shipping container full of beach chairs discharged in Baltimore was found to contain [333 pounds of cocaine](https://wtop.com/baltimore/2019/06/agents-seize-record-333-pounds-of-cocaine-at-baltimore-port/) worth an estimated $10 million, a record seizure for the port.
 
 The Baltimore bust was dwarfed by the 15.5 tonnes of cocaine, worth roughly $1 billion, seized last week by Federal authorities aboard the [MSC *Gayane* in the Port of Philadelphia.](http://www.oldsaltblog.com/2019/06/the-bizarre-smuggling-scheme-on-msc-gayane/#more-52649) This seizure was also a record for the port and was one of the largest drug seizures in US history.
 

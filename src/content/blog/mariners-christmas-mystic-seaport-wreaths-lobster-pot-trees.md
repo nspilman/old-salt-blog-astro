@@ -13,7 +13,7 @@ tags:
   - "mystic seaport"
   - "Nova Scotia"
   - "Rockland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/rocklandpottree.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/rocklandpottree.jpg"
 author: "Rick Spilman"
 description: "Now that Thanksgiving is behind us, it is time to start decorating for Christmas with lights, trees, and wreathes. At the Mystic Seaport Museum, 170 wreaths are being constructed or decorated over a period of 18 days to provide decorations … Continue reading &rarr;"
 ---

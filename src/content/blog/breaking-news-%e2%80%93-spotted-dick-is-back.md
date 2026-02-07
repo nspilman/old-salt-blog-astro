@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "An update to our previous post – Spotted Dick Off the Menu.  As reported by the BBC: Council chiefs have reversed a decision to rename the pudding Spotted Dick after receiving \"abusive letters\" and accusations of political correctness. Canteen staff … Continue reading &rarr;"
 ---
 
-![spotteddick300-1](http://www.oldsaltblog.com/wp-content/uploads/2009/09/spotteddick300-1.jpg)An update to our previous post – [Spotted Dick Off the Menu](http://www.oldsaltblog.com/2009/09/14/spotted-dick-off-the-menu/).  As reported by the [BBC](http://news.bbc.co.uk/2/hi/uk_news/wales/north_east/8270460.stm):
+![spotteddick300-1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/spotteddick300-1.jpg)An update to our previous post – [Spotted Dick Off the Menu](http://www.oldsaltblog.com/2009/09/14/spotted-dick-off-the-menu/).  As reported by the [BBC](http://news.bbc.co.uk/2/hi/uk_news/wales/north_east/8270460.stm):
 
 *Council chiefs have reversed a decision to rename the pudding Spotted Dick after receiving “abusive letters” and accusations of political correctness.*
 

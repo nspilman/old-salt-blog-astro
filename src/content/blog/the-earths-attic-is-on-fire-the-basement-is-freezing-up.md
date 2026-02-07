@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Scientists have said that global climate change will bring us severe and unusual weather.   That would be a hard point to argue. Here are two recent, apparently somewhat contradictory or perhaps merely odd, news stories about the sea and the global climate. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/seaice_2012.jpg)Scientists have said that global climate change will bring us severe and unusual weather.   That would be a hard point to argue. Here are two recent, apparently somewhat contradictory or perhaps merely odd, news stories about the sea and the global climate.   The ice on the Arctic Sea has melted to record low levels while it has reached record highs in the Antarctic.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/seaice_2012.jpg)Scientists have said that global climate change will bring us severe and unusual weather.   That would be a hard point to argue. Here are two recent, apparently somewhat contradictory or perhaps merely odd, news stories about the sea and the global climate.   The ice on the Arctic Sea has melted to record low levels while it has reached record highs in the Antarctic.
 
 As Dr. Jeff Masters puts it – “[Earth’s attic is on fire](http://www.wunderground.com/blog/JeffMasters/article.html).”
 

@@ -11,12 +11,12 @@ tags:
   - "extinction"
   - "North Atlantic right whales"
   - "ship strikes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/rightwhales2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/rightwhales2.jpg"
 author: "Rick Spilman"
 description: "North Atlantic right whales are among the rarest of marine mammals. Only about 450 of the whales are thought to exist. In 2017 alone an estimated 17 right whales have died while only 5 whales are believed to have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/rightwhales2.jpg)[North Atlantic right whales](https://en.wikipedia.org/wiki/North_Atlantic_right_whale) are among the rarest of marine mammals. Only about 450 of the whales are thought to exist. In 2017 alone an estimated 17 right whales have died while only 5 whales are believed to have been born.  Ship strikes and entanglements with fishing nets and gear are the leading causes of death for North Atlantic right whales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/rightwhales2.jpg)[North Atlantic right whales](https://en.wikipedia.org/wiki/North_Atlantic_right_whale) are among the rarest of marine mammals. Only about 450 of the whales are thought to exist. In 2017 alone an estimated 17 right whales have died while only 5 whales are believed to have been born.  Ship strikes and entanglements with fishing nets and gear are the leading causes of death for North Atlantic right whales.
 
 As reported by [Phys.org](https://phys.org/news/2017-12-whales-deadly-year-extinct.html):
 

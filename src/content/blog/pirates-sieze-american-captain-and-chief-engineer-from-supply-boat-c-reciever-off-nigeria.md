@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Pirates are reported to have seized the captain and chief engineer from the US Flag offshore supply vessel, C-Retriever, which was attacked in the Gulf of Guinea off the coast of Nigeria early Wednesday.  Both the captain and chief engineer are … Continue reading &rarr;"
 ---
 
-[![Photo: Christian @ShipSpotting.com](http://www.oldsaltblog.com/wp-content/uploads/2013/10/731071.jpg)](http://www.shipspotting.com/gallery/photo.php?lid=731071)
+[![Photo: Christian @ShipSpotting.com](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/731071.jpg)](http://www.shipspotting.com/gallery/photo.php?lid=731071)
 
 Photo: Christian @[ShipSpotting.com](http://www.shipspotting.com/)
 

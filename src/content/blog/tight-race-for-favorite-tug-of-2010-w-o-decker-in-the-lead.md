@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Waterford Tugboat Roundup 2010 starts tomorrow with a Parade of  Tugs past the Albany, NY waterfront before all return to Waterford at the junction of the Hudson and Mohawk Rivers for a  full weekend of competitions and entertainment.   The Roundup Favorite Tug of 2010 competition … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/tugwodecker-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/tugwodecker-1.jpg)
 
 Tug W.O. Decker
 

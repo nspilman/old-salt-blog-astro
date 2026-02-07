@@ -11,12 +11,12 @@ tags:
   - "Mylar sail with an area of 32 square meters (244 square feet) — about the size of a boxing ring."
   - "Planetary Society"
   - "solar sailing spacecraft"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/lightsail2deployed.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/lightsail2deployed.jpg"
 author: "Rick Spilman"
 description: "LightSail 2, the Planetary Society‘s solar sailing spacecraft, is no more. On November 17th, the crowdfunded solar sailing spacecraft burned in a blaze of glory as it re-entered earth’s atmosphere after traveling 8 million kilometers (5 million miles) powered only … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/lightSail2.jpg)[LightSail 2](https://www.planetary.org/sci-tech/lightsail), the [Planetary Society](https://www.planetary.org/)‘s solar sailing spacecraft, is no more. On November 17th, the crowdfunded solar sailing spacecraft burned in a blaze of glory as it re-entered earth’s atmosphere after traveling 8 million kilometers (5 million miles) powered only by sunlight. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/lightSail2.jpg)[LightSail 2](https://www.planetary.org/sci-tech/lightsail), the [Planetary Society](https://www.planetary.org/)‘s solar sailing spacecraft, is no more. On November 17th, the crowdfunded solar sailing spacecraft burned in a blaze of glory as it re-entered earth’s atmosphere after traveling 8 million kilometers (5 million miles) powered only by sunlight. 
 
 “LightSail 2 is gone after more than three glorious years in the sky, blazing a trail of lift with light, and proving that we could defy gravity by tacking a sail in space,” said Bill Nye, CEO of The Planetary Society in a [statement](https://www.planetary.org/press-releases/the-planetary-societys-lightsail-2-mission-reenters-atmosphere-completes-mission). “The mission was funded by tens of thousands of Planetary Society members, who want to advance space technology.”
 

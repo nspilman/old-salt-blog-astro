@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Like so many other organizations, the Working Harbor Committee has had to rethink its annual gala, which raises funds for the organization and honors leaders in the Working Waterfront. This year the gala will be virtual on Tuesday, October 20, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/whg15.jpg)Like so many other organizations, the [Working Harbor Committee](https://www.workingharbor.org/) has had to rethink its annual gala, which raises funds for the organization and honors leaders in the Working Waterfront. This year the [gala will be virtual on Tuesday, October 20, 2020](https://www.workingharbor.org/pdf%20files/flyer2020gala.pdf), from 6:00 p.m. to 7:30 p.m.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/whg15.jpg)Like so many other organizations, the [Working Harbor Committee](https://www.workingharbor.org/) has had to rethink its annual gala, which raises funds for the organization and honors leaders in the Working Waterfront. This year the [gala will be virtual on Tuesday, October 20, 2020](https://www.workingharbor.org/pdf%20files/flyer2020gala.pdf), from 6:00 p.m. to 7:30 p.m.
 
 The Working Harbor Committee will be honoring Captain John J. DeCruz, President of the United New York Sandy Hook Pilots, and Captain Brendan L. Foley, President of the United New Jersey Sandy Hook Pilots. The Sandy Hook pilots help container ships bring food and other essential goods into New York Harbor.
 

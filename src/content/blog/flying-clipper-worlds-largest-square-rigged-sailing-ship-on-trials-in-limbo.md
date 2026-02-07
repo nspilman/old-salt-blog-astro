@@ -13,12 +13,12 @@ tags:
   - "Flying Clipper"
   - "Star Clippers"
   - "World's Largest Square Rigged Sailing Ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/flyingclipperdock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/flyingclipperdock.jpg"
 author: "Rick Spilman"
 description: "For the past several years, we have followed the construction of the newest and largest square-rigged luxury passenger cruise ship built for the Star Clipper cruise fleet — the Flying Clipper.  Recently, the 300 passenger, five-masted bark has been seen … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/flyingclipperdock.jpg)For the past several years, [we have followed the construction of the newest and largest square-rigged luxury passenger cruise ship](http://www.oldsaltblog.com/2017/06/update-flying-clipper-worlds-largest-square-rigged-sailing-ship-launched/) built for the [Star Clipper](https://www.starclippers.com/us-dom) cruise fleet — the [*Flying Clipper*](https://en.wikipedia.org/wiki/Flying_Clipper).  Recently, the 300 passenger, five-masted bark has been seen on trials off Split. Unfortunately, the ship, built by the Croatian [shipyard Brodosplit](https://en.wikipedia.org/wiki/Brodosplit), is also sailing in limbo.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/flyingclipperdock.jpg)For the past several years, [we have followed the construction of the newest and largest square-rigged luxury passenger cruise ship](http://www.oldsaltblog.com/2017/06/update-flying-clipper-worlds-largest-square-rigged-sailing-ship-launched/) built for the [Star Clipper](https://www.starclippers.com/us-dom) cruise fleet — the [*Flying Clipper*](https://en.wikipedia.org/wiki/Flying_Clipper).  Recently, the 300 passenger, five-masted bark has been seen on trials off Split. Unfortunately, the ship, built by the Croatian [shipyard Brodosplit](https://en.wikipedia.org/wiki/Brodosplit), is also sailing in limbo.
 
 [Total Croatia News](https://www.total-croatia-news.com/lifestyle/38685-split) reports that the 70 million euro contract between Brodosplit and Star Clippers owner Mikhail Krafft has recently been terminated because both sides claimed that it had been violated: Krafft had exceeded delivery deadlines for masts and rigging and the Split shipyard failed to meet the conditions for completion. The dispute is moving towards arbitration, but, according to unofficial information, negotiations over a possible compromise are also in progress.
 

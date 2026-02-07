@@ -15,12 +15,12 @@ tags:
   - "seamount"
   - "Seawolf Class submarine"
   - "USS Connecticut"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/semount.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/semount.jpg"
 author: "Rick Spilman"
 description: "There is an old saying that we know more about the Moon than we do about the deep ocean. Critics say that the notion, first recorded in 1954, is out of date. While that may be the case, it is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/semount.jpg)There is an old saying that we know more about the Moon than we do about the deep ocean. [Critics say that the notion, first recorded in 1954, is out of date](https://www.astronomy.com/science/do-we-know-more-about-the-moon-than-the-deep-sea-no/). While that may be the case, it is also clear that we still have much to learn about the deep ocean. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/semount.jpg)There is an old saying that we know more about the Moon than we do about the deep ocean. [Critics say that the notion, first recorded in 1954, is out of date](https://www.astronomy.com/science/do-we-know-more-about-the-moon-than-the-deep-sea-no/). While that may be the case, it is also clear that we still have much to learn about the deep ocean. 
 
 Recently, scientists on the [*Falkor (too)*](https://schmidtocean.org/rv-falkor/) research vessel have discovered a mile-high mountain in the Pacific Ocean, off the coast of Guatemala. The 5,250-foot-tall (1,600 meters) formation is a seamount — a large, underwater geological feature typically formed from an extinct volcano. Scientists discovered the cone-shaped seamount 7,870 feet (2,400 m) below sea level during an expedition organized by the [Schmidt Ocean Institute](https://schmidtocean.org/) this summer, according to a statement shared with [Live Science](https://www.livescience.com/planet-earth/geology/seamount-twice-the-size-of-worlds-tallest-building-discovered-hidden-under-the-waves).
 

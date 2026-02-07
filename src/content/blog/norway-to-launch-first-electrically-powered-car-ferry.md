@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Norwegian shipyard Fjellstrand and Siemens are developing the world’s first electrically powered car ferry. Starting in 2015, the 80-meter ferry will will operate across the Sognefjord between the towns of Lavik and Oppedal. The ferry will have the capacity … Continue reading &rarr;"
 ---
 
-![1-firstcarferr](http://www.oldsaltblog.com/wp-content/uploads/2013/01/1-firstcarferr.jpg)The Norwegian shipyard Fjellstrand and Siemens are developing the world’s first electrically powered car ferry. Starting in 2015, the 80-meter ferry will will operate across the Sognefjord between the towns of Lavik and Oppedal. The ferry will have the capacity to carry 120 cars and 360 passengers.  Remarkably the batteries which power the ferry will be able to recharge in only 10 minutes.
+![1-firstcarferr](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/1-firstcarferr.jpg)The Norwegian shipyard Fjellstrand and Siemens are developing the world’s first electrically powered car ferry. Starting in 2015, the 80-meter ferry will will operate across the Sognefjord between the towns of Lavik and Oppedal. The ferry will have the capacity to carry 120 cars and 360 passengers.  Remarkably the batteries which power the ferry will be able to recharge in only 10 minutes.
 
 [First car ferry powered by electric drive system](http://phys.org/news/2013-01-car-ferry-powered-electric.html)
 

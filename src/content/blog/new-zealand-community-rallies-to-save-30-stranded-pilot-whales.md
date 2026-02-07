@@ -13,12 +13,12 @@ tags:
   - "pilot whale"
   - "Ruakākā Beach"
   - "Whangārei"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/NZpilotwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/NZpilotwhale.jpg"
 author: "Rick Spilman"
 description: "Good news for change. On Sunday, a pod of more than 30 pilot whales became stranded on Ruakākā Beach near Whangārei in northern New Zealand. Hundreds of residents joined forces with conservationists to save the pod. The rescue effort was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/NZpilotwhale.jpg)Good news for change. On Sunday, a [pod of more than 30 pilot whales became stranded](https://www.bbc.com/news/articles/c1dpl21x0x7o) on Ruakākā Beach near Whangārei in northern New Zealand. Hundreds of residents joined forces with conservationists to save the pod. The rescue effort was spearheaded by the local Māori group, Patuharakeke. Remarkably, most of the pilot whales were refloated and swam out to sea, but three adults and one calf died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/NZpilotwhale.jpg)Good news for change. On Sunday, a [pod of more than 30 pilot whales became stranded](https://www.bbc.com/news/articles/c1dpl21x0x7o) on Ruakākā Beach near Whangārei in northern New Zealand. Hundreds of residents joined forces with conservationists to save the pod. The rescue effort was spearheaded by the local Māori group, Patuharakeke. Remarkably, most of the pilot whales were refloated and swam out to sea, but three adults and one calf died.
 
 Patuharakeke remained on the beach through the night to make sure none of the rescued whales were re-stranded.
 

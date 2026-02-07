@@ -14,12 +14,12 @@ tags:
   - "Greek trading ship"
   - "oldest Shipwreck"
   - "shipwreck"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/oldestshipbaltic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/oldestshipbaltic.jpg"
 author: "Rick Spilman"
 description: "In the dark and oxygenless waters of the Black Sea two miles below the surface, a team of maritime archaeologists, scientists and surveyors has discovered what it believes to be the world’s oldest intact shipwreck. Carbon dating suggests that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/oldestshipbaltic.jpg)In the dark and oxygenless waters of the Black Sea two miles below the surface, a team of maritime archaeologists, scientists and surveyors has discovered what it believes to be the world’s oldest intact shipwreck. Carbon dating suggests that the wreck is more than 2,400 years ago. A remote-controlled submarine piloted by British scientists spotted the 75 foot Greek trading lying on its side about 50 miles off the coast of Bulgaria. The vessel was found lying whole with its mast, rudders and rowing benches in place.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/oldestshipbaltic.jpg)In the dark and oxygenless waters of the Black Sea two miles below the surface, a team of maritime archaeologists, scientists and surveyors has discovered what it believes to be the world’s oldest intact shipwreck. Carbon dating suggests that the wreck is more than 2,400 years ago. A remote-controlled submarine piloted by British scientists spotted the 75 foot Greek trading lying on its side about 50 miles off the coast of Bulgaria. The vessel was found lying whole with its mast, rudders and rowing benches in place.
 
 The ship is believed to have been a trading vessel of a type that researchers have only seen represented on ancient Greek pottery.
 

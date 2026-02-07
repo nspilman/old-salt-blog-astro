@@ -13,12 +13,12 @@ tags:
   - "oil tanker"
   - "Red Sea"
   - "sea drone"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/Clion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/Clion.jpg"
 author: "Rick Spilman"
 description: "Yemeni Houthi rebels have released a video of an attack they claim to have been carried out by a sea drone on an oil tanker in the Red Sea. The footage shows a small vessel approaching, then colliding with the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/Clion.jpg)Yemeni Houthi rebels have released a video of an attack they claim to have been carried out by a sea drone on an oil tanker in the Red Sea. The footage shows a small vessel approaching, then colliding with the ship’s port side, resulting in a large explosion. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/Clion.jpg)Yemeni Houthi rebels have released a video of an attack they claim to have been carried out by a sea drone on an oil tanker in the Red Sea. The footage shows a small vessel approaching, then colliding with the ship’s port side, resulting in a large explosion. 
 
 [BBC](https://www.bbc.com/news/videos/cm528nmymn8o) has confirmed that the tanker seen in the video is the [*Chios Lion*](https://www.vesselfinder.com/vessels/details/9398280). The attack occurred on July 15, 100 nautical miles northwest of Yemen’s port of Hodeidah. The attack is reported to have inflicted minor damage to the *Chios Lion.* The tanker’s crew was not injured in the attack.
 

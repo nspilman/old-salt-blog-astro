@@ -14,12 +14,12 @@ tags:
   - "Kiska Island"
   - "USS Abner Read"
   - "WWII"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/readstern.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/readstern.jpg"
 author: "Rick Spilman"
 description: "On Aug. 18, 1943,  the destroyer USS Abner Read was on anti-submarine patrol near Kiska Island, in Alaska’s Aleutian chain. The Japanese had just recently evacuated the island but had left behind a minefield. At 1:50 a.m.,  the destroyer struck … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/readstern.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/readstern.jpg)
 
 Stern of the USS Abner Read after striking a mine
 

@@ -13,12 +13,12 @@ tags:
   - "porpoise"
   - "totoaba"
   - "Vaquita"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg"
 author: "Rick Spilman"
 description: "In 2017, we posted about an attempt to use Navy-trained dolphins in a last-ditch effort to capture and save the few surviving vaquita. The vaquita is a small porpoise found only in the Gulf of California that is in imminent … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg)
 
 Vaquita Photo: Paula Olson, NOAA
 

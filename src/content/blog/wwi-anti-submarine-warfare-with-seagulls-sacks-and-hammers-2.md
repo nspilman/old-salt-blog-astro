@@ -14,12 +14,12 @@ tags:
   - "seagulls"
   - "submarines"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/seagulls.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/seagulls.jpg"
 author: "Rick Spilman"
 description: "One of the great things about writing historical fiction is discovering odd sets of facts, often buried in the archives, that capture both the desperation and the madness of a given time. Often, as the cliche goes, you just can’t … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/seagulls.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/seagulls.jpg)
 
 Anti-submarine warriors?
 

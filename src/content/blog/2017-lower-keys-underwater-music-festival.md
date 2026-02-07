@@ -9,12 +9,12 @@ categories:
 tags:
   - "Looe Key Reef"
   - "Lower Keys Underwater Music Festival"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/lowerkeysmusic.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/lowerkeysmusic.jpg"
 author: "Rick Spilman"
 description: "Some 400 divers and snorkelers rocked-out to a unique sub-sea concert that promoted reef protection on part of the world’s third-largest living coral barrier reef last Saturday.  The Lower Keys Underwater Music Festival took place at Looe Key Reef, an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/lowerkeysmusic.jpg)Some 400 divers and snorkelers rocked-out to a unique sub-sea concert that promoted reef protection on part of the world’s third-largest living coral barrier reef last Saturday.  The [Lower Keys Underwater Music Festival](http://www.lowerkeyschamber.com/festival.php) took place at Looe Key Reef, an area of the [Florida Keys National Marine Sanctuary](http://floridakeys.noaa.gov/) about 6 miles south of Big Pine Key. Staged by the Lower Keys Chamber of Commerce and Keys radio station US1 104.1 FM, it provided a “submerged soundtrack” for divers discovering the Keys’ diverse realm of tropical fish, coral formations and other marine life.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/lowerkeysmusic.jpg)Some 400 divers and snorkelers rocked-out to a unique sub-sea concert that promoted reef protection on part of the world’s third-largest living coral barrier reef last Saturday.  The [Lower Keys Underwater Music Festival](http://www.lowerkeyschamber.com/festival.php) took place at Looe Key Reef, an area of the [Florida Keys National Marine Sanctuary](http://floridakeys.noaa.gov/) about 6 miles south of Big Pine Key. Staged by the Lower Keys Chamber of Commerce and Keys radio station US1 104.1 FM, it provided a “submerged soundtrack” for divers discovering the Keys’ diverse realm of tropical fish, coral formations and other marine life.
 
 “The Underwater Music Festival is a way to celebrate the coral reef, and we celebrate it by looking for a balance between protection of the reef and public enjoyment,” said festival co-founder Bill Becker. “The more people realize what’s down there and enjoy it, the more they’re likely to protect it.”
 

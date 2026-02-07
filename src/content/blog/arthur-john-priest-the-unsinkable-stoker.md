@@ -16,12 +16,12 @@ tags:
   - "Priest"
   - "Titanic"
   - "Unsinkable Stoker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/prieststoker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/prieststoker.jpg"
 author: "Rick Spilman"
 description: "Arthur John Priest was born on this day in 1887. He earned the nickname \"the unsinkable stoker\" after surviving the sinking of four ships, including the Titanic and its sister ship Britannic, as well as living through two ship collisions. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/prieststoker.jpg)[Arthur John Priest](https://en.wikipedia.org/wiki/Arthur_John_Priest) was born on this day in 1887. He earned the nickname “the unsinkable stoker” after surviving the sinking of four ships, including the [*Titanic*](https://en.wikipedia.org/wiki/Titanic) and its sister ship *[Britannic](https://en.wikipedia.org/wiki/HMHS_Britannic),* as well as living through two ship collisions.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/prieststoker.jpg)[Arthur John Priest](https://en.wikipedia.org/wiki/Arthur_John_Priest) was born on this day in 1887. He earned the nickname “the unsinkable stoker” after surviving the sinking of four ships, including the [*Titanic*](https://en.wikipedia.org/wiki/Titanic) and its sister ship *[Britannic](https://en.wikipedia.org/wiki/HMHS_Britannic),* as well as living through two ship collisions.
 
 As a stoker, Priest was part of the “black gang” that manually shifted the hundreds of tonnes of coal each day to feed the insatiable boilers of the steamships of the time.     
 

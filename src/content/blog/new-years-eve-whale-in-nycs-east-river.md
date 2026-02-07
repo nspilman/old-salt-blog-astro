@@ -11,7 +11,7 @@ tags:
   - "humpback"
   - "Long Island Sound"
   - "New York City"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/humpbackeastriver.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/humpbackeastriver.jpg"
 author: "Rick Spilman"
 description: "#Harbor spotted another whale in the E. River this morning right next to Gracie Mansion. Even the wildlife want to ring in #NYE2017 in #NYC pic.twitter.com/oQNbnGBirm — NYPD Special Ops (@NYPDSpecialops) December 31, 2016 A whale was seen swimming in New York’s … Continue reading &rarr;"
 ---

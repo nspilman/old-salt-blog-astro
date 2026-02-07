@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "Happy National Coffee Day! I don’t know who decided that today was National Coffee Day, nor even why we should necessarily be celebrating it.   However, as a confirmed and happily contented coffee addict, perhaps this is a good time … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/hogarthcoffeehouse.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/hogarthcoffeehouse.jpg)
 
 Coffee House by Hogarth
 

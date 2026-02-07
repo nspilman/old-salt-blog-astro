@@ -14,12 +14,12 @@ tags:
   - "pods"
   - "sailboats"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/orcaspain.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/orcaspain.jpg"
 author: "Rick Spilman"
 description: "Last September, the Spanish government issued restrictions on operating sailboats less than 15 meters long off a section of its Galician coast after multiple cases of encounters with pods of orcas, also known as killer whales. Last week, Spain issued … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/orcaspain.jpg)Last September, the [Spanish government issued restrictions on operating sailboats](http://www.oldsaltblog.com/2020/09/spain-bans-smaller-sailboats-following-damage-from-orca-aencounters/) less than 15 meters long off a section of its Galician coast after multiple cases of encounters with pods of orcas, also known as killer whales. Last week, [Spain issued new restrictions](https://www.mitma.gob.es/el-ministerio/sala-de-prensa/noticias/jue-05082021-1458) on the navigation of sailboats of less than 15 meters in a less than 10 nautical mile stretch of coastline, south of Cadiz, between Cape Trafalgar and Barbate. The restricted area extends from 2 to 9 miles from the coast. The restrictions are for two weeks but may be modified depending on the circumstances.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/orcaspain.jpg)Last September, the [Spanish government issued restrictions on operating sailboats](http://www.oldsaltblog.com/2020/09/spain-bans-smaller-sailboats-following-damage-from-orca-aencounters/) less than 15 meters long off a section of its Galician coast after multiple cases of encounters with pods of orcas, also known as killer whales. Last week, [Spain issued new restrictions](https://www.mitma.gob.es/el-ministerio/sala-de-prensa/noticias/jue-05082021-1458) on the navigation of sailboats of less than 15 meters in a less than 10 nautical mile stretch of coastline, south of Cadiz, between Cape Trafalgar and Barbate. The restricted area extends from 2 to 9 miles from the coast. The restrictions are for two weeks but may be modified depending on the circumstances.
 
 The orcas bump the boats’ hulls, often damaging the rudder and in some cases biting the boat’s keel in what has been described as violent but fundamentally playful behavior.
 

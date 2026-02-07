@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "On this day, sixty nine years ago, the great French luxury liner SS Normandie caught fire at Pier 88 on the Hudson River in New York City.  The fire burned out of control and the next day the ship capsized at the dock. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/550px-SS-Normandie_side01_N.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/550px-SS-Normandie_side01_N.jpg)
 
 On this day, sixty nine years ago, the great French luxury liner SS *Normandie* caught fire at Pier 88 on the Hudson River in New York City.  The fire burned out of control and the next day the ship capsized at the dock. The liner had been seized by the United States authorities at New York and renamed USS *Lafayette* at the beginning of World War II. She was in the process of being converted to a troop transport when she caught fire.   Her elegant interiors were being ripped out.   It is believed that an arc from a welding machine set fire to the partially stripped ship.  
   

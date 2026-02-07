@@ -13,12 +13,12 @@ tags:
   - "MV Rena"
   - "New Zealand"
   - "Tauranga"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/renareef.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/renareef.jpg"
 author: "Rick Spilman"
 description: "Almost a decade ago, the container ship MV Rena ran hard aground on Astrolabe Reef off Tauranga on New Zealand’s Bay of Plenty. The ship, carrying 2,100 containers and 1,700 tonnes of heavy fuel, would break up resulting in New Zealand’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/renareef.jpg)Almost a decade ago, the container ship [MV *Rena* ran hard aground](http://www.oldsaltblog.com/2011/10/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/) on [Astrolabe Reef](http://www.astrolabereef.co.nz/) off Tauranga on New Zealand’s Bay of Plenty. The ship, carrying 2,100 containers and 1,700 tonnes of heavy fuel, would break up resulting in New Zealand’s worst marine ecological disaster. It resulted in a $700 million salvage operation to remove the wreckage, along with scattered debris on the reef.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/renareef.jpg)Almost a decade ago, the container ship [MV *Rena* ran hard aground](http://www.oldsaltblog.com/2011/10/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/) on [Astrolabe Reef](http://www.astrolabereef.co.nz/) off Tauranga on New Zealand’s Bay of Plenty. The ship, carrying 2,100 containers and 1,700 tonnes of heavy fuel, would break up resulting in New Zealand’s worst marine ecological disaster. It resulted in a $700 million salvage operation to remove the wreckage, along with scattered debris on the reef.
 
 Tauranga diver and ecologist Phil Ross has been monitoring the wreckage of the Rena since 2012, making dives at least yearly to monitor how the reef is recovering from the damage done by the grounding,
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Commandos from the USS Bulkeley boarded the Japanese owned tanker MV Guanabara on Sunday after the crew reported that the ship was under attack by pirates.  The commandos captured four pirates aboard the ship without firing a shot.  The crew had withdrawn … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/militarynews2011030701a.jpg)Commandos from the [USS Bulkeley](http://en.wikipedia.org/wiki/USS_Bulkeley_\(DDG-84\)) boarded the Japanese owned tanker *MV Guanabara* on Sunday after the crew reported that the ship was under attack by pirates.  The commandos captured four pirates aboard the ship without firing a shot.  The crew had withdrawn to the ship’s “safe room.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/militarynews2011030701a.jpg)Commandos from the [USS Bulkeley](http://en.wikipedia.org/wiki/USS_Bulkeley_\(DDG-84\)) boarded the Japanese owned tanker *MV Guanabara* on Sunday after the crew reported that the ship was under attack by pirates.  The commandos captured four pirates aboard the ship without firing a shot.  The crew had withdrawn to the ship’s “safe room.”
 
 [U.S. Commandos Free Ship, Crew From Pirates](http://www.foxnews.com/world/2011/03/07/commandos-free-ship-crew-pirates/)  
   

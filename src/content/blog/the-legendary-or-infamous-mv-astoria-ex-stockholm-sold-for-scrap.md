@@ -16,12 +16,12 @@ tags:
   - "MV Stockholm"
   - "Nantucket"
   - "radar-assisted collision"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/stockholm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/stockholm.jpg"
 author: "Rick Spilman"
 description: "The 77-year-old cruise ship MV Astoria has been sold for scrap. The Belgian recycling firm Galloo was the only bidder, acquiring the ship for €200,000. In her over seven decades of service, she sailed for multiple owners, under many names, … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/stockholm.jpg)The 77-year-old cruise ship [MV *Astoria*](https://en.wikipedia.org/wiki/MV_Astoria) has been sold for scrap. The Belgian recycling firm [Galloo](https://www.galloo.com/en) was the only bidder, acquiring the ship for €200,000.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/stockholm.jpg)The 77-year-old cruise ship [MV *Astoria*](https://en.wikipedia.org/wiki/MV_Astoria) has been sold for scrap. The Belgian recycling firm [Galloo](https://www.galloo.com/en) was the only bidder, acquiring the ship for €200,000.
 
 In her over seven decades of service, she sailed for multiple owners, under many names, including *Völkerfreundschaft*, *Volker*, *Fridtjof Nansen*, *Italia I*, *Italia Prima*, *Valtur Prima*, *Caribe*, *Athena*, *Azores,* and finally *Astoria.* Ultimately, she will probably be best remembered as the [MV *Stockholm,*](https://maritime-executive.com/article/infamous-liner-turned-cruise-ship-to-be-sold-at-auction-77-years-after-mv) which collided with the ocean liner SS *Andrea Doria*, on July 25, 1956, killing 51 people and prompting one of the largest civilian maritime rescues in history. 
 

@@ -14,12 +14,12 @@ tags:
   - "Maine"
   - "Sequoia"
   - "Va"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/Sequoia2019.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/Sequoia2019.jpg"
 author: "Rick Spilman"
 description: "Back in 2016, we posted about a new owner for the ex-presidential yacht Sequoia, which had been sitting, deteriorating in a boatyard in Deltaville, VA. Now, three years later, the 104′ long motor vessel has been loaded aboard a barge to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/Sequoia2019.jpg)Back in 2016, [we posted about a new owner](http://www.oldsaltblog.com/2016/11/saga-ex-presidential-yacht-sequoia-continues-new-owner/) for the ex-presidential yacht *[Sequoia](https://en.wikipedia.org/wiki/USS_Sequoia_\(presidential_yacht\)),* which had been sitting, deteriorating in a boatyard in Deltaville, VA. Now, three years later, the 104′ long motor vessel has been loaded aboard a barge to be transported ultimately to Maine for restoration. The *Sequoia* served as a presidential yacht during the administrations of Herbert Hoover through Jimmy Carter and is a National Historic Landmark. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/Sequoia2019.jpg)Back in 2016, [we posted about a new owner](http://www.oldsaltblog.com/2016/11/saga-ex-presidential-yacht-sequoia-continues-new-owner/) for the ex-presidential yacht *[Sequoia](https://en.wikipedia.org/wiki/USS_Sequoia_\(presidential_yacht\)),* which had been sitting, deteriorating in a boatyard in Deltaville, VA. Now, three years later, the 104′ long motor vessel has been loaded aboard a barge to be transported ultimately to Maine for restoration. The *Sequoia* served as a presidential yacht during the administrations of Herbert Hoover through Jimmy Carter and is a National Historic Landmark. 
 
 The [Waterway Guide](https://www.waterwayguide.com/latest-news/news/10060/sequoia-begins-a-new-voyage) reports that plans are to move the vessel to Cambridge, MD aboard the smaller barge that it is now loaded on and transfer it to a larger one for the trip up the Atlantic coast to a shipyard in Belfast, ME where it will undergo repairs. 
 

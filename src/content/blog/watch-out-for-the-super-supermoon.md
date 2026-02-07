@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "This evening, watch out for the supermoon; well actually, a super supermoon, which on the East Coast of the United States should be rising in the East around sunset.  As reported by USA today: A supermoon occurs when the moon … Continue reading &rarr;"
 ---
 
-![Supermoon over Manhattan 2012](http://www.oldsaltblog.com/wp-content/uploads/2013/06/supermoon.jpg)
+![Supermoon over Manhattan 2012](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/supermoon.jpg)
 
 Supermoon over Manhattan 2012, Photo: Julio Cortez, AP)
 

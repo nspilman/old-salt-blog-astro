@@ -12,12 +12,12 @@ tags:
   - "Little Ships"
   - "Operation Dynamo"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/operationd2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/operationd2.jpg"
 author: "Rick Spilman"
 description: "Eighty years ago today, on May 26, 1940, Operation Dynamo, the evacuation of British and other Allied troops from the French port of Dunkirk, began. Following a Blitzkrieg attack by German forces in early May, the British Expeditionary Force (BEF), … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/operationd2.jpg)Eighty years ago today, on May 26, 1940, [Operation Dynamo](https://en.wikipedia.org/wiki/Dunkirk_evacuation), the evacuation of British and other Allied troops from the French port of Dunkirk, began. Following a Blitzkrieg attack by German forces in early May, the British Expeditionary Force (BEF), three French field armies, and the remains of Belgian forces were driven back and encircled near Dunkirk. Initially, the plan was to attempt to rescue up to 45,000 troops. By June 4, when the Germans took the port, 338,000 British, French, and other Allied troops were evacuated across the English  Channel to England. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/operationd2.jpg)Eighty years ago today, on May 26, 1940, [Operation Dynamo](https://en.wikipedia.org/wiki/Dunkirk_evacuation), the evacuation of British and other Allied troops from the French port of Dunkirk, began. Following a Blitzkrieg attack by German forces in early May, the British Expeditionary Force (BEF), three French field armies, and the remains of Belgian forces were driven back and encircled near Dunkirk. Initially, the plan was to attempt to rescue up to 45,000 troops. By June 4, when the Germans took the port, 338,000 British, French, and other Allied troops were evacuated across the English  Channel to England. 
 
 Over 900 ships took part in Operation Dynamo, of which [236 were lost and 61 put out of action](http://www.bbc.co.uk/pressoffice/pressreleases/stories/2004/02_february/03/dunkirk_facts_figures.shtml). French, Belgian, Dutch, and Norwegian ships took part in the operation alongside the ships of the Royal Navy.
 

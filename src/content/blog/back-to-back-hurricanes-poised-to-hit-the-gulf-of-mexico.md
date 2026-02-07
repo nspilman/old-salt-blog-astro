@@ -10,12 +10,12 @@ tags:
   - "Gulf of Mexico"
   - "Tropical Storm Laura"
   - "Tropical Storm Marco"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/twhurricanesgulf.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/twhurricanesgulf.jpg"
 author: "Rick Spilman"
 description: "2020 has been quite a year so far. A global pandemic, economic collapse, a derecho in the Midwest, and out of control wildfires in California. What next? Now, for the first time in recorded history, we may see two hurricanes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/twhurricanesgulf.jpg)2020 has been quite a year so far. A global pandemic, economic collapse, a derecho in the Midwest, and out of control wildfires in California. What next?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/twhurricanesgulf.jpg)2020 has been quite a year so far. A global pandemic, economic collapse, a derecho in the Midwest, and out of control wildfires in California. What next?
 
 Now, for the first time in recorded history, we may see [two hurricanes moving into the Gulf of Mexico simultaneously](https://www.washingtonpost.com/world/the_americas/ts-marcos-in-gulf-aiming-at-louisiana-ts-laura-also-on-way/2020/08/23/a0a2bf30-e4f6-11ea-82d8-5e55d47e90ca_story.html). Tropical Storm Marco and Tropical Storm Laura are both expected to strengthen to hurricane strength and to hit the Gulf Coast within hours of each other. 
 

@@ -12,12 +12,12 @@ tags:
   - "new york harbor"
   - "oysters"
   - "raw sewage"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg"
 author: "Rick Spilman"
 description: "The good news, as reported by the New York Times, is that 11.2 million juvenile oysters have been added in the past six months to a section of the Hudson River off the coast of Lower Manhattan, where they are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg)The good news, as reported by the [New York Times,](https://www.nytimes.com/2021/12/10/us/oysters-new-york-hudson-river.html) is that 11.2 million juvenile oysters have been added in the past six months to a section of the Hudson River off the coast of Lower Manhattan, where they are helping to filter the water and creating habitats for other marine life.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg)The good news, as reported by the [New York Times,](https://www.nytimes.com/2021/12/10/us/oysters-new-york-hudson-river.html) is that 11.2 million juvenile oysters have been added in the past six months to a section of the Hudson River off the coast of Lower Manhattan, where they are helping to filter the water and creating habitats for other marine life.
 
 Oysters are [natural filter feeders](https://www.whoi.edu/oceanus/feature/can-clams-and-oysters-help-clean-up-waterways/). They feed by pumping water through their gills, trapping particles of food as well as nutrients, suspended sediments and other contaminants. In doing so, oysters help keep the water clean and clear for underwater grasses and other aquatic life.
 

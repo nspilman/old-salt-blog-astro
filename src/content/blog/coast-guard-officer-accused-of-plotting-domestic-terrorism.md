@@ -10,12 +10,12 @@ tags:
   - "Christopher Paul Hasson"
   - "US Coast Guard lieutenant"
   - "white nationalist"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/weaponscache-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/weaponscache-1.jpg"
 author: "Rick Spilman"
 description: "Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks \"to murder innocent civilians on a scale rarely seen in this country\" according to court documents filed in U.S. District Court in Maryland on Tuesday.   Christopher Paul Hasson, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/weaponscache-200x150.jpg)Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks “to murder innocent civilians on a scale rarely seen in this country” [according to court documents](https://drive.google.com/file/d/1wl1WR4NJ95llQmNo7bmfVg6pvrq-cgzX/view) filed in U.S. District Court in Maryland on Tuesday.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/weaponscache-200x150.jpg)Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks “to murder innocent civilians on a scale rarely seen in this country” [according to court documents](https://drive.google.com/file/d/1wl1WR4NJ95llQmNo7bmfVg6pvrq-cgzX/view) filed in U.S. District Court in Maryland on Tuesday.  
 
 Christopher Paul Hasson, 49, a self-avowed white nationalist, was arrested after federal investigators uncovered a cache of weapons, ammunition, and illegal drugs in his Maryland home. The court documents, however, say that “the …charges, however, are the proverbial tip of the iceberg. The defendant is a domestic terrorist, bent on committing acts dangerous to human life that are intended to affect governmental conduct.”
 

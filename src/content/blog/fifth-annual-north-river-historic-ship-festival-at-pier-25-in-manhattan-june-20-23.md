@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "If you are in the New York area, check out the North River Historic Ship Festival that starts with a kickoff gala tomorrow night and runs through Sunday. The festivities include: A gala reception honoring A.J. Pietrantone, the former executive director … Continue reading &rarr;"
 ---
 
-![tugpegheadon](http://www.oldsaltblog.com/wp-content/uploads/2013/06/tugpegheadon.jpg)
+![tugpegheadon](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/tugpegheadon.jpg)
 
 Photo: Betsy Frawley Haggerty
 

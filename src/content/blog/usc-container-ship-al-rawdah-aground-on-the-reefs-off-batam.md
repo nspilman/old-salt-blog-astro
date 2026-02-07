@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Just in case you think you had a bad Monday, yesterday the USC container ship Al Rawdah ran aground on a reef in the waters of Pulau Sambu Stone Chain, Rear Padang, Batam, not long after leaving Port Klang, Selangor, Malaysia. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/Kapal-nabrak-karang-di-Bata.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Kapal-nabrak-karang-di-Bata.jpg)
 
 Photo:Tribun Batam/Zabur Anjasfianto
 

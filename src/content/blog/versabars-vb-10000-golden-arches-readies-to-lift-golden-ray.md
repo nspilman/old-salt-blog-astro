@@ -13,12 +13,12 @@ tags:
   - "Golden Ray"
   - "truss space frames"
   - "VB-10000"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/goldenarches.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/goldenarches.jpg"
 author: "Rick Spilman"
 description: "In September 2019, the car carrier Golden Ray lost stability and partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles. In October 2019, the Golden Ray was declared a total loss, and it was announced … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/goldenarches.jpg)In September 2019, the car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) lost stability and partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles. In October 2019, the *Golden Ray* was declared a total loss, and it was announced that the ship would be cut up in place and scrapped.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/goldenarches.jpg)In September 2019, the car carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) lost stability and partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles. In October 2019, the *Golden Ray* was declared a total loss, and it was announced that the ship would be cut up in place and scrapped.
 
 But how does one scrap a 660′ long car carrier with a 116′ beam, still loaded with over 4,000 vehicles? To scrap the *Golden Ray* calls for the “Golden Arches,” Versabar’s [VB-10,000 heavy lift catamaran](https://www.vbar.com/vb10000/index.html). The VB-10,000 is the largest heavy-lift vessel ever built in the United States, featuring two truss space frames spanning two barges.  The color and shape of the trusses on VB-10,000 have earned it the nickname, *Golden Arches*, after McDonald’s signature logo.
 

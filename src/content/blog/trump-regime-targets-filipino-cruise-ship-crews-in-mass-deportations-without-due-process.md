@@ -12,12 +12,12 @@ tags:
   - "National Federation of Filipino American Association"
   - "Pilipino Workers Center"
   - "US Customs and Border Protection"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/09/carnivalsunshine.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/carnivalsunshine.jpg"
 author: "Rick Spilman"
 description: "More than 100 Filipino crew members have been forcibly detained and deported by the US Customs and Border Protection (CBP). The crew members held valid visas, which were revoked by the CBP without due process. Foreign crew members hold visas … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/09/carnivalsunshine.jpg)More than [100 Filipino crew members have been forcibly detained and deported](https://www.cruiselawnews.com/2025/09/articles/opinion/filipino-crew-members-continue-to-be-targeted-in-mass-deportations-from-cruise-ships/?fbclid=IwY2xjawM8LwFleHRuA2FlbQIxMQABHgNrw_VVrY1fYwqzf47-Q4WGGJak_i093sHhxKcwPn0PksDgdmSiaf0EEbFV_aem_dvQql3mHVVttXtphttRaNg) by the US Customs and Border Protection (CBP). The crew members held valid visas, which were revoked by the CBP without due process.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/carnivalsunshine.jpg)More than [100 Filipino crew members have been forcibly detained and deported](https://www.cruiselawnews.com/2025/09/articles/opinion/filipino-crew-members-continue-to-be-targeted-in-mass-deportations-from-cruise-ships/?fbclid=IwY2xjawM8LwFleHRuA2FlbQIxMQABHgNrw_VVrY1fYwqzf47-Q4WGGJak_i093sHhxKcwPn0PksDgdmSiaf0EEbFV_aem_dvQql3mHVVttXtphttRaNg) by the US Customs and Border Protection (CBP). The crew members held valid visas, which were revoked by the CBP without due process.
 
 Foreign crew members hold visas that the Department of Homeland Security or the State Department can revoke for alleged criminal activity without pending charges or investigations, said Georgetown Law faculty member Sophia Genovese. When revocations occur, they are not subject to review in federal courts, she said.
 

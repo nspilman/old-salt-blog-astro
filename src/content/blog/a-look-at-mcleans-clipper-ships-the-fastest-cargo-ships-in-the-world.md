@@ -15,12 +15,12 @@ tags:
   - "Malcom McLean"
   - "Sea-Land"
   - "SL-7"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/sl7.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/sl7.jpg"
 author: "Rick Spilman"
 description: "The recent activation by TRANSCOM of 28 cargo ships, makes it a good time to take a look back at eight iconic shps from the 1970s still in service today.  When I was a young student of naval architecture at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/sl7.jpg)The recent [activation by TRANSCOM of 28 cargo ships](http://www.oldsaltblog.com/2019/09/us-navy-deploys-carrier-group-without-a-carrier-activates-28-ready-reserve-cargo-ships/), makes it a good time to take a look back at eight iconic shps from the 1970s still in service today. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/sl7.jpg)The recent [activation by TRANSCOM of 28 cargo ships](http://www.oldsaltblog.com/2019/09/us-navy-deploys-carrier-group-without-a-carrier-activates-28-ready-reserve-cargo-ships/), makes it a good time to take a look back at eight iconic shps from the 1970s still in service today. 
 
 When I was a young student of naval architecture at the University of Michigan in the early 70s, I attended a [Society of Naval Architects and Marine Engineers](https://www.sname.org/home) (SNAME) convention in New York City. In our visit, we took a field trip across the river to the Sea-Land container terminal at Elizabeth, New Jersey to tour a new [SL-7 class container ship.](https://www.globalsecurity.org/military/systems/ship/takr-287.htm)
 
@@ -38,6 +38,6 @@ Designated as the [Algol-class vehicle cargo ships, also known as Fast Sealift S
 
 [Three of the 28 ships recently activated by TRANSCOM](https://www.defensenews.com/naval/2019/09/21/heres-every-ship-activated-for-transcoms-massive-sealift-surge-and-what-it-does/) were FSS ships — SS *Bellatrix*, ex SS *Sea-Land Trade*; SS *Capella*, ex SS *Sea-Land McLean;* and SS *Regulus*, ex SS *Sea-Land Commerce.*  
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/fss1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/fss1.jpg)
 
 SL-7 Converted to FSS

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: \"The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/UK-aircraft-carrier-2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/UK-aircraft-carrier-2.jpg)
 
 1918 Thorneycroft Seaplane Lighter - the World's Oldest Aircraft Carrier?
 
@@ -24,7 +24,7 @@ The headline is great – [World’s oldest aircraft carrier discovered rusting
   
 The seaplane could not land on the lighter nor, from appearances, take off.  (The article does say that the plane could *“launched by being towed into the wind*.”   From studying the photographs, it is unclear to me how this was done.  There seems to be obstructions on the bow to prevent takeoff.  Perhaps if the lighter was towed fast enough.)  Nevertheless the lighter literally was an “aircraft carrier,” because it carried aircraft or one plane anyway.  It was towed behind a ship.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/argus.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/argus.jpg)
 
 HMS Argus of 1918 - an aircraft take-off, lander and carrier
 

@@ -12,12 +12,12 @@ tags:
   - "Port Strike"
   - "United States Maritime Alliance"
   - "US East and Gulf coasts"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/containerterm2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/containerterm2.jpg"
 author: "Rick Spilman"
 description: "The longshoremen’s strike appears to have ended with a tentative agreement on wages. This afternoon, the ILA and the USMX released a joint statement: The International Longshoremen’s Association and the United States Maritime Alliance, Ltd. have reached a tentative agreement … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/containerterm2.jpg)The longshoremen’s strike appears to have ended with a tentative agreement on wages. This afternoon, the ILA and the USMX released a [joint statement](https://ilaunion.org/joint-statement-regarding-master-contract/):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/containerterm2.jpg)The longshoremen’s strike appears to have ended with a tentative agreement on wages. This afternoon, the ILA and the USMX released a [joint statement](https://ilaunion.org/joint-statement-regarding-master-contract/):
 
 *The International Longshoremen’s Association and the United States Maritime Alliance, Ltd. have reached a tentative agreement on wages and have agreed to extend the Master Contract until January 15, 2025 to return to the bargaining table to negotiate all other outstanding issues. Effective immediately, all current job actions will cease and all work covered by the Master Contract will resume.*
 

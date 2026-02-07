@@ -15,12 +15,12 @@ tags:
   - "rotor sails"
   - "SC Connector"
   - "SEA-CARGO"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/sctilt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/sctilt.jpg"
 author: "Rick Spilman"
 description: "Sail-assist propulsion on commercial ships is developing rapidly, featuring a range of technologies including rotor sails, rigid wing sails, ventilated turbo sails, and even conventional fabric sails. One thing that all these rigs have in common, however, is that when … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/sctilt.jpg)Sail-assist propulsion on commercial ships is developing rapidly, featuring a range of technologies including rotor sails, rigid wing sails, ventilated turbo sails, and even conventional fabric sails.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/sctilt.jpg)Sail-assist propulsion on commercial ships is developing rapidly, featuring a range of technologies including rotor sails, rigid wing sails, ventilated turbo sails, and even conventional fabric sails.
 
 One thing that all these rigs have in common, however, is that when they are not converting wind energy into power to propel the ship, they can interfere with operations, whether loading and discharging cargo or navigating under bridges. Now, in addition to fixed installations, engineers are designing rigs that can be moved or tilted out of the way.
 

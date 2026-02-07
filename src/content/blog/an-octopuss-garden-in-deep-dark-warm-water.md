@@ -12,12 +12,12 @@ tags:
   - "octopus's garden"
   - "pearl octopus eggs"
   - "thermal spring"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/octopus-garden.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/octopus-garden.jpg"
 author: "Rick Spilman"
 description: "Richard Starkey, better known as Ringo Star, wrote the song, Octopus’s Garden, for the Beatles 1969 album Abbey Road. The first verse goes: I’d like to be/Under the sea/In an octopus’ garden/In the shade… In a recent study, researchers describe finding … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/octopus-garden.jpg)Richard Starkey, better known as Ringo Star, wrote the song, [*Octopus’s Garden*](https://www.google.com/search?q=octopus%27s+garden+lyrics&sca_esv=561395159&rlz=1C1OPNX_enUS929US929&sxsrf=AB5stBjH9oaPW5KbdR4c2jkW81WaHDD0TA%3A1693426798994&ei=bqTvZNakPJSlptQPn_mSyAg&oq=Octopus%27s+Garden+lyrics&gs_lp=Egxnd3Mtd2l6LXNlcnAiF09jdG9wdXMncyBHYXJkZW4gbHlyaWNzKgIIADIHECMYigUYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkiyRlC4Blj1MnACeAGQAQCYAYoBoAGSB6oBAzAuOLgBAcgBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIKEAAYigUYsAMYQ8ICDhAAGOQCGNYEGLAD2AEBwgIQEC4YigUYyAMYsAMYQ9gBAsICExAuGNQCGIoFGMgDGLADGEPYAQLCAgUQLhiABMICChAAGIAEGBQYhwLCAgcQABiKBRhDwgIFECEYoAHiAwQYACBBiAYBkAYTugYGCAEQARgJugYGCAIQARgI&sclient=gws-wiz-serp), for the Beatles 1969 album *Abbey Road.* The first verse goes:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/octopus-garden.jpg)Richard Starkey, better known as Ringo Star, wrote the song, [*Octopus’s Garden*](https://www.google.com/search?q=octopus%27s+garden+lyrics&sca_esv=561395159&rlz=1C1OPNX_enUS929US929&sxsrf=AB5stBjH9oaPW5KbdR4c2jkW81WaHDD0TA%3A1693426798994&ei=bqTvZNakPJSlptQPn_mSyAg&oq=Octopus%27s+Garden+lyrics&gs_lp=Egxnd3Mtd2l6LXNlcnAiF09jdG9wdXMncyBHYXJkZW4gbHlyaWNzKgIIADIHECMYigUYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkiyRlC4Blj1MnACeAGQAQCYAYoBoAGSB6oBAzAuOLgBAcgBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIKEAAYigUYsAMYQ8ICDhAAGOQCGNYEGLAD2AEBwgIQEC4YigUYyAMYsAMYQ9gBAsICExAuGNQCGIoFGMgDGLADGEPYAQLCAgUQLhiABMICChAAGIAEGBQYhwLCAgcQABiKBRhDwgIFECEYoAHiAwQYACBBiAYBkAYTugYGCAEQARgJugYGCAIQARgI&sclient=gws-wiz-serp), for the Beatles 1969 album *Abbey Road.* The first verse goes:
 
 *I’d like to be/Under the sea/**In an octopus’ garden/In the shade…*
 

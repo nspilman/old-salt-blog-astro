@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In 2005, when the Greenpeace flagship, Rainbow Warrior, ran aground on Tubbataha Reef in the Sulu Sea, the captain claimed that the reef was incorrectly plotted on his charts. As reported by the UK’s Guardian in November 1, 2005: Red Constantino of Greenpeace Southeast Asia blamed the incident on a … Continue reading &rarr;"
 ---
 
-![ ](http://www.oldsaltblog.com/wp-content/uploads/2013/01/ussguardian2.jpg)
+![ ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/ussguardian2.jpg)
 
 USS Guardian on Tubbataha Reef Photo:AP
 

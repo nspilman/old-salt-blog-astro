@@ -12,12 +12,12 @@ tags:
   - "landing helicopter dock"
   - "Naval Base San Diego"
   - "USS Bonhomme Richard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "On Sunday at around 8 AM Pacific Time, an explosion and fire were reported aboard the amphibious assault ship USS Bonhomme Richard dockside at the Naval Base San Diego. More than 24 hours later, the fire is still raging. Fifty-seven … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)On Sunday at around 8 AM Pacific Time, an [explosion and fire were reported](https://news.usni.org/2020/07/13/fire-fight-intensifies-on-uss-bonhomme-richard-5-sailors-still-hospitalized) aboard the amphibious assault ship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)) dockside at the Naval Base San Diego. More than 24 hours later, the fire is still raging. Fifty-seven sailors, firefighters, and contractors are reported to have been injured in fighting the fire. Most of those injured suffered from heat exhaustion and smoke inhalation. Five are reported to be still hospitalized in stable condition. Of the approximately 1,000 crew, only around 160 were aboard the ship when the fire broke out.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)On Sunday at around 8 AM Pacific Time, an [explosion and fire were reported](https://news.usni.org/2020/07/13/fire-fight-intensifies-on-uss-bonhomme-richard-5-sailors-still-hospitalized) aboard the amphibious assault ship [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)) dockside at the Naval Base San Diego. More than 24 hours later, the fire is still raging. Fifty-seven sailors, firefighters, and contractors are reported to have been injured in fighting the fire. Most of those injured suffered from heat exhaustion and smoke inhalation. Five are reported to be still hospitalized in stable condition. Of the approximately 1,000 crew, only around 160 were aboard the ship when the fire broke out.
 
 The ship was undergoing maintenance when the fire broke out. All crew members have been accounted for. The cause of the fire is still unknown, although it is believed to have started in the lower cargo hold of the ship, known as the “Deep V,” according to a [statement to reporters by Rear Adm. Philip Sobeck](https://www.navytimes.com/news/your-navy/2020/07/12/amphibious-assault-ship-ablaze-in-port-san-diego/), commander of Expeditionary Strike Group 3.
 

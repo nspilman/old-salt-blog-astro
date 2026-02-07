@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A ferry across Lake Toba in North Sumatra sank on Monday in bad weather and a reported 192 are missing and feared dead. Only 18 survivors have been rescued. Rescuers looking for additional survivors have been hampered by high winds … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/laketoba.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/laketoba.jpg)
 
 Lake Toba
 

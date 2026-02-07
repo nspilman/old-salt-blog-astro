@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "We recently posted about the Hurtigruten cruise ship MS Maud that was disabled during the North Sea storm Pia on Thursday. The Maud arrived in Bremerhaven yesterday, under tow, after suffering damage by a rogue wave to the bridge deck resulting … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/maudworld.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maudworld.jpg)
 
 MS Maud (16,151 GT, 668 passengers and crew) in Bremerhaven next to MS World Dream (150,695 GT, 3,690 passengers and crew) Photo: Facebook
 
@@ -33,6 +33,6 @@ We recently [posted about the Hurtigruten cruise ship](https://www.oldsaltblog.c
 
 Fortunately, there were no fatalities or serious injuries on the *Maud* or the *Mayview Maersk.* On shore, however, powerful wind gusts knocked out power to thousands in the UK and disrupted air and rail transportation on either side of the channel. Tragically, [at least two people died in the storm.](https://www.reuters.com/world/europe/woman-killed-by-falling-christmas-tree-belgian-market-square-2023-12-22/) In the Belgian city of Oudenaarde, a woman was killed and two people were injured by a 20-metre Christmas tree that fell over, collapsing next to a Christmas market. In the Netherlands, a woman died of her injuries after she was also hit by a falling tree.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/maudmaresrk.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maudmaresrk.jpg)
 
 MS Maude passing a large Maersk container ship in Bremerhaven

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Following an out of control fire, the forward section of the container ship MOL Comfort  finally sank yesterday. The ship had broken in half twenty four days ago on June 17th in the Arabian Sea, bound from Singapore to Jeddah, loaded with 4,500 … Continue reading &rarr;"
 ---
 
-![molcomfortfire](http://www.oldsaltblog.com/wp-content/uploads/2013/07/molcomfortfire.jpg)
+![molcomfortfire](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/molcomfortfire.jpg)
 
 Photo: Vesselfinder.com
 

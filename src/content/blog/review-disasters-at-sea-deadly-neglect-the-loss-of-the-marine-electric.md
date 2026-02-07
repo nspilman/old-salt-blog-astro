@@ -10,12 +10,12 @@ tags:
   - "Disasters at Sea"
   - "Marine Electric"
   - "Smithsonian Channel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/marinelectric2-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/marinelectric2-1.jpg"
 author: "Rick Spilman"
 description: "Originally posted in gCaptain. Reposted with permission. Thirty-six years ago this week, the SS Marine Electric sank off the coast of Virginia with the loss of 34 officers and crew. There were only three survivors. The tragedy resulted in major … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/marinelectric2.jpg)Originally posted in [gCaptain](https://gcaptain.com/loss-of-the-marine-electric-disasters-at-sea-review/). Reposted with permission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/marinelectric2.jpg)Originally posted in [gCaptain](https://gcaptain.com/loss-of-the-marine-electric-disasters-at-sea-review/). Reposted with permission.
 
 Thirty-six years ago this week, the [SS *Marine Electric*](https://en.wikipedia.org/wiki/SS_Marine_Electric) sank off the coast of Virginia with the loss of 34 officers and crew. There were only three survivors. The tragedy resulted in major reforms in ship inspections and operations and ultimately saved many lives. Last month, a new documentary series premiered on the Smithsonian Channel, *[Disasters at Sea](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669)*. The second episode of the series, [*Deadly Neglect*](https://www.smithsonianchannel.com/shows/disasters-at-sea/deadly-neglect/1005669/3467454), examines the sinking and subsequent investigation and aftermath of the loss of the SS *Marine Electric.* Here is a review.
 

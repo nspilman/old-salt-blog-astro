@@ -12,12 +12,12 @@ tags:
   - "Conception"
   - "Dive Boat"
   - "National Transportation Safety Board"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/conceptionfire.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/conceptionfire.png"
 author: "Rick Spilman"
 description: "The LA Times reports that the deadly fire that broke out four years ago aboard the Conception dive boat, killing 34 people, started in a plastic trash can on the main deck, a confidential report reviewed by The Times shows. Investigators … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/conceptionfire.png)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/conceptionfire.png)
 
 The dive boat Conception smolders at sunrise on Sept. 2, 2019, before sinking. (National Transportation Safety Board)
 

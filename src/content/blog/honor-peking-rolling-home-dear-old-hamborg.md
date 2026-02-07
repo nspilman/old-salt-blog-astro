@@ -13,7 +13,7 @@ tags:
   - "Rolling Home"
   - "sea shanty"
   - "Stan Hugill"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/rollinghomepeking.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/rollinghomepeking.jpg"
 author: "Rick Spilman"
 description: "In honor of the windjammer Peking, on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — \"Rolling Home to Dear Old Hamborg.\"  We can only hope that the 106 year … Continue reading &rarr;"
 ---

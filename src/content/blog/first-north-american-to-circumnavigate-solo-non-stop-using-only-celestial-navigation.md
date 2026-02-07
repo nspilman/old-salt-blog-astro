@@ -11,12 +11,12 @@ tags:
   - "non-stop"
   - "Solo"
   - "traditional celestial navigation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/terhart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/terhart.jpg"
 author: "Rick Spilman"
 description: "Canadian Bert terHart recently completed a 267-day solo, non-stop circumnavigation of the world via the five capes on his 43′ sailboat using only traditional celestial navigation. He is the first North American to circle the globe solo and non-stop using … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/terhart.jpg)Canadian Bert terHart recently completed a 267-day solo, non-stop circumnavigation of the world via the five capes on his 43′ sailboat using only traditional celestial navigation. He is the first North American to circle the globe solo and non-stop using only a sextant, a chronometer, an almanac, pen, paper, and charts with which to navigate.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/terhart.jpg)Canadian Bert terHart recently completed a 267-day solo, non-stop circumnavigation of the world via the five capes on his 43′ sailboat using only traditional celestial navigation. He is the first North American to circle the globe solo and non-stop using only a sextant, a chronometer, an almanac, pen, paper, and charts with which to navigate.
 
 While not using global positioning satellites to navigate, he did bring along an email equipped satellite phone and posted to a [blog](https://www.sailblogs.com/member/seaburban/) and an [Instagram account](https://www.instagram.com/svseaburban/?utm_source=ig_embed). In addition to maintaining contact with friends and family,  he was also followed online by about 2,000 children from Kenya to New Zealand to New York from their classrooms.
 

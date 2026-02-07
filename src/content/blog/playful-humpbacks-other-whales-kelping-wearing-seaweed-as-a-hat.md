@@ -12,12 +12,12 @@ tags:
   - "Griffith University"
   - "humpback whales"
   - "kelping"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/kelping.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/kelping.jpg"
 author: "Rick Spilman"
 description: "There is so much that we do not understand about the social behaviors of whales and dolphins. Dolphins off the Australian coast, for example, have been observed wearing sponges as hats in what is believed to be an attempt, though … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/kelping.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/kelping.jpg)
 
 Photo: Whale Watch Western Australia
 

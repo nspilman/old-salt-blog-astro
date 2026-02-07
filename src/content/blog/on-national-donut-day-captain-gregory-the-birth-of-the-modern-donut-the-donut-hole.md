@@ -12,12 +12,12 @@ tags:
   - "Hansen Crockett Gregory"
   - "National Donut Day"
   - "Salvation Army"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/captgregorydonut.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/captgregorydonut.jpg"
 author: "Rick Spilman"
 description: "Today is National Donut Day. Why is there a national day for donuts? The day celebrates an event created by The Salvation Army in Chicago in 1938 to honor those of their members who served doughnuts to soldiers during World War I. But who invented … Continue reading &rarr;"
 ---
 
-![Captain Hansen Gregory](http://www.oldsaltblog.com/wp-content/uploads/2015/06/captaingregorydonut.jpg)
+![Captain Hansen Gregory](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/captaingregorydonut.jpg)
 
 Captain Hansen Gregory
 

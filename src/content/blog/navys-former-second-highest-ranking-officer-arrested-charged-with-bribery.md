@@ -12,12 +12,12 @@ tags:
   - "retired four-star Navy Admiral"
   - "Robert Burke"
   - "Vice Chief of Naval Operations"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/admburke.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/admburke.jpg"
 author: "Rick Spilman"
 description: "The Department of Justice announced yesterday the arrest of Robert P. Burke, a retired four-star Navy Admiral, on criminal charges in a bribery scheme that allegedly awarded a sole-source contract to a company in 2021 in exchange for a $500,000-a-year … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/admburke.jpg)The Department of Justice [announced yesterday](https://www.justice.gov/opa/pr/retired-navy-admiral-and-business-executives-arrested-bribery-scheme) the arrest of [Robert P. Burke](https://www.navy.mil/Leadership/Flag-Officer-Biographies/Search/Article/2236163/admiral-robert-burke/), a retired four-star Navy Admiral, on criminal charges in a bribery scheme that allegedly awarded a sole-source contract to a company in 2021 in exchange for a $500,000-a-year job and stock options. Two business executives were also arrested and charged.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/admburke.jpg)The Department of Justice [announced yesterday](https://www.justice.gov/opa/pr/retired-navy-admiral-and-business-executives-arrested-bribery-scheme) the arrest of [Robert P. Burke](https://www.navy.mil/Leadership/Flag-Officer-Biographies/Search/Article/2236163/admiral-robert-burke/), a retired four-star Navy Admiral, on criminal charges in a bribery scheme that allegedly awarded a sole-source contract to a company in 2021 in exchange for a $500,000-a-year job and stock options. Two business executives were also arrested and charged.
 
 Adm. Burke, 62, of Coconut Creek, Fla., faces the prospect of becoming only the second U.S. admiral to be found guilty of committing a federal crime while on active duty, after his arrest on a five-count indictment returned Thursday in U.S. District Court in Washington.  
    

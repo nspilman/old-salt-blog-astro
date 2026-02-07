@@ -12,12 +12,12 @@ tags:
   - "Cape Hatteras"
   - "Royal Caribbean Lines"
   - "storm"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/02/cruiseshipreturns.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/cruiseshipreturns.jpg"
 author: "Rick Spilman"
 description: "Has Royal Caribbean Lines learned its lesson? Just days after a passenger filed a lawsuit against RCL for knowingly sending the cruise ship Anthem of the Seas into a winter storm off Hatteras in early February, the cruise line cut … Continue reading &rarr;"
 ---
 
-![cruiseshipreturns](http://www.oldsaltblog.com/wp-content/uploads/2016/02/cruiseshipreturns.jpg)Has Royal Caribbean Lines learned its lesson? Just days after a [passenger filed a lawsuit against RCL](http://www.cnn.com/2016/02/24/us/royal-caribbean-anthem-of-the-seas-lawsuit/) for knowingly sending the cruise ship [*Anthem of the Seas* into a winter storm off Hatteras](http://www.oldsaltblog.com/?s=anthem+of+the+seas) in early February, the cruise line cut short cut short the latest cruise on *Anthem of the Seas* to avoid a storm brewing off Cape Hatteras on the US East Coast.  RCL tweeted yesterday:
+![cruiseshipreturns](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/cruiseshipreturns.jpg)Has Royal Caribbean Lines learned its lesson? Just days after a [passenger filed a lawsuit against RCL](http://www.cnn.com/2016/02/24/us/royal-caribbean-anthem-of-the-seas-lawsuit/) for knowingly sending the cruise ship [*Anthem of the Seas* into a winter storm off Hatteras](http://www.oldsaltblog.com/?s=anthem+of+the+seas) in early February, the cruise line cut short cut short the latest cruise on *Anthem of the Seas* to avoid a storm brewing off Cape Hatteras on the US East Coast.  RCL tweeted yesterday:
 
 > [#AnthemoftheSeas](https://twitter.com/hashtag/AnthemoftheSeas?src=hash&ref_src=twsrc%5Etfw) will head back to Cape Liberty immediately to avoid a severe storm & provide guests with a comfortable journey back home.
 > 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This is satire, though given the rather drastic cuts in the Royal Navy budget, it doesn’t feel too far off the mark.  From News Biscuit: HMS Victory to replace Trident and Ark Royal HMS Victory, Nelson’s flagship at the Battle of … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/HMS-Victory.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/11/HMS-Victory.jpg)This is satire, though given the rather drastic cuts in the Royal Navy budget, it doesn’t feel too far off the mark.  From [News Biscuit](http://www.newsbiscuit.com/2010/10/26/hms-victory-to-replace-trident-and-ark-royal/):
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/HMS-Victory.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/HMS-Victory.jpg)This is satire, though given the rather drastic cuts in the Royal Navy budget, it doesn’t feel too far off the mark.  From [News Biscuit](http://www.newsbiscuit.com/2010/10/26/hms-victory-to-replace-trident-and-ark-royal/):
 
 [HMS *Victory* to replace *Trident* and *Ark Roya*l](http://www.newsbiscuit.com/2010/10/26/hms-victory-to-replace-trident-and-ark-royal/)
 

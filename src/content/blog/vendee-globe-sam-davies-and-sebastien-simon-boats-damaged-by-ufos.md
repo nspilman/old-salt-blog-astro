@@ -13,12 +13,12 @@ tags:
   - "Sébastien Simon"
   - "UFOs"
   - "unidentified floating objects"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg"
 author: "Rick Spilman"
 description: "Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, Sam Davies, sailing Initiatives Coeur, and Sébastien Simon, sailing Arkea Paprec, each hit UFOs which seriously damaged their boats.  Davies reports: \"I was sailing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg)Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, [Sam Davies](https://www.vendeeglobe.org/en/skippers/97/sam-davies), sailing *Initiatives Coeur*, and [Sébastien Simon](https://www.vendeeglobe.org/en/skippers/90/sebastien-simon), sailing *Arkea Paprec,* each hit UFOs which seriously damaged their boats. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg)Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, [Sam Davies](https://www.vendeeglobe.org/en/skippers/97/sam-davies), sailing *Initiatives Coeur*, and [Sébastien Simon](https://www.vendeeglobe.org/en/skippers/90/sebastien-simon), sailing *Arkea Paprec,* each hit UFOs which seriously damaged their boats. 
 
 [Davies](https://www.vendeeglobe.org/en/news/20770/sam-davies-i-was-as-as-if-i-had-run-aground-on-a-rock-the-boatspeed-went-from-20kts-to-zero) reports: “*I was sailing at speeds between 15 and 22kts and I was actually just making a hot meal after the gybe and doing the stack and everything and it was just starting to get dark. I hit something. I did not see anything. I did not know what it was. It was pretty much dark when it happened. But it was as if I had run aground on a rock at the time. The boat speed went from 20kts to zero. The boat nosedived on the impact with the keel. I knew it was the keel. I heard a crack coming from there. I and everything else flew forwards, including my dinner which has repainted the entire inside of my boat. Everything moved. I went flying into a ring frame, luckily, because that could have been worse. It was really violent. But luckily, I have just hurt some ribs. It is not serious but really painful. But I stopped the boat, dropped the main, and went to check around the keel, the bearings, and the bulkhead. The bulkhead, the main bearing bulkheads (which support the keel box) are intact as far as I can see. The keel bearings are intact. The longitudinal structure around the keel box is all cracked. That has taken the shock of the impact of when the boat moved, that is cracked on both sides.”* 
 

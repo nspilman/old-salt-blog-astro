@@ -13,12 +13,12 @@ tags:
   - "Parks Canada"
   - "Sir John Franklin'"
   - "Terror"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/wheelterror.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/wheelterror.jpg"
 author: "Rick Spilman"
 description: "Recent video of the extremely well-preserved wreck of Franklin’s ship Terror may shed new light on the many mysteries of Franklin’s lost expedition.  In 1845, Captain Sir John Franklin departed England in command of two specially outfitted ships, Erebus and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/wheelterror.jpg)Recent video of the extremely well-preserved wreck of Franklin’s ship [*Terror*](https://en.wikipedia.org/wiki/HMS_Terror_\(1813\)) may shed new light on the many mysteries of Franklin’s lost expedition. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/wheelterror.jpg)Recent video of the extremely well-preserved wreck of Franklin’s ship [*Terror*](https://en.wikipedia.org/wiki/HMS_Terror_\(1813\)) may shed new light on the many mysteries of Franklin’s lost expedition. 
 
 In 1845, Captain Sir John Franklin departed England in command of two specially outfitted ships, [*Erebus*](https://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) and *Terror*.  He was leading an Arctic expedition, intending to traverse the last unnavigated section of the Northwest Passage. Instead, the expedition of 139 simply disappeared. Numerous attempts were made to find and rescue Franklin and his party, but to no avail.
 

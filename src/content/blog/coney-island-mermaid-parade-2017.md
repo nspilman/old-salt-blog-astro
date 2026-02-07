@@ -9,7 +9,7 @@ categories:
 tags:
   - "Coney Island"
   - "Mermaid Parade"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/littlemermaid.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/littlemermaid.jpg"
 author: "Rick Spilman"
 description: "Despite the rain the mermaids and denizens of the sea still came out to play at the 35th Annual Coney Island Mermaid Day Parade. Photos by LCHphoto.com For more images, some NSFW, check out Gothamist. Coney Island Mermaid Parade 2017 … Continue reading &rarr;"
 ---

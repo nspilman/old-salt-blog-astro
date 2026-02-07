@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Only months after allowing women to serve in frontline combat units, Australia has promoted  Commodore Robyn Walker to Rear Admiral, the nation’s first female admiral.  Admiral Walker will also serve as the Australian Defence Force surgeon-general. Admiral and surgeon general?  Rear Admiral Walker … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/CDRE_Robyn_Walker.jpg)Only months after [allowing women to serve in frontline combat units](http://www.nytimes.com/2011/09/28/world/asia/australia-will-allow-women-to-serve-in-frontline-combat.html), Australia has promoted  [Commodore Robyn Walker](http://www.navy.gov.au/Navy_Health_Services_-_Profiles) to Rear Admiral, the nation’s first female admiral.  Admiral Walker will also serve as the Australian Defence Force surgeon-general.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/CDRE_Robyn_Walker.jpg)Only months after [allowing women to serve in frontline combat units](http://www.nytimes.com/2011/09/28/world/asia/australia-will-allow-women-to-serve-in-frontline-combat.html), Australia has promoted  [Commodore Robyn Walker](http://www.navy.gov.au/Navy_Health_Services_-_Profiles) to Rear Admiral, the nation’s first female admiral.  Admiral Walker will also serve as the Australian Defence Force surgeon-general.
 
 Admiral and surgeon general?  Rear Admiral Walker has quite an impressive resume.  From the [Australian Navy’s Health Services – Profiles](http://www.navy.gov.au/Navy_Health_Services_-_Profiles) (which has not yet been updated to reflect her announced promotion) :
 

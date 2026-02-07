@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "Bonhomme Richard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "The US Navy has decided to scrap the amphibious assault ship Bonhomme Richard, which burned for more than four days this summer in San Diego. The cost and time required to rebuild the gutted ship would be simply too great to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)The US Navy has decided to scrap the amphibious assault ship [*Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)), which [burned for more than four days](http://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/) this summer in San Diego. The cost and time required to rebuild the gutted ship would be simply too great to justify. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)The US Navy has decided to scrap the amphibious assault ship [*Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)), which [burned for more than four days](http://www.oldsaltblog.com/2020/07/fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured/) this summer in San Diego. The cost and time required to rebuild the gutted ship would be simply too great to justify. 
 
 Rear Adm. Eric Ver Hage, commander of the Navy Regional Maintenance Center, told reporters Monday that the extensive damage to the flattop’s flight deck, island, mast and lower levels from the July 12 inferno would have required about 60 percent of the ship to be replaced.
 

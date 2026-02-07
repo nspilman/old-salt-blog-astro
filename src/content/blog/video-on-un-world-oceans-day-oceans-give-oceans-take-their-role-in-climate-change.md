@@ -12,7 +12,7 @@ tags:
   - "Oceans Take"
   - "Robert Krulwich"
   - "World Oceans Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/OGOT.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/OGOT.jpg"
 author: "Rick Spilman"
 description: "On the United Nations World Oceans Day, here is a very well-done, short video on the role of the oceans in climate change.  As greenhouse gases warm the Earth, our oceans play a significant role in absorbing heat that helps … Continue reading &rarr;"
 ---

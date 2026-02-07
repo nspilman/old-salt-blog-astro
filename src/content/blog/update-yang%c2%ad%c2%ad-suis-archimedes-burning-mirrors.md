@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "One of the great stories from ancient history is of Archimedes Burning Mirrors.  Legend has it that Archimedes designed a series of curved mirrors to reflect and focus the rays of the sun and that these mirrors were used to set a … Continue reading &rarr;"
 ---
 
-![Yangsui, in a need of a good polishing](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Yangsui-2-1024x366.jpg)
+![Yangsui, in a need of a good polishing](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Yangsui-2-1024x366.jpg)
 
 Yang-sui, in a need of a good polishing
 

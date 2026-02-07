@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Containership operations has always been like riding a roller coaster, with many highs and lows and unexpected twists and turns.  One sign of this is the fluctuating speeds of container ships over the years, going  from slow to fast to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/container-ship-san-francisc.jpg)Containership operations has always been like riding a roller coaster, with many highs and lows and unexpected twists and turns.  One sign of this is the fluctuating speeds of container ships over the years, going  from slow to fast to slow to fast to and now to slow, once again.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/container-ship-san-francisc.jpg)Containership operations has always been like riding a roller coaster, with many highs and lows and unexpected twists and turns.  One sign of this is the fluctuating speeds of container ships over the years, going  from slow to fast to slow to fast to and now to slow, once again.
 
 [Slow Trip Across Sea Aids Profit and Environment](http://www.nytimes.com/2010/02/17/business/energy-environment/17speed.html?scp=1&sq=maersk&st=cse)
 

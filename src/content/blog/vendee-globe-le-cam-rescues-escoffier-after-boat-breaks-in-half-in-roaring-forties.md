@@ -14,12 +14,12 @@ tags:
   - "PRB"
   - "Vendee Globe Race"
   - "Yes We Cam!"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/escoffier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/escoffier.jpg"
 author: "Rick Spilman"
 description: "High drama on the high seas. Kevin Escoffier was in third place in the Vendee Globe Race, sailing in the \"Roaring Forties\" about 840 miles south of Cape Town, when his boat PRB broke in half. He sent a brief … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/escoffier.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/escoffier.jpg)
 
 Kevin Escoffier
 

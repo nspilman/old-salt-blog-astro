@@ -10,12 +10,12 @@ tags:
   - "first female cryptanalyst"
   - "Friedman"
   - "Legend-Class National Security Cutter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/elizebeth.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/elizebeth.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard will name the eleventh ship in its new Legend-Class National Security Cutter (NSC) program in honor of Elizebeth Smith Friedman, a pioneering code-breaker for the Coast Guard during the prohibition era and World War II. Marine-Executive … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/elizebeth.jpg)The US Coast Guard will name the eleventh ship in its new [Legend-Class National Security Cutter](https://en.wikipedia.org/wiki/Legend-class_cutter) (NSC) program in honor of [Elizebeth Smith Friedman](https://www.nsa.gov/About-Us/Current-Leadership/Article-View/Article/1623028/elizebeth-s-friedman/), a pioneering code-breaker for the Coast Guard during the prohibition era and World War II.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/elizebeth.jpg)The US Coast Guard will name the eleventh ship in its new [Legend-Class National Security Cutter](https://en.wikipedia.org/wiki/Legend-class_cutter) (NSC) program in honor of [Elizebeth Smith Friedman](https://www.nsa.gov/About-Us/Current-Leadership/Article-View/Article/1623028/elizebeth-s-friedman/), a pioneering code-breaker for the Coast Guard during the prohibition era and World War II.
 
 [Marine-Executive](https://www.maritime-executive.com/article/us-coast-guard-names-new-cutter-for-pioneering-female-code-breaker) reports that Elizabeth Smith Friedman, known as “America’s first female cryptanalyst,”  is considered to the founder of the modern-day Coast Guard Intelligence Program. Her work with the Coast Guard began soon after the passage of the Volstead Act, which prohibited the manufacture, sale, or trade of alcohol in the United States. Liquor smugglers frequently made use of radios to coordinate their activities and began to encode their messages. Friedman was detailed by the Department of Treasury to the Coast Guard and between 1927 and 1930, she is estimated to have solved over 12,000 smuggling messages in hundreds of different code systems. Her work led to 650 federal prosecutions and she testified in 33 cases. 
 

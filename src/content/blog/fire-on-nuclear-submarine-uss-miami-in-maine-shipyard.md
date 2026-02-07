@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Crew responded to a fire on the nuclear submarine, USS Miami,  at around 5:40 PM last night at the Portsmouth Naval Shipyard in Kittery, Maine.  This morning, the Navy reports that the fire has been put put. Three shipyard firefighters, two civilian firefighters … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/ussmiamifire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/ussmiamifire.jpg)
 
 Photo:Elizabeth Dinan/www.seacoastonline.com
 

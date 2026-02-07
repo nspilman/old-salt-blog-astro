@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In 1998, the whale-watching boat Ocean Thunderer was hit by a wave and swamped, throwing all on board — three passengers and one boat operator — into the waters near Sea Lion Rocks, also known as Plover Reefs, off the western … Continue reading &rarr;"
 ---
 
-![Photo: Albert Titian/Facebook](http://www.oldsaltblog.com/wp-content/uploads/2015/10/leviathaniib.jpg)
+![Photo: Albert Titian/Facebook](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/leviathaniib.jpg)
 
 Photo: Albert Titian/Facebook
 

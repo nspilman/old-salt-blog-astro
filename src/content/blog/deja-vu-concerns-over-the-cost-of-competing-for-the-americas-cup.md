@@ -12,12 +12,12 @@ tags:
   - "America's Cup"
   - "Ben Ainslie"
   - "British sailing champion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/benainslie.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/benainslie.jpg"
 author: "Rick Spilman"
 description: "Recently, the Financial Times spoke to British sailing champion Ben Ainslie about his concerns that the race is too expensive to remain viable."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/benainslie.jpg)International yacht racing is incredibly expensive. That is unquestionably true of the America’s Cup races.  Recently, the [Financial Times](https://www.ft.com/content/cfc0d884-f004-11e9-a55a-30afa498db1b?fbclid=IwAR0vnDQZj1E8vCozJRSDGEz1BMkPs25kBEB8XGEWAZ253hQ5Cd-H16hV6qM) spoke to British sailing champion [Ben Ainslie](https://benainslie.com/) about his concerns that the race is too expensive to remain viable. The cost of the new boats creates a barrier to entry for new competition.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/benainslie.jpg)International yacht racing is incredibly expensive. That is unquestionably true of the America’s Cup races.  Recently, the [Financial Times](https://www.ft.com/content/cfc0d884-f004-11e9-a55a-30afa498db1b?fbclid=IwAR0vnDQZj1E8vCozJRSDGEz1BMkPs25kBEB8XGEWAZ253hQ5Cd-H16hV6qM) spoke to British sailing champion [Ben Ainslie](https://benainslie.com/) about his concerns that the race is too expensive to remain viable. The cost of the new boats creates a barrier to entry for new competition.
 
 In March 2021, Sir Ben hopes to bring the trophy back to the UK for the first time in 170 years, backed by £110m from Sir Jim Ratcliffe, the founder of the Ineos chemicals group who topped The Sunday Times’ UK rich list in 2018.
 

@@ -11,12 +11,12 @@ tags:
   - "Hashish"
   - "sailboats"
   - "Spanish police"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/spainhashbust.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/spainhashbust.jpg"
 author: "Rick Spilman"
 description: "Barrons reports that Spanish police seized more than 30 tonnes of hashish, worth an estimated 63 million euros, stashed onboard four sailboats in what is described as its biggest-ever bust of such drugs at sea. The four boats were intercepted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/spainhashbust.jpg)[Barrons](https://www.barrons.com/articles/asana-reference-price-set-at-21-ahead-of-direct-listing-on-wednesday-51601415269) reports that Spanish police seized more than 30 tonnes of hashish, worth an estimated 63 million euros, stashed onboard four sailboats in what is described as its biggest-ever bust of such drugs at sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/spainhashbust.jpg)[Barrons](https://www.barrons.com/articles/asana-reference-price-set-at-21-ahead-of-direct-listing-on-wednesday-51601415269) reports that Spanish police seized more than 30 tonnes of hashish, worth an estimated 63 million euros, stashed onboard four sailboats in what is described as its biggest-ever bust of such drugs at sea.
 
 The four boats were intercepted in the Atlantic as part of a four-day operation which resulted in the arrest of nine people of Bulgarian and Russian origin, a police statement said.
 

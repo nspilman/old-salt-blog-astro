@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "After over two years and three failed searches, an international team, including specialists from the Woods Hole Oceanographic Institution, in partnership  with French authorities, have located the primary wreckage of Air France Flight 447 which disappeared over the Atlantic Ocean on May … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/05brazil_span-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/05brazil_span-articleLarge.jpg)
 
 Photo: BEA, via Reuters
 

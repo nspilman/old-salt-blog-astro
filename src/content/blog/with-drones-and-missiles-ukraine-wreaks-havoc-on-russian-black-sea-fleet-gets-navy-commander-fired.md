@@ -20,12 +20,12 @@ tags:
   - "Sergei Kotov"
   - "the commander-in-chief of the Russian Navy"
   - "Ukrainian drones"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/useadroneattack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/useadroneattack.jpg"
 author: "Rick Spilman"
 description: "Ukraine is a nation without a navy and yet has succeeded in wreaking havoc on the Russian Black Sea Fleet using high-tech sea drones and anti-ship missiles. The Ukrainians have continued to sink Russian warships, as recently as last week, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/useadroneattack.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/useadroneattack.jpg)
 
 Drone camera footage of the attack on the Russian missile corvette Ivanovets
 

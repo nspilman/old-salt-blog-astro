@@ -10,7 +10,7 @@ categories:
 tags:
   - "Draken Harald Hårfagre"
   - "Mystic Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/drakenhaul.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/drakenhaul.jpg"
 author: "Rick Spilman"
 description: "The Viking longship Draken Harald Hårfagre was hauled out of the water Friday, March 31 at the Mystic Seaport Museum, for several days of routine maintenance in the museum’s shipyard. The vessel has been spending the winter at Mystic Seaport … Continue reading &rarr;"
 ---

@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "Delta Queen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/dq200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/dq200.jpg"
 author: "Rick Spilman"
 description: "The National Trust for Historic Preservation has named the sternwheel river steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  The Delta Queen, built in 1926, is a U.S. National Historic Landmark.  She has been tied to the dock since 2008, a victim of … Continue reading &rarr;"
 ---
 
-![dqsm](http://www.oldsaltblog.com/wp-content/uploads/2016/10/dqsm.jpg)The [National Trust for Historic Preservation](https://savingplaces.org/) has named the sternwheel river steamboat [*Delta Queen*](https://en.wikipedia.org/wiki/Delta_Queen) as one of America’s [11-Most Endangered Historic Places](https://savingplaces.org/places/delta-queen#.V_Vx9eArKhc).  The *Delta Queen,* built in 1926, is a [U.S. National Historic Landmark](https://www.nps.gov/maritime/ref/landmarks/vessels.htm).  She has been tied to the dock since 2008, a victim of bankruptcy, regulations, and Congressional inaction.  A new owner is attempting to put the riverboat back into overnight service but is waiting on a waiver from Congress.
+![dqsm](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/dqsm.jpg)The [National Trust for Historic Preservation](https://savingplaces.org/) has named the sternwheel river steamboat [*Delta Queen*](https://en.wikipedia.org/wiki/Delta_Queen) as one of America’s [11-Most Endangered Historic Places](https://savingplaces.org/places/delta-queen#.V_Vx9eArKhc).  The *Delta Queen,* built in 1926, is a [U.S. National Historic Landmark](https://www.nps.gov/maritime/ref/landmarks/vessels.htm).  She has been tied to the dock since 2008, a victim of bankruptcy, regulations, and Congressional inaction.  A new owner is attempting to put the riverboat back into overnight service but is waiting on a waiver from Congress.
 
 The *Delta Queen* is 285 feet (87 m) long, 58 feet (18 m) wide, and draws 11.5 feet (3.5 m). She weighs 1,650 tons (1,676 metric tons), with a capacity of 176 passengers. She has a steel hull and a wooden deckhouse.  Her cross-compound steam engines generate 2,000 indicated horsepower (1,500 kW), powering a stern-mounted paddlewheel.
 

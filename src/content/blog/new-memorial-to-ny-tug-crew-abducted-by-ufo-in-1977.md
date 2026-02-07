@@ -6,12 +6,12 @@ excerpt: "A new bronze statue, pedestal, and plaque have been erected at New Yor
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/aleinabduction.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/aleinabduction.jpg"
 author: "Rick Spilman"
 description: "A new bronze statue, pedestal, and plaque have been erected at New York’s Battery Park, memorializing the six crew of the harbor tug Maria 120 who mysteriously vanished during the New York City blackout of 1977. Some believe that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/aleinabduction.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/aleinabduction.jpg)
 
 Photograph by Joe Reginella
 

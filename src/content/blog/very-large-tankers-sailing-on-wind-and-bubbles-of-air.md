@@ -12,12 +12,12 @@ tags:
   - "rigid wing sails"
   - "Very Large Crude Carriers"
   - "VLCC"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/vlccwingsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/vlccwingsail.jpg"
 author: "Rick Spilman"
 description: "China Merchants Group has recently signed a contract with China Shipbuilding for two Very Large Crude Carriers (VLCCs) that will sail, powered, in part, by the wind while gliding on a cushion of air bubbles. The two 300,000 DWT tankers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/vlccwingsail.jpg)[China Merchants Group](http://www.cmhk.com/en/) has recently signed a contract with China Shipbuilding for [two Very Large Crude Carriers (VLCCs) that will sail, powered, in part, by the wind while gliding on a cushion of air bubbles.](https://www.maritime-executive.com/article/innovative-vlccs-with-air-lubrication-and-sail-assist-ordered-in-china)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/vlccwingsail.jpg)[China Merchants Group](http://www.cmhk.com/en/) has recently signed a contract with China Shipbuilding for [two Very Large Crude Carriers (VLCCs) that will sail, powered, in part, by the wind while gliding on a cushion of air bubbles.](https://www.maritime-executive.com/article/innovative-vlccs-with-air-lubrication-and-sail-assist-ordered-in-china)
 
 The two 300,000 DWT tankers will feature four rigid wing sails to provide wind-assisted propulsion. These ships will not be the first VLCCs with wing sails. In November 2018, [China Merchants took delivery of *New Vitality*, a 300,000 DWT tanker with two rigid wing sails](https://www.bairdmaritime.com/ship-world/tanker-world/vlcc-equipped-with-novel-sail-propulsion-system-completes-sea-trials/). The sail-assist provided on the *New Vitality* must have been successful, as the new ships will have double the number of wing sails of their near sister vessel.
 

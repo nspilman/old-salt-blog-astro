@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Scientists watch whale’s birth near Navy training range Scientists surveying the area near a planned Navy training range said Tuesday they witnessed an endangered right whale giving birth off the Northeast Florida coast.    It was only the second time … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/met_03WhaleBirth-1_0.jpg)[](http://jacksonville.com/news/florida/2010-03-23/story/scientists-watch-whale%E2%80%99s-birth-near-navy-training-range)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/met_03WhaleBirth-1_0.jpg)[](http://jacksonville.com/news/florida/2010-03-23/story/scientists-watch-whale%E2%80%99s-birth-near-navy-training-range)
 
 [Scientists watch whale’s birth near Navy training range](http://jacksonville.com/news/florida/2010-03-23/story/scientists-watch-whale%E2%80%99s-birth-near-navy-training-range)
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In August we wrote about Dream Symphony, which, for a brief period, looked as if it would be the largest sailing sailing in the world at 463 feet (141m) long. Now a slightly larger sailing yacht at 147 meters has emerged … Continue reading &rarr;"
 ---
 
-![Sailing Ship A on trials](http://www.oldsaltblog.com/wp-content/uploads/2015/09/sailingshipA.jpg)
+![Sailing Ship A on trials](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/sailingshipA.jpg)
 
 Sailing Ship A on trials
 

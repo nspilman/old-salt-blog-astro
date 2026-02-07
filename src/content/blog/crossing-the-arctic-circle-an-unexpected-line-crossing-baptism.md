@@ -15,12 +15,12 @@ tags:
   - "Isafjordur"
   - "panorama"
   - "Reykjavík"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/PanOramasmall.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/PanOramasmall.jpg"
 author: "Rick Spilman"
 description: "When crossing the Equator for the first time, sailors have traditionally undergone a \"line-crossing ceremony\" which often includes being dunked in the ocean three times. Recently, on my first northern line crossing, I inadvertently presided over my own unexpected dunking, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/PanOramasmall.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/PanOramasmall.jpg)
 
 Panorama in calmer water
 

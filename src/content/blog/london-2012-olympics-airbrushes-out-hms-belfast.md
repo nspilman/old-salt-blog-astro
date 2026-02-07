@@ -18,9 +18,9 @@ description: "The image on the right is a new poster for the London 2012 Olympic
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/11/article-2059193-0EB8B5C700000578-161_634x829-96x125.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/11/article-2059193-0EB8B5C700000578-161_634x829.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/article-2059193-0EB8B5C700000578-161_634x829-96x125.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/article-2059193-0EB8B5C700000578-161_634x829.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/11/article-2059193-0EB93C6C00000578-732_634x424-125x84.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/11/article-2059193-0EB93C6C00000578-732_634x424.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/article-2059193-0EB93C6C00000578-732_634x424-125x84.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/article-2059193-0EB93C6C00000578-732_634x424.jpg)
 
   
 

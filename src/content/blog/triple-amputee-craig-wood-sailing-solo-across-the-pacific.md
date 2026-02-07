@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A wonderful story reported by the BBC. Craig Wood, a British Army veteran who lost both his legs and his left arm while serving in Afghanistan set sail late last month in an attempt to become the first triple amputee … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/craigwood.jpg)A wonderful story reported by the BBC. [Craig Wood](https://www.craigwoodsails.com/), a British Army veteran who lost both his legs and his left arm while serving in Afghanistan set sail late last month in an attempt to become the first triple amputee to sail solo across the Pacific. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/craigwood.jpg)A wonderful story reported by the BBC. [Craig Wood](https://www.craigwoodsails.com/), a British Army veteran who lost both his legs and his left arm while serving in Afghanistan set sail late last month in an attempt to become the first triple amputee to sail solo across the Pacific. 
 
 Rifleman Wood lost both his legs and an arm when he was blown up by a roadside bomb while serving in Sangin, southern Afghanistan, in 2009. He was just 18 and only three months into his first tour. 
 

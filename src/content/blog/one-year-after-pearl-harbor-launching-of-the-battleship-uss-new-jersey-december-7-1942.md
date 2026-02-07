@@ -13,7 +13,7 @@ tags:
   - "Pearl Harbor"
   - "USS Bunker Hill"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/battleshipnewjersey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/battleshipnewjersey.jpg"
 author: "Rick Spilman"
 description: "On this, the 80th anniversary of the Japanese attack on Pearl Harbor, I thought that it might be interesting to look one year forward to gauge how the US responded to the attack. On December 7, 1942, American shipyards launched … Continue reading &rarr;"
 ---

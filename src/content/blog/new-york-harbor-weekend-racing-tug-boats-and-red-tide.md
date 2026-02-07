@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "It was a beautiful and busy weekend in New York harbor.  On Sunday, I missed the 18th Annual Running of the Great North River Tugboat Race & Competition but Will over at the Tugster blog has some great photos.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/tuboatrace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/tuboatrace.jpg)
 
 Photo: Will Van Dorp
 
@@ -36,7 +36,7 @@ The worst recent red tide to strike New England was in 2005 in Massachusetts Bay
 
 A photograph of the red tide in the Hudson taken by [Bowsprite](http://bowsprite.wordpress.com/):
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/redtide1.jpg).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/redtide1.jpg).
 
 .
 

@@ -15,12 +15,12 @@ tags:
   - "Guayaquil"
   - "Guayas River"
   - "pedestrian bridge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/whiteswan1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/whiteswan1.jpg"
 author: "Rick Spilman"
 description: "While under tow in the Guayas River, near Guayaquil, Ecuador, the 250′ long Brazilian sail training ship Cisne Branco was carried sideways in the current into a pedestrian bridge that connects Guayaquil to Santay Island. The sailing ship damaged its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/whiteswan1.jpg)While under tow in the Guayas River, near Guayaquil, Ecuador, the 250′ long Brazilian sail training ship [*Cisne Branco*](https://en.wikipedia.org/wiki/Cisne_Branco) was carried sideways in the current into a pedestrian bridge that connects Guayaquil to Santay Island. The sailing ship damaged its rigging, resulting in the dismasting of the fore t’gallast mast in the allision.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/whiteswan1.jpg)While under tow in the Guayas River, near Guayaquil, Ecuador, the 250′ long Brazilian sail training ship [*Cisne Branco*](https://en.wikipedia.org/wiki/Cisne_Branco) was carried sideways in the current into a pedestrian bridge that connects Guayaquil to Santay Island. The sailing ship damaged its rigging, resulting in the dismasting of the fore t’gallast mast in the allision.
 
 An Ecuadoran naval tug sent to assist the *Cisne Branco* was subsequently caught sideways in the river current and capsized. Fortunately, the tug crew was reported to be rescued without injury. Likewise, no injuries were reported on the sail training ship or the other tug involved in the accident.
 

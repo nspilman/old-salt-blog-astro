@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 2003, Pen Hadow walked to the North Pole. He became the first person to trek to the Pole solo without being resupplied. Now, Pen Hadow is returning to the North Pole, but he won’t be able to walk. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/penarcticmission.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/penarcticmission.jpg)
 
 Photo: arcticmission.com
 

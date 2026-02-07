@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The Bulwer-Lytton Fiction Contest is an annual tongue-in-cheek contest, sponsored by the English Department of San Jose State University in San Jose, California. Entrants are invited \"to compose the opening sentence to the worst of all possible novels.\" Edward Bulwer-Lytton … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/EdwardGeorgeEarleLyttonBulw.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/EdwardGeorgeEarleLyttonBulw.jpg)
 
 Edward Bulwer-Lytton
 

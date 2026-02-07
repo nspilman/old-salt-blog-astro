@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Who needs a haunted house if you can have a haunted ship? Around this time of year, historic and modern ships suddenly become haunted and ghostly. (To be fair, some are reported to be haunted all year round.) Here is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/hauntedshiplogoth.jpg)Who needs a haunted house if you can have a haunted ship? Around this time of year, historic and modern ships suddenly become haunted and ghostly. (To be fair, some are reported to be haunted all year round.) Here is a round-up of a lucky thirteen haunted or ghostly ships open to the public around Halloween. Check the links for dates, times and locations.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/hauntedshiplogoth.jpg)Who needs a haunted house if you can have a haunted ship? Around this time of year, historic and modern ships suddenly become haunted and ghostly. (To be fair, some are reported to be haunted all year round.) Here is a round-up of a lucky thirteen haunted or ghostly ships open to the public around Halloween. Check the links for dates, times and locations.  
   
 [Nauticus Museum](http://www.nauticus.org/) in downtown Norfolk, VA is giving visitors [haunted tours of sections of the USS *Wisconsin*](http://www.nauticus.org/programs-activities/bb64-paranormal-investigation).
 

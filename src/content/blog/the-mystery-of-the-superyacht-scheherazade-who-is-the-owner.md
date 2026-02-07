@@ -13,12 +13,12 @@ tags:
   - "Putin’s yacht"
   - "Scheherazade"
   - "Tuscan coast"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/putinsyacht.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/putinsyacht.jpg"
 author: "Rick Spilman"
 description: "As Western governments scrabble to identify the luxury yachts of sanctioned Russian oligarchs, the ownership of Scheherazade, a 495′ long superyacht, docked in Marina di Carrara, a small Italian town on the Tuscan coast, remains a mystery. Valued at $700 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/putinsyacht.jpg)As Western governments scrabble to identify the luxury yachts of sanctioned Russian oligarchs, the ownership of [*Scheherazade*](https://www.superyachtfan.com/yacht/scheherazade/), a 495′ long superyacht, docked in Marina di Carrara, a small Italian town on the Tuscan coast, remains a mystery. Valued at $700 million dollars and almost as long as an [Arleigh Burke-class guided-missile destroyer](https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer), *Scheherazade* is one of the 14th largest superyachts and is alone in that no likely owner has been publicly identified.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/putinsyacht.jpg)As Western governments scrabble to identify the luxury yachts of sanctioned Russian oligarchs, the ownership of [*Scheherazade*](https://www.superyachtfan.com/yacht/scheherazade/), a 495′ long superyacht, docked in Marina di Carrara, a small Italian town on the Tuscan coast, remains a mystery. Valued at $700 million dollars and almost as long as an [Arleigh Burke-class guided-missile destroyer](https://en.wikipedia.org/wiki/Arleigh_Burke-class_destroyer), *Scheherazade* is one of the 14th largest superyachts and is alone in that no likely owner has been publicly identified.
 
 The [New York Times](https://www.nytimes.com/2022/03/08/world/europe/russia-superyacht-putin-oligarch.html?searchResultPosition=1) observes that determining the ownership of assets that the wealthy want to keep hidden is difficult, especially without a warrant, because they are often zealously guarded by private bankers and lawyers and tucked away in opaque shell companies in offshore secrecy havens. The *Scheherazade* is flagged in the Cayman Islands and its owner, Bielor Assets Ltd., is registered in the Marshall Islands. The yacht’s management company is also registered in the Cayman Islands.
 

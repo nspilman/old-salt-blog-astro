@@ -13,12 +13,12 @@ tags:
   - "poor man’s Salmon"
   - "shad"
   - "The Founding Fish"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/americanshad.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/americanshad.jpg"
 author: "Rick Spilman"
 description: "Shad, often referred to as the \"poor man’s Salmon,\" once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/americanshad.jpg)[Shad](https://en.wikipedia.org/wiki/American_shad), often referred to as the “poor man’s Salmon,” once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and shad fishing on the Hudson River was closed in 2010. Now [New York State wants to grow shad populations in the river](https://www.timesunion.com/hudsonvalley/outdoors/article/ny-wants-repopulate-hudson-shad-17875423.php) until recreational catch-and-release is once again possible, with the eventual goal of reopening commercial fishing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/americanshad.jpg)[Shad](https://en.wikipedia.org/wiki/American_shad), often referred to as the “poor man’s Salmon,” once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and shad fishing on the Hudson River was closed in 2010. Now [New York State wants to grow shad populations in the river](https://www.timesunion.com/hudsonvalley/outdoors/article/ny-wants-repopulate-hudson-shad-17875423.php) until recreational catch-and-release is once again possible, with the eventual goal of reopening commercial fishing.
 
 Long before the first Europeans arrived at the Hudson River, Native Americans feasted on the schools of American shad that returned to the river to spawn in the Spring.  They often smoked the flesh and consumed the roe. Early European settlers learned the importance of shad from the Natives and quickly picked up the technique of smoking them to provide food for the harsh winters when game was scarce.
 

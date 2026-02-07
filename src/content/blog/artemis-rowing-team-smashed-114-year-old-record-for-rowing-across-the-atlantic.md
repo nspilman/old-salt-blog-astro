@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "On July 19th, we posted about the start of the Artemis North Atlantic Challenge when the Artemis Rowing Team set off from New York Harbor to break the 114 year old record for rowing across the Atlantic.    The previous record had … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/queenrowers.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/queenrowers.jpg)
 
 Artemis Rowing Team Crossing-paths with the QE2
 

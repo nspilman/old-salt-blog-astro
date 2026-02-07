@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "One hundred and fifteen years ago today, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 feet. Somewhere … Continue reading &rarr;"
 ---
 
-![galveston1900](http://www.oldsaltblog.com/wp-content/uploads/2015/09/galveston1900.jpg)One hundred and fifteen years ago today, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 feet. Somewhere between 6,000 and 12,000 people died, making it the deadliest hurricane in US history.
+![galveston1900](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/galveston1900.jpg)One hundred and fifteen years ago today, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 feet. Somewhere between 6,000 and 12,000 people died, making it the deadliest hurricane in US history.
 
 The story of the [Galveston Hurricane of 1900](https://en.wikipedia.org/wiki/1900_Galveston_hurricane) lives on in music. The song “*[Wasn’t That a Mighty Storm](https://en.wikipedia.org/wiki/Wasn%27t_That_a_Mighty_Storm)*” was first recorded in 1934 by a preacher named “Sin-Killer” Griffin for the Library of Congress by folk song collector, John A. Lomax. The song has also been recorded by Tom Rush, Emmylou Harris and James Taylor among others. A variation of the song, called “*Wasn’t that a Mighty Day*” was recorded by the Chad Mitchell trio and the Highwaymen. Sin-Killer Griffin sings below. Other versions after the page break.
 

@@ -12,12 +12,12 @@ tags:
   - "A Voyage to Terra Australis"
   - "Australia"
   - "Mattew Flinders"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/flinders.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/flinders.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the replica of Captain Cook’s HMS Endeavour which will be circumnavigating Australia to commemorate the 250th-anniversary of Cook’s arrival. Some critics have noted that Captain Cook did not actually sail around Australia. Coincidentally and almost simultaneously, archaeologists in London … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/flinders.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/flinders.jpg)
 
 Captain Matthew Flinders
 

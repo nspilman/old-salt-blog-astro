@@ -14,7 +14,7 @@ tags:
   - "Documentary filmmakers Yvonne Drebert and Zach Melnick"
   - "Lake Huron"
   - "Ohio"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/africa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/africa.jpg"
 author: "Rick Spilman"
 description: "Documentary filmmakers Yvonne Drebert and Zach Melnick were looking for invasive mussels on the bottom of Lake Huron in Canada when they came across the 150-foot-long shipwreck of the Africa. On the morning of 4 October 1895, the Africa departed … Continue reading &rarr;"
 ---

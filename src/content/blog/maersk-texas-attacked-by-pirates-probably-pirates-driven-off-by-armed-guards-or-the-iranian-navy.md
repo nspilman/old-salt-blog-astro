@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Simply trying to keep up with what is going on the battle against piracy is not as easy as it might appear. For example, Maersk Texas, a US flag cargo ship came under attack by pirates in the Gulf of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/MAERSK_TEXAS.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/MAERSK_TEXAS.jpg)
 
 Photo: Maksim Ivanov MarineTraffic.com
 

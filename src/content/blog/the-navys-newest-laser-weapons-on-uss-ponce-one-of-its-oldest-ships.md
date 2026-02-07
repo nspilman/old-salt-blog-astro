@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The Navy plans to deploy its first laser weapons on the USS Ponce, one of its oldest ships. The laser weapons designed to be capable of disabling small enemy vessels and shooting down surveillance drones will be installed on the 43 … Continue reading &rarr;"
 ---
 
-![ponce1](http://www.oldsaltblog.com/wp-content/uploads/2014/02/ponce1.jpg)The Navy plans to deploy its first laser weapons on the [USS *Ponce*](http://en.wikipedia.org/wiki/USS_Ponce_\(LPD-15\)), one of its oldest ships. The laser weapons designed to be capable of disabling small enemy vessels and shooting down surveillance drones will be installed on the 43 year old *Ponce*, an Austin-class amphibious transport dock.
+![ponce1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/ponce1.jpg)The Navy plans to deploy its first laser weapons on the [USS *Ponce*](http://en.wikipedia.org/wiki/USS_Ponce_\(LPD-15\)), one of its oldest ships. The laser weapons designed to be capable of disabling small enemy vessels and shooting down surveillance drones will be installed on the 43 year old *Ponce*, an Austin-class amphibious transport dock.
 
 The lasers are extremely inexpensive to operate, if not necessarily to build.  Lasers do have shortcomings, however, being less effective in rain, fog or dusty conditions. The Navy is also testing a high energy rail gun ashore. The problem with the rail gun is that it requires so much electricity so that the only ship with sufficient generating capacity is the new destroyer, the [USS *Zumwalt,*](http://www.oldsaltblog.com/2013/10/the-one-penny-aircraft-carrier-and-the-seven-billion-dollar-destroyer/) under construction at Bath Iron Works in Maine.
 

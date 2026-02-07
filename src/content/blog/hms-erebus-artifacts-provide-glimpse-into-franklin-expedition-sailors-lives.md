@@ -10,12 +10,12 @@ tags:
   - "HMS Erebus"
   - "HMS Terror"
   - "Parks Canada"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/erebusartificats.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/erebusartificats.jpg"
 author: "Rick Spilman"
 description: "Artifacts recovered during 93 dives by Parks Canada on the wreck of HMS Erebus over three weeks this fall provide a fascinating glimpse into the lives of the officers and sailors on the doomed Franklin Expedition of 1845. More than … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/erebusartificats.jpg)Artifacts recovered during 93 dives by Parks Canada on the wreck of [HMS *Erebus*](https://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) over three weeks this fall provide a fascinating glimpse into the lives of the officers and sailors on the doomed [Franklin Expedition of 1845](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition). More than [350 artifacts have been recovered](https://www.smithsonianmag.com/science-nature/divers-recover-more-than-350-artifacts-from-hms-erebus-shipwreck-180974251/), including epaulets from a lieutenant’s uniform, ceramic dishes, wine bottles, a hairbrush with strands of human hair, and a pencil case. Sealing wax with the imprint of a fingerprint believed to belong to Edmund Hoar, the captain’s steward was also found.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/erebusartificats.jpg)Artifacts recovered during 93 dives by Parks Canada on the wreck of [HMS *Erebus*](https://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) over three weeks this fall provide a fascinating glimpse into the lives of the officers and sailors on the doomed [Franklin Expedition of 1845](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition). More than [350 artifacts have been recovered](https://www.smithsonianmag.com/science-nature/divers-recover-more-than-350-artifacts-from-hms-erebus-shipwreck-180974251/), including epaulets from a lieutenant’s uniform, ceramic dishes, wine bottles, a hairbrush with strands of human hair, and a pencil case. Sealing wax with the imprint of a fingerprint believed to belong to Edmund Hoar, the captain’s steward was also found.
 
 “We have had the most successful season since the discovery of the wreck,” Marc-André Bernier, manager of Parks Canada’s underwater archeology team, told reporters in a press conference. “The preservation of the objects is quite phenomenal.”   
 

@@ -10,12 +10,12 @@ tags:
   - "Dr. Heïdi Sevestre"
   - "Shackleton"
   - "Shackleton Medal for the Protection of the Polar Regions"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/shackletonmedal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/shackletonmedal.jpg"
 author: "Rick Spilman"
 description: "Congratulations to glaciologist Dr. Heïdi Sevestre on winning the inaugural Shackleton Medal for the Protection of the Polar Regions. Dr. Sevestre, a pioneering climate activist, expedition leader, scientific researcher, documentary maker, and lobbyist, receives a prize of £10,000 as a contribution … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/shackletonmedal.jpg)Congratulations to glaciologist [Dr. Heïdi Sevestre](https://www.heidisevestre.com/) on winning the inaugural [Shackleton Medal for the Protection of the Polar Regions](https://shackleton.com/pages/shackleton-medal). Dr. Sevestre, a pioneering climate activist, expedition leader, scientific researcher, documentary maker, and lobbyist, receives a prize of £10,000 as a contribution towards her ongoing work in the polar regions and the very first Shackleton Medal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/shackletonmedal.jpg)Congratulations to glaciologist [Dr. Heïdi Sevestre](https://www.heidisevestre.com/) on winning the inaugural [Shackleton Medal for the Protection of the Polar Regions](https://shackleton.com/pages/shackleton-medal). Dr. Sevestre, a pioneering climate activist, expedition leader, scientific researcher, documentary maker, and lobbyist, receives a prize of £10,000 as a contribution towards her ongoing work in the polar regions and the very first Shackleton Medal.
 
 An international jury of polar experts – chaired by Prof. Lewis Dartnell – debated the shortlist and decided the winner at the Royal Geographical Society in London. 
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to \"blue highways,\" the network of waterways that have for so long defined the city. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/dhlbluehighway.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/dhlbluehighway.jpg)
 
 Photo: DHL Express UK
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Thanksgiving was celebrated in 19th century American whaling ships. Sarah Josepha Hale, an early booster of the holiday, had a Liberty ship named for her."
 ---
 
-!["The Gam," 1926 oil on canvas by Clifford W. Ashley. ](http://www.oldsaltblog.com/wp-content/uploads/2014/11/gam.jpg)
+!["The Gam," 1926 oil on canvas by Clifford W. Ashley. ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/gam.jpg)
 
 “The Gam,” 1926 oil on canvas by Clifford W. Ashley.
 

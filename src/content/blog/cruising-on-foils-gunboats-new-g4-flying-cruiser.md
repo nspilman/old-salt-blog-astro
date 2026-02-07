@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Gunboat's new G4, expected in 2015, may be the first racing/cruising catamaran capable of flying on foils with the potential to reach speeds of 40 knots."
 ---
 
-![Gunboat G4 with  J foil daggerboards and T foil rudders](http://www.oldsaltblog.com/wp-content/uploads/2014/12/g4jfoil.jpg)
+![Gunboat G4 with  J foil daggerboards and T foil rudders](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/g4jfoil.jpg)
 
 Gunboat G4 with J foil daggerboards and T foil rudders
 

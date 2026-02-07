@@ -12,12 +12,12 @@ tags:
   - "octopus"
   - "Seal"
   - "Taiyo Masuda"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/sealoctoslap.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sealoctoslap.jpg"
 author: "Rick Spilman"
 description: "If you are kayaking and happen to get slapped in the face by a flying octopus hurled by a seal, don’t take it personally. Its probably not about you. Kyle Mulinder was kayaking near Kaikoura, New Zealand on Saturday when … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/sealoctoslap.jpg)If you are kayaking and happen to get slapped in the face by a flying octopus hurled by a seal, don’t take it personally. Its probably not about you.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sealoctoslap.jpg)If you are kayaking and happen to get slapped in the face by a flying octopus hurled by a seal, don’t take it personally. Its probably not about you.
 
 Kyle Mulinder was kayaking near Kaikoura, New Zealand on Saturday when he was slapped in the face by a flying octopus, hurled by a seal. The seal wasn’t trying to send Mr. Mulinder a message. The seal was simply trying to catch some lunch. The octopus was just trying not to get eaten. 
 

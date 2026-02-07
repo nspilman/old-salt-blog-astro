@@ -15,12 +15,12 @@ tags:
   - "Mary Rose Trust"
   - "Multi-Ethnic Crew"
   - "multi-isotope analysis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/maryrosemulti.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/maryrosemulti.jpg"
 author: "Rick Spilman"
 description: "The Mary Rose, often described as King Henry VIII’s favorite warship, sank on July 19, 1545 during the Battle of the Solent with the loss of most of its crew of 415. When the ship was raised in 1982, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/maryrosemulti.jpg)The [*Mary Rose*](https://maryrose.org/news/multicultural/), often described as King Henry VIII’s favorite warship, sank on July 19, 1545 during the Battle of the Solent with the loss of most of its crew of 415. When the ship was raised in 1982, the remains of at least 179 crew members were discovered, together with thousands of objects ranging from weaponry to tools and games. Many of the crew’s skeletal remains were found to be well preserved, allowing scientists to investigate the backgrounds of the crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/maryrosemulti.jpg)The [*Mary Rose*](https://maryrose.org/news/multicultural/), often described as King Henry VIII’s favorite warship, sank on July 19, 1545 during the Battle of the Solent with the loss of most of its crew of 415. When the ship was raised in 1982, the remains of at least 179 crew members were discovered, together with thousands of objects ranging from weaponry to tools and games. Many of the crew’s skeletal remains were found to be well preserved, allowing scientists to investigate the backgrounds of the crew.
 
 A recent study by researchers from Cardiff University, the Mary Rose Trust, and the British Geological Survey, published in the journal *[Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.202106),* used a technique called multi-isotope analysis on teeth to investigate where eight crew members spent their early years. The results suggest significant ethnic diversity in the Tudor Navy.
 

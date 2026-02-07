@@ -13,12 +13,12 @@ tags:
   - "Putin"
   - "Russian Navy"
   - "Russian submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/spheresub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/spheresub.jpg"
 author: "Rick Spilman"
 description: "On July 2, Russia’s Defense Ministry announced that a fire had broken out on a research submarine killing 14 sailors while the ship was operating in Russia’s territorial waters in the Barents Sea. Russian authorities declined to further identify the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/spheresub.jpg)On July 2, [Russia’s Defense Ministry announced that a fire had broken out on a research submarine](https://www.bbc.com/news/world-europe-48844013) killing 14 sailors while the ship was operating in Russia’s territorial waters in the Barents Sea. Russian authorities declined to further identify the submarine, but various Russian sources have identified the sub as the AS-12 (also known as the [*Losharik*](https://en.wikipedia.org/wiki/Russian_submarine_Losharik)), a nuclear-powered unarmed vessel capable of deep sea missions. The fire is believed to have broken out on Monday.  The fire was extinguished and the submarine was reported to have been towed to the port of Severomorsk, home of the Russian Navy’s Northern Fleet’s headquarters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/spheresub.jpg)On July 2, [Russia’s Defense Ministry announced that a fire had broken out on a research submarine](https://www.bbc.com/news/world-europe-48844013) killing 14 sailors while the ship was operating in Russia’s territorial waters in the Barents Sea. Russian authorities declined to further identify the submarine, but various Russian sources have identified the sub as the AS-12 (also known as the [*Losharik*](https://en.wikipedia.org/wiki/Russian_submarine_Losharik)), a nuclear-powered unarmed vessel capable of deep sea missions. The fire is believed to have broken out on Monday.  The fire was extinguished and the submarine was reported to have been towed to the port of Severomorsk, home of the Russian Navy’s Northern Fleet’s headquarters.
 
 The submarine was reported to be surveying the seafloor when the fire broke out. There appears to have been an unusually large percentage of higher ranking officers among the fatalities. According to a statement by Russian President Vladimir Putin, seven captains and two service personnel awarded Russia’s highest honorary title, Hero of the Russian Federation, were among the dead. Putin also said that the vessel had a [special mission and an elite crew.](https://time.com/5619197/russia-navy-submarine-fire-deaths/)
 

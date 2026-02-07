@@ -11,7 +11,7 @@ tags:
   - "Expedition 2022"
   - "Götheborg"
   - "Swedish East Indiaman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/Goterborg2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/Goterborg2.jpg"
 author: "Rick Spilman"
 description: "As we posted in September, the replica Swedish East Indiaman Götheborg is preparing to sail for Asia in April of 2022. The expedition is intended to promote and open new trade opportunities for Swedish and Asian companies. The nearly 60-meter … Continue reading &rarr;"
 ---

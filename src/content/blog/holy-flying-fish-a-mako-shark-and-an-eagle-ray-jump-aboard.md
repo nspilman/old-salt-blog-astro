@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last summer we posted about a breaching Southern Right whale that landed on a sailboat off South Africa.   This week, boaters off the Florida Keys and in the Gulf of Mexico off Texas got surprise visitors. Off the Florida Keys a 200 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/shark.jpg)Last summer [we posted about a breaching Southern Right whale](http://www.oldsaltblog.com/2010/07/21/breaching-southern-right-whale-crushes-sailboat/) that landed on a sailboat off South Africa.   This week, boaters off the Florida Keys and in the Gulf of Mexico off Texas got surprise visitors.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/shark.jpg)Last summer [we posted about a breaching Southern Right whale](http://www.oldsaltblog.com/2010/07/21/breaching-southern-right-whale-crushes-sailboat/) that landed on a sailboat off South Africa.   This week, boaters off the Florida Keys and in the Gulf of Mexico off Texas got surprise visitors.
 
 Off the Florida Keys a 200 pound spotted eagle ray jumped into chartered boat and landed on top of Jenny Hausch,  knocking her down. Ms. Hausch was able to crawl out from under the ray and was unhurt.   The ray was helped back into the water and swam away.
 

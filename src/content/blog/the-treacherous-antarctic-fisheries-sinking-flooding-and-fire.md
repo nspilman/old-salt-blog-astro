@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The Patagonian toothfish, better known on Western restaurant menus as Chilean sea bass, is in high demand.  Living in the colder waters of the southern oceans, including  Antarctica’s Ross Sea, fishing for the toothfish can be hazardous.  Within the last 30 days, 25 sailors … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/New-Zealand-Fishing-Fire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/New-Zealand-Fishing-Fire.jpg)
 
 3 sailors died in fire on Jung Woo Photo: CCAMLR, Natasha/Associated Press
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Today, in the United States, is National Maritime Day. There is a presidential proclamation and everything.  The day, May 22nd, was chosen because that was the date that the American steamship Savannah set sail from Savannah, Georgia in 1818 on the first … Continue reading &rarr;"
 ---
 
-![marywhalen](http://www.oldsaltblog.com/wp-content/uploads/2013/05/marywhalen.jpg)
+![marywhalen](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/marywhalen.jpg)
 
 From the deck of the Mary Whalen
 

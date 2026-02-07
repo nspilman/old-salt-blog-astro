@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Here is a wholly random question. When and where was William Shakespeare’s tragedy Hamlet first performed on shipboard?   The first recorded shipboard performance of Hamlet, and one of the earlier performances anywhere, was in September 1607 on the East India Company … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/shakespearehamlet.jpg)Here is a wholly random question. When and where was William Shakespeare’s tragedy *Hamlet* first performed on shipboard?  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/shakespearehamlet.jpg)Here is a wholly random question. When and where was William Shakespeare’s tragedy *Hamlet* first performed on shipboard?  
 
 The first recorded shipboard performance of *Hamlet,* and one of the earlier performances anywhere, was in September 1607 on the East India Company ship, *Red Dragon* under the command of Captain William Keeling on a voyage to the Spice Islands. The ship was anchored off Sierra Leone to allow the crew to recover from a serious outbreak of scurvy. Captain Keeling was an enthusiastic follower of Shakespeare’s plays. From [Shakespeare’s World](https://www.exploreshakespearesworld.com/shakespeares-world-app/what-happened-on-board-the-red-dragon-in-1607/): 
 

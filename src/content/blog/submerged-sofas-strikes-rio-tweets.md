@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if … Continue reading &rarr;"
 ---
 
-![riosofa](http://www.oldsaltblog.com/wp-content/uploads/2016/08/riosofa.jpg)A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: [Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if true.](https://twitter.com/pkelso/status/761658619733667840) #kayaksofa #Rio2016.
+![riosofa](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/riosofa.jpg)A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: [Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if true.](https://twitter.com/pkelso/status/761658619733667840) #kayaksofa #Rio2016.
 
 If the story is true, it would not be the first time. [Two years ago we posted](http://www.oldsaltblog.com/2014/05/sailing-in-sewage-olympic-sailors-in-guanabara-bay-at-rio-de-janeiro/): “*It can get really disgusting, with dog carcasses in some places and the water turning brown from sewage contamination,” said Thomas Low-Beer, 24, a Brazilian Olympic hopeful who sails in the bay. He shuddered when recalling how his dinghy crashed into what he believed was a partly submerged sofa, capsizing him into the murky Guanabara*.
 

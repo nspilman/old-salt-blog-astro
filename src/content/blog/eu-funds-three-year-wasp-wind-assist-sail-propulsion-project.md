@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A three-year project to research Wind-Assisted Sail Propulsion (WASP) has been launched in Europe supported by €5.4Mn (about $6 million) in funding provided by the Interreg North Sea Europe program, part of the European Regional Development Fund (ERDF).  The project … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/ventisail.jpg)A three-year project to research Wind-Assisted Sail Propulsion (WASP) has been launched in Europe supported by €5.4Mn (about $6 million) in funding provided by the Interreg North Sea Europe program, part of the European Regional Development Fund (ERDF). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/ventisail.jpg)A three-year project to research Wind-Assisted Sail Propulsion (WASP) has been launched in Europe supported by €5.4Mn (about $6 million) in funding provided by the Interreg North Sea Europe program, part of the European Regional Development Fund (ERDF). 
 
 The project brings together universities, wind-assist technology providers with ship owners to research, trial and validate the operational performance of a selection of wind propulsion solutions thus enabling wind propulsion technology market penetration and contributing to a greener North Sea transport system through harvesting the regions abundant wind potential. This fully aligns with the wider programs’ objective of promoting the development and adoption of products, services, and processes to accelerate the greening of the North Sea Region.
 

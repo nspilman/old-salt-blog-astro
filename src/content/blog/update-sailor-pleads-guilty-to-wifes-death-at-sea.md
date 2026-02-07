@@ -10,12 +10,12 @@ tags:
   - "involuntary manslaughter"
   - "Isabella Hellman"
   - "Lewis Bennett"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/bennethellman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bennethellman.jpg"
 author: "Rick Spilman"
 description: "On May 14, 2017, Lewis Bennett was sailing with his wife, Isabella Hellman, from Cuba to Florida on their 37′ catamaran, Surf into Summer.  Sometime during the night, Hellman disappeared and the boat sank. Bennett was subsequently charged with second-degree murder in the death … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/bennethellman.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bennethellman.jpg)
 
 Lewis Bennett & Isabella Hellman
 

@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "It is not champagne, but whiskey bottles which are still appearing from the sands where the sailing ship Stuart wrecked 110 years ago on Easter Sunday off the Llyn peninsula of Northern Wales. Whisky bottles still being washed up on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/stuart_bach.jpg)It is not champagne, but whiskey bottles which are still appearing from the sands where the sailing ship *Stuart* wrecked 110 years ago on Easter Sunday off the Llyn peninsula of Northern Wales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/stuart_bach.jpg)It is not champagne, but whiskey bottles which are still appearing from the sands where the sailing ship *Stuart* wrecked 110 years ago on Easter Sunday off the Llyn peninsula of Northern Wales.
 
 [Whisky bottles still being washed up on the Llyn Peninsula](http://www.dailypost.co.uk/news/north-wales-news/2011/04/23/whisky-bottles-still-being-washed-up-on-the-llyn-peninsula-55578-28569527/)  
   

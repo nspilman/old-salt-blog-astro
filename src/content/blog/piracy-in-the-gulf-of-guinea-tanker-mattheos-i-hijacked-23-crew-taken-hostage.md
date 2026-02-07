@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Earlier this week the 45,000 DWT tanker, Mattheos I, with a crew of 23, was hijacked off Benin in the Gulf of Guinea.  According to the IMB Piracy Center, this year there have been 19 pirate attacks on ships in the Gulf of Guinea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/MATTHEOS_I.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/MATTHEOS_I.jpg)
 
 MATTHEOS I , Photo: J Dohrn, MarineTraffic.com
 

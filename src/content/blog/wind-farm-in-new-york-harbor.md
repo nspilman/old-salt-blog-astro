@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Port Authority Plans to Build Wind Farm The Port Authority is planning on creating a wind farm on one of its shipping piers in New Jersey. The five windmills would help power the port’s cargo operations. A private company would … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/wind_farm.jpg)[Port Authority Plans to Build Wind Farm](http://www.wnyc.org/news/articles/155010)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/wind_farm.jpg)[Port Authority Plans to Build Wind Farm](http://www.wnyc.org/news/articles/155010)
 
 *The Port Authority is planning on creating a wind farm on one of its shipping piers in New Jersey. The five windmills would help power the port’s cargo operations.*
 

@@ -15,12 +15,12 @@ tags:
   - "IMO"
   - "International Maritime Organization"
   - "loopholes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/hfoban.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/hfoban.jpg"
 author: "Rick Spilman"
 description: "As of July 1, a ban on heavy fuel oil (HFO) for ships has come into effect in Arctic waters.  The UN International Maritime Organization (IMO) ban on HFO, however, includes significant loopholes that will allow the vast majority of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/hfoban.jpg)As of July 1, a ban on heavy fuel oil (HFO) for ships has come into effect in Arctic waters.  The UN International Maritime Organization (IMO) ban on HFO, however, includes significant loopholes that will allow the vast majority of ships operating in the Arctic to use the fuel until 2029.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/hfoban.jpg)As of July 1, a ban on heavy fuel oil (HFO) for ships has come into effect in Arctic waters.  The UN International Maritime Organization (IMO) ban on HFO, however, includes significant loopholes that will allow the vast majority of ships operating in the Arctic to use the fuel until 2029.
 
 HFO, also known as bunker fuel and residual fuel, is the dirtiest and most climate-damaging fuel on the market. It is a tar-like and thick, but relatively cheap oil that has been widely used in shipping.
 

@@ -14,12 +14,12 @@ tags:
   - "Novocherkassk"
   - "Russia"
   - "Ukrainian Air Force"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/Russlandingship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/Russlandingship.jpg"
 author: "Rick Spilman"
 description: "Today, the Ukrainian Air Force said that it had destroyed the Novocherkassk, a large landing ship, in the Crimean port of Feodosia overnight. Russia’s Defense Ministry told the Tass state news agency that the ship had been damaged in an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/Russlandingship.jpg)Today, the Ukrainian Air Force said that it had destroyed the [*Novocherkassk*](https://en.wikipedia.org/wiki/Russian_landing_ship_Novocherkassk), a large landing ship, in the Crimean port of Feodosia overnight. Russia’s Defense Ministry told the Tass state news agency that the ship had been damaged in an attack using “aircraft-guided missiles,” but did not say whether the vessel had been permanently disabled.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/Russlandingship.jpg)Today, the Ukrainian Air Force said that it had destroyed the [*Novocherkassk*](https://en.wikipedia.org/wiki/Russian_landing_ship_Novocherkassk), a large landing ship, in the Crimean port of Feodosia overnight. Russia’s Defense Ministry told the Tass state news agency that the ship had been damaged in an attack using “aircraft-guided missiles,” but did not say whether the vessel had been permanently disabled.
 
 Unverified videos posted to social media reportedly show very large explosions seen at the Feodosia port after the attack. According to Ukraine’s Air Force, the vessel suffered secondary explosions and will be difficult to repair.
 

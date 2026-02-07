@@ -11,12 +11,12 @@ tags:
   - "Costa"
   - "Costa Smeralda"
   - "Wuhan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/costasmerleda.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/costasmerleda.jpg"
 author: "Rick Spilman"
 description: "UPDATE: The illness which sickened a passenger was determined not to be the coronavirus and the 6,000 passengers and crew were allowed to disembark from the Costa Smeralda. Two cases of the coronavirus, not related to the cruise ship, were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/costasmerleda.jpg)**UPDATE:** The illness which sickened a passenger was determined not to be the coronavirus and the 6,000 passengers and crew were allowed to disembark from the *Costa Smeralda*. Two cases of the coronavirus, not related to the cruise ship, were diagnosed in Rome, however.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/costasmerleda.jpg)**UPDATE:** The illness which sickened a passenger was determined not to be the coronavirus and the 6,000 passengers and crew were allowed to disembark from the *Costa Smeralda*. Two cases of the coronavirus, not related to the cruise ship, were diagnosed in Rome, however.
 
 USA Today is reporting that an estimated 6,000 passengers and crew are being held onboard the [*Costa Smeralda*](https://en.wikipedia.org/wiki/Costa_Smeralda_\(ship\)) cruise ship while medical teams run diagnostic tests for the Wuhan [coronavirus](https://www.usatoday.com/in-depth/news/2020/01/29/coronavirus-what-are-symptoms-of-wuhan-china-novel-virus/4563892002/) on a 54-year-old of Chinese nationality and a traveling companion who have been quarantined. 
 

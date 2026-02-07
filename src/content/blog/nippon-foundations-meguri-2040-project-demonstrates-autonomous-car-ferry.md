@@ -15,12 +15,12 @@ tags:
   - "Mitsubishi Shipbuilding Co."
   - "Nippon Foundation"
   - "Shin Nihonkai Ferry Co."
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/nipponfoundation-cf.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/nipponfoundation-cf.jpg"
 author: "Rick Spilman"
 description: "The Nippon Foundation in partnership with Mitsubishi Shipbuilding Co., Ltd., and Shin Nihonkai Ferry Co., Ltd., successfully completed a demonstration test of the world’s first fully autonomous ship navigation systems on a large car ferry, conducted on the Iyonada Sea … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/nipponfoundation-cf.jpg)The [Nippon Foundation](https://www.nippon-foundation.or.jp/en/news/articles/2022/20220118-66716.html) in partnership with Mitsubishi Shipbuilding Co., Ltd., and Shin Nihonkai Ferry Co., Ltd., successfully completed a demonstration test of the world’s first fully autonomous ship navigation systems on a large car ferry, conducted on the Iyonada Sea from Shinmoji, Kitakyushuu City, on January 17. From their [press release](https://www.mhi.com/news/220117.html):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/nipponfoundation-cf.jpg)The [Nippon Foundation](https://www.nippon-foundation.or.jp/en/news/articles/2022/20220118-66716.html) in partnership with Mitsubishi Shipbuilding Co., Ltd., and Shin Nihonkai Ferry Co., Ltd., successfully completed a demonstration test of the world’s first fully autonomous ship navigation systems on a large car ferry, conducted on the Iyonada Sea from Shinmoji, Kitakyushuu City, on January 17. From their [press release](https://www.mhi.com/news/220117.html):
 
 This demonstration was part of MEGURI 2040, a project promoting the development of fully autonomous vessels supported by The Nippon Foundation. This test demonstrated the world’s first fully autonomous navigation system, on a 222-meter ferry, with autonomous port berthing and unberthing using turning and reversing movements and high-speed navigation of up to 26 knots. Other new technologies included in the advanced fully autonomous operation system include sensors to detect other ships using infrared cameras, a remote engine monitoring system, and a sophisticated cyber security system. These advances in fully autonomous ship navigation are seen as a significant step toward safer and more efficient coastal shipping.
 

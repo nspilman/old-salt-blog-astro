@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Recently, Travel + Leisure magazine rated Galway, Ireland the world’s friendliest city.  I wonder whether it has anything to do with the Galway hookers? But what is a Galway hooker? Is it: A Galway street-walker? A traditional single masted fishing boat? A … Continue reading &rarr;"
 ---
 
-![galway hooker](http://www.oldsaltblog.com/wp-content/uploads/2015/08/galway-hooker.jpg)Recently, [Travel + Leisure magazine rated Galway, Ireland the world’s friendliest city](http://www.independent.ie/life/travel/travel-news/galway-voted-worlds-friendliest-city-nos-3-and-4-arent-bad-either-31486063.html).  I wonder whether it has anything to do with the Galway hookers? But what is a Galway hooker? Is it:
+![galway hooker](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/galway-hooker.jpg)Recently, [Travel + Leisure magazine rated Galway, Ireland the world’s friendliest city](http://www.independent.ie/life/travel/travel-news/galway-voted-worlds-friendliest-city-nos-3-and-4-arent-bad-either-31486063.html).  I wonder whether it has anything to do with the Galway hookers? But what is a Galway hooker? Is it:
 
 1.  A Galway street-walker?
 2.  A traditional single masted fishing boat?

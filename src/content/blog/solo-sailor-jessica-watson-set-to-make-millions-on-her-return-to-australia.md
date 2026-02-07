@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "After a controversial beginning, is Jessica Watson reaching the final legs of her circumnavigation.  A  flood of deals and endorsements could make Jessica a very wealthy teenager. Solo sailor Jessica Watson set to make millions when she finishes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/09/jessicawatson-150x99.jpg)After a controversial beginning, is Jessica Watson reaching the final legs of her circumnavigation.  A  flood of deals and endorsements could make Jessica a very wealthy teenager.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/jessicawatson-150x99.jpg)After a controversial beginning, is Jessica Watson reaching the final legs of her circumnavigation.  A  flood of deals and endorsements could make Jessica a very wealthy teenager.
 
 [Solo sailor Jessica Watson set to make millions when she finishes](http://www.news.com.au/business/solo-sailor-jess-set-to-make-millions/story-e6frfm1i-1225834980029?from=public_rss)  
   

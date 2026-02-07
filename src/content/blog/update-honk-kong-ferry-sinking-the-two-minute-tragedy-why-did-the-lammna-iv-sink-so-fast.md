@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Update:  The death toll from the ferry collision has risen to 39 after a nine year old girl, Tsui Hoi-ying, who had been of life support in a Hong Kong hospital, is reported to have died. It only took about … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/lamina.jpg)**Update:**  The death toll from the ferry collision has risen to 39 after a nine year old girl, Tsui Hoi-ying, who had been of life support in a Hong Kong hospital, is reported to have died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/lamina.jpg)**Update:**  The death toll from the ferry collision has risen to 39 after a nine year old girl, Tsui Hoi-ying, who had been of life support in a Hong Kong hospital, is reported to have died.
 
 It only took about two minutes for the ferry [*Lammna IV*](http://en.wikipedia.org/wiki/2012_Lamma_Island_ferry_collision) to sink in Hong Kong harbor off Victoria after being struck by another ferry boat around 8pm October 1st.  Of the more than 120 passengers on the *Lammna IV*, 38 are believed to have drowned. It was the worst harbor accident in Hong Kong in more than 40 years.
 

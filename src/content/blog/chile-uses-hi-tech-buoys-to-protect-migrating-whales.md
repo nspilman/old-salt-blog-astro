@@ -11,12 +11,12 @@ tags:
   - "Chile"
   - "Listening to the Deep Ocean Environment"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/chilebuoy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/chilebuoy.jpg"
 author: "Rick Spilman"
 description: "An encouraging news story from Reuters. A smart buoy that can \"hear\" the ocean and monitor climate change is part of a new effort to help endangered whales avoid ship collisions on their journey from Antarctica to the equator. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/chilebuoy.jpg)An encouraging news story from [Reuters](https://www.reuters.com/business/environment/chile-uses-hi-tech-buoys-protect-migrating-whales-2022-10-17/#:~:text=CHILOE%20ISLAND%2C%20Chile%2C%20Oct%2017,from%20Antarctica%20to%20the%20equator.).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/chilebuoy.jpg)An encouraging news story from [Reuters](https://www.reuters.com/business/environment/chile-uses-hi-tech-buoys-protect-migrating-whales-2022-10-17/#:~:text=CHILOE%20ISLAND%2C%20Chile%2C%20Oct%2017,from%20Antarctica%20to%20the%20equator.).
 
 A smart buoy that can “hear” the ocean and monitor climate change is part of a new effort to help endangered whales avoid ship collisions on their journey from Antarctica to the equator.
 

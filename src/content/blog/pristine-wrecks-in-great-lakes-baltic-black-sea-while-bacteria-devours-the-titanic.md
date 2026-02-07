@@ -14,12 +14,12 @@ tags:
   - "rust-eating bacteria"
   - "Shipwrecks"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/balticshipwreck.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/balticshipwreck.jpg"
 author: "Rick Spilman"
 description: "Recently, the New York Times featured an article on 40 recently discovered wooden shipwrecks located deep in the Black Sea off the Bulgarian coast. In age, the wrecks span a millennium, from the ninth to the 19th centuries. What is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/balticshipwreck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/balticshipwreck.jpg)
 
 Stern of the Ottoman-era ship showing coils of rope and a tiller with elaborate carvings. Photo: Expedition and Education Foundation/Black Sea MAP
 

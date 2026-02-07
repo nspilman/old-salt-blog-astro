@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This  Monday,  May 10th, PBS’s American Experience series will broadcast Ric Burns’ new documentary, Into the Deep: America, Whaling & the World. It looks fascinating. The history of the American whaling industry from its 17th-century origins in drift and shore whaling off … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/whaling_film_landing1.jpg)](http://www.pbs.org/wgbh/americanexperience/films/whaling/)This  Monday,  May 10th, PBS’s *American Experience* series will broadcast Ric Burns’ new documentary, [Into the Deep: America, Whaling & the World.](http://www.pbs.org/wgbh/americanexperience/films/whaling/) It looks fascinating.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/whaling_film_landing1.jpg)](http://www.pbs.org/wgbh/americanexperience/films/whaling/)This  Monday,  May 10th, PBS’s *American Experience* series will broadcast Ric Burns’ new documentary, [Into the Deep: America, Whaling & the World.](http://www.pbs.org/wgbh/americanexperience/films/whaling/) It looks fascinating.
 
 *The history of the American whaling industry from its 17th-century origins in drift and shore whaling off the coast of New England and Cape Cod, through the golden age of deep ocean whaling, and on to its demise in the decades following the American Civil War.*
 

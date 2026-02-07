@@ -14,12 +14,12 @@ tags:
   - "Pyxis Ocean"
   - "wind-assisted propulsion"
   - "WindWings"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/windwings.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/windwings.jpg"
 author: "Rick Spilman"
 description: "In August, we posted about the Pyxis Ocean, an 80,000 DWT bulk carrier, fitted with two WindWings®, a pioneering rigid wing technology, that had set sail on its maiden voyage from China to Brazil. Now, six months later, Cargill announced the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/windwings.jpg)In August, [we posted](https://www.oldsaltblog.com/2023/08/pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-sets-sail-on-maiden-voyage/) about the [*Pyxis Ocean*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5045111/mmsi:563021600/imo:9798856/vessel:PYXIS_OCEAN), an 80,000 DWT bulk carrier, fitted with two [WindWing](https://www.bartechnologies.uk/project/windwings/)s®, a pioneering rigid wing technology, that had set sail on its maiden voyage from China to Brazil.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/windwings.jpg)In August, [we posted](https://www.oldsaltblog.com/2023/08/pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-sets-sail-on-maiden-voyage/) about the [*Pyxis Ocean*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5045111/mmsi:563021600/imo:9798856/vessel:PYXIS_OCEAN), an 80,000 DWT bulk carrier, fitted with two [WindWing](https://www.bartechnologies.uk/project/windwings/)s®, a pioneering rigid wing technology, that had set sail on its maiden voyage from China to Brazil.
 
 Now, six months later, [Cargill announced the results](https://www.cargill.com/2024/first-wind-powered-ocean-vessel-maiden-voyage) of the test voyages of the *Pyxis Ocean*, underscoring the potential for wind-assisted propulsion technology in moving the shipping industry toward renewable energy use.
 

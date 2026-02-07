@@ -14,12 +14,12 @@ tags:
   - "King Herlaug"
   - "pre-Viking ship burial"
   - "Ship Burial Mound"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/burial-mound.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/burial-mound.jpg"
 author: "Rick Spilman"
 description: "A new analysis has concluded that a large, grassy hill in Norway known as the Herlaugshagen burial mound was likely the site of a pre-Viking ship burial. What is fascinating is that the site was excavated three times during the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/burial-mound.jpg)A new analysis has concluded that a large, grassy hill in Norway known as the Herlaugshagen burial mound was likely the site of a pre-Viking ship burial. What is fascinating is that the site was excavated three times during the late 18th century and no one found the ship within the mound. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/burial-mound.jpg)A new analysis has concluded that a large, grassy hill in Norway known as the Herlaugshagen burial mound was likely the site of a pre-Viking ship burial. What is fascinating is that the site was excavated three times during the late 18th century and no one found the ship within the mound. 
 
 The Herlaug mound, on the island of Leka in Central Norway, has a diameter of over 60 meters and is one of the largest burial mounds in the country. In the prior excavations, artifacts were discovered including a kind of wall, iron nails, a bronze cauldron, animal bones, and a seated skeleton with a sword. 
 

@@ -11,7 +11,7 @@ tags:
   - "9/11"
   - "BOATLIFT"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/boatliftsc1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/boatliftsc1.jpg"
 author: "Rick Spilman"
 description: "I watch this short documentary on the Great Manhattan Boat Lift of 9/11/01 at least once a year. In the face of natural and unnatural disasters, it is good to be reminded that when things are at their worst mariners will … Continue reading &rarr;"
 ---

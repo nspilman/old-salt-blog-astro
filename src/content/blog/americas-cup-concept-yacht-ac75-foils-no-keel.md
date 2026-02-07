@@ -13,7 +13,7 @@ tags:
   - "Emirates Team New Zealand"
   - "foiling monohull"
   - "Luna Rossa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/ac75proto.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/ac75proto.jpg"
 author: "Rick Spilman"
 description: "The Emirates Team New Zealand and Luna Rossa design teams have unveiled the AC75, a concept design for the 36th America’s Cup in 2021. The design is a 75 foot long foiling monohull. Most notably, the AC75 lacks a keel.  … Continue reading &rarr;"
 ---

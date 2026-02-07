@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "They were the largest Navy oilers of their day and nearly 500 of them were built between 1940 and 1945.  Now the last T2 tanker, the USNS Mission Santa Ynez, is soon to be on her way from San Fransisco to a scrapyard in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/t2tanker.jpg)They were the largest Navy oilers of their day and nearly 500 of them were built between 1940 and 1945.  Now the last [T2 tanker](http://www.t2tanker.org/), the *[USNS Mission Santa Ynez](http://en.wikipedia.org/wiki/USNS_Mission_Santa_Ynez_\(T-AO-134\))*, is soon to be on her way from San Fransisco to a scrapyard in Beaumont.  From the [Maritime Blog](http://themaritimeblog.com/1923/the-last-t-2-tanker).  Thanks to [Dave Shirlaw](http://www.seawaves.com/) for pointing it out.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/t2tanker.jpg)They were the largest Navy oilers of their day and nearly 500 of them were built between 1940 and 1945.  Now the last [T2 tanker](http://www.t2tanker.org/), the *[USNS Mission Santa Ynez](http://en.wikipedia.org/wiki/USNS_Mission_Santa_Ynez_\(T-AO-134\))*, is soon to be on her way from San Fransisco to a scrapyard in Beaumont.  From the [Maritime Blog](http://themaritimeblog.com/1923/the-last-t-2-tanker).  Thanks to [Dave Shirlaw](http://www.seawaves.com/) for pointing it out.
 
 [The last T-2 tanker](http://themaritimeblog.com/1923/the-last-t-2-tanker)  
   

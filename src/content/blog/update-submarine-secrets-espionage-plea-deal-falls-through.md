@@ -17,12 +17,12 @@ tags:
   - "reactors"
   - "US Navy"
   - "Virginia-class submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/virginiaclasssub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/virginiaclasssub.jpg"
 author: "Rick Spilman"
 description: "The Washington Post reports that a federal judge rejected plea bargains for a Navy engineer and his wife who allegedly tried to sell military secrets, saying the prison terms called for by the deals were too lenient for a couple … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/virginiaclasssub.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/virginiaclasssub.jpg)
 
 Virginia Class Submarine
 

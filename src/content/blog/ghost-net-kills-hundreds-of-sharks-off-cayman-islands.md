@@ -10,12 +10,12 @@ tags:
   - "Cayman Islands"
   - "Ghost Net"
   - "Sharks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/ghostsnets.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ghostsnets.jpg"
 author: "Rick Spilman"
 description: "Yahoo recently reported that a group of divers happened upon a gruesome sight in the Cayman Islands — hundreds of decomposing sharks and other sea creatures tangled up in a floating \"ghost net.\" Dominick Martin-Mayes, a 27-year-old fisherman and diving … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/ghostsnets.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ghostsnets.jpg)
 
 Ghost nets — Photo: The Ocean Cleanup
 

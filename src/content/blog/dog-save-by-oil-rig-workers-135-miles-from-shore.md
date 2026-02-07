@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Four workers on a drilling rig 135 miles off the coast of Thailand saw something completely unexpected in the ocean swimming toward the rig — a small brown dog.  The dog successfully climbed onto a partially submerged strut on the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/rescuedog.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/rescuedog.jpg)
 
 Photo: Facebook/@watchdogthailandpage
 

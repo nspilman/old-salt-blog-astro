@@ -11,12 +11,12 @@ tags:
   - "Iran"
   - "Nimitz-class aircraft carrier"
   - "scaled-down mockup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/iraniancarrier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/iraniancarrier.jpg"
 author: "Rick Spilman"
 description: "This seems like a good story for a Monday. Forbes reports that Iran accidentally sank its fake aircraft carrier and did so in a very inconvenient place.  The \"fake carrier\" is actually a targeting barge, a scaled-down mockup of a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/iraniancarrier.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/iraniancarrier.jpg)
 
 Iranian “aircraft carrier” before capsizing
 

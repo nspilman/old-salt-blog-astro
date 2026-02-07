@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The times are changing. No news there. Rather than welcoming the sailors and marines on the docks, some New Yorkers are reaching out to sailors during Fleet Week using social networking.  Some sailors and marines are connecting with New Yorkers the same way.  Craigslist seems … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/alg_uss_new_york.jpg)The times are changing. No news there. Rather than welcoming the sailors and marines on the docks, some New Yorkers are reaching out to sailors during Fleet Week using social networking.  Some sailors and marines are connecting with New Yorkers the same way.  Craigslist seems a particularly popular way to make connections.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/alg_uss_new_york.jpg)The times are changing. No news there. Rather than welcoming the sailors and marines on the docks, some New Yorkers are reaching out to sailors during Fleet Week using social networking.  Some sailors and marines are connecting with New Yorkers the same way.  Craigslist seems a particularly popular way to make connections.
 
 [Fleet Week 2011: Navy sailors and Marines connect with New Yorkers on Craigslist](http://www.nydailynews.com/lifestyle/2011/05/27/2011-05-27_god_bless_america_craigslist_welcomes_fleet_week_with_patriotism_and_perversion.html#ixzz1NZzwr14b)  
   

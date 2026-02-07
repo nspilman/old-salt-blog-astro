@@ -15,12 +15,12 @@ tags:
   - "Philadelphia"
   - "SS United States"
   - "SS United States Conservancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/ssus-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/ssus-1.jpg"
 author: "Rick Spilman"
 description: "The SS United States is a ship from another era. One of the last great ocean liners, very different from modern cruise ships, she was designed to carry passengers across oceans.  On her maiden voyage in 1952, she set speed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/ssus-1.jpg)The [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) is a ship from another era. One of the last great ocean liners, very different from modern cruise ships, she was designed to carry passengers across oceans.  On her maiden voyage in 1952, she set speed records crossing the Atlantic in both directions, earning the coveted [Blue Riband](https://en.wikipedia.org/wiki/Blue_Riband).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/ssus-1.jpg)The [SS *United States*](https://en.wikipedia.org/wiki/SS_United_States) is a ship from another era. One of the last great ocean liners, very different from modern cruise ships, she was designed to carry passengers across oceans.  On her maiden voyage in 1952, she set speed records crossing the Atlantic in both directions, earning the coveted [Blue Riband](https://en.wikipedia.org/wiki/Blue_Riband).
 
 Nevertheless, from the start, her days in liner service were numbered. Only five years after entering service, Boeing introduced the [Model 707](https://en.wikipedia.org/wiki/Boeing_707), the first widely adopted long-range commercial jetliner. The 707 ushered in the [Jet Age](https://en.wikipedia.org/wiki/Jet_Age) and marked the end of the [Golden age of ocean liners](https://www.throughouthistory.com/?p=416).
 

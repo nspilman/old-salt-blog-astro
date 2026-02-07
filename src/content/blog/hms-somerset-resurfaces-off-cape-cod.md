@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "In his poem, The Midnight Ride of Paul Revere, Henry Wadsworth Longfellow described HMS Somersett on the night of April 18, 1775: Just as the moon rose over the bay, Where swinging wide at her moorings lay The Somerset, British man-of-war; … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/somersett.jpg)In his poem, *[The Midnight Ride of Paul Revere](http://www.nationalcenter.org/PaulRevere'sRide.html)*, Henry Wadsworth Longfellow described *[HMS Somersett](http://en.wikipedia.org/wiki/HMS_Somerset_\(1748\))* on the night of April 18, 1775:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/somersett.jpg)In his poem, *[The Midnight Ride of Paul Revere](http://www.nationalcenter.org/PaulRevere'sRide.html)*, Henry Wadsworth Longfellow described *[HMS Somersett](http://en.wikipedia.org/wiki/HMS_Somerset_\(1748\))* on the night of April 18, 1775:
 
 *Just as the moon rose over the bay,  
 Where swinging wide at her moorings lay  

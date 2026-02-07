@@ -13,12 +13,12 @@ tags:
   - "pilot whales"
   - "Scottish Marine Animal Stranding Scheme"
   - "Traigh Mhor beach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/stranded-pilotw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/stranded-pilotw.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that an entire pod of 55 pilot whales died after a mass stranding on a beach in the Outer Hebrides. Only 15 were alive after they washed onto Traigh Mhor beach at North Tolsta on the Isle … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/stranded-pilotw.jpg)The [BBC](https://www.bbc.com/news/uk-scotland-highlands-islands-66215683) reports that an entire pod of 55 pilot whales died after a mass stranding on a beach in the Outer Hebrides. Only 15 were alive after they washed onto Traigh Mhor beach at North Tolsta on the [Isle of Lewis](https://en.wikipedia.org/wiki/Isle_of_Lewis) at about 07:00 on Sunday morning.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/stranded-pilotw.jpg)The [BBC](https://www.bbc.com/news/uk-scotland-highlands-islands-66215683) reports that an entire pod of 55 pilot whales died after a mass stranding on a beach in the Outer Hebrides. Only 15 were alive after they washed onto Traigh Mhor beach at North Tolsta on the [Isle of Lewis](https://en.wikipedia.org/wiki/Isle_of_Lewis) at about 07:00 on Sunday morning.
 
 The marine charity [British Divers Marine Life Rescue](https://bdmlr.org.uk/) (BDMLR) attempted to refloat one of the more active whales but it was later found restranded farther down the beach.
 

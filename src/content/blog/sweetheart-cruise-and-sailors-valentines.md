@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Museums on two coasts have special Valentine’s Days events planned for sailors.  The Penobscot Marine Museum in Searsport, Maine is offering a sailor’s valentine workshop for adults on Saturday, Feb. 12, just in time for Valentine’s Day.    In San … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/sweetHeartSail.jpg)Museums on two coasts have special Valentine’s Days events planned for sailors.  The [Penobscot Marine Museum](http://www.penobscotmarinemuseum.org/) in Searsport, Maine is offering a sailor’s valentine workshop for adults on Saturday, Feb. 12, just in time for Valentine’s Day.    In San Diego’s warmer climes, the [Maritime Museum of San Diego](http://www.sdmaritime.org/) is offering [sweetheart cruise](http://www.sdmaritime.org/sweetheart-sail/) on the *[Californian](http://www.sdmaritime.org/californian/)*, the state’s official tall ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/sweetHeartSail.jpg)Museums on two coasts have special Valentine’s Days events planned for sailors.  The [Penobscot Marine Museum](http://www.penobscotmarinemuseum.org/) in Searsport, Maine is offering a sailor’s valentine workshop for adults on Saturday, Feb. 12, just in time for Valentine’s Day.    In San Diego’s warmer climes, the [Maritime Museum of San Diego](http://www.sdmaritime.org/) is offering [sweetheart cruise](http://www.sdmaritime.org/sweetheart-sail/) on the *[Californian](http://www.sdmaritime.org/californian/)*, the state’s official tall ship.
 
 [San Diego: Tall ship offers ‘Sweetheart Sail’ for Valentine’s Day](http://www.chicagotribune.com/travel/la-trb-sweetheart-sailing-20110118,0,5966191.story)  
   

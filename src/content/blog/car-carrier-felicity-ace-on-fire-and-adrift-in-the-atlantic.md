@@ -18,12 +18,12 @@ tags:
   - "Porsche"
   - "Portuguese Navy"
   - "VW"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/felicityace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/felicityace.jpg"
 author: "Rick Spilman"
 description: "The car carrier Felicity Ace caught fire yesterday in the Atlantic Ocean, 90 miles southwest of the Azores. The Portuguese Navy and four merchant ships in the area responded to the car carrier’s distress call. The crew of 22 were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/felicityace.jpg)The car carrier *[Felicity Ace](https://www.fleetmon.com/maritime-news/2022/37269/mol-car-carrier-fire-abandoned-atlantic/)* caught fire yesterday in the Atlantic Ocean, 90 miles southwest of the Azores. The Portuguese Navy and four merchant ships in the area responded to the car carrier’s distress call. The crew of 22 were all safely evacuated and transported by helicopter to Faial island. The ship is now adrift and on fire, awaiting salvage tugs. No details are currently available as to the cause of the fire, other than that it broke out one of the ship’s cargo decks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/felicityace.jpg)The car carrier *[Felicity Ace](https://www.fleetmon.com/maritime-news/2022/37269/mol-car-carrier-fire-abandoned-atlantic/)* caught fire yesterday in the Atlantic Ocean, 90 miles southwest of the Azores. The Portuguese Navy and four merchant ships in the area responded to the car carrier’s distress call. The crew of 22 were all safely evacuated and transported by helicopter to Faial island. The ship is now adrift and on fire, awaiting salvage tugs. No details are currently available as to the cause of the fire, other than that it broke out one of the ship’s cargo decks.
 
 The *Felicity Ace* had departed from the port in Emden, Germany on February 10, carrying vehicles from a number of Volkswagen Auto Group brands, including Porsche, Bentley, Audi, and VW. The ship was originally expected to arrive at Davisville, Rhode Island on the morning of February 23.
 

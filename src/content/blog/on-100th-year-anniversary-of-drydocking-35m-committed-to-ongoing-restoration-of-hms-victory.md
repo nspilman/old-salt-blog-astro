@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "One hundred years ago today, on January 12, 1922, Nelson’s flagship at the Battle of Trafalgar, HMS Victory was moved to Drydock No. 2 in Portsmouth Historic Dockyard for restoration and preservation. In honor of the anniversary, it was announced … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/victory1927.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/victory1927.jpg)
 
 HMS Victory in dry dock c1926 or 1927 (National Museum of the Royal Navy/PA)
 

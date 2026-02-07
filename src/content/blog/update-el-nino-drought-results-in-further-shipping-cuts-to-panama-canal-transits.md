@@ -14,12 +14,12 @@ tags:
   - "Panama Canal"
   - "Panama Canal Authority"
   - "transit capacity"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/panamacanaldrought.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/panamacanaldrought.jpg"
 author: "Rick Spilman"
 description: "In August, we posted Panamax Meets Pana-Drought — Drought Restrictions In Canal Cause Delays and 200 Ship Backlog. A record drought associated with the naturally occurring El Nino climate pattern has resulted in one of the country’s driest years in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/panamacanaldrought.jpg)In August, we posted [Panamax Meets Pana-Drought — Drought Restrictions In Canal Cause Delays and 200 Ship Backlog](https://www.oldsaltblog.com/2023/08/panamax-meets-pana-drought-drought-restrictions-in-canal-cause-delays-and-200-ship-backlog/). A record drought associated with the naturally occurring El Nino climate pattern has resulted in one of the country’s driest years in over 70 years. In July, the Panama Canal Authority (ACP) reduced the average daily transit capacity in the canal to 32 vessels per day from 38.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/panamacanaldrought.jpg)In August, we posted [Panamax Meets Pana-Drought — Drought Restrictions In Canal Cause Delays and 200 Ship Backlog](https://www.oldsaltblog.com/2023/08/panamax-meets-pana-drought-drought-restrictions-in-canal-cause-delays-and-200-ship-backlog/). A record drought associated with the naturally occurring El Nino climate pattern has resulted in one of the country’s driest years in over 70 years. In July, the Panama Canal Authority (ACP) reduced the average daily transit capacity in the canal to 32 vessels per day from 38.
 
 Now, transit slots will be cut to 25 per day starting November 3 and will be gradually reduced further over the next three months to 18 slots on February 1, The cuts are anticipated to only worsen supply chain shortages. The Panama Canal handles an [estimated 5 percent](https://idbinvest.org/en/blog/financial-institutions/unleashing-certainty-catalytic-effects-panama-canal-expansion) of seaborne trade.
 

@@ -14,12 +14,12 @@ tags:
   - "Luis Lacalle Pou"
   - "Nazi swastika"
   - "Uruguay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/nazieagle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/nazieagle.jpg"
 author: "Rick Spilman"
 description: "The Battle of the River Plate, fought in the South Atlantic in December 1939 was the first naval battle of the Second World War and ended with the scuttling of the German pocket battleship Admiral Graf Spee. While the battle … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/nazieagle.jpg)The [Battle of the River Plate](https://en.wikipedia.org/wiki/Battle_of_the_River_Plate), fought in the South Atlantic in December 1939 was the first naval battle of the Second World War and ended with the scuttling of the German pocket battleship [*Admiral Graf Spee*](https://en.wikipedia.org/wiki/German_cruiser_Admiral_Graf_Spee). While the battle itself may have ended 84 years ago, the conflict over the fate of the 770-pound bronze eagle, holding a Nazi swastika in its talons, once mounted on the stern of the ship, continues on unabated.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/nazieagle.jpg)The [Battle of the River Plate](https://en.wikipedia.org/wiki/Battle_of_the_River_Plate), fought in the South Atlantic in December 1939 was the first naval battle of the Second World War and ended with the scuttling of the German pocket battleship [*Admiral Graf Spee*](https://en.wikipedia.org/wiki/German_cruiser_Admiral_Graf_Spee). While the battle itself may have ended 84 years ago, the conflict over the fate of the 770-pound bronze eagle, holding a Nazi swastika in its talons, once mounted on the stern of the ship, continues on unabated.
 
 There had been a decades-long [three-way legal battle](https://www.oldsaltblog.com/2010/03/still-fighting-over-the-battleship-graf-spee/) between an Uruguayan businessman who salvaged the eagle, the Uruguayan government, and the government of Germany, which has been concerned that the eagle and swastika will fall into the hands of Nazi sympathizers.
 

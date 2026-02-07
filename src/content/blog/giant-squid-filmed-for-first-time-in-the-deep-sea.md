@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "They are the subject of myth and legend, the giant squid who battle massive sperms whales and leave battle scars on the whales’ flesh. Now for the first time in history, a living giant squid has been recorded in its … Continue reading &rarr;"
 ---
 
-![giantsquid1](http://www.oldsaltblog.com/wp-content/uploads/2013/01/giantsquid1.jpg)They are the subject of myth and legend, the giant squid who battle massive sperms whales and leave battle scars on the whales’ flesh. Now for the first time in history, a living giant squid has been recorded in its own habitat, nearly a third of a mile below the surface. Dead giant squids have been found washed up on shore or caught in nets but this is the first time that one has been seen live on video. Thanks to [Alaric Bond](http://www.alaricbond.com/) for passing the news along.
+![giantsquid1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/giantsquid1.jpg)They are the subject of myth and legend, the giant squid who battle massive sperms whales and leave battle scars on the whales’ flesh. Now for the first time in history, a living giant squid has been recorded in its own habitat, nearly a third of a mile below the surface. Dead giant squids have been found washed up on shore or caught in nets but this is the first time that one has been seen live on video. Thanks to [Alaric Bond](http://www.alaricbond.com/) for passing the news along.
 
 [Giant squid filmed alive in deep sea for first time](http://www.cbsnews.com/8301-205_162-57562424/giant-squid-filmed-alive-in-deep-sea-for-first-time/)
 

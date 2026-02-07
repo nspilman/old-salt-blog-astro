@@ -11,7 +11,7 @@ tags:
   - "Gray's Harbor Historical Seaport"
   - "Hawaiian Chieftain"
   - "Lady Washington"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/graysharb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/graysharb.jpg"
 author: "Rick Spilman"
 description: "Here is the very nicely done 2018 promotional video for Grays Harbor Historical Seaport, produced by Leftcoast Media House.  Grays Harbor, Washington is homeport to the West Coast’s tall ships, Lady Washington and Hawaiian Chieftain. Grays Harbor Historical Seaport: Learn. Sail. Discover. from … Continue reading &rarr;"
 ---

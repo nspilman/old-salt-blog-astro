@@ -14,12 +14,12 @@ tags:
   - "Rockland harbor"
   - "Sam Sikkema"
   - "Victory Chimes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/VictoryChimes2c.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/VictoryChimes2c.jpg"
 author: "Alaric Bond"
 description: "Last Wednesday, the 123-year-old Victory Chimes was towed past the Rockland Harbor breakwater, in all likelihood, ending her long and storied carrier as a commercial sailing vessel. This Saturday, she arrived at Pier 25 in Manhattan on the Hudson River, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/VictoryChimes2c.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/VictoryChimes2c.jpg)
 
 Victory Chimes Arrives at Pier 25 Photo: Mary Habstritt
 

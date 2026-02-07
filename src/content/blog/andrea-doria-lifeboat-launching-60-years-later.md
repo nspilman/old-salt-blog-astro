@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "On July 25, 1956, the Italian Line passenger liner Andrea Doria was approaching the coast of Nantucket, Massachusetts, bound for New York City, when she collided with the eastbound MS Stockholm of the Swedish American Line and sank. Now 60 … Continue reading &rarr;"
 ---
 
-![adlifeboat1](http://www.oldsaltblog.com/wp-content/uploads/2016/07/adlifeboat1.jpg)On July 25, 1956, the Italian Line passenger liner *[Andrea Doria](https://en.wikipedia.org/wiki/SS_Andrea_Doria)* was approaching the coast of Nantucket, Massachusetts, bound for New York City, when she collided with the eastbound MS *Stockholm* of the Swedish American Line and sank. Now 60 years later, the Andrea Doria’s newly restored Lifeboat #1 will be launched from the waterfront at the SUNY Maritime College, tomorrow, Saturday, June 30th. The public is invited to attend and willing participants will be able to row the lifeboat out into Long Island Sound for a short excursion.
+![adlifeboat1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/adlifeboat1.jpg)On July 25, 1956, the Italian Line passenger liner *[Andrea Doria](https://en.wikipedia.org/wiki/SS_Andrea_Doria)* was approaching the coast of Nantucket, Massachusetts, bound for New York City, when she collided with the eastbound MS *Stockholm* of the Swedish American Line and sank. Now 60 years later, the Andrea Doria’s newly restored Lifeboat #1 will be launched from the waterfront at the SUNY Maritime College, tomorrow, Saturday, June 30th. The public is invited to attend and willing participants will be able to row the lifeboat out into Long Island Sound for a short excursion.
 
 From the [National Maritime Historical Society](https://www.seahistory.org/) press release:
 

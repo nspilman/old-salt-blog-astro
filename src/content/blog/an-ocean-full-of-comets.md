@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Where did our oceans come from? Why is over 70% the earth’s surface covered by water? The answer may be in the dirty celestial snow balls we call comets. Scientists believe that the earth was originally dry and hot.  Comets … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/sci_comets_1019.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/sci_comets_1019.jpg)
 
 Image: NASA
 

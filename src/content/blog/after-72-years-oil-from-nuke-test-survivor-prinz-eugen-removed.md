@@ -13,12 +13,12 @@ tags:
   - "German heavy cruiser"
   - "Kwajalein Atoll"
   - "Prinz Eugen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/prinzeugin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/prinzeugin.jpg"
 author: "Rick Spilman"
 description: "Recently, teams of Navy specialists have successfully removed 230,000 gallons of fuel, or close to 800 tons, still aboard the Prinz Eugen when it sank at Kwajalein, 72 years ago. The bottom of the lagoon at the Kwajalein Atoll is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/prinzeugin.jpg)Recently, teams of [Navy specialists have successfully removed](https://www.warhistoryonline.com/instant-articles/us-army-new-uniforms.html) 230,000 gallons of fuel, or close to 800 tons, still aboard the [*Prinz Eugen*](https://en.wikipedia.org/wiki/German_cruiser_Prinz_Eugen) when it sank at Kwajalein, 72 years ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/prinzeugin.jpg)Recently, teams of [Navy specialists have successfully removed](https://www.warhistoryonline.com/instant-articles/us-army-new-uniforms.html) 230,000 gallons of fuel, or close to 800 tons, still aboard the [*Prinz Eugen*](https://en.wikipedia.org/wiki/German_cruiser_Prinz_Eugen) when it sank at Kwajalein, 72 years ago.
 
 The bottom of the lagoon at the [Kwajalein Atoll](https://en.wikipedia.org/wiki/Kwajalein_Atoll) is littered with dozens of sunken ships. Most are from the [Battle of Kwajalein](https://en.wikipedia.org/wiki/Battle_of_Kwajalein) in 1944, during World War II. One ship, the German heavy cruiser *Prinz Eugen*, was a survivor of not one, but two nuclear weapons tests conducted by the United States at Bikini Atoll in the Marshall Islands in 1946. 
 

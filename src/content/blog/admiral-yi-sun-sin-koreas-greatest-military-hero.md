@@ -17,12 +17,12 @@ tags:
   - "kobukson"
   - "Korean Navy"
   - "turtle ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/admiral-Yi.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/admiral-Yi.jpg"
 author: "Rick Spilman"
 description: "Admiral Yi Sun-sin died 425 years ago today, in his final victory against the Japanese on behalf of the Joseon dynasty. He died of a gunshot wound at the Battle of Noryang on December 16, 1598, the closing battle of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/admiral-Yi.jpg)[Admiral Yi Sun-sin](https://www.historynet.com/yi-sun-sin/) died 425 years ago today, in his final victory against the Japanese on behalf of the Joseon dynasty. He died of a gunshot wound at the [Battle of Noryang](https://en.wikipedia.org/wiki/Battle_of_Noryang) on December 16, 1598, the closing battle of the Imjin War.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/admiral-Yi.jpg)[Admiral Yi Sun-sin](https://www.historynet.com/yi-sun-sin/) died 425 years ago today, in his final victory against the Japanese on behalf of the Joseon dynasty. He died of a gunshot wound at the [Battle of Noryang](https://en.wikipedia.org/wiki/Battle_of_Noryang) on December 16, 1598, the closing battle of the Imjin War.
 
 While the Japanese largely triumphed on shore in their [twin invasions of Korea](https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_\(1592%E2%80%931598\)), Admiral Yi, in command of the Korean navy, cut Japanese supply lines and denied them access to the Yellow Sea. He wrote, “No invader from the sea can obtain final victory unless he can completely control the sea.” Despite winning nearly every land battle, the inability to supply their troops meant that the Japanese invasion was doomed to fail.
 

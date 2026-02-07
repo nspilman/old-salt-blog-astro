@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "If you are in the vicinity of New York harbor on this Sunday, October 9th, you may wish to check out the Red Hook Open Studios (RHOS) concert featuring Shepup & friends on Portside NewYork‘s historic tanker Mary A. Whalen. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/marywhalenshepup.jpg)If you are in the vicinity of New York harbor on this Sunday, October 9th, you may wish to check out the [Red Hook Open Studios (RHOS) concert](https://portsidenewyork.org/calendar/2022/9/12/red-hook-open-studios-rhos-concert-shepup-amp-friends) featuring Shepup & friends on [Portside NewYork](https://portsidenewyork.org/)‘s historic tanker [*Mary A. Whalen*](https://portsidenewyork.org/mary-a-whalen). The concert will be held from 5:30 PM to 11:00 PM on the ship at Pier 11, Atlantic Basin, Clinton Wharf Brooklyn, NY 11231.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/marywhalenshepup.jpg)If you are in the vicinity of New York harbor on this Sunday, October 9th, you may wish to check out the [Red Hook Open Studios (RHOS) concert](https://portsidenewyork.org/calendar/2022/9/12/red-hook-open-studios-rhos-concert-shepup-amp-friends) featuring Shepup & friends on [Portside NewYork](https://portsidenewyork.org/)‘s historic tanker [*Mary A. Whalen*](https://portsidenewyork.org/mary-a-whalen). The concert will be held from 5:30 PM to 11:00 PM on the ship at Pier 11, Atlantic Basin, Clinton Wharf Brooklyn, NY 11231.
 
 From [Portside NewYork’](https://portsidenewyork.org/calendar/2022/9/12/red-hook-open-studios-rhos-concert-shepup-amp-friends)s press release:
 

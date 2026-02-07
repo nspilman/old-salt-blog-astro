@@ -14,12 +14,12 @@ tags:
   - "Malta"
   - "Swedish East India Company ship"
   - "Valletta"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/Goterborg2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/Goterborg2.jpg"
 author: "Rick Spilman"
 description: "The world’s largest ocean-going wooden sailing ship, a replica of an 18th-century Swedish East India Company ship, Götheborg of Sweden, arrived in Valletta, Malta this week. The Götheborg is on its way to Asia, and Malta is the 12th stopover … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/Goterborg2.jpg)The world’s largest ocean-going wooden sailing ship, a replica of an 18th-century Swedish East India Company ship, [*Götheborg of Sweden*](https://www.gotheborg.se/), [arrived in Valletta, Malta this week](https://lovinmalta.com/news/worlds-largest-wooden-sailing-ship-arrives-in-malta-tomorrow/). The Götheborg is on its way to Asia, and Malta is the 12th stopover on the [Asia Expedition 2022/2023](https://www.oldsaltblog.com/2021/10/swedish-east-indiaman-gotheborg-a-new-journey-begins-asia-expedition/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/Goterborg2.jpg)The world’s largest ocean-going wooden sailing ship, a replica of an 18th-century Swedish East India Company ship, [*Götheborg of Sweden*](https://www.gotheborg.se/), [arrived in Valletta, Malta this week](https://lovinmalta.com/news/worlds-largest-wooden-sailing-ship-arrives-in-malta-tomorrow/). The Götheborg is on its way to Asia, and Malta is the 12th stopover on the [Asia Expedition 2022/2023](https://www.oldsaltblog.com/2021/10/swedish-east-indiaman-gotheborg-a-new-journey-begins-asia-expedition/).
 
 The ship, in Valletta from 14th to 18th October, is moored at Valletta Waterfront and open to visitors during the stopover.
 

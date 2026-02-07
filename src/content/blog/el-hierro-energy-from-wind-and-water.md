@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "El Hierro is the easternmost of Spain’s Canary Islands, 750 miles from the Spanish mainland.  The island itself has no energy resources beyond wind and water.  There is now a plan to make the island wholly energy independent by linking wind and hydro-power … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/windmillhierro.jpg)[El Hierro](http://en.wikipedia.org/wiki/El_Hierro) is the easternmost of Spain’s Canary Islands, 750 miles from the Spanish mainland.  The island itself has no energy resources beyond wind and water.  There is now a plan to make the island wholly energy independent by linking wind and hydro-power together to provide a constant and reliable supply of electricity.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/windmillhierro.jpg)[El Hierro](http://en.wikipedia.org/wiki/El_Hierro) is the easternmost of Spain’s Canary Islands, 750 miles from the Spanish mainland.  The island itself has no energy resources beyond wind and water.  There is now a plan to make the island wholly energy independent by linking wind and hydro-power together to provide a constant and reliable supply of electricity.
 
 [A Spanish Island’s Quest to Be the Greenest Place on Earth](http://www.time.com/time/world/article/0,8599,2067716,00.html#ixzz1L9UIzsMC)  
   

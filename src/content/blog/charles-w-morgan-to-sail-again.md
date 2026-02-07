@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Intriguing news about Charles W. Morgan, the last American sailing whale ship.  From Boston.com Mystic Seaport officials are now considering whether to make the ship seaworthy again so that it can tour New England’s coastline in the summer of 2012, … Continue reading &rarr;"
 ---
 
-![charles_w_morgan](http://www.oldsaltblog.com/wp-content/uploads/2009/09/charles_w_morgan.jpg)Intriguing news about *[Charles W. Morgan](http://en.wikipedia.org/wiki/Charles_W._Morgan_\(ship\))*, the last American sailing whale ship.  From [Boston.com](http://www.boston.com/news/local/connecticut/articles/2009/08/10/mystic_seaport_restoration_may_allow_the_charles_w_morgan_to_sail_again/)
+![charles_w_morgan](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/charles_w_morgan.jpg)Intriguing news about *[Charles W. Morgan](http://en.wikipedia.org/wiki/Charles_W._Morgan_\(ship\))*, the last American sailing whale ship.  From [Boston.com](http://www.boston.com/news/local/connecticut/articles/2009/08/10/mystic_seaport_restoration_may_allow_the_charles_w_morgan_to_sail_again/)
 
 *[Mystic Seaport](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=210246F6-65B8-D398-7E44B55317D4FA73) officials are now considering whether to make the ship seaworthy again so that it can tour New England’s coastline in the summer of 2012, with stops in New London, Newport, R.I., Provincetown, Mass., and New Bedford, Mass. The Morgan is undergoing a $6 million restoration at the museum, which has a working shipyard. Putting air in the sails would cost an additional $2 million. The idea has been tossed around for at least a decade, but last May, White and other officials started giving it serious consideration.*
 

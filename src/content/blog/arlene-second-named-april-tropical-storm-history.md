@@ -9,12 +9,12 @@ categories:
 tags:
   - "Hurricane season"
   - "Tropical Storm Arlene"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/arleneb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/arleneb.jpg"
 author: "Rick Spilman"
 description: "Tropical Storm Arlene has formed in the mid-Atlantic between Bermuda and the Azores, becoming only the second named tropical storm in history to form in the month of April. The only previous tropical to form so early was Anna in … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/arleneb.jpg)Tropical Storm Arlene](https://www.usatoday.com/story/weather/2017/04/20/tropical-storm-arlene-forms-atlantic-no-threat-land/100713824/) has formed in the mid-Atlantic between Bermuda and the Azores, becoming only the second named tropical storm in history to form in the month of April. The only previous tropical to form so early was Anna in 2003.  Arlene’s maximum sustained winds were near 45 mph, with higher gusts, the [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/202031.shtml?) said. It was located about 815 miles west of the Azores. The system poses no threat to land and is forecast to dissipate later today. Hurricane season officially starts on June 1.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/arleneb.jpg)Tropical Storm Arlene](https://www.usatoday.com/story/weather/2017/04/20/tropical-storm-arlene-forms-atlantic-no-threat-land/100713824/) has formed in the mid-Atlantic between Bermuda and the Azores, becoming only the second named tropical storm in history to form in the month of April. The only previous tropical to form so early was Anna in 2003.  Arlene’s maximum sustained winds were near 45 mph, with higher gusts, the [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/202031.shtml?) said. It was located about 815 miles west of the Azores. The system poses no threat to land and is forecast to dissipate later today. Hurricane season officially starts on June 1.
 
 What does the early tropical storm activity mean for the hurricane season? So far, most models are predicting a slightly less active hurricane season than last year. The resumption of El Nino in the Pacific Ocean may help to modestly decrease Atlantic hurricane activity. [AccuWeather](http://www.accuweather.com/en/weather-news/2017-atlantic-hurricane-forecast-possible-el-nino-to-limit-development-of-storms/70001271) meteorologists are predicting 10 named storms, five of which are projected to become hurricanes and three of which may become major hurricanes.
 

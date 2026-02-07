@@ -14,7 +14,7 @@ tags:
   - "Jet Pack"
   - "new york harbor"
   - "Royal Navy flagship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/qejetpacks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/qejetpacks.jpg"
 author: "Rick Spilman"
 description: "During her recent visit to New York to host a two-day Anglo-American defense conference, the Royal Navy flagship HMS Queen Elizabeth was used in a training demonstration in the harbor using jet packs. The BBC reports that the Sussex-based jet … Continue reading &rarr;"
 ---

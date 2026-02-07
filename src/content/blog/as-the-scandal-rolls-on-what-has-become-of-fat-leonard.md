@@ -10,12 +10,12 @@ tags:
   - "Fat Leonard"
   - "scandal"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
 description: "Five years ago, Leonard Glenn Francis, aka \"Fat Leonard\", was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg)Five years ago, [Leonard Glenn Francis, aka “Fat Leonard”](https://en.wikipedia.org/wiki/Fat_Leonard_scandal), was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the end of the Cold War. The 54-year-old, 350-pound Malaysian national, ran Glenn Defense Marine Asia (GDMA) and two decades had been bribing US Navy officials with cash, lavish gifts, entertainment and prostitutes in exchange for information on ship port calls, bidding information, and for officials looking the other way at GDMA overbilling. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg)Five years ago, [Leonard Glenn Francis, aka “Fat Leonard”](https://en.wikipedia.org/wiki/Fat_Leonard_scandal), was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the end of the Cold War. The 54-year-old, 350-pound Malaysian national, ran Glenn Defense Marine Asia (GDMA) and two decades had been bribing US Navy officials with cash, lavish gifts, entertainment and prostitutes in exchange for information on ship port calls, bidding information, and for officials looking the other way at GDMA overbilling. 
 
 So far, the Justice Department has filed criminal charges against 32 defendants who worked for the Navy or Glenn Defense Marine Asia. Twenty of the defendants have pleaded guilty in the scandal that cost the Navy at least $35 million. Another 550 people who had contact with Francis — including about 60 admirals — are under investigation.
 

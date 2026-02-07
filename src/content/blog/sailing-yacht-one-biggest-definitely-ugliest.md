@@ -12,14 +12,14 @@ tags:
   - "Peking"
   - "Royal Clipper"
   - "Sailing Yacht A"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/sya1b.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/sya1b.jpg"
 author: "Rick Spilman"
 description: "Russian billionaire Andrey Melnichenko’s new sail-assisted motor-yacht, named simply, Sailing Yacht A, is undergoing sea trials. The $450 million yacht has a number of superlatives attached to it. At 12,700 tonnes, it is the largest sailing yacht in the world … Continue reading &rarr;"
 ---
 
-![sya2b](http://www.oldsaltblog.com/wp-content/uploads/2016/10/sya2b.jpg)Russian billionaire Andrey Melnichenko’s new sail-assisted motor-yacht, named simply, [Sailing Yacht *A*](https://en.wikipedia.org/wiki/A_\(sailing_yacht\)), is [undergoing sea trials](http://www.dailymail.co.uk/news/article-3840990/330m-superyacht-owned-Russian-billionaire-sails-test.html). The $450 million yacht has a number of superlatives attached to it. At 12,700 tonnes, it is the largest sailing yacht in the world by gross tonnage. At 469 feet, she is the longest sailing yacht in existence. Its 300 foot tall carbon fiber masts are the largest composite freestanding structures in the world. And while not a superlative exactly, the yacht — a slab sided, eight decked, angular monstrosity — does qualify as the ugliest sailing vessel in the world.
+![sya2b](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/sya2b.jpg)Russian billionaire Andrey Melnichenko’s new sail-assisted motor-yacht, named simply, [Sailing Yacht *A*](https://en.wikipedia.org/wiki/A_\(sailing_yacht\)), is [undergoing sea trials](http://www.dailymail.co.uk/news/article-3840990/330m-superyacht-owned-Russian-billionaire-sails-test.html). The $450 million yacht has a number of superlatives attached to it. At 12,700 tonnes, it is the largest sailing yacht in the world by gross tonnage. At 469 feet, she is the longest sailing yacht in existence. Its 300 foot tall carbon fiber masts are the largest composite freestanding structures in the world. And while not a superlative exactly, the yacht — a slab sided, eight decked, angular monstrosity — does qualify as the ugliest sailing vessel in the world.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/royalclipper.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/royalclipper.jpg)
 
   
 Royal Clipper

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Toward the end of September, we posted about Matson’s molasses spill in Hawaii and then the Great Boston Molasses Flood of 1919. We would be remiss if we did not also post about the London Beer Flood which occurred on … Continue reading &rarr;"
 ---
 
-![Meux’s Horse Shoe brewery, Tottenham Court Road ](http://www.oldsaltblog.com/wp-content/uploads/2013/10/meuxbwy-1830.jpg)
+![Meux’s Horse Shoe brewery, Tottenham Court Road ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/meuxbwy-1830.jpg)
 
 Meux’s Horse Shoe brewery, Tottenham Court Road
 

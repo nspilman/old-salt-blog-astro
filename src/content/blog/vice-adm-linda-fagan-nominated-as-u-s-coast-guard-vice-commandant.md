@@ -11,12 +11,12 @@ tags:
   - "U.S. Coast Guard"
   - "Vice Adm. Linda Fagan"
   - "Vice Commandant"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/admfagan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/admfagan.jpg"
 author: "Rick Spilman"
 description: "Vice Adm. Linda L. Fagan was nominated as the next Vice Commandant of the U.S. Coast Guard, the Department of Homeland Security announced on Monday. The nomination by President Biden, pending approval by the U.S. Senate, would make Fagan the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/admfagan.jpg)[Vice Adm. Linda L. Fagan](https://www.uscg.mil/Biographies/Display/Article/1391225/vice-admiral-linda-l-fagan/) was nominated as the next Vice Commandant of the U.S. Coast Guard, the Department of Homeland Security announced on Monday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/admfagan.jpg)[Vice Adm. Linda L. Fagan](https://www.uscg.mil/Biographies/Display/Article/1391225/vice-admiral-linda-l-fagan/) was nominated as the next Vice Commandant of the U.S. Coast Guard, the Department of Homeland Security announced on Monday.
 
 The nomination by President Biden, pending approval by the U.S. Senate, would make Fagan the Coast Guard’s first female four-star admiral, the branch [said in a press release](https://content.govdelivery.com/accounts/USDHSCG/bulletins/2cd64a8).
 

@@ -11,7 +11,7 @@ tags:
   - "Moroccan Fishermen"
   - "semifinals"
   - "World Cup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/mfishermen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/mfishermen.jpg"
 author: "Rick Spilman"
 description: "Morocco finished fourth in this year’s World Cup, becoming the first Arab and first African team to reach the semifinals in the international soccer tournament. Here is a short video of Moroccan fishermen at sea celebrating a team victory while … Continue reading &rarr;"
 ---

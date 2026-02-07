@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "New Celebrity Ship to Repatriate Ash-Stranded Travelers As Celebrity Cruises prepares for the launch this weekend of its brand-new Celebrity Eclipse, the line is also stepping in to help stranded travelers make their way back home. The cruise line has … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/celebrity-eclipse.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/04/celebrity-eclipse.jpg)[New Celebrity Ship to Repatriate Ash-Stranded Travelers](http://www.cruisecritic.com/news/news.cfm?ID=3817)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/celebrity-eclipse.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/celebrity-eclipse.jpg)[New Celebrity Ship to Repatriate Ash-Stranded Travelers](http://www.cruisecritic.com/news/news.cfm?ID=3817)
 
 *As* [*Celebrity Cruises*](http://www.celebritycruises.com/?CID=PS_GOOGLE_CEL_BRAND) *prepares for the launch this weekend of its brand-new* [*Celebrity Eclipse*](http://en.wikipedia.org/wiki/Celebrity_Eclipse)*, the line is also stepping in to help stranded travelers make their way back home.*
 

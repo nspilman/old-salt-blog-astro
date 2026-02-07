@@ -11,7 +11,7 @@ tags:
   - "Alfred Mylne"
   - "Scotland"
   - "yacht design"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/amclyde.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/amclyde.jpg"
 author: "Rick Spilman"
 description: "Remarkably, Scotland’s Mylne Yacht Design was founded by Alfred Mylne I in 1896 and has been in continuous operation for more than 120 years. Alfred Mylne designed over 400 yachts in his career. Here is a short video of classic … Continue reading &rarr;"
 ---

@@ -12,7 +12,7 @@ tags:
   - "Toyko"
   - "USS Hornet"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/doolittlechart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/doolittlechart.jpg"
 author: "Rick Spilman"
 description: "On April 18, 1942, sixteen B-25B Mitchell medium bombers took off from the U.S. Navy’s aircraft carrier USS Hornet deep in the Western Pacific Ocean to attack Toyko and other targets, in what would become known as the Doolittle Raid.  … Continue reading &rarr;"
 ---

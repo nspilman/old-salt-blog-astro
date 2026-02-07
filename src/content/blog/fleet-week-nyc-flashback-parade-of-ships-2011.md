@@ -9,7 +9,7 @@ tags:
   - "Fleet Week NYC"
   - "Memorial Day weekend"
   - "Parade of Ships 2011"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/fleetweek2011.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/fleetweek2011.jpg"
 author: "Rick Spilman"
 description: "This year’s Fleet Week celebrations, traditionally held around the country over the Memorial Day weekend, have been canceled due to the pandemic. So, here is a Fleet Week New York flashback, the Parade of Ships from 2011. We hope that … Continue reading &rarr;"
 ---

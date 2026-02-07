@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Tonight, the beginning of Fall will be marked by the rising of a \"Super Harvest Moon\"  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/harvest-moon.jpg)Tonight, the beginning of Fall will be marked by the rising of a “Super Harvest Moon”  accompanied by [an unusually bright planet Jupiter](http://www.oldsaltblog.com/2010/09/19/jupiter-making-closest-approach-in-nearly-50-years/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/harvest-moon.jpg)Tonight, the beginning of Fall will be marked by the rising of a “Super Harvest Moon”  accompanied by [an unusually bright planet Jupiter](http://www.oldsaltblog.com/2010/09/19/jupiter-making-closest-approach-in-nearly-50-years/).
 
 [‘Super Harvest Moon’ will usher in autumn tonight](http://hamptonroads.com/2010/09/super-harvest-moon-will-usher-autumn-tonight)
 

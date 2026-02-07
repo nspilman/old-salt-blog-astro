@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/South_Street_Seaport.jpg)Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to assist in repairing damage caused by Hurricane Sandy in 2012.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/South_Street_Seaport.jpg)Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to assist in repairing damage caused by Hurricane Sandy in 2012.
 
 “We’ve been working for more than two years to secure funding for Sandy recovery. This grant is a strong step in the right direction for the Seaport Museum,” said Captain Jonathan Boulware, the Museum’s Executive Director. “Congressman Nadler’s support of our efforts has been meaningful and we’re encouraged by this news as we undertake larger efforts to improve and expand Museum programming.”
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In the last decade, ten people off Western Australia have been attacked and killed by sharks.  All of the deaths have been attributed to attacks by great white sharks. Earlier this year, the government of Australia set out on a trial … Continue reading &rarr;"
 ---
 
-![sharkcull](http://www.oldsaltblog.com/wp-content/uploads/2014/06/sharkcull.jpg)In the last decade, ten people off Western Australia have been attacked and killed by sharks.  All of the deaths have been attributed to attacks by great white sharks. Earlier this year, the government of Australia set out on a trial program to “cull” dangerous sharks, targeting, in particular, great whites.  The initial results were not encouraging.
+![sharkcull](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/sharkcull.jpg)In the last decade, ten people off Western Australia have been attacked and killed by sharks.  All of the deaths have been attributed to attacks by great white sharks. Earlier this year, the government of Australia set out on a trial program to “cull” dangerous sharks, targeting, in particular, great whites.  The initial results were not encouraging.
 
 The three month program, which involved placing drum lines along seven of the state’s most popular beaches, [caught 170 sharks of which 50 were destroyed.](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11251771)  Of the 170 sharks caught, none were great white sharks. Tiger sharks were the most commonly caught there were also five protected makos, four of which were either killed or found already dead on the line.  All sharks killed were over 3 meters long. The cost of the program worked out to be around Au$25,000 per shark.
 

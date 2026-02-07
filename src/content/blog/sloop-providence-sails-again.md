@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Great news. The Sloop Providence, replica of the American Revolutionary sloop of the same name is sailing again after being laid up for 3 1/2 years.   She was purchased last year from the City of Providence by boat builder … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/Tall_Ship.jpg)Great news. The Sloop *Providence*, replica of the American Revolutionary sloop of the same name is sailing again after being laid up for 3 1/2 years.   She was purchased last year from the City of Providence by boat builder and captain Thorpe Leeson.   The current Sloop *Providence* dates back to 1976 and has been used in two of the ‘Pirates of the Caribbean’ movies. Over the weekends she was sailed from Providence to Newport, Rhode Island and was open for tours on Sunday at Bowen’s Wharf.   The new owners plan to employ the sloop on charters and educational missions.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Tall_Ship.jpg)Great news. The Sloop *Providence*, replica of the American Revolutionary sloop of the same name is sailing again after being laid up for 3 1/2 years.   She was purchased last year from the City of Providence by boat builder and captain Thorpe Leeson.   The current Sloop *Providence* dates back to 1976 and has been used in two of the ‘Pirates of the Caribbean’ movies. Over the weekends she was sailed from Providence to Newport, Rhode Island and was open for tours on Sunday at Bowen’s Wharf.   The new owners plan to employ the sloop on charters and educational missions.
 
 [Historic replica ship visits Newport](http://www.wpri.com/dpp/entertainment/family_fun/historic-replica-ship-visits-newport)  
   

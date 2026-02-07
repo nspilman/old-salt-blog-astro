@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "We previously posted about the Royal Navy installing Windows on submarines. We were relieved to learn that the  reference was to an a computer operating system and not panes of glass.    Then again, it appears that the late Ivar Haglund, owner … Continue reading &rarr;"
 ---
 
-![ivarssign](http://www.oldsaltblog.com/wp-content/uploads/2009/09/ivarssign.jpg)We previously posted about the [Royal Navy installing Windows on submarines](http://www.oldsaltblog.com/2009/03/14/windows-on-submarines/). We were relieved to learn that the  reference was to an a computer operating system and not panes of glass.    Then again, it appears that the late Ivar Haglund, owner of the Seattle restaurant chain, [Ivar’s Seafood](http://ivars.net/index.php), expected submarine viewers when he installed underwater billboards for submarines in Puget Sound over fifty years ago.  On the other hand, some suggest that it may all be a hoax.
+![ivarssign](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/ivarssign.jpg)We previously posted about the [Royal Navy installing Windows on submarines](http://www.oldsaltblog.com/2009/03/14/windows-on-submarines/). We were relieved to learn that the  reference was to an a computer operating system and not panes of glass.    Then again, it appears that the late Ivar Haglund, owner of the Seattle restaurant chain, [Ivar’s Seafood](http://ivars.net/index.php), expected submarine viewers when he installed underwater billboards for submarines in Puget Sound over fifty years ago.  On the other hand, some suggest that it may all be a hoax.
 
 [Is there something fishy about Ivar’s latest stunt?](http://seattletimes.nwsource.com/html/localnews/2009889864_ivar18m.html)  
   

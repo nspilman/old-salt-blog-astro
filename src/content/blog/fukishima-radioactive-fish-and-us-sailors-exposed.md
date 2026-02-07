@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The impact of  the meltdown of nuclear reactors at the Fukishima Daiichi power plant, hit by the following the Tōhoku earthquake and tsunami on 11 March 2011, is still unfolding.  Last month it was revealed that fish caught near the crippled power plant were … Continue reading &rarr;"
 ---
 
-![reagan](http://www.oldsaltblog.com/wp-content/uploads/2012/12/reagan.jpg)
+![reagan](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/reagan.jpg)
 
 Photo: Kevin B. Gray
 

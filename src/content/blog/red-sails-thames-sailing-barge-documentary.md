@@ -11,7 +11,7 @@ tags:
   - "Cambria"
   - "Red Sails"
   - "Thames sailing barge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/redsails.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/redsails.jpg"
 author: "Rick Spilman"
 description: "Red Sails is a documentary by Michael Maloney about the remarkable Thames sailing barges, which continued to ply their trade well into the 20th century before being replaced by diesel trucks. The documentary interviews bargemen about their lives aboard the … Continue reading &rarr;"
 ---

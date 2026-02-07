@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Friday, more 4,000 longshoremen walked off the job shutting down piers and container terminals in New York and New Jersey. By Saturday, the most longshoreman had returned to work. Strangely, no one seems to know why the wildcat strike … Continue reading &rarr;"
 ---
 
-![ikawalkout1](http://www.oldsaltblog.com/wp-content/uploads/2016/01/ikawalkout1.jpg)On Friday, more 4,000 longshoremen walked off the job shutting down piers and container terminals in New York and New Jersey. [By Saturday, the most longshoreman had returned to work](http://abc7ny.com/news/port-newark-port-elizabeth-longshoremen-walk-off-job-due-to-labor-dispute/1178958/). Strangely, no one seems to know why the wildcat strike took place.
+![ikawalkout1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/ikawalkout1.jpg)On Friday, more 4,000 longshoremen walked off the job shutting down piers and container terminals in New York and New Jersey. [By Saturday, the most longshoreman had returned to work](http://abc7ny.com/news/port-newark-port-elizabeth-longshoremen-walk-off-job-due-to-labor-dispute/1178958/). Strangely, no one seems to know why the wildcat strike took place.
 
 As reported by [NJ.com](http://www.nj.com/news/index.ssf/2016/01/surprise_walkout_by_ila_shuts_down_the_nj_and_ny_p.html): *“We do know it’s an illegal walk-off,” said Phoebe Sorial, general counsel for the Waterfront Commission of New York Harbor. “We did not hear about it beforehand and we don’t know why it’s happening.”*  
 

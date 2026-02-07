@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Since 1985, Max Young has sailed his Perry 50, Reflections, around the world.  He survived storm, calm, tsunami and pirates off Indonesia.  His voyage came to an end early Wednesday morning off Baja in the Pacific, 40 miles west of La Playa, Mexico, when a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/reflections.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/reflections.jpg)
 
 Reflections
 

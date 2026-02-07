@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "After 18 months in dry dock and 15,500 volunteer hours of labor, a wholly rebuilt Hōkūle‘a, a Hawaiian voyaging canoe, was launched last week at Sand Island, Oahu, 37 years to the day after she was first launched.  Following sea trials and outfitting, she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/03.08.12_sm_afloat.jpg)After 18 months in dry dock and 15,500 volunteer hours of labor, a wholly rebuilt *[Hōkūle‘a](http://en.wikipedia.org/wiki/Hokulea)*, a Hawaiian voyaging canoe, was launched last week at Sand Island, Oahu, 37 years to the day after she was first launched.  Following sea trials and outfitting, she will be ready to carry the next generation of voyagers across the Pacific.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/03.08.12_sm_afloat.jpg)After 18 months in dry dock and 15,500 volunteer hours of labor, a wholly rebuilt *[Hōkūle‘a](http://en.wikipedia.org/wiki/Hokulea)*, a Hawaiian voyaging canoe, was launched last week at Sand Island, Oahu, 37 years to the day after she was first launched.  Following sea trials and outfitting, she will be ready to carry the next generation of voyagers across the Pacific.
 
 [Hokule’a Sets Sail Once More](http://www.kitv.com/video/30637771/detail.html)  
   

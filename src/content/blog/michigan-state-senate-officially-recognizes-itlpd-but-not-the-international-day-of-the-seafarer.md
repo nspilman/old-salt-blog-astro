@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "I was under the impression that the State of Michigan had serious problems – a $2 billion budget shortfall, its largest city in dire economic straits, schools closing for lack of funding, that sort of thing.  Things must be better … Continue reading &rarr;"
 ---
 
-![Senator with "Pirate" Eyepatch](http://www.oldsaltblog.com/wp-content/uploads/2013/06/senatorkahn.jpg)
+![Senator with "Pirate" Eyepatch](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/senatorkahn.jpg)
 
 Senator with “Pirate” Eyepatch
 

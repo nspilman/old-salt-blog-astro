@@ -10,12 +10,12 @@ tags:
   - "Bowhead Whale"
   - "harpoons"
   - "life expectancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/bowheadwhales.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/bowheadwhales.jpg"
 author: "Rick Spilman"
 description: "Australian researchers using a genetic ‘clock’ to predict animals’ lifespans have determined that bowhead whales may live for an average of 268 years. They came to this conclusion from studying 42 genes and a chemical process they undergo called methylation … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/bowheadwhales.jpg)Australian researchers using a genetic ‘clock’ to predict animals’ lifespans have determined that [bowhead whales may live for an average of 268 years](https://www.dailymail.co.uk/sciencetech/article-7786559/Scientists-discover-whale-25-years-OLDER-America.html). They came to this conclusion from studying 42 genes and a chemical process they undergo called methylation that can be used to predict life expectancy. The new research suggests that there may be bowheads swimming in icy northern waters today that were alive when Nelson fought the Battle of Trafalgar.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/bowheadwhales.jpg)Australian researchers using a genetic ‘clock’ to predict animals’ lifespans have determined that [bowhead whales may live for an average of 268 years](https://www.dailymail.co.uk/sciencetech/article-7786559/Scientists-discover-whale-25-years-OLDER-America.html). They came to this conclusion from studying 42 genes and a chemical process they undergo called methylation that can be used to predict life expectancy. The new research suggests that there may be bowheads swimming in icy northern waters today that were alive when Nelson fought the Battle of Trafalgar.
 
 Bowhead whales have long been considered the longest living mammals. While no bowheads have been found as old as that predicted by the researchers, one bowhead was found to be 211 years old based on l[evels of aspartic acid in the whale’s eye](https://blogs.agu.org/thefield/2016/11/24/bowhead-whales-may-worlds-oldest-mammals/). In a number of cases, [stone and steel harpoons](https://blogs.agu.org/thefield/2016/11/24/bowhead-whales-may-worlds-oldest-mammals/) dating from the 18th century have been dug from the carcasses of bowhead whales. In 2007, a bowhead was found with a fragment of a [patented exploding lance](https://www.nytimes.com/2007/06/13/world/americas/13iht-whale.1.6123654.html) that was manufactured in the 1880s.  
 

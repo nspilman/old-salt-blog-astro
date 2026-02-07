@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/frbsolarsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/frbsolarsail.jpg"
 author: "Rick Spilman"
 description: "Theorists at the Harvard-Smithsonian Center for Astrophysics have a intriguing idea as to what might be the nature of FRBs (fast radio bursts), an unexplained phenomenon first observed about ten years ago. FRBs are very short but incredibly powerful bursts of radio activity that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/frbsolarsail.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/frbsolarsail.jpg)
 
 An artist’s illustration of a light-sail powered by a radio beam. Image: M. Weiss/Center for Astrophysics
 

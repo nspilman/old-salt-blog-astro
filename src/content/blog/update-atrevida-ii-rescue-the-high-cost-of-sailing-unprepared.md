@@ -16,12 +16,12 @@ tags:
   - "MH-60 Jayhawk helicopters"
   - "Silver Muna"
   - "tanker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/sailboatdismasted.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/sailboatdismasted.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the rescue of two sailors and a dog from a 30′ sailboat, Atrevida II, off Cape Hatteras by the tanker Silver Muna. While the initial Coast Guard report was accurate, it was also incomplete. The initial … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/sailboatdismasted.jpg)We recently posted about the [rescue of two sailors and a dog from a 30′ sailboat, *Atrevida II,* off Cape Hatteras](https://www.oldsaltblog.com/2022/12/tanker-silver-muna-picks-up-overdue-sailors-off-delaware-coast/) by the tanker *[Silver Muna](https://www.marinetraffic.com/en/ais/details/ships/shipid:4097676/mmsi:477854200/imo:9718856/vessel:SILVER_MUNA)*. While the initial Coast Guard report was accurate, it was also incomplete. The initial reports stated that the sailboat was out of fuel and power, rendering its radios and navigation equipment inoperable, but didn’t mention that the sailboat had also been dismasted and had been adrift for roughly 10 days. Apparently, the two sailors, Joe DiTomasso and Kevin Hyde, were out of water and short of food when they were rescued.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/sailboatdismasted.jpg)We recently posted about the [rescue of two sailors and a dog from a 30′ sailboat, *Atrevida II,* off Cape Hatteras](https://www.oldsaltblog.com/2022/12/tanker-silver-muna-picks-up-overdue-sailors-off-delaware-coast/) by the tanker *[Silver Muna](https://www.marinetraffic.com/en/ais/details/ships/shipid:4097676/mmsi:477854200/imo:9718856/vessel:SILVER_MUNA)*. While the initial Coast Guard report was accurate, it was also incomplete. The initial reports stated that the sailboat was out of fuel and power, rendering its radios and navigation equipment inoperable, but didn’t mention that the sailboat had also been dismasted and had been adrift for roughly 10 days. Apparently, the two sailors, Joe DiTomasso and Kevin Hyde, were out of water and short of food when they were rescued.
 
 At a news conference on Wednesday, Mr. DiTomasso and Mr. Hyde said the mast snapped after their sailboat was caught in a fierce storm with 40-foot waves.
 

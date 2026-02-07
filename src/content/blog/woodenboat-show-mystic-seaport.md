@@ -9,7 +9,7 @@ categories:
 tags:
   - "mystic seaport"
   - "WoodenBoat Show"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/mysticwbs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/mysticwbs.jpg"
 author: "Rick Spilman"
 description: "A wonderful video promoting the Mystic Seaport Museum‘s Annual WoodenBoat Show, which began yesterday and runs through Sunday, July 2nd. There are more than 100 traditional and classic wooden boats of every type on display on the historic museum waterfront. … Continue reading &rarr;"
 ---

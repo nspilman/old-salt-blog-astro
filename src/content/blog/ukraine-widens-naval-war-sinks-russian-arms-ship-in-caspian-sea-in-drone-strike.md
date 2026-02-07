@@ -16,12 +16,12 @@ tags:
   - "Russia's Black Sea fleet"
   - "Ukraine"
   - "Ukraine’s Special Operations Forces"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/olya4.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/olya4.jpg"
 author: "Rick Spilman"
 description: "For a country without a significant navy, Ukraine’s naval and aerial drones have done considerable damage to Russia’s Black Sea fleet, destroying or disabling roughly a third of its ships. Now, for the first time, the Ukrainians have reached well … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/olya4.jpg)For a country without a significant navy, Ukraine’s naval and aerial drones have done considerable damage to Russia’s Black Sea fleet, destroying or disabling roughly a third of its ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/olya4.jpg)For a country without a significant navy, Ukraine’s naval and aerial drones have done considerable damage to Russia’s Black Sea fleet, destroying or disabling roughly a third of its ships.
 
 Now, for the first time, the Ukrainians have reached well beyond the Black Sea to launch a drone strike on a Russian cargo vessel in the Caspian Sea. The attack took place in the Caspian Sea port of Olya, targeting the 400-foot-long, 4,900-gross-ton *Port Olya-4*, which was reported to be transporting Iranian-made drone components and ammunition.
 

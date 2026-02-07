@@ -16,12 +16,12 @@ tags:
   - "RMK Marine"
   - "Turkey"
   - "Tuzla"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/neolineroriigin2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/neolineroriigin2.jpg"
 author: "Rick Spilman"
 description: "The world’s first commercial sailing ro/ro, the 136-meter (450-foot) Neoliner Origin, was launched recently in Tuzla, Turkey, and will now undergo six months of fitting out before entering service in mid-2025. The new ship is expected to slash carbon emissions … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/neolineroriigin2.jpg)The world’s first commercial sailing ro/ro, the 136-meter (450-foot) [*Neoliner Origin*](https://techxplore.com/news/2025-01-world-longest-cargo-ship-turkey.html), was launched recently in Tuzla, Turkey, and will now undergo six months of fitting out before entering service in mid-2025. The new ship is expected to slash carbon emissions by up to 80% compared to conventional cargo vessels.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/02/neolineroriigin2.jpg)The world’s first commercial sailing ro/ro, the 136-meter (450-foot) [*Neoliner Origin*](https://techxplore.com/news/2025-01-world-longest-cargo-ship-turkey.html), was launched recently in Tuzla, Turkey, and will now undergo six months of fitting out before entering service in mid-2025. The new ship is expected to slash carbon emissions by up to 80% compared to conventional cargo vessels.
 
 Designed by French company [Neoline](https://www.neoline.eu/) and built by Turkish shipyard RMK Marine, the ship can carry 5,300 tonnes of freight with a ro/ro capacity of 1200 linear meters, 400 cars or 265 TEU containers.  The *Neoliner Origin* is equipped with the [AeolDrive & Solid Sail rigging solution](https://chantiers-atlantique.com/en/references/solid-sail-aeoldrive/) developed by Chantiers de l’Atlantique setting 3,000 square meters of sail on its two masts. The rig is foldable to allow access to a majority of ports.
 

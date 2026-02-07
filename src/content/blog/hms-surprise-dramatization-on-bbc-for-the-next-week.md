@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "BBC is featuring a dramatization of Patrick O’Brian’s novel HMS Surprise. Very well done.  Each episode is 45 minutes long and will remain on line for a week. HMS Surprise – Episode 1 HMS Surprise – Episode 2 HMS Surprise … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/hmssurpise.jpg)](http://www.amazon.com/gp/product/0393037037?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0393037037)BBC is featuring a dramatization of Patrick O’Brian’s novel *[HMS Surprise](http://www.amazon.com/gp/product/0393037037?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0393037037).* Very well done.  Each episode is 45 minutes long and will remain on line for a week.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hmssurpise.jpg)](http://www.amazon.com/gp/product/0393037037?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0393037037)BBC is featuring a dramatization of Patrick O’Brian’s novel *[HMS Surprise](http://www.amazon.com/gp/product/0393037037?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0393037037).* Very well done.  Each episode is 45 minutes long and will remain on line for a week.
 
 [HMS Surprise – Episode 1](http://www.bbc.co.uk/iplayer/episode/b00drz1k/Afternoon_Play_HMS_Surprise_Episode_1/)  
 [HMS Surprise – Episode 2](http://www.bbc.co.uk/iplayer/episode/b00dsk50/Afternoon_Play_HMS_Surprise_Episode_2/)  

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In 1966, Hugo Vihlen sailed from Casablanca to Florida, aboard his 5'11\" sailboat, April Fool. He sailed 4,100 miles and got within 6 miles of Miami."
 ---
 
-![Hugo Vihlen sailing April Fool](http://www.oldsaltblog.com/wp-content/uploads/2015/04/Aprilfool.jpg)
+![Hugo Vihlen sailing April Fool](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/Aprilfool.jpg)
 
 Hugo Vihlen sailing April Fool
 

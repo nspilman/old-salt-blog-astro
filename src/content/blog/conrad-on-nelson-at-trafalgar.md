@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The final essay in Joseph Conrad’s wonderful, if somewhat odd book, The Mirror of the Sea,  is entitled \"The Heroic Age.\"  It starts out rather disappointingly as a paean to Nelson.  There is nothing wrong with praising Nelson, except that everyone does it, so another bit … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/conrad.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/conrad.jpg)
 
 Joseph Conrad
 

@@ -14,12 +14,12 @@ tags:
   - "NASA"
   - "Surface Water and Ocean Topography"
   - "SWOT"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/swot.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/swot.jpg"
 author: "Rick Spilman"
 description: "For decades, we have more detailed maps of the Moon’s surface than Earth’s ocean floor. Although ships equipped with sonar can capture highly detailed images of the seafloor, only about 25 percent of the ocean has been mapped this way. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/swot.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/swot.jpg)
 
 Graphic: NASA Earth Observatory
 

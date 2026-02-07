@@ -14,12 +14,12 @@ tags:
   - "Halloween Crack"
   - "North Rift"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/brunticeshelf.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/brunticeshelf.jpg"
 author: "Rick Spilman"
 description: "A large iceberg about 490 square miles and about 492 feet thick broke off the Brunt Ice Shelf in the Weddell Sea section of Antarctica yesterday. For comparison purposes, the City of New York is 303 square miles, while Manhattan … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/brunticeshelf.jpg)A large iceberg about [490 square miles and about 492 feet thick](https://www.washingtonpost.com/weather/2021/02/26/iceberg-calves-antarctica-brunt-ice-shelf/) broke off the [Brunt Ice Shelf](https://en.wikipedia.org/wiki/Brunt_Ice_Shelf) in the Weddell Sea section of Antarctica yesterday. For comparison purposes, the City of New York is 303 square miles, while Manhattan Island is 23 square miles, so the new iceberg is a bit less than twice the size of New York City but more than 20 times the size of Manhattan.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/brunticeshelf.jpg)A large iceberg about [490 square miles and about 492 feet thick](https://www.washingtonpost.com/weather/2021/02/26/iceberg-calves-antarctica-brunt-ice-shelf/) broke off the [Brunt Ice Shelf](https://en.wikipedia.org/wiki/Brunt_Ice_Shelf) in the Weddell Sea section of Antarctica yesterday. For comparison purposes, the City of New York is 303 square miles, while Manhattan Island is 23 square miles, so the new iceberg is a bit less than twice the size of New York City but more than 20 times the size of Manhattan.
 
 While the new berg is indeed big, it is dwarfed by an iceberg that broke off the Larsen Ice Shelf in 2017, which at its largest was measured at some [2,240 square miles](https://www.bbc.com/news/science-environment-55843384). Until it [broke up last month,](http://www.oldsaltblog.com/2020/12/update-massive-iceberg-threatening-south-georgia-island-now-breaking-up/) the massive berg was threatening wildlife on South Georgia Island.  
 

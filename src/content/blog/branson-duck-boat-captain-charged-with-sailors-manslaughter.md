@@ -9,12 +9,12 @@ categories:
 tags:
   - "Branson"
   - "Sailor's Manslaughter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/bransonduckboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/bransonduckboat.jpg"
 author: "Rick Spilman"
 description: "On July 19th, 2018, a duck boat capsized and sank in high winds during a storm on Table Rock Lake, near Branson, MO. Seventeen passengers and crew lost their lives. Now, a federal grand jury has charged the captain of the duck … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/bransonduckboat.jpg)On July 19th, 2018, a [duck boat capsized and sank](http://www.oldsaltblog.com/2018/07/duck-boat-capsizes-near-branson-mo-11-dead-6-missing/) in high winds during a storm on Table Rock Lake, near Branson, MO. Seventeen passengers and crew lost their lives. Now, a federal grand jury has charged the captain of the duck boat, Kenneth Scott McKee, with 17 counts of seaman’s manslaughter in the deaths.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/bransonduckboat.jpg)On July 19th, 2018, a [duck boat capsized and sank](http://www.oldsaltblog.com/2018/07/duck-boat-capsizes-near-branson-mo-11-dead-6-missing/) in high winds during a storm on Table Rock Lake, near Branson, MO. Seventeen passengers and crew lost their lives. Now, a federal grand jury has charged the captain of the duck boat, Kenneth Scott McKee, with 17 counts of seaman’s manslaughter in the deaths.  
 
 The [Seaman’s Manslaughter Statute](https://en.wikipedia.org/wiki/Seaman%27s_Manslaughter_Statute) makes it a crime if anyone dies on a ship or boat in US jurisdiction due to the misconduct or negligence of the officers, crew, or anyone else involved with the vessel.  Conviction under the statute includes a fine and/or imprisonment of up to 10 years.
 

@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Today is Juneteeth, a commemoration of the abolition of slavery in the state of Texas, in particular, and in the Confederate states in general, one hundred and fifty-four years ago today. Although the surrender at Appomattox Court House, Virginia signaled the … Continue reading &rarr;"
 ---
 
-![Model of SS Cornubia of 1865](http://www.oldsaltblog.com/wp-content/uploads/2015/06/sscornubia.jpg)
+![Model of SS Cornubia of 1865](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/sscornubia.jpg)
 
 Model SS Cornubia
 

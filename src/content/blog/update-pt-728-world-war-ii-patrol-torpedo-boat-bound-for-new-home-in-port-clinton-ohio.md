@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last April, we posted that PT-728, a World War II Patrol Torpedo boat, was listed as for sale in the Hammacher Schlemmer catalog.   The vintage PT boat has now been purchased by the newly opened Liberty Aviation Museum in Port Clinton … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/PT_728.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/PT_728.jpg)
 
 PT-728
 

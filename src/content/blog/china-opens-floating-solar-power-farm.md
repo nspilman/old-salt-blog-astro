@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "This is only slightly nautical, but I find it interesting, nevertheless. China has opened a floating solar power farm.  Unlike offshore wind power, the facility is not at sea.  The 40-megawatt solar power plant is floating over what was once an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/floatingpvchina.jpg)This is only slightly nautical, but I find it interesting, nevertheless. China has opened a floating solar power farm.  Unlike offshore wind power, the facility is not at sea.  The 40-megawatt solar power plant is floating over what was once an open-pit coal mine, which has now flooded forming a lake. The plant is more efficient because the lake’s water provides to the panels, inverters and other mechanical components.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/floatingpvchina.jpg)This is only slightly nautical, but I find it interesting, nevertheless. China has opened a floating solar power farm.  Unlike offshore wind power, the facility is not at sea.  The 40-megawatt solar power plant is floating over what was once an open-pit coal mine, which has now flooded forming a lake. The plant is more efficient because the lake’s water provides to the panels, inverters and other mechanical components.
 
 Several news sources have billed it as the “[world’s largest floating solar plant](http://www.iflscience.com/environment/china-home-worlds-largest-floating-solar-power-plant/).” This looks like harmless hyperbole, or a backhanded way of commenting on how unusual a floating solar power plant really is, as the 40 MW plant is not overly large in absolute terms.   
 

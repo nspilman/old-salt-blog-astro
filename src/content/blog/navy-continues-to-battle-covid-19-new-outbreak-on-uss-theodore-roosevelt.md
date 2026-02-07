@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Recently, three sailors aboard the aircraft carrier USS Theodore Roosevelt have tested positive for the coronavirus, marking the second outbreak at sea on the ship within a year.  In the spring of last year, the aircraft carrier USS Theodore Roosevelt … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/usstr1.jpg)Recently, [three sailors aboard the aircraft carrier USS *Theodore Roosevelt*](https://www.washingtonpost.com/national-security/2021/02/15/uss-theodore-roosevelt-coronavirus/) have tested positive for the coronavirus, marking the second outbreak at sea on the ship within a year. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/usstr1.jpg)Recently, [three sailors aboard the aircraft carrier USS *Theodore Roosevelt*](https://www.washingtonpost.com/national-security/2021/02/15/uss-theodore-roosevelt-coronavirus/) have tested positive for the coronavirus, marking the second outbreak at sea on the ship within a year. 
 
 In the spring of last year, the aircraft carrier USS *Theodore Roosevelt* became the first US Navy ship to suffer a [major Covid-19 outbreak](https://en.wikipedia.org/wiki/COVID-19_pandemic_on_USS_Theodore_Roosevelt). It started small. In early March, after a potential exposure to the virus in a port-call in Da Nang, one sailor tested positive for Covid-19. A few days later, four more tested positive. Soon dozens of sailors had tested positive and the ship was diverted to Guam. By April, almost one-quarter of the 4,865 sailors aboard the ship had tested positive for the virus, and one sailor had died from the disease.
 

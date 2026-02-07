@@ -13,12 +13,12 @@ tags:
   - "Leaking Cracked Ships"
   - "littoral combat ships"
   - "Sioux City"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/souixcity.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/souixcity.jpg"
 author: "Rick Spilman"
 description: "The sad saga of the Littoral Combat Ships (LCS) is winding down. Recently, the Freedom-class Littoral Combat Ship, USS Sioux City, was decommissioned after less than five years in service. Such ships were meant to serve for 25 years."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/souixcity.jpg)The sad saga of the [Littoral Combat Ships (LCS)](https://en.wikipedia.org/wiki/Littoral_combat_ship) is winding down. The small surface vessels, built in two classes, and designed for operations near shore, were intended to be inexpensive and flexible. Instead, they proved to be unreliable, relatively costly, and plagued by technical problems. Worse yet, the Pentagon concluded that the ships were not “survivable in a hostile combat environment” and that neither ship class could withstand the Navy’s full ship shock trials.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/souixcity.jpg)The sad saga of the [Littoral Combat Ships (LCS)](https://en.wikipedia.org/wiki/Littoral_combat_ship) is winding down. The small surface vessels, built in two classes, and designed for operations near shore, were intended to be inexpensive and flexible. Instead, they proved to be unreliable, relatively costly, and plagued by technical problems. Worse yet, the Pentagon concluded that the ships were not “survivable in a hostile combat environment” and that neither ship class could withstand the Navy’s full ship shock trials.
 
 Recently, the [Freedom-class](https://en.wikipedia.org/wiki/Freedom-class_littoral_combat_ship) Littoral Combat Ship, [USS *Sioux City,*](https://en.wikipedia.org/wiki/USS_Sioux_City) was decommissioned after less than five years in service. Such ships were meant to serve for 25 years. 
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "It sounds like like a joke, and indeed it has many elements of farce, but nevertheless when the TV reality-show pirates of Animal Planet’s Whale Wars, the Sea Shepherds, meet the Japanese whalers this season in the Southern Ocean, matters could … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/gozija.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/gozija.jpg)
 
 Sea Shepherd "Godzilla"
 

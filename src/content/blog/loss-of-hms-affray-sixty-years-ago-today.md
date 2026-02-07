@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called \"Exercise Spring Train\" and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/52184356_52183481.jpg)Sixty years ago today, the  Royal Navy submarine [HMS *Affray*](http://en.wikipedia.org/wiki/HMS_Affray_\(P421\)) sailed on a simulated war mission called “Exercise Spring Train” and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951.  The cause of the sinking has never been determined.   Relatives of the 75 men lost on the submarine are planning to pay their respects on the 60th anniversary of the disaster.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/52184356_52183481.jpg)Sixty years ago today, the  Royal Navy submarine [HMS *Affray*](http://en.wikipedia.org/wiki/HMS_Affray_\(P421\)) sailed on a simulated war mission called “Exercise Spring Train” and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951.  The cause of the sinking has never been determined.   Relatives of the 75 men lost on the submarine are planning to pay their respects on the 60th anniversary of the disaster.
 
 [HMS Affray submarine disaster to be marked off Alderney](http://www.bbc.co.uk/news/world-europe-guernsey-13088521)  
   

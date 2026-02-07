@@ -10,12 +10,12 @@ tags:
   - "Covid-positive sailors"
   - "U.S. Naval Base Guam"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/TRGuam-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/TRGuam-1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about 5 sailors from the aircraft carrier USS Theodore Roosevelt who appeared to have contracted the coronavirus for a second time. That number has now risen to 13.  Politico reports that the 13 Covid-positive sailors have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/TRGuam-1.jpg)Yesterday, we posted about 5 sailors from the aircraft carrier USS Theodore Roosevelt who appeared to have contracted the coronavirus for a second time. That number has now risen to 13. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/TRGuam-1.jpg)Yesterday, we posted about 5 sailors from the aircraft carrier USS Theodore Roosevelt who appeared to have contracted the coronavirus for a second time. That number has now risen to 13. 
 
 [Politico](https://www.politico.com/news/2020/05/16/uss-theodore-roosevelt-sailors-test-positive-coronavirus-261873) reports that the 13 Covid-positive sailors have been removed from the ship and are back in isolation on U.S. Naval Base Guam, according to the officials.
 

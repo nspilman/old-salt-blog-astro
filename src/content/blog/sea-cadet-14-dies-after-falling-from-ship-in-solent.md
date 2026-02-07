@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A tragedy at the 2010 Sea Cadet Festival. Sea cadet, 14, dies after falling from ship in Solent A 14-year-old sea cadet has died after falling overboard in the Solent. The boy, from Kent, was on the training ship TS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/royalist.jpg)A tragedy at the [2010 Sea Cadet Festival](http://www.gunwharf-quays.com/gunwharf_quays_events\(Sea_Cadet_Festival_2010\)-252.htm).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/royalist.jpg)A tragedy at the [2010 Sea Cadet Festival](http://www.gunwharf-quays.com/gunwharf_quays_events\(Sea_Cadet_Festival_2010\)-252.htm).
 
 [Sea cadet, 14, dies after falling from ship in Solent](http://news.bbc.co.uk/2/hi/uk_news/england/hampshire/8657813.stm)
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The press recently has been full of headlines about Ernest Shackleton‘s ill-fated ship, Endurance.  The Christian Science Monitor asks, \"What happened to Shackleton’s sunken ship?\"  Radio New Zealand answers the question with \"Shackleton’s ship could still be in good condition.\"  … Continue reading &rarr;"
 ---
 
-![Endurance3](http://www.oldsaltblog.com/wp-content/uploads/2013/08/Endurance3.jpg)
+![Endurance3](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Endurance3.jpg)
 
 Shackleton’s Endurance
 

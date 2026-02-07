@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Sailing Anarchy blog has posted a note from Rob Densem, General Manager of Farrier Marine, of Christchurch, NZ.: It is with a heavy heart that I tell you Ian Farrier passed away in San Francisco on his way back from the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/ianfarrier.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/ianfarrier.jpg)
 
 Ian Ferrier
 

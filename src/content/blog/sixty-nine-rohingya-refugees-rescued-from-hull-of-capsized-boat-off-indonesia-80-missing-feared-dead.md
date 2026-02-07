@@ -14,12 +14,12 @@ tags:
   - "Indonesian rescuers"
   - "Myanmar"
   - "Rohingya"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/rohinga.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/rohinga.jpg"
 author: "Rick Spilman"
 description: "Tragic news as reported by the BBC:  Indonesian rescuers found 69 Rohingya people sunburnt and dehydrated on Thursday, floating on a rusty hull off the coast of Aceh. The country’s search and rescue agency says nine children, 18 women and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/rohinga.jpg)Tragic news as reported by the [BBC](https://www.bbc.com/news/av/world-asia-68634054):  Indonesian rescuers found 69 Rohingya people sunburnt and dehydrated on Thursday, floating on a rusty hull off the coast of Aceh.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/rohinga.jpg)Tragic news as reported by the [BBC](https://www.bbc.com/news/av/world-asia-68634054):  Indonesian rescuers found 69 Rohingya people sunburnt and dehydrated on Thursday, floating on a rusty hull off the coast of Aceh.
 
 The country’s search and rescue agency says nine children, 18 women and 42 men were saved. Around 80 others are believed to have been swept away – feared dead. One survivor said that some in the party had been at sea for a month in a wooden boat.
 

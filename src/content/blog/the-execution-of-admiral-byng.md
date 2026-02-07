@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to \"do his utmost against the enemy.\" Byng was the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/byng.jpg)On this day, March 14th, in 1757, [Admiral John Byng](https://en.wikipedia.org/wiki/John_Byng) was executed by firing squad on the quarterdeck of HMS *Monarch* in the Solent for the crime of failing to “do his utmost against the enemy.” Byng was the first and last admiral ever executed by the Royal Navy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/byng.jpg)On this day, March 14th, in 1757, [Admiral John Byng](https://en.wikipedia.org/wiki/John_Byng) was executed by firing squad on the quarterdeck of HMS *Monarch* in the Solent for the crime of failing to “do his utmost against the enemy.” Byng was the first and last admiral ever executed by the Royal Navy.
 
 Near the onset of the Seven Years’ War, Admiral Byng was dispatched from Gibraltar with a fleet of ten ships and 700 soldiers to relieve the British garrison on the island of Minorca. Before sailing, Byng expressed his doubts about the success of the mission. He told his superiors he had neither the ships nor men for the mission, but he was refused reinforcements. It is often said that he sailed expecting to fail.
 

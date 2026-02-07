@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The largest earthquake in Japanese recorded history, 8.9 on the Richter scale, which struck about 80 miles offshore, has triggered devastating tsunami waves on the  coast of northeast Japan.   Tsunami warnings have gone up in at least 50 countries and territories, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/12japan-cnd-span4-articleLa.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/12japan-cnd-span4-articleLa.jpg)
 
 Photo: Kyodo News, via Associated Press
 

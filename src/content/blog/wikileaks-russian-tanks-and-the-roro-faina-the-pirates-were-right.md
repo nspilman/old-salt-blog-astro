@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Slightly over two years ago we posted about the hijacking of the Ukranian ro/ro Faina by Somali pirates.  The pirates were surprised to discover that the ship was loaded with arms, including 33 Russian T-72 battle tanks.   The pirates claimed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/JP-TANK-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/JP-TANK-articleLarge.jpg)
 
 Faina - Photo: Tony Karumba/Agence France-Presse — Getty Images
 

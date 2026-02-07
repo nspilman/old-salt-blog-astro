@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The Columbia of 1923 was a fishing schooner for her speed and seaworthiness. The Columbia of 2014 was built to the same design of steel rather than wood."
 ---
 
-![Columbia  1923 launch (left) Columbia 2014 launch (right)](http://www.oldsaltblog.com/wp-content/uploads/2014/09/columbia2014.jpg)
+![Columbia  1923 launch (left) Columbia 2014 launch (right)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/columbia2014.jpg)
 
 Columbia 1923 launch (left) Columbia 2014 launch (right)
 

@@ -7,7 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Ever Given"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven2.jpg"
 author: "Rick Spilman"
 description: "One year ago today, the ultra-large container ship Ever Given ran aground, blocking the Suez Canal for six days. The grounding resulted in a traffic jam of roughly 400 ships and cost an estimated $10 billion per day in lost … Continue reading &rarr;"
 ---

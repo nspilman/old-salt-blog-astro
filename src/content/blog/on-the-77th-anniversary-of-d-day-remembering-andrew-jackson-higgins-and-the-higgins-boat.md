@@ -12,12 +12,12 @@ tags:
   - "Higgins boat"
   - "Normandy"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/06/higgensrepost.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/higgensrepost.jpg"
 author: "Rick Spilman"
 description: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the 77th anniversary of D-Day. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/higgensrepost.jpg)I am aware of only one man who was praised by both Eisenhower and Hitler. A [repost](http://www.oldsaltblog.com/2014/06/remembering-andrew-jackson-higgins-and-the-higgins-boat-on-d-day/) on the 77th anniversary of D-Day.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/higgensrepost.jpg)I am aware of only one man who was praised by both Eisenhower and Hitler. A [repost](http://www.oldsaltblog.com/2014/06/remembering-andrew-jackson-higgins-and-the-higgins-boat-on-d-day/) on the 77th anniversary of D-Day.
 
 General Dwight David Eisenhower said that “Andrew Higgins … is the man who won the war for us. … If Higgins had not designed and built those LCVPs, we never could have landed over an open beach. The whole strategy of the war would have been different.”  
 

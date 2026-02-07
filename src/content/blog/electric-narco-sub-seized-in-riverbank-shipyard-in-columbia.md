@@ -12,12 +12,12 @@ tags:
   - "Columbia"
   - "Electric Narco-Sub"
   - "narco-submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/enarcosub.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/enarcosub.jpg"
 author: "Rick Spilman"
 description: "The U.S. Department of Homeland Security estimates that 32 percent of all maritime cocaine smuggled between Latin America and the United States arrives in narco-submarines. Narco-subs come in many shapes and sizes. Most are not submarines at all, but rather … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/enarcosub.jpg)The U.S. Department of Homeland Security estimates that 32 percent of all maritime cocaine smuggled between Latin America and the United States arrives in narco-submarines. [Narco-subs come in many shapes and sizes.](http://www.oldsaltblog.com/2020/05/evolution-of-the-narco-sub-semi-submersibles-go-fast-lpvs-and-vsv/) Most are not submarines at all, but rather semisubmersibles, making them difficult to spot by eye or radar. Recently, the Columbian Navy, assisted by the U.S. DEA and local law enforcement agencies, [raided a boatyard](https://twitter.com/ArmadaColombia/status/1324446407382704129) near the Cucurrupí River in the Chocó area of Colombia and found a very unusual electric narco-sub.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/enarcosub.jpg)The U.S. Department of Homeland Security estimates that 32 percent of all maritime cocaine smuggled between Latin America and the United States arrives in narco-submarines. [Narco-subs come in many shapes and sizes.](http://www.oldsaltblog.com/2020/05/evolution-of-the-narco-sub-semi-submersibles-go-fast-lpvs-and-vsv/) Most are not submarines at all, but rather semisubmersibles, making them difficult to spot by eye or radar. Recently, the Columbian Navy, assisted by the U.S. DEA and local law enforcement agencies, [raided a boatyard](https://twitter.com/ArmadaColombia/status/1324446407382704129) near the Cucurrupí River in the Chocó area of Colombia and found a very unusual electric narco-sub.
 
 The vessel is relatively large compared to most narco-subs. [USNI](https://news.usni.org/2020/11/16/rare-electric-narco-submarine-seized-in-colombia) reports that the submarine is estimated to have cost $1.5 million to construct, according to officials. Based on the plans that were seized by Colombian authorities, had it sailed, it would have carried some six metric tons of cocaine towards the American market, valued at around $120 million.
 

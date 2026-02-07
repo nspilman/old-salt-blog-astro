@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The question being asked by almost everyone is \"how could this have happened to a modern cruise ship?\"   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/u1_gemitrafikcosta.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/u1_gemitrafikcosta.jpg)
 
 The [question being asked by almost everyone](http://www.bbc.co.uk/news/world-europe-16560617) is “how could this have happened to a modern cruise ship?”   The *Costa Concordia* was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range of speculation, no one currently has the answer.  What is known is often contradictory or simply mystifying.  The [captain maintains that the ship hit an uncharted rock](http://www.bbc.co.uk/news/world-europe-16568037) and implies that there was nothing wrong with their course.  If however [AIS plots](http://en.wikipedia.org/wiki/Automatic_Identification_System) from various sources are accurate, the ship was steered very close to the [island of Giglio](http://en.wikipedia.org/wiki/Isola_del_Giglio) and specifically cut through a passage near the popular dive spot, Le Scole, between two large rocks which was suitable only for vessels much smaller than the almost 1,000 foot long cruise ship.  (**Update: More recent AIS plots are showing a passage to the east of the islands, but still extremely close.)**
 

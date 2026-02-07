@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In August we posted about a joint  Chinese-Kenyan expedition to locate the remains of a ship from the fleet of the legandary Chinese navigator, Zheng He.  The ship was said to have sunk off Kenya near Lamu.    Recently the team discovered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/chinesecoin-1.jpg)In August we [posted about a joint  Chinese-Kenyan expedition](http://www.oldsaltblog.com/2010/08/02/chinese-archaeologists-search-for-zheng-he-shipwreck-off-kenya/) to locate the remains of a ship from the fleet of the legandary Chinese navigator, [Zheng He](http://en.wikipedia.org/wiki/Zheng_He).  The ship was said to have sunk off Kenya near Lamu.    Recently the team discovered Chinese pottery and an imperial coin in the Kenyan coastal village of Mambrui.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/chinesecoin-1.jpg)In August we [posted about a joint  Chinese-Kenyan expedition](http://www.oldsaltblog.com/2010/08/02/chinese-archaeologists-search-for-zheng-he-shipwreck-off-kenya/) to locate the remains of a ship from the fleet of the legandary Chinese navigator, [Zheng He](http://en.wikipedia.org/wiki/Zheng_He).  The ship was said to have sunk off Kenya near Lamu.    Recently the team discovered Chinese pottery and an imperial coin in the Kenyan coastal village of Mambrui.
 
 [Could a rusty coin re-write Chinese-African history?](http://www.bbc.co.uk/news/world-africa-11531398)  
   

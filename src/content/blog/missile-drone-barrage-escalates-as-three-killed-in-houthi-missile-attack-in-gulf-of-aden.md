@@ -18,12 +18,12 @@ tags:
   - "M/V True Confidence"
   - "Rubymar"
   - "USS Carney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/trueconfidnece.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/trueconfidnece.jpg"
 author: "Rick Spilman"
 description: "A Houthi missile attack killed three seafarers on M/V True Confidence, a Barbados-flagged, Liberian-owned, bulk carrier while transiting the Gulf of Aden on Wednesday, U.S. Central Command (CENTCOM) said. The deaths are the first merchant mariner fatalities reported since the Iran-aligned … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/trueconfidnece.jpg)A Houthi missile attack killed three seafarers on M/V [*True Confidence*](https://www.vesselfinder.com/vessels/details/9460784), a Barbados-flagged, Liberian-owned, bulk carrier while transiting the Gulf of Aden on Wednesday, [U.S. Central Command](https://twitter.com/CENTCOM/status/1765497688710173116) (CENTCOM) said. The deaths are the first merchant mariner fatalities reported since the Iran-aligned Yemeni group began strikes against shipping in one of the world’s busiest trade lanes.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/trueconfidnece.jpg)A Houthi missile attack killed three seafarers on M/V [*True Confidence*](https://www.vesselfinder.com/vessels/details/9460784), a Barbados-flagged, Liberian-owned, bulk carrier while transiting the Gulf of Aden on Wednesday, [U.S. Central Command](https://twitter.com/CENTCOM/status/1765497688710173116) (CENTCOM) said. The deaths are the first merchant mariner fatalities reported since the Iran-aligned Yemeni group began strikes against shipping in one of the world’s busiest trade lanes.
 
 At least four other crew are reported to have been injured in the attack, which resulted in significant damage to the ship. The crew abandoned the ship and were assisted by coalition warships. 
 

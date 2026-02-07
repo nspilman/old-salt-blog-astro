@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "As the sands of Fire Island are swallowing Le Papillon, Cyclone Yasi has uncovered a mysterious shipwreck on an island off  the Queensland coast. Cyclone Winds Unbury Island’s 130-Year-Old Shipwreck The huge cyclone’s intense winds blew away sand on one … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/shipwreck-australia-110419-02.jpg)As the sands of Fire Island are swallowing](http://www.oldsaltblog.com/2011/04/18/update-le-papillon-and-the-sands-of-fire-island/) *[Le Papillon](http://www.oldsaltblog.com/2011/04/18/update-le-papillon-and-the-sands-of-fire-island/),* Cyclone Yasi has uncovered a mysterious shipwreck on an island off  the Queensland coast.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/shipwreck-australia-110419-02.jpg)As the sands of Fire Island are swallowing](http://www.oldsaltblog.com/2011/04/18/update-le-papillon-and-the-sands-of-fire-island/) *[Le Papillon](http://www.oldsaltblog.com/2011/04/18/update-le-papillon-and-the-sands-of-fire-island/),* Cyclone Yasi has uncovered a mysterious shipwreck on an island off  the Queensland coast.
 
 [Cyclone Winds Unbury Island’s 130-Year-Old Shipwreck](http://www.ouramazingplanet.com/australia-mystery-shipwreck-cyclone-yasi-110419-1404/)
 

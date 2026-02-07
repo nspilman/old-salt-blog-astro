@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel. Stena prototype tests air cushion concept … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/pmax540.jpg)The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/pmax540.jpg)The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel.
 
 [Stena prototype tests air cushion concept](http://www.marinelog.com/DOCS/NEWSMMIX/2010mar00301.html)  
   

@@ -15,12 +15,12 @@ tags:
   - "Maine's first ship"
   - "Popham Colony"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/Virginialaunch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/Virginialaunch.jpg"
 author: "Rick Spilman"
 description: "Twenty-seven years ago, a plan was conceived to reconstruct Maine’s first ship, Virginia, built by in 1607 by settlers of the Popham Colony at the mouth of the Kennebec River. The original 51′ pinnace was the first English ocean-going ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/Virginialaunch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/Virginialaunch.jpg)
 
 Images: Bob McKane
 

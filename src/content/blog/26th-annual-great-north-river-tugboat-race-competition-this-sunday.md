@@ -11,12 +11,12 @@ tags:
   - "hudson river"
   - "tugboat"
   - "Working Harbor Committee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/tugrace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tugrace.jpg"
 author: "Rick Spilman"
 description: "If you are near New York harbor this Sunday, swing by Manhattan’s Pier 84 (at W. 44th St.) on the Hudson River to catch the 26th Annual Great North River Tugboat Race and Competition, sponsored by the Working Harbor Committee. More than 15 tugboats … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/tugrace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tugrace.jpg)
 
 Photo: Will Van Dorp
 

@@ -12,12 +12,12 @@ tags:
   - "MSC"
   - "US Navy"
   - "USNS Leroy Grumman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/grumman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/grumman.jpg"
 author: "Rick Spilman"
 description: "The latest coronavirus outbreak on a Navy ship is on the Military Sealift Command’s (MSC) fleet replenishment oiler, USNS Leroy Grumman. The Project On Government Oversight (POGO) is reporting that the outbreak occurred late last month, barely a week after … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/grumman.jpg)The latest coronavirus outbreak on a Navy ship is on the Military Sealift Command’s (MSC) fleet replenishment oiler, [USNS *Leroy Grumman*](https://en.wikipedia.org/wiki/USNS_Leroy_Grumman_\(T-AO-195\)). The [Project On Government Oversight (POGO)](https://www.pogo.org/investigation/2020/05/52-infected-after-navy-fails-to-prevent-virus-spread-on-ship/) is reporting that the outbreak occurred late last month, barely a week after the MSC assured the public that the coronavirus was not spreading among civilian mariners.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/grumman.jpg)The latest coronavirus outbreak on a Navy ship is on the Military Sealift Command’s (MSC) fleet replenishment oiler, [USNS *Leroy Grumman*](https://en.wikipedia.org/wiki/USNS_Leroy_Grumman_\(T-AO-195\)). The [Project On Government Oversight (POGO)](https://www.pogo.org/investigation/2020/05/52-infected-after-navy-fails-to-prevent-virus-spread-on-ship/) is reporting that the outbreak occurred late last month, barely a week after the MSC assured the public that the coronavirus was not spreading among civilian mariners.
 
 Twenty-two of the 46 civilian crew members and 30 government contractors have tested positive for the coronavirus. One contractor has been reported to have died from COVID-19 while one merchant mariner has been hospitalized in critical condition. 
 

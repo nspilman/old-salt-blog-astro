@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The Arleigh Burke-class guided missile destroyer, USS Porter collided with the Japanese owned, Panamanian flag, Very Large Crude Carrier (VLCC)  M/V Otowasan in the the Strait of Hormuz at around 1 am Sunday, local time. While few details are currently available, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/porter.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/porter.jpg)
 
 Photo: Defense Video and Image Distribution System
 

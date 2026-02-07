@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, \"Twenty Ships. Six Days. Once-in-a-Lifetime. \" Tall Ships Chicago 2010 – … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/tschicago..jpg)](http://www.navypier.com/tallshipschicago/home.html)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/tschicago..jpg)](http://www.navypier.com/tallshipschicago/home.html)
 
 Tis the season for tall ships festivals.   Tomorrow, [Tall Ships Chicago 2010](http://www.navypier.com/tallshipschicago/home.html) begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, “*Twenty Ships. Six Days. Once-in-a-Lifetime*. ”
 

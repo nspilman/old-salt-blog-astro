@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "For the first time since 2003, Korean shipyards have lost their position as the  world’s number one shipbuilder to China. China overtakes Korea in shipbuilding deliveries According to Clarkson Research Services Ltd., a London-based market research firm, Korean shipbuilding companies … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/shipyard.jpg)For the first time since 2003, Korean shipyards have lost their position as the  world’s number one shipbuilder to China.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipyard.jpg)For the first time since 2003, Korean shipyards have lost their position as the  world’s number one shipbuilder to China.
 
 [China overtakes Korea in shipbuilding deliveries](http://joongangdaily.joins.com/article/view.asp?aid=2923363)
 

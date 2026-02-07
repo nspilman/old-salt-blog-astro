@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "For those in the US, the National Geographic Channel is featuring a a program \"Ghost Ships of the Great Lakes\" this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Ghost-Ships3.jpg)For those in the US, the National Geographic Channel is featuring a a program “Ghost Ships of the Great Lakes” this evening at 10PM.  Looks interesting.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Ghost-Ships3.jpg)For those in the US, the National Geographic Channel is featuring a a program “Ghost Ships of the Great Lakes” this evening at 10PM.  Looks interesting.
 
 [Ghost Ships of the Great Lakes](http://channel.nationalgeographic.com/series/explorer/4840/Overview?source=email_channel)  
   

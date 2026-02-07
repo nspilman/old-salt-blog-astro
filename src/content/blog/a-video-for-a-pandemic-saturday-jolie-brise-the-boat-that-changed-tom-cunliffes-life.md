@@ -11,12 +11,12 @@ tags:
   - "gaff-rigged pilot cutter"
   - "JOLIE BRISE"
   - "Tom Cunliffe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/joliebrise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/joliebrise.jpg"
 author: "Rick Spilman"
 description: "This is a wonderful half-hour documentary hosted by Tom Cunliffe about Jolie Brise. Jolie Brise is a gaff-rigged pilot cutter/racing yacht built and launched by the Albert Paumelle Yard in Le Havre in 1913 to a design by Alexandre Pâris. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/joliebrise.jpg)This is a wonderful half-hour documentary hosted by Tom Cunliffe about *Jolie Brise. [Jolie Brise](https://en.wikipedia.org/wiki/Jolie_Brise)* is a gaff-rigged pilot cutter/racing yacht built and launched by the Albert Paumelle Yard in Le Havre in 1913 to a design by Alexandre Pâris. [Tom Cunliffe](https://en.wikipedia.org/wiki/Tom_Cunliffe) is a British yachting journalist, author, and broadcaster.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/joliebrise.jpg)This is a wonderful half-hour documentary hosted by Tom Cunliffe about *Jolie Brise. [Jolie Brise](https://en.wikipedia.org/wiki/Jolie_Brise)* is a gaff-rigged pilot cutter/racing yacht built and launched by the Albert Paumelle Yard in Le Havre in 1913 to a design by Alexandre Pâris. [Tom Cunliffe](https://en.wikipedia.org/wiki/Tom_Cunliffe) is a British yachting journalist, author, and broadcaster.
 
 Here are his comments on the video: Here’s a ‘lock-down special’ released early for Christmas about one of the greatest cutters of them all, Jolie Brise. This boat truly changed my life. She deserves this professionally made, TV-quality show, so pour yourself a glass of the finest and shut the cabin door on the world for half an hour.
 

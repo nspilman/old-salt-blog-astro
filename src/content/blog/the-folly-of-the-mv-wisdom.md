@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "The MV Wisdom is a small 26-year-old container ship.  She has had 14 name changes in her life and no one knows how many owners. The current owner may be unknown as well.  She was being towed from Colombo to the scrap-yard in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/MV-Wisdom.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/MV-Wisdom.jpg)
 
 The [MV *Wisdom*](http://www.vesseltracker.com/en/Ships/Mv-Wisdom-8417558.html) is a small 26-year-old container ship.  She has had 14 name changes in her life and no one knows how many owners. The current owner may be unknown as well.  She was being towed from Colombo to the scrap-yard in Alang, India when the tug lost control and the MV *Wisdom* ended up off the beach  in Bandra, in suburban Mumbai.   She very nearly drifted into the [Bandra-Worli Sea Link,](http://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link) a major bridge, but seems to have missed it, as much by luck, as anything else.   [No one can explain why the tow was so close to shore in the first place](http://www.moneylife.in/article/why-was-the-mv-wisdom-allowed-to-get-so-near-the-bandra-worli-sea-link/17245.html).  The course was reportedly inshore of several oil rigs.    Indian police have detained 15 crew members of the tug,  *Minerva*, for negligence.  
   

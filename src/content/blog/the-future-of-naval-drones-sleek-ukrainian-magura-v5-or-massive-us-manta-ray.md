@@ -12,12 +12,12 @@ tags:
   - "manta ray"
   - "naval drones"
   - "uncrewed underwater vehicle"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/mantaray.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mantaray.jpg"
 author: "Rick Spilman"
 description: "The Ukrainian Magura V5 naval drones have proven to be fast, deadly, and cheap.  As we posted last August, Ukrainian naval drones are redefining warfare in the Black Sea; quite an accomplishment for a beleaguered nation that almost wholly lacks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/mantaray.jpg)The Ukrainian Magura V5 naval drones have proven to be fast, deadly, and cheap.  As we posted last August, Ukrainian naval drones are [redefining warfare in the Black Sea](https://www.oldsaltblog.com/2023/08/ukrainian-naval-drones-redefining-warfare-in-the-black-sea/); quite an accomplishment for a beleaguered nation that almost wholly lacks a navy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mantaray.jpg)The Ukrainian Magura V5 naval drones have proven to be fast, deadly, and cheap.  As we posted last August, Ukrainian naval drones are [redefining warfare in the Black Sea](https://www.oldsaltblog.com/2023/08/ukrainian-naval-drones-redefining-warfare-in-the-black-sea/); quite an accomplishment for a beleaguered nation that almost wholly lacks a navy.
 
 Recently, Northrop Grumman revealed an underwater drone named the [Manta Ray](https://en.wikipedia.org/wiki/Unmanned_underwater_vehicle#Manta_ray). The drone, built for the [Defense Advanced Research Projects Agency](https://www.darpa.mil/) (DARPA). The drone has been under development since 2020. The Manta Ray represents a new class of unmanned underwater vehicles (UUVs), that were developed to perform long-duration, long-range military missions with as little human oversight as possible. The craft is also capable of harvesting energy from the ocean.
 

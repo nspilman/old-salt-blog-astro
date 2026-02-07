@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Wednesday, much of the world will be able to watch a blue moon, a supermoon and a blood moon, all at once. A blue moon is a term for a second full moon in a given month. There was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/bluesuperbloodmoon.jpg)On Wednesday, much of the world will be able to watch a blue moon, a supermoon and a blood moon, all at once. A blue moon is a term for a second full moon in a given month. There was a full month on the first of January so the second on the 31st will be the blue moon, even if the pigmentation doesn’t actually change.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/bluesuperbloodmoon.jpg)On Wednesday, much of the world will be able to watch a blue moon, a supermoon and a blood moon, all at once. A blue moon is a term for a second full moon in a given month. There was a full month on the first of January so the second on the 31st will be the blue moon, even if the pigmentation doesn’t actually change.
 
 It so happens that the full moon will also be a supermoon, which is to say that the full moon will be at perigee — its closest approach to Earth in a single orbit — making it appear slightly larger and brighter.
 

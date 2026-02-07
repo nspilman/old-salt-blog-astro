@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Sunset Planet Alert The solar system’s innermost planets are about to put on a beautiful show. This week, Mercury is emerging from the glare of the sun and making a beeline for Venus. By week’s end, the two planets will … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Mitsuo-Muraoka1_med.jpg)[Sunset Planet Alert](http://science.nasa.gov/headlines/y2010/31mar_sunsetplanets.htm?list1049613)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Mitsuo-Muraoka1_med.jpg)[Sunset Planet Alert](http://science.nasa.gov/headlines/y2010/31mar_sunsetplanets.htm?list1049613)
 
 *The solar system’s innermost planets are about to put on a beautiful show.*
 

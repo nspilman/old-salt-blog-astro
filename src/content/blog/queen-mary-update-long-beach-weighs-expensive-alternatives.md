@@ -11,12 +11,12 @@ tags:
   - "City Council"
   - "Long beach"
   - "Queen Mary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg"
 author: "Rick Spilman"
 description: "Last month we posted that a recent Queen Mary inspection survey revealed that lack of maintenance and neglected repairs have left the converted Cunard passenger liner vulnerable to flooding or possibly even capsizing.  In early June, the City of Long Beach, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg)Last month [we posted](http://www.oldsaltblog.com/2021/06/urgent-repairs-needed-to-queen-mary-potential-flooding-capsize-risk/) that a recent [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary#Long_Beach) inspection survey revealed that lack of maintenance and neglected repairs have left the converted Cunard passenger liner vulnerable to flooding or possibly even capsizing. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg)Last month [we posted](http://www.oldsaltblog.com/2021/06/urgent-repairs-needed-to-queen-mary-potential-flooding-capsize-risk/) that a recent [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary#Long_Beach) inspection survey revealed that lack of maintenance and neglected repairs have left the converted Cunard passenger liner vulnerable to flooding or possibly even capsizing. 
 
 In early June, the [City of Long Beach, CA  regained full control of the *Queen Mary*](https://www.longbeach.gov/press-releases/city-of-long-beach-regains-control-of--the-queen-mary-for-first-time-in-over-40-years/) for the first time in over 40 years, Now, the Long Beach City Council is considering what to do with the ship. All the options under consideration are very expensive.
 

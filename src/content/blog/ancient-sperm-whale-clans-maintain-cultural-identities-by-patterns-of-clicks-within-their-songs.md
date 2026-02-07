@@ -14,12 +14,12 @@ tags:
   - "Project Ceti"
   - "Songs"
   - "sperm whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/spermwhalecodas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/spermwhalecodas.jpg"
 author: "Rick Spilman"
 description: "A fascinating study recently published in the Proceedings of the National Academy of Sciences suggests that seven ancient \"clans\" of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/spermwhalecodas.jpg)A fascinating study recently published in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/full/10.1073/pnas.2201692119) suggests that seven ancient “clans” of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/spermwhalecodas.jpg)A fascinating study recently published in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/full/10.1073/pnas.2201692119) suggests that seven ancient “clans” of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs.
 
 It’s the first time cultural markers have been observed among whales, and they mimic markers of cultural identity among human groups, like distinctive dialects or tattoos.
 

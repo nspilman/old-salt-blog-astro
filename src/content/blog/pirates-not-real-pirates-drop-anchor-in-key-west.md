@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In my grumpier moments, I object to celebrating Disneyfied pirates, especially given that piracy is, after all, still a serious problem and not merely a quaint relic of the 16th and 17th centuries.  Then again, I can’t be grumpy all the time. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/piratesinparadise.jpg)In my grumpier moments, I object to celebrating Disneyfied pirates, especially given that piracy is, after all, still a serious problem and not merely a quaint relic of the 16th and 17th centuries.  Then again, I can’t be grumpy all the time.   [“Pirates in Paradise”](http://www.piratesinparadise.com/), the ten days of “pure piratical escapades celebrating Key West’s rich & colorful maritime heritage” sounds like lots of fun, particularly if enough rum is involved.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/piratesinparadise.jpg)In my grumpier moments, I object to celebrating Disneyfied pirates, especially given that piracy is, after all, still a serious problem and not merely a quaint relic of the 16th and 17th centuries.  Then again, I can’t be grumpy all the time.   [“Pirates in Paradise”](http://www.piratesinparadise.com/), the ten days of “pure piratical escapades celebrating Key West’s rich & colorful maritime heritage” sounds like lots of fun, particularly if enough rum is involved.
 
 [Pirates in Paradise](http://www.piratesinparadise.com/)  
   

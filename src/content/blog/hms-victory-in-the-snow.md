@@ -19,8 +19,8 @@ description: "Portsmouth Historic Dockyard has posted some lovely photos of HMS 
 
 #gallery-3 { margin: auto; } #gallery-3 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-3 img { border: 2px solid #cfcfcf; } #gallery-3 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow1-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow1-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow1.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow3-94x125.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow3.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow3-94x125.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow3.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow2-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/12/victorysnow2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow2-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow2.jpg)

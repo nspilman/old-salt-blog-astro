@@ -14,12 +14,12 @@ tags:
   - "USS Clamagore"
   - "USS LAFFEY"
   - "USS Yorktown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/clamagore.jpg"
 author: "Rick Spilman"
 description: "The Patriots Point Naval & Maritime Museum in South Carolina has decided after years of debate to scrap USS Clamagore, a Cold War-era submarine, and save some of its artifacts for an exhibit.  \"Unfortunately, we cannot financially sustain the maintenance … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg)The [Patriots Point Naval & Maritime Museum](https://www.patriotspoint.org/) in South Carolina has decided after years of debate to scrap [USS *Clamagore*](https://en.wikipedia.org/wiki/USS_Clamagore_\(SS-343\)), a Cold War-era submarine, and save some of its artifacts for an exhibit. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/clamagore.jpg)The [Patriots Point Naval & Maritime Museum](https://www.patriotspoint.org/) in South Carolina has decided after years of debate to scrap [USS *Clamagore*](https://en.wikipedia.org/wiki/USS_Clamagore_\(SS-343\)), a Cold War-era submarine, and save some of its artifacts for an exhibit. 
 
 “Unfortunately, we cannot financially sustain the maintenance of three historic vessels,” Rorie Cartier, executive director at Patriots Point, said in a statement after the vote. “The USS *Yorktown* and USS *Laffey* also need repair, and we are fighting a never-ending battle against the corrosion that comes from being submerged in saltwater.”
 

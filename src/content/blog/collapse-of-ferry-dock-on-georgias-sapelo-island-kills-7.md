@@ -11,12 +11,12 @@ tags:
   - "Georgia"
   - "Gullah-Geechee"
   - "Sapelo Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/dockcollapse.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/dockcollapse.jpg"
 author: "Rick Spilman"
 description: "At least seven people were killed yesterday when part of a ferry dock collapsed on Georgia’s Sapelo Island, where crowds had gathered for a fall celebration by the island’s tiny Gullah-Geechee community of Black slave descendants. The Georgia Department of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/dockcollapse.jpg)At least seven people were killed yesterday when part of a ferry dock collapsed on Georgia’s Sapelo Island, where crowds had gathered for a [fall celebration by the island’s tiny Gullah-Geechee community](https://www.facebook.com/SapeloIsland) of Black slave descendants.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/dockcollapse.jpg)At least seven people were killed yesterday when part of a ferry dock collapsed on Georgia’s Sapelo Island, where crowds had gathered for a [fall celebration by the island’s tiny Gullah-Geechee community](https://www.facebook.com/SapeloIsland) of Black slave descendants.
 
 The Georgia Department of Natural Resources, which manages the island and operates its ferry service, said on Sunday that [20 people went into the water](https://www.nytimes.com/2024/10/19/us/sapelo-island-dock-collapse.html?smid=nytcore-android-share) when the gangway collapsed and that three people remained in critical condition. All of the people who went into the water have been accounted for.
 

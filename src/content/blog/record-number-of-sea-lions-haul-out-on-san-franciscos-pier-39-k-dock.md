@@ -14,12 +14,12 @@ tags:
   - "Pier 39"
   - "San Francisco"
   - "Sea Lions"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/pier39.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/pier39.jpg"
 author: "Rick Spilman"
 description: "In the last week or so, over 1,000 sea lions have hauled out on San Francisco’s Pier 39, K-Dock, the largest assembly of the boisterous pinnipeds in roughly 15 years. As noted on the Pier 39 website: A few California … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/pier39.jpg)In the last week or so, over 1,000 sea lions have hauled out on San Francisco’s Pier 39, K-Dock, the largest assembly of the boisterous pinnipeds in roughly 15 years.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/pier39.jpg)In the last week or so, over 1,000 sea lions have hauled out on San Francisco’s Pier 39, K-Dock, the largest assembly of the boisterous pinnipeds in roughly 15 years.
 
 As noted on the [Pier 39 website](https://www.pier39.com/sealions/): *A few California sea lions began “hauling out” on Pier 39’s K-Dock shortly after the Loma Prieta earthquake hit San Francisco in October 1989. By January 1990, the boisterous barking pinnipeds started to arrive in droves and completely took over K-Dock, much to the exasperation of Pier 39’s Marina tenants.*
 

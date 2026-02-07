@@ -12,12 +12,12 @@ tags:
   - "Old Town Alexandria"
   - "Providence"
   - "Virginia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/05/shipsalexandria.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/shipsalexandria.jpg"
 author: "Rick Spilman"
 description: "Last October we posted about the Providence, a replica of a Revolutionary War sloop, which in the summer of 2019, will be moving to its new home port, Old Town Alexandria, VA. Old Town Alexandria is certainly no stranger to 18th-century ships. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/shipsalexandria.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/shipsalexandria.jpg)
 
 Photo: Katherine Frey/The Washington Post
 

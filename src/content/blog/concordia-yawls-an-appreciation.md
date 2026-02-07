@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Concordia yawl is the most successful and beloved class of wooden offshore sailboats ever built."
 ---
 
-![Photo: Concordia Company](http://www.oldsaltblog.com/wp-content/uploads/2014/08/banner_suva.jpg)
+![Photo: Concordia Company](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/banner_suva.jpg)
 
 Photo: Concordia Company
 

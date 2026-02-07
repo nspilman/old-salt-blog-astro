@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Not a great shock, but Cmdr. Andrew Coles has been relived of his command of  HMS Astute, the Royal Navy’s newest and \"stealthiest\" submarine which very publicly  ran aground last month near the Skye bridge off the Isle of Skye. Officer relieved of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/t1larg.astute.afp_.gi_.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/t1larg.astute.afp_.gi_.jpg)
 
 Photo: AFP/Getty Images
 

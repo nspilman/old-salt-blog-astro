@@ -14,12 +14,12 @@ tags:
   - "Navy's History and Heritage Command"
   - "USS Harder"
   - "World War II submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/ussharder.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/ussharder.jpg"
 author: "Rick Spilman"
 description: "The  USS Harder, said to be the US Navy submarine that sank the most Japanese warships during World War Two, has been found in the South China Sea, some 80 years after it was sunk.  The Harder, a Gato class … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/ussharder.jpg)The  [*USS Harder*](https://www.history.navy.mil/news-and-events/news/2024/WWII-submarine-wreck-confirmed.html), said to be the [US Navy submarine that sank the most Japanese warships during World War Two](https://www.bbc.com/news/articles/ceqq8gn014xo), has been found in the South China Sea, some 80 years after it was sunk. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/ussharder.jpg)The  [*USS Harder*](https://www.history.navy.mil/news-and-events/news/2024/WWII-submarine-wreck-confirmed.html), said to be the [US Navy submarine that sank the most Japanese warships during World War Two](https://www.bbc.com/news/articles/ceqq8gn014xo), has been found in the South China Sea, some 80 years after it was sunk. 
 
 The Harder, a Gato class submarine, was sunk in battle on 29 August 1944, along with its crew of 79 men. Resting at a depth of more than 3,000 feet, the vessel sits upright on her keel relatively intact except for the depth-charge damage aft of the conning tower. The wreckage of the submarine was found off the Philippines’ northern island of Luzon.
 

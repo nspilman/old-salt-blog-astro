@@ -23,8 +23,8 @@ Last August, [we posted about the collision](http://www.oldsaltblog.com/2010/08/
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra1-125x57.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra1-125x57.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra1.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra2-125x48.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra2-125x48.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra2.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra3-125x46.jpg)](https://oldsaltblog.com/wp-content/uploads/2011/04/chitra3.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra3-125x46.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra3.jpg)

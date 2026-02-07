@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "In May of 2010, we posted about a serious rigging failure suffered by the schooner Amistad while in heavy seas off the Florida coast.  The schooner limped back to Mystic, CT, where she built,  to undergo $100,000 in repairs.  She has not sailed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/amistad1e.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/amistad1e.jpg)
 
 The Amistad in better days
 

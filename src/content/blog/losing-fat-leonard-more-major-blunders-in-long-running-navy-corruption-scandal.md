@@ -13,12 +13,12 @@ tags:
   - "San Diego Fugitive Task Force"
   - "U.S. Marshals Service"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/fatleonardwanted.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/fatleonardwanted.jpg"
 author: "Rick Spilman"
 description: "On the morning of September 4, at 7:35 AM, Leonard Glenn Francis, known as \"Fat Leonard,\" cut his ankle bracelet monitor and fled house arrest in San Diego. \"Fat Leonard,\" the 350 pound Malaysian businessman at the center of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/fatleonardwanted.jpg)On the morning of September 4, at 7:35 AM, Leonard Glenn Francis, known as “Fat Leonard,” cut his ankle bracelet monitor and [fled house arrest in San Diego](https://www.oldsaltblog.com/2022/09/breaking-news-fat-leonard-escapes-house-arrest/). “Fat Leonard,” the 350 pound Malaysian businessman at the center of the [largest bribery scandal in US Navy history](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/), had been under house arrest in San Diego since his guilty plea in 2015, undergoing treatment for cancer — and [podcasting](https://www.oldsaltblog.com/2022/06/fat-leonard-a-major-navy-corruption-scandal-then-an-award-winning-podcast-and-soon-a-tv-series/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/fatleonardwanted.jpg)On the morning of September 4, at 7:35 AM, Leonard Glenn Francis, known as “Fat Leonard,” cut his ankle bracelet monitor and [fled house arrest in San Diego](https://www.oldsaltblog.com/2022/09/breaking-news-fat-leonard-escapes-house-arrest/). “Fat Leonard,” the 350 pound Malaysian businessman at the center of the [largest bribery scandal in US Navy history](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/), had been under house arrest in San Diego since his guilty plea in 2015, undergoing treatment for cancer — and [podcasting](https://www.oldsaltblog.com/2022/06/fat-leonard-a-major-navy-corruption-scandal-then-an-award-winning-podcast-and-soon-a-tv-series/).
 
 At last count, the [long-running fraud and bribery investigation](https://www.marinelog.com/news/feds-offer-40000-reward-for-fat-leonard/?utm_source=&utm_medium=email&utm_campaign=35160) has resulted in federal criminal charges against 34 U.S. Navy officials, with 33 defendants convicted of various fraud and corruption offenses, while a federal jury failed to reach a verdict on charges brought against retired Rear Admiral Bruce Loveless.
 

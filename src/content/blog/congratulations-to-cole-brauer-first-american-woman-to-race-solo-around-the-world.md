@@ -14,12 +14,12 @@ tags:
   - "First Light"
   - "Global Solo Challenge"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/colefirstlight2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/colefirstlight2.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Cole Brauer, who finished second in the Global Solo Challenge, becoming the first American woman to race solo nonstop around the world, traveling roughly 28,000 miles, in her 40′ sailboat First Light.  Brauer, at 29 years old, was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/colefirstlight2.jpg)Congratulations to [Cole Brauer](https://www.instagram.com/colebraueroceanracing/?hl=en), who finished second in the [Global Solo Challenge](https://globalsolochallenge.com/), becoming the first American woman to race solo nonstop around the world, traveling roughly 28,000 miles, in her 40′ sailboat *First Light*. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/colefirstlight2.jpg)Congratulations to [Cole Brauer](https://www.instagram.com/colebraueroceanracing/?hl=en), who finished second in the [Global Solo Challenge](https://globalsolochallenge.com/), becoming the first American woman to race solo nonstop around the world, traveling roughly 28,000 miles, in her 40′ sailboat *First Light*. 
 
 Brauer, at 29 years old, was also the youngest and only woman in the fleet of 16 competitors that set sail in October from A Coruna, Spain.  She arrived back in A Coruna last Thursday after a 130-day circumnavigation, rounding the three great capes.
 

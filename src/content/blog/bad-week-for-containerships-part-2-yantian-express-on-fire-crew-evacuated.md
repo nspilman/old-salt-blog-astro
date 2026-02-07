@@ -14,12 +14,12 @@ tags:
   - "Smit Nicobar"
   - "tugboat"
   - "Yantian Express"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/yantianexpress-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/yantianexpress-1.jpg"
 author: "Rick Spilman"
 description: "On Thursday, a fire broke out in one cargo container on the Yantian Express, a 7,510 TEU container ship, about 1,500 kilometers southeast of Halifax. The fire spread to adjacent containers. The firefighting tug, Smit Nicobar, arrived Friday evening but weather conditions limited what the tug’s crew could … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/yantianexpress.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/yantianexpress.jpg)
 
 Yantian Express, ex Shanghai Express
 

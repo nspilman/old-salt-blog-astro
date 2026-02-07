@@ -14,12 +14,12 @@ tags:
   - "Crystal Symphony"
   - "Genting Hong Kong Ltd."
   - "Peninsula Petroleum Far East"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/csymphony.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/csymphony.jpg"
 author: "Rick Spilman"
 description: "The Crystal Symphony left from Miami on January 8 on a two-week cruise and was supposed to return to the same port on Saturday. After a United States federal judge ordered the ship seized over a lawsuit regarding unpaid fuel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/csymphony.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/csymphony.jpg)
 
 Photo: Bahnfrend
 

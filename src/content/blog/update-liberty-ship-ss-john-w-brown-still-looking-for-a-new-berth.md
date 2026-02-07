@@ -13,12 +13,12 @@ tags:
   - "John W. Brown"
   - "Liberty ship"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/johnbrownliberty2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/johnbrownliberty2.jpg"
 author: "Rick Spilman"
 description: "A year ago, we posted about the search for a berth for the Liberty ship John W. Brown. Now, the ship, the last surviving troopship from World War II, must find a new home by the end of the year … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/johnbrownliberty2.jpg)A year ago, [we posted about the search for a berth](http://www.oldsaltblog.com/2018/11/historic-liberty-ship-john-w-brown-looking-for-a-new-berth/) for the [Liberty ship *John W. Brown.*](https://www.ssjohnwbrown.org/) Now, the ship, the last surviving troopship from World War II, must find a new home by the end of the year due to the expiration of its current lease on Pier C on Clinton Street. From the [Project Liberty Ship](https://www.ssjohnwbrown.org/blog/2019/11/12/ss-john-w-brown-in-the-news-really-all-over-the-news) press release:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/johnbrownliberty2.jpg)A year ago, [we posted about the search for a berth](http://www.oldsaltblog.com/2018/11/historic-liberty-ship-john-w-brown-looking-for-a-new-berth/) for the [Liberty ship *John W. Brown.*](https://www.ssjohnwbrown.org/) Now, the ship, the last surviving troopship from World War II, must find a new home by the end of the year due to the expiration of its current lease on Pier C on Clinton Street. From the [Project Liberty Ship](https://www.ssjohnwbrown.org/blog/2019/11/12/ss-john-w-brown-in-the-news-really-all-over-the-news) press release:
 
 *For several years the ship was housed at a Clinton Street pier owned by the state of Maryland, but that pier was sold and the lease arrangement that enabled the Brown to stay at that pier expired. The new pier owners generously offered S.S. JOHN W. BROWN an alternate berth at Pier C on a temporary basis and have been cooperative and flexible with Project Liberty Ship’s uncertain and ever-developing future. However, the current lease agreement, despite several extensions, is expiring at the end of 2019.*
 

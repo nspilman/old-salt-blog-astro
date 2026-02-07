@@ -10,12 +10,12 @@ tags:
   - "Exercise Tiger"
   - "Landing Ship Tanks"
   - "LST"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/exercisetiger.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/exercisetiger.jpg"
 author: "Rick Spilman"
 description: "Two Landing Ship Tanks (LSTs), sunk in a disastrous rehearsal of the D-Day landing, have been granted protected status by the government of Great Britain. At least 749 US sailors and soldiers died when the ships were attacked by German … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/exercisetiger.jpg)Two [Landing Ship Tanks (LSTs),](https://en.wikipedia.org/wiki/Landing_Ship,_Tank) sunk in a disastrous rehearsal of the D-Day landing, have been granted [protected status by the government of Great Britain](https://www.theguardian.com/world/2020/may/01/wrecks-of-us-vessels-from-d-day-rehearsal-given-protected-status). At least 749 US sailors and soldiers died when the ships were attacked by [German E-boats](https://en.wikipedia.org/wiki/E-boat), fast patrol torpedo boats, in late April of 1944, on the coast of Devon. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/exercisetiger.jpg)Two [Landing Ship Tanks (LSTs),](https://en.wikipedia.org/wiki/Landing_Ship,_Tank) sunk in a disastrous rehearsal of the D-Day landing, have been granted [protected status by the government of Great Britain](https://www.theguardian.com/world/2020/may/01/wrecks-of-us-vessels-from-d-day-rehearsal-given-protected-status). At least 749 US sailors and soldiers died when the ships were attacked by [German E-boats](https://en.wikipedia.org/wiki/E-boat), fast patrol torpedo boats, in late April of 1944, on the coast of Devon. 
 
 “[Exercise Tiger](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Exercise-Tiger/)” was the largest of several “rehearsal” landings made on UK beaches prior to the actual landings on D-Day in June 1944. Slapton Sands off Devon was selected as a site as it resembled part of the French Normandy coast chosen for the landings. “Exercise Tiger” was intended as a realistic rehearsal for the landings on [Utah Beach](https://en.wikipedia.org/wiki/Utah_Beach) by American forces.
 

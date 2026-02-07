@@ -14,12 +14,12 @@ tags:
   - "US Navy"
   - "USS Fitgerald"
   - "USS John McCain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/fitzgerald2.jpg"
 author: "Rick Spilman"
 description: "The fallout continues from the recent collisions with merchant ships in the Pacific involving the destroyers USS Fitgerald and the USS John McCain. The collisions resulted in the deaths of 17 US sailors. Earlier in the year, two guided missile … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg)The fallout continues from the recent collisions with merchant ships in the Pacific involving the destroyers [USS *Fitgerald*](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-nearly-sank-following-collision-seven-sailors-died-deck/) and the [USS *John McCain*](http://www.oldsaltblog.com/2017/08/destroyer-uss-john-s-mccain-collides-tanker-10-missing-5-injured/). The collisions resulted in the deaths of 17 US sailors. Earlier in the year, two guided missile cruisers based in the Pacific were also in casualties — one grounding and one collision — without loss of life.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/fitzgerald2.jpg)The fallout continues from the recent collisions with merchant ships in the Pacific involving the destroyers [USS *Fitgerald*](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-nearly-sank-following-collision-seven-sailors-died-deck/) and the [USS *John McCain*](http://www.oldsaltblog.com/2017/08/destroyer-uss-john-s-mccain-collides-tanker-10-missing-5-injured/). The collisions resulted in the deaths of 17 US sailors. Earlier in the year, two guided missile cruisers based in the Pacific were also in casualties — one grounding and one collision — without loss of life.
 
 The Navy has announced the removal of Rear Adm. Charles Williams, commander of Combined Task Force 70, the Navy’s largest operational battle force. Also being removed is his subordinate, Captain Jeffery Bennett, commodore of Destroyer Squadron 15, the squadron. The Navy describes the actions as being part of “ongoing accountability actions as part of the Navy investigations.”  Not directly related to the dismissals, the head of U.S. Naval Surface Forces Vice Adm. Tom Rowden put in a request last week to retire about two months early, several Navy officials confirmed to [USNI News](https://news.usni.org/2017/09/18/admiral-captain-removed-part-investigation-uss-john-s-mccain-uss-fitzgerald-collisions-head-surface-forces-puts-early-retirement-request).  
 

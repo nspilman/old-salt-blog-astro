@@ -11,12 +11,12 @@ tags:
   - "oceanographer"
   - "Scripps Institution of Oceanography"
   - "Walter H. Munk"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/wmunk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/wmunk.jpg"
 author: "Rick Spilman"
 description: "Walter H. Munk, world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as \"Einstein of the sea\", Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/wmunk-190x200.jpg)[Walter H. Munk](https://en.wikipedia.org/wiki/Walter_Munk), world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as “[Einstein of the sea](https://www.nytimes.com/2019/02/09/obituaries/walter-h-munk-scientist-explorer-who-illuminated-the-deep-dies-at-101.html)“, Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in World War II to pioneering research on oceanic sound transmission to measure changes in water temperatures, forecast waves and seek signs of global warming.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/wmunk-190x200.jpg)[Walter H. Munk](https://en.wikipedia.org/wiki/Walter_Munk), world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as “[Einstein of the sea](https://www.nytimes.com/2019/02/09/obituaries/walter-h-munk-scientist-explorer-who-illuminated-the-deep-dies-at-101.html)“, Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in World War II to pioneering research on oceanic sound transmission to measure changes in water temperatures, forecast waves and seek signs of global warming.  
 
 From the [Scripps Institution obituary](https://scripps.ucsd.edu/news/obituary-notice-walter-munk-world-renowned-oceanographer-revered-scientist):  As a geophysicist at Scripps Institution of Oceanography at the University of California San Diego, Munk made groundbreaking observations of waves, ocean temperature, tidal energy in the deep ocean, ocean acoustics and the rotation of the earth. As an advocate of science and broader scholarship, Munk served as an advisor to presidents and the Pentagon and conferred with public figures including the Dalai Lama and Pope Francis. His convictions led him to refuse to sign a loyalty oath required by the University of California during the peak of anti-communist fervor in the early 1950s and his passion helped create the architecture that would become the defining style of the Scripps Oceanography campus.
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "An explosion in a fuel tank on  the  cruise ship docks in Gibraltar today injured several on the dock and over twelve passengers on the 3,634-passenger Royal Caribbean   cruise  ship,  Independence of the Seas.  The injuries to passengers were all reported to be minor. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/gibexplosion.jpg)An explosion in a fuel tank on  the  cruise ship docks in Gibraltar today injured several on the dock and over twelve passengers on the 3,634-passenger Royal Caribbean   cruise  ship,  *[Independence of the Seas](http://www.royalcaribbean.com/findacruise/ships/class/ship/home.do?shipCode=ID)*.  The injuries to passengers were all reported to be minor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/gibexplosion.jpg)An explosion in a fuel tank on  the  cruise ship docks in Gibraltar today injured several on the dock and over twelve passengers on the 3,634-passenger Royal Caribbean   cruise  ship,  *[Independence of the Seas](http://www.royalcaribbean.com/findacruise/ships/class/ship/home.do?shipCode=ID)*.  The injuries to passengers were all reported to be minor.
 
 [Explosion, fire in Gibraltar fuel tank, two injured](http://www.google.com/hostednews/afp/article/ALeqM5iRH5ZhzGyl-yz-ymrrfK8l8zKG0A?docId=CNG.15a9f2c8981c643e4711b77b66359343.9e1)  
   

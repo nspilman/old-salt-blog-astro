@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Positive news from Grays Harbor Historical Seaport in Aberdeen, WA. The Hawaiian Chieftain, a 65′ on deck square topsail ketch,  has been sold and will eventually be returning to her home state of Hawai’i. Briefly known as the Spirit of Larinda. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/cheify.jpg)Positive news from [Grays Harbor Historical Seaport](https://historicalseaport.org/#) in Aberdeen, WA. The *Hawaiian Chieftain*, a 65′ on deck square topsail ketch,  has been sold and will eventually be returning to her home state of Hawai’i. Briefly known as the *Spirit of Larinda*. the steel-hulled ketch was built in 1988 in Lahaina on the island of Maui. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/cheify.jpg)Positive news from [Grays Harbor Historical Seaport](https://historicalseaport.org/#) in Aberdeen, WA. The *Hawaiian Chieftain*, a 65′ on deck square topsail ketch,  has been sold and will eventually be returning to her home state of Hawai’i. Briefly known as the *Spirit of Larinda*. the steel-hulled ketch was built in 1988 in Lahaina on the island of Maui. 
 
 From the [Grays Harbor announcement](https://historicalseaport.org/wp-content/uploads/2021/07/Chieftain-Press-Release-7-15-p.pdf?fbclid=IwAR1qfhQ6GEnZ5LaKkcIwidZgK1pr7q-_vVw7h2aFEGgI_iFyaXmDUhvqEcUhttps://www.facebook.com/GHHSA/posts/10159200185905837):
 

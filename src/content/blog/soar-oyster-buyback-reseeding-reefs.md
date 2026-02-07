@@ -12,12 +12,12 @@ tags:
   - "SOAR"
   - "Supporting Oyster Aquaculture and Restoration"
   - "The Nature Conservancy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg"
 author: "Rick Spilman"
 description: "The pandemic has been brutal to the restaurant industry. Likewise, the small-scale oyster growers of Barnegat and Delaware bays have been extremely hard hit as restaurants cut back on their orders or shut down altogether.  One bit of good news, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg)The pandemic has been brutal to the restaurant industry. Likewise, the small-scale oyster growers of Barnegat and Delaware bays have been extremely hard hit as restaurants cut back on their orders or shut down altogether. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg)The pandemic has been brutal to the restaurant industry. Likewise, the small-scale oyster growers of Barnegat and Delaware bays have been extremely hard hit as restaurants cut back on their orders or shut down altogether. 
 
 One bit of good news, however, is a new partnership formed by the Pew Charitable Trusts and The Nature Conservancy, intended to support the oyster industry while also helping to restore damaged and dying reefs in coastal waters.
 

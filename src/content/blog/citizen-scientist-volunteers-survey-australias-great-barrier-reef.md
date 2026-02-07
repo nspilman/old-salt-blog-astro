@@ -12,12 +12,12 @@ tags:
   - "crowdsourcing"
   - "Great Barrier Reef"
   - "Great Reef Census 2021"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/greatreefcensus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/greatreefcensus.jpg"
 author: "Rick Spilman"
 description: "Crowdsourcing has arrived on Australia’s Great Barrier Reef. Thousands of \"citizen scientist\" volunteers have spent the last 12 weeks participating in the Great Reef Census 2021. Volunteer teams of scientists, divers, tourists, and skippers have ventured to the far corners … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/greatreefcensus.jpg)[Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) has arrived on Australia’s [Great Barrier Reef](https://greatbarrierreef.org/). Thousands of “citizen scientist” volunteers have spent the last 12 weeks participating in the [Great Reef Census 2021.](https://greatreefcensus.org/) Volunteer teams of scientists, divers, tourists, and skippers have ventured to the far corners of the reef, from the tip of Cape York to the remote southern Swains. Last year, volunteers captured and uploaded over 13,000 images to the Great Reef Census platform. This year over 30,00 images have been submitted in the survey that ends tomorrow.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/greatreefcensus.jpg)[Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing) has arrived on Australia’s [Great Barrier Reef](https://greatbarrierreef.org/). Thousands of “citizen scientist” volunteers have spent the last 12 weeks participating in the [Great Reef Census 2021.](https://greatreefcensus.org/) Volunteer teams of scientists, divers, tourists, and skippers have ventured to the far corners of the reef, from the tip of Cape York to the remote southern Swains. Last year, volunteers captured and uploaded over 13,000 images to the Great Reef Census platform. This year over 30,00 images have been submitted in the survey that ends tomorrow.
 
 From the [Great Reef Census website](https://greatreefcensus.org/): *Spanning 2,300km in length and comprising over 3,000 individual reefs, the Great Barrier Reef is one of the world’s most incredible natural icons, but only 5-10% is regularly surveyed. Given the immense size of the Reef, the impacts of disturbance events such as coral bleaching, extreme weather and poor water quality are often patchy, affecting some reefs more than others.*
 

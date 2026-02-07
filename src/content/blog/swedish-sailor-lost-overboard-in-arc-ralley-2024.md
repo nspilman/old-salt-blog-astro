@@ -17,12 +17,12 @@ tags:
   - "Swedish sailor"
   - "Volvo 70 racing yacht"
   - "World Cruising Club"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/oceanbreeze.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/oceanbreeze.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the World Cruising Club (WCC) released a statement regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht Ocean Breeze on Monday while sailing with the Atlantic Rally for Cruisers (ARC). \"It is with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/oceanbreeze.jpg)Yesterday, the World Cruising Club (WCC) released a [statement](https://www.worldcruising.com/newsarticle.aspx?page=S638688128957866128&ArchiveID=1&CategoryID=190&ItemID=277954&src=) regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht *Ocean Breeze* on Monday while sailing with the [Atlantic Rally for Cruisers](https://www.worldcruising.com/arc/event.aspx) (ARC).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/oceanbreeze.jpg)Yesterday, the World Cruising Club (WCC) released a [statement](https://www.worldcruising.com/newsarticle.aspx?page=S638688128957866128&ArchiveID=1&CategoryID=190&ItemID=277954&src=) regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht *Ocean Breeze* on Monday while sailing with the [Atlantic Rally for Cruisers](https://www.worldcruising.com/arc/event.aspx) (ARC).
 
 “It is with great sadness that World Cruising Club confirms that a 33-year-old sailor was lost overboard from yacht *Ocean Breeze* on Monday 2 December at 02:27 UTC. Next of kin have been informed and the other 14 crew onboard the yacht are safe.
 

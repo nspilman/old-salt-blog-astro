@@ -12,12 +12,12 @@ tags:
   - "Great Barrier Reef"
   - "Lizard Island"
   - "Suzanne Rees"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/coraladventurer2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/coraladventurer2.jpg"
 author: "Rick Spilman"
 description: "The last time the expedition cruise ship Coral Adventurer was in the news was in October, when the ship sailed from Lizard Island on the Great Barrier Reef, leaving Suzanne Rees, an 80-year-old passenger, behind on the remote island, where she … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/coraladventurer2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/coraladventurer2.jpg)
 
 The last time the expedition cruise ship [*Coral Adventurer*](https://www.coralexpeditions.com/vessel/coral-adventurer) was in the news was in October, when the ship sailed from [Lizard Island](https://en.wikipedia.org/wiki/Lizard_Island) on the Great Barrier Reef, leaving Suzanne Rees, an 80-year-old passenger, behind on the remote island, where she died. A [major search operation found her body the following day](https://www.oldsaltblog.com/2025/11/passenger-on-expedition-cruise-ship-dies-after-being-left-behind-on-remote-island/#more-62886). An investigation is underway in Ms. Rees’ death.
 

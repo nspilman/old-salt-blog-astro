@@ -12,12 +12,12 @@ tags:
   - "South Wales"
   - "Vale of Glamorgan"
   - "Victorian hobnailed shoes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/beachshoes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/beachshoes.jpg"
 author: "Rick Spilman"
 description: "Hundreds of Victorian hobnailed shoes have washed ashore on the UK’s Ogmore By Sea Beach in the Vale of Glamorgan, South Wales. The remarkable trove of footwear was discovered by volunteers from the Beach Academy cleaning up rock pools on the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/beachshoes-1.jpg)Hundreds of Victorian hobnailed shoes have washed ashore on the UK’s Ogmore By Sea Beach in the Vale of Glamorgan, South Wales. The remarkable trove of footwear was discovered by volunteers from the [Beach Academy](https://www.beachacademywales.com/) cleaning up rock pools on the beach last week on December 18.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/beachshoes-1.jpg)Hundreds of Victorian hobnailed shoes have washed ashore on the UK’s Ogmore By Sea Beach in the Vale of Glamorgan, South Wales. The remarkable trove of footwear was discovered by volunteers from the [Beach Academy](https://www.beachacademywales.com/) cleaning up rock pools on the beach last week on December 18.  
    
 Nearly 450 of the strange boots and shoes have so far been found by members of the  community interest group, who called it an ‘amazing day of discovery’.
 

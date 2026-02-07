@@ -14,12 +14,12 @@ tags:
   - "San Diego Fire Department"
   - "USS Bonhomme Richard"
   - "Vice Adm. Scott Conn"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "Following an investigation of the fire that destroyed the US Navy amphibious assault ship USS Bonhomme Richard, Admiral Bill Lescher, the Navy’s No. 2 officer said, \"The loss of this ship was completely preventable.\" USNI News reported that a cascade … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)Following an [investigation of the fire that destroyed the US Navy amphibious assault ship](https://news.usni.org/2021/10/20/navy-investigation-into-uss-bonhomme-richard-fire-major-fires-review) [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)#July_2020_fire), Admiral Bill Lescher, the Navy’s No. 2 officer said, [“The loss of this ship was completely preventable.”](https://www.washingtonpost.com/national-security/2021/10/20/bonhomme-richard-fire-investigation/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg)Following an [investigation of the fire that destroyed the US Navy amphibious assault ship](https://news.usni.org/2021/10/20/navy-investigation-into-uss-bonhomme-richard-fire-major-fires-review) [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)#July_2020_fire), Admiral Bill Lescher, the Navy’s No. 2 officer said, [“The loss of this ship was completely preventable.”](https://www.washingtonpost.com/national-security/2021/10/20/bonhomme-richard-fire-investigation/)
 
 [USNI News](https://news.usni.org/2021/10/19/long-chain-of-failures-left-sailors-unprepared-to-fight-uss-bonhomme-richard-investigation-finds) reported that a cascade of failures – from a junior enlisted sailor not recognizing a fire at the end of their duty watch to fundamental problems with how the U.S. Navy trains sailors to fight fires in shipyards – are responsible for the five-day blaze that cost the service an amphibious warship, according to an investigation into the July 2020 USS *Bonhomme Richard* (LHD-6) fire.
 

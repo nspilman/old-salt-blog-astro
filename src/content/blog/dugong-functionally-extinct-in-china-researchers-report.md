@@ -10,12 +10,12 @@ tags:
   - "dugong"
   - "extinct in China"
   - "mermaid"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/dugong.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/dugong.jpg"
 author: "Rick Spilman"
 description: "Researchers writing in the journal Royal Society Open Science have concluded that the dugong, a mammal related to the manatee – said to have inspired ancient tales of mermaids and sirens – is now extinct in China.  Only three people … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/dugong.jpg)Researchers writing in the journal [Royal Society Open Science](https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.211994) have concluded that the dugong, a mammal related to the manatee – said to have inspired ancient tales of mermaids and sirens – is now extinct in China. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/dugong.jpg)Researchers writing in the journal [Royal Society Open Science](https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.211994) have concluded that the dugong, a mammal related to the manatee – said to have inspired ancient tales of mermaids and sirens – is now extinct in China. 
 
 Only three people surveyed from coastal communities in China reported seeing the dugong in the past five years.
 

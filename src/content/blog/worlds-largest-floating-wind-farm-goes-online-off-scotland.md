@@ -15,12 +15,12 @@ tags:
   - "Kincardine Offshore Wind"
   - "Scotland"
   - "Statkraft"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/floatingwindfarm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/floatingwindfarm.jpg"
 author: "Rick Spilman"
 description: "The world’s largest offshore floating wind farm has begun operation off Kincardine, approximately 15 kilometers off the southeast coast of Aberdeenshire, Scotland, at water depths ranging between 60 and 80 meters. The five floating turbines are expected to generate up … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/floatingwindfarm.jpg)The world’s largest offshore floating wind farm has begun operation off Kincardine, approximately 15 kilometers off the southeast coast of Aberdeenshire, Scotland, at water depths ranging between 60 and 80 meters. The five floating turbines are expected to generate up to 218GWh of clean electricity per year, an output that will be enough to power approximately 55,000 households.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/floatingwindfarm.jpg)The world’s largest offshore floating wind farm has begun operation off Kincardine, approximately 15 kilometers off the southeast coast of Aberdeenshire, Scotland, at water depths ranging between 60 and 80 meters. The five floating turbines are expected to generate up to 218GWh of clean electricity per year, an output that will be enough to power approximately 55,000 households.
 
 The project was developed by Kincardine Offshore Wind, a wholly-owned subsidiary of Pilot Offshore Renewables (POR). Cobra Wind, a subsidiary of ACS Group, is responsible for the [engineering, design, supply, construction, and commissioning](https://www.grupocobra.com/en/proyecto/kincardine-offshore-floating-wind-farm/) of the Kincardine floating wind farm.
 

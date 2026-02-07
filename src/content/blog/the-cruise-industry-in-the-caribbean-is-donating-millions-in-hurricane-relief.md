@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The cruise industry in the Caribbean is donating to help the Bahamian victims of Hurricane Dorian. Royal Caribbean, Carnival, Norwegian Caribbean and Disney have all pledged millions in hurricane relief. Royal Caribbean is committing $1 million to Dorian disaster relief, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/cruise-shipsdorian.jpg)The cruise industry in the Caribbean is donating to help the Bahamian victims of Hurricane Dorian. Royal Caribbean, Carnival, Norwegian Caribbean and Disney have all pledged millions in hurricane relief.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg)The cruise industry in the Caribbean is donating to help the Bahamian victims of Hurricane Dorian. Royal Caribbean, Carnival, Norwegian Caribbean and Disney have all pledged millions in hurricane relief.
 
 Royal Caribbean is committing $1 million to Dorian disaster relief, and ITM— a partner in real estate development—is also donating an additional $100,000. RCL is also matching donations from guests and employees through their charity partner *[Pan American Development Foundation](https://www.padf.org/) (PADF)*.  
 

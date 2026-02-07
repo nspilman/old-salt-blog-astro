@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, \"Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/submarine_closeA-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/submarine_closeA-1.jpg)
 
 It had all the elements of bad farce.  The *[HMS Astute](http://topics.nytimes.com/top/reference/timestopics/subjects/s/submarines_and_submersibles/hms_astute/index.html?scp=1-spot&sq=hms%20astute&st=cse)* is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the [BBC](http://www.bbc.co.uk/news/uk-scotland-highlands-islands-11609870), “Aside from attack capabilities, it is able to sit in waters off the coast undetected, delivering the UK’s special forces where needed or even listening to mobile phone conversations.”    After running hard aground on a shingle bank near the Skye Bridge on the Isle of Skye, becoming the subject of YouTube videos and the front page of the [New York Times web site](http://thelede.blogs.nytimes.com/2010/10/22/video-shows-stealth-nuclear-submarine-stuck-in-scottish-mud/?scp=3&sq=hms%20astute&st=cse) as well as hundreds of other news outlets, stealthy was not the first word that came to mind.  “Undetected,” she was definitely not.  
   

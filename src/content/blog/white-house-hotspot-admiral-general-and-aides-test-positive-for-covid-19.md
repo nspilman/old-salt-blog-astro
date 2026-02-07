@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "If anyone doubts that the coronavirus pandemic is having a negative impact on the national defense of the United States, one need only look at the expanding Covid-19 hotspot in the White House itself. A recent leaked FEMA memo said … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/covid.jpg)If anyone doubts that the coronavirus pandemic is having a negative impact on the national defense of the United States, one need only look at the expanding Covid-19 hotspot in the White House itself. A recent [leaked FEMA memo said that at least 34 people](https://abcnews.go.com/Politics/34-people-connected-white-house-previously-infected-coronavirus/story?id=73487381) connected with the White House have tested positive for the virus.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/covid.jpg)If anyone doubts that the coronavirus pandemic is having a negative impact on the national defense of the United States, one need only look at the expanding Covid-19 hotspot in the White House itself. A recent [leaked FEMA memo said that at least 34 people](https://abcnews.go.com/Politics/34-people-connected-white-house-previously-infected-coronavirus/story?id=73487381) connected with the White House have tested positive for the virus.
 
 Among that number, Coast Guard Admiral Charles Ray tested positive on Monday. Ray had attended a [maskless indoor reception for Gold Star military families](https://www.washingtonpost.com/national-security/2020/10/06/joint-chiefs-isolation-after-coast-guard-admiral-tests-positive-coronavirus-pentagon-says/) at the White House on September 27.
 

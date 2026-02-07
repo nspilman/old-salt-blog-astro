@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The Swedish Navy is hunting a mystery submarine, believed to be Russian, which was reported in its territorial waters last friday."
 ---
 
-![Swedish Corvette Visby, one of the ships searching for the mystery sub ](http://www.oldsaltblog.com/wp-content/uploads/2014/10/K31_HSwMS_Visby.jpg)
+![Swedish Corvette Visby, one of the ships searching for the mystery sub ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/K31_HSwMS_Visby.jpg)
 
 Swedish Corvette Visby, one of the ships searching for the mystery sub
 

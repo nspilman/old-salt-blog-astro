@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "My latest novel, Evening Gray Morning Red, will be published on October 15th in print and as an ebook. The Kindle ebook is available for pre-order on Amazon. About the novel: In Evening Gray Morning Red, a young American sailor must escape … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/EGMRcoverthumb.jpg)My latest novel, [*Evening Gray Morning Red*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=books&ie=UTF8&qid=1505569009&sr=1-1&keywords=spilman+evening+gray), will be published on October 15th in print and as an ebook. The Kindle ebook is available for [pre-order on Amazon](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=books&ie=UTF8&qid=1505569009&sr=1-1&keywords=spilman+evening+gray). About the novel:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg)My latest novel, [*Evening Gray Morning Red*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=books&ie=UTF8&qid=1505569009&sr=1-1&keywords=spilman+evening+gray), will be published on October 15th in print and as an ebook. The Kindle ebook is available for [pre-order on Amazon](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=books&ie=UTF8&qid=1505569009&sr=1-1&keywords=spilman+evening+gray). About the novel:
 
 In [*Evening Gray Morning Red*](https://www.amazon.com/dp/B075NY1SRL/ref=sr_1_1?s=books&ie=UTF8&qid=1505569009&sr=1-1&keywords=spilman+evening+gray), a young American sailor must escape his past and the clutches of the Royal Navy, in the turbulent years just before the American Revolutionary War.
 

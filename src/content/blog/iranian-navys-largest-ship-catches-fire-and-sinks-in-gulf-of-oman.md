@@ -14,12 +14,12 @@ tags:
   - "Jask"
   - "Kharg"
   - "largest ship in the Iranian Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/kharg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/kharg.jpg"
 author: "Rick Spilman"
 description: "Kharg, an Iranian Navy training and logistics ship, caught fire in the Gulf of Oman in the early hours of Wednesday local time. After more than 20 hours of firefighting and rescue operations, the ship subsequently sank near the port … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/kharg.jpg)[*Kharg*, an Iranian Navy training and logistics ship](https://en.wikipedia.org/wiki/IRIS_Kharg), caught [fire in the Gulf of Oman](https://www.nytimes.com/2021/06/02/world/middleeast/iran-navy-largest-ship-fire.html) in the early hours of Wednesday local time. After more than 20 hours of firefighting and rescue operations, the ship subsequently sank near the port of Jask. All 400 crew were rescued, with 33 reported injured. The Tasnim news agency, citing a statement from Iran’s navy, said that the ship had been deployed to international waters to participate in a naval exercise when “one of its systems” caught fire. The fire was reported to have started in the ship’s engine room.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/kharg.jpg)[*Kharg*, an Iranian Navy training and logistics ship](https://en.wikipedia.org/wiki/IRIS_Kharg), caught [fire in the Gulf of Oman](https://www.nytimes.com/2021/06/02/world/middleeast/iran-navy-largest-ship-fire.html) in the early hours of Wednesday local time. After more than 20 hours of firefighting and rescue operations, the ship subsequently sank near the port of Jask. All 400 crew were rescued, with 33 reported injured. The Tasnim news agency, citing a statement from Iran’s navy, said that the ship had been deployed to international waters to participate in a naval exercise when “one of its systems” caught fire. The fire was reported to have started in the ship’s engine room.
 
 *Kharg*, the largest ship in the Iranian Navy by tonnage, was a converted fleet oiler and had been in service almost 40 years.
 

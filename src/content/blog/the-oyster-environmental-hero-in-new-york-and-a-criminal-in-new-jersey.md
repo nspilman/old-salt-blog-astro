@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Recently a number of newspapers have run an Associated Press article  titled, \"New York’s new environmental ‘hero’ – the oyster.\"  The article describes how researchers are reseeding oysters in New York harbor   Each oyster can filter about 50 gallons of water a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/oyster.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/oyster.jpg)
 
 Hero or criminal?
 

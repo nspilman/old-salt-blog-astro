@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "While on peace time maneuvers off Libya on June 22, 1893, Vice Admiral George Tryon, the commander of the British Mediterranean Fleet, gave a series of orders that resulted in HMS Camperdown ramming his ship, HMS Victoria, which sank with the loss of 358 lives, including … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/victoriawreck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/victoriawreck.jpg)
 
 Wreck of HMS Victoria
 

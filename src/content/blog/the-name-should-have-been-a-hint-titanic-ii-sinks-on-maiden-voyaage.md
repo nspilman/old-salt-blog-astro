@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Who in their right mind would name a boat Titanic II in the first place?   Fortunately there was no loss of life.   Prophetically enough, there is already a movie, Titanic II.  It sank at the box office over a year … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/sink_1913891c.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/sink_1913891c.jpg)
 
 Who in their right mind would name a boat *Titanic II* in the first place?   Fortunately there was no loss of life.   Prophetically enough, there is already a movie, [Titanic II](http://www.imdb.com/title/tt1640571/).  It sank at the box office over a year before the cabin cruiser.
 

@@ -13,12 +13,12 @@ tags:
   - "Mount Kilimanjaro"
   - "pensioner adventurer"
   - "record-setting kayaker"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/adoba.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/adoba.jpg"
 author: "Rick Spilman"
 description: "Aleksander Doba died late last month at the summit of Mount Kilimanjaro at the age of 74. He will be best remembered as an irrepressible, record-setting kayaker who paddled across the Atlantic three times while in his 60s and 70s. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/adoba.jpg)[Aleksander Doba](https://en.wikipedia.org/wiki/Aleksander_Doba) died late last month at the summit of Mount Kilimanjaro at the age of 74. He will be best remembered as an irrepressible, [record-setting kayaker](https://www.guinnessworldrecords.com/news/2021/2/record-breaking-kayaker-aleksander-doba-dies-after-summiting-kilimanjaro-650254) who paddled across the Atlantic three times while in his 60s and 70s.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/adoba.jpg)[Aleksander Doba](https://en.wikipedia.org/wiki/Aleksander_Doba) died late last month at the summit of Mount Kilimanjaro at the age of 74. He will be best remembered as an irrepressible, [record-setting kayaker](https://www.guinnessworldrecords.com/news/2021/2/record-breaking-kayaker-aleksander-doba-dies-after-summiting-kilimanjaro-650254) who paddled across the Atlantic three times while in his 60s and 70s.
 
 Born in 1946, in Swarzęd, Poland, near the city of Poznań, Doba got into kayaking relatively late, at 34.
 

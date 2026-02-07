@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Past attempts to claim the Jules Verne Trophy, awarded to the fastest sailboat to circumnavigate the globe, have been solitary affairs — a single sailboat attempting to break the previous record time. That changed on November 22, when two veteran … Continue reading &rarr;"
 ---
 
-![Spindrift 2](http://www.oldsaltblog.com/wp-content/uploads/2015/12/spindrift2.jpg)
+![Spindrift 2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/spindrift2.jpg)
 
 Spindrift 2
 

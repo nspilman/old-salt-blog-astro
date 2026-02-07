@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "The Green Bay Tall Ship Festival kicks off this Friday, August 5th, at noon and runs through Sunday, August 7th. It features nine tall ships, including the replica Viking longship Draken Harald Hårfagre. There had been some question as to … Continue reading &rarr;"
 ---
 
-![drakengreenbay](http://www.oldsaltblog.com/wp-content/uploads/2016/08/drakengreenbay.jpg)
+![drakengreenbay](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/drakengreenbay.jpg)
 
 Draken Harald Hårfagre has made it to Green Bay!
 

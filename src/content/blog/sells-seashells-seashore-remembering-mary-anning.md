@@ -13,12 +13,12 @@ tags:
   - "paleontologist"
   - "seashells"
   - "seashore"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/maryanning.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/maryanning.jpg"
 author: "Rick Spilman"
 description: "Remember the old tongue twister, \"She sells seashells by the seashore?\" (Try saying that three times fast.) The tongue twisting seashell seller was inspired by a real woman named Mary Anning, who was an English fossil collector, dealer, and paleontologist, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/maryanning.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/maryanning.jpg)
 
 Mary Anning
 

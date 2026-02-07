@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "This is an interesting story for several reasons. First, archaeologists believe that they may have discovered the wreckage of a 17th century ship lost off the coast of Panama in 1671, from the famed Captain Henry Morgan‘s fleet.   Second, a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/rszcaptmorganchrisbickfordh.jpg)This is an interesting story for several reasons. First, archaeologists believe that they may have discovered the wreckage of a 17th century ship lost off the coast of Panama in 1671, from the famed [Captain Henry Morgan](http://en.wikipedia.org/wiki/Henry_Morgan)‘s fleet.   Second, a fact buried in the article, the expedition is being funded by [Captain Morgan Rum](http://www.captainmorgan.com/).   Now, I can drink rum and support underwater archaeology at the same time.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/rszcaptmorganchrisbickfordh.jpg)This is an interesting story for several reasons. First, archaeologists believe that they may have discovered the wreckage of a 17th century ship lost off the coast of Panama in 1671, from the famed [Captain Henry Morgan](http://en.wikipedia.org/wiki/Henry_Morgan)‘s fleet.   Second, a fact buried in the article, the expedition is being funded by [Captain Morgan Rum](http://www.captainmorgan.com/).   Now, I can drink rum and support underwater archaeology at the same time.
 
 [Archaeologists discover 17th century shipwreck believed to be from Captain Morgan fleet](http://www.gadling.com/2011/08/02/archaeologists-discover-17th-century-shipwreck-believed-to-be-fr/#.TjmJvGTBWGI.email)  
   

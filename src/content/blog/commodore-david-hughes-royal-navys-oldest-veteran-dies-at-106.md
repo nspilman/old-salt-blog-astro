@@ -13,12 +13,12 @@ tags:
   - "Royal Navy"
   - "Royal New Zealand Navy"
   - "Yalta Conference"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/davidhughesrn.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/davidhughesrn.jpg"
 author: "Rick Spilman"
 description: "Commodore David Hughes, believed to be the Royal Navy’s oldest veteran, has died, just shy of his 107th birthday. An excerpt from the obituary on the Royal Navy website: The New Zealand-born officer was one of the last survivors of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/davidhughesrn.jpg)Commodore David Hughes, believed to be the Royal Navy’s oldest veteran, has died, just shy of his 107th birthday. An excerpt from the obituary on the [Royal Navy website](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/june/25/20210625-david-hughes):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/davidhughesrn.jpg)Commodore David Hughes, believed to be the Royal Navy’s oldest veteran, has died, just shy of his 107th birthday. An excerpt from the obituary on the [Royal Navy website](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2021/june/25/20210625-david-hughes):
 
 The New Zealand-born officer was one of the last survivors of the Yalta Conference – where Churchill, Roosevelt, and Stalin drew up plans for post-war Europe – one of many remarkable moments in a 32-year naval career.
 

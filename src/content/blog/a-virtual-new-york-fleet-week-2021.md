@@ -11,7 +11,7 @@ tags:
   - "Fleet Week in New York"
   - "Memorial Day weekend"
   - "Virtual New York Fleet Week"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/nycfleetweek.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/nycfleetweek.jpg"
 author: "Rick Spilman"
 description: "For the second year running, in-person Fleet Week in New York, traditionally beginning in the week before and running through the Memorial Day Weekend, was canceled due to the Covid-19 pandemic. A virtual Fleet Week celebration has been ongoing, however, … Continue reading &rarr;"
 ---

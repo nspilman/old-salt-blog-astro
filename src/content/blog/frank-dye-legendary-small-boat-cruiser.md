@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Frank Dye was a small boat cruiser who became something of a legend following his sea voyages in his 16′ Wayfarer open dinghy. Frank Dye Frank Dye, who died on May 16 aged 82, was a cult figure among small-boat sailors for undertaking … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/frankdye.jpg)](http://www.amazon.com/gp/product/0713675683?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0713675683)Frank Dye was a small boat cruiser who became something of a legend following his sea voyages in his 16′ Wayfarer open dinghy.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/frankdye.jpg)](http://www.amazon.com/gp/product/0713675683?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0713675683)Frank Dye was a small boat cruiser who became something of a legend following his sea voyages in his 16′ Wayfarer open dinghy.
 
 [Frank Dye](http://www.telegraph.co.uk/news/obituaries/7818796/Frank-Dye.html)
 

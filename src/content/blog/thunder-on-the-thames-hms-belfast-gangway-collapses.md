@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The gangway to HMS Belfast, collapsed into the Thames River in London shortly after noon today.  Two work men are reported to have been taken to the hospital with what are described as abrasions.  More than 100 people on board the ship, including 30 school … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/belfastgangway.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/belfastgangway.jpg)
 
 Photo: Robin Bell
 

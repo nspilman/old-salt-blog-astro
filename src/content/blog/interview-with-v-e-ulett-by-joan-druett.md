@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Award winning author Joan Druett recently interviewed V.E. Ulett, author of the Blackwell's Adventure series, on her World of the Written Word blog."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2015/02/blackwell-135x200.jpg)Award winning author [Joan Druett](http://oldsaltpress.com/joan-druett/) recently interviewed [V.E. Ulett,](http://www.veulett.com/) author of the Blackwell’s Adventure series, on her [World of the Written Word blog](http://joan-druett.blogspot.com/2015/02/interview-with-ve-ulett.html).  Reposted with permission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/blackwell-135x200.jpg)Award winning author [Joan Druett](http://oldsaltpress.com/joan-druett/) recently interviewed [V.E. Ulett,](http://www.veulett.com/) author of the Blackwell’s Adventure series, on her [World of the Written Word blog](http://joan-druett.blogspot.com/2015/02/interview-with-ve-ulett.html).  Reposted with permission.
 
 *The author of the rousing historical Blackwell series kindly consented to allow me to schedule an interview, to coincide with the launch of the print edition of her latest, [Blackwell’s Homecoming](http://www.amazon.com/Blackwells-Homecoming-Adventures-V-Ulett/dp/0988236079/ref=tmm_pap_title_0?ie=UTF8&qid=1423164628&sr=1-1).*
 

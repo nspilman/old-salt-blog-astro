@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "If there is a moral of this story, I suppose it must be, \"don’t leave your lingerie in the captain’s cabin.\"  Not long after the Costa Concordia ran aground and sank off the island of Giglio on January 13th, there … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/2467543.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/2467543.jpg)
 
 Domnica Cemortan, the "Mystery Woman"
 

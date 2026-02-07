@@ -15,12 +15,12 @@ tags:
   - "Jeju"
   - "Korea"
   - "sea women"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/seawoman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/seawoman.jpg"
 author: "Rick Spilman"
 description: "On the first day of Women’s History month, something a bit different.  Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for \"sea women\" have worked free diving in the clear island waters. Using … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/seawoman.jpg)On the first day of Women’s History month, something a bit different. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/seawoman.jpg)On the first day of Women’s History month, something a bit different. 
 
 Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for “sea women” have worked free diving in the clear island waters. Using an ancient breathing technique called sumbisori, the women dive as deep as 32 feet to harvest octopus, abalone, conch, sea urchins, clams and edible seaweeds.
 

@@ -13,12 +13,12 @@ tags:
   - "Sheerness"
   - "SS Richard Montgomery"
   - "Thames Estuary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/ssrmontgomerymasts.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ssrmontgomerymasts.jpg"
 author: "Rick Spilman"
 description: "The good news is that last month there was a debate in the UK’s House of Lords about what to do with the wreck of the Liberty ship SS Richard Montgomery, which sank loaded with munitions in the Thames estuary … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/ssrmontgomerymasts.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ssrmontgomerymasts.jpg)
 
 Kingposts of the SS Richard Montgomery in the Thames Estuary.
 

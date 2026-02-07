@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Over the next several months, Maersk Lines will be giving ten container ships in its fleet nose jobs. They will be cutting off the existing bulbous bows and retrofitting them with new more energy-efficient designs. It all has to do with slow … Continue reading &rarr;"
 ---
 
-![maesrskbulb](http://www.oldsaltblog.com/wp-content/uploads/2013/03/maesrskbulb.jpg)Over the next several months, Maersk Lines will be giving ten container ships in its fleet nose jobs. They will be cutting off the existing bulbous bows and retrofitting them with new more energy-efficient designs.
+![maesrskbulb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/maesrskbulb.jpg)Over the next several months, Maersk Lines will be giving ten container ships in its fleet nose jobs. They will be cutting off the existing bulbous bows and retrofitting them with new more energy-efficient designs.
 
 It all has to do with slow steaming.  Bulbous bows are designed to work at a particular range of speeds and drafts. A well designed bulbous bow can reduce fuel consumption by 10-12%.  Many of the Maersk ships were originally designed to operate at around 24 knots. With the dramatic rise in fuel costs and continued container ship overcapacity, many ships are now operating at speeds as low as 12 knots. At such slow speeds the original bulbous bow designs can actually increase hull resistance and increase fuel costs. The new bulbs should save 1-2% in fuel costs.
 
@@ -27,4 +27,4 @@ Every ship traveling through the water creates a bow wave.  Creating this wav
 
 The problem is that the position of the waves created by the bulb and the hull only align under a certain range of speeds and drafts.  Slow down or speed up too much and the waves no longer cancel out. In the worst case, the waves become additive and can increase resistance and fuel costs, which is apparently the problem that Maersk has been facing whe it slowed down ships originally designed to travel at much higher speed..
 
-![Bulbous_Bow_NT](http://www.oldsaltblog.com/wp-content/uploads/2013/03/Bulbous_Bow_NT.jpg)
+![Bulbous_Bow_NT](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Bulbous_Bow_NT.jpg)

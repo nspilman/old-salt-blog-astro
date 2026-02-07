@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Today I went aboard El Galeon Andalusia, at South Street Seaport, a fascinating if occasionally anachronistic ship."
 ---
 
-![galeon1](http://www.oldsaltblog.com/wp-content/uploads/2015/07/galeon1-135x200.jpg)Today I went aboard [*El Galeon Andalusia*,](https://es.wikipedia.org/wiki/Gale%C3%B3n_Andaluc%C3%ADa) at South Street Seaport. The ship is billed as “a 170 foot, 495 ton, authentic wooden replica of a galleon that was part of Spain’s West Indies fleet.” It is a intriguing ship that has successfully sailed thousands of miles, including crossing the Atlantic. The original galleons, and the carracks that preceded them, were the ships that first girded the globe in 16th and 17th centuries. They changed the vast oceans from barriers to highways. For good and/or ill, these ships literally changed the course of the world’s civilizations.
+![galeon1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/galeon1-135x200.jpg)Today I went aboard [*El Galeon Andalusia*,](https://es.wikipedia.org/wiki/Gale%C3%B3n_Andaluc%C3%ADa) at South Street Seaport. The ship is billed as “a 170 foot, 495 ton, authentic wooden replica of a galleon that was part of Spain’s West Indies fleet.” It is a intriguing ship that has successfully sailed thousands of miles, including crossing the Atlantic. The original galleons, and the carracks that preceded them, were the ships that first girded the globe in 16th and 17th centuries. They changed the vast oceans from barriers to highways. For good and/or ill, these ships literally changed the course of the world’s civilizations.
 
 The only problem with *Galeon Andalusia* is that the description “authentic wooden replica” promises a bit too much. The hull is primarily fiberglass, sheathed in wood above the waterline. There is nothing actually wrong with this. Fiberglass is far easier to maintain than a wooden hull. If the description merely becomes “authentic replica” things might be OK.
 
@@ -26,7 +26,7 @@ I did see a sign near the wheel that for an additional fee, one could have your 
 
 On the tween deck, the headroom was more than ample, probably around 7′ which is another anachronism, though again understandable for a ship designed for modern visitors. The space is used as a gallery explaining the history of galleons and of the ship, was well as playing looping video of the ship under sail. A movie of the construction of the ship also was playing in a small theater set up in the hold.
 
-![knightheadb](http://www.oldsaltblog.com/wp-content/uploads/2015/07/knightheadb-200x168.jpg)On deck, the rigging was very interesting. The multipart knights-head halyard blocks (I may be messing up the terminology here. If anyone knows better, please correct me) used for raising the topmast yard appeared both beautiful and functional.
+![knightheadb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/knightheadb-200x168.jpg)On deck, the rigging was very interesting. The multipart knights-head halyard blocks (I may be messing up the terminology here. If anyone knows better, please correct me) used for raising the topmast yard appeared both beautiful and functional.
 
 16th century ships didn’t reef their sails, which is to say reduce the area of a sail by gathering it up from the top. Instead, 16 century sailors untied lower sections of the sails, referred to as a bonnet, which was laced to the bottom of the sail. Though the sails were all furled, I could still see the bonnet lacings from where I stood on the main deck.
 

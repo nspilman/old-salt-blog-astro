@@ -16,12 +16,12 @@ tags:
   - "Trump"
   - "US Coast Guard"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/venboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/venboat.jpg"
 author: "Rick Spilman"
 description: "The Trump regime continues its bloody attacks on alleged drug smuggling boats off the coast of South America. "
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/venboat.jpg)The Trump regime continues its bloody attacks on alleged drug smuggling boats off the coast of South America.  Since the attacks began on September 1, the [US Navy has killed at least 69 people on 18 vessels](https://en.wikipedia.org/wiki/2025_United_States_military_strikes_on_alleged_drug_traffickers)—10 in the Caribbean and 8 in the Pacific.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/venboat.jpg)The Trump regime continues its bloody attacks on alleged drug smuggling boats off the coast of South America.  Since the attacks began on September 1, the [US Navy has killed at least 69 people on 18 vessels](https://en.wikipedia.org/wiki/2025_United_States_military_strikes_on_alleged_drug_traffickers)—10 in the Caribbean and 8 in the Pacific.
 
 President Trump justifies the attacks by saying the United States is in an [“armed conflict”](https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html) with drug cartels and vowing to “destroy Venezuelan terrorists and trafficking networks.” Nevertheless the Trump regime has not provided any positive identification of those killed, nor evidence that the boats were carrying drugs. Neither have they sought congressional approval as constitutionally required.
 

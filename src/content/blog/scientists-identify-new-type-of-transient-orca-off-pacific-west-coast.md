@@ -12,12 +12,12 @@ tags:
   - "Pacific Northwest"
   - "Resident orcas"
   - "Transient orcas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/outertranisent.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/outertranisent.jpg"
 author: "Rick Spilman"
 description: "Another reminder of how little we know and understand about orca whales. Scientists have identified a new type of orca, also known as killer whales, off the US and Canadian Pacific West Coast. Termed ‘outer coast transient whales,‘ the newly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/outertranisent.jpg)Another reminder of how little we know and understand about orca whales. Scientists have identified a new type of orca, also known as killer whales, off the US and Canadian Pacific West Coast. Termed ‘[outer coast transient whales,](https://www.hakaimagazine.com/news/scientists-found-a-new-kind-of-killer-whale/)‘ the newly discovered orca type preys on large sea mammals, prefers deepwater for hunting, and has a unique high-pitched vocal dialect. Experts believe they are a subset of transient orcas known as Bigg’s killer whales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/outertranisent.jpg)Another reminder of how little we know and understand about orca whales. Scientists have identified a new type of orca, also known as killer whales, off the US and Canadian Pacific West Coast. Termed ‘[outer coast transient whales,](https://www.hakaimagazine.com/news/scientists-found-a-new-kind-of-killer-whale/)‘ the newly discovered orca type preys on large sea mammals, prefers deepwater for hunting, and has a unique high-pitched vocal dialect. Experts believe they are a subset of transient orcas known as Bigg’s killer whales.
 
 For decades, orcas along the North American West Coast have been categorized in two groups — residents and transients. Transient orcas are now often referred to as [Bigg’s killer whales](http://orcazine.com/biggs-orcas-not-transient-anymore/) in honor of Canadian marine biologist [Micheal Bigg](https://en.wikipedia.org/wiki/Michael_Bigg), who was the first to identify the difference between the two primary types of killer whales in the Pacific Northwest.
 

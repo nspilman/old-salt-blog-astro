@@ -16,12 +16,12 @@ tags:
   - "Seawolf-class fast-attack submarine"
   - "spy submarine"
   - "USS Jimmy Carter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/carteruss.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/carteruss.jpg"
 author: "Rick Spilman"
 description: "On the day following Jimmy Carter’s funeral, it seems like a good time to look at the top-secret submarine that bears his name. The USS Jimmy Carter (SSN 23) is a unique submarine in many respects. Commissioned in 2005, she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2025/01/carteruss.jpg)On the day following Jimmy Carter’s funeral, it seems like a good time to look at the top-secret submarine that bears his name.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/carteruss.jpg)On the day following Jimmy Carter’s funeral, it seems like a good time to look at the top-secret submarine that bears his name.
 
 The [USS *Jimmy Carter*](https://en.wikipedia.org/wiki/USS_Jimmy_Carter) (SSN 23) is a unique submarine in many respects. Commissioned in 2005, she is named for the 39th president of the United States, Jimmy Carter, the only president to have qualified on submarines. She is the only submarine to have been named for a living president and is also only the third submarine of the US Navy, to have been named for a living person. 
 

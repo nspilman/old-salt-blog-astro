@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "John Diebold, 1944-2010 John Diebold, a marine scientist who sailed the world’s oceans for more than four decades using sound waves to study earthquake faults, underwater volcanoes and other normally hidden features of the seabed, died on July 1 at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/Diebold-John.jpg)[John Diebold, 1944-2010](http://www.earth.columbia.edu/articles/view/2709)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Diebold-John.jpg)[John Diebold, 1944-2010](http://www.earth.columbia.edu/articles/view/2709)
 
 *John Diebold, a marine scientist who sailed the world’s oceans for more than four decades using sound waves to study earthquake faults, underwater volcanoes and other normally hidden features of the seabed, died on July 1 at his home in Nyack, N.Y. The apparent cause was a heart attack, his family said; he was 66.*  
   

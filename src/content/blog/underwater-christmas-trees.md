@@ -9,7 +9,7 @@ categories:
 tags:
   - "Christmas tree worm"
   - "spirobranchus giganteus"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/christmastreeworms.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/christmastreeworms.jpg"
 author: "Rick Spilman"
 description: "Spirobranchus giganteus are beautiful underwater creatures, only about 1.5 inches tall, which look like tiny decorated Christmas trees. They are almost too attractive to be described as what they are, tube-building polychaete worms. They are, however, often referred to as … Continue reading &rarr;"
 ---

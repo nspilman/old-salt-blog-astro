@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Grays Harbor Historical Seaport is now attempting to raise funds through crowd-sourcing to support a major upgrading of the Hawaiian Chieftain."
 ---
 
-![Hawaiian Chieftain](http://www.oldsaltblog.com/wp-content/uploads/2015/04/hawaiianchieftan1.jpg)
+![Hawaiian Chieftain](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/hawaiianchieftan1.jpg)
 
 Hawaiian Chieftain
 

@@ -12,12 +12,12 @@ tags:
   - "Elissa"
   - "Galveston Historical Foundation"
   - "tall ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/elissabanner1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/elissabanner1.jpg"
 author: "Rick Spilman"
 description: "Here is a short video from a 2021 day sail out of Galveston on the 1877-built square-rigged iron barque Elissa.  The Elissa Sail Out of Galveston April 2021 Galveston Historical Foundation … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/elissabanner1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/elissabanner1.jpg)
 
 Image: Galveston Historical Foundation
 

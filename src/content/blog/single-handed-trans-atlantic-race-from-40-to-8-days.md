@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "The finishers in the 2016 Transat bakerly single-handed trans-Atlantic race are now arriving in Brooklyn. This year’s winner, Francois Gabart on the 100′ trimaran MACIF, crossed the finish line on Wednesday, in the near record time of 8 days, 8 hours, 54-minutes and 39-seconds.  The Transat … Continue reading &rarr;"
 ---
 
-![Photo: ©JEAN-MARIE LIOT / DPPI / MACIF](http://www.oldsaltblog.com/wp-content/uploads/2016/05/MACIF.jpg)
+![Photo: ©JEAN-MARIE LIOT / DPPI / MACIF](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/MACIF.jpg)
 
 Photo: ©JEAN-MARIE LIOT / DPPI / MACIF
 

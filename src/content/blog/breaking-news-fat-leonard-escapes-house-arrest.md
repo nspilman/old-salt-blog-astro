@@ -14,12 +14,12 @@ tags:
   - "Malaysian businessman"
   - "san diego"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
 description: "When it appeared that the decade-long US Navy corruption scandal focused on Leonard Glenn Francis, known as \"Fat Leonard,\" was winding down, the saga takes a new turn. The Malaysian businessman, who confessed to directing a massive bribery scandal of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fl2.jpg)
 
 “Fat Leonard” Francis
 

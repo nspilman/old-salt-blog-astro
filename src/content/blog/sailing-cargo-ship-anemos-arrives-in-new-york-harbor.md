@@ -13,12 +13,12 @@ tags:
   - "sailing cargo ship"
   - "TOWT"
   - "TransOceanic Wind Transport"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/09/Anemos2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/Anemos2.jpg"
 author: "Rick Spilman"
 description: "The sailing cargo ship Anemos arrived in New York harbor today, completing her maiden transatlantic voyage, her holds filled with over 1,000 tonnes of French cargo. The 266-foot vessel completed the voyage in 15 days, sailing at an average speed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/09/Anemos2.jpg)The sailing cargo ship [*Anemos*](https://www.towt.eu/wp-content/uploads/2024/08/20240829-CP-US-New-york.pdf) arrived in New York harbor today, completing her maiden transatlantic voyage, her holds filled with over 1,000 tonnes of French cargo. The 266-foot vessel completed the voyage in 15 days, sailing at an average speed of just under 10 knots.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/09/Anemos2.jpg)The sailing cargo ship [*Anemos*](https://www.towt.eu/wp-content/uploads/2024/08/20240829-CP-US-New-york.pdf) arrived in New York harbor today, completing her maiden transatlantic voyage, her holds filled with over 1,000 tonnes of French cargo. The 266-foot vessel completed the voyage in 15 days, sailing at an average speed of just under 10 knots.
 
 *Anemos* is the first in a series of eight sailing cargo vessels under construction or on order for [TransOceanic Wind Transport (TOWT.)](https://www.towt.eu/en/our-sailing-cargo-ships/) The small ship took two years to build, drawing on advanced sail technology from ocean racing.  
 

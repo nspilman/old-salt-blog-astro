@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Something very strange has happened on the Korean peninsula.  More than 50 North Korean submarines — about 70% of the country’s known fleet — have reportedly left their bases and disappeared from South Korea’s military radar.  They also represent most … Continue reading &rarr;"
 ---
 
-![North Korean Sang-O submarine captured by South Korea in 1996.](http://www.oldsaltblog.com/wp-content/uploads/2015/08/sangpo1.jpg)
+![North Korean Sang-O submarine captured by South Korea in 1996.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/sangpo1.jpg)
 
 North Korean Sang-O submarine captured by South Korea in 1996.
 

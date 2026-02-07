@@ -11,12 +11,12 @@ tags:
   - "cruise ship"
   - "Diamond Princess"
   - "Grand Princess"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/diamondprincessyokohama.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincessyokohama.jpg"
 author: "Rick Spilman"
 description: "While there is an understandable concern for the passengers on cruise ships struck by the coronavirus, the crews are often overlooked. What challenges do they face and what happens to them when the last passengers leave the ships? Nowhere to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/diamondprincessyokohama.jpg)While there is an understandable concern for the passengers on cruise ships struck by the coronavirus, the crews are often overlooked. What challenges do they face and what happens to them when the last passengers leave the ships?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincessyokohama.jpg)While there is an understandable concern for the passengers on cruise ships struck by the coronavirus, the crews are often overlooked. What challenges do they face and what happens to them when the last passengers leave the ships?
 
 ### Nowhere to Hide
 

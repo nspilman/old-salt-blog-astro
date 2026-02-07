@@ -8,7 +8,7 @@ categories:
   - "Songs"
 tags:
   - "Cicely Fox Smith"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/newyearcfs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/newyearcfs.jpg"
 author: "Rick Spilman"
 description: "Happy New Year to all!  Here is a poem by Cicely Fox Smith, from Full Sail: More Sea Songs and Ballads, sung as a ballad by Larry Kaplan. New Year by Cicely Fox Smith … Continue reading &rarr;"
 ---

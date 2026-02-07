@@ -5,12 +5,12 @@ slug: "vanport-liberty-ships-and-jim-crow-shipyards"
 excerpt: "In recent protests in Portland, the white nationalist group Proud Boys assembled on the edge of town in Delta Park, while, close by, Black Lives Matters counter-protestors gathered, on the other side of the highway, in a section of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/kaiseryard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/kaiseryard.jpg"
 author: "Rick Spilman"
 description: "In recent protests in Portland, the white nationalist group Proud Boys assembled on the edge of town in Delta Park, while, close by, Black Lives Matters counter-protestors gathered, on the other side of the highway, in a section of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/vanportflood.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/vanportflood.jpg)
 
 Vanport Flood 1948
 
@@ -24,7 +24,7 @@ There was another side to Portland and to Vanport. Given a general labor shortag
 
 This proved to be a problem for Portland because the city and the state of Oregon had a long-established history of excluding black residents. The first law excluding Blacks from the state was enacted in 1844. [Oregon entered the Union in 1859 as a “whites-only” state](https://www.washingtonpost.com/news/retropolis/wp/2017/06/07/when-portland-banned-blacks-oregons-shameful-history-as-an-all-white-state/). The original state constitution banned slavery but also excluded nonwhites from living there. The exclusionary laws remained on the books until 1922.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/kaiseryard.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/kaiseryard.jpg)
 
 When Black workers arrived in Portland they found that Jim Crow practices had followed them to the Northwest. The Kaiser shipyard Boilermaker’s Union refused to allow skilled Black workers into the union. The only shipyard jobs available to Blacks were as helpers and cleaners. Skilled Black welders and fitters were allowed to join an “auxiliary union” where they were paid less, had no union privileges, but were expected to pay the same union dues as white workers. Many Blacks refused to join the auxiliaries.
 

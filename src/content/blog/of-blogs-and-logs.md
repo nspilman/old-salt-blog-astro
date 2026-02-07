@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article \"Why I Blog\", in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article “[Why I Blog](http://www.theatlantic.com/doc/200811/andrew-sullivan-why-i-blog)“, in this month’s [Atlantic Monthly](http://www.theatlantic.com/) .   (I do recommend Sullivan’s political blog for the Atlantic – [The Daily Dish](http://andrewsullivan.theatlantic.com/the_daily_dish/).)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article “[Why I Blog](http://www.theatlantic.com/doc/200811/andrew-sullivan-why-i-blog)“, in this month’s [Atlantic Monthly](http://www.theatlantic.com/) .   (I do recommend Sullivan’s political blog for the Atlantic – [The Daily Dish](http://andrewsullivan.theatlantic.com/the_daily_dish/).)
 
 I feel the need to recognize Sullivan because he labors manfully to use a nautical metaphor, the ship’s log, to explain the process of “blogging”.   As he notes “the word *blog* is a conflation of two words: *Web* and *log*.”  He goes on to say:
 

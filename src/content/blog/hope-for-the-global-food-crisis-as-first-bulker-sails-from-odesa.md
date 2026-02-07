@@ -14,12 +14,12 @@ tags:
   - "Razoni"
   - "Russia"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/razoniodesa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/razoniodesa.jpg"
 author: "Rick Spilman"
 description: "The handysize bulk carrier Razoni was one of roughly 80 international vessels that have been stranded in Ukraine for more than six months by the ongoing Russian invasion. Now, the Sierra Leone-flagged vessel has sailed from the port of Odesa … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/razoniodesa.jpg)The handysize bulk carrier *[Razoni](https://maritimeoptima.com/public/vessels/pages/imo:9086526/mmsi:667001963/RAZONI.html)* was one of roughly [80 international vessels](https://splash247.com/first-bulk-carrier-departs-odesa/) that have been stranded in Ukraine for more than six months by the ongoing Russian invasion. Now, the Sierra Leone-flagged vessel has sailed from the port of Odesa bound for Lebanon, loaded with 26,527 tonnes of corn, under a safe passage deal described as a glimmer of hope in a worsening global food crisis.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/razoniodesa.jpg)The handysize bulk carrier *[Razoni](https://maritimeoptima.com/public/vessels/pages/imo:9086526/mmsi:667001963/RAZONI.html)* was one of roughly [80 international vessels](https://splash247.com/first-bulk-carrier-departs-odesa/) that have been stranded in Ukraine for more than six months by the ongoing Russian invasion. Now, the Sierra Leone-flagged vessel has sailed from the port of Odesa bound for Lebanon, loaded with 26,527 tonnes of corn, under a safe passage deal described as a glimmer of hope in a worsening global food crisis.
 
 [Reuters](https://www.reuters.com/world/europe/russia-pounds-ukrainian-port-putin-announces-global-maritime-ambitions-2022-08-01/) reports that the sailing was made possible after Turkey and the United Nations brokered a grain and fertilizer export agreement between Russia and Ukraine last month – a rare diplomatic breakthrough in a conflict that has become a drawn-out war of attrition.
 

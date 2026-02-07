@@ -11,12 +11,12 @@ tags:
   - "Carnival Spirit"
   - "COVID-19"
   - "Vaccination"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/carnivalspirit.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/carnivalspirit.jpg"
 author: "Rick Spilman"
 description: "Is the cruise industry ready to get back to business in the \"new normal\" of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/carnivalspirit.jpg)Is the cruise industry ready to get back to business in the “new normal” of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, a recent 16-day voyage from Miami to Seattle via the Panama Canal on the 3,000-passenger [*Carnival Spirit*](https://en.wikipedia.org/wiki/Carnival_Spirit) does not provide an encouraging answer to the question.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/carnivalspirit.jpg)Is the cruise industry ready to get back to business in the “new normal” of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, a recent 16-day voyage from Miami to Seattle via the Panama Canal on the 3,000-passenger [*Carnival Spirit*](https://en.wikipedia.org/wiki/Carnival_Spirit) does not provide an encouraging answer to the question.
 
 While Carnival would not comment on the number of cases, passengers on the *Carnival Spirit* that docked Tuesday in Seattle say more than 100 people aboard the ship tested positive for COVID-19, despite testing and a vaccination rate above 95%.  As alarming as the number of cases may be, passengers also recount that the ship was not prepared to manage the outbreak, that infected passengers were not properly isolated, and that the staff was overwhelmed.
 

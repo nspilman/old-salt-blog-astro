@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Seventy years ago today the German passenger liner MV Wilhelm Gustloff sank in the Baltic after being struck by three torpedoes from a Soviet submarine."
 ---
 
-![mvwg](http://www.oldsaltblog.com/wp-content/uploads/2015/01/mvwg.jpg)Seventy years ago today, on January 30, 1945, the German passenger liner [MV *Wilhelm Gustloff*](http://en.m.wikipedia.org/wiki/MV_Wilhelm_Gustloff) sank in the Baltic after being struck by three torpedoes from a Soviet submarine. An estimated 9,400 died in the sinking, making it the largest loss of life of any maritime disaster.
+![mvwg](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/mvwg.jpg)Seventy years ago today, on January 30, 1945, the German passenger liner [MV *Wilhelm Gustloff*](http://en.m.wikipedia.org/wiki/MV_Wilhelm_Gustloff) sank in the Baltic after being struck by three torpedoes from a Soviet submarine. An estimated 9,400 died in the sinking, making it the largest loss of life of any maritime disaster.
 
 The ship, which was designed to carry a maximum 1,800 passengers and crew, was crammed with more than 10,000 people. In addition to the crew of 173, something over 1,500 were German soldiers fleeing the Russian advance on Gdynia. Almost 9,000 passengers were civilians, including an estimated 5,000 children.
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On Sept 23-24, 1846, the planet Neptune was discovered by by Johann Gottfried Galle. In celestial terms, that was 165 years ago. In terms of Neptune’s path around the Sun it was only about one year ago. (To be precise, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/Neptune+by+Voyager+2_f.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Neptune+by+Voyager+2_f.jpg)
 
 Neptune Photo:NASA/JPL
 

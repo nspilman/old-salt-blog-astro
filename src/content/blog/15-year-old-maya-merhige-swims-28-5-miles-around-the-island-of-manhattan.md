@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the \"20 Bridges Swim,\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/20bridges.jpg)[CNBC](https://www.cnbc.com/2023/07/20/15-year-old-swam-28-miles-around-manhattan-for-cancer-research.html) reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the “20 Bridges Swim,” named for the bridges that swimmers pass under during their journey.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/20bridges.jpg)[CNBC](https://www.cnbc.com/2023/07/20/15-year-old-swam-28-miles-around-manhattan-for-cancer-research.html) reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the “20 Bridges Swim,” named for the bridges that swimmers pass under during their journey.
 
 The 28.5-mile swim was worth more than bragging rights. Since 2020, she has been doing long-distance swims in [partnership with Swim Across America](https://www.swimacrossamerica.org/site/SPageServer?pagename=Maya_Swims), a nonprofit that hosts charity swims and donates the funds to cancer research. So far, she has raised over $17,000 this year. Since she started swimming for cancer research funding, she’s raised over $75,000.
 

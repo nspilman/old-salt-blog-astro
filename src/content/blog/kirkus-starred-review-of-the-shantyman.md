@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Spilman’s colorful, well-researched novel will enthrall both sailing enthusiasts and landlubbers. A fabulously gripping sailor’s yarn."
 ---
 
-*[![](http://www.oldsaltblog.com/wp-content/uploads/2015/02/shantymanthumbebook.jpg)](http://www.amazon.com/dp/B00T57OQYA)*
+*[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg)](http://www.amazon.com/dp/B00T57OQYA)*
 
 ***“A fabulously gripping sailor’s yarn.”***
 

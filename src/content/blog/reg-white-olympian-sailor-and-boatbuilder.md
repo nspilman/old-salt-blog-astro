@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Reg White, boatbuilder, sailor, and Olympic Gold Medal winner died of a heart attack on May 27, 2010, at age 74. He had just finished an sailboat race in Brightlingsea, UK. Reg White Sailor and builder of revolutionary multihull boats … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/White1OLD_1C_585x35_724701a.jpg)Reg White, boatbuilder, sailor, and Olympic Gold Medal winner died of a heart attack on May 27, 2010, at age 74. He had just finished an sailboat race in Brightlingsea, UK.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/White1OLD_1C_585x35_724701a.jpg)Reg White, boatbuilder, sailor, and Olympic Gold Medal winner died of a heart attack on May 27, 2010, at age 74. He had just finished an sailboat race in Brightlingsea, UK.
 
 [Reg White](http://www.timesonline.co.uk/tol/comment/obituaries/article7148290.ece)
 

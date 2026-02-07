@@ -11,12 +11,12 @@ tags:
   - "pandemic"
   - "USNS"
   - "USNS Mercy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/usnscomfort2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/usnscomfort2.jpg"
 author: "Rick Spilman"
 description: "The good news is that the Pentagon announced that it is activating the two US Navy hospital ships, USNS Mercy and USNS Comfort, notionally to provide additional capacity in the developing coronavirus pandemic. The bad news is that it is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/usnscomfort2.jpg)The good news is that the [Pentagon announced that it is activating](https://news.usni.org/2020/03/17/pentagon-preparing-navy-hospital-ships-mercy-comfort-for-coronavirus-response) the two US Navy hospital ships, [USNS *Mercy*](https://en.wikipedia.org/wiki/USNS_Mercy_\(T-AH-19\)) and [USNS](https://en.wikipedia.org/wiki/USNS_Comfort_\(T-AH-20\)) *Comfort,* notionally to provide additional capacity in the developing coronavirus pandemic. The bad news is that it is increasingly unclear how much support they will provide and when they will be able to deploy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/usnscomfort2.jpg)The good news is that the [Pentagon announced that it is activating](https://news.usni.org/2020/03/17/pentagon-preparing-navy-hospital-ships-mercy-comfort-for-coronavirus-response) the two US Navy hospital ships, [USNS *Mercy*](https://en.wikipedia.org/wiki/USNS_Mercy_\(T-AH-19\)) and [USNS](https://en.wikipedia.org/wiki/USNS_Comfort_\(T-AH-20\)) *Comfort,* notionally to provide additional capacity in the developing coronavirus pandemic. The bad news is that it is increasingly unclear how much support they will provide and when they will be able to deploy.
 
 USNS *Mercy* is stationed in San Diego, CA and is expected to deploy along the US West Coast. USNS *Comfort* is based in Norfolk, VA and will be sent to New York harbor. Both ships are converted San Clemente-class oil tankers.
 

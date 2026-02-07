@@ -12,12 +12,12 @@ tags:
   - "MSC Opera"
   - "River Countess"
   - "Venice"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/operacrash.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/operacrash.jpg"
 author: "Rick Spilman"
 description: "At about 8:30 AM on Sunday, the cruise ship MSC Opera lost control while docking on the Giudecca Canal in Venice Italy, slamming into the dock and hitting a tour boat. Five people were reported to be injured, but none … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/operacrash.jpg)At about 8:30 AM on Sunday, the cruise ship [MSC *Opera*](https://en.wikipedia.org/wiki/MSC_Opera) lost control while docking on the Giudecca Canal in Venice Italy, slamming into the dock and hitting a tour boat. Five people were reported to be injured, but none seriously. The ship was accompanied by two tugs which were unable to control the 65,591 GT ship.  MSC *Opera* was built in 2004 and has a capacity of around 2,150 passengers and 728 crew. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/operacrash.jpg)At about 8:30 AM on Sunday, the cruise ship [MSC *Opera*](https://en.wikipedia.org/wiki/MSC_Opera) lost control while docking on the Giudecca Canal in Venice Italy, slamming into the dock and hitting a tour boat. Five people were reported to be injured, but none seriously. The ship was accompanied by two tugs which were unable to control the 65,591 GT ship.  MSC *Opera* was built in 2004 and has a capacity of around 2,150 passengers and 728 crew. 
 
 “The MSC ship had an engine failure, which was immediately reported by the captain,” Davide Calderan, head of a tugboat company involved in accompanying the ship into its berth, told Italian media. “The engine was blocked, but with its thrust on, because the speed was increasing,” he said.
 

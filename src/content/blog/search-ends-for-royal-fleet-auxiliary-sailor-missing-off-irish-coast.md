@@ -12,12 +12,12 @@ tags:
   - "Republic of Ireland"
   - "Royal Fleet Auxiliary"
   - "Tide-class"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/Tidesurge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/Tidesurge.jpg"
 author: "Rick Spilman"
 description: "The search for a crew member who was lost overboard from the Royal Fleet Auxiliary (RFA) tanker Tidesurge, off the north-west coast of the Republic of Ireland, has ended without finding any sign of the missing sailor. First Sea Lord … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/Tidesurge.jpg)The search for a crew member who was lost overboard from the [Royal Fleet Auxiliary (RFA) tanker *Tidesurge*](https://en.wikipedia.org/wiki/RFA_Tidesurge_\(A138\)), off the north-west coast of the Republic of Ireland, has ended without finding any sign of the missing sailor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/Tidesurge.jpg)The search for a crew member who was lost overboard from the [Royal Fleet Auxiliary (RFA) tanker *Tidesurge*](https://en.wikipedia.org/wiki/RFA_Tidesurge_\(A138\)), off the north-west coast of the Republic of Ireland, has ended without finding any sign of the missing sailor.
 
 First Sea Lord General Sir Gwyn Jenkins said in a statement that “after an extensive search for a missing crew member of a Royal Fleet Auxiliary ship’s company, the individual has not been found and the search has been ended.”
 

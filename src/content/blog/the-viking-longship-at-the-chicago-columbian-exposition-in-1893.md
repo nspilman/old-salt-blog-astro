@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Happy Columbus Day, or Indigenous People’s Day, if you prefer. And if you are in Canada, Happy Thanksgiving! Here is an updated repost of when a Viking longship arrived at the World’s Columbian Exposition in Chicago in 1893. The Exposition … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/Viking1893.jpg)Happy Columbus Day, or Indigenous People’s Day, if you prefer. And if you are in Canada, Happy Thanksgiving! Here is an updated repost of when a Viking longship arrived at the [World’s Columbian Exposition](https://en.wikipedia.org/wiki/World%27s_Columbian_Exposition#:~:text=The%20World's%20Columbian%20Exposition%20\(the,the%20New%20World%20in%201492.) in Chicago in 1893. The Exposition was meant to celebrate the 400th anniversary of Columbus’ arrival in the Americas in 1492.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/Viking1893.jpg)Happy Columbus Day, or Indigenous People’s Day, if you prefer. And if you are in Canada, Happy Thanksgiving! Here is an updated repost of when a Viking longship arrived at the [World’s Columbian Exposition](https://en.wikipedia.org/wiki/World%27s_Columbian_Exposition#:~:text=The%20World's%20Columbian%20Exposition%20\(the,the%20New%20World%20in%201492.) in Chicago in 1893. The Exposition was meant to celebrate the 400th anniversary of Columbus’ arrival in the Americas in 1492.
 
 As we all know, Columbus didn’t “discover” the Americas. Indigenous peoples lived on these shores for thousands of years before he showed up. Columbus wasn’t even the first European to cross the Atlantic. According to the Norse sagas, [Leif Eriksson beat Columbus](https://www.history.com/news/the-viking-explorer-who-beat-columbus-to-america) across the pond by nearly 500 years. And to drive the point home, the replica longship named, appropriately enough, [*Viking*](https://en.wikipedia.org/wiki/Viking_\(replica_Viking_longship\)#:~:text=Viking%20is%20a%20Viking%20ship,Exposition%20at%20Chicago%20in%201893.), sailed from Bergen, Norway across the Atlantic, up the Hudson River, through the Erie Canal and onward through the Great Lakes to Chicago to crash Columbus’ party. 
 
@@ -30,4 +30,4 @@ After the Columbian Exposition, the *Viking* sailed down the Mississippi to Ne
 
 [Click on the image below to be taken to a short documentary video about the *Viking*.](https://vimeo.com/82316009)
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/vikingvideo.jpg)](https://vimeo.com/82316009)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/vikingvideo.jpg)](https://vimeo.com/82316009)

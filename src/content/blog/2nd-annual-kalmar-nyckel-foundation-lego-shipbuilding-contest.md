@@ -10,12 +10,12 @@ categories:
 tags:
   - "Kalmar Nyckel"
   - "LEGO"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/knlego.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/knlego.jpg"
 author: "Rick Spilman"
 description: "I do not not immediately associate a replica of a 17th century Dutch pinnace with LEGOs, which may only reflect the limits of my imagination.  The Kalmar Nyckel Foundation is hosting their Second Annual LEGO Shipbuilding Contest. It sounds like a lot … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/knlego.jpg)](https://www.facebook.com/events/732382473606277/)I do not not immediately associate a replica of a [17th century Dutch pinnace](http://www.kalmarnyckel.org/dy.asp?p=9) with LEGOs, which may only reflect the limits of my imagination.  The [Kalmar Nyckel Foundation](http://www.kalmarnyckel.org/Index.asp) is hosting their [Second Annual LEGO Shipbuilding Contest](https://www.facebook.com/events/732382473606277/). It sounds like a lot of fun. From their [Facebook event page](https://www.facebook.com/events/732382473606277/): 
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/knlego.jpg)](https://www.facebook.com/events/732382473606277/)I do not not immediately associate a replica of a [17th century Dutch pinnace](http://www.kalmarnyckel.org/dy.asp?p=9) with LEGOs, which may only reflect the limits of my imagination.  The [Kalmar Nyckel Foundation](http://www.kalmarnyckel.org/Index.asp) is hosting their [Second Annual LEGO Shipbuilding Contest](https://www.facebook.com/events/732382473606277/). It sounds like a lot of fun. From their [Facebook event page](https://www.facebook.com/events/732382473606277/): 
 
 *Calling all LEGO enthusiasts and ship builders! On Saturday, March 4th, the Kalmar Nyckel Foundation will host its second annual LEGO Shipbuilding Contest. The free event will offer maritime and LEGO enthusiasts the chance to create replicas of the “Kalmar Nyckel,” other famous vessels like the USS “Maine” and USS “Wisconsin,” or any other creation of their choosing.*
 

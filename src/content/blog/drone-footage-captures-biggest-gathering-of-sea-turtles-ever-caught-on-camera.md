@@ -11,7 +11,7 @@ tags:
   - "green sea turtles"
   - "Raine Island"
   - "sea turtles"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/droneturtles.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/droneturtles.jpg"
 author: "Rick Spilman"
 description: "Raine Island, Australia, on the edge of the Great Barrier Reef, is one of the world’s largest nesting sites for green sea turtles. Researchers have found that drone cameras are the best way to count the young sea turtles.  Using … Continue reading &rarr;"
 ---

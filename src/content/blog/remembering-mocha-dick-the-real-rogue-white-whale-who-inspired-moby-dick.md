@@ -12,12 +12,12 @@ tags:
   - "Moby Dick"
   - "Mocha Dick"
   - "whaleship Essex"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/md3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/md3.jpg"
 author: "Rick Spilman"
 description: "An updated repost. Melville’s masterpiece, Moby-Dick, was inspired, at least in part, by the sinking of the whaleship Essex by a sperm whale in 1820.  The fate of the Essex unquestionably supplied Melville with ending to his novel. Nevertheless, the core … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/md3.jpg)An updated repost. Melville’s masterpiece, *[Moby-Dick](http://www.amazon.com/gp/product/0486432157?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0486432157)*, was inspired, at least in part, by the [sinking of the whaleship *Essex*](https://en.wikipedia.org/wiki/Essex_\(whaleship\)) by a sperm whale in 1820.  The fate of the *Essex* unquestionably supplied Melville with ending to his novel. Nevertheless, the core of *Moby-Dick* appears to have been inspired by another rogue white sperm whale, known for attacking whale boats and ships. Nicknamed [Mocha Dick](https://en.wikipedia.org/wiki/Mocha_Dick), he was often sighted near the island of [Mocha](http://en.wikipedia.org/wiki/Mocha_Island), off southern Chile. Mocha Dick was said to have killed more than 30 men, and to have attacked and damaged 14 whaleboats and three whaling ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/md3.jpg)An updated repost. Melville’s masterpiece, *[Moby-Dick](http://www.amazon.com/gp/product/0486432157?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0486432157)*, was inspired, at least in part, by the [sinking of the whaleship *Essex*](https://en.wikipedia.org/wiki/Essex_\(whaleship\)) by a sperm whale in 1820.  The fate of the *Essex* unquestionably supplied Melville with ending to his novel. Nevertheless, the core of *Moby-Dick* appears to have been inspired by another rogue white sperm whale, known for attacking whale boats and ships. Nicknamed [Mocha Dick](https://en.wikipedia.org/wiki/Mocha_Dick), he was often sighted near the island of [Mocha](http://en.wikipedia.org/wiki/Mocha_Island), off southern Chile. Mocha Dick was said to have killed more than 30 men, and to have attacked and damaged 14 whaleboats and three whaling ships.
 
 In May 1839 the *Knickerbocker Magazine*, a popular publication in New York City, published a lengthy article about Mocha Dick by [Jeremiah N. Reynolds](http://en.wikipedia.org/wiki/Jeremiah_N._Reynolds), an American journalist, and explorer. Reynolds would later publish a book-length version of his account.
 

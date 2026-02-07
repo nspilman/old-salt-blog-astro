@@ -18,12 +18,12 @@ tags:
   - "John Adams"
   - "Sentinel"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg"
 author: "Rick Spilman"
 description: "Last week, the New York Times reported that Harriet Tubman posters, origami paper cranes and rainbows have been disappearing from the halls of the American schools at NATO headquarters in Belgium, a response to the Trump administration’s rollbacks of diversity, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg)Last week, the [New York Times](https://www.nytimes.com/2025/02/13/world/europe/nato-school-dei-hegseth.html?smid=fb-nytimes&smtyp=cur&fbclid=IwY2xjawIkk-tleHRuA2FlbQIxMQABHeOkBY1mdVxXBKVKQTNSnhyrZ7Pf6SYe8aPOnV0X5gR7FhNWv0NFy92O-A_aem_pujkslyFMVqYBv0t9pJKMw) reported that [Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman) posters, origami paper cranes and rainbows have been disappearing from the halls of the American schools at NATO headquarters in Belgium, a response to the Trump administration’s rollbacks of diversity, equity and inclusion programs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg)Last week, the [New York Times](https://www.nytimes.com/2025/02/13/world/europe/nato-school-dei-hegseth.html?smid=fb-nytimes&smtyp=cur&fbclid=IwY2xjawIkk-tleHRuA2FlbQIxMQABHeOkBY1mdVxXBKVKQTNSnhyrZ7Pf6SYe8aPOnV0X5gR7FhNWv0NFy92O-A_aem_pujkslyFMVqYBv0t9pJKMw) reported that [Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman) posters, origami paper cranes and rainbows have been disappearing from the halls of the American schools at NATO headquarters in Belgium, a response to the Trump administration’s rollbacks of diversity, equity and inclusion programs.
 
 Teachers were worried that they would be seen as signs of Black, Japanese and gay culture — and thus run afoul of the new rules from Washington. The rush to comply with the administration’s directives intensified after educators learned that the wife of Secretary of Defense Pete Hegseth planned to visit their campus.
 

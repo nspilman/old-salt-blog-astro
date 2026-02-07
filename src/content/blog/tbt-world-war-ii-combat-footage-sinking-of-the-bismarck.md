@@ -12,7 +12,7 @@ tags:
   - "HMS Ark Royal"
   - "HMS Hood"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/05/bismarkfootage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/bismarkfootage.jpg"
 author: "Rick Spilman"
 description: "On Throw-Back-Thursday, here is footage of the sinking of the German battleship Bismark, 79 years ago yesterday, by the Royal Navy in a three-day running battle in which the Bismark sank the British battlecruiser HMS Hood.  Ultimately, the German battleship … Continue reading &rarr;"
 ---

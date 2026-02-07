@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In the good (or bad) old days, ships were built from the keel up, with the frames rising from the keel, and the plating or planking secured over the frames.   These days ships are built in modules, large blocks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/AWD000.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/AWD000.jpg)
 
 HMS Hobart, artist's conception
 

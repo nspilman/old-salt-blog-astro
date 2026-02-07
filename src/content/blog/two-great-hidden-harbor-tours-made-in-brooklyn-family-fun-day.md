@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Working Harbor Committee Hidden Harbor Tours® has two great tours coming up, \"Made in Brooklyn\" on June 11th, and a \"Family Fun Day Boat Tour\" on June 20th."
 ---
 
-![hhtours1](http://www.oldsaltblog.com/wp-content/uploads/2015/06/hhtours1.jpg)If you are near New York harbor, the [Working Harbor Committee](http://workingharbor.com/) Hidden Harbor Tours® has two great new tours coming up — “**Made in Brooklyn**” on Thursday, June 11th, and a “**Family Fun Day Boat Tour**” on Saturday, June 20th.
+![hhtours1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hhtours1.jpg)If you are near New York harbor, the [Working Harbor Committee](http://workingharbor.com/) Hidden Harbor Tours® has two great new tours coming up — “**Made in Brooklyn**” on Thursday, June 11th, and a “**Family Fun Day Boat Tour**” on Saturday, June 20th.
 
 “**Made in Brooklyn**” — Join Working Harbor Committee for a tour of Brooklyn waterfront industry, past and present. From Newtown Creek through Sunset Park, the 8 miles of Brooklyn shore facing the Harbor’s Upper Bay were once filled with manufacturing, shipping, and commerce. Highlights include Brooklyn Navy Yard, the city’s new waterfront recycling facility at Gowanus Bay, and the working rail-to-barge connection at Brooklyn Army Terminal. The tour is narrated by Newtown Creek Alliance Historian Mitch Waxman and Captain Margaret Flanagan, Maritime Operations, Metropolitan Waterfront Alliance. The 2-hour boat tour departs at 6:00pm sharp. Boarding begins at 5:30pm.  [Click here for tickets.](http://www.nycharities.org/events/EventLevels.aspx?ETID=8229)
 

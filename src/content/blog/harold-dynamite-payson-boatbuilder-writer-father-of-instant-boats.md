@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,\" Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/855153.jpg)Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/855153.jpg)Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82.
 
 His message was simple.  As expressed in his [books](http://www.amazon.com/Harold-H.-Payson/e/B000AP9FF6/ref=ntt_dp_epwbk_0) and on his [webpage](http://www.instantboats.com/dynamite.htm),” *Harold H. Payson … known to associates, friends, and his wife as Dynamite… thinks you can build a boat.   In fact, if you can saw a penciled line, apply glue, drive nails, and bring a modest measure of patience to the task, you can build and launch a smart and able craft in as few as 40 work hours. You need not be driven by lack of tools, materials, skills, or time to abandon in frustration a project you conceived in a spirit of pleasurable anticipation.”*  
   

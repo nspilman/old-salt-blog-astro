@@ -13,12 +13,12 @@ tags:
   - "Jonathan David Carley"
   - "Phoney Admiral"
   - "Remembrance Sunday"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/fakeadmiral.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/fakeadmiral.jpg"
 author: "Rick Spilman"
 description: "While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines \"admirals\" and \"warships.\" In recent years, the Royal Navy has employed around … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/fakeadmiral.jpg)While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines “admirals” and “warships.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/fakeadmiral.jpg)While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines “admirals” and “warships.”
 
 In recent years, the Royal Navy has employed around 40 admirals serving in various capacities. Many of these officers, however, hold non-seagoing, administrative, or international diplomatic positions. Defining the rank of admiral more narrowly, there are roughly 14 officers of the rank of Rear Admiral and above serving in the Navy command.
 

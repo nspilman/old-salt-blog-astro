@@ -15,12 +15,12 @@ tags:
   - "robot dog"
   - "testbed ship"
   - "XV Patrick Blacket"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/xo1.jpg"
 author: "Rick Spilman"
 description: "NavyX’s new maritime sandbox, XV Patrick Blacket, was christened today in Portsmouth, UK with the help of a robotic dog. You might well ask, what is NavyX? What is a maritime sandbox? And what about the robotic dog? Navy X … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg)NavyX’s new maritime sandbox, XV *Patrick Blacket*, was christened today in Portsmouth, UK with the help of a robotic dog.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/xo1.jpg)NavyX’s new maritime sandbox, XV *Patrick Blacket*, was christened today in Portsmouth, UK with the help of a robotic dog.
 
 You might well ask, what is [NavyX](https://www.royalnavy.mod.uk/news-and-latest-activity/operations/united-kingdom/navy-x)? What is a maritime sandbox? And what about the robotic dog?
 

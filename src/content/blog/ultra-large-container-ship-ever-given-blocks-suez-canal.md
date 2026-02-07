@@ -12,12 +12,12 @@ tags:
   - "Ever Given"
   - "Suez Canal"
   - "ultra-large container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven.jpg"
 author: "Rick Spilman"
 description: "On Tuesday morning, Ever Given, an ultra-large container ship capable of carrying 20,000 TEU, ran aground in the Suez Canal suffering a blackout in high winds during a dust storm. The ship became stuck sideways in the canal blocking both … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/evergiven.jpg)On Tuesday morning, [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN), an ultra-large container ship capable of carrying 20,000 TEU, ran aground in the Suez Canal suffering a blackout in high winds during a dust storm. The ship became stuck sideways in the canal blocking both northbound and southbound transit. By Wednesday morning, more than 100 ships were stuck at each end of the canal, which carries roughly 10 percent of worldwide shipping traffic. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven.jpg)On Tuesday morning, [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN), an ultra-large container ship capable of carrying 20,000 TEU, ran aground in the Suez Canal suffering a blackout in high winds during a dust storm. The ship became stuck sideways in the canal blocking both northbound and southbound transit. By Wednesday morning, more than 100 ships were stuck at each end of the canal, which carries roughly 10 percent of worldwide shipping traffic. 
 
 In 2015, the Suez Canal underwent an $8.5 billion expansion to accommodate the ships and to set up two-way traffic headed both north and south — but its owners never envisioned one of those mega-ships blocking the whole route, experts said.  
    

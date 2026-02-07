@@ -12,12 +12,12 @@ tags:
   - "Lady Anastasia"
   - "Russian superyachts. Spain"
   - "Valerie"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/ladya2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/ladya2.jpg"
 author: "Rick Spilman"
 description: "Spain has recently seized three Russian superyachts believed to be subject to EU sanctions, including the 48-meter-long $7 million Lady Anastasia, which was partially sunk when sabotaged by its Ukrainian chief engineer. Taras Ostapchuk, 55, the engineer was said to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/ladya2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/ladya2.jpg)
 
 Lady Anastasia
 

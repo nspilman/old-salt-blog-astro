@@ -10,12 +10,12 @@ tags:
   - "NASA"
   - "photons"
   - "The Planetary Society"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/lightSail2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/lightSail2.jpg"
 author: "Rick Spilman"
 description: "For several years, we have followed the Planetary Society‘s efforts to launch a solar sail that would be propelled by the light radiating from the Sun. In July 2019, the society’s LightSail 2 deployed a 32-square-meter solar sail, about the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/lightSail2.jpg)For several years, we have followed the [Planetary Society](http://planetary.org/)‘s efforts to launch a solar sail that would be propelled by the light radiating from the Sun. In July 2019, the society’s [LightSail 2 deployed a 32-square-meter solar sail](https://www.oldsaltblog.com/2019/07/update-solar-sail-satellite-lightsail-2-deployed-in-orbit/), about the size of a boxing ring, in Earth orbit. Now 30 months later, [LightSail 2](https://www.planetary.org/articles/lightsail-2-updates-pictures-and-more) continues to sail on sunbeams. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/lightSail2.jpg)For several years, we have followed the [Planetary Society](http://planetary.org/)‘s efforts to launch a solar sail that would be propelled by the light radiating from the Sun. In July 2019, the society’s [LightSail 2 deployed a 32-square-meter solar sail](https://www.oldsaltblog.com/2019/07/update-solar-sail-satellite-lightsail-2-deployed-in-orbit/), about the size of a boxing ring, in Earth orbit. Now 30 months later, [LightSail 2](https://www.planetary.org/articles/lightsail-2-updates-pictures-and-more) continues to sail on sunbeams. 
 
 LightSail 2 is the first spacecraft in Earth orbit to be propelled only by sunlight. The craft orbits the earth powered by the momentum of solar photons striking the sail. 
 

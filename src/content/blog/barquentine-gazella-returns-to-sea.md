@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Philadelphia’s tall ship, the barquentine Gazela has returned to to sea after five years of being limited to protected water sailing due to a damaged rudder.  With a new rudder, the turn-of-the-century Portuguese-built barquentine set sail from Philadelphia bound where she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/gazela.jpg)Philadelphia’s tall ship, the barquentine [*Gazela*](http://gazela.org/offerings/#) has returned to to sea after five years of being limited to protected water sailing due to a damaged rudder.  With a new rudder, the turn-of-the-century Portuguese-built barquentine set sail from Philadelphia bound where she participated in a [Portuguese festival in New Bedford, MA](http://www.portuguesefeast.com/) last weekend.    She is due to return to Philadelphia in about a week and then depart a week later for New York Harbor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/gazela.jpg)Philadelphia’s tall ship, the barquentine [*Gazela*](http://gazela.org/offerings/#) has returned to to sea after five years of being limited to protected water sailing due to a damaged rudder.  With a new rudder, the turn-of-the-century Portuguese-built barquentine set sail from Philadelphia bound where she participated in a [Portuguese festival in New Bedford, MA](http://www.portuguesefeast.com/) last weekend.    She is due to return to Philadelphia in about a week and then depart a week later for New York Harbor.
 
 [Philadelphia’s own tall ship heads back into service](http://www.philly.com/inquirer/local/20100724_Philadelphia_s_own_tall_ship_heads_back_into_service.html)
 

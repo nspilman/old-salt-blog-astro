@@ -12,12 +12,12 @@ tags:
   - "Inspector General"
   - "Maj. Gen. Robert F. Castellvi"
   - "Marine Corps"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/AAV.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/AAV.jpg"
 author: "Rick Spilman"
 description: "The Marine Corps suspended Maj. Gen. Robert F. Castellvi last week as it investigates his role in the sinking of an amphibious assault vehicle (AAV) that killed eight U.S. Marines and one Navy sailor.   A Marine Corps investigation, released in March, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/AAV.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/AAV.jpg)
 
 Photo: Mass Communication Specialist 1st Class Daniel Barker/Navy
 

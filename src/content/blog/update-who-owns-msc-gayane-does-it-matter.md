@@ -14,12 +14,12 @@ tags:
   - "Mediterranean Shipping Company"
   - "MSC Gayane"
   - "SinOceanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg"
 author: "Rick Spilman"
 description: "Recently, we posted about the MSC Gayane, the container ship seized on Monday by US Customs following a $1.3 billion cocaine bust last month in Philadelphia. We said that the ship was not owned by Mediterranean Shipping Company (MSC) but by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/mscgayane2.jpg)Recently, we posted about the MSC *Gayane,* the container ship seized on Monday by US Customs following a $1.3 billion cocaine bust last month in Philadelphia. We said that the ship was not owned by Mediterranean Shipping Company (MSC) but by a shipping fund controlled by JP Morgan. We based this on a Fairplay article from October reporting the sale of the ship from SinOceanic.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/mscgayane2.jpg)Recently, we posted about the MSC *Gayane,* the container ship seized on Monday by US Customs following a $1.3 billion cocaine bust last month in Philadelphia. We said that the ship was not owned by Mediterranean Shipping Company (MSC) but by a shipping fund controlled by JP Morgan. We based this on a Fairplay article from October reporting the sale of the ship from SinOceanic.
 
 Today, however, Captain C Allport commented that according to [Equasis](http://www.equasis.org/EquasisWeb/restricted/ShipHistory?fs=ShipInfo), the ship was sold by SinOceanic to MSC in October. Likewise, ship management responsibilities were taken over by MSC at about the same time. The source for this information on Equasis is listed as IHS Maritime.
 

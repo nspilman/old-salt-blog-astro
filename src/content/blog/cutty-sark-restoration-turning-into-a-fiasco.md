@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "After rosy announcements about the restoration of the Cutty Sark an article in the Telegraph has a very different view of the ongoing project. Cutty Sark restoration turning into a fiasco The restoration of the Cutty Sark is turning into … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/The-Cutty-Sark-in-Greenwi-0-150x90.jpg)After rosy announcements about the restoration of the *Cutty Sark* an article in the [Telegraph](http://www.telegraph.co.uk/news/uknews/7173900/Cutty-Sark-restoration-turning-into-a-fiasco.html) has a very different view of the ongoing project.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/The-Cutty-Sark-in-Greenwi-0-150x90.jpg)After rosy announcements about the restoration of the *Cutty Sark* an article in the [Telegraph](http://www.telegraph.co.uk/news/uknews/7173900/Cutty-Sark-restoration-turning-into-a-fiasco.html) has a very different view of the ongoing project.
 
 [Cutty Sark restoration turning into a fiasco](http://www.telegraph.co.uk/news/uknews/7173900/Cutty-Sark-restoration-turning-into-a-fiasco.html)
 

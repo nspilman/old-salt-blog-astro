@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The holiday shopping season is in full swing. But what can you get for the person who has everything? Why not a used aircraft carrier? Just because the Royal Navy won’t be able to launch ship-borne fixed wing aircraft for the next decade doesn’t mean … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/HMS_INVINCIBLE_PHOTO-U.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/HMS_INVINCIBLE_PHOTO-U.jpg)
 
 HMS INVINCIBLE
 

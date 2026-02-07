@@ -14,12 +14,12 @@ tags:
   - "US Navy"
   - "Virginia Class submarines"
   - "Zumwalt Class destroyer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg"
 author: "Rick Spilman"
 description: "For more than a decade the Navy has labored to develop a workable rail gun, a futuristic weapon that fires projectiles at up to seven times the speed of sound using electricity. It failed.  The Washington Post quotes Matthew Caris, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)For more than a decade the Navy has labored to develop a workable [rail gun](https://en.wikipedia.org/wiki/Railgun), a futuristic weapon that fires projectiles at up to seven times the speed of sound using electricity. It failed. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg)For more than a decade the Navy has labored to develop a workable [rail gun](https://en.wikipedia.org/wiki/Railgun), a futuristic weapon that fires projectiles at up to seven times the speed of sound using electricity. It failed. 
 
 The [Washington Post](https://www.washingtonpost.com/business/futuristic-railguns-are-out-hypersonic-missiles-are-in/2021/07/01/47b0eabe-da5a-11eb-8c87-ad6f27918c78_story.html) quotes Matthew Caris, a defense analyst at Avascent Group, a consulting firm saying “The railgun is, for the moment, dead.”
 

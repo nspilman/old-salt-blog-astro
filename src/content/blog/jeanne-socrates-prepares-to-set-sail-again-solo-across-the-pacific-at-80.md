@@ -10,12 +10,12 @@ tags:
   - "38′ yacht Nereida"
   - "Jeanne Socrates"
   - "record as the oldest person ever to solo circumnavigate non-stop singlehanded"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg"
 author: "Rick Spilman"
 description: "Jeanne Socrates was 76 in October 2018, when she set sail alone from Victoria, British Columbia, on her 38′ yacht Nereida. She returned to Victoria 339 days later, then 77, having sailed singlehanded non-stop around world, becoming the oldest sailor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg)[Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) was 76 in October 2018, when she set sail alone from Victoria, British Columbia, on her 38′ yacht *Nereida*. She returned to Victoria 339 days later, then 77, having sailed singlehanded non-stop around world, becoming the oldest sailor to do so.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg)[Jeanne Socrates](https://en.wikipedia.org/wiki/Jeanne_Socrates) was 76 in October 2018, when she set sail alone from Victoria, British Columbia, on her 38′ yacht *Nereida*. She returned to Victoria 339 days later, then 77, having sailed singlehanded non-stop around world, becoming the oldest sailor to do so.
 
 Now, at 80, Socrates, currently in Mexico, is setting off again to sail solo across the Pacific. This will be a very different voyage, however, from her previous epic circumnavigations. [Practical Boat Owner](https://www.pbo.co.uk/cruising/record-breaking-jeanne-socrates-sets-sail-again-76026) reports that unlike her last record-breaking voyage, this time Jeanne Socrates intends to cruise *Nereida*, stopping at islands along the way.
 

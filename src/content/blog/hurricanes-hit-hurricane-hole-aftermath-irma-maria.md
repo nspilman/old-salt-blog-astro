@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "When a hurricane approaches, there are only two choices for the crew of a yacht — either get out of the hurricane’s path, which may or may not be possible and can be very risky, or to hunker down in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/Paraquita-Bay.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/Paraquita-Bay.jpg)
 
 Paraquita Bay, Tortola — Before and After Hurricane Irma
 

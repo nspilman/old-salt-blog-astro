@@ -7,7 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/Francisco.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/Francisco.jpg"
 author: "Rick Spilman"
 description: "The car/passenger ferry Francisco, built in 2013 by Tasmanian shipyard Incat, is billed as the fastest ship in the world. The 99 meter ferry has clocked speeds of 58 knots (67 mph; 107 km/h). Operated by Buquebus, an Argentine-Uruguayan ferry company, Francisco is capable of accommodating … Continue reading &rarr;"
 ---

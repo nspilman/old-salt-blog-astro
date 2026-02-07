@@ -13,12 +13,12 @@ tags:
   - "flagship"
   - "Prime Minister"
   - "Royal Yacht Britannia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/flagship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/flagship.jpg"
 author: "Rick Spilman"
 description: "Interesting news from the UK. Prime Minister, Boris Johnson, announced the construction of a new national flagship intended to promote British businesses around the world.  The Prime Minister said in the announcement: This new national flagship will be the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/flagship.jpg)Interesting news from the UK. Prime Minister, Boris Johnson, announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/flagship.jpg)Interesting news from the UK. Prime Minister, Boris Johnson, announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world. 
 
 The Prime Minister said in the announcement:
 

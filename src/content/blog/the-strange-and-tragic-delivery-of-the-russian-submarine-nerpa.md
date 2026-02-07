@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Next month, the Russian nuclear submarine, Nerpa, will be delivered to the Indian Navy, which has leased the submarine for a reported $900 million from the Russians for ten years with an option to buy.  The delivery of the new nuclear sub … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/160275822.jpg)Next month, the Russian nuclear submarine, *Nerpa*, will be delivered to the Indian Navy, which has leased the submarine for a reported $900 million from the Russians for ten years with an option to buy.  The delivery of the new nuclear sub to India, which will be renamed INS *Chakra,* has been long, strange and ultimately tragic.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/160275822.jpg)Next month, the Russian nuclear submarine, *Nerpa*, will be delivered to the Indian Navy, which has leased the submarine for a reported $900 million from the Russians for ten years with an option to buy.  The delivery of the new nuclear sub to India, which will be renamed INS *Chakra,* has been long, strange and ultimately tragic.  
   
 Construction of the *Nerpa*,  an Akula-II class nuclear submarine began in 1993 but was halted for lack of funds. [In 2002 secret negotiations began](http://indiatoday.intoday.in/story/The+secret+nuke+sub+deal/1/1024.html) between India and Russia for India to lease two submarines, later reduced to one, as well as other Russian military hardware, including an aircraft carrier and four strategic bombers.
 

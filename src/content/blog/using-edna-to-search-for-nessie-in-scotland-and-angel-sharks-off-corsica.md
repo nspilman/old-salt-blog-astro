@@ -13,12 +13,12 @@ tags:
   - "environmental DNA"
   - "Loch Ness"
   - "Nessie"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/angelshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/angelshark.jpg"
 author: "Rick Spilman"
 description: "Until fairly recently, scientists attempting to establish the existence, health, or migration of marine life had to use nets, cameras, or other means to identify and count the number of animals involved. Now researchers have a new and powerful tool, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/angelshark.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/angelshark.jpg)
 
 Angel Shark
 

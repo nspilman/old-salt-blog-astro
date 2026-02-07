@@ -11,12 +11,12 @@ tags:
   - "dolphins"
   - "humpback whales"
   - "migration"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/dolphinshumpbacks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/dolphinshumpbacks.jpg"
 author: "Rick Spilman"
 description: "A wonderful story from Robyn White writing for Newsweek.  A pod of dolphins led a whale and her calf back to their migration route after they became lost and distressed, a heartwarming video shows. The albino mother humpback whale was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/dolphinshumpbacks.jpg)A wonderful story from [Robyn White](https://www.newsweek.com/authors/robyn-white) writing for [Newsweek](https://www.newsweek.com/dolphins-lost-whale-calf-video-1839854).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/dolphinshumpbacks.jpg)A wonderful story from [Robyn White](https://www.newsweek.com/authors/robyn-white) writing for [Newsweek](https://www.newsweek.com/dolphins-lost-whale-calf-video-1839854).
 
  A pod of dolphins led a whale and her calf back to their migration route after they became lost and distressed, a heartwarming video shows. The albino mother humpback whale was found by the [Dolphin Discovery Centre](https://dolphindiscovery.com.au/), near Bunbury’s Back Beach in Western Australia, after a few beachgoers noticed her in “distress.”
 

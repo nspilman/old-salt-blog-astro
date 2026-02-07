@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "How would you like to escape to a tropical island, well off the beaten path, where land to build a house is free,  temperatures stay above 62F all year round and there is even an internet connection? If that sounds good to you, you might want to consider Pitcairn Island."
 ---
 
-![pitcairnboathouse](http://www.oldsaltblog.com/wp-content/uploads/2015/08/pitcairnboathouse.jpg)How would you like to escape to a tropical island, well off the beaten path, where land to build a house is free,  temperatures stay above 62F all year round and there is even an internet connection? If that sounds good to you, you might want to consider Pitcairn Island.
+![pitcairnboathouse](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/pitcairnboathouse.jpg)How would you like to escape to a tropical island, well off the beaten path, where land to build a house is free,  temperatures stay above 62F all year round and there is even an internet connection? If that sounds good to you, you might want to consider Pitcairn Island.
 
 Yes, that Pitcairn Island, Britain’s smallest colony, the tiny island originally settled by mutineers from HMS Bounty.  The population has been dwindling in recent years and now stands below 50.
 

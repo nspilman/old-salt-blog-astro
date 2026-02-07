@@ -12,12 +12,12 @@ tags:
   - "Jay-nel Rosales"
   - "livestock carrier"
   - "survivor"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/edwards.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/edwards.jpg"
 author: "Rick Spilman"
 description: "Two days after the capsize and sinking of the livestock carrier, Gulf Livestock 1, in Typhoon Maysak, the Japanese coast guard has rescued a second survivor. Jay-nel Rosales, 30, of the Philippines, was found floating alone in a life raft … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/edwards.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/edwards.jpg)
 
 Eduardo Sareno, a survivor of capsized Gulf Livestock 1. A second survivor has now been rescued.
 

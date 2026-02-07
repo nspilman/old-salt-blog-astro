@@ -14,12 +14,12 @@ tags:
   - "France"
   - "oak"
   - "white oak"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/oakforest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/oakforest.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Constitution Grove, a 50,000-acre private forest maintained by the US Navy, in part to provide white oak trees used in maintaining the USS Constitution, the oldest commissioned naval vessel still afloat. The forest is part of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/oakforest.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/oakforest.jpg)
 
 Oak trees in Colbert’s forest
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The ketch Irene, built in 1907 to carry bricks and tiles, has set sail with a cargo of Devon ale for Brittany and Spanish olive oil for  Brazil, on what will be, if all goes well, a five month voyage which will also carry … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/cropped-irene-sky-dreams2.jpg)The ketch *[Irene](http://www.thisissomerset.co.uk/pictures/Irene-Bridgwater-sets-sail-Rio-Brazil-photo/pictures-15233397-detail/pictures.html)*, built in 1907 to carry bricks and tiles, has set sail with a cargo of Devon ale for Brittany and Spanish olive oil for  Brazil, on what will be, if all goes well, a five month voyage which will also carry cocoa, coffee, Amazonian “superfoods” and rum from South America and the Caribbean back to the UK.   The venture is being run by the [New Dawn Traders](http://newdawntraders.wordpress.com/) in association with [TransOceanic Wind Transport](http://www.towt.eu/en/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/cropped-irene-sky-dreams2.jpg)The ketch *[Irene](http://www.thisissomerset.co.uk/pictures/Irene-Bridgwater-sets-sail-Rio-Brazil-photo/pictures-15233397-detail/pictures.html)*, built in 1907 to carry bricks and tiles, has set sail with a cargo of Devon ale for Brittany and Spanish olive oil for  Brazil, on what will be, if all goes well, a five month voyage which will also carry cocoa, coffee, Amazonian “superfoods” and rum from South America and the Caribbean back to the UK.   The venture is being run by the [New Dawn Traders](http://newdawntraders.wordpress.com/) in association with [TransOceanic Wind Transport](http://www.towt.eu/en/).
 
 [Vintage ketch sets sail to launch slow cargo movement](http://www.guardian.co.uk/environment/2012/feb/13/new-dawn-traders-slow-cargo-sail)   
   
@@ -27,4 +27,4 @@ description: "The ketch Irene, built in 1907 to carry bricks and tiles, has set 
 
 The 32 meter cargo carrying brigantine *[Tres Hombres](http://svtreshombres.homestead.com/Index.html)*, operated by [Fairtransport](http://www.fairtransport.eu/) in partnership with  [TransOceanic Wind Transport](http://www.towt.eu/en/), will be calling in Bonaire today through the 17th and is sponsoring an “open house.”
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/treshombres.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/treshombres.jpg)

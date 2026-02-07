@@ -10,12 +10,12 @@ tags:
   - "ferry"
   - "Lake Victoria"
   - "MV Nyerere"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/tanzaniaferry1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tanzaniaferry1.jpg"
 author: "Rick Spilman"
 description: "The severely overloaded ferry, MV Nyerere, capsized in Lake Victoria in Tanzania on Thursday. The current death toll stands at 209 people. Two days after the capsize, divers rescued an engineer from an apparent air pocket inside the overturned ferry. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/tanzaniaferry1.jpg)The severely overloaded ferry, MV Nyerere, capsized in Lake Victoria in Tanzania on Thursday. The current death toll stands at 209 people. Two days after the capsize, divers rescued an engineer from an apparent air pocket inside the overturned ferry.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tanzaniaferry1.jpg)The severely overloaded ferry, MV Nyerere, capsized in Lake Victoria in Tanzania on Thursday. The current death toll stands at 209 people. Two days after the capsize, divers rescued an engineer from an apparent air pocket inside the overturned ferry.
 
 The [NY Times](https://www.nytimes.com/2018/09/22/world/africa/tanzania-ferry-capsize-survivor.html) report that the engineer who was rescued, Alphonce Charahani, was immediately rushed to a medical facility on Ukara island to receive care. Few details on his health have been released, but the authorities described him as being covered in oil when he was found.
 

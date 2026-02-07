@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The USS Iowa will soon have a new home. The Port of Los Angeles has won the bidding to support the battleship, beating out Vallejo which had also been actively bidding for the ship. Los Angeles Wins USS Iowa Bid … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/UssIowa.jpg)The [USS *Iowa*](http://en.wikipedia.org/wiki/USS_Iowa_\(BB-61\)) will soon have a new home. The Port of Los Angeles has won the bidding to support the battleship, [beating out Vallejo](http://www.timesheraldonline.com/ci_18841398?source=most_emailed) which had also been actively bidding for the ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/UssIowa.jpg)The [USS *Iowa*](http://en.wikipedia.org/wiki/USS_Iowa_\(BB-61\)) will soon have a new home. The Port of Los Angeles has won the bidding to support the battleship, [beating out Vallejo](http://www.timesheraldonline.com/ci_18841398?source=most_emailed) which had also been actively bidding for the ship.
 
 [Los Angeles Wins USS Iowa Bid](http://www.nbclosangeles.com/news/local/129328813.html)  
   

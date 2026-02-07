@@ -10,12 +10,12 @@ tags:
   - "Ichthyosaur"
   - "Rutland Water Nature Reserve"
   - "United Kingdom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/icthy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/icthy.jpg"
 author: "Rick Spilman"
 description: "Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, \"I think I’ve found a dinosaur.\" It wasn’t a dinosaur. But it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/icthy.jpg)Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, “I think I’ve found a dinosaur.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/icthy.jpg)Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, “I think I’ve found a dinosaur.”
 
 It wasn’t a dinosaur. But it was the fossilized remains of a 10m-long reptilian sea predator called an [ichthyosaur](https://en.wikipedia.org/wiki/Ichthyosaur). And it was the largest of its type ever discovered in the UK.
 

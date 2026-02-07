@@ -14,12 +14,12 @@ tags:
   - "Trump"
   - "US military"
   - "Venezuelan vessel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/09/trumpstrike.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/trumpstrike.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the attack and sinking of a Venezuelan vessel in international waters by the US military. Eleven people aboard were reported to have been killed. The Trump regime claimed, without providing any evidence, that the boat was … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/09/trumpstrike.jpg)We recently [posted about the attack and sinking of a Venezuelan vessel](https://www.oldsaltblog.com/2025/09/was-trumps-attack-on-venezuelan-vessel-killing-11-illegal/) in international waters by the US military. Eleven people aboard were reported to have been killed. The Trump regime claimed, without providing any evidence, that the boat was smuggling drugs to the United States. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/09/trumpstrike.jpg)We recently [posted about the attack and sinking of a Venezuelan vessel](https://www.oldsaltblog.com/2025/09/was-trumps-attack-on-venezuelan-vessel-killing-11-illegal/) in international waters by the US military. Eleven people aboard were reported to have been killed. The Trump regime claimed, without providing any evidence, that the boat was smuggling drugs to the United States. 
 
 Since then, the US has attacked and sunk two more boats and killed at least 3 more people. Again, the regime has provided no evidence of its claims that the boats were smuggling drugs.  Based on images provided by the Trump regime, the boats appeared too small and to lack the necessary range to realistically smuggle drugs into the United States. 
 

@@ -10,12 +10,12 @@ categories:
 tags:
   - "Alexander V. Ezhkov"
   - "Polina Star III"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/polinastarIIIa.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/polinastarIIIa.jpg"
 author: "Rick Spilman"
 description: "Alexander V. Ezhkov, the owner of the ill-fated Polina Star III, has a story to tell about his experience with the yacht builder Oyster Marine.  Ezhkov has put up a website to detail what took place from when in 2012, he ordered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/polinastarIIIa.jpg)Alexander V. Ezhkov, the owner of the ill-fated *Polina Star III,* has a [story to tell](http://oysterstory.info/) about his experience with the yacht builder Oyster Marine. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/polinastarIIIa.jpg)Alexander V. Ezhkov, the owner of the ill-fated *Polina Star III,* has a [story to tell](http://oysterstory.info/) about his experience with the yacht builder Oyster Marine. 
 
 Ezhkov has put up a website to detail what took place from when in 2012, he ordered the 90′ *Polina Star III*, a new Oyster 885. The site details what transpired from her delivery in 2014, to her sinking and capsize in 2015 after her keel fell off while sailing in the Mediterranean off the Spanish coast.
 

@@ -15,12 +15,12 @@ tags:
   - "PCBs"
   - "polybrominated diphenyl ethers"
   - "polychlorinated biphenyls"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/amphipod.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/amphipod.jpg"
 author: "Rick Spilman"
 description: "There appears to be no limit to the man-made pollution of the oceans. Toxic chemicals have now been found in the deepest portions of the ocean, at the bottom of the Marianas and Kermadec trenches. Each trench is over 10 kilometers deep … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/amphipod.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/amphipod.jpg)
 
 Photo: Dr. Alan Jamieson
 

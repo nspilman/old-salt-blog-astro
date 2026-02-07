@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "On Sunday, the government of South Korea announced that it was extending its air defense zone to include Socotra Rock, a submerged pinnacle in the Yellow Sea.  The Korean air defense zone now overlaps with the air defense zones already … Continue reading &rarr;"
 ---
 
-![South Korean Aegis destroyer Yulgok YiYi patrols the waters around Socotra Rock, south of Jeju Island, on Dec. 2. Photograph by Yonhap via EPA](http://www.oldsaltblog.com/wp-content/uploads/2013/12/iF99MJ6GUcOM.jpg)
+![South Korean Aegis destroyer Yulgok YiYi patrols the waters around Socotra Rock, south of Jeju Island, on Dec. 2. Photograph by Yonhap via EPA](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/iF99MJ6GUcOM.jpg)
 
 South Korean Aegis destroyer Yulgok YiYi patrols the waters around Socotra Rock, south of Jeju Island, on Dec. 2. Photograph by Yonhap via EPA
 

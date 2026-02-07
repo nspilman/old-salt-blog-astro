@@ -15,12 +15,12 @@ tags:
   - "Massachusetts"
   - "pirate"
   - "Whydah Gally"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/bellamy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/bellamy.jpg"
 author: "Rick Spilman"
 description: "Last February, we posted about human bone fragments found near the wreck of the pirate ship Whydah Gally on Cape Cod, Massachusetts.  The bones were located close to where a pistol, which possibly belonged to the ship’ captain, \"Black Sam\" Bellamy, had been recovered.  Forensic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/bellamy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/bellamy.jpg)
 
 Captain “Black Sam” Bellamy
 

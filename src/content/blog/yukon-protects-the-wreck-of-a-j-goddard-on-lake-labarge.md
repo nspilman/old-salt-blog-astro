@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Yukon protects Klondike shipwreck site Just months after a team of archeologists revealed their discovery of a historic Klondike shipwreck in waters north of Whitehorse, the Yukon government has declared the sunken A.J. Goddard sternwheeler a historic site symbolizing the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/goddard.jpg)[Yukon protects Klondike shipwreck site](http://www.leaderpost.com/technology/Yukon+protects+Klondike+shipwreck+site/3147166/story.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/goddard.jpg)[Yukon protects Klondike shipwreck site](http://www.leaderpost.com/technology/Yukon+protects+Klondike+shipwreck+site/3147166/story.html)
 
 *Just months after a team of archeologists revealed their discovery of a historic Klondike shipwreck in waters north of Whitehorse, the Yukon government has declared the sunken A.J. Goddard sternwheeler a historic site symbolizing the “sense of adventure” that gripped North America at the height of the 1890s gold rush.*  
   

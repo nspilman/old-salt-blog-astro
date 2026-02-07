@@ -13,12 +13,12 @@ tags:
   - "Orca"
   - "Robin Knox-Johnston"
   - "Spain"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/SRKJ.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/SRKJ.jpg"
 author: "Rick Spilman"
 description: "More news of orcas attacking sailboats in the Atlantic off the Iberian peninsula, in this case involving a sailing icon. Scuttlebutt Sailing News reports that a pod of orcas attacked Sir Robin Knox-Johnson while sailing his Farr 56 Sanjula, damaging … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/SRKJ.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/SRKJ.jpg)
 
 Robin Knox-Johnston in 2013
 

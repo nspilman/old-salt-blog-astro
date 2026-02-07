@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We apologize to industrial vacuum cleaners. (They may not be the national security threat we once thought.)   In a previous post we repeated a statement by the Federal investigators that the fire on the nuclear submarine USS Miami, undergoing repairs in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/ussmiamifire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/ussmiamifire.jpg)
 
 Photo:Elizabeth Dinan/www.seacoastonline.com
 

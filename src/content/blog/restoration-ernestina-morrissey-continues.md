@@ -12,12 +12,12 @@ tags:
   - "Effie M. Morrissey"
   - "Ernestina"
   - "Ernestina-Morrissey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/morrisey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/morrisey.jpg"
 author: "Rick Spilman"
 description: "The restoration of the historic schooner Ernestina-Morrissey is a quiet success story. The schooner, launched in 1894, is being rebuilt in the Boothbay Harbor Shipyard. Arriving at the yard in April 2014, she is expected to be redelivered in 2019. The schooner, the official … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/morrisey.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/morrisey.jpg)
 
 Effie M. Morrissey 1894
 

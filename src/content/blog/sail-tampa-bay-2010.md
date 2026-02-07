@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Sail Tampa Bay 2010 is a five day festival, which starts today, celebrating Tampa Bay’s rich maritime history. The festival centerpiece is a visit by three sail training ships – the U.S. Coast Guard cutter Eagle, three-masted Columbian training barque Gloria … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/Colombian_Training_Ship_ARC.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/07/Colombian_Training_Ship_ARC.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Colombian_Training_Ship_ARC.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Colombian_Training_Ship_ARC.jpg)
 
 Gloria
 

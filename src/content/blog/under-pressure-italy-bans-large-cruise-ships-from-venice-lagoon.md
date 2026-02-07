@@ -13,12 +13,12 @@ tags:
   - "Marghera"
   - "UNESCO World Heritage site"
   - "Venice lagoon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/venice-cruiseship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/venice-cruiseship.jpg"
 author: "Rick Spilman"
 description: "The Italian government is banning large cruise ships from calling on the Venice lagoon after declaring the lagoon a national monument. Italy had come under pressure from Unesco, the UN’s heritage agency, that threatened to put Venice on its endangered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/venice-cruiseship.jpg)The Italian government is banning large cruise ships from calling on the Venice lagoon after declaring the lagoon a national monument. Italy had come under pressure from Unesco, the UN’s heritage agency, that [threatened to put Venice on its endangered list](https://www.theguardian.com/world/2021/jun/21/venice-may-be-put-on-endangered-list-if-cruise-ships-not-banned-says-unesco) unless the government permanently banned cruise ships from docking in the world heritage site. The ban is an attempt to protect the lagoon’s fragile ecosystem from the downsides of mass tourism. As of August 1, 2021, no passenger vessel above 25,000 register tonnes will be allowed to dock in the lagoon.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/venice-cruiseship.jpg)The Italian government is banning large cruise ships from calling on the Venice lagoon after declaring the lagoon a national monument. Italy had come under pressure from Unesco, the UN’s heritage agency, that [threatened to put Venice on its endangered list](https://www.theguardian.com/world/2021/jun/21/venice-may-be-put-on-endangered-list-if-cruise-ships-not-banned-says-unesco) unless the government permanently banned cruise ships from docking in the world heritage site. The ban is an attempt to protect the lagoon’s fragile ecosystem from the downsides of mass tourism. As of August 1, 2021, no passenger vessel above 25,000 register tonnes will be allowed to dock in the lagoon.
 
 Cruise ships [as large as 139,000 tonnes](http://www.oldsaltblog.com/2012/06/how-big-is-too-big-protests-when-msc-divina-sails-into-venice-lagoon/) have called on Venice in the recent past. In 2019, the 65,591-tonne ship, [MSC *Opera* lost control while docking on the Giudecca Canal](http://www.oldsaltblog.com/2019/06/cruise-ship-msc-opera-loses-control-in-venice-hits-dock-and-tour-boat/) in Venice, slamming into the dock and hitting a tour boat, injuring five people. The ship was accompanied by two tugs that were nevertheless unable to control the 2,150 passenger ship.
 

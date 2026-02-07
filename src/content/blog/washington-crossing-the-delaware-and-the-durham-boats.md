@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Christmas Day in 1776, George Washington led what was left of his army across the Delaware River in the middle of a blizzard to attack a Hessian outpost in Trenton, NJ.  In one bold stroke, he turned almost certain … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/24PAINTING-1-blog480.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/24PAINTING-1-blog480.jpg)
 
 More accurate? Really?
 
@@ -34,6 +34,6 @@ It appears unlikely, however, that Washington himself traveled by flat bottomed 
 
 The [Washington Crossing Historical Park](http://www.ushistory.org/washingtoncrossing/index.htm) has several replica Durham boats on display which it uses for yearly re-enactments of the famous crossing.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/durham_boats_upstream.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/durham_boats_upstream.jpg)
 
 Durham boats on the Delaware

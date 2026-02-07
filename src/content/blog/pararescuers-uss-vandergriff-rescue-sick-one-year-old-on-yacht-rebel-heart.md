@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Update: As reported by CBS — The Coast Guard says the baby, along with her parents and 3-year-old sister, boarded the USS Vandegrift at 8 a.m. Sunday. The baby girl was in stable condition and was heading to San Diego … Continue reading &rarr;"
 ---
 
-![Photo: 129th Rescue Wing ](http://www.oldsaltblog.com/wp-content/uploads/2014/04/rebel+hear+boat-1.jpg)
+![Photo: 129th Rescue Wing ](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/rebel+hear+boat-1.jpg)
 
 Photo: 129th Rescue Wing
 

@@ -11,12 +11,12 @@ tags:
   - "Cape Hatteras Lighthouse"
   - "Secretary of the Treasury"
   - "Thunderbolt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/hamilton1.jpg"
 author: "Rick Spilman"
 description: "For Throw Back Thursday (TBT) and in belated honor of yesterday’s National Lighthouse Day, here is a repost from several years ago about Hamilton’s lighthouse.  The Cape Hatteras Lighthouse, marking the shoals which have become known as the \"graveyard of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg)For Throw Back Thursday (TBT) and in belated honor of yesterday’s [National Lighthouse Day](https://nationaldaycalendar.com/national-lighthouse-day-august-7/), here is a repost from several years ago about Hamilton’s lighthouse. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/hamilton1.jpg)For Throw Back Thursday (TBT) and in belated honor of yesterday’s [National Lighthouse Day](https://nationaldaycalendar.com/national-lighthouse-day-august-7/), here is a repost from several years ago about Hamilton’s lighthouse. 
 
 The [Cape Hatteras Lighthouse](https://en.wikipedia.org/wiki/Cape_Hatteras_Lighthouse), marking the shoals which have become known as the “graveyard of ships,” is often referred to as Alexander Hamilton’s lighthouse. (The current lighthouse is the second built at the site.)
 

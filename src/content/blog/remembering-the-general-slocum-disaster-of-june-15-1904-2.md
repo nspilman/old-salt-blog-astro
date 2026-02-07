@@ -13,12 +13,12 @@ tags:
   - "Knickerbocker Steamship Company"
   - "New York City"
   - "North Brother Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/gslocum1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/gslocum1.jpg"
 author: "Rick Spilman"
 description: "One hundred and seventeen years ago today, the disaster on General Slocum resulted in the largest loss of life in New York City prior to the attacks of 9/11/01. An updated repost.  At around 9AM on June 15, 1904, approximately … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/gslocum1.jpg)One hundred and seventeen years ago today, the disaster on [*General Slocum*](https://en.wikipedia.org/wiki/PS_General_Slocum) resulted in the largest loss of life in New York City prior to the attacks of 9/11/01. An updated repost. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/gslocum1.jpg)One hundred and seventeen years ago today, the disaster on [*General Slocum*](https://en.wikipedia.org/wiki/PS_General_Slocum) resulted in the largest loss of life in New York City prior to the attacks of 9/11/01. An updated repost. 
 
 At around 9AM on June 15, 1904, approximately 1,350 passengers, mostly women and children from the German-American community of New York’s Lower East Side, boarded the Knickerbocker Steamship Company paddle steamer, *General Slocum*, for an annual end-of-school outing to Locust Grove Picnic Ground at Eatons Neck on Long Island.  The trip was sponsored by the [St. Mark’s Evangelical Lutheran Church](https://en.wikipedia.org/wiki/German_Evangelical_Lutheran_Church_of_St._Mark).
 

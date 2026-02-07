@@ -14,12 +14,12 @@ tags:
   - "Gerald R. Ford-class aircraft carrier"
   - "Pearl Harbor"
   - "USS Doris Miller"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/doriemillermlk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/doriemillermlk.jpg"
 author: "Rick Spilman"
 description: "Today, on Martin Luther King, Jr. Day, the US Navy officially named the newest of the future Gerald R. Ford-class aircraft carriers, not after a president, a senator, an admiral or a historic battlefield. Instead, they named the carrier after … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/doriemillermlk.jpg)Today, on Martin Luther King, Jr. Day, the US Navy officially named the newest of the future [Gerald R. Ford-class aircraft carriers](https://en.wikipedia.org/wiki/Gerald_R._Ford-class_aircraft_carrier), not after a president, a senator, an admiral or a historic battlefield. Instead, they named the carrier after [Doris “Dorie” Miller](https://en.wikipedia.org/wiki/Doris_Miller), an African-American Navy Messman, who during the attack on Pearl Harbor, helped save the lives of his shipmates and valiantly fought attacking Japanese forces. For his bravery, Miller was awarded the Navy Cross — the first African-American to receive this honor. Almost two years after his valor at Pearl Harbor, Miller was killed when his ship, an escort carrier, was sunk in battle.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/doriemillermlk.jpg)Today, on Martin Luther King, Jr. Day, the US Navy officially named the newest of the future [Gerald R. Ford-class aircraft carriers](https://en.wikipedia.org/wiki/Gerald_R._Ford-class_aircraft_carrier), not after a president, a senator, an admiral or a historic battlefield. Instead, they named the carrier after [Doris “Dorie” Miller](https://en.wikipedia.org/wiki/Doris_Miller), an African-American Navy Messman, who during the attack on Pearl Harbor, helped save the lives of his shipmates and valiantly fought attacking Japanese forces. For his bravery, Miller was awarded the Navy Cross — the first African-American to receive this honor. Almost two years after his valor at Pearl Harbor, Miller was killed when his ship, an escort carrier, was sunk in battle.
 
 [USS *Doris Miller* (CVN 81)](https://en.wikipedia.org/wiki/USS_Doris_Miller_\(CVN-81\)) will be the first aircraft carrier named for an enlisted Sailor and the first named for an African American. The carrier is scheduled to be laid down in 2023, launched in 2028, and commissioned in 2030.
 

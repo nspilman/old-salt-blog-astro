@@ -11,12 +11,12 @@ tags:
   - "Greenland"
   - "Heat Wave"
   - "melting"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/greenlandmelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/greenlandmelt.jpg"
 author: "Rick Spilman"
 description: "As record-breaking heat waves have sent temperatures soaring across Western Europe and parts of North America, unusually warm weather in Greenland has triggered massive melting of glacial ice. CNN reports that the amount of ice that melted in Greenland between … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/greenlandmelt.jpg)As [record-breaking heat waves](https://abcnews.go.com/Technology/record-breaking-heat-waves-us-europe-prove-climate/story?id=87069737) have sent temperatures soaring across Western Europe and parts of North America, unusually warm weather in Greenland has triggered massive melting of glacial ice. [CNN](https://www.cnn.com/2022/07/20/world/greenland-heat-wave-ice-melting-climate/index.html) reports that the amount of ice that melted in Greenland between July 15 and 17 alone – 6 billion tons of water per day – would be enough to fill 7.2 million Olympic-sized swimming pools, according to data from the US National Snow and Ice Data Center.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/greenlandmelt.jpg)As [record-breaking heat waves](https://abcnews.go.com/Technology/record-breaking-heat-waves-us-europe-prove-climate/story?id=87069737) have sent temperatures soaring across Western Europe and parts of North America, unusually warm weather in Greenland has triggered massive melting of glacial ice. [CNN](https://www.cnn.com/2022/07/20/world/greenland-heat-wave-ice-melting-climate/index.html) reports that the amount of ice that melted in Greenland between July 15 and 17 alone – 6 billion tons of water per day – would be enough to fill 7.2 million Olympic-sized swimming pools, according to data from the US National Snow and Ice Data Center.
 
 Put another way, it was enough to cover the entire area of the state of West Virginia with a foot of water.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant \"headlights\" at the moment it goes in for the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/danasquid.jpg)Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant “headlights” at the moment it goes in for the kill. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/danasquid.jpg)Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant “headlights” at the moment it goes in for the kill. 
 
 The scientists dropped a free-fall camera baited with mackerel just north of the Samoan Passage in the South Pacific. As the camera sank to the bottom, it was attacked by a [*Taningia danae*](https://www.thecephalopodpage.org/Tdanae.php)—also known as the Dana octopus squid at a depth of around 3,366 feet.
 

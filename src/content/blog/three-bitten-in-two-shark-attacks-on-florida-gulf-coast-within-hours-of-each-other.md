@@ -12,12 +12,12 @@ tags:
   - "shark attacks"
   - "Walton County"
   - "Watersound Beach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/flsharks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/flsharks.jpg"
 author: "Rick Spilman"
 description: "A woman was attacked by a shark on Friday afternoon while swimming in the Gulf of Mexico near Watersound Beach in Walton County, Florida. The victim, a woman in her 40s, sustained critical injuries on her midsection and left arm, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/flsharks.jpg)A [woman was attacked by a shark](https://www.msn.com/en-gb/news/world/woman-forced-to-undergo-amputation-among-three-hurt-in-shark-attacks/ar-BB1nSp4N) on Friday afternoon while swimming in the Gulf of Mexico near [Watersound Beach](https://www.discover30a.com/30-A_Communities/watersound-beach/) in [Walton County, Florida](https://www.co.walton.fl.us/). The victim, a woman in her 40s, sustained critical injuries on her midsection and left arm, according to South Walton Fire Chief Ryan Crawford. She was transported to a local trauma center where part of her arm had to be amputated. The attack occurred around 1:20pm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/flsharks.jpg)A [woman was attacked by a shark](https://www.msn.com/en-gb/news/world/woman-forced-to-undergo-amputation-among-three-hurt-in-shark-attacks/ar-BB1nSp4N) on Friday afternoon while swimming in the Gulf of Mexico near [Watersound Beach](https://www.discover30a.com/30-A_Communities/watersound-beach/) in [Walton County, Florida](https://www.co.walton.fl.us/). The victim, a woman in her 40s, sustained critical injuries on her midsection and left arm, according to South Walton Fire Chief Ryan Crawford. She was transported to a local trauma center where part of her arm had to be amputated. The attack occurred around 1:20pm.
 
 Less than two hours later, two teenage girls were waist-deep in the water near [Seacrest Beach](https://www.visitsouthwalton.com/neighborhoods/seacrest/), only about four miles east of the first incident, when a shark attacked them. One girl suffered “significant injuries to the upper leg and one hand” and was taken to a trauma center. The other girl had minor injuries on her foot and was taken to a hospital, according to officials.
 

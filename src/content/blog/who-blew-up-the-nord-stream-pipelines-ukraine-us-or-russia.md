@@ -14,12 +14,12 @@ tags:
   - "sabotage"
   - "Ukraine"
   - "United Nations"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/nordstream.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/nordstream.jpg"
 author: "Rick Spilman"
 description: "On September 26, 2022, a series of clandestine bombings resulted in underwater gas leaks from the Nord Stream 1 and Nord Stream 2 natural gas pipelines. Both pipelines were built to transport natural gas from Russia to Germany through the Baltic Sea, and are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/nordstream.jpg)On September 26, 2022, a [series of clandestine bombings](https://en.wikipedia.org/wiki/2022_Nord_Stream_pipeline_sabotage) resulted in underwater [gas leaks](https://en.wikipedia.org/wiki/Gas_leaks "Gas leaks") from the [Nord Stream 1](https://en.wikipedia.org/wiki/Nord_Stream_1 "Nord Stream 1") and [Nord Stream 2](https://en.wikipedia.org/wiki/Nord_Stream_2 "Nord Stream 2") [natural gas pipelines](https://en.wikipedia.org/wiki/Natural_gas_pipeline "Natural gas pipeline"). Both pipelines were built to transport natural gas from Russia to Germany through the [Baltic Sea](https://en.wikipedia.org/wiki/Baltic_Sea "Baltic Sea"), and are majority owned by the Russian majority [state-owned](https://en.wikipedia.org/wiki/State_capitalism "State capitalism") gas company, [Gazprom](https://en.wikipedia.org/wiki/Gazprom "Gazprom").
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/nordstream.jpg)On September 26, 2022, a [series of clandestine bombings](https://en.wikipedia.org/wiki/2022_Nord_Stream_pipeline_sabotage) resulted in underwater [gas leaks](https://en.wikipedia.org/wiki/Gas_leaks "Gas leaks") from the [Nord Stream 1](https://en.wikipedia.org/wiki/Nord_Stream_1 "Nord Stream 1") and [Nord Stream 2](https://en.wikipedia.org/wiki/Nord_Stream_2 "Nord Stream 2") [natural gas pipelines](https://en.wikipedia.org/wiki/Natural_gas_pipeline "Natural gas pipeline"). Both pipelines were built to transport natural gas from Russia to Germany through the [Baltic Sea](https://en.wikipedia.org/wiki/Baltic_Sea "Baltic Sea"), and are majority owned by the Russian majority [state-owned](https://en.wikipedia.org/wiki/State_capitalism "State capitalism") gas company, [Gazprom](https://en.wikipedia.org/wiki/Gazprom "Gazprom").
 
 Who blew up the underwater natural gas pipelines is unclear. Fingers have been pointed at pro-Ukrainian groups, covert operators from the United States Navy, and most recently a Russian Navy mini-submarine.
 

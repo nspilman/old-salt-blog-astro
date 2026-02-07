@@ -13,12 +13,12 @@ tags:
   - "USS Coronado"
   - "USS Fort Worth"
   - "USS Freedom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/lcs2.jpg"
 author: "Rick Spilman"
 description: "In its recent budget proposal, the Navy announced its intention to retire the first four Littoral Combat Ships (LCS)  — the USS Freedom, USS Independence,  USS Fort Worth, and USS Coronado — which range in age from twelve to only … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg)In its recent budget proposal, the Navy announced its intention to retire the first four Littoral Combat Ships (LCS)  — the [USS *Freedom*](http://www.oldsaltblog.com/2013/11/uss-freedom-continued-break-downs-in-singapore-troubled-lcs-program-facing-cuts/), [USS *Independence*](https://en.wikipedia.org/wiki/USS_Independence_\(LCS-2\)),  [USS *Fort Worth*](http://www.oldsaltblog.com/2016/01/uss-fort-worth-another-lcs-gear-breakdown/), and [USS *Coronado*](https://en.wikipedia.org/wiki/USS_Coronado_\(LCS-4\)) — which range in age from twelve to only six years old.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/lcs2.jpg)In its recent budget proposal, the Navy announced its intention to retire the first four Littoral Combat Ships (LCS)  — the [USS *Freedom*](http://www.oldsaltblog.com/2013/11/uss-freedom-continued-break-downs-in-singapore-troubled-lcs-program-facing-cuts/), [USS *Independence*](https://en.wikipedia.org/wiki/USS_Independence_\(LCS-2\)),  [USS *Fort Worth*](http://www.oldsaltblog.com/2016/01/uss-fort-worth-another-lcs-gear-breakdown/), and [USS *Coronado*](https://en.wikipedia.org/wiki/USS_Coronado_\(LCS-4\)) — which range in age from twelve to only six years old.  
 
 The LCS were supposed to be cheap, flexible and multipurpose vessels capable of operating primarily in coastal waters. They have turned out to be expensive, unreliable and incapable of doing anything well. Many in the blue-water Navy refer to the LCS as “Little Crappy Ships.”  The LCS have been described as the [program that broke the Navy](http://www.oldsaltblog.com/2016/12/lcs-program-broke-navy/). 
 

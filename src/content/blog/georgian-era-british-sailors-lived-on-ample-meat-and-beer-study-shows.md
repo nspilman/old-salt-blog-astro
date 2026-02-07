@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In the last days of the age of sail, British sailing ships, limejuicers, as they were known, had reputation as \"hungry ships,\"  of offering poor quality provisions and not much of those.  Whether that reputation was or was not wholly justified at the end … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/royal-navy-food.jpg)In the last days of the age of sail, British sailing ships, limejuicers, as they were known, had reputation as “hungry ships,”  of offering poor quality provisions and not much of those.  Whether that reputation was or was not wholly justified at the end of the 19th century, a new study now reveals that sailors in the Georgian Navy were well and amply fed for their day. Given that the British Navy had to feed upwards of 140,000 seamen and marines, the Victualing Board seems to have done a remarkably good job.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/royal-navy-food.jpg)In the last days of the age of sail, British sailing ships, limejuicers, as they were known, had reputation as “hungry ships,”  of offering poor quality provisions and not much of those.  Whether that reputation was or was not wholly justified at the end of the 19th century, a new study now reveals that sailors in the Georgian Navy were well and amply fed for their day. Given that the British Navy had to feed upwards of 140,000 seamen and marines, the Victualing Board seems to have done a remarkably good job.
 
 [Georgian-Era British Sailors Lived on Ample Meat and Beer, Study Shows](http://www.history.com/news/2012/03/23/georgian-era-british-sailors-lived-on-ample-meat-and-beer-study-shows/)  
   

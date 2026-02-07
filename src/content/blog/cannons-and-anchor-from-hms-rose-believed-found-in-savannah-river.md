@@ -13,12 +13,12 @@ tags:
   - "American revolutionary war"
   - "HMS Rose"
   - "Savannah River"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/rosegun.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/rosegun.jpg"
 author: "Rick Spilman"
 description: "While preparing to dredge the shipping channel in the Savannah River, the U.S. Army Corps of Engineers may have found artifacts from HMS Rose, a 20-gun Royal Navy frigate, dating from the American  Revolutionary War. Archaeologists with the Corps of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/rosegun.jpg)While preparing to [dredge the shipping channel in the Savannah River](https://www.maritime-executive.com/article/savannah-wreck-could-be-a-british-warship-from-the-revolutionary-war), the U.S. Army Corps of Engineers may have found artifacts from [HMS *Rose*](https://en.wikipedia.org/wiki/HMS_Rose_\(1757\)), a 20-gun Royal Navy frigate, dating from the American  Revolutionary War. Archaeologists with the Corps of Engineers discovered an anchor, a section of timber, and three cannons believed to date from the 1700s.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/rosegun.jpg)While preparing to [dredge the shipping channel in the Savannah River](https://www.maritime-executive.com/article/savannah-wreck-could-be-a-british-warship-from-the-revolutionary-war), the U.S. Army Corps of Engineers may have found artifacts from [HMS *Rose*](https://en.wikipedia.org/wiki/HMS_Rose_\(1757\)), a 20-gun Royal Navy frigate, dating from the American  Revolutionary War. Archaeologists with the Corps of Engineers discovered an anchor, a section of timber, and three cannons believed to date from the 1700s.
 
 The *Rose* was scuttled in the river in September 1779, blocking the channel, to prevent the French fleet from aiding American soldiers attempting to capture the city of Savannah. The British held the city until July 11, 1782, when they withdrew on their own accord. After the end of the war, the wreck of the *Rose* was removed to reopen the channel to navigation.
 

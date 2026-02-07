@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Does Iran have any conceivable case for seizing the Maersk Tigris? The short answer is \"no.\" The slightly longer answer might be \"absolutely not.\""
 ---
 
-![mtigrisstern1](http://www.oldsaltblog.com/wp-content/uploads/2015/05/mtigrisstern1.jpg)Does Iran have any conceivable case for seizing the *Maersk Tigris*?  The short answer is “no.” The slightly longer answer might be “absolutely not” or “under no circumstances.”
+![mtigrisstern1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/mtigrisstern1.jpg)Does Iran have any conceivable case for seizing the *Maersk Tigris*?  The short answer is “no.” The slightly longer answer might be “absolutely not” or “under no circumstances.”
 
 [Iran is claiming a decade old cargo dispute](http://www.bbc.com/news/world-middle-east-32525639) as the basis for seizing the ship. Admiralty law does allow a nation to arrest a foreign ship for maritime liens resulting from the sort of cargo dispute existing between Maersk and an Iranian shipper.  So far so good. The problem is that the arrest of the ship in “innocent transit” is generally not allowed.  The ship needs to be in port. More than that, the ship arrested has to be the ship against which the claim was filed. The *Maersk Tigris*  was not that ship.  Iran cannot simply go after any ship operated by Maersk.
 

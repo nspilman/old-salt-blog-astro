@@ -11,12 +11,12 @@ tags:
   - "Golden Thirteen"
   - "US Navy"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/02/golden13.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/golden13.jpg"
 author: "Rick Spilman"
 description: "As Black History Month winds to a close, here is a repost of a wonderful bit of history from the Naval History and Heritage Command — the story of the Golden Thirteen. In January 1944, there were nearly 100,000 Black … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/golden13.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/golden13.jpg)
 
 Twelve of the Golden Thirteen
 

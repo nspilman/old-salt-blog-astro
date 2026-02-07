@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Falls of Clyde, built in 1878, is the only surviving iron-hulled four-masted full rigged ship and the only surviving sail-driven oil tanker in the world.  After years of neglect by the Bishop Museum, the ship has been taken over … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)
 
 The *[Falls of Clyde](http://en.wikipedia.org/wiki/Falls_of_Clyde_\(Ship\)),* built in 1878*,* is the only surviving iron-hulled four-masted full rigged ship and the only surviving sail-driven oil tanker in the world.  After years of neglect by the Bishop Museum, the ship has been taken over by [Friends of the Falls of Clyde](http://sites.google.com/a/friendsoffallsofclyde.org/test3/home), a wonderfully dedicated group of volunteers, who are working hard maintaining the ship and struggling to raise the money needed to restore her.  Fortunately, the ship is good structural condition and an excellent candidate for restoration.
 

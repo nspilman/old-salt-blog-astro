@@ -9,12 +9,12 @@ tags:
   - "Lightsail 2"
   - "solar sail"
   - "The Planetary Society"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/lightsail2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/lightsail2.jpg"
 author: "Rick Spilman"
 description: "A post not about the sea, but about sailing on the ocean of light from the sun. The idea for solar sailing dates back to 1610, when Johannes Kepler observed that comet tails point away from the sun as if … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/lightsail2.jpg)A post not about the sea, but about sailing on the ocean of light from the sun. The idea for [solar sailing](https://en.wikipedia.org/wiki/Solar_sail) dates back to 1610, when Johannes Kepler observed that comet tails point away from the sun as if pushed by a celestial wind.  In a letter to Galileo, he wrote, “Provide ships or sails adapted to the heavenly breezes, and there will be some who will brave even that void.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/lightsail2.jpg)A post not about the sea, but about sailing on the ocean of light from the sun. The idea for [solar sailing](https://en.wikipedia.org/wiki/Solar_sail) dates back to 1610, when Johannes Kepler observed that comet tails point away from the sun as if pushed by a celestial wind.  In a letter to Galileo, he wrote, “Provide ships or sails adapted to the heavenly breezes, and there will be some who will brave even that void.”
 
 Back in 2014, [we posted about The Planetary Society’s Lightsail project](http://www.oldsaltblog.com/2015/06/lightsail-sailing-on-the-light-of-the-sun/), an attempt to launch a solar sail which would be propelled by the momentum of photons of light radiating from the sun. Their first attempt with a prototype was largely successful and since the non-profit society has been raising money and arranging a launch window to send their 32-square-meter solar sail *Lightsail 2* into orbit as a light propelled earth satellite. *Lightsail 2* is expected to be launched sometime in 2019 aboard a Falcon Heavy rideshare mission called STP-2.  
 

@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "There are no weekends off at sea and this has been a busy Saturday. Off Sicily, the 18,000 DWT Italian tanker Gelso M ran aground in a storm, with reports of engine room flooding. The crew of 19 was evacuated by helicopter without injury. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/717478.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/717478.jpg)
 
 Photo: Celina - Aleksi Lindström, Gelso M - Willem Oldenburg
 

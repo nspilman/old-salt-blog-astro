@@ -13,12 +13,12 @@ tags:
   - "Newport"
   - "River Usk"
   - "South East Wales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/newportship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/newportship.jpg"
 author: "Rick Spilman"
 description: "In June 2002 in the city of Newport, South East Wales, a mid-fifteenth-century sailing vessel was discovered during the construction of the Riverfront Theatre in the banks of the River Usk. Now, after two decades of documenting the remains of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/newportship.jpg)In June 2002 in the city of Newport, South East Wales, a mid-fifteenth-century sailing vessel was discovered during the construction of the Riverfront Theatre in the banks of the River Usk.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/newportship.jpg)In June 2002 in the city of Newport, South East Wales, a mid-fifteenth-century sailing vessel was discovered during the construction of the Riverfront Theatre in the banks of the River Usk.
 
 Now, after two decades of documenting the remains of the former wine-trading vessel and 1,000 medieval artifacts, including drying and preserving the ship’s timbers, archeologists will be attempting the unprecedented. They will now attempt to reassemble the ship from its surviving parts. With almost 2,500 pieces, measuring 30 meters and weighing 25 tonnes, the project has been called the [world’s largest 3D puzzle.](https://www.bbc.co.uk/news/uk-wales-64151535.amp)
 

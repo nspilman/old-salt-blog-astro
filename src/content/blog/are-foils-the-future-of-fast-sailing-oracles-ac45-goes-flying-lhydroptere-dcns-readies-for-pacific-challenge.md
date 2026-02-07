@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "When I was coming of age, many thought that the future of speed on the water would be in motor-powered hydrofoils.  While there are still a few hydrofoil ferries in operation, the idea really never caught on.  Now, however, hydrofoils have appeared … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/ac45flying.jpg)When I was coming of age, many thought that the future of speed on the water would be in motor-powered hydrofoils.  While there are still a few hydrofoil ferries in operation, the idea really never caught on.  Now, however, hydrofoils have appeared from a different quarter, powered not by engines, but by the wind.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/ac45flying.jpg)When I was coming of age, many thought that the future of speed on the water would be in motor-powered hydrofoils.  While there are still a few hydrofoil ferries in operation, the idea really never caught on.  Now, however, hydrofoils have appeared from a different quarter, powered not by engines, but by the wind.
 
 Last week, a photograph hit the net of the [Oracle America’s Cup AC45 “flying” on foils](https://www.facebook.com/media/set/?set=a.401757359861316.83937.166891610014560&type=1) in San Francisco Bay.  “L” shaped daggerboard foils and a “T” foil on the rubber were added to the racing catamaran and “voila,” she could fly.  Exactly how the foils are controlled is still unclear but the photos released by Oracle Team USA definately show the boat flying on the “L” shaped foils, or ‘[flying like “L](https://www.facebook.com/media/set/?set=a.401757359861316.83937.166891610014560&type=1)“‘ as the caption on their Facebook page describes it.  
   

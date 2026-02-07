@@ -10,12 +10,12 @@ tags:
   - "comet"
   - "Near Earth Object Wide-field Infrared Survey Explorer"
   - "Neowise"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/neowise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/neowise.jpg"
 author: "Rick Spilman"
 description: "On March 27, astronomers discovered a new comet that they designated C/2020 F3. The comet was located using NASA’s space telescope, the Near Earth Object Wide-field Infrared Survey Explorer (NEOWISE), the comet is being called Neowise. While not one of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/neowise.jpg)On March 27, astronomers discovered a new comet that they designated C/2020 F3. The comet was located using NASA’s space telescope, the Near Earth Object Wide-field Infrared Survey Explorer (NEOWISE), the comet is being called Neowise. While not one of the brighter comets, like Hale-Bopp, the great comet of 1997,” nevertheless Neowise should be visible with the naked eye until early August. Let’s hope that the ancient lore of comets as harbingers of doom does not apply. We have had enough ill-fortune in 2020 already.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/neowise.jpg)On March 27, astronomers discovered a new comet that they designated C/2020 F3. The comet was located using NASA’s space telescope, the Near Earth Object Wide-field Infrared Survey Explorer (NEOWISE), the comet is being called Neowise. While not one of the brighter comets, like Hale-Bopp, the great comet of 1997,” nevertheless Neowise should be visible with the naked eye until early August. Let’s hope that the ancient lore of comets as harbingers of doom does not apply. We have had enough ill-fortune in 2020 already.  
 
 The [Washington Post](https://www.washingtonpost.com/weather/2020/07/09/comet-neowise/) reports:  *Through the weekend, your best bet to catch Neowise would entail sauntering outdoors to a dark location about an hour [before](https://spaceweather.com/images2020/10jul20/skymap_10jul20.png) sunrise. Neowise won’t be too high above the horizon, so ensure that you have a clear, unobstructed view. But look to the east-northeast, and you’ll catch the starlike comet with a blurred tail smudged upward and right.*
 

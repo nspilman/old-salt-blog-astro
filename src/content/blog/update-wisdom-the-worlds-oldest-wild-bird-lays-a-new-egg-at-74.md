@@ -13,12 +13,12 @@ tags:
   - "oldest banded bird"
   - "oldest confirmed wild bird"
   - "Wisdom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/wisdom.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/wisdom.jpg"
 author: "Rick Spilman"
 description: "In March 2021, we posted about a Laysan albatross nicknamed Wisdom who, at the age of 70, had hatched a new chick. Wisdom is the oldest confirmed wild bird and the oldest banded bird in the world, having been first identified and banded on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/wisdom.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/12/wisdom.jpg)
 
 Wisdom (left)
 

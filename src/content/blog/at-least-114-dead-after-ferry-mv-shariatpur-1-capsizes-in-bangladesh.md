@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Yesterday, the MV-Shariatpur-1, a ferry crossing the the Meghna River, just south of the capital, Dhaka, in Bangladesh, collided with a cargo vessel in early morning darkness. The ferry capsized and sank, killing at least 114 of the more than 200 passengers believed to be aboard. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/13ferry_cnd-articleLarge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/13ferry_cnd-articleLarge.jpg)
 
 Rescuers carried bodies to shore after the MV-Shariatpur-1 sank on Tuesday. Photo: Abir Abdullah/European Pressphoto Agency
 

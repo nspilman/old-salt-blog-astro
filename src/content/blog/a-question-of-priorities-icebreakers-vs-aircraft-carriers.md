@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Paradoxically, the decreasing polar ice cap has increased the need for icebreakers. As the ice diminishes, traffic has increased above the Arctic Circle, making the need for icebreaking to assist in transit or respond to emergencies ever more important.  On his … Continue reading &rarr;"
 ---
 
-![polarstar](http://www.oldsaltblog.com/wp-content/uploads/2015/09/polarstar.jpg)
+![polarstar](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/polarstar.jpg)
 
 USCG Polar Star
 

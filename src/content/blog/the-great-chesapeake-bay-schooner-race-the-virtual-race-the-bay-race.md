@@ -14,12 +14,12 @@ tags:
   - "Norfolk"
   - "The Bay Race"
   - "Virtual Great Chesapeake Bay Schooner Race"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/GCBSR2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/GCBSR2.jpg"
 author: "Rick Spilman"
 description: "For more than 30 years, participants in the Great Chesapeake Bay Schooner Race have been \"racing to save the bay.\" The race is intended to promote public awareness of the Chesapeake Bay’s maritime heritage and to encourage the preservation and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/GCBSR2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/GCBSR2.jpg)
 
 Graphic: GCBSR.org
 

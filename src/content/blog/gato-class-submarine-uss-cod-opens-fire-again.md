@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "In July 1945, the Dutch submarine O-19 ran hard aground on Ladd Reef in the South China Sea deep in enemy waters.  The Gato class submarine USS Cod was sent to rescue the Dutch sub. After  two days of attempting to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/USS-COD-CEREMONY.jpg)In July 1945, the [Dutch submarine O-19](http://www.dutchsubmarines.com/specials/special_fatalpatrolo19.htm) ran hard aground on Ladd Reef in the South China Sea deep in enemy waters.  The Gato class submarine [USS *Cod*](http://www.usscod.org/info.html) was sent to rescue the Dutch sub. After  two days of attempting to free the stricken sub, the Dutch crew of 56 was taken aboard the USS *Cod* and the the O-19 was destroyed with torpedoes and fire from the *Cod*‘s deck guns to prevent it from falling into Japanese hands.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/USS-COD-CEREMONY.jpg)In July 1945, the [Dutch submarine O-19](http://www.dutchsubmarines.com/specials/special_fatalpatrolo19.htm) ran hard aground on Ladd Reef in the South China Sea deep in enemy waters.  The Gato class submarine [USS *Cod*](http://www.usscod.org/info.html) was sent to rescue the Dutch sub. After  two days of attempting to free the stricken sub, the Dutch crew of 56 was taken aboard the USS *Cod* and the the O-19 was destroyed with torpedoes and fire from the *Cod*‘s deck guns to prevent it from falling into Japanese hands.
 
 Yesterday in Cleveland, Ohio, the USS *Cod*‘s deck guns were fired again to commemorate the anniversary of the only international submarine-to-submarine rescue in history.
 

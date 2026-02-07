@@ -15,12 +15,12 @@ tags:
   - "Classic Harbor Line"
   - "Flotilla and Blessing of the Fleet"
   - "manhattan"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/boatlift1.jpg"
 author: "Rick Spilman"
 description: "Tomorrow, two events will commemorate the 20th anniversary of the 9/11 boatlift, in which an estimated 500,00 people were rescued from Lower Manhattan following the attacks of 9/11.  We recently posted about the Flotilla and Blessing of the Fleet hosted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg)Tomorrow, two events will commemorate the 20th anniversary of the 9/11 boatlift, in which an estimated 500,00 people were rescued from Lower Manhattan following the attacks of 9/11.  We recently posted about the [Flotilla and Blessing of the Fleet](http://www.oldsaltblog.com/2021/09/commemorating-the-great-9-11-boatlift/) hosted by the [Classic Harbor Line Fleet.](https://sail-nyc.com/the-great-boatlift/) 100% of all ticket sales are donated to various waterfront organizations. Click here to [learn more and to purchase tickets.](https://fareharbor.com/embeds/book/sail-nyc/items/?flow=623228&asn=lilacpreservationproject&sheet=358020&full-items=yes)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/boatlift1.jpg)Tomorrow, two events will commemorate the 20th anniversary of the 9/11 boatlift, in which an estimated 500,00 people were rescued from Lower Manhattan following the attacks of 9/11.  We recently posted about the [Flotilla and Blessing of the Fleet](http://www.oldsaltblog.com/2021/09/commemorating-the-great-9-11-boatlift/) hosted by the [Classic Harbor Line Fleet.](https://sail-nyc.com/the-great-boatlift/) 100% of all ticket sales are donated to various waterfront organizations. Click here to [learn more and to purchase tickets.](https://fareharbor.com/embeds/book/sail-nyc/items/?flow=623228&asn=lilacpreservationproject&sheet=358020&full-items=yes)  
 
 Onshore, the [New York Council Navy League](https://www.nynavyleague.org/mission) will present the [9/11 Boatlift 20th Anniversary Tribute](https://www.nynavyleague.org/events/911-boatlift-20th-anniversary-tribute), which will be held on Friday, September 10, 2021 at 1:00 P.M. at the American Merchant Mariners’ Memorial in Battery Park, Manhattan. 
 

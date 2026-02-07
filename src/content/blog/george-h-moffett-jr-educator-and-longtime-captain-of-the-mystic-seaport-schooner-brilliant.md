@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Sad news. George H. Moffett Jr., the captain of the Mystic Seaport Museum schooner Brilliant for 25 years, has died of melanoma at his home in Connecticut. He was 66. Moffett was from a naval family. His grandfather, Admiral William A. Moffett, was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/moffett.jpg)Sad news. George H. Moffett Jr., the captain of the [Mystic Seaport Museum](http://www.mysticseaport.org/) schooner *[Brilliant](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewpage&page_id=ff10ea76-b0d0-d05e-1a1360424e13f653)* for 25 years, has died of melanoma at his home in Connecticut. He was 66.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/moffett.jpg)Sad news. George H. Moffett Jr., the captain of the [Mystic Seaport Museum](http://www.mysticseaport.org/) schooner *[Brilliant](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewpage&page_id=ff10ea76-b0d0-d05e-1a1360424e13f653)* for 25 years, has died of melanoma at his home in Connecticut. He was 66.
 
 Moffett was from a naval family. His grandfather, [Admiral William A. Moffett](http://en.wikipedia.org/wiki/William_A._Moffett), was known as the “father of naval aviation.”  George Moffett  studied engineering at  the Naval Academy during the Vietnam War, but questioned the morality of the conflict and transferred out. He would later earn a Master’s in Divinity from the University of Berlin and before moving back to the United States, would become headmaster of a small boarding school on the south coast of England.
 

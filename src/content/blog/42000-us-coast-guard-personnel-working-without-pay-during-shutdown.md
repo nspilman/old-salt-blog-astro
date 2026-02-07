@@ -9,12 +9,12 @@ categories:
 tags:
   - "Coast Guard"
   - "shutdown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/US-CoastGuard.jpg"
 author: "Rick Spilman"
 description: "Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman. \"Unless legislation … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg)Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/US-CoastGuard.jpg)Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman.
 
 “Unless legislation is passed by Friday, Dec. 28, our military workforce will not receive our regularly scheduled pay check for 31 Dec.,” Chief Warrant Officer Allyson Conroy said in a statement to [NBC News](https://www.nbcnews.com/news/us-news/42-000-coast-guard-members-are-only-military-branch-work-n952066) on Wednesday.
 

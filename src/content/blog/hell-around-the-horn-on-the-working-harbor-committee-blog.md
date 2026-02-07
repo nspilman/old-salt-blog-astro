@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "There was a very nice post this morning on the Working Harbor Committee blog about my novel \"Hell Around the Horn.\"   My thanks to the editor,  Mai Armstrong. Have you read Rick Spilman’s novel Hell Around The Horn? It’s a thriller … Continue reading &rarr;"
 ---
 
-[![BookCoverconradgthumb200](http://www.oldsaltblog.com/wp-content/uploads/2012/08/BookCoverconradgthumb2001.jpg)](http://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7)There was a very nice post this morning on the [Working Harbor Committee blog](http://workingharbor.wordpress.com/) about my novel “[*Hell Around the Horn*](http://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7).”   My thanks to the editor,  Mai Armstrong.
+[![BookCoverconradgthumb200](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg)](http://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7)There was a very nice post this morning on the [Working Harbor Committee blog](http://workingharbor.wordpress.com/) about my novel “[*Hell Around the Horn*](http://www.amazon.com/Hell-Around-the-Horn-ebook/dp/B0091614MM/ref=pd_rhf_gw_p_t_2_1EE7).”   My thanks to the editor,  Mai Armstrong.
 
 *Have you read Rick Spilman’s novel [Hell Around The Horn](http://oldsaltpress.com/hell-around-the-horn-a-novel-by-rick-spilman/)?*
 

@@ -12,7 +12,7 @@ tags:
   - "killer whale"
   - "Orca"
   - "type D"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/dtypeorca.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/dtypeorca.jpg"
 author: "Rick Spilman"
 description: "It is remarkable how little we really know about orcas, also known as killer whales. In January, a team of NOAA scientists located and began to study a likely new species of orca about 60 miles off the coast of … Continue reading &rarr;"
 ---

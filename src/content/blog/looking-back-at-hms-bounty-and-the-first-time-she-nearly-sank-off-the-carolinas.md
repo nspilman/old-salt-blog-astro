@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Coast Guard has issued its final report on the sinking of HMS Bounty in October 2012.  You can read the report here. In the report, there is one oblique reference to 1998 in which \"the Seventh Coast Guard District … Continue reading &rarr;"
 ---
 
-![bounty-004](http://www.oldsaltblog.com/wp-content/uploads/2012/09/bounty-004.jpg)The Coast Guard has issued its final report on the sinking of HMS *Bounty* in October 2012.  [You can read the report here.](http://i2.cdn.turner.com/cnn/2014/images/06/12/bounty.pdf)
+![bounty-004](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/bounty-004.jpg)The Coast Guard has issued its final report on the sinking of HMS *Bounty* in October 2012.  [You can read the report here.](http://i2.cdn.turner.com/cnn/2014/images/06/12/bounty.pdf)
 
 In the report, there is one oblique reference to 1998 in which “*the Seventh Coast Guard District closed the marine casualty case after having determined that BOUNTY was not a commercial vessel.*”  The casualty referred to was when the *Bounty* had come perilously close to sinking, in almost the same waters where she sank in 2012, and for almost the same reasons.
 

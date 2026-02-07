@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Newtown Creek was recently sold at auction. She is a lovely coastal tanker that traversed New York harbor's waters for close to a half century."
 ---
 
-![Photo: Will Van Dorp](http://www.oldsaltblog.com/wp-content/uploads/2015/04/newtown-creek.jpg)
+![Photo: Will Van Dorp](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/newtown-creek.jpg)
 
 Photo: Will Van Dorp
 

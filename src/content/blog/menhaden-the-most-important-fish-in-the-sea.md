@@ -11,12 +11,12 @@ tags:
   - "Nature Conservancy"
   - "striped bass"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/ncmendhaden.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ncmendhaden.jpg"
 author: "Rick Spilman"
 description: "To change the topic, for a day at least, here is a well done short video by the Nature Conservancy about the return of the lowly menhaden, which they call the most important fish in the sea. Menhaden are an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/ncmendhaden.jpg)To change the topic, for a day at least, here is a well done short video by the [Nature Conservancy](https://www.nature.org/en-us/) about the return of the lowly menhaden, which they call [the most important fish in the sea](https://www.nature.org/en-us/about-us/where-we-work/united-states/new-york/stories-in-new-york/menhaden-whales-return-new-york/). Menhaden are an oily little fish that are an essential food source for whales, dolphins, striped bass and seabirds. They are also filter feeders that help control algae and plankton blooms.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ncmendhaden.jpg)To change the topic, for a day at least, here is a well done short video by the [Nature Conservancy](https://www.nature.org/en-us/) about the return of the lowly menhaden, which they call [the most important fish in the sea](https://www.nature.org/en-us/about-us/where-we-work/united-states/new-york/stories-in-new-york/menhaden-whales-return-new-york/). Menhaden are an oily little fish that are an essential food source for whales, dolphins, striped bass and seabirds. They are also filter feeders that help control algae and plankton blooms.  
 
 Menhaden was seriously overfished in the 1960s. With coastal management and quotas, the schools of menhaden have returned and with them, New York City and Long Island have seen a dramatic increase in whales, dolphins and striped bass.
 

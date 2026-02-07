@@ -11,12 +11,12 @@ tags:
   - "Hurricane Harvey"
   - "jon-boats"
   - "Texas Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/jonboat1.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/jonboat1.png"
 author: "Rick Spilman"
 description: "The boats and the circumstances are all different and yet each in its way is the same, from the \"little ships\" of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/jonboat1.png)The boats and the circumstances are all different and yet each in its way is the same, from the “little ships” of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people need help, mariners of every stripe come to the rescue. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/jonboat1.png)The boats and the circumstances are all different and yet each in its way is the same, from the “little ships” of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people need help, mariners of every stripe come to the rescue. 
 
 The flooding caused on the Texas Gulf coast by Hurricane Harvey is unprecedented. A third of Harris County, Texas, which includes Houston, the fourth largest city in the US, with a population of 4 million, is now fully underwater. And the flood waters just keep rising. Rainfall totals in some areas are expected to exceed 4 feet.
 

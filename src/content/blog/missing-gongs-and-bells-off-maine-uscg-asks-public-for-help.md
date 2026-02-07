@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A certain number of brass bells and gongs from bell and gong buoys off the coast of Maine have turned up missing and the US Coast Guard has recently issued a press release asking the public’s help in identifying the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/buoy.jpg)A certain number of brass bells and gongs from bell and gong buoys off the coast of Maine have turned up missing and the US Coast Guard has recently issued a [press release](https://content.govdelivery.com/accounts/USDHSCG/bulletins/1f407e7) asking the public’s help in identifying the thieves. The statement is a bit cryptic. It does not identify how many of what they describe as “brass sound signaling devices” have been stolen or from which buoys. (There is, however, a reward for information leading to the conviction of the thieves.) The press release goes on to say:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/buoy.jpg)A certain number of brass bells and gongs from bell and gong buoys off the coast of Maine have turned up missing and the US Coast Guard has recently issued a [press release](https://content.govdelivery.com/accounts/USDHSCG/bulletins/1f407e7) asking the public’s help in identifying the thieves. The statement is a bit cryptic. It does not identify how many of what they describe as “brass sound signaling devices” have been stolen or from which buoys. (There is, however, a reward for information leading to the conviction of the thieves.) The press release goes on to say:
 
 *The brass gongs and bells were attached to buoys to help mariners navigate safely during times of reduced visibility. They play a vital role in the safe passage of ships and mariners.*
 

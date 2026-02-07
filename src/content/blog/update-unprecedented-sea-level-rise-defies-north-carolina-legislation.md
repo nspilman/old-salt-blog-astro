@@ -10,12 +10,12 @@ tags:
   - "North Carolina"
   - "North Carolina law"
   - "sea level rise"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/sealevelrise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/sealevelrise.jpg"
 author: "Rick Spilman"
 description: "Just over a decade ago, we posted about how legislators in North Carolina passed a law that banned the state from basing coastal policies on the latest scientific predictions of how much the sea level will rise. The law required … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/sealevelrise.jpg)Just over a decade ago, [we posted](https://www.oldsaltblog.com/2012/06/north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal/) about how [legislators in North Carolina passed a law](https://abcnews.go.com/US/north-carolina-bans-latest-science-rising-sea-level/story?id=16913782) that banned the state from basing coastal policies on the latest scientific predictions of how much the sea level will rise. The law required government planning boards to only use predictions of sea level rise based on linear projections from 1900.  The increased rise in sea-level due to climate change would not only be ignored but would be illegal for land use planning.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/sealevelrise.jpg)Just over a decade ago, [we posted](https://www.oldsaltblog.com/2012/06/north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal/) about how [legislators in North Carolina passed a law](https://abcnews.go.com/US/north-carolina-bans-latest-science-rising-sea-level/story?id=16913782) that banned the state from basing coastal policies on the latest scientific predictions of how much the sea level will rise. The law required government planning boards to only use predictions of sea level rise based on linear projections from 1900.  The increased rise in sea-level due to climate change would not only be ignored but would be illegal for land use planning.
 
 At the time, we compared their obdurate [denial of climate change to Xerxes the Great ordering the sea to be flogged](https://www.oldsaltblog.com/2012/06/north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal/) with chains when a storm destroyed a bridge across the Hellespont in 480 BCE,
 

@@ -12,7 +12,7 @@ tags:
   - "Glenlee"
   - "River Clyde"
   - "Riverside Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/glenlee.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/glenlee.jpg"
 author: "Rick Spilman"
 description: "This seems appropriate for an overcast Sunday in late November – a lovely drone video from a few years ago of the restored steel-hulled three-masted bark Glenlee on the River Clyde. Built name in 1896, the Glenlee sailed for 23 … Continue reading &rarr;"
 ---

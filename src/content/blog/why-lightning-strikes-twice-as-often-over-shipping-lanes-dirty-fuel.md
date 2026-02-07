@@ -11,12 +11,12 @@ tags:
   - "dirty fuel"
   - "lightning"
   - "shipping lanes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/lightningsealanes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/lightningsealanes.jpg"
 author: "Rick Spilman"
 description: "Apparently, lightning strikes twice as often over shipping sea lanes than over the ocean as a whole. Wired recently published an article about research that comes to that conclusion and suggests an answer to the question. They note that it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/lightningsealanes.jpg)Apparently, lightning strikes twice as often over shipping sea lanes than over the ocean as a whole. [Wired](https://www.wired.com/story/why-lightning-strikes-twice-as-much-over-shipping-lanes/?fbclid=IwAR0vddGWNJL9RBa_ZpAQ-QDLh9u1HLq_PP_ifcUaOEpA5FgSz-TfJE1-srA) recently published an article about research that comes to that conclusion and suggests an answer to the question. They note that *it might sound crazy, but it’s true: The heavens cast their wrath and fury on the ships more than on the fishes.*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/lightningsealanes.jpg)Apparently, lightning strikes twice as often over shipping sea lanes than over the ocean as a whole. [Wired](https://www.wired.com/story/why-lightning-strikes-twice-as-much-over-shipping-lanes/?fbclid=IwAR0vddGWNJL9RBa_ZpAQ-QDLh9u1HLq_PP_ifcUaOEpA5FgSz-TfJE1-srA) recently published an article about research that comes to that conclusion and suggests an answer to the question. They note that *it might sound crazy, but it’s true: The heavens cast their wrath and fury on the ships more than on the fishes.*
 
 The article continues: *A comparison of lightning strikes between 2005 and 2016 in the eastern Indian Ocean and South China Sea (above) and shipping emissions (below) shows a clear correlation between where humans sail and where lightning hits.* 
 

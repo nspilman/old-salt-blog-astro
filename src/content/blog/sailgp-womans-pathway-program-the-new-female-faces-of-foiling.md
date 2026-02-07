@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Recently, the Washington Post featured a profile of CJ Perez, an 18-year-old female sailor who recently joined the US team of SailGP. SailGP is an international sailing competition using high-performance F50 foiling catamarans, where teams compete across a season of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/sailgpwomenspathway.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/sailgpwomenspathway.jpg)
 
 Nina Curtis (AUS), Katja Salskov-Iversen (DEN), Amelie Riou (FRA), Hannah Mills (GBR), Sena Takano (JPN), Erica Dawson (NZL), Andrea Emone (ESP) and CJ Perez (USA). Perez, third from left.
 

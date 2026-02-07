@@ -26,7 +26,7 @@ The Russian tanker *[Renda](http://www.vesseltracker.com/en/Ships/Renda-8129618.
   
 Nome is on the southern [Seward Peninsula](http://en.wikipedia.org/wiki/Seward_Peninsula "Seward Peninsula") coast on [Norton Sound](http://en.wikipedia.org/wiki/Norton_Sound "Norton Sound") of the [Bering Sea](http://en.wikipedia.org/wiki/Bering_Sea "Bering Sea") and is accessible only by sea or air. With the onset of winter, the town is ice-locked.  The trip from open water through the ice to Nome is roughly 390 NM.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/Balto.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Balto.jpg)
 
 Statue of Balto in Central Park, NYC
 

@@ -14,12 +14,12 @@ tags:
   - "Cooper River"
   - "MSC Michigan VII"
   - "South Carolina"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/michigan-VII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/michigan-VII.jpg"
 author: "Rick Spilman"
 description: "On Wednesday morning at 11:46 a.m. the container ship MSC Michigan VII departed the North Charleston Container Terminal in Charleston, South Carolina, with its engine set to \"dead slow ahead\" as it moved down the Cooper River toward the Arthur … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/michigan-VII.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/michigan-VII.jpg)
 
 Photo: vesselfinder,com
 

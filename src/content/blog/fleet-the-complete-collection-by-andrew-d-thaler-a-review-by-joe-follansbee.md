@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A review by Joe Follansbee of Andrew D. Thaler’s Fleet: The Complete Collection, a fascinating, post-apocalyptic tale of survival in a nautical world. Review: ‘Fleet’ revives sci-fi’s nautical tradition, By Joe Follansbee Science fiction’s nautical tradition goes back to the genre’s origins. In … Continue reading &rarr;"
 ---
 
-![fleet_cover](http://www.oldsaltblog.com/wp-content/uploads/2014/01/fleet_cover.jpg)A [review by Joe Follansbee](http://joefollansbee.com/2014/01/22/review-fleet-revives-sci-fis-nautical-tradition/) of Andrew D. Thaler’s [*Fleet: The Complete Collection*](http://www.amazon.com/Fleet-Complete-Collection-Andrew-Thaler/dp/1493734806/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1391031511&sr=1-2-catcorr&keywords=Andrew+D.+Thaler), a fascinating, post-apocalyptic tale of survival in a nautical world.
+![fleet_cover](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/fleet_cover.jpg)A [review by Joe Follansbee](http://joefollansbee.com/2014/01/22/review-fleet-revives-sci-fis-nautical-tradition/) of Andrew D. Thaler’s [*Fleet: The Complete Collection*](http://www.amazon.com/Fleet-Complete-Collection-Andrew-Thaler/dp/1493734806/ref=sr_1_cc_2?s=aps&ie=UTF8&qid=1391031511&sr=1-2-catcorr&keywords=Andrew+D.+Thaler), a fascinating, post-apocalyptic tale of survival in a nautical world.
 
 **Review: ‘Fleet’ revives sci-fi’s nautical tradition, By Joe Follansbee**
 

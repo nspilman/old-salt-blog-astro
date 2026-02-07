@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In June, we posted about two fake documentaries about mermaids, aired by the Animal Planet, which is owned by the Discovery Channel.  Despite being presented as fact, the mermaid documentaries were entirely fictional.  There was a brief disclaimer in the … Continue reading &rarr;"
 ---
 
-![Image: Pilgrim Studios](http://www.oldsaltblog.com/wp-content/uploads/2013/08/megalodonlogo.jpg)
+![Image: Pilgrim Studios](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/megalodonlogo.jpg)
 
 Image: Pilgrim Studios
 

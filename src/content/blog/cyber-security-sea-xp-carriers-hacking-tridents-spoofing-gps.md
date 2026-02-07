@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new \"supercarrier,\" HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/hmsqueenmaryseatrial2.jpg)Originally posted on [gCaptain](http://gcaptain.com/cyber-security-sea-microsoft-xp-carriers-hacking-tridents-spoofing-gps/). Reposted with permission.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/hmsqueenmaryseatrial2.jpg)Originally posted on [gCaptain](http://gcaptain.com/cyber-security-sea-microsoft-xp-carriers-hacking-tridents-spoofing-gps/). Reposted with permission.
 
 When reporters were recently being given tours of the Royal Navy’s new “supercarrier,” [HMS *Queen Elizabeth*](https://en.wikipedia.org/wiki/HMS_Queen_Elizabeth_\(R08\)), some were surprized to see a distinctive logo on several computer screens on the bridge and in control rooms. [The logo was for Windows XP,](https://www.theguardian.com/technology/2017/jun/27/hms-queen-elizabeth-royal-navy-vulnerable-cyber-attack) the Microsoft computer operating system introduced in 2001. The ship itself was under construction for over eight years and the many of the procurement lead times were even longer. The reporters were told that the software was ordered in 2004, when XP was the latest and greatest version of the operating system. 
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Happy Veterans Day. Sadly the \"war to end all wars\" that ended on the eleventh hour of the eleventh day of the eleventh month of 1918 did not not live up to its billing. Nevertheless, we celebrate the sacrifices made … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/66005368.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/66005368.jpg)
 
 Photo: Don Bartletti / Los Angeles Times
 

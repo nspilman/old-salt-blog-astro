@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The development of the modern donut is usually attributed to Hansen Crockett Gregory, 1832-1921, a ship's captain from Rockport, Maine."
 ---
 
-![Captain Hansen Gregory](http://www.oldsaltblog.com/wp-content/uploads/2015/06/captaingregorydonut.jpg)
+![Captain Hansen Gregory](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/captaingregorydonut.jpg)
 
 Captain Hansen Gregory
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Perhaps no warship is unsinkable, but in 1917, the USS Recruit was built in Union Square, in the middle of New York City."
 ---
 
-![recruitunionsquare](http://www.oldsaltblog.com/wp-content/uploads/2015/05/recruitunionsquare.jpg)
+![recruitunionsquare](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/recruitunionsquare.jpg)
 
 USS Recruit, 1917, Union Square, NYC
 

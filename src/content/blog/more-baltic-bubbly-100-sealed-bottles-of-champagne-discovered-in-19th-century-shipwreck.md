@@ -15,12 +15,12 @@ tags:
   - "Öland"
   - "Polish divers"
   - "Swedish island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/baltic-bubbly-new.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/baltic-bubbly-new.jpg"
 author: "Rick Spilman"
 description: "A team of Polish divers discovered the wreck of a 19th-century vessel laden with about 100 sealed bottles of champagne.  The shipwreck is in the Baltic Sea in 60 meters of water about 20 nautical miles south of the Swedish … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/baltic-bubbly-new.jpg)A [team of Polish divers discovered the wreck](https://www.washingtonpost.com/world/2024/07/25/shipwreck-champagne-sweden-poland/) of a 19th-century vessel laden with about 100 sealed bottles of champagne.  The shipwreck is in the Baltic Sea in 60 meters of water about 20 nautical miles south of the Swedish island of Öland.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/baltic-bubbly-new.jpg)A [team of Polish divers discovered the wreck](https://www.washingtonpost.com/world/2024/07/25/shipwreck-champagne-sweden-poland/) of a 19th-century vessel laden with about 100 sealed bottles of champagne.  The shipwreck is in the Baltic Sea in 60 meters of water about 20 nautical miles south of the Swedish island of Öland.
 
 “I think we have a treasure,” Tomasz Stachura, leader of the Polish diving group Baltictech, posted to [Facebook](https://www.facebook.com/tomasz.stachura.92/posts/pfbid02ZY7LdhjrekaKGpnicR1xkJxgWxkfFyGYZ5WrN9ggsKFGK8rmk77ZHmA3qEqvwaMLl) after the team’s July 11 discovery.
 

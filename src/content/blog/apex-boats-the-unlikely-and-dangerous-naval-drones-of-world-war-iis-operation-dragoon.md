@@ -14,12 +14,12 @@ tags:
   - "radio-controlled landing craft"
   - "South of France"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/Apex2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/Apex2.jpg"
 author: "Rick Spilman"
 description: "Based on the recent conflicts in the Black Sea and the Red Sea, it appears highly likely that the future of maritime warfare will be shaped by the use of naval drones. This made me wonder when the first naval … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/Apex2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/Apex2.jpg)
 
 Apex boat, Operation Dragoon
 

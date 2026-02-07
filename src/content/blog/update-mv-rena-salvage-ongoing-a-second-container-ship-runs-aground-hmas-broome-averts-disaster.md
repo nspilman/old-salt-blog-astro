@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Attempts to pump out the residual fuel of from the MV Rena, stranded on Astrolabe Reef off New Zealand continue with mixed results.  New focus for Rena salvagers Today, a second container ship, the Schelder Trader, lost power and drifted onto … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/renaoilship.jpg)Attempts to pump out the residual fuel of from the *[MV Rena](http://www.oldsaltblog.com/2011/10/05/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/)*, stranded on Astrolabe Reef off New Zealand continue with mixed results.  [New focus for Rena salvagers](http://www.3news.co.nz/New-focus-for-Rena-salvagers/tabid/1160/articleID/230951/Default.aspx)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/renaoilship.jpg)Attempts to pump out the residual fuel of from the *[MV Rena](http://www.oldsaltblog.com/2011/10/05/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/)*, stranded on Astrolabe Reef off New Zealand continue with mixed results.  [New focus for Rena salvagers](http://www.3news.co.nz/New-focus-for-Rena-salvagers/tabid/1160/articleID/230951/Default.aspx)
 
 Today, a second container ship, the *Schelder Trader,* lost power and drifted onto the north-west rocks at the entrance to Tauranga Harbour not far from where the *MV Rena* ran aground.   The *Schelder Trader* was freed without incident.  (Thanks to Dirk Bal for the heads up.)  [Another container ship in trouble off Tauranga, refloated after hitting rocks](http://auckland.scoop.co.nz/2011/10/another-container-ship-in-trouble-off-tauranga-refloated-after-going-aground/)
 

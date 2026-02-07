@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "This Saturday, we will witness a perigee full moon, often called by the press, a \"supermoon.\"   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/supermoon.jpg)This Saturday, we will witness a perigee full moon, often called by the press, a “supermoon.”   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually these “perigean tides” are only an inch or so higher or lower than normal.  Local tidal conditions can amplify the effect, which is still usually no more than a 6″ change in high or low tide.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/supermoon.jpg)This Saturday, we will witness a perigee full moon, often called by the press, a “supermoon.”   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually these “perigean tides” are only an inch or so higher or lower than normal.  Local tidal conditions can amplify the effect, which is still usually no more than a 6″ change in high or low tide.
 
 [Biggest Full Moon of the year due this weekend as ‘supermoon’ raises tides around the planet](http://www.dailymail.co.uk/sciencetech/article-2137774/Supermoon-Biggest-moon-weekend-tides-rise-planet.html)  
   

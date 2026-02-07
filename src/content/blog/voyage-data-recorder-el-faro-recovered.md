@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A National Transportation Safety Board (NTSB) press release announced today that the voyage data recorder (VDR) from El Faro, the US flagged cargo ship that sank during Hurricane Joaquin in October 2015 with the loss of all 33 aboard, was successfully recovered … Continue reading &rarr;"
 ---
 
-![elfarovdr](http://www.oldsaltblog.com/wp-content/uploads/2016/08/elfarovdr.jpg)
+![elfarovdr](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/elfarovdr.jpg)
 
 El Faro voyage data recorder in fresh water on the USNS Apache Photo: NTSB
 

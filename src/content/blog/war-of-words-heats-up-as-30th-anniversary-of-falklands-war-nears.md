@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The Falklands War, or the Guerra de las Malvinas, depending on which side you choose, began on April 2, 1982.  As the thirtieth anniversary of the war approaches, a war of worlds between the ex-combatants, the UK and Argentina, has escalated.  Eggs and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/falklands_map.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/falklands_map.jpg)
 
 The Falklands or the Malvinas Islands
 

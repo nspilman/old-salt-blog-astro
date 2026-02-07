@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: \"Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/uksubs.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/uksubs.jpg)
 
 Graphic: The Sun
 

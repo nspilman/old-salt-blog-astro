@@ -13,12 +13,12 @@ tags:
   - "Oli"
   - "Rolex Sydney to Hobart Race"
   - "Sylph VI"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/olishipscat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/olishipscat.jpg"
 author: "Rick Spilman"
 description: "The Rolex Sydney to Hobart Race is considered to be one of the premiere mixed-fleet yacht races in the world. Setting sail every year on Boxing Day, this year’s race attracted 103 yachts. This year, for the first time in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/olishipscat.jpg)The [Rolex Sydney to Hobart Race](https://www.rolexsydneyhobart.com/) is considered to be one of the premiere mixed-fleet yacht races in the world. Setting sail every year on Boxing Day, this year’s race attracted 103 yachts.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/olishipscat.jpg)The [Rolex Sydney to Hobart Race](https://www.rolexsydneyhobart.com/) is considered to be one of the premiere mixed-fleet yacht races in the world. Setting sail every year on Boxing Day, this year’s race attracted 103 yachts.
 
 This year, for the first time in its 78-year history, the race also includes a cat. No, not a catamaran. The race does not allow multihulls. The cat in question is a feline named Oli sailing on [*Sylph VI*](https://www.rolexsydneyhobart.com/the-yachts/2023/sylph-vi-th/?raceId=176&SeriesId=2), a 12m (40ft) yacht built in 1960, in the two-handed division. 
 

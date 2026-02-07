@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We are within days of the 250th anniversary of when Captain James Cook set off on an epic circumnavigation, stopping at numerous islands in the Pacific, as well as Australia and New Zealand on the bark HMS Endeavour. Now, the Rhode … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/endeavour.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/endeavour.jpg)
 
 HMS Endeavour off the coast of New Holland, by Samuel Atkins
 

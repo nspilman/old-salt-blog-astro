@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A comment on our  post, Happy National Coffee Day – Coffee, Edward Lloyd, Ships and Shipping, by Barista Uno host of the excellent Marine Cafe blog raised two interesting points.  He commented: There ought to be an International Coffee Day. Coffee, after … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/coffee_beans5_3.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/10/coffee_beans5_3.jpg)A comment on our  post, [Happy National Coffee Day – Coffee, Edward Lloyd, Ships and Shipping](http://www.oldsaltblog.com/2010/09/29/happy-national-coffee-day-coffee-edward-lloyd-ships-and-shipping/), by [Barista Uno](http://www.marine-cafe.com/) host of the excellent [Marine Cafe](http://marine-cafe.com/mcblog/) blog raised two interesting points.  He commented:
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/coffee_beans5_3.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/coffee_beans5_3.jpg)A comment on our  post, [Happy National Coffee Day – Coffee, Edward Lloyd, Ships and Shipping](http://www.oldsaltblog.com/2010/09/29/happy-national-coffee-day-coffee-edward-lloyd-ships-and-shipping/), by [Barista Uno](http://www.marine-cafe.com/) host of the excellent [Marine Cafe](http://marine-cafe.com/mcblog/) blog raised two interesting points.  He commented:
 
 *There ought to be an International Coffee Day. Coffee, after all, is the second most traded and shipped commodity in the world. One day of the year to pay tribute to the great coffeehouses of the past and present, the coffee farmers and the ship operators and seafarers who transport the produce. Wouldn’t that be nice?*
 

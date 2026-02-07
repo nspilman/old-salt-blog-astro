@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A beachcomber found the wreck of a ship uncovered by winter gales on  a beach in North Carolina.   Originally though to the an 18th century Royal Navy ship, the wreck has now been identified as dating from the 1600s, making it the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/beachcomberwreck.jpg)A beachcomber found the wreck of a ship uncovered by winter gales on  a beach in North Carolina.   Originally though to the an 18th century Royal Navy ship, the wreck has now been identified as dating from the 1600s, making it the oldest wreck found on the North Carolina Coast.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/beachcomberwreck.jpg)A beachcomber found the wreck of a ship uncovered by winter gales on  a beach in North Carolina.   Originally though to the an 18th century Royal Navy ship, the wreck has now been identified as dating from the 1600s, making it the oldest wreck found on the North Carolina Coast.
 
 [Beachcomber stumbles upon historic shipwreck](http://www.cnn.com/2010/US/06/05/oldest.shipwreck/)  
   

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Recently, it was reported that the Prime Meridian, as marked at the Royal Observatory in Greenwich, England, is off by 102 meters, over the length of an American football field. The Prime Meridian is the arbitrary line marking 0 degrees … Continue reading &rarr;"
 ---
 
-![prime meridians](http://www.oldsaltblog.com/wp-content/uploads/2015/08/prime-meridians.jpg)
+![prime meridians](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/prime-meridians.jpg)
 
 Prime Meridian 1854, dotted by GPS solid
 

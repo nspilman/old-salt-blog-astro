@@ -14,12 +14,12 @@ tags:
   - "Newark firefighters"
   - "Port Newark"
   - "ro-ro/container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/newarkfire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/newarkfire.jpg"
 author: "Rick Spilman"
 description: "Last Wednesday night at 9:38 PM, a fire broke out on the 10th deck of the ro-ro/container ship, Grande Costa D’Avorio, docked at Port Newark, as vehicle loading operations were underway. The fire broke out in five to seven cars and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/newarkfire.jpg)Last Wednesday night at 9:38 PM, a fire broke out on the 10th deck of the ro-ro/container ship, [*Grande Costa D’Avorio*](https://www.marinetraffic.com/en/ais/details/ships/shipid:281391/mmsi:247311200/imo:9465382/vessel:GRANDE_COSTA_D_AVORIO), docked at Port Newark, as vehicle loading operations were underway. The fire broke out in five to seven cars and spread quickly to the 11th and 12th decks of the ship. The crew of the vessel immediately activated the on-board fire suppression procedures while the local firefighters were alerted. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/newarkfire.jpg)Last Wednesday night at 9:38 PM, a fire broke out on the 10th deck of the ro-ro/container ship, [*Grande Costa D’Avorio*](https://www.marinetraffic.com/en/ais/details/ships/shipid:281391/mmsi:247311200/imo:9465382/vessel:GRANDE_COSTA_D_AVORIO), docked at Port Newark, as vehicle loading operations were underway. The fire broke out in five to seven cars and spread quickly to the 11th and 12th decks of the ship. The crew of the vessel immediately activated the on-board fire suppression procedures while the local firefighters were alerted. 
 
 Tragically, [two firefighters](https://www.nj.com/essex/2023/07/2-firefighters-killed-battling-ship-cargo-fire-in-newark.html?e=5c33e11c52ff0787a33082b461be8a62&utm_source=Sailthru&utm_medium=email&utm_campaign=2-ff-killed&utm_term=Newsletter_breaking_news), Augusto Acabou, 45, and Wayne Brooks Jr., 49, died after becoming trapped while fighting the fire. Several other firefighters were injured. The fire burned for several days and was finally brought under control on Sunday. Fortunately, the ship owner reported that there were no electric cars or hazardous cargo on board.
 

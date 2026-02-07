@@ -16,12 +16,12 @@ tags:
   - "Type 45 destroyer"
   - "US Defense Secretary Lloyd Austin"
   - "USS Carney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/hmsdiamond.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/hmsdiamond.jpg"
 author: "Rick Spilman"
 description: "During his visit to the Middle East next week, US Defense Secretary Lloyd Austin is expected to announce the formation of Operation Prosperity Guardian, a new international effort to deal with Houthi threats, a U.S. military official told The War … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/hmsdiamond.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/hmsdiamond.jpg)
 
 HMS Diamond
 

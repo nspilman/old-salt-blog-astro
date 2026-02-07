@@ -10,12 +10,12 @@ tags:
   - "Captain Brett Crozier"
   - "Guam"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg"
 author: "Rick Spilman"
 description: "Sailors on the aircraft carrier USS Theodore Roosevelt cheered for Captain Brett Crozier as he departed the ship in Guam. Captain Crozier was removed from duty by the Navy after he raised concerns about the spreading coronavirus on his ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg)Sailors on the aircraft carrier USS *Theodore Roosevelt* cheered for Captain Brett Crozier as he departed the ship in Guam. Captain Crozier was removed from duty by the Navy after he raised concerns about the spreading coronavirus on his ship in a letter that was leaked to the media. [Hundreds of cheering and applauding sailors showed their appreciation](https://www.stripes.com/news/us/captain-crozier-captain-crozier-videos-show-sailors-sending-off-ousted-uss-roosevelt-commander-with-cheers-1.624732), chanting the captain’s name, as they bid him farewell.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg)Sailors on the aircraft carrier USS *Theodore Roosevelt* cheered for Captain Brett Crozier as he departed the ship in Guam. Captain Crozier was removed from duty by the Navy after he raised concerns about the spreading coronavirus on his ship in a letter that was leaked to the media. [Hundreds of cheering and applauding sailors showed their appreciation](https://www.stripes.com/news/us/captain-crozier-captain-crozier-videos-show-sailors-sending-off-ousted-uss-roosevelt-commander-with-cheers-1.624732), chanting the captain’s name, as they bid him farewell.
 
 A week ago, the [USS *Theodore Roosevelt* was diverted to Guam](http://www.oldsaltblog.com/2020/03/aircraft-carrier-uss-theodore-roosevelt-diverted-to-guam-due-to-virus-outbreak/) after an outbreak of the coronavirus on shipboard. Reports of three sailors with the infection quickly grew to “dozens.” Since then there have been reports that over 100 sailors have come down with the virus.
 

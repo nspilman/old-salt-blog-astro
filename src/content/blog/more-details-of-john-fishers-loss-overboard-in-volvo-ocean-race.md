@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Years ago, when I sailed briefly on tall ships, I heard that the two most at-risk groups when going aloft were total novices and the most experienced old hands. The novices knew little, while the experienced sailors grew complacent. This came to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/johnfisher.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/johnfisher.jpg)
 
   
 John Fisher

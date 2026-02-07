@@ -15,12 +15,12 @@ tags:
   - "Maltese-flagged tanker"
   - "Nigeria"
   - "stowaways"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/stowaways.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/stowaways.jpg"
 author: "Rick Spilman"
 description: "When the 51,000 DWT Maltese-flagged tanker Alithina II sailed in ballast from Nigeria to Las Palmas, Gran Canaria she carried a most unusual cargo. Because she sailed in ballast and was riding high in the water, three stowaways were found … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/stowaways.jpg)When the 51,000 DWT Maltese-flagged tanker [*Alithina II*](https://www.marinetraffic.com/en/ais/details/ships/shipid:214779/mmsi:229492000/imo:9397456/vessel:ALITHINI_II) sailed in ballast from Nigeria to Las Palmas, Gran Canaria she carried a most unusual cargo. Because she sailed in ballast and was riding high in the water, [three stowaways](https://www.bbc.com/news/world-europe-63791372) were found sitting on top of the ship’s rudder by the Spanish Coast Guard. The three men had survived the 11-day voyage of more than 2,700 nautical miles sitting on the rudder with their feet less than a meter above the water. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/stowaways.jpg)When the 51,000 DWT Maltese-flagged tanker [*Alithina II*](https://www.marinetraffic.com/en/ais/details/ships/shipid:214779/mmsi:229492000/imo:9397456/vessel:ALITHINI_II) sailed in ballast from Nigeria to Las Palmas, Gran Canaria she carried a most unusual cargo. Because she sailed in ballast and was riding high in the water, [three stowaways](https://www.bbc.com/news/world-europe-63791372) were found sitting on top of the ship’s rudder by the Spanish Coast Guard. The three men had survived the 11-day voyage of more than 2,700 nautical miles sitting on the rudder with their feet less than a meter above the water. 
 
 The men were taken to a hospital in Gran Canaria and treated for moderate dehydration.
 

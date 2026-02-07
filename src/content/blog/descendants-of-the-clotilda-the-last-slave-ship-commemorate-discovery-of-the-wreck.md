@@ -14,12 +14,12 @@ tags:
   - "Clotilda Descendants Association"
   - "last slave ship"
   - "Mobile River delta"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg"
 author: "Rick Spilman"
 description: "For several years, we have followed the search for and the ultimate discovery of the schooner Clotilda, believed to be the last ship to carry enslaved Africans to the United States. Now, descendants of the survivors are commemorating the discovery … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg)For several years, [we have followed the search for and the ultimate discovery](https://www.oldsaltblog.com/2018/01/clotilda-cudjo-lewis-last-slave-ship-last-survivor/) of the schooner [*Clotilda*](https://en.wikipedia.org/wiki/Clotilda_\(slave_ship\)), believed to be the last ship to carry enslaved Africans to the United States. Now, [descendants of the survivors are commemorating the discovery of the wreck](https://theclotildastory.com/#clotilda) of the infamous slave ship and the resilience of the 110 captives who survived the voyage. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg)For several years, [we have followed the search for and the ultimate discovery](https://www.oldsaltblog.com/2018/01/clotilda-cudjo-lewis-last-slave-ship-last-survivor/) of the schooner [*Clotilda*](https://en.wikipedia.org/wiki/Clotilda_\(slave_ship\)), believed to be the last ship to carry enslaved Africans to the United States. Now, [descendants of the survivors are commemorating the discovery of the wreck](https://theclotildastory.com/#clotilda) of the infamous slave ship and the resilience of the 110 captives who survived the voyage. 
 
 The international slave trade had been illegal in the United States since 1807. Nevertheless, in the autumn of 1859, or the summer of 1860, depending on the source, Captain William Foster brought the schooner, *Clotilda*, into Mobile Bay with a cargo of 110 captives from West Africa. Federal authorities had been tipped off to the arrival of the schooner. Fearful of criminal charges, Captain Foster arrived in the river at night and transferred his human cargo to a riverboat, then burned and scuttled the *Clotilda*. 
 

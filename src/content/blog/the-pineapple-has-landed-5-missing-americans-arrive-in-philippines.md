@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Five sailors aboard the catamaran Pineapple, which had been reported missing last Tuesday have arrived in the port of Maasin on Leyte Island, in the Philippines after being escorted in by the Philippines Coast Guard.   The 38 foot catamaran suffered rudder damage in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/pineapple.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/pineapple.jpg)
 
 Catamaran Pineapple
 

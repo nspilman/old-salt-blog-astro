@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "From the Bayshore Discovery Project: Delaware Bay Days, the free two-day folklife festival celebrating the Bay and the Bayshore region, returns June 12 & 13 with events in Bivalve, Port Norris and Mauricetown, NJ, with a schedule featuring new activities … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/159.jpg)From the [Bayshore Discovery Project](http://www.ajmeerwald.org/):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/159.jpg)From the [Bayshore Discovery Project](http://www.ajmeerwald.org/):
 
 *Delaware Bay Days, the free two-day folklife festival celebrating the Bay and the Bayshore region, returns June 12 & 13 with events in Bivalve, Port Norris and Mauricetown, NJ, with a schedule featuring new activities as well as old favorites. Like last year, Saturday’s activities are in Bivalve while Sunday’s will be held at Lake Audrey in Mauricetown. Festival hours are Saturday from 11am-7pm, Sunday from 12-5pm.*  
   

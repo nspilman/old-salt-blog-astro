@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The clean-up continues on the MV Rena which ran  hard aground on Astrolabe Reef near Tauranga, New Zealand on October 5, 2011. The remaining oil has been pumped off and efforts are beginning to remove the container cargo from the stricken ship.  Roughly forty containers have been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/penguin.jpg)The clean-up continues on the *[MV Rena](http://www.oldsaltblog.com/2011/10/05/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/)* which ran  hard aground on Astrolabe Reef near Tauranga, New Zealand on October 5, 2011.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/penguin.jpg)The clean-up continues on the *[MV Rena](http://www.oldsaltblog.com/2011/10/05/mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand/)* which ran  hard aground on Astrolabe Reef near Tauranga, New Zealand on October 5, 2011.
 
 The remaining oil has been pumped off and efforts are beginning to remove the container cargo from the stricken ship.  Roughly forty containers have been lifted from the ship with a container capacity of over 3,000 boxes.  [Progress made on removing Rena containers](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10767434)
 

@@ -12,12 +12,12 @@ tags:
   - "Grace Bailey"
   - "Maine"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/gracebailey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/gracebailey.jpg"
 author: "Rick Spilman"
 description: "On Monday, October 9, 2023, the schooner Grace Bailey was returning to Rockland, ME, from a four-day Fall Foliage cruise, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring five … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2023/10/gracebailey.jpg)On Monday, October 9, 2023, the [schooner *Grace Bailey* was returning to Rockland, ME](https://www.oldsaltblog.com/2023/10/tragedy-on-the-schooner-grace-bailey-main-mast-breaks-killing-1-injuring-3/), from a four-day Fall Foliage cruise, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring five others. Last Thursday, the [US Coast Guard’s Office of Investigations and Casualty Analysis published a report](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/ROIs/GRACE_BAILEY_7836612_ROI_Redacted.pdf) of the investigation into the dismasting of the 1882-built schooner. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/gracebailey.jpg)On Monday, October 9, 2023, the [schooner *Grace Bailey* was returning to Rockland, ME](https://www.oldsaltblog.com/2023/10/tragedy-on-the-schooner-grace-bailey-main-mast-breaks-killing-1-injuring-3/), from a four-day Fall Foliage cruise, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring five others. Last Thursday, the [US Coast Guard’s Office of Investigations and Casualty Analysis published a report](https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/ROIs/GRACE_BAILEY_7836612_ROI_Redacted.pdf) of the investigation into the dismasting of the 1882-built schooner. 
 
 The report concluded that the mast failed due to severe internal rot, which significantly weakened the structural integrity of the mast, making it prone to failure under stress. Based on the observed mast conditions and assumed fungal growth rates, it was clear that rot had existed for several years.
 

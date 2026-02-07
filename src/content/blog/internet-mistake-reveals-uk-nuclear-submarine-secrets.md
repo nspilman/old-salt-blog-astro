@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Oopps. In what is being described as a \"school-boy error\" the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was \"redacted\" by turning the background black, so that the text was not readable. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/redacted.jpg)Oopps. In what is being described as a “school-boy error” the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was “redacted” by turning the background black, so that the text was not readable.  The text was not removed, however, so that anyone who cut and pasted the text to another document could read, copy or distribute the “secret” information.   The MOD was unaware of the breach until it was pointed out by a journalist.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/redacted.jpg)Oopps. In what is being described as a “school-boy error” the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was “redacted” by turning the background black, so that the text was not readable.  The text was not removed, however, so that anyone who cut and pasted the text to another document could read, copy or distribute the “secret” information.   The MOD was unaware of the breach until it was pointed out by a journalist.
 
 [Internet mistake reveals UK nuclear submarine secrets](http://www.bbc.co.uk/news/uk-13107413)  
   

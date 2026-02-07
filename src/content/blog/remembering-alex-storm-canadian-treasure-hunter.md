@@ -9,12 +9,12 @@ categories:
 tags:
   - "Alex Storm"
   - "Canadian treasure hunter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/alexstorm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/alexstorm.jpg"
 author: "Rick Spilman"
 description: "Alex Storm, a Canadian treasure hunter who discovered two valuable 18th-century shipwrecks off the shores of Nova Scotia, died last month at the age of 80.   In 1965, Storm and two associates discovered the wreck of Le Chameau, a French Navy ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/alexstorm.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/alexstorm.jpg)
 
 Alex Storm, right, with his son Jason Storm, Photo: THE CANADIAN PRESS/HO – Jason Storm
 

@@ -13,12 +13,12 @@ tags:
   - "research ship"
   - "Royal Navy"
   - "XV Patrick Blacket"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/xo1.jpg"
 author: "Rick Spilman"
 description: "Last year we posted about the christening of the Royal Navy’s research ship XV Patrick Blacket. (The \"XV\" designation refers to \"experimental vessel.\") The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg)Last year [we posted about the christening](https://www.oldsaltblog.com/2022/07/robot-dog-helps-christen-navyxs-maritime-sandbox-xv-patrick-blacket/) of the Royal Navy’s research ship XV *Patrick Blacket*. (The “XV” designation refers to “experimental vessel.”) The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test new technology without the need to place demands on other navy ships, many of which are deployed permanently away from UK waters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/xo1.jpg)Last year [we posted about the christening](https://www.oldsaltblog.com/2022/07/robot-dog-helps-christen-navyxs-maritime-sandbox-xv-patrick-blacket/) of the Royal Navy’s research ship XV *Patrick Blacket*. (The “XV” designation refers to “experimental vessel.”) The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test new technology without the need to place demands on other navy ships, many of which are deployed permanently away from UK waters.
 
 The Royal Navy is now collaborating with the [Imperial College London to test a quantum navigation system](https://www.imperial.ac.uk/news/245114/quantum-sensor-future-navigation-system-tested/) onboard the XV *Patrick Blacket.* The heart of the system is a newly developed quantum accelerometer capable of determining position without the use of GPS. 
 

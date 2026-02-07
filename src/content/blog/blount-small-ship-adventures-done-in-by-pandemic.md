@@ -11,12 +11,12 @@ tags:
   - "Blount Small Ship Adventures"
   - "flagged cruise operator"
   - "U.S"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/GrandeCaribe.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/GrandeCaribe.jpg"
 author: "Rick Spilman"
 description: "Covid-19 has claimed its first U.S, flagged cruise operator. Citing the pandemic, Blount announced that it is ending its cruise operations and is selling its three small overnight cruise ships. The family will focus on its shipbuilding activities.  \"It was … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/GrandeCaribe.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/GrandeCaribe.jpg)
 
 Grande Caribe in the Erie Canal, Photo: Blount
 

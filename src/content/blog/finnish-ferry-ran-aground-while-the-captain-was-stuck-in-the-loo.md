@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "I am trying to decide whether this story is more funny or scary. As there were no serious injuries, I am leaning toward funny.  Thanks to Dirk Bal for passing it along. Finnish ferry ran aground while the captain was stuck in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/finnishferry.jpg)I am trying to decide whether this story is more funny or scary. As there were no serious injuries, I am leaning toward funny.  Thanks to Dirk Bal for passing it along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/finnishferry.jpg)I am trying to decide whether this story is more funny or scary. As there were no serious injuries, I am leaning toward funny.  Thanks to Dirk Bal for passing it along.
 
 [Finnish ferry ran aground while the captain was stuck in the loo](http://www.dailymail.co.uk/news/article-2028038/Finnish-ferry-ran-aground-captain-stuck-loo.html)  
   

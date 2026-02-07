@@ -15,12 +15,12 @@ tags:
   - "historic drought"
   - "Panama"
   - "Panama Canal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/panamacanaldrought.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/panamacanaldrought.jpg"
 author: "Rick Spilman"
 description: "Panama, the fifth wettest country, is experiencing one of the two driest years in the country’s 143-year record. The historic drought has impacted the water levels in Gatun Lake and the Panama Canal resulting in the Canal Authority introducing ship draft … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/panamacanaldrought.jpg)Panama, the [fifth wettest country](https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_precipitation), is experiencing one of the two driest years in the country’s 143-year record. The historic drought has impacted the water levels in Gatun Lake and the Panama Canal resulting in the Canal Authority introducing ship draft restrictions and in cutting back on the number of ships allowed to transit the canal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/panamacanaldrought.jpg)Panama, the [fifth wettest country](https://en.wikipedia.org/wiki/List_of_countries_by_average_annual_precipitation), is experiencing one of the two driest years in the country’s 143-year record. The historic drought has impacted the water levels in Gatun Lake and the Panama Canal resulting in the Canal Authority introducing ship draft restrictions and in cutting back on the number of ships allowed to transit the canal.
 
 More than [200 ships are stuck](https://www.dailymail.co.uk/news/article-12427501/Huge-backlog-200-ships-stuck-trying-enter-Panama-Canal-wait-WEEKS-amid-slowed-traffic-drought-Delays-set-wipe-200M-profits-cause-spike-grocery-parcel-prices.html) on both sides of the Panama Canal after authorities capped the number of crossings because of the drought. The entrances on both sides of the Panama Canal are jammed with some ships backed up for more than 20 days.
 

@@ -16,12 +16,12 @@ tags:
   - "Turkish shipyard"
   - "Windcoop"
   - "wing sails"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/windcoop.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/windcoop.jpg"
 author: "Rick Spilman"
 description: "In February, we posted about the world’s first commercial sailing ro/ro, the Neoliner Origin. Launched by Turkish shipyard RMK Marine, the ship is expected to enter service in mid-2025. This week, it was announced that Windcoop, a French maritime cooperative based … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/windcoop.jpg)In February, we [posted about the world’s first commercial sailing ro/ro](https://www.oldsaltblog.com/2025/02/neoliner-origin-worlds-first-commercial-sailing-ro-ro-launched-in-turkey/), the [*Neoliner Origin*](https://techxplore.com/news/2025-01-world-longest-cargo-ship-turkey.html). Launched by Turkish shipyard [RMK Marine](https://www.rmkmarine.com.tr/en/ongoing-projects/), the ship is expected to enter service in mid-2025.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/windcoop.jpg)In February, we [posted about the world’s first commercial sailing ro/ro](https://www.oldsaltblog.com/2025/02/neoliner-origin-worlds-first-commercial-sailing-ro-ro-launched-in-turkey/), the [*Neoliner Origin*](https://techxplore.com/news/2025-01-world-longest-cargo-ship-turkey.html). Launched by Turkish shipyard [RMK Marine](https://www.rmkmarine.com.tr/en/ongoing-projects/), the ship is expected to enter service in mid-2025.
 
 This week, it was announced that [Windcoop](https://www.wind.coop/en/), a French maritime cooperative based in Lorient, has placed an order with RMK Marine for the world’s first wind-powered container ship. The wind-powered open hatch box ship will operate between Madagascar and France. Construction is said to commence in 2026, while the ship is expected to undergo trials, delivery, and commissioning in May 2027.
 

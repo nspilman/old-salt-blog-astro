@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Some times all it takes is a photo to demonstrate how much things have changed and what has stayed the same. I recall as a boy watching jack-up rigs being put into operation off the coast of Texas in the Gulf of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/jackupwindmill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/jackupwindmill.jpg)
 
 Photo : Bas de Blok
 

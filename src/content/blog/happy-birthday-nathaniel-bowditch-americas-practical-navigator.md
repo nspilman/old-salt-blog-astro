@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Every US naval ship and most American merchant ships carry aboard a copy of the American Practical Navigator, which most refer to simply as Bowditch, after Nathaniel Bowditch, the author of the first edition in 1802.   On March 26,  1773,  Nathaniel Bowditch, the fifth of seven children, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Nathaniel_Bowditch.jpg)Every US naval ship and most American merchant ships carry aboard a copy of the [American Practical Navigator](http://en.wikipedia.org/wiki/American_Practical_Navigator), which most refer to simply as Bowditch, after Nathaniel Bowditch, the author of the first edition in 1802.   On March 26,  1773,  Nathaniel Bowditch, the fifth of seven children, was born in Salem, Massachusetts, to a seafaring family of limited means.   Apprenticed as a bookkeeper, he was a self taught mathematician with a particular interest in navigation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Nathaniel_Bowditch.jpg)Every US naval ship and most American merchant ships carry aboard a copy of the [American Practical Navigator](http://en.wikipedia.org/wiki/American_Practical_Navigator), which most refer to simply as Bowditch, after Nathaniel Bowditch, the author of the first edition in 1802.   On March 26,  1773,  Nathaniel Bowditch, the fifth of seven children, was born in Salem, Massachusetts, to a seafaring family of limited means.   Apprenticed as a bookkeeper, he was a self taught mathematician with a particular interest in navigation.
 
 Bowditch had the radical notion that navigation could be made simple enough so that everyone aboard the ship, including the cook, could be taught to navigate.  
   

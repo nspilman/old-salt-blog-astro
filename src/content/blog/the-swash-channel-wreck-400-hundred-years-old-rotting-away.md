@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "An unidentified wreck, believed to be 400 years old, has been described as the \"biggest discovery since the Mary Rose.\"  For centuries, it was covered by sand but is now rotting away so fast that it may effectively disappear within five years. Battle to save … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/wreck_604399t.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/wreck_604399t.jpg)
 
 Photo: BOURNEMOUTH UNIVERSITY
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We have previously posted about the destruction of the town of Minamisanriku by the tsunami, where 9,500 people are reported to be missing.  Other news reports now suggest that similar or greater numbers may be missing in the towns of  Kesennuma and Rikuzentakata. Washed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/kesennuma_main-200x0.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/kesennuma_main-200x0.jpg)
 
 Kesennuma Photo:AP
 

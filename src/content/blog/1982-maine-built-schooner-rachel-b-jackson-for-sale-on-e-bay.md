@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a \"Buy it Now\" price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/rachel.jpg)The [schooner *Rachel B. Jackson* was on sale on E-Bay](http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&item=190401407610#ht_500wt_1182) this morning.   The minimum bid was $175,000 with a “Buy it Now” price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been made.   The schooner is described on her [website](http://www.downeastsail.com/index.htm):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/rachel.jpg)The [schooner *Rachel B. Jackson* was on sale on E-Bay](http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&item=190401407610#ht_500wt_1182) this morning.   The minimum bid was $175,000 with a “Buy it Now” price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been made.   The schooner is described on her [website](http://www.downeastsail.com/index.htm):
 
 *The Rachel B. Jackson was built in Maine in 1982 and is a working replica of an 1890s coastal schooner. Her sturdily built mahogany planking, oak frames, pine decks, shining brass fittings and exotic wood cabinetry recall the workmanship of days gone by.*  
   

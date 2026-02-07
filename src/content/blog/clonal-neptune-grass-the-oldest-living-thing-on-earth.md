@@ -12,12 +12,12 @@ tags:
   - "Mediterranean Sea"
   - "Neptune grass"
   - "posidonia oceanica"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/neptunegrass.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/neptunegrass.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about Poseidon’s ribbon weed, Posidonia australis, a clonal seagrass. Researchers recently discovered large meadows of the self-cloning sea grass growing in Shark Bay, off the westernmost tip of Australia. DNA testing of the seagrass, covering over 180km, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/neptunegrass.jpg)Yesterday, [we posted about Poseidon’s ribbon weed](https://www.oldsaltblog.com/2022/06/the-worlds-largest-plant-poseidons-ribbon-weed-discovered-off-australia/), [Posidonia australis](https://en.wikipedia.org/wiki/Posidonia_australis), a clonal seagrass. Researchers recently discovered large meadows of the self-cloning sea grass growing in Shark Bay, off the westernmost tip of Australia. DNA testing of the seagrass, covering over 180km, an area three times the size of Manhattan, established that the meadows were made up of a single plant, making the self-cloning seagrass the largest single plant in the world.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/neptunegrass.jpg)Yesterday, [we posted about Poseidon’s ribbon weed](https://www.oldsaltblog.com/2022/06/the-worlds-largest-plant-poseidons-ribbon-weed-discovered-off-australia/), [Posidonia australis](https://en.wikipedia.org/wiki/Posidonia_australis), a clonal seagrass. Researchers recently discovered large meadows of the self-cloning sea grass growing in Shark Bay, off the westernmost tip of Australia. DNA testing of the seagrass, covering over 180km, an area three times the size of Manhattan, established that the meadows were made up of a single plant, making the self-cloning seagrass the largest single plant in the world.
 
 The post brought to mind a [similar story about clonal sea grass](https://theconversation.com/100-000-year-old-seagrass-could-be-the-worlds-oldest-organism-5212) from a decade ago involving a related species, [Posidonia oceanica, known as Neptune grass,](https://en.wikipedia.org/wiki/Posidonia_oceanica) that is believed to be the oldest living thing on the planet.
 

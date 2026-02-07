@@ -8,7 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "underwater forest"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/underwaterforest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/underwaterforest.jpg"
 author: "Rick Spilman"
 description: "In the Gulf of Mexico, off the coast of Alabama, divers have discovered an underwater forest rising out of the sediment, 60 feet below the surface. Ben Raines — an environmental reporter for the Mobile Press Register, told the Washington … Continue reading &rarr;"
 ---

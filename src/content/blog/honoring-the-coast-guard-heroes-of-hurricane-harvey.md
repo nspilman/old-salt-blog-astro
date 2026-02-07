@@ -14,12 +14,12 @@ tags:
   - "Hurricane Harvey"
   - "Lt. John Briggs"
   - "Petty Officer 3rd Class Tyler"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/heroes-of-harvey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/heroes-of-harvey.jpg"
 author: "Rick Spilman"
 description: "When Category 4 Hurricane Harvey devastated coastal Texas and Louisiana in August 2017, the US Coast Guard was there to assist in the rescue. Harvey was the wettest tropical cyclone on record in the United States and is tied as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/heroes-of-harvey.jpg)When Category 4 [Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey) devastated coastal Texas and Louisiana in August 2017, the US Coast Guard was there to assist in the rescue. Harvey was the wettest tropical cyclone on record in the United States and is tied as the most destructive. The hurricane’s floods inundated hundreds of thousands of homes, displaced more than 30,000 people and prompted more than 17,000 rescues.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/heroes-of-harvey.jpg)When Category 4 [Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey) devastated coastal Texas and Louisiana in August 2017, the US Coast Guard was there to assist in the rescue. Harvey was the wettest tropical cyclone on record in the United States and is tied as the most destructive. The hurricane’s floods inundated hundreds of thousands of homes, displaced more than 30,000 people and prompted more than 17,000 rescues.
 
 Last week in Mobile the Coast Guard awarded three Distinguished Flying Crosses and one Air Medial to four of the heroes of rescues in Hurricane Harvey.  The Distinguished Flying Crosses were presented to Cmdr. Scott Sanborn, Lt. John Briggs, and Petty Officer 3rd Class Tyler Gantt. Petty Officer 1st Class James Yockey was awarded the Air Medal.
 

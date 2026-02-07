@@ -12,7 +12,7 @@ tags:
   - "Iceland"
   - "Laki Tours"
   - "whale watching"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/icelandhumpback1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/icelandhumpback1.jpg"
 author: "Rick Spilman"
 description: "We have just gotten back from a week-long voyage along the west coast of Iceland from Akureyri to Reykjavik on the three-masted motor sailor Panorama. One of the stops was the village of Hólmavík, population 300. The village may be … Continue reading &rarr;"
 ---

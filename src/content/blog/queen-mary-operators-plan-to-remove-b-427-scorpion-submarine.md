@@ -12,12 +12,12 @@ tags:
   - "Long beach"
   - "Queen Mary"
   - "submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/scorpion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/scorpion.jpg"
 author: "Rick Spilman"
 description: "Are you interested in acquiring a Foxtrot-class Soviet-era submarine? If so, the folks at Urban Commons, the operators of the hotel and tourist attraction Queen Mary in Long Beach may want to talk to you. They have a well-used submarine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/scorpion.jpg)Are you interested in acquiring a [Foxtrot-class Soviet-era submarine](https://en.wikipedia.org/wiki/Foxtrot-class_submarine)? If so, the folks at Urban Commons, the operators of the hotel and tourist attraction [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary) in Long Beach [may want to talk to you](https://lbpost.com/business/queen-mary-operators-plan-to-remove-scorpion-submarine/). They have a well-used submarine that they would seriously like to get rid of.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/scorpion.jpg)Are you interested in acquiring a [Foxtrot-class Soviet-era submarine](https://en.wikipedia.org/wiki/Foxtrot-class_submarine)? If so, the folks at Urban Commons, the operators of the hotel and tourist attraction [*Queen Mary*](https://en.wikipedia.org/wiki/RMS_Queen_Mary) in Long Beach [may want to talk to you](https://lbpost.com/business/queen-mary-operators-plan-to-remove-scorpion-submarine/). They have a well-used submarine that they would seriously like to get rid of.
 
 The submarine is a diesel-electric patrol submarine that was built in the Soviet Union in 1971. Designated [B-427](https://en.wikipedia.org/wiki/Soviet_submarine_B-427), it served in the Soviet Pacific fleet for 23 years. After decommissioning, she was loaned to Australian National Maritime Museum for display as a museum vessel between 1995 and 19998.
 

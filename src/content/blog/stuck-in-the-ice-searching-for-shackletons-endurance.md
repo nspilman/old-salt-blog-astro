@@ -16,12 +16,12 @@ tags:
   - "icebreaking research ship"
   - "SA Agulhas II"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/saagulhasii.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/saagulhasii.jpg"
 author: "Rick Spilman"
 description: "In early February, the Endurance22 expedition set off from Cape Town, South Africa for Antarctica’s Weddell Sea aboard the icebreaking research ship, SA Agulhas II. Their objective is to locate, survey, and film the wreck of Endurance, Ernest Shackleton’s ship that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/saagulhasii.jpg)In early February, the [Endurance22](https://endurance22.org/) expedition [set off from Cape Town, South Africa](https://www.oldsaltblog.com/2022/02/endurance22-expedition-search-for-shackletons-lost-ship-beneath-the-ice-gets-underway/) for Antarctica’s Weddell Sea aboard the icebreaking research ship, [*SA Agulhas II.*](https://en.wikipedia.org/wiki/S._A._Agulhas_II) Their objective is to locate, survey, and film the wreck of [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), Ernest Shackleton’s ship that sank after being crushed in Antarctic pack ice in 1915. Last week, history briefly repeated itself. As they approached the location where the *Endurance* was lost, *SA Agulhas II* became stuck in the ice after the mercury dipped to -10C. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/saagulhasii.jpg)In early February, the [Endurance22](https://endurance22.org/) expedition [set off from Cape Town, South Africa](https://www.oldsaltblog.com/2022/02/endurance22-expedition-search-for-shackletons-lost-ship-beneath-the-ice-gets-underway/) for Antarctica’s Weddell Sea aboard the icebreaking research ship, [*SA Agulhas II.*](https://en.wikipedia.org/wiki/S._A._Agulhas_II) Their objective is to locate, survey, and film the wreck of [*Endurance*](https://en.wikipedia.org/wiki/Endurance_\(1912_ship\)), Ernest Shackleton’s ship that sank after being crushed in Antarctic pack ice in 1915. Last week, history briefly repeated itself. As they approached the location where the *Endurance* was lost, *SA Agulhas II* became stuck in the ice after the mercury dipped to -10C. 
 
 Fortunately, using the ship’s power, assisted by a deck crane that swung a fuel container back and forth to rock the ship, the crew was able to free the *SA Agulhas II* after several hours.
 

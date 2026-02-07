@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Derelicts, abandoned ships often waterlogged and just barely afloat, are fascinating ghosts which wander the seas according to the vagaries of the winds and the currents. They are also significant hazards to navigation. In the later half of the 19th … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/rainmaker.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/rainmaker.jpg)
 
 Rainmaker, somewhat worse for the wear, after being adrift for over a year
 

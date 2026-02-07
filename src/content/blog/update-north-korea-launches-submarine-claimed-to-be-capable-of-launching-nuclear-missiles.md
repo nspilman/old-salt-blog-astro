@@ -13,12 +13,12 @@ tags:
   - "nuclear attack submarine"
   - "Romeo-class Soviet submarine"
   - "Submarine No. 841"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/NKmisslesub.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/NKmisslesub.png"
 author: "Rick Spilman"
 description: "North Korea has unveiled a new \"tactical nuclear attack submarine,\" based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named Hero Kim Kun Ok – will be one of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/NKmisslesub.png)North Korea has unveiled a [new “tactical nuclear attack submarine,”](https://www.nytimes.com/2023/09/08/world/asia/north-korea-submarine-nuclear.html) based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named *Hero Kim Kun Ok* – will be one of the main “underwater offensive means of the naval f[orce” of North Korea, leader Kim Jong Un said at the](https://www.reuters.com/world/asia-pacific/north-korea-launches-new-tactical-nuclear-attack-submarine-kcna-2023-09-07/) launch ceremony on Wednesday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/NKmisslesub.png)North Korea has unveiled a [new “tactical nuclear attack submarine,”](https://www.nytimes.com/2023/09/08/world/asia/north-korea-submarine-nuclear.html) based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named *Hero Kim Kun Ok* – will be one of the main “underwater offensive means of the naval f[orce” of North Korea, leader Kim Jong Un said at the](https://www.reuters.com/world/asia-pacific/north-korea-launches-new-tactical-nuclear-attack-submarine-kcna-2023-09-07/) launch ceremony on Wednesday.
 
 But South Korea’s military expressed skepticism about the submarine on Friday, saying that it “doesn’t look capable of normal operation” and that there were signs of “deception and exaggeration” in the North’s report.
 

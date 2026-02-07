@@ -11,12 +11,12 @@ tags:
   - "Great Barrier Reef"
   - "irukandji"
   - "jellyfish"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/jellyfish200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/jellyfish200.jpg"
 author: "Rick Spilman"
 description: "Recently, a 63 year old British tourist died suddenly while snorkelling on Australia’s Great Barrier Reef.  He is the fifth tourist to die in the last three months. In November, a 60-year-old British man and two French tourists, aged 74 and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/jellyfish2.jpg)Recently, a [63 year old British tourist died suddenly](http://www.telegraph.co.uk/news/2017/02/02/british-man-63-dies-snorkelling-australias-great-barrier-reef/) while snorkelling on Australia’s Great Barrier Reef.  He is the fifth tourist to die in the last three months. In November, a 60-year-old British man and two French tourists, aged 74 and 76, died within days of each other while diving and snorkelling in spots north of Cairns. Ten deaths occurred on the Great Barrier Reef last year. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/jellyfish2.jpg)Recently, a [63 year old British tourist died suddenly](http://www.telegraph.co.uk/news/2017/02/02/british-man-63-dies-snorkelling-australias-great-barrier-reef/) while snorkelling on Australia’s Great Barrier Reef.  He is the fifth tourist to die in the last three months. In November, a 60-year-old British man and two French tourists, aged 74 and 76, died within days of each other while diving and snorkelling in spots north of Cairns. Ten deaths occurred on the Great Barrier Reef last year. 
 
 The Great Barrier Reef is a major [Australian tourist destination](http://www.gbrmpa.gov.au/visit-the-reef/visitor-contributions/gbr_visitation/numbers/tourist-visits-to-the-entire-marine-park), attracting upwards of 2 million people each year and generating over $4 billion in revenues. Given the large numbers of tourists, the deaths of ten people on the reef might be explained by the laws of probability.  As is the case in the United States, cardiovascular disease is the leading cause of death in Australia. Many of the deaths on the reef have been attributed to heart attacks. 
 

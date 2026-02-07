@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A story has exploded across the UK press about the Lyubov Orlova, a cruise ship which broke free from its tow in a winter storm and was abandoned in the Atlantic in February of last year.  What evidence exists suggests … Continue reading &rarr;"
 ---
 
-![MV Lyubov Orlowa](http://www.oldsaltblog.com/wp-content/uploads/2014/01/MV_Lyubov_Orlowa.jpg)
+![MV Lyubov Orlowa](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/MV_Lyubov_Orlowa.jpg)
 
 MV Lyubov Orlowa
 

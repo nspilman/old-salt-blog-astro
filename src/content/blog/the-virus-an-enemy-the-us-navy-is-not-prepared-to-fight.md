@@ -11,12 +11,12 @@ tags:
   - "US Navy"
   - "USNS Comfort"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
 description: "Given the complete debacle of the current administration’s response to the coronavirus, one might hope that our military might be better capable of reacting to the crisis. So far, the US Navy, at least, has demonstrated only how ill-prepared it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg)Given the complete debacle of the current administration’s response to the coronavirus, one might hope that our military might be better capable of reacting to the crisis. So far, the US Navy, at least, has demonstrated only how ill-prepared it is in fighting the virus, for reasons that are both practical and political.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg)Given the complete debacle of the current administration’s response to the coronavirus, one might hope that our military might be better capable of reacting to the crisis. So far, the US Navy, at least, has demonstrated only how ill-prepared it is in fighting the virus, for reasons that are both practical and political.
 
 **Practical Considerations**  
 On the purely practical side, defending naval warship against attack by other ships is far easier than defining against a virus. In fact, warships are particularly vulnerable to infectious diseases. They tend to have large crews living in closely packed quarters. Unless the sick crew members can be identified and isolated quickly, contagion can spread rapidly across the ship.

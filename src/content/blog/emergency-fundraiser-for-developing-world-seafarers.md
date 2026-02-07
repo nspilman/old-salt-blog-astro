@@ -11,12 +11,12 @@ tags:
   - "Gavin Allwright"
   - "International Seafarers’ Welfare and Assistance Network"
   - "Seafarers Emergency Fund"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/efr2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/efr2.jpg"
 author: "Rick Spilman"
 description: "A group of maritime organizations is raising money to provide much-needed emergency funding for developing world seafarers. From their Crowdfunder page: While much of the shipping industry take their responsibilities to their seafarers very seriously there is still a real … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/efr2.jpg)A group of maritime organizations is raising money to provide much-needed emergency funding for developing world seafarers. From their [Crowdfunder](https://www.crowdfunder.co.uk/emergency-support-for-developing-world-seafarers) page:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/efr2.jpg)A group of maritime organizations is raising money to provide much-needed emergency funding for developing world seafarers. From their [Crowdfunder](https://www.crowdfunder.co.uk/emergency-support-for-developing-world-seafarers) page:
 
 While much of the shipping industry take their responsibilities to their seafarers very seriously there is still a real challenge facing many seafarers from the poorer regions of the world. Many are in lock down with casual contracts and unable to work, others are facing difficulties due to lock downs when they leave ships and are unable to return to their families with costs and little income coming in and there are even some reports of seafarers being shunned on their return to their homes for fears of the virus. There is also the issue of their families not having an income in order to get by.
 

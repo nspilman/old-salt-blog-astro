@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The announced British budget cuts will slash spending across the board but will hit the Royal Navy hardest of all of the military services. Anchors away: Britain’s once-proud navy falls prey to budget cuts In all the carnage, the worst damage, at least to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/image2600194g.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/image2600194g.jpg)
 
 Photo: AP
 

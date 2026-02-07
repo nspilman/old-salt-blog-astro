@@ -12,12 +12,12 @@ tags:
   - "LCS"
   - "littoral combat ships"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/littlerock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/littlerock.jpg"
 author: "Rick Spilman"
 description: "USNI News reports that the nine Freedom-class Littoral Combat Ships (LCS) currently in Navy service – the youngest of which commissioned in 2020 – have been marked for disposal as part of the Department of Defense’s Fiscal Year 2023 budget … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/littlerock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/littlerock.jpg)
 
 USS Little Rock
 

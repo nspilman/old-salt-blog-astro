@@ -13,12 +13,12 @@ tags:
   - "Patrick Morrissey"
   - "Team Human Powered Potential"
   - "World Parkinson’s Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/teamhpp.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/teamhpp.jpg"
 author: "Rick Spilman"
 description: "Today, April 11th, is World Parkinson’s Day. Parkinson’s disease is a progressive and debilitating neurological disorder affecting millions of people worldwide. It is the fastest growing and the second most prevalent neurological condition, affecting an estimated 11.8 million people worldwide. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/teamhpp.jpg)Today, April 11th, is [World Parkinson’s Day](https://worldparkinsonsday.com/). Parkinson’s disease is a progressive and debilitating neurological disorder affecting millions of people worldwide. It is the fastest growing and the second most prevalent neurological condition, affecting an estimated 11.8 million people worldwide. From 1990 to 2015, the number of people with Parkinson disease doubled to over 6 million. Experts now expect 25 million Parkinson’s diagnosis by the year 2050.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/teamhpp.jpg)Today, April 11th, is [World Parkinson’s Day](https://worldparkinsonsday.com/). Parkinson’s disease is a progressive and debilitating neurological disorder affecting millions of people worldwide. It is the fastest growing and the second most prevalent neurological condition, affecting an estimated 11.8 million people worldwide. From 1990 to 2015, the number of people with Parkinson disease doubled to over 6 million. Experts now expect 25 million Parkinson’s diagnosis by the year 2050.
 
 Despite significant advancements in treatment, there is still no known cure for  Parkinson’s. While drugs can help control the symptoms, so far the best method for slowing the disease progression is exercise, which brings us to the story of [Patrick Morrissey](https://www.cnn.com/2024/08/02/entertainment/michael-j-fox-foundation-patrick-morrissey-parkinsons/index.html) and the [Team Human Powered Potential (HPP)](https://humanpoweredpotential.org/).
 

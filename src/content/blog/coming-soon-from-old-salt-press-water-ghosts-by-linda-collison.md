@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Linda Collison's wonderful new book, Water Ghosts -- A teenaged boy aboard a traditional Chinese junk, controlled by ghosts from the Ming Dynasty."
 ---
 
-![WaterGhoststhumb](http://www.oldsaltblog.com/wp-content/uploads/2015/05/WaterGhoststhumb.jpg)I am very excited about [Linda Collison](http://www.lindacollison.com/)‘s new book, *Water Ghosts*. Coming soon from [Old Salt Press](http://oldsaltpress.com/).  A teenaged boy on a summer adventure sailing aboard a traditional Chinese junk, believes the ship to be controlled by ghosts from the Ming Dynasty, and sailing to its doom.
+![WaterGhoststhumb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/WaterGhoststhumb.jpg)I am very excited about [Linda Collison](http://www.lindacollison.com/)‘s new book, *Water Ghosts*. Coming soon from [Old Salt Press](http://oldsaltpress.com/).  A teenaged boy on a summer adventure sailing aboard a traditional Chinese junk, believes the ship to be controlled by ghosts from the Ming Dynasty, and sailing to its doom.
 
 ***I see things other people don’t see***  
 ***I hear things other people don’t hear***

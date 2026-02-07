@@ -11,7 +11,7 @@ tags:
   - "Florida"
   - "kite"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/whalekite1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/whalekite1.jpg"
 author: "Rick Spilman"
 description: "A good video for Summer Sunday -- two 60-foot long whale kites flying over Delray Beach, Florida."
 ---

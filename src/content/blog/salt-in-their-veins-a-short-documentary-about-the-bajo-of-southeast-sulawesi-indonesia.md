@@ -13,7 +13,7 @@ tags:
   - "Salt in their Veins"
   - "Sea Nomads"
   - "Southeast Sulawesi"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/saltintheirveins.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/saltintheirveins.jpg"
 author: "Rick Spilman"
 description: "Salt in their Veins is a breathtaking and thought-provoking short documentary by German photographer & filmmaker Rita Hencke. The documentary explores the lives of the Bajo people of Southeast Sulawesi, Indonesia, descendants of sea nomads with a deep connection to … Continue reading &rarr;"
 ---

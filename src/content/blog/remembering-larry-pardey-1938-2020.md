@@ -9,12 +9,12 @@ tags:
   - "Larry Pardey"
   - "Lin Pardey"
   - "Seraffyn"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/linLarryP.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/linLarryP.jpg"
 author: "Rick Spilman"
 description: "Lin and Larry Pardey met in 1965. Lin was 21. Larry was 26. He was a sailor and shipwright and was beginning to build a 24′ engineless Lyle Hess designed cutter, to be named Seraffyn, in which he planned on sailing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/linLarryP.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/linLarryP.jpg)
 
 Lin & Larry Pardey sailing Seraffyn Photo: Facebook
 

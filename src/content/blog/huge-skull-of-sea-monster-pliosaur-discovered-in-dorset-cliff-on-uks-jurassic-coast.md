@@ -11,12 +11,12 @@ tags:
   - "Dorset cliff"
   - "Jurassic Coast"
   - "pliosaur"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/pliosaur-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/pliosaur-1.jpg"
 author: "Rick Spilman"
 description: "The BBC reports that the skull of a pliosaur, a colossal sea monster has been extracted from the cliffs of Dorset’s Jurassic Coast. The ferocious marine reptile terrorized the oceans about 150 million years ago. The 2m (6ft 5in)-long fossil … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/pliosaur-1.jpg)The [BBC](https://www.bbc.com/news/science-environment-67650247) reports that the skull of a [pliosaur](https://www.britannica.com/animal/pliosaur), a colossal sea monster has been extracted from the cliffs of Dorset’s [Jurassic Coast](https://www.jurassiccoast.org/). The ferocious marine reptile terrorized the oceans about 150 million years ago. The 2m (6ft 5in)-long fossil is one of the most complete specimens of its type ever discovered and is giving new insights into this ancient predator. Researchers are analyzing the specimen to determine whether it could be a species new to science.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/pliosaur-1.jpg)The [BBC](https://www.bbc.com/news/science-environment-67650247) reports that the skull of a [pliosaur](https://www.britannica.com/animal/pliosaur), a colossal sea monster has been extracted from the cliffs of Dorset’s [Jurassic Coast](https://www.jurassiccoast.org/). The ferocious marine reptile terrorized the oceans about 150 million years ago. The 2m (6ft 5in)-long fossil is one of the most complete specimens of its type ever discovered and is giving new insights into this ancient predator. Researchers are analyzing the specimen to determine whether it could be a species new to science.
 
 Originally spotted in spring 2022, the fossil, along with its complicated excavation and ongoing scientific investigation, are now detailed in the upcoming BBC documentary “[Attenborough and the Jurassic Sea Monste](https://www.bbc.com/mediacentre/proginfo/2024/01/attenborough-and-the-giant-sea-monster)r,” presented by legendary naturalist Sir David Attenborough, that will air February 14 on PBS.
 

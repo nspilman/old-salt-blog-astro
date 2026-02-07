@@ -12,13 +12,13 @@ description: "I received an e-mail a few weeks ago with some intriguing phot
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice1-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice1-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice1.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice2-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice2.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice2-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice2.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice5-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice5.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice5-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice5.jpg)
 
-[![](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice6-125x94.jpg)](https://oldsaltblog.com/wp-content/uploads/2012/08/pumice6.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice6-125x94.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice6.jpg)
 
   
 

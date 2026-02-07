@@ -11,12 +11,12 @@ tags:
   - "Maine Windjammer Association"
   - "pandemic"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/windjammerfleetdock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/windjammerfleetdock.jpg"
 author: "Rick Spilman"
 description: "For decades, schooners referred to as \"windjammers\" have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/windjammerfleetdock.jpg)For decades, schooners referred to as “windjammers” have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at all. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/windjammerfleetdock.jpg)For decades, schooners referred to as “windjammers” have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at all. 
 
 Already Boothbay’s [58th Annual Windjammer Days](https://www.wiscassetnewspaper.com/article/boothbay-harbor-windjammer-days-festival-will-return/135068), scheduled for this week have been canceled. Likewise, the Maine Windjammer Association has canceled its [44th Annual Great Schooner Race](https://www.penbaypilot.com/article/great-schooner-race-and-parade-sail-canceled/133913), scheduled for July 2 and the Parade of Sail scheduled for July 10 in Roclkand.
 

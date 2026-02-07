@@ -12,12 +12,12 @@ tags:
   - "full moon"
   - "moon phases"
   - "new moon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/moonphases.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/moonphases.jpg"
 author: "Rick Spilman"
 description: "On Saturday, August 23, a black moon will rise in the night sky. Of course, you won’t be able to see it, but weather permitting, the stargazing should be phenomenal all the same. A black moon is defined as the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/moonphases.jpg)On Saturday, August 23, a black moon will rise in the night sky. Of course, you won’t be able to see it, but weather permitting, the stargazing should be phenomenal all the same.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/moonphases.jpg)On Saturday, August 23, a black moon will rise in the night sky. Of course, you won’t be able to see it, but weather permitting, the stargazing should be phenomenal all the same.
 
 A black moon is defined as the third new moon in a season of four new moons or as the second new moon in the same calendar month. Normally, each season has three new moons, but the lunar cycle doesn’t line up perfectly with our calendar. Every so often, an “extra” new moon sneaks in, and that occurred on May 19, 2023.
 

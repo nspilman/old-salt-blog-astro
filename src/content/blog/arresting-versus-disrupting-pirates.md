@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate \"mother ships\" and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/110324-N-BZ392-412_web.jpg)Recently [we posted about joint-operations by the Indian Navy and Coast Guard](http://www.oldsaltblog.com/2011/03/28/indian-navy-captures-16-pirates-frees-16-hostages/) which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate “mother ships” and freeing the hostage held aboard.   On reader commented: *Good on the Indian Navy. (Would we have done the same?)*
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/110324-N-BZ392-412_web.jpg)Recently [we posted about joint-operations by the Indian Navy and Coast Guard](http://www.oldsaltblog.com/2011/03/28/indian-navy-captures-16-pirates-frees-16-hostages/) which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate “mother ships” and freeing the hostage held aboard.   On reader commented: *Good on the Indian Navy. (Would we have done the same?)*
 
 In most cases the answer would be “no.”  A recent operation by the US Navy against Somali pirates demonstrates the difference in approach and outcome.  
   

@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Yesterday, we posted about the lawsuits still ongoing related to the wreck of the Nuestra Senora de las Mercedes and quoted Cecilia Rodriguez, writing for Forbes.  Today Ms. Rodriguez has a wonderful article about the Galleon San Jose, often referred to as the \"Holy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/320px-Samuel_Scott_3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/320px-Samuel_Scott_3.jpg)
 
 Scott – Action off Cartagena, 1708.
 

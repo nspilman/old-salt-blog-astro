@@ -13,12 +13,12 @@ tags:
   - "Mother of computing"
   - "The Grace Hopper Celebration of Women in Computing"
   - "USS Hopper"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/ghopper2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/ghopper2.jpg"
 author: "Rick Spilman"
 description: "As the current administration launches a frontal attack on diversity, equity, and inclusion, it is a good time to remember Admiral Grace Hopper. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/ghopper2.jpg)As the current administration launches a frontal attack on diversity, equity, and inclusion, it is a good time to remember [Admiral Grace Hopper](https://www.womenshistory.org/education-resources/biographies/grace-hopper). Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and a Ph.D. in mathematics from Yale. She was nicknamed “Amazing Grace” and is often referred to as the “mother of computing.” An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/ghopper2.jpg)As the current administration launches a frontal attack on diversity, equity, and inclusion, it is a good time to remember [Admiral Grace Hopper](https://www.womenshistory.org/education-resources/biographies/grace-hopper). Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and a Ph.D. in mathematics from Yale. She was nicknamed “Amazing Grace” and is often referred to as the “mother of computing.” An updated repost.
 
 Since 1994, [The Grace Hopper Celebration of Women in Computing (GHC)](https://en.wikipedia.org/wiki/Grace_Hopper_Celebration_of_Women_in_Computing) has honored Admiral Hopper hosting a series of conferences designed to bring the research and career interests of women in computing to the forefront. It is the world’s largest gathering of women and non-binary technologists. This year the celebration will be held in [Chicago](https://www.linkedin.com/posts/anne-lee-81025b5_2025-grace-hopper-conference-will-be-in-chicago-activity-7221514284818653184-XRGn/).
 

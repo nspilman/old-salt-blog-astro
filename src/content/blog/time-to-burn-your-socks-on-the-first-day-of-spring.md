@@ -10,12 +10,12 @@ tags:
   - "sock burning"
   - "socks"
   - "Spring"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/sockburning.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/sockburning.jpg"
 author: "Rick Spilman"
 description: "On Maryland’s Eastern Shore and in a handful of other ports around the country, there is a sailors’ tradition of burning your socks on the vernal equinox, the first day of Spring. If you have been wearing the same woolen … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/sockburning.jpg)On Maryland’s Eastern Shore and in a handful of other ports around the country, there is a sailors’ tradition of burning your socks on the vernal equinox, the first day of Spring. If you have been wearing the same woolen stockings all winter, this may be a good time to commit them to the flames.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/sockburning.jpg)On Maryland’s Eastern Shore and in a handful of other ports around the country, there is a sailors’ tradition of burning your socks on the vernal equinox, the first day of Spring. If you have been wearing the same woolen stockings all winter, this may be a good time to commit them to the flames.
 
 As ancient traditions go, this one is pretty new. According to [Preservation Maryland](https://www.preservationmaryland.org/annapolis-tradition-sock-burning/), after a particularly snowy winter in 1978, Annapolitan Bob Tuner was anxious to shed his socks with the arrival of spring. He invited his colleagues to celebrate the end of winter by burning their socks after work, a symbolic goodbye to winter as the group of boat builders, sailors, and watermen intended to forgo wearing socks until the cold weather returned; and so a tradition was born.
 

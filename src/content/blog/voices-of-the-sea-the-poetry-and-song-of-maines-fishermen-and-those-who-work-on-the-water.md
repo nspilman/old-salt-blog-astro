@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Not long ago, we posted about the Fisher Poets Gathering in Astoria, Oregon.  There are indeed fisherman poets on all coasts and this Thursday, March 15th, the Maine Maritime Museum in Bath, Maine is hosting \"Voices of the Sea: The Poetry and Song … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/fisherm_poets.jpg)Not long ago, we posted about the [Fisher Poets Gathering](http://www.oldsaltblog.com/2012/02/25/fisher-poets-gathering-of-astoria-underway-this-weekend/) in Astoria, Oregon.  There are indeed fisherman poets on all coasts and this Thursday, March 15th, the [Maine Maritime Museum](http://www.mainemaritimemuseum.org/) in Bath, Maine is hosting “[Voices of the Sea: The Poetry and Song of Maine’s Fishermen and Those Who Work on the Water](http://www.mainemaritimemuseum.org/events/voices-sea/),” from 5:30 p.m. – 7:30 p.m.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/fisherm_poets.jpg)Not long ago, we posted about the [Fisher Poets Gathering](http://www.oldsaltblog.com/2012/02/25/fisher-poets-gathering-of-astoria-underway-this-weekend/) in Astoria, Oregon.  There are indeed fisherman poets on all coasts and this Thursday, March 15th, the [Maine Maritime Museum](http://www.mainemaritimemuseum.org/) in Bath, Maine is hosting “[Voices of the Sea: The Poetry and Song of Maine’s Fishermen and Those Who Work on the Water](http://www.mainemaritimemuseum.org/events/voices-sea/),” from 5:30 p.m. – 7:30 p.m.
 
 The event will feature “*working fishermen and those who work on the sea reading their own original work, poems and songs that examine their water-borne careers through verse.*  
   

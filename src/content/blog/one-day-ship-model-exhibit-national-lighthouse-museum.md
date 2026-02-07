@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/nlm200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/nlm200.jpg"
 author: "Rick Spilman"
 description: "The National Lighthouse Museum on Staten Island is having a one-day model ship exhibit on Saturday, November 19th from 11:00 am to 4:00pm, featuring models and demonstrations by members of the Ship Model Society of New Jersey. From the NLM … Continue reading &rarr;"
 ---
 
-![nlm1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/nlm1.jpg)The [National Lighthouse Museum](http://lighthousemuseum.org/) on Staten Island is having a one-day model ship exhibit on Saturday, November 19th from 11:00 am to 4:00pm, featuring models and demonstrations by members of the Ship Model Society of New Jersey.
+![nlm1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/nlm1.jpg)The [National Lighthouse Museum](http://lighthousemuseum.org/) on Staten Island is having a one-day model ship exhibit on Saturday, November 19th from 11:00 am to 4:00pm, featuring models and demonstrations by members of the Ship Model Society of New Jersey.
 
 From the NLM press release: *Their members will demonstrate the building of a small model ship and will also be available for conducting appraisals for repairs of ship models that you may own. Their membership spans all skill levels, from neophyte to highly the accomplished and a wide range of interests, from gadget guru to historical re-creator. We invite you to join us for this special event and to see these amazingly accurate creations.*
 

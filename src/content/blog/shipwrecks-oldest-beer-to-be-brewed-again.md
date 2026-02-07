@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last November we posted about a plan by Finnish authorities to allow one or several modern breweries to replicate the recipe of beer found in a Baltic Sea shipwreck dated between 1800 to 1830.  In addition to cases of champagne, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/beer.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/beer.jpg)
 
 Worlds Oldest Drinkable Beer
 

@@ -11,12 +11,12 @@ tags:
   - "Narraganset bay"
   - "sailboat"
   - "wife"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/pellbridge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/pellbridge.jpg"
 author: "Rick Spilman"
 description: "Hope your Monday is going well. If not, you are still probably having a better time than one sailing couple had in Narragansett Bay last Friday and Saturday. A husband and wife were sailing their 38-foot sailboat Alegria from Newport, RI to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/pellbridge.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/pellbridge.jpg)
 
 Pell Bridge Near Newport
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "What make this story interesting are not the facts but the reaction to them.   A sixty year tradition of Naval Academy plebes climbing a greased obelisk at the end of their first year is coming to an end.   So … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/plebe.jpg)What make this story interesting are not the facts but the reaction to them.   A sixty year tradition of Naval Academy plebes climbing a greased obelisk at the end of their first year is coming to an end.   So far of the emails received by the Navy times on the story,  over thirty oppose the ending the obelisk climb while one supports the ban.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/plebe.jpg)What make this story interesting are not the facts but the reaction to them.   A sixty year tradition of Naval Academy plebes climbing a greased obelisk at the end of their first year is coming to an end.   So far of the emails received by the Navy times on the story,  over thirty oppose the ending the obelisk climb while one supports the ban.
 
 [End of Line for Academy Tradition?  Annual obelisk climb may end](http://www.nbcwashington.com/news/local-beat/End-of-the-Line-for-Academy-Tradition-94748584.html)  
   

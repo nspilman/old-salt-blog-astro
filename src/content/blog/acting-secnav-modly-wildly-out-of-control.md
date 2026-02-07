@@ -10,12 +10,12 @@ tags:
   - "Modly"
   - "SecNav"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/modly.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/modly.jpg"
 author: "Rick Spilman"
 description: "Update: Thomas B. Modly has offered his resignation. When the Acting Secretary of the Navy Thomas B. Modly traveled to Guam on Sunday to speak to the sailors on the aircraft carrier USS Theodore Roosevelt, he needed to deliver a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/modly.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/modly.jpg)  
 **Update:** Thomas B. Modly has offered his resignation.
 
 When the Acting Secretary of the Navy Thomas B. Modly traveled to Guam on Sunday to speak to the sailors on the aircraft carrier USS *Theodore Roosevelt*, he needed to deliver a clear and calming message. He needed to address concerns over the recent firing of the ship’s commander, Captain Brett Crozier, and to reassure the crew that the Navy was taking appropriate steps to treat sailors with the coronavirus. He failed miserably.

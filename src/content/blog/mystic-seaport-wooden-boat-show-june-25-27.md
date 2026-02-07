@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A wonderful boat show in a enchanting setting, the Mystic Seaport Wooden Boat Show starts this Friday. I am seriously annoyed that it looks like I will be be missing it again this year.    The show is hosted in partnership with Wooden Boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/woodenBoatBanner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/woodenBoatBanner.jpg)
 
 A wonderful boat show in a enchanting setting, the [Mystic Seaport Wooden Boat Show](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=864E118B-1E4F-379B-6036692662F21863) starts this Friday. I am seriously annoyed that it looks like I will be be missing it again this year.    The show is hosted in partnership with [Wooden Boat Publications](http://www.thewoodenboatshow.com/).
 

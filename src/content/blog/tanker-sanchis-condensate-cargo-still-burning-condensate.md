@@ -12,12 +12,12 @@ tags:
   - "fire"
   - "Iranian tanker"
   - "Sanchi"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/sanchifire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/sanchifire.jpg"
 author: "Rick Spilman"
 description: "An Iranian tanker, Sanchi, carrying 134,000 tonnes of cargo collided with the Chinese bulk, CF Crystal, on Saturday, in the East China Sea off Singapore. Sanchi’s crew of 32 were killed or are missing in the resulting fire. There has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/sanchifire.jpg)An Iranian tanker, [*Sanchi,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:767955/mmsi:356137000/imo:9356608/vessel:SANCHI) carrying 134,000 tonnes of cargo collided with the Chinese bulk, [*CF Crystal,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:688017/mmsi:477550800/imo:9497050/vessel:CF_CRYSTAL) on Saturday, in the East China Sea off Singapore. Sanchi’s crew of 32 were killed or are missing in the resulting fire. There has been considerable concern that the burning tanker might explode, spilling close to a million barrels of oil into the sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/sanchifire.jpg)An Iranian tanker, [*Sanchi,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:767955/mmsi:356137000/imo:9356608/vessel:SANCHI) carrying 134,000 tonnes of cargo collided with the Chinese bulk, [*CF Crystal,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:688017/mmsi:477550800/imo:9497050/vessel:CF_CRYSTAL) on Saturday, in the East China Sea off Singapore. Sanchi’s crew of 32 were killed or are missing in the resulting fire. There has been considerable concern that the burning tanker might explode, spilling close to a million barrels of oil into the sea.
 
 The reason for the concern is that the cargo carried aboard the tanker is not typical crude oil. The cargo is called condensate, which is a liquid, usually a byproduct of natural gas production, formed by a variety of gases which condense when extracted. Unlike crude oil, the liquid is often clear and odorless. Condensate is usually composed of propane, butane, pentane or hexane but can also contain carbon dioxide, hydrogen sulfide, aromatics and naphthenes, known as impurities.
 

@@ -14,12 +14,12 @@ tags:
   - "Gregor McGuckin"
   - "Hanley Energy Endurance"
   - "rescue"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/tomy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tomy.jpg"
 author: "Rick Spilman"
 description: "Injured sailor Abhilash Tomy has been rescued by a French fisheries patrol vessel. Tomy, a 39-year-old Indian naval commander, was injured when his yacht Thuriya capsized and dismasted in a severe Southern ocean storm on Day 82 of the Golden Globe Race.  Osiris, a French fisheries vessel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/tomy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/tomy.jpg)
 
 Commander Abhilash Tomy
 

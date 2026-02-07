@@ -11,7 +11,7 @@ tags:
   - "container shipping"
   - "supply chain"
   - "trade imbalances"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/60munsupplychain.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/60munsupplychain.jpg"
 author: "Rick Spilman"
 description: "When things are going well, the international shipping supply chain is largely invisible and can be taken for granted by most of us.  These days things are not going well. The pandemic has triggered massive trade imbalances. Critical links in … Continue reading &rarr;"
 ---

@@ -18,12 +18,12 @@ tags:
   - "Sargassum"
   - "South Georgia"
   - "two large icebergs"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/sargassumbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sargassumbeach.jpg"
 author: "Rick Spilman"
 description: "In recent years we have posted about the impact of massive mats of sargassum in the warmer waters of the Gulf of Mexico and the Atlantic. The brown buoyant seaweed has had a devastating impact on beaches across the east … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/sargassumbeach.jpg)In recent years [we have posted about the impact of massive mats of sargassum](https://www.oldsaltblog.com/?s=sargassum&x=15&y=14) in the warmer waters of the Gulf of Mexico and the Atlantic. The brown buoyant seaweed has had a devastating impact on beaches across the east coast of Mexico, the Caribbean, Texas, and Florida.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sargassumbeach.jpg)In recent years [we have posted about the impact of massive mats of sargassum](https://www.oldsaltblog.com/?s=sargassum&x=15&y=14) in the warmer waters of the Gulf of Mexico and the Atlantic. The brown buoyant seaweed has had a devastating impact on beaches across the east coast of Mexico, the Caribbean, Texas, and Florida.
 
 Recent reports are of a new 5,000-mile-wide sargassum bloom targeting Florida, that is so large, it can be seen from space.
 

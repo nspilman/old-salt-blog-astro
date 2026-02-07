@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "OK, this is odd.  A few days after New Years, a fisherman spotted a small dog treading water several miles from shore in Tampa Bay, on the west coast of Florida.  The dog, which was wearing a red collar and a pink … Continue reading &rarr;"
 ---
 
-![baby](http://www.oldsaltblog.com/wp-content/uploads/2014/01/baby.jpg)
+![baby](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/baby.jpg)
 
 Baby/Grace
 

@@ -10,12 +10,12 @@ tags:
   - "Bluetooth"
   - "Harald \"Blåtand\" Gormsson"
   - "Jelling Stone Ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/bluetooth.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/bluetooth.jpg"
 author: "Rick Spilman"
 description: "Remember King Harald \"Blåtand\" Gormsson? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/bluetooth.jpg)Remember [King Harald “Blåtand” Gormsson](https://en.wikipedia.org/wiki/Harald_Bluetooth)? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His nickname, “Blåtand,” means “Bluetooth” in English.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/bluetooth.jpg)Remember [King Harald “Blåtand” Gormsson](https://en.wikipedia.org/wiki/Harald_Bluetooth)? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His nickname, “Blåtand,” means “Bluetooth” in English.  
 
 King Harald Bluetooth’s claim to fame is that he united Denmark and Norway. When Intel engineer, Jim Kardach, was working on a new wireless technology he was also reading a book about Viking history. He decided to name the new technology after the Danish king. [Kardach was later quoted](http://www.eetimes.com/document.asp?doc_id=1269737) as saying, “*Bluetooth was borrowed from the 10th-century, second king of Denmark, King Harald Bluetooth; who was famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link.*”
 

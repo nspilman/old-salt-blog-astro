@@ -13,7 +13,7 @@ tags:
   - "Greenland"
   - "Morrisey"
   - "schooner"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/effiemorrissey1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/effiemorrissey1.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the schooner Ernestina-Morrissey, ex Ernestina, ex Effie M. Morrissey, beginning a new chapter as a sail training vessel for the Massachusetts Maritime Academy. Here is a repost of a documentary, narrated by the polar explorer, Captain … Continue reading &rarr;"
 ---

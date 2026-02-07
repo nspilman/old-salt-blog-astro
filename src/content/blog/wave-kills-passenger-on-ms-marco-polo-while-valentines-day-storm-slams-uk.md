@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A unusually large wave killed an 85 year old man and injured a woman in her 70s on the cruise ship MS Marco Polo in the English Channel, as it headed for its home port of Tilbury, in Essex.  Both were … Continue reading &rarr;"
 ---
 
-![Marco_Polo_Bergen_2010](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Marco_Polo_Bergen_2010.jpg)A unusually large wave killed an 85 year old man and injured a woman in her 70s on the cruise ship [MS *Marco Polo*](http://en.wikipedia.org/wiki/MS_Marco_Polo) in the English Channel, as it headed for its home port of Tilbury, in Essex.  Both were airlifted from the ship but the man died later. The *Marco Polo* was returning from a 42 day voyage when it was struck by the massive wave.  The ship sailed from Tilbury on January 5 and is carrying 735, mainly British, passengers and 349 crew.
+![Marco_Polo_Bergen_2010](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Marco_Polo_Bergen_2010.jpg)A unusually large wave killed an 85 year old man and injured a woman in her 70s on the cruise ship [MS *Marco Polo*](http://en.wikipedia.org/wiki/MS_Marco_Polo) in the English Channel, as it headed for its home port of Tilbury, in Essex.  Both were airlifted from the ship but the man died later. The *Marco Polo* was returning from a 42 day voyage when it was struck by the massive wave.  The ship sailed from Tilbury on January 5 and is carrying 735, mainly British, passengers and 349 crew.
 
 [Wave kills Marco Polo cruise ship passenger in Channel](http://www.bbc.co.uk/news/uk-england-26194897)
 

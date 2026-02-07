@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "I am looking forward to going the Working Harbor Committee’s Hidden Harbor Tour of Gowanus Bay.  It will be lead by Captain Margaret Flanagan, Maritime Operations, Waterfront Alliance & Joseph Alexiou, tour guide and author of \"Gowanus Brooklyn’s Curious Canal\"  and will … Continue reading &rarr;"
 ---
 
-![Sunset at Gowanus Bay in the Bay New York (1851) by Henry Gritten](http://www.oldsaltblog.com/wp-content/uploads/2016/06/gowanusbay1.jpg)
+![Sunset at Gowanus Bay in the Bay New York (1851) by Henry Gritten](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gowanusbay1.jpg)
 
 Sunset at Gowanus Bay in the Bay New York (1851) by Henry Gritten
 

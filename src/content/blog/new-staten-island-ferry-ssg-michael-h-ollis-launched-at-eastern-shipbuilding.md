@@ -12,12 +12,12 @@ tags:
   - "Eastern Shipbuilding Group"
   - "SSG Michael H. Ollis"
   - "Staten Island Ferry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/siferrylaunch2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/siferrylaunch2.jpg"
 author: "Rick Spilman"
 description: "Eastern Shipbuilding Group, Inc., Panama City, FL launched the SSG Michael H. Ollis, the first of three new 4,500-passenger ferries for New York City’s Staten Island Ferry system. The Ollis Class ferries will be double-ended, with an overall length of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/siferrylaunch2.jpg)[Eastern Shipbuilding Group](http://www.easternshipbuilding.com/), Inc., Panama City, FL launched the [SSG *Michael H. Ollis*](https://thefallen.militarytimes.com/army-staff-sgt-michael-h-ollis/6568502), the first of three new 4,500-passenger ferries for New York City’s [Staten Island Ferry system](https://en.wikipedia.org/wiki/Staten_Island_Ferry). The [Ollis Class ferries](https://en.wikipedia.org/wiki/Ollis-class_ferry) will be double-ended, with an overall length of 320 feet, beam of 70 feet, and draft of 13 feet at the design load at the waterline.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/siferrylaunch2.jpg)[Eastern Shipbuilding Group](http://www.easternshipbuilding.com/), Inc., Panama City, FL launched the [SSG *Michael H. Ollis*](https://thefallen.militarytimes.com/army-staff-sgt-michael-h-ollis/6568502), the first of three new 4,500-passenger ferries for New York City’s [Staten Island Ferry system](https://en.wikipedia.org/wiki/Staten_Island_Ferry). The [Ollis Class ferries](https://en.wikipedia.org/wiki/Ollis-class_ferry) will be double-ended, with an overall length of 320 feet, beam of 70 feet, and draft of 13 feet at the design load at the waterline.
 
 Designed by Elliott Bay Design Group, Seattle, WA, the three ferries will carry only passengers on the 5.2 mile route between the St. George Terminal on the north shore of Staten Island and Whitehall Terminal in lower Manhattan. Each of the ferries will be fitted with four diesel engines that will drive two Voith Schneider Propellers. 
 

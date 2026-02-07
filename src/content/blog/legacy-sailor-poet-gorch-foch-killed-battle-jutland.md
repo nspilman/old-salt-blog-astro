@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Johann Wilhelm Kinau was one of the more than 8,000 sailors who died in the Battle of Jutland just over 100 years ago. Kinau was 36 when he was killed while serving as a lookout on the German light cruiser … Continue reading &rarr;"
 ---
 
-[![gorchfochwriter](http://www.oldsaltblog.com/wp-content/uploads/2016/06/gorchfochwriter.jpg)](http://www.marine.de/portal/a/marine/!ut/p/c4/JcrBDYAgDEDRWVygvXtzC_VWSYEKFlNAE6fXxPzj-7jil9IlgZoUpYwzLk7G7YaDDDpvbF0rsGhkaawQJfvqKdrDPTCEYi764tL_flxbMWHYkyh1PNM0vCLXSgo!/)
+[![gorchfochwriter](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gorchfochwriter.jpg)](http://www.marine.de/portal/a/marine/!ut/p/c4/JcrBDYAgDEDRWVygvXtzC_VWSYEKFlNAE6fXxPzj-7jil9IlgZoUpYwzLk7G7YaDDDpvbF0rsGhkaawQJfvqKdrDPTCEYi764tL_flxbMWHYkyh1PNM0vCLXSgo!/)
 
 Johann Wilhelm Kinau – Gorch Foch
 

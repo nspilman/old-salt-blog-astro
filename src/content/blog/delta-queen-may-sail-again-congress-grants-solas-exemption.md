@@ -12,12 +12,12 @@ tags:
   - "SOLAS"
   - "US Coasr Guard"
   - "US Congress"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/dq2x.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/dq2x.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the House of Representatives, in a provision of a U.S. Coast Guard reauthorization bill, voted to grant a waiver exempting the riverboat Delta Queen from certain fire safety regulations. The bill, which now only requires the president’s signature to take … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/dq2x.jpg)Yesterday, the House of Representatives, in a provision of a U.S. Coast Guard reauthorization bill, voted to grant a waiver exempting the riverboat [*Delta Queen*](https://en.wikipedia.org/wiki/Delta_Queen) from certain fire safety regulations. The bill, which now only requires the president’s signature to take effect, may potentially allow the historic riverboat to return to service.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/dq2x.jpg)Yesterday, the House of Representatives, in a provision of a U.S. Coast Guard reauthorization bill, voted to grant a waiver exempting the riverboat [*Delta Queen*](https://en.wikipedia.org/wiki/Delta_Queen) from certain fire safety regulations. The bill, which now only requires the president’s signature to take effect, may potentially allow the historic riverboat to return to service.
 
 The *Delta Queen* is a passenger riverboat delivered in 1927. Its hull is steel, while its deck and deckhouse are of wood supported by steel framing. The wooden deckhouse does not meet the structural fire protection requirements of the [Safety of Life at Sea (SOLAS)](http://www.save-the-delta-queen.org/what-is-safety-of-life-at-sea-solas/) regulations, as interpreted by the US Coast Guard in the [Safety at Sea Act of 1966 (P.L. 89-777)](http://uscode.house.gov/statutes/pl/89/777.pdf). From 1966 through 2007, the *Delta Queen* operated with a series of legislative waivers. The last waiver ran out in 2008 and the riverboat has been laid up ever since.  Assuming that the new exemption is finalized, the riverboat may be able to reenter overnight passenger service.
 

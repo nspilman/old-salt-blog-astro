@@ -17,12 +17,12 @@ tags:
   - "oil tanker"
   - "rescue tug"
   - "Russian naval vessels"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/russianfrigatecuba.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/russianfrigatecuba.jpg"
 author: "Rick Spilman"
 description: "On Wednesday four Russian naval vessels; a nuclear-powered submarine, a frigate, an oil tanker, and a rescue tug; arrived in Cuba for military drills. The vessels’ visit has been seen as a show of force amid Moscow’s tensions with the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/russianfrigatecuba.jpg)On Wednesday four Russian naval vessels; a nuclear-powered submarine, a frigate, an oil tanker, and a rescue tug; arrived in Cuba for military drills.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/russianfrigatecuba.jpg)On Wednesday four Russian naval vessels; a nuclear-powered submarine, a frigate, an oil tanker, and a rescue tug; arrived in Cuba for military drills.
 
 The vessels’ visit has been seen as a show of force amid Moscow’s tensions with the West over the war in Ukraine, according to the [BBC](https://www.bbc.com/news/articles/cg66g0neweko). The ships anchored in Havana Bay – some 90 miles (145km) from the US state of Florida.
 

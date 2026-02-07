@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "New Jersey’s Official  Tall Ship, the A.J. MEERWALD, is returning to New York  harbor.   She is docking at Liberty State Park in Jersey City today and will be staying through July 6th.   The Meerwald will be offering New York harbor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/meerwald-1.jpg)New Jersey’s Official  Tall Ship, the [*A.J. MEERWALD*](http://www.ajmeerwald.org/), is returning to New York  harbor.   She is docking at [Liberty State Park](http://www.state.nj.us/dep/parksandforests/parks/liberty.html) in Jersey City today and will be staying through July 6th.   The *Meerwald* will be offering New York harbor sails and tours of the the authentically restored 1928 Delaware Bay oyster schooner. From their press release:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/meerwald-1.jpg)New Jersey’s Official  Tall Ship, the [*A.J. MEERWALD*](http://www.ajmeerwald.org/), is returning to New York  harbor.   She is docking at [Liberty State Park](http://www.state.nj.us/dep/parksandforests/parks/liberty.html) in Jersey City today and will be staying through July 6th.   The *Meerwald* will be offering New York harbor sails and tours of the the authentically restored 1928 Delaware Bay oyster schooner. From their press release:
 
 *Enjoy a relaxing trip around New York Harbor, taking in the sights and sounds. Bring along a picnic to enjoy, or a bottle of wine to share with friends. Or experience history firsthand as you help the crew haul the lines and hoist the sails!*  
   

@@ -15,12 +15,12 @@ tags:
   - "motion pictures"
   - "Thames"
   - "Thames Ironworks and Shipbuilding Company"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/albion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/albion.jpg"
 author: "Rick Spilman"
 description: "On June 21, 1898, HMS Albion sat on the launching ways at the Thames Ironworks and Shipbuilding Company at Blackwall. The launching that would soon end in tragedy was also one of the first disasters to be captured on film. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/albion.jpg)On June 21, 1898, [HMS *Albion*](https://en.wikipedia.org/wiki/HMS_Albion_\(1898\)) sat on the launching ways at the Thames Ironworks and Shipbuilding Company at Blackwall. The launching that would soon end in tragedy was also one of the first disasters to be captured on film.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/albion.jpg)On June 21, 1898, [HMS *Albion*](https://en.wikipedia.org/wiki/HMS_Albion_\(1898\)) sat on the launching ways at the Thames Ironworks and Shipbuilding Company at Blackwall. The launching that would soon end in tragedy was also one of the first disasters to be captured on film.
 
 The *Albion* was the largest warship ever launched on the Thames and the first battleship built for the Royal Navy in the shipyard in more than a decade. An estimated 30,000 people packed into the yard ­to see the Duchess of York launch the Royal Navy’s latest ship-of-the-line. Local schoolchildren were given the day off to attend the launch. In the crowd were two crews operating motion picture cameras ready to film the launching.
 

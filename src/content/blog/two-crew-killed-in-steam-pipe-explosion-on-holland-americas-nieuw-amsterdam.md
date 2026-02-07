@@ -9,12 +9,12 @@ categories:
   - "Ships"
 tags:
   - "Nieuw Amsterdam"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/nieuamsterdam.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/nieuamsterdam.jpg"
 author: "Rick Spilman"
 description: "Two crew members on a Holland America cruise ship died during an \"incident\" in the ship’s engineering space, the cruise line said. The unidentified crew members died Friday while the Florida-based Nieuw Amsterdam was at Half Moon Cay in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/nieuamsterdam.jpg)Two crew members on a [Holland America](https://en.wikipedia.org/wiki/Holland_America_Line) cruise ship died during an “incident” in the ship’s engineering space, the cruise line said.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/nieuamsterdam.jpg)Two crew members on a [Holland America](https://en.wikipedia.org/wiki/Holland_America_Line) cruise ship died during an “incident” in the ship’s engineering space, the cruise line said.
 
 The unidentified crew members died Friday while the Florida-based [*Nieuw Amsterdam*](https://www.hollandamerica.com/en/us/cruise-ships/nieuw-amsterdam/4) was at Half Moon Cay in the Bahamas, Holland America said in a statement.
 

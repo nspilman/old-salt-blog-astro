@@ -12,12 +12,12 @@ tags:
   - "Derelicts"
   - "lumber schooners"
   - "racing sailboats"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/derelictroutedurum.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/derelictroutedurum.jpg"
 author: "Rick Spilman"
 description: "Recently the containership MOL Empire passed an abandoned sailboat in the mid-Atlantic around 1,500 nautical miles away from Jersey. The captain emailed photos of the boat to the Cross Jobourg Coastguard in France which was able to identify it as the Service Civique. The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/derelictroutedurum.jpg)Recently the containership MOL *Empire* passed an [abandoned sailboat in the mid-Atlantic](https://www.sosailize.net/sailing-news/654-sailboat-drifting-in-mid-atlantic-with-no-one-on-board-identified) around 1,500 nautical miles away from Jersey. The captain emailed photos of the boat to the Cross Jobourg Coastguard in France which was able to identify it as the *Service Civique*. The boat had been sailed in the 2018 Rum Route by Claire Pruvot. In mid-November, Ms. Pruvot was forced to abandon the race and her boat after a [collision with a freighter](https://www.ouest-france.fr/route-du-rhum/route-du-rhum-victime-d-une-collision-avec-un-cargo-claire-pruvot-abandonne-6073623). She was rescued by the cargo ship. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/derelictroutedurum.jpg)Recently the containership MOL *Empire* passed an [abandoned sailboat in the mid-Atlantic](https://www.sosailize.net/sailing-news/654-sailboat-drifting-in-mid-atlantic-with-no-one-on-board-identified) around 1,500 nautical miles away from Jersey. The captain emailed photos of the boat to the Cross Jobourg Coastguard in France which was able to identify it as the *Service Civique*. The boat had been sailed in the 2018 Rum Route by Claire Pruvot. In mid-November, Ms. Pruvot was forced to abandon the race and her boat after a [collision with a freighter](https://www.ouest-france.fr/route-du-rhum/route-du-rhum-victime-d-une-collision-avec-un-cargo-claire-pruvot-abandonne-6073623). She was rescued by the cargo ship. 
 
 Ms. Pruvot’s is not the only derelict racing boat known to be adrift on the oceans.  In the Golden Globe Race, Indian Naval Commander Abhilash Tomy’s sailboat *Thuriya*, was dismasted in a Southern Ocean storm last September,  seriously injuring Commander Tomy. After a dramatic rescue of the stricken sailor, the Indian Navy announced that it planned on [salvaging](https://slowboatsailing.wordpress.com/2018/10/08/tomys-ggr-suhali-replica-goes-dark-foiling-indian-navys-plans-to-salvage-it/) *Thuriya.*  Before the attempt got underway, however, *Thuriya’s* tracking beacon went dark, probably after its batteries ran down. Unless the boat has sunk in the meantime, she is still adrift somewhere in the Southern Ocean. 
 

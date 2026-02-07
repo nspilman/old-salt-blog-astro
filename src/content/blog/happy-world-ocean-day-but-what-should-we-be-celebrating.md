@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: \"In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Story.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Story.jpg)
 
 One fish, two fish, dead fish, no fish?
 

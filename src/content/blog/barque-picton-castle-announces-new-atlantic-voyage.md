@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "After five circumnavigations, Captain Daniel Moreland and the Barque Picton Castle will be changing their course for this year’s voyage focusing primarily on the Atlantic visiting ports in Europe, Africa, the Caribbean and the Spanish Main. World Voyaging Tall Ship Picton Castle Announces New Voyage Around … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/pictoncastle_.jpg)After five circumnavigations, Captain Daniel Moreland and the [Barque Picton Castle](http://www.picton-castle.com/) will be changing their course for this year’s voyage focusing primarily on the Atlantic visiting ports in Europe, Africa, the Caribbean and the Spanish Main.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/pictoncastle_.jpg)After five circumnavigations, Captain Daniel Moreland and the [Barque Picton Castle](http://www.picton-castle.com/) will be changing their course for this year’s voyage focusing primarily on the Atlantic visiting ports in Europe, Africa, the Caribbean and the Spanish Main.
 
 [World Voyaging Tall Ship Picton Castle Announces New Voyage Around the Atlantic](http://www.barnaclegrenada.com/content/view/2037/70/#.Tlmoao24OX4.email)
 

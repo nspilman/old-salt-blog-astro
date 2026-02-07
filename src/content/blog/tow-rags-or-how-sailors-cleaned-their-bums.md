@@ -10,12 +10,12 @@ tags:
   - "head"
   - "Sailing ship"
   - "Tow-Rag"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/towrope.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/towrope.jpg"
 author: "Rick Spilman"
 description: "In the United States recently, there has been a lot of attention given to those who hoard toilet paper in preparation for the coronavirus onslaught. As toilet paper is one of the basic necessities of modern life, hoarding seems to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/towrope.jpg)In the United States recently, there has been a lot of attention given to those who [hoard toilet paper](https://www.cnn.com/videos/business/2020/03/18/coronavirus-toilet-paper-supply-chain.cnn-business) in preparation for the coronavirus onslaught. As toilet paper is one of the basic necessities of modern life, hoarding seems to be particularly bad form. Nevertheless, as we consider the prospect of doing without, it also raises the question of what folks did before the advent of toilet paper. This being a nautical blog, however, we will focus on how sailors of old kept their bums more or less clean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/towrope.jpg)In the United States recently, there has been a lot of attention given to those who [hoard toilet paper](https://www.cnn.com/videos/business/2020/03/18/coronavirus-toilet-paper-supply-chain.cnn-business) in preparation for the coronavirus onslaught. As toilet paper is one of the basic necessities of modern life, hoarding seems to be particularly bad form. Nevertheless, as we consider the prospect of doing without, it also raises the question of what folks did before the advent of toilet paper. This being a nautical blog, however, we will focus on how sailors of old kept their bums more or less clean.
 
 Sailors in the Age of Sail used tow-rags. What is a [tow-rag](https://www.urbandictionary.com/define.php?term=Tow%20Rag)? As can be seen in the video below, close to the ship’s head — the toilets in the bow or “head” of the ship — there was a long rope ending in a short rag that hung over the side into the water. After using the head, the sailor could then clean his backside with the wet rag then drop the rope back over the side. The rag would then be cleaned either by being literally towed by the ship under sail or to be washed by the action of wave and current if at anchor.
 

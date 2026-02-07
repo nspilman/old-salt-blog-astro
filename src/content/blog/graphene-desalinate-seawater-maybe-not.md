@@ -9,12 +9,12 @@ categories:
 tags:
   - "desalination"
   - "Graphene"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/graphene.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/graphene.jpg"
 author: "Rick Spilman"
 description: "Recently science writers at various news outlets have been gushing over an announcement that scientists have been able to use graphene to remove the salt from seawater. CNBC lead with the exuberant headline, \"Carbon-based filter which turns seawater into drinking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/graphene.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/graphene.jpg)
 
 Graphene, Image: AlexanderAlUS
 

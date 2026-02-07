@@ -14,12 +14,12 @@ tags:
   - "sonar dome"
   - "US Navy frigate"
   - "USS Stein"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/ussstein.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/ussstein.jpg"
 author: "Rick Spilman"
 description: "Last month, we posted about the first-ever confirmed image of a colossal squid in the deep ocean. Ironically, the first colossal squid caught on camera was anything but colossal. It was a juvenile of only about 1 foot in length. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/ussstein.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/ussstein.jpg)
 
 Last month, we [posted about the first-ever confirmed image of a colossal squi](https://www.oldsaltblog.com/2025/04/first-ever-confirmed-image-of-a-colossal-squid-in-the-deep-ocean-happens-to-be-really-really-small/)d in the deep ocean. Ironically, the first colossal squid caught on camera was anything but colossal. It was a juvenile of only about 1 foot in length. Here is an updated repost of an account of a US Navy frigate that appears to have been attacked by a full-grown colossal squid.
 

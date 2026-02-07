@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a \"Sea and Air Parade of Sail.\"    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/virginiaopsail-2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/virginiaopsail-2.jpg)
 
 Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a “[Sea and Air Parade of Sail](http://www.opsail2012virginia.com/participating-ships/parade-of-sail).”    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel via the Chesapeake Bay Bridge Tunnel, past Fort Monroe in Hampton, and into downtown Norfolk along the Elizabeth River.  [Click here for times and best viewing locations](http://www.opsail2012virginia.com/participating-ships/parade-of-sail). Click here for a [complete list of tall ships](http://www.opsail2012virginia.com/participating-ships/tall-ships) and here for a list of [naval vessels](http://www.opsail2012virginia.com/participating-ships/naval-ships).
 

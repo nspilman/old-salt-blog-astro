@@ -12,12 +12,12 @@ tags:
   - "Maltese flag"
   - "Norwegian frigate"
   - "Sola TS"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/sunkennorfrigate.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/sunkennorfrigate.jpg"
 author: "Rick Spilman"
 description: "On November 8, just after 4 AM, the Norwegian navy frigate, KNM Helge Ingstad, collided with the Maltese flag, Aframax tanker, Sola TS, near the Sture terminal in the Hjeltefjord near Bergen, Norway. The night was clear. Local traffic control and the tanker both communicated with the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/sunkennorfrigate.jpg)On November 8, just after 4 AM, the Norwegian navy frigate, [KNM *Helge Ingstad*](https://en.wikipedia.org/wiki/HNoMS_Helge_Ingstad_\(F313\)), collided with the Maltese flag, Aframax tanker, [*Sola TS*](https://www.marinetraffic.com/en/ais/details/ships/248020000), near the Sture terminal in the Hjeltefjord near Bergen, Norway. The night was clear. Local traffic control and the tanker both communicated with the frigate by radio. The frigate’s radar and AIS receiver were operational and yet the frigate cut across the bow of the tanker, resulting in the collision. The tanker was traveling at around 6 knots, while the frigate was [operating at 17-18 knots](https://worldmaritimenews.com/archives/265809/helge-ingstads-crew-were-unaware-sola-ts-was-a-moving-object/). Eight sailors aboard the frigate suffered minor injuries but the frigate subsequently sank.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/sunkennorfrigate.jpg)On November 8, just after 4 AM, the Norwegian navy frigate, [KNM *Helge Ingstad*](https://en.wikipedia.org/wiki/HNoMS_Helge_Ingstad_\(F313\)), collided with the Maltese flag, Aframax tanker, [*Sola TS*](https://www.marinetraffic.com/en/ais/details/ships/248020000), near the Sture terminal in the Hjeltefjord near Bergen, Norway. The night was clear. Local traffic control and the tanker both communicated with the frigate by radio. The frigate’s radar and AIS receiver were operational and yet the frigate cut across the bow of the tanker, resulting in the collision. The tanker was traveling at around 6 knots, while the frigate was [operating at 17-18 knots](https://worldmaritimenews.com/archives/265809/helge-ingstads-crew-were-unaware-sola-ts-was-a-moving-object/). Eight sailors aboard the frigate suffered minor injuries but the frigate subsequently sank.
 
 What happened? The [Accident Investigation Board Norway has issued a preliminary report](https://www.aibn.no/Marine/Investigations/18-968) answering at least some of the many questions surrounding the collision. 
 

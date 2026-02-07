@@ -12,12 +12,12 @@ tags:
   - "Diamond Princess"
   - "norovirus"
   - "Spirit of Discovery"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/spiritofdiscovery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/spiritofdiscovery.jpg"
 author: "Rick Spilman"
 description: "With all the attention given to attempting to prevent a COVID-19, there are even larger numbers of cruise ship passengers being struck down by a debilitating virus."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/spiritofdiscovery.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/spiritofdiscovery.jpg)
 
 Spirit of Discovery turned away at Gibraltar
 

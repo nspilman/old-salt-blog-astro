@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "NASA has recently published an analysis of the arctic operations of the icebreaker USCGC Healy. The Healy has been serving as a research vessel in Arctic water with more than 4,200 square feet of scientific laboratory space, numerous electronic sensor systems, … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/1Bow_Ice.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/07/1Bow_Ice.jpg)NASA has recently [published an analysis](http://blogs.nasa.gov/cm/blog/icescape/posts/post_1277811254653.html) of the arctic operations of the icebreaker *[USCGC Healy](http://www.uscg.mil/pacarea/cgcHealy/)*. The *Healy* has been serving as a research vessel in Arctic water with more than 4,200 square feet of scientific laboratory space, numerous electronic sensor systems, oceanographic winches, and accommodations for up to 50 scientists.
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/1Bow_Ice.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/1Bow_Ice.jpg)NASA has recently [published an analysis](http://blogs.nasa.gov/cm/blog/icescape/posts/post_1277811254653.html) of the arctic operations of the icebreaker *[USCGC Healy](http://www.uscg.mil/pacarea/cgcHealy/)*. The *Healy* has been serving as a research vessel in Arctic water with more than 4,200 square feet of scientific laboratory space, numerous electronic sensor systems, oceanographic winches, and accommodations for up to 50 scientists.
 
 [Icebreakers Smash Frozen Arctic Ocean in Surprising Ways](http://www.fastcompany.com/1665032/icebreaker-ships-cracking-the-arctic-ice-for-sciences-sake)  
   

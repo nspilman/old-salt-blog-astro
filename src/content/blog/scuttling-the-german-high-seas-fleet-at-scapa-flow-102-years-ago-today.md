@@ -11,12 +11,12 @@ tags:
   - "Scapa Flow"
   - "scuttle"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/scapaflowscuttle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/scapaflowscuttle.jpg"
 author: "Rick Spilman"
 description: "Following the Armistice of November 11, 1918, which ended fighting on land, sea, and air in World War I, the German High Seas Fleet of 74 ships was interned at Scapa Flow, in the Orkney Islands of Scotland. While the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/scapaflowscuttle.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/scapaflowscuttle.jpg)
 
 German battle Cruiser Derfflinger Image: Orkney Library and Archive
 

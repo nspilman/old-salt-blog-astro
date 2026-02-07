@@ -13,12 +13,12 @@ tags:
   - "Hornblower Group"
   - "LLC"
   - "Strategic Value Partners"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/americianqueen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/americianqueen.jpg"
 author: "Rick Spilman"
 description: "The Hornblower Group; a diversified ferry, cruise, marine hospitality, and services organization; has filed for Chapter 11 bankruptcy. The filing is expected to help cut the company’s debt load by $720 million. The company enters bankruptcy with assets of up … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/americianqueen.jpg)The [Hornblower Group](https://www.hornblowercorp.com/); a diversified ferry, cruise, marine hospitality, and services organization; has [filed for Chapter 11 bankruptcy](https://www.prnewswire.com/news-releases/hornblower-group-to-be-acquired-and-receive-significant-new-equity-investment-302067034.html). The filing is expected to help cut the company’s debt load by $720 million. The company enters bankruptcy with assets of up to $1 billion and liabilities of roughly $1.2 billion. Its debt load rose from $630 million in 2019 as the business tried to maintain liquidity during the pandemic.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/americianqueen.jpg)The [Hornblower Group](https://www.hornblowercorp.com/); a diversified ferry, cruise, marine hospitality, and services organization; has [filed for Chapter 11 bankruptcy](https://www.prnewswire.com/news-releases/hornblower-group-to-be-acquired-and-receive-significant-new-equity-investment-302067034.html). The filing is expected to help cut the company’s debt load by $720 million. The company enters bankruptcy with assets of up to $1 billion and liabilities of roughly $1.2 billion. Its debt load rose from $630 million in 2019 as the business tried to maintain liquidity during the pandemic.
 
 In the voluntary court-supervised and pre-arranged bankruptcy, [Strategic Value Partners](https://www.svpglobal.com/), LLC (SVP), a global alternative investment firm, will acquire majority ownership of Hornblower in a proposed debt-for-equity swap while providing a significant equity investment in the business.
 

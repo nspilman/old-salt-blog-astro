@@ -13,12 +13,12 @@ tags:
   - "Russia"
   - "Sevastopol"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/dolphin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphin.jpg"
 author: "Rick Spilman"
 description: "Satellite photographs show Russia has deployed trained dolphins at the entrance to the key Black Sea port of Sevastopol, home to Russia’s Black Sea naval fleet. The dolphins are likely to be trained to intercept Ukrainian divers attempting to sabotage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/dolphin.jpg)Satellite photographs show Russia has deployed trained dolphins at the entrance to the key Black Sea port of Sevastopol, home to Russia’s Black Sea naval fleet. The dolphins are likely to be trained to intercept Ukrainian divers attempting to sabotage Russian ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/dolphin.jpg)Satellite photographs show Russia has deployed trained dolphins at the entrance to the key Black Sea port of Sevastopol, home to Russia’s Black Sea naval fleet. The dolphins are likely to be trained to intercept Ukrainian divers attempting to sabotage Russian ships.
 
 Both the Russian and the US navies have a long history of training marine mammals for military use. During the Cold War, Russia used trained dolphins to protect ships as part of the Soviet Navy’s marine mammal program. Following the collapse of the Soviet Union, the [dolphins were transferred to Ukraine](https://www.oldsaltblog.com/2013/03/killer-dolphins-looking-for-love-or-maybe-not-a-look-at-military-marine-mammals/) but with Russia’s 2014 annexation of Crimea, the unit came under Russian Navy control.   
    

@@ -10,12 +10,12 @@ tags:
   - "drift ice"
   - "orcas"
   - "Taiji dolphin drive hunt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/orcapodice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/orcapodice.jpg"
 author: "Rick Spilman"
 description: "The good news is that a pod of orcas trapped by drift ice in waters off Japan’s northern island of Hokkaido appears to have successfully escaped. Earlier this week, drone footage showed the pod of around a dozen orcas trapped … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/orcapodice.jpg)The good news is that a pod of orcas trapped by drift ice in waters off Japan’s northern island of Hokkaido appears to have successfully escaped.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/orcapodice.jpg)The good news is that a pod of orcas trapped by drift ice in waters off Japan’s northern island of Hokkaido appears to have successfully escaped.
 
 Earlier this week, [drone footage showed the pod of around a dozen orcas](https://youtu.be/y5vcgE9UhC8?si=a3wthLAYNTjnDyiu) trapped by drift ice, The animals packed closely together and sticking their heads out of the water to breathe.
 
@@ -31,6 +31,6 @@ Orcas are the largest species in the dolphin family and while they are not inclu
 
 The 2009 documentary film [The Cove](https://en.wikipedia.org/wiki/The_Cove_\(film\)) drew international attention to the hunt. Taiji is the only town in Japan where drive hunting still takes place on a large scale.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/drivehuntquota.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/drivehuntquota.jpg)
 
 Thanks to [Alaric Bond](https://alaricbond.com/) for contributing to this post.

@@ -12,12 +12,12 @@ tags:
   - "gondola"
   - "Philippe Starck"
   - "Venetian gondolas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/dreamsofwinter-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/dreamsofwinter-1.jpg"
 author: "Rick Spilman"
 description: "This is a post about contrasts – new and old, fanciful and time-tested, inspiration and tradition. This is also a post about Venetian gondolas. The gondola, the iconic Venetian rowing boat, has been around since at least the 11th century. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/dreamsofwinter.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/dreamsofwinter.jpg)
 
 Starck’s Dream of Winter Gondola
 

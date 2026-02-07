@@ -11,12 +11,12 @@ tags:
   - "Connecticut"
   - "Stonington"
   - "War of 1812"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/stoningtoncannon1r.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/stoningtoncannon1r.jpg"
 author: "Rick Spilman"
 description: "We had a lovely stay in the old seaport village of Stonington, CT on our recent cruise. In honor of our visit, here is a repost from a few years ago about the Battle of Stonington that was fought two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/stoningtoncannon1r.jpg)We had a lovely stay in the old seaport village of Stonington, CT on our recent cruise. In honor of our visit, here is a repost from a few years ago about the [Battle of Stonington](https://www.stoningtonhistory.org/exhibits/battle-of-stonington/) that was fought two hundred and seven years ago next week. In a three-day battle, the militia at Stonington armed with only two cannons drove off a 100-gun four-ship Royal Navy flotilla during the War of 1812.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/stoningtoncannon1r.jpg)We had a lovely stay in the old seaport village of Stonington, CT on our recent cruise. In honor of our visit, here is a repost from a few years ago about the [Battle of Stonington](https://www.stoningtonhistory.org/exhibits/battle-of-stonington/) that was fought two hundred and seven years ago next week. In a three-day battle, the militia at Stonington armed with only two cannons drove off a 100-gun four-ship Royal Navy flotilla during the War of 1812.
 
 [Stonington, Connecticut](http://en.wikipedia.org/wiki/Stonington,_Connecticut), is a small village on the extreme eastern coast of the state.  In the center of the village, two 18 pound cannons are on display in the fittingly named Cannon Square.  On their tampions, blocking the ends of the cannon’s muzzles, is the date 1814, when the two cannons, manned by local militia, almost miraculously drove off a British force of four Royal Navy ships under the command of [Captain Sir Thomas Hardy](http://en.wikipedia.org/wiki/Captain_thomas_hardy), Nelson’s flag captain on HMS *Victory* at the Battle of Trafalgar.  The battle may not have been of any great strategic importance, but was one of a series of American victories in the last days of the War of 1812.
 

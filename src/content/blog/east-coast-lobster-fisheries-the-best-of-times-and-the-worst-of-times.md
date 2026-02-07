@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "These are strange days in the lobster fisheries. Depending on where you are on the US East Coast, lobster fishing either is in trouble or is booming.  Even where thing are going well, there are serious concerns about the future. Earlier this year, the Atlantic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/lobster.jpg)These are strange days in the lobster fisheries. Depending on where you are on the US East Coast, lobster fishing either is in trouble or is booming.  Even where thing are going well, there are serious concerns about the future.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/lobster.jpg)These are strange days in the lobster fisheries. Depending on where you are on the US East Coast, lobster fishing either is in trouble or is booming.  Even where thing are going well, there are serious concerns about the future.
 
 Earlier this year, the [Atlantic States Marine Fisheries Commission](http://www.asmfc.org/) proposed a five year ban on commercial and recreational  lobster fishing from Cape Cod to Virginia, due to depleted lobster stocks.
 

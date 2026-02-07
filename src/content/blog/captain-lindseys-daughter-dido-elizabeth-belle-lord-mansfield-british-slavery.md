@@ -12,12 +12,12 @@ tags:
   - "Captain John Lindsay"
   - "Dido Elizabeth Belle"
   - "William Murray"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/didliz.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/didliz.jpg"
 author: "Rick Spilman"
 description: "Around 1779, a portrait of two young women was commissioned by William Murray, 1st Earl of Mansfield. The women were Elizabeth Murray and her cousin Dido Elizabeth Belle. For its day, the painting was controversial, even shocking. Dido Elizabeth Belle was a dark-skinned mixed-race … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/didliz.jpg)Around 1779, a portrait of two young women was commissioned by [William Murray](https://en.wikipedia.org/wiki/William_Murray,_1st_Earl_of_Mansfield), 1st Earl of Mansfield. The women were [Elizabeth Murray](https://en.wikipedia.org/wiki/Lady_Elizabeth_Murray) and her cousin [Dido Elizabeth Belle](https://en.wikipedia.org/wiki/Dido_Elizabeth_Belle). For its day, the painting was controversial, even shocking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/didliz.jpg)Around 1779, a portrait of two young women was commissioned by [William Murray](https://en.wikipedia.org/wiki/William_Murray,_1st_Earl_of_Mansfield), 1st Earl of Mansfield. The women were [Elizabeth Murray](https://en.wikipedia.org/wiki/Lady_Elizabeth_Murray) and her cousin [Dido Elizabeth Belle](https://en.wikipedia.org/wiki/Dido_Elizabeth_Belle). For its day, the painting was controversial, even shocking.
 
 Dido Elizabeth Belle was a dark-skinned mixed-race woman while her cousin was a fair skinned English woman, and yet in the painting, they were represented as having equal status. Both are dressed in fine gowns. Typically in a painting of the period, servants or others of a lesser class would be painting lower in the composition. Belle and Murray are painted as equals, as indeed they were, at least in William Murray’s household.
 

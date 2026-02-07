@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This Thursday, the Working Harbor Committee is hosting a Hidden Harbor Tour of Port Newark. The tour is one is one of the best ways to see the mighty port hard at work. The tour features guest speakers Mitch Waxman of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/hiddenharbornewark.jpg)This Thursday, the Working Harbor Committee is hosting a Hidden Harbor Tour of Port Newark. The tour is one is one of the best ways to see the mighty port hard at work. The tour features guest speakers Mitch Waxman of [The Newtown Pentacle;](https://newtownpentacle.com/) Bill Miller, renowned [waterfront historian](http://www.billmilleratsea.com/) and author; ND Gordon Cooper, Chair of THE WHC and HHH Maritime Consulting.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/hiddenharbornewark.jpg)This Thursday, the Working Harbor Committee is hosting a Hidden Harbor Tour of Port Newark. The tour is one is one of the best ways to see the mighty port hard at work. The tour features guest speakers Mitch Waxman of [The Newtown Pentacle;](https://newtownpentacle.com/) Bill Miller, renowned [waterfront historian](http://www.billmilleratsea.com/) and author; ND Gordon Cooper, Chair of THE WHC and HHH Maritime Consulting.
 
 [More information from their press release](http://workingharbor.org/portnewarkmay17.pdf):  For an exciting adventure, go behind the scenes of the bustling Port of NY & NJ on our Hidden Harbor Tour of Port Newark!
 

@@ -10,7 +10,7 @@ categories:
 tags:
   - "clipper ship"
   - "Cutty Sark"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/cuttysark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/cuttysark.jpg"
 author: "Rick Spilman"
 description: "On Monday, November 22, 1869, the composite clipper ship Cutty Sark, built for the Jock Willis Shipping, Line was launched from the Scott & Linton shipyard on the River Leven in Scotland. The Cutty Sark, one of the last tea … Continue reading &rarr;"
 ---

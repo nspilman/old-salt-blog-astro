@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Last February we posted about a \"junkraft\" built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2009/08/trash-votex-animation.jpg)](http://oceans.greenpeace.org/en/the-expedition/news/trashing-our-oceans/ocean_pollution_animation)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/trash-votex-animation.jpg)](http://oceans.greenpeace.org/en/the-expedition/news/trashing-our-oceans/ocean_pollution_animation)
 
 Click to animate
 

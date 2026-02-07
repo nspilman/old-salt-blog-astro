@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Kalmar Nyckel crew readies for spring sailing You can’t cobble up in a book all of what Captain Lauren Morgens and the 20-plus crew members who will be traveling abroad the Kalmar Nyckel for several months have learned from being … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/08/kn_ship_image.jpg)[Kalmar Nyckel crew readies for spring sailing](http://www.delawareonline.com/article/20100328/NEWS/100328010)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/kn_ship_image.jpg)[Kalmar Nyckel crew readies for spring sailing](http://www.delawareonline.com/article/20100328/NEWS/100328010)
 
 You can’t cobble up in a book all of what Captain Lauren Morgens and the 20-plus crew members who will be traveling abroad the *[Kalmar Nyckel](http://www.kalmarnyckel.org/default.asp)* for several months have learned from being on the ship.  
   

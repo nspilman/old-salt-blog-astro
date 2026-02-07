@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Last week, a paddler in a kayak race on the Missouri River was hit on the side of his face by a 20-30 pound jumping carp, almost causing him to capsize. Fortunately he was not seriously injured but had to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/0827carp.jpg)[Last week, a paddler in a kayak race on the Missouri River](http://news.nationalpost.com/2010/08/27/flying-carp-hits-racing-kayaker-in-the-head/) was hit on the side of his face by a 20-30 pound jumping carp, almost causing him to capsize. Fortunately he was not seriously injured but had to retire from the race due to a significant headache.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/0827carp.jpg)[Last week, a paddler in a kayak race on the Missouri River](http://news.nationalpost.com/2010/08/27/flying-carp-hits-racing-kayaker-in-the-head/) was hit on the side of his face by a 20-30 pound jumping carp, almost causing him to capsize. Fortunately he was not seriously injured but had to retire from the race due to a significant headache.
 
 [Asian big head and silver carp](http://en.wikipedia.org/wiki/Asian_carps) were first brought to the southern United States back in the 1970s to clean catfish farms, and they have made their way north through the Mississippi River basin spreading to the Missouri River and the Wabash Rivers,  also invading Canadian waters, particularly the Great Lakes.  Not only are they a threat to native fish, but have proven to be dangerous to recreational boater.  Silver carp, in particular, are notorious for jumping when excited.
 

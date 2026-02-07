@@ -6,12 +6,12 @@ excerpt: "Chad Kālepa Baybayan, a revered Hawaiian navigator and captain of the
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/ChadBaybayan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/ChadBaybayan.jpg"
 author: "Rick Spilman"
 description: "Chad Kālepa Baybayan, a revered Hawaiian navigator and captain of the Polynesian voyaging canoe Hōkūleʻa, died on April 8 while visiting family in Seattle. He was 64. His daughter Kala Tanaka said the cause was a heart attack. Chad Kalepa … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/ChadBaybayan.jpg)Chad Kālepa Baybayan, a revered Hawaiian navigator and captain of the Polynesian voyaging canoe *[Hōkūleʻa](http://www.hokulea.com/voyages/our-story/)*, died on April 8 while visiting family in Seattle. He was 64. His daughter Kala Tanaka said the cause was a heart attack.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/ChadBaybayan.jpg)Chad Kālepa Baybayan, a revered Hawaiian navigator and captain of the Polynesian voyaging canoe *[Hōkūleʻa](http://www.hokulea.com/voyages/our-story/)*, died on April 8 while visiting family in Seattle. He was 64. His daughter Kala Tanaka said the cause was a heart attack.
 
 Chad Kalepa Baybayan, part of the Hawaiian renaissance of Polynesian voyaging, was [one of only five Hawaiians](https://www.staradvertiser.com/2021/04/09/breaking-news/master-navigator-chad-kalepa-baybayan-dies/) along with 11 Micronesians initiated in 2007 into Pwo, a 2,000-year-old society of deep-sea navigators, by Master Navigator Mau Piailug of Satawal.
 

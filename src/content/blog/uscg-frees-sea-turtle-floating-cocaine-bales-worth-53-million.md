@@ -10,7 +10,7 @@ categories:
 tags:
   - "cocaine"
   - "sea turtle"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/turtlecoke.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/turtlecoke.jpg"
 author: "Rick Spilman"
 description: "Up to 80% of illicit drugs enter the US by maritime routes. (We recently posted about the ongoing battle against cocaine being imported into the US by narco submarines.) Here is another example, although it does not involve submersibles. It … Continue reading &rarr;"
 ---

@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Pirate Latitudes by Micheal Crichton, published a year after his death, is a romp. It is full of swashbuckling action and completely familiar characters. There is a bold captain, who is either a privateer or a pirate; several fair and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/piratelatitudes.jpg) *[Pirate Latitudes](http://www.amazon.com/gp/product/0061929409?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061929409)* by Micheal Crichton, published a year after his death, is a romp. It is full of swashbuckling action and completely familiar characters. There is a bold captain, who is either a privateer or a pirate; several fair and comely maidens of high birth and low; and a band of adventurers each with special skills and powers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/piratelatitudes.jpg) *[Pirate Latitudes](http://www.amazon.com/gp/product/0061929409?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061929409)* by Micheal Crichton, published a year after his death, is a romp. It is full of swashbuckling action and completely familiar characters. There is a bold captain, who is either a privateer or a pirate; several fair and comely maidens of high birth and low; and a band of adventurers each with special skills and powers.
 
 The rough and tumble hero, Captain Charles Hunter, sets off to capture a Spanish galleon laden with treasure, at anchor under the guns of an impregnable fortress.  
   

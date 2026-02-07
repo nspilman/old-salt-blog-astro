@@ -11,12 +11,12 @@ tags:
   - "cruise"
   - "Royal Caribbean"
   - "sexual assault"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/rclship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/rclship.jpg"
 author: "Rick Spilman"
 description: "Is this an isolated case or is sexual assault on cruise ships a chronic problem? According to US government data, sex crimes aboard cruise ships far outweigh any other major offense on board."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/rclship.jpg)A 15-year-old girl was allegedly plied with liquor aboard a Royal Caribbean ship by a group of men, before being taken to a cabin and gang-raped. She was on a seven-day cruise with her two sisters and grandparents beginning the day after Christmas in 2015. She alleges that everything but the rape took place in full view of crew and security cameras, yet nobody intervened to prevent the men from buying alcohol for her or leading her away to the cabin.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/rclship.jpg)A 15-year-old girl was allegedly plied with liquor aboard a Royal Caribbean ship by a group of men, before being taken to a cabin and gang-raped. She was on a seven-day cruise with her two sisters and grandparents beginning the day after Christmas in 2015. She alleges that everything but the rape took place in full view of crew and security cameras, yet nobody intervened to prevent the men from buying alcohol for her or leading her away to the cabin.
 
 She alleges that on the first night, in full view of Royal Caribbean crew, a group of men bought multiple alcoholic beverages for her at public bars until she became “highly intoxicated,” “obviously drunk, disoriented, and unstable,” and “obviously incapacitated.” That group of around a dozen men then took her to a cabin where they “brutally assaulted and gang-raped her according to the girl’s claim.
 

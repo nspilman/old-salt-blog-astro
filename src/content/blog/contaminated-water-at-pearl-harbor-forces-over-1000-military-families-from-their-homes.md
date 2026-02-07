@@ -6,12 +6,12 @@ excerpt: "On the 80th anniversary of the attack on Pearl Harbor, over 1,000 mili
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/redhill.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill.jpg"
 author: "Rick Spilman"
 description: "On the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families have been forced from their homes and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II era, underground fuel storage … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/redhill.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/redhill.jpg)
 
 Red Hill Bulk Fuel Storage Facility
 

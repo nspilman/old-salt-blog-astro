@@ -9,12 +9,12 @@ tags:
   - "Combi-Dock III"
   - "Hamburg"
   - "Peking"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/peking4.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/peking4.jpg"
 author: "Rick Spilman"
 description: "I heard this morning that the heavy lift ship Combi Dock III has entered New York harbor.  (Thanks Daniel Pine for the heads-up.) The ship is reported to be the heavy-lift chartered to carry the windjammer Peking back to her home … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/peking4.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/peking4.jpg)
 
 Peking before downrigging
 

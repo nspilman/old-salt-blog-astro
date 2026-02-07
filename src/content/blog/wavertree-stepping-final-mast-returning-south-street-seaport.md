@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Forty six years ago yesterday, the  full-rigged iron sailing ship Wavertree, arrived in South Street Seaport after being towed from Argentina. The 1889 built windjammer had languished as a sand barge in Argentina for decades, before being purchased and partially restored … Continue reading &rarr;"
 ---
 
-![wavertree2](http://www.oldsaltblog.com/wp-content/uploads/2016/08/wavertree2.jpg)
+![wavertree2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/wavertree2.jpg)
 
 Photo : John Wisniewski
 

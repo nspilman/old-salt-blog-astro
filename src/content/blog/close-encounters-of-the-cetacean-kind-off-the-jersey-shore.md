@@ -10,12 +10,12 @@ tags:
   - "fishing boat"
   - "Jersey Shore"
   - "whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/whalecapsize.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/whalecapsize.jpg"
 author: "Rick Spilman"
 description: "There have been several recent encounters between boats and whales. Fortunately, neither whale nor humans appear to have been injured. The most serious took place off the Jersey Shore. Two fishermen in a 20-foot boat were fishing approximately one mile off of Deal, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/whalecapsize.jpg)There have been several recent encounters between boats and whales. Fortunately, neither whale nor humans appear to have been injured. The most serious took place off the Jersey Shore.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/whalecapsize.jpg)There have been several recent encounters between boats and whales. Fortunately, neither whale nor humans appear to have been injured. The most serious took place off the Jersey Shore.
 
 Two fishermen in a 20-foot boat were fishing approximately one mile off of Deal, Monmouth County when they had a close encounter with a whale. Jonathan Swingle, the boat’s captain, told [ABC 6 News](https://6abc.com/pets-animals/whale-flips-over-boat-at-the-jersey-shore/3980029/) what happened: “So, we’re talking a 30 to 40-foot whale, gotta weigh more than 20 tons. 
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Has a reliance on GPS and other electronic navigational aids lured navigators into a sense of over confidence?"
 ---
 
-![Photo: http://www.sailingscuttlebutt.com/](http://www.oldsaltblog.com/wp-content/uploads/2014/12/vestaswind.jpg)
+![Photo: http://www.sailingscuttlebutt.com/](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/vestaswind.jpg)
 
 Photo: http://www.sailingscuttlebutt.com/
 

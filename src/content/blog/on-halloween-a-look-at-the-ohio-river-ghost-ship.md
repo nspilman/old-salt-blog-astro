@@ -15,12 +15,12 @@ tags:
   - "Sachem"
   - "Sightseer"
   - "USS Phenakite"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/orghostship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/orghostship.jpg"
 author: "Rick Spilman"
 description: "The so-called Ohio River ghost ship does not seem to be really haunted, except perhaps by a long and illustrious past. A vessel of many names, she has been known as Celt, Sachem, USS Phenakite, Sightseer, and Circle Line V. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/orghostship.jpg)The so-called [Ohio River ghost ship](https://maps.roadtrippers.com/us/petersburg-ky/points-of-interest/abandoned-ghost-ship) does not seem to be really haunted, except perhaps by a long and illustrious past. A vessel of many names, she has been known as *Celt*, *Sachem*, USS *Phenakite*, *Sightseer*, and *Circle Line V.* Built in 1902 as a rich man’s yacht, she served as a Navy anti-submarine patrol craft in both world wars, as a laboratory for Thomas Edison, as a luxury fishing boat, and New York City tour boat. She is said to have been visited by two presidents, appeared in several movies and served as a set for a Madonna music video. She is estimated to have carried around 3 million passengers in her long working life.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/orghostship.jpg)The so-called [Ohio River ghost ship](https://maps.roadtrippers.com/us/petersburg-ky/points-of-interest/abandoned-ghost-ship) does not seem to be really haunted, except perhaps by a long and illustrious past. A vessel of many names, she has been known as *Celt*, *Sachem*, USS *Phenakite*, *Sightseer*, and *Circle Line V.* Built in 1902 as a rich man’s yacht, she served as a Navy anti-submarine patrol craft in both world wars, as a laboratory for Thomas Edison, as a luxury fishing boat, and New York City tour boat. She is said to have been visited by two presidents, appeared in several movies and served as a set for a Madonna music video. She is estimated to have carried around 3 million passengers in her long working life.
 
 Rumor had it that she was scrapped in 1984, but she turned up again in a creek off the Ohio River, in Petersburg, Kentucky, about 25 miles downstream from Cincinnati. She has apparently been abandoned there since around 1987. Dubbed the “ghost ship,” she is a popular destination for kayakers.
 

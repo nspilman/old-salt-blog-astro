@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The University of Hawaii research vessel, Ka’imikai-o-Kanaloa, set sail earlier this month to studying the impact of radiation releases in the waters off Japan’s crippled Fukushima Daiichi nuclear plant. Scientists on UH research ship study impact of radiation releases … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/14901272_BG1.jpg)The University of Hawaii research vessel, *[Ka’imikai-o-Kanaloa](http://oceanexplorer.noaa.gov/technology/vessels/kok/kok.html),* set sail earlier this month to studying the impact of radiation releases in the waters off Japan’s crippled Fukushima Daiichi nuclear plant.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/14901272_BG1.jpg)The University of Hawaii research vessel, *[Ka’imikai-o-Kanaloa](http://oceanexplorer.noaa.gov/technology/vessels/kok/kok.html),* set sail earlier this month to studying the impact of radiation releases in the waters off Japan’s crippled Fukushima Daiichi nuclear plant.
 
 [Scientists on UH research ship study impact of radiation releases](http://www.hawaiinewsnow.com/story/14901272/scientists-on-uh-research-ship-study-impact-of-radiation-releases?hpt=us_bn7)  
   

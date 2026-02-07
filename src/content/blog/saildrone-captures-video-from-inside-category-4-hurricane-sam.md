@@ -14,12 +14,12 @@ tags:
   - "Saildrone"
   - "Saildrone Explorer"
   - "SD 1045"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/saildrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/saildrone.jpg"
 author: "Rick Spilman"
 description: "Saildrone Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released the first video footage gathered by an uncrewed surface vehicle (USV) from inside a major hurricane barreling across the Atlantic Ocean. From the Saidrone announcement: The Saildrone Explorer … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/saildrone.jpg)Saildrone Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released the first video footage gathered by an uncrewed surface vehicle (USV) from inside a major hurricane barreling across the Atlantic Ocean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/saildrone.jpg)Saildrone Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released the first video footage gathered by an uncrewed surface vehicle (USV) from inside a major hurricane barreling across the Atlantic Ocean.
 
 From the [Saidrone announcement](https://www.saildrone.com/press-release/ocean-drone-captures-video-inside-category-4-hurricane):
 

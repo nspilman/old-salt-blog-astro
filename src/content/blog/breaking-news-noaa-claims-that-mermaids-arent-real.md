@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that \"no evidence of aquatic humanoids has ever been found.\"  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/mermaid11.jpg)The National Oceanic and Atmospheric Administration has taken the bold step of announcing that “[no evidence of aquatic humanoids has ever been found](http://oceanservice.noaa.gov/facts/mermaids.html).”  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else can one explain Donald Trump?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/mermaid11.jpg)The National Oceanic and Atmospheric Administration has taken the bold step of announcing that “[no evidence of aquatic humanoids has ever been found](http://oceanservice.noaa.gov/facts/mermaids.html).”  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else can one explain Donald Trump?
 
 All joking aside, why did NOAA, a government agency with presumably better things to do, find it necessary to make such an announcement?  
   

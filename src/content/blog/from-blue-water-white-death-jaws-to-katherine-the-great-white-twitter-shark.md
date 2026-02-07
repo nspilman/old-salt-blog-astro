@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In the 40 years since jaws, great white sharks have gone from being feared predators to becoming tourist attractions and internet stars."
 ---
 
-![Katharine, Celebrity Great White Shark](http://www.oldsaltblog.com/wp-content/uploads/2014/09/katharine.jpg)
+![Katharine, Celebrity Great White Shark](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/katharine.jpg)
 
 Katharine, Celebrity Great White Shark
 

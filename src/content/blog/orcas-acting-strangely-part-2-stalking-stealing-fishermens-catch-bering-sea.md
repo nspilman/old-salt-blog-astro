@@ -11,12 +11,12 @@ tags:
   - "halibut"
   - "killer whale"
   - "Orca"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/orcabreaching.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/orcabreaching.jpg"
 author: "Rick Spilman"
 description: "Since at least the 1960s there have been reports of orcas, also known as killer whales, stealing fish, particularly halibut, caught by fishing boats operating in the Bering Sea. Recently, the problem seems to be getting much worse. The Alaska Dispatch … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/orcabreaching.jpg)Since at least the 1960s there have been reports of [orcas, also known as killer whales, stealing fish](https://www.afsc.noaa.gov/REFM/Stocks/plan_team/2016sablefishCIE/Papers_for_website/2013%20Peterson%20Killer%20whale.pdf), particularly halibut, caught by fishing boats operating in the Bering Sea. Recently, the problem seems to be getting much worse.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/orcabreaching.jpg)Since at least the 1960s there have been reports of [orcas, also known as killer whales, stealing fish](https://www.afsc.noaa.gov/REFM/Stocks/plan_team/2016sablefishCIE/Papers_for_website/2013%20Peterson%20Killer%20whale.pdf), particularly halibut, caught by fishing boats operating in the Bering Sea. Recently, the problem seems to be getting much worse.
 
 The [Alaska Dispatch News](https://www.adn.com/alaska-news/2017/06/18/in-a-bering-sea-battle-of-killer-whales-vs-fishermen-the-orcas-are-winning/) reports:
 

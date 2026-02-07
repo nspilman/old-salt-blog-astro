@@ -13,12 +13,12 @@ tags:
   - "Global Dream II"
   - "MV Werften"
   - "Wismar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/goldendream.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/goldendream.jpg"
 author: "Rick Spilman"
 description: "A cruise ship that would have ranked as one of the world’s largest is going straight from the shipyard building ways to the scrappers.  Cruise and resort business operator, Genting HK, contracted with its own shipyard in 2016 to build … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/goldendream.jpg)A cruise ship that would have ranked as one of the world’s largest is going straight from the shipyard building ways to the scrappers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/goldendream.jpg)A cruise ship that would have ranked as one of the world’s largest is going straight from the shipyard building ways to the scrappers. 
 
 Cruise and resort business operator, Genting HK, contracted with its own shipyard in 2016 to build [two 9,000-passenger cruise ships.](https://en.wikipedia.org/wiki/Global-class_cruise_ship) The ships were to be the world’s largest, by number of passengers if not quite in tonnage. 
 

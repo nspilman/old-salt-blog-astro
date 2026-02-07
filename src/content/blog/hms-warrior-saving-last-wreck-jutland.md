@@ -11,12 +11,12 @@ categories:
 tags:
   - "HMS Warrior"
   - "Jutland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/hmswarriorjutland200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/hmswarriorjutland200.jpg"
 author: "Rick Spilman"
 description: "On August 24, 2016, an Anglo-Danish team found the wreck of armored cruiser HMS Warrior in the northern North Sea in 83 meters of water where it sank in 1916 following the Battle of Jutland in 1916. HMS Warrior is … Continue reading &rarr;"
 ---
 
-![hmswarriorjutland](http://www.oldsaltblog.com/wp-content/uploads/2016/10/hmswarriorjutland.jpg)On August 24, 2016, an Anglo-Danish team found the wreck of armored cruiser [HMS *Warrior*](https://en.wikipedia.org/wiki/HMS_Warrior_\(1905\)) in the northern North Sea in 83 meters of water where it sank in 1916 following the [Battle of Jutland](https://en.wikipedia.org/wiki/Battle_of_Jutland) in 1916. HMS *Warrior* is last wreck of the ships sunk during from the Battle of Jutland to be located. Now, the challenge is to protect the wreck of the *Warrior* and other ships from illegal metal scavengers who are believed to have pillaged up to half of the wrecks from the battle. Based on Remotely Operated Vehicle (ROV) video footage, (see below) HMS *Warrior* remains largely intact and untouched, overturned on the ocean floor.
+![hmswarriorjutland](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/hmswarriorjutland.jpg)On August 24, 2016, an Anglo-Danish team found the wreck of armored cruiser [HMS *Warrior*](https://en.wikipedia.org/wiki/HMS_Warrior_\(1905\)) in the northern North Sea in 83 meters of water where it sank in 1916 following the [Battle of Jutland](https://en.wikipedia.org/wiki/Battle_of_Jutland) in 1916. HMS *Warrior* is last wreck of the ships sunk during from the Battle of Jutland to be located. Now, the challenge is to protect the wreck of the *Warrior* and other ships from illegal metal scavengers who are believed to have pillaged up to half of the wrecks from the battle. Based on Remotely Operated Vehicle (ROV) video footage, (see below) HMS *Warrior* remains largely intact and untouched, overturned on the ocean floor.
 
 HMS *Warrior* was a 505′ long armored cruiser commissioned in 1906. The ship was heavily damaged by the German shells during the battle. After withdrawing to the west, on fire and flooding, HMS Warrior was taken under tow by the seaplane tender, [HMS *Engadine*](https://en.wikipedia.org/wiki/HMS_Engadine_\(1911\)), who took off her 675 surviving crew. Despite the best efforts to get her to port, *Warrior* sank on June 1, 1916.
 

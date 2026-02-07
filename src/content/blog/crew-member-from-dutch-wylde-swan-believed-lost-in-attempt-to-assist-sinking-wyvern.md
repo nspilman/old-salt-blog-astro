@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "In a tragic twist, the engineer from the Dutch topsail schooner Wylde Swan is presumed to have drowned while attempting to assist the sinking Norwegian ketch Wyvern. When the Wyvern began taking on water while sailing in the Baltic in the … Continue reading &rarr;"
 ---
 
-![The “Wyvern” just before it sank, taken by the Swedish helicopter rescue crew. PHOTO: Sjöfartverket](http://www.oldsaltblog.com/wp-content/uploads/2013/07/Wyvernsinking.jpg)
+![The “Wyvern” just before it sank, taken by the Swedish helicopter rescue crew. PHOTO: Sjöfartverket](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/Wyvernsinking.jpg)
 
 The “Wyvern” just before it sank, taken by the Swedish helicopter rescue crew. PHOTO: Sjöfartverket
 

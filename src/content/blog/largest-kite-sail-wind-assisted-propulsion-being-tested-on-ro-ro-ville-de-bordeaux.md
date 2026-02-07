@@ -15,12 +15,12 @@ tags:
   - "Seawing"
   - "Ville de Bordeaux"
   - "wind-assisted propulsion"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/airseas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/airseas.jpg"
 author: "Rick Spilman"
 description: "Kites may be returning to provide wind-assisted propulsion to commercial ships. In January of next year, the 5,200 dwt Ro/Ro Ville de Bordeaux, chartered by Airbus and operated by Louis Dreyfus Armateurs, will begin testing a 500-square-meter half-size demonstration version … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/airseas.jpg)Kites may be returning to provide wind-assisted propulsion to commercial ships. In January of next year, the 5,200 dwt [Ro/Ro *Ville de Bordeaux*](https://www.vesselfinder.com/vessels/VILLE-DE-BORDEAUX-IMO-9270842-MMSI-228084000), chartered by Airbus and operated by Louis Dreyfus Armateurs, will begin testing a 500-square-meter half-size demonstration version of a [Seawing](https://www.airseas.com/seawing) automated kite on its monthly transatlantic journeys. The intent is to conduct six months of sea trials and testing ahead of its full operation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/airseas.jpg)Kites may be returning to provide wind-assisted propulsion to commercial ships. In January of next year, the 5,200 dwt [Ro/Ro *Ville de Bordeaux*](https://www.vesselfinder.com/vessels/VILLE-DE-BORDEAUX-IMO-9270842-MMSI-228084000), chartered by Airbus and operated by Louis Dreyfus Armateurs, will begin testing a 500-square-meter half-size demonstration version of a [Seawing](https://www.airseas.com/seawing) automated kite on its monthly transatlantic journeys. The intent is to conduct six months of sea trials and testing ahead of its full operation.
 
 [Airseas](https://www.airseas.com/), the firm that developed the Seawing automated kite system, has received formal approval from Bureau Veritas to begin operations at sea, following three years of close collaboration on the development and early trials of the Seawing. 
 

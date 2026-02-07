@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Divers have found a huge \"haul\" of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/mingporc.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/mingporc.jpg)
 
 Divers have found a huge “haul” of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in stacks and largely intact.  Recovering gold  or silver from a ship wreck is one thing.  Porcelain,  in a shipwreck underwater for over 400 years, is something else entirely.  The Ming dynasty porcelain is said to be worth approximately £43million.
 

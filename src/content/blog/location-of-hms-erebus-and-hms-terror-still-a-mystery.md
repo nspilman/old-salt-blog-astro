@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "For the third year of a three year program, Parks Canada archaeologists have failed in their attempt at finding the wrecks of the HMS Erebus and HMS Terror.  This year they searched an area west of King William Island, where Sir John Franklin and his expedition became … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/shipsfranklin.jpg)For the third year of a three year program, Parks Canada archaeologists have failed in their attempt at finding the wrecks of the [HMS *Erebus*](http://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) and [HMS *Terror*](http://en.wikipedia.org/wiki/HMS_Terror_\(1813\)).  This year they searched an area west of King William Island, where [Sir John Franklin](http://en.wikipedia.org/wiki/Franklin%27s_lost_expedition) and his expedition became stranded in ice.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipsfranklin.jpg)For the third year of a three year program, Parks Canada archaeologists have failed in their attempt at finding the wrecks of the [HMS *Erebus*](http://en.wikipedia.org/wiki/HMS_Erebus_\(1826\)) and [HMS *Terror*](http://en.wikipedia.org/wiki/HMS_Terror_\(1813\)).  This year they searched an area west of King William Island, where [Sir John Franklin](http://en.wikipedia.org/wiki/Franklin%27s_lost_expedition) and his expedition became stranded in ice.
 
 [Franklin ships remain unfound](http://www.cbc.ca/news/technology/story/2011/08/26/nunavut-franklin-ships.html)  
   

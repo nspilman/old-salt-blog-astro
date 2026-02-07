@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Perhaps the best news for the stranded passengers on the disabled cruise ship, Carnival Splendor, is that the flush toilets aboard are back in service and that the ship is proceeding slowly under tow to the mainland.   Still lacking refrigeration on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/helicoptersplendor.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/helicoptersplendor.jpg)
 
 Perhaps the best news for the stranded passengers on the disabled cruise ship, *[Carnival Splendor](http://www.carnival.com/cms/faq/default.aspx?faq=sp11072010)*, is that the flush toilets aboard are back in service and that the ship is proceeding slowly under tow to the mainland.   Still lacking refrigeration on the ship, the U.S. Coast Guard and the U.S. Navy have delivered, by helicopter cases, Spam, boxes of croissants and other easy-to-transport food and supplies.  The supplies are being airlifted to the ship on a [Navy Seahawk helicopter](http://en.wikipedia.org/wiki/Sikorsky_SH-60_Seahawk) from the aircraft carrier, *[USS Ronald Reagan](http://www.navy.mil/local/cvn76/)*, which arrived on the scene on Tuesday.
 

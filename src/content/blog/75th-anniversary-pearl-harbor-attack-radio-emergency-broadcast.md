@@ -6,7 +6,7 @@ excerpt: "Seventy five years ago today. Pearl Harbor Attack EMERGENCY RADIO BROA
 categories:
   - "History"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/phbroadcast.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/phbroadcast.jpg"
 author: "Rick Spilman"
 description: "Seventy five years ago today. Pearl Harbor Attack EMERGENCY RADIO BROADCAST announcement … Continue reading &rarr;"
 ---

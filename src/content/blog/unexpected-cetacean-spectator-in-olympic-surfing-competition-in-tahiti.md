@@ -11,12 +11,12 @@ tags:
   - "French Polynesia"
   - "Tahiti"
   - "whale breaching"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/surfingwhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/surfingwhale.jpg"
 author: "Rick Spilman"
 description: "Most of the 2024 Summer Olympic Games have been held in Paris. The surfing competition, however, took place some 9,800 miles from Paris in the French Polynesian island of Tahiti.  NPR reports that while Brazil’s Tatiana Weston-Webb and Costa Rica’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/surfingwhale.jpg)Most of the 2024 Summer Olympic Games have been held in Paris. The surfing competition, however, took place some 9,800 miles from Paris in the French Polynesian island of Tahiti. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/surfingwhale.jpg)Most of the 2024 Summer Olympic Games have been held in Paris. The surfing competition, however, took place some 9,800 miles from Paris in the French Polynesian island of Tahiti. 
 
 [NPR](https://www.npr.org/2024/08/06/nx-s1-5065479/olympics-surfing-kauli-vaast-caroline-marks-whale) reports that while Brazil’s Tatiana Weston-Webb and Costa Rica’s Brisa Hennessy were waiting for waves in the surfing semifinals, they spotted an unexpected spectator — a humpback whale breaching not far offshore.
 

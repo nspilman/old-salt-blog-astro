@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The tug Pegasus was built in 1907.  Her last major refit was in 1953 when her steam engine was removed and a diesel engine installed.   Tonight the Pegasus Preservation Project is celebrating the 10th year of restoration of the Tug … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/pegasus1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pegasus1.jpg)
 
 Photo: Will van Dorp
 

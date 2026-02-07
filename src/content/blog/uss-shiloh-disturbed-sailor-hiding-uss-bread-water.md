@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Back in June, we posted about a 50-hour, 5,500 square-mile man-overboard search across the Philippine Sea on the USS Shiloh.  The search effort also included Japanese Coast Guard and naval forces. The sailor who was thought to have fallen overboard showed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/shiloh.jpg)Back in June, [we posted about a 50-hour, 5,500 square-mile man-overboard search](http://www.oldsaltblog.com/2017/06/sailor-believed-lost-overboard-uss-shiloh-found-hiding-engine-room/) across the Philippine Sea on the USS *Shiloh.*  The search effort also included Japanese Coast Guard and naval forces. The sailor who was thought to have fallen overboard showed up after hiding in one of the ship’s engine room access trunks for a week.  Recently, the *Navy Times* posted the result of an investigation into the incident, [How Peter Mims spent a week hiding in a warship’s engine room](https://www.navytimes.com/news/your-navy/2017/12/30/exclusive-how-peter-mims-spent-a-week-hiding-in-a-warships-engine-room/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/shiloh.jpg)Back in June, [we posted about a 50-hour, 5,500 square-mile man-overboard search](http://www.oldsaltblog.com/2017/06/sailor-believed-lost-overboard-uss-shiloh-found-hiding-engine-room/) across the Philippine Sea on the USS *Shiloh.*  The search effort also included Japanese Coast Guard and naval forces. The sailor who was thought to have fallen overboard showed up after hiding in one of the ship’s engine room access trunks for a week.  Recently, the *Navy Times* posted the result of an investigation into the incident, [How Peter Mims spent a week hiding in a warship’s engine room](https://www.navytimes.com/news/your-navy/2017/12/30/exclusive-how-peter-mims-spent-a-week-hiding-in-a-warships-engine-room/). 
 
 On first reading, the story appears to be that of a young possibly mentally disturbed young sailor who made a series of bizarre choices. Looking just slightly more in depth, it is also clear that much else was wrong aboard the Ticonderoga-class cruiser, which earned the nickname, [USS “Bread and Water.](https://www.navytimes.com/news/your-navy/2017/10/09/uss-bread-and-water-punishment-loomed-over-a-demoralized-crew/)” 
 
@@ -34,4 +34,4 @@ After the recent series of collisions and accidents in the 7th fleet, which left
 
 [Capt. Robert “Bo” Johns relieved Capt. Adam Aycock](http://www.navy.mil/submit/display.asp?story_id=102219) as the commanding officer of the USS Shiloh (CG 67) on August 30, 2017.  Captain Aycock was sent to the U.S. Naval War College for his next tour. 
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/navymorale.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/navymorale.jpg)

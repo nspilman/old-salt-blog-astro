@@ -13,7 +13,7 @@ tags:
   - "crane"
   - "Cruise/Ferry"
   - "Excellent"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/excellentferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/excellentferry.jpg"
 author: "Rick Spilman"
 description: "When the cruise/ferry Excellent docked in Barcelona, her arrival was less than, shall we say, excellent. Yesterday, at around 8AM, local time, the 663′ long ship was caught in high winds. While waiting for additional tugs, the ship was blown … Continue reading &rarr;"
 ---

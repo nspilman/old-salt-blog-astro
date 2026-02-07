@@ -11,12 +11,12 @@ tags:
   - "Eagle Hospitality"
   - "Long beach"
   - "Queen Mary"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg"
 author: "Rick Spilman"
 description: "The operator of the ex-Cunard Queen Mary has filed for bankruptcy raising concerns about the future of the converted luxury liner that has served as a tourist attraction and hotel in Long Beach, CA since 1972. The converted ship is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/queenmary.jpg)The operator of the ex-Cunard [Queen Mary](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62) has filed for bankruptcy raising concerns about the future of the converted luxury liner that has served as a tourist attraction and hotel in Long Beach, CA since 1972. The converted ship is owned by the City of Long Beach and has been managed by [Eagle Hospitality](https://eagleht.com/), ex-Urban Commons, since 2016.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/queenmary.jpg)The operator of the ex-Cunard [Queen Mary](https://en.wikipedia.org/wiki/RMS_Queen_Mary#cite_note-Kelly_Puente-62) has filed for bankruptcy raising concerns about the future of the converted luxury liner that has served as a tourist attraction and hotel in Long Beach, CA since 1972. The converted ship is owned by the City of Long Beach and has been managed by [Eagle Hospitality](https://eagleht.com/), ex-Urban Commons, since 2016.
 
 The [Long Beach Post](https://lbpost.com/news/breaking-queen-mary-operator-files-for-chapter-11-bankruptcy) notes that this isn’t the first time a *Queen Mary* operator has filed for bankruptcy. A series of companies have failed to make the century-old ocean liner and its surrounding area profitable since it arrived in Long Beach in 1967.
 

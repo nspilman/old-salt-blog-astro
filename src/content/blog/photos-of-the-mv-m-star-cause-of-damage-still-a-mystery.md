@@ -15,15 +15,15 @@ description: "Photos of the damage to the VLCC MV M. Star. Click on the thumbna
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/mstardamage-125x69.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/mstardamage.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstardamage-125x69.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstardamage.jpg)
 
 Damage to the Hull Photo: Reuters
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/mstardavit-125x91.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/mstardavit.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstardavit-125x91.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstardavit.jpg)
 
 Davit where lifeboat was knocked off by “explosion”
 
-[![](https://oldsaltblog.com/wp-content/uploads/2010/07/mstarpassge1-125x93.jpg)](https://oldsaltblog.com/wp-content/uploads/2010/07/mstarpassge1.jpg)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstarpassge1-125x93.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstarpassge1.jpg)
 
 Damage to Passageway
 

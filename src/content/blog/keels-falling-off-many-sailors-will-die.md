@@ -11,12 +11,12 @@ tags:
   - "Frans Maas"
   - "keel kill"
   - "keels"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/crmissing-keel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/crmissing-keel.jpg"
 author: "Rick Spilman"
 description: "We posted yesterday about the death of Dutch yacht designer Frans Maas and two of his crew when the fin keel broke off from Capella, a boat he designed and owned. The boat capsized without warning and the three sailors … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/crmissing-keel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/crmissing-keel.jpg)
 
 Cheeki Rafiki without her keel
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "American Brad van Liew sailing his Eco 60 yacht Le Pingouin won the second leg of the Velux 5 Oceans race, arriving in Wellington 120 miles ahead of his nearest competitor.  Van Liew also won the first leg from La … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/brad-1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/brad-1.jpg)
 
 American Brad van Liew sailing his Eco 60 yacht *Le Pingouin* won the second leg of the [Velux 5 Oceans race](http://www.velux5oceans.com), arriving in Wellington 120 miles ahead of his nearest competitor.  Van Liew also won the first leg from La Rochelle to Capetown, South Africa.
 

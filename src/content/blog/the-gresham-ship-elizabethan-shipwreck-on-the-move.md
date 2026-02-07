@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Shipwrecks tend to be pretty stationary. They are not prone to wandering about.  Now, however, an Elizabethan shipwreck dating from 1574, which was recovered from the River Thames in 2003, is on the move.  The remains of  the 16th-century \"Gresham … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/cannon_marked_with_initials_of_Sir_Thomas_Gresham_tn.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/cannon_marked_with_initials_of_Sir_Thomas_Gresham_tn.jpg)
 
 Cannon showing the mark of Sir Thomas Gresham
 

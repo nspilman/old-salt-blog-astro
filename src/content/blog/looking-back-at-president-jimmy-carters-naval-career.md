@@ -13,7 +13,7 @@ tags:
   - "Jimmy Carter"
   - "naval officer"
   - "Nobel Peace Prize"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/carter.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/carter.jpg"
 author: "Rick Spilman"
 description: "Today was President Jimmy Carter‘s funeral. He was 100 years old when he died after a long and remarkable life of public service. He will, no doubt, be best remembered for his personal integrity and faith in his term as … Continue reading &rarr;"
 ---

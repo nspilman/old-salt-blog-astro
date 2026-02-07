@@ -12,12 +12,12 @@ tags:
   - "Greencarrier Group"
   - "replica"
   - "Swedish East Indiaman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/EastInsiaGoth.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/EastInsiaGoth.jpg"
 author: "Rick Spilman"
 description: "Great news! The Swedish East Indiaman Götheborg will sail again thanks to support from the shipping agency Greencarrier Group, which has announced that it will take the full operational and financial responsibility for the ship for the next two years. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/EastInsiaGoth.jpg)Great news! The [Swedish East Indiaman *Götheborg*](https://en.wikipedia.org/wiki/G%C3%B6theborg_\(ship\)) will sail again thanks to support from the shipping agency [Greencarrier Group](https://greencarrier.com/), which has [announced that it will take the full operational and financial responsibility](https://greencarrier.com/press-release/we-are-very-pleased-to-announce-that-greencarrier-is-enabling-the-ship-gotheborg-to-sail-again/) for the ship for the next two years. In 2016, the Ostindiefararen Götheborg Foundation which operated the ship said that could no longer afford to run the replica, which is one of the world’s largest operational wooden sailing vessels. The foundation said that it was considering its options which included [putting the ship up for sale](http://www.oldsaltblog.com/2016/06/swedish-east-indiaman-gotheborg-sale/). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/EastInsiaGoth.jpg)Great news! The [Swedish East Indiaman *Götheborg*](https://en.wikipedia.org/wiki/G%C3%B6theborg_\(ship\)) will sail again thanks to support from the shipping agency [Greencarrier Group](https://greencarrier.com/), which has [announced that it will take the full operational and financial responsibility](https://greencarrier.com/press-release/we-are-very-pleased-to-announce-that-greencarrier-is-enabling-the-ship-gotheborg-to-sail-again/) for the ship for the next two years. In 2016, the Ostindiefararen Götheborg Foundation which operated the ship said that could no longer afford to run the replica, which is one of the world’s largest operational wooden sailing vessels. The foundation said that it was considering its options which included [putting the ship up for sale](http://www.oldsaltblog.com/2016/06/swedish-east-indiaman-gotheborg-sale/). 
 
 The *Götheborg* made her maiden voyage in 2005 and is modeled after the East Indiaman of the same name which sank on September 12, 1745, while approaching Götheborg harbor on her return from a third voyage to China.
 

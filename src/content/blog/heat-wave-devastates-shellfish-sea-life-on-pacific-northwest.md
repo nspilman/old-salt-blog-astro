@@ -12,12 +12,12 @@ tags:
   - "Heat Wave"
   - "Pacific Northwest"
   - "sea life"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/deadseastar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/deadseastar.jpg"
 author: "Rick Spilman"
 description: "The recent heat wave in the Pacific Northwest and Canada has proven deadly. The death toll from the record-breaking heatwave that struck the US Pacific Northwest last week has risen to nearly 200. British Columbia reported at least 719 people … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/deadseastar.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/deadseastar.jpg)
 
 A dead sea star in West Vancouver, British Columbia. Photo: Christopher Harley/University of British Columbia
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "BC apparently has posted an interesting videocast on the composite clipper City of Adelaide.  I write apparently because it is available only in Britain and being on the other side of the pond I can only take the word of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/12/adelaidebow.jpg)BC apparently has posted an [interesting videocast on the composite clipper City of Adelaide](http://www.bbc.co.uk/programmes/b0071mnc).  I write apparently because it is available only in Britain and being on the other side of the pond I can only take the word of my British friends.   The BBC does have an [interesting blog post](http://www.bbc.co.uk/blogs/chrisjackson/2010/02/sunderland_campaign_to_rescue.html) nevertheless.  Thanks to [David Hayes](http://www.historicnavalfiction.com/) for passing the link along.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/12/adelaidebow.jpg)BC apparently has posted an [interesting videocast on the composite clipper City of Adelaide](http://www.bbc.co.uk/programmes/b0071mnc).  I write apparently because it is available only in Britain and being on the other side of the pond I can only take the word of my British friends.   The BBC does have an [interesting blog post](http://www.bbc.co.uk/blogs/chrisjackson/2010/02/sunderland_campaign_to_rescue.html) nevertheless.  Thanks to [David Hayes](http://www.historicnavalfiction.com/) for passing the link along.
 
 [Is bringing a tall ship back to the Wear too much of a tall order?](http://www.bbc.co.uk/blogs/chrisjackson/2010/02/sunderland_campaign_to_rescue.html)
 

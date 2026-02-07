@@ -10,12 +10,12 @@ tags:
   - "Diamond Princess"
   - "Quarantine"
   - "World Dream"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/diamondprincessyokohama.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincessyokohama.jpg"
 author: "Rick Spilman"
 description: "We recently posted about two cruises ships, the Diamond Princess and the World Dream, which were both under quarantine to attempt to limit the spread of the coronavirus. Now, the passengers and crew of the World Dream, which had been … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/diamondprincessyokohama.jpg)We recently [posted about two cruises ships](http://www.oldsaltblog.com/2020/02/two-more-cruise-ships-quarantined-with-coronavirus/), the [*Diamond Princess*](https://en.wikipedia.org/wiki/Diamond_Princess_\(ship\)) and the [*World Dream*](https://en.wikipedia.org/wiki/World_Dream), which were both under quarantine to attempt to limit the spread of the coronavirus. Now, the passengers and crew of the *World Dream*, which had been quarantined at the dock in Hong Kong, were [allowed to disembark on Sunday](https://www.bbc.com/news/world-asia-china-51433079) after crew members tested negative for the virus.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincessyokohama.jpg)We recently [posted about two cruises ships](http://www.oldsaltblog.com/2020/02/two-more-cruise-ships-quarantined-with-coronavirus/), the [*Diamond Princess*](https://en.wikipedia.org/wiki/Diamond_Princess_\(ship\)) and the [*World Dream*](https://en.wikipedia.org/wiki/World_Dream), which were both under quarantine to attempt to limit the spread of the coronavirus. Now, the passengers and crew of the *World Dream*, which had been quarantined at the dock in Hong Kong, were [allowed to disembark on Sunday](https://www.bbc.com/news/world-asia-china-51433079) after crew members tested negative for the virus.
 
 The passengers and crew of the *Diamond Princess* have not been so lucky. The number of passengers and crew who have [tested positive for the virus has risen to 70](https://www.bloomberg.com/news/articles/2020-02-09/japan-finds-6-more-coronavirus-cases-on-cruise-ship-tv-asahi). Those afflicted have been taken to Japanese hospitals for treatment, while the remaining 2,600 passengers and 1,000 or so crew are stuck aboard the ship for about another week until the quarantine period ends. The *Diamond Princess* which had been held offshore has returned to the dock at Yokohoma. An additional seven passengers were taken off the vessel with medical conditions unrelated to the virus.
 

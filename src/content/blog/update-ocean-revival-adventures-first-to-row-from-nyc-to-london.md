@@ -13,12 +13,12 @@ tags:
   - "Ocean Revival Adventures"
   - "Tower Bridge"
   - "world’s most dangerous row"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/atlanticrevival.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/atlanticrevival.jpg"
 author: "Rick Spilman"
 description: "Congratulations to the Ocean Revival Adventures team who have become the first to row from New York to London. The team of four serving and former serving Royal Marine Commandos completed the epic 72-day, 3,700-mile row across the North Atlantic … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/atlanticrevival.jpg)Congratulations to the [Ocean Revival Adventures](https://oceanrevivaladventures.com/) team who have become the first to row from New York to London. The team of four serving and former serving Royal Marine Commandos completed the epic 72-day, 3,700-mile row across the North Atlantic from the Brooklyn Bridge in New York City to Tower Bridge in London. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/atlanticrevival.jpg)Congratulations to the [Ocean Revival Adventures](https://oceanrevivaladventures.com/) team who have become the first to row from New York to London. The team of four serving and former serving Royal Marine Commandos completed the epic 72-day, 3,700-mile row across the North Atlantic from the Brooklyn Bridge in New York City to Tower Bridge in London. 
 
 In May, I was fortunate enough to meet [Ian Clinton and Simon Chalk](https://oceanrevivaladventures.com/the-crew/), members of the Ocean Revival Adventures crew, waiting with their ocean rowing boats at Liberty Landing in New York harbor for a suitable weather window to set off on what has been dubbed the “world’s most dangerous row.” [See our previous post.](http://www.oldsaltblog.com/2021/05/ocean-revival-adventures-the-worlds-most-dangerous-row/)
 

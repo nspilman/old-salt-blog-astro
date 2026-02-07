@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Dutch-owned Margiris supertrawler, the second largest fishing vessel in the world, dumped more than 100,000 dead blue whiting in the Bay of Biscay off France’s Atlantic coast near La Rochelle, last Thursday. The Pelagic Freeze-Trawler Association (PFA) — which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/trawlerwhiting-spill.jpg)The Dutch-owned [*Margiris*](https://en.wikipedia.org/wiki/FV_Margiris) supertrawler, the second largest fishing vessel in the world, dumped more than 100,000 dead blue whiting in the Bay of Biscay off France’s Atlantic coast near La Rochelle, last Thursday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/trawlerwhiting-spill.jpg)The Dutch-owned [*Margiris*](https://en.wikipedia.org/wiki/FV_Margiris) supertrawler, the second largest fishing vessel in the world, dumped more than 100,000 dead blue whiting in the Bay of Biscay off France’s Atlantic coast near La Rochelle, last Thursday.
 
 The Pelagic Freeze-Trawler Association (PFA) — which represents the vessel’s owner — released a [statement](https://www.pelagicfish.eu/01363/) on Friday saying that around 5.50am on 3 February 2022, an amount of blue whiting was involuntarily released into the sea from the Margiris vessel, due to a rupture in the cod-end part of its net. Such an accident is a rare occurrence and in this case was caused by the unexpectedly large size of the fish caught. In line with EU law, the incident and the quantities lost have been recorded in the vessel’s log book and reported to the authorities of the vessel’s flag state, Lithuania.
 

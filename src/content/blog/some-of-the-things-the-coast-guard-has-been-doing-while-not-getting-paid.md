@@ -12,12 +12,12 @@ tags:
   - "pay check"
   - "rescue"
   - "shutdown"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/US-CoastGuard.jpg"
 author: "Rick Spilman"
 description: "As the wholly unnecessary and reckless partial government shutdown rolls on, 41,000 active duty US Coast Guard personnel are still doing their jobs, without getting paid. Roughly 8,500 civilian support staff are furloughed, also without paychecks. Across the country, concerned citizens are trying … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg)As the wholly unnecessary and reckless partial government shutdown rolls on, 41,000 active duty US Coast Guard personnel are still doing their jobs, without getting paid. Roughly 8,500 civilian support staff are furloughed, also without paychecks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/US-CoastGuard.jpg)As the wholly unnecessary and reckless partial government shutdown rolls on, 41,000 active duty US Coast Guard personnel are still doing their jobs, without getting paid. Roughly 8,500 civilian support staff are furloughed, also without paychecks.
 
 Across the country, concerned citizens are trying to find means to help the Coast Gaurd families with everything from gift cards to food banks. Through it all, Coast Guard officers and enlisted personnel are saving lives, intercepting criminals, and generally defending our coasts. Here is an incomplete list of what the US Coast Guard has been up to while not getting a paycheck, as compiled by [Military.com](https://www.military.com/daily-news/2019/01/15/heres-everything-coast-guard-did-without-paycheck-month.html).   
 

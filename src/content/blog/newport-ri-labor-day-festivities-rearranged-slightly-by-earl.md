@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "After Earl, some R.I. weekend events adjust schedules To give participants in the Museum of Yachting’s 31st annual Classic Yacht Regatta in Newport time to get their boats back in the water in the wake of the storm, races scheduled … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/newport-activities.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/newport-activities.jpg)
 
 [After Earl, some R.I. weekend events adjust schedules](http://www.projo.com/news/content/weekend_events_after_earl_09-04-10_QDJPLH2_v11.20eeef9.html)
 

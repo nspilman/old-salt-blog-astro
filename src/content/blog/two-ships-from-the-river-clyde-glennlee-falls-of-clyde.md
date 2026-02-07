@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "In the press, they have been described as \"sister ships\" which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
 ---
 
-![Glennlee](http://www.oldsaltblog.com/wp-content/uploads/2014/08/glenlee.jpg)
+![Glennlee](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/glenlee.jpg)
 
 Glennlee
 
@@ -25,7 +25,7 @@ In the press, they have been described as “sister ships” which is not litera
 
 *Glenlee*, after a long career carrying cargo around the globe, served as a Spanish Navy training ship, before being abandoned in Seville.  Shortly before the ship was scheduled to be scrapped, *Glennlee* was purchased by the Clyde Maritime Trust. After a six year restoration *Glennlee* returned to the River Clyde in 1993, where she began a new life as a museum ship. *Glennlee* has been alongside at Glasgow’s new [Riverside Museum](http://www.clydewaterfront.com/projects/greater-govan--glasgow-harbour/leisure/riverside_museum) since 2011.
 
-![Falls of Clyde](http://www.oldsaltblog.com/wp-content/uploads/2014/08/Falls_of_Clyde1.jpg)
+![Falls of Clyde](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/Falls_of_Clyde1.jpg)
 
 Falls of Clyde
 

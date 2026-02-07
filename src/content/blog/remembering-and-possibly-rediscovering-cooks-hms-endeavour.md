@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The recent transit of Venus, the passing of the shadow of the planet Venus across the face of the sun, brought to mind the voyage of Captain Cook in HMS Endeavour in 1768-1771.  Now, archaeologists in Rhode Island believe they may have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/Endeavour-1776-1.jpg)The recent [transit of Venus](http://www.oldsaltblog.com/2012/06/04/transit-of-venus-a-final-transit-for-105-years/), the passing of the shadow of the planet Venus across the face of the sun, brought to mind the voyage of Captain Cook in [HMS *Endeavour*](http://en.wikipedia.org/wiki/HMS_Endeavour) in 1768-1771.  Now, archaeologists in Rhode Island believe they may have located Cook’s ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Endeavour-1776-1.jpg)The recent [transit of Venus](http://www.oldsaltblog.com/2012/06/04/transit-of-venus-a-final-transit-for-105-years/), the passing of the shadow of the planet Venus across the face of the sun, brought to mind the voyage of Captain Cook in [HMS *Endeavour*](http://en.wikipedia.org/wiki/HMS_Endeavour) in 1768-1771.  Now, archaeologists in Rhode Island believe they may have located Cook’s ship.
 
 in 1768, Cook’s orders were to search for “*Terra Australis Ignota*,” the “unknown land of the South” a vast continent believed to exist in the far Southern Pacific. While he was there, he was to observe the transit of Venus on 1769 in Tahiti, to help determine the distance between the Earth, the Sun and the planet Venus. Cook’s mission on HMS *Endeavour* was truly a voyage of discovery on both sea and space.
 

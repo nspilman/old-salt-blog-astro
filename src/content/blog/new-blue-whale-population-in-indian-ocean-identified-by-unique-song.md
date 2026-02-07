@@ -11,12 +11,12 @@ tags:
   - "blue whale"
   - "Indian Ocean"
   - "whale song"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/bluewhale1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bluewhale1.jpg"
 author: "Rick Spilman"
 description: "A new blue whale population has been discovered in the Arabian Sea and Western Indian Ocean according to a study recently published in the journal Endangered Species Research. The conclusion is based not on sightings or DNA samples, but rather … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/bluewhale1.jpg)A new blue whale population has been discovered in the Arabian Sea and Western Indian Ocean according to a [study recently published in the journal Endangered Species Research](https://www.int-res.com/articles/esr2020/43/n043p495.pdf). The conclusion is based not on sightings or DNA samples, but rather on recordings of the unique whale songs that distinguish this whale population from other blue whales in the region.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bluewhale1.jpg)A new blue whale population has been discovered in the Arabian Sea and Western Indian Ocean according to a [study recently published in the journal Endangered Species Research](https://www.int-res.com/articles/esr2020/43/n043p495.pdf). The conclusion is based not on sightings or DNA samples, but rather on recordings of the unique whale songs that distinguish this whale population from other blue whales in the region.
 
 At up to 100 feet long and weighing up to 170 tonnes, blue whales are the largest creatures ever to exist on the earth. Nevertheless, they are often easier to hear than to see.
 

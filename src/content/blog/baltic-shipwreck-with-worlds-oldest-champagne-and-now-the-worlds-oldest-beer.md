@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In July, we posted about a Baltic shipwreck on which divers found 30 bottles of champagne thought to pre-date the French Revolution. (see Baltic Bubbly – ‘World’s oldest champagne’)   On subsequent dives, smaller bottles have been recovered which apparently contain … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/olartikel_621661b.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/olartikel_621661b.jpg)
 
 In July, we posted about a Baltic shipwreck on which divers found 30 bottles of champagne thought to pre-date the French Revolution. (see [Baltic Bubbly – ‘World’s oldest champagne’](http://www.oldsaltblog.com/2010/07/18/worlds-oldest-champagne-found-on-baltic-seabed/))   On subsequent dives, smaller bottles have been recovered which apparently contain beer.  Let’s hope they keep exploring. Who knows what they may find next.
 

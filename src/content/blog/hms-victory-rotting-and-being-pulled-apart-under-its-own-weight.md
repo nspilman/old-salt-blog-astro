@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A disturbing report published yesterday in the Telegraph. HMS Victory rotting and being pulled apart under its own weight HMS Victory is riddled with rot and being pulled apart by its own weight, maintenance reports of the historic ship have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/HMSVictory_1799444c.jpg)A disturbing report published yesterday in the [Telegraph](http://www.telegraph.co.uk/news/earth/environment/archaeology/8247770/HMS-Victory-rotting-and-being-pulled-apart-under-its-own-weight.html).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/HMSVictory_1799444c.jpg)A disturbing report published yesterday in the [Telegraph](http://www.telegraph.co.uk/news/earth/environment/archaeology/8247770/HMS-Victory-rotting-and-being-pulled-apart-under-its-own-weight.html).
 
 [HMS Victory rotting and being pulled apart under its own weight](http://www.telegraph.co.uk/news/earth/environment/archaeology/8247770/HMS-Victory-rotting-and-being-pulled-apart-under-its-own-weight.html)
 

@@ -16,12 +16,12 @@ tags:
   - "Titanic"
   - "US Air National Guard"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/titan2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan2.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard is racing against time to locate and rescue a submersible with five people onboard that went missing on Sunday morning in the North Atlantic while attempting to dive on the wreck of the Titanic. The area … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/titan2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titan2.jpg)
 
 Titan submersible. Source: OceanGate Expeditions
 

@@ -15,12 +15,12 @@ tags:
   - "schooner"
   - "The International Yacht Restoration School"
   - "yacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/coronet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/coronet.jpg"
 author: "Rick Spilman"
 description: "Coronet is a 131′ wooden-hull schooner yacht built for oil tycoon Rufus T. Bush in 1885. It is one of the oldest and largest vessels of its type in the world, and one of the last surviving grand sailing yachts … Continue reading &rarr;"
 ---
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/coronet.jpg)[Coronet](https://en.wikipedia.org/wiki/Coronet_\(yacht\))* is a 131′ wooden-hull schooner yacht built for oil tycoon Rufus T. Bush in 1885. It is one of the oldest and largest vessels of its type in the world, and one of the last surviving grand sailing yachts of the 19th century. After numerous owners, including a religious cult, and suffering decades of neglect, the schooner underwent more than a decade of restoration at Newport, Rhode Island’s [The International Yacht Restoration School](https://www.iyrs.edu/). Now, the classic yacht is being moved from Newport to [Mystic Seaport Museum](https://www.mysticseaport.org/)‘s [Henry B du Pont Preservation Shipyard](https://www.mysticseaport.org/explore/henry-b-du-pont-preservation-shipyard/) in Mystic, CT to complete the restoration.
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/coronet.jpg)[Coronet](https://en.wikipedia.org/wiki/Coronet_\(yacht\))* is a 131′ wooden-hull schooner yacht built for oil tycoon Rufus T. Bush in 1885. It is one of the oldest and largest vessels of its type in the world, and one of the last surviving grand sailing yachts of the 19th century. After numerous owners, including a religious cult, and suffering decades of neglect, the schooner underwent more than a decade of restoration at Newport, Rhode Island’s [The International Yacht Restoration School](https://www.iyrs.edu/). Now, the classic yacht is being moved from Newport to [Mystic Seaport Museum](https://www.mysticseaport.org/)‘s [Henry B du Pont Preservation Shipyard](https://www.mysticseaport.org/explore/henry-b-du-pont-preservation-shipyard/) in Mystic, CT to complete the restoration.
 
 ### A brief history of the *Coronet*
 

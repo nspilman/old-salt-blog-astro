@@ -13,12 +13,12 @@ tags:
   - "Taiwanese Fishing Vessel"
   - "Tradewind 35"
   - "ZI DA WANG"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/jonesrescue.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/jonesrescue.jpg"
 author: "Rick Spilman"
 description: "Ian Herbert Jones of Great Britain, competing in the 2022-23 Golden Globe Race, was successfully rescued after his Tradewind 35 Puffin had rolled over and dismasted, with the skipper injuring his back and incurring a gash to his head. Jones … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/jonesrescue.jpg)[Ian Herbert Jones](https://goldengloberace.com/skippers/ian-herbert-jones/) of Great Britain, competing in the 2022-23 [Golden Globe Race](https://goldengloberace.com/), was successfully rescued after his Tradewind 35 *Puffin* had rolled over and dismasted, with the skipper injuring his back and incurring a gash to his head. Jones was northeast of Cape Horn when he became overwhelmed in winds gusting over 90 knots and a confused sea. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/jonesrescue.jpg)[Ian Herbert Jones](https://goldengloberace.com/skippers/ian-herbert-jones/) of Great Britain, competing in the 2022-23 [Golden Globe Race](https://goldengloberace.com/), was successfully rescued after his Tradewind 35 *Puffin* had rolled over and dismasted, with the skipper injuring his back and incurring a gash to his head. Jones was northeast of Cape Horn when he became overwhelmed in winds gusting over 90 knots and a confused sea. 
 
 [Scuttlebutt Sailing News](https://www.sailingscuttlebutt.com/2023/04/11/successful-rescue-in-golden-globe-race-2/) reports that it was 1740 UTC when Jones first saw the Taiwanese Fishing Vessel ZI DA WANG arriving from the North. Twenty-six hours earlier, he was unable to make contact by sat phone and set off his EPIRB to make sure the Search and Rescue chain of his zone – NAVAREA 6 – knew where he was, and that he was facing a bad situation.
 

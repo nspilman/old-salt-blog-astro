@@ -12,12 +12,12 @@ tags:
   - "Jose Fernandez"
   - "Miami"
   - "South Beach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/miamijettyboat.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/miamijettyboat.jpg"
 author: "Rick Spilman"
 description: "Last month, we posted about the tragic death of Jose Fernandez and two of his friends who died when their 32′ open boat in slammed into a rock breakwater at high speed off South Beach, Miami, FL at around 3AM on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/09/miamijettyboat.jpg)Last month, [we posted about the tragic death of Jose Fernandez](http://www.oldsaltblog.com/2016/09/miami-marlins-pitcher-jose-fernandez-dies-boating-accident/) and two of his friends who died when their 32′ open boat in slammed into a rock breakwater at high speed off South Beach, Miami, FL at around 3AM on Spetember  25th. The [Miami-Dade County Medical Examiner’s office has now determined that Fernandez was legally drunk](http://ktla.com/2016/10/29/miami-marlins-star-pitcher-jose-fernandez-was-drunk-had-cocaine-in-system-during-fatal-boat-crash-officials/) with a blood-alcohol concentration of .147 at the time of the accident. Fernandez also had cocaine in his system according to the report.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/miamijettyboat.jpg)Last month, [we posted about the tragic death of Jose Fernandez](http://www.oldsaltblog.com/2016/09/miami-marlins-pitcher-jose-fernandez-dies-boating-accident/) and two of his friends who died when their 32′ open boat in slammed into a rock breakwater at high speed off South Beach, Miami, FL at around 3AM on Spetember  25th. The [Miami-Dade County Medical Examiner’s office has now determined that Fernandez was legally drunk](http://ktla.com/2016/10/29/miami-marlins-star-pitcher-jose-fernandez-was-drunk-had-cocaine-in-system-during-fatal-boat-crash-officials/) with a blood-alcohol concentration of .147 at the time of the accident. Fernandez also had cocaine in his system according to the report.  
 
 Autopsies on the two other men, Emilio Jesus Macias and Eduardo Rivero, had levels of alcohol below the legal limit in Florida, which is .08. Rivero also had traces of cocaine in his system, the medical examiner’s report said. The three men all ded after suffering blunt-force injuries from the high speed collision. Authorities have not determined who was piloting the boat, which Fernandez owned.
 

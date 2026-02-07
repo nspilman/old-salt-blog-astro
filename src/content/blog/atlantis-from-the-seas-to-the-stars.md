@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "A trivia question – what was the Space Shuttle Atlantis named after? A.  The Greek legend of the sunken continent. B.  The TV show – Stargate Atlantis. C.  Woods Hole’s first research vessel. I will admit that I surprised to learn that it was C.  The … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/RVAtlantis.jpg)A trivia question – what was the [Space Shuttle Atlantis](http://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/orbitersatl.html) named after?
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/RVAtlantis.jpg)A trivia question – what was the [Space Shuttle Atlantis](http://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/orbitersatl.html) named after?
 
 A.  The Greek legend of the sunken continent.  
 B.  The TV show – Stargate Atlantis.  

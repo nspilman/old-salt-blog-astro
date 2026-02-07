@@ -12,12 +12,12 @@ tags:
   - "named storms"
   - "record warm"
   - "tornados"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/gulfwater.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/gulfwater.jpg"
 author: "Rick Spilman"
 description: "As if a pandemic is not enough to worry about, the effects of climate change appear to be delivering some particularly nasty weather this year. The waters of the Gulf of Mexico have been described as being abnormally warm, freakishly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/gulfwater.jpg)As if a pandemic is not enough to worry about, the effects of climate change appear to be delivering some particularly nasty weather this year. The waters of the Gulf of Mexico have been described as being abnormally warm, freakishly warm, and “[on fire,](https://www.chicagotribune.com/news/environment/ct-gulf-of-mexico-warm-waters-20170323-story.html)” as average surface water temperature never fell below 73 degrees over the winter for the first time on record. Cities from Texas to Florida experienced unusually warm winters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/gulfwater.jpg)As if a pandemic is not enough to worry about, the effects of climate change appear to be delivering some particularly nasty weather this year. The waters of the Gulf of Mexico have been described as being abnormally warm, freakishly warm, and “[on fire,](https://www.chicagotribune.com/news/environment/ct-gulf-of-mexico-warm-waters-20170323-story.html)” as average surface water temperature never fell below 73 degrees over the winter for the first time on record. Cities from Texas to Florida experienced unusually warm winters.
 
 “Out of 90 days this winter, Miami saw a record-setting 69 of them reach 80°F or warmer!” wrote Miami broadcast meteorologist John Morales for the website [WxShift](https://wxshift.com/), a project of Climate Central. 
 

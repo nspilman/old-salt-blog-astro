@@ -14,12 +14,12 @@ tags:
   - "Scharnhorst"
   - "Vice-Admiral Maximilian Graf von Spee"
   - "WWI Cruiser"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/shoernhorst.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/shoernhorst.jpg"
 author: "Rick Spilman"
 description: "The wreck of the World War One German armored cruiser, SMS Scharnhorst, has been located off the Falkland Islands. Scharnhorst, the flagship of German Vice-Admiral Maximilian Graf von Spee’s East Asia Squadron, was sunk by the Royal Navy 105 years … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/shoernhorst.jpg)The wreck of the World War One German armored cruiser, [SMS *Scharnhorst*,](https://en.wikipedia.org/wiki/SMS_Scharnhorst) has been located off the Falkland Islands. *Scharnhorst*, the flagship of German Vice-Admiral Maximilian Graf von Spee’s East Asia Squadron, was sunk by the Royal Navy 105 years ago in the [Battle of the Falklands](https://en.wikipedia.org/wiki/Battle_of_the_Falkland_Islands).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/shoernhorst.jpg)The wreck of the World War One German armored cruiser, [SMS *Scharnhorst*,](https://en.wikipedia.org/wiki/SMS_Scharnhorst) has been located off the Falkland Islands. *Scharnhorst*, the flagship of German Vice-Admiral Maximilian Graf von Spee’s East Asia Squadron, was sunk by the Royal Navy 105 years ago in the [Battle of the Falklands](https://en.wikipedia.org/wiki/Battle_of_the_Falkland_Islands).
 
 Mensun Bound, the leader of the search for the wreckage, told the [BBC](https://www.bbc.com/news/world-latin-america-50670743) that the moment of discovery was “extraordinary”.
 

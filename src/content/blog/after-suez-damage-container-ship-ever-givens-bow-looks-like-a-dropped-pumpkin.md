@@ -14,12 +14,12 @@ tags:
   - "Ever Given"
   - "Qingdao"
   - "Suez Canal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/evergivenbowside.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/evergivenbowside.jpg"
 author: "Rick Spilman"
 description: "Photographs have come out of the bow damage to the container ship Ever Given after she ran hard aground in the Suez Canal, blocking the critical waterway for six days last March. The images were taken in Qingdao, China, where … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/evergivenbowside.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/evergivenbowside.jpg)
 
 Photographs have come out of the bow damage to the container ship [*Ever Given*](https://www.marinetraffic.com/en/ais/details/ships/shipid:5630138/mmsi:353136000/imo:9811000/vessel:EVER_GIVEN) after she ran hard aground in the Suez Canal, [blocking the critical waterway](https://www.oldsaltblog.com/2021/03/ultra-large-container-ship-ever-given-blocks-suez-canal/) for six days last March. The images were taken in Qingdao, China, where the ship is awaiting repairs.
 

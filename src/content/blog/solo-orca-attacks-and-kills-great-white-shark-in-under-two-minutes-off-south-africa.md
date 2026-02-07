@@ -11,12 +11,12 @@ tags:
   - "Orca"
   - "shark's liver"
   - "South Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/orcakillsgreatwhite.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/orcakillsgreatwhite.jpg"
 author: "Rick Spilman"
 description: "Orcas attacking and killing sharks, even great white sharks, off the coast of South Africa is nothing new. A year ago, a pair of orcas killed 17 sharks in one day in South Africa’s Pearly Bay. More recently, scientists were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/orcakillsgreatwhite.jpg)Orcas attacking and killing sharks, even great white sharks, off the coast of South Africa is nothing new. A year ago, [a pair of orcas killed 17 sharks in one day](https://theorcasonian.com/south-african-orcas-kill-17-sharks-in-a-single-day/) in South Africa’s Pearly Bay. More recently, scientists were stunned to observe video footage of a solitary orca hunting, killing, and eating the liver of a great white shark, in an “astonishing” attack that took place in less than two minutes. Scientists said it was “unprecedented” and showed the exceptional predatory skills of killer whales.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/orcakillsgreatwhite.jpg)Orcas attacking and killing sharks, even great white sharks, off the coast of South Africa is nothing new. A year ago, [a pair of orcas killed 17 sharks in one day](https://theorcasonian.com/south-african-orcas-kill-17-sharks-in-a-single-day/) in South Africa’s Pearly Bay. More recently, scientists were stunned to observe video footage of a solitary orca hunting, killing, and eating the liver of a great white shark, in an “astonishing” attack that took place in less than two minutes. Scientists said it was “unprecedented” and showed the exceptional predatory skills of killer whales.
 
 “It’s interesting that it’s just one animal,” Dr Luke Rendell, marine mammal scientist, from the University of St Andrews told [BBC News](https://www.bbc.com/news/science-environment-68446657), and how much skill it demonstrates in tackling the shark – ramming it in the side and grabbing the pectoral fin to keep away from those big, nasty jaws.
 

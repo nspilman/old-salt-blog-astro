@@ -11,12 +11,12 @@ tags:
   - "Pacific Ocean"
   - "Pavona clavus"
   - "Solomon Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/megacoral.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/megacoral.jpg"
 author: "Rick Spilman"
 description: "On the chart, it was marked as a shipwreck in the Pacific Ocean near the Solomon Islands, but when scientists and filmmakers from the National Geographic Society’s Pristine Seas took a closer look, they were shocked to find the world’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/megacoral.jpg)On the chart, it was marked as a shipwreck in the Pacific Ocean near the Solomon Islands, but when scientists and filmmakers from the [National Geographic Society’s Pristine Seas](https://www.nationalgeographic.com/environment/article/world-largest-coral-colony-discovery) took a closer look, they were shocked to find the world’s largest-ever recorded coral. The mega coral is a collection of many tiny connected creatures that together form one organism rather than a coral reef.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/megacoral.jpg)On the chart, it was marked as a shipwreck in the Pacific Ocean near the Solomon Islands, but when scientists and filmmakers from the [National Geographic Society’s Pristine Seas](https://www.nationalgeographic.com/environment/article/world-largest-coral-colony-discovery) took a closer look, they were shocked to find the world’s largest-ever recorded coral. The mega coral is a collection of many tiny connected creatures that together form one organism rather than a coral reef.
 
 As reported by the [BBC](https://www.bbc.co.uk/newsround/articles/c4gp4g4e5q8o), the coral measures 34m wide, 32m long and 5.5m high – which is bigger than a blue whale. The coral is estimated to be at 300-years-old.
 

@@ -13,12 +13,12 @@ tags:
   - "Shiplore"
   - "Smithsonian Networks"
   - "The Mystery of the Arctic Rose"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/articrosemystery.jpg"
 author: "Rick Spilman"
 description: "On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary \"The Mystery of the Arctic Rose,\"  which examines the deadliest U.S. fishing accident … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/articrosemystery.jpg)  
 On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary “*[The Mystery of the Arctic Rose](https://www.smithsonianchannel.com/shows/disasters-at-sea/the-arctic-rose-mystery/1005669/3478922),”*  which examines the deadliest U.S. fishing accident in 50 years. 
 
 I participated in the documentary and will be making a few comments on the tragic sinking and the particular challenges of fishing vessel safety. The documentary is a production of Exploration Production Inc. in association with Smithsonian Networks and Discovery Canada and is a part of the series, “[Disasters at Sea](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669).”

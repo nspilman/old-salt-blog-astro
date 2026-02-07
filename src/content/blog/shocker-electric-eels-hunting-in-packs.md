@@ -9,12 +9,12 @@ categories:
 tags:
   - "Electric Eels"
   - "Volta's electric eel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/eeel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/eeel.jpg"
 author: "Rick Spilman"
 description: "It almost sounds like a bad horror movie. Scientists have recently discovered a new species of electric eel, Volta’s electric eel (Electrophorus voltai). Found in the rivers of South America, it not only is capable of producing 860-V electric shocks … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/eeel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/eeel.jpg)
 
 Image: L. Sousa
 

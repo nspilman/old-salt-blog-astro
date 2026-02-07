@@ -11,12 +11,12 @@ tags:
   - "Tahiti"
   - "twilight zone"
   - "UNESCO"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/coral-reeftwlight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/coral-reeftwlight.jpg"
 author: "Rick Spilman"
 description: "CNN reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s \"twilight zone.\" That a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/coral-reeftwlight.jpg)[CNN](https://www.cnn.com/2022/01/19/world/coral-reef-tahiti-twilight-zone-climate-scn/index.html) reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s “twilight zone.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/coral-reeftwlight.jpg)[CNN](https://www.cnn.com/2022/01/19/world/coral-reef-tahiti-twilight-zone-climate-scn/index.html) reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s “twilight zone.”
 
 That a coral reef so large and so beautiful had yet to be discovered emphasizes how little we still know about the world’s oceans, scientists say. And its impeccable condition — with no evidence that the reef has yet been harmed by the climate crisis — suggests the need for urgent action to protect the ocean’s remaining healthy reefs.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Busy days in the Gulf of Mexico.  On the surface above the continuing Deepwater Horizon disaster yesterday, a drill  ship attempting to contain the oil was struck by lightning and caught on fire shutting down containment operations.  Reportedly, operations resumed today.   BP: Oil … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/port-fire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/port-fire.jpg)
 
 Sophie Oldendorff on fire in Tampa
 

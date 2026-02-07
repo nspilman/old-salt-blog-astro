@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "On December 6, 2025, beaches in the county of Sussex on the southern coast of England were battered by barrages of bananas. Tons of bananas washed ashore at Selsey, Bognor Regis, and Pagham Harbour in West Sussex. Some also washed … Continue reading &rarr;"
 ---
 
-![](https://oldsaltblog.com/wp-content/uploads/2026/01/chip-wreck.jpg)On December 6, 2025, beaches in the county of Sussex on the southern coast of England were battered by barrages of bananas. Tons of bananas washed ashore at Selsey, Bognor Regis, and Pagham Harbour in West Sussex. Some also washed further inland, making a slippery mess on coastal roads.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/chip-wreck.jpg)On December 6, 2025, beaches in the county of Sussex on the southern coast of England were battered by barrages of bananas. Tons of bananas washed ashore at Selsey, Bognor Regis, and Pagham Harbour in West Sussex. Some also washed further inland, making a slippery mess on coastal roads.
 
 Where did the yellow tide come from? 16 shipping containers fell off the cargo ship [*Baltic Klipper*](https://www.vesselfinder.com/vessels/details/9454759) near the Isle of Wight. Eight of the lost containers were filled with bananas, while others contained plantains and avocados.
 

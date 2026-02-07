@@ -15,7 +15,7 @@ tags:
   - "Puritans"
   - "Ships Tagged Mayflower"
   - "Thanksgiving"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/mayflowerii1957.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/mayflowerii1957.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving! On Thanksgiving eve, here is a short video of the voyage of the Mayflower II across the Atlantic in 1957, under the command of Captain Alan Villiers. The reproduction was built in Devon, England, during 1955–1956, in a collaboration between Englishman Warwick … Continue reading &rarr;"
 ---

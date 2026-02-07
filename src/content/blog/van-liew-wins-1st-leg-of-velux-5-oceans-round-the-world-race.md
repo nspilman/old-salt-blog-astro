@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Brad Van Liew has won the first leg of the Velux 5 Oceans Singlehanded Round the World Race arriving in South Africa in only 28 days after his departure from La Rochelle, France. Van Liew wins 1st leg of race – … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/boat-1.jpg)[Brad Van Liew](http://www.oceanracing.org/WELCOME.html) has won the first leg of the [Velux 5 Oceans](http://www.velux5oceans.com/) Singlehanded Round the World Race arriving in South Africa in only 28 days after his departure from La Rochelle, France.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/boat-1.jpg)[Brad Van Liew](http://www.oceanracing.org/WELCOME.html) has won the first leg of the [Velux 5 Oceans](http://www.velux5oceans.com/) Singlehanded Round the World Race arriving in South Africa in only 28 days after his departure from La Rochelle, France.
 
 [Van Liew wins 1st leg of race – Charleston sailor reaches Cape Town tired but happy](http://www.postandcourier.com/news/2010/nov/15/van-liew-wins-1st-leg-of-race/)  
   

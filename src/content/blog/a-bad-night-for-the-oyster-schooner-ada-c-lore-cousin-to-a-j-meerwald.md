@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "A week ago at about 2AM, at least 50 feet of the breakwater in Eastport, Maine collapsed into the inner harbor. Pat Donahue, a local fisherman and caretaker of the 1923 schooner Ada C. Lore, suffered minor injuries when the breakwater collapsed. The … Continue reading &rarr;"
 ---
 
-![Ada C. Lore after the breakwater collapsed](http://www.oldsaltblog.com/wp-content/uploads/2014/12/ajlore1.jpg)
+![Ada C. Lore after the breakwater collapsed](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/ajlore1.jpg)
 
 Ada C. Lore after the breakwater collapsed
 
@@ -22,6 +22,6 @@ The two schooners were built for the same trade and are about the same age. *Ada
 
 We can only wish Butch Harris, owner of the *Ada C. Lore*, good fortune in re-rigging and repairing the grand old schooner.
 
-![AJ Meerwald, left -- Ada C. Lore, right](http://www.oldsaltblog.com/wp-content/uploads/2014/12/AJMeerwaldlore.jpg)
+![AJ Meerwald, left -- Ada C. Lore, right](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/AJMeerwaldlore.jpg)
 
 AJ Meerwald, left — Ada C. Lore, right

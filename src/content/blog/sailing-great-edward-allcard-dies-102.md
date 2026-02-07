@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Edward Allcard, an English naval architect, marine surveyor, yachtsman and author, died at the end of last month at the age of 102. We will probably be best remembered as the first person to sail solo across the Atlantic in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/allcord1.jpg)[Edward Allcard](https://en.wikipedia.org/wiki/Edward_Allcard), an English naval architect, marine surveyor, yachtsman and author, died at the end of last month at the age of 102. We will probably be best remembered as the first person to sail solo across the Atlantic in both directions, voyages he undertook on his 34-foot yawl, Temptress, in 1949 and 1951.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/allcord1.jpg)[Edward Allcard](https://en.wikipedia.org/wiki/Edward_Allcard), an English naval architect, marine surveyor, yachtsman and author, died at the end of last month at the age of 102. We will probably be best remembered as the first person to sail solo across the Atlantic in both directions, voyages he undertook on his 34-foot yawl, Temptress, in 1949 and 1951.
 
 Between 1957 and 1973, he would undertake an extended solo circumnavigation on *Sea Wanderer*, a 36-foot ketch, which he had bought as a derelict hull abandoned in the mud in the Hudson River in New York in 1950 for $250.
 

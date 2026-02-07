@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Neil Armstrong, the first man to set foot on the moon, best known for navigating the Sea of Tranquility, began his career as a Navy aviator.  Armstrong, who died on August 25, at the age of 82, will be buried at sea as per his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/armstrong7n-1-web.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/armstrong7n-1-web.jpg)
 
 Armstrong from 1969
 

@@ -14,12 +14,12 @@ tags:
   - "Santa Cruz"
   - "Sea Otter"
   - "sufboards"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/otterboard.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/otterboard.jpg"
 author: "Rick Spilman"
 description: "We have followed the outbreak of orca attacks off the Iberian peninsula over the last several years. Here is an only slightly less threatening story of a mischievous female sea otter which has been harassing surfers and stealing surfboards in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/otterboard.jpg)We have followed the [outbreak of orca attacks off the Iberian peninsula](https://www.oldsaltblog.com/2023/02/the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely/) over the last several years. Here is an only slightly less threatening story of a [mischievous female sea otter](https://news.yahoo.com/mischievous-sea-otter-keeps-stealing-204403265.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHdBrcio7wK4BgnBQApBrLfDKmEly1WJ8-4IsjOJlfHv5MvYyABylY_T2gNOumpfIQCFiI5uYfoTRzKANCqznkfC7f1tTKsxOsRgMs8NDRvfsdfZ0GN8bVfTWIjpnOtXnnUwCS7loBFJd0n7el7VRvrZuXLvOS4rZVKeLimgGWuw) which has been harassing surfers and stealing surfboards in Santa Cruz, California.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/otterboard.jpg)We have followed the [outbreak of orca attacks off the Iberian peninsula](https://www.oldsaltblog.com/2023/02/the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely/) over the last several years. Here is an only slightly less threatening story of a [mischievous female sea otter](https://news.yahoo.com/mischievous-sea-otter-keeps-stealing-204403265.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHdBrcio7wK4BgnBQApBrLfDKmEly1WJ8-4IsjOJlfHv5MvYyABylY_T2gNOumpfIQCFiI5uYfoTRzKANCqznkfC7f1tTKsxOsRgMs8NDRvfsdfZ0GN8bVfTWIjpnOtXnnUwCS7loBFJd0n7el7VRvrZuXLvOS4rZVKeLimgGWuw) which has been harassing surfers and stealing surfboards in Santa Cruz, California.
 
 For the past few summers, numerous surfers have been victims of [boardjacking by a female sea otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html?smid=nytcore-android-share), which accosts the wave riders, seizing and even damaging their surfboards in the process.
 

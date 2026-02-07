@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "AllOnScale in Rotterdam builds around 1,000 ships a year.  The ships are all rather small, however, ranging from around 20 cm to several meters. AllOnScale is a leading ship model maker specializing in the production of small series in scales … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/allonscale.jpg)](http://translate.google.com/translate?u=http%3A%2F%2Fwww.allonscale.nl%2F&sl=nl&tl=en&hl=&ie=UTF-8)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/allonscale.jpg)](http://translate.google.com/translate?u=http%3A%2F%2Fwww.allonscale.nl%2F&sl=nl&tl=en&hl=&ie=UTF-8)
 
 Photo: Maasmond Maritime
 

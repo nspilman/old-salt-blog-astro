@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Today is the birthday of Herman Melville, one of the greatest American writers. He was born in 1819 on Pearl Street in downtown Manhattan, almost directly across the Hudson from where I am now writing this post. He will always … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/melville.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/melville.jpg)
 
 Herman Melville
 

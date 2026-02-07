@@ -14,12 +14,12 @@ tags:
   - "Sargassum"
   - "texas"
   - "tourism"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/sargassumbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sargassumbeach.jpg"
 author: "Rick Spilman"
 description: "In 2019, we posted about an 8,850-kilometer Atlantic sargassum belt from the Gulf of Mexico to West Africa. The floating mat of the brown buoyant seaweed had a devastating impact on beaches across the east coast of Mexico, the Caribbean, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/sargassumbeach.jpg)In 2019, we posted about an [8,850-kilometer Atlantic sargassum belt from the Gulf of Mexico to West Africa](https://www.oldsaltblog.com/2019/07/the-8850-kilometer-great-atlantic-sargassum-belt-from-the-gulf-to-west-africa/). The floating mat of the brown buoyant seaweed had a devastating impact on beaches across the east coast of Mexico, the Caribbean, Texas, and Florida. The researchers said that this sargassum belt represented the world’s largest macroalgal bloom and that such recurrent blooms may become the new normal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/sargassumbeach.jpg)In 2019, we posted about an [8,850-kilometer Atlantic sargassum belt from the Gulf of Mexico to West Africa](https://www.oldsaltblog.com/2019/07/the-8850-kilometer-great-atlantic-sargassum-belt-from-the-gulf-to-west-africa/). The floating mat of the brown buoyant seaweed had a devastating impact on beaches across the east coast of Mexico, the Caribbean, Texas, and Florida. The researchers said that this sargassum belt represented the world’s largest macroalgal bloom and that such recurrent blooms may become the new normal.
 
 Now, a new sargassum bloom is befouling pristine beaches on Mexico’s east coast and across the Caribbean, threatening a post-COVID tourism rebound in the region.
 

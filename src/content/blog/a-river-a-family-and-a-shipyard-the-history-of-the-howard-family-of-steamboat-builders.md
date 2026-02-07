@@ -13,7 +13,7 @@ tags:
   - "Indiana"
   - "Jeffersonville"
   - "steamboat builder"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/howardshipbuilding.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/howardshipbuilding.jpg"
 author: "Rick Spilman"
 description: "The Howard Steamboat Museum recently posted a video \"A River, a Family, and a Shipyard: The History of the Howard Family of Steamboat Builders\" that tells the story of James Howard and the Howard Family, who were the most successful … Continue reading &rarr;"
 ---

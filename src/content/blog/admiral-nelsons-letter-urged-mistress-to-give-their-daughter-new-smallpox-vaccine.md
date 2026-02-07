@@ -11,12 +11,12 @@ tags:
   - "Lady Emma Hamilton"
   - "smallpox vaccine"
   - "Vaccination"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/nelson1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nelson1.jpg"
 author: "Rick Spilman"
 description: "A recently unearthed letter from Admiral Horatio Nelson to his mistress, Lady Emma Hamilton, written in 1801, reveals Nelson recommending that their six-month-old baby daughter be given the smallpox vaccine developed by Edward Jenner just three years before. It is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/nelson1.jpg)A [recently unearthed letter from Admiral Horatio Nelson to his mistress](https://www.theguardian.com/world/2021/feb/14/nelson-urged-mistress-to-give-their-baby-girl-new-smallpox-vaccine), Lady Emma Hamilton, written in 1801, reveals Nelson recommending that their six-month-old baby daughter be given the smallpox vaccine developed by [Edward Jenner](https://www.jenner.ac.uk/about/edward-jenner) just three years before.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nelson1.jpg)A [recently unearthed letter from Admiral Horatio Nelson to his mistress](https://www.theguardian.com/world/2021/feb/14/nelson-urged-mistress-to-give-their-baby-girl-new-smallpox-vaccine), Lady Emma Hamilton, written in 1801, reveals Nelson recommending that their six-month-old baby daughter be given the smallpox vaccine developed by [Edward Jenner](https://www.jenner.ac.uk/about/edward-jenner) just three years before.
 
 It is difficult to overstate what a scourge smallpox was in previous centuries. The [case-fatality rate varied from 20% to 60%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200696/) and left most survivors with disfiguring scars. The case-fatality rate in infants was even higher, approaching 80% in London … during the late 1800s.
 

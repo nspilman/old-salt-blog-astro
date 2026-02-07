@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Lewis Bennett, 38, a British engineer, was recently arrested by the FBI on charges related to possession of stolen rare silver and gold coins. The story behind the arrest gets very strange, involving a Caribbean theft, a missing wife, and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/surfintosummer.jpg)Lewis Bennett, 38, a British engineer, was recently arrested by the FBI on charges related to possession of stolen rare silver and gold coins. The story behind the arrest gets very strange, involving a Caribbean theft, a missing wife, and a sunken catamaran.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/surfintosummer.jpg)Lewis Bennett, 38, a British engineer, was recently arrested by the FBI on charges related to possession of stolen rare silver and gold coins. The story behind the arrest gets very strange, involving a Caribbean theft, a missing wife, and a sunken catamaran.
 
 On May 14th, Bennett was sailing with his wife, [Isabella Hellman](http://people.com/crime/five-things-to-know-missing-at-sea-mom-isabella-hellmann/) from Cuba to Florida. They had married in February and were on a delayed honeymoon on their 37′ catamaran, *Surf into Summer*.  They have a 9-month-old daughter who was not with them aboard the boat.
 

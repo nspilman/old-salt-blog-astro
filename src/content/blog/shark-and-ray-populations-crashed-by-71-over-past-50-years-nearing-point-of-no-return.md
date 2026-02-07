@@ -11,12 +11,12 @@ tags:
   - "oceanic sharks"
   - "Overfishing"
   - "rays"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/shark1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/shark1.jpg"
 author: "Rick Spilman"
 description: "A recent study, published in the journal Nature, reveals that oceanic shark and ray populations have declined by 71%, primarily due to overfishing. The New York Times quotes Nathan Pacoureau, a marine biologist at Simon Fraser University in Canada and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/shark1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/shark1.jpg)
 
 [Photo: Terry Goss](https://commons.wikimedia.org/w/index.php?curid=1561215)
 

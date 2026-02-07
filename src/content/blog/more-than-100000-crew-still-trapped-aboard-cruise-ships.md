@@ -16,12 +16,12 @@ tags:
   - "pandemic"
   - "repatriation"
   - "Royal Caribbean Cruises"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg"
 author: "Rick Spilman"
 description: "The Miami Herald recently helped to quantify the scale of the crew repatriation crisis aboard cruise ships around the world. They report that \"two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg)The [Miami Herald recently helped to quantify](https://www.miamiherald.com/news/business/tourism-cruises/article242565281.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top) the scale of the crew repatriation crisis aboard cruise ships around the world. They report that “two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 crew members remain trapped at sea with little reliable information about what will happen to them.” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg)The [Miami Herald recently helped to quantify](https://www.miamiherald.com/news/business/tourism-cruises/article242565281.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top) the scale of the crew repatriation crisis aboard cruise ships around the world. They report that “two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 crew members remain trapped at sea with little reliable information about what will happen to them.” 
 
 When the cruise lines first shut down on March 13, they anticipated being back in service within about a month, much like the SARS pandemic of 2002. Then on April 9, the U.S. Centers for Disease Control and Prevention banned cruising in U.S. waters through at least late July. The CDC also imposed tough new rules for sending crew home, effectively banning the use of public transportation for crews traveling to or from cruise ships. Other countries also imposed new and tough regulations for repatriation.
 

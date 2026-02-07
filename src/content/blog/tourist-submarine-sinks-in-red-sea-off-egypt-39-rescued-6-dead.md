@@ -15,12 +15,12 @@ tags:
   - "Sindbad Submarines"
   - "six Russians died"
   - "submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/sinbad.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/sinbad.jpg"
 author: "Rick Spilman"
 description: "Reuters reports that on Thursday morning, six Russians died and 39 foreign passengers were rescued when a tourist submarine sank off the Egyptian Red Sea resort of Hurghada. The Red Sea Governorate said the submarine, named Sindbad, had 50 people … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/sinbad.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/sinbad.jpg)  
 [Reuters](https://www.reuters.com/world/africa/six-foreigners-killed-sinking-tourist-submarine-off-egypts-red-sea-resort-city-2025-03-27/?fbclid=IwY2xjawJSkXNleHRuA2FlbQIxMQABHRhk92YDJCR44jrTN0K3I_qBNjAMf66zDAWxYTUDL4mtu6u4FrAo3JTOLw_aem_esJgBscHOhj3Gt3XKEGQ4A) reports that on Thursday morning, six Russians died and 39 foreign passengers were rescued when a tourist submarine sank off the Egyptian Red Sea resort of Hurghada.
 
 The Red Sea Governorate said the submarine, named *Sindbad*, had 50 people onboard: 45 tourists of different nationalities from Russia, India, Norway, and Sweden, and five Egyptian crew members. 

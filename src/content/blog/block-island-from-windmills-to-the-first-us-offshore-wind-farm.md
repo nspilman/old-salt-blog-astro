@@ -11,12 +11,12 @@ tags:
   - "NASA"
   - "Rhode Island"
   - "wind farm"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/blockwindfarm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/blockwindfarm.jpg"
 author: "Rick Spilman"
 description: "We recently sailed to Block Island, a picturesque windswept island, roughly a dozen miles off the coast of Rhode Island. A haven for vacationers, Block Island also features the first commercial offshore wind farm in the United States. Five 6MW … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/blockwindfarm.jpg)We recently sailed to [Block Island](https://en.wikipedia.org/wiki/Block_Island), a picturesque windswept island, roughly a dozen miles off the coast of Rhode Island. A haven for vacationers, Block Island also features [the first commercial offshore wind farm](http://www.oldsaltblog.com/2016/12/deepwater-wind-first-us-offshore-wind-farm-goes-live-off-block-island/) in the United States. Five 6MW turbines spin three miles south-est of the island generating enough electricity to power 17,000 homes. The wind farm is small by international standards but is an important first step.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/blockwindfarm.jpg)We recently sailed to [Block Island](https://en.wikipedia.org/wiki/Block_Island), a picturesque windswept island, roughly a dozen miles off the coast of Rhode Island. A haven for vacationers, Block Island also features [the first commercial offshore wind farm](http://www.oldsaltblog.com/2016/12/deepwater-wind-first-us-offshore-wind-farm-goes-live-off-block-island/) in the United States. Five 6MW turbines spin three miles south-est of the island generating enough electricity to power 17,000 homes. The wind farm is small by international standards but is an important first step.
 
 It is fitting that Block Island hosts the first US offshore wind farm, as it has a history of utilizing wind power that stretches back over 200 years. An updated repost.
 

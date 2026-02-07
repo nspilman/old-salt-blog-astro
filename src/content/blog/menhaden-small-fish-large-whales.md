@@ -10,12 +10,12 @@ tags:
   - "humpback"
   - "menhaden"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/menhaden200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/menhaden200.jpg"
 author: "Rick Spilman"
 description: "Last week, a humpback whale swam into the Hudson River as far north as the George Washington Bridge. Humpbacks have been returning to the waters around New York in significant numbers in recent years, although a whale swimming in the … Continue reading &rarr;"
 ---
 
-![menhaden1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/menhaden1.jpg)Last week, a [humpback whale swam into the Hudson River](http://www.oldsaltblog.com/2016/11/humpback-whale-new-yorks-inner-harbor/) as far north as the George Washington Bridge. Humpbacks have been returning to the waters around New York in significant numbers in recent years, although a whale swimming in the inner harbor is extremely rare. Ninety miles to the east, in the Shinnecock Canal on Long Island, [tens of thousands of menhaden,](http://easthamptonstar.com/Lead-article/20161114/Massive-Fish-Kill-Clogs-Shinnecock-Canal) also known as bunker fish, clogged the canal. There were so many fish in the restricted waterway that they used up all the oxygen in the water and died. A clean-up is underway.
+![menhaden1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/menhaden1.jpg)Last week, a [humpback whale swam into the Hudson River](http://www.oldsaltblog.com/2016/11/humpback-whale-new-yorks-inner-harbor/) as far north as the George Washington Bridge. Humpbacks have been returning to the waters around New York in significant numbers in recent years, although a whale swimming in the inner harbor is extremely rare. Ninety miles to the east, in the Shinnecock Canal on Long Island, [tens of thousands of menhaden,](http://easthamptonstar.com/Lead-article/20161114/Massive-Fish-Kill-Clogs-Shinnecock-Canal) also known as bunker fish, clogged the canal. There were so many fish in the restricted waterway that they used up all the oxygen in the water and died. A clean-up is underway.
 
 In a very real sense, the two events were related.
 

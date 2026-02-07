@@ -10,12 +10,12 @@ tags:
   - "iceberg"
   - "Larsen C Ice Shelf"
   - "South Georgia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/A68a.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/A68a.jpg"
 author: "Rick Spilman"
 description: "In July 2017, we posted about the calving of a massive iceberg from Antarctica’s Larsen C ice-shelf. The iceberg, which would be designated as A68a, is the world’s biggest iceberg, weighing roughly one trillion tons and measuring 4,200 sq km, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/A68a.jpg)In July 2017, [we posted about the calving of a massive iceberg](http://www.oldsaltblog.com/2017/07/larsen-c-iceberg-calves-trillion-tons-ice-size-delaware/) from Antarctica’s Larsen C ice-shelf. The iceberg, which would be designated as [A68a](https://en.wikipedia.org/wiki/Iceberg_A-68), is the world’s biggest iceberg, weighing roughly one trillion tons and measuring 4,200 sq km, or almost the size of the state of Delaware.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/A68a.jpg)In July 2017, [we posted about the calving of a massive iceberg](http://www.oldsaltblog.com/2017/07/larsen-c-iceberg-calves-trillion-tons-ice-size-delaware/) from Antarctica’s Larsen C ice-shelf. The iceberg, which would be designated as [A68a](https://en.wikipedia.org/wiki/Iceberg_A-68), is the world’s biggest iceberg, weighing roughly one trillion tons and measuring 4,200 sq km, or almost the size of the state of Delaware.
 
 At first, A68a stayed more or less stationary, temporarily aground close to the ice-shelf. In July, [it broke free and started to drift.](https://www.bbc.com/news/science-environment-48920168) There is now a real concern that [A68a is on a collision course](https://www.bbc.com/news/science-environment-54798031) with the British Overseas Territory of South Georgia. The massive berg is roughly the same length as South Georgia island itself. There is now a strong possibility that the berg could ground and anchor itself offshore of the wildlife haven. If that happens, it poses a grave threat to local penguins and seals.
 

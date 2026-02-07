@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A 19-foot boat, which has been missing since last July, has been recovered in the Atlantic, restarting the saga of two families’ tragedy involving their two missing sons, lawyers, lawsuits, and suggestions of abduction and foul play. On Friday, July … Continue reading &rarr;"
 ---
 
-![missingboat](http://www.oldsaltblog.com/wp-content/uploads/2016/04/missingboat.jpg)A [19-foot boat, which has been missing since last July](http://www.cnn.com/2016/04/23/world/florida-missing-teens-boat/), has been recovered in the Atlantic, restarting the saga of two families’ tragedy involving their two missing sons, lawyers, lawsuits, and suggestions of abduction and foul play.
+![missingboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/missingboat.jpg)A [19-foot boat, which has been missing since last July](http://www.cnn.com/2016/04/23/world/florida-missing-teens-boat/), has been recovered in the Atlantic, restarting the saga of two families’ tragedy involving their two missing sons, lawyers, lawsuits, and suggestions of abduction and foul play.
 
 On Friday, July 28th, 2015, [two fourteen-year-old boys, Austin Stephanos and Perry Cohen, headed out the Jupiter Inlet](http://www.nbcnews.com/news/us-news/austin-stephanos-perry-cohen-missing-florida-boaters-nowhere-be-found-n399526) into the Atlantic Ocean in a 19-foot open boat powered by a single outboard motor. That afternoon there were reports of squalls and high winds. The boys did not return to the inlet that evening.
 

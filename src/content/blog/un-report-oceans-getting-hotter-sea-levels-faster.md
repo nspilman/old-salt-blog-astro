@@ -13,12 +13,12 @@ tags:
   - "sea leve rise"
   - "special report"
   - "United Nations"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/specilareport.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/specilareport.jpg"
 author: "Rick Spilman"
 description: "A disturbing new report by the U.N. Intergovernmental Panel on Climate Change concludes that the rate at which the world’s oceans are heating up is accelerating and that sea levels are rising more quickly than previous predictions. The Special Report … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/specilareport.jpg)A disturbing new [report](https://www.ipcc.ch/srocc/home/) by the [U.N. Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/home/) concludes that the rate at which the world’s oceans are heating up is accelerating and that sea levels are rising more quickly than previous predictions. The [Special Report on the Ocean and Cryosphere in a Changing Climate](https://www.ipcc.ch/srocc/home/) notes that “the ocean is warmer, more acidic and less productive. Melting glaciers and ice sheets are causing sea level rise, and coastal extreme events are becoming more severe.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/specilareport.jpg)A disturbing new [report](https://www.ipcc.ch/srocc/home/) by the [U.N. Intergovernmental Panel on Climate Change](https://www.ipcc.ch/srocc/home/) concludes that the rate at which the world’s oceans are heating up is accelerating and that sea levels are rising more quickly than previous predictions. The [Special Report on the Ocean and Cryosphere in a Changing Climate](https://www.ipcc.ch/srocc/home/) notes that “the ocean is warmer, more acidic and less productive. Melting glaciers and ice sheets are causing sea level rise, and coastal extreme events are becoming more severe.”
 
 [NPR](https://www.npr.org/2019/09/25/755859707/earths-oceans-are-getting-hotter-and-higher-and-it-s-accelerating?origin=NOTIFY&fbclid=IwAR3OYbFonFk5GjfjhvSuk6s1sCIUDiugk064T-mO45cluCDTMQ3EY9fsK4E) reports that the report is a synthesis of the most up-to-date climate science on oceans and ice, and it lays out a stark reality: Ocean surface temperatures have been warming steadily since 1970, and for the past 25 years or so, they’ve been warming twice as fast.
 

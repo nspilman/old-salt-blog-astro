@@ -14,12 +14,12 @@ tags:
   - "murder arrest"
   - "Southampton"
   - "Zeebruge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/05/mscvirt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/mscvirt.jpg"
 author: "Rick Spilman"
 description: "The Independent reports that a 57-year-old man has been arrested on suspicion of murder after an altercation on a cruise ship in which another man, 60, died. Police rushed to the Southampton Docks on Monday morning to arrest the Exeter resident, after the cruise ship … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/05/mscvirt.jpg)[The Independent](https://www.independent.co.uk/news/uk/crime/msc-virtuosa-cruise-ship-murder-arrest-fight-b2745449.html) reports that a 57-year-old man has been arrested on [suspicion of murder](https://www.independent.co.uk/news/uk/home-news/metropolitan-police-southall-london-ambulance-service-police-crimestoppers-b2738843.html) after an altercation on a cruise ship in which another man, 60, died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/05/mscvirt.jpg)[The Independent](https://www.independent.co.uk/news/uk/crime/msc-virtuosa-cruise-ship-murder-arrest-fight-b2745449.html) reports that a 57-year-old man has been arrested on [suspicion of murder](https://www.independent.co.uk/news/uk/home-news/metropolitan-police-southall-london-ambulance-service-police-crimestoppers-b2738843.html) after an altercation on a cruise ship in which another man, 60, died.
 
 Police rushed to the [Southampton Docks](https://www.independent.co.uk/topic/southampton) on Monday morning to arrest the Exeter resident, after the cruise ship returned to shore.
 

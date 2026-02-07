@@ -13,12 +13,12 @@ tags:
   - "NY"
   - "Solar-Powered Tour Boat"
   - "Solaris"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/solaris.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/solaris.jpg"
 author: "Rick Spilman"
 description: "The Solaris, a solar-powered tour boat owned by the Hudson River Maritime Museum in Kingston, NY will provide trips across the Hudson River on Saturday and Sunday, October 19 and 20. (They also previously offered trips at the end of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/solaris.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/solaris.jpg)
 
 Solaris, docked at the Hudson River Maritime Museum in Kingston’s Rondout Basin
 

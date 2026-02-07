@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The US Coast Guard Research and Development Center (RDC) has begun testing and evaluation of several unmanned surface vehicles (USVs) off the south shore of Oahu, Hawaii. The testing is scheduled to run through early November, conducted in partnership with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/uscgunmanned.jpg)The [US Coast Guard Research and Development Center (RDC) has begun testing and evaluation of several unmanned surface vehicles](https://seapowermagazine.org/coast-guard-begins-testing-usvs-off-hawaii/) (USVs) off the south shore of Oahu, Hawaii. The testing is scheduled to run through early November, conducted in partnership with local Coast Guard units.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/uscgunmanned.jpg)The [US Coast Guard Research and Development Center (RDC) has begun testing and evaluation of several unmanned surface vehicles](https://seapowermagazine.org/coast-guard-begins-testing-usvs-off-hawaii/) (USVs) off the south shore of Oahu, Hawaii. The testing is scheduled to run through early November, conducted in partnership with local Coast Guard units.
 
 “The tests will focus on autonomous vessel systems from [Saildrone](https://www.saildrone.com/) and [Spatial Integration Systems](https://www.sisinc.org/), in addition to a USCG owned autonomous research vessel made by [Metal Shark](https://www.metalsharkboats.com/),” according to a press release issued by the Coast Guard 14th District.
 

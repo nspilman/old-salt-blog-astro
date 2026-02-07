@@ -10,12 +10,12 @@ tags:
   - "Elizabeth II"
   - "Manteo"
   - "Roanoke Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/elizabethII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/elizabethII.jpg"
 author: "Rick Spilman"
 description: "For the last four years, the \"Lost Colony\" replica 16th-century ship Elizabeth II has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/elizabethII.jpg)For the last four years, the “Lost Colony” replica 16th-century ship [*Elizabeth II*](https://www.roanokeisland.com/plan-your-visit/site-attractions/elizabeth-ii) has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not been in 14 years and has silted in places to depths of less than 5 feet.  It now looks like recently approved dredging will allow *Elizabeth II* to set sail again.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/elizabethII.jpg)For the last four years, the “Lost Colony” replica 16th-century ship [*Elizabeth II*](https://www.roanokeisland.com/plan-your-visit/site-attractions/elizabeth-ii) has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not been in 14 years and has silted in places to depths of less than 5 feet.  It now looks like recently approved dredging will allow *Elizabeth II* to set sail again.  
 
 The [*Elizabeth II* is a replica ship](https://www.friendsofelizabeth2.com/elizabeth-ii/) inspired by one of the ships used in Sir Walter Raliegh’s ill-fated attempt to establish the [first English colony in North America](https://en.wikipedia.org/wiki/Roanoke_Colony) in the 1580s  on Roanoke Island on the Outer Banks in what is now North Carolina. Because of the disappearance of 120 colonists around 1590, the expedition is often referred to as the “Lost Colony.”  
 

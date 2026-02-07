@@ -13,12 +13,12 @@ tags:
   - "monster"
   - "Nessie"
   - "Scotland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/lochness.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lochness.jpg"
 author: "Rick Spilman"
 description: "The Loch Ness Centre, in partnership with Loch Ness Exploration, is seeking to recruit a small army of volunteers to join in what is described as the biggest search for the Loch Ness monster in 50 years. The Quest weekend … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/lochness.jpg)The [Loch Ness Centre,](https://lochness.com/whats-on/the-quest/) in partnership with [Loch Ness Exploration](https://www.facebook.com/groups/470765477828717/), is seeking to recruit a small army of volunteers to join in what is described as the biggest search for the Loch Ness monster in 50 years. The Quest weekend is scheduled for Aug. 26 and 27.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lochness.jpg)The [Loch Ness Centre,](https://lochness.com/whats-on/the-quest/) in partnership with [Loch Ness Exploration](https://www.facebook.com/groups/470765477828717/), is seeking to recruit a small army of volunteers to join in what is described as the biggest search for the Loch Ness monster in 50 years. The Quest weekend is scheduled for Aug. 26 and 27.
 
 The [BBC](https://www.bbc.com/news/uk-scotland-highlands-islands-66393902) quotes Alan McKenna, of Loch Ness Exploration, “It’s our hope to inspire a new generation of Loch Ness enthusiasts and by joining this large scale surface watch, you’ll have a real opportunity to personally contribute towards this fascinating mystery that has captivated so many people from around the world.”
 

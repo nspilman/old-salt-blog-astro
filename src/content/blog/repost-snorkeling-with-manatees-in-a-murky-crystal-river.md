@@ -13,12 +13,12 @@ tags:
   - "Florida manatees"
   - "Lyngbya"
   - "water pollution"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/manatee1-e1649595378432.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/manatee1-e1649595378432.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about Florida manatees that are starving because pollution in Florida waterways has decimated the sea grass that manatees rely on as food during the winter months.  I was reminded of a post from 2017 about snorkeling with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/manatee1-e1649595378432.jpg)Yesterday, [we posted about Florida manatees](https://www.oldsaltblog.com/2022/04/update-florida-manatees-are-starving-10-tons-of-lettuce-may-be-too-little-too-late/) that are starving because pollution in Florida waterways has decimated the sea grass that manatees rely on as food during the winter months.  I was reminded of a [post from 2017](https://www.oldsaltblog.com/2017/01/manatee-monday-part-2-snorkeling-manatees-crystal-river/) about snorkeling with manatees in Crystal River, Florida that captured both the hope for manatee recovery while also observing the problem of water pollution.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/manatee1-e1649595378432.jpg)Yesterday, [we posted about Florida manatees](https://www.oldsaltblog.com/2022/04/update-florida-manatees-are-starving-10-tons-of-lettuce-may-be-too-little-too-late/) that are starving because pollution in Florida waterways has decimated the sea grass that manatees rely on as food during the winter months.  I was reminded of a [post from 2017](https://www.oldsaltblog.com/2017/01/manatee-monday-part-2-snorkeling-manatees-crystal-river/) about snorkeling with manatees in Crystal River, Florida that captured both the hope for manatee recovery while also observing the problem of water pollution.
 
 [2017 was actually a very good year](https://www.oldsaltblog.com/2017/01/manatee-monday-part-1-hopeful-still-uncertain-recovery/) for Florida manatees. The state manatee population had grown from just over a thousand in 1991 to over 6,000.  Regulations to limit boat speed in areas frequented by manatees have been largely successful as have efforts to preserve winter habitats.
 

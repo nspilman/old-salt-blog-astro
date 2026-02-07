@@ -14,12 +14,12 @@ tags:
   - "protection perimeter"
   - "Sir Ernest Shackleton"
   - "UK Antarctic Heritage Trust"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/endurancestern.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/endurancestern.jpg"
 author: "Rick Spilman"
 description: "In March of 2022, we posted about the discovery of the remarkably intact remains of Sir Ernest Shackleton’s ship Endurance, which was crushed by pack ice and sank off Antarctica in 1915. Using undersea drones, the shipwreck was located 10,000 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/endurancestern.jpg)In March of 2022, [we posted](https://www.oldsaltblog.com/2022/03/update-shackletons-lost-ship-endurance-discovered-after-107-years/) about the discovery of the remarkably intact remains of Sir Ernest Shackleton’s ship *Endurance*, which was crushed by pack ice and sank off Antarctica in 1915. Using undersea drones, the shipwreck was located 10,000 feet below the ice-covered surface of the Weddell Sea. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/endurancestern.jpg)In March of 2022, [we posted](https://www.oldsaltblog.com/2022/03/update-shackletons-lost-ship-endurance-discovered-after-107-years/) about the discovery of the remarkably intact remains of Sir Ernest Shackleton’s ship *Endurance*, which was crushed by pack ice and sank off Antarctica in 1915. Using undersea drones, the shipwreck was located 10,000 feet below the ice-covered surface of the Weddell Sea. 
 
 Recently, the [BBC](https://www.bbc.com/news/articles/cjr48y7n1r7o) reported that the protection perimeter drawn around *Endurance* is being widened from a radius of 500m to 1,500m. The measure is part of a newly published [conservation management plan](https://www.enduranceshipwreck.org/cmp-summary) (CMP).
 

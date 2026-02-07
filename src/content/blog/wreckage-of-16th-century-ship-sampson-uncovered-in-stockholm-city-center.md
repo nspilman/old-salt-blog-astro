@@ -14,12 +14,12 @@ tags:
   - "shipwreck"
   - "Stockholm"
   - "Sweden"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/samsonstockholm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/samsonstockholm.jpg"
 author: "Rick Spilman"
 description: "Like so many coastal cities, Stockholm has grown larger and its harbor smaller over time as landfill and buildings have replaced waterways and docks. The Local reports that over the past year, work has been going on in the Kungsträdgården … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/samsonstockholm.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/samsonstockholm.jpg)
 
 Archaeologists Daniel Matsenius and Philip Tonemar recovering the probable remnants of Samson, a ship built in the 16th century (Arkeologikonsult / Facebook)
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "If you are in the area on Friday, May 9th, at 8PM, be sure to stop by the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace in Staten Island where the legendary British folk singer Hughie … Continue reading &rarr;"
 ---
 
-[![Click on thumbnail for larger image](http://www.oldsaltblog.com/wp-content/uploads/2014/05/Hughie_flyer-300x402.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/05/Hughie_flyer.jpg)
+[![Click on thumbnail for larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/Hughie_flyer-300x402.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/Hughie_flyer.jpg)
 
 Click on thumbnail for larger image
 

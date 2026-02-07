@@ -11,7 +11,7 @@ tags:
   - "aircraft carrier"
   - "HMS Queen Elizabeth"
   - "sea trials"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/hmsqueenmaryseatrials.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/hmsqueenmaryseatrials.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy \"supercarrier\" HMS Queen Elizabeth is setting off for sea trials. Begun eight years ago and built at a cost of £3.6 billion, the carrier is the largest war ship ever constructed by Great Britain. After six weeks … Continue reading &rarr;"
 ---

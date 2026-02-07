@@ -11,12 +11,12 @@ tags:
   - "Andy Warhol"
   - "Brillo"
   - "soup"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/brillobox.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/brillobox.jpg"
 author: "Rick Spilman"
 description: "In 1964, pop-artist Andy Warhol shocked the art world by making hundreds of replicas of supermarket cartons and presenting them as art. He painted screenprints of soup cans, then sculptures of packaging for Kellogg’s cornﬂakes and Heinz ketchup. Among the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/brillobox.jpg)In 1964, pop-artist Andy Warhol shocked the art world by making hundreds of replicas of supermarket cartons and presenting them as art. He painted screenprints of soup cans, then sculptures of packaging for Kellogg’s cornﬂakes and Heinz ketchup. Among the most notorious were his sculptures of [boxes of Brillo soap pads](https://philamuseum.org/collection/object/89204). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/brillobox.jpg)In 1964, pop-artist Andy Warhol shocked the art world by making hundreds of replicas of supermarket cartons and presenting them as art. He painted screenprints of soup cans, then sculptures of packaging for Kellogg’s cornﬂakes and Heinz ketchup. Among the most notorious were his sculptures of [boxes of Brillo soap pads](https://philamuseum.org/collection/object/89204). 
 
 One of the many copies of [Brillo boxes](https://www.warhol.org/lessons/brillo-is-it-art/) sold at auction in 2010 for $3 million. [HBO would subsequently make a documentary](https://youtu.be/SPAV0hQe4Bk?si=pahA67-snhpMeq3o) about the pricey and somewhat controversial Brillo box sculpture.
 

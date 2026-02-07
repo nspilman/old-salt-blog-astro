@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "At about 9AM on January 15, 1942, the British tanker Coimbra, bound from Bayonne, NJ for Halifax, laden with 8,038 tons of lubricating oil, sank after being struck by two torpedoes fired by the German submarine U-123 off the southern shore … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/coimbra2.jpg)At about 9AM on January 15, 1942, the British tanker *[Coimbra](https://www.uboat.net/allies/merchants/1251.htm)*, bound from Bayonne, NJ for Halifax, laden with 8,038 tons of lubricating oil, sank after being struck by two torpedoes fired by the German submarine *U-123* off the southern shore of Long Island. Thirty-six of the 46 people aboard the tanker died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/coimbra2.jpg)At about 9AM on January 15, 1942, the British tanker *[Coimbra](https://www.uboat.net/allies/merchants/1251.htm)*, bound from Bayonne, NJ for Halifax, laden with 8,038 tons of lubricating oil, sank after being struck by two torpedoes fired by the German submarine *U-123* off the southern shore of Long Island. Thirty-six of the 46 people aboard the tanker died.
 
 Oil still trapped in the tanks of the sunken British tanker began leaking noticeably four years ago, creating a visible sheen above the wreck, which is in 185 feet of water, 30 miles off Long Island’s south shore. To address the environmental hazard, last May, divers supervised by the US Coast Guard began to remove the oil from eight tanks on the ship,  
 

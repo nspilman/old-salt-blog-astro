@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "One 109 years ago today, the RMS Titanic slipped below the icy waters of the North Atlantic after striking an iceberg. Close to 1,500 passengers and crew were lost, making the sinking the deadliest peacetime sinking of a passenger liner … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/titianicanniverssary.jpg)One 109 years ago today, the [RMS *Titanic*](https://en.wikipedia.org/wiki/Titanic) slipped below the icy waters of the North Atlantic after striking an iceberg. Close to 1,500 passengers and crew were lost, making the sinking the deadliest peacetime sinking of a passenger liner in history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/titianicanniverssary.jpg)One 109 years ago today, the [RMS *Titanic*](https://en.wikipedia.org/wiki/Titanic) slipped below the icy waters of the North Atlantic after striking an iceberg. Close to 1,500 passengers and crew were lost, making the sinking the deadliest peacetime sinking of a passenger liner in history.
 
 The *Titanic* had sailed from Southampton, UK five days earlier on April 10th. Coincidentally, 51 years later, on April 10, 1963, the nuclear attack submarine [USS *Thresher*](https://en.wikipedia.org/wiki/USS_Thresher_\(SSN-593\)) sank during deep-diving tests killing all 129 crew and shipyard personnel aboard. Also coincidentally, the *Thresher* sank relatively close to the wreck of the *Titanic*, although when the submarine sank, no one knew quite how close.
 

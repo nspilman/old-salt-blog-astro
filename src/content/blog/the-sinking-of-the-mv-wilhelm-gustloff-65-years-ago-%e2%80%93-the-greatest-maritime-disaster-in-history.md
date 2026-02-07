@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Many ships carrying civilians were sunk during World War II by both sides. If current estimates are correct, the torpedoing of the M/V Wilhelm Gustloff resulted in the largest loss of life from the sinking of one vessel in maritime … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/Wilhelm_Gustloff-_in_Danzig.jpg)Many ships carrying civilians were sunk during World War II by both sides. If current estimates are correct, the torpedoing of the *[M/V Wilhelm Gustloff](http://en.wikipedia.org/wiki/MV_Wilhelm_Gustloff)* resulted in the largest loss of life from the sinking of one vessel in maritime history.  Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing along the article.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Wilhelm_Gustloff-_in_Danzig.jpg)Many ships carrying civilians were sunk during World War II by both sides. If current estimates are correct, the torpedoing of the *[M/V Wilhelm Gustloff](http://en.wikipedia.org/wiki/MV_Wilhelm_Gustloff)* resulted in the largest loss of life from the sinking of one vessel in maritime history.  Thanks to [Alaric Bond](http://www.alaricbond.com/index.html) for passing along the article.
 
 [Sisters mark grim anniversary](http://www.windsorstar.com/news/Sisters+mark+grim+anniversary/2506847/story.html)  
   

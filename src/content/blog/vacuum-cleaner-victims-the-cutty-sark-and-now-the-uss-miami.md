@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "There is a new threat to our nautical heritage and our nation’s defense!  In 2007, the composite tea clipper Cutty Sark, built in 1869, was ravaged by fire.  An investigation revealed the culprit – an industrial vacuum cleaner.   Now, it appears … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/cuttymiami.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/cuttymiami.jpg)
 
 Victims of Vacuum Cleaners?
 

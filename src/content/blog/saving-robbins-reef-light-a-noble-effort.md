@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In November we posted about the Old Orchard Shoals Light, off Staten Island, NY, which was completely destroyed on October 30th by Hurricane Sandy.  The 130-year-old Robbins Reef Lighthouse, on the other side of the island   survived the storm, but still suffered significant damage.  As reported by the Staten Island … Continue reading &rarr;"
 ---
 
-![1](http://www.oldsaltblog.com/wp-content/uploads/2013/02/1.jpg)
+![1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/1.jpg)
 
 Photo: Brian DeForest
 

@@ -11,12 +11,12 @@ tags:
   - "funding"
   - "icebreaker"
   - "Polar Star"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/polarstar2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/polarstar2.jpg"
 author: "Rick Spilman"
 description: "Great news! Congress has restored $675 million in funding for new Coast Guard icebreakers that Homeland Security had diverted last year to build a border wall with Mexico. The funding is not coming a moment too soon. The US has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/polarstar2.jpg)Great news! Congress has restored [$675 million in funding for new Coast Guard icebreakers](https://www.stripes.com/news/congress-restores-funding-for-coast-guard-s-first-new-heavy-icebreaker-in-40-years-1.569253) that Homeland Security had diverted last year to build a border wall with Mexico. The funding is not coming a moment too soon. The US has only one operational heavy icebreaker, the [USCGC *Polar Star*](https://en.wikipedia.org/wiki/USCGC_Polar_Star_\(WAGB-10\)), which is over 40 years old and has persistent maintenance issues. (We recently [posted about the heroic efforts of the officers and crew](http://www.oldsaltblog.com/2019/02/polar-star-in-the-antarctic-still-hanging-on-despite-repeated-breakdowns/) in keeping the USCG *Polar Star* in service.) 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/polarstar2.jpg)Great news! Congress has restored [$675 million in funding for new Coast Guard icebreakers](https://www.stripes.com/news/congress-restores-funding-for-coast-guard-s-first-new-heavy-icebreaker-in-40-years-1.569253) that Homeland Security had diverted last year to build a border wall with Mexico. The funding is not coming a moment too soon. The US has only one operational heavy icebreaker, the [USCGC *Polar Star*](https://en.wikipedia.org/wiki/USCGC_Polar_Star_\(WAGB-10\)), which is over 40 years old and has persistent maintenance issues. (We recently [posted about the heroic efforts of the officers and crew](http://www.oldsaltblog.com/2019/02/polar-star-in-the-antarctic-still-hanging-on-despite-repeated-breakdowns/) in keeping the USCG *Polar Star* in service.) 
 
 The Coast Guard will receive $655 million to begin building an icebreaker to replace the *Polar Star* and $20 million more to begin buying materials for a second such vessel.
 

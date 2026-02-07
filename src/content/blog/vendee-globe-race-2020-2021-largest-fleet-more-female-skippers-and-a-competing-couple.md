@@ -12,12 +12,12 @@ tags:
   - "Romain Attanasio"
   - "Samantha (Sam) Davies"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg"
 author: "Rick Spilman"
 description: "The 2020-2021 Vendee Globe Race set off last Sunday from Les Sables-d’Olonne, France. The 24,000 nautical miles race, sailed every four years, is billed as the world’s greatest singlehanded, non-stop, yacht race. Notwithstanding the impact of the global pandemic, this … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg)The [2020-2021 Vendee Globe Race](https://www.vendeeglobe.org/en) set off last Sunday from Les Sables-d’Olonne, France. The 24,000 nautical miles race, sailed every four years, is billed as the world’s greatest singlehanded, non-stop, yacht race. Notwithstanding the impact of the global pandemic, this year’s race is notable for attracting the largest fleet in the history of the race. There are also more woman skippers than ever before, and even one couple sailing in competition with each other and the rest of the fleet.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/daviesomoca60.jpg)The [2020-2021 Vendee Globe Race](https://www.vendeeglobe.org/en) set off last Sunday from Les Sables-d’Olonne, France. The 24,000 nautical miles race, sailed every four years, is billed as the world’s greatest singlehanded, non-stop, yacht race. Notwithstanding the impact of the global pandemic, this year’s race is notable for attracting the largest fleet in the history of the race. There are also more woman skippers than ever before, and even one couple sailing in competition with each other and the rest of the fleet.
 
 ### Fleet Size and Makeup
 

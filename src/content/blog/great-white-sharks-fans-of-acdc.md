@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "And speaking of \"music of the sea\", an intriguing story from Australia.  When Matt Waller, a tour operator in Neptune Bay, Australia, attached speakers to shark cages and played the heavy metal band AC/DC, he discovered that the great white sharks became … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/42-25010240.jpg)And speaking of “music of the sea”, an intriguing story from Australia.  When Matt Waller, a tour operator in Neptune Bay, Australia, attached speakers to shark cages and played the heavy metal band AC/DC, he discovered that the great white sharks became less aggressive and more inquisitive, which is odd because AC/DC seems to have exactly the opposite effect on human teenagers.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/42-25010240.jpg)And speaking of “music of the sea”, an intriguing story from Australia.  When Matt Waller, a tour operator in Neptune Bay, Australia, attached speakers to shark cages and played the heavy metal band AC/DC, he discovered that the great white sharks became less aggressive and more inquisitive, which is odd because AC/DC seems to have exactly the opposite effect on human teenagers.
 
 [Heavy Metal Under the Sea: Sharks Act Calmer When Listening to AC/DC](http://newsfeed.time.com/2011/06/06/heavy-metal-under-the-sea-sharks-act-calmer-when-listening-to-acdc/)  
   

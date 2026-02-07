@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last weekend in Tampa, FL was the annual Gasparilla Pirate Festival.   The festival has been a yearly event for the better part of a century. It celebrates the life and times of the \"Last Buccaneer,\" the pirate Jose Gaspar, also known as Gasparilla, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/pantherjohn.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/pantherjohn.jpg)
 
 Panther John
 

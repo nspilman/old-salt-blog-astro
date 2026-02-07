@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "At the end of January, we posted about a shipwreck that was suspected to be the remains of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreck was roughly in the right place on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/clotildainsurace.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/clotildainsurace.jpg)
 
 Insurance document for slave schooner Clotilda
 

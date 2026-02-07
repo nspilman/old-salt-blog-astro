@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/Statsraad-Lehmkuhl.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/Statsraad-Lehmkuhl.jpg"
 author: "Rick Spilman"
 description: "The three masted barque Statsraad Lehmkuhl is many things. Based in Bergen, Norway, at 102 years old, she is Norway’s largest and oldest square-rigged sailing ship. She is also very beautiful and very fast. In this year’s Tall Ship Races, she … Continue reading &rarr;"
 ---
 
-![statsraad-lehmkuhl](http://www.oldsaltblog.com/wp-content/uploads/2016/12/Statsraad-Lehmkuhl.jpg)The three masted barque [*Statsraad Lehmkuhl*](http://www.lehmkuhl.no/english/) is many things. Based in Bergen, Norway, at 102 years old, she is Norway’s largest and oldest square-rigged sailing ship. She is also very beautiful and very fast.
+![statsraad-lehmkuhl](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/Statsraad-Lehmkuhl.jpg)The three masted barque [*Statsraad Lehmkuhl*](http://www.lehmkuhl.no/english/) is many things. Based in Bergen, Norway, at 102 years old, she is Norway’s largest and oldest square-rigged sailing ship. She is also very beautiful and very fast.
 
 In this year’s [Tall Ship Races](http://www.sailtraininginternational.org/events/2016-the-tall-ships-races/race-results-2016), she placed first overall among Class A sailing ships in the races between Antwerp, Lisbon, Cadiz, and A Coruña. On her way back to Bergen, the captain reported that they sailed a measured distance of 1556 nautical miles within a 124 hour period, for an average speed of 12.5 knots. [The News in English.No](http://www.newsinenglish.no/?s=statsraad+lehmkuhl) boasts “*Never before has a sailing ship sailed so far in such a short time as Statsraad Lehmkuhl did on Sunday*.” Whether that is entirely accurate may be the topic of some discussion, but it is an impressive speed run regardless. In 2013, Statsraad Lehmkuhl sailed 1,469 nautical miles between Cape Verde and the United States in 124 hours, which has also been represented as a [world record speed on a sailing ship for that route](https://thornews.com/2013/12/07/set-new-world-record-crossing-the-atlantic/).
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "After spending the better part of a month getting to Nome, Alaska to deliver an emergency supply of fuel to last the winter, the ice-strengthened Russian tanker Renda has finally off-loaded its cargo – 1.3 million gallons of diesel fuel and gasoline … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/renda-healy-side-side.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/renda-healy-side-side.jpg)
 
 Photo: David Dodman, KNOM Radio Mission
 

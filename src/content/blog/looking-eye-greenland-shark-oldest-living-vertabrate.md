@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "In 2014, we posted about Joel Abrahamsson, from Gothenburg, Sweden, who set a record for kayak fishing by catching a 15′ long 1,247 pound Greenland shark while fishing from a kayak near the island of Andoria, in Norway.  We noted that the fish, which … Continue reading &rarr;"
 ---
 
-![greenlandshark1](http://www.oldsaltblog.com/wp-content/uploads/2016/10/greenlandshark1.jpg)
+![greenlandshark1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/greenlandshark1.jpg)
 
 Photo: NOAA Okeanos Explorer Program
 

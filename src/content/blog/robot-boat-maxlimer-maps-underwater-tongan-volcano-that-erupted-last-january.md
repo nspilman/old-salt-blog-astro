@@ -15,12 +15,12 @@ tags:
   - "Tonga"
   - "Uncrewed Surface Vessel"
   - "volcano"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/maxlimer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/maxlimer.jpg"
 author: "Rick Spilman"
 description: "Last January, a major underwater eruption of the Hunga-Tonga Hunga-Haʻapai (HTHH) volcano caused a tsunami that hit the Pacific country of Tonga. Now, the BBC reports that a robot vessel, the 12m-long Uncrewed Surface Vessel (USV) Maxlimer, has returned from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/maxlimer.jpg)Last January, a [major underwater eruption of the Hunga-Tonga Hunga-Haʻapai (HTHH) volcano](https://www.oldsaltblog.com/2022/01/underwater-volcanic-eruption-near-tonga-triggers-tsunami/) caused a tsunami that hit the Pacific country of Tonga. Now, the [BBC](https://www.bbc.com/news/science-environment-62606589) reports that a robot vessel, the 12m-long Uncrewed Surface Vessel (USV) *Maxlimer*, has returned from an initial survey, having completed a partial mapping of the opening, or caldera, of the underwater volcano.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/maxlimer.jpg)Last January, a [major underwater eruption of the Hunga-Tonga Hunga-Haʻapai (HTHH) volcano](https://www.oldsaltblog.com/2022/01/underwater-volcanic-eruption-near-tonga-triggers-tsunami/) caused a tsunami that hit the Pacific country of Tonga. Now, the [BBC](https://www.bbc.com/news/science-environment-62606589) reports that a robot vessel, the 12m-long Uncrewed Surface Vessel (USV) *Maxlimer*, has returned from an initial survey, having completed a partial mapping of the opening, or caldera, of the underwater volcano.
 
 The *Maxlimer* may be in Tonga, but it is being remotely controlled from 16,000km away in the small coastal village of Tollesbury in Essex. Everything is done over a satellite link.
 

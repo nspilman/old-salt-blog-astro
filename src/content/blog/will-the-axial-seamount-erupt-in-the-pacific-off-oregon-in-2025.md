@@ -11,12 +11,12 @@ tags:
   - "erupt in 2025"
   - "Oregon State University"
   - "Pacific Ocean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/axial.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/axial.jpg"
 author: "Rick Spilman"
 description: "Seismologists at Oregon State University predict that the Axial Seamount, Oregon’s most active underwater volcano, could erupt in 2025.  The seamount, located 300 miles from the state’s coast and one mile beneath the Pacific Ocean’s surface, has been swelling at … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/01/axial.jpg)Seismologists at Oregon State University predict that the Axial Seamount, Oregon’s most active underwater volcano, could erupt in 2025.  The seamount, located 300 miles from the state’s coast and one mile beneath the Pacific Ocean’s surface, has been swelling at a steady rate for the past six months, with seismic activity totaling hundreds of earthquakes per day, according to an [Oregon State University blog](https://axial.ceoas.oregonstate.edu/axial_blog.html) that chronicles eruption predictions of the sea volcano.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/axial.jpg)Seismologists at Oregon State University predict that the Axial Seamount, Oregon’s most active underwater volcano, could erupt in 2025.  The seamount, located 300 miles from the state’s coast and one mile beneath the Pacific Ocean’s surface, has been swelling at a steady rate for the past six months, with seismic activity totaling hundreds of earthquakes per day, according to an [Oregon State University blog](https://axial.ceoas.oregonstate.edu/axial_blog.html) that chronicles eruption predictions of the sea volcano.
 
 The good news is that the seamount doesn’t pose a threat to humans. However, observing what happens before and after its potential eruption could help scientists learn about submerged volcanoes and improve the accuracy of their predictions.
 

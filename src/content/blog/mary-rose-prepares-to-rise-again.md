@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Depending on how you look at it, there is either good or bad news about the Mary Rose.  The Mary Rose is the only only 16th century warship on display anywhere in the world. She was one of the first … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/07/maryrose.jpg)Depending on how you look at it, there is either good or bad news about the *[Mary Rose](http://www.maryrose.org/)*.  The *Mary Rose* is the only only 16th century warship on display anywhere in the world. She was one of the first ships able to fire a broadside, and was a favorite of King Henry VIII.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/maryrose.jpg)Depending on how you look at it, there is either good or bad news about the *[Mary Rose](http://www.maryrose.org/)*.  The *Mary Rose* is the only only 16th century warship on display anywhere in the world. She was one of the first ships able to fire a broadside, and was a favorite of King Henry VIII.
 
 The bad news is that her exhibit in Portsmouth is closing for three years.   The good news is that a new 35 million pound museum is being built to house her in the manner she so richly deserves.
 

@@ -12,12 +12,12 @@ tags:
   - "Bayshore Center"
   - "Clark &amp; Eisele Traditional Boatbuilding"
   - "official tall ship of the State of New Jersey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/ajmeerwald.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ajmeerwald.jpg"
 author: "Rick Spilman"
 description: "The A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at Clark & Eisele Traditional Boatbuilding of Lincolnville, Maine. The Meerwald is also the \"Official Tall Ship\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ajmeerwald.jpg)The [*A.J. Meerwald*](https://www.bayshorecenter.org/our-ship/), a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at [Clark & Eisele Traditional Boatbuilding](https://www.facebook.com/clarkandeisele) of Lincolnville, Maine. The *Meerwald* is also the “Official Tall Ship” of the State of New Jersey and was included in the National Register of Historic Places on November 7, 1995.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ajmeerwald.jpg)The [*A.J. Meerwald*](https://www.bayshorecenter.org/our-ship/), a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at [Clark & Eisele Traditional Boatbuilding](https://www.facebook.com/clarkandeisele) of Lincolnville, Maine. The *Meerwald* is also the “Official Tall Ship” of the State of New Jersey and was included in the National Register of Historic Places on November 7, 1995.
 
 The [Bangor Daily News](https://www.bangordailynews.com/2022/07/12/news/midcoast/historic-renovation-by-maine-boatbuilders-transformed-n6hjn1me0n/) quotes Garett Eisele, co-owner of the boatyard, saying, “It feels good to get the Meerwald and make her really look brand-new.  We are really excited to see the boat in the water. We are really pleased with how it turned out.”
 

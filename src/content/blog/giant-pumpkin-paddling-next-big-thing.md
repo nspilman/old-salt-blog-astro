@@ -9,12 +9,12 @@ tags:
   - "Giant Pumpkin"
   - "paddling"
   - "Regatta"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/pumpkinrace.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/pumpkinrace.jpg"
 author: "Rick Spilman"
 description: "Giant pumpkin paddling is apparently a new, hot water sport, with competitions around the globe. Who knew? From Nova Scotia, to Maine, Wisconsin, Minnesota, Oregon, Germany and the United Kingdom, people are carving out giant pumpkins, hopping aboard with a … Continue reading &rarr;"
 ---
 
-![pumpkinrace](http://www.oldsaltblog.com/wp-content/uploads/2016/10/pumpkinrace.jpg)Giant pumpkin paddling is apparently a new, hot water sport, with competitions around the globe. Who knew? From Nova Scotia, to Maine, Wisconsin, Minnesota, Oregon, Germany and the United Kingdom, people are carving out giant pumpkins, hopping aboard with a paddle and competing in regattas and solo events.
+![pumpkinrace](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/pumpkinrace.jpg)Giant pumpkin paddling is apparently a new, hot water sport, with competitions around the globe. Who knew? From Nova Scotia, to Maine, Wisconsin, Minnesota, Oregon, Germany and the United Kingdom, people are carving out giant pumpkins, hopping aboard with a paddle and competing in regattas and solo events.
 
 The races are paddled in giant pumpkins which originally weighed between 400 and 1,200 pounds. They are carved out to allow room for the paddler and to make the craft as light as possible for paddling. 
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - "Alex Thomson"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/alexthomson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/alexthomson.jpg"
 author: "Rick Spilman"
 description: "More than 4,000 people have climbed Mount Everest. More than 600 people have been in outer space. Yet fewer than 100 people have sailed solo non-stop around the world. What does it take to race around the globe alone? Skill, obviously. Physical … Continue reading &rarr;"
 ---

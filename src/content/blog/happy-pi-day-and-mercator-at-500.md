@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Today 3/14 is Pi day, a celebration of the irrational number that defines circles and spheres. Why celebrate Pi? Why not.  Circles and spheres have their own magic, from soap bubbles to the globe, as does Pi, a number that never … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/mercator.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/mercator.jpg)
 
 Rumold Mercator's double-hemisphere world map, ca. 1637. NYPL, Lionel Pincus and Princess Firyal Map Division.
 

@@ -7,7 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/02/elfarotserika.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/elfarotserika.jpg"
 author: "Rick Spilman"
 description: "Three years ago this week, the ro/ro container ship El Faro sank with all hands in Hurricane Joaquin northeast of Crooked Island in the Bahamas. The 28 American crew and 5 Polish repair technicians died.  Recently the  National Transportation Safety Board … Continue reading &rarr;"
 ---

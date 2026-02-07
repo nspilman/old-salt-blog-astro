@@ -17,12 +17,12 @@ tags:
   - "SS Central America"
   - "Tommy Thompson"
   - "treasure hunter"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/capants.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/capants.jpg"
 author: "Rick Spilman"
 description: "On September 12, 1857, the 289-foot-long sidewheel steamer SS Central America sank in a hurricane off the US East Coast. When she sank, 425 of her 578 passengers and crew were drowned and 30,000 pounds (13,600 kg) of gold from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/capants.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/capants.jpg)
 
 Photo: Holabird Western Americana Collections
 

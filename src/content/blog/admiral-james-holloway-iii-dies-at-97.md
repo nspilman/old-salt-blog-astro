@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and \"finally got to landing on that great big carrier in the sky.\" Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/admholloway.jpg)[Admiral James Holloway III](https://www.history.navy.mil/content/history/nhhc/research/histories/biographies-list/bios-h/holloway-james-l.html) has died at the age of 97. He had dementia, said his daughter Jane Holloway, and “finally got to landing on that great big carrier in the sky.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/admholloway.jpg)[Admiral James Holloway III](https://www.history.navy.mil/content/history/nhhc/research/histories/biographies-list/bios-h/holloway-james-l.html) has died at the age of 97. He had dementia, said his daughter Jane Holloway, and “finally got to landing on that great big carrier in the sky.”
 
 Seventy-five years ago, on October 25, 1944, Holloway served as a gunnery officer on the destroyer *Bennion*. During the [Battle of Surigao Strait](http://www.historyofwar.org/articles/battles_surigao_strait.html), his ship scored a direct torpedo hit at point-blank range to help sink the battleship *Yamashiro*, sank the Japanese destroyer *Asagumo* with gunfire, and shot down three Zeros.
 

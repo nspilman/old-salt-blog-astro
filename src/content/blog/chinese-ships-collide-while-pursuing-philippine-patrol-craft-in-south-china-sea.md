@@ -18,12 +18,12 @@ tags:
   - "Philippines"
   - "Scarborough Shoal"
   - "South China Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/chinesecollision.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/chinesecollision.jpg"
 author: "Rick Spilman"
 description: "For more than a decade, the waters around the Scarborough Shoal in the South China Sea have been claimed by the Philippines, China, and Taiwan. In recent years, China has been particularly aggressive in asserting its claim.  Today, two Chinese … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/chinesecollision.jpg)For [more than a decade](https://www.oldsaltblog.com/2012/04/standoff-in-the-south-china-sea-philippine-and-chinese-ships-face-off-at-scarborough-shoal/), the waters around the [Scarborough Shoal](https://en.wikipedia.org/wiki/Scarborough_Shoal) in the South China Sea have been claimed by the Philippines, China, and Taiwan. In recent years, China has been particularly aggressive in asserting its claim. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/chinesecollision.jpg)For [more than a decade](https://www.oldsaltblog.com/2012/04/standoff-in-the-south-china-sea-philippine-and-chinese-ships-face-off-at-scarborough-shoal/), the waters around the [Scarborough Shoal](https://en.wikipedia.org/wiki/Scarborough_Shoal) in the South China Sea have been claimed by the Philippines, China, and Taiwan. In recent years, China has been particularly aggressive in asserting its claim. 
 
 Today, two Chinese ships, the [China Coast Guard cutter 3104](https://www.marinetraffic.com/en/ais/details/ships/shipid:7289765/mmsi:413000894/imo:0/vessel:CHINACOASTGUARD3104) and the Chinese Type 052D [guided-missile destroyer](https://en.wikipedia.org/wiki/Chinese_destroyer_Guiyang) *Guilin,* attempted to block the passage of the Philippine Coast Guard cutter, [BRP](https://en.wikipedia.org/wiki/BRP_Suluan) *Suluan.*  The Chinese seriously botched the maneuver.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The Center for Whale Research is using a novel approach to tracking orca whales.  They are using the only operational zeppelin in the United States,  the Airship Eureka, on loan from Farmers’ Insurance, the company that sponsors the zeppelin, which donated … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/orcazep.jpg)[The Center for Whale Res](http://whaleresearch.com/encounter_pages/2010/Eureka.html)[earch](http://whaleresearch.com/encounter_pages/2010/Eureka.html) is using a novel approach to tracking orca whales.  They are using the only operational zeppelin in the United States,  the [Airship Eureka](http://www.airshipventures.com/), on loan from Farmers’ Insurance, the company that sponsors the zeppelin, which donated a day of flying for the orca survey in Washington’s Puget Sound.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/orcazep.jpg)[The Center for Whale Res](http://whaleresearch.com/encounter_pages/2010/Eureka.html)[earch](http://whaleresearch.com/encounter_pages/2010/Eureka.html) is using a novel approach to tracking orca whales.  They are using the only operational zeppelin in the United States,  the [Airship Eureka](http://www.airshipventures.com/), on loan from Farmers’ Insurance, the company that sponsors the zeppelin, which donated a day of flying for the orca survey in Washington’s Puget Sound.
 
 [Zeppelin offers rare views of whales](http://www.usatoday.com/tech/news/2010-09-29-zeppellin-whales_N.htm)  
   

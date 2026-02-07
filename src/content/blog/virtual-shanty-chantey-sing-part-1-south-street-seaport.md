@@ -10,12 +10,12 @@ tags:
   - "South Street Seaport Museum"
   - "The New York Packet"
   - "Wavertree"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/newyorkpacket.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/newyorkpacket.jpg"
 author: "Rick Spilman"
 description: "New York’s South Street Seaport Museum‘s monthly Chantey Sing is returning virtually, this Sunday, May 3rd from 2-4pm. From the Seaport announcement: From our living rooms and kitchens, and even from the deck of Wavertree, join our round-robin of shared … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/newyorkpacket.jpg)New York’s [South Street Seaport Museum](https://southstreetseaportmuseum.org/)‘s monthly Chantey Sing is returning virtually, this Sunday, May 3rd from 2-4pm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/newyorkpacket.jpg)New York’s [South Street Seaport Museum](https://southstreetseaportmuseum.org/)‘s monthly Chantey Sing is returning virtually, this Sunday, May 3rd from 2-4pm.
 
 From the Seaport announcement: From our living rooms and kitchens, and even from the deck of [*Wavertree*](https://southstreetseaportmuseum.org/visit/street-of-ships/wavertree/), join our round-robin of shared songs, featuring members of the New York Packet and friends. Listen in, lead or request a song, and belt out the choruses for your neighbors to hear during a Virtual Chantey Sing this Sunday, May 3, 2020 from 2-4pm. The event is FREE. Sign up here to receive the Zoom link 24 hours prior: [www.seaportmuseum.org/ChanteySingMay](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07eh1vmql6a694b090&oseq=&c=&ch=).
 

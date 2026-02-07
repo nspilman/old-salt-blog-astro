@@ -10,12 +10,12 @@ tags:
   - "Mohammed Aisha"
   - "MV Aman"
   - "stranded"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/stranded-first-officer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/stranded-first-officer.jpg"
 author: "Rick Spilman"
 description: "First Officer Mohammed Aisha had been stranded on the \"cursed\" MV Aman, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria. The BBC reports that it began in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/stranded-first-officer.jpg)First Officer Mohammed Aisha had been stranded on the “cursed” MV *Aman*, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/stranded-first-officer.jpg)First Officer Mohammed Aisha had been stranded on the “cursed” MV *Aman*, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria.
 
 The [BBC reports](https://www.bbc.com/news/world-middle-east-56842506) that it began in July 2017, when the MV *Aman* was detained at the Egyptian port of Adabiya. The cargo ship was held because it had expired safety equipment and classification certificates.
 

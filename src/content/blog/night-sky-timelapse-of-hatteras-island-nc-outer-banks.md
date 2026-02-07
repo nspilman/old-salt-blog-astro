@@ -10,7 +10,7 @@ tags:
   - "Hatteras Island"
   - "Outer Banks"
   - "Wes Snyder Photography"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/outerbanks.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/outerbanks.jpg"
 author: "Rick Spilman"
 description: "On a cold winter’s day, here on the west bank of the Hudson River, the idea of sitting on a beach in a slightly warmer climate, watching the stars in their inexorable progression across the night sky, sounds absolutely glorious. … Continue reading &rarr;"
 ---

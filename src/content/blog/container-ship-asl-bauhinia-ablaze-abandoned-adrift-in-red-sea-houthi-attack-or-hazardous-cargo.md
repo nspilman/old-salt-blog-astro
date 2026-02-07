@@ -14,12 +14,12 @@ tags:
   - "Hodeida"
   - "Red Sea"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/01/ASL-Bauhinia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/ASL-Bauhinia.jpg"
 author: "Rick Spilman"
 description: "Following an explosion and fire onboard the container ship, ASL Bauhinia, in the Red Sea early Tuesday morning, the 22 crew abandoned the ship. The crew was subsequently rescued unharmed by a passing vessel.  The 1,930-teu containership, owned by Shanghai-based … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/01/ASL-Bauhinia.jpg)Following an explosion and fire onboard the container ship, *[ASL Bauhinia](https://www.marinetraffic.com/en/ais/details/ships/shipid:7274127/mmsi:477856700/imo:9935868/vessel:ASL_BAUHINIA),* in the Red Sea early Tuesday morning, the 22 crew abandoned the ship. The crew was subsequently rescued unharmed by a passing vessel. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/01/ASL-Bauhinia.jpg)Following an explosion and fire onboard the container ship, *[ASL Bauhinia](https://www.marinetraffic.com/en/ais/details/ships/shipid:7274127/mmsi:477856700/imo:9935868/vessel:ASL_BAUHINIA),* in the Red Sea early Tuesday morning, the 22 crew abandoned the ship. The crew was subsequently rescued unharmed by a passing vessel. 
 
 The 1,930-teu containership, owned by Shanghai-based Asean Seas Line and operated by Emirates Shipping Lines, was deployed between Jebel Ali and Aqaba. The ship was supposed to reach Aqaba on January 31 and stop in Jeddah on January 29.
 

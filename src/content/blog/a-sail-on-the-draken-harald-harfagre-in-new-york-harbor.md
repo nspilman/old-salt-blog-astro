@@ -14,12 +14,12 @@ tags:
   - "new york harbor"
   - "Viking ship"
   - "whisky"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/dragonlaunch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/dragonlaunch.jpg"
 author: "Rick Spilman"
 description: "On Monday, I was fortunate enough to have been invited by the good folks at Highland Park Whisky to sail for an afternoon on the Draken Harald Hårfagre in New York harbor. At 115′ feet from stem to stern, Draken Harald Hårfagre is the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/dragonlaunch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/dragonlaunch.jpg)
 
 Photo: Bjoern Kils
 

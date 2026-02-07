@@ -13,12 +13,12 @@ tags:
   - "New England"
   - "NOAA"
   - "seals"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/harborseal2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/harborseal2.jpg"
 author: "Rick Spilman"
 description: "While many have been focused on the massive die-offs of fish and sea life off the South Florida coastline triggered by a combined outbreak of red tide and blue-green algae, all is not well along the New England coast either. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/harborseal2.jpg)While many have been focused on the massive die-offs of fish and sea life off the South Florida coastline triggered by a combined outbreak of red tide and blue-green algae, all is not well along the New England coast either. An [unusually large number of seals have been dying](http://www.wbur.org/news/2018/08/31/noaa-seal-deaths-mortality-event) this summer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/harborseal2.jpg)While many have been focused on the massive die-offs of fish and sea life off the South Florida coastline triggered by a combined outbreak of red tide and blue-green algae, all is not well along the New England coast either. An [unusually large number of seals have been dying](http://www.wbur.org/news/2018/08/31/noaa-seal-deaths-mortality-event) this summer.
 
 Close to 600 harbor and gray seals have died along the coasts of Maine, New Hampshire, and Massachusetts since July. The unexpectedly high death rate has caused the National Oceanic and Atmospheric Administration (NOAA) to declare a pinniped [unusual mortality event (UME)](https://www.fisheries.noaa.gov/national/marine-life-distress/marine-mammal-unusual-mortality-events) along the Northeast Coast.
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Vermont Sail Freight Project sailing barge Ceres called in New York harbor this weekend with a cargo of non-perishable produce from a total of thirty farms from Vermont and the state of New York.  The had sailed the barge down Lake … Continue reading &rarr;"
 ---
 
-![cires](http://www.oldsaltblog.com/wp-content/uploads/2013/10/cires.jpg)
+![cires](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/cires.jpg)
 
 Photo: Will Van Dorp
 

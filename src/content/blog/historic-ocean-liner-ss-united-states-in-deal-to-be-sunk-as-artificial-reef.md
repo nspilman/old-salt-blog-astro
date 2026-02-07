@@ -16,12 +16,12 @@ tags:
   - "SS United States"
   - "SS United States Conservancy"
   - "world’s largest artificial reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "After decades of working to save the historic ocean liner SS United States, the SS United States Conservancy has made the difficult choice to sell the old liner to be sunk to create the world’s largest artificial reef, off the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)After decades of working to save the historic ocean liner [SS *United States*](https://www.ssusc.org/the-ship), the [SS United States Conservancy](https://www.ssusc.org/) has made the difficult choice to sell the old liner to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach in the Gulf of Mexico.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg)After decades of working to save the historic ocean liner [SS *United States*](https://www.ssusc.org/the-ship), the [SS United States Conservancy](https://www.ssusc.org/) has made the difficult choice to sell the old liner to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach in the Gulf of Mexico.
 
 According to Okaloosa County, FL documents, the Tourist Development Department is requesting approval for a budget allocation of up to $9 million for the acquisition, remediation, transport, and deployment of the SS *United States*. This project also includes plans for a land-based museum dedicated to the ship according to [getthecoast.com](https://www.getthecoast.com/okaloosa-county-to-acquire-ss-united-states-for-worlds-largest-artificial-reef-off-destin-fort-walton-beach/).
 

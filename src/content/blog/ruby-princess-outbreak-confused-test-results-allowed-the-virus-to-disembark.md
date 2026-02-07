@@ -14,12 +14,12 @@ tags:
   - "Princess Cruise Line"
   - "Ruby Princess"
   - "Sydney"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/rubyprincess.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/rubyprincess.jpg"
 author: "Rick Spilman"
 description: "On March 19, 2020, the Princess Cruise Line ship Ruby Princess arrived in Sydney, New South Wales, Australia, and disembarked 2,700 passengers. These passengers included those who had been isolated in their cabins with fever. Roughly 2,000 of the passengers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/rubyprincess.jpg)On March 19, 2020, the Princess Cruise Line ship *Ruby Princess* arrived in Sydney, New South Wales, Australia, and disembarked 2,700 passengers. These passengers included those who had been isolated in their cabins with fever. Roughly 2,000 of the passengers had been swabbed for coronavirus but were allowed to leave before the test results were available.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/rubyprincess.jpg)On March 19, 2020, the Princess Cruise Line ship *Ruby Princess* arrived in Sydney, New South Wales, Australia, and disembarked 2,700 passengers. These passengers included those who had been isolated in their cabins with fever. Roughly 2,000 of the passengers had been swabbed for coronavirus but were allowed to leave before the test results were available.
 
 Within two months, COVID-19 infections associated with passengers from *Ruby Princess* became the largest coronavirus cluster outside of Wuhan, China, with at least 662 cases of the virus and 22 known deaths. Additional cases may have been spread internationally by 900 passengers from countries other than Australia who left Sydney after the ship docked.
 

@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "Fifty years ago today, the interisland ferryWahine capsized and sank in shallow water after running aground near the mouth of Wellington harbor in New Zealand. The ship had been caught in a storm caused by Tropical Cyclone Giselle. Wahine was a twin-screw, turbo-electric, roll-on/roll-off passenger and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/wahine.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/wahine.jpg)
 
 Photo: Tom Palaskas
 

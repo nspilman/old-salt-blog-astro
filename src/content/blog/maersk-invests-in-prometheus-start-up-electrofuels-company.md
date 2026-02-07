@@ -13,12 +13,12 @@ tags:
   - "e-fuels"
   - "Maersk Growth"
   - "Prometheus Fuels"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/MaerskProm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/MaerskProm.jpg"
 author: "Rick Spilman"
 description: "A.P. Moller – Maersk has announced that Maersk Growth, its venture capital arm, has made a leading investment in Prometheus Fuels, a Silicon Valley-based startup with a promising direct air capture technology to enable cost-efficient, carbon-neutral e-fuels for shipping. From … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/MaerskProm.jpg)[A.P. Moller – Maersk](https://www.maersk.com/about) has announced that [Maersk Growth](https://www.maersk.com/growth), its venture capital arm, has made a leading investment in [Prometheus Fuels](https://prometheusfuels.com/), a Silicon Valley-based startup with a promising direct air capture technology to enable cost-efficient, carbon-neutral e-fuels for shipping.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/MaerskProm.jpg)[A.P. Moller – Maersk](https://www.maersk.com/about) has announced that [Maersk Growth](https://www.maersk.com/growth), its venture capital arm, has made a leading investment in [Prometheus Fuels](https://prometheusfuels.com/), a Silicon Valley-based startup with a promising direct air capture technology to enable cost-efficient, carbon-neutral e-fuels for shipping.
 
 From the [announcement](https://www.maersk.com/news/articles/2021/09/23/maersk-investment-in-electrofuels-startup-company): The minority investment in Prometheus Fuels will support A.P. Moller – Maersk’s work to execute on the strategy to decarbonize marine operations.
 

@@ -13,12 +13,12 @@ tags:
   - "COVID-19"
   - "cruise ships"
   - "Omicron"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/cruise-shipsdorian.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg"
 author: "Rick Spilman"
 description: "Late last week, the Center for Disease Control and Prevention (CDC) raised its COVID-19 travel health notice level for cruise ships to its highest warning level and said people should avoid traveling on cruise ships regardless of their vaccination status, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/cruise-shipsdorian.jpg)Late last week, the [Center for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/notices/covid-4/coronavirus-cruise-ship) raised its [COVID-19 travel health notice level for cruise ships to its highest warning level](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-says-avoid-cruise-travel-covid-19-cases-surge-2021-12-30/) and said people should avoid traveling on cruise ships regardless of their vaccination status, as daily COVID-19 cases in the country climb to record highs due to the fast-spreading Omicron variant.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg)Late last week, the [Center for Disease Control and Prevention (CDC)](https://wwwnc.cdc.gov/travel/notices/covid-4/coronavirus-cruise-ship) raised its [COVID-19 travel health notice level for cruise ships to its highest warning level](https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-says-avoid-cruise-travel-covid-19-cases-surge-2021-12-30/) and said people should avoid traveling on cruise ships regardless of their vaccination status, as daily COVID-19 cases in the country climb to record highs due to the fast-spreading Omicron variant.
 
 The health agency has or is investigating COVID-19 cases on more than 90 ships. It starts an investigation if 0.10% or more passengers on guest voyages test positive for COVID-19.
 

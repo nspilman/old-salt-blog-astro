@@ -11,12 +11,12 @@ tags:
   - "Antarctica"
   - "Operation Deep Freeze"
   - "USCGC Polar Star"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/polarstar3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/polarstar3.jpg"
 author: "Rick Spilman"
 description: "We recently posted an incomplete list of some of the great things that the US Coast Guard was doing while not getting paid during the government shutdown. One of the missions was the resupply of the US McMurdo Station in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/polarstar3.jpg)We recently posted an incomplete list of some of the great things that the US Coast Guard was doing while not getting paid during the government shutdown. One of the missions was the resupply of the US McMurdo Station in Antartica by the US heavy icebreaker [USCGC *Polar Star*](https://en.wikipedia.org/wiki/USCGC_Polar_Star_\(WAGB-10\)). The *Polar Star* broke through ice as thick as 21 feet to clear a path to allow a resupply ship to get to the outpost. This is the sixth year that the *Polar Star* has successfully undertaken the mission, dubbed [Operation Deep Freeze](https://en.wikipedia.org/wiki/Operation_Deep_Freeze). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/polarstar3.jpg)We recently posted an incomplete list of some of the great things that the US Coast Guard was doing while not getting paid during the government shutdown. One of the missions was the resupply of the US McMurdo Station in Antartica by the US heavy icebreaker [USCGC *Polar Star*](https://en.wikipedia.org/wiki/USCGC_Polar_Star_\(WAGB-10\)). The *Polar Star* broke through ice as thick as 21 feet to clear a path to allow a resupply ship to get to the outpost. This is the sixth year that the *Polar Star* has successfully undertaken the mission, dubbed [Operation Deep Freeze](https://en.wikipedia.org/wiki/Operation_Deep_Freeze). 
 
 Unfortunately, after 43 years of demanding and often brutal service, the *Polar Star* is continually breaking down. Only the hard work, skill, and ingenuity of the 141 officers and crew keep the old ship going.
 

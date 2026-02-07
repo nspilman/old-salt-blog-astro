@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The dwarf planet Ceres, which lies between the orbits of Mars and Jupiter, may contain more water than our planet Earth."
 ---
 
-![Ceres as seen by Hubble Space Telescope](http://www.oldsaltblog.com/wp-content/uploads/2014/10/ceres1.jpg)
+![Ceres as seen by Hubble Space Telescope](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/ceres1.jpg)
 
 Ceres as seen by Hubble Space Telescope
 

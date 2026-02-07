@@ -15,12 +15,12 @@ tags:
   - "powerboat capsized"
   - "Stimulus Money"
   - "Yamaha AR240"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/capsizehudson.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/capsizehudson.jpg"
 author: "Rick Spilman"
 description: "Yesterday just before 3 PM, a chartered powerboat with 12 passengers aboard, capsized in the Hudson River near Pier 86 in Midtown Manhattan.  The accident fatally trapped a 7-year-old boy and 50-year-old woman underneath the overturned boat. Three others were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/capsizehudson.jpg)Yesterday just before 3 PM, a chartered powerboat with 12 passengers aboard, [capsized in the Hudson River](https://www.nytimes.com/2022/07/12/nyregion/hudson-river-boat-capsize-rescue.html) near Pier 86 in Midtown Manhattan.  The accident fatally trapped a 7-year-old boy and 50-year-old woman underneath the overturned boat. Three others were reported to be in critical condition. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/capsizehudson.jpg)Yesterday just before 3 PM, a chartered powerboat with 12 passengers aboard, [capsized in the Hudson River](https://www.nytimes.com/2022/07/12/nyregion/hudson-river-boat-capsize-rescue.html) near Pier 86 in Midtown Manhattan.  The accident fatally trapped a 7-year-old boy and 50-year-old woman underneath the overturned boat. Three others were reported to be in critical condition. 
 
 Two NY Waterway ferries were the first on the scene and rescued nine from the river. Both the NYPD and the city’s Fire Department dispatched crews in response to a 911 call at 2:46 PM. The NYPD Harbor Patrol arrived at Pier 86 at West 46th Street where they found the capsized boat and rescued two victims drifting by the boat. Scuba divers dove into the water, bringing out the woman and boy who were declared deceased. 
 

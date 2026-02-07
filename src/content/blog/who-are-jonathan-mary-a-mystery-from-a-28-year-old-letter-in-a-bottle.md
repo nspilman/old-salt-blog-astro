@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: \"Mary, you really are a great person. … Continue reading &rarr;"
 ---
 
-![ns-letter-320](http://www.oldsaltblog.com/wp-content/uploads/2013/04/ns-letter-320.jpg)A 23 year old Croatian kite surfer, Matea Medak Rezic, [found a letter in a broken bottle](http://www.cbc.ca/news/canada/nova-scotia/story/2013/04/17/ns-bottle-message-arrives.html) on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief:
+![ns-letter-320](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/ns-letter-320.jpg)A 23 year old Croatian kite surfer, Matea Medak Rezic, [found a letter in a broken bottle](http://www.cbc.ca/news/canada/nova-scotia/story/2013/04/17/ns-bottle-message-arrives.html) on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief:
 
 *“Mary, you really are a great person. I hope we can keep in correspondence. I said I would write. Your friend always, Jonathon, Nova Scotia, 1985,” said the message.* 
 

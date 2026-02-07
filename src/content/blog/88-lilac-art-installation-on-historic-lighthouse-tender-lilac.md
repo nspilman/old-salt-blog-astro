@@ -10,7 +10,7 @@ categories:
 tags:
   - "historic lighthouse tender"
   - "Lilac"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/lilac88stack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/lilac88stack.jpg"
 author: "Rick Spilman"
 description: "Happy Coast Guard Day! In honor of the day, a post about the former Coast Guard lighthouse tender, USCGC Lilac, a museum ship located on the Hudson River in New York City. The Lilac is America’s only surviving steam-powered lighthouse … Continue reading &rarr;"
 ---

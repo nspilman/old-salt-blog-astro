@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Congratulations to the officers, crew and the shore staff of the SSV Oliver Hazard Perry. The 200′ long tall ship recently completed the necessary drills and inspections required by the US Coast Guard in order for the ship to qualify as a … Continue reading &rarr;"
 ---
 
-![ohpastern`](http://www.oldsaltblog.com/wp-content/uploads/2016/07/ohpastern.jpg)
+![ohpastern`](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/ohpastern.jpg)
 
 Photo: George Bekris
 

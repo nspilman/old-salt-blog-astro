@@ -13,12 +13,12 @@ tags:
   - "St. John"
   - "St. Thomas"
   - "Virgin Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/usvirginisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/usvirginisland.jpg"
 author: "Rick Spilman"
 description: "Unless you happened to be very wealthy, hiding out on a boat may not be the best strategy during a pandemic. While billionaires may be able to jet off to their yachts in the Grenadines, the merely comfortable may find … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/usvirginisland.jpg)Unless you happened to be very wealthy, hiding out on a boat may not be the best strategy during a pandemic. While [billionaires may be able to jet off to their yachts](https://www.forbes.com/sites/jackkelly/2020/04/01/the-rich-are-riding-out-the-coronavirus-pandemic-very-differently-than-the-rest-of-us/#19590fced34c) in the Grenadines, the merely comfortable may find themselves stuck with limited ports of call and few options. Across the Caribbean, the South Pacific and even on the East Coast, boaters are discovering ports closed to new arrivals or subject to new regulations that seem to change day-to-day.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/usvirginisland.jpg)Unless you happened to be very wealthy, hiding out on a boat may not be the best strategy during a pandemic. While [billionaires may be able to jet off to their yachts](https://www.forbes.com/sites/jackkelly/2020/04/01/the-rich-are-riding-out-the-coronavirus-pandemic-very-differently-than-the-rest-of-us/#19590fced34c) in the Grenadines, the merely comfortable may find themselves stuck with limited ports of call and few options. Across the Caribbean, the South Pacific and even on the East Coast, boaters are discovering ports closed to new arrivals or subject to new regulations that seem to change day-to-day.
 
 One of the few safe havens in the Caribbean currently is the U.S. Virgin Islands. A [letter signed by the island’s governor](https://dpnr.vi.gov/environmental-enforcement/anchoring-mooring/), Albert Bryan Jr, in late March says, “I want to welcome you to our US Territory at this time of great world pandemic crisis. Whether you have visited regularly in the past or if this is a first visit, we are pleased to be able to extend to you a safe haven under US Flag protection at this grave time.”
 

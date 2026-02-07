@@ -12,12 +12,12 @@ tags:
   - "sculpture"
   - "the Netherlands"
   - "Whale's Tail"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/whalestail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/whalestail.jpg"
 author: "Rick Spilman"
 description: "A commuter train car careened off the end of elevated train tracks yesterday near Rotterdam in the Netherlands. It was saved from plunging more than 30 feet to the ground when it landed on the sculpture of a whale’s tail. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/whalestail2.jpg)A commuter train car careened off the end of elevated train tracks yesterday near Rotterdam in the Netherlands. It was saved from plunging more than 30 feet to the ground when it landed on the sculpture of a whale’s tail. It was indeed a fluke.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/whalestail2.jpg)A commuter train car careened off the end of elevated train tracks yesterday near Rotterdam in the Netherlands. It was saved from plunging more than 30 feet to the ground when it landed on the sculpture of a whale’s tail. It was indeed a fluke.
 
 The [NYTimes](https://www.nytimes.com/2020/11/02/world/europe/whale-sculpture-netherlands-train.html?smtyp=cur&smid=fb-nytimes&fbclid=IwAR1GSooOwU6ZuUtmi6lsB-41KSO4noI6I9E9IBhPdDE4IlqZLVcwzpSvuVM) quotes Ruud Natrop, a spokesman for safety in the Rotterdam-Rijnmond area, where the accident occurred. “It’s like the scene of a Hollywood movie,” he said. “Thank God the tail was there.”
 

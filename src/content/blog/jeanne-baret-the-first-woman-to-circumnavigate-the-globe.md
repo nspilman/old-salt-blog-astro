@@ -12,12 +12,12 @@ tags:
   - "Jeanne Baret"
   - "Louis Antoine de Bougainville"
   - "Philibert Commerson"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/beretgoogledoodle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/beretgoogledoodle.jpg"
 author: "Rick Spilman"
 description: "Jeanne Baret is believed to be the first woman ever to circumnavigate the globe. Born in 1740 to a poor family in the Burgundy region of France, Baret became skilled in identifying local plants. While in her early 20s, she … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/beretgoogledoodle.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/beretgoogledoodle.jpg)
 
 Jeanne Baret Google Doodle from July 27, 2020
 

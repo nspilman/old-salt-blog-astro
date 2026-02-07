@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The barque Picton Castle, known for its around the world voyages, is offering cruises this summer sailing around Newfoundland. It sounds fantastic. Sail Around Newfoundland Starkly stunning coastline. Incredible whales, seabirds and maybe even icebergs. Hospitable folks in big towns and small outport … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/pictoncastle1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/pictoncastle1.jpg)
 
 Barque Picton Castle
 

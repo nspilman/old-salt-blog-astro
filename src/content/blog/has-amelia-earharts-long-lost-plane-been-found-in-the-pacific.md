@@ -16,12 +16,12 @@ tags:
   - "Lockheed Electra aircraft"
   - "Tony Romeo"
   - "unmanned underwater drone"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/earhartplanesonar2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/earhartplanesonar2.jpg"
 author: "Rick Spilman"
 description: "In 1937, Amelia Earhart and her navigator Fred Noonan set off on a quest to circumnavigate the globe. Having completed most of their journey, Earhart’s plane disappeared over the central Pacific Ocean near Howland Island. In the intervening 87 years, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/earhartplanesonar2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/earhartplanesonar2.jpg)
 
 Image: Deep Sea Vision
 

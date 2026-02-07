@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Valentine's day, February 14th is also an auspicious day in nautical history."
 ---
 
-![The Battle of Cape St Vincent, 14 February 1797 by Robert Cleveley](http://www.oldsaltblog.com/wp-content/uploads/2015/02/Cleveley_Cape_St_Vincent-200x129.jpg)
+![The Battle of Cape St Vincent, 14 February 1797 by Robert Cleveley](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/Cleveley_Cape_St_Vincent-200x129.jpg)
 
 The Battle of Cape St Vincent, 14 February 1797  
 by Robert Cleveley

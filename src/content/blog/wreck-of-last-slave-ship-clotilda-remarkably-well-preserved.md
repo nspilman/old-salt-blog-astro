@@ -14,12 +14,12 @@ tags:
   - "Clotilda"
   - "last slave ship"
   - "Mobile River"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg"
 author: "Rick Spilman"
 description: "An interesting article from the New York Times —  In 2019, a team of researchers confirmed that a wooden wreck resting in the murky waters of the Mobile River in Alabama was the schooner  Clotilda, the last known ship to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/clotilda.jpg)An interesting article from the [New York Times](https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.html?action=click&algo=bandit-all-surfaces_impression_cut_3&block=more_in_recirc&fellback=false&imp_id=655189371&impression_id=ab4c8781-6593-11ec-9836-e5848bcafcee&index=1&pgtype=Article&pool=more_in_pools%2Fus&region=footer&req_id=169904739&surface=eos-more-in&variant=0_bandit-all-surfaces_impression_cut_3) —  In 2019, a team of researchers confirmed that a wooden wreck resting in the murky waters of the Mobile River in Alabama was the schooner  [*Clotilda*](https://en.wikipedia.org/wiki/Clotilda_\(slave_ship\)), the last known ship to bring enslaved people from Africa to the United States.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/clotilda.jpg)An interesting article from the [New York Times](https://www.nytimes.com/2021/12/25/us/clotilda-slaveship-africa-alabama.html?action=click&algo=bandit-all-surfaces_impression_cut_3&block=more_in_recirc&fellback=false&imp_id=655189371&impression_id=ab4c8781-6593-11ec-9836-e5848bcafcee&index=1&pgtype=Article&pool=more_in_pools%2Fus&region=footer&req_id=169904739&surface=eos-more-in&variant=0_bandit-all-surfaces_impression_cut_3) —  In 2019, a team of researchers confirmed that a wooden wreck resting in the murky waters of the Mobile River in Alabama was the schooner  [*Clotilda*](https://en.wikipedia.org/wiki/Clotilda_\(slave_ship\)), the last known ship to bring enslaved people from Africa to the United States.
 
 Now, the researchers say they have made another startling discovery: The wreck is remarkably well-preserved. As much as two-thirds of the original structure remains, including the hold below the main deck where 110 people were imprisoned during the ship’s final, brutal journey from Benin to Mobile in 1860.
 

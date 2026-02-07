@@ -12,12 +12,12 @@ tags:
   - "Cruise lines"
   - "Norwegian Caribbean"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg"
 author: "Rick Spilman"
 description: "The major cruise lines have announced plans to restart at least some of their cruise operations in upcoming months, while tens of thousands of crew are still stranded aboard cruise ships. Carnival, the world’s largest cruise line, has announced cruises … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg)The [major cruise lines have announced plans to restart](https://www.palmbeachpost.com/news/20200508/coronavirus-florida-cruise-lines-plan-restart-but-cdc-has-not-lifted-no-sail-order) at least some of their cruise operations in upcoming months, while tens of thousands of crew are still stranded aboard cruise ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/carnival-restart.jpg)The [major cruise lines have announced plans to restart](https://www.palmbeachpost.com/news/20200508/coronavirus-florida-cruise-lines-plan-restart-but-cdc-has-not-lifted-no-sail-order) at least some of their cruise operations in upcoming months, while tens of thousands of crew are still stranded aboard cruise ships.
 
 Carnival, the world’s largest cruise line, has announced cruises beginning on August 1. Norwegian Cruise Lines has said it plans to restart on July 1, while Royal Caribbean has an even earlier date of June 15. It is unclear from where these earlier cruises may operate as the [CDC’s current no-sail order](https://www.cdc.gov/media/releases/2020/s0409-modifications-extension-no-sail-ships.html) does not expire until July 24. 
 

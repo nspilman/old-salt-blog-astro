@@ -13,12 +13,12 @@ tags:
   - "Russian Black Sea fleet"
   - "Russian Navy"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/moscow.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/moscow.jpg"
 author: "Rick Spilman"
 description: "Moskva, a guided-missile cruiser and the flagship of the Russian Black Sea fleet, suffered ammunition explosions and fire while operating in the Black Sea off Odesa on April 13. Exactly what happened is unclear.  Reuters reports that Ukraine’s southern military … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/moscow.jpg)[*Moskva*](https://en.wikipedia.org/wiki/Russian_cruiser_Moskva), a guided-missile cruiser and the flagship of the Russian Black Sea fleet, suffered ammunition explosions and fire while operating in the Black Sea off Odesa on April 13. Exactly what happened is unclear. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/moscow.jpg)[*Moskva*](https://en.wikipedia.org/wiki/Russian_cruiser_Moskva), a guided-missile cruiser and the flagship of the Russian Black Sea fleet, suffered ammunition explosions and fire while operating in the Black Sea off Odesa on April 13. Exactly what happened is unclear. 
 
 [Reuters](https://www.reuters.com/world/europe/russia-says-flagship-black-sea-fleet-badly-damaged-by-blast-2022-04-14/) reports that Ukraine’s southern military command said that it hit the warship with a Ukrainian-made [Neptune anti-ship missile](https://en.wikipedia.org/wiki/Neptune_\(cruise_missile\)) and that it had started to sink.
 

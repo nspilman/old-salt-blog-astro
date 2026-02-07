@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The New York Daily News reported good news this morning: Whales return to New York City: Massive mammals appearing again in seas near city; draws sightseers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/alg_hump.jpg)The New York Daily News reported good news this morning:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/alg_hump.jpg)The New York Daily News reported good news this morning:
 
 [Whales return to New York City: Massive mammals appearing again in seas near city; draws sightseers](http://www.nydailynews.com/ny_local/2011/01/30/2011-01-30_whales_return_to_new_york_city_massive_mammals_appearing_again_in_seas_near_city.html)  
   

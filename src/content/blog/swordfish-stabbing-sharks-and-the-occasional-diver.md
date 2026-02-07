@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "The fishermen knew. They told stories of swordfish using their eponymous swords to stab sharks and other large fish and mammals. Scientists, however, were skeptical.  Recently, however, more than six dead sharks have washed up around the Mediterranean, all apparently … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/swordfish.jpg)The fishermen knew. They told stories of swordfish using their eponymous swords to stab sharks and other large fish and mammals. Scientists, however, were skeptical.  Recently, however, more than six dead sharks have washed up around the Mediterranean, all apparently stabbed, usually in the head, by swordfish.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/swordfish.jpg)The fishermen knew. They told stories of swordfish using their eponymous swords to stab sharks and other large fish and mammals. Scientists, however, were skeptical.  Recently, however, more than six dead sharks have washed up around the Mediterranean, all apparently stabbed, usually in the head, by swordfish.
 
 The first victim, a blue shark, washed ashore in Valencia, Spain in 2016 with a fragment of a swordfish sword embedded in its brain. The [NYTimes](https://www.nytimes.com/2020/10/27/science/swordfish-stabbing-sharks.html) reports: 
 

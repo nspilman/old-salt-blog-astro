@@ -11,12 +11,12 @@ tags:
   - "British Antarctic Survey"
   - "humpback"
   - "South Georgia Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/blue2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/blue2.jpg"
 author: "Rick Spilman"
 description: "Mother Nature Network is reporting that a team of scientists led by the British Antarctic Survey (BAS) counted 55 Antarctic blue whales during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called \"unprecedented.\" In … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/blue2.jpg)[Mother Nature Network](https://www.mnn.com/earth-matters/animals/stories/antarctic-blue-whales-make-unprecedented-comeback) is reporting that a team of scientists led by the [British Antarctic Survey (BAS)](https://www.bas.ac.uk/media-post/return-of-the-whales-to-south-georgia/) counted 55 Antarctic [blue whales](https://en.wikipedia.org/wiki/Blue_whale#cite_note-G.S.Paul2016-4) during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called “unprecedented.” In a previous BAS survey in 2018, only one Antarctic blue whale had been sighted.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/blue2.jpg)[Mother Nature Network](https://www.mnn.com/earth-matters/animals/stories/antarctic-blue-whales-make-unprecedented-comeback) is reporting that a team of scientists led by the [British Antarctic Survey (BAS)](https://www.bas.ac.uk/media-post/return-of-the-whales-to-south-georgia/) counted 55 Antarctic [blue whales](https://en.wikipedia.org/wiki/Blue_whale#cite_note-G.S.Paul2016-4) during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called “unprecedented.” In a previous BAS survey in 2018, only one Antarctic blue whale had been sighted.
 
 In addition to Antarctic blue whales, the team recorded 790 humpback whales during the 21-day survey and estimated that there are now more than 20,000 of them feeding off the island seasonally.
 

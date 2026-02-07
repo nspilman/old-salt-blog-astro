@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last Saturday, I was helping my son move to a new job in Wisconsin. We spent the night in a motel just outside Toledo and woke to find that we couldn’t take showers, brush our teeth or have a cup of … Continue reading &rarr;"
 ---
 
-![AP Photo/Haraz N. Ghanbari](http://www.oldsaltblog.com/wp-content/uploads/2014/08/eriewater.jpg)
+![AP Photo/Haraz N. Ghanbari](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/eriewater.jpg)
 
 AP Photo/Haraz N. Ghanbari
 

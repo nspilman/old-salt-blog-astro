@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A sure sign that Spring has finally arrived in New York harbor is the return of the Working Harbor Committee‘s Hidden Harbor Tours. The first, scheduled for May 1st, is Forgotten Harbor, Found in Art.  Here is the description of … Continue reading &rarr;"
 ---
 
-[![hiddenharborart](http://www.oldsaltblog.com/wp-content/uploads/2016/04/hiddenharborart.jpg)](http://workingharbor.com/pdf%20files/1May2016WHC%20Maritime%20Art%20tour.pdf)A sure sign that Spring has finally arrived in New York harbor is the return of the [Working Harbor Committee](http://workingharbor.com/)‘s [Hidden Harbor Tours](http://workingharbor.com/hh-boat-tours.html). The first, scheduled for May 1st, is [Forgotten Harbor, Found in Art](http://workingharbor.com/pdf%20files/1May2016WHC%20Maritime%20Art%20tour.pdf).  Here is the description of the two-hour tour:
+[![hiddenharborart](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/hiddenharborart.jpg)](http://workingharbor.com/pdf%20files/1May2016WHC%20Maritime%20Art%20tour.pdf)A sure sign that Spring has finally arrived in New York harbor is the return of the [Working Harbor Committee](http://workingharbor.com/)‘s [Hidden Harbor Tours](http://workingharbor.com/hh-boat-tours.html). The first, scheduled for May 1st, is [Forgotten Harbor, Found in Art](http://workingharbor.com/pdf%20files/1May2016WHC%20Maritime%20Art%20tour.pdf).  Here is the description of the two-hour tour:
 
 *Join the Working Harbor Committee on a unique Hidden Harbor® Tour of the history of NYC maritime art in our working waterfronts. The tour will take us to places in the harbor where famous scenes of historical art have been captured in public art you can visit in NYC!*
 

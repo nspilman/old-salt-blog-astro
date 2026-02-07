@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A new analysis published in the journal Science has concluded that the oceans are warming four times faster than had been previously predicted by a United Nations panel five years ago. The research found that ocean temperatures had broken records … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/oceanwarming.jpg)A new analysis published in the journal [Science](http://science.sciencemag.org/content/363/6423/128.summary) has concluded that the oceans are warming four times faster than had been previously predicted by a United Nations panel five years ago. The research found that ocean temperatures had broken records for several years running.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/oceanwarming.jpg)A new analysis published in the journal [Science](http://science.sciencemag.org/content/363/6423/128.summary) has concluded that the oceans are warming four times faster than had been previously predicted by a United Nations panel five years ago. The research found that ocean temperatures had broken records for several years running.
 
 “2018 is going to be the warmest year on record for the Earth’s oceans,” said Zeke Hausfather, an energy systems analyst at the independent climate research group Berkeley Earth and an author of the study. “As 2017 was the warmest year, and 2016 was the warmest year.”
 

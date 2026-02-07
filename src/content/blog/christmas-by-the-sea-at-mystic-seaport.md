@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I almost prefer visiting Mystic Seaport in the wintertime.  The summertime crowds are gone, wood or coal stoves heat the chandlery and the rope walk and the ships are as lovely as ever against a winter sky.   Mystic Seaport is especially lovely around Christmas. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/MYSTchristmas.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/MYSTchristmas.jpg)
 
 I almost prefer visiting [Mystic Seaport](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=1) in the wintertime.  The summertime crowds are gone, wood or coal stoves heat the chandlery and the rope walk and the ships are as lovely as ever against a winter sky.   Mystic Seaport is especially lovely around Christmas.   This year Mystic Seaport is hosting, [Christmas by the Sea](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=A16824C3-1E4F-379B-60345B097C8926CE), a new holiday maritime experience, Thursdays through Sundays, November 26 – January 2, 2011, from 10 a.m. to 4 p.m.
 

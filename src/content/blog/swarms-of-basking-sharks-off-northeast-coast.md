@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Aerial surveys attempting to identify endangered right whales have spotted swarms of basking sharks, in groups from 30 to up to 1,400, swimming in the waters from Long Island to Nova Scotia. Researchers who study the normally solitary sharks are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/baskingshark.jpg)Aerial surveys attempting to identify endangered right whales have spotted swarms of [basking sharks](https://en.wikipedia.org/wiki/Basking_shark), in groups from 30 to up to 1,400, swimming in the waters from Long Island to Nova Scotia. Researchers who study the normally solitary sharks are not quite sure why. Nevertheless, reviews of the data suggest that such gathering are not that unusual. [NOAA issued a press release](https://www.sciencedaily.com/releases/2018/03/180330105757.htm) on the sightings which said in part:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/baskingshark.jpg)Aerial surveys attempting to identify endangered right whales have spotted swarms of [basking sharks](https://en.wikipedia.org/wiki/Basking_shark), in groups from 30 to up to 1,400, swimming in the waters from Long Island to Nova Scotia. Researchers who study the normally solitary sharks are not quite sure why. Nevertheless, reviews of the data suggest that such gathering are not that unusual. [NOAA issued a press release](https://www.sciencedaily.com/releases/2018/03/180330105757.htm) on the sightings which said in part:
 
 *The reason why the animals congregate has not been clearly determined, although it is thought to be related to feeding, socializing, and/or courtship given behaviors in other shark species.*
 

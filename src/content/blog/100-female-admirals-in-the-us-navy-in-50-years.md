@@ -10,12 +10,12 @@ categories:
 tags:
   - "Female Admirals"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/admhoward.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/admhoward.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Jude Terry, the first woman admiral in the history of the British Royal Navy. On her appointment, Admiral Terry commented that the fact that she is a woman is irrelevant to her post and rank – … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/admhoward.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/admhoward.jpg)
 
 Admiral Michelle Howard Highest-Ranking Female Officer in U.S. Navy History
 

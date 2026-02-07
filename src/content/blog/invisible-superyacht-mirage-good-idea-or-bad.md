@@ -10,12 +10,12 @@ categories:
 tags:
   - "Invisible Superyacht"
   - "Mirage"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/mirage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/mirage.jpg"
 author: "Rick Spilman"
 description: "Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter \"Superyacht,\" named Mirage, which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/mirage.jpg)Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter [“Superyacht,” named *Mirage*,](https://www.mirror.co.uk/news/world-news/200million-superyacht-that-turns-invisible-13403228) which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the sea back to onlookers, making the yacht apparently vanish at distances over 50 meters. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/mirage.jpg)Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter [“Superyacht,” named *Mirage*,](https://www.mirror.co.uk/news/world-news/200million-superyacht-that-turns-invisible-13403228) which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the sea back to onlookers, making the yacht apparently vanish at distances over 50 meters. 
 
 So far, the yacht is only a design. Designer Pieter Van Geest says that after working for over a year on the plans, the yacht itself would take three and a half years to construct. *Mirage* would cost an estimated £200 million.
 

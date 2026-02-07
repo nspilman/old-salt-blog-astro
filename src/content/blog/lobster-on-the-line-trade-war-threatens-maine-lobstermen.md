@@ -12,12 +12,12 @@ tags:
   - "lobster"
   - "Maine"
   - "trade war"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/06/lobsterbin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobsterbin.jpg"
 author: "Rick Spilman"
 description: "After several near boom years, the Maine lobster fishery is being slammed by the current trade war between the United States and China. From June 2018 to June 2019, after the duties were in place, live lobster exports to China … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/lobsterbin.jpg)After several near boom years, the Maine lobster fishery is being slammed by the current trade war between the United States and China. From June 2018 to June 2019, after the duties were in place, l[ive lobster exports to China tumbled 84 percent.](https://www.seafoodsource.com/news/supply-trade/maine-s-lobster-exports-to-china-plunge-84-percent-in-wake-of-trade-war) In the same period Canada’s lobster sales to China reached record highs. Lobster represents the largest export for the state of Maine by value.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobsterbin.jpg)After several near boom years, the Maine lobster fishery is being slammed by the current trade war between the United States and China. From June 2018 to June 2019, after the duties were in place, l[ive lobster exports to China tumbled 84 percent.](https://www.seafoodsource.com/news/supply-trade/maine-s-lobster-exports-to-china-plunge-84-percent-in-wake-of-trade-war) In the same period Canada’s lobster sales to China reached record highs. Lobster represents the largest export for the state of Maine by value.
 
 The [Washington Post](https://www.washingtonpost.com/business/2019/11/01/china-loves-maine-lobster-trumps-trade-war-means-canada-is-filling-demand/?arc404=true) reports that in the first half of 2018, before the tariffs, lobster sales to China from the United States and Canada were about even, roughly $84 million, according to data from the Lobster Council of Canada.
 

@@ -12,12 +12,12 @@ tags:
   - "Royal Western Yacht Club"
   - "terminally ill sailor"
   - "WorldStar challenge"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/jazz2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/jazz2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Jazz Turner, a terminally ill sailor, who became the first disabled person to circumnavigate the British Isles non-stop and unassisted. Now, the 27-year-old engineer, a full-time wheelchair user, has a new goal.  She has set her … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/jazz2.jpg)We recently posted about [Jazz Turner](https://www.oldsaltblog.com/2025/07/terminally-ill-sailor-jazz-turner-becomes-the-first-disabled-person-to-sail-solo-around-uk/), a terminally ill sailor, who became the first disabled person to circumnavigate the British Isles non-stop and unassisted. Now, the 27-year-old engineer, a full-time wheelchair user, has a new goal.  She has set her sights on becoming the first disabled female sailor to complete a solo global race. She hopes to sail in the [Royal Western Yacht Club’s around-the-world WorldStar challenge](https://rwyc.org/race/worldstar-2026/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/jazz2.jpg)We recently posted about [Jazz Turner](https://www.oldsaltblog.com/2025/07/terminally-ill-sailor-jazz-turner-becomes-the-first-disabled-person-to-sail-solo-around-uk/), a terminally ill sailor, who became the first disabled person to circumnavigate the British Isles non-stop and unassisted. Now, the 27-year-old engineer, a full-time wheelchair user, has a new goal.  She has set her sights on becoming the first disabled female sailor to complete a solo global race. She hopes to sail in the [Royal Western Yacht Club’s around-the-world WorldStar challenge](https://rwyc.org/race/worldstar-2026/).
 
 The 27-year-old told BBC Radio Sussex that she had started planning the challenge three hours after completing the 2,070 mile (3,331km) trip around the British Isles. Turner said the challenge will require sourcing the right boat and sponsorship. “I’ve always been drawn to challenges that push me to my edge. I face many a ‘no’ in my life, but I do my best to turn them into ‘yes’,” she said. “The right partnership could turn this vision into reality.”
 

@@ -12,7 +12,7 @@ tags:
   - "kleiner Hai"
   - "PinkFong"
   - "Youtube"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/babyshark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/babyshark.jpg"
 author: "Rick Spilman"
 description: "And now for something completely different. Baby Shark has taken over the world! At least, the song, \"Baby Shark\" sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed … Continue reading &rarr;"
 ---

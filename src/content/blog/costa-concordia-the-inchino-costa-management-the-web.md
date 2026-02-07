@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The dangerous practice of the \"inchino,\" Italian for \"bow\" and often translated as \"salute,\"  appears to be widespread and not limited to Costa.  The \"inchino\" is performed by sailing a ship close to an island or port and blowing the ship’s horn, figuratively bowing … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/capriincho.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/capriincho.jpg)
 
 L'inchino al Faraglioni di Capri, an unidentified cruise ship "bowing" to the Faraglioni rocks
 

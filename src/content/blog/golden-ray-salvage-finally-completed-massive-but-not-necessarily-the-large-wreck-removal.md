@@ -14,12 +14,12 @@ tags:
   - "passenger liner"
   - "salvage"
   - "SS Normandie"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/GRNormandie.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/GRNormandie.jpg"
 author: "Rick Spilman"
 description: "The last section of the car carrier Golden Ray has been removed from St. Simons Sound near Brunswick, Georgia, and is on its way to a scrapyard. The 656-foot car carrier was carrying 4,100 vehicles when it capsized in September … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/GRNormandie.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/GRNormandie.jpg)
 
 Golden Ray & SS Normandie
 

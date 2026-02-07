@@ -13,12 +13,12 @@ tags:
   - "replenishment oiler"
   - "Ruth Bader Ginsburg"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/TAORBG.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/TAORBG.jpg"
 author: "Rick Spilman"
 description: "Navy Secretary Carlos Del Toro has announced that the US Navy will name a replenishment oiler now on order in honor of the late Supreme Court Justice Ruth Bader Ginsburg. The new ship will be the eighth of the John Lewis … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/TAORBG.jpg)Navy Secretary Carlos Del Toro has announced that the US Navy will name a replenishment oiler now on order in honor of the late Supreme Court Justice Ruth Bader Ginsburg. The new ship will be the eighth of the [John Lewis Class](https://en.wikipedia.org/wiki/John_Lewis-class_replenishment_oiler) and will be referred to as the USNS *Ruth Bader Ginsburg*.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/TAORBG.jpg)Navy Secretary Carlos Del Toro has announced that the US Navy will name a replenishment oiler now on order in honor of the late Supreme Court Justice Ruth Bader Ginsburg. The new ship will be the eighth of the [John Lewis Class](https://en.wikipedia.org/wiki/John_Lewis-class_replenishment_oiler) and will be referred to as the USNS *Ruth Bader Ginsburg*.
 
 “As we close out women’s history month, it is my absolute honor to name the next T-AO after the Honorable [Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg). She is a historic figure who vigorously advocated for women’s rights and gender equality,” Del Toro announced.
 

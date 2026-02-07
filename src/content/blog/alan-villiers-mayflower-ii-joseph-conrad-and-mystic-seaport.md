@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Mayflower II at Mystic Seaport brings together two ships closely tied with Alan Villiers. The other, Joseph Conrad, is a training ship at the museum."
 ---
 
-![Alan Villiers](http://www.oldsaltblog.com/wp-content/uploads/2014/12/villiers.jpg)
+![Alan Villiers](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/villiers.jpg)
 
 Alan Villiers
 
@@ -25,7 +25,7 @@ While not a particular believer in ghosts, if the ghost of [Alan Villiers](http:
 
 The *Mayflower II*, a replica of the original ship which carried the Pilgrims across the Atlantic in 1620, has been the one of the key exhibits at the [Plimoth Plantation](http://www.plimoth.org/) at the State Pier on Plymouth’s waterfront.  In 2013, the ship was found to be in need of a major refit.   As noted on the Mystic Seaport website:
 
-![Mayflower II](http://www.oldsaltblog.com/wp-content/uploads/2014/12/mayflowerII.jpg)
+![Mayflower II](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/mayflowerII.jpg)
 
 Mayflower II
 
@@ -33,7 +33,7 @@ Mayflower II
 
 So what does this have to do with Alan Villiers?  If the name is not familiar, Villiers was a master mariner, author, and adventurer, who first went to sea at age 15 and sailed the world’s oceans on board the last of the great windjammers, including the full-rigged ships [*Herzogin Cecilie,*](http://en.wikipedia.org/wiki/Herzogin_Cecilie) [*Grace Harwar*](http://www.bruzelius.info/Nautica/Ships/Merchant/Sail/G/Grace_Harwar%281889%29.html) and the [*Parma*](http://en.wikipedia.org/wiki/Parma_%28barque%29), of which he was part owner. He also commanded square-rigged ships for films, including [*Moby Dick*](http://en.wikipedia.org/wiki/Moby_Dick_\(1956_film\)) and [*Billy Budd*](http://en.wikipedia.org/wiki/Billy_Budd_\(film\)).  In 1957, Villiers commanded the *Mayflower II* on its maiden voyage from the United Kingdom to the United States, arriving in New York City on Monday, July 1, of that year.  Captain Villiers and his crew were welcomed with a ticker tape parade.
 
-![Joseph Conrad](http://www.oldsaltblog.com/wp-content/uploads/2012/07/3jcwide-300x168.jpg)
+![Joseph Conrad](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/3jcwide-300x168.jpg)
 
 Joseph Conrad
 

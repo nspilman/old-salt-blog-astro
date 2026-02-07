@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "On August 29, the multipurpose US flag cargo ship, M/V Ocean Atlas, arrived in Maracaibo, Venezuela. Not long after, the ship was detained by Venezuelan security forces and was repeatedly searched by agents from Interpol and the Venezuelan drug enforcement agency, reportedly based on a tip that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/ocean-atlas-large.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/ocean-atlas-large.jpg)
 
 Photo: Intermarine
 

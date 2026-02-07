@@ -13,12 +13,12 @@ tags:
   - "Laser"
   - "USS Ponce"
   - "USS Portland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/portlandlaser.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/portlandlaser.jpg"
 author: "Rick Spilman"
 description: "In 2014, we posted about the deployment of a prototype 30-kilowatt-class Laser Weapon System (LAWS) on the USS Ponce, an Austin-class amphibious transport dock, for field testing in the Persian Gulf. Last week, the Navy announced that the amphibious transport … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/portlandlaser.jpg)In 2014, we [posted about the deployment of a prototype 30-kilowatt-class Laser Weapon System](https://www.oldsaltblog.com/2014/11/update-us-navy-deploys-laser-weapon-on-uss-ponce-in-the-persian-gulf/) (LAWS) on the [USS *Ponce*](https://en.wikipedia.org/wiki/USS_Ponce_%28LPD-15%29), an Austin-class amphibious transport dock, for field testing in the Persian Gulf.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/portlandlaser.jpg)In 2014, we [posted about the deployment of a prototype 30-kilowatt-class Laser Weapon System](https://www.oldsaltblog.com/2014/11/update-us-navy-deploys-laser-weapon-on-uss-ponce-in-the-persian-gulf/) (LAWS) on the [USS *Ponce*](https://en.wikipedia.org/wiki/USS_Ponce_%28LPD-15%29), an Austin-class amphibious transport dock, for field testing in the Persian Gulf.
 
 Last week, the Navy announced that the amphibious transport dock ship [USS *Portland* (LPD 27)](https://en.wikipedia.org/wiki/USS_Portland_\(LPD-27\)) conducted a high-energy laser weapon system demonstration, Dec. 14, while sailing in the Gulf of Aden. 
 

@@ -16,12 +16,12 @@ tags:
   - "Thomas Begay"
   - "Winnie Breegle"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/codetalkers.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/codetalkers.jpg"
 author: "Rick Spilman"
 description: "Last week, Trump’s Defense Department removed articles about Navajo code talkers from its websites amid an ongoing campaign to rid the military of diversity, equity, and inclusion (DEI) programs. Once again, under Trump, opposition to DEI was used as a … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/codetalkers.jpg)Last week, Trump’s Defense Department removed [articles about Navajo code talkers](https://www.militarytimes.com/news/your-military/2025/03/18/articles-about-navajo-code-talkers-removed-in-pentagons-dei-purge/) from its websites amid an ongoing campaign to rid the military of diversity, equity, and inclusion (DEI) programs. Once again, under Trump, opposition to DEI was used as a tool for denying opportunities to people of color, women, and minorities—if not erasing them entirely from the history books.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/codetalkers.jpg)Last week, Trump’s Defense Department removed [articles about Navajo code talkers](https://www.militarytimes.com/news/your-military/2025/03/18/articles-about-navajo-code-talkers-removed-in-pentagons-dei-purge/) from its websites amid an ongoing campaign to rid the military of diversity, equity, and inclusion (DEI) programs. Once again, under Trump, opposition to DEI was used as a tool for denying opportunities to people of color, women, and minorities—if not erasing them entirely from the history books.
 
 After three days of [public outcry and lobbying](https://www.nativenewsonline.net/opinion/what-threat-could-the-navajo-code-talkers-possibly-be-to-white-people) from the Navajo Nation president and the tribal council to the White House and the Pentagon, the Defense Department gave up on this part of its effort to whitewash the past and [abruptly reversed itself.](https://www.washingtonpost.com/nation/2025/03/22/navajo-code-talkers-trump-dei/)
 

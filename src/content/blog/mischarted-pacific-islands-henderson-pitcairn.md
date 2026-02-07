@@ -15,12 +15,12 @@ tags:
   - "Pitcairn Island"
   - "Royal Navy"
   - "South Pacific"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/hmsspey.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/hmsspey.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy patrol ship HMS Spey was on a mission to check and update charts of waters around British Overseas Territories scattered around the globe. It recently observed that Henderson Island in the South Pacific is one mile south … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/hmsspey.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/hmsspey.jpg)
 
 HMS Spey
 

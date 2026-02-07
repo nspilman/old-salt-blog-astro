@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In a pre-dawn raid, US Navy SEAL commandos freed two hostages; an American, Jessica Buchanan, 32, and a Dane, Poul Thisted, 60;  being held for ransom in a pirate compound 12 miles north of the Somali town of Adado.  Members of SEAL Team … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/hostages.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/hostages.jpg)
 
 Paul Tisted & Jessica Buchanan Photos: Danish Refugee Council
 

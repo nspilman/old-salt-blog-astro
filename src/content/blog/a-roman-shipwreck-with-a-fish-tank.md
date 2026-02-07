@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Archeologists cannot say for sure what the lead pipe which penetrates the hull of a nearly 2,000 years old wreck of a Roman ship off the town of Grado in Italy was used for.   Some think that it was a supply … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/shipwreck_244x183.jpg)Archeologists cannot say for sure what the lead pipe which penetrates the hull of a nearly 2,000 years old wreck of a Roman ship off the town of Grado in Italy was used for.   Some think that it was a supply line to an onboard  tank  which carried live fish to market.  If so, the approximately 55′ ship may have carried on one the earliest onboard fish tanks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/shipwreck_244x183.jpg)Archeologists cannot say for sure what the lead pipe which penetrates the hull of a nearly 2,000 years old wreck of a Roman ship off the town of Grado in Italy was used for.   Some think that it was a supply line to an onboard  tank  which carried live fish to market.  If so, the approximately 55′ ship may have carried on one the earliest onboard fish tanks.
 
 [Is this the world’s oldest fish tank?](http://www.cbsnews.com/stories/2011/06/02/scitech/main20068260.shtml)  
   

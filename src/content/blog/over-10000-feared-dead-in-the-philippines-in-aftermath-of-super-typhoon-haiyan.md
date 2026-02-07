@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In the aftermath of Super Typhoon Haiyan, the Philippines is beginning to attempt to cope with what has been described as the worst natural disaster in its history.  The typhoon hit the archipelago with winds approaching 200 mph and drove … Continue reading &rarr;"
 ---
 
-![Typhoon Haiyan survivors on Sunday pass by two vessels that were washed ashore during the storm in Tacloban, a city in Leyte, a province in the central Philippines.](http://www.oldsaltblog.com/wp-content/uploads/2013/11/aptopix-philippines-typhoon.jpg)
+![Typhoon Haiyan survivors on Sunday pass by two vessels that were washed ashore during the storm in Tacloban, a city in Leyte, a province in the central Philippines.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/aptopix-philippines-typhoon.jpg)
 
 Typhoon Haiyan survivors on Sunday pass by two vessels that were washed ashore during the storm in Tacloban, a city in Leyte, a province in the central Philippines.
 

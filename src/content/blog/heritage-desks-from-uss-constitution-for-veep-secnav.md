@@ -14,12 +14,12 @@ tags:
   - "Secretary of the Navy"
   - "USS Constitution"
   - "Vice President"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/vpheritagedesk.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/vpheritagedesk.jpg"
 author: "Rick Spilman"
 description: "The Vice President and the Secretary of the Navy now each have new \"heritage desks,\"  built by Navy Seabees, using wood, fasteners, and fittings from historic US Navy ships.  The desk for Vice President Kamala Harris is made from wood, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/vpheritagedesk.jpg)The Vice President and the Secretary of the Navy now each have new “[heritage desks](https://www.navy.mil/Press-Office/News-Stories/Article/2552742/navy-heritage-desks/),”  built by Navy [Seabees](https://en.wikipedia.org/wiki/Seabee), using wood, fasteners, and fittings from historic US Navy ships. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/vpheritagedesk.jpg)The Vice President and the Secretary of the Navy now each have new “[heritage desks](https://www.navy.mil/Press-Office/News-Stories/Article/2552742/navy-heritage-desks/),”  built by Navy [Seabees](https://en.wikipedia.org/wiki/Seabee), using wood, fasteners, and fittings from historic US Navy ships. 
 
 The desk for Vice President Kamala Harris is made from wood, copper, and nails taken from the [USS *Constitution*](http://www.military.com/equipment/uss-constitution), one of the country’s first frigates. The *Constitution* is the oldest commissioned warship still afloat. The wood came from two restorations of the frigate conducted in 2007 and 2017.
 

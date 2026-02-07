@@ -11,12 +11,12 @@ tags:
   - "piracy"
   - "pirates"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/piracycaribbean.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/piracycaribbean.jpg"
 author: "Rick Spilman"
 description: "The southern Caribbean has seen a significant increase in piracy of late, at least partially related to the economic and political turmoil in nearby Venezuela. Commerical ships, local fishermen and visiting yachts have all fallen prey to attacks from pirates. Oceans Beyond Piracy (OBP), a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/piracycaribbean.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/piracycaribbean.jpg)
 
 Graphic: OBP
 

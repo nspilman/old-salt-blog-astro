@@ -11,12 +11,12 @@ tags:
   - "Bourbon Rhode"
   - "Hurricane Lorenzo"
   - "tug supply boat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/bourbonrhode.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/bourbonrhode.jpg"
 author: "Rick Spilman"
 description: "Three sailors have been rescued from a lifeboat following the sinking of the 164′ tug supply boat Bourbon Rhode in Hurricane Lorenzo. The remaining eleven crew members are missing. The tug had sent a distress signal on Thursday and a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/bourbonrhode.jpg)Three sailors have been rescued from a lifeboat following the sinking of the 164′ [tug supply boat *Bourbon Rhode*](https://www.fleetmon.com/vessels/bourbon-rhode_9356359_2088675/) in Hurricane Lorenzo. The remaining eleven crew members are missing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/bourbonrhode.jpg)Three sailors have been rescued from a lifeboat following the sinking of the 164′ [tug supply boat *Bourbon Rhode*](https://www.fleetmon.com/vessels/bourbon-rhode_9356359_2088675/) in Hurricane Lorenzo. The remaining eleven crew members are missing.
 
 The tug had sent a distress signal on Thursday and a rescue effort was mounted by the French and US governments assisted by commercial ships. The tug’s owner confirmed in a [press release on Saturday](https://www.globenewswire.com/news-release/2019/09/28/1922147/0/en/BOURBON-Press-Release-Update-on-the-research-operations-of-the-Bourbon-Rhode.html) that the *Bourbon Rhode* had sunk.
 

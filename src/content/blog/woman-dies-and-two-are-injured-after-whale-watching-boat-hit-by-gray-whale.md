@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A Canadian woman was killed and two others were injured when a gray whale collided with their excursion boat off Cabo San Lucas in Mexico."
 ---
 
-![Gray whale breaching](http://www.oldsaltblog.com/wp-content/uploads/2015/03/graywhalebreaching.jpg)
+![Gray whale breaching](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/graywhalebreaching.jpg)
 
 Gray whale breaching
 

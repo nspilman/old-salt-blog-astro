@@ -11,12 +11,12 @@ tags:
   - "Denmark"
   - "electric ferry"
   - "wind farm"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/ellenferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ellenferry.jpg"
 author: "Rick Spilman"
 description: "Last week, the Ellen, the world’s largest all-electric ferry, completed its maiden voyage in Denmark. From a press release by Leclanché, the provider of the batteries to power the ferry: The world’s largest all-electric ferry, named Eferry Ellen, made its … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/ellenferry.jpg)Last week, the *Ellen*, the [world’s largest all-electric ferry](https://electrek.co/2019/08/21/worlds-largest-electric-ferry/), completed its maiden voyage in Denmark.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/ellenferry.jpg)Last week, the *Ellen*, the [world’s largest all-electric ferry](https://electrek.co/2019/08/21/worlds-largest-electric-ferry/), completed its maiden voyage in Denmark.
 
 From a press release by [Leclanché](https://www.leclanche.com/wp-content/uploads/2019/08/20190815-Leclanch%C3%A9-Eferry_PIC.pdf), the provider of the batteries to power the ferry:
 

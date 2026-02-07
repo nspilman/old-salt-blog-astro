@@ -17,12 +17,12 @@ tags:
   - "explosion and fire"
   - "Patapsco River"
   - "W-Sapphire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/WSapphire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/WSapphire.jpg"
 author: "Rick Spilman"
 description: "On Monday night, an explosion and fire erupted aboard the W-Sapphire, a 751-foot-long, 82,000 DWT bulk carrier, in the Patapsco River, outbound from Baltimore harbor. The Liberian-registered bulker had just loaded coal at CSX’s Curtis Bay terminal and was beginning … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/WSapphire.jpg)On Monday night, an explosion and fire erupted aboard the [*W-Sapphire*](https://www.vesselfinder.com/vessels/details/9605645), a 751-foot-long, 82,000 DWT bulk carrier, in the Patapsco River, outbound from Baltimore harbor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/WSapphire.jpg)On Monday night, an explosion and fire erupted aboard the [*W-Sapphire*](https://www.vesselfinder.com/vessels/details/9605645), a 751-foot-long, 82,000 DWT bulk carrier, in the Patapsco River, outbound from Baltimore harbor.
 
 The Liberian-registered bulker had just loaded coal at CSX’s Curtis Bay terminal and was beginning its voyage to Mauritius when the explosion occurred around 6:30 p.m. local time. The ship had 23 crew members and two pilots on board. No injuries were reported. 
 

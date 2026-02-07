@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Update:  The MS Carnival Triumph was allowed to sail as scheduled following last minute negotiations. The 2,758-passenger cruise ship MS Carnival Triumph was supposed to sail today for a five-day cruise to Yucatan and Cozumel. Instead, a Texas judge has ordered the ship … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/Carnival_Triumph_Half_Moon_.jpg)**Update:**  The *MS Carnival Triumph* was allowed to [sail as scheduled following last minute negotiations](http://www.businessweek.com/news/2012-03-31/carnival-triumph-released-to-sail-after-deal-struck-lawyer-says).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Carnival_Triumph_Half_Moon_.jpg)**Update:**  The *MS Carnival Triumph* was allowed to [sail as scheduled following last minute negotiations](http://www.businessweek.com/news/2012-03-31/carnival-triumph-released-to-sail-after-deal-struck-lawyer-says).
 
 The 2,758-passenger cruise ship [MS *Carnival Triumph*](http://en.wikipedia.org/wiki/Carnival_Triumph) was supposed to sail today for a five-day cruise to Yucatan and Cozumel. Instead, a Texas judge has ordered the ship held in Galveston as part a $10 million lawsuit filed by the family of a German tourist who died aboard the *Costa Concordia*.  [Carnival Corporation](http://en.wikipedia.org/wiki/Carnival_Corporation_%26_PLC), the world’s largest cruise operator, owns Costa Lines, the owner of the  *Costa Concordia.*
 

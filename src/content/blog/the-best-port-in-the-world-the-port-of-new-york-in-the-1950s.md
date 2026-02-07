@@ -10,7 +10,7 @@ categories:
 tags:
   - "cargo handling"
   - "Port of New York"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/PNY1950s.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/PNY1950s.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful video from the 1950s focusing on the Port of New York, which the narrator proclaims is the \"Best Port in the World.\" It is wonderful to watch the old style cargo handling — hoisting bags, boxes, … Continue reading &rarr;"
 ---

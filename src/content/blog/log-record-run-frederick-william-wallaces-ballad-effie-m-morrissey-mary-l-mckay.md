@@ -11,12 +11,12 @@ tags:
   - "Frederick William Wallace"
   - "Mary L. McKay"
   - "The Log of a Record Run"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/morrissey3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/morrissey3.jpg"
 author: "Rick Spilman"
 description: "One last post (at least for the immediate future) on the historic schooner Ernestina-Morrissey, which is now being restored in Boothbay, Maine.  Launched in February, 1894, she had a very successful almost thirty year fishing career, before becoming an Arctic exploration ship and then … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/morrissey3.jpg)One last post (at least for the immediate future) on the historic schooner *[Ernestina-Morrissey](http://www.ernestina.org/),* which is now being restored in Boothbay, Maine.  Launched in February, 1894, she had a very successful almost thirty year fishing career, before becoming an Arctic exploration ship and then a Cape Verdian packet schooner.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/morrissey3.jpg)One last post (at least for the immediate future) on the historic schooner *[Ernestina-Morrissey](http://www.ernestina.org/),* which is now being restored in Boothbay, Maine.  Launched in February, 1894, she had a very successful almost thirty year fishing career, before becoming an Arctic exploration ship and then a Cape Verdian packet schooner.  
 
 On December 10, 1912, the journalist, photographer, historian and novelist, [Frederick William Wallace](https://en.wikipedia.org/wiki/Frederick_William_Wallace), boarded the *Effie M. Morrissey* for a record breaking voyage from Portland, ME and Yarmouth, NS, covering a distance of 200 miles in 20 hours.  Wallace would later pen a ballad “*The Log of the Record Run*.”  The song is now best known as “*The Mary L. McKay*.” [Wallace explains why he changed the name](http://www.ernestina.org/download/?did=42) of the schooner in the song:
 
@@ -24,5 +24,5 @@ On December 10, 1912, the journalist, photographer, historian and novelist, [Fr
 
 Click the image below for [Schooner Fare](http://www.outergreen.com/) singing “*T[he Mary L. McKay](https://youtu.be/aCaFu_z1QLA).”*  
 *  
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/schoonerfaremckay.jpg)](https://youtu.be/aCaFu_z1QLA)  
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/schoonerfaremckay.jpg)](https://youtu.be/aCaFu_z1QLA)  
 *

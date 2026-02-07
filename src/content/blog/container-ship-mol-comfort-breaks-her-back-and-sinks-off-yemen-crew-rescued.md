@@ -18,7 +18,7 @@ description: "UPDATE: Contrary to initial reports that the ship sank, the two ha
 
 **UPDATE:** Contrary to initial reports that the ship sank, the two halves of the MOL Comfort have remained afloat. Tugs have been dispatched to the site.
 
-![MOLCOMFORT](http://www.oldsaltblog.com/wp-content/uploads/2013/06/MOLCOMFORT.jpg)
+![MOLCOMFORT](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/MOLCOMFORT.jpg)
 
 PTI Photo
 

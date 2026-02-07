@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The moral of the story may be  to identify the ship before you attack it. U.S. Navy captures 5 Somali pirates, siezes pirate mother ship off Kenya, Somali coasts The dumbest Somali pirates on the high seas tried to attack … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/alg_uss_nicholas_ship.jpg)The moral of the story may be  to identify the ship before you attack it.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/alg_uss_nicholas_ship.jpg)The moral of the story may be  to identify the ship before you attack it.
 
 [U.S. Navy captures 5 Somali pirates, siezes pirate mother ship off Kenya, Somali coasts](http://www.nydailynews.com/news/world/2010/04/01/2010-04-01_us_navy_captures_5_somali_pirates_siezes_pirate_mother_ship_off_kenya_somali_coa.html)
 

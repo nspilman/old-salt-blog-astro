@@ -11,7 +11,7 @@ tags:
   - "Jet Suit"
   - "Royal Marines"
   - "Royal Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/RNjetpack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/RNjetpack.jpg"
 author: "Rick Spilman"
 description: "The British Royal Navy and Royal Marines recently tested a jet suit developed by the company Gravity Industries. Gravity says its suit can fly up to 80 mph and climb to 12,000 feet in the air. The absolutely amazing footage … Continue reading &rarr;"
 ---

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The folks at Jack Tar Magazine are sponsoring a writing contest, \"The New Conrads\" Storytelling Challenge, with some serious prize money attached.  Whether you enter or not, it is an interesting exercise to consider what the world of shipping would look like in a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/277065_222625014449778_6774.jpg)The folks at [Jack Tar Magazine](https://www.facebook.com/JackTarMag) are sponsoring a writing contest, [“The New Conrads” Storytelling Challenge](https://www.facebook.com/event.php?eid=222625014449778), with some serious prize money attached.  Whether you enter or not, it is an interesting exercise to consider what the world of shipping would look like in a post petroleum world.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/277065_222625014449778_6774.jpg)The folks at [Jack Tar Magazine](https://www.facebook.com/JackTarMag) are sponsoring a writing contest, [“The New Conrads” Storytelling Challenge](https://www.facebook.com/event.php?eid=222625014449778), with some serious prize money attached.  Whether you enter or not, it is an interesting exercise to consider what the world of shipping would look like in a post petroleum world.
 
 [“The New Conrads” Storytelling Challenge](https://www.facebook.com/event.php?eid=222625014449778)  
   

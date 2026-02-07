@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Four Americans on the S/V Quest were seized by pirates this afternoon 240 nautical miles off the coast of Oman in the Indian Ocean.   Jean and Scott Adam, owners of the S/V Quest, have been sailing around the world … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/wGennaker_small.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/wGennaker_small.jpg)
 
 SV Quest reported hijacked by pirates
 

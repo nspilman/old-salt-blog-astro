@@ -11,12 +11,12 @@ tags:
   - "Newport"
   - "Oliver Hazard Perry Rhode Island"
   - "SSV Oliver Hazard Perry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/ohp3.jpg"
 author: "Rick Spilman"
 description: "Oliver Hazard Perry Rhode Island  (OHPRI), the non-profit organization behind Rhode Island’s Official Tall Ship SSVOliver Hazard Perry, has announced a pause in operations to rethink its strategy for the ship’s financial sustainability.   The 200-foot three-masted sailing school vessel, which was seven … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg)Oliver Hazard Perry Rhode Island  (OHPRI), the non-profit organization behind Rhode Island’s Official Tall Ship [SSV*Oliver Hazard Perry*](http://www.ohpri.org/ship), has announced a pause in operations to rethink its strategy for the ship’s financial sustainability.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/ohp3.jpg)Oliver Hazard Perry Rhode Island  (OHPRI), the non-profit organization behind Rhode Island’s Official Tall Ship [SSV*Oliver Hazard Perry*](http://www.ohpri.org/ship), has announced a pause in operations to rethink its strategy for the ship’s financial sustainability.  
 
 The 200-foot three-masted sailing school vessel, which was seven years and $12 million in the making when she embarked on her maiden sail in 2015, will not journey south next Spring as it has done the past two years but instead remain in Rhode Island at a soon-to-be-announced location.
 

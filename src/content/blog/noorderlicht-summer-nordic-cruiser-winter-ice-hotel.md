@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The 36 meter steel schooner Noorderlicht celebrates her one hundredth birthday this year.  With ten double cabins for passengers, she cruises along the Svalbard archipelago in the Arctic Ocean in the summer and coastal Norway in the Autumn. Her winter employment is what … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/northernlight.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/northernlight.jpg)
 
 The 36 meter steel schooner *[Noorderlicht](http://translate.google.com/translate?u=http%3A%2F%2Fwww.noorderlicht.nu%2F&sl=nl&tl=en&hl=&ie=UTF-8)* celebrates her one hundredth birthday this year.  With ten double cabins for passengers, she cruises along the Svalbard archipelago in the Arctic Ocean in the summer and coastal Norway in the Autumn. Her winter employment is what makes her remarkable, however.  In February, the *Noorderlicht* is allowed to freeze in the ice of the Tempelfjorden, a fjord on the island of Spitzberg.  Here she serves as a hotel on the ice for hearty travelers who arrive by dog sled.   The trips are organized by [Base Camp Explorer](http://www.basecampexplorer.com/).
 

@@ -15,12 +15,12 @@ tags:
   - "Mediterranean Trade Routes"
   - "prevailing westerly winds"
   - "replica merchant ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/5thbcnedship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/5thbcnedship.jpg"
 author: "Rick Spilman"
 description: "Ancient trade routes in the Mediterranean have long been a mystery. How was it that sailing ships of antiquity, that could not sail well to weather, succeeded in carrying grain and other cargoes from the east to Rome against the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/5thbcnedship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/5thbcnedship.jpg)
 
 Photo: David Gal
 

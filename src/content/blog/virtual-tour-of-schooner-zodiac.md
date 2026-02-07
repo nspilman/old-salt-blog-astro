@@ -10,14 +10,14 @@ tags:
   - "San Francisco Bar Pilots Association"
   - "schooner"
   - "Zodiac"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/schoonerzodiac.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/schoonerzodiac.jpg"
 author: "Rick Spilman"
 description: "Click on the image below to be taken to a virtual tour of the 127′ long schooner Zodiac. The schooner Zodiac was built in 1924 for the heirs to the Johnson & Johnson pharmaceutical fortune. After a successful career as … Continue reading &rarr;"
 ---
 
 Click on the image below to be taken to a [virtual tour](https://matterport.com/industries/gallery/schooner-zodiac-sailing-ship) of the 127′ long [schooner Zodiac](https://schoonerzodiac.com/).
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/schoonerzodiac.jpg)](https://matterport.com/industries/gallery/schooner-zodiac-sailing-ship)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/schoonerzodiac.jpg)](https://matterport.com/industries/gallery/schooner-zodiac-sailing-ship)
 
 The [schooner *Zodiac*](https://schoonerzodiac.com/) was built in 1924 for the heirs to the Johnson & Johnson pharmaceutical fortune. After a successful career as a private yacht, winning many races and passing through several owners, the *Zodiac* was purchased by the San Francisco Bar Pilots Association in 1931. Renamed *California*, she operated as a pilot schooner on San Francisco Bay until 1972, the last sailing pilot vessel in the United States.
 

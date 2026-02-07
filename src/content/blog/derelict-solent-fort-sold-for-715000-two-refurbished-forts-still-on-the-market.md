@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/horsesandfort.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/horsesandfort.jpg"
 author: "Rick Spilman"
 description: "Between 1865-80, four forts were built in the Solent to protect Portsmouth and its harbor from sea attack and bombardment. Locally known as \"Palmerston’s Follies\" after the Prime Minister of the time, they were built in response to an invasion … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/horsesandfort.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/horsesandfort.jpg)
 
 Horse Sand Fort Image: Graham Horn
 

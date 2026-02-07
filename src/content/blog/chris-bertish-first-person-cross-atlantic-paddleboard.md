@@ -10,7 +10,7 @@ tags:
   - "Atlantic"
   - "Chris Bertish"
   - "Stand Up Paddleboard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/SUP1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/SUP1.jpg"
 author: "Rick Spilman"
 description: "On Thursday, South African Chris Bertish paddled his ocean-going stand-up paddleboard into Antiqua’s English Harbor becoming the first person to cross the Atlantic by stand-up paddleboard. He left Agadir, Morocco, 93 days ago, on the epic 4,050-mile voyage.  Bertish was wholly unassisted … Continue reading &rarr;"
 ---

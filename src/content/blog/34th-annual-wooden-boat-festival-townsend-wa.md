@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This sounds like a fantastic festival for anyone near Townsend, Washington.  The 34th Annual Wooden Boat Festival, which starts tomorrow and runs through the weekend, features almost 300 wooden vessels on display ranging from small wherries to the 133′ classic schooner Adventuress. Ahoy for Wooden Boat Festival: Tents … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/festival_poster10.jpg)This sounds like a fantastic festival for anyone near Townsend, Washington.  The [34th Annual Wooden Boat Festival](http://www.woodenboat.org/festival/), which starts tomorrow and runs through the weekend, features almost 300 wooden vessels on display ranging from small wherries to the 133′ classic schooner [Adventuress.](http://www.woodenboat.org/boats/Boat_Detail.aspx?processID=2)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/festival_poster10.jpg)This sounds like a fantastic festival for anyone near Townsend, Washington.  The [34th Annual Wooden Boat Festival](http://www.woodenboat.org/festival/), which starts tomorrow and runs through the weekend, features almost 300 wooden vessels on display ranging from small wherries to the 133′ classic schooner [Adventuress.](http://www.woodenboat.org/boats/Boat_Detail.aspx?processID=2)
 
 [Ahoy for Wooden Boat Festival: Tents to go up today at maritime center](http://www.peninsuladailynews.com/article/20100908/news/309089981/ahoy-for-wooden-boat-festival-tents-to-go-up-today-at-maritime-center)  
   

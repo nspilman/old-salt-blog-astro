@@ -12,7 +12,7 @@ tags:
   - "Hawaiian Chieftain"
   - "Lady Washington"
   - "Tall &amp; Historic Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/battlesaillw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/battlesaillw.jpg"
 author: "Rick Spilman"
 description: "The tall ships from Grays Harbor Historical Seaport Authority, Lady Washington and the Hawaiian Chieftain, engage in a mock battle sail. A wonderful video by GHHSAmedia from about a decade ago. Lady Washington/Hawaiian Chieftain: Columbia River Battle Sail … Continue reading &rarr;"
 ---

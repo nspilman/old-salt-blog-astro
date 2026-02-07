@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "If the sea were influenced by public support and social media, the four missing sailors on the lost Beneteau 40.7, Cheeki Rafiki,  would be home with their families by now. Unfortunately, that is not the case. One week ago today, the captain of … Continue reading &rarr;"
 ---
 
-[![Click to go to larger image](http://www.oldsaltblog.com/wp-content/uploads/2014/05/article-2634843-1E10DF8F00000578-963_634x562.jpg)](http://www.dailymail.co.uk/news/article-2635955/Has-Cheeki-Rafiki-Debris-spotted-volunteers-Atlantic-near-yacht-carrying-British-sailors-disappeared.html)
+[![Click to go to larger image](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/article-2634843-1E10DF8F00000578-963_634x562.jpg)](http://www.dailymail.co.uk/news/article-2635955/Has-Cheeki-Rafiki-Debris-spotted-volunteers-Atlantic-near-yacht-carrying-British-sailors-disappeared.html)
 
 Click thumbnail to go to larger image
 

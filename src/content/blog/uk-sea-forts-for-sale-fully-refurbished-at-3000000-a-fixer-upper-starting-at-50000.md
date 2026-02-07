@@ -12,12 +12,12 @@ tags:
   - "Sea Forts"
   - "Solent"
   - "Spitbank Fort"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/spitbankfort.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/spitbankfort.jpg"
 author: "Rick Spilman"
 description: "Interested in social distancing?  Looking for a unique residence or hotel venue, preferably one with serious armor plating? Do you also have a substantial cache of cash? If so, there are at least two UK sea forts on the market … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/spitbankfort.jpg)Interested in social distancing?  Looking for a unique residence or hotel venue, preferably one with serious armor plating? Do you also have a substantial cache of cash? If so, there are at least two UK sea forts on the market that may meet your needs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/spitbankfort.jpg)Interested in social distancing?  Looking for a unique residence or hotel venue, preferably one with serious armor plating? Do you also have a substantial cache of cash? If so, there are at least two UK sea forts on the market that may meet your needs.
 
 ### Spitbank Fort — Fully Refurbished
 

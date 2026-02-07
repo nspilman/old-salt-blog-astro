@@ -13,7 +13,7 @@ tags:
   - "Max Oliver"
   - "Rockland"
   - "Virginia Oliver"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/GinnyLL.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/GinnyLL.jpg"
 author: "Rick Spilman"
 description: "Lobsterman Max Oliver, 78, captains the lobster boat Virginia out of Rockland, Maine, three days a week, May through November. The boat happens to be named after his crew, Virginia Oliver, who is also his mother.  At age 101, she … Continue reading &rarr;"
 ---

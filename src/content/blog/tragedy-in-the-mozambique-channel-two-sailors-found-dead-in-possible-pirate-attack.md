@@ -17,12 +17,12 @@ tags:
   - "Mozambique Channel"
   - "Pascal Mahe"
   - "South Africa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/sibly.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/sibly.jpg"
 author: "Rick Spilman"
 description: "Australian sailor Deirdre \"Cookie\" Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht Acteon, sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  Acteon is a 50-foot sloop registered in France. … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/sibly.jpg)Australian sailor Deirdre “Cookie” Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht *[Acteon](https://www.vesseltracker.com/en/Ships/Acteon-I2277135.html),* sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  *Acteon* is a 50-foot sloop registered in France. The pair, both described by relatives and friends as highly capable mariners, had left Reunion Island in June with the intention of reaching South Africa, stopping in Durban before continuing to Cape Town.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/12/sibly.jpg)Australian sailor Deirdre “Cookie” Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht *[Acteon](https://www.vesseltracker.com/en/Ships/Acteon-I2277135.html),* sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  *Acteon* is a 50-foot sloop registered in France. The pair, both described by relatives and friends as highly capable mariners, had left Reunion Island in June with the intention of reaching South Africa, stopping in Durban before continuing to Cape Town.
 
 A distress signal was transmitted from the yacht on the evening of Nov 26. A nearby cargo vessel responded and notified French authorities after attempting without success to make contact with those on board. The ship’s crew approached the drifting yacht but could not safely board. That ship was then joined by a cargo ship and a maxi yacht to assist. There was no sign of life on the boat when the first responding ship attempted to make contact.
 

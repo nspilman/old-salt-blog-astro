@@ -13,12 +13,12 @@ tags:
   - "Schmidt Ocean Institute"
   - "South Sandwich Islands"
   - "Southern Ocean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/squid.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/squid.jpg"
 author: "Rick Spilman"
 description: "A colossal squid has been caught on camera for the first time in the deep sea by an international team of researchers steering a remotely operated submersible. Ironically, the first colossal squid caught on camera was anything but colossal. Adult … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/squid.jpg)A [colossal squid](https://en.wikipedia.org/wiki/Colossal_squid) has been caught on camera for the first time in the deep sea by an international team of researchers steering a remotely operated submersible. Ironically, the first colossal squid caught on camera was anything but colossal.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/squid.jpg)A [colossal squid](https://en.wikipedia.org/wiki/Colossal_squid) has been caught on camera for the first time in the deep sea by an international team of researchers steering a remotely operated submersible. Ironically, the first colossal squid caught on camera was anything but colossal.
 
 Adult colossal squid have been estimated to have a maximum total length between 10 meters (33 ft) and 14 meters (46 ft).  The squid on video was not colossal, despite its species designation. It was a juvenile of only about 1 foot in length.
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "HMS Ambush, the second of the Astute Class of Royal Navy attack submarines, has officially joined its fleet on the Clyde.. The £1.6bn nuclear-powered 7,400-tonne vessel has been undergoing sea trials since arriving at its home port at Faslane in September … Continue reading &rarr;"
 ---
 
-[![hms_ambush](http://www.oldsaltblog.com/wp-content/uploads/2013/03/hms_ambush.jpg)HMS *Ambush*](http://en.wikipedia.org/wiki/HMS_Ambush_\(S120\)), the second of the *Astute* Class of Royal Navy attack submarines, has officially joined its fleet on the Clyde.. The £1.6bn nuclear-powered 7,400-tonne vessel has been undergoing sea trials since arriving at its home port at Faslane in September and is is due to enter operational service later this year.
+[![hms_ambush](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/hms_ambush.jpg)HMS *Ambush*](http://en.wikipedia.org/wiki/HMS_Ambush_\(S120\)), the second of the *Astute* Class of Royal Navy attack submarines, has officially joined its fleet on the Clyde.. The £1.6bn nuclear-powered 7,400-tonne vessel has been undergoing sea trials since arriving at its home port at Faslane in September and is is due to enter operational service later this year.
 
 [Attack submarine HMS Ambush joins fleet at Faslane](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-21631952) 
 

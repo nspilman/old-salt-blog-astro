@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "UPDATE:  The US Coast Guard has resumed the search for the missing crew from the Cheeki Rafiki.   Over 200,000 signed petitions asking that the search be resumed.  British Prime Minister David Cameron thanked the Coast Guard on Twitter after it made … Continue reading &rarr;"
 ---
 
-![Photo of capsozed boat taken from Maersk Kure](http://www.oldsaltblog.com/wp-content/uploads/2014/05/maerskraficki.jpg)
+![Photo of capsozed boat taken from Maersk Kure](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/maerskraficki.jpg)
 
 Photo of capsized boat taken from Maersk Kure
 

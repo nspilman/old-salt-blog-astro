@@ -13,12 +13,12 @@ tags:
   - "Jean Miele"
   - "Lilac"
   - "USCG Cutter Lilac"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/lilacbow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/lilacbow2.jpg"
 author: "Rick Spilman"
 description: "If you are near New York City over the Memorial Day Weekend, be sure to stop by the Hudson River Park’s Pier 25 to help celebrate the 86th birthday of the USCG lighthouse/buoy tender Lilac. The historic cutter will be … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/lilacbow2.jpg)If you are near New York City over the Memorial Day Weekend, be sure to stop by the Hudson River Park’s Pier 25 to help celebrate the 86th birthday of the [USCG lighthouse/buoy tender *Lilac*](http://www.lilacpreservationproject.org/). The historic cutter will be opening for the summer season on Saturday, May 25 and Sunday, May 26 from 2:00 until 6:00 PM. Birthday cake will be served to all visitors.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/lilacbow2.jpg)If you are near New York City over the Memorial Day Weekend, be sure to stop by the Hudson River Park’s Pier 25 to help celebrate the 86th birthday of the [USCG lighthouse/buoy tender *Lilac*](http://www.lilacpreservationproject.org/). The historic cutter will be opening for the summer season on Saturday, May 25 and Sunday, May 26 from 2:00 until 6:00 PM. Birthday cake will be served to all visitors.  
 
 *Lilac* will also be staying open late for a special reception Sunday evening. The reception will celebrate the start of the season, the cutter’s birthday and the opening of a new exhibition of photos by Jean Miele. (Read more below.) The reception is also a celebration of our country’s Sea Services during [Fleet Week New York.](http://militarynews.com/app/fleetweeknewyork/events.html) 
 

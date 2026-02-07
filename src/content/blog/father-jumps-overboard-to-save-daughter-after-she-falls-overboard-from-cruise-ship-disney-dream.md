@@ -13,12 +13,12 @@ tags:
   - "father jumps overboard"
   - "Fort Lauderdale"
   - "young girl fell overboard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/06/disney-dream.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/disney-dream.jpg"
 author: "Rick Spilman"
 description: "An odd story with a distinctly happy ending. On Sunday, a young girl fell overboard from the Disney Dream cruise ship in the Atlantic Ocean.  Her father immediately jumped overboard to rescue his daughter. Both were rescued by the ship’s … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/06/disney-dream.jpg)An odd story with a distinctly happy ending. On Sunday, a young girl fell overboard from the [*Disney Dream*](https://en.wikipedia.org/wiki/Disney_Dream) cruise ship in the Atlantic Ocean.  Her father immediately jumped overboard to rescue his daughter. Both were rescued by the ship’s crew.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/disney-dream.jpg)An odd story with a distinctly happy ending. On Sunday, a young girl fell overboard from the [*Disney Dream*](https://en.wikipedia.org/wiki/Disney_Dream) cruise ship in the Atlantic Ocean.  Her father immediately jumped overboard to rescue his daughter. Both were rescued by the ship’s crew.
 
 “The Crew aboard the *Disney Dream* swiftly rescued two guests from the water,” a Disney Cruise Line spokesperson told [USA TODAY](https://www.usatoday.com/story/travel/cruises/2025/06/29/disney-dream-child-overboard/84410205007/) in a statement. “We commend our Crew Members for their exceptional skills and prompt actions, which ensured the safe return of both guests to the ship within minutes. We are committed to the safety and well-being of our guests, and this incident highlights the effectiveness of our safety protocols.”
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "For several years, we have been following the attempts to raise Arctic explorer Roald Amundsen‘s research ship Maud from where it has been sitting in ice and mud for close to 90 years. To say that the conditions in Cambridge Bay off the Nunavut … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/maudtow.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/maudtow.jpg)
 
 Maud Returns Home – Facebook
 

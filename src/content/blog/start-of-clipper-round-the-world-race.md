@@ -9,7 +9,7 @@ author: "Alaric Bond"
 description: "10 identical yachts have set sail from Southampton, England to compete in the 40,000-mile (64,500km) Clipper round-the-world race. Many of the crews volunteered as sailing novices, although all have since undertaken a comprehensive four stage training program before setting out … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/Clipper-image-e1312283639865.jpg)](http://www.oldsaltblog.com/2011/08/02/start-of-clipper-round-the-world-race/clipper-image/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Clipper-image-e1312283639865.jpg)](http://www.oldsaltblog.com/2011/08/02/start-of-clipper-round-the-world-race/clipper-image/)
 
 The yachts leaving Southampton accompanied by HMS Illustrious. Credit BBC News
 

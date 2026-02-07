@@ -9,12 +9,12 @@ tags:
   - "climate change"
   - "Doomsday Glacier"
   - "Thwaites Glacier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/thwaites.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/thwaites.jpg"
 author: "Rick Spilman"
 description: "As has so often been the case, predictions of the impact of climate change have been proven to be inaccurate. The problem is not that they have been too alarmist, but that they haven’t been alarmist enough. For the past … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/thwaites.jpg)As has so often been the case, predictions of the impact of climate change have been proven to be inaccurate. The problem is not that they have been too alarmist, but that they haven’t been alarmist enough. For the past several years, scientists have warned of the [melting of West Antarctica’s Thwaites glacier](https://www.rollingstone.com/politics/politics-features/the-doomsday-glacier-113792/), which now appears to be melting faster than had been feared.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/thwaites.jpg)As has so often been the case, predictions of the impact of climate change have been proven to be inaccurate. The problem is not that they have been too alarmist, but that they haven’t been alarmist enough. For the past several years, scientists have warned of the [melting of West Antarctica’s Thwaites glacier](https://www.rollingstone.com/politics/politics-features/the-doomsday-glacier-113792/), which now appears to be melting faster than had been feared.
 
 As described by the [BBC](https://www.bbc.com/news/science-environment-51097309): *Glaciologists have described [Thwaites](https://en.wikipedia.org/wiki/Thwaites_Glacier) as the “most important” glacier in the world, the “riskiest” glacier, even the “doomsday” glacier. It is massive – roughly the size of Britain. It already accounts for 4% of world sea-level rise each year – a huge figure for a single glacier – and satellite data show that it is melting increasingly rapidly.* 
 

@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "The impact of the ongoing budget crisis in Britain on the Royal Navy has been far reaching. Last week we posted about concerns that budget cuts would leave Britain with a shortage of attack submarines.  Recently, it was revealed that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/HMSWestminster.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/HMSWestminster.jpg)
 
 HMS Westminster
 

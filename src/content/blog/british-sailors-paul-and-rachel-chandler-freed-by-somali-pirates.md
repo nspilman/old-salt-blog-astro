@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "After more than a year long ordeal, British sailors Paul and Rachel Chandler were released today by Somali pirates.   The retired couple was seized by the pirates on October 22, 2009. Paul and Rachel Chandler released by Somali pirates … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/amd_chandlers.jpg)After more than a year long ordeal, British sailors Paul and Rachel Chandler were released today by Somali pirates.   The retired couple was seized by the pirates on October 22, 2009.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/amd_chandlers.jpg)After more than a year long ordeal, British sailors Paul and Rachel Chandler were released today by Somali pirates.   The retired couple was seized by the pirates on October 22, 2009.
 
 [Paul and Rachel Chandler released by Somali pirates after 388 days](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/somalia/8132021/Paul-and-Rachel-Chandler-released-by-Somali-pirates-after-388-days.html)
 

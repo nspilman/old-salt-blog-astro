@@ -11,12 +11,12 @@ tags:
   - "hudson river"
   - "Miracle on the Hudson"
   - "New York harbor commuter ferries"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/miracle2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/miracle2.jpg"
 author: "Rick Spilman"
 description: "An updated repost — a look back at the twin miracles on the Hudson from thirteen years ago yesterday. On January 15, 2009, US Airways Flight 1549 made an emergency water landing in the Hudson River. If the plane’s pilots, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/miracle2.jpg)An updated repost — a look back at the twin miracles on the Hudson from thirteen years ago yesterday. On January 15, 2009, [US Airways Flight 1549](https://en.wikipedia.org/wiki/US_Airways_Flight_1549) made an emergency water landing in the Hudson River. If the plane’s pilots, Captain [Chesley “Sulley” Sullenberge](http://www.sullysullenberger.com/)r and First Officer Jeffrey Skiles had not glided the plane in at exactly the right angle and airspeed, it is likely that the plane would have broken apart and that all the 155 passengers and crew aboard could have died.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/miracle2.jpg)An updated repost — a look back at the twin miracles on the Hudson from thirteen years ago yesterday. On January 15, 2009, [US Airways Flight 1549](https://en.wikipedia.org/wiki/US_Airways_Flight_1549) made an emergency water landing in the Hudson River. If the plane’s pilots, Captain [Chesley “Sulley” Sullenberge](http://www.sullysullenberger.com/)r and First Officer Jeffrey Skiles had not glided the plane in at exactly the right angle and airspeed, it is likely that the plane would have broken apart and that all the 155 passengers and crew aboard could have died.
 
 The landing is often called the “[Miracle on the Hudson](https://www.history.com/this-day-in-history/sully-sullenberger-performs-miracle-on-the-hudson).” There was, however, a second miracle on the Hudson that day. Remarkably, [New York harbor commuter ferries began arriving at the flooding plane](http://www.nytimes.com/2009/01/17/nyregion/17about.html) less than four minutes after the crash.  Had it not been for the ferries’ rapid rescue of the passengers from the icy waters, the “miracle” might have ended as a tragedy.
 

@@ -13,6 +13,6 @@ author: "Rick Spilman"
 description: "Five alleged pirates went on trial this week in the Netherlands in what is believed to be the first piracy trial in the European Union.  The Netherlands has called for an international tribunal for the prosecution of sea pirates, but thus far no EU action … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/story.dutch.navy_.afp_.gi_.jpg)Five alleged pirates went on trial this week in the Netherlands in what is believed to be the first piracy trial in the European Union.  The Netherlands has called for an international tribunal for the prosecution of sea pirates, but thus far no EU action has been forthcoming.   In the US a pirate captured in the attack on the *Maersk Alabama* has pleased guilty and is awaiting sentencing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/story.dutch.navy_.afp_.gi_.jpg)Five alleged pirates went on trial this week in the Netherlands in what is believed to be the first piracy trial in the European Union.  The Netherlands has called for an international tribunal for the prosecution of sea pirates, but thus far no EU action has been forthcoming.   In the US a pirate captured in the attack on the *Maersk Alabama* has pleased guilty and is awaiting sentencing.
 
 [Five pirates stand trial in the Netherlands](http://edition.cnn.com/2010/WORLD/europe/05/25/netherlands.pirates.trial/)

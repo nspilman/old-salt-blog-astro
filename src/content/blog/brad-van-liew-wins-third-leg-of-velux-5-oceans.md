@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew \"Gutek\" Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/vanliew_int1.jpg)Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the [Velux Five Oceans](http://www.velux5oceans.com/) Singlehanded Around the World Race.   The remaining three racers, Zbigniew “Gutek” Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of each other and are expected to arrive in port on  Thursday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/vanliew_int1.jpg)Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the [Velux Five Oceans](http://www.velux5oceans.com/) Singlehanded Around the World Race.   The remaining three racers, Zbigniew “Gutek” Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of each other and are expected to arrive in port on  Thursday.
 
 [Brad Van Liew Wins Third Leg of Velux 5 Oceans](http://sailmagazine.com/news/home/brad_van_liew_wins_third_leg_of_velux_5_oceans/)  
   

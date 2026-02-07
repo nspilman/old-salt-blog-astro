@@ -16,7 +16,7 @@ description: "The teen-round-the-world-sailing-escapades may be starting all ove
 
 [](http://www.csmonitor.com/From-the-news-wires/2010/0727/Laura-Dekker-has-Dutch-court-permission-to-sail-around-the-world)
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/dekker1.jpg)The teen-round-the-world-sailing-escapades may be starting all over again.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/dekker1.jpg)The teen-round-the-world-sailing-escapades may be starting all over again.
 
 [Laura Dekker has Dutch court permission to sail around the world](http://www.csmonitor.com/From-the-news-wires/2010/0727/Laura-Dekker-has-Dutch-court-permission-to-sail-around-the-world)
 

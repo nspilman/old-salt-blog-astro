@@ -9,12 +9,12 @@ categories:
 tags:
   - "Alexander Kent"
   - "Douglas Reeman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/reeman200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/reeman200.jpg"
 author: "Rick Spilman"
 description: "We understand that writer Douglas Reeman has died at this home in Cobham, Surrey, at the age of 92. Reeman, perhaps best know for the novels written under the pen-name Alexander Kent, wrote close to 60 books and has left an indelible … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/dreeman1.jpg)We understand that writer Douglas Reeman has died at this home in Cobham, Surrey, at the age of 92. Reeman, perhaps best know for the novels written under the pen-name Alexander Kent, wrote close to 60 books and has left an indelible mark on the literature of the sea. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/dreeman1.jpg)We understand that writer Douglas Reeman has died at this home in Cobham, Surrey, at the age of 92. Reeman, perhaps best know for the novels written under the pen-name Alexander Kent, wrote close to 60 books and has left an indelible mark on the literature of the sea. 
 
 Douglas Edward Reeman was born at Thames Ditton, on October 15, 1924. He joined the Royal Navy in 1940, at the age of 16, and served during World War II and the Korean War, rising to the rank of lieutenant. In addition to being an author, Reeman has also taught the art of navigation for yachting and served as a technical advisor for films. Reeman is survived by his wife of thirty one years, Kimberley Jordan. 
 

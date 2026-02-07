@@ -16,12 +16,12 @@ tags:
   - "Philipp Oldendorff"
   - "Spanish Canary Islands"
   - "Tenerife"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/mviisignia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mviisignia.jpg"
 author: "Rick Spilman"
 description: "The cruise ship Insignia rescued 68 migrants adrift off the Spanish Canary Islands on Wednesday, Spain’s maritime rescue agency said in a statement on X.  The bulk carrier Philipp Oldendorff spotted the migrant boat adrift roughly 440 nautical miles, or … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/mviisignia.jpg)The cruise ship [*Insignia*](https://en.wikipedia.org/wiki/MS_Insignia) rescued 68 migrants adrift off the Spanish Canary Islands on Wednesday, Spain’s maritime rescue agency said in a [statement on X](https://x.com/salvamentogob/status/1803712587055435953). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/mviisignia.jpg)The cruise ship [*Insignia*](https://en.wikipedia.org/wiki/MS_Insignia) rescued 68 migrants adrift off the Spanish Canary Islands on Wednesday, Spain’s maritime rescue agency said in a [statement on X](https://x.com/salvamentogob/status/1803712587055435953). 
 
 The bulk carrier [*Philipp Oldendorff*](https://www.vesselfinder.com/vessels/details/9540869) spotted the migrant boat adrift roughly 440 nautical miles, or about 815 km, south of Tenerife, and provided first aid to those affected while the *Insignia* was sent to the area, the Salvamento Maritimo statement said. 
 

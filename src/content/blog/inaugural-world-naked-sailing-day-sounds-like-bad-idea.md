@@ -8,12 +8,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "World Naked Sailing Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/WNSD.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/WNSD.jpg"
 author: "Rick Spilman"
 description: "A group in Buffalo, New York is sponsoring the first World Naked Sailing Day today. Buffalo is on Lake Erie so there are no shortage of sailboats for those who wish take \"bareboating\" to a whole new level. The organizers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/WNSD-200x184.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/WNSD-200x184.jpg)
 
 Photo:Nico
 

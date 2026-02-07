@@ -13,7 +13,7 @@ tags:
   - "Port of Brunswick"
   - "St. Simons Island"
   - "VB-10000"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/goldenarches.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/goldenarches.jpg"
 author: "Rick Spilman"
 description: "Delayed for months by both hurricanes and the pandemic, Versabar’s heavy-lift catamaran VB-10,000, nicknamed the \"Golden Arches,\" arrived yesterday at St. Simons Island, GA to begin the scrapping of the wrecked car carrier, Golden Ray. The car carrier rolled on its … Continue reading &rarr;"
 ---

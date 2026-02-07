@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "This weekend, the \"Paddle in Seattle\", sent hundreds of kayaks around Shell's Polar Pioneer drill rig, to oppose Arctic drilling,."
 ---
 
-![Photo: Ellen M. Banner](http://www.oldsaltblog.com/wp-content/uploads/2015/05/paddleseattle.jpg)
+![Photo: Ellen M. Banner](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/paddleseattle.jpg)
 
 Photo: Ellen M. Banner
 

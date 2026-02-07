@@ -15,12 +15,12 @@ tags:
   - "overboard"
   - "Thanksgiving"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/carnival-valor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/carnival-valor.jpg"
 author: "Rick Spilman"
 description: "When we posted about a man who had been rescued in the Gulf of Mexico by the US Coast Guard after apparently falling off the cruise ship Carnival Valor, we were convinced that there was more to the story. It … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/carnival-valor.jpg)When we posted about a [man who had been rescued in the Gulf of Mexico](https://www.oldsaltblog.com/2022/11/man-rescued-after-going-overboard-on-carnival-valor-thanksgiving-mystery-or-miracle/) by the US Coast Guard after apparently falling off the cruise ship *Carnival Valor*, we were convinced that there was more to the story. It didn’t seem likely that anyone could have survived the fall from the ship and then treaded water for around 20 hours in 65- to 70-degree water, withstanding rain, 20-knot winds, and three- to five-foot waves.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/carnival-valor.jpg)When we posted about a [man who had been rescued in the Gulf of Mexico](https://www.oldsaltblog.com/2022/11/man-rescued-after-going-overboard-on-carnival-valor-thanksgiving-mystery-or-miracle/) by the US Coast Guard after apparently falling off the cruise ship *Carnival Valor*, we were convinced that there was more to the story. It didn’t seem likely that anyone could have survived the fall from the ship and then treaded water for around 20 hours in 65- to 70-degree water, withstanding rain, 20-knot winds, and three- to five-foot waves.
 
 There had to be more to the story. It now looks like we were wrong. James Michael Grimes, 28, the man rescued was interviewed by [ABC News](https://abc7chicago.com/carnival-overboard-passenger-cruise-ship-man-james-michael-grimes-abc-news/12518369/) and confirmed the account that he and his sister were drinking at a shipboard bar. At around 11 PM he left to find a restroom and did not return. 
 

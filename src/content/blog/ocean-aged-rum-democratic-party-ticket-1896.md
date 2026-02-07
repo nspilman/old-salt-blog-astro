@@ -12,12 +12,12 @@ tags:
   - "Live Yankees"
   - "rum"
   - "Sewell"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/liveyankees.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/liveyankees.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about four barrels of rum from Lunenburg’s Ironworks Distillery which are being carried around the globe by the barque Picton Castle on its seventh circumnavigation.  The sea voyage is expected to nicely age the rum.  Of course, distilled spirits being … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/liveyankees.jpg)Yesterday, we posted about four barrels of rum from Lunenburg’s [Ironworks Distillery](https://ironworksdistillery.com/) which are being carried around the globe by the barque *Picton Castle* on its seventh circumnavigation.  The sea voyage is expected to nicely age the rum.  Of course, distilled spirits being sent to sea to mellow and age is nothing new. William Bunting reminded me of a passage from his excellent book, *[Live Yankees, the Sewalls and their Ships](https://www.amazon.com/Live-Yankees-Sewalls-Their-Ships/dp/0884483150/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1519073538&sr=1-1-fkmr0&keywords=live+yankees+sewell+bunting)*  involving rum and politics.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/liveyankees.jpg)Yesterday, we posted about four barrels of rum from Lunenburg’s [Ironworks Distillery](https://ironworksdistillery.com/) which are being carried around the globe by the barque *Picton Castle* on its seventh circumnavigation.  The sea voyage is expected to nicely age the rum.  Of course, distilled spirits being sent to sea to mellow and age is nothing new. William Bunting reminded me of a passage from his excellent book, *[Live Yankees, the Sewalls and their Ships](https://www.amazon.com/Live-Yankees-Sewalls-Their-Ships/dp/0884483150/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1519073538&sr=1-1-fkmr0&keywords=live+yankees+sewell+bunting)*  involving rum and politics.
 
 Arthur Sewall, in addition to being a shipbuilder and ship owner, was also a bank president, director of a railroad, and the Democratic Party vice presidential candidate in 1896 on William Jennings Bryan’s first run for president. There is a story about how Arthur managed to acquire the seat on the presidential ticket and it involves ocean-aged rum. From *Live Yankees:* 
 

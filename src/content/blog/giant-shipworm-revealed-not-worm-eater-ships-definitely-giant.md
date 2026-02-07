@@ -10,12 +10,12 @@ tags:
   - "giant shipworm"
   - "mangrove swamp"
   - "Philippine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/giantshipworm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/giantshipworm.jpg"
 author: "Rick Spilman"
 description: "For years, naturalists have found the shells of giant shipworms, but have not located the giant shipworm itself. Last spring, that changed. Giant shipworms were discovered buried in the mud in a Philippine mangrove swamp.  Two important facts about the giant shipworm, whose scientific name … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/giantshipworm.jpg)For years, naturalists have found the shells of giant shipworms, but have not located the giant shipworm itself. Last spring, that changed. Giant shipworms were discovered buried in the mud in a Philippine mangrove swamp. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/giantshipworm.jpg)For years, naturalists have found the shells of giant shipworms, but have not located the giant shipworm itself. Last spring, that changed. Giant shipworms were discovered buried in the mud in a Philippine mangrove swamp. 
 
 Two important facts about the giant shipworm, whose scientific name is Kuphus polythalamia. They are not worms at all, but a variety of bivalve mollusk. Also, they do not eat the wood from ships. They are related to other shipworms, which have indeed been the bane of sailors for all of history, but these giants do not eat wood. 
 

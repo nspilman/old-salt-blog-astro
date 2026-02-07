@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A review of Evening Gray Morning Red by George Jepson in the Winter 2018 issue of Quarterdeck: Cracking open Evening Gray Morning Red, Rick Spilman’s new novel, I was hooked by the first paragraph, which took me back four decades to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/EGMRcoverthumb.jpg)A review of [*Evening Gray Morning Red*](https://www.amazon.com/Evening-Gray-Morning-Rick-Spilman/dp/1943404194/ref=asap_bc?ie=UTF8) by George Jepson in the [Winter 2018 issue of](http://www.mcbooks.com/pdf/quarterdeck_d4f676ffcf79e55a6c1a5f328617aefb.pdf) [Quarterdeck:](http://www.mcbooks.com/pdf/quarterdeck_d4f676ffcf79e55a6c1a5f328617aefb.pdf)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg)A review of [*Evening Gray Morning Red*](https://www.amazon.com/Evening-Gray-Morning-Rick-Spilman/dp/1943404194/ref=asap_bc?ie=UTF8) by George Jepson in the [Winter 2018 issue of](http://www.mcbooks.com/pdf/quarterdeck_d4f676ffcf79e55a6c1a5f328617aefb.pdf) [Quarterdeck:](http://www.mcbooks.com/pdf/quarterdeck_d4f676ffcf79e55a6c1a5f328617aefb.pdf)
 
 Cracking open *Evening Gray Morning Red*, Rick Spilman’s new novel, I was hooked by the first paragraph, which took me back four decades to – yes, wait for it – “a dark and stormy night” on Lake Michigan. Caught in a tempest aboard a 30-foot sloop, a stiff nor’wester drove us into towering seas. Flying only a headsail, we slid down one wave and up another under an inkblack sky, bound, we prayed, for a snug harbor.
 

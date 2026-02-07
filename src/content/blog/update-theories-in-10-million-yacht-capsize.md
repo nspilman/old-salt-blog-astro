@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "A little over a week ago, we posted about a 90′ yacht, valued at around $10 million, which capsized and sank on her launching in Anacortes, Washington. Since then there has been no definitive determination as to what caused the … Continue reading &rarr;"
 ---
 
-![Photo: Deane Hislop](http://www.oldsaltblog.com/wp-content/uploads/2014/06/Boat4-550x367.jpg)
+![Photo: Deane Hislop](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/Boat4-550x367.jpg)
 
 Photo: Deane Hislop
 

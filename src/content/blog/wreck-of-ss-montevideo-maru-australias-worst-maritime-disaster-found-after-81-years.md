@@ -17,12 +17,12 @@ tags:
   - "submarine"
   - "USS Sturgeon"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/montevideomaru.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/montevideomaru.jpg"
 author: "Rick Spilman"
 description: "On July 1, 1942, the submarine USS Sturgeon was on its fifth war patrol in the South China Sea off the northwest coast of the Philippines’ Luzon Island, when it sighted a Japanese troop transport, SS Montevideo Maru.  The submarine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/montevideomaru.jpg)On July 1, 1942, the submarine [USS *Sturgeon*](https://en.wikipedia.org/wiki/USS_Sturgeon_\(SS-187\)) was on its fifth war patrol in the South China Sea off the northwest coast of the Philippines’ Luzon Island, when it sighted a Japanese troop transport, [SS *Montevideo Maru*](https://en.wikipedia.org/wiki/SS_Montevideo_Maru).  The submarine fired four torpedoes just before dawn, causing the vessel to sink in only 11 minutes. Unbeknownst to those aboard the *Sturgeon*, the *Montevideo Maru* was carrying approximately 1,060 prisoners from around 16 countries, including more than 850 Australian service members. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/montevideomaru.jpg)On July 1, 1942, the submarine [USS *Sturgeon*](https://en.wikipedia.org/wiki/USS_Sturgeon_\(SS-187\)) was on its fifth war patrol in the South China Sea off the northwest coast of the Philippines’ Luzon Island, when it sighted a Japanese troop transport, [SS *Montevideo Maru*](https://en.wikipedia.org/wiki/SS_Montevideo_Maru).  The submarine fired four torpedoes just before dawn, causing the vessel to sink in only 11 minutes. Unbeknownst to those aboard the *Sturgeon*, the *Montevideo Maru* was carrying approximately 1,060 prisoners from around 16 countries, including more than 850 Australian service members. 
 
 An estimated 1,054 prisoners (178 non-commissioned officers, 667 soldiers, and 209 civilians) died when the ship sank. The sinking is considered the worst maritime disaster in Australia’s history.
 

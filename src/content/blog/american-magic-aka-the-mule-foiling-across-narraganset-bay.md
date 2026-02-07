@@ -11,7 +11,7 @@ tags:
   - "American Magic"
   - "Mule"
   - "New York Yacht Club"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/mulefoil.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/mulefoil.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted about a concept design for an America’s Cup racer, a 75′ foiling monohull, without a keel. The concept AC75 was presented as a 3D animation. About a year later, the New York Yacht Club’s half sized … Continue reading &rarr;"
 ---

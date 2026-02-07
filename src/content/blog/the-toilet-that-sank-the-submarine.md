@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 \"was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/sub_full.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/sub_full.jpg)
 
 On April 14, 1945, the German submarine [*U-1206*,](http://en.wikipedia.org/wiki/German_submarine_U-1206) on its first war patrol,  had its mission go down the toilet.   *[U-1206](http://en.wikipedia.org/wiki/German_submarine_U-1206)* “*was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be used while running at depth. Flushing these toilets was extremely complicated and special technicians were trained to operate them.*”   When [Captain Karl-Adolf Schlitt](http://uboat.net/men/commanders/1090.html) used the toilet, he had problems making it work. He called an engineer who turned the wrong valve, causing flooding which reached the battery compartment, releasing chlorine gas, forcing the sub to surface. Only ten miles off the coast of Scotland they were spotted by British planes, which killed crew on deck and damaged the submarine. Captain Schlitt set scuttling charges and sank the submarine.
 

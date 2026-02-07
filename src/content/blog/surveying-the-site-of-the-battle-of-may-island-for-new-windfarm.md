@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "There was no actual battle at the Isle of May in the Firth of Forth off Scotland. Nevertheless, on the night of January 31st and the morning of February 1st, 1918,  270 sailors of the Royal Navy lost their lives off the Isle of May … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/K4-submarine-005.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/K4-submarine-005.jpg)
 
 K4, one of the submarines sunk in the Isle of May debacle. Photograph: The Royal Navy Submarine Museum
 

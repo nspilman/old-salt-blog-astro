@@ -16,12 +16,12 @@ tags:
   - "stealth strike-fighter plane"
   - "USS Gerald R. Ford"
   - "Wasp class"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/ussamerica.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ussamerica.jpg"
 author: "Rick Spilman"
 description: "Depending on which news report you listen to, the aircraft carrier USS Gerald R. Ford either can’t reliably land planes and is continuing in its dubious status as a \"$13 billion berthing barge,\" or, more optimistically, it may be ready … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/ussamerica.jpg)Depending on which news report you listen to, the aircraft carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) either [can’t reliably land planes](https://www.dailymail.co.uk/news/article-9130125/US-Navys-13-2BN-USS-Ford-fighter-jets-deck-properly-new-report-says.html) and is continuing in its dubious status as a “[$13 billion berthing barge](http://www.oldsaltblog.com/2020/06/uss-gerald-r-ford-almost-a-carrier-or-still-a-berthing-barge/),” or, more optimistically, it [may be ready to deploy sooner than expected](https://www.businessinsider.com/navy-new-carrier-gerald-ford-may-deploy-sooner-than-expect-2020-12). Which is correct? Only time will tell. It is possible that both are right. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ussamerica.jpg)Depending on which news report you listen to, the aircraft carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) either [can’t reliably land planes](https://www.dailymail.co.uk/news/article-9130125/US-Navys-13-2BN-USS-Ford-fighter-jets-deck-properly-new-report-says.html) and is continuing in its dubious status as a “[$13 billion berthing barge](http://www.oldsaltblog.com/2020/06/uss-gerald-r-ford-almost-a-carrier-or-still-a-berthing-barge/),” or, more optimistically, it [may be ready to deploy sooner than expected](https://www.businessinsider.com/navy-new-carrier-gerald-ford-may-deploy-sooner-than-expect-2020-12). Which is correct? Only time will tell. It is possible that both are right. 
 
 Not only is the *Ford* the world’s largest aircraft carrier, and the largest warship ever constructed in terms of displacement, she is also the most expensive and one of the most delayed. Commissioned in 2017, her first deployment is expected to be sometime in 2022.
 

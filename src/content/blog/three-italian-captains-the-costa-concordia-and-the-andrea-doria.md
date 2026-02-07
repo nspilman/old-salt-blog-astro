@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Reuters reports that Italy is enthralled by the tale of the \"two captains,\"  while on CNN another Italian captain, from another ship and another time, is remembered – In Andrea Doria wreck, a captain who shone. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/pecota-andrea-doria-story-t.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/pecota-andrea-doria-story-t.jpg)
 
 Andrea Doria 1956
 

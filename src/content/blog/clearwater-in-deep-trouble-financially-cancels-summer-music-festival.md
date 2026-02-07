@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Only days after hearing good news about funding for the Pride of Baltimore II, there is very grim news about the organization which operates the Hudson River sloop Clearwater. The Clearwater organization announced that it is facing deep financial problems … Continue reading &rarr;"
 ---
 
-![clearwater1](http://www.oldsaltblog.com/wp-content/uploads/2016/01/clearwater1.jpg)Only days after hearing good news about [funding for the *Pride of Baltimore II*](http://www.oldsaltblog.com/2016/01/maryland-1-5-million-partnership-pride-baltimore-ii/), there is very grim news about the organization which operates the [Hudson River sloop *Clearwater*.](http://www.clearwater.org/) The Clearwater organization announced that it is facing deep financial problems and that it is canceling its yearly music festival.  As announced on the [festival website](http://www.clearwaterfestival.org/) today:
+![clearwater1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/clearwater1.jpg)Only days after hearing good news about [funding for the *Pride of Baltimore II*](http://www.oldsaltblog.com/2016/01/maryland-1-5-million-partnership-pride-baltimore-ii/), there is very grim news about the organization which operates the [Hudson River sloop *Clearwater*.](http://www.clearwater.org/) The Clearwater organization announced that it is facing deep financial problems and that it is canceling its yearly music festival.  As announced on the [festival website](http://www.clearwaterfestival.org/) today:
 
 *Dear Friends,*
 

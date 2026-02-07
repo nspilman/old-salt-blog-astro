@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Last Wednesday, it was widely reported that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos to access the sea. The fully rigged superyacht apparently has … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/dehef.jpg)Last Wednesday, it was widely reported that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos to access the sea. The fully rigged superyacht apparently has too great an air-draft to safely fit beneath the Koningshaven Bridge, which has a clearance of 131 feet over the Nieuwe Maas River. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/dehef.jpg)Last Wednesday, it was widely reported that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos to access the sea. The fully rigged superyacht apparently has too great an air-draft to safely fit beneath the Koningshaven Bridge, which has a clearance of 131 feet over the Nieuwe Maas River. 
 
 On Thursday, the [City of Rotterdam walked back plans to dismantle](https://www.nytimes.com/2022/02/03/world/europe/jeff-bezos-yacht-rotterdam-bridge.html) the historic Koningshaven Bridge, known locally as [De Hef](https://www.bridgeinfo.net/bridge/index.php?ID=27), saying that a decision had not yet been made.
 

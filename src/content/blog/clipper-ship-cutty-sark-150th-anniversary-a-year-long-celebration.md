@@ -14,12 +14,12 @@ tags:
   - "Cutty Sark"
   - "Greenwich"
   - "Jock Willis Shipping Line"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/cuttysark.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/cuttysark.jpg"
 author: "Rick Spilman"
 description: "In February 1869, one hundred and fifty years ago, construction of the composite clipper ship Cutty Sark began on the banks of the River Clyde for the Jock Willis Shipping Line. The clipper ship sailed on its first voyage a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/cuttysark.jpg)In February 1869, one hundred and fifty years ago, construction of the composite clipper ship [*Cutty Sark*](https://en.wikipedia.org/wiki/Cutty_Sark) began on the banks of the River Clyde for the Jock Willis Shipping Line. The clipper ship sailed on its first voyage a year later in February 1870.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/cuttysark.jpg)In February 1869, one hundred and fifty years ago, construction of the composite clipper ship [*Cutty Sark*](https://en.wikipedia.org/wiki/Cutty_Sark) began on the banks of the River Clyde for the Jock Willis Shipping Line. The clipper ship sailed on its first voyage a year later in February 1870.
 
 The *Cutty Sark* was one of the last tea clippers to be built, was one of the fastest and, perhaps most remarkably, is one of only two clipper ships to survive today. Now fully restored in a drydock in Greenwich, UK, the historic tea clipper is the centerpiece of a year-long celebration of its 150th anniversary.
 

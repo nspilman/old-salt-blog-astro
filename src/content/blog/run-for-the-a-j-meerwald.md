@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Port Norris Rotary presents the 13th annual \"Run for the Schooner\" a 5K run, walkathon & 1 mile fun run/walk on Saturday, April 10, 2010, to benefit the A.J. Meerwald, the official Tall Ship of the State of New … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/03/meerwald.jpg)The Port Norris Rotary presents the 13th annual “Run for the Schooner” a 5K run, walkathon & 1 mile fun run/walk on Saturday, April 10, 2010, to benefit the *A.J. Meerwald*, the official Tall Ship of the State of New Jersey.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/meerwald.jpg)The Port Norris Rotary presents the 13th annual “Run for the Schooner” a 5K run, walkathon & 1 mile fun run/walk on Saturday, April 10, 2010, to benefit the *A.J. Meerwald*, the official Tall Ship of the State of New Jersey.
 
 To learn more call 856-785-2060, or visit the [Bayshore Discovery Project](http://open.salon.com/blog/rick_spilman/2010/02/28/www.bayshorediscovery.org) .
 

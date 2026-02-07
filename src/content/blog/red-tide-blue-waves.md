@@ -12,12 +12,12 @@ tags:
   - "Newport Beach"
   - "red tide"
   - "san diego"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/redtidebluewave.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/redtidebluewave.jpg"
 author: "Rick Spilman"
 description: "Recently, an outbreak of red tide off Newport Beach, California discolored the Pacific waters during daylight and then, once the sun had set, put on an amazing show of bioluminescence which turned the ocean waves a vivid neon blue. Not … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/redtidebluewave.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/redtidebluewave.jpg)
 
 Photo: Patrick Coyne
 

@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "A friend pointed this book out to me. It looks intriguing and is coming out in mid-November.  Jean Lafite was Jewish? Who knew?  (Thanks Henya!)  From a review in the Jewish Press: Jewish Pirates of the Caribbean: How a Generation of Swashbuckling Jews … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/450front-page1017081.jpg)](http://www.amazon.com/Jewish-Pirates-Caribbean-Swashbuckling-Freedom/dp/0385513984/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1224024928&sr=8-1)A friend pointed this book out to me. It looks intriguing and is coming out in mid-November.  Jean Lafite was Jewish? Who knew?  (Thanks Henya!)  From a review in the [Jewish Press](http://www.jewishpress.com/pageroute.do/36634/Putting_the_Oy_Back_.html):
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/450front-page1017081.jpg)](http://www.amazon.com/Jewish-Pirates-Caribbean-Swashbuckling-Freedom/dp/0385513984/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1224024928&sr=8-1)A friend pointed this book out to me. It looks intriguing and is coming out in mid-November.  Jean Lafite was Jewish? Who knew?  (Thanks Henya!)  From a review in the [Jewish Press](http://www.jewishpress.com/pageroute.do/36634/Putting_the_Oy_Back_.html):
 
 [Jewish Pirates of the Caribbean: How a Generation of Swashbuckling Jews Carved Out an Empire in the New World in Their Quest for Treasure, Religious Freedom–and Revenge](http://www.amazon.com/Jewish-Pirates-Caribbean-Swashbuckling-Freedom/dp/0385513984/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1224024928&sr=8-1)
 

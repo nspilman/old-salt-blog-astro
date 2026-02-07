@@ -14,12 +14,12 @@ tags:
   - "Princess Cruises"
   - "San Francisco"
   - "testing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grandprincess2.jpg"
 author: "Rick Spilman"
 description: "Yogi Berra is alleged to have said, \"It’s like déjà vu all over again.\" News of another cruise ship in limbo over the coronavirus feels that way.  On February 5th, we posted about the Diamond Princess, a cruise ship that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg)Yogi Berra is alleged to have said, “It’s like déjà vu all over again.” News of another cruise ship in limbo over the coronavirus feels that way. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/grandprincess2.jpg)Yogi Berra is alleged to have said, “It’s like déjà vu all over again.” News of another cruise ship in limbo over the coronavirus feels that way. 
 
 On February 5th, [we posted about the *Diamond Princess*,](http://www.oldsaltblog.com/2020/02/two-more-cruise-ships-quarantined-with-coronavirus/) a cruise ship that was being held for coronavirus testing and quarantine at Yokohama, Japan, confining roughly 3,700 passengers and crew. Now, almost exactly one month later, the cruise ship, [*Grand Princess*](https://en.wikipedia.org/wiki/Grand_Princess), is being held off San Francisco pending testing of passengers and crew, who have shown the symptoms of the coronavirus. Passengers who were on the previous voyage and remained aboard will also be tested. 
 

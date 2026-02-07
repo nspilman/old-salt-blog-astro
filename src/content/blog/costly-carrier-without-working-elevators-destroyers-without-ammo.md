@@ -11,12 +11,12 @@ tags:
   - "aircraft carrier"
   - "destroyer"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/grford1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/grford1.jpg"
 author: "Rick Spilman"
 description: "As a naval architect in commercial shipping for several decades, I will admit to that I really do not understand the way the US Navy designs and builds ships. In the world of commercial shipping, the process is to design … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/grford1.jpg)As a naval architect in commercial shipping for several decades, I will admit to that I really do not understand the way the US Navy designs and builds ships. In the world of commercial shipping, the process is to design the ship and to specify the equipment before placing an order or starting construction. The Navy seems to prefer to sign contracts and begin construction before the designs are completed. It seems to be the most inefficient and costly way to build ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/grford1.jpg)As a naval architect in commercial shipping for several decades, I will admit to that I really do not understand the way the US Navy designs and builds ships. In the world of commercial shipping, the process is to design the ship and to specify the equipment before placing an order or starting construction. The Navy seems to prefer to sign contracts and begin construction before the designs are completed. It seems to be the most inefficient and costly way to build ships.
 
 The two most obvious examples are the aircraft carrier [USS *Gerald R. Ford*](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford) and the destroyer [USS *Zumwalt*.](https://en.wikipedia.org/wiki/USS_Zumwalt) The aircraft carrier was delivered without working elevators to bring bombs and ammunition to planes on the flight deck. The destroyer was delivered without the Navy purchasing ammunition for its main guns. So, on the most expensive aircraft carrier ever built, its planes cannot be loaded with bombs, while on the most expensive destroyer ever built, it cannot use its primary weapon system because the high-tech shells simply cost too much to fire. 
 
@@ -32,7 +32,7 @@ Navy Secretary Richard Spencer describes the elevators as our “our Achilles he
 
 ### A Destroyer that Can’t Fire its Big Guns
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg)
 
 The USS *Zumwalt* “stealth destroyer,” which cost more than $4 billion dollars, excluding R&D, was designed to be a “land attack destroyer.”  In addition to a stealthy small radar profile and surface-piercing tumblehome hull, the ship features two Advanced Gun Systems firing Long Range Land Attack Projectile (LRLAP). These weapons are supposed to be able to fire 10 rounds per minute with a range of more than 80 nautical miles. The problem is that the price of the LRLAP rounds rose from an originally estimated $50,000 per round to over $800,000, and possibly higher. [The rounds became simply too expensive to shoot.](http://www.oldsaltblog.com/2016/11/uss-zumwalt-big-guns-expensive-fire/)
 

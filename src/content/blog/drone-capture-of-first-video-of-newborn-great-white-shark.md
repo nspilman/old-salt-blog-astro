@@ -13,12 +13,12 @@ tags:
   - "shark researcher"
   - "Southern California"
   - "TheMalibuArtist"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/newborngreatwhite.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/newborngreatwhite.jpg"
 author: "Rick Spilman"
 description: "Carlos Gauna is a filmmaker and professional photographer based in Southern California who has shot an impressive portfolio of drone videos of sharks for his YouTube channel TheMalibuArtist. On July 9, 2023, Carlos captured some truly remarkable video and photos … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/newborngreatwhite.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/01/newborngreatwhite.jpg)
 
 Screen capture: The Malibu Artist/Carlos Gauna
 

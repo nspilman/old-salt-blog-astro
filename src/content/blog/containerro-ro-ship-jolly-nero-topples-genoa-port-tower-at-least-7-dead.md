@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The container/ro-ro ship Jolly Nero  slammed into the port control tower in Genoa, Italy on Tuesday night around 11PM, destroying the 165 ft-tall cement tower and killing at least seven.  Four people were reported to be injured  and at least two are still missing.  … Continue reading &rarr;"
 ---
 
-![genoaship](http://www.oldsaltblog.com/wp-content/uploads/2013/05/genoaship.jpg)
+![genoaship](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/genoaship.jpg)
 
 Genoa port control tower before and after allision with Jolly Nero. Photo:Photo: AP Photo/ AR/Studio6/LaPresse
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This has not been a good few months for Aegis missile cruisers.  In August, USS Porter collided with a VLCC (a large tanker) near the Strait of Hormuz. Yesterday at around 3:30 PM, during routine operations, the Aegis cruiser USS … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/USSSanJacintoCG56.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/USSSanJacintoCG56.jpg)
 
 USS San Jacinto (CG-56)
 

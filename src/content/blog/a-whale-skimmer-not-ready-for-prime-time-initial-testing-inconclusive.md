@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Whale of a skimmer not ready to attack Gulf oil after weekend of testing The behemoth Taiwanese oil skimmer, A Whale, is not yet ready attack the Gulf of Mexico oil spill after a weekend of testing proved inconclusive, said … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/gulf-oil-a-whale-skimmer-mi.jpg)[](http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/07/whale_of_a_skimmer_not_ready_t.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/gulf-oil-a-whale-skimmer-mi.jpg)[](http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/07/whale_of_a_skimmer_not_ready_t.html)
 
 [Whale of a skimmer not ready to attack Gulf oil after weekend of testing](http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/07/whale_of_a_skimmer_not_ready_t.html)
 

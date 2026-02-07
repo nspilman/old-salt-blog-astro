@@ -14,12 +14,12 @@ tags:
   - "only iron-hulled four-masted full-rigged ship"
   - "only surviving sail-driven oil tanker"
   - "State of Hawai'i Department of Transportation"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "Last week, the State of Hawai’i Department of Transportation issued a statement that the windjammer Falls of Clyde, the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, would soon be delisted from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/FOCnow2.jpg)Last week, the State of Hawai’i Department of Transportation issued [a statement](https://hidot.hawaii.gov/blog/2023/06/28/falls-of-clyde-update/) that the windjammer [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, would soon be delisted from the Hawaiʻi Register of Historic Places. The statement noted that “this step is not at all a reflection of the vessel’s important history.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg)Last week, the State of Hawai’i Department of Transportation issued [a statement](https://hidot.hawaii.gov/blog/2023/06/28/falls-of-clyde-update/) that the windjammer [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, would soon be delisted from the Hawaiʻi Register of Historic Places. The statement noted that “this step is not at all a reflection of the vessel’s important history.”
 
 The Department of Transportation stated that the delisting is intended “to facilitate the disposition of the vessel and prepare for the issuance of a new Request for Proposals (RFP) for its removal from the harbor.”
 

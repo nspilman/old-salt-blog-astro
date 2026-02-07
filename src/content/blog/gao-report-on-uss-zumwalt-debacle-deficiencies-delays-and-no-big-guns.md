@@ -12,12 +12,12 @@ tags:
   - "GAO"
   - "US Navy"
   - "USS Zumwalt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg"
 author: "Rick Spilman"
 description: "A new report by the Government Accountability Office (GAO) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the DDG 1000 Zumwalt-class destroyer program. The report found more than 320 \"serious deficiencies\" found upon inspection when … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)A [new report by the Government Accountability Office (GAO)](https://www.gao.gov/products/GAO-19-336SP) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the [DDG 1000 Zumwalt-class destroyer program](https://en.wikipedia.org/wiki/Zumwalt-class_destroyer). The report found more than 320 “serious deficiencies” found upon inspection when the shipyard delivered the first-in-class [USS *Zumwalt*](https://en.wikipedia.org/wiki/USS_Zumwalt)’s hull, mechanical and electrical systems in May 2016. Another 246 “serious deficiencies” were found after acceptance trials in January and February 2018 for the USS *Michael Monsoor*, the second of three “stealth” destroyers built in Maine.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg)A [new report by the Government Accountability Office (GAO)](https://www.gao.gov/products/GAO-19-336SP) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the [DDG 1000 Zumwalt-class destroyer program](https://en.wikipedia.org/wiki/Zumwalt-class_destroyer). The report found more than 320 “serious deficiencies” found upon inspection when the shipyard delivered the first-in-class [USS *Zumwalt*](https://en.wikipedia.org/wiki/USS_Zumwalt)’s hull, mechanical and electrical systems in May 2016. Another 246 “serious deficiencies” were found after acceptance trials in January and February 2018 for the USS *Michael Monsoor*, the second of three “stealth” destroyers built in Maine.
 
 The report was critical of the Navy’s failure to complete the design and engineering of the USS *Zumwalt,* the first of three destroyers of the calls prior to the start of fabrication. “This approach contributed to numerous design changes after the fabrication start and significant cost increases and schedule delays,” the report notes. “Nearly ten years later, development and shipboard testing of technologies continues, each of which could lead to discovery that could disrupt the design stability the Navy currently claims.”
 

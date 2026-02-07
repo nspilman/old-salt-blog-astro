@@ -15,12 +15,12 @@ tags:
   - "Port Chicago"
   - "Robert L. Allen"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/robertallen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/robertallen.jpg"
 author: "Rick Spilman"
 description: "Robert L. Allen, who definitively told the story of 50 Black sailors who were convicted of conspiracy to commit mutiny for refusing to continue to load munitions onto cargo ships after explosions had blown apart two ships at a California … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/robertallen.jpg)[Robert L. Allen](https://www.nytimes.com/2024/07/22/us/robert-l-allen-dead.html), who definitively told the story of 50 Black sailors who were convicted of conspiracy to commit mutiny for refusing to continue to load munitions onto cargo ships after explosions had blown apart two ships at a California port during World War II, died on July 10 at his home in Benicia, in Northern California. He was 82.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/robertallen.jpg)[Robert L. Allen](https://www.nytimes.com/2024/07/22/us/robert-l-allen-dead.html), who definitively told the story of 50 Black sailors who were convicted of conspiracy to commit mutiny for refusing to continue to load munitions onto cargo ships after explosions had blown apart two ships at a California port during World War II, died on July 10 at his home in Benicia, in Northern California. He was 82.
 
 On July 17, 1944, two ships being loaded with munitions in [Port Chicago, California](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/port-chicago.html) exploded. Over 4,000 tons of bombs, shells, depth charges, and fuel erupted in two shock waves that were felt by seismographs at the University of California, Berkeley. The second, larger shock wave was equivalent to a 3.4 magnitude earthquake. The calamity killed 320 people of which 220 were black seamen.
 

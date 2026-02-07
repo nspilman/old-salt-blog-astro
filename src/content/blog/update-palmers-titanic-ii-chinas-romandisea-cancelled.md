@@ -15,12 +15,12 @@ tags:
   - "Sichuan province"
   - "Suining"
   - "Titanic II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/TitanicII.jpg"
 author: "Rick Spilman"
 description: "For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his Titanic II project. In 2012, Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg)For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his [Titanic II project](https://www.oldsaltblog.com/2016/02/titanic-ii-not-quite-exact-replica-sail-2018/). In 2012, Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS *Titanic* which sank after striking an iceberg in 1912.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/TitanicII.jpg)For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his [Titanic II project](https://www.oldsaltblog.com/2016/02/titanic-ii-not-quite-exact-replica-sail-2018/). In 2012, Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS *Titanic* which sank after striking an iceberg in 1912.
 
 Palmer’s *Titanic II* was to be built in a Chinese shipyard and go into service in 2016. Since then the project has moved in fits and starts. The project finances fell apart for several years. The [ship delivery dates moved first to 2018 and then to 2022](https://www.oldsaltblog.com/2020/01/will-the-titanic-ii-ever-sail/). Despite an abundance of announcements, CGI drawings, and videos, apparently, no steel has actually been cut and no new delivery date has been announced.
 

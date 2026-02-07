@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Interesting new evidence that the Vikings and the North American natives, who the Vikings called skrælings may have gotten along a bit better than suggested by the sagas.   DNA testing of 80 living Icelanders shows indicates a genetic variation similar … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/native-americans-vikings-ic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/native-americans-vikings-ic.jpg)
 
 Photo: Robert Harding Picture Library, Alamy
 

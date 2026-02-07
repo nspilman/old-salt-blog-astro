@@ -13,12 +13,12 @@ tags:
   - "Dutch general cargo ship"
   - "Flatholm Island"
   - "Minehead"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/ALANA-EVITA.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/ALANA-EVITA.jpg"
 author: "Rick Spilman"
 description: "The Dutch general cargo ship Alana Evita, on a voyage from Hamburg to Avonmouth, was recently anchored in the Bristol channel off Minehead, in Somerset, UK. Rather than go ashore in Minehead, three of her personnel; a Russian, a  Filipino … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/ALANA-EVITA.jpg)The Dutch general cargo ship *[Alana Evita](https://www.marinetraffic.com/en/ais/details/ships/shipid:268459/mmsi:246443000/imo:9356529/vessel:ALANA_EVITA),* on a voyage from Hamburg to Avonmouth, was recently anchored in the Bristol channel off Minehead, in Somerset, UK. Rather than go ashore in Minehead, three of her personnel; a Russian, a  Filipino and a Dutchman; decided to try the beer across the channel in the Welsh town of Barry. They set off on the ship’s 13′ rigid inflatable boat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/ALANA-EVITA.jpg)The Dutch general cargo ship *[Alana Evita](https://www.marinetraffic.com/en/ais/details/ships/shipid:268459/mmsi:246443000/imo:9356529/vessel:ALANA_EVITA),* on a voyage from Hamburg to Avonmouth, was recently anchored in the Bristol channel off Minehead, in Somerset, UK. Rather than go ashore in Minehead, three of her personnel; a Russian, a  Filipino and a Dutchman; decided to try the beer across the channel in the Welsh town of Barry. They set off on the ship’s 13′ rigid inflatable boat.
 
 They arrived in Barry, soaking wet from the crossing, and pull the inflatable up on the beach, only to find that all the local pubs had already closed. Several news accounts describe the men as [“drunken sailors,”](https://www.boston25news.com/news/trending-now/drunken-sailors-from-dutch-cargo-ship-rescued-from-deserted-island/935759199) which seems doubtful given the shuttered pubs. So, disgruntled, if not drunken, the three sailors find a hotel to spend the night.
 

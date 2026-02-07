@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the \"Sisters Under Sail\" program. \"Adventure of a Lifetime\" is About … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/unicorn1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/unicorn1.jpg)
 
 Earlier this week we posted about [Tall Ships Chicago 2010](http://www.oldsaltblog.com/2010/08/23/tall-ships-chicago-2010/).   Among the roughly 20 tall ships participating is the 118-foot topsail schooner *[Unicorn](http://www.tallshipunicorn.com/index.html)* whose crew includes six Chicago-area girls from the “[Sisters Under Sail](http://www.sistersundersail.org/)” program.
 

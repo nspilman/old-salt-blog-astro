@@ -13,12 +13,12 @@ tags:
   - "rescue"
   - "tug Legacy"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/tuglegacy.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/tuglegacy.jpg"
 author: "Rick Spilman"
 description: "On Saturday, January 14, the US Coast Guard rescued seven crewmembers from the tug Legacy, disabled and drifting about 30 miles off the coast of Ocean City, New Jersey. The Coast Guard reports that the tug Legacy notified watchstanders at Coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/tuglegacy.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/tuglegacy.jpg)
 
 Photo: US Coast Guard
 

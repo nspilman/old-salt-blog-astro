@@ -12,12 +12,12 @@ tags:
   - "Jorne Langelaan"
   - "Prototype500"
   - "sailing cargo ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/ecoclipper.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/ecoclipper.jpg"
 author: "Rick Spilman"
 description: "The Dutch firm EcoClipper has plans to launch retrofitted and purpose-built sailing vessels to carry cargo and passengers on a variety of international routes. Today, they announced that they have started to raise capital in cooperation with blockchain partner Bondex, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/ecoclipper.jpg)The Dutch firm [EcoClipper](https://ecoclipper.org/) has plans to launch retrofitted and purpose-built sailing vessels to carry cargo and passengers on a variety of international routes. Today, they announced that they have started to raise capital in cooperation with blockchain partner Bondex, to fund a fleet of sailing cargo ships, one vessel at a time. From their [press release](https://ecoclipper.org/News/press-release-dutch-windship-company-opens-funding-round/):
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/ecoclipper.jpg)The Dutch firm [EcoClipper](https://ecoclipper.org/) has plans to launch retrofitted and purpose-built sailing vessels to carry cargo and passengers on a variety of international routes. Today, they announced that they have started to raise capital in cooperation with blockchain partner Bondex, to fund a fleet of sailing cargo ships, one vessel at a time. From their [press release](https://ecoclipper.org/News/press-release-dutch-windship-company-opens-funding-round/):
 
 *It takes substantial investments to build a global sustainable sailing ship fleet. However the strategy of EcoClipper is based on investing in one ship at a time. As such, a series of investment tranches are offered through certificates in the EcoClipper Coöperatie U.A. The first tranche is aiming for €140,000, to purchase the first retrofit vessel. The second and third tranche will bring the financing to almost one million Euros. Follow-up rounds will become larger as the community of the company grows.  Investments for the first tranche start at 50 certificates for a total price of €350. Investors in the early rounds purchase certificates for a discount, while also investing in the future growth of the company.*
 

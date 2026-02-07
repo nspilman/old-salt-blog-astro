@@ -16,12 +16,12 @@ tags:
   - "LCS"
   - "littoral combat ships"
   - "William Adams"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/ussmontgomery2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/ussmontgomery2.jpg"
 author: "Rick Spilman"
 description: "The  Department of Justice and the Securities and Exchange Commission (SEC) have charged three current or ex-Austal USA executives with accounting fraud in the construction of Independence-class Littoral Combat Ships (LCS). A grand jury issued indictments against Craig Perciavalle, who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/ussmontgomery2.jpg)The  [Department of Justice](https://www.justice.gov/criminal-vns/file/1577521/download) and the [Securities and Exchange Commission](https://www.sec.gov/litigation/litreleases/2023/lr25684.htm) (SEC) have charged three current or ex-[Austal USA](https://usa.austal.com/) executives with accounting fraud in the construction of [Independence-class Littoral Combat Ships](https://en.wikipedia.org/wiki/Independence-class_littoral_combat_ship) (LCS).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/ussmontgomery2.jpg)The  [Department of Justice](https://www.justice.gov/criminal-vns/file/1577521/download) and the [Securities and Exchange Commission](https://www.sec.gov/litigation/litreleases/2023/lr25684.htm) (SEC) have charged three current or ex-[Austal USA](https://usa.austal.com/) executives with accounting fraud in the construction of [Independence-class Littoral Combat Ships](https://en.wikipedia.org/wiki/Independence-class_littoral_combat_ship) (LCS).
 
 A grand jury issued indictments against Craig Perciavalle, who was the shipbuilder’s president until he resigned in 2021 amid investigations by multiple agencies; Joseph Runkel, the company’s director of financial analysis; and William Adams, the former LCS program director. Craig Perciavalle, who became the GM/VP of [Fincantieri](https://fincantierimarinegroup.com/) Bay Shipbuilding in Nov. 2021, has now been suspended by Fincantieri. Runkel was fired from Austal USA after the indictment was announced. Adams left Austal USA in 2021.
 

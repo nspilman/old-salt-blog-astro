@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "We posted recently about the discovery of the 164′ Japanese fishing vessel, Ryou-Un Maru, which had been carried out to sea from the port of Hachinohe, a year ago by the Japanese earthquake and tsunami. The ship was found drifting 120 miles off Haida Gwaii, British … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/ghostship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/ghostship.jpg)
 
 Plumes of smoke rise from Ryou-Un Maru under fire from the Cutter Anacapa Photo: Petty Officer Second Class Charly Hengen/AP
 

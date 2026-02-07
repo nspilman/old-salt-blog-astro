@@ -16,12 +16,12 @@ tags:
   - "Patapsco River"
   - "Port of Baltimore"
   - "Singapore-flagged"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/dalibridge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/dalibridge.jpg"
 author: "Rick Spilman"
 description: "At approximately 1:30 AM this morning, the Singapore-flagged, 10,000 TEU container ship, MV Dali struck the southern support pillar of the Francis Scott Key Bridge, spanning the Patapsco River at the entrance to the Port of Baltimore, Maryland. The impact … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/dalibridge.jpg)At approximately 1:30 AM this morning, the Singapore-flagged, 10,000 TEU container ship, [MV Dali](https://www.vesselfinder.com/vessels/details/9697428) struck the southern support pillar of the [Francis Scott Key Bridge](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_\(Baltimore\)), spanning the Patapsco River at the entrance to the [Port of Baltimore](https://en.wikipedia.org/wiki/Port_of_Baltimore), Maryland. The impact collapsed the main spans of the 1.6-mile-long bridge.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/dalibridge.jpg)At approximately 1:30 AM this morning, the Singapore-flagged, 10,000 TEU container ship, [MV Dali](https://www.vesselfinder.com/vessels/details/9697428) struck the southern support pillar of the [Francis Scott Key Bridge](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_\(Baltimore\)), spanning the Patapsco River at the entrance to the [Port of Baltimore](https://en.wikipedia.org/wiki/Port_of_Baltimore), Maryland. The impact collapsed the main spans of the 1.6-mile-long bridge.
 
 There are no reported injuries aboard the ship. Maintenance workers on the bridge and an unknown number of vehicles were thrown into the river when the bridge collapsed. Two were rescued from the water while at least seven are reported to be missing.
 

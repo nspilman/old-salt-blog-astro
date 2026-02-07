@@ -8,12 +8,12 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/quest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/quest.jpg"
 author: "Rick Spilman"
 description: "The wreck of Sir Ernest Shackleton’s \"last ship\" Quest has been discovered on the seafloor off the coast of Newfoundland, Canada. When I first read the news, I did a double-take. Just over two years ago, the wreck of Shackleton’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/quest.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/06/quest.jpg)
 
 A sonar image of the Quest. It went down on 5 May 1962
 

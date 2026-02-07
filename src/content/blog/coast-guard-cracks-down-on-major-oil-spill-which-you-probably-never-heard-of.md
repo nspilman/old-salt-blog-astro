@@ -12,12 +12,12 @@ tags:
   - "Hurricane Ivan"
   - "Oil spill"
   - "Taylor Energy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/oilslick1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/oilslick1.jpg"
 author: "Rick Spilman"
 description: "Fourteen years ago, Hurricane Ivan destroyed an oil-production platform owned by Taylor Energy in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may soon become the largest recorded offshore spill.  Federal officials … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/oilslick1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/oilslick1.jpg)
 
 Photo: Oscar Garcia-Pineda
 

@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "The growing volume of plastic washed into our oceans is a threat to us all."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/Garbage.jpg)Yesterday, [we posted about a beach](http://www.oldsaltblog.com/2014/08/of-kwakiutl-shell-beaches-and-beaches-of-glass/) where the ocean has worn down glass, which once had been discarded as trash. The “glass beach” is now beautiful and enjoyed by thousands.  If only all our trash was glass.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Garbage.jpg)Yesterday, [we posted about a beach](http://www.oldsaltblog.com/2014/08/of-kwakiutl-shell-beaches-and-beaches-of-glass/) where the ocean has worn down glass, which once had been discarded as trash. The “glass beach” is now beautiful and enjoyed by thousands.  If only all our trash was glass.
 
 Another beach comes to mind on Palmyra Atoll, a tropical atoll in almost the geometric center of the Pacific Ocean. It should be the image of an island paradise. Instead, the beach resembles more of a trash heap.  From the [Palmyra Atoll Wikipedia page](http://en.wikipedia.org/wiki/Palmyra_Atoll):  *Palmyra Atoll’s location in the Pacific Ocean, where the southern and northern currents meet, means that its beaches are littered with trash and debris. Plastic mooring buoys and plastic bottles are plentiful on the beaches of Palmyra.*
 

@@ -13,12 +13,12 @@ tags:
   - "Heimaey"
   - "Iceland"
   - "Mountain of Fire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/elephant-rock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/elephant-rock.jpg"
 author: "Rick Spilman"
 description: "On the 21st of January, 1973, the island of Heimaey, four nautical miles off the south coast of Iceland, began to tremble. On the 23rd, a large fissure opened up on the eastern side of the island, barely a kilometer away … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/elephant-rock.jpg)On the 21st of January, 1973, the island of [Heimaey](https://en.wikipedia.org/wiki/Heimaey), four nautical miles off the south coast of Iceland, began to tremble. On the 23rd, a large fissure opened up on the eastern side of the island, barely a kilometer away from the center of the town of Heimaey. Volcanic ash began to fall over most of the island and lava began to flow toward the town.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/elephant-rock.jpg)On the 21st of January, 1973, the island of [Heimaey](https://en.wikipedia.org/wiki/Heimaey), four nautical miles off the south coast of Iceland, began to tremble. On the 23rd, a large fissure opened up on the eastern side of the island, barely a kilometer away from the center of the town of Heimaey. Volcanic ash began to fall over most of the island and lava began to flow toward the town.
 
 Fortunately, the fishing fleet was in the harbor and most of the population left successfully by the island by boat. Remarkably, within 6 hours close to 5,300 islanders were evacuated to the mainland. A small contingent stayed behind to perform essential duties and monitor the situation. Only one person was killed by the eruption.
 

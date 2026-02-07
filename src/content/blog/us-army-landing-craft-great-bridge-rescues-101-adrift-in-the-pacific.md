@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "It is easy to forget how many ships and boats are indeed operated by the United States Army. Earlier this week the 80 feet long vessel, Enin Meto, with 101 people aboard, was bound from Lib to Ebeye, two island … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/LCU2000.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/LCU2000.jpg)
 
 USAV GREAT BRIDGE
 

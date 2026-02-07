@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "SS United States Conservancy announced, we have entered into a preliminary agreement in support of the redevelopment of the SS United States."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)The [SS United States Conservancy](http://ssusc.org/?utm_source=Breaking+News%3A+Preliminary+agreement+signed&utm_campaign=Preliminary+Redevelopment+Agreement+Signed&utm_medium=email) issued a [press release](http://myemail.constantcontact.com/Breaking-News--Preliminary-Redevelopment-Agreement-Reached.html?soid=1101929149480&aid=Qr0L3tKV7WM) signed by Susan Gibbs on Monday announcing:
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg)The [SS United States Conservancy](http://ssusc.org/?utm_source=Breaking+News%3A+Preliminary+agreement+signed&utm_campaign=Preliminary+Redevelopment+Agreement+Signed&utm_medium=email) issued a [press release](http://myemail.constantcontact.com/Breaking-News--Preliminary-Redevelopment-Agreement-Reached.html?soid=1101929149480&aid=Qr0L3tKV7WM) signed by Susan Gibbs on Monday announcing:
 
 [Exciting Redevelopment Milestone Achieved](Exciting%20Redevelopment Milestone Achieved)
 

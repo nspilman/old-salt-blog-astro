@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Here is the story of a very lucky kayaker saved by unexpected rescuers on Lake George. It seems a kayaker got into trouble and was rescued by a group of priests out for an afternoon excursion on a floating Tiki … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/tikibar.jpg)Here is the story of a very lucky kayaker saved by unexpected rescuers on [Lake George](https://en.wikipedia.org/wiki/Lake_George_\(New_York\)). It seems a kayaker got into trouble and was rescued by a group of priests out for an afternoon excursion on a floating Tiki Bar. If you are not familiar with Lake George, the story sounds frankly weird. If you know a bit of the lake’s history, it all sort of makes sense.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/tikibar.jpg)Here is the story of a very lucky kayaker saved by unexpected rescuers on [Lake George](https://en.wikipedia.org/wiki/Lake_George_\(New_York\)). It seems a kayaker got into trouble and was rescued by a group of priests out for an afternoon excursion on a floating Tiki Bar. If you are not familiar with Lake George, the story sounds frankly weird. If you know a bit of the lake’s history, it all sort of makes sense.
 
 A bit of background. Lake George is a 32-mile long lake in the Adirondack mountains in the State of New York. Averaging 2 to 3 miles wide, it drains into Lake Champlain. For most of human history, Lake George formed part of a waterborne highway between the Atlantic Ocean at New York harbor and the St.Lawrence Seaway on the border with Canada. Lake George and Lake Champlain were the sites of several major battles in the French and Indian Wars and the American Revolution.
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Oops. Last Wednesday, the graving dock at the General Dynamics NASSCO yard in San Diego, CA flooded after the dock gate at least partially collapsed. The ship under construction in the graving dock, the USNS Miguel Keith, floated off the docking … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/nasscoflood.jpg)Oops. Last Wednesday, the graving dock at the General Dynamics NASSCO yard in San Diego, CA flooded after the dock gate at least partially collapsed. The ship under construction in the graving dock, the [USNS *Miguel Keith*](https://en.wikipedia.org/wiki/USNS_Miguel_Keith), floated off the docking blocks while also flooding the ship through cuts in its hull. No one was injured and there is no estimate of damage to the ship which was expected to be delivered in August of 2019.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/nasscoflood.jpg)Oops. Last Wednesday, the graving dock at the General Dynamics NASSCO yard in San Diego, CA flooded after the dock gate at least partially collapsed. The ship under construction in the graving dock, the [USNS *Miguel Keith*](https://en.wikipedia.org/wiki/USNS_Miguel_Keith), floated off the docking blocks while also flooding the ship through cuts in its hull. No one was injured and there is no estimate of damage to the ship which was expected to be delivered in August of 2019.
 
 A graving dock is a type of drydock built as a narrow basin closed by gates or by a caisson, into which a vessel may be floated and the water pumped out, leaving the vessel supported on blocks.  The graving dock at the NASSCO yard is the 1,000-foot long and 174-foot wide.
 

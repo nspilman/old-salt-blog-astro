@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "One of the most beautiful and most interesting tall ship sailing today, at least to my eye, is the three-masted barquentine Pelican.  The Pelican is 148ft long overall, square rigged on the main mast but fore and aft rigged on the fore mast and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/pelican1.jpg)One of the most beautiful and most interesting tall ship sailing today, at least to my eye, is the three-masted barquentine *[Pelican](http://www.adventureundersail.com/index.html).*  The *Pelican* is 148ft long overall, square rigged on the main mast but fore and aft rigged on the fore mast and mizzen, a modern hybrid between a traditional square rig and the mixed square and fore and aft rig of the Barbary coast Xebecs.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/pelican1.jpg)One of the most beautiful and most interesting tall ship sailing today, at least to my eye, is the three-masted barquentine *[Pelican](http://www.adventureundersail.com/index.html).*  The *Pelican* is 148ft long overall, square rigged on the main mast but fore and aft rigged on the fore mast and mizzen, a modern hybrid between a traditional square rig and the mixed square and fore and aft rig of the Barbary coast Xebecs.
 
 The *Pelican* is also now [actively for sale with an asking price of £2,450,000](http://www.easternyachts.com/pelicanoflondon/index.htm).
 

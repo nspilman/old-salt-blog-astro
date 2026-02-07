@@ -14,12 +14,12 @@ tags:
   - "manhattan"
   - "new york"
   - "World Trade Center"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/boatlift1.jpg"
 author: "Rick Spilman"
 description: "An updated repost. There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, 21 years ago today. Yet for at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg)An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, 21 years ago today. Yet for at least part of that strange and horrible day, they fit. The great [New York boatlift](https://news.usni.org/2014/07/23/coast-guard-led-9-11-water-evacuation-bigger-dunkirk) was part of the “miracle and wonder.” The wholly unplanned boatlift was the spontaneous maritime evacuation of an estimated 500,000 people trapped in Lower Manhattan in less than 10 hours. The boatlift has been under-reported by the media, which is all the more reason to remember the mariners of New York who stepped up to perform what has been called the largest sea rescue in history.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/boatlift1.jpg)An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, 21 years ago today. Yet for at least part of that strange and horrible day, they fit. The great [New York boatlift](https://news.usni.org/2014/07/23/coast-guard-led-9-11-water-evacuation-bigger-dunkirk) was part of the “miracle and wonder.” The wholly unplanned boatlift was the spontaneous maritime evacuation of an estimated 500,000 people trapped in Lower Manhattan in less than 10 hours. The boatlift has been under-reported by the media, which is all the more reason to remember the mariners of New York who stepped up to perform what has been called the largest sea rescue in history.
 
 To me, the attacks of 9/11 do not seem to be 21 years in the past. Everything remains too vivid to be that long ago, and yet the evidence of the time slipping by is all around me. My sons are now 30 and 26. They were 9 and 5 when I picked them up from their school, directly across the water from where the towers had stood that morning, but by noon were a billowing maelstrom of flame, ash, and smoke.
 

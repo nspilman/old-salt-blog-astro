@@ -16,12 +16,12 @@ tags:
   - "National Historic Landmark"
   - "restoration"
   - "Sequoia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/sequoia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/sequoia.jpg"
 author: "Rick Spilman"
 description: "Good news. The Bangor Daily News is reporting that the restoration of the ex-presidential yacht Sequoia will begin soon in Belfast, Maine. We first posted about the saga of the ex-presidential yacht in 2016 when Delaware judge Sam Glasscock describes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/sequoia.jpg)Good news. The [Bangor Daily News](https://www.bangordailynews.com/2022/08/12/news/midcoast/uss-sequoia-restoration-to-begin-soon-joam40zk0w/) is reporting that the restoration of the ex-presidential yacht *Sequoia* will begin soon in Belfast, Maine.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/sequoia.jpg)Good news. The [Bangor Daily News](https://www.bangordailynews.com/2022/08/12/news/midcoast/uss-sequoia-restoration-to-begin-soon-joam40zk0w/) is reporting that the restoration of the ex-presidential yacht *Sequoia* will begin soon in Belfast, Maine.
 
 We first posted about the [saga of the ex-presidential yacht](https://www.oldsaltblog.com/2016/11/saga-ex-presidential-yacht-sequoia-continues-new-owner/) in 2016 when Delaware judge Sam Glasscock describes her then-current condition. “*The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an undersized marine railway in a moribund boatyard on the western shore of the Chesapeake, deteriorating and, lately, home to raccoons.”*
 

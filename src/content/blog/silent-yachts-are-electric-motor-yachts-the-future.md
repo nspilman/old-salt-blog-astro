@@ -13,12 +13,12 @@ tags:
   - "electric"
   - "Silent 55"
   - "Silent Yacht"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/silent55.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/silent55.jpg"
 author: "Rick Spilman"
 description: "Imagine a yacht that is almost completely silent, with a close to unlimited range, and that doesn’t pollute. While it may sound too good to be true, this is what Silent Yachts is aiming for in its line of electrically-powered … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/silent55.jpg)Imagine a yacht that is almost completely silent, with a close to unlimited range, and that doesn’t pollute. While it may sound too good to be true, this is what [Silent Yachts](https://www.silent-yachts.com/) is aiming for in its line of electrically-powered luxury catamarans. The company offers catamarans ranging from 44 to 80 feet long and recently upgraded and improved its [*Silent 55*](https://www.silent-yachts.com/silent55/) design. One of the new designs has been delivered and three more are on order.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/silent55.jpg)Imagine a yacht that is almost completely silent, with a close to unlimited range, and that doesn’t pollute. While it may sound too good to be true, this is what [Silent Yachts](https://www.silent-yachts.com/) is aiming for in its line of electrically-powered luxury catamarans. The company offers catamarans ranging from 44 to 80 feet long and recently upgraded and improved its [*Silent 55*](https://www.silent-yachts.com/silent55/) design. One of the new designs has been delivered and three more are on order.
 
 The new *Silent 55* is 54’8″ feet long by 27’7″ wide, providing lots of available deck space for solar panels and good storage below decks for lithium batteries. The company offers four configurations to suit the desires of potential owners. The “Cruiser” option is driven by two 30 KW (around 40 HP) electric motors and promises to be “noiseless cruising without any emissions, with unlimited range.” (There is also a diesel generator tucked away to charge the batteries if need be.)
 

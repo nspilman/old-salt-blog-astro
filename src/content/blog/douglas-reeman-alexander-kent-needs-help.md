@@ -6,12 +6,12 @@ excerpt: "Douglas Reeman needs our help. If you have ever read any of the thirty
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/dreeman200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/dreeman200.jpg"
 author: "Rick Spilman"
 description: "Douglas Reeman needs our help. If you have ever read any of the thirty volumes of the nautical adventures of Richard Bolitho, you probably know the author by his pen name, Alexander Kent. In total, Reeman has written close to … Continue reading &rarr;"
 ---
 
-![dreeman1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/dreeman1.jpg)Douglas Reeman needs our help. If you have ever read any of the thirty volumes of the nautical adventures of Richard Bolitho, you probably know the author by his pen name, Alexander Kent. In total, Reeman has written close to 60 books and has made an indelible mark on the literature of the sea. Now, at 92 and in failing health, we have the opportunity to, in some small measure, make his path easier. A message from his wife Kim:
+![dreeman1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/dreeman1.jpg)Douglas Reeman needs our help. If you have ever read any of the thirty volumes of the nautical adventures of Richard Bolitho, you probably know the author by his pen name, Alexander Kent. In total, Reeman has written close to 60 books and has made an indelible mark on the literature of the sea. Now, at 92 and in failing health, we have the opportunity to, in some small measure, make his path easier. A message from his wife Kim:
 
 [EBBTIDE: Care for Douglas Reeman](https://www.gofundme.com/www-douglasreeman-com)
 

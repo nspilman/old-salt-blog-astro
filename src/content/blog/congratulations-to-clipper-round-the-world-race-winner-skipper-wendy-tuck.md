@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The top two spots in the Clipper Round the World Race were, for the first time, won by women.  Australian Wendy Tuck has become the first female skipper to win the Clipper Round-the-World race.  British skipper Nikki Henderson, 25, came in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/wendytuck.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/wendytuck.jpg)
 
 Wendy Tuck
 

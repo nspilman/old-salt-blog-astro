@@ -11,7 +11,7 @@ tags:
   - "dynamic soaring"
   - "landing"
   - "Royal Albatross Centre"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/dynamicsoaring.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/dynamicsoaring.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about Wisdom, an albatross who is at least 70 years old, who recently hatched another chick, making it the oldest breeding bird in recorded history. In a comment on the post, Irwin Bryan pointed out a video … Continue reading &rarr;"
 ---

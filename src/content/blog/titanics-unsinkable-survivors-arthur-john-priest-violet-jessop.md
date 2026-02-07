@@ -17,7 +17,7 @@ description: "In observance of the anniversary of the sinking of the Titanic on 
 
 In observance of the anniversary of the sinking of the [*Titanic* on April 15, 1912](https://en.wikipedia.org/wiki/RMS_Titanic), here is a repost from 2012, about two hardy souls who survived not only the sinking of the RMS *Titanic* but also the [RMS *Britannic*](https://en.wikipedia.org/wiki/HMHS_Britannic) when she was sunk by a mine and the [RMS *Olympic*](https://en.wikipedia.org/wiki/RMS_Olympic) when she collided with the *HMS Hawke.*
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/priest_j_medium.jpg)](http://www.geni.com/people/Arthur-John-Priest/6000000016047600622)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/priest_j_medium.jpg)](http://www.geni.com/people/Arthur-John-Priest/6000000016047600622)
 
 Arthur John Priest
 
@@ -25,7 +25,7 @@ Arthur John Priest
 
 Priest was also aboard the *Britannic,* the third sistership to the *Olympic* and the *Titanic* when she hit a mine and sank in 1916. Priest also survived the World War I losses of the *[Alcantara](http://www.history.com/this-day-in-history/two-ships-sink-in-north-sea-battle)* and *Donegal*. He once claimed that he was forced to retire from the sea by these disasters because no one wished to sail with him.  Priest died at the age of 50 of pneumonia Southampton.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/Violet_jessop_titanic.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Violet_jessop_titanic.jpg)
 
 Violet Jessop
 

@@ -10,12 +10,12 @@ tags:
   - "Oliver Hazard Perry"
   - "USS Revenge"
   - "Watch Hill"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/cannonrevenge.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/cannonrevenge.jpg"
 author: "Rick Spilman"
 description: "US Navy archaeologists have retrieved a cannon which they believe came from USS Revenge, a schooner commanded by Oliver Hazard Perry in 1811. The schooner struck a reef and sank off Watch Hill in Westerly, RI in 1811.  Navy divers … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/cannonrevenge.jpg)US Navy archaeologists have retrieved a cannon which they believe came from [USS *Revenge*](https://en.wikipedia.org/wiki/USS_Revenge_\(1806\)), a schooner commanded by [Oliver Hazard Perry](https://en.wikipedia.org/wiki/Oliver_Hazard_Perry) in 1811. The schooner struck a reef and sank off Watch Hill in Westerly, RI in 1811.  Navy divers raised the cannon on May 24.  The cannon has been taken to the Washington Navy Yard to be desalinated and stabilized. As reported by the [Westerly Sun](http://www.thewesterlysun.com/news/westerly/10409886-154/navy-confident-cannon-recovered-off-watch-hill-is-from-perrys.html#gallery-5): 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/cannonrevenge.jpg)US Navy archaeologists have retrieved a cannon which they believe came from [USS *Revenge*](https://en.wikipedia.org/wiki/USS_Revenge_\(1806\)), a schooner commanded by [Oliver Hazard Perry](https://en.wikipedia.org/wiki/Oliver_Hazard_Perry) in 1811. The schooner struck a reef and sank off Watch Hill in Westerly, RI in 1811.  Navy divers raised the cannon on May 24.  The cannon has been taken to the Washington Navy Yard to be desalinated and stabilized. As reported by the [Westerly Sun](http://www.thewesterlysun.com/news/westerly/10409886-154/navy-confident-cannon-recovered-off-watch-hill-is-from-perrys.html#gallery-5): 
 
 *There are not many examples of early naval guns of this type, said George Schwarz, an underwater archaeologist with the Naval History and Heritage Command. The command oversees the identification and management of sunken naval vessels. “It’s a tangible reach back through naval history,” he said. Schwarz said he has a high level of confidence that the cannon is from the Revenge.*
 

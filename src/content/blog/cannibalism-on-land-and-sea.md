@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Last week, the news broke that evidence of cannibalism had been found at the Jamestown colony in Virginia. Cut and sawing marks have been found on the skull and leg bones of a young woman, suggesting that her flesh was stripped and … Continue reading &rarr;"
 ---
 
-![17th-century remains of a young girl excavated from Jamestown, Virginia, show evidence of cannibalism in the colony.](http://www.oldsaltblog.com/wp-content/uploads/2013/05/jamestownbones.jpg)
+![17th-century remains of a young girl excavated from Jamestown, Virginia, show evidence of cannibalism in the colony.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/jamestownbones.jpg)
 
 17th-century remains of a young girl excavated from Jamestown, Virginia, show evidence of cannibalism in the colony.
 

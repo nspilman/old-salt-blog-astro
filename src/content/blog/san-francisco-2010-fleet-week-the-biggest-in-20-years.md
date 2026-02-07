@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "2010 Fleet Week celebration will be the biggest in 20 years SAN FRANCISCO -This year’s Fleet Week celebration, an annual event that celebrates the city’s rich contribution to the United States armed forces, will be the largest one held in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/ussmakinisland.jpg)[2010 Fleet Week celebration will be the biggest in 20 years](http://www.californiabeat.org/2010/10/06/2010-fleet-week-celebration-will-be-the-biggest-in-20-years)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/ussmakinisland.jpg)[2010 Fleet Week celebration will be the biggest in 20 years](http://www.californiabeat.org/2010/10/06/2010-fleet-week-celebration-will-be-the-biggest-in-20-years)
 
 *SAN FRANCISCO -This year’s Fleet Week celebration, an annual event that celebrates the city’s rich contribution to the United States armed forces, will be the largest one held in 20 years, organizers and city officials said Wednesday.*
 

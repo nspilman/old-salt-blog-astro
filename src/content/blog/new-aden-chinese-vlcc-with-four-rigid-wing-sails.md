@@ -13,12 +13,12 @@ tags:
   - "New Vitality"
   - "Very Large Crude Carriers"
   - "wing sails"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/newaden.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/newaden.jpg"
 author: "Rick Spilman"
 description: "In 2020, we posted that China Merchants Group had signed a contract with Dalian Shipbuilding Industry Company (DSIC) for two Very Large Crude Carriers (VLCCs) each with four rigid wing sails to provide wind-assisted propulsion. The first of the two … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/newaden.jpg)In 2020, we posted that China Merchants Group had signed a contract with Dalian Shipbuilding Industry Company (DSIC) for [two Very Large Crude Carriers (VLCCs) each with four rigid wing sails](https://www.oldsaltblog.com/2020/05/very-large-tankers-sailing-on-wind-and-bubbles-of-air/) to provide wind-assisted propulsion.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/newaden.jpg)In 2020, we posted that China Merchants Group had signed a contract with Dalian Shipbuilding Industry Company (DSIC) for [two Very Large Crude Carriers (VLCCs) each with four rigid wing sails](https://www.oldsaltblog.com/2020/05/very-large-tankers-sailing-on-wind-and-bubbles-of-air/) to provide wind-assisted propulsion.
 
 The first of the two ships, the [*New Aden*, has now been delivered and features four wing sails](https://maritime-executive.com/article/china-delivers-first-vlcc-equipped-with-four-rigid-sails), each approximately 130 feet tall, totaling nearly 13,000 square feet of sail area, made of carbon fiber composite material. The sails are trimmed by a fully automatic system to maximize their efficiency. The new ship is 1,092 feet long and 300,000 DWT.
 

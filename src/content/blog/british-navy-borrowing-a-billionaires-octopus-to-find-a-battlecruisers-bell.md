@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Billionaire and philanthropist, Microsoft co-founder Paul Allen is loaning his 126 metre superyacht Octopus to the British Royal Navy to mount an expedition to locate and raise the bell from the battle cruiser HMS Hood (51) sunk by the German battleship Bismark in the Denmark … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/Octopus-yacht.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Octopus-yacht.jpg)
 
 Paul Allen’s yacht Octopus
 

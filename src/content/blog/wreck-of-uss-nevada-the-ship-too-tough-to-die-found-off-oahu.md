@@ -14,12 +14,12 @@ tags:
   - "USS Nevada"
   - "world war I"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/ussnevada.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/ussnevada.jpg"
 author: "Rick Spilman"
 description: "The wreck of the USS Nevada, deliberately sunk by the US Navy in 1948, has been located in water nearly three miles deep, 65 nautical miles southwest of the Hawaiian island of Oahu.  The old battlewagon has been called the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/ussnevada.jpg)The wreck of the [*USS Nevada,*](https://en.wikipedia.org/wiki/USS_Nevada_\(BB-36\)) deliberately sunk by the US Navy in 1948, has been [located in water nearly three miles deep](https://www.nationalgeographic.com/history/2020/05/uss-nevada-shipwreck-discovered-pacific/), 65 nautical miles southwest of the Hawaiian island of Oahu. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/ussnevada.jpg)The wreck of the [*USS Nevada,*](https://en.wikipedia.org/wiki/USS_Nevada_\(BB-36\)) deliberately sunk by the US Navy in 1948, has been [located in water nearly three miles deep](https://www.nationalgeographic.com/history/2020/05/uss-nevada-shipwreck-discovered-pacific/), 65 nautical miles southwest of the Hawaiian island of Oahu. 
 
 The old battlewagon has been called the ship “too tough to die” following a career which began in 1914. The *Nevada* served in World War I and then was the only battleship to get underway during the December 7, 1941 attack on Pearl Harbor. Hit by one torpedo and at least six bombs during the attack, she was grounded by her crew, but refloated and rebuilt. Her guns supported five major amphibious landings at Attu, Normandy, Southern France, Iwo Jima, and Okinawa. 
 

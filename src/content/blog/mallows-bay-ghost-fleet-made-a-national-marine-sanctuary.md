@@ -13,12 +13,12 @@ tags:
   - "Mallows Bay"
   - "National Marine Sanctuary"
   - "Potomac River"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/mallowsbay.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/mallowsbay.jpg"
 author: "Rick Spilman"
 description: "Forty miles south of Washington, D.C., close to Nanjemoy, Maryland is a fleet of ghost ships — the wrecks of hundreds of ships in Mallows Bay, a shallow bay on the Potomac River. It is considered to be the largest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/mallowsbay.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/mallowsbay.jpg)
 
 Photo: MARYLAND DEPARTMENT OF NATURAL RESOURCES/MARINE ROBOTICS & REMOTE SENSING, DUKE UNIVERSITY
 

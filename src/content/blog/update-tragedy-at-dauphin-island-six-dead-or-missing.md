@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "A week ago, tragedy struck at the Dauphin Island Regatta when a powerful squall struck the assembled fleet. Six sailors were lost."
 ---
 
-![(Photo: Sharon Steinmann/AP](http://www.oldsaltblog.com/wp-content/uploads/2015/05/dauphinis2.jpg)
+![(Photo: Sharon Steinmann/AP](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/dauphinis2.jpg)
 
 (Photo: Sharon Steinmann/AP
 

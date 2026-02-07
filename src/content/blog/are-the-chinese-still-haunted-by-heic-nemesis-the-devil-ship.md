@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In 1840, when she arrived off their coast,  the Chinese called the Honourable East India Company ship Nemesis, the devil ship.   She was the first British ocean-going iron warship.  In addition to two masts, she was powered by two two sixty … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/300px-HEIC_Nemesis.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/300px-HEIC_Nemesis.jpg)
 
 The Honourable East India Company ship Nemesis
 

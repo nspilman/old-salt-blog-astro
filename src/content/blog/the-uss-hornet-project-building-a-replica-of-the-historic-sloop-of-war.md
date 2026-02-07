@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Naval Heritage Society is attempting to to build a full-scale, fully functional replica of of the USS Hornet, a sloop of war built in 1805, which had a successful career in the War of 1812 and beyond, before being lost in a hurricane in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/hornetoverhead.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/hornetoverhead.jpg)
 
 Rendering of the USS Hornet
 

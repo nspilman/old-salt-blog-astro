@@ -10,12 +10,12 @@ tags:
   - "Canada"
   - "lost nuke"
   - "Mark 4 atomic bomb"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/mark4200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/mark4200.jpg"
 author: "Rick Spilman"
 description: "A Canadian diver swimming off Pitt Island near the Haida Gwaii archipelago, on Canada’s west coast, was looking for sea cucumbers, but didn’t find any. Instead, the diver, Sean Smyrichinsky, found a dummy nuclear bomb lost in a plane crash in … Continue reading &rarr;"
 ---
 
-![Mark 4 Atomic bomb](http://www.oldsaltblog.com/wp-content/uploads/2016/11/mark4.jpg)
+![Mark 4 Atomic bomb](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/mark4.jpg)
 
 Mark 4 Atomic bomb
 

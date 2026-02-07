@@ -10,12 +10,12 @@ categories:
 tags:
   - "OHPRI"
   - "Oliver Hazard Perry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/ohplogo1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/ohplogo1.jpg"
 author: "Rick Spilman"
 description: "The SSV Oliver Hazard Perry is looking for crew for their December-April season in Florida, Bahamas, and Bermuda.  From their announcement of their website: After a successful first season underway, we are excited to continue our year round operations with a voyage … Continue reading &rarr;"
 ---
 
-![ohplogo1](http://www.oldsaltblog.com/wp-content/uploads/2016/10/ohplogo1.jpg)The [SSV Oliver Hazard Perry](http://www.ohpri.org/) is looking for crew for their December-April season in Florida, Bahamas, and Bermuda.  From their announcement of their website:
+![ohplogo1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/ohplogo1.jpg)The [SSV Oliver Hazard Perry](http://www.ohpri.org/) is looking for crew for their December-April season in Florida, Bahamas, and Bermuda.  From their announcement of their website:
 
 *After a successful first season underway, we are excited to continue our year round operations with a voyage south to Florida, Bahamas and Bermuda. This summer 160 students embarked on our programs, making our total count for trainees embarking on OHPRI programs to almost 600. We were warmly welcomes into 20 harbors and ports in New England and enjoyed many great days of sailing.*
 

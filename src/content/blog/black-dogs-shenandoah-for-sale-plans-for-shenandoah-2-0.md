@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "I feel like beginning this post with the old cheer, \"The King is dead! Long live the King!\" But no. That is hardly apt. How about \"the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!\" That still is not … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/shenandoah.jpg)I feel like beginning this post with the old cheer, “The King is dead! Long live the King!” But no. That is hardly apt. How about “the schooner [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_\(schooner\)) is for Sale! Long Live *Shenandoah 2.0*!” That still is not quite right, but it is closer. Here is the story.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/shenandoah.jpg)I feel like beginning this post with the old cheer, “The King is dead! Long live the King!” But no. That is hardly apt. How about “the schooner [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_\(schooner\)) is for Sale! Long Live *Shenandoah 2.0*!” That still is not quite right, but it is closer. Here is the story.
 
 Toward the end of May, an advertisement published in *Boats and Harbors* and then picked up on Facebook by [*Marlinspike Magazine*](http://www.marlinspikemagazine.com/tall-ships-schooner-news.html), said [the schooner *Shenandoah* was for sale for $850,000](https://www.mvtimes.com/2019/05/21/black-dogs-venerable-shenandoah-market/).
 

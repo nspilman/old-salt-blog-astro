@@ -12,12 +12,12 @@ tags:
   - "Port of Adelaide"
   - "South Australia"
   - "world's oldest clipper ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/coa200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/coa200.jpg"
 author: "Rick Spilman"
 description: "It has been a long and difficult journey for the world’s oldest surviving clipper ship, the City of Adelaide. The ship has still not quite found a home. In 2014, the ship was rescued from likely scrapping and carried by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/coa200.jpg)It has been a long and difficult journey for the world’s oldest surviving clipper ship, the [*City of Adelaide.*](https://www.cityofadelaide.org.au/) The ship has still not quite found a home. In 2014, the ship was rescued from likely scrapping and carried by barge from Scotland to its namesake city in South Australia. The South Australian government contributed A$850,000 to help defray some of the costs of the move. The ship, sitting on a deck barge was temporarily brought into Dock 1 in the Port of Adelaide.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/coa200.jpg)It has been a long and difficult journey for the world’s oldest surviving clipper ship, the [*City of Adelaide.*](https://www.cityofadelaide.org.au/) The ship has still not quite found a home. In 2014, the ship was rescued from likely scrapping and carried by barge from Scotland to its namesake city in South Australia. The South Australian government contributed A$850,000 to help defray some of the costs of the move. The ship, sitting on a deck barge was temporarily brought into Dock 1 in the Port of Adelaide.
 
 The composite clipper ship was built in 1864 to carry settlers to South Australia. The ship made 23 voyages between Great Britain and Austalia. An estimated 250,000 Australians can trace their ancestry to the ship City of Adelaide.
 

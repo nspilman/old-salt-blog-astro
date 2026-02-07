@@ -13,12 +13,12 @@ tags:
   - "journalist"
   - "Laser"
   - "Olympian"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/brucekirby.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/brucekirby.jpg"
 author: "Rick Spilman"
 description: "Bruce Kirby died recently at the age of 92. He was a Canadian-born, self-taught yacht designer known for a range of projects from one-designs to America’s Cup yachts. He also was a three-time Olympian sailor. Kirby began his career as … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/brucekirby.jpg)[Bruce Kirby](https://en.wikipedia.org/wiki/Bruce_Kirby_\(yacht_designer\)) died recently at the age of 92. He was a Canadian-born, self-taught yacht designer known for a range of projects from one-designs to America’s Cup yachts. He also was a three-time Olympian sailor. Kirby began his career as a journalist, becoming Editor of One-Design and Offshore Yachtsman, now Sailing World.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/brucekirby.jpg)[Bruce Kirby](https://en.wikipedia.org/wiki/Bruce_Kirby_\(yacht_designer\)) died recently at the age of 92. He was a Canadian-born, self-taught yacht designer known for a range of projects from one-designs to America’s Cup yachts. He also was a three-time Olympian sailor. Kirby began his career as a journalist, becoming Editor of One-Design and Offshore Yachtsman, now Sailing World.
 
 Bruce Kirby may be best remembered for his design of the [Laser](https://en.wikipedia.org/wiki/Laser_\(dinghy\)) in 1970, which began as a sketch, described as a “doodle,” made while talking on the phone. More than [250,000 of the boats have been built worldwide](https://www.nytimes.com/2021/07/23/sports/sailing/bruce-kirby-dead.html) since 1970, making Kirby’s creation one of the most influential sailboat designs of all time. The Laser, now called the ILCA, for the International Laser Class Association, is used for men’s and women’s single-handed events in the Olympics.
 

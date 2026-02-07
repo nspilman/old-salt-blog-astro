@@ -18,7 +18,7 @@ Thanks to David Hayes of [Astrodene’s Historical Naval Fiction](http://www.his
 
 ## [NAVY WEEK AT PORTSMOUTH](http://www.britishpathe.com/record.php?id=7506)
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/navydayportsmouth-300x230.jpg)](http://www.britishpathe.com/record.php?id=7506)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/navydayportsmouth-300x230.jpg)](http://www.britishpathe.com/record.php?id=7506)
 
 .  
 .  

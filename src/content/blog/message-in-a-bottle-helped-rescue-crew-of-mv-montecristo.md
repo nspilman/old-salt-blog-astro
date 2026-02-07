@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The current recommended response on a merchant ship on being boarded by pirates is to radio a distress call,  disable the ship’s engines and to retreat into a \"citadel,\" a safe locked-down space aboard the ship and await either rescue or until … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/Montecristo-carrier-007.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Montecristo-carrier-007.jpg)
 
 Photograph: AP
 

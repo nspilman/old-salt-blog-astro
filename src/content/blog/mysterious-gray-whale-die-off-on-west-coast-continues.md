@@ -11,12 +11,12 @@ tags:
   - "NOAA"
   - "UME"
   - "unusual mortality event"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/deadgray.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/deadgray.jpg"
 author: "Rick Spilman"
 description: "In early April, four gray whales were found dead in the San Francisco Bay area in a span of eight days. Last week another three dead gray whales washed ashore in the Bay area. Further north, a dead gray whale … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/deadgray.jpg)In early April, [four gray whales were found dead](https://www.washingtonpost.com/science/2021/04/11/whales-sf-bay-beaches/) in the San Francisco Bay area in a span of eight days. Last week [another three dead gray whales](https://www.charlotteobserver.com/news/nation-world/national/article251236239.html) washed ashore in the Bay area. Further north, a dead gray whale was also [found on Klipsan Beach](https://www.chinookobserver.com/news/local/deceased-gray-whale-washes-ashore-along-klipsan-beach/article_4b34b1ba-acfc-11eb-9610-9bf270fb042f.html), WA, last week.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/deadgray.jpg)In early April, [four gray whales were found dead](https://www.washingtonpost.com/science/2021/04/11/whales-sf-bay-beaches/) in the San Francisco Bay area in a span of eight days. Last week [another three dead gray whales](https://www.charlotteobserver.com/news/nation-world/national/article251236239.html) washed ashore in the Bay area. Further north, a dead gray whale was also [found on Klipsan Beach](https://www.chinookobserver.com/news/local/deceased-gray-whale-washes-ashore-along-klipsan-beach/article_4b34b1ba-acfc-11eb-9610-9bf270fb042f.html), WA, last week.
 
 The deaths are a continuation of elevated gray whale strandings occurring along the west coast of North America from Mexico through Alaska since January 1, 2019. [Scientists with the National Oceanic and Atmospheric Administration (NOAA)](https://www.fisheries.noaa.gov/national/marine-life-distress/2019-2021-gray-whale-unusual-mortality-event-along-west-coast-and) have declared the occurrences as an “unusual mortality event,” or UME, defined by the federal Marine Mammal Protection Act as an unexpected and significant die-off of a marine mammal species requiring an immediate response.
 

@@ -12,12 +12,12 @@ tags:
   - "aircraft carrier"
   - "dry dock"
   - "Russia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/11/russiancarrierdock.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/russiancarrierdock.jpg"
 author: "Rick Spilman"
 description: "This is an odd story, set in the icy Siberian waters near Murmansk, Russia.  Apparently, Russia’s largest floating drydock sank from underneath Russia’s only aircraft carrier, the Admiral Kuznetsov, doing some damage to the carrier above the waterline as the dock … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/11/russiancarrierdock.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/russiancarrierdock.jpg)
 
 Photo: Flickr/Christopher Michel
 

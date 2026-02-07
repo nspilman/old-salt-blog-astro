@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "After requiring rescue before, it now appears that Baluchi is going to attempt to to run the almost 1,000 miles from Florida to Bermuda in a bubble again."
 ---
 
-![Baluchi in his bubble](http://www.oldsaltblog.com/wp-content/uploads/2014/10/baluchibubble.jpg)
+![Baluchi in his bubble](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/baluchibubble.jpg)
 
 Baluchi in his bubble
 

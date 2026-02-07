@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "While oceans in Northern latitudes are feeling the icy blast of winter, the antipodes are in the middle of a very hot summer.  Indeed, for Australia, there maybe too much of summer’s sun, as the continent suffers under a brutal … Continue reading &rarr;"
 ---
 
-![waswirl_amo_2013364_2](http://www.oldsaltblog.com/wp-content/uploads/2014/01/waswirl_amo_2013364_2.jpg)While oceans in Northern latitudes are feeling the icy blast of winter, the antipodes are in the middle of a very hot summer.  Indeed, for Australia, there maybe too much of summer’s sun, as the continent suffers under [a brutal heat wave](http://world.time.com/2014/01/17/australia-is-melting-under-a-horrifying-heatwave/).  The Southern oceans, at least, are in full bloom. Recently, NASA’s [Moderate Resolution Imaging Spectroradiometer](http://modis.gsfc.nasa.gov/) (MODIS) on its aqua satellite captured dramatic images of a plankton bloom swept up in a large ocean eddy.
+![waswirl_amo_2013364_2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/waswirl_amo_2013364_2.jpg)While oceans in Northern latitudes are feeling the icy blast of winter, the antipodes are in the middle of a very hot summer.  Indeed, for Australia, there maybe too much of summer’s sun, as the continent suffers under [a brutal heat wave](http://world.time.com/2014/01/17/australia-is-melting-under-a-horrifying-heatwave/).  The Southern oceans, at least, are in full bloom. Recently, NASA’s [Moderate Resolution Imaging Spectroradiometer](http://modis.gsfc.nasa.gov/) (MODIS) on its aqua satellite captured dramatic images of a plankton bloom swept up in a large ocean eddy.
 
 [Spiral of Plankton](http://earthobservatory.nasa.gov/IOTD/view.php?id=82761&src=share)
 

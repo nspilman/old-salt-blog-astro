@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Draken Harald Hårfagre, the largest Viking longship built in modern times, will be touring the East Coast of the United States this summer.  From the Draken website: Beginning in June through October, plans for East Coast Tour 2018 currently consist … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/draken2018.jpg)The [*Draken Harald Hårfagre*](https://en.wikipedia.org/wiki/Draken_Harald_H%C3%A5rfagre), the largest Viking longship built in modern times, will be touring the East Coast of the United States this summer.  From the [Draken website:](https://www.drakenhh.com/east-coast-tour-2018/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/draken2018.jpg)The [*Draken Harald Hårfagre*](https://en.wikipedia.org/wiki/Draken_Harald_H%C3%A5rfagre), the largest Viking longship built in modern times, will be touring the East Coast of the United States this summer.  From the [Draken website:](https://www.drakenhh.com/east-coast-tour-2018/)
 
 *Beginning in June through October, plans for East Coast Tour 2018 currently consist of 15-18 stopovers spanning from Maine to South Carolina. Potential stopover locations to include major cities such as Boston, New York, Baltimore, Philadelphia, and Washington, D.C., as well as many top seasonal tourist destinations.*
 

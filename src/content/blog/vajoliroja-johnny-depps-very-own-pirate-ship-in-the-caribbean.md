@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "I ‘ve got to say that I prefer Neil Young’s and David Crosby’s taste in yachts somewhat better, but Johnny Depp’s Vajoliroja does have a certain idiosyncratic style. Johnny Depp’s very own pirate ship in the Caribbean … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/jdepp1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/jdepp1.jpg)
 
 I ‘ve got to say that I prefer Neil Young’s and David Crosby’s taste in yachts somewhat better, but Johnny Depp’s *Vajoliroja* does have a certain idiosyncratic style.
 

@@ -11,7 +11,7 @@ tags:
   - "Inspector Clouseau"
   - "Lady Elliot Island"
   - "pink manta ray"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/pinkmanta.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/pinkmanta.jpg"
 author: "Rick Spilman"
 description: "Now, for something completely different. The bright pink manta ray was first seen swimming in 2015, in the waters off Australia’s Lady Elliot Island, on the Great Barrier Reef. It has been seen only seven times since, making its most … Continue reading &rarr;"
 ---

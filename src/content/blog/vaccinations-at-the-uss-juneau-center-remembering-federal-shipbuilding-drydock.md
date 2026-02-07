@@ -18,12 +18,12 @@ tags:
   - "USS Juneau Memorial Center"
   - "world war I"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/ussjcenter.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/ussjcenter.jpg"
 author: "Rick Spilman"
 description: "My wife and I recently received the second of two shots of Covid-19 vaccine at a drive-through vaccination state set up at the USS Juneau Center, on the site of the old Federal Shipbuilding & Drydock Company in Kearny, NJ. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/fedshipbuilding.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/fedshipbuilding.jpg)
 
 Waiting in line for vaccinations at the site of Federal Shipbuilding. Manhattan skyline in the background.
 
@@ -47,4 +47,4 @@ After Federal Shipbuilding shut down in 1948, the site was used for [scrapping s
 
 The [USS Juneau Memorial Center](https://fusioncreative.com/work/uss-juneau-memorial-center-kearny-nj) was [dedicated in 2013](https://www.theobserver.com/2013/11/juneau-memorial-center-dedicated/), in the renovated fabrication shop and warehouse where the keel was laid for the USS *Juneau* in 1942.  The Office of Emergency Management command center occupies part of the mezzanine level while the 15,000 square foot garage space is used to give vaccinations. As of last week, the facility had given close to 13,000 shots.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/ussjcenter.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/ussjcenter.jpg)

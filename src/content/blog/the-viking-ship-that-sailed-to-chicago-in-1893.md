@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "In 1893, a copy of the Gokstad ship and sailed from Bergen, Norway to the World's Columbian Exposition in Chicago. The ship has survived to this day."
 ---
 
-![Viking 1893](http://www.oldsaltblog.com/wp-content/uploads/2016/07/viking1893.jpg)
+![Viking 1893](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/viking1893.jpg)
 
 Viking 1893
 

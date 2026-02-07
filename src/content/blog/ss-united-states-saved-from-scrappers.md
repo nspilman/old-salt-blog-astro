@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Wall Street Journal is reporting that an agreement has been reached between Norwegian Cruise Line and the SS United States Conservancy, a preservationist group, to save the SS United States from the scrap yard.    The Conservancy is reported to have agreed to pay NCL … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/ssusblueriband-150x143.jpg)](http://www.britishpathe.com/record.php?id=29936)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ssusblueriband-150x143.jpg)](http://www.britishpathe.com/record.php?id=29936)
 
 Click here to view British Pathe video of SS United State's record breaking maiden voyage
 

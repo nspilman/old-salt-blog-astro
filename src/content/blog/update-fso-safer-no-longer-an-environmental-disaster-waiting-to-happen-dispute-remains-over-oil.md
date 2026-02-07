@@ -17,12 +17,12 @@ tags:
   - "United Nations"
   - "Yemen"
   - "Yemeni civil war"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/fsosafer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/fsosafer.jpg"
 author: "Rick Spilman"
 description: "The FSO Safer is now considerably safer. A United Nations operation to transfer more than one million barrels of oil from the decaying floating oil storage vessel into another ship off the coast of Yemen has been completed.  Removal of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/fsosafer.jpg)The [FSO *Safer*](https://en.wikipedia.org/wiki/FSO_Safer) is now considerably safer. A [United Nations operation](https://www.imo.org/en/MediaCentre/HotTopics/Pages/FSO-SAFER-oil-spill-risk.aspx) to transfer more than one million barrels of oil from the decaying floating oil storage vessel into another ship off the coast of Yemen has been completed.  Removal of the oil began around July 14,  2023, and concluded on August 11, 2023.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/fsosafer.jpg)The [FSO *Safer*](https://en.wikipedia.org/wiki/FSO_Safer) is now considerably safer. A [United Nations operation](https://www.imo.org/en/MediaCentre/HotTopics/Pages/FSO-SAFER-oil-spill-risk.aspx) to transfer more than one million barrels of oil from the decaying floating oil storage vessel into another ship off the coast of Yemen has been completed.  Removal of the oil began around July 14,  2023, and concluded on August 11, 2023.
 
 The discharge of the oil from the decrepit vessel has been years in the making. In 2021, [we posted](https://www.oldsaltblog.com/2021/10/fso-safer-environmental-disaster-waiting-to-happen-in-the-red-sea-off-yemen/) that for several years, the FSO *Safer,* moored in the Red Sea north of the Yemeni city of Al Hudaydah, was a likely environmental disaster waiting to happen. 
 

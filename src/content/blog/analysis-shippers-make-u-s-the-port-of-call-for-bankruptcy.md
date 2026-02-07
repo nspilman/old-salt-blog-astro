@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In the mid to late 19th century, American clipper ships set the standard for the world and challenged the maritime supremacy of Great Britain.  After World War II, the US merchant marine fleet was the world’s largest, representing about 43 percent of the world’s shipping trade. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/dbpix-dealprof-shipping-tma.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/dbpix-dealprof-shipping-tma.jpg)
 
 Graphic: Harry Campbell
 

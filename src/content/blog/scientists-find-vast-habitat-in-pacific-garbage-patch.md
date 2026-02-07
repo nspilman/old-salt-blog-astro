@@ -11,12 +11,12 @@ tags:
   - "Ocean Voyages Institute"
   - "plastic"
   - "University of Hawaii at Manoa"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/pgarbagepatch.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/pgarbagepatch.jpg"
 author: "Rick Spilman"
 description: "The BBC is reporting that scientists have discovered marine animals living on plastic debris in an area of the open ocean dubbed \"the Great Pacific Garbage Patch\". Many of the creatures are coastal species, living miles from their usual habitats, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/pgarbagepatch.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/pgarbagepatch.jpg)
 
 Photo: Ocean Voyages Institute
 

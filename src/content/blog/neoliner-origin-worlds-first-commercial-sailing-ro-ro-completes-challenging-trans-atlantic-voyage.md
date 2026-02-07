@@ -14,12 +14,12 @@ tags:
   - "Neoline"
   - "Neoliner Origin"
   - "RMK Marine Shipyard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/10/neolinemaidenv.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/neolinemaidenv.jpg"
 author: "Rick Spilman"
 description: "The world’s first commercial sailing ro/ro, the 136-meter Neoliner Origin, arrived in the Port of Baltimore on October 30, 2025, completing a challenging trans-Atlantic maiden voyage from Saint-Nazaire, France.   According to Neoline, two days into the voyage, the top … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/10/neolinemaidenv.jpg)The world’s first commercial sailing ro/ro, the 136-meter [*Neoliner Origin*](https://www.neoline.eu/en/our-services/#navire), arrived in the Port of Baltimore on October 30, 2025, completing a challenging trans-Atlantic maiden voyage from Saint-Nazaire, France.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/10/neolinemaidenv.jpg)The world’s first commercial sailing ro/ro, the 136-meter [*Neoliner Origin*](https://www.neoline.eu/en/our-services/#navire), arrived in the Port of Baltimore on October 30, 2025, completing a challenging trans-Atlantic maiden voyage from Saint-Nazaire, France.  
 
 According to [Neoline](https://www.neoline.eu/en/), two days into the voyage, the top panel on the aft main sail, one of the ship’s four sails, was damaged during a severe Atlantic storm. The *Neoliner Origin* continued its journey in hybrid mode, sailing on the undamaged forward mast sails along with its diesel-electric engine power. 
 

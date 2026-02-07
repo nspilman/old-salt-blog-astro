@@ -12,12 +12,12 @@ tags:
   - "Falls of Clyde"
   - "Hawaii"
   - "Honolulu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg"
 author: "Rick Spilman"
 description: "Earlier this month we posted that the State of Hawaii Department of Transportation (HDOT) Harbors Division had filed a public notification that the historic windjammer, Falls of Clyde, was being offered for sale by auction. The auction ended yesterday with no successful … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg)Earlier this month we posted that the State of Hawaii Department of Transportation (HDOT) Harbors Division had filed a [public notification](http://hidot.hawaii.gov/blog/2019/02/07/notice-of-public-auction-for-the-falls-of-clyde/?platform=hootsuite) that the historic windjammer, [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), was being offered for sale by auction. The auction ended yesterday with no successful bidders. In fact, there were no real bidders at all. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/Falls_of_Clyde200.jpg)Earlier this month we posted that the State of Hawaii Department of Transportation (HDOT) Harbors Division had filed a [public notification](http://hidot.hawaii.gov/blog/2019/02/07/notice-of-public-auction-for-the-falls-of-clyde/?platform=hootsuite) that the historic windjammer, [*Falls of Clyde*](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)), was being offered for sale by auction. The auction ended yesterday with no successful bidders. In fact, there were no real bidders at all. 
 
 [The StarAdvertizer](https://www.staradvertiser.com/2019/02/28/breaking-news/state-no-successful-bids-received-for-the-falls-of-clyde/) reports that the only bid that came in writing turned out to be a joke — a typed letter mailed through the U.S. Postal Service offering 25 cents signed by someone purporting to be Vladimir Putin, president of Russia. It came with a quarter taped to the letter but did not include the $1.5 million performance bond required by the state Harbors Division.
 

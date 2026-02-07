@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On Friday morning, we posted about the capsize of the \"tugboat\" Katherine G, off Liberty Island  in New York harbor.  It turns out that the Katherine G is not  tugboat in the conventional sense.  Will Van Dorp at the tugster blog calls it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/0aaaaaakatg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/0aaaaaakatg.jpg)
 
 Katherine G Photo: Will Van Dorp
 

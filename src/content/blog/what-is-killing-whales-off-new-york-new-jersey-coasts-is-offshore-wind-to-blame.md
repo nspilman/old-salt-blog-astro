@@ -12,12 +12,12 @@ tags:
   - "new york"
   - "NOAA"
   - "offshore wind farms"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the burial of the carcass of a beached humpback whale in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month. Overall nine dead whales … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg)We recently [posted about the burial of the carcass of a beached humpback whale](https://www.oldsaltblog.com/2023/01/humpback-whale-burial-draws-crowd-to-atlantic-city-beach/) in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month. Overall nine dead whales have washed ashore on the coast of New York and New Jersey in the last two months. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/01/atlanticcityhumpback.jpg)We recently [posted about the burial of the carcass of a beached humpback whale](https://www.oldsaltblog.com/2023/01/humpback-whale-burial-draws-crowd-to-atlantic-city-beach/) in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month. Overall nine dead whales have washed ashore on the coast of New York and New Jersey in the last two months. 
 
 The dead whales have prompted several [New Jersey GOP lawmakers to question whether the deaths](https://www.cnn.com/2023/01/20/us/whale-deaths-offshore-wind-climate/index.html) were linked to the future development of a major proposed [offshore wind farm](https://www.cnn.com/2022/01/12/politics/clean-energy-offshore-wind-biden-administration/index.html) in the area.  Fox News host Tucker Carlson went further, blaming the wind project for the death of the whales and calling offshore wind “the DDT of our times.” 
 

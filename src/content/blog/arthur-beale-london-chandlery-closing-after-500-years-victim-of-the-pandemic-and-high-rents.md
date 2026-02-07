@@ -13,12 +13,12 @@ tags:
   - "John Buckinghams"
   - "london"
   - "yacht-chandler"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/arthurbeale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/arthurbeale.jpg"
 author: "Rick Spilman"
 description: "London’s yacht-chandler Arthur Beale will close its doors on June 24, after being in business for more than 500 years. Located on Shaftesbury Avenue, in what is now London’s West End, the store is shutting down due to high rents and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/arthurbeale-200x200.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/arthurbeale-200x200.jpg)
 
 London’s yacht-chandler [Arthur Beale](https://en.wikipedia.org/wiki/Arthur_Beale) will close its doors on June 24, after being in business for more than 500 years. Located on Shaftesbury Avenue, in what is now London’s West End, the store is shutting down due to high rents and the impact of the pandemic.
 

@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/lingbow1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/lingbow1.jpg"
 author: "Rick Spilman"
 description: "A month after the WWI era submarine USS Ling was vandalized and flooded, two suspects have been apprehended related to at least some of the vandalism. The complaints filed against them by the Hackensack Police may, however, raise more questions … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/lingbow1.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/lingbow1.jpg)
 
 Photo: Paul Clayton
 

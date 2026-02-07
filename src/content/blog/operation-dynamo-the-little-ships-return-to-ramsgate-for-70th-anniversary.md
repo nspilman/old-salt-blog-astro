@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "This Wednesday the surviving \"Little Ships\" of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/sundowner-little-ship.jpg)This Wednesday the surviving [“Little Ships” of the Dunkirk evacuation](http://www.adls.org.uk/t1/content/70th-anniversary-commemorative-return-dunkirk) will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed [Operation Dynamo](http://en.wikipedia.org/wiki/Dunkirk_evacuation).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/sundowner-little-ship.jpg)This Wednesday the surviving [“Little Ships” of the Dunkirk evacuation](http://www.adls.org.uk/t1/content/70th-anniversary-commemorative-return-dunkirk) will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed [Operation Dynamo](http://en.wikipedia.org/wiki/Dunkirk_evacuation).
 
 [Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations](http://www.kentonline.co.uk/kentonline/news/2010/may/19/little_ships_gather_in_ramsgat.aspx)  
   

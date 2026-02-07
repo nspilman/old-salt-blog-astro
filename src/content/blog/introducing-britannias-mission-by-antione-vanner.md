@@ -10,7 +10,7 @@ categories:
 tags:
   - "Antione Vanner"
   - "Britannia's Mission"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/britanniasmission.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/britanniasmission.jpg"
 author: "Rick Spilman"
 description: "A short video introduction by Antione Vanner to his latest historical naval adventure novel, Britannia’s Mission, set in 1883. Vanner’s \"Dawlish Chronicles\" series of naval adventures are set in the late Victorian era when technological progress was more rapid than at … Continue reading &rarr;"
 ---

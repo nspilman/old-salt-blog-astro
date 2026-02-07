@@ -5,12 +5,12 @@ slug: "don-walsh-record-breaking-deep-sea-naval-explorer-dies-at-92"
 excerpt: "Don Walsh, a pioneering US Navy explorer, died on Nov. 12 at his home in Myrtle Point, Ore. He was 92. On Jan. 23, 1960, Walsh was a Navy lieutenant in command of the bathyscaphe Trieste, when he and Swiss … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/donwalshtrieste.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/donwalshtrieste.jpg"
 author: "Rick Spilman"
 description: "Don Walsh, a pioneering US Navy explorer, died on Nov. 12 at his home in Myrtle Point, Ore. He was 92. On Jan. 23, 1960, Walsh was a Navy lieutenant in command of the bathyscaphe Trieste, when he and Swiss … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/donwalshtrieste.jpg)[Don Walsh](https://www.nytimes.com/2023/11/18/us/don-walsh-dead.html), a pioneering US Navy explorer, died on Nov. 12 at his home in Myrtle Point, Ore. He was 92. On Jan. 23, 1960, Walsh was a Navy lieutenant in command of the [bathyscaphe](https://en.wikipedia.org/wiki/Trieste_\(bathyscaphe\)) *Trieste,* when he and Swiss oceanographer [Jacques Piccard](https://en.wikipedia.org/wiki/Jacques_Piccard) dove to the bottom of the [Challenger Deep](https://en.wikipedia.org/wiki/Challenger_Deep) in the [Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench), reaching and measuring the deepest point in the world’s oceans.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/donwalshtrieste.jpg)[Don Walsh](https://www.nytimes.com/2023/11/18/us/don-walsh-dead.html), a pioneering US Navy explorer, died on Nov. 12 at his home in Myrtle Point, Ore. He was 92. On Jan. 23, 1960, Walsh was a Navy lieutenant in command of the [bathyscaphe](https://en.wikipedia.org/wiki/Trieste_\(bathyscaphe\)) *Trieste,* when he and Swiss oceanographer [Jacques Piccard](https://en.wikipedia.org/wiki/Jacques_Piccard) dove to the bottom of the [Challenger Deep](https://en.wikipedia.org/wiki/Challenger_Deep) in the [Mariana Trench](https://en.wikipedia.org/wiki/Mariana_Trench), reaching and measuring the deepest point in the world’s oceans.
 
 Walsh and Piccard spent 20 minutes at the ocean floor, taking measurements and peering through the super-fortified viewing holes in the Trieste. What they saw opened new frontiers in deep-sea marine biology. They reported spotting fish, shrimp, and jellyfish at depths below 30,000 feet. The observations were the first eyewitness clues to the range of life that could survive in the most extreme depths.
 

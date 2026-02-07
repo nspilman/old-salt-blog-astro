@@ -6,12 +6,12 @@ excerpt: "In the end of August, we posted about the Obama administration‘s fou
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/rossseasanct.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/rossseasanct.jpg"
 author: "Rick Spilman"
 description: "In the end of August, we posted about the Obama administration‘s four-fold expansion of the Papahānaumokuākea Marine National Monument,a marine sanctuary northwest of the main Hawaiian Islands. Now, twenty-four countries and the European Union have reached an agreement to establish … Continue reading &rarr;"
 ---
 
-![rossseasanct](http://www.oldsaltblog.com/wp-content/uploads/2016/10/rossseasanct.jpg)In the end of August, [we posted about the Obama administration](http://www.oldsaltblog.com/2016/08/obama-expands-papahanaumokuakea-largest-marine-sanctuary-longest-name/)‘s four-fold expansion of the [Papahānaumokuākea Marine National Monument](http://www.papahanaumokuakea.gov/),a marine sanctuary northwest of the main Hawaiian Islands. Now, twenty-four countries and the European Union have reached an agreement to establish the [world’s largest marine sanctuary in Antarctica’s Ross Sea](http://www.npr.org/sections/thetwo-way/2016/10/28/499717685/nations-reach-deal-to-establish-worlds-largest-marine-reserve).
+![rossseasanct](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/rossseasanct.jpg)In the end of August, [we posted about the Obama administration](http://www.oldsaltblog.com/2016/08/obama-expands-papahanaumokuakea-largest-marine-sanctuary-longest-name/)‘s four-fold expansion of the [Papahānaumokuākea Marine National Monument](http://www.papahanaumokuakea.gov/),a marine sanctuary northwest of the main Hawaiian Islands. Now, twenty-four countries and the European Union have reached an agreement to establish the [world’s largest marine sanctuary in Antarctica’s Ross Sea](http://www.npr.org/sections/thetwo-way/2016/10/28/499717685/nations-reach-deal-to-establish-worlds-largest-marine-reserve).
 
 “The Ross Sea is widely considered to be the last great wilderness area on Earth and known as the polar ‘Garden of Eden’,” according to a statement from the United Nations Environment Programme. The area is home to “50 per cent of ecotype-C killer whales (also known as the Ross Sea orca), 40 per cent of Adélie penguins, and 25 per cent of emperor penguins.”
 

@@ -8,12 +8,12 @@ categories:
 tags:
   - "shantymen"
   - "Sheringham Shantymen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/shantymen.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/shantymen.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about a virtual chantey sing this Sunday, organized by New York’s South Street Seaport Museum. Here is a slightly different take on a virtual shanty sing. The Sheringham Shantymen are celebrating their 30th anniversary and they are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/shantymen.jpg)Yesterday, we posted about a [virtual chantey sing this Sunday, organized by New York’s South Street Seaport Museum.](http://www.oldsaltblog.com/2020/04/virtual-shanty-chantey-sing-part-1-south-street-seaport/) Here is a slightly different take on a virtual shanty sing.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/shantymen.jpg)Yesterday, we posted about a [virtual chantey sing this Sunday, organized by New York’s South Street Seaport Museum.](http://www.oldsaltblog.com/2020/04/virtual-shanty-chantey-sing-part-1-south-street-seaport/) Here is a slightly different take on a virtual shanty sing.
 
 The [Sheringham Shantymen](https://www.shantymen.com/) are celebrating their 30th anniversary and they are inviting everyone to join in an on-line singalong. The group has recorded their version of the shanty, “Drunken Sailor” and invites you to sing with them.  Here’s how it works:
 

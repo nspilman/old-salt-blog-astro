@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "This August 26th will be the one hundredth anniversary of Mother Teresa‘s birth.  The Empire State Building in New York City changes its lighting for major holidays and special events.  The Catholic League has requested that the building be lit blue and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/nunsintrepid.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/nunsintrepid.jpg)
 
 photo: Christina Sun
 

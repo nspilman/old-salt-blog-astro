@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The America's Cup soap opera continues, with all the twists and turns one might expect and few that are a complete surprise."
 ---
 
-![oraclepitchpole](http://www.oldsaltblog.com/wp-content/uploads/2015/04/oraclepitchpole.jpg)The America’s Cup soap opera continues, with all the twists and turns one might expect and few that are a complete surprise.  As in any soap opera, it has its share of betrayals, broken promises, jilted lovers, illicit liaisons and the switching of partners. It remains to be seen whether the soap opera’s plot twists will end up hurting the races.
+![oraclepitchpole](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/oraclepitchpole.jpg)The America’s Cup soap opera continues, with all the twists and turns one might expect and few that are a complete surprise.  As in any soap opera, it has its share of betrayals, broken promises, jilted lovers, illicit liaisons and the switching of partners. It remains to be seen whether the soap opera’s plot twists will end up hurting the races.
 
 Last December it was revealed that the 35th edition of the [America’s Cup to be held in 2017](http://en.wikipedia.org/wiki/2017_America's_Cup) will be sailed in Bermuda. The previous June, it had also been announced that the races would be sailed in 62 foot long foiling catamarans, AC62s. Aside from a few raised eyebrows over the American defender choosing a foreign harbor as the race venue, things seemed to be moving along, more or less. Six teams, including the defender, were scheduled to compete.
 

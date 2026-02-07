@@ -13,12 +13,12 @@ tags:
   - "Maiquetía"
   - "Russia"
   - "Venezuela"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/flinterpol.jpg"
 author: "Rick Spilman"
 description: "In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as \"Fat Leonard,\" escaped from house arrest in his San Diego home and fled the country. The Malaysian businessman is … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg)In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as “[Fat Leonard](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/),” escaped from [house arrest in his San Diego home](https://www.oldsaltblog.com/2022/09/breaking-news-fat-leonard-escapes-house-arrest/) and fled the country. The Malaysian businessman is the center of the [largest bribery scandal in US Navy history.](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/flinterpol.jpg)In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as “[Fat Leonard](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/),” escaped from [house arrest in his San Diego home](https://www.oldsaltblog.com/2022/09/breaking-news-fat-leonard-escapes-house-arrest/) and fled the country. The Malaysian businessman is the center of the [largest bribery scandal in US Navy history.](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/)
 
 Now, [USNI News](https://news.usni.org/2022/09/22/interpol-fat-leonard-arrested-in-venezuela-trying-to-flee-to-russia) reports that authorities in Venezuela arrested “Fat Leonard” Francis as he attempted to board a plane to Russia, officials said late Wednesday.
 

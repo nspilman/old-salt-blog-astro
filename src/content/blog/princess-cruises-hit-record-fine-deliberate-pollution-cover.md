@@ -15,12 +15,12 @@ tags:
   - "pollution"
   - "Princess Cruise Line"
   - "Royal Caribbean"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/cp200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/cp200.jpg"
 author: "Rick Spilman"
 description: "The Justice Department has announced that Princess Cruise Lines will pay a record $40 million fine for \"deliberate pollution of the seas and intentional acts to cover it up\" in what it called \"the largest-ever criminal penalty involving deliberate vessel … Continue reading &rarr;"
 ---
 
-![Caribbean Princess Photo: Yankeesman312](http://www.oldsaltblog.com/wp-content/uploads/2016/12/cp1.jpg)
+![Caribbean Princess Photo: Yankeesman312](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/cp1.jpg)
 
 Caribbean Princess Photo: Yankeesman312
 

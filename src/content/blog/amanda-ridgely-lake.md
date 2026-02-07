@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Sad news regarding a a remarkable woman and sailor. Amanda Ridgely Lake Amanda Ridgely Lake died in her home in Fairhaven, MA on August 19. Ms. Lake was 44.  Ms. Lake was only one of a handful of women to … Continue reading &rarr;"
 ---
 
-![amanda-lake](http://www.oldsaltblog.com/wp-content/uploads/2009/09/amanda-lake-150x192.jpg)Sad news regarding a a remarkable woman and sailor.
+![amanda-lake](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/amanda-lake-150x192.jpg)Sad news regarding a a remarkable woman and sailor.
 
 [Amanda Ridgely Lake](http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20090913/NEWS03/909130322/-1/NEWSMAP#STS=fzjy4lau.1ep2&shr=1)
 

@@ -5,7 +5,7 @@ slug: "uss-ling-abandoned-flooded-stuck-in-the-mud"
 excerpt: "USS Ling is a US Navy Balao-class submarine. The sub is currently sitting in the mud in the Hackensack River at the former location of the defunct New Jersey Naval Museum in Hackensack, New Jersey. The Ling has no access … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/ling2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/ling2.jpg"
 author: "Rick Spilman"
 description: "USS Ling is a US Navy Balao-class submarine. The sub is currently sitting in the mud in the Hackensack River at the former location of the defunct New Jersey Naval Museum in Hackensack, New Jersey. The Ling has no access … Continue reading &rarr;"
 ---

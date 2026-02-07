@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Ocean rowing has got to be one of the most physically demanding of all sports.  In addition to the physical labor of fighting the wind and seas, salt water sores and chafing are reported to be a big problem.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/teamhallin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/teamhallin.jpg)
 
 Team Hallin - Fully Clothed
 

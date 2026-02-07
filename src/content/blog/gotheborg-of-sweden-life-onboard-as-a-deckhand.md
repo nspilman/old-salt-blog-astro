@@ -11,7 +11,7 @@ tags:
   - "deckhand"
   - "Götheborg"
   - "Götheborg of Sweden"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/crewgothenburg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/crewgothenburg.jpg"
 author: "Rick Spilman"
 description: "A short video that seeks to answer the question, what is it like to sail onboard Götheborg of Sweden as a deckhand? Have a look at what happens onboard: From bringing your passport when you sign on, to rig training, … Continue reading &rarr;"
 ---

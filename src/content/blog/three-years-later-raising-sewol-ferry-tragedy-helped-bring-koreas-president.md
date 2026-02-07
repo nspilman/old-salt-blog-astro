@@ -14,7 +14,7 @@ tags:
   - "President Park"
   - "salvage"
   - "Sewol"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/sewolsalvage.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/sewolsalvage.jpg"
 author: "Rick Spilman"
 description: "On April 16, 2014, the cargo/passenger ferry Sewol capsized off the southwestern coast of Korea. Of the 476 passengers and crew aboard, 304 died, the majority of which were high school students on a school field trip. Now, almost three … Continue reading &rarr;"
 ---

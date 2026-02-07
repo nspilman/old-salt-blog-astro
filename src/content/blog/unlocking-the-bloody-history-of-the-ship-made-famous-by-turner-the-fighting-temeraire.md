@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Sam Willis has written what appears to be a fascinating book – Fighting Temeraire. J.M.W. Turner’s painting, The Fighting Temeraire Tugged to her Last Berth to be Broken Up,  hangs in the National Gallery in Trafalgar Square and was recently … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/fightingtemeraire.jpg)](http://www.amazon.com/gp/product/1847249981?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847249981)Sam Willis has written what appears to be a fascinating book – [*Fighting Temeraire*](http://www.amazon.com/gp/product/1847249981?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847249981).
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/fightingtemeraire.jpg)](http://www.amazon.com/gp/product/1847249981?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847249981)Sam Willis has written what appears to be a fascinating book – [*Fighting Temeraire*](http://www.amazon.com/gp/product/1847249981?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847249981).
 
 J.M.W. Turner’s painting, [*The Fighting Temeraire Tugged to her Last Berth to be Broken Up*](http://en.wikipedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg),  hangs in the National Gallery in Trafalgar Square and was recently voted to be Britain’s favorite painting, by a landslide, in a BBC4 poll.   Sam Willis, a naval historian known for his previous books [*Fighting Ships 1750-1850*](http://www.amazon.com/gp/product/1847241719?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847241719) and [*Fighting at Sea in the Eighteenth Century*](http://www.amazon.com/gp/product/1843833670?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1843833670), writes that despite the popularity of Turner’s work, ”few people know anything of life on board, or of the terrible sacrifices made by her crew…  I decided to write a book about the [*Fighting Temeraire*](http://www.amazon.com/gp/product/1847249981?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1847249981) – a choice, in part, inspired by Turner’s great painting.”
 
@@ -31,7 +31,7 @@ Willis has quite a tale to tell. In yesterday’s [Daily Mail](http://www.dailym
 
 *Already the sails high above were riddled with chain shot from the French warships, but it was there, on the crowded gundecks that a brutal slaughter was unfolding.   In the hellish tempest of the Battle of Trafalgar, in an act of almost suicidal valour, the Temeraire’s captain chose to draw fire away from the Victory, in which Nelson lay dying.*
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/temeraire.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/01/temeraire.jpg)Click to see a larger image
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/temeraire.jpg)](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/temeraire.jpg)Click to see a larger image
 
 *The Temeraire survived the horrific storm that followed the battle and eventually limped home.*
 

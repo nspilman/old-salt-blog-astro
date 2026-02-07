@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The worst way to determine the position of a previously uncharted seamount is to run into it underwater. That is apparently what happened to the Seawolf-class attack submarine, USS Connecticut, when it hit an object while submerged on October 2.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/connecticut.jpg)The worst way to determine the position of a previously uncharted seamount is to run into it underwater. That is apparently what happened to the [Seawolf-class](https://en.wikipedia.org/wiki/Seawolf-class_submarine) attack submarine, [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)), when it hit an object while submerged on October 2.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg)The worst way to determine the position of a previously uncharted seamount is to run into it underwater. That is apparently what happened to the [Seawolf-class](https://en.wikipedia.org/wiki/Seawolf-class_submarine) attack submarine, [USS *Connecticut*](https://en.wikipedia.org/wiki/USS_Connecticut_\(SSN-22\)), when it hit an object while submerged on October 2.  
 
 “The investigation determined USS *Connecticut* grounded on an uncharted seamount while operating in international waters in the Indo-Pacific region,” 7th Fleet spokesperson Cmdr. Hayley Sims told [USNI News](https://news.usni.org/2021/11/01/investigation-concludes-uss-connecticut-grounded-on-uncharted-sea-mount-in-south-china-sea) in a Monday afternoon statement following an earlier version of this post. “Commander, U.S. 7th Fleet will determine whether follow-on actions, including accountability, are appropriate.”
 

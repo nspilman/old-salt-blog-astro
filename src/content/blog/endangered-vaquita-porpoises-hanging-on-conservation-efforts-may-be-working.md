@@ -13,12 +13,12 @@ tags:
   - "Mexico"
   - "porpoise"
   - "Vaquita"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg"
 author: "Rick Spilman"
 description: "Great News. The vaquita porpoise, the world’s rarest marine mammal, swimming right on the edge of extinction, appears to be hanging on. Conservation measures in Mexico to save the endangered porpoise may be working.     The New York Times reports … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/vaquita.jpg)Great News. The [vaquita](https://www.worldwildlife.org/species/vaquita) porpoise, the world’s rarest marine mammal, swimming right on the edge of extinction, appears to be hanging on. Conservation measures in Mexico to save the endangered porpoise may be working.    
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/vaquita.jpg)Great News. The [vaquita](https://www.worldwildlife.org/species/vaquita) porpoise, the world’s rarest marine mammal, swimming right on the edge of extinction, appears to be hanging on. Conservation measures in Mexico to save the endangered porpoise may be working.    
 
 The [New York Times](https://www.nytimes.com/2023/06/07/climate/vaquitas.html?smid=nytcore-android-share) reports that an international team of scientists estimated that at least 10 vaquitas remain in the Gulf of California, the waters that separate Baja California from the Mexican mainland. The porpoises are found nowhere else and have been driven to the brink of extinction by drowning in gill nets, a type of fishing gear that drifts like a huge mesh curtain, catching fish by their gills. Dolphins, sea turtles, and vaquitas get stuck, too, dying when they can’t surface to breathe.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "We recently posted about the tanker Mary A. Whalen‘s 80th birthday. The historic lighthouse tender Lilac is also celebrating her 85th birthday.  2018 Season Opening — 85th Birthday with Cake  The ex-USCG Cutter Lilac, originally built for the U.S. Lighthouse Service, was launched on May … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/bowspritelilac.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/bowspritelilac.jpg)
 
 We recently [posted about the tanker *Mary A. Whalen*‘s 80th birthday](http://www.oldsaltblog.com/2018/05/mary-a-whalen-80th-birthday-art-inspiration-day-birthday-tanker-tours/). The historic [lighthouse tender *Lilac*](http://www.lilacpreservationproject.org/) is also celebrating her 85th birthday. 
 

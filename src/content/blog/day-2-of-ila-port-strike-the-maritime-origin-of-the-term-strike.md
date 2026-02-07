@@ -14,12 +14,12 @@ tags:
   - "London Strikes of 1768"
   - "strike"
   - "US Maritime Alliance"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/containerterm.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/containerterm.jpg"
 author: "Rick Spilman"
 description: "We are now in day 2 of the first International Longshoremen’s Association (ILA) strike in almost 50 years. The ILA represents 45,000 dockworkers at 36 ports from Maine to Texas on the East and Gulf coasts of the United States. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/containerterm.jpg)We are now in day 2 of the first [International Longshoremen’s Association](https://ilaunion.org/) (ILA) strike in almost 50 years. The ILA represents 45,000 dockworkers at 36 ports from Maine to Texas on the East and Gulf coasts of the United States. The strike is over wages and the use of automation on the docks.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/containerterm.jpg)We are now in day 2 of the first [International Longshoremen’s Association](https://ilaunion.org/) (ILA) strike in almost 50 years. The ILA represents 45,000 dockworkers at 36 ports from Maine to Texas on the East and Gulf coasts of the United States. The strike is over wages and the use of automation on the docks.
 
 The two sides are attempting to negotiate a six-year master contract between ILA port workers employed in container and roll-on/roll-off operations, and the [US Maritime Alliance](https://www.usmx.com/), known as USMX, representing shipping firms, port associations, and marine terminal operators.
 

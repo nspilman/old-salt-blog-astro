@@ -16,12 +16,12 @@ tags:
   - "Ukraine"
   - "uncrewed surface vessels"
   - "USV"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/navaldrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/navaldrone.jpg"
 author: "Rick Spilman"
 description: "At the end of October, Russia announced that Ukraine had launched the \"most massive attack by drones and remotely piloted surface vehicles on the waters of the Bay of Sevastopol in the history of the conflict.\" Unconfirmed sources claim that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/navaldrone.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/navaldrone.jpg)
 
 USV that washed ashore in Crimea in September
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last night was clear and bitterly cold in New York harbor.  Wind chill from the northwesterly breeze made the temperature feel like it was in the single digits.  A new layer of snow from a storm two days before added … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/201101_fireworks7_AP.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/201101_fireworks7_AP.jpg)
 
 Queen Mary 2, Queen Victoria and Queen Elizabeth sail past the Statue of Liberty
 

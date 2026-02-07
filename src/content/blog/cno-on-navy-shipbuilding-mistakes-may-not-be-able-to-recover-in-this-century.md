@@ -14,12 +14,12 @@ tags:
   - "Littoral Combat Ship"
   - "shipbuilding"
   - "Zumwalt destroyer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/cnolcs.jpg"
 author: "Rick Spilman"
 description: "The US Chief of Naval Operations Adm. Mike Gilday was blunt when he was recently quoted saying, \"I don’t mean to be dramatic, but I feel like if the Navy loses its head, if we go off course and we … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/cnolcs.jpg)
 
 Chief of Naval Operations Adm. Mike Gilday aboard the littoral combat ship USS Detroit
 

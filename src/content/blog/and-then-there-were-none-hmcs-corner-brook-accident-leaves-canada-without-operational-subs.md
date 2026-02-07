@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Canada’s hunter killer submarine, HMCS Corner Brook, limped back to base last weekend after running aground during a  training exercise in the waters of Nootka Sound off the central east coast of Vancouver Island.  The accident leaves Canada without an operational submarine.  Canada’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/300px-HMCS_Corner_Brook.jpg)Canada’s hunter killer submarine, [HMCS *Corner Brook*](http://en.wikipedia.org/wiki/HMCS_Corner_Brook_\(SSK_878\)), limped back to base last weekend after running aground during a  training exercise in the waters of Nootka Sound off the central east coast of Vancouver Island.  The accident leaves Canada without an operational submarine.  Canada’s other three are also out of service.  Oops.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/300px-HMCS_Corner_Brook.jpg)Canada’s hunter killer submarine, [HMCS *Corner Brook*](http://en.wikipedia.org/wiki/HMCS_Corner_Brook_\(SSK_878\)), limped back to base last weekend after running aground during a  training exercise in the waters of Nootka Sound off the central east coast of Vancouver Island.  The accident leaves Canada without an operational submarine.  Canada’s other three are also out of service.  Oops.
 
 [Accident leaves Canada without operational submarines](http://www.bclocalnews.com/news/123251693.html)  
   

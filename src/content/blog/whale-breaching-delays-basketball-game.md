@@ -9,7 +9,7 @@ categories:
 tags:
   - "April Fools"
   - "whlae"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/whalebreachgym.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/whalebreachgym.jpg"
 author: "Rick Spilman"
 description: "They probably shouldn’t have built the gym over the water. Whale Breaches Before a Basketball Game Happy April Fool’s Day. … Continue reading &rarr;"
 ---

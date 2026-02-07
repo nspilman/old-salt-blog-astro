@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "Report: South Korean navy ship sinks A South Korean navy ship sank in the Yellow Sea near North Korea late Friday, and the navy shot at an unidentified ship toward the north, according to reports quoting South Korean government officials. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/cheonan.jpg)[Report: South Korean navy ship sinks](http://edition.cnn.com/2010/WORLD/asiapcf/03/26/south.korea.ship.sinking/index.html?iref=allsearch)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/cheonan.jpg)[Report: South Korean navy ship sinks](http://edition.cnn.com/2010/WORLD/asiapcf/03/26/south.korea.ship.sinking/index.html?iref=allsearch)
 
 *A South Korean navy ship sank in the Yellow Sea near North Korea late Friday, and the navy shot at an unidentified ship toward the north, according to reports quoting South Korean government officials.*  
   

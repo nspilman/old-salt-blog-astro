@@ -10,12 +10,12 @@ tags:
   - "Machias Seal Island"
   - "Maine"
   - "US Border Patrol"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/machiasseal.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/machiasseal.jpg"
 author: "Rick Spilman"
 description: "This summer, Canadian lobstermen are complaining of being harassed by US Border Patrol agents in speedboats as they fish in waters claimed by both Canada and the US off Machias Seal Island.  Since around 1733, the US and Canada have agreed … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/machiasseal.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/machiasseal.jpg)
 
 Machias Seal Island
 

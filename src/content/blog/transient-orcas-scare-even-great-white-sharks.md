@@ -9,12 +9,12 @@ tags:
   - "elephant seals"
   - "great white sharks"
   - "Transient orcas"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/transientorcas.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/transientorcas.jpg"
 author: "Rick Spilman"
 description: "A study published in Nature’s Scientific Reports documents that as ferocious as great white sharks can be, even the great whites are afraid of transient orcas. When the orcas swim by the Southeast Farallon Islands, off San Francisco, the great … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/transientorcas.jpg)A study published in [Nature’s Scientific Reports](https://www.nature.com/articles/s41598-019-39356-2) documents that as ferocious as great white sharks can be, even the great whites are afraid of transient orcas.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/transientorcas.jpg)A study published in [Nature’s Scientific Reports](https://www.nature.com/articles/s41598-019-39356-2) documents that as ferocious as great white sharks can be, even the great whites are afraid of transient orcas.
 
 When the orcas swim by the Southeast Farallon Islands, off San Francisco, the great white sharks flee the area and often do not return for up to a year, even though the killer whales are typically just passing through. Both the sharks and the orcas feed on elephant seals indigenous to the Farallons. In addition to feasting on seals, the transient orcas have been known to attack and eat great while sharks. Rather than compete with the killer whales for the seals, and possibly end up as dinner themselves, the sharks choose another hunting ground.
 

@@ -11,12 +11,12 @@ tags:
   - "oysters"
   - "Texas oyster beds"
   - "Texas Parks &amp; Wildlife Department"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg"
 author: "Rick Spilman"
 description: "The cumulative impact of hurricanes, floods, drought, and oil spills has had a devastating impact on Texas oyster beds. Across the Gulf Coast region, an estimated 50-85% of the original oyster reefs have disappeared, according to a report by the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/oysters.jpg)The cumulative impact of hurricanes, floods, drought, and oil spills has had a devastating impact on Texas oyster beds. Across the Gulf Coast region, an estimated 50-85% of the original oyster reefs have disappeared, according to a report by the [Nature Conservancy](https://www.nature.org/content/dam/tnc/nature/en/documents/OysterRestorationintheGulf.pdf). This has a major impact because the Gulf Coast region produces 45% of the nation’s $250 million oyster industry, [according to NOAA fisheries](https://media.fisheries.noaa.gov/2021-05/FUS2019-FINAL-webready-2.3.pdf?null=). In Texas, the [industry contributes an estimated $50 million](https://www.tamug.edu/seafoodsafetylab/Research/Vibrio%20Studies.html) to the state economy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oysters.jpg)The cumulative impact of hurricanes, floods, drought, and oil spills has had a devastating impact on Texas oyster beds. Across the Gulf Coast region, an estimated 50-85% of the original oyster reefs have disappeared, according to a report by the [Nature Conservancy](https://www.nature.org/content/dam/tnc/nature/en/documents/OysterRestorationintheGulf.pdf). This has a major impact because the Gulf Coast region produces 45% of the nation’s $250 million oyster industry, [according to NOAA fisheries](https://media.fisheries.noaa.gov/2021-05/FUS2019-FINAL-webready-2.3.pdf?null=). In Texas, the [industry contributes an estimated $50 million](https://www.tamug.edu/seafoodsafetylab/Research/Vibrio%20Studies.html) to the state economy.
 
 [NPR](https://www.npr.org/2022/04/29/1095333603/oyster-reefs-texas-disappearing-fishermen-fear-jobs?sc=18&f=1001) reports that 25 of Texas’ 27 harvesting areas are already closed. The season normally runs from Nov. 1 through April 30, but many of the areas have been closed since mid-December – a move the state says is necessary for future sustainability.
 

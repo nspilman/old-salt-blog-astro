@@ -13,12 +13,12 @@ tags:
   - "steel bark"
   - "William P. Frye"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/fryeship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/fryeship.jpg"
 author: "Rick Spilman"
 description: "On January 28, 1915, the US flag four-masted bark William P. Frye was sunk off the coast of Brazil by the Imperial German Navy raider SMS Prinz Eitel Friedrich. As a US-owned vessel, William P. Frye was a neutral ship. The US would … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/fryeship.jpg)On January 28, 1915, the US flag four-masted bark [*William P. Frye* was sunk](https://www.history.com/this-day-in-history/germans-sink-american-merchant-ship) off the coast of Brazil by the Imperial German Navy raider [SMS](https://en.wikipedia.org/wiki/SS_Prinz_Eitel_Friedrich_\(1904\)) *Prinz Eitel Friedrich.* As a US-owned vessel, *William P. Frye* was a neutral ship. The US would not enter the war until over two years later, in April 1917.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/fryeship.jpg)On January 28, 1915, the US flag four-masted bark [*William P. Frye* was sunk](https://www.history.com/this-day-in-history/germans-sink-american-merchant-ship) off the coast of Brazil by the Imperial German Navy raider [SMS](https://en.wikipedia.org/wiki/SS_Prinz_Eitel_Friedrich_\(1904\)) *Prinz Eitel Friedrich.* As a US-owned vessel, *William P. Frye* was a neutral ship. The US would not enter the war until over two years later, in April 1917.
 
 Nevertheless, because the bark had sailed with a cargo of wheat from Seattle, Washington bound for Falmouth, England, Max Thierichens, the commander of the German cruiser declared the cargo to be contraband, as it could be used to feed English troops. He demanded that the cargo be dumped overboard. The crew started discharging the approximately 5,000 tones of grain. When they had not completed the job by the next day, the German commander ordered all crew and passengers off the ship, had scuttling charges set, and sank the square-rigger. [*William P. Frye*](https://en.wikipedia.org/wiki/William_P._Frye_\(1901\)) was the first American vessel sunk during World War I.
 

@@ -13,12 +13,12 @@ tags:
   - "Mark Esper"
   - "Secretary of Defense"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg"
 author: "Rick Spilman"
 description: "Yesterday, senior Navy officials recommended that Captain Brett Crozier be reinstated as commander of the aircraft carrier USS Theodore Roosevelt. Captain Crozier was fired after a letter expressing concern about the health and safety of his crew in a shipboard … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/crozier.jpg)Yesterday, [senior Navy officials recommended that Captain Brett Crozier be reinstated](https://www.nytimes.com/2020/04/24/us/politics/coronavirus-navy-roosevelt-brett-crozier.html) as commander of the aircraft carrier USS *Theodore Roosevelt*. Captain Crozier was fired after a letter expressing concern about the health and safety of his crew in a shipboard coronavirus outbreak was leaked to the press.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/crozier.jpg)Yesterday, [senior Navy officials recommended that Captain Brett Crozier be reinstated](https://www.nytimes.com/2020/04/24/us/politics/coronavirus-navy-roosevelt-brett-crozier.html) as commander of the aircraft carrier USS *Theodore Roosevelt*. Captain Crozier was fired after a letter expressing concern about the health and safety of his crew in a shipboard coronavirus outbreak was leaked to the press.
 
 “Chief of Naval Operations Adm. Mike Gilday has presented recommendations to the acting secretary of the Navy, James McPherson,” the Navy said in a statement on Friday. “Secretary McPherson is continuing discussions with Secretary of Defense Mark Esper.”
 

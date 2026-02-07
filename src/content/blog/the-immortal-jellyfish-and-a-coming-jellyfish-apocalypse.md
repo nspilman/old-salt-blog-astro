@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "When Diana Nyad was stopped by repeated jellyfish stings in her most recent attempt to swim between Cuba and Florida, it brought to mind two articles, one about the discovery of the \"immortal jellyfish\" and another which raised the question … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/Northeast-Pacific-sea-nettl.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/Northeast-Pacific-sea-nettl.jpg)
 
 Photo: John Lee / Aurora Select
 

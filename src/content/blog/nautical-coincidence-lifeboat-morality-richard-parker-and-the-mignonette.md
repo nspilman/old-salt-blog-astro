@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/mignonette_lifeboat.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/mignonette_lifeboat.jpg)
 
 Lifeboat from the Mignonette
 

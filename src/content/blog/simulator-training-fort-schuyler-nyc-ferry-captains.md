@@ -12,7 +12,7 @@ tags:
   - "Fort Schyler"
   - "new york harbor"
   - "SUNY Maritime College"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/ferrysimulator.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/ferrysimulator.jpg"
 author: "Rick Spilman"
 description: "Captains on the new Citywide Ferry service in New York harbor are receiving training on a state-of-the-art simulator at SUNY Maritime College at Fort Schyler. … Continue reading &rarr;"
 ---

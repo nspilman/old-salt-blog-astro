@@ -12,12 +12,12 @@ tags:
   - "Maine"
   - "Maine Maritime Museum"
   - "Mary E"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/marye3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/marye3.jpg"
 author: "Rick Spilman"
 description: "One year ago, we posted that the schooner Mary E., the oldest surviving fishing schooner built at Bath, Maine would be returning home to the Kennebeck River where she was built in 1906. The Maine Maritime Museum purchased the schooner from her previous owner … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/marye3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/marye3.jpg)
 
 Mary E sailing into Bath, Maine.
 

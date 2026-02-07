@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "It appears that the question of where and on what the Costa Concordia ran aground is a bit more clear.  Wreckage, believed to be from the collision, has been photographed at Le Scole rock.  Thanks to Andy Hall at the Maritime Texas … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/s_c24_37251509.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/s_c24_37251509.jpg)
 
 This underwater photo taken on January 17, 2012 at the "Le Scole" rock shows twisted wreckage on the sea floor, left by the cruise liner Costa Concordia after it ran aground in front of the Isola del Giglio harbor. (AFP/Getty Images)
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Thursday morning, Nasco Diamond loaded with 55,000 tonnes of nickel ore from Indonesia to China was reported missing and believed to have sunk off the southern coast of Japan.  Five of the twenty five crew have been accounted for, with at least … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/Nasco-Diamond.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/Nasco-Diamond.jpg)
 
 Nasco Diamond
 

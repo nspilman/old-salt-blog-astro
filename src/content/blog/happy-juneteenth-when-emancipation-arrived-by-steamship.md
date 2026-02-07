@@ -19,12 +19,12 @@ tags:
   - "Union Navy ships"
   - "USS Cornubia"
   - "USS Preston"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/usscornubia.jpg"
 author: "Rick Spilman"
 description: "Happy Juneteenth, the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth National Independence Day is also the newest Federal holiday. The legislation, passed by both the House and Senate, was signed into law by … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/usscornubia.jpg)
 
 USS Cornubia, ex Lady Davis
 

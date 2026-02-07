@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Japanese artist Megumi Igarash has been arrested on charges related to a 3D printed plastic model of her vagina installed on a roto-mold kayak."
 ---
 
-![vaginaboat](http://www.oldsaltblog.com/wp-content/uploads/2015/01/vaginaboat.jpg)
+![vaginaboat](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/vaginaboat.jpg)
 
 Rokudenashiko in her vagina boat
 
@@ -23,7 +23,7 @@ Igarashi, who goes by the nickname Rokudenashiko (“the good for nothing girl�
 
 Shortly after the vagina kayak was launched, Rokudenashiko was arrested and charged with obscenity. She was released a few days later, only to be arrested again in December. She has been charged with distributing obscene material and could face up to two years in jail or a fine of roughly $20,000, if found guilty.
 
-![Kanamara Matsuri Festival 2014](http://www.oldsaltblog.com/wp-content/uploads/2015/01/kanamaramatsuri.jpg)
+![Kanamara Matsuri Festival 2014](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/kanamaramatsuri.jpg)
 
 Kanamara Matsuri Festival 2014
 

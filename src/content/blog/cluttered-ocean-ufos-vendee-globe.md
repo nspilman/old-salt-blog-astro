@@ -11,12 +11,12 @@ tags:
   - "UFOs"
   - "unidentified floating objects"
   - "Vendée Globe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg"
 author: "Rick Spilman"
 description: "The seas are growing increasingly cluttered.  In addition to all the other hazards of the sea, floating objects are a serious threat to sailors.  So far, of the  original 29 competitors in the Vendee Globe singlehanded around the world race, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/vg200.jpg)The seas are growing increasingly cluttered.  In addition to all the other hazards of the sea, floating objects are a serious threat to sailors.  So far, of the  original 29 competitors in the [Vendee Globe](http://www.vendeeglobe.org/en) singlehanded around the world race, 5 have been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. Another boat, *Hugo Boss*, sailed by Alex Thomson, [lost a foil daggerboard](http://www.sporten.com/news/objects-floating-around-in-the-vendee-globe) to a UFO, but has managed to keep sailing, and is now still in second place.  Three other Vendee Globe racers have retired for reasons not related to collisions — two due to dis-masting and the other from damage to a foil in heavy weather.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/vg200.jpg)The seas are growing increasingly cluttered.  In addition to all the other hazards of the sea, floating objects are a serious threat to sailors.  So far, of the  original 29 competitors in the [Vendee Globe](http://www.vendeeglobe.org/en) singlehanded around the world race, 5 have been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. Another boat, *Hugo Boss*, sailed by Alex Thomson, [lost a foil daggerboard](http://www.sporten.com/news/objects-floating-around-in-the-vendee-globe) to a UFO, but has managed to keep sailing, and is now still in second place.  Three other Vendee Globe racers have retired for reasons not related to collisions — two due to dis-masting and the other from damage to a foil in heavy weather.
 
 A rundown of the collisions with UFOs:  
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "On a winter’s day, when the temperature here on the banks of the Hudson River is in the low 30s F, but with the wind off the water feels more like the low 20s, there are many reasons to want … Continue reading &rarr;"
 ---
 
-![shipmainstar2](http://www.oldsaltblog.com/wp-content/uploads/2013/12/shipmainstar2.jpg)On a winter’s day, when the temperature here on the banks of the Hudson River is in the low 30s F, but with the wind off the water feels more like the low 20s, there are many reasons to want to pick up and move to sunny and warm, Southern California.  And now I’ve found one more — a press release, issued today, from the [Maritime Museum of San Diego](http://www.sdmaritime.org/).
+![shipmainstar2](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/shipmainstar2.jpg)On a winter’s day, when the temperature here on the banks of the Hudson River is in the low 30s F, but with the wind off the water feels more like the low 20s, there are many reasons to want to pick up and move to sunny and warm, Southern California.  And now I’ve found one more — a press release, issued today, from the [Maritime Museum of San Diego](http://www.sdmaritime.org/).
 
 *Have you ever wanted to learn to sail and maintain a tallship?*
 

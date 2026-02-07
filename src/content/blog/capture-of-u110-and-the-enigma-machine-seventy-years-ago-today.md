@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "On May 9, 1941, seventy years ago today, the German submarines U110 and U201 were attacking a British convoy in the Atlantic south of Iceland.   U110 was forced to surface after being depth changed and was abandoned by her crew who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/U-110_Entern.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/U-110_Entern.jpg)
 
 On May 9, 1941, seventy years ago today, the [German submarines U110 and U201](http://en.wikipedia.org/wiki/German_submarine_U-110_\(1940\)) were attacking a British convoy in the Atlantic south of Iceland.   U110 was forced to surface after being depth changed and was abandoned by her crew who thought that the submarine was sinking.  A boarding party from HMS *Bulldog* boarded the submarine and carried off its code books, ciphers and a Naval Enigma machine.   The Enigma machine and the documents allowed Alan Turing and his codebreakers at Bletchley Park to break the German Naval Enigma code, an  intelligence breakthrough which changed the course of the war in the Atlantic.
 

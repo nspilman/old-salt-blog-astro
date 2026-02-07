@@ -11,12 +11,12 @@ tags:
   - "Hurricane Ivan"
   - "longest-running offshore spill"
   - "Taylor Energy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/taylorspill.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/taylorspill.jpg"
 author: "Rick Spilman"
 description: "Seventeen years ago, Hurricane Ivan destroyed an oil-production platform in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may be one of the largest and longest-running offshore spills in US history.  Now, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/taylorspill.jpg)Seventeen years ago, Hurricane Ivan destroyed an oil-production platform in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may be one of the largest and longest-running offshore spills in US history. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/taylorspill.jpg)Seventeen years ago, Hurricane Ivan destroyed an oil-production platform in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may be one of the largest and longest-running offshore spills in US history. 
 
 Now, the [Department of Justice has announced](https://www.nytimes.com/2021/12/22/climate/taylor-energy-oil-spill-gulf.html) an agreement in which Louisiana-based Taylor Energy will pay $43 million in civil penalties and damages for a leak that has been releasing oil since 2004. The settlement, representing all of Taylor’s remaining available assets, will liquidate the firm.
 

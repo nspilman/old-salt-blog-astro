@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Much of the US is suffering under a \"polar vortex,\" which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
 ---
 
-![6blizzardback0114](http://www.oldsaltblog.com/wp-content/uploads/2014/01/6blizzardback0114.jpg)
+![6blizzardback0114](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/6blizzardback0114.jpg)
 
 Strolling on New York’s East River 1867
 

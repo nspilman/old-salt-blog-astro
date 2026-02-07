@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Today is National Donut Day. I was not aware that such a day existed until I bought a cup of coffee at Dunkin Donuts this morning and was offered a free donut in honor of the day. (I did not … Continue reading &rarr;"
 ---
 
-![Captain Hansen Gregory](http://www.oldsaltblog.com/wp-content/uploads/2015/06/captaingregorydonut.jpg)
+![Captain Hansen Gregory](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/captaingregorydonut.jpg)
 
 Captain Hansen Gregory
 

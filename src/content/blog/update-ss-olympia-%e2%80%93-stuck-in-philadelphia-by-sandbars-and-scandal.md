@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "Recently we posted that the Independence Seaport Museum is seeking a new owner for the USS Olympia which it cannot afford to support.  See Philly Museum Sends SOS to Care for Historic Ship.   Sadly it appears that not only … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/olympia2.jpg)Recently we posted that the [Independence Seaport Museum](http://www.phillyseaport.org/) is seeking a new owner for the *[USS Olympia](http://en.wikipedia.org/wiki/USS_Olympia_\(C-6\))* which it cannot afford to support.  See [Philly Museum Sends SOS to Care for Historic Ship](http://www.oldsaltblog.com/2010/02/27/philly-museum-sends-sos-to-care-for-historic-ship/#more-9395).   Sadly it appears that not only can’t the museum afford to keep the Olympia at dockside, but that it can’t afford to move it either.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/olympia2.jpg)Recently we posted that the [Independence Seaport Museum](http://www.phillyseaport.org/) is seeking a new owner for the *[USS Olympia](http://en.wikipedia.org/wiki/USS_Olympia_\(C-6\))* which it cannot afford to support.  See [Philly Museum Sends SOS to Care for Historic Ship](http://www.oldsaltblog.com/2010/02/27/philly-museum-sends-sos-to-care-for-historic-ship/#more-9395).   Sadly it appears that not only can’t the museum afford to keep the Olympia at dockside, but that it can’t afford to move it either.
 
 Historic ships steel-hulled ships should be drydocked for maintenance at least every twenty years. The *Olympia* has been in the water continuously for 56 years, since 1945.
 

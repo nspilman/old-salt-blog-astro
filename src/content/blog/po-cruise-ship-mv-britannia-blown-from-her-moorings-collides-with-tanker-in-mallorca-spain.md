@@ -15,12 +15,12 @@ tags:
   - "Palma de Mallorca"
   - "Spain"
   - "the Castillo de Arteaga"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/pobritannia.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/pobritannia.jpg"
 author: "Rick Spilman"
 description: "The P&O cruise ship MV Britannia was blown from her dockside moorings in Mallorca, Spain on Sunday during a sudden and intense storm. The ship drifted across the harbor and collided with a moored oil tanker, the Castillo de Arteaga. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/pobritannia.jpg)The P&O cruise ship [MV *Britannia*](https://en.wikipedia.org/wiki/MV_Britannia_\(2014\)) was blown from her dockside moorings in Mallorca, Spain on Sunday during a sudden and intense storm. The ship drifted across the harbor and collided with a moored oil tanker, the [*Castillo de Arteaga*](https://www.vesselfinder.com/vessels/details/9871012). Both ships suffered minor damage.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/pobritannia.jpg)The P&O cruise ship [MV *Britannia*](https://en.wikipedia.org/wiki/MV_Britannia_\(2014\)) was blown from her dockside moorings in Mallorca, Spain on Sunday during a sudden and intense storm. The ship drifted across the harbor and collided with a moored oil tanker, the [*Castillo de Arteaga*](https://www.vesselfinder.com/vessels/details/9871012). Both ships suffered minor damage.
 
 A spokesperson for P&O Cruises, owned by Carnival [(CCL.L)](https://www.reuters.com/markets/companies/CCL.L), said, “P&O Cruises *Britannia* was involved in a weather-related incident while alongside in Palma de Mallorca. A small number of individuals sustained minor injuries and are being cared for by the onboard medical center.”
 

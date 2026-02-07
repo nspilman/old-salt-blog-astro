@@ -15,12 +15,12 @@ tags:
   - "Morocco"
   - "orcas"
   - "Strait of Gibraltar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/orcaattack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/orcaattack.jpg"
 author: "Rick Spilman"
 description: "Orca attacks on sailboats off the Strait of Gibraltar and the Iberian Peninsula continue. Janet Morris and Stephen Bidwell from Cambridge told The Sunday Times that on May 2, on the second day of training for their week-long sailing course … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/orcaattack.jpg)Orca attacks on sailboats off the Strait of Gibraltar and the Iberian Peninsula continue.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/orcaattack.jpg)Orca attacks on sailboats off the Strait of Gibraltar and the Iberian Peninsula continue.
 
 [Janet Morris and Stephen Bidwell from Cambridge](https://people.com/human-interest/pod-of-orcas-attack-couples-yacht-midway-through-morocco-sailing/) told [The Sunday Times](https://www.thetimes.co.uk/article/55a1e06e-f4d0-11ed-97af-27f55025e763?shareToken) that on May 2, on the second day of training for their week-long sailing course off the coast of Morocco, they were attacked by a pod of orcas that bumped the hull and damaged the rudder and steering system of the 46-foot Bavaria yacht. Fortunately, no one was injured and the boat returned to port safely.
 

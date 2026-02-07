@@ -14,12 +14,12 @@ tags:
   - "MV Ruen"
   - "Somali pirates"
   - "Somalia's Puntland region"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/somalihijack.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/somalihijack.jpg"
 author: "Rick Spilman"
 description: "The Voice of America reports that the Indian navy freed the hijacked MV Ruen cargo ship in Somalia’s Puntland region Saturday after a 24-hour standoff and shootout, and it has detained 35 pirates, according to Puntland Ports Minister Ahmed Yasin Salah. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/somalihijack.jpg)The [Voice of America](https://www.voanews.com/a/indian-navy-frees-cargo-ship-from-somali-pirates-after-shootout/7530557.html) reports that the Indian navy freed the hijacked [MV *Ruen*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6312030/mmsi:249517000/imo:9754903/vessel:RUEN) cargo ship in Somalia’s Puntland region Saturday after a 24-hour standoff and shootout, and it has detained 35 pirates, according to Puntland Ports Minister Ahmed Yasin Salah. The crew is reported to be unharmed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/03/somalihijack.jpg)The [Voice of America](https://www.voanews.com/a/indian-navy-frees-cargo-ship-from-somali-pirates-after-shootout/7530557.html) reports that the Indian navy freed the hijacked [MV *Ruen*](https://www.marinetraffic.com/en/ais/details/ships/shipid:6312030/mmsi:249517000/imo:9754903/vessel:RUEN) cargo ship in Somalia’s Puntland region Saturday after a 24-hour standoff and shootout, and it has detained 35 pirates, according to Puntland Ports Minister Ahmed Yasin Salah. The crew is reported to be unharmed.
 
 The pirates — who allegedly hijacked the Maltese-flagged bulk cargo vessel on December 14 — exchanged heavy gunfire with the Indian navy Friday.
 

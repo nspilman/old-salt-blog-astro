@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Six days ago, oil began spilling into Borneo’s Balikpapan Bay. The oil would spread to cover an area of nearly 13,000 hectares and pollute 60 km of coastal ecosystems, including mangrove wetlands and marine mammal habitats. At least one protected dugong … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/borneospillfire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/borneospillfire.jpg)
 
 Photo: Pertamina
 

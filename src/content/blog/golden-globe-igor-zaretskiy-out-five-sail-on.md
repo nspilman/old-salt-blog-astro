@@ -10,12 +10,12 @@ tags:
   - "Albany"
   - "Golden Globe Race"
   - "Igor Zaretskiy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ggrigor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ggrigor.jpg"
 author: "Rick Spilman"
 description: "Sixty-seven-year-old Igor Zaretskiy was in last place in the Golden Globe Race. His mast was seriously damaged, even after jury-rigged repairs. He had lost a hatch, exposing his cabin the elements, and his hull was so fouled that his boat, Esmerelda, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ggrigor.jpg)Sixty-seven-year-old Igor Zaretskiy was in last place in the Golden Globe Race. His mast was seriously damaged, even after jury-rigged repairs. He had lost a hatch, exposing his cabin the elements, and his hull was so fouled that his boat, *Esmerelda*, was crawling along, at times at just over a knot.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/ggrigor.jpg)Sixty-seven-year-old Igor Zaretskiy was in last place in the Golden Globe Race. His mast was seriously damaged, even after jury-rigged repairs. He had lost a hatch, exposing his cabin the elements, and his hull was so fouled that his boat, *Esmerelda*, was crawling along, at times at just over a knot.
 
 He wisely chose to put into Albany in Western Australia for repairs. By stopping he was no longer in the main race but could still finish in the [Chichester Class](https://goldengloberace.com/the-rules/). Despite everything, he decided that once repairs were completed, [he would sail on](https://thewest.com.au/news/albany-advertiser/from-russia-and-oceans-with-love-ng-b881052757z). Then, a medical checkup changed his mind. He is flying back to his home in Russia where he may need an operation. 
 

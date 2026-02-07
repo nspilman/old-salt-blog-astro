@@ -14,12 +14,12 @@ tags:
   - "new york harbor"
   - "Robert Morris"
   - "tea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/empressofchina.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/empressofchina.jpg"
 author: "Rick Spilman"
 description: "Given the economic damage caused by needless trade wars, it is worthwhile to recall the Empress of China, the ship that opened trade with China, the United States’ first trading partner. The new nation had won its independence from Great Britain but had … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2019/08/empressofchina.jpg)Given the economic damage caused by [needless trade wars](https://www.latimes.com/world-nation/story/2025-04-17/forget-iphones-trumps-tariff-war-could-reshape-us-economy-and-usher-in-a-new-world-order), it is worthwhile to recall the [*Empress of China*](https://en.wikipedia.org/wiki/Empress_of_China_\(1783\)), the ship that opened trade with China, the United States’ first trading partner.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/empressofchina.jpg)Given the economic damage caused by [needless trade wars](https://www.latimes.com/world-nation/story/2025-04-17/forget-iphones-trumps-tariff-war-could-reshape-us-economy-and-usher-in-a-new-world-order), it is worthwhile to recall the [*Empress of China*](https://en.wikipedia.org/wiki/Empress_of_China_\(1783\)), the ship that opened trade with China, the United States’ first trading partner.
 
 The new nation had won its independence from Great Britain but had lost much of its foreign trade. The economy slumped. The American banker Robert Morris decided to venture into new markets. If the British wouldn’t sell Americans tea from India, then Americans would buy tea from China. He hired a newly built three-masted privateer of 360 tons, renamed the ship the *Empress of China,* and outfitted her for commerce. 
 

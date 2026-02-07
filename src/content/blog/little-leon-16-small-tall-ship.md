@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "When I first saw the photo, I thought that the Little Leon was sailed by giants. The ship looked properly to scale, while the crew seemed disproportionately large.  It turns out that Little Leon is a 16′ long brigantine modeled … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/compare.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/compare.jpg)
 
 Leon of 1880 (left), Little Leon (right)
 

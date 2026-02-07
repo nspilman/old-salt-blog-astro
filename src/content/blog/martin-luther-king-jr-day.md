@@ -8,12 +8,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Martin Luther King"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/mlkquote.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mlkquote.jpg"
 author: "Rick Spilman"
 description: "On Martin Luther King, Jr. Day, a quote: We may have all come on different ships, but we’re in the same boat now. Martin Luther King, Jr. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/mlkquote.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mlkquote.jpg)
 
 On Martin Luther King, Jr. Day, [a quote](https://www.brainyquote.com/quotes/quotes/m/martinluth132359.html):
 

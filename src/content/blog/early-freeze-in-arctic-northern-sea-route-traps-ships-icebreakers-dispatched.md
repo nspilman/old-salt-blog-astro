@@ -15,12 +15,12 @@ tags:
   - "Novorossiisk"
   - "Russia"
   - "Yamal"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/nsrice.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/nsrice.jpg"
 author: "Rick Spilman"
 description: "The Barents Observer reports that more than 20 ships are either stuck or struggling to make it through increasingly thick sea-ice on the Arctic Northern Sea Route. They report that over the past several years, shipping along the Russian northern … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/nsrice.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/nsrice.jpg)
 
 Image: Rosatom
 

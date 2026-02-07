@@ -17,12 +17,12 @@ tags:
   - "Titanic wreck"
   - "UK billionaire Hamish Harding"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/Titan.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/Titan.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard is searching for a submersible carrying five people on a dive on the wreck of the Titanic in the North Atlantic off Newfoundland. The submersible Titan, which began its dive towards the Titanic wreck site on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/Titan.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/Titan.jpg)
 
 Missing submersible Titan
 

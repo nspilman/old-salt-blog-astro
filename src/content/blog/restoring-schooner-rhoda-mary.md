@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A crowdfunding campaign is underway to rescue what is left of the Cornish schooner Rhoda Mary, lying in the banks of the Medway river, Kent, UK. The goal is to rescue the remains of the schooner and transport it back … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/rhodamary.jpg)A [crowdfunding campaign](https://www.justgiving.com/crowdfunding/andrew-mullen-rmp) is underway to rescue what is left of the Cornish schooner [*Rhoda Mary*,](http://www.rhoda-mary.co.uk/) lying in the banks of the Medway river, Kent, UK. The goal is to rescue the remains of the schooner and transport it back to its birthplace in Truro, where it will be restored.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/rhodamary.jpg)A [crowdfunding campaign](https://www.justgiving.com/crowdfunding/andrew-mullen-rmp) is underway to rescue what is left of the Cornish schooner [*Rhoda Mary*,](http://www.rhoda-mary.co.uk/) lying in the banks of the Medway river, Kent, UK. The goal is to rescue the remains of the schooner and transport it back to its birthplace in Truro, where it will be restored.
 
 The *Rhoda Mary* is a West Country topsail schooner built at Point in Devoran in 1868. She was renowned for her speed and beauty. After an over fifty-year career carrying cargo, she was decommissioned in 1925 and became a houseboat on the River Medway in Kent. In the mid-60s, the hull burned to the waterline while the underwater hull settled into the river bank. Paradoxically, the loss of the upper decks and sides may have helped protect the shape of the lower hull.
 

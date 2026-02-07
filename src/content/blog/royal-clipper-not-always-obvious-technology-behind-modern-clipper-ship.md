@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Here is a look at a modern sailing ship, Star Clipper’s Royal Clipper, a high-tech square-rigger whose technology is not always obvious.  Click here for a photo tour of the Royal Clipper recently featured in USA Today. We recently posted about … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/royalclipper.jpg)Here is a look at a modern sailing ship, Star Clipper’s [*Royal Clipper*,](https://www.starclippers.com/us-dom/our-fleet/royal-clipper.html) a high-tech square-rigger whose technology is not always obvious.  Click here for a [photo tour of the *Royal Clipper*](https://www.usatoday.com/story/travel/cruises/2018/01/09/photo-tour-star-clippers-royal-clipper-anomaly-world-cruising/1001918001/) recently featured in USA Today.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/royalclipper.jpg)Here is a look at a modern sailing ship, Star Clipper’s [*Royal Clipper*,](https://www.starclippers.com/us-dom/our-fleet/royal-clipper.html) a high-tech square-rigger whose technology is not always obvious.  Click here for a [photo tour of the *Royal Clipper*](https://www.usatoday.com/story/travel/cruises/2018/01/09/photo-tour-star-clippers-royal-clipper-anomaly-world-cruising/1001918001/) recently featured in USA Today.
 
 We recently posted about the high-tech three-masted square-rigger, *[Black Pearl](http://www.oldsaltblog.com/2017/12/high-tech-square-rigger-black-pearl-inspired-maltese-falcon/),* which features a next-generation Dynarig with automated sail trimming and furling. Flexible solar panels are also incorporated into the sails to help meet the electrical needs of the vessel. 
 

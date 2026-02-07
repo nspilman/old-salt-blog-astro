@@ -8,12 +8,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Jeanne Socrates"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/jsocrates1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/jsocrates1.jpg"
 author: "Rick Spilman"
 description: "On May 18th, we posted that singlehander Jeanne Socrates, 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite the loss of solar panels and damage to the wind generator system, Socrates … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/vka-socrates-6440-jpg.jpg)On May 18th, [we posted](http://www.oldsaltblog.com/2019/05/jeanne-socrates-singlehanding-at-76-suffers-knockdown-off-new-zealand/) that singlehander [Jeanne Socrates](http://www.oldsaltblog.com/2019/01/jeanne-socrates-singlehanding-non-stop-around-the-world-at-76/), 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite the loss of solar panels and damage to the wind generator system, Socrates was unhurt, and sails, rig, most instruments, autopilot, and radio were undamaged.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/vka-socrates-6440-jpg.jpg)On May 18th, [we posted](http://www.oldsaltblog.com/2019/05/jeanne-socrates-singlehanding-at-76-suffers-knockdown-off-new-zealand/) that singlehander [Jeanne Socrates](http://www.oldsaltblog.com/2019/01/jeanne-socrates-singlehanding-non-stop-around-the-world-at-76/), 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite the loss of solar panels and damage to the wind generator system, Socrates was unhurt, and sails, rig, most instruments, autopilot, and radio were undamaged.
 
 Socrates is attempting to become the oldest person to sail solo around the world non-stop and unassisted. After the knockdown, most would have given up and put into port, but Jeanne has not abandoned her quest. She has put into Timaru Harbour, South Island, New Zealand to make necessary repairs to her Najad 380, *Nerieda*. As long as she does not go ashore or receive support or supplies, she can continue on her voyage “non-stop and unassisted.”
 

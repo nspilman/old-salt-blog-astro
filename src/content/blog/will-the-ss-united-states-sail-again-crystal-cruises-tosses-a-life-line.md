@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In October, the SS United States Conservancy announced that it had retained the services of a broker to explore selling the SS United States for scrap. Prospects for the ship looked dire. In a dramatic reversal of fortune, Crystal Cruises has … Continue reading &rarr;"
 ---
 
-![A rendering of the proposed redesign of the S.S. United States](http://www.oldsaltblog.com/wp-content/uploads/2016/02/ssusnew1.jpg)
+![A rendering of the proposed redesign of the S.S. United States](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/ssusnew1.jpg)
 
 A rendering of the proposed redesign of the S.S. United States
 

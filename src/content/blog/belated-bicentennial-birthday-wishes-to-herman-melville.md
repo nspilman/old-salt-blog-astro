@@ -12,12 +12,12 @@ tags:
   - "new york"
   - "Pearl Street"
   - "Starbucks"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/melvilleplaque3.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/melvilleplaque3.jpg"
 author: "Rick Spilman"
 description: "We missed the bicentennial of Herman Melville‘s birthday.  He was born just over 200 years ago on August 1, 1819, in a boarding house on 6 Pearl Street, in the Financial District of Lower Manhattan in New York City.  In … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/melvilleplaque3.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/melvilleplaque3.jpg)
 
 Melville Memorial, 6 Pearl Street, Photo: Wally Gobetz
 
@@ -29,7 +29,7 @@ The memorial is easy to miss, particularly on a busy Manhattan morning when the 
 
 But, before you find yourself growing “grim about the mouth” or sinking into “a damp, drizzly November of \[the\] soul,” turn around.
 
-![starbucks1](http://www.oldsaltblog.com/wp-content/uploads/2013/08/starbucks1.jpg)
+![starbucks1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/starbucks1.jpg)
 
 Coffee House across the street from Melville’s birthplace
 

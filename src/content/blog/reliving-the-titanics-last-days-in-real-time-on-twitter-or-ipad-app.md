@@ -17,6 +17,6 @@ author: "Rick Spilman"
 description: "The truly Titanic obsessed do not have to wait for the centennial of the tragic sinking of the so-called \"unsinkable\" passenger liner.  They now can follow the Titanic via either a Twitter feed or an iPad app which mark down the events of leading up to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/TP_Logo_-_Green_reasonably_small.jpg)The truly *Titanic* obsessed do not have to wait for the centennial of the tragic sinking of the so-called “unsinkable” passenger liner.  They now can follow the *Titanic* via either a Twitter feed or an iPad app which mark down the events of leading up to the sinking in real time!
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/TP_Logo_-_Green_reasonably_small.jpg)The truly *Titanic* obsessed do not have to wait for the centennial of the tragic sinking of the so-called “unsinkable” passenger liner.  They now can follow the *Titanic* via either a Twitter feed or an iPad app which mark down the events of leading up to the sinking in real time!
 
 On Twitter check out [TitanicVoyage @ TitanicRealTime](https://twitter.com/#!/TitanicRealTime).  There is also an iPad app: [Titanic: Her Journey](http://itunes.apple.com/gb/app/titanic-her-journey/id505985988?mt=8) selling for £2.99.

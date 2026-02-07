@@ -13,7 +13,7 @@ tags:
   - "Maritime Museum of San Diego"
   - "Master and Commander - Far Side of the World"
   - "Patrick O'Brian"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/hmssurprise.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/hmssurprise.jpg"
 author: "Rick Spilman"
 description: "Many years ago, I had the good fortune to sail with a volunteer crew of Patrick O’Brian aficionados from New York to Bermuda on the replica frigate HMS Rose. Despite being rather short on wind, it was a memorable voyage. … Continue reading &rarr;"
 ---

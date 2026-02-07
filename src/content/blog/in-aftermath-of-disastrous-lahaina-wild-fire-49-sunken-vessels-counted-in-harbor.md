@@ -15,12 +15,12 @@ tags:
   - "US Coast Guard"
   - "US Coast Guard’s Pacific Strike Team"
   - "wild fire"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/lahaina-wreckedboats.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lahaina-wreckedboats.jpg"
 author: "Rick Spilman"
 description: "In addition to devastating the historic town of Lahaina on the Hawaiian island of Maui, the recent wild fires also destroyed most of the boats in the harbor.  After almost two weeks, Channel KHON2 News reports that the US Coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/lahaina-wreckedboats.jpg)In addition to devastating the historic town of Lahaina on the Hawaiian island of Maui, the recent wild fires also destroyed most of the boats in the harbor.  After almost two weeks, [Channel KHON2 News](https://www.khon2.com/hawaii-fires/at-least-49-sunken-vessels-counted-in-lahaina-harbor/#:~:text=HONOLULU%20\(KHON2\)%20%E2%80%94%20The%20U.S.,impacts%20from%20the%20burn%20zone.) reports that the US Coast Guard’s Pacific Strike Team said they have counted about 49 sunken vessels in the Lahaina Harbor as they work to mitigate maritime environmental impacts from the burn zone. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/lahaina-wreckedboats.jpg)In addition to devastating the historic town of Lahaina on the Hawaiian island of Maui, the recent wild fires also destroyed most of the boats in the harbor.  After almost two weeks, [Channel KHON2 News](https://www.khon2.com/hawaii-fires/at-least-49-sunken-vessels-counted-in-lahaina-harbor/#:~:text=HONOLULU%20\(KHON2\)%20%E2%80%94%20The%20U.S.,impacts%20from%20the%20burn%20zone.) reports that the US Coast Guard’s Pacific Strike Team said they have counted about 49 sunken vessels in the Lahaina Harbor as they work to mitigate maritime environmental impacts from the burn zone. 
 
 Coast Guard Pacific Strike Team Lt. Trent Brown said crews are working to remove the fuel from the vessels to prevent it from leaking into the ocean. They have set a boom on the mouth of the Lahaina Harbor to help soak up fuel that may rise to the surface.  Divers are also searching for bodies.
 

@@ -12,12 +12,12 @@ tags:
   - "Horonuku"
   - "Land speed project"
   - "wind-powered land speed record"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/landspeedrecord.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/landspeedrecord.jpg"
 author: "Rick Spilman"
 description: "Emirates Team New Zealand, famous for winning the America’s Cup, has broken the wind-powered land speed record. Its land yacht Horonuku reached 138.2 miles per hour (222.4 km/h) in 25.3 mph winds on the dry basin of Lake Gairdner in … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/landspeedrecord.jpg)[Emirates Team New Zealand](https://emirates-team-new-zealand.americascup.com/en/home.html), famous for winning the America’s Cup, has [broken the wind-powered land speed record](https://emirates-team-new-zealand.americascup.com/en/news/627_222-4KM-H-WIND-POWERED-WORLD-LAND-SPEED-RECORD-BROKEN-.html). Its land yacht *Horonuku* reached [138.2 miles per hour (222.4 km/h)](https://www.fisly.org/newsletter/20221212_Landsailing_Record.pdf) in 25.3 mph winds on the dry basin of Lake Gairdner in South Australia. The previous record had been 126 mph, set in 2009 by Briton Richard Jenkins.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/landspeedrecord.jpg)[Emirates Team New Zealand](https://emirates-team-new-zealand.americascup.com/en/home.html), famous for winning the America’s Cup, has [broken the wind-powered land speed record](https://emirates-team-new-zealand.americascup.com/en/news/627_222-4KM-H-WIND-POWERED-WORLD-LAND-SPEED-RECORD-BROKEN-.html). Its land yacht *Horonuku* reached [138.2 miles per hour (222.4 km/h)](https://www.fisly.org/newsletter/20221212_Landsailing_Record.pdf) in 25.3 mph winds on the dry basin of Lake Gairdner in South Australia. The previous record had been 126 mph, set in 2009 by Briton Richard Jenkins.
 
 Glenn Ashby, pilot of the *Horonuku* was clearly happy with the run, but also tempered with the knowledge that the craft can go much faster. “The team and I are obviously buzzing to have sailed *Horonuku* at a speed faster than anyone has ever before – powered only by the wind. But in saying that we know *Horonuku* has a lot more speed in it when we get more wind and better conditions.” Said Ashby.
 

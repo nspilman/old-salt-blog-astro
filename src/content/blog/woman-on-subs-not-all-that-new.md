@@ -21,7 +21,7 @@ author: "Rick Spilman"
 description: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of \"to tweet?\" by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Solveig-Krey-i-periskopet-.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Solveig-Krey-i-periskopet-.jpg)
 
 Norway's Solveig Krey, the world's first female submarine commander
 

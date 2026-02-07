@@ -12,7 +12,7 @@ tags:
   - "Arromanches"
   - "drone"
   - "Mulberry"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/mulberrydrone.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/mulberrydrone.jpg"
 author: "Rick Spilman"
 description: "Here is a lovely drone video by François Monier of what is left of Mulberry B just offshore near the French village of Arromanches. One of the reasons that the Germans were skeptical of an Allied invasion of Normandy was … Continue reading &rarr;"
 ---

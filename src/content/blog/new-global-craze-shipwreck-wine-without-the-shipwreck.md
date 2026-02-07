@@ -11,12 +11,12 @@ tags:
   - "Baltic bubbly"
   - "shipwreck wine"
   - "underwater wine cellar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/Ocean-Fathomswine-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/Ocean-Fathomswine-1.jpg"
 author: "Rick Spilman"
 description: "A new craze is spreading across the world of wine. Call it \"shipwreck wine\" without the shipwreck. Off the shores of California, Croatia, Spain, Britain, France, Argentina, Italy, and China; vintners are aging wines underwater in specially constructed ocean wine … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/Ocean-Fathomswine-127x200.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/Ocean-Fathomswine-127x200.jpg)
 
 Retrieved submerged bottles of Ocean Fathoms wine.  
 Image: Lara Castaognia

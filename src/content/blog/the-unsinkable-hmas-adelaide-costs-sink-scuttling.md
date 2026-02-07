@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "As difficult as it is to keep ships afloat, sometimes they can be devilishly hard to sink as well.   At least that has been the experience of a group trying to scuttle the decommissioned HMAS Adelaide as an artificial reef and recreational diving site off the central … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/hmasadelaide.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/hmasadelaide.jpg)
 
 Photo: Kate Geraghty
 

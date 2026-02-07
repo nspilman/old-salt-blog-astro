@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Seventy-two years ago today, during the early days of the Allied invasion of Europe, the sea would prove to be as formidable an enemy as the Germans. A storm, the worst in 80 years, came close to wiping out the … Continue reading &rarr;"
 ---
 
-![mulberrystorm](http://www.oldsaltblog.com/wp-content/uploads/2016/06/mulberrystorm.jpg)
+![mulberrystorm](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/mulberrystorm.jpg)
 
 Mulberry harbor in the storm of June 19-22, 1944
 

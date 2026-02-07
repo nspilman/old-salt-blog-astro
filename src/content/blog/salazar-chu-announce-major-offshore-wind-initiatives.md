@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The United States is far behind the countries of Western Europe and China in the development of offshore wind power.  Today, Secretary of the Interior Ken Salazar and Secretary of Energy Steven Chu announced a few steps toward catching up. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/wind_farm_offshore.jpg)The United States is far behind the countries of Western Europe and China in the development of offshore wind power.  Today, Secretary of the Interior Ken Salazar and Secretary of Energy Steven Chu announced a few steps toward catching up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/wind_farm_offshore.jpg)The United States is far behind the countries of Western Europe and China in the development of offshore wind power.  Today, Secretary of the Interior Ken Salazar and Secretary of Energy Steven Chu announced a few steps toward catching up.
 
 [Salazar, Chu Announce Major Offshore Wind Initiatives](http://www.maritime-executive.com/article/salazar-chu-announce-major-offshore-wind-initiatives/)  
   

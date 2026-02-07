@@ -10,12 +10,12 @@ tags:
   - "Sea Wave Energy Ltd"
   - "wave energy converter"
   - "Waveline Magnet"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/wavelinemagnet.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/wavelinemagnet.jpg"
 author: "Rick Spilman"
 description: "Sea Wave Energy Ltd, a Cyprus and UK-based R&D startup, has been working for the last decade to develop the world’s most efficient, low-cost wave energy converter.  Earlier this year, the company unveiled the prototype called the Waveline Magnet, which … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/wavelinemagnet.jpg)[Sea Wave Energy Ltd](https://swel.eu/), a Cyprus and UK-based R&D startup, has been working for the last decade to develop the world’s most efficient, low-cost wave energy converter. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/wavelinemagnet.jpg)[Sea Wave Energy Ltd](https://swel.eu/), a Cyprus and UK-based R&D startup, has been working for the last decade to develop the world’s most efficient, low-cost wave energy converter. 
 
 Earlier this year, [the company unveiled the prototype](https://interestingengineering.com/innovation/floating-device-generate-power-waves) called the [Waveline Magnet](https://swel.eu/#features), which is fabricated from a series of floating platforms linked to each other that generate energy by undulating in ocean waves.
 

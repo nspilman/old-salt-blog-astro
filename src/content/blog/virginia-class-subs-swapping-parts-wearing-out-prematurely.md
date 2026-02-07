@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The US Navy is having a problem with its Virginia-class fast attack submarines. Secretary of the Navy Thomas Harker told the Senate Armed Services Committee that some parts are wearing out far faster than expected. The Navy has had to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/ussvirginia.jpg)The US Navy is having a problem with its [Virginia-class fast attack submarines](https://en.wikipedia.org/wiki/Virginia-class_submarine). Secretary of the Navy Thomas Harker told the Senate Armed Services Committee that [some parts are wearing out](https://www.businessinsider.com/navy-says-parts-on-attack-submarines-failing-sooner-than-expected-2021-6) far faster than expected. The Navy has had to cannibalize hundreds of subs for working replacement parts.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/ussvirginia.jpg)The US Navy is having a problem with its [Virginia-class fast attack submarines](https://en.wikipedia.org/wiki/Virginia-class_submarine). Secretary of the Navy Thomas Harker told the Senate Armed Services Committee that [some parts are wearing out](https://www.businessinsider.com/navy-says-parts-on-attack-submarines-failing-sooner-than-expected-2021-6) far faster than expected. The Navy has had to cannibalize hundreds of subs for working replacement parts.
 
 “There are parts on the Virginia class that we thought were going to be life-of-the-submarine parts, and they are failing more quickly than we originally envisioned,” Harker said, adding that the service’s sub crews and parts support are having to go back in and find replacement parts.
 

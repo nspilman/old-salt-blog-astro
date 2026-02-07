@@ -12,12 +12,12 @@ tags:
   - "molasses"
   - "North End"
   - "Purity Distilling Company"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/bpmolassesflood.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/bpmolassesflood.jpg"
 author: "Rick Spilman"
 description: "Today marks the 100th year anniversary of the Great Boston Molasses Flood, which inundated Boston’s North End sending a wall of molasses, killing 21 and injuring 150. The Purity Distilling Company built a large molasses storage tank on Commercial Street in Boston’s North … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/bpmolassesflood.jpg)Today marks the 100th year anniversary of the Great Boston Molasses Flood, which inundated Boston’s North End sending a wall of molasses, killing 21 and injuring 150.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/bpmolassesflood.jpg)Today marks the 100th year anniversary of the Great Boston Molasses Flood, which inundated Boston’s North End sending a wall of molasses, killing 21 and injuring 150.
 
 The Purity Distilling Company built a large molasses storage tank on Commercial Street in Boston’s North End to store molasses until it could be distilled into alcohol. In early January 1919, just a few days before the disaster, a ship had discharged a full load of molasses into the tank. When the cargo was discharged, the weather was cold, only around 4 degrees F. Then on January 15th, the temperature rose suddenly to an unseasonably warm 40 degrees.
 

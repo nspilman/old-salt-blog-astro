@@ -12,12 +12,12 @@ tags:
   - "Maine"
   - "New Hampshire"
   - "Tamworth Distilling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/crabtrapper.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/crabtrapper.jpg"
 author: "Rick Spilman"
 description: "In 2018, we posted \"Mutant Green Crabs Invading Maine.\" At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters. Now, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/crabtrapper.jpg)In 2018, we posted “[Mutant Green Crabs Invading Maine](https://www.oldsaltblog.com/2018/10/mutant-green-crabs-invading-maine/).” At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/crabtrapper.jpg)In 2018, we posted “[Mutant Green Crabs Invading Maine](https://www.oldsaltblog.com/2018/10/mutant-green-crabs-invading-maine/).” At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters.
 
 Now, New Hampshire’s [Tamworth Distilling](https://tamworthdistilling.com/) is doing its part to help eradicate the invasive European green crabs by making crab-infused whiskey. The limited-release House of Tamworth Crab Trapper whiskey is made from an aged bourbon and over 90 pounds of green crabs harvested from a local trapper.
 

@@ -11,12 +11,12 @@ tags:
   - "E.C. Segar"
   - "Frank \"Rocky\" Fiegel"
   - "Popeye the Sailorman"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/frankpopeye.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/frankpopeye.jpg"
 author: "Rick Spilman"
 description: "We are a few days late in wishing the iconic cartoon character, Popeye the sailorman, a happy birthday. (Frankly, I am not sure how one sends birthday wishes to a cartoon character, in any case.) Popeye first appeared on January … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/popeye.jpg)We are a few days late in wishing the iconic cartoon character, [Popeye the sailorman](https://en.wikipedia.org/wiki/Popeye), a happy birthday. (Frankly, I am not sure how one sends birthday wishes to a cartoon character, in any case.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/popeye.jpg)We are a few days late in wishing the iconic cartoon character, [Popeye the sailorman](https://en.wikipedia.org/wiki/Popeye), a happy birthday. (Frankly, I am not sure how one sends birthday wishes to a cartoon character, in any case.)
 
 Popeye first appeared on January 17, 1929, as a bit player in [E.C. Segar’s comic strip “Thimble Theatre” in the New York Journal-American newspaper](https://www.washingtonpost.com/lifestyle/kidspost/popeye-gets-a-makeover-for-his-90th-birthday/2019/01/29/eede7df6-2350-11e9-ad53-824486280311_story.html?utm_term=.bd7f9b9d4dd4). He turned out to be highly popular and a few years later was given his own comic strip. 
 
@@ -28,7 +28,7 @@ Popeye the sailor made his comic strip debut 1929, however, according to the art
 
 The character Popeye was said to have been inspired by [Frank “Rocky” Fiegel](https://en.wikipedia.org/wiki/Popeye#Cultural_origins_and_impact) who lived in Chester, Illinois, E.C. Segar’s hometown. He had a prominent chin, sinewy physique, characteristic pipe, and a propensity and skill for fist-fighting. [Olive Oyl](https://www.telegraph.co.uk/books/childrens-books/popeye-10-things-you-never-knew/) was said to be based on another of Segar’s neighbors – a very tall, slim woman named Dora Paskel, who usually wore her hair in a bun.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/frankpopeye.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/frankpopeye.jpg)
 
 Popeye and Frank “Rocky” Fiegel
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The historic tanker Mary A. Whalen is turning 80 on May 21st. As part of a month-long celebration, Portside NewYork and the Mary A. Whalen is hosting an Art Inspiration Day and Birthday Tanker Tours. The events take place tomorrow, Sunday, May 20th, from … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/marywhalen80.jpg)The historic tanker [*Mary A. Whalen*](http://portsidenewyork.org/mary-a-whalen/) is turning 80 on May 21st. As part of a [month-long celebration](http://portsidenewyork.org/portsideevents/), [Portside NewYork](http://portsidenewyork.org/) and the *Mary A. Whalen* is hosting an [Art Inspiration Day and Birthday Tanker Tours.](http://portsidenewyork.org/portsideevents/2018/5/20/mary-inspiration-day-birthday-tankertours)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/marywhalen80.jpg)The historic tanker [*Mary A. Whalen*](http://portsidenewyork.org/mary-a-whalen/) is turning 80 on May 21st. As part of a [month-long celebration](http://portsidenewyork.org/portsideevents/), [Portside NewYork](http://portsidenewyork.org/) and the *Mary A. Whalen* is hosting an [Art Inspiration Day and Birthday Tanker Tours.](http://portsidenewyork.org/portsideevents/2018/5/20/mary-inspiration-day-birthday-tankertours)
 
 The events take place tomorrow, [Sunday, May 20th, from 8 AM to 6 PM](https://www.facebook.com/events/244923622736284/) on the tanker at the south end of Pier 11, Atlantic Basin, near the corner of Pioneer & Conover Streets, Red Hook, Brooklyn, New York.
 

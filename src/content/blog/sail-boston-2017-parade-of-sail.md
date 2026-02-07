@@ -8,7 +8,7 @@ categories:
 tags:
   - "Parade of Sail"
   - "Sail Boston 2017"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/sailbostonPoShips.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/sailbostonPoShips.jpg"
 author: "Rick Spilman"
 description: "Delayed for an hour by fog, the Parade of Sail at Sail Boston 2017 was still breathtaking even if the weather did not cooperate.  The Sail Boston 2017 festival continues through Thursday, June 22. Click here for a list of … Continue reading &rarr;"
 ---

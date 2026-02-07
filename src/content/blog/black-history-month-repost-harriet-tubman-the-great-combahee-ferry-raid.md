@@ -12,12 +12,12 @@ tags:
   - "Harriet Tubman"
   - "Tubman"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg"
 author: "Rick Spilman"
 description: "With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad \"conductor\" is back in the news and may, before too very long, grace our currency. In 2016, the Treasury decided to put the image of Harriet … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg)With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad “conductor” is back in the news and may, before too very long, grace our currency.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/htubman.jpg)With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad “conductor” is back in the news and may, before too very long, grace our currency.
 
 In 2016, the Treasury decided to put the image of Harriet Tubman on the US $20 bill, replacing Andrew Jackson. The Trump administration arrived before the change was made, however, and decided that they preferred to keep the image of a slave owner on the currency.  Now, President Biden, in one of his first acts in office, has announced efforts to speed the process of adding the portrait of Tubman to the front of a redesigned $20 bill.
 

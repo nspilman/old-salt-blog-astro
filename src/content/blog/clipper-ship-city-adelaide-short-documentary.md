@@ -12,7 +12,7 @@ tags:
   - "Australia"
   - "City of Adelaide"
   - "composite clipper ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/cityofadelaide200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/cityofadelaide200.jpg"
 author: "Rick Spilman"
 description: "The City of Adelaide is the world’s oldest surviving clipper ship and one of only three remaining composite clipper ships. She was built in 1864, in Sunderland, England by William Pile, Hay and Co. for transporting passengers and goods between … Continue reading &rarr;"
 ---

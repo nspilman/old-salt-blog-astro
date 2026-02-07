@@ -11,12 +11,12 @@ tags:
   - "humpback whale"
   - "Monterey Bay"
   - "triple breach"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/humpbreach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/humpbreach.jpg"
 author: "Rick Spilman"
 description: "Whale-watchers aboard the Atlantic Monterey witnessed an amazing show on Sunday when three humpback whales performed an extremely rare triple breach in Monterey Bay, CA.  And it was caught on video (see after the page break.) SFGate reports that the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/humpbreach.jpg)Whale-watchers aboard the *Atlantic Monterey* witnessed an amazing show on Sunday when three humpback whales performed an extremely rare triple breach in Monterey Bay, CA.  And it was caught on video (see after the page break.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/humpbreach.jpg)Whale-watchers aboard the *Atlantic Monterey* witnessed an amazing show on Sunday when three humpback whales performed an extremely rare triple breach in Monterey Bay, CA.  And it was caught on video (see after the page break.)
 
 [SFGate](https://www.sfgate.com/local/article/Stunning-video-captures-extremely-rare-triple-15641164.php) reports that the captain of the whale-watching boat had never seen a triple breach in his 45 years out on the water.
 

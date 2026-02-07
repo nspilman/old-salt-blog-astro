@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "In June, we posted about the Safe Affordable Ferry Design Competition, sponsored by the World Ferry Safety Association, in which student teams from six maritime universities competed to develop a ferry design for a 500 passenger ferry for Bangladesh. Recently the … Continue reading &rarr;"
 ---
 
-![WFSA_LOWRESWinningDesign_UBC](http://www.oldsaltblog.com/wp-content/uploads/2013/09/WFSA_LOWRESWinningDesign_UBC.jpg)
+![WFSA_LOWRESWinningDesign_UBC](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/WFSA_LOWRESWinningDesign_UBC.jpg)
 
 Winning design from University of British Columbia
 

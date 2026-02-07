@@ -14,12 +14,12 @@ tags:
   - "Prime Minister"
   - "Royal Yacht Britannia"
   - "UK"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/flagship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/flagship.jpg"
 author: "Rick Spilman"
 description: "Last month, we posted that UK Prime Minister Boris Johnson has announced the construction of a new national flagship intended to promote British businesses around the world. So far the proposal to replace the royal yacht Britannia, has been greeted … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/flagship.jpg)Last month, [we posted](http://www.oldsaltblog.com/2021/06/britain-to-build-national-flagship-to-promote-trade/) that UK Prime Minister Boris Johnson has announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world. So far the proposal to replace the [royal yacht *Britannia*](https://www.townandcountrymag.com/society/tradition/a23456210/royal-yacht-britannia-history/), has been greeted with very little enthusiasm. Even the royal family has voiced its displeasure with the idea. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/flagship.jpg)Last month, [we posted](http://www.oldsaltblog.com/2021/06/britain-to-build-national-flagship-to-promote-trade/) that UK Prime Minister Boris Johnson has announced the [construction of a new national flagship](https://www.gov.uk/government/news/new-national-flagship-to-promote-british-businesses-around-the-world) intended to promote British businesses around the world. So far the proposal to replace the [royal yacht *Britannia*](https://www.townandcountrymag.com/society/tradition/a23456210/royal-yacht-britannia-history/), has been greeted with very little enthusiasm. Even the royal family has voiced its displeasure with the idea. 
 
 Supporters of the new flagship argue that it would pay for itself many times over by helping secure trade deals, military contracts, and private investment in Britain. Critics consider it to be an [ill-conceived boondoggle](https://www.nytimes.com/2021/06/27/world/europe/Britain-royal-yacht-Boris-Johnson.html).
 

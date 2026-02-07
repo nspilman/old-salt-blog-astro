@@ -12,12 +12,12 @@ tags:
   - "Mayflower"
   - "University of Birmingham"
   - "virtual reality"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/mayflower200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mayflower200.jpg"
 author: "Rick Spilman"
 description: "The Telegraph in the UK is reporting on two notionally related projects associated with the 400th anniversary of the sailing of the Mayflower to North America. The first is a virtual reality project led by the Human Interface Technologies Team, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/mayflowerdrone2.jpg)The [Telegraph](http://www.telegraph.co.uk/science/2016/12/28/mayflower-set-sail-400-years-pilgrim-fathers-landed-america/) in the UK is reporting on two notionally related projects associated with the 400th anniversary of the sailing of the *[Mayflower](https://en.wikipedia.org/wiki/Mayflower)* to North America. The first is a virtual reality project led by the [Human Interface Technologies Team, at the University of Birmingham](http://www.birmingham.ac.uk/research/activity/eese/ise/hit-team/news/index.aspx) which is aiming to recreate the *Mayflower* of 1620, plank by plank and will allow modern visitors to walk around the old ship while wearing a virtual reality headset.  It sounds like great fun and could be a great way to learn about the ship and the history directly.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mayflowerdrone2.jpg)The [Telegraph](http://www.telegraph.co.uk/science/2016/12/28/mayflower-set-sail-400-years-pilgrim-fathers-landed-america/) in the UK is reporting on two notionally related projects associated with the 400th anniversary of the sailing of the *[Mayflower](https://en.wikipedia.org/wiki/Mayflower)* to North America. The first is a virtual reality project led by the [Human Interface Technologies Team, at the University of Birmingham](http://www.birmingham.ac.uk/research/activity/eese/ise/hit-team/news/index.aspx) which is aiming to recreate the *Mayflower* of 1620, plank by plank and will allow modern visitors to walk around the old ship while wearing a virtual reality headset.  It sounds like great fun and could be a great way to learn about the ship and the history directly.
 
 The second project, I am not so sure about. It is described as follows: “a new futuristic version of the *Mayflower*, which is fully autonomous, is being built and will become the first unmanned vessel to cross the Atlantic Ocean in 2020.” From the graphic, it appears to be a sail and solar powered trimaran drone.
 

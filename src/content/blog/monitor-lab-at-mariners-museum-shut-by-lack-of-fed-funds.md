@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "For several years now, there has been a webcam of the 90,000 gallon treatment tank where the 120 ton wrought iron turret of the USS Monitor is being preserved by electrolysis and desalination.  After spending 111 years underwater, the turret will need … Continue reading &rarr;"
 ---
 
-![USS Monitor 1862](http://www.oldsaltblog.com/wp-content/uploads/2014/01/USS_Monitor_after_Battle_of_Hampton_Roads.jpg)
+![USS Monitor 1862](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/USS_Monitor_after_Battle_of_Hampton_Roads.jpg)
 
 USS Monitor 1862
 

@@ -11,12 +11,12 @@ tags:
   - "Loch Ness"
   - "Loch Ness monster"
   - "Nessie"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/alpacasness.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/alpacasness.jpg"
 author: "Rick Spilman"
 description: "On a recent trip to Scotland, we visited the beautiful Loch Ness. While we were there, we heard of a sighting of a weird beastie in the loch. But no, not Nessie, the famous monster, or even a loch kelpie. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/alpacasness.jpg)On a recent trip to Scotland, we visited the beautiful Loch Ness. While we were there, we heard of a sighting of a weird beastie in the loch. But no, not Nessie, the famous monster, or even a loch [kelpie](https://en.wikipedia.org/wiki/Kelpie). The beast, or more properly, beasties were a small herd of alpacas, that had escaped their enclosure and decided to go for a swim.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/alpacasness.jpg)On a recent trip to Scotland, we visited the beautiful Loch Ness. While we were there, we heard of a sighting of a weird beastie in the loch. But no, not Nessie, the famous monster, or even a loch [kelpie](https://en.wikipedia.org/wiki/Kelpie). The beast, or more properly, beasties were a small herd of alpacas, that had escaped their enclosure and decided to go for a swim.
 
 What are alpacas doing swimming in Loch Ness? [Loch Ness Alpacas](https://www.lochnessalpacas.co.uk/) explains on their [website](https://www.lochnessalpacas.co.uk/about-us):
 

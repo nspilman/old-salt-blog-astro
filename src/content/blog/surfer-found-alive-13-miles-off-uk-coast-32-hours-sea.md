@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "A surfer, who had been swept out to sea while surfing off the Argyll coast of Scotland, was rescued by the Belfast Coast Guard after 32 hours at sea. Matthew Bryce, 22, was reported missing by his family when he … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/surfer1.jpg)A surfer, who had been swept out to sea while surfing off the Argyll coast of Scotland, was rescued by the Belfast Coast Guard after 32 hours at sea. Matthew Bryce, 22, was reported missing by his family when he failed to return from a surfing trip on Sunday afternoon.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/surfer1.jpg)A surfer, who had been swept out to sea while surfing off the Argyll coast of Scotland, was rescued by the Belfast Coast Guard after 32 hours at sea. Matthew Bryce, 22, was reported missing by his family when he failed to return from a surfing trip on Sunday afternoon.
 
 As reported by the [Independent](http://www.independent.co.uk/news/uk/home-news/surfer-30-hours-irish-sea-board-matthew-bryce-13-miles-scottish-coast-lucky-argyll-a7712841.html): *Police Scotland and the coastguard launched a large-scale search, with rescue teams from Campbeltown, Southend, Gigha, Tarbert and Port Ellen involved.*
 

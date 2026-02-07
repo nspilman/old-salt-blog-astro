@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Two years ago we posted about the efforts by a Bournemouth University marine archaeology team to save the a mysterious ship known only as the Swash Channel Wreck, after its location off the Dorset coast.   The team is now … Continue reading &rarr;"
 ---
 
-![swash-wreck](http://www.oldsaltblog.com/wp-content/uploads/2013/08/swash-wreck.jpg)
+![swash-wreck](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/swash-wreck.jpg)
 
 Wooden carving found on the wreck.
 

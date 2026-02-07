@@ -13,4 +13,4 @@ description: "Great summer sailing on the brand new tall ship Oliver Hazard Perr
 
 Sounds like great summer sailing on the brand new tall ship *[Oliver Hazard Perry](http://www.ohpri.org/ship)*for kids from 13-18. There are one and two week programs in July and August. [Click here to learn more.](http://www.ohpri.org/teen-summer-camp)
 
-![ohpsummerc](http://www.oldsaltblog.com/wp-content/uploads/2015/06/ohpsummerc.jpg)
+![ohpsummerc](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/ohpsummerc.jpg)

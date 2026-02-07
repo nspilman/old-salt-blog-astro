@@ -9,12 +9,12 @@ tags:
   - "duralumin"
   - "Siege of Sevastopol"
   - "Soviet G-5 Torpedo Boat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/g-5mtb.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/g-5mtb.jpg"
 author: "Rick Spilman"
 description: "The Russian Navy recently found and raised a Soviet G-5 Type motor torpedo boat sunk in the Siege of Sevastapol during World War II.  Approximately 300 G-5s were built, of which 73 were lost during World War II. Despite specific … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/g-5mtb.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/g-5mtb.jpg)  
 The Russian Navy recently [found and raised a Soviet G-5 Type motor torpedo boat](https://seawaves.com/?p=556) sunk in the Siege of Sevastapol during World War II.  Approximately 300 G-5s were built, of which 73 were lost during World War II.
 
 Despite specific differences in size and armament, American, British, and German motor torpedo boats used during World War II were fundamentally similar to each other — fast, lightly built primarily of wood and heavily armed with torpedo tubes facing forward. The Soviet G-5 was a very different craft altogether.

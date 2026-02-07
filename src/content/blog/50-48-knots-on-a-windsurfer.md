@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "British windsurfer, Steve Thorpe, was recently clocked at 50.48 knots, (58 mph or 93.3 km/hr,) sailing his windsurfer in 40 to 80 knots winds, in West Kirby, England.  If the GPS readings are confirmed, he may hold the title of the world’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/stevethorp2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/stevethorp2.jpg)
 
 Photo: Sarah Jane Owen
 

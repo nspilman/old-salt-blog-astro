@@ -12,7 +12,7 @@ tags:
   - "Pilgrim"
   - "Richard Henry Dana"
   - "Two Years Before the Mast"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/brigpilgr.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/brigpilgr.jpg"
 author: "Rick Spilman"
 description: "The brig Pilgrim, a replica of the ship immortalized in Richard Henry Dana’s 1840 memoir, Two Years Before the Mast, sank at the dock over the weekend in Dana Point, CA. The replica brig, owned by the Ocean Institute has served … Continue reading &rarr;"
 ---

@@ -9,7 +9,7 @@ author: "Rick Spilman"
 description: "The Tall Ship Soren Larsen is returning to the Pacific in 2010 2010 Summer Voyaging In May the ship will depart from New Zealand for the South Seas with a voyage route chosen to encompass some of our favourite island … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2009/05/sorenlarsen.jpg)The [Tall Ship Soren Larsen](http://www.sorenlarsen.co.nz/) is returning to the Pacific in 2010
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/05/sorenlarsen.jpg)The [Tall Ship Soren Larsen](http://www.sorenlarsen.co.nz/) is returning to the Pacific in 2010
 
 [2010 Summer Voyaging](http://www.sorenlarsen.co.nz/Pacific.htm)
 

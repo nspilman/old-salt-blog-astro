@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Extremely disturbing news.   The scandal-plagued museum appears to want to get rid of the historic ship Olympia any way that it can. Historic warship’s future may be sunk … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/oympia2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/oympia2.jpg)
 
 Extremely disturbing news.   The [scandal-plagued museum](http://www.museum-security.org/?p=1946) appears to want to get rid of the historic ship *[Olympia](http://en.wikipedia.org/wiki/USS_Olympia_\(C-6\))* any way that it can.
 

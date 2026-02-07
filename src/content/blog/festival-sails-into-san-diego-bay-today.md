@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The 2010 Port of San Diego Festival of Sail kicks off today with a parade of tall ships on San Diego Bay at 11 a.m.   The festival runs runs through September 6th  and features more than 20 tall ships … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/fos-top-image2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/fos-top-image2.jpg)
 
 The [2010 Port of San Diego Festival of Sail](http://www.sdmaritime.org/festival-of-sail/) kicks off today with a parade of tall ships on San Diego Bay at 11 a.m.   The festival runs runs through September 6th  and features more than 20 tall ships and other vessels from around the world, including the *Californian,* a replica of the original America’s Cup racing yacht *America*, the gaff topsail schooner *Bill of Rights*, the *Kaisei,* a brigantine from Antigua. [For a more complete list of participating ships click here](http://www.sdmaritime.org/fos-participating-ships/).  It sounds like a great festival, and unlike the East Coast, the weather is forecast to be beautiful.
 

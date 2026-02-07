@@ -8,12 +8,12 @@ categories:
 tags:
   - "Franklin"
   - "Northwest Passage Expedition"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/terror200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/terror200.jpg"
 author: "Rick Spilman"
 description: "Researchers have published the results of their analysis of DNA from 24 individuals who died on the ill-fated Franklin Northwest Passage Expedition.  Surprisingly, four of the 24 individuals appear to be European women, based on DNA markers. Were there women … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2016/09/terrorice.jpg)Researchers have published the results of their analysis of DNA from 24 individuals who died on the ill-fated [Franklin Northwest Passage Expedition](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition).  Surprisingly, four of the 24 individuals appear to be European women, based on DNA markers. Were there women in the Franklin expedition? Perhaps, but likely not.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/terrorice.jpg)Researchers have published the results of their analysis of DNA from 24 individuals who died on the ill-fated [Franklin Northwest Passage Expedition](https://en.wikipedia.org/wiki/Franklin%27s_lost_expedition).  Surprisingly, four of the 24 individuals appear to be European women, based on DNA markers. Were there women in the Franklin expedition? Perhaps, but likely not.
 
 Franklin’s expedition set off on the  H.M.S. *Erebus* and the H.M.S. *Terror* in 1845 heading to Arctic Canada to look for the fabled route between the Atlantic and the Pacific. By 1846, Franklin and his 129 crew members were iced in. Though the expedition was stocked with enough food to last for several years, none of officers or crew on the expedition survived. 
 

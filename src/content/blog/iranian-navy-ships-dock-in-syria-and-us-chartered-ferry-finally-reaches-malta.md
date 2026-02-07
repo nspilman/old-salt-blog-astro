@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On Tuesday, we posted about the first northbound transit by two Iranian Navy ships through the Suez Canal since 1979.  Yesterday these ships docked in Syria on a training mission.  Thanks to Phil Leon for passing the article along. Iran … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/marydelores.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/marydelores.jpg)
 
 Maria Dolores
 

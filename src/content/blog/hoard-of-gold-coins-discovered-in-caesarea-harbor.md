@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Sport divers scuba diving in the ancient Roman harbor of Caesarea in Israel discovered a horde of gold coins from the Fatmid dynasty."
 ---
 
-![Photo: Jack Guez, AFP/GETTY](http://www.oldsaltblog.com/wp-content/uploads/2015/02/caesareacoins01_88732_990x742.jpg)
+![Photo: Jack Guez, AFP/GETTY](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/caesareacoins01_88732_990x742.jpg)
 
 Photo: Jack Guez, AFP/GETTY
 

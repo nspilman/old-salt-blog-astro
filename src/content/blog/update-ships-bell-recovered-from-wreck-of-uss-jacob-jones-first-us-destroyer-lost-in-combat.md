@@ -17,12 +17,12 @@ tags:
   - "USS Jacob Jones"
   - "Western Approaches"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/destoryerbell.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/destoryerbell.jpg"
 author: "Rick Spilman"
 description: "In August 2022, we posted that British divers had located the wreck of the USS Jacob Jones in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/destoryerbell.jpg)In August 2022, [we posted that British divers had located](https://www.oldsaltblog.com/2022/08/wreck-of-uss-jacob-jones-found-off-isles-of-scilly-first-us-destroyer-lost-to-enemy-action/) the wreck of the [USS *Jacob Jones*](https://en.wikipedia.org/wiki/USS_Jacob_Jones_\(DD-61\)) in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat on December 6, 1917. USS *Jacob Jones* was the first US destroyer ever to be lost to enemy action and went down in 8 minutes. 64 of her crew of 110 were lost in the attack.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/destoryerbell.jpg)In August 2022, [we posted that British divers had located](https://www.oldsaltblog.com/2022/08/wreck-of-uss-jacob-jones-found-off-isles-of-scilly-first-us-destroyer-lost-to-enemy-action/) the wreck of the [USS *Jacob Jones*](https://en.wikipedia.org/wiki/USS_Jacob_Jones_\(DD-61\)) in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat on December 6, 1917. USS *Jacob Jones* was the first US destroyer ever to be lost to enemy action and went down in 8 minutes. 64 of her crew of 110 were lost in the attack.
 
 Now, the ship’s bell of the USS *Jacob Jones* has been recovered by the [Salvage and Marine Operations](https://des.mod.uk/wp-content/uploads/2023/06/Hd-SALMO-Candidate-Pack.pdf) (SALMO) unit, a special salvage unit with the [United Kingdom’s Ministry of Defense at the request of the US Naval History and Heritage Command (NHHC)](https://www.history.navy.mil/news-and-events/news/2024/jacob-jones.html).
 
@@ -34,7 +34,7 @@ The NHHC notes that the UK MOD’s SALMO team not only collected ROV video data 
 
 *Jacob Jones* was in the second division of destroyers sent to Europe in May 1917, the month after the United States entered the war. The destroyers were assigned convoy escort duties to protect the Western Approaches to the United Kingdom and France from U-boat attacks that threatened the movement of food, weapons, and troops to the allies on the continent.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/jacobjones.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/jacobjones.jpg)
 
 USS Jacob Jones
 

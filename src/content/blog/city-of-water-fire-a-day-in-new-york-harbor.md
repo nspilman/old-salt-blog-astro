@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Today the  the Metropolitan Waterfront Alliance hosted the \"City of Water Day\" to celebrate New York – New Jersey harbor.  Festivities were centered on Governor’s Island and Liberty State Park with activities spread across the waterfront from Edgewater to Brooklyn and Staten Island.  In addition to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/pierfire.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/pierfire.jpg)
 
 Smokey fire at South Street Seaport
 

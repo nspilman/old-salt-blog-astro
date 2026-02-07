@@ -12,12 +12,12 @@ tags:
   - "glaciers"
   - "Greenland"
   - "Greenland's Kangerlussuup Sermia"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/russellglacier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/russellglacier.jpg"
 author: "Rick Spilman"
 description: "A disturbing report from Phys.org. Greenland’s glaciers are melting 100 times faster than previously calculated, according to a new model that takes into account the unique interaction between ice and water at the island’s fjords.  Published in the journal Geophysical … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/russellglacier.jpg)A disturbing report from [Phys.org](https://phys.org/news/2022-12-greenland-glaciers-fast-previously-thought.html). Greenland’s glaciers are melting 100 times faster than previously calculated, according to a new model that takes into account the unique interaction between ice and water at the island’s fjords. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/russellglacier.jpg)A disturbing report from [Phys.org](https://phys.org/news/2022-12-greenland-glaciers-fast-previously-thought.html). Greenland’s glaciers are melting 100 times faster than previously calculated, according to a new model that takes into account the unique interaction between ice and water at the island’s fjords. 
 
 Published in the journal [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL100654), the model is the first designed specifically for vertical glacier fronts—where ice meets the ocean at a sharp angle. It reflects recent observations of an Alaskan glacier front melting up to 100 times as fast as previously assumed. According to the researchers, the model can be used to improve both ocean and ice sheet models, which are crucial elements of any global climate model.
 

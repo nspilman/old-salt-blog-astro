@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The US military is testing the technology for Sea Hunter, the first ASW Continuous Trail Unmanned Vessel (ACTUV), a 132 feet long autonomous drone ship designed to track enemy submarines. The ship is designed to be unmanned and operate autonomously … Continue reading &rarr;"
 ---
 
-![seahunter](http://www.oldsaltblog.com/wp-content/uploads/2016/04/seahunter.png)
+![seahunter](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/seahunter.png)
 
 Sea Hunter Being Made Ready for Sea Trials Photo: DARPA
 

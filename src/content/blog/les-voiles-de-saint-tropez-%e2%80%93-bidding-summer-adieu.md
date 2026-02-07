@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Saint-Tropez Races Bid Summer Adieu According to legend, a bet in 1981 between two yachtsmen at a fashionable Saint-Tropez restaurant led to a race between Pride, an American-owned Swan 44 sailboat and Ikra, a French-owned International 12-meter rival. On Sunday, … Continue reading &rarr;"
 ---
 
-[![22acaytrop](http://www.oldsaltblog.com/wp-content/uploads/2009/09/22acaytrop.jpg)Saint-Tropez Races Bid Summer Adieu](http://www.nytimes.com/2009/09/23/business/global/23iht-acaytrop.html?_r=5)
+[![22acaytrop](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/22acaytrop.jpg)Saint-Tropez Races Bid Summer Adieu](http://www.nytimes.com/2009/09/23/business/global/23iht-acaytrop.html?_r=5)
 
 *According to legend, a bet in 1981 between two yachtsmen at a fashionable Saint-Tropez restaurant led to a race between Pride, an American-owned Swan 44 sailboat and Ikra, a French-owned International 12-meter rival.*
 

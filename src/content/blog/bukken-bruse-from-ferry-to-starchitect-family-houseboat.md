@@ -12,12 +12,12 @@ tags:
   - "Denmark"
   - "ferry"
   - "houseboat"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/danish-ferry.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/danish-ferry.jpg"
 author: "Rick Spilman"
 description: "Built almost 60 years ago, the 126′ long ferry Bukken-Bruse carried cars and passengers from Bergen, Norway to various coastal ports for close to two decades before being redeployed to operate between Fejø and Kragenæs, Denmark for another 20 years. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/danish-ferry.jpg)Built almost 60 years ago, the 126′ long ferry [*Bukken-Bruse*](https://da.wikipedia.org/wiki/Bukken-Bruse) carried cars and passengers from Bergen, Norway to various coastal ports for close to two decades before being redeployed to operate between Fejø and Kragenæs, Denmark for another 20 years. The popular ferry was also featured on a Danish postage stamp.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/danish-ferry.jpg)Built almost 60 years ago, the 126′ long ferry [*Bukken-Bruse*](https://da.wikipedia.org/wiki/Bukken-Bruse) carried cars and passengers from Bergen, Norway to various coastal ports for close to two decades before being redeployed to operate between Fejø and Kragenæs, Denmark for another 20 years. The popular ferry was also featured on a Danish postage stamp.
 
 The old ferry is now in Copenhagen, where it has undergone a radical transformation into a luxury houseboat, designed and occupied by the Danish “starchitect” [Bjarke Ingels](https://en.wikipedia.org/wiki/Bjarke_Ingels).  The renovated ferry was recently featured on the cover of [Architectural Digest](https://www.architecturaldigest.com/story/inside-bjarke-ingelss-innovative-houseboat).
 

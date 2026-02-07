@@ -10,7 +10,7 @@ tags:
   - "blind sailor"
   - "Mitsuhiro Iwamoto"
   - "Pacific"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/blindsailor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/blindsailor.jpg"
 author: "Rick Spilman"
 description: "Mitsuhiro Iwamoto, 52, sailed 8,700-miles across the Pacific non-stop, becoming the first visually impaired person to do so. He was assisted by his sighted navigator, Doug Smith.  The two left California in late February on a 12m (40 ft) sailboat and … Continue reading &rarr;"
 ---

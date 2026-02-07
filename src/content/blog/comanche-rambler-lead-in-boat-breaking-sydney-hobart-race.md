@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The American yachts Comanche and Rambler are battling over the lead in the Rolex Sydney-Hobart Race, which has turned into a major boat-breaker. Twenty-nine boats, representing a quarter of the fleet, have retired from the race, most with damage from … Continue reading &rarr;"
 ---
 
-![Photo: Rolex/Stefano Gattini](http://www.oldsaltblog.com/wp-content/uploads/2015/12/comanche1.jpg)
+![Photo: Rolex/Stefano Gattini](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/comanche1.jpg)
 
 Photo: Rolex/Stefano Gattini
 

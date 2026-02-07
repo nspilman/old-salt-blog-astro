@@ -15,12 +15,12 @@ tags:
   - "Mortar Wreck"
   - "Poole Bay"
   - "Purbeck stone"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/mortarship-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/mortarship-1.jpg"
 author: "Rick Spilman"
 description: "Over 750 years ago, a medieval ship loaded with a cargo of limestone, carved gravestones, and mortars for grinding, sank off the Dorset coast a mile away from the nearest harbor.  Now the so-called Mortar Wreck has been granted the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/mortarship-1.jpg)Over 750 years ago, a medieval ship loaded with a cargo of limestone, carved gravestones, and mortars for grinding, sank off the Dorset coast a mile away from the nearest harbor.  Now the so-called [Mortar Wreck](https://historicengland.org.uk/whats-new/news/three-rare-shipwrecks-protected/#mortar) has been granted the highest level of protection on the advice of [Historic England](https://historicengland.org.uk/whats-new/news/three-rare-shipwrecks-protected/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/mortarship-1.jpg)Over 750 years ago, a medieval ship loaded with a cargo of limestone, carved gravestones, and mortars for grinding, sank off the Dorset coast a mile away from the nearest harbor.  Now the so-called [Mortar Wreck](https://historicengland.org.uk/whats-new/news/three-rare-shipwrecks-protected/#mortar) has been granted the highest level of protection on the advice of [Historic England](https://historicengland.org.uk/whats-new/news/three-rare-shipwrecks-protected/).
 
 The 13th-century wreck, discovered in Poole Bay in Dorset, is the oldest known protected wreck in English waters where hull remains can be seen. Tree ring dating of the wreck indicates that the timbers used to construct the hull are from Irish oak trees, felled between 1242-1265, during the reign of King Henry III.
 

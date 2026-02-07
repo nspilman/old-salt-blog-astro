@@ -12,7 +12,7 @@ tags:
   - "Delaware Bay oyster schooner"
   - "new york harbor"
   - "official tall ship of the State of New Jersey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/05/ajmeerwald.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/ajmeerwald.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The Meerwald is also the \"Official Tall Ship\" of the State of New Jersey and was … Continue reading &rarr;"
 ---

@@ -20,7 +20,7 @@ author: "Rick Spilman"
 description: "Last Thursday, the mellifluous blast of the SS Normandie‘s steam whistle once gain reverberated across the piers of the South Street Seaport in New York.   The blowing of the steam whistle celebrated the anniversary of the arrival of French luxury liner to New York seventy five years … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/NORMANDIE_WHISTLE06032010.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/NORMANDIE_WHISTLE06032010.jpg)
 
 PHOTO CREDIT DNAinfo/Julie Shapiro
 

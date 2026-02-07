@@ -10,12 +10,12 @@ tags:
   - "Majorca"
   - "Roman"
   - "Underwater Cave"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/amphoraecave.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/amphoraecave.jpg"
 author: "Rick Spilman"
 description: "Over the years, we have posted about the \"world’s oldest beer\" and the \"world’s oldest champagne\" found in shipwrecks dating from the 1700s. Recently, divers have located roughly 200 ancient Roman amphorae, believed to originally have stored wine, in an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/amphoraecave.jpg)Over the years, we have posted about the “[world’s oldest beer](http://www.oldsaltblog.com/2010/09/baltic-shipwreck-with-worlds-oldest-champagne-and-now-the-worlds-oldest-beer/)” and the “[world’s oldest champagne](http://www.oldsaltblog.com/2010/07/worlds-oldest-champagne-found-on-baltic-seabed/)” found in shipwrecks dating from the 1700s. Recently, divers have located roughly [200 ancient Roman amphorae](https://www.dailymail.co.uk/sciencetech/article-8019835/Around-200-ancient-Roman-amphora-used-store-wine-discovered-underwater-cave.html), believed to originally have stored wine, in an underwater cave off the coast of Majorca.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/amphoraecave.jpg)Over the years, we have posted about the “[world’s oldest beer](http://www.oldsaltblog.com/2010/09/baltic-shipwreck-with-worlds-oldest-champagne-and-now-the-worlds-oldest-beer/)” and the “[world’s oldest champagne](http://www.oldsaltblog.com/2010/07/worlds-oldest-champagne-found-on-baltic-seabed/)” found in shipwrecks dating from the 1700s. Recently, divers have located roughly [200 ancient Roman amphorae](https://www.dailymail.co.uk/sciencetech/article-8019835/Around-200-ancient-Roman-amphora-used-store-wine-discovered-underwater-cave.html), believed to originally have stored wine, in an underwater cave off the coast of Majorca.
 
 The ceramic containers were found in the Fuente de Ses Aiguades cave, which lies in the Bay of Alcudia on the northeastern coast of Majorca, in the Spanish Balearic Islands. Unlike the ancient beer and champagne bottles whose contents were still more or less intact, the amphorae are no longer sealed so whatever they contained, whether wine or oil, has long washed away.
 

@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "An intriguing if slightly disturbing article and photo from the LA Times: Fear the blobfish As scary as the jumping Asian carp may be, there’s something even scarier  –  the blobfish. As you can see from the accompanying photograph, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/blobfish.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/blobfish.jpg)
 
 The Blobfish
 

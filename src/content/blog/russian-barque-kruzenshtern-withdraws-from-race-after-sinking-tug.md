@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Russian barque Kruzenshtern has withdrawn from the Falmouth Tall Ships Regatta, the sinking of a tug in the Danish port of Esbjerg last week."
 ---
 
-![Photo:  jv.dk](http://www.oldsaltblog.com/wp-content/uploads/2014/08/divemasterk.jpg)
+![Photo:  jv.dk](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/divemasterk.jpg)
 
 Photo: jv.dk
 

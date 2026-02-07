@@ -10,12 +10,12 @@ categories:
 tags:
   - "John Lewis"
   - "USNS John Lewis"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/usnsjohnlewis.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/usnsjohnlewis.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, USNS John Lewis (T-AO 205), the first in a new class of Navy oiler, was christened at NASSCO on the one-year anniversary of the congressman’s death. It’s fitting that we honor John Lewis with this formidable ship, because … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/usnsjohnlewis.jpg)Last Saturday, [USNS John Lewis (T-AO 205)](https://en.wikipedia.org/wiki/USNS_John_Lewis_\(T-AO-205\)), the first in a new class of Navy oiler, was christened at NASSCO on the one-year anniversary of the congressman’s death.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/usnsjohnlewis.jpg)Last Saturday, [USNS John Lewis (T-AO 205)](https://en.wikipedia.org/wiki/USNS_John_Lewis_\(T-AO-205\)), the first in a new class of Navy oiler, was christened at NASSCO on the one-year anniversary of the congressman’s death.
 
 It’s fitting that we honor John Lewis with this formidable ship, because John Lewis was a warrior. One of the mottos of the Navy is ‘Semper Fortis’ — ‘Always Courageous’ — and John Lewis was indeed always courageous,” said House Speaker Nancy Pelosi, who led a congressional delegation to the event on Saturday. “This ship will be a beacon to the world reminding all who see it of the persistence and courage of John Lewis.”
 

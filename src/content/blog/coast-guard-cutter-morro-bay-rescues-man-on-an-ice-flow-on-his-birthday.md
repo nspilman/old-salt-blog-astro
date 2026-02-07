@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Jim Turton, from Colchester, Ontario, turned 45 years old today.  Because of the efforts of the officers and crew of the U.S. Coast Guard Cutter Morro Bay, a 140 foot Bay class icebreaker, he just may have a shot at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/morobay1.jpg)Jim Turton, from Colchester, Ontario, turned 45 years old today.  Because of the efforts of the officers and crew of the U.S. Coast Guard Cutter *[Morro Bay](http://www.uscg.mil/tcyorktown/info/History/Cutters/morrobay.asp)*, a 140 foot Bay class icebreaker, he just may have a shot at celebrating his next birthday, (provided he stays off snowmobiles on thin ice in the upcoming year.)   Turton was one of four snowmobilers who fell through the ice near Colchester.  His three companions made it to shore, but Turton crawled onto an floating ice flow drifting out into Lake Erie.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/morobay1.jpg)Jim Turton, from Colchester, Ontario, turned 45 years old today.  Because of the efforts of the officers and crew of the U.S. Coast Guard Cutter *[Morro Bay](http://www.uscg.mil/tcyorktown/info/History/Cutters/morrobay.asp)*, a 140 foot Bay class icebreaker, he just may have a shot at celebrating his next birthday, (provided he stays off snowmobiles on thin ice in the upcoming year.)   Turton was one of four snowmobilers who fell through the ice near Colchester.  His three companions made it to shore, but Turton crawled onto an floating ice flow drifting out into Lake Erie.
 
 [Coast Guard Cutter rescues man adrift on Lake Erie ice floe on his birthday](http://www.wkyc.com/news/local/story.aspx?storyid=173085&catid=45)  
   

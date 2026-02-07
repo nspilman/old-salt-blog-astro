@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "4th Mumbai International Match Race Begins Today The city of Mumbai with its great maritime history adds an exciting new event – the West Coast Marine 4th Mumbai International Match Race 2010. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/mimr2010.jpg)[4th Mumbai International Match Race Begins Today](http://www.humsafar.com/4th-mumbai-international-match-race-begins-today-2427.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/mimr2010.jpg)[4th Mumbai International Match Race Begins Today](http://www.humsafar.com/4th-mumbai-international-match-race-begins-today-2427.html)
 
 *The city of Mumbai with its great maritime history adds an exciting new event – the West Coast Marine 4th Mumbai International Match Race 2010.*  
   

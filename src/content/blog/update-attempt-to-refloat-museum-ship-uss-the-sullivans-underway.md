@@ -12,12 +12,12 @@ tags:
   - "museum ship"
   - "Shane Stephenson"
   - "USS The Sullivans"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/sullivansupdate.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/sullivansupdate.jpg"
 author: "Rick Spilman"
 description: "A week ago last Thursday, the museum ship, the USS The Sullivans in the Buffalo and Erie County Naval & Military Park began to take on water and partially sank at her berth. Naval Park Director of Museum Collections and Curator Shane … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/sullivansupdate.jpg)A week ago last Thursday, the museum ship, the USS [*The Sullivans*](https://en.wikipedia.org/wiki/USS_The_Sullivans_\(DD-537\)) in the [Buffalo and Erie County Naval & Military Park](https://buffalonavalpark.org/) began to take on water and [partially sank at her berth](https://www.oldsaltblog.com/2022/04/museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie/). Naval Park Director of Museum Collections and Curator Shane Stephenson [provided an update](https://www.youtube.com/watch?v=Tz7STsoBPJ8) on the status of USS *The Sullivans* Sunday evening via YouTube. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/04/sullivansupdate.jpg)A week ago last Thursday, the museum ship, the USS [*The Sullivans*](https://en.wikipedia.org/wiki/USS_The_Sullivans_\(DD-537\)) in the [Buffalo and Erie County Naval & Military Park](https://buffalonavalpark.org/) began to take on water and [partially sank at her berth](https://www.oldsaltblog.com/2022/04/museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie/). Naval Park Director of Museum Collections and Curator Shane Stephenson [provided an update](https://www.youtube.com/watch?v=Tz7STsoBPJ8) on the status of USS *The Sullivans* Sunday evening via YouTube. 
 
 He reported that crews were “test pumping” areas on USS *The Sullivans*, preparing for the actual pumping to raise the ship. Stephenson said that will likely occur within the next two or three days.
 

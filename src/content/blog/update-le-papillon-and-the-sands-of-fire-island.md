@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Not quite three weeks ago the 50′ steel pinky schooner Le Papillon came ashore on Fire Island, a barrier island off Long Island, northeast of the entrance to New York harbor.  Will van Dorp at the Tugster blog has taken some amazing … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/0aaaaaafi21.jpg)](http://tugster.wordpress.com/2011/04/17/ashore-4/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/0aaaaaafi21.jpg)](http://tugster.wordpress.com/2011/04/17/ashore-4/)
 
 Photo: Will van Dorp
 

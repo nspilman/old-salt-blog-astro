@@ -14,12 +14,12 @@ tags:
   - "Navantia"
   - "Royal Navy"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/hW.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/hW.jpg"
 author: "Rick Spilman"
 description: "Harland & Wolff, the Belfast-based shipyard, has recently signed a  £ 1.6 billion contract to build three support ships for the Royal Navy in partnership with Spanish state-owned Navantia. The shipyard built more than 1,600 ships, including the RMS Titanic. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/hW.jpg)[Harland & Wolff](https://www.harland-wolff.com/), the Belfast-based shipyard, has recently signed a  £ 1.6 billion contract to build three support ships for the Royal Navy in partnership with Spanish state-owned Navantia. The shipyard built more than 1,600 ships, including the [RMS *Titanic.*](https://en.wikipedia.org/wiki/Titanic) The last ship built by the yad was delivered in 2003.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/hW.jpg)[Harland & Wolff](https://www.harland-wolff.com/), the Belfast-based shipyard, has recently signed a  £ 1.6 billion contract to build three support ships for the Royal Navy in partnership with Spanish state-owned Navantia. The shipyard built more than 1,600 ships, including the [RMS *Titanic.*](https://en.wikipedia.org/wiki/Titanic) The last ship built by the yad was delivered in 2003.
 
 [UK Daily News](https://ukdaily.news/belfast/harland-wolff-belfast-shipyard-that-built-titanic-prepares-for-relaunch-the-irish-times-55876.html) reports that three years ago, John Wood, chief executive of London-based energy company InfraStrata, bought the company out of receivership for £ 6 million. The manager found eight-foot-tall weeds in the yard and recalls colleagues’ disbelief that the Harland & Wolff company, founded in 1861, could be raised from the dead. 
 

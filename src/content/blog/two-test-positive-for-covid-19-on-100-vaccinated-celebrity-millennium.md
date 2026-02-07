@@ -12,12 +12,12 @@ tags:
   - "COVID-19"
   - "cruise ship"
   - "vaccinated"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/cmillenium.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/cmillenium.jpg"
 author: "Rick Spilman"
 description: "When the cruise ship Celebrity Millennium departed from St. Maarten on June 5 for a seven-night cruise visiting Aruba, Curacao, and Barbados, each of the 600 passengers (over 12 years old) and 700 crew members had been fully vaccinated and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/cmillenium.jpg)When the cruise ship [*Celebrity Millennium*](https://en.wikipedia.org/wiki/Celebrity_Millennium) departed from St. Maarten on June 5 for a seven-night cruise visiting Aruba, Curacao, and Barbados, each of the 600 passengers (over 12 years old) and 700 crew members had been fully vaccinated and had been recently tested for Covid-19. Nevertheless, yesterday the [cruise line announced that two passengers had tested positive](https://www.washingtonpost.com/travel/2021/06/10/cruise-covid-celebrity-vaccine/) for the virus. The two infected passengers had shared a stateroom and are reported to be asymptomatic. They have been isolated and are receiving medical care.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/cmillenium.jpg)When the cruise ship [*Celebrity Millennium*](https://en.wikipedia.org/wiki/Celebrity_Millennium) departed from St. Maarten on June 5 for a seven-night cruise visiting Aruba, Curacao, and Barbados, each of the 600 passengers (over 12 years old) and 700 crew members had been fully vaccinated and had been recently tested for Covid-19. Nevertheless, yesterday the [cruise line announced that two passengers had tested positive](https://www.washingtonpost.com/travel/2021/06/10/cruise-covid-celebrity-vaccine/) for the virus. The two infected passengers had shared a stateroom and are reported to be asymptomatic. They have been isolated and are receiving medical care.
 
 How did the two passengers become infected? While the vaccines are highly effective, they are not 100%. A small number of so-called breakthrough cases have been observed. There were apparently a few unvaccinated children onboard the ship as well.
 

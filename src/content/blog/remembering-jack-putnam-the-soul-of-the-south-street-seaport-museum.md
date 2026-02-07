@@ -11,12 +11,12 @@ tags:
   - "Jack Putnam"
   - "new york"
   - "South Street Seaport Museum"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/jackputnammelville.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/jackputnammelville.jpg"
 author: "Rick Spilman"
 description: "John Putnam, who preferred to be called Jack, died earlier this month at the age of 82. Jack was the historian at the South Street Seaport Museum in New York and so much more. Jack joined the museum in 1982 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/jackputnammelville.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/jackputnammelville.jpg)
 
 Jack Putnam as Herman Melville
 

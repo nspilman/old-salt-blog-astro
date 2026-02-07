@@ -13,12 +13,12 @@ tags:
   - "Batavia's Graveyard"
   - "Dutch East India Company"
   - "Murder Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/murderisland.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/murderisland.jpg"
 author: "Rick Spilman"
 description: "The story of the Dutch East Indiaman Batavia is as grim and tragic as it is fascinating. The Batavia was wrecked on her maiden voyage in 1629 when she ran aground on Beacon Island off Western Australia. Of the original 341 passengers and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/murderisland.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/murderisland.jpg)
 
 Beacon Island, also known as Murder Island
 

@@ -11,12 +11,12 @@ tags:
   - "Danube"
   - "Korean tourists"
   - "Viking Sigyn"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/mermaiddanube.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/mermaiddanube.jpg"
 author: "Rick Spilman"
 description: "A Viking River Cruises ship, the Viking Sigyn, collided with a tourist sightseeing boat in the Danube River named Mermaid off Budapest on Wednesday night. Of the 33 Korean tourists and two Hungarian crew aboard the sightseeing boat, seven have … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/mermaiddanube.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/mermaiddanube.jpg)
 
 Mermaid on the Danube
 

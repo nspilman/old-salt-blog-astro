@@ -13,7 +13,7 @@ tags:
   - "Iceberg Alley"
   - "Labrador"
   - "Newfoundland"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/icebergalley.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/icebergalley.jpg"
 author: "Rick Spilman"
 description: "Every year, in \"Iceberg Alley\", a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by. Recently, one such iceberg was caught on video and posted on X (ex-Twitter) where it quickly went … Continue reading &rarr;"
 ---

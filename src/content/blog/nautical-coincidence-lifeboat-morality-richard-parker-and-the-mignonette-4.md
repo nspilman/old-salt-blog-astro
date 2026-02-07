@@ -15,12 +15,12 @@ tags:
   - "Richard Parker"
   - "The Narrative of Arthur Gordon Pym of Nantucket"
   - "Yann Martel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/minionette.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/minionette.jpg"
 author: "Rick Spilman"
 description: "Here is another old favorite, a companion repost to yesterday’s repost of \"The Unsinkable Hugh Williams – Truth Behind the Legend?\" We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/minionette.jpg)Here is another old favorite, a companion repost to yesterday’s repost of [“The Unsinkable Hugh Williams – Truth Behind the Legend?”](http://www.oldsaltblog.com/2018/10/the-unsinkable-hugh-williams-truth-behind-the-legend-2/)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/minionette.jpg)Here is another old favorite, a companion repost to yesterday’s repost of [“The Unsinkable Hugh Williams – Truth Behind the Legend?”](http://www.oldsaltblog.com/2018/10/the-unsinkable-hugh-williams-truth-behind-the-legend-2/)
 
 [We recently posted](http://www.oldsaltblog.com/2018/10/the-unsinkable-hugh-williams-truth-behind-the-legend-2/) in response to a video, “[The Strangest Coincidence Ever Recorded?](http://youtu.be/m29PQBLwF4E).”  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on the same day,  December 5th separated by over a hundred years.  The video claimed that all three Hugh Williams’ ships sank on December 5th, but that was not the case.  And Hugh Williams is a very common name in North Wales, so while it is a remarkable coincidence, it doesn’t quite rank as the “strangest ever recorded.”
 

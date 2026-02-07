@@ -11,12 +11,12 @@ tags:
   - "Landing Helicopter Assault ship"
   - "South China Sea"
   - "USS Theodore Roosevelt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/ussamerica.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ussamerica.jpg"
 author: "Rick Spilman"
 description: "The UK Daily Mail’s headline, as shown on Google, read \"USS America aircraft carrier steams to intercept Chinese ships…\" The story behind the headline is that the USS America and the guided-missile destroyer USS Bunker Hill are being deployed to intercept … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/ussamerica.jpg)The UK Daily Mail’s headline, as shown on Google, read “[USS *America* aircraft carrier steams to intercept Chinese ships…”](https://www.dailymail.co.uk/news/article-8238899/USS-America-aircraft-carrier-steams-intercept-Chinese-ships-disputed-waters-near-Malaysia.html)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/ussamerica.jpg)The UK Daily Mail’s headline, as shown on Google, read “[USS *America* aircraft carrier steams to intercept Chinese ships…”](https://www.dailymail.co.uk/news/article-8238899/USS-America-aircraft-carrier-steams-intercept-Chinese-ships-disputed-waters-near-Malaysia.html)
 
 The story behind the headline is that the [*USS America*](https://en.wikipedia.org/wiki/USS_America_\(LHA-6\)) and the guided-missile destroyer [USS *Bun**ker Hill*](https://en.wikipedia.org/wiki/USS_Bunker_Hill_\(CG-52\)) are being deployed to intercept a Chinese government survey ship and several Chinese Coast Guard vessels in a contested stretch of the South China Sea near Malaysia. US officials have accused China of taking advantage of the distraction posed by the coronavirus outbreak to increase its maritime presence in the region. The deployment of the USS *America* Expeditionary Strike Group is intended as a show of force.
 

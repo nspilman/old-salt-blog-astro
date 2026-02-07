@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "In April we posted about the sinking of an overloaded fishing boat carrying Libyan refugees where over 200 drowned.   Today it was reported that another overloaded refugee boat in the roughly the same area sank with over 500 people aboard. Fortunately, the Italian … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/9f95af86d700.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/9f95af86d700.jpg)
 
 Photo: Valentina Pop
 

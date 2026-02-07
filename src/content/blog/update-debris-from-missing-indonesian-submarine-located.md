@@ -12,12 +12,12 @@ tags:
   - "debris"
   - "Indonesian Submarine"
   - "Nanggala"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/nanggala4022.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/nanggala4022.jpg"
 author: "Rick Spilman"
 description: "The Indonesia Navy announced that it has located debris from the missing submarine KRI Nanggala 402, indicating that the submarine sank with the loss of 53 crew.  API reports that military chief Hadi Tjahjanto said the presence of an oil … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/nanggala4022.jpg)The Indonesia Navy announced that it has located debris from the missing submarine [KRI *Nanggala 402*](https://en.wikipedia.org/wiki/KRI_Nanggala_\(402\)), indicating that the submarine sank with the loss of 53 crew. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/nanggala4022.jpg)The Indonesia Navy announced that it has located debris from the missing submarine [KRI *Nanggala 402*](https://en.wikipedia.org/wiki/KRI_Nanggala_\(402\)), indicating that the submarine sank with the loss of 53 crew. 
 
 [API](https://apnews.com/article/asia-pacific-indonesia-98b58437f6742d197d1eb593db954894) reports that military chief Hadi Tjahjanto said the presence of an oil slick, as well as the discovery of debris near the location of KRI *Nanggala* 402′s last dive on Wednesday off the island of Bali, were clear proof the vessel had sunk. Indonesia earlier considered the vessel to be only missing.
 

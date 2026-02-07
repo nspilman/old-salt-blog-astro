@@ -12,12 +12,12 @@ tags:
   - "Honolulu"
   - "Latitude 35"
   - "Ocean Sheroes"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/sheroes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/sheroes.jpg"
 author: "Rick Spilman"
 description: "The fourth rowing of the Great Pacific Race has shattered transPacific records. The race departed from the Golden Gate Bridge on May 30, bound for Honolulu. The teams are competing in identical boats, rowing entirely self-supported and unassisted across 2,400 miles … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/sheroes.jpg)The fourth rowing of the [Great Pacific Race](https://greatpacificrace.com/) has shattered transPacific records. The race departed from the Golden Gate Bridge on May 30, bound for Honolulu. The teams are competing in identical boats, rowing entirely self-supported and unassisted across 2,400 miles of open ocean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/sheroes.jpg)The fourth rowing of the [Great Pacific Race](https://greatpacificrace.com/) has shattered transPacific records. The race departed from the Golden Gate Bridge on May 30, bound for Honolulu. The teams are competing in identical boats, rowing entirely self-supported and unassisted across 2,400 miles of open ocean.
 
 The first to complete the race was team [Latitude 35](https://abc7news.com/rowing-record-sf-hawaii-world-speed-row-crew/10853713/), a four-man team, who arrived after 30 days, breaking the previous record for a crew of four men to row west across the mid-Pacific route by nine days. The team is made up of Jason Caldwell, Angus Collins, Duncan Roy, and Jordan Shuttleworth.
 

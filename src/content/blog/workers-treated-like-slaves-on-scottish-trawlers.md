@@ -11,12 +11,12 @@ tags:
   - "human trafficking"
   - "modern slavery"
   - "Scottish trawlers"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/tnenterprizes.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/tnenterprizes.jpg"
 author: "Rick Spilman"
 description: "A BBC investigation has revealed that dozens of workers from around the world may have been trafficked into the UK to work for a small family-owned Scottish fishing firm. Thirty-five men from the Philippines, Ghana, India, and Sri Lanka were … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/tnenterprizes.jpg)A [BBC](https://www.bbc.com/news/articles/cd9dnk34k41o) investigation has revealed that dozens of workers from around the world may have been trafficked into the UK to work for a small family-owned Scottish fishing firm.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/tnenterprizes.jpg)A [BBC](https://www.bbc.com/news/articles/cd9dnk34k41o) investigation has revealed that dozens of workers from around the world may have been trafficked into the UK to work for a small family-owned Scottish fishing firm.
 
 Thirty-five men from the Philippines, Ghana, India, and Sri Lanka were recognized as victims of modern slavery by the Home Office after being referred to it between 2012 and 2020.
 

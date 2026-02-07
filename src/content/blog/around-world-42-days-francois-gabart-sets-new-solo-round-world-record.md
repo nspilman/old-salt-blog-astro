@@ -12,12 +12,12 @@ tags:
   - "MACIF"
   - "maxi-trimaran"
   - "single-handed"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/12/gabarbrest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/gabarbrest.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Francois Gabart who just set a new record for sailing around the world single-handed. The 34-year old Gabart sailed his 30 meter (98 foot) long MACIF maxi-trimaran around the globe alone in a remarkable 42 days, 16 hours, 40 minutes … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/gabarbrest.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/gabarbrest.jpg)
 
 Gabart Arriving in Brest
 

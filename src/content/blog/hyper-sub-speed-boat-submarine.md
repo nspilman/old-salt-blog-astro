@@ -10,7 +10,7 @@ tags:
   - "Hyper-Sub"
   - "speedboat"
   - "submarine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/hypersub-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/hypersub-1.jpg"
 author: "Rick Spilman"
 description: "The most common response to the Hyper-Sub is that it looks like something from a James Bond movie. The decidedly strange hybrid craft is a high-speed long-range speedboat which can also turn into a submarine. The craft has a capacity for … Continue reading &rarr;"
 ---

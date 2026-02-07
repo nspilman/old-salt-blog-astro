@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The Carnival Splendor, which was crippled by an engine room fire on November 8th, leaving it drifting for days off the coast of Mexico with nearly 4,500 crew members and passengers aboard, is expected to sail from San Francisco on Friday … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/ba-carnivalsplen.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/ba-carnivalsplen.jpg)
 
 Photo: Washburn, Alex / The Chronicle
 

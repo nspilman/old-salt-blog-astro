@@ -19,7 +19,7 @@ author: "Rick Spilman"
 description: "Navy divers, working with the United States Army Corps of Engineers, are attempting to raise what is left of the 250′ long CSS Georgia, an ironclad warship from the Civil War, in preparation for dredging the Savannah River.  The river is … Continue reading &rarr;"
 ---
 
-![Propeller from the CSS Georgia. US Army Corps of Engineers photo by Michael Jordan](http://www.oldsaltblog.com/wp-content/uploads/2015/08/georgiapropeller.jpg)
+![Propeller from the CSS Georgia. US Army Corps of Engineers photo by Michael Jordan](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/georgiapropeller.jpg)
 
 Propeller from the CSS Georgia. US Army Corps of Engineers photo by Michael Jordan
 
@@ -35,4 +35,4 @@ As reported by [MLive.com](http://www.mlive.com/news/us-world/index.ssf/2015/08/
 
 Thanks to David Rye for contributing to this post.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/h58721.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/h58721.jpg)

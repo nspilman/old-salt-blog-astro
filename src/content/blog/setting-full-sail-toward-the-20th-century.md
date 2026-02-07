@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an \"entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
 ---
 
-[![cham_650](http://www.oldsaltblog.com/wp-content/uploads/2009/10/cham_650.jpg)](http://graphics8.nytimes.com/images/2009/10/02/arts/02cham_650.jpg)
+[![cham_650](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/cham_650.jpg)](http://graphics8.nytimes.com/images/2009/10/02/arts/02cham_650.jpg)
 
 Thomas Chambers’s “Packet Ship Passing Castle Williams, New York Harbor”
 

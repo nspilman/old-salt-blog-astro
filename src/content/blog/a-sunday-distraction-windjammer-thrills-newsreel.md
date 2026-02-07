@@ -9,7 +9,7 @@ tags:
   - "Castle Films"
   - "newsreel"
   - "Windjammer Thrills"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/windjammerthrills.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/windjammerthrills.jpg"
 author: "Rick Spilman"
 description: "As a brief respite from the current madness, here is a mixed-up montage of sailing footage from the Castle Films newsreel named Windjammer Thrills. The newsreel starts with the square-rigged training ship Christian Radich, moves on to fishing schooner races … Continue reading &rarr;"
 ---

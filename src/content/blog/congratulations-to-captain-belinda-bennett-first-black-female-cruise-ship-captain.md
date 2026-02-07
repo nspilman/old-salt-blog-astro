@@ -11,12 +11,12 @@ tags:
   - "Captain Belinda Bennett"
   - "First Black Female Cruise Ship Captain"
   - "Windstar Cruise Lines"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/captbennettws.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/captbennettws.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Captain Belinda Bennett, the first black female captain of a cruise ship.  Captain Bennett has sailed for Windstar Cruise Lines for 14 years and is now in command of the MSY Wind Star, operating in the Caribbean in winter … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/captbennettws.jpg)Congratulations to [Captain Belinda Bennett](https://blog.windstarcruises.com/diversity-sails-forward-introducing-captain-belinda-bennett-windstars-first-black-female-ships-master/), the first black female captain of a cruise ship.  Captain Bennett has sailed for Windstar Cruise Lines for 14 years and is now in command of the [MSY *Wind Star*](https://www.windstarcruises.com/yachts/wind-star/overview/), operating in the Caribbean in winter and Europe in the summer.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/captbennettws.jpg)Congratulations to [Captain Belinda Bennett](https://blog.windstarcruises.com/diversity-sails-forward-introducing-captain-belinda-bennett-windstars-first-black-female-ships-master/), the first black female captain of a cruise ship.  Captain Bennett has sailed for Windstar Cruise Lines for 14 years and is now in command of the [MSY *Wind Star*](https://www.windstarcruises.com/yachts/wind-star/overview/), operating in the Caribbean in winter and Europe in the summer.
 
 Captain Bennett recently won the U.K.’s prestigious [Merchant Navy Medal for Meritorious Service](https://www.maritime-executive.com/article/captain-belinda-bennett-awarded-merchant-navy-medal).
 

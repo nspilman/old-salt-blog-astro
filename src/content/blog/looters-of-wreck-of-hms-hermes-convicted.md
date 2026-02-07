@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last year we posted about warships from World War II that had vanished after illegal scrappers literally cut them up and hauled the steel away. Here is a news item on theft on a different scale and with a better outcome. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/hmshermes.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/hmshermes.jpg)
 
 HMS Hermes
 

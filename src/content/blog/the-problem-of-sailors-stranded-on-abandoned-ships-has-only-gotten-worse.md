@@ -15,12 +15,12 @@ tags:
   - "Mohammad Aisha"
   - "ship owners abandoning crews"
   - "the International Labor Organization"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/almaha.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/almaha.jpg"
 author: "Rick Spilman"
 description: "Back in 2021, we posted about Mohammed Aisha, the First Officer of the MV Aman, who had been stranded on the ship for almost four years, stuck off the Egyptian coast after the ship’s owners in Bahrain faced financial difficulties. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/almaha.jpg)Back in 2021, we [posted about Mohammed Aisha](https://www.oldsaltblog.com/2021/04/sailor-finally-released-from-abandoned-ship-after-four-years/), the First Officer of the MV *Aman*, who had been stranded on the ship for almost four years, stuck off the Egyptian coast after the ship’s owners in Bahrain faced financial difficulties. He was finally freed and flown home to Syria.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/almaha.jpg)Back in 2021, we [posted about Mohammed Aisha](https://www.oldsaltblog.com/2021/04/sailor-finally-released-from-abandoned-ship-after-four-years/), the First Officer of the MV *Aman*, who had been stranded on the ship for almost four years, stuck off the Egyptian coast after the ship’s owners in Bahrain faced financial difficulties. He was finally freed and flown home to Syria.
 
 Now, there are reports in the media of Abdul Nasser Saleh who finally returned home to Egypt after spending almost a decade working without pay on the cargo ship *Al-Maha*, abandoned by its owner at ports along the Red Sea.
 

@@ -13,12 +13,12 @@ tags:
   - "Kaga"
   - "Paul Allen"
   - "RV Petrel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/kaga.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/kaga.jpg"
 author: "Rick Spilman"
 description: "Paul Allen, the billionaire co-founder of Microsoft, died almost exactly a year ago.  Nevertheless, his passion for underwater archeology lives on in the operation of the Research Vessel Petrel, which is fully funded by Allen’s estate. The ship’s mission is to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/kaga.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/kaga.jpg)
 
 Japanese Carrier Kaga
 

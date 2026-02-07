@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to \"a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.\" … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/slide_18213_252854_splash.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/slide_18213_252854_splash.jpg)
 
 The New York Times published an article this morning, [The Destructive Power of Water](http://www.nytimes.com/2011/03/13/weekinreview/13water.html?scp=1&sq=power%20water&st=cse), where it compares the force of a ten meter high tsunami wave to “*a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.*”    Fortunately, Japan has some of the strictest building codes in the world, specifically intended to save lives during earthquakes. Nothing, however can withstand the force of a tsunami.  
   

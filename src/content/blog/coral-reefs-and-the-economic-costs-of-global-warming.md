@@ -11,12 +11,12 @@ tags:
   - "coral"
   - "Florida Keys"
   - "Great Barrier Reef"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/gbrcoral1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/gbrcoral1.jpg"
 author: "Rick Spilman"
 description: "Some complain that responding to climate change will damage the economy and cost jobs. Others counter that not responding effectively to climate change will do even greater economic damage. Recently an analysis of the social and economic value of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/gbrcoral1.jpg)Some complain that responding to climate change will damage the economy and cost jobs. Others counter that not responding effectively to climate change will do even greater economic damage. Recently an analysis of the [social and economic value of the Australia’s Great Barrier Reef](http://www.telegraph.co.uk/news/2017/06/26/great-barrier-reef-now-worth-56bn-australias-economy/) calculated the world’s largest barrier reef as being as being an asset worth AU$56 billion (US$ 43 billion.)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/gbrcoral1.jpg)Some complain that responding to climate change will damage the economy and cost jobs. Others counter that not responding effectively to climate change will do even greater economic damage. Recently an analysis of the [social and economic value of the Australia’s Great Barrier Reef](http://www.telegraph.co.uk/news/2017/06/26/great-barrier-reef-now-worth-56bn-australias-economy/) calculated the world’s largest barrier reef as being as being an asset worth AU$56 billion (US$ 43 billion.)
 
 The study performed by Deloitte Access Economics, commissioned by the Great Barrier Reef Foundation, concluded that the “reef was too big to fail” supporting 64,000 jobs and contributing AU$29 billion in tourist revenue while also having an  “indirect or non-use” value – people that have not yet visited the reef but know it exists – estimated at AU$24 billion.
 

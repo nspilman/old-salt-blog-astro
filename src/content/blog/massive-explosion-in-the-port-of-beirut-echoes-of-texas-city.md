@@ -12,12 +12,12 @@ tags:
   - "explosive"
   - "fertilizer"
   - "Lebanon"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/explosion.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/explosion.jpg"
 author: "Rick Spilman"
 description: "Yesterday, a massive explosion in the port of Beirut, Lebanon killed at least 100 people and injured thousands. The blast destroyed buildings in the port district while the shockwave shattered windows and overturned vehicles across the city. An estimated 300,000 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/explosion.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/explosion.jpg)
 
 Port of Beirut Explosion Aftermath
 

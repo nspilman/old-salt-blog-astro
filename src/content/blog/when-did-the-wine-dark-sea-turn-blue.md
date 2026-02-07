@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "When did the wine dark sea turn blue? For centuries, no one referred to the sea as blue."
 ---
 
-![seablue1](http://www.oldsaltblog.com/wp-content/uploads/2015/03/seablue1.jpg)Over the last week, the internet has been overwhelmed by an [argument over the color of a dress](http://www.wired.com/2015/02/science-one-agrees-color-dress/). Some people see the image as gold and white, while others see it as blue and black.  Despite looking at a single image, it is obvious that we all are capable of perceiving colors differently.  Blue in particular.
+![seablue1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/seablue1.jpg)Over the last week, the internet has been overwhelmed by an [argument over the color of a dress](http://www.wired.com/2015/02/science-one-agrees-color-dress/). Some people see the image as gold and white, while others see it as blue and black.  Despite looking at a single image, it is obvious that we all are capable of perceiving colors differently.  Blue in particular.
 
 This is nothing new. Homer referred to the famously blue Aegean as the “[wine dark sea](http://www.nytimes.com/1983/12/20/science/homer-s-sea-wine-dark.html).” When did the wine dark sea turn blue?
 
@@ -34,7 +34,7 @@ Shakespeare’s saltiest play, “*[The Tempest](http://shakespeare.mit.edu/temp
 
 Google has a search feature, the [Ngram Viewer](https://books.google.com/ngrams/graph?content=blue+sea%2Cblue+water&year_start=1500&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cblue%20sea%3B%2Cc0%3B.t1%3B%2Cblue%20water%3B%2Cc0), that allows searching for words or phrases from the books scanned in Google’s library. Searching for “blue sea” and “blue water” between 1500 and the year 2000, suggests that the prior to around 1700, there were few mentions of the sea as blue.
 
-![blueseagoogle](http://www.oldsaltblog.com/wp-content/uploads/2015/03/blueseagoogle.jpg)  
+![blueseagoogle](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/blueseagoogle.jpg)  
 In truth, the sea can be any and all colors — blue, green, silver, gray and a myriad of shades in between, including the red of the sunset and purple of the dawn.
 
 See also:

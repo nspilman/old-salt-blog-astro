@@ -12,12 +12,12 @@ tags:
   - "Heatwave"
   - "kelp"
   - "Tasmania"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/aussiehotwater.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/aussiehotwater.jpg"
 author: "Rick Spilman"
 description: "The temperatures in Australia have been hotter than ever recorded in history. Wildfires are raging, filling the air of several cities, including Sydney, with acrid smoke.  Drought is choking a significant portion of the country. As bad as things are … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/aussiehotwater.jpg)The temperatures in Australia have been hotter than ever recorded in history. Wildfires are raging, filling the air of several cities, including Sydney, with acrid smoke.  Drought is choking a significant portion of the country.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/aussiehotwater.jpg)The temperatures in Australia have been hotter than ever recorded in history. Wildfires are raging, filling the air of several cities, including Sydney, with acrid smoke.  Drought is choking a significant portion of the country.
 
 As bad as things are on land, they are just as bad offshore where Western Australia’s coastline is in the midst of the [most widespread marine heatwave](https://www.abc.net.au/news/2019-12-18/marine-heatwave-kills-fish-as-australia-faces-record-temperature/11808268) it has experienced since reliable satellite monitoring began in 1993. The heat is killing fish, shellfish, crabs, and kelp. 
 

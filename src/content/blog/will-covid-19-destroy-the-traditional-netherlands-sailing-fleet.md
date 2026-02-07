@@ -10,12 +10,12 @@ tags:
   - "Netherlands"
   - "sailing fleet"
   - "Traditional Netherlands Sailing Flee"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/dutchsail.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/dutchsail.jpg"
 author: "Rick Spilman"
 description: "The Netherlands has the largest, still operational, historical sailing fleet in the world, consisting of 400 traditional, authentic sailing vessels. There are real concerns that the historic fleet may be destroyed by the aftermath of COVID-19. With the fleet locked … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/dutchsail.jpg)The Netherlands has the largest, still operational, historical sailing fleet in the world, consisting of 400 traditional, authentic sailing vessels. There are real concerns that the historic fleet may be destroyed by the aftermath of COVID-19. With the fleet locked down in port, a significant component of the Netherlands’ maritime heritage is at risk. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/dutchsail.jpg)The Netherlands has the largest, still operational, historical sailing fleet in the world, consisting of 400 traditional, authentic sailing vessels. There are real concerns that the historic fleet may be destroyed by the aftermath of COVID-19. With the fleet locked down in port, a significant component of the Netherlands’ maritime heritage is at risk. 
 
 The [Maritime Post](https://themaritimepost.com/2020/05/25/dutch-historical-sailing-fleet-is-seeking-public-support-with-an-online-petition/#:~:text=The%20Netherlands%20has%20the%20largest,her%20cultural%20and%20historical%20value.) reports: *Due to the corona measures being taken in the Netherlands and worldwide the fleet is being threatened with becoming extinct. The owners are facing a revenue loss of up to 90% to 100% in 2020 and the outlook for 2021 is hardly any better. Without further financial support from the government, many businesses will face bankruptcy, which could result in the disappearance of these historical ships from the Dutch and international waters.*
 

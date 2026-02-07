@@ -14,12 +14,12 @@ tags:
   - "Fremantle Highway"
   - "stability"
   - "Wadden Islands"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/07/freemantlehighwa2y.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/freemantlehighwa2y.jpg"
 author: "Rick Spilman"
 description: "News reports are that salvors fighting the fire on the car carrier Fremantle Highway have been temporarily stopped in their attempt to cool the exterior of the stricken ship with water. There are serious concerns that water from the firefighting could … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/freemantlehighwa2y.jpg)[News reports](https://www.dutchnews.nl/2023/07/coastguard-stop-cooling-stricken-cargo-ship-amid-capsize-fears/?utm_source=newsletter) are that salvors fighting the fire on the car carrier [*Fremantle Highway*](https://www.vesselfinder.com/vessels/details/9667344) have been temporarily stopped in their attempt to cool the exterior of the stricken ship with water. There are serious concerns that water from the firefighting could accumulate on the upper decks, making the ship unstable and likely to capsize. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/freemantlehighwa2y.jpg)[News reports](https://www.dutchnews.nl/2023/07/coastguard-stop-cooling-stricken-cargo-ship-amid-capsize-fears/?utm_source=newsletter) are that salvors fighting the fire on the car carrier [*Fremantle Highway*](https://www.vesselfinder.com/vessels/details/9667344) have been temporarily stopped in their attempt to cool the exterior of the stricken ship with water. There are serious concerns that water from the firefighting could accumulate on the upper decks, making the ship unstable and likely to capsize. 
 
 “We have to make sure that no excess water ends up on board because that would damage its stability,” the coastguard said in a website update,  on Thursday afternoon.
 

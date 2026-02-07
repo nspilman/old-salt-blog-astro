@@ -11,12 +11,12 @@ tags:
   - "Mauritius"
   - "Pointe d'Esny"
   - "Wakashio"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/brokenbulker.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/brokenbulker.jpg"
 author: "Rick Spilman"
 description: "How does a modern ship with radar and GPS manage to run hard aground on a well-marked reef?  In the case of the Capesize bulker Wakashio that ran aground on the reef at Pointe-d’Esny off Mauritius on the evening of … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/brokenbulker.jpg)How does a modern ship with radar and GPS manage to run hard aground on a well-marked reef?  In the case of the Capesize bulker [*Wakashio* that ran aground on the reef at Pointe-d’Esny off Mauritius](http://www.oldsaltblog.com/2020/08/capesize-bulker-mv-wakashio-aground-on-mauritius-reef-may-break-up/) on the evening of July 25, the answer appears to be a birthday party and an attempt to pick up a wifi signal. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/brokenbulker.jpg)How does a modern ship with radar and GPS manage to run hard aground on a well-marked reef?  In the case of the Capesize bulker [*Wakashio* that ran aground on the reef at Pointe-d’Esny off Mauritius](http://www.oldsaltblog.com/2020/08/capesize-bulker-mv-wakashio-aground-on-mauritius-reef-may-break-up/) on the evening of July 25, the answer appears to be a birthday party and an attempt to pick up a wifi signal. 
 
 [L’Express.mu](https://www.lexpress.mu/article/381284/membres-dequipage-confirment-celebration-dun-anniversaire-bord-vraquier) reports that investigators from Mauritius have learned from interviews with the ship’s crew that just before the grounding there was a birthday party for one of the ship’s crew. Also, the ship’s course was changed to bring it closer to the island in an attempt to pick up a wifi signal. 
 

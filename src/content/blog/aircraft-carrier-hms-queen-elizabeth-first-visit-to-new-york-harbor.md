@@ -11,12 +11,12 @@ tags:
   - "aircraft carrier"
   - "HMS Queen Elizabeth"
   - "new york"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/hmsqe1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/hmsqe1.jpg"
 author: "Rick Spilman"
 description: "The HMS Queen Elizabeth, Great Britain’s new aircraft carrier, sailed beneath the Verrazano Bridge yesterday on a weeklong visit to New York harbor. The ship which cost £3.1 billion is 932 feet long, displaces 65,000 tonnes, and is the largest … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/hmsqe1.jpg)The HMS *Queen Elizabeth*, Great Britain’s new aircraft carrier, sailed beneath the Verrazano Bridge yesterday on a weeklong visit to New York harbor. The ship which cost £3.1 billion is 932 feet long, displaces 65,000 tonnes, and is the largest warship ever built by the Royal Navy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/hmsqe1.jpg)The HMS *Queen Elizabeth*, Great Britain’s new aircraft carrier, sailed beneath the Verrazano Bridge yesterday on a weeklong visit to New York harbor. The ship which cost £3.1 billion is 932 feet long, displaces 65,000 tonnes, and is the largest warship ever built by the Royal Navy.
 
 As the new carrier sailed into the harbor, the Royal Marines band and a bagpiper played as many of the more than 1,000 personnel onboard stood at attention, lining the rails and walkways.
 

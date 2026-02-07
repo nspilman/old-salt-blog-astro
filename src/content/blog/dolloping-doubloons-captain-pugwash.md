@@ -9,7 +9,7 @@ categories:
 tags:
   - "Captain Pugwash"
   - "pirate"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/captainpugwash.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/captainpugwash.jpg"
 author: "Rick Spilman"
 description: "Real pirates tended to have very short careers. Edward Teach, better known as Blackbeard, was pretty typical, being active for only about two years from 1716 to 1718, before losing his head. Cartoon pirates, however, do generally much better. Captain … Continue reading &rarr;"
 ---

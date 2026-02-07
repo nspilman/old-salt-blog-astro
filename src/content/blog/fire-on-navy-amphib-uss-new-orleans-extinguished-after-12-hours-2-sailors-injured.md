@@ -14,12 +14,12 @@ tags:
   - "San Antonio-class"
   - "USS New Orleans"
   - "White Beach Naval Facility"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/Neworleansfire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/Neworleansfire.jpg"
 author: "Rick Spilman"
 description: "A fire broke out Wednesday afternoon, August 20, aboard the San Antonio-class amphibious transport dock ship USS New Orleans (LPD 18). The ship was anchored near White Beach Naval Facility, Okinawa, Japan. The fire was declared extinguished at 4 a.m., … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/Neworleansfire.jpg)A fire broke out Wednesday afternoon, August 20, aboard the San Antonio-class amphibious transport dock ship [USS *New Orleans*](https://en.wikipedia.org/wiki/USS_New_Orleans_\(LPD-18\)) (LPD 18). The ship was anchored near White Beach Naval Facility, Okinawa, Japan. The fire was declared extinguished at 4 a.m., August 21. Two Sailors were taken to *New Orleans*’ medical for minor injuries. The cause of the fire is currently under investigation.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/08/Neworleansfire.jpg)A fire broke out Wednesday afternoon, August 20, aboard the San Antonio-class amphibious transport dock ship [USS *New Orleans*](https://en.wikipedia.org/wiki/USS_New_Orleans_\(LPD-18\)) (LPD 18). The ship was anchored near White Beach Naval Facility, Okinawa, Japan. The fire was declared extinguished at 4 a.m., August 21. Two Sailors were taken to *New Orleans*’ medical for minor injuries. The cause of the fire is currently under investigation.
 
 According to a statement from the [7th flee](https://www.c7f.navy.mil/Media/News/Display/Article/4281084/fire-aboard-uss-new-orleans-extinguished/)t, firefighting efforts by the *New Orleans* sailors were also supported by the crew of the amphibious transport dock ship *USS San Diego* (LPD 22), which is moored at White Beach Naval Facility. Japan Maritime Self-Defense Force, Japan Coast Guard, and US Navy commands from across Commander, Fleet Activities Okinawa also provided critical support to the firefighting efforts.
 

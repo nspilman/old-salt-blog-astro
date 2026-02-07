@@ -11,12 +11,12 @@ tags:
   - "Antarctica"
   - "iceberg"
   - "Larsen C Ice Shelf"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/bergbreakup.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bergbreakup.jpg"
 author: "Rick Spilman"
 description: "Iceberg A68a, once the world’s largest iceberg, is now gone, broken up into chunks too small to track. While the iceberg is recent history, scientists are still studying its impact. In 2017, a massive iceberg broke off from Antarctica’s Larsen … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/bergbreakup.jpg)Iceberg A68a, once the world’s largest iceberg, is now gone, broken up into chunks too small to track. While the iceberg is recent history, scientists are still studying its impact.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/bergbreakup.jpg)Iceberg A68a, once the world’s largest iceberg, is now gone, broken up into chunks too small to track. While the iceberg is recent history, scientists are still studying its impact.
 
 In 2017, a massive iceberg broke off from Antarctica’s Larsen C ice-shelf. The iceberg, which would be designated as [A68a](https://en.wikipedia.org/wiki/Iceberg_A-68), weighed roughly one trillion tons and measured 4,200 sq km, or almost the size of the state of Delaware.
 

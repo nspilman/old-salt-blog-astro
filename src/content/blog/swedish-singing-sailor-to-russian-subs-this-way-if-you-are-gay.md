@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Swedish Peace and Arbitration Society (SPAS) is proposed the gay friendly \"Singing Sailor subsurface defense system\" to keep Russian subs away."
 ---
 
-![singingsailor1](http://www.oldsaltblog.com/wp-content/uploads/2015/05/singingsailor1.jpg)In the general category of “you can’t make this stuff up,” the [Swedish Peace and Arbitration Society](http://www.svenskafreds.se/) (SPAS), a group dedicated to the study and promotion of peace, released details of their [“Singing Sailor Campaign.”](http://www.svenskafreds.se/singingsailor/)
+![singingsailor1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/singingsailor1.jpg)In the general category of “you can’t make this stuff up,” the [Swedish Peace and Arbitration Society](http://www.svenskafreds.se/) (SPAS), a group dedicated to the study and promotion of peace, released details of their [“Singing Sailor Campaign.”](http://www.svenskafreds.se/singingsailor/)
 
 Last October, we posted about a reported incursion into Swedish waters by what was believed to be a foreign and probably Russian submarine.  See our post “[Swedish Navy Still Hunting Mystery Submarine](http://www.oldsaltblog.com/2014/10/swedish-navy-still-hunting-mystery-submarine/).” The Swedish Navy searched for the submarine but couldn’t locate it. In the wake of this failure to track down the submarine intruder, there have been calls for increased military spending in Sweden.
 

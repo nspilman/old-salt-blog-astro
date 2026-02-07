@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "In 1955, Ted Hood founded Hood Sailmakers at the back of Maddie’s Bar in Marblehead.   Hood Sailmakers would grow to be a premier sail maker in the 1960s and 1970s.   Hood was also a boatbuilder, designer and sailor. In … Continue reading &rarr;"
 ---
 
-![Ted_Hood_at_Little_Harbor_Marina_in_Portsmouth,_RI_circa_1990s](http://www.oldsaltblog.com/wp-content/uploads/2013/07/Ted_Hood_at_Little_Harbor_Marina_in_Portsmouth_RI_circa_1990s.jpg)In 1955, Ted Hood founded Hood Sailmakers at the back of Maddie’s Bar in Marblehead.   Hood Sailmakers would grow to be a premier sail maker in the 1960s and 1970s.   Hood was also a boatbuilder, designer and sailor. In 1974 he built the 12-meter yacht *Courageous* and sailed it to victory in the America’s Cup.  Ted Hood was inducted into the America’s Cup Hall of Fame and the National Sailing Hall of Fame. Ted Hood died last Friday at the age of 86.
+![Ted_Hood_at_Little_Harbor_Marina_in_Portsmouth,_RI_circa_1990s](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/Ted_Hood_at_Little_Harbor_Marina_in_Portsmouth_RI_circa_1990s.jpg)In 1955, Ted Hood founded Hood Sailmakers at the back of Maddie’s Bar in Marblehead.   Hood Sailmakers would grow to be a premier sail maker in the 1960s and 1970s.   Hood was also a boatbuilder, designer and sailor. In 1974 he built the 12-meter yacht *Courageous* and sailed it to victory in the America’s Cup.  Ted Hood was inducted into the America’s Cup Hall of Fame and the National Sailing Hall of Fame. Ted Hood died last Friday at the age of 86.
 
 [America’s Cup: Ted Hood dies at 86](http://www.sail-world.com/USA/Americas-Cup:-Ted-Hood-dies-at-86/111436)
 

@@ -11,12 +11,12 @@ tags:
   - "Mary T. Crowley"
   - "Ocean Voyages Institute"
   - "Pacific Garbage Patch"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/kwai.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/kwai.jpg"
 author: "Rick Spilman"
 description: "In June of last year, we posted about the sailing cargo ship Kwai that had collected more than 40 tons of plastic waste and \"ghost nets\" from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/kwai.jpg)In June of last year, we posted about the [sailing cargo ship *Kwai*](http://svkwai.com/) that had collected more than 40 tons of plastic waste and “ghost nets” from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to drift, catching and killing thousands of marine animals. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/kwai.jpg)In June of last year, we posted about the [sailing cargo ship *Kwai*](http://svkwai.com/) that had collected more than 40 tons of plastic waste and “ghost nets” from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to drift, catching and killing thousands of marine animals. 
 
 The *Kwai*, backed by the non-profit [Ocean Voyages Institute](https://www.oceanvoyagesinstitute.org/), is setting new records for ocean cleanup. During a voyage in June, the ship retrieved 103 tons of plastic waste. Most recently, in a voyage ending in early August, the Kwai added 67 tons, for a total of 170 tons of plastic waste and nets removed from the Pacific. The haul quadruples the group’s previous year’s record. The *Kwai’*s endeavors are believed to represent the largest open ocean clean-up in history. Overall, the Ocean Voyages Institute is committed to removing 1 million pounds of plastic from the ocean.
 

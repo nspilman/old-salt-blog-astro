@@ -6,12 +6,12 @@ excerpt: "Last week, Sen. Mark Kelly, Sen. Elissa Slotkin, and House Reps. Jason
 categories:
   - "Current"
   - "Lore of the Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/lawmakersillegalorder.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/lawmakersillegalorder.jpg"
 author: "Rick Spilman"
 description: "Last week, Sen. Mark Kelly, Sen. Elissa Slotkin, and House Reps. Jason Crow, Maggie Goodlander,and Chris Deluzio and Chrissy Houlahan filmed a short PSA video message to members of the military. Each of the lawmakers is a veteran of the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/lawmakersillegalorder.jpg)Last week, Sen. Mark Kelly, Sen. Elissa Slotkin, and House Reps. Jason Crow, Maggie Goodlander,and Chris Deluzio and Chrissy Houlahan filmed a short [PSA video message to members of the military](https://youtube.com/shorts/QoW6Hk0BCpY?si=Yl3SCMh62WgxQ1WT). Each of the lawmakers is a veteran of the military or intelligence communities. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/11/lawmakersillegalorder.jpg)Last week, Sen. Mark Kelly, Sen. Elissa Slotkin, and House Reps. Jason Crow, Maggie Goodlander,and Chris Deluzio and Chrissy Houlahan filmed a short [PSA video message to members of the military](https://youtube.com/shorts/QoW6Hk0BCpY?si=Yl3SCMh62WgxQ1WT). Each of the lawmakers is a veteran of the military or intelligence communities. 
 
 Their message was simple and direct — “You can refuse illegal orders. You must refuse illegal orders.”
 

@@ -12,12 +12,12 @@ tags:
   - "German"
   - "submarine"
   - "world war I"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/ubII.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/ubII.jpg"
 author: "Rick Spilman"
 description: "The almost intact wreck of a German submarine that sank during World War I has been located in the North Sea off Belgium, in 98 feet of water. The type UB-II submarine is said to be in good condition, with … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/ubII.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/ubII.jpg)
 
 German type UBII Submarine
 

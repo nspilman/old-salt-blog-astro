@@ -10,12 +10,12 @@ tags:
   - "Drake's Passage"
   - "Six Men"
   - "Unassisted row"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/ohana.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/ohana.jpg"
 author: "Rick Spilman"
 description: "Six men have become the first to row unassisted across Drake’s passage, between South America and Antarctica. The effort was led by adventurer Colin O’Brady. In just under 13 days, they rowed more than 700 miles in a 29-foot boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/ohana.jpg)Six men have become the first to [row unassisted across Drake’s passage](https://www.discovery.com/shows/the-impossible-row/articles/the-impossible-row-reaches-antarctica), between South America and Antarctica. The effort was led by adventurer [Colin O’Brady](https://en.wikipedia.org/wiki/Colin_O%27Brady). In just under 13 days, they rowed more than 700 miles in a 29-foot boat named Ohana.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/12/ohana.jpg)Six men have become the first to [row unassisted across Drake’s passage](https://www.discovery.com/shows/the-impossible-row/articles/the-impossible-row-reaches-antarctica), between South America and Antarctica. The effort was led by adventurer [Colin O’Brady](https://en.wikipedia.org/wiki/Colin_O%27Brady). In just under 13 days, they rowed more than 700 miles in a 29-foot boat named Ohana.
 
 The [other men on the expedition](https://abcnews.go.com/Lifestyle/wireStory/men-1st-cross-perilous-drake-passage-unassisted-67958069) were: Fiann Paul of Reykjavik, Iceland; Cameron Bellamy of Cape Town, South Africa; Andrew Towne of Grand Forks, North Dakota; and John Petersen of Oakland, California.
 

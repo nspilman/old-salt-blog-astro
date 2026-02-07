@@ -12,12 +12,12 @@ tags:
   - "Hobbamock"
   - "Long Island Sound"
   - "Stepping Stones Lighthouse"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/steppingstonelight.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/steppingstonelight.jpg"
 author: "Rick Spilman"
 description: "My wife and I were moving our boat last weekend from her summer mooring in Oyster Bay to winter layup in Cheesequake Creek in Raritan Bay and passed Stepping Stones Light as we rushed to catch a favorable current through Hell Gate. Even … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/steppingstonelight.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/steppingstonelight.jpg)
 
 Steppings Stone Light Photo: K. Lorentz
 

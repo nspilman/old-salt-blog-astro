@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "This sounds like a wonderful gig for the right artist. Artist required for The Tall Ships Races 2011 onboard Swan In a first for The Tall Ships Races, the former herring drifter Swan will host an artist in residence for the whole … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Swan.jpg)This sounds like a wonderful gig for the right artist.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Swan.jpg)This sounds like a wonderful gig for the right artist.
 
 [Artist required for The Tall Ships Races 2011 onboard Swan](http://www.sailtraininginternational.org/news/article/mode_unpublished_item_100524.htm)
 

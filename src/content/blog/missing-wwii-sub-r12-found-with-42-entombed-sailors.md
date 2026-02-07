@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "On June 12,1943 in 600 feet of water, the submarine USS R12 sank in 15 seconds in 600 feet of water, taking 42 of her crew with her to the bottom.  Recently, a team led by Tim Taylor on the \"RV … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/r12.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/r12.jpg)
 
 Deck Gun of the WWII submarine USS R-12 (Photo: Tim Taylor/RV Tiburon Inc.)
 

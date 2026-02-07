@@ -13,12 +13,12 @@ tags:
   - "Theodore Roosevelt"
   - "US Marine Corps"
   - "US Navy birthday"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/navybirthday.jpg"
 author: "Rick Spilman"
 description: "We are a few days late in wishing the US Navy a happy 249th birthday. October 13th, is celebrated as the birthday of the United States Navy. This should not be confused with Navy Day, once celebrated on October 27th.  The current … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg)We are a few days late in wishing the US Navy a happy 249th birthday. [October 13th, is celebrated as the birthday of the United States Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday.html#:~:text=In%201972%2C%20Chief%20of%20Naval,birthday%20of%20the%20U.S.%20Navy.). This should not be confused with [Navy Day](https://afd.defense.gov/History/Navy-Day/#:~:text=October%2027%20was%20suggested%20by,the%20idea%20of%20Navy%20Day.), once celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays. An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/navybirthday.jpg)We are a few days late in wishing the US Navy a happy 249th birthday. [October 13th, is celebrated as the birthday of the United States Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday.html#:~:text=In%201972%2C%20Chief%20of%20Naval,birthday%20of%20the%20U.S.%20Navy.). This should not be confused with [Navy Day](https://afd.defense.gov/History/Navy-Day/#:~:text=October%2027%20was%20suggested%20by,the%20idea%20of%20Navy%20Day.), once celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays. An updated repost.
 
 Over the years, the founding of the Navy has been celebrated on various dates — the most common being either [March 27th, the day in 1794 when the Congress authorized the construction of five frigates](https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/3026382/nhhc-proclamation-us-navy-original-six-frigates-day/#:~:text=The%20%E2%80%9CAct%20to%20Provide%20a,on%20oceans%20around%20the%20world.), or [April 30th, the day in 1798 when the Navy Department was first established.](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday/OriginsNavy/the-establishment-of-the-department-of-the-navy.html)  
   

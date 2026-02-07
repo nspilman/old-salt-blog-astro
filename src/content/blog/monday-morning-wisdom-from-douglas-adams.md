@@ -9,5 +9,5 @@ author: "Rick Spilman"
 description: "From the I Fucking Love Science Facebook page. … Continue reading &rarr;"
 ---
 
-![1002068_612356802118668_2028714195_n](http://www.oldsaltblog.com/wp-content/uploads/2013/06/1002068_612356802118668_2028714195_n.jpg)  
+![1002068_612356802118668_2028714195_n](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/1002068_612356802118668_2028714195_n.jpg)  
 From the [I Fucking Love Science Facebook page](https://www.facebook.com/IFeakingLoveScience).

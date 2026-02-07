@@ -12,12 +12,12 @@ tags:
   - "Houthi drone and missile attacks"
   - "Red Sea"
   - "Yemen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/safer.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/safer.jpg"
 author: "Rick Spilman"
 description: "The current shipping crisis in the Red Sea, precipitated by Houthi drone and missile attacks, has stopped the final disposal of the decrepit FSO Safer, a floating oil storage and offloading vessel, moored in the Red Sea north of the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/safer.jpg)The current shipping crisis in the Red Sea, precipitated by Houthi drone and missile attacks, has stopped the final disposal of the decrepit [FSO *Safer*](https://en.wikipedia.org/wiki/FSO_Safer), a floating oil storage and offloading vessel, moored in the Red Sea north of the Yemeni city of Al Hudaydah.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/safer.jpg)The current shipping crisis in the Red Sea, precipitated by Houthi drone and missile attacks, has stopped the final disposal of the decrepit [FSO *Safer*](https://en.wikipedia.org/wiki/FSO_Safer), a floating oil storage and offloading vessel, moored in the Red Sea north of the Yemeni city of Al Hudaydah.
 
 Fortunately, the over one million barrels of oil once stored in the ship, which would have been an ecological disaster if spilled, had been [transferred to another tanker](https://www.oldsaltblog.com/2023/08/update-fso-safer-no-longer-an-environmental-disaster-waiting-to-happen-dispute-remains-over-oil/) by the United Nations by August of 2023, only a few months before the outbreak of the current hostilities.
 

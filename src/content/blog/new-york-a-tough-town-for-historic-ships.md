@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "A shortage of dock space, high costs and bureaucracy can make New York a tough town for historic ships."
 ---
 
-![Photo: AFP / XAVIER LEOTY](http://www.oldsaltblog.com/wp-content/uploads/2015/03/Hermionedock1.jpg)
+![Photo: AFP / XAVIER LEOTY](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/Hermionedock1.jpg)
 
 l’Hermione  
 Photo: AFP / XAVIER LEOTY

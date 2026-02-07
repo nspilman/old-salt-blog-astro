@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "In November 2018, a Royal Navy nuclear submarine came within 50-100m of a collision with the Stena Superfast VII ferry near the entrance to Belfast harbor, according to an inquiry by the UK’s Marine Accident Investigation Branch. The Guardian reports: … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/stenasuperfast.jpg)In November 2018, a Royal Navy nuclear submarine came within 50-100m of a collision with the [*Stena Superfast VII* ferry](https://www.stenaline.co.uk/ferries/stena-superfast-vii) near the entrance to Belfast harbor, according to an inquiry by the UK’s Marine Accident Investigation Branch.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/stenasuperfast.jpg)In November 2018, a Royal Navy nuclear submarine came within 50-100m of a collision with the [*Stena Superfast VII* ferry](https://www.stenaline.co.uk/ferries/stena-superfast-vii) near the entrance to Belfast harbor, according to an inquiry by the UK’s Marine Accident Investigation Branch.
 
 The [Guardian](https://www.theguardian.com/uk-news/2020/jul/16/uk-submarine-put-ferry-passengers-in-danger-of-collision-report-finds#) reports: The [report](https://assets.publishing.service.gov.uk/media/5f0d7a44e90e070312c4c44e/2020-13-StenaSuperfastVII-RNSubmarine.pdf), released on Thursday, said the submarine’s control room team had underestimated the ferry’s speed and overestimated its range, which led to the near-miss. The ferry, which was traveling from Belfast to Cairnyan, in Scotland with 215 passengers and 67 crew on board when the lookout spotted the submarine’s periscope close ahead. The officer on watch had to immediately turn the ship to avoid a collision.
 

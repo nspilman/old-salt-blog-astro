@@ -12,12 +12,12 @@ tags:
   - "German Navy"
   - "Gorch Foch"
   - "training ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/gorchfochdockside.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/gorchfochdockside.jpg"
 author: "Rick Spilman"
 description: "In November 2015, the German Navy training ship, Gorch Fock, went into a shipyard for hull repairs. The cost of repairs and refurbishment to the three-masted barque, built in 1958, was budgeted at 9.6 million euros. Repairs were expected to take 17 weeks. Now, over … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/gorchfochdockside.jpg)In November 2015, the German Navy training ship, [*Gorch Fock*](https://en.wikipedia.org/wiki/Gorch_Fock_\(1958\)#cite_note-gebauer-1), went into a shipyard for hull repairs. The cost of repairs and refurbishment to the three-masted barque, built in 1958, was budgeted at 9.6 million euros. Repairs were expected to take 17 weeks. Now, over three years later, the ship is still not in service and the final project costs are estimated to reach 135 million euros. [Der Spiegel](http://www.spiegel.de/politik/deutschland/gorch-fock-warum-die-kosten-fuer-die-renovierung-so-explodierten-a-1247801.html) refers to the overruns as a “cost explosion.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/gorchfochdockside.jpg)In November 2015, the German Navy training ship, [*Gorch Fock*](https://en.wikipedia.org/wiki/Gorch_Fock_\(1958\)#cite_note-gebauer-1), went into a shipyard for hull repairs. The cost of repairs and refurbishment to the three-masted barque, built in 1958, was budgeted at 9.6 million euros. Repairs were expected to take 17 weeks. Now, over three years later, the ship is still not in service and the final project costs are estimated to reach 135 million euros. [Der Spiegel](http://www.spiegel.de/politik/deutschland/gorch-fock-warum-die-kosten-fuer-die-renovierung-so-explodierten-a-1247801.html) refers to the overruns as a “cost explosion.”
 
 The [repairs are reported to include](https://navaltoday.com/2018/03/21/germany-will-return-60-year-old-sail-training-ship-to-sea-despite-e135m-repair-bill/) the replating of 80% of the hull, new masts, completely rebuilt mid and upper decks and a new teak deck. 
 

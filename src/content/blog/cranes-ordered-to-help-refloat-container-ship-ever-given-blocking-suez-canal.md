@@ -12,12 +12,12 @@ tags:
   - "Ever Given"
   - "Suez Canal"
   - "ultra-large container ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/evergiven5.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven5.jpg"
 author: "Rick Spilman"
 description: "Tugs and dredgers have been making some progress in refloated the stranded ultra-large container ship, Ever Given, that has blocked traffic in the Suez Canal since last Tuesday.  The next best hope of freeing the stranded ship will come on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/evergiven5.jpg)Tugs and dredgers have been making some progress in refloated the stranded ultra-large container ship, *Ever Given*, that has blocked traffic in the Suez Canal since last Tuesday.  The next best hope of freeing the stranded ship will come on Monday on the “king tide,” an exceptionally high tide. Whether sufficient dredging in way of the ship’s bow will be completed in time to make this possible, remains to be seen. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven5.jpg)Tugs and dredgers have been making some progress in refloated the stranded ultra-large container ship, *Ever Given*, that has blocked traffic in the Suez Canal since last Tuesday.  The next best hope of freeing the stranded ship will come on Monday on the “king tide,” an exceptionally high tide. Whether sufficient dredging in way of the ship’s bow will be completed in time to make this possible, remains to be seen. 
 
 On Saturday, tugs succeeded in moving the stern of the ship by about 2 degrees or 100 feet. The ship’s rudder and propeller are both now clear. The bow, however, remains firmly buried in sand and clay.
 

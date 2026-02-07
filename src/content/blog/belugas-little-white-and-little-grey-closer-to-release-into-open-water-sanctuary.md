@@ -13,12 +13,12 @@ tags:
   - "Little White"
   - "SEA LIFE Trust"
   - "whales"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/LWLGBeluga.jpg"
 author: "Rick Spilman"
 description: "Earlier this year, we posted  \"The Incredible Journey of Belugas Little White and Little Grey,\"  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg)Earlier this year, we posted  “[The Incredible Journey of Belugas Little White and Little Grey,](http://www.oldsaltblog.com/2020/05/the-incredible-journey-of-belugas-little-white-and-little-grey/)”  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home in Iceland in the [world’s first beluga whale sanctuary](https://belugasanctuary.sealifetrust.org/en/).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/LWLGBeluga.jpg)Earlier this year, we posted  “[The Incredible Journey of Belugas Little White and Little Grey,](http://www.oldsaltblog.com/2020/05/the-incredible-journey-of-belugas-little-white-and-little-grey/)”  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home in Iceland in the [world’s first beluga whale sanctuary](https://belugasanctuary.sealifetrust.org/en/).
 
 After just over a year in Iceland, the two belugas have now moved closer to the open water sanctuary. From the sanctuary [press release](https://belugasanctuary.sealifetrust.org/en/about-the-sanctuary/news/little-white-and-little-grey-are-in-their-new-sanctuary-home/):
 

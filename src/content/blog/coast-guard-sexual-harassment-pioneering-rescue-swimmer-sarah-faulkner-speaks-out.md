@@ -10,12 +10,12 @@ tags:
   - "Sarah Faulkner"
   - "sexual harassment"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/sfaulkner.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/sfaulkner.jpg"
 author: "Rick Spilman"
 description: "We have posted in the past about the heroic and pioneering US Coast Guard Rescue Swimmer Sara Faulkner. She was the first of only a handful of women who have qualified and served as rescue swimmers. Faulkner joined the Coast … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/sfaulkner.jpg)We have posted in the past about the heroic and pioneering [US Coast Guard Rescue Swimmer Sara Faulkner.](http://www.oldsaltblog.com/2011/03/on-international-womens-day-an-interview-with-rescue-swimmer-sarah-faulkner/) She was the first of only a handful of women who have qualified and served as rescue swimmers. Faulkner joined the Coast Guard intent upon becoming a rescue swimmer, so she knew that she would be called upon to serve in the most extreme rescue situations. What she didn’t anticipate was almost two decades of sexual harassment and assault.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/sfaulkner.jpg)We have posted in the past about the heroic and pioneering [US Coast Guard Rescue Swimmer Sara Faulkner.](http://www.oldsaltblog.com/2011/03/on-international-womens-day-an-interview-with-rescue-swimmer-sarah-faulkner/) She was the first of only a handful of women who have qualified and served as rescue swimmers. Faulkner joined the Coast Guard intent upon becoming a rescue swimmer, so she knew that she would be called upon to serve in the most extreme rescue situations. What she didn’t anticipate was almost two decades of sexual harassment and assault.
 
 The [Miami Herald](https://www.miamiherald.com/news/article238336883.html) reports that “once sent to do the job she loved, rescuing people from helicopter drops, Faulkner said she endured groping, licking, butt smacking, leering and crude sexual innuendos meant to humiliate her in front of colleagues.”
 

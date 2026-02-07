@@ -10,7 +10,7 @@ tags:
   - "oyster"
   - "Thomas Downing"
   - "Underground Railroad"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/wrightdowningOA.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/wrightdowningOA.jpg"
 author: "Rick Spilman"
 description: "A follow up to yesterday’s post about Thomas Downing, the free black owner of an upscale oyster house in New York’s financial district prior to the Civil War. While serving New York City’s white financial and political elite upstairs, Downing … Continue reading &rarr;"
 ---

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The National Park Service has decided to dismantle the 96-year-old steam lumber schooner, Wapama, a National Historic Landmark. The ship is the last of  of some 225 steam schooners that served the lumber trade and other coastal services along the Pacific Coast. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/ba-Wapama19.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/ba-Wapama19.jpg)
 
 Photo: Lance Iversen / The Chronicle
 
@@ -30,7 +30,7 @@ The National Park Service has decided to dismantle the 96-year-old steam lumber 
 
 *The 200-foot-long vessel was popular with the public when it first went on display as a museum ship public under auspices of the California State Park system at the Hyde Street pier in 1963.*
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/wapama_circa_1935_thumb.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/wapama_circa_1935_thumb.jpg)
 
 Wapama, San Francisco Bay Circa 1935
 

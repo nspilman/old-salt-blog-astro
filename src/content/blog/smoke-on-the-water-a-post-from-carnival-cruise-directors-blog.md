@@ -11,7 +11,7 @@ author: "Rick Spilman"
 description: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: \"﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.\"   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/cruisedirector.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/cruisedirector.jpg)
 
 It started as a [tweet](http://twitter.com/#!/CarnivalCruise) ( a post on Twitter) from [Carnival Cruise Lines](http://www.carnival.com/): “﻿﻿*You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor [here](http://johnhealdsblog.com/2010/11/12/smoke-on-the-water-part-1/)*.”   OK, that sounded interesting, I suppose.    It turned out it wasn’t anything like what I expected.  The blog post starts out by recounting a dream of a naked woman named Megan and a bit later, Heald comments that “*I didn’t realise how serious was this until something slapped me in the face as hard as the time I tried to grope Sally Poole’s breasts behind the bike shed at school.*”  There are also references to flatulence and  “ruin\[ing\] a really good pair of underpants.”  As corporate damage control goes, this is a bit novel.
 

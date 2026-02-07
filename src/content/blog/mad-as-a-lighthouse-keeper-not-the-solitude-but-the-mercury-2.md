@@ -11,12 +11,12 @@ tags:
   - "madness"
   - "Mercury"
   - "suicide"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/lighthouse1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/lighthouse1.jpg"
 author: "Rick Spilman"
 description: "Lighthouse keepers had more to worry about than simply storms and terrible conditions. In the 19th century, lighthouse keepers had a high frequency of madness and suicide.  Many assumed that they went mad from solitude and the demands of the … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/lighthouse1.jpg)Lighthouse keepers had more to worry about than simply storms and terrible conditions. In the 19th century, lighthouse keepers had a high frequency of madness and suicide.  Many assumed that they went mad from solitude and the demands of the job. It turns out it was something simpler and more sinister. An updated repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/lighthouse1.jpg)Lighthouse keepers had more to worry about than simply storms and terrible conditions. In the 19th century, lighthouse keepers had a high frequency of madness and suicide.  Many assumed that they went mad from solitude and the demands of the job. It turns out it was something simpler and more sinister. An updated repost.
 
 [Fresnel lenses](http://en.wikipedia.org/wiki/Fresnel_lens) were the great lighthouse innovation of the 19th century.  The lenses developed by French physicist Augustin-Jean Fresnel greatly increased the intensity and range of the lighthouse beacon. For rotating lights, just as important as the strength of the light, however, was maintaining a specific speed of rotation, so that if the chart said that the light flashed every twenty seconds, the light, in fact, rotated so that the light was visible every twenty seconds.  The best near-zero-friction bearing of the day was created by floating the light and the lens on a circular track of liquid mercury.  When dust, dirt, or other impurities built up in the mercury, part of the lighthouse keeper’s job was to strain the mercury through a fine cloth.
 

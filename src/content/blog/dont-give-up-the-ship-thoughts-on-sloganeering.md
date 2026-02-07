@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "On June 1, 1813, one hundred and ninety eight years ago today, the British frigate HMS Shannon defeated and captured the USS Chesapeake in single ship combat. Captain James  Lawrence on the Chesapeake was mortally wounded during the battle. His … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/Dont-Give-Up-The-ship.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Dont-Give-Up-The-ship.jpg)
 
 Perry’s Battle Flag
 

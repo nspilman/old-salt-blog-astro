@@ -12,12 +12,12 @@ tags:
   - "Faculty AI"
   - "green hydrogen"
   - "Hydrogen"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/drifthydrotest.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/drifthydrotest.jpg"
 author: "Rick Spilman"
 description: "The 18′ foiling catamaran seen recently flying over the waves off the coast of Essex in the UK, was a small boat testing a very big concept. As it flew during the two-hour sea trial, the boat drove an underwater … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/drifthydrotest.jpg)The 18′ foiling catamaran seen recently flying over the waves off the coast of Essex in the UK, was a small boat testing a very big concept. As it flew during the two-hour sea trial, the boat drove an underwater turbine that generated electricity which then used electrolysis to split seawater into hydrogen and oxygen. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/drifthydrotest.jpg)The 18′ foiling catamaran seen recently flying over the waves off the coast of Essex in the UK, was a small boat testing a very big concept. As it flew during the two-hour sea trial, the boat drove an underwater turbine that generated electricity which then used electrolysis to split seawater into hydrogen and oxygen. 
 
 During the test run, the generator filled a six-liter storage tank with clean, green hydrogen; the only by-product was oxygen, which was vented. The boat actually produced so much electricity that, if the tank had been bigger, it could have made 60 liters of hydrogen.
 

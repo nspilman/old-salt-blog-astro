@@ -11,7 +11,7 @@ tags:
   - "Newport Beach"
   - "Pacific"
   - "phytoplankton bloom"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/bdolphins.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/bdolphins.jpg"
 author: "Rick Spilman"
 description: "We recently posted about neon blue waves in Newport Beach, CA caused by the action of the moving water on a phytoplankton bloom. Here is a short video of dolphins swimming at night lit by the bioluminescent plankton.  Stunning. Thanks … Continue reading &rarr;"
 ---

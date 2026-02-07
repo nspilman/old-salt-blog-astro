@@ -10,7 +10,7 @@ tags:
   - "Netherlands"
   - "New Year"
   - "Scheveningen New Year’s Dive"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/newyeardive.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/newyeardive.jpg"
 author: "Rick Spilman"
 description: "Happy New Year! Every year for more than the last fifty years, brave or foolhardy Dutch men, women, and children have been celebrating New Year’s Day by jumping into the sea. Called the ‘Nieuwjaarsduik‘ (New Year’s dive), an estimated 25,000 or … Continue reading &rarr;"
 ---

@@ -13,7 +13,7 @@ tags:
   - "fishing gear"
   - "humpback"
   - "Texada Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/entangledhumpback.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/entangledhumpback.jpg"
 author: "Rick Spilman"
 description: "A wonderful story from the BBC.  After receiving multiple calls about a humpback whale entangled in 300ft (91m) of fishing gear and a buoy, Canadian officials dispatched a marine rescue team. They tracked down the beleaguered whale off Texada Island, … Continue reading &rarr;"
 ---

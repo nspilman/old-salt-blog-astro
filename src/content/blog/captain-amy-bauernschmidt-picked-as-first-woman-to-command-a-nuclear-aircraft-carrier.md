@@ -11,12 +11,12 @@ tags:
   - "Bauernschmidt"
   - "Captain Amy Bauernschmidt"
   - "nuclear powered aircraft carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/Bauernschmidt.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/Bauernschmidt.jpg"
 author: "Rick Spilman"
 description: "The US Navy has selected Captain Amy Bauernschmidt as the first woman to command a nuclear-powered aircraft carrier. Capt. Bauernschmidt was selected for the position by the fiscal year 2022 aviation major command screen board. It has not been announced … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/Bauernschmidt.jpg)The US Navy has selected [Captain Amy Bauernschmidt](https://www.public.navy.mil/surfor/lpd22/Pages/bio1_9September2019-21October2020.aspx) as the first woman to command a nuclear-powered aircraft carrier. Capt. Bauernschmidt was selected for the position by the fiscal year 2022 [aviation major command screen board](https://www.public.navy.mil/bupers-npc/boards/screenboards/aviation/Documents/FY-22%20AMCSB%20Results%20web%20releasable.PDF?fbclid=IwAR2XZoQxxOZN8VqGKoczZpBo68vh4nYxgJVgnICh0acmR2-U6Jiwk6IRU7g)**. I**t has not been announced which of the Navy’s 11 nuclear-powered carriers Bauernschmidt will command.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/Bauernschmidt.jpg)The US Navy has selected [Captain Amy Bauernschmidt](https://www.public.navy.mil/surfor/lpd22/Pages/bio1_9September2019-21October2020.aspx) as the first woman to command a nuclear-powered aircraft carrier. Capt. Bauernschmidt was selected for the position by the fiscal year 2022 [aviation major command screen board](https://www.public.navy.mil/bupers-npc/boards/screenboards/aviation/Documents/FY-22%20AMCSB%20Results%20web%20releasable.PDF?fbclid=IwAR2XZoQxxOZN8VqGKoczZpBo68vh4nYxgJVgnICh0acmR2-U6Jiwk6IRU7g)**. I**t has not been announced which of the Navy’s 11 nuclear-powered carriers Bauernschmidt will command.
 
 Other officers who were picked for nuclear aircraft carrier command include Capts. Colin Day, Gavin Duff, Brent Gaut, David Pollard, and Craig Sicola.
 

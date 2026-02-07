@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/320px-USS_Mesa_Verde10091902.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/320px-USS_Mesa_Verde10091902.jpg"
 author: "Rick Spilman"
 description: "The US Navy is sending a flotilla of ships to help the relief effort in the Haiti, devestated by Hurricane Matthew, the first Category 4 storm to hit the island nation in over 50 years. USS Mesa Verde, a San … Continue reading &rarr;"
 ---
 
-![USS Mesa Verde](http://www.oldsaltblog.com/wp-content/uploads/2016/10/USS_Mesa_Verde1.jpg)
+![USS Mesa Verde](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/USS_Mesa_Verde1.jpg)
 
 USS Mesa Verde
 

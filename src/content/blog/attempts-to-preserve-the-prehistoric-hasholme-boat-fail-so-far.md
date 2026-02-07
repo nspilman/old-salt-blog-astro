@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Hasholme boat, discovered in 1984 in a former inlet of the Humber estuary near Holme on Spalding Moor, dates from the late Iron Age ( 750-390 BC ). The boat was cut from a single oak tree and was originally roughly … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/hasholme_boat.jpg)The [Hasholme boat](http://www.holmeonspaldingmoor.co.uk/hasholme%20boat.htm), discovered in 1984 in a former inlet of the Humber estuary near Holme on Spalding Moor, dates from the late Iron Age ( 750-390 BC ). The boat was cut from a single oak tree and was originally roughly 42 feet long (12.87 m), with a beam of 4.6 feet (1.4 m) and a depth of 4.1 feet (1.25 m).   Now after attempts to preserve the boat by spraying it with chemical wax preservative have failed, archeologists are considering allowing the boat to air dry.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/hasholme_boat.jpg)The [Hasholme boat](http://www.holmeonspaldingmoor.co.uk/hasholme%20boat.htm), discovered in 1984 in a former inlet of the Humber estuary near Holme on Spalding Moor, dates from the late Iron Age ( 750-390 BC ). The boat was cut from a single oak tree and was originally roughly 42 feet long (12.87 m), with a beam of 4.6 feet (1.4 m) and a depth of 4.1 feet (1.25 m).   Now after attempts to preserve the boat by spraying it with chemical wax preservative have failed, archeologists are considering allowing the boat to air dry.
 
 [Experts forced into rethink after bid to preserve prehistoric Hasholme Boat fails](http://www.thisishullandeastriding.co.uk/news/Experts-forced-rethink-bid-preserve-prehistoric-Hasholme-Boat-fails/article-2756752-detail/article.html)  
   

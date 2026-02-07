@@ -12,12 +12,12 @@ tags:
   - "Mediterranean"
   - "Oil spill"
   - "tar"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/israeltarbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/israeltarbeach.jpg"
 author: "Rick Spilman"
 description: "The New York Times reports that a large oil spill from an unknown source has devastated sea life in the Mediterranean and spewed tons of tar across more than 100 miles of coastline from Israel to southern Lebanon in what Israeli … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/israeltarbeach.jpg)The [New York Times](https://www.nytimes.com/2021/02/23/world/middleeast/israel-oil-spill-mystery.html) reports that a large oil spill from an unknown source has devastated sea life in the Mediterranean and spewed tons of tar across more than 100 miles of coastline from Israel to southern Lebanon in what Israeli officials are calling one of the worst ecological disasters in decades.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/israeltarbeach.jpg)The [New York Times](https://www.nytimes.com/2021/02/23/world/middleeast/israel-oil-spill-mystery.html) reports that a large oil spill from an unknown source has devastated sea life in the Mediterranean and spewed tons of tar across more than 100 miles of coastline from Israel to southern Lebanon in what Israeli officials are calling one of the worst ecological disasters in decades.
 
 Shaul Goldstein, the director of Israel’s nature and parks authority, said the spill would set back three decades of efforts to protect and renew biodiversity along the coastline.
 

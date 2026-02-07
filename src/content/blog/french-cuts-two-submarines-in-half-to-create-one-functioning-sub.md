@@ -7,12 +7,12 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/perle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/perle.jpg"
 author: "Rick Spilman"
 description: "In June 2020, an intense fire broke out in the bow of the French nuclear attack submarine Perle, while the ship was in drydock in Toulon in southern France. The submarine’s 48-megawatt  nuclear reactor that had been removed when it … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/perle.jpg)In June 2020, an intense fire broke out in the bow of the French nuclear attack submarine [*Perle*](https://en.wikipedia.org/wiki/French_submarine_Perle_\(S606\)), while the ship was in drydock in Toulon in southern France. The submarine’s 48-megawatt  nuclear reactor that had been removed when it entered the drydock in January 2020, was unharmed. While the bow was seriously damaged in the blaze, the stern section of the submarine was relatively unscathed by the fire. Now, the French Navy is endeavoring to repair the submarine by cutting off *Perle*‘s damaged bow and welding on the bow section of a decommissioned sister submarine to the undamaged stern.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/perle.jpg)In June 2020, an intense fire broke out in the bow of the French nuclear attack submarine [*Perle*](https://en.wikipedia.org/wiki/French_submarine_Perle_\(S606\)), while the ship was in drydock in Toulon in southern France. The submarine’s 48-megawatt  nuclear reactor that had been removed when it entered the drydock in January 2020, was unharmed. While the bow was seriously damaged in the blaze, the stern section of the submarine was relatively unscathed by the fire. Now, the French Navy is endeavoring to repair the submarine by cutting off *Perle*‘s damaged bow and welding on the bow section of a decommissioned sister submarine to the undamaged stern.  
 
 [CNN](https://www.cnn.com/2021/04/14/europe/france-submarines-cut-in-half-intl-hnk-scli-ml/index.html) reports that one of *Perle*‘s sister boats, the *Saphir*, which was retired from service in 2019, was awaiting dismantling at a shipyard in the northwestern port of Cherbourg. The *Saphir*‘s front section was structurally sound, and French officials determined it could be mated with the rear of the *Perle* to make one serviceable attack submarine.
 

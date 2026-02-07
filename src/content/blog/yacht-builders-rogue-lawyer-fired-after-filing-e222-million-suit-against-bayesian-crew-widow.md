@@ -15,12 +15,12 @@ tags:
   - "The Italian Sea Group"
   - "TISG"
   - "Tommaso Bertuccelli"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg"
 author: "Rick Spilman"
 description: "The initial reports were bizarre. On Friday, Tommaso Bertuccelli, a lawyer who works with The Italian Sea Group (TISG), the builder of the superyacht Bayesian that sank at anchor in August off Sicily, killing Mike Lynch and six other passengers, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/bayesian.jpg)The initial reports were bizarre. On Friday, Tommaso Bertuccelli, a lawyer who works with The Italian Sea Group (TISG), the builder of the superyacht *Bayesian* that sank at anchor in August off Sicily, killing Mike Lynch and six other passengers, filed a €222 million ($244 million) lawsuit against Lynch’s widow and crewmembers of the ship, citing reputational damage.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/08/bayesian.jpg)The initial reports were bizarre. On Friday, Tommaso Bertuccelli, a lawyer who works with The Italian Sea Group (TISG), the builder of the superyacht *Bayesian* that sank at anchor in August off Sicily, killing Mike Lynch and six other passengers, filed a €222 million ($244 million) lawsuit against Lynch’s widow and crewmembers of the ship, citing reputational damage.
 
 Immediately after the sinking,  Giovanni Costantino, CEO of TISG, described the vessel as “unsinkable” and claimed that a series of “indescribable, unreasonable errors” by the crew led to the shipwreck.
 

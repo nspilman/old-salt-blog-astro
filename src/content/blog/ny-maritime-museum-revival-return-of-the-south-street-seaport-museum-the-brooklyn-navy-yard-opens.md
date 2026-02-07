@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The two events are unrelated, but they are both highly welcome. The South Street Seaport Museum is on its way toward reopening, while a new museum celebrating over 200 years of shipbuilding and maritime history at the Brooklyn Navy Yard is openings its doors on … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/bnyanchor.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/bnyanchor.jpg)
 
 2200-pound anchor in main entranceway of the Navy Yard Museum. Photo: Corey Sipkin/New York Daily News
 

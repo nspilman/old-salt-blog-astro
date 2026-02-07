@@ -10,7 +10,7 @@ tags:
   - "Santa Barbara"
   - "Sea Lions"
   - "surfing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/sealionsurfing.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/sealionsurfing.jpg"
 author: "Rick Spilman"
 description: "After a stressful week or two, here is something that is just fun. A documentary crew on a Pacific Offshore Expeditions outing last week, caught some amazing footage of sea lions surfing huge waves off Santa Barbara Island, California. The … Continue reading &rarr;"
 ---

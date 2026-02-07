@@ -10,12 +10,12 @@ categories:
 tags:
   - "navy"
   - "Navy Day"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/navybirthday.jpg"
 author: "Rick Spilman"
 description: "Happy Birthday to the US Navy! This should not be confused, however, with Navy Day, or the day that US Navy was founded by an Act of Congress. If success has many fathers, it might be said that the Navy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg)[Happy Birthday to the US Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday.html#:~:text=In%201972%2C%20Chief%20of%20Naval,birthday%20of%20the%20U.S.%20Navy.)! This should not be confused, however, with [Navy Day](https://en.wikipedia.org/wiki/Navy_Day#:~:text=In%20the%20United%20States%2C%20the,Secretary%20of%20the%20Navy%20just), or the day that [US Navy was founded by an Act of Congress](https://www.nps.gov/nr/travel/maritime/navy.htm). If success has many fathers, it might be said that the Navy has several birthdays. A revised repost.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/navybirthday.jpg)[Happy Birthday to the US Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday.html#:~:text=In%201972%2C%20Chief%20of%20Naval,birthday%20of%20the%20U.S.%20Navy.)! This should not be confused, however, with [Navy Day](https://en.wikipedia.org/wiki/Navy_Day#:~:text=In%20the%20United%20States%2C%20the,Secretary%20of%20the%20Navy%20just), or the day that [US Navy was founded by an Act of Congress](https://www.nps.gov/nr/travel/maritime/navy.htm). If success has many fathers, it might be said that the Navy has several birthdays. A revised repost.
 
 The date being celebrated today as the Navy’s birthday is October 13, 1775, when the Continental Congress voted to fit out two armed sailing vessels to cruise the coast to attempt to seize arms and stores from Royal Navy transports. This was the beginning of the Continental Navy, which would peak at about 31 ships in 1777. At war’s end, the Continental Navy was disbanded and all surviving ships sold.
 

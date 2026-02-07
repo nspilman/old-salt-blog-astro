@@ -11,12 +11,12 @@ tags:
   - "American Bureau of Shipping"
   - "Saildrone"
   - "Voyager"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/11/saildronevoayager.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/saildronevoayager.jpg"
 author: "Rick Spilman"
 description: "Intriguing news from Saildrone. The developer of ocean data collection using autonomous vehicles announced that it has received the first-ever classification for an autonomous, uncrewed surface vehicle (USV). From their announcement: The American Bureau of Shipping (ABS) has been a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/11/saildronevoayager.jpg)Intriguing news from [Saildrone.](https://www.saildrone.com/) The developer of ocean data collection using autonomous vehicles announced that it has received the first-ever classification for an autonomous, uncrewed surface vehicle (USV).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/11/saildronevoayager.jpg)Intriguing news from [Saildrone.](https://www.saildrone.com/) The developer of ocean data collection using autonomous vehicles announced that it has received the first-ever classification for an autonomous, uncrewed surface vehicle (USV).
 
 From their [announcement](https://www.saildrone.com/news/new-gold-standard-autonomous-systems-saildrone-voyager-first-marine-usv-to-earn-formal-classification):
 

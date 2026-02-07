@@ -12,7 +12,7 @@ tags:
   - "Heritage"
   - "Maine"
   - "Windjammer"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/leblancschooner2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/leblancschooner2.jpg"
 author: "Rick Spilman"
 description: "A relaxing video for a Saturday afternoon. I’ve long been a fan of Fred LeBlanc’s photography, particularly his photos of schooners. Here is a video of LeBlanc’s photos of scenes from Maine Windjammers fleet. LeBlanc hosts photo sailing adventure aboard … Continue reading &rarr;"
 ---

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "I am currently traveling, so I managed to miss Trafalgar Day. Here is an updated repost in honor of Nelson’s great victory over the combined French and Spanish fleets a day ago on October 21, in 1805. There is a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/conradtd.jpg)I am currently traveling, so I managed to miss [Trafalgar Day](https://www.royalnavy.mod.uk/news-and-latest-activity/features/trafalgar-day). Here is an updated repost in honor of Nelson’s great victory over the combined French and Spanish fleets a day ago on October 21, in 1805.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/conradtd.jpg)I am currently traveling, so I managed to miss [Trafalgar Day](https://www.royalnavy.mod.uk/news-and-latest-activity/features/trafalgar-day). Here is an updated repost in honor of Nelson’s great victory over the combined French and Spanish fleets a day ago on October 21, in 1805.
 
 There is a tendency to accept history as inevitable, to accept the events of the past as virtually preordained, and to forget that small changes in circumstances could have had major impacts on critical historical outcomes.
 

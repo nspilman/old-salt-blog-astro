@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The South Street Seaport Museum is offering FREE tickets to tour the 1885-built windjammer Wavertree on Fridays, Saturdays, and Sundays through October 2021, with timed entry, from 11am-5pm at Pier 16 on Manhattan’s East River, (Fulton and South Streets).  From … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/wavertree2016.jpg)The [South Street Seaport Museum](https://southstreetseaportmuseum.org/) is offering FREE tickets to tour the 1885-built windjammer [*Wavertree*](https://southstreetseaportmuseum.org/wavertree/) on Fridays, Saturdays, and Sundays through October 2021, with timed entry, from 11am-5pm at Pier 16 on Manhattan’s East River, (Fulton and South Streets). 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/wavertree2016.jpg)The [South Street Seaport Museum](https://southstreetseaportmuseum.org/) is offering FREE tickets to tour the 1885-built windjammer [*Wavertree*](https://southstreetseaportmuseum.org/wavertree/) on Fridays, Saturdays, and Sundays through October 2021, with timed entry, from 11am-5pm at Pier 16 on Manhattan’s East River, (Fulton and South Streets). 
 
 From the Seaport Museum’s [website](https://southstreetseaportmuseum.org/visitwavertree/):
 

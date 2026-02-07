@@ -14,12 +14,12 @@ tags:
   - "Imperial Japanese Navy"
   - "US Navy"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/samar.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/samar.jpg"
 author: "Rick Spilman"
 description: "The Battle of Leyte Gulf was fought eighty years ago this week between the US and Australian navies and the Imperial Japanese Navy.  It was the largest naval battle of World War II and by some standards the largest naval … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/samar.jpg)The [Battle of Leyte Gulf](https://en.m.wikipedia.org/wiki/Battle_of_Leyte_Gulf) was fought eighty years ago this week between the US and Australian navies and the Imperial Japanese Navy.  It was the largest naval battle of World War II and by some standards the largest naval battle in history. Fought between October 23-26, 1944, it was actually a series of battles that spanned over more than 100,000 square miles of sea and involved more than 800 ships and 1,800 aircraft. The battle of Leyte Gulf was a major allied victory and effectively destroyed the Imperial Japanese Navy as a fighting force.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/10/samar.jpg)The [Battle of Leyte Gulf](https://en.m.wikipedia.org/wiki/Battle_of_Leyte_Gulf) was fought eighty years ago this week between the US and Australian navies and the Imperial Japanese Navy.  It was the largest naval battle of World War II and by some standards the largest naval battle in history. Fought between October 23-26, 1944, it was actually a series of battles that spanned over more than 100,000 square miles of sea and involved more than 800 ships and 1,800 aircraft. The battle of Leyte Gulf was a major allied victory and effectively destroyed the Imperial Japanese Navy as a fighting force.
 
 The [Battle off Samar](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/samar.html), fought on October 25, 1942, eighty years ago today, saved the landings at Leyte Gulf from likely destruction. The powerful US Navy 3rd fleet had been lured north by a decoy Japanese force, leaving the Leyte landing beaches protected only by three small escort carrier task forces designated by their call signs, Taffy 1, 2, and 3.
 

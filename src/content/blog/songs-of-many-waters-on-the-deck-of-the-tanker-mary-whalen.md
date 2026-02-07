@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Sounds like a great evening for those in the New York area.  Thanks to Al Cuenin for the heads up. From oceans to puddles, songs of the seas, lakes, canals, and the ships and sailors who sail them. A singalong evening aboard … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/whalen2.jpg) Sounds like a great evening for those in the New York area.  Thanks to Al Cuenin for the heads up.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whalen2.jpg) Sounds like a great evening for those in the New York area.  Thanks to Al Cuenin for the heads up.
 
 *From oceans to puddles, songs of the seas, lakes, canals, and the ships and sailors who sail them. A singalong evening aboard an historic tanker, the Mary Whalen. Bring voices, instruments, and ears. Bring the kids. Bring a picnic. This will be a grand evening for the whole family.*
 

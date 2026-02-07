@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The good news is that the waters of the Chesapeake are getting progressively cleaner and the crab population has experienced a significant rebound. The bad news is that anti-immigrant politics have plunged the Chesapeake crabbing industry into chaos. First, more … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/blue-crab1.jpg)The good news is that the waters of the Chesapeake are getting progressively cleaner and the crab population has experienced a significant rebound. The bad news is that anti-immigrant politics have plunged the Chesapeake crabbing industry into chaos.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/blue-crab1.jpg)The good news is that the waters of the Chesapeake are getting progressively cleaner and the crab population has experienced a significant rebound. The bad news is that anti-immigrant politics have plunged the Chesapeake crabbing industry into chaos.
 
 First, more on the good news. Last year, a [study by the University of Maryland Center for Environmental Science](http://www.umces.edu/news/chesapeake-bay-report-card-shows-steady-recovery) reported that in 2016, Chesapeake Bay fisheries received an “A” for the health of the blue crab, anchovy and rockfish populations. Blue crabs scored 90 percent, improving drastically compared with two years ago, when the grade was 32 percent.
 

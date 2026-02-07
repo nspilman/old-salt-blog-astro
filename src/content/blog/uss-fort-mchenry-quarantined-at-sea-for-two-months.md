@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "USS Fort McHenry, a US Navy Whidbey Island-class dock landing ship, with over 700 sailors and Marines aboard, has spent the last two months at sea without a port-call. The reason? There has been an outbreak of parotitis, a virus … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/ftmchenry.jpg)  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/ftmchenry.jpg)  
 [USS *Fort McHenry*](https://en.wikipedia.org/wiki/USS_Fort_McHenry_\(LSD-43\)), a US Navy Whidbey Island-class dock landing ship, with over 700 sailors and Marines aboard, has spent the last two months at sea without a port-call. The reason? There has been an outbreak of parotitis, a virus with symptoms similar to the mumps.
 
 Until CNN asked about the time the ship had been at sea, the Navy had not disclosed that the vessel was effectively being quarantined. The illness first broke out in December, with the most recent case being reported on March 9. So far, only about 25 of the more than 700 aboard have caught the virus.

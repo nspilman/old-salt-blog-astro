@@ -16,12 +16,12 @@ tags:
   - "Mediterranean"
   - "Sea of Marmara"
   - "Ukraine"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/alexis.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/alexis.jpg"
 author: "Rick Spilman"
 description: "Update: One of the world’s busiest shipping channels was closed to traffic in both directions after Alexis, an 81,623 dwt bulk carrier, ran aground on May 8, in the Bosporus Strait, connecting the Black Sea to the Mediterranean. Four tugs, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/alexis.jpg)**Update:** One of the world’s busiest shipping channels was closed to traffic in both directions after *[Alexis](https://www.vesselfinder.com/vessels/details/9609158)*, an 81,623 dwt bulk carrier, ran aground on May 8, in the Bosporus Strait, connecting the Black Sea to the Mediterranean.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/alexis.jpg)**Update:** One of the world’s busiest shipping channels was closed to traffic in both directions after *[Alexis](https://www.vesselfinder.com/vessels/details/9609158)*, an 81,623 dwt bulk carrier, ran aground on May 8, in the Bosporus Strait, connecting the Black Sea to the Mediterranean.
 
 Four tugs, a fast rescue boat and divers were sent to the incident, which a Lloyd’s List casualty report said occurred at 0430 hrs. The tugs and rescue vessels were able to refloat the grounded bulk carrier. Vessel traffic in the Bosphorus was restored in both directions, the Directorate-General of Coastal Safety reported.
 

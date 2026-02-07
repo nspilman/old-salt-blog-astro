@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual \"Snow Row\" this weekend. Festivities begin with the annual \"Snow Ball\" this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Snow_Row_07_with_ferry.jpg)The [Hull Lifesaving Museum](http://www.lifesavingmuseum.org/) near Boston is sponsoring their 32nd Annual “Snow Row” this weekend. Festivities begin with the annual “[Snow Ball](http://www.lifesavingmuseum.org/calendarandevents.html#Specialevents)” this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill Point Boathouse, Hull.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Snow_Row_07_with_ferry.jpg)The [Hull Lifesaving Museum](http://www.lifesavingmuseum.org/) near Boston is sponsoring their 32nd Annual “Snow Row” this weekend. Festivities begin with the annual “[Snow Ball](http://www.lifesavingmuseum.org/calendarandevents.html#Specialevents)” this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill Point Boathouse, Hull.
 
 [32nd Annual Snow Row](http://www.lifesavingmuseum.org/programsandworkshops.html#snowrow)  
   

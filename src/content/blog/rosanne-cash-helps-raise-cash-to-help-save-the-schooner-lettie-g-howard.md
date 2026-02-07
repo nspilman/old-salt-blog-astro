@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Monday, April 8 at 8:00 PM at the New York Academy of Medicine, Rosanne Cash is singing at a benefit concert to help save the schooner Lettie G. Howard. Rosanne Cash is a gifted, Grammy award winning singer/songwriter and … Continue reading &rarr;"
 ---
 
-![rcash-2T](http://www.oldsaltblog.com/wp-content/uploads/2013/02/rcash-2T.jpg)
+![rcash-2T](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/rcash-2T.jpg)
 
 Photo: Deborah Feingold
 

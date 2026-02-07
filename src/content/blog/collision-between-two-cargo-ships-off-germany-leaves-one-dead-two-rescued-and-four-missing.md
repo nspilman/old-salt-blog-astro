@@ -12,12 +12,12 @@ tags:
   - "Heligoland"
   - "Polesie"
   - "Verity"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/verity.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/verity.jpg"
 author: "Rick Spilman"
 description: "Around 5 am about 14 miles southwest of the island of Heligoland, Germany, the British bulk carrier Verity sank after colliding with the Bahamian-flagged bulk carrier Polesie. Of the Verity‘s crew of seven, two were rescued, one has died and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/verity.jpg)Around 5 am about 14 miles southwest of the island of Heligoland, Germany, the British bulk carrier [*Verity*](https://www.marinetraffic.com/en/ais/details/ships/shipid:188240/mmsi:235007990/imo:9229178/vessel:VERITY) sank after colliding with the Bahamian-flagged bulk carrier *[Polesie](https://www.marinetraffic.com/en/ais/details/ships/shipid:372742/mmsi:311018000/imo:9488097/vessel:POLESIE).* Of the *Verity*‘s crew of seven, two were rescued, one has died and four remain missing. The ship had been from Bremen to the English town of Immingham with a cargo of steel.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/verity.jpg)Around 5 am about 14 miles southwest of the island of Heligoland, Germany, the British bulk carrier [*Verity*](https://www.marinetraffic.com/en/ais/details/ships/shipid:188240/mmsi:235007990/imo:9229178/vessel:VERITY) sank after colliding with the Bahamian-flagged bulk carrier *[Polesie](https://www.marinetraffic.com/en/ais/details/ships/shipid:372742/mmsi:311018000/imo:9488097/vessel:POLESIE).* Of the *Verity*‘s crew of seven, two were rescued, one has died and four remain missing. The ship had been from Bremen to the English town of Immingham with a cargo of steel.
 
 The *Polesie* was sailing from Hamburg to La Coruna in Spain with a crew of 22, none of whom were reported to be injured. The 38,056 DWT *Polesie* is roughly ten times larger than the 3,360 DWT *Verity*, measured by cargo capacity.
 

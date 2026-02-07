@@ -14,12 +14,12 @@ tags:
   - "Iranian nationals"
   - "methamphetamines"
   - "USS Paul Hamilton"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/PHamilton.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/PHamilton.jpg"
 author: "Rick Spilman"
 description: "The guided-missile destroyer USS Paul Hamilton recently intercepted a fishing boat in the Gulf of Oman carrying 802 kilograms of methamphetamines and 1,000 kilograms of hashish. Before being boarded, the five crewmembers on the fishing vessel – who identified themselves … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/PHamilton.jpg) The guided-missile destroyer [USS Paul Hamilton](https://www.surfpac.navy.mil/ddg60/) recently intercepted a fishing boat in the Gulf of Oman carrying 802 kilograms of methamphetamines and 1,000 kilograms of hashish. Before being boarded, the five crewmembers on the fishing vessel – who identified themselves as Iranian nationals – attempted to throw at least 50 35-pound bags of amphetamines overboard, some of which were ultimately recovered by the Navy. The cargo was valued at $42 million dollars.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/04/PHamilton.jpg) The guided-missile destroyer [USS Paul Hamilton](https://www.surfpac.navy.mil/ddg60/) recently intercepted a fishing boat in the Gulf of Oman carrying 802 kilograms of methamphetamines and 1,000 kilograms of hashish. Before being boarded, the five crewmembers on the fishing vessel – who identified themselves as Iranian nationals – attempted to throw at least 50 35-pound bags of amphetamines overboard, some of which were ultimately recovered by the Navy. The cargo was valued at $42 million dollars.
 
 “This was outstanding work by the entire Paul Hamilton team,” Capt. Anthony Webber, commander of Task Force 55, responsible for overseeing U.S. maritime surface operations in the Middle East, said in a Navy release. “These interdictions remove illicit narcotics from the high seas and help deter destabilizing activity in regional waters.”
 

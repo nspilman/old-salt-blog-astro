@@ -17,12 +17,12 @@ tags:
   - "pirates"
   - "product tanker"
   - "Togo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/11/bonita.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/bonita.jpg"
 author: "Rick Spilman"
 description: "Suspected Niger River Delta pirates operating in the Gulf of Guinea have kidnapped 13 sailors from 2 ships in the last several days."
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/bonita.jpg)Suspected [Niger River Delta pirates operating in the Gulf of Guinea](http://saharareporters.com/2019/11/05/suspected-niger-delta-pirates-kidnap-13-gulf-guinea) have kidnapped 13 sailors from two ships in the last several days.  The first abductions took place early Saturday morning at the port of Cotonou in Benin. Pirates kidnapped nine crew members, including the ship’s captain, from the 58,105 DWT, Norwegian flag, JJ Ugland owned bulker, [*Bonita*.](http://www.vesseltracking.net/ship/bonita-9494060)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/bonita.jpg)Suspected [Niger River Delta pirates operating in the Gulf of Guinea](http://saharareporters.com/2019/11/05/suspected-niger-delta-pirates-kidnap-13-gulf-guinea) have kidnapped 13 sailors from two ships in the last several days.  The first abductions took place early Saturday morning at the port of Cotonou in Benin. Pirates kidnapped nine crew members, including the ship’s captain, from the 58,105 DWT, Norwegian flag, JJ Ugland owned bulker, [*Bonita*.](http://www.vesseltracking.net/ship/bonita-9494060)
 
 Then on Monday, pirates attacked the Greek, 94,000 DWT product tanker, [*Elka Aristotle*](https://www.vesselfinder.com/vessels/ELKA-ARISTOTLE-IMO-9249099-MMSI-240069000), off the coast of Togo abducting four of the 24-member crew. 
 

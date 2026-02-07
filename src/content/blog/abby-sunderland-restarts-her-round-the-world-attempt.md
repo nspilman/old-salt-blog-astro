@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Abby Sunderland is putting into Cabo San Lucas, Mexico, interrupting her round the world attempt,  because of a power problem aboard her yacht, Wild Eyes. The yacht’s solar panels and wind generators were not providing enough power and the yacht … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/sunderland2.jpg)Abby Sunderland is putting into Cabo San Lucas, Mexico, interrupting her round the world attempt,  because of a power problem aboard her yacht, *Wild Eyes.* The yacht’s solar panels and wind generators were not providing enough power and the yacht will be fitted with additional battery capacity.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/sunderland2.jpg)Abby Sunderland is putting into Cabo San Lucas, Mexico, interrupting her round the world attempt,  because of a power problem aboard her yacht, *Wild Eyes.* The yacht’s solar panels and wind generators were not providing enough power and the yacht will be fitted with additional battery capacity.
 
 [Power Problems Stall Teen Sailor in Mexico](http://www.nbclosangeles.com/news/local-beat/Power-Problems-Stall-Teen-Sailor-in-Mexico-83245372.html)  
   

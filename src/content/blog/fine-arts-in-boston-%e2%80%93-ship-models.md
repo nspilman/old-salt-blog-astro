@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The first exhibit in the $500 expansion of the Boston Museum of Fine Arts new Art of the Americas Wing in currently being installed.   The first new exhibit –  ship models.  An excellent choice.   The new wing opens in November.  For those … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/constitutionmodel.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/constitutionmodel.jpg)
 
 USS Constitution
 

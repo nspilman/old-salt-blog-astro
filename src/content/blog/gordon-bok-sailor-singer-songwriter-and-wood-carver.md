@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "If you are fond of songs of ships and the sea, you may already know Gordon Bok’s music. If not, you should definitely make his acquaintance. Bok is a particular favorite of mine — a sailor, songwriter, singer and a master … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/gbok.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/gbok.jpg)
 
 Gordon Bok – Photo by Chris Koldewy
 

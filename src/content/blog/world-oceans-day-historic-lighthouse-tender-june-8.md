@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The historic lighthouse tender Lilac is hosting a literary salon to celebrate World Oceans Day. From their press release: One Grand Books has organized a literary evening on board the museum ship Lilac to mark World Oceans Day, a global … Continue reading &rarr;"
 ---
 
-![lilacbow](http://www.oldsaltblog.com/wp-content/uploads/2016/06/lilacbow.jpg)The historic [lighthouse tender *Lilac*](http://lilacpreservationproject.org/) is hosting a literary salon to celebrate [World Oceans Day](http://www.worldoceansday.org/). From their press release:
+![lilacbow](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/lilacbow.jpg)The historic [lighthouse tender *Lilac*](http://lilacpreservationproject.org/) is hosting a literary salon to celebrate [World Oceans Day](http://www.worldoceansday.org/). From their press release:
 
 [One Grand Books](http://onegrandbooks.com/) has organized a literary evening on board the museum ship *Lilac* to mark World Oceans Day, a global day of ocean celebration, on June 8, 2016.  This event opens the ship’s 2016 season.
 

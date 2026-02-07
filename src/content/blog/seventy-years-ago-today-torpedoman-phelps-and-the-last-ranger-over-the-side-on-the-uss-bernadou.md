@@ -15,7 +15,7 @@ author: "Stephen Phelps"
 description: "A guest post by Stephen Phelps: Today is the 70th anniversary of the WW II invasion of North Africa, which began with the assault and landing in the port of Safi by USS Bernadou, a WW I-vintage destroyer that had … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/0515311.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/0515311.jpg)
 
 USS Bernadou (DD-153), At sea during the North African invasion operation, November 1942. The ship’s mast had been removed to facilitate her role in the landings at Safi, Morocco on 8 November 1942
 

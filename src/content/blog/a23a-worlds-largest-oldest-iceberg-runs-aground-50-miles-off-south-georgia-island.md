@@ -14,12 +14,12 @@ tags:
   - "South Georgia"
   - "Weddell Sea"
   - "West Antarctica"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/a23asg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/a23asg.jpg"
 author: "Rick Spilman"
 description: "The world’s largest and oldest iceberg, designated A23a, has run aground in shallow water approximately 50 miles off the remote British island of South Georgia, in the South Atlantic. The island is home to millions of penguins and seals. The … Continue reading &rarr;"
 ---
 
-![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/a23asg.jpg)The world’s largest and oldest iceberg, designated [A23a](https://en.wikipedia.org/wiki/A23a), has run aground in shallow water approximately 50 miles off the remote British island of [South Georgia](https://en.wikipedia.org/wiki/South_Georgia), in the South Atlantic. The island is home to millions of penguins and seals. The iceberg, which is larger than the state of Rhode Island, appears to be stuck and should start breaking up on the island’s southwest shores. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/03/a23asg.jpg)The world’s largest and oldest iceberg, designated [A23a](https://en.wikipedia.org/wiki/A23a), has run aground in shallow water approximately 50 miles off the remote British island of [South Georgia](https://en.wikipedia.org/wiki/South_Georgia), in the South Atlantic. The island is home to millions of penguins and seals. The iceberg, which is larger than the state of Rhode Island, appears to be stuck and should start breaking up on the island’s southwest shores. 
 
 The good news is that A23a did not directly collide with the remote island as had been previously feared, which had the potential to devastate the penguin and seal populations by blocking their access to food.
 

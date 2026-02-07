@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase \"SEAL Team 6.\"   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/US-Navy-SEALs-Insignia.jpg)Last week [we posted about Disney](http://www.oldsaltblog.com/2011/05/16/admiral-mickey-mouse-seal-team-6/) filing  three trademark applications for the rights to the phrase “SEAL Team 6.”   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases “NAVY SEALS” and “SEAL TEAM.”
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/US-Navy-SEALs-Insignia.jpg)Last week [we posted about Disney](http://www.oldsaltblog.com/2011/05/16/admiral-mickey-mouse-seal-team-6/) filing  three trademark applications for the rights to the phrase “SEAL Team 6.”   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases “NAVY SEALS” and “SEAL TEAM.”
 
 [Claiming What’s Theirs: Navy Files Trademarks for ‘SEAL TEAM’ and ‘NAVY SEALS’](http://newsfeed.time.com/2011/05/24/claiming-whats-theirs-navy-files-trademarks-for-seal-team/#ixzz1NK08gcGx)  
   

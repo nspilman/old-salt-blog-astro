@@ -12,12 +12,12 @@ tags:
   - "INEOS Team UK"
   - "Te Rehutai"
   - "Team New Zealand"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/ac75capsize.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ac75capsize.jpg"
 author: "Rick Spilman"
 description: "A video clip for a Monday.  During a practice match against British challenger INEOS Team UK, Peter Burling, Team New Zealand skipper, lost control of the AC75 Te Rehutai during a gybe. While sailing at about 35 knots, the boat … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/ac75capsize.jpg)A video clip for a Monday.  During a practice match against British challenger INEOS Team UK, Peter Burling, Team New Zealand skipper, lost control of the AC75 *Te Rehutai* during a gybe. While sailing at about 35 knots, the boat took a nose-dive and rolled on its beam ends. Remarkably, there were no reported injuries or significant damage to the boat.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/ac75capsize.jpg)A video clip for a Monday.  During a practice match against British challenger INEOS Team UK, Peter Burling, Team New Zealand skipper, lost control of the AC75 *Te Rehutai* during a gybe. While sailing at about 35 knots, the boat took a nose-dive and rolled on its beam ends. Remarkably, there were no reported injuries or significant damage to the boat.
 
 [Stuff](https://www.stuff.co.nz/sport/americas-cup/123920608/americas-cup-team-new-zealands-dramatic-capsize-explained) reports that it was the third time Team New Zealand have been on their side after two capsizes in their first boat *Te Aihe*.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The new $7.5 billion DDG-1000 destroyer, USS Zumwalt is incredibly high tech and innovative. The only question is whether it will be seaworthy."
 ---
 
-![zumwalt1](http://www.oldsaltblog.com/wp-content/uploads/2015/12/zumwalt1.jpg)The new $7.5 billion DDG-1000 destroyer, USS *Zumwalt*, expected to be delivered by Bath Iron Works sometime in 2016, is incredibly high tech and innovative. It features advanced weapons and propulsion systems as well as an inward sloping hull with a ram bow to make it more stealthy to radar. The only area of controversy is whether it will be seaworthy.
+![zumwalt1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/zumwalt1.jpg)The new $7.5 billion DDG-1000 destroyer, USS *Zumwalt*, expected to be delivered by Bath Iron Works sometime in 2016, is incredibly high tech and innovative. It features advanced weapons and propulsion systems as well as an inward sloping hull with a ram bow to make it more stealthy to radar. The only area of controversy is whether it will be seaworthy.
 
 As reported by [Defense News:](http://www.defenseindustrydaily.com/defense-news-will-ddg1000-destroyers-be-unstable-03203/) “*Nothing like the Zumwalt has ever been built. The 14,500-ton ship’s flat, inward-sloping sides and superstructure rise in pyramidal fashion in a form called tumblehome. Its long, angular “wave-piercing” bow lacks the rising, flared profile of most ships, and is intended to slice through waves as much as ride over them…”*
 

@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "These are busy time for the World War II vintage Iowa Class battleships. The USS Iowa arrived yesterday in the Port of Los Angeles to tie up alongside her new permanent home, Berth 87, in San Pedro, California, where she will become … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/uss-iowa-museum.jpg)These are busy time for the World War II vintage Iowa Class battleships. The [*USS Iowa* arrived yesterday in the Port of Los Angeles](http://photoblog.msnbc.msn.com/_news/2012/06/09/12146068-uss-iowa-makes-final-journey-to-become-a-floating-museum-in-san-pedra-calif?lite) to tie up alongside her new permanent home, Berth 87, in San Pedro, California, where she will become a museum ship.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/uss-iowa-museum.jpg)These are busy time for the World War II vintage Iowa Class battleships. The [*USS Iowa* arrived yesterday in the Port of Los Angeles](http://photoblog.msnbc.msn.com/_news/2012/06/09/12146068-uss-iowa-makes-final-journey-to-become-a-floating-museum-in-san-pedra-calif?lite) to tie up alongside her new permanent home, Berth 87, in San Pedro, California, where she will become a museum ship.
 
 On the East coast, the *[USS New Jersey](http://en.wikipedia.org/wiki/USS_New_Jersey_\(BB-62\))*, a museum ship in Camden, NJ since 2001, has been suffering hard times financially due to a drop in tourism and a cut in state funding.  Last Wednesday, [it received a a $900,000 loan guarantee from the Delaware River Port Authority.](http://articles.philly.com/2012-06-07/news/32079818_1_loan-guarantee-home-port-alliance-inspector)  This doesn’t solve the ship’s financial problems, but certainly buys some time.
 

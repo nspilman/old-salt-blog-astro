@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, \"Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/piratetwitter.jpg)](http://www.cnn.com/2012/03/15/business/somalia-piracy-twitter/index.html?hpt=hp_bn2)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/piratetwitter.jpg)](http://www.cnn.com/2012/03/15/business/somalia-piracy-twitter/index.html?hpt=hp_bn2)
 
 Tracking Pirate Tweets
 

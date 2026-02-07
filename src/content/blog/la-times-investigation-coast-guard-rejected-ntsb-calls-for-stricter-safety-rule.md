@@ -14,12 +14,12 @@ tags:
   - "fire"
   - "National Transportation Safety Board"
   - "NTSB"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/diveboatfire.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/diveboatfire.jpg"
 author: "Rick Spilman"
 description: "The dive boat Conception was a death trap.  It was a wooden vessel with a single narrow and steep stairway from the lower berthing deck and a small emergency exit hatch. When a fire broke out on September 2, 34 … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/diveboatfire.jpg)The [dive boat *Conception*](http://www.oldsaltblog.com/2019/09/dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island/) was a death trap.  It was a wooden vessel with a single narrow and steep stairway from the lower berthing deck and a [small emergency exit hatch](https://people.com/human-interest/california-boat-fire-investigator-harrowing-details/). When a fire broke out on September 2, 34 people sleeping on the lowering berthing deck died in the blaze.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/diveboatfire.jpg)The [dive boat *Conception*](http://www.oldsaltblog.com/2019/09/dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island/) was a death trap.  It was a wooden vessel with a single narrow and steep stairway from the lower berthing deck and a [small emergency exit hatch](https://people.com/human-interest/california-boat-fire-investigator-harrowing-details/). When a fire broke out on September 2, 34 people sleeping on the lowering berthing deck died in the blaze.
 
 The *Conception* was also inspected and approved by the US Coast Guard as meeting all requirements of a Subchapter T, Small Passenger Vessel.  Recently, [an investigation by the Los Angeles Times](https://www.latimes.com/california/story/2019-11-12/conception-boat-fire-coast-guard-ntsb-recommendations) revealed that the Coast Guard had repeatedly rejected the National Transportation Safety Board’s (NTSB) recommendations for stricter fire safety regulations in this type of vessel.
 

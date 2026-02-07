@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Fantastic photos of the fleet alongside in Varna, Bulgaria after the first race in the Historical Seas Tall Ships Regatta.   Click on the photo above to see more. … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/zx.jpg)](http://www.dnevnik.bg/bigpicture/2010/05/21/905083_flotiliiata_na_tol_ships_vuv_varna/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/zx.jpg)](http://www.dnevnik.bg/bigpicture/2010/05/21/905083_flotiliiata_na_tol_ships_vuv_varna/)
 
 Photographer: George Kozhuharov
 

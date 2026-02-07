@@ -12,12 +12,12 @@ tags:
   - "Brazilian Navy"
   - "French Navy"
   - "São Paulo"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/saopaulo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/saopaulo.jpg"
 author: "Rick Spilman"
 description: "Aircraft carriers can be tough. They cost a fortune to build, so most nations can afford only one or two. They are demanding and costly to operate. They are also extremely expensive to clean up enough to be scrapped. São … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/saopaulo.jpg)Aircraft carriers can be tough. They cost a fortune to build, so most nations can afford only one or two. They are demanding and costly to operate. They are also extremely expensive to clean up enough to be scrapped.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/saopaulo.jpg)Aircraft carriers can be tough. They cost a fortune to build, so most nations can afford only one or two. They are demanding and costly to operate. They are also extremely expensive to clean up enough to be scrapped.
 
 [*São Paulo*](https://en.wikipedia.org/wiki/Brazilian_aircraft_carrier_S%C3%A3o_Paulo), a 34,000-ton, 870-ft Brazilian aircraft carrier, is a good example. As reported by the [NY Times](https://www.nytimes.com/2023/02/02/climate/brazil-aircraft-carrier-asbestos.html), the 60-year-old carrier, packed with an undetermined amount of asbestos, was being towed in circles off the coast of Brazil after it was refused permission to dock in Turkey for recycling. The problem? No government wants anything to do with it.  
 

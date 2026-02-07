@@ -16,12 +16,12 @@ tags:
   - "Royal New Zealand Navy"
   - "Samoa"
   - "Upolu"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/nJNavyship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/nJNavyship.jpg"
 author: "Rick Spilman"
 description: "HMNZS Manawanui, a multi-role offshore support vessel commissioned in the Royal New Zealand Navy, ran aground while surveying a reef off the island of Upolu in Samoa on Saturday night local time. The ship subsequently caught fire before capsizing and … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/nJNavyship.jpg)[HMNZS *Manawanui*](https://en.wikipedia.org/wiki/HMNZS_Manawanui_\(2019\)), a multi-role offshore support vessel commissioned in the Royal New Zealand Navy, ran aground while surveying a reef off the island of Upolu in Samoa on Saturday night local time. The ship subsequently caught fire before capsizing and sinking.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/10/nJNavyship.jpg)[HMNZS *Manawanui*](https://en.wikipedia.org/wiki/HMNZS_Manawanui_\(2019\)), a multi-role offshore support vessel commissioned in the Royal New Zealand Navy, ran aground while surveying a reef off the island of Upolu in Samoa on Saturday night local time. The ship subsequently caught fire before capsizing and sinking.
 
 All 75 people on board were evacuated onto lifeboats and rescued early on Sunday, New Zealand’s Defence Force said in a statement. Officials said the cause of the grounding was unknown and will be investigated.
 

@@ -12,12 +12,12 @@ tags:
   - "RMS St Helena"
   - "South Atlantic"
   - "St Helena"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/rmssthelena1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/rmssthelena1.jpg"
 author: "Rick Spilman"
 description: "Last June we posted about the new airport on St. Helena. The airport was meant to allow commercial airlines to land on St. Helena, bringing tourists and commerce to the beautiful but rocky and remote island in the South Atlantic. The British … Continue reading &rarr;"
 ---
 
-![rmssthelena1](http://www.oldsaltblog.com/wp-content/uploads/2016/09/rmssthelena1.jpg)Last June [we posted about the new airport on St. Helena](http://www.oldsaltblog.com/2016/06/last-voyage-rms-st-helena-airport/). The airport was meant to allow commercial airlines to land on St. Helena, bringing tourists and commerce to the beautiful but rocky and remote island in the South Atlantic. The British government spent £285m to build the airport, which was supposed to open in May of this year.  There was and is only one problem. The runway is too windy for commercial airliners to land. Specifically, there is too much wind shear on the northerly approach.
+![rmssthelena1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/rmssthelena1.jpg)Last June [we posted about the new airport on St. Helena](http://www.oldsaltblog.com/2016/06/last-voyage-rms-st-helena-airport/). The airport was meant to allow commercial airlines to land on St. Helena, bringing tourists and commerce to the beautiful but rocky and remote island in the South Atlantic. The British government spent £285m to build the airport, which was supposed to open in May of this year.  There was and is only one problem. The runway is too windy for commercial airliners to land. Specifically, there is too much wind shear on the northerly approach.
 
 Now, the [island’s residents are threatening to sue](https://www.theguardian.com/uk-news/2016/sep/21/st-helena-islanders-compensation-285m-airport) the government of Great Britain for compensation related to the so-far unusable airport. St Helena is a British Overseas Territory.
 

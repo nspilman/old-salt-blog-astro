@@ -11,12 +11,12 @@ tags:
   - "Maine"
   - "marine sanctuary"
   - "Northeast Canyons and Seamounts Marine National Monument"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/worldoceansdayoctopus.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/worldoceansdayoctopus.jpg"
 author: "Rick Spilman"
 description: "Happy World Ocean Day, held every year on the 8th of June to celebrate the oceans and to take action to restore and protect them. This year the day’s theme is ‘Innovation for a sustainable ocean.’ Unfortunately, the current US … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/worldoceansdayoctopus.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/06/worldoceansdayoctopus.jpg)
 
 Deep-sea octopus on Bear Seamount within the Northeast Canyons and Seamounts Marine National Monument off the coast of New England Photo: NOAA
 

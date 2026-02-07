@@ -14,12 +14,12 @@ tags:
   - "Greece"
   - "migrants"
   - "Pylos"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece.jpg"
 author: "Rick Spilman"
 description: "Reuters reports that rescuers scoured the seas off Greece on Thursday following a shipwreck that killed at least 78 migrants, as hopes of survivors dwindled and fears grew that hundreds more, including children, may have drowned inside the crowded vessel’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/shipwreck-greece.jpg)[Reuters](https://www.reuters.com/world/europe/greece-hunts-survivors-migrant-shipwreck-least-78-dead-2023-06-15/) reports that rescuers scoured the seas off Greece on Thursday following a shipwreck that killed at least 78 migrants, as hopes of survivors dwindled and fears grew that hundreds more, including children, may have drowned inside the crowded vessel’s hold.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/shipwreck-greece.jpg)[Reuters](https://www.reuters.com/world/europe/greece-hunts-survivors-migrant-shipwreck-least-78-dead-2023-06-15/) reports that rescuers scoured the seas off Greece on Thursday following a shipwreck that killed at least 78 migrants, as hopes of survivors dwindled and fears grew that hundreds more, including children, may have drowned inside the crowded vessel’s hold.
 
 Reports suggested between 400 and 750 people had packed the 20 to 30-meter-long fishing boat that capsized and sank early on Wednesday morning in deep waters about 50 miles (80 km) from the southern coastal town of Pylos. Greek authorities said 104 survivors had been brought ashore.
 

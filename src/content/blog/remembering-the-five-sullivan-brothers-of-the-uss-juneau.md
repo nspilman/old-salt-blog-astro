@@ -11,12 +11,12 @@ tags:
   - "Battle of Guadalcanal"
   - "Sullivan Brothers"
   - "USS Juneau"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/sullivanbros.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/sullivanbros.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the discovery of the wreckage of the USS Juneau by the Paul Allen’s RV Petrel.  The Juneau was sunk by Japanese torpedoes during the Battle of Guadalcanal in November of 1942. Of the 687 men who … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/sullivanbros.jpg)Yesterday [we posted about the discovery](http://www.oldsaltblog.com/2018/03/wreck-of-five-sullivans-cruiser-uss-juneau-discovered-on-st-patricks-day/#more-49070) of the wreckage of the [USS *Juneau*](https://en.wikipedia.org/wiki/USS_Juneau_\(CL-52\)) by the Paul Allen’s RV *Petrel*.  The *Juneau* was sunk by Japanese torpedoes during the Battle of Guadalcanal in November of 1942. Of the 687 men who died when the ship sank, the best remembered are the five Sullivan brothers, George, Frank, Red, Matt, and Al.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/sullivanbros.jpg)Yesterday [we posted about the discovery](http://www.oldsaltblog.com/2018/03/wreck-of-five-sullivans-cruiser-uss-juneau-discovered-on-st-patricks-day/#more-49070) of the wreckage of the [USS *Juneau*](https://en.wikipedia.org/wiki/USS_Juneau_\(CL-52\)) by the Paul Allen’s RV *Petrel*.  The *Juneau* was sunk by Japanese torpedoes during the Battle of Guadalcanal in November of 1942. Of the 687 men who died when the ship sank, the best remembered are the five Sullivan brothers, George, Frank, Red, Matt, and Al.
 
 The five brothers all enlisted together and insisted that they should all serve together. Navy policy had been to separate siblings but exceptions were allowed. George, the oldest brother, said “When we go in, we want to go in together. If the worst comes to the worst, why, we’ll all have gone down together.”
 

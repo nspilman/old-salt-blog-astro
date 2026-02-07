@@ -13,12 +13,12 @@ tags:
   - "Weller brothers"
   - "Wellerman"
   - "whaling"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/nzwhaling.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nzwhaling.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the Wellerman and the Sea Shanty Boom on TikTok. We noted that of all the recent strangeness, the most pleasant and least expected has been the explosion of sea shanties on TikTok. It all began when … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/nzwhaling.jpg)We recently posted about the [*Wellerman* and the Sea Shanty Boom on TikTok](http://www.oldsaltblog.com/2021/01/shantytok-the-wellerman-and-the-sea-shanty-boom-on-tiktok/). We noted that of all the recent strangeness, the most pleasant and least expected has been the explosion of sea shanties on [TikTok](https://www.tiktok.com/). It all began when Scottish postman and aspiring musician, [Nathan Evanss](https://www.youtube.com/channel/UCzYmjJDO4slx18KhhHF7yHA), began posting shanties and sea songs on the video streaming service TikTok. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nzwhaling.jpg)We recently posted about the [*Wellerman* and the Sea Shanty Boom on TikTok](http://www.oldsaltblog.com/2021/01/shantytok-the-wellerman-and-the-sea-shanty-boom-on-tiktok/). We noted that of all the recent strangeness, the most pleasant and least expected has been the explosion of sea shanties on [TikTok](https://www.tiktok.com/). It all began when Scottish postman and aspiring musician, [Nathan Evanss](https://www.youtube.com/channel/UCzYmjJDO4slx18KhhHF7yHA), began posting shanties and sea songs on the video streaming service TikTok. 
 
 Since then, there has been a bit of confusion in some quarters about what the song, the *Wellerman* is about. (This should not be a surprise, as there are often disagreements about sea shanties, including even what constitutes a sea shanty.) Some have taken the lyric, “*Soon may the Wellerman come, to bring us sugar and tea and rum,*” as a reference to the infamous [Atlantic Triangle Trade](https://www.pbs.org/wgbh/roadshow/stories/articles/2016/01/11/triangular-trade) which involved trading slaves, sugar, and rum.
 

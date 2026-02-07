@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "Last July, a barge pushed by the tug Caribbean Sea struck a disabled tourist \"duck boat\" at anchor in the Delaware River.   Two tourists drowned in the collision.  A report by the National Transportation Safety Board said the tug’s mate Matthew Devlin was on his … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/duck2a.jpg)Last July, a barge pushed by the tug *Caribbean Sea* struck a disabled tourist “duck boat” at anchor in the Delaware River.   Two tourists drowned in the collision.  A report by the National Transportation Safety Board said the tug’s mate Matthew Devlin was on his mobile phone and laptop trying to deal with a serious family medical emergency a the time of the casualty.   The mate has now agreed to plead guilty to a charge of “maritime manslaughter” and to the permanent revocation of his Coast Guard licence.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/duck2a.jpg)Last July, a barge pushed by the tug *Caribbean Sea* struck a disabled tourist “duck boat” at anchor in the Delaware River.   Two tourists drowned in the collision.  A report by the National Transportation Safety Board said the tug’s mate Matthew Devlin was on his mobile phone and laptop trying to deal with a serious family medical emergency a the time of the casualty.   The mate has now agreed to plead guilty to a charge of “maritime manslaughter” and to the permanent revocation of his Coast Guard licence.
 
 [First mate’s mobile, laptop use results in ‘maritime manslaughter’ charge](http://www.shippingonline.cn/news/newsContent.asp?id=20324) 
 

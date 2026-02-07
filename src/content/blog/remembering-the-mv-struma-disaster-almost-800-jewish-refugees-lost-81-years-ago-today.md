@@ -14,12 +14,12 @@ tags:
   - "Palestine"
   - "Shchuka-class Soviet submarine Shch-213"
   - "Struma"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/02/struma2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/struma2.jpg"
 author: "Rick Spilman"
 description: "Eighty-one years ago today on February 24, 1941, the overloaded and unseaworthy MV Struma was sunk with the loss of almost 800 Jewish refugees. Of the estimated 790 people who died, more than 100 were children. There was only one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/02/struma2.jpg)Eighty-one years ago today on February 24, 1941, the overloaded and unseaworthy [MV *Struma*](https://en.wikipedia.org/wiki/Struma_disaster#) was sunk with the loss of almost 800 Jewish refugees. Of the estimated 790 people who died, more than 100 were children. There was only one survivor.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/02/struma2.jpg)Eighty-one years ago today on February 24, 1941, the overloaded and unseaworthy [MV *Struma*](https://en.wikipedia.org/wiki/Struma_disaster#) was sunk with the loss of almost 800 Jewish refugees. Of the estimated 790 people who died, more than 100 were children. There was only one survivor.
 
 The Romanian port of Constanta, on the Black Sea, was [a major embarkation point for Jewish refugees](https://encyclopedia.ushmm.org/content/en/article/voyage-of-the-struma) attempting to leave Nazi-occupied Europe for Palestine. Thousands of Jews, desperate to escape the Germans, took the route by ship from Constanta via Turkey to Palestine, despite British immigration restrictions.
 

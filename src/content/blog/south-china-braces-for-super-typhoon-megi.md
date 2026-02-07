@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, \"super-typhoon\" Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/typhoon-megi-nasa-101018-02.jpg)After [killing more than 20 people in the Philippines](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1453208&SM=1) and [lashing Taiwan, where dozens are reported missing](http://www.marketwatch.com/story/taiwan-hit-by-super-typhoon-megi-dozens-missing-2010-10-22), “super-typhoon” Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than a decade.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/typhoon-megi-nasa-101018-02.jpg)After [killing more than 20 people in the Philippines](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1453208&SM=1) and [lashing Taiwan, where dozens are reported missing](http://www.marketwatch.com/story/taiwan-hit-by-super-typhoon-megi-dozens-missing-2010-10-22), “super-typhoon” Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than a decade.
 
 [Southern China awaits slow-moving super-typhoon](http://www.monstersandcritics.com/news/asiapacific/news/article_1593055.php/Southern-China-awaits-slow-moving-super-typhoon)  
   

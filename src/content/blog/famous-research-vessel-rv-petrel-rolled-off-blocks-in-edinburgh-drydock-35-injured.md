@@ -18,12 +18,12 @@ tags:
   - "ROV"
   - "Scotland"
   - "United States Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/petrel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/petrel.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the research vessel Petrel rolled off her blocks in a drydock in Edinburgh, Scotland, leaving 35 people injured. BBC reports that twenty-three people were taken to the hospital and 12 were treated at the scene of the incident at … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/petrel.jpg)Yesterday, the research vessel *[Petrel](https://en.wikipedia.org/wiki/RV_Petrel)* rolled off her blocks in a drydock in Edinburgh, Scotland, leaving 35 people injured. [BBC reports](https://www.bbc.com/news/av/uk-scotland-65041272?zephr-modal-register) that twenty-three people were taken to the hospital and 12 were treated at the scene of the incident at Imperial Dock in Leith. The 3,371 GT research toppled over in strong winds rolling to an angle of 45 degrees.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/03/petrel.jpg)Yesterday, the research vessel *[Petrel](https://en.wikipedia.org/wiki/RV_Petrel)* rolled off her blocks in a drydock in Edinburgh, Scotland, leaving 35 people injured. [BBC reports](https://www.bbc.com/news/av/uk-scotland-65041272?zephr-modal-register) that twenty-three people were taken to the hospital and 12 were treated at the scene of the incident at Imperial Dock in Leith. The 3,371 GT research toppled over in strong winds rolling to an angle of 45 degrees.
 
 The *Petrel* was previously owned by [Paul Allen](https://www.paulallen.com/), one of the founders of Microsoft. With Allen’s support, the vessel achieved an awe-inspiring record of underwater discoveries, locating a veritable fleet of lost naval shipwrecks.
 

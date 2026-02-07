@@ -13,12 +13,12 @@ tags:
   - "Equatorial Guinea"
   - "pirates"
   - "Spanish Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/bluemarlin.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/bluemarlin.jpg"
 author: "Rick Spilman"
 description: "On Sunday, May 5th, armed pirates boarded the semi-submersible heavy-lift vessel Blue Marlin, 80 nautical miles offshore of Equatorial Guinea on the west coast of Africa. The ship, operated by the Dutch firm Boskalis, had unloaded cargo near Luba port, … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/bluemarlin.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/bluemarlin.jpg)
 
 Blue Marlin, Photo: Spanish Navy
 

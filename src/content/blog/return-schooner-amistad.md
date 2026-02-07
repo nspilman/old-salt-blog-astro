@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The schooner Amistad, the official flagship of the State of Connecticut, has seen difficult times in recent years. Built fifteen years ago at Mystic Seaport, until recently, the ship had been in receivership since 2014, after Amistad America, the non-profit which ran the … Continue reading &rarr;"
 ---
 
-![Photo: Sean D. Elliot/The Day](http://www.oldsaltblog.com/wp-content/uploads/2016/01/amistad.jpg)
+![Photo: Sean D. Elliot/The Day](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/amistad.jpg)
 
 Photo: Sean D. Elliot/The Day
 

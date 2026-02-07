@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "The Norwegian Viking ship Draken Harald Hårfagre has successfully weathered the seas of the Atlantic Ocean only to be turned back by exorbitant pilotage fees in the Great Lakes and the St Lawrence Seaway. Unless changes are made, pilotage fees … Continue reading &rarr;"
 ---
 
-![drakensail](http://www.oldsaltblog.com/wp-content/uploads/2016/07/drakensail.jpg)The Norwegian Viking ship [Draken Harald Hårfagre](http://www.drakenexpeditionamerica.com) has successfully weathered the seas of the Atlantic Ocean only to be turned back by exorbitant pilotage fees in the Great Lakes and the St Lawrence Seaway. Unless changes are made, pilotage fees could potentially exceed $400,000. The sail training vessel may be forced to leave the Great Lakes and to withdraw from the [Tall Ships Challenge Great Lakes 2016](http://www.sailtraining.org/tallships/2016greatlakes/TSC2016index.php). From their press release:
+![drakensail](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/drakensail.jpg)The Norwegian Viking ship [Draken Harald Hårfagre](http://www.drakenexpeditionamerica.com) has successfully weathered the seas of the Atlantic Ocean only to be turned back by exorbitant pilotage fees in the Great Lakes and the St Lawrence Seaway. Unless changes are made, pilotage fees could potentially exceed $400,000. The sail training vessel may be forced to leave the Great Lakes and to withdraw from the [Tall Ships Challenge Great Lakes 2016](http://www.sailtraining.org/tallships/2016greatlakes/TSC2016index.php). From their press release:
 
 *The Norwegian Viking Ship, Draken Harald Hårfagre, is most probably forced to leave the Great Lakes and the Tall Ships Challenge 2016 due to the cost for pilotage.*
 

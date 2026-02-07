@@ -16,12 +16,12 @@ tags:
   - "HMS Beagle"
   - "Oosterschelde"
   - "Plymouth"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/darwin200.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/darwin200.jpg"
 author: "Rick Spilman"
 description: "Almost 200 years ago, Charles Darwin set sail from Plymouth, UK, as a naturalist on HMS Beagle on an epic voyage that would prove pivotal in the development of his theories of evolution.   This week, the 105-year-old Dutch schooner Oosterschelde set … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/darwin200.jpg)Almost 200 years ago, [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) set sail from Plymouth, UK, as a naturalist on HMS *Beagle* on an epic voyage that would prove pivotal in the development of his theories of evolution.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/darwin200.jpg)Almost 200 years ago, [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) set sail from Plymouth, UK, as a naturalist on HMS *Beagle* on an epic voyage that would prove pivotal in the development of his theories of evolution.  
 
 This week, the 105-year-old Dutch schooner [*Oosterschelde*](https://www.dutchtallship.com/oosterschelde/) set sail from Plymouth on a two-year voyage to train and inspire a new generation of naturalists by tracing the voyage of HMS *Beagle.* On the 40,000 nautical mile voyage, the schooner will call at 32 ports around the globe and will serve as a floating laboratory on the sea and in port in the project called [Darwin200](https://darwin200.com/). The project seeks to harness the legacy of Charles Darwin’s passion for natural history to engage worldwide audiences and advance global conservation.
 

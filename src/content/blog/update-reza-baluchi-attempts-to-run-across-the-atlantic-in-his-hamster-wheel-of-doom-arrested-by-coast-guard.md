@@ -15,12 +15,12 @@ tags:
   - "human hamster wheel"
   - "Reza Baluchi"
   - "Tybee Island"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/hamsterwheel.png"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/hamsterwheel.png"
 author: "Rick Spilman"
 description: "Reza Baluchi is at it again. The US Coast Guard intercepted Baluchi in the Atlantic about 70 miles (110km) off Tybee Island, Georgia on August 26 in his most recent attempt to run across the ocean, this time from the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/hamsterwheel.png)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/hamsterwheel.png)
 
 Photo: FLAGLER COUNTY SHERIFF’S OFFICE
 

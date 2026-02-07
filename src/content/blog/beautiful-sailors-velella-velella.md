@@ -8,7 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Velella Velella"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/veelaveela.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/veelaveela.jpg"
 author: "Rick Spilman"
 description: "On a day distracted by a momentous national election, here is something wholly unrelated — the beautiful creatures called velella velella. As lovely as they are, these jellyfish, also known as \"purple sailors\" or \"by-the-wind sailors,\" can be an unwelcomed visitor. Last spring, … Continue reading &rarr;"
 ---

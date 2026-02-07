@@ -14,12 +14,12 @@ tags:
   - "new york"
   - "Queen Elizabeth"
   - "Royal Navy aircraft carrier"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/qliznyc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/qliznyc.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy aircraft carrier HMS Queen Elizabeth has arrived in New York harbor, dropping anchor within sight of the Statue of Liberty. The carrier is accompanied by her frigate escort, HMS Richmond, which sailed up the Hudson River for … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/qliznyc.jpg)The Royal Navy aircraft carrier [HMS *Queen Elizabeth*](https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/aircraft-carriers/hms-queen-elizabeth) has [arrived in New York harbor](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2022/september/25/20220925-qnlz-in-nyc), dropping anchor within sight of the Statue of Liberty. The carrier is accompanied by her frigate escort, [HMS *Richmond*](https://en.wikipedia.org/wiki/HMS_Richmond_\(F239\)), which sailed up the Hudson River for a berth on Manhattan Island. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/09/qliznyc.jpg)The Royal Navy aircraft carrier [HMS *Queen Elizabeth*](https://www.royalnavy.mod.uk/our-organisation/the-fighting-arms/surface-fleet/aircraft-carriers/hms-queen-elizabeth) has [arrived in New York harbor](https://www.royalnavy.mod.uk/news-and-latest-activity/news/2022/september/25/20220925-qnlz-in-nyc), dropping anchor within sight of the Statue of Liberty. The carrier is accompanied by her frigate escort, [HMS *Richmond*](https://en.wikipedia.org/wiki/HMS_Richmond_\(F239\)), which sailed up the Hudson River for a berth on Manhattan Island. 
 
 The 65,000-tonne carrier will serve as the floating conference center for the 5th [Atlantic Future Forum](https://www.atlanticfutureforum.com/) – an event that brings together the brightest minds and most influential thinkers from defense and beyond to strengthen UK and US bonds.
 

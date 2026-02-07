@@ -14,12 +14,12 @@ tags:
   - "Newport"
   - "Oregon"
   - "Yaquina Bay"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/marybii.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/marybii.jpg"
 author: "Rick Spilman"
 description: "The Dungeness crab season opened late in the Northwest, starting last Friday, January 4th. The weather was terrible, with high winds and waves. Conditions were especially challenging on river bars, where the river’s current opposing the ocean waves can raise monstrous breakers.  … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/marybii.jpg)The Dungeness crab season opened late in the Northwest, starting last Friday, January 4th. The weather was terrible, with high winds and waves. Conditions were especially challenging on river bars, where the river’s current opposing the ocean waves can raise monstrous breakers. 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/marybii.jpg)The Dungeness crab season opened late in the Northwest, starting last Friday, January 4th. The weather was terrible, with high winds and waves. Conditions were especially challenging on river bars, where the river’s current opposing the ocean waves can raise monstrous breakers. 
 
 Of the crab boats setting out to fish this season from Yaquina Bay in Newport, Ore., one never made it back. The *Mary B II*, a wooden 42-foot fishing vessel, capsized as it was returning across the Yaquina Bay bar — the point at which at the Yaquina River meets the Pacific Ocean. The Coast Guard had been called out to help escort the *Mary B II* across the bar, where the breaking waves were reported to be 20 feet high. Before the Coast Guard could reach the fishing boat, it abruptly capsized.
 

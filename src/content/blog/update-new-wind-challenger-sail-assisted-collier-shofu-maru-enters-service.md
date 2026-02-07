@@ -12,12 +12,12 @@ tags:
   - "Oshima Shipbuilding"
   - "Shofu Maru"
   - "Wind Challenger"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/windchallengercollier.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/windchallengercollier.jpg"
 author: "Rick Spilman"
 description: "We have been following the development of the Wind Challenger Project since it first was unveiled in 2012. Initially developed by the University of Toyko with the support of Mitsui O.S.K. Lines and Oshima-shipbuilding, the concept is for a sail-assisted ship with retractable … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/windchallengercollier.jpg)We have been [following the development](https://www.oldsaltblog.com/2019/05/wind-challenger-project-developing-a-hybrid-sail-assisted-cargo-ship/) of the [Wind Challenger Project](https://www.mol-service.com/service/windchallenger) since it first was unveiled in 2012. Initially developed by the University of Toyko with the support of [Mitsui O.S.K. Lines](https://www.mol.co.jp/en/movie/09.html) and [Oshima-shipbuilding](https://www.osy.co.jp/english/topics/topics_detail.php?topixCode=136), the concept is for a sail-assisted ship with retractable rigid wing sails.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/windchallengercollier.jpg)We have been [following the development](https://www.oldsaltblog.com/2019/05/wind-challenger-project-developing-a-hybrid-sail-assisted-cargo-ship/) of the [Wind Challenger Project](https://www.mol-service.com/service/windchallenger) since it first was unveiled in 2012. Initially developed by the University of Toyko with the support of [Mitsui O.S.K. Lines](https://www.mol.co.jp/en/movie/09.html) and [Oshima-shipbuilding](https://www.osy.co.jp/english/topics/topics_detail.php?topixCode=136), the concept is for a sail-assisted ship with retractable rigid wing sails.
 
 As reported by [Splash247](https://splash247.com/mols-wind-assisted-bulk-carrier-enters-service/), the [*Shofu Maru*](https://www.marinetraffic.com/zh/ais/details/ships/shipid:7193451/mmsi:431794000/imo:9919395/vessel:SHOFU_MARU), the first bulk carrier equipped with a Wind Challenger hard sail propulsion system, has officially started operation following a handover ceremony at Oshima Shipbuilding. The 98,700 DWT bulker will haul coal mainly from Australia, Indonesia, and North America as a dedicated vessel for Tohoku Electric Power Co.
 

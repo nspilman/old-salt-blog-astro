@@ -14,12 +14,12 @@ tags:
   - "overboard"
   - "Thanksgiving miracle"
   - "US Coast Guard"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/carnival-valor.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/carnival-valor.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the US Coast Guard rescued an unidentified passenger who had gone overboard in the Gulf of  Mexico from the cruise ship Carnival Valor on a voyage from New Orleans to Cozumel.  While most cases of passengers who fall or … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/carnival-valor.jpg)Yesterday, the US Coast Guard rescued an unidentified passenger who had gone overboard in the Gulf of  Mexico from the cruise ship [*Carnival Valor*](https://en.wikipedia.org/wiki/Carnival_Valor) on a voyage from New Orleans to Cozumel.  While most cases of passengers who fall or jump overboard from cruise ships end in tragedy, one Coast Guard officer referred to this rescue as a “[Thanksgiving miracle](https://www.cnn.com/travel/article/man-rescued-carnival-cruise-gulf-of-mexico/index.html).” Until more facts emerge, it certainly qualifies as a Thanksgiving mystery.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/carnival-valor.jpg)Yesterday, the US Coast Guard rescued an unidentified passenger who had gone overboard in the Gulf of  Mexico from the cruise ship [*Carnival Valor*](https://en.wikipedia.org/wiki/Carnival_Valor) on a voyage from New Orleans to Cozumel.  While most cases of passengers who fall or jump overboard from cruise ships end in tragedy, one Coast Guard officer referred to this rescue as a “[Thanksgiving miracle](https://www.cnn.com/travel/article/man-rescued-carnival-cruise-gulf-of-mexico/index.html).” Until more facts emerge, it certainly qualifies as a Thanksgiving mystery.
 
 Shortly after the *Carnival Valor* sailed from New Orleans on Thanksgiving eve, a man and his sister were drinking at a shipboard bar. At around 11 PM the man left to find a restroom and did not return. 
 

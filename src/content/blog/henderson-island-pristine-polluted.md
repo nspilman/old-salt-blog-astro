@@ -10,12 +10,12 @@ tags:
   - "gyre"
   - "Henderson Island"
   - "plastic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/hendersonbeach.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/hendersonbeach.jpg"
 author: "Rick Spilman"
 description: "Henderson Island is an uninhabited island in the south Pacific Ocean, the largest of the four islands of the Pitcairn Island group and a part of the South Pacific British Overseas Territory.  It is also a UNESCO World Heritage Site.  UNESCO describes … Continue reading &rarr;"
 ---
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/hendersonbeach.jpg)](https://en.wikipedia.org/wiki/Henderson_Island_\(Pitcairn_Islands\))
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/hendersonbeach.jpg)](https://en.wikipedia.org/wiki/Henderson_Island_\(Pitcairn_Islands\))
 
 Photo: Jennifer Lavers
 

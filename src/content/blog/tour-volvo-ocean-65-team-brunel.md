@@ -7,7 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/teambruneltour.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/teambruneltour.jpg"
 author: "Rick Spilman"
 description: "Here is a fascinating tour of the Volvo Ocean 65Team Brunel, one of seven identical yachts now racing around the world in the Volvo Ocean Race. The Volvo Ocean 65s are high-performance one-design racers created by Farr Yacht Design and … Continue reading &rarr;"
 ---

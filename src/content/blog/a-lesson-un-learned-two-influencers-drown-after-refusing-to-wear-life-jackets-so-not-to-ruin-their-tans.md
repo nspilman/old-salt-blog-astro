@@ -16,12 +16,12 @@ tags:
   - "Maritime Firefighters"
   - "selfies"
   - "tanning"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/influencerssrown.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/influencerssrown.jpg"
 author: "Rick Spilman"
 description: "A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  Vice reports that two Brazilian Instagram \"influencers\" drowned in a boating accident off the coast of São Paulo after opting not to wear … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/influencerssrown.jpg)A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  [Vice](https://www.vice.com/en/article/brazilian-influencers-drown-after-refusing-life-jackets/) reports that two Brazilian [Instagram “influencers”](https://www.instagram.com/its_onsite/p/DBv-9HnRbA-/) drowned in a boating accident off the coast of São Paulo after opting not to wear life jackets, believing the safety gear would ruin their tans. One of the two victims reportedly did not know how to swim.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/influencerssrown.jpg)A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  [Vice](https://www.vice.com/en/article/brazilian-influencers-drown-after-refusing-life-jackets/) reports that two Brazilian [Instagram “influencers”](https://www.instagram.com/its_onsite/p/DBv-9HnRbA-/) drowned in a boating accident off the coast of São Paulo after opting not to wear life jackets, believing the safety gear would ruin their tans. One of the two victims reportedly did not know how to swim.
 
 Aline Tamara Moreira de Amorim, 37, and Beatriz Tavares da Silva Faria, 27, were part of a group returning from a yacht party when their speedboat capsized in the area known as Garganta do Diabo – or the Devil’s Throat – which is filled with rapids and waterfalls. Both were repeatedly told by the boat’s captain to wear their life preservers since the vessel would be overcrowded and navigating rough waters.
 

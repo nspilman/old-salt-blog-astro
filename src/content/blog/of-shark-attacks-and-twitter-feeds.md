@@ -10,7 +10,7 @@ author: "Rick Spilman"
 description: "Recently, sharks and the internet have begun to interact. The Australian government has given over 300 sharks their own Twitter feeds."
 ---
 
-![Katharine The Shark](http://www.oldsaltblog.com/wp-content/uploads/2015/07/katharineshark.jpg)
+![Katharine The Shark](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/katharineshark.jpg)
 
 Katharine The Shark
 

@@ -16,12 +16,12 @@ tags:
   - "submarine"
   - "Thistle"
   - "world war II"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/10/hmsthistle.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/hmsthistle.jpg"
 author: "Rick Spilman"
 description: "The Institute of Maritime Research announced recently that the wreckage of the World War II British submarine HMS Thistle has probably been discovered outside Rogaland, Norway, after more than 80 years on the seabed. In the Spring of 2023, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/10/hmsthistle.jpg)The [Institute of Maritime Research](https://hi.no/hi) [announced recently that the wreckage](https://www.hi.no/en/hi/news/2023/october/unknown-submarine-wreck-world-war-2) of the World War II British submarine [HMS *Thistle*](https://en.wikipedia.org/wiki/HMS_Thistle_\(N24\)) has probably been discovered outside Rogaland, Norway, after more than 80 years on the seabed.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/hmsthistle.jpg)The [Institute of Maritime Research](https://hi.no/hi) [announced recently that the wreckage](https://www.hi.no/en/hi/news/2023/october/unknown-submarine-wreck-world-war-2) of the World War II British submarine [HMS *Thistle*](https://en.wikipedia.org/wiki/HMS_Thistle_\(N24\)) has probably been discovered outside Rogaland, Norway, after more than 80 years on the seabed.
 
 In the Spring of 2023, the wreckage of an [unknown submarine](https://mareano.no/en/news/news-2023/unknown-submarine-wreck-world-war-2) was discovered during a research cruise on the RV *G.O. Sars,* conducted through the [MAREANO program](https://mareano.no/en), which maps the biology and geology of the seabed.
 

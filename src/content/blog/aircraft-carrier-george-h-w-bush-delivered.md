@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "After being under construction for almost a decade, the aircraft carrier George H. W. Bush was accepted by the US Navy following final seatrials last Friday. Northrop Grumman delivers Bush aircraft carrier to Navy … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/CVN-77.jpg)After being under construction for almost a decade, the aircraft carrier *George H. W. Bush* was accepted by the US Navy following final seatrials last Friday.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/CVN-77.jpg)After being under construction for almost a decade, the aircraft carrier *George H. W. Bush* was accepted by the US Navy following final seatrials last Friday.
 
 [Northrop Grumman delivers Bush aircraft carrier to Navy](http://www.dailypress.com/business/dp-biz_bush_0130jan30,0,511577.story)  
   

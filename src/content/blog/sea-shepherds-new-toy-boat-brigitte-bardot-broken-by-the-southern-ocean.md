@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "The reality TV stars, the Sea Shepherds, took their newest speed boat, the Brigitte Bardot, out on the Southern Ocean recently, which proved to be more than it could handle. The Brigitte Bardot reportedly cracked its main hull and severely damaged the port … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/gozija.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/gozija.jpg)
 
 Brigitte Bardot, the ex-Ocean\_7\_Adventurer
 

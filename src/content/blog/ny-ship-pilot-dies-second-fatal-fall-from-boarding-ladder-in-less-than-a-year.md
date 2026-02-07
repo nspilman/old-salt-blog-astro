@@ -10,12 +10,12 @@ tags:
   - "Captain Timothy M. Murray"
   - "Port of New York and New Jersey"
   - "Sandy Hook ship pilot"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/captainmurray.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/captainmurray.jpg"
 author: "Rick Spilman"
 description: "Sandy Hook ship pilot, Captain Timothy M. Murray died following a fall while boarding a tanker arriving at the Port of New York and New Jersey on Wednesday. His death is the second pilot fatality in less than a year. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/captainmurray.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/08/captainmurray.jpg)
 
 Sandy Hook Pilot Captain Timothy M. Murray
 

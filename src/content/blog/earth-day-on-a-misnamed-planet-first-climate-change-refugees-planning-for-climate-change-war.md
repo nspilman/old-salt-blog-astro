@@ -12,7 +12,7 @@ author: "Rick Spilman"
 description: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word \"earth\" is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
 ---
 
-![wg2cover](http://www.oldsaltblog.com/wp-content/uploads/2014/04/wg2cover.jpg)Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word “earth” is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day!
+![wg2cover](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/wg2cover.jpg)Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word “earth” is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day!
 
 Whatever you choose to call the planet, it is changing.  In the [Carteret  
 Islands](http://en.wikipedia.org/wiki/Carteret_Islands) of Papua New Guinea in the South Pacific, the 1,500 residents are being forced from their homes by rising sea levels. Some believe the islands will be uninhabitable by 2015.  The island residents are being referred to as the “[world’s first climate change refugees](http://www.irinnews.org/report/78630/papua-new-guinea-the-world-s-first-climate-change-refugees).”

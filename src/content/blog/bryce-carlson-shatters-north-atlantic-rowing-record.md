@@ -10,12 +10,12 @@ tags:
   - "Bryce Carlson"
   - "North Atlantic"
   - "rowing"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/08/bcarlson2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/bcarlson2.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Bryce Carlson who shattered the record for rowing solo, unsupported, from west-to-east across the North Atlantic. He completed the roughly 2,000-mile row from St. John’s, Newfoundland to St. Mary’s Harbor, in the Isles of Scilly in just 38 days, 6 hours … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/bcarlson2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/bcarlson2.jpg)
 
 Photo: Peter Moseley/Bryce Carlson Adventures, via Reuters
 

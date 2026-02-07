@@ -11,7 +11,7 @@ tags:
   - "Norway"
   - "ship tunnel"
   - "Stadt"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/stadttunnel.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/stadttunnel.jpg"
 author: "Rick Spilman"
 description: "Norway’s Stad Peninsula divides the Norwegian Sea to the north and the North Sea to the south. The seas, winds, currents and weather are extremely dangerous for any ship attempting to round the peninsula. Now, Norway intends to bore through … Continue reading &rarr;"
 ---

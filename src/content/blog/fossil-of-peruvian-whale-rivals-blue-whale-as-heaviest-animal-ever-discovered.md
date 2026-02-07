@@ -13,12 +13,12 @@ tags:
   - "journal Nature"
   - "Perucetus colossus"
   - "Peruvian Whale"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/peruhale.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/peruhale.jpg"
 author: "Rick Spilman"
 description: "A recent study published in the journal Nature describes an extinct whale, Perucetus colossus, discovered in the desert in southern Peru, that rivals the blue whale in weight, if not necessarily in length.  The Perucetus colossus was a basilosaurid whale … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/08/peruhale.jpg)A recent study published in the journal [*Nature*](https://www.nature.com/articles/s41586-023-06381-1) describes an extinct whale, *[Perucetus colossus](https://en.wikipedia.org/wiki/Perucetus),* discovered in the desert in southern Peru, that rivals the blue whale in weight, if not necessarily in length.  The *Perucetus colossus* was a [basilosaurid](https://en.wikipedia.org/wiki/Basilosauridae) whale from the middle Eocene epoch of about 39 million years ago.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/08/peruhale.jpg)A recent study published in the journal [*Nature*](https://www.nature.com/articles/s41586-023-06381-1) describes an extinct whale, *[Perucetus colossus](https://en.wikipedia.org/wiki/Perucetus),* discovered in the desert in southern Peru, that rivals the blue whale in weight, if not necessarily in length.  The *Perucetus colossus* was a [basilosaurid](https://en.wikipedia.org/wiki/Basilosauridae) whale from the middle Eocene epoch of about 39 million years ago.
 
 “The fossils were actually discovered 13 years ago, but their size and shape meant it took three years just to get them to Lima (the capital of Peru), where they’ve been studied ever since,” said Dr. Eli Amson, a co-worker on the discovery team led by paleontologist Dr. Mario Urbina, as reported by the [BBC](https://www.bbc.com/news/science-environment-66384632).
 

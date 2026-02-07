@@ -15,12 +15,12 @@ tags:
   - "Maersk Launceston"
   - "Piraeus"
   - "Turkey"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/kallista.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/kallista.jpg"
 author: "Rick Spilman"
 description: "The Greek Navy minesweeper HS Kallisto was cut in half following a collision with the containership Maersk Launceston. The stern of the minesweeper apparently sank following the collision while the bow was taken under tow by salvors. The minesweeper’s crew … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/kallista.jpg)The Greek Navy minesweeper [HS *Kallisto* was cut in half](https://www.fleetmon.com/maritime-news/2020/31401/container-ship-maersk-launceston-cut-two-greek-nav/) following a collision with the containership [*Maersk Launceston*](https://www.vesselfinder.com/vessels/MAERSK-LAUNCESTON-IMO-9294408-MMSI-255805664). The stern of the minesweeper apparently sank following the collision while the bow was taken under tow by salvors. The minesweeper’s crew was evacuated. Two of the crew were reported to be injured.  
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/kallista.jpg)The Greek Navy minesweeper [HS *Kallisto* was cut in half](https://www.fleetmon.com/maritime-news/2020/31401/container-ship-maersk-launceston-cut-two-greek-nav/) following a collision with the containership [*Maersk Launceston*](https://www.vesselfinder.com/vessels/MAERSK-LAUNCESTON-IMO-9294408-MMSI-255805664). The stern of the minesweeper apparently sank following the collision while the bow was taken under tow by salvors. The minesweeper’s crew was evacuated. Two of the crew were reported to be injured.  
 
 The *Maersk Launceston* was leaving Piraeus, Greece, bound for Canakkale, Turkey when the collision took place at 0740 UTC, today.  The container ship was ordered to return to Piraeus pending an investigation. The ship’s captain has been arrested. The container ship is reported to have sustained slight damage to her bow.
 

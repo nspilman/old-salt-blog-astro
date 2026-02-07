@@ -13,12 +13,12 @@ tags:
   - "HMHS Britannic"
   - "Olympic"
   - "Titanic"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/britannic1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/britannic1.jpg"
 author: "Rick Spilman"
 description: "Titanic had two sisters — the Olympic and the Britannic. While the Olympic had a productive 24 year operating life, the Britannic was only slightly more lucky than her ill-fated sister, Titanic. Just over 100 years ago, on November 21, … Continue reading &rarr;"
 ---
 
-![britannic1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/britannic1.jpg)
+![britannic1](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/britannic1.jpg)
 
 HMHS Britannic
 

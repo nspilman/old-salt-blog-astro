@@ -12,12 +12,12 @@ tags:
   - "New York harbor commuter ferries"
   - "NY Waterway"
   - "US Airways Flight 1549"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/mothudson200-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mothudson200-1.jpg"
 author: "Rick Spilman"
 description: "For Throwback Thursday, an updated repost of an event from ten years ago — the other \"Miracle on the Hudson.\"  Ten years ago this week, US Airways Flight 1549  made an emergency water landing in the Hudson River. If the plane’s … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/mothudson200-1.jpg)For Throwback Thursday, an updated repost of an event from ten years ago — the other “Miracle on the Hudson.” 
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/mothudson200-1.jpg)For Throwback Thursday, an updated repost of an event from ten years ago — the other “Miracle on the Hudson.” 
 
 Ten years ago this week, [US Airways Flight 1549](https://en.wikipedia.org/wiki/US_Airways_Flight_1549)  made an emergency water landing in the Hudson River. If the plane’s pilots, Captain [Chesley “Sulley” Sullenberge](http://www.sullysullenberger.com/)r and First Officer Jeffrey Skiles had not glided the plane in at just the right angle and airspeed, it is likely that the plane would have broken apart and that all the 155 passengers and crew aboard could have died. The landing is often called the “Miracle on the Hudson.” There was, however, a second miracle on the Hudson that day. Remarkably, [New York harbor commuter ferries began arriving at the flooding plane](http://www.nytimes.com/2009/01/17/nyregion/17about.html) less than four minutes after the crash.  Had it not been for the ferries’ rapid rescue of the passengers from the icy waters, the “miracle” might have ended as tragedy.
 

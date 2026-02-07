@@ -9,12 +9,12 @@ categories:
 tags:
   - "Congo"
   - "Lake Mai-Ndombe"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/drcongo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/drcongo.jpg"
 author: "Rick Spilman"
 description: "Sadly, the sinking of overloaded ferry boats in the developing world is not new news. It happens with a great enough frequency that it is easy to overlook. Which may be why these tragedies are worth noting. Last weekend, an … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/drcongo.jpg)Sadly, the sinking of overloaded ferry boats in the developing world is not new news. It happens with a great enough frequency that it is easy to overlook. Which may be why these tragedies are worth noting. Last weekend, an overcrowded boat sank on Lake Mai-Ndombe in the Democratic Republic of Congo.  The majority of those on board were teachers going to collect their salaries, a local mayor told the [BBC](https://www.bbc.com/news/world-africa-48421344).
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/drcongo.jpg)Sadly, the sinking of overloaded ferry boats in the developing world is not new news. It happens with a great enough frequency that it is easy to overlook. Which may be why these tragedies are worth noting. Last weekend, an overcrowded boat sank on Lake Mai-Ndombe in the Democratic Republic of Congo.  The majority of those on board were teachers going to collect their salaries, a local mayor told the [BBC](https://www.bbc.com/news/world-africa-48421344).
 
 According to the provincial governor, Antoine Masamba, the boat had been carrying some 400 passengers, of whom 45 were confirmed dead and 200 were still unaccounted for. The vessel was not meant to carry more than 80 people. Its official manifest indicates that it had about 130 passengers.
 

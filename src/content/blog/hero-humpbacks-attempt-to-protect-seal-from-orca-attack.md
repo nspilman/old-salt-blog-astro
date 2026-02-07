@@ -13,12 +13,12 @@ tags:
   - "National Geographic"
   - "orcas"
   - "Weddell Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/humpbackorca.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/humpbackorca.jpg"
 author: "Rick Spilman"
 description: "Recently, Bertie Gregory, a National Geographic Explorer and host of Animals Up Close on Disney+, observed a remarkable attempt by two humpback whales to protect a seal under attack by a pod of orcas in Antarctica’s Weddell Sea. National Geographic reports that … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/humpbackorca.jpg)Recently, Bertie Gregory, a National Geographic Explorer and host of *Animals Up Close* on Disney+, observed a remarkable attempt by two humpback whales to protect a seal under attack by a pod of orcas in Antarctica’s Weddell Sea.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/09/humpbackorca.jpg)Recently, Bertie Gregory, a National Geographic Explorer and host of *Animals Up Close* on Disney+, observed a remarkable attempt by two humpback whales to protect a seal under attack by a pod of orcas in Antarctica’s Weddell Sea.
 
 [National Geographic](https://www.nationalgeographic.com/animals/article/humpbacks-killer-whales-antarctica) reports that Gregory and his crew had traveled across the Drake Passage that separates South America from the southernmost continent to film a [rare orca population called B1](https://en.wikipedia.org/wiki/Orca_types_and_populations#Antarctic). Known for their [unique strategy of creating waves that knock seals off pieces of ice](https://www.nationalgeographic.com/animals/article/animals-up-close-wave-washing-killer-whales), these genetically distinct Antarctic orcas, likely number only around a hundred.
 

@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "For the first time since the Iranian revolution in 1979, two ships of the Iranian Navy are transiting the Suez Canal bound for the Mediterranean Sea.  The two ships, Alvand, a patrol frigate and Kharg, a supply ship, entered the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/db5e252c-3e95-11e0-9e8f-001.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/db5e252c-3e95-11e0-9e8f-001.jpg)
 
 For the first time since the Iranian revolution in 1979, two ships of the Iranian Navy are transiting the Suez Canal bound for the Mediterranean Sea.  The two ships, *[Alvand](http://en.wikipedia.org/wiki/Iranian_frigate_Alvand)*, a patrol frigate and *[Kharg](http://en.wikipedia.org/wiki/List_of_current_ships_of_the_Iranian_Navy#Support)*, a supply ship, entered the canal at 5:45am, local time, Tuesday.  Last week the nuclear powered US aircraft carrier [USS *Enterprise*](http://www.enterprise.navy.mil/) transited the Suez Canal in the other direction.  The *Enterprise* was one of the  four ships shadowing the hijacked yacht *Quest.* The [hijacking ended tragically](http://www.oldsaltblog.com/2011/02/22/pirates-kill-american-hostages-on-sv-quest/) with the deaths of the  four American sailors aboard.
 

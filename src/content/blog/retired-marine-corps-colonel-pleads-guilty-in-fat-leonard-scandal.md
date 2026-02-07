@@ -12,12 +12,12 @@ tags:
   - "Fat Leonard"
   - "Leonard Glen Francis"
   - "Marine Corps Colonel"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fatleonard2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fatleonard2.jpg"
 author: "Rick Spilman"
 description: "On March 14, 2017, The Department of Justice announced that retired U.S. Navy Rear Admiral Bruce Loveless and eight other high-ranking Navy officers had been indicted for accepting luxury travel, elaborate dinners, and services of prostitutes from foreign defense contractor … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fatleonard2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/fatleonard2.jpg)
 
 Fat Leonard
 

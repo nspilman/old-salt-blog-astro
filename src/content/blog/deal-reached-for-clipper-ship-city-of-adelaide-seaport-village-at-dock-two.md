@@ -10,12 +10,12 @@ categories:
 tags:
   - "City of Adelaide"
   - "Dock 2"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/cofadock2-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cofadock2-1.jpg"
 author: "Rick Spilman"
 description: "The world’s oldest clipper ship, City of Adelaide, may be one step closer to having a permanent home. Last March we posted about how the clipper ship City of Adelaide was being kicked off Dock 1 in its namesake port … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/cofadock2-1.jpg)The world’s oldest clipper ship, [*City of Adelaid*e](https://www.cityofadelaide.org.au/), may be one step closer to having a permanent home.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cofadock2-1.jpg)The world’s oldest clipper ship, [*City of Adelaid*e](https://www.cityofadelaide.org.au/), may be one step closer to having a permanent home.
 
 Last March we posted about how the clipper ship *City of Adelaid*e was being kicked off Dock 1 in its namesake port city and was expected to be moved to Dock 2. Unfortunately, Dock 2 was described as a largely inaccessible, industrial wasteland. Promised improvements had not been made in preparation for moving the historic ship.
 

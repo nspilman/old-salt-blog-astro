@@ -12,10 +12,10 @@ author: "Rick Spilman"
 description: "It looked like a tsunami rolling in from the Atlantic on Sea Girt on the Jersey Shore. It was merely a beautiful if somewhat threatening fog bank."
 ---
 
-![njtsunami](http://www.oldsaltblog.com/wp-content/uploads/2015/06/njtsunami.jpg)
+![njtsunami](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/njtsunami.jpg)
 
 It looked like a tsunami rolling in from the Atlantic toward the beach at Sea Girt on the Jersey Shore.  Except that it wasn’t rolling in. It just hung there.  It wasn’t a tsunami. It was merely a beautiful if somewhat threatening fog bank.  The National Weather Service later released their own explanation of the fog.
 
-![noaafog](http://www.oldsaltblog.com/wp-content/uploads/2015/06/noaafog.jpg)
+![noaafog](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/noaafog.jpg)
 
 Thanks to Irwin Bryan for passing along the story.

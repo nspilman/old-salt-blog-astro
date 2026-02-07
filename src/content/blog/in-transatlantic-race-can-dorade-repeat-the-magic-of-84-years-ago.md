@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The 52' yawl Dorade will be joining 40 other yachts in the Transatlantic Race 2015. Dorade last won the race in 1931. She is back, 84 years later."
 ---
 
-![Photo: Billy Black](http://www.oldsaltblog.com/wp-content/uploads/2015/06/dorade1.jpg)
+![Photo: Billy Black](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/dorade1.jpg)
 
 Photo: Billy Black
 

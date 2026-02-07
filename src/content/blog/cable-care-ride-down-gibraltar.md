@@ -11,7 +11,7 @@ tags:
   - "cable car"
   - "Gibraltar"
   - "Rock"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/gibcc.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/gibcc.jpg"
 author: "Rick Spilman"
 description: "As someone who has been reading Georgian naval fiction since I was a teenager, I am well acquainted with Gibraltar and the famous Rock. I recently had the opportunity to visit the British Overseas Territory, one half of the Pillars of Hercules, … Continue reading &rarr;"
 ---

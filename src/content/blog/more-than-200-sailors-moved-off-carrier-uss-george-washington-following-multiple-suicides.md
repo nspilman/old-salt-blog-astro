@@ -13,12 +13,12 @@ tags:
   - "suicide"
   - "US Navy"
   - "USS George Washington"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/ussgw.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/ussgw.jpg"
 author: "Rick Spilman"
 description: "CNN reports that more than 200 sailors have moved off the USS George Washington aircraft carrier after multiple deaths by suicide among the crew, including three in less than one week in April, according to the Navy. The sailors are moving to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/ussgw.jpg)[CNN](https://www.cnn.com/2022/05/03/politics/uss-george-washington-sailors/index.html?utm_term=link&utm_medium=social&utm_content=2022-05-03T14%3A30%3A08&utm_source=fbCNN&fbclid=IwAR3tCpDPZ4UCi8WwONMryO7SYtVyMpU-aOq1nMEMUMwVhVkPGEh5gVE-yGA) reports that more than 200 sailors have moved off the [USS *George Washington*](https://en.wikipedia.org/wiki/USS_George_Washington_\(CVN-73\)) aircraft carrier after multiple deaths by suicide among the crew, including three in less than one week in April, according to the Navy.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/05/ussgw.jpg)[CNN](https://www.cnn.com/2022/05/03/politics/uss-george-washington-sailors/index.html?utm_term=link&utm_medium=social&utm_content=2022-05-03T14%3A30%3A08&utm_source=fbCNN&fbclid=IwAR3tCpDPZ4UCi8WwONMryO7SYtVyMpU-aOq1nMEMUMwVhVkPGEh5gVE-yGA) reports that more than 200 sailors have moved off the [USS *George Washington*](https://en.wikipedia.org/wiki/USS_George_Washington_\(CVN-73\)) aircraft carrier after multiple deaths by suicide among the crew, including three in less than one week in April, according to the Navy.
 
 The sailors are moving to a local Navy installation as the nuclear-powered aircraft carrier continues to go through a years-long refueling and overhaul process at the shipyard in Newport News in Virginia. Over the past 12 months, seven members of the crew have died, including four by suicide, prompting the Navy to open an investigation into the command climate and culture onboard the Nimitz-class carrier.
 

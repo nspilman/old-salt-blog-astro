@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "In the beginning of November we posted about the new Disney cruise ship, Disney Dream, where interior cabins will have virtual port holes, which will show the view outside the ship and will include composited Disney cartoon characters flying by as well.   Now … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/ROYALCARIBBEANFIONA.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/ROYALCARIBBEANFIONA.jpg)
 
 Princess Fiona (in green)
 

@@ -12,12 +12,12 @@ tags:
   - "Nanatucket"
   - "sandbars"
   - "whaling ship"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/nantucketcamel2.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nantucketcamel2.jpg"
 author: "Rick Spilman"
 description: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 12th) and Washington’s (February 22) birthdays.  Here is an updated repost of the tale of a patent granted to … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/nantucketcamel2.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/nantucketcamel2.jpg)
 
 Nantucket Camel Ride
 
@@ -33,8 +33,8 @@ So what does this have to do with Abraham Lincoln?  Lincoln is the only US Pres
 
 On May 22, 1849, he was granted Patent No. 6469 by the U.S. Patent Office (USPO) in Washington, D.C. This boat model, submitted with the drawings of his idea, is inscribed “Pat./May 22/49/Abram Lincoln” on the surface of the upper deck. According to a Lincoln biographer, the President visited the Patent Office during his presidency (1861–1865) and inspected his model. His considerable talents lay elsewhere, and the idea he patented was never formally applied in the construction of a watercraft.
 
-*![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/lincolnpatent.jpg)*
+*![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/lincolnpatent.jpg)*
 
 Part of his application read, “Be it known that I, Abraham Lincoln, of Springfield, in the county of Sangamon, in the state of Illinois, have invented a new and improved manner of combining adjustable buoyant air chambers with a steam boat or other vessel for the purpose of enabling their draught of water to be readily lessened to enable them to pass over bars, or through shallow water, without discharging their cargoes…”
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/lincolnpatent.jpg)](https://youtu.be/R6ozg0GIhdQ)[Almanac: Abraham Lincoln’s patent](https://youtu.be/R6ozg0GIhdQ)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/lincolnpatent.jpg)](https://youtu.be/R6ozg0GIhdQ)[Almanac: Abraham Lincoln’s patent](https://youtu.be/R6ozg0GIhdQ)

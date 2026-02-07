@@ -18,7 +18,7 @@ author: "Rick Spilman"
 description: "PortSide New York, the organization behind the historic tanker Mary A. Whalen,  is having an amazing marine hardware fundraising sale.  From their press release: If you think a full-sized bollard makes the perfect doorstop, or that a collection of shackles … Continue reading &rarr;"
 ---
 
-[![mwheavymetal](http://www.oldsaltblog.com/wp-content/uploads/2014/07/mwheavymetal.jpg)PortSide New York,](http://portsidenewyork.org/) the organization behind the historic tanker [*Mary A. Whalen*](http://portsidenewyork.org/mary-a-whalen/),  is having an amazing marine hardware fundraising sale.  From their [press release](http://campaign.r20.constantcontact.com/render?ca=bfaac29c-f529-484b-8df5-f4f02bf2a78e&c=79075230-3439-11e3-a312-d4ae526edc76&ch=7b019b90-3439-11e3-a32e-d4ae526edc76):
+[![mwheavymetal](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/mwheavymetal.jpg)PortSide New York,](http://portsidenewyork.org/) the organization behind the historic tanker [*Mary A. Whalen*](http://portsidenewyork.org/mary-a-whalen/),  is having an amazing marine hardware fundraising sale.  From their [press release](http://campaign.r20.constantcontact.com/render?ca=bfaac29c-f529-484b-8df5-f4f02bf2a78e&c=79075230-3439-11e3-a312-d4ae526edc76&ch=7b019b90-3439-11e3-a32e-d4ae526edc76):
 
 If you think a full-sized bollard makes the perfect doorstop, or that a collection of shackles is the centerpiece your table is lacking, or you just need turnbuckles (you know who you are), we have an event for you!
 

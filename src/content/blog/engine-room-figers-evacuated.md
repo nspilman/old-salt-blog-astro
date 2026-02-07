@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "The expedition cruise ship, Le Boreal, operated by French line Ponant, has been evacuated after a fire in the engine room.  Fire broke out on the 264-passenger ship as she was sailing off the Falkland Islands early Wednesday.  The passengers were transferred … Continue reading &rarr;"
 ---
 
-![Photo: Mathieu Gesta, Ponant](http://www.oldsaltblog.com/wp-content/uploads/2015/11/boreal1.jpg)
+![Photo: Mathieu Gesta, Ponant](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/boreal1.jpg)
 
 Photo: Mathieu Gesta, Ponant
 

@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. \"It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/icebergnewfoundland.jpg)Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/icebergnewfoundland.jpg)Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains.
 
 “It’s the only place in the world where icebergs intersect in a major shipping lane like that,” Gabrielle McGrath, commander of the United States Coast Guard [International Ice Patrol](https://en.wikipedia.org/wiki/International_Ice_Patrol), told the [Star.com](https://www.thestar.com/news/canada/2017/04/10/hundreds-of-icebergs-clog-shipping-lanes-near-newfoundland-rerouting-ships.html) from her office in New London, Conn. “The ships are having to go out of their way to get around that iceberg limit … so it’s taking them a lot longer to get across the Atlantic.”
 

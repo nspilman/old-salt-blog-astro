@@ -17,7 +17,7 @@ author: "Rick Spilman"
 description: "The Charleston Harbor Fest which begins tomorrow and runs through Sunday features a mix of old and new on the water.  The four competing ECO 60 sailboats in the Velux 5 Oceans Around the World Race will be on display as will the three traditional vessels, the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/chasbanner.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/chasbanner.jpg)
 
 The [Charleston Harbor Fest](http://www.charlestonharborfest.org/) which begins tomorrow and runs through Sunday features a mix of old and new on the water.  The four competing ECO 60 sailboats in the [Velux 5 Oceans](http://www.velux5oceans.com) Around the World Race will be on display as will the three traditional vessels, the schooners *[Pride of  Baltimore II](http://www.pride2.org/index.php)*,  the *[Spirit of South Carolina](http://www.scmaritime.org/)*, and the [brigantine *Fritha*](http://sailscape.blogspot.com/2006/07/brigantine-fritha-out-of-newport.html).  Sharp-built privateers like the *Pride of Baltimore* were among the fastest vessels on the way in their day, so it seems fitting that they are joined by the ECO 60s which are among the fasting sailing vessels of our time.
 

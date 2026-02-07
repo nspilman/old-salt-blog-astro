@@ -12,12 +12,12 @@ tags:
   - "Jumbo Floating Restaurant"
   - "Paracel Islands"
   - "South China Sea"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/jumbo.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/jumbo.jpg"
 author: "Rick Spilman"
 description: "Jumbo Floating Restaurant, an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location. NPR reports that the restaurant encountered \"adverse conditions\" on Saturday as it was passing the Xisha … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/jumbo.jpg)[Jumbo Floating Restaurant](https://en.wikipedia.org/wiki/Jumbo_Kingdom), an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/06/jumbo.jpg)[Jumbo Floating Restaurant](https://en.wikipedia.org/wiki/Jumbo_Kingdom), an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location.
 
 [NPR](https://www.npr.org/2022/06/20/1106292397/hong-kong-jumbo-floating-restaurant-capsizes) reports that the restaurant encountered “adverse conditions” on Saturday as it was passing the Xisha Islands, also known as the Paracel Islands, in the South China Sea, and water entered the vessel and it began to tip, according to Aberdeen Restaurant Enterprises Ltd.
 

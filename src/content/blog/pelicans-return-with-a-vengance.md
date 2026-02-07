@@ -13,7 +13,7 @@ author: "Rick Spilman"
 description: "Hailing from Florida, I am a huge fan of brown pelicans.  I was therefore very pleased to hear that after several years where brown pelicans on the West Coast of the US have been mysteriously dying off,  this year the flocks of  pelicans … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/pelicans_t352.jpg)Hailing from Florida, I am a huge fan of brown pelicans.  I was therefore very pleased to hear that after several years where brown pelicans on the West Coast of the US have been mysteriously dying off,  this year the flocks of  pelicans have been unprecedentedly large.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/pelicans_t352.jpg)Hailing from Florida, I am a huge fan of brown pelicans.  I was therefore very pleased to hear that after several years where brown pelicans on the West Coast of the US have been mysteriously dying off,  this year the flocks of  pelicans have been unprecedentedly large.
 
 Two years ago the headlines were dire – “[California Brown Pelicans in Peril](http://www.youtube.com/watch?v=wfyGOTNaQN8),”  and [“Mystery Malady Strikes California Brown Pelicans](http://www.youtube.com/watch?v=wfyGOTNaQN8).”    The pelicans appear to have recovered  with a vengence.  And no one quite understands why.
 

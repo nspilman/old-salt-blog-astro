@@ -16,7 +16,7 @@ author: "Rick Spilman"
 description: "On Veteran’s Day, a post about a veteran ship, USS Independence, a light aircraft carrier that served in key battles at the Pacific toward the end of World War II. After the war, she was used as a target in … Continue reading &rarr;"
 ---
 
-![Bow of USS Independence, seen for the first time after 65 years. Photo: Ocean Exploration Trust.](http://www.oldsaltblog.com/wp-content/uploads/2016/11/independence-bow.jpg)
+![Bow of USS Independence, seen for the first time after 65 years. Photo: Ocean Exploration Trust.](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/independence-bow.jpg)
 
 Bow of USS Independence, seen for the first time after 65 years. Photo: Ocean Exploration Trust
 

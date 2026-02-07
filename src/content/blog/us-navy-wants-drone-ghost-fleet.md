@@ -12,12 +12,12 @@ tags:
   - "ghost fleet"
   - "Sea Hunter"
   - "US Navy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/navydroneship.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/navydroneship.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about the successful voyage of the Sea Hunter, a 132′ long autonomous drone trimaran from San Diego to Pearl Harbor, Hawaii, and back.  Now USNI News is reporting that the Navy is moving quickly to field … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/navydroneship.jpg)Last month we [posted about the successful voyage of the *Sea Hunter,*](http://www.oldsaltblog.com/2019/02/autonomous-ship-sea-hunter-sails-from-california-to-hawaii-back/) a 132′ long autonomous drone trimaran from San Diego to Pearl Harbor, Hawaii, and back.  Now [USNI News](https://news.usni.org/2019/03/13/navy-wants-ten-ship-3b-unmanned-experimental-ghost-fleet) is reporting that the Navy is moving quickly to field an unmanned “Ghost Fleet” — a new breed of armed unmanned surface combatants which will add more sensors and weapons to the current fleet.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/navydroneship.jpg)Last month we [posted about the successful voyage of the *Sea Hunter,*](http://www.oldsaltblog.com/2019/02/autonomous-ship-sea-hunter-sails-from-california-to-hawaii-back/) a 132′ long autonomous drone trimaran from San Diego to Pearl Harbor, Hawaii, and back.  Now [USNI News](https://news.usni.org/2019/03/13/navy-wants-ten-ship-3b-unmanned-experimental-ghost-fleet) is reporting that the Navy is moving quickly to field an unmanned “Ghost Fleet” — a new breed of armed unmanned surface combatants which will add more sensors and weapons to the current fleet.
 
 “These are 200- to 300-foot \[vessels\], 2,000 tons. I’m not sure what the final hull form will be, that’s what we are using today in terms of what the Ghost Fleet buy will be,” Rear Adm. Randy Crites, deputy assistant secretary of the Navy for budget, said during a press budget briefing.
 

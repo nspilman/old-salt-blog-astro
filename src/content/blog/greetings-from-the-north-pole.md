@@ -14,6 +14,6 @@ author: "Rick Spilman"
 description: "Of all the various holiday greeting from shipping ventures this season this has to be my favorite.  A Moss Rosenberg design LNG ship transformed to a Christmas ball carrier.  From the Maasmond Maritime. … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/greetings.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/greetings.jpg)
 
 Of all the various holiday greeting from shipping ventures this season this has to be my favorite.  A Moss Rosenberg design [LNG ship](http://en.wikipedia.org/wiki/LNG_carrier) transformed to a Christmas ball carrier.  From the [Maasmond Maritime](http://www.maasmondmaritime.com/DailyMagazine/default.html).

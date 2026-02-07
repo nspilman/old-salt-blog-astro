@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Recently, four British women competing in the Talisker Whiskey Atlantic Challenge set a new record  as the youngest and fastest all-female crew of four to row across the Atlantic Ocean.  Gee Purdy, 23, Bella Collins, 23, Lauren Morton, 26, and … Continue reading &rarr;"
 ---
 
-![rowlikeagirl](http://www.oldsaltblog.com/wp-content/uploads/2016/02/rowlikeagirl.jpg)
+![rowlikeagirl](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/rowlikeagirl.jpg)
 
 Photo: Ben Duffey
 

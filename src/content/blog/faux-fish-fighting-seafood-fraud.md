@@ -14,14 +14,14 @@ tags:
   - "seafood"
   - "seafood fraud"
   - "snapper"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/seafoodfraudg.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/seafoodfraudg.jpg"
 author: "Rick Spilman"
 description: "Do you know what you are getting when you buy fish in a store or order it prepared in a restaurant? It isn’t always easy. An analysis of 44 recent studies of more than 9,000 seafood samples from restaurants, fishmongers, … Continue reading &rarr;"
 ---
 
 Do you know what you are getting when you buy fish in a store or order it prepared in a restaurant? It isn’t always easy. An analysis of 44 recent studies of more than 9,000 seafood samples from restaurants, fishmongers, and supermarkets in more than 30 countries, performed by Guardian Seascape, found that 36% were mislabelled, exposing seafood fraud on a vast global scale.
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/seafoodfraudg.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/seafoodfraudg.jpg)
 
 The [Guardian](https://www.theguardian.com/environment/2021/mar/15/revealed-seafood-happening-on-a-vast-global-scale) reports that many of the studies used relatively new DNA analysis techniques. In one comparison of sales of fish labeled “snapper” by fishmongers, supermarkets, and restaurants in Canada, the US, the UK, Singapore, Australia, and New Zealand, researchers found mislabelling in [about 40%](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12573) of fish tested. The UK and Canada had the highest rates of mislabelling in that study, at 55%, followed by the US at 38%.
 

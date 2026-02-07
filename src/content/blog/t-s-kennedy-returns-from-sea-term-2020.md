@@ -9,7 +9,7 @@ tags:
   - "Massachusetts Maritime Academy"
   - "Sea Term 2020"
   - "T.S Kennedy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/tsKennedyreturns.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/tsKennedyreturns.jpg"
 author: "Rick Spilman"
 description: "After all the stress of the past week, some beauty and tranquility feels appropriate. Here is some absolutely breathtaking drone footage, shot by Ryan Smith, of the Training Ship Kennedy returning to Massachusetts Maritime Academy from Sea Term 2020. A … Continue reading &rarr;"
 ---

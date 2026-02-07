@@ -12,7 +12,7 @@ tags:
   - "Golden Arches"
   - "Golden Ray"
   - "VB-10"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/goldenraycutting.jpg"
 author: "Rick Spilman"
 description: "After being delayed by hurricanes, the pandemic, and a broken link in the cutting chain, the heavy-lift catamaran VB-10,000, nicknamed the \"Golden Arches\" is now making good progress on the first cut to slice the stricken car carrier, Golden Ray … Continue reading &rarr;"
 ---

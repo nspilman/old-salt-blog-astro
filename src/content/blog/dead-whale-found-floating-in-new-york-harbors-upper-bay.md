@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "Update: The dead whale is now identified as a sei whale. One report says that it was hit by a cruise liner, possibly the Norwegian Breakaway. Last month, a 60 ton dead fin whale arrived in New York harbor, pinned … Continue reading &rarr;"
 ---
 
-![brooklynwhale](http://www.oldsaltblog.com/wp-content/uploads/2014/05/brooklynwhale.jpg)**Update:** The dead whale is now identified as a [sei whale](http://en.wikipedia.org/wiki/Sei_whale). [One report says that it was hit by a cruise liner](http://www.dnainfo.com/new-york/20140505/brooklyn-heights/dead-whale-beached-brooklyn-officials-say), possibly the *Norwegian Breakaway*.
+![brooklynwhale](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/brooklynwhale.jpg)**Update:** The dead whale is now identified as a [sei whale](http://en.wikipedia.org/wiki/Sei_whale). [One report says that it was hit by a cruise liner](http://www.dnainfo.com/new-york/20140505/brooklyn-heights/dead-whale-beached-brooklyn-officials-say), possibly the *Norwegian Breakaway*.
 
 Last month, [a 60 ton dead fin whale arrived in New York harbor](http://www.oldsaltblog.com/2014/04/35102/), pinned to the bow of a container ship calling on Port Elizabeth, NJ. This morning, a 25′ whale was spotted floating near the [Brooklyn Army Terminal](http://www.bklynarmyterminal.com/), close to the 58th Street pier. The [New York Daily News](http://www.nydailynews.com/new-york/brooklyn/dead-whale-found-brooklyn-army-terminal-article-1.1779994) has reported that the whale is a sperm whale, although the photos posted appear to be a baleen whale, such as a humpback or fin whale.
 

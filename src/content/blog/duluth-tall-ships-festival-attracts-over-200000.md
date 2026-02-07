@@ -14,7 +14,7 @@ author: "Rick Spilman"
 description: "The Duluth Tall Ship’s Festival which runs through today, has been a major success, attracting over 200,000 visitors.  One of the biggest \"stars\" of the event was the HMS Bounty. The wait to get on the Bounty averaged between two and four … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/bountythumb.jpg)
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/bountythumb.jpg)
 
 HMS Bounty
 

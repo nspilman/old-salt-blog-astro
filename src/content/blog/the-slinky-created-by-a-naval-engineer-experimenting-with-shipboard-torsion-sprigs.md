@@ -12,12 +12,12 @@ tags:
   - "Slinky"
   - "tension springs"
   - "toy"
-featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/slinky-1.jpg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/slinky-1.jpg"
 author: "Rick Spilman"
 description: "It is amazing how many commonplace items are related to ships and the sea. Or perhaps not, given that over 70% of the globe is covered by water and 90% of all trade is moved by sea. Here is one … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/slinky.jpg)It is amazing how many commonplace items are related to ships and the sea. Or perhaps not, given that over 70% of the globe is covered by water and 90% of all trade is moved by sea. Here is one example of an unexpected connection to ships.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/slinky.jpg)It is amazing how many commonplace items are related to ships and the sea. Or perhaps not, given that over 70% of the globe is covered by water and 90% of all trade is moved by sea. Here is one example of an unexpected connection to ships.
 
 Remember the [Slinky](https://en.wikipedia.org/wiki/Slinky)? The children’s toy has been around for more than 75 years now and is still extremely popular. It was the creation of [Richard James](https://en.wikipedia.org/wiki/Richard_T._James), a naval mechanical engineer stationed at the William Cramp & Sons shipyards in Philadelphia. In the early 1940s, he was attempting to use torsion springs to stabilize sensitive instruments aboard ships in rough seas.
 

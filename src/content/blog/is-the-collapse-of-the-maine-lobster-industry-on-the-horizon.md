@@ -15,7 +15,7 @@ author: "Rick Spilman"
 description: "Today, the New York Times featured an article titled — \"Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.\" The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
 ---
 
-![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/lobsterbin.jpg)Today, the New York Times featured an article titled — “[Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.](https://www.nytimes.com/2018/06/21/climate/maine-lobsters.html)” The article suggests that while rising water temperatures due to climate change have brought a boom in the Maine lobster catch, increasing temperatures may lead to a collapse of the fishery.  This concern is nothing new. Five years ago, we posted “[The Ecology and Economics of Lobster – Will The Maine Lobster Boom End in a Bust?”](http://www.oldsaltblog.com/2011/08/east-coast-lobster-fisheries-the-best-of-times-and-the-worst-of-times/)   Increasingly, the signs of a bust are becoming more ominous.
+![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobsterbin.jpg)Today, the New York Times featured an article titled — “[Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.](https://www.nytimes.com/2018/06/21/climate/maine-lobsters.html)” The article suggests that while rising water temperatures due to climate change have brought a boom in the Maine lobster catch, increasing temperatures may lead to a collapse of the fishery.  This concern is nothing new. Five years ago, we posted “[The Ecology and Economics of Lobster – Will The Maine Lobster Boom End in a Bust?”](http://www.oldsaltblog.com/2011/08/east-coast-lobster-fisheries-the-best-of-times-and-the-worst-of-times/)   Increasingly, the signs of a bust are becoming more ominous.
 
 The [NYTimes](https://www.nytimes.com/2018/06/21/climate/maine-lobsters.html) quotes Dave Cousens, who stepped down as president of the Maine Lobstermen’s Association in March, “Climate change really helped us for the last 20 years.” But, he added, “Climate change is going to kill us, in probably the next 30.”
 
@@ -27,7 +27,7 @@ The prospect of a lobster fisheries collapse is not wholly hypothetical. The lo
 
 Beginning in the 1980s, lobster harvest significantly increased in Long Island Sound, with the peak occurring in 1997. Catches rose from around 2.5 million pounds in the 1980s to almost 12 million in 1997. Then in 1999 lobsters began to die off, most severely in the western Sound, reducing the harvest to early 1980s-levels. Then around 2010, the lobster population collapsed. The 2014 harvest was less than one-tenth the average harvest landed in the 1980s, and only about 1% of the peak values observed in the mid 90’s. Scientists concluded that a combination of warmer temperatures and impaired water quality stressed lobsters, making them susceptible to disease and limiting their ability to reproduce, which caused a rapid drop in the population. Today the lobster population in Long Island Sound is barely holding on.  
 
-[![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/lobsterlandingsLIS.jpg)](http://longislandsoundstudy.net/indicator/lobster-landings/)
+[![](https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobsterlandingsLIS.jpg)](http://longislandsoundstudy.net/indicator/lobster-landings/)
 
 Lobster Landing Long Island Sound by Year
 
