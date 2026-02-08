@@ -7,6 +7,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/fireonthehorizon.jpg"
 author: "Rick Spilman"
 description: "When the Deepwater Horizon suffered a blowout, caught fire and sank in the Gulf of Mexico last April, it was only forty miles off the coast of Louisiana.  Yet,  in many respects, the world aboard the ill-fated rig was as … Continue reading &rarr;"
 ---

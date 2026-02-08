@@ -6,6 +6,7 @@ excerpt: "The word tsunami usually brings to mind seismic waves in the Pacific o
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/19291118_1929_75anncov.jpg"
 author: "Rick Spilman"
 description: "On November 18, 1929, at 5:02 PM local time, the Grand Banks was rocked by a magnitude 7.2 earthquake. A tsunami that slammed into the Newfoundland coast."
 ---

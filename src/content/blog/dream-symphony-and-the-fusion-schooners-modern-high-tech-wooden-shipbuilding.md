@@ -12,6 +12,7 @@ tags:
   - "Dykstra &amp; Partners Naval Architects"
   - "Fusion Schooners"
   - "Nigel Irens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/Dream-Symphony.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we looked at the Bugis phisini, a modern sailing ship built using traditional wood ship building methods that date back a thousand years or so. Today, a look at the other end of spectrum – wood sailing ships that … Continue reading &rarr;"
 ---

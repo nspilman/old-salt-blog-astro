@@ -14,6 +14,7 @@ tags:
   - "Maritime Crime"
   - "piracy"
   - "US Naval War College"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/piracypaper.jpg"
 author: "Rick Spilman"
 description: "The US Naval War College has published a collection of essays on Piracy and Maritime Crime: Historical and Modern Case Studies, edited by Bruce A. Elleman, Andrew Forbes, and David Rosenberg.  The essays look at piracy around the world and throughout history … Continue reading &rarr;"
 ---

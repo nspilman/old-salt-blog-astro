@@ -9,6 +9,7 @@ tags:
   - "Derek Hutchinson"
   - "Eskimo rolling"
   - "sea kayaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/hutchinson.jpg"
 author: "Rick Spilman"
 description: "The Sea Kayaker Magazine blog is reporting that Derek Hutchinson, often referred to as the father of sea kayaking, died on Wednesday at the age of 79. Hutchinson literally wrote the book on sea kayaking, even before it was universally called … Continue reading &rarr;"
 ---

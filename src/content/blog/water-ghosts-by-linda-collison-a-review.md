@@ -10,6 +10,7 @@ categories:
 tags:
   - "Linda Collison"
   - "Water Ghosts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/waterghostcover.jpg"
 author: "Rick Spilman"
 description: "Linda Collison's new novel, Water Ghosts, is an absolutely gripping paranormal nautical adventure."
 ---

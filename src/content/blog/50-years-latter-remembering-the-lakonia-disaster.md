@@ -12,6 +12,7 @@ tags:
   - "Gibraltar Heritage Trust"
   - "Lakonia"
   - "Madeira"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/lakoniaBurning1.jpg"
 author: "Rick Spilman"
 description: "The brochure for for the cruise liner Lakonia promised \"A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.\" Now fifty years later, … Continue reading &rarr;"
 ---

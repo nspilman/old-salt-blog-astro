@@ -11,6 +11,7 @@ tags:
   - "orcas"
   - "SeaWorld trainer"
   - "Tilikum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/orca.jpg"
 author: "Rick Spilman"
 description: "SeaWorld tragedy — a reminder of why orcas should swim free? For wildlife conservationists, the tragic death of SeaWorld trainer Dawn Brancheau is a sobering reminder of why creatures as large and majestic as killer whales simply should not live in … Continue reading &rarr;"
 ---

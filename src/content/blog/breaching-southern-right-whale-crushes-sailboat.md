@@ -10,6 +10,7 @@ tags:
   - "sailboat"
   - "South Africa"
   - "Southern Right Whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_whale_onto_boat_100721_ssh-125x97.jpg"
 author: "Rick Spilman"
 description: "Update:  South African authorities are investigating whether the whale was harassed before breaching. A breaching Southern Right Whale landed on top of a ten meter long sail boat off the coast of South Africa on Sunday.   The remarkable photos below were shot by a passenger … Continue reading &rarr;"
 ---

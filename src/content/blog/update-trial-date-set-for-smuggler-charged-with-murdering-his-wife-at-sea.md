@@ -11,6 +11,7 @@ tags:
   - "Isabella Hellman"
   - "Lewis Bennett"
   - "second-degree murder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/bennethellman.jpg"
 author: "Rick Spilman"
 description: "About a year ago, we posted about the strange disappearance of Isabella Hellman while sailing with her husband, Lewis Bennett, on a catamaran from Cuba to Florida in 2017. Bennet has now been charged with second-degree murder in the death of his wife.  … Continue reading &rarr;"
 ---

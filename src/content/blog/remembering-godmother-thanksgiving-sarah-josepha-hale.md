@@ -10,6 +10,7 @@ categories:
 tags:
   - "Sarah Josepha Hale"
   - "Thanksgiving"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/sarahjhale.jpg"
 author: "Rick Spilman"
 description: "Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is repost of a story I think is well worth retelling.  In the United States, Thanksgiving only … Continue reading &rarr;"
 ---

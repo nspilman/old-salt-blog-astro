@@ -11,6 +11,7 @@ tags:
   - "Draken Harald Hårfagre"
   - "new york"
   - "North Cove"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/drakenbridge.jpg"
 author: "Rick Spilman"
 description: "Today, the largest Viking longship built in modern times, Draken Harald Hårfagre arrived in new York City and tied up in North Cove. In late April 2016, Draken Harald Hårfagre set out from her home port in Haugesund, Norway on an epic … Continue reading &rarr;"
 ---

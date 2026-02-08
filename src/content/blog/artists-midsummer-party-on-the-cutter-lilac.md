@@ -11,6 +11,7 @@ tags:
   - "Artist's Midsummer Party"
   - "Cutter Lilac"
   - "Hudson River Park's Pier 25"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/lilacmidsummer.jpg"
 author: "Rick Spilman"
 description: "If you are in the neighborhood, stop by the Cutter Lilac on Saturday for the Artist's Midsummer Party at the Hudson River Park's Pier 25."
 ---

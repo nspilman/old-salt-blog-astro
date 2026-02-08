@@ -14,6 +14,7 @@ tags:
   - "R/V Petrel"
   - "USS Lexington"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/lexgun.jpg"
 author: "Rick Spilman"
 description: "The wreckage of the USS Lexington, sunk in the Battle of the Coral Sea during World War II, has been located by the expedition crew of research vessel (R/V) Petrel, owned by billionaire-explorer Paul Allen. The ship was found roughly 500 … Continue reading &rarr;"
 ---

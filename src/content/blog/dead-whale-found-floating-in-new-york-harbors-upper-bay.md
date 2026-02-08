@@ -10,6 +10,7 @@ tags:
   - "Army Corps of Engineers"
   - "Brooklyn Army Terminal"
   - "Riverhead Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/brooklynwhale.jpg"
 author: "Rick Spilman"
 description: "Update: The dead whale is now identified as a sei whale. One report says that it was hit by a cruise liner, possibly the Norwegian Breakaway. Last month, a 60 ton dead fin whale arrived in New York harbor, pinned … Continue reading &rarr;"
 ---

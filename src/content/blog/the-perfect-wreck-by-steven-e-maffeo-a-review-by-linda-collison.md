@@ -12,6 +12,7 @@ tags:
   - "Linda Collison"
   - "Steven E. Maffeo"
   - "The Perfect Wreck - Old Ironsides and HMS Java: A Story of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/Hi-qual_PW_cover-2102.jpg"
 author: "Rick Spilman"
 description: "Linda Collison, author of Surgeon’s Mate and Star-Crossed, recently reviewed Steven E. Maffeo‘s new book The Perfect Wreck – Old Ironsides and HMS Java: A Story of 1812 in her blog Sea of Words.  I enjoy reading Linda’s reviews almost as much … Continue reading &rarr;"
 ---

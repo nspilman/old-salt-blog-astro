@@ -5,6 +5,7 @@ slug: "photos-recovered-from-digital-camera-dropped-overboard-on-queen-mary"
 excerpt: "Strange but true.  Digital memory cards are indeed an amazing technology. Couple’s precious holiday snaps recovered intact from the bottom of the Atlantic… 16 months after digital camera was dropped overboard from QM2 When Dennis and Barbara Gregory accidentally dropped … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/cameramemcard.jpg"
 author: "Rick Spilman"
 description: "Strange but true.  Digital memory cards are indeed an amazing technology. Couple’s precious holiday snaps recovered intact from the bottom of the Atlantic… 16 months after digital camera was dropped overboard from QM2 When Dennis and Barbara Gregory accidentally dropped … Continue reading &rarr;"
 ---

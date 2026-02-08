@@ -14,6 +14,7 @@ tags:
   - "Malcom McLean"
   - "shipping container"
   - "twist lock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/TANTLINGER1.jpg"
 author: "Rick Spilman"
 description: "If Malcom McLean was the father of containerization, then Keith Tantlinger, who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade. The idea of \"containerizing\" … Continue reading &rarr;"
 ---

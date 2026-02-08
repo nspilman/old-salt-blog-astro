@@ -5,6 +5,7 @@ slug: "the-grey-wolves-of-eriboll-by-david-hird-%e2%80%93-the-secret-mass-surren
 excerpt: "Mass surrender of Nazi U-boats documented in new book For 65 years residents of a remote Scottish village have paid heed to the wartime warning that \"loose lips sink ships\". The surrender of German submarines in Loch Eriboll in Sutherland … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Greywolves.jpg"
 author: "Rick Spilman"
 description: "Mass surrender of Nazi U-boats documented in new book For 65 years residents of a remote Scottish village have paid heed to the wartime warning that \"loose lips sink ships\". The surrender of German submarines in Loch Eriboll in Sutherland … Continue reading &rarr;"
 ---

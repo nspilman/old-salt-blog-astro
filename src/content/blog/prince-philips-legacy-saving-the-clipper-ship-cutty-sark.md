@@ -12,6 +12,7 @@ tags:
   - "Duke of Edinburgh"
   - "Prince Philip"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/cuttysarkbow1.jpg"
 author: "Rick Spilman"
 description: "Great Britain’s Prince Philip, the Duke of Edinburgh, died yesterday at the age of 99. He has been referred to as a sailor prince. The grandson of an admiral of the fleet and first sea lord, he was commissioned as … Continue reading &rarr;"
 ---

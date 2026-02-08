@@ -10,6 +10,7 @@ tags:
   - "dolphin slaughter"
   - "Japan"
   - "Taiji Cove"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Taiji-Dolphin-Cove4-300x231.jpg"
 author: "Rick Spilman"
 description: "Despite domestic and international protest, the annual mass slaughter of bottlenose dolphins is underway in a cove near the Japanese village of  Taiji.  In 2010, The Cove, a documentary about the yearly slaughter, won the Academy Award last night for best feature … Continue reading &rarr;"
 ---

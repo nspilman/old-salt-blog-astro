@@ -11,6 +11,7 @@ tags:
   - "Draken Harald Hårfagre"
   - "New York City"
   - "Viking longship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/PJA8879_Greenland-sailing_1220_900.jpg"
 author: "Rick Spilman"
 description: "Draken Harald Hårfagre, the largest Viking longship built in modern times, will be visiting New York harbor from September 17 — 28.  On September 17th, the Viking longship will sail past the Statue of Liberty around 11AM and arrive at North … Continue reading &rarr;"
 ---

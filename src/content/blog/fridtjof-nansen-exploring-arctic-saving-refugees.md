@@ -12,6 +12,7 @@ tags:
   - "Fridtjof Nansen"
   - "Nobel Peace Prize"
   - "Norway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/nansendoodle.jpg"
 author: "Rick Spilman"
 description: "Today’s Google Doodle commemorates the 156th birthday of Fridtjof Nansen — arctic explorer, scientist, diplomat, humanitarian and winner of the Nobel Peace Prize. Nansen seems particularly relevant in these times as the polar ice cap continues to melt and as refugee … Continue reading &rarr;"
 ---

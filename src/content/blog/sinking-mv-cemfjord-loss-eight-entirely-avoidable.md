@@ -11,6 +11,7 @@ tags:
   - "cement carrier"
   - "Cemfjord"
   - "Pentland Firth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/frachter340_v-contentgross.jpg"
 author: "Rick Spilman"
 description: "In January of 2015, we posted about the capsize and sinking of the Cyprus-registered cement carrier MV Cemfjord while attempting to navigate the Pentland Firth in extremely rough weather. Eight officers and crew aboard died in the sinking. The UK’s Marine Accident Investigation … Continue reading &rarr;"
 ---

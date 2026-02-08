@@ -13,6 +13,7 @@ tags:
   - "Marine Corps"
   - "navy"
   - "new york"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/fwny2010.jpg"
 author: "Rick Spilman"
 description: "New York’s Fleet Week 2010 is underway.  \"This is the Super Bowl of Fleet Weeks,\" said Michael Salerno, the Navy’s director of Fleet Week, a reference to the many Fleet Weeks that take part around the country, the first of … Continue reading &rarr;"
 ---

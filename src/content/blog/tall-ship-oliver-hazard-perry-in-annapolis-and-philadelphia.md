@@ -11,6 +11,7 @@ tags:
   - "annapolis"
   - "Oliver Hazard Perry"
   - "Sail Philadelphia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/ohp3.jpg"
 author: "Rick Spilman"
 description: "If you are around Annapolis tomorrow, May 12th, the 200-foot Class A Tall Ship, SSV Oliver Hazard Perry will be at the Naval Academy in Annapolis and will be open for public tours from 10 a.m. to 3 p.m. at the Dewey Seawall (Gate 1 … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "dragon boat racing"
   - "Duanwu Festival"
   - "Hong Kong Dragon Boat Festival in New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/dragonboat.jpg"
 author: "Rick Spilman"
 description: "The 22st Annual Hong Kong Dragon Boat Festival in New York will be held this weekend in Meadow Lake at Flushing Meadows, Corona Park.  Fielding 170 dragon boat teams and over 2,000 participants, it is one of the largest boating festivals … Continue reading &rarr;"
 ---

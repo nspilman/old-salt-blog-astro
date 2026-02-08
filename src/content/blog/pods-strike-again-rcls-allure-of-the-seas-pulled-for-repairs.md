@@ -11,6 +11,7 @@ tags:
   - "Allure of the Seas"
   - "Azipod"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Allure-of-the-Seas.jpg"
 author: "Rick Spilman"
 description: "Royal Caribbean’s Allure of the Seas — the largest cruise ship in the world, is being taken out of service in February due a failure in one of its Azipod propulsion pods.  Here we go again. Royal Caribbean announces Allure … Continue reading &rarr;"
 ---

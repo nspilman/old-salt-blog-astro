@@ -10,6 +10,7 @@ tags:
   - "Grace Tsai"
   - "Sailor's Grub"
   - "Texas A&amp;M University"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/elissagrub.jpg"
 author: "Rick Spilman"
 description: "Grace Tsai, a PhD student at Texas A&M University, wants to investigate 17th century sailor's grub, by recreating the food as accurately as possible."
 ---

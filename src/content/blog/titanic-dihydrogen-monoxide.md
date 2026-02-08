@@ -9,6 +9,7 @@ categories:
 tags:
   - "Dihydrogen Monoxide"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/watertitanic.jpg"
 author: "Rick Spilman"
 description: "From the Dihydrogen Monoxide Awareness Community on Facebook. I read it on the Internet so it must be true. … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Edward Teach"
   - "medical equipment"
   - "Queen Anne's Revenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/blackbeardsyringe.jpg"
 author: "Rick Spilman"
 description: "Archaeologists examining artifacts discovered on the wreck of the pirate Blackbeard's flag ship announced that they had found medical equipment."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Captain James Cook"
   - "Edmond Halley"
   - "transit of Venus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Venustransit_2004-06-08_07-49.jpg"
 author: "Rick Spilman"
 description: "On June 5th and 6th, depending on where you are in the world, there will be the last transit of Venus, where the planet Venus visibly passes between the earth and the Sun, until the year 2017.  The previous transit of Venus … Continue reading &rarr;"
 ---

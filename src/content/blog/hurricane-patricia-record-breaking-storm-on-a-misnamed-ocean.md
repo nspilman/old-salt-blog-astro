@@ -10,6 +10,7 @@ tags:
   - "Hurricane Patricia"
   - "Mexico"
   - "tropical cyclone"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/hurricanepat.jpg"
 author: "Rick Spilman"
 description: "When Ferdinand Magellan rounded the tip of South America in 1521, he encountered favourable winds. He named the ocean Mar Pacifico meaning \"peaceful sea\" in Portuguese.  Today, Hurricane Patricia, the most powerful tropical cyclone ever measured in the Western Hemisphere, … Continue reading &rarr;"
 ---

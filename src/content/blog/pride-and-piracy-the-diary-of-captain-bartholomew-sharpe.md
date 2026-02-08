@@ -11,6 +11,7 @@ tags:
   - "Captain Bartholomew Sharpe"
   - "English pirate"
   - "King Charles II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/sharpe-title-page.jpg"
 author: "Rick Spilman"
 description: "The Morgan Library & Museum in New York city has a new exhibition that opened on Friday, \"The Diary: Three Centuries of Private Lives,\" which chronicles three hundred years of diaries and journals of the famous and the obscure. In … Continue reading &rarr;"
 ---

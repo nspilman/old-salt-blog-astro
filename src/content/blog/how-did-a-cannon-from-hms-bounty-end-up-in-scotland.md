@@ -12,6 +12,7 @@ tags:
   - "cannon"
   - "Pitcairn"
   - "Scotland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/bountycannon.jpg"
 author: "Rick Spilman"
 description: "Thanks to Alaric Bond for passing on an intriguing news item. A cannon said to be from HMS Bounty, the ship made famous by a mutiny in 1789, is being put up for sale at an upcoming auction. According to … Continue reading &rarr;"
 ---

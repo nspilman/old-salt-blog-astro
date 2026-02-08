@@ -12,6 +12,7 @@ tags:
   - "Alang shipbreaker"
   - "HMS Hermes"
   - "INS Viraat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/hermes.jpg"
 author: "Rick Spilman"
 description: "Ship scrapping is a slow and methodical process. A ship is typically run up on the scrapping ways, which can be a concrete platform or a sloping sandy beach.  As burners cut away the upper sections of the ship, it … Continue reading &rarr;"
 ---

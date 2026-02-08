@@ -13,6 +13,7 @@ tags:
   - "Confederate Navy submarine"
   - "H.L. Hunley"
   - "USS Housatonic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hunley.jpg"
 author: "Rick Spilman"
 description: "Ten years ago today, the Confederate Navy submarine H.L. Hunley was raised from the bottom of Charleston harbor in South Carolina, where it sank in 1864.  The Hunley was the first submarine to sink an enemy warship in combat.   … Continue reading &rarr;"
 ---

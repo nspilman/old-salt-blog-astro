@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/southstreet2.jpg"
 author: "Rick Spilman"
 description: "At the end of last October, the South Street Museum’s Waterfront Director, Captain Jonathan Boulware, and his crew of staff and volunteers scrambled to secure the museum’s historic ships, including two aged windjammers, moored on the East River, before they were … Continue reading &rarr;"
 ---

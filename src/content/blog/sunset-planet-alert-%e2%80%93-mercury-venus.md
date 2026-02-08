@@ -5,6 +5,7 @@ slug: "sunset-planet-alert-%e2%80%93-mercury-venus"
 excerpt: "Sunset Planet Alert The solar system’s innermost planets are about to put on a beautiful show. This week, Mercury is emerging from the glare of the sun and making a beeline for Venus. By week’s end, the two planets will … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Mitsuo-Muraoka1_med.jpg"
 author: "Rick Spilman"
 description: "Sunset Planet Alert The solar system’s innermost planets are about to put on a beautiful show. This week, Mercury is emerging from the glare of the sun and making a beeline for Venus. By week’s end, the two planets will … Continue reading &rarr;"
 ---

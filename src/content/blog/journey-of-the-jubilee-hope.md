@@ -13,6 +13,7 @@ tags:
   - "Princess Royal"
   - "Tanzania"
   - "Vine Trust"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/LAKE-HOSPITAL1-586x319.jpg"
 author: "Rick Spilman"
 description: "The hospital ship Jubilee Hope was recently christened by the Princess Royal, in Tanzania on Lake Victoria."
 ---

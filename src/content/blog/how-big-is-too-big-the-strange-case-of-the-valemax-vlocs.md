@@ -12,6 +12,7 @@ tags:
   - "Valemax"
   - "Very Large Ore Carriers"
   - "VLOC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/vale_brazil1_new_medium.jpg"
 author: "Rick Spilman"
 description: "The Vale Brasil is the largest dry cargo ship in the world with a capacity of over 400,000 DWT.  It is the first of the Valemax class of  Very Large Ore Carriers (VLOC).   The Vale Brasil  was built with one purpose – to carry iron … Continue reading &rarr;"
 ---

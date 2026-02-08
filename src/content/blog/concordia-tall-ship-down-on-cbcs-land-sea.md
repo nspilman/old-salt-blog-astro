@@ -13,6 +13,7 @@ tags:
   - "documentary"
   - "sinking"
   - "SV Concordia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Concordia3-1.jpg"
 author: "Rick Spilman"
 description: "The CBC’s program \"Land and Sea\" broadcast their documentary \"Concordia: Tall Ship Down\" today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
 ---

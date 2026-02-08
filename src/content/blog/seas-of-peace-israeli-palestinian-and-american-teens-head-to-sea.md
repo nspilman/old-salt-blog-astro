@@ -16,6 +16,7 @@ tags:
   - "Seas of Peace"
   - "Seeds of Peace"
   - "teens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/sop.jpg"
 author: "Rick Spilman"
 description: "Seas of Peace is a remarkable sail training and leadership program that brings together Middle Eastern and American youth for a summer of sailing and conflict resolution training.  This year, in their second summer of operation, they hope to bring together 18 young sailors on … Continue reading &rarr;"
 ---

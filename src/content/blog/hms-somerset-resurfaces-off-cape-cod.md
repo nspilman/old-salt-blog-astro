@@ -16,6 +16,7 @@ tags:
   - "Harry R. Feldman"
   - "HMS Somerset"
   - "Paul Revere"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/somersett.jpg"
 author: "Rick Spilman"
 description: "In his poem, The Midnight Ride of Paul Revere, Henry Wadsworth Longfellow described HMS Somersett on the night of April 18, 1775: Just as the moon rose over the bay, Where swinging wide at her moorings lay The Somerset, British man-of-war; … Continue reading &rarr;"
 ---

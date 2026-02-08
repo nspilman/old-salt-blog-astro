@@ -14,6 +14,7 @@ tags:
   - "Uruguay"
   - "Velux Five Oceans"
   - "Zbigniew \"Gutek\" Gutkowski"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/vanliew_int1.jpg"
 author: "Rick Spilman"
 description: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew \"Gutek\" Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
 ---

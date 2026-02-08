@@ -9,6 +9,7 @@ categories:
 tags:
   - "Discovery Channel"
   - "Shark Week"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/shark_week_0730.jpg"
 author: "Rick Spilman"
 description: "It is that time of year again. For twenty three of its twenty five years, the Discovery Channel, an American cable television channel,  has celebrated this week as \"Shark Week\" with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers. … Continue reading &rarr;"
 ---

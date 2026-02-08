@@ -10,6 +10,7 @@ tags:
   - "North Carolina Legislature"
   - "sea level rise"
   - "Xerxes the Great"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/xerxeslashingthesea.jpg"
 author: "Rick Spilman"
 description: "When a storm destroyed Xerxes the Great’s bridge across the Hellespont in 480 BCE, he ordered that the sea be flogged with chains. Now, the North Carolina legislature is playing Xerxes. Some North Carolina legislators do not like the estimates of the … Continue reading &rarr;"
 ---

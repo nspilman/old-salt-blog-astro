@@ -11,6 +11,7 @@ tags:
   - "The Loch Ness Project"
   - "The Private Life of Sherlock Holmes"
   - "VisitScotland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/nessiemodel.jpg"
 author: "Rick Spilman"
 description: "At long last, Nessie has been located on the bottom of Loch Ness! The monster is, however, not the legendary beastie, but instead a 30-foot long movie prop which sank in the Loch almost 50 years ago.  The prop was … Continue reading &rarr;"
 ---

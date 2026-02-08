@@ -13,6 +13,7 @@ tags:
   - "Sea Grill Restaurant"
   - "See Vee sports fishing boat"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/seeveeruskin.jpg"
 author: "Rick Spilman"
 description: "The See Vee sports fishing boat hit the beach at 40-50 mph at Little Harbor, Florida near Tampa, and crashed into the Sea Grill Restaurant. No one died."
 ---

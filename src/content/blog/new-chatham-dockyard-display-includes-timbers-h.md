@@ -13,6 +13,7 @@ tags:
   - "Historic Chatham Dockyard"
   - "HMS Namur"
   - "Jane Austen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/namur2.jpg"
 author: "Rick Spilman"
 description: "On Thursday, the Chatham Historic Dockyard opened its new exhibit \"Command of the Oceans\" to the public. The centerpiece of the display are timbers from the 90-gun second-rate ship of the line, HMS Namur.  The ship was built in the … Continue reading &rarr;"
 ---

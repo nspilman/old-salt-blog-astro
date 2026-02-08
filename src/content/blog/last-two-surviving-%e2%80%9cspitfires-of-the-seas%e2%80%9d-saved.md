@@ -11,6 +11,7 @@ tags:
   - "high-speed World War II motor boats"
   - "Portsmouth Naval Base Property Trust"
   - "Spitfires of the Seas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/motorboats.jpg"
 author: "Rick Spilman"
 description: "Last Operational World War II Motor Boats Saved For The Nation Two of the last remaining fully operational high-speed World War II motor boats have been saved for the nation today by Portsmouth Naval Base Property Trust, with the help … Continue reading &rarr;"
 ---

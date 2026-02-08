@@ -9,6 +9,7 @@ categories:
 tags:
   - "Gipsy Moth IV"
   - "Sir Francis Chichester"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/gipsymoth.jpg"
 author: "Rick Spilman"
 description: "Gipsy Moth IV, the yacht that Sir Francis Chichester singlehanded around the world is for sale for £250,000.  Chichester was the first person to sail single-handed around the world by the three capes, the route taken by the clipper ships.  He … Continue reading &rarr;"
 ---

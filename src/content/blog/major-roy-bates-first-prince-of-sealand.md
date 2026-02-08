@@ -9,6 +9,7 @@ tags:
   - "Patrick Roy Bates"
   - "Prince Roy"
   - "Principality of Sealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/sealandbates.jpg"
 author: "Rick Spilman"
 description: "Patrick Roy Bates, better-known as Prince Roy of Sealand – the title he awarded himself  – died earlier this month at the age of 91 in Leigh-on-Sea,Essex, UK.   In 1967, Major Roy Bates, a veteran of WWII, occupied a derelict … Continue reading &rarr;"
 ---

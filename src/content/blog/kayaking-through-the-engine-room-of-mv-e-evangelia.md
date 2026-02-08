@@ -12,6 +12,7 @@ tags:
   - "Costinești"
   - "E. Evangelia"
   - "MV Empire Strength"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/evaleglwreck.jpg"
 author: "Rick Spilman"
 description: "The MV Empire Strength, a 7,355 GRT refrigerated cargo ship, was built by Harland and Wolff in 1942.  In her long career, she had seven owners and four names. When she was purchased by a Greek owner in 1965, she was renamed, MV E Evangelia.  … Continue reading &rarr;"
 ---

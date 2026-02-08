@@ -12,6 +12,7 @@ tags:
   - "Liberty ship"
   - "SS John W. Brown"
   - "triple expansion reciprocating steam engine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/johnbrowndock.jpg"
 author: "Rick Spilman"
 description: "Last Sunday, I had the opportunity to spend a little time in the engine room of the Liberty ship, SS John W. Brown. The ship, normally based in Baltimore, was visiting New York and offered a full day \"Living History Cruise.\" … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "pinnance"
   - "Sprit topmast"
   - "Sultana Downrigging Weekend"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/klsprittopmastcc-200x150.jpg"
 author: "Rick Spilman"
 description: "The Kalmar Nyckel is a replica of a Dutch built pinnance which carried Swedish settlers to North America in 1638 to establish the colony of New Sweden."
 ---

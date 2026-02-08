@@ -15,6 +15,7 @@ tags:
   - "MSC Chitra"
   - "Mumbai"
   - "scuttling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/chitra1-125x57.jpg"
 author: "Rick Spilman"
 description: "Last August, we posted about the collision of the containership MSC Chitra and the bulk carrier Khalijia 3 which resulting in the sinking of the Chitra with a significant oil spill, a loss of cargo containers and the blockage of the port of Mumbai for five … Continue reading &rarr;"
 ---

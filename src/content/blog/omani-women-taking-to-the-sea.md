@@ -12,6 +12,7 @@ tags:
   - "Omani Women's Sailing Programme"
   - "Sailing Arabia - the Tour 2012"
   - "Shabab Oman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Oman-women-1_0.jpg"
 author: "Rick Spilman"
 description: "I will admit to not knowing much about Oman. I know that it is a Sultanate. It exports oil. I can find it on the map on the south-east corner of the Arabian peninsula. One thing that I do know … Continue reading &rarr;"
 ---

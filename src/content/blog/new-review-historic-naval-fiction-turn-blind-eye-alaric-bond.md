@@ -11,6 +11,7 @@ tags:
   - "\"turn a blind eye"
   - "Alaric Bond"
   - "Historic Naval Fiction"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Alaric6.jpg"
 author: "Rick Spilman"
 description: "A new review from Historic Naval Fiction: Alaric Bond‘s new novel, Turn A Blind Eye, moves away from his ‘Fighting Sail’ series and the Royal Navy to the world of smuggling on the South Coast of England. It follows Commander Griffin … Continue reading &rarr;"
 ---

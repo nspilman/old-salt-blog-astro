@@ -14,6 +14,7 @@ tags:
   - "Laurent Camprubi"
   - "Route du Rhum"
   - "Spain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/keellosscapsize.jpg"
 author: "Rick Spilman"
 description: "It has happened again. While sailing in a qualifying race for the upcoming transatlantic solo sailing contest Route du Rhum, 62-year-old French sailor Laurent Camprubi found himself trapped inside his sailboat after it capsized. The keel on his boat, the … Continue reading &rarr;"
 ---

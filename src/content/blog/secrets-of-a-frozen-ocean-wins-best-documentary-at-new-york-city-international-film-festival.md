@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/secretsfrozenocean.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Neil and Ariel Weisbrod. Their documentary, Secrets of a Frozen Ocean, won Best Documentary at the New York City International Film Festival.  I was fortunate enough to see the world premiere of this fascinating documentary last Wednesday. The premiere, fittingly … Continue reading &rarr;"
 ---

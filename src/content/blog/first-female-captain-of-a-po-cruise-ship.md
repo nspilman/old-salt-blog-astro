@@ -12,6 +12,7 @@ tags:
   - "first female captain"
   - "P&amp;O cruise ship"
   - "Sarah Breton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Sarah-Breton.jpg"
 author: "Rick Spilman"
 description: "Sarah Breton, 45, from Essex, has been appointed as Captain of the 1,200 P&O cruise ship Artemis. As such she is the first female captain in P&O’s 173 year history and the first female captain of a cruise ship in … Continue reading &rarr;"
 ---

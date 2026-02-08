@@ -11,6 +11,7 @@ tags:
   - "Antoine Vanner"
   - "Britannia's Shark"
   - "Historic Naval Fiction"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/britanniasshark-134x200.jpg"
 author: "Rick Spilman"
 description: "David Hayes reviews Antoine Vanner's Britannia's Shark on his excellent Historic Naval Fiction blog."
 ---

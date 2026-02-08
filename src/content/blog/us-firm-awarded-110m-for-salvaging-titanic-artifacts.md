@@ -12,6 +12,7 @@ tags:
   - "RMS Titanic"
   - "salvage rights"
   - "US federal judge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/titanic1.jpg"
 author: "Rick Spilman"
 description: "In 1994, US Courts gave salvage rights to the RMS Titanic, 2.5 miles beneath the surface of the North Atlantic, to RMS Titanic Inc, a subsidiary of Premier Exhibitions Inc,  but explicitly did not grant ownership of the wreck or the … Continue reading &rarr;"
 ---

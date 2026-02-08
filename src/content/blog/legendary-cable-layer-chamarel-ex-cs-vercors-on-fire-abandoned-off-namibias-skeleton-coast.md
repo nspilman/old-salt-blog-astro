@@ -16,6 +16,7 @@ tags:
   - "France Telecom-Orange"
   - "Namibia"
   - "Skeleton Coast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/fiber-optic-ship-burns.jpg"
 author: "Rick Spilman"
 description: "France Telecom-Orange announced today that an unexplained fire had broken out on Thursday on the cable laying ship, the Chamarel, in the Atlantic Ocean off Namibia’s Skeleton Coast in the Atlantic Ocean.   The crew of 56 abandoned ship after attempts at firefighting … Continue reading &rarr;"
 ---

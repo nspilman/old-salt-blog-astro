@@ -10,6 +10,7 @@ tags:
   - "ecretary of the Interior Ken Salazar"
   - "offshore wind power"
   - "Secretary of Energy Steven Chu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/wind_farm_offshore.jpg"
 author: "Rick Spilman"
 description: "The United States is far behind the countries of Western Europe and China in the development of offshore wind power.  Today, Secretary of the Interior Ken Salazar and Secretary of Energy Steven Chu announced a few steps toward catching up. … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "fossil whale"
   - "Herman Melville"
   - "Leviathan melvillei"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/monster_whale_786_2.jpg"
 author: "Rick Spilman"
 description: "No, not Moby Dick.  Scientists have recently discovered the fossilized remains of an ancient whale with huge, fearsome teeth, which they have dubbed Leviathan melvillei,  in honor of Herman Melville.   The 12 million old whale was slightly smaller than a modern sperm whale but … Continue reading &rarr;"
 ---

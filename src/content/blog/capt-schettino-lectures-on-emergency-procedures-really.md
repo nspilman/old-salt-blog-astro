@@ -11,6 +11,7 @@ tags:
   - "Captain Francesco Schettino"
   - "Costa Concordia"
   - "Sapienza University"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/captsch.jpg"
 author: "Rick Spilman"
 description: "Captain Francesco Schettino recently gave a two-hour lecture on emergency procedures to criminal science masters candidates at Rome’s Sapienza University. Yes, this is the same Capt. Schettino who ripped open the side of the cruise ship Costa Concordia on a reef, then … Continue reading &rarr;"
 ---

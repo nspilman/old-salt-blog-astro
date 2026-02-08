@@ -14,6 +14,7 @@ tags:
   - "Snow Dragon"
   - "USCGC Polar Star"
   - "Xue Long"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Polar_Star_2.jpg"
 author: "Rick Spilman"
 description: "The USCGC Polar Star is on its way to attempt to break free two ice-bound ship off Antarctica.   So far, three icebreakers have attempted to free the the MV Akademik Shokalskiy, which has been stuck in Antarctic ice south of Tasmania … Continue reading &rarr;"
 ---

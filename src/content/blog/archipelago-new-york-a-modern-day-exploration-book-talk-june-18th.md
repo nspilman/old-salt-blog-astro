@@ -11,6 +11,7 @@ tags:
   - "Adriaen Block"
   - "Archipelago New York"
   - "Thomas Halaczinsky"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/archny.jpg"
 author: "Rick Spilman"
 description: "In 1614, Dutch sailor Adriaen Block explored the over 70 islands of the archipelago between the mouth of the Hudson and Fisher’s Island. Four hundred years later, photographer, videographer, and writer Thomas Halaczinsky, set off on his 30-foot sailboat, on a … Continue reading &rarr;"
 ---

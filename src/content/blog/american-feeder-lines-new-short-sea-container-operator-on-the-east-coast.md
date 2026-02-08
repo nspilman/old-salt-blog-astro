@@ -10,6 +10,7 @@ categories:
 tags:
   - "\"New England to Halifax Shuttle"
   - "American Feeder Lines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/mood_13.jpg"
 author: "Rick Spilman"
 description: "For several hundred years, up until just after World War II, cargo moved up and down the East Coast of North America by ships and boats of a range of sizes and shapes.  When the interstate highways were built, all but most bulk cargoes  shifted to … Continue reading &rarr;"
 ---

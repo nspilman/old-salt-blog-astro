@@ -15,6 +15,7 @@ tags:
   - "frigate Pandora"
   - "North Sea fleet"
   - "True Colours"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/True_Colours_FRONT.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond is a frequent contributor to the Old Salt blog.  He is also a wonderful writer.   His latest novel True Colours has recently been published.  I liked it  – a lot.  A review: Alaric Bond’s new novel, True Colours, the … Continue reading &rarr;"
 ---

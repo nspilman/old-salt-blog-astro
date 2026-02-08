@@ -14,6 +14,7 @@ tags:
   - "Matson"
   - "Pasha Group"
   - "Sealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/Horizon_Lines.jpg"
 author: "Rick Spilman"
 description: "Horizon Line has sold its Alaskan service to Matson, its Hawaiian operations to Pasha Group, and would be shutting down its operations to Puerto Rico."
 ---

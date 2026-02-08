@@ -12,6 +12,7 @@ tags:
   - "Hetman Sahaidachny"
   - "Russia"
   - "Ukraine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ukraine-navy-flaghsip-protest.si_.jpg"
 author: "Rick Spilman"
 description: "Update:  Reports of the defection of the frigate Hetman Sahaidachny are being denied by the Ukrainian military.  The ship is reported to have be sighted in port in Crete still flying the Ukrainian flag. There are reports that the Ukraine’s Navy flagship, the frigate … Continue reading &rarr;"
 ---

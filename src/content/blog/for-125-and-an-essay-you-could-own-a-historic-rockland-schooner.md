@@ -14,6 +14,7 @@ tags:
   - "Maine"
   - "Rockland"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/isaacevans.jpg"
 author: "Rick Spilman"
 description: "The 129 year old, 90 foot long schooner Isaac H. Evans sailing out of Rockland, Maine could be yours for $125 and a 200 word essay."
 ---

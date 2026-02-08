@@ -11,6 +11,7 @@ tags:
   - "Newport"
   - "Rhode Island"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ohprendering.jpg"
 author: "Rick Spilman"
 description: "I recently booked a berth on the SSV Oliver Hazard Perry  on a passage next September from Newport to Bermuda under the command of Captain Richard Bailey.  I find it hard to believe that it was so long ago, but nevertheless, … Continue reading &rarr;"
 ---

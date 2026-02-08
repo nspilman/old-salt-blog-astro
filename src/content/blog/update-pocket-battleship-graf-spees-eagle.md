@@ -14,6 +14,7 @@ tags:
   - "Montevideo"
   - "Nazi eagle"
   - "Uruguaya"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/nazieagle.jpg"
 author: "Rick Spilman"
 description: "What has been referred to as the Second Battle of the River Platte, may be coming to an end. In 2010, we posted about a legal battle over the salvaging of the German pocket battleship Admiral Graf Spee which was scuttled … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "l' Hermoine"
   - "Marquis de Lafayette"
   - "Rochefort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/hermfreedomsfrigate.jpg"
 author: "Rick Spilman"
 description: "If HMS Hermione, commissioned in 1783, became a symbol of Royal Navy cruelty and bloody mutiny, the French light frigate l’ Hermione, commissioned in 1779, would become a symbol of American independence.  On March 21, 1780, the 23 year old Gilbert du … Continue reading &rarr;"
 ---

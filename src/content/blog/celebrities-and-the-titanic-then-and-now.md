@@ -14,6 +14,7 @@ tags:
   - "Richard Branson"
   - "RMS Titanic"
   - "Rod Stewart"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Titanic_artist_impr_596280b.jpg"
 author: "Rick Spilman"
 description: "When the RMS Titanic sank on April 15, 1912,  a number of those who died were celebrities of their day, including the American millionaires John Jacob Astor IV and Benjamin Guggenheim.  Canadian railroad president Charles Melville Hays and Isidor Straus, American owner of … Continue reading &rarr;"
 ---

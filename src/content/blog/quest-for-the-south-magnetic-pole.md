@@ -11,6 +11,7 @@ tags:
   - "Australian National Maritime Museum"
   - "Quest for the South Magnetic Pole"
   - "Robert Falcon Scott"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Quest603x320.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the centennial of Robert Falcon Scott‘s departure on his ill-fated expedition to reach the South Pole.   Now the Australian National Maritime Museum will host a new exhibit, the Quest for the South Magnetic Pole.    The quest to … Continue reading &rarr;"
 ---

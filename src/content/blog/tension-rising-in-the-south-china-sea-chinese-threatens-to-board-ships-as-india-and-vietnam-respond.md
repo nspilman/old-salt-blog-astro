@@ -12,6 +12,7 @@ tags:
   - "Japan"
   - "South China Sea"
   - "Vietnam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/NineDashSCS.jpg"
 author: "Rick Spilman"
 description: "Tensions are rising in the South China Sea, where at least a half dozen nations are asserting a jumble of overlapping claims of sovereignty, fishing and mineral rights.  China is now ramping up their claims by announcing that as of … Continue reading &rarr;"
 ---

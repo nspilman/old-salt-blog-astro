@@ -13,6 +13,7 @@ tags:
   - "TransOceanic Wind Transport"
   - "Tres Hombres"
   - "World's Best Restaurant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/Tres-Hombres_1_Michel_Floch.jpg"
 author: "Rick Spilman"
 description: "Commercial sail has not yet returned, but there are interesting niche players who are doing what they can to change that. The sailing brigantine Tres Hombres recently carried 10 tons of French wine from Brest to Copenhagen for delivery to … Continue reading &rarr;"
 ---

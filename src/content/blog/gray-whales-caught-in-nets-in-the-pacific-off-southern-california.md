@@ -12,6 +12,7 @@ tags:
   - "gray whales"
   - "Laguna Beach"
   - "Southern California"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/40b8c1e72813af5d6afdc0870ef.jpg"
 author: "Rick Spilman"
 description: "According to the Whale and Dolphin Conservation Society, fishing nets are the biggest killer of whales and dolphins across the globe. Last week alone, two gray whales migrating off the coast of California were caught in fishing nets. A week … Continue reading &rarr;"
 ---

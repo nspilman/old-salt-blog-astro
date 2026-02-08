@@ -9,6 +9,7 @@ categories:
 tags:
   - "International Talk Like a Pirate Day"
   - "Old Salt Blog"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/meMDlyQ.jpg"
 author: "Rick Spilman"
 description: "I would like to thank all the readers and supporters of the Old Salt Blog. Today is the fifth anniversary of the very first post, five years ago. So happy birthday to us all. Since September 19th, 2008, the blog … Continue reading &rarr;"
 ---

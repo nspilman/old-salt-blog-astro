@@ -10,6 +10,7 @@ categories:
 tags:
   - "Friday the 13th"
   - "HMS Friday"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/f13.jpg"
 author: "Rick Spilman"
 description: "Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of HMS Friday. Sometime in the 1800s, it is said that … Continue reading &rarr;"
 ---

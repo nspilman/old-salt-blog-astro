@@ -5,6 +5,7 @@ slug: "kalmar-nyckel-being-readied-for-13th-sailing-season"
 excerpt: "Kalmar Nyckel crew readies for spring sailing You can’t cobble up in a book all of what Captain Lauren Morgens and the 20-plus crew members who will be traveling abroad the Kalmar Nyckel for several months have learned from being … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/kn_ship_image.jpg"
 author: "Rick Spilman"
 description: "Kalmar Nyckel crew readies for spring sailing You can’t cobble up in a book all of what Captain Lauren Morgens and the 20-plus crew members who will be traveling abroad the Kalmar Nyckel for several months have learned from being … Continue reading &rarr;"
 ---

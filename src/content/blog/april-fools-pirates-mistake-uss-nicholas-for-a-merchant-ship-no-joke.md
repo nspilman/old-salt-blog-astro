@@ -10,6 +10,7 @@ categories:
 tags:
   - "Somali pirates"
   - "USS Nicholas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/USS_Nicholas.jpg"
 author: "Rick Spilman"
 description: "An April Fool’s post that is no joke. At 12:27 a.m. on April 1, 2010, in the Indian Ocean west of the Seychelles, three Somali pirates in a small skiff attacked what they thought was a merchant vessel.  It wasn’t. They … Continue reading &rarr;"
 ---

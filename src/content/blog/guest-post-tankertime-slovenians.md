@@ -12,6 +12,7 @@ tags:
   - "Mary A.Whalen"
   - "PortSide New York"
   - "TankerTime"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/secondsunday.jpg"
 author: "Rick Spilman"
 description: "PortSide New York is a non-profit based in New York harbor on the historic tanker Mary A. Whalen. Their goal is to create a new kind of maritime destination in NYC, one that sets a new standard for how to … Continue reading &rarr;"
 ---

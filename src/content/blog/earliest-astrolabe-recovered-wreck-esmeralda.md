@@ -13,6 +13,7 @@ tags:
   - "Esmerelda"
   - "Oman"
   - "Vasco da Gama"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/astrolabe.jpg"
 author: "Rick Spilman"
 description: "A year ago last March, marine archeologists determined that the wreck of a ship found off the coast of Oman was the Esmerelda, one of the ships in a fleet led by Portuguese explorer Vasco da Gama in 1502. The wreck … Continue reading &rarr;"
 ---

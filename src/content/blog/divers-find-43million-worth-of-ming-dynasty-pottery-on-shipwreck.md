@@ -12,6 +12,7 @@ tags:
   - "Indonesia"
   - "Ming Dynasty pottery"
   - "ship wreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/mingporc.jpg"
 author: "Rick Spilman"
 description: "Divers have found a huge \"haul\" of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
 ---

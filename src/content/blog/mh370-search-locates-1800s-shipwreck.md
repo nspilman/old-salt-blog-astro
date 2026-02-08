@@ -12,6 +12,7 @@ tags:
   - "Indian Ocean"
   - "Malaysia Airlines Flight MH370"
   - "MH370"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/mh370shipwreck.jpg"
 author: "Rick Spilman"
 description: "More than 80,000 square kilometers (30,000 square miles) of the seafloor in the Indian Ocean west of Australia have been searched, looking for where Malaysia Airlines Flight MH370 is believed to have crashed with 239 people aboard in March 2014. So far, … Continue reading &rarr;"
 ---

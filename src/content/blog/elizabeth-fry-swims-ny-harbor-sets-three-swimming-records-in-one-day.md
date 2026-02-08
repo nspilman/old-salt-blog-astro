@@ -12,6 +12,7 @@ tags:
   - "manhattan"
   - "N.J"
   - "Sandy Hook"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/lizfry09180901.jpg"
 author: "Rick Spilman"
 description: "Liz Fry is the sort of person who makes the rest of us feel inadequate. She is from Westport, Connecticut, is 52 and reportedly suffers from asthma.   Nevertheless, yesterday she swam the thirty five miles from Battery Park in Manhattan to Sandy Hook, … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "big-rubber-duck-bound-for-la"
 excerpt: "We have followed the peripatetic wanderings of the Big Rubber Duck as it has made its way around the globe. The series of inflatable sculptures by  Dutch artist Florentijn Hofman, is named \"Spreading Joy Around the World\" but is universally known simply as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/RubberDuck_slide.jpg"
 author: "Rick Spilman"
 description: "We have followed the peripatetic wanderings of the Big Rubber Duck as it has made its way around the globe. The series of inflatable sculptures by  Dutch artist Florentijn Hofman, is named \"Spreading Joy Around the World\" but is universally known simply as … Continue reading &rarr;"
 ---

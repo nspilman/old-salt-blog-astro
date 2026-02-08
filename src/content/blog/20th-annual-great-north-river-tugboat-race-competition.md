@@ -11,6 +11,7 @@ tags:
   - "hudson river"
   - "Pier 84"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/banner-2-start-line-1.gif"
 author: "Rick Spilman"
 description: "The 20th Annual Great North River Tugboat Race and Competition will be held again this year on the Hudson River at Pier 84 (off W44th Street) in Manhattan.  The festivities begin with a Parade of Tugs at 10:00 am with the tug boat race, from the … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Mahogany Ship"
   - "Peter Christopher"
   - "Victoria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/caravel.jpg"
 author: "Rick Spilman"
 description: "Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary \"Mahogany ship\" which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the … Continue reading &rarr;"
 ---

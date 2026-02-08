@@ -12,6 +12,7 @@ tags:
   - "North Korea"
   - "oil"
   - "United Nations"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/russiantankernk.jpg"
 author: "Rick Spilman"
 description: "Sanctions do not mean much if they are not enforced. The UN has been imposing increasingly stricter limitations on the importation of crude and refined oil to North Korea. Still, oil has been getting through.  In the past few days, South Korea … Continue reading &rarr;"
 ---

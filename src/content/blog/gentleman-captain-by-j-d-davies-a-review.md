@@ -13,6 +13,7 @@ tags:
   - "Matthew Quinton"
   - "restoration"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/gentlemancaptain.jpg"
 author: "Rick Spilman"
 description: "Lord Macaulay wrote \"There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.\" Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
 ---

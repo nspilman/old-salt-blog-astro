@@ -15,6 +15,7 @@ tags:
   - "Russian scientists"
   - "SP-40"
   - "Yamal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/Nuclearicebreakeryamal.jpg"
 author: "Rick Spilman"
 description: "A group of 16 Russian scientists, monitoring climate change in the Arctic, encountered more than they had planned on. They had to be rescued when the ice beneath their station began to crack due to unusually warm weather. The Russian nuclear … Continue reading &rarr;"
 ---

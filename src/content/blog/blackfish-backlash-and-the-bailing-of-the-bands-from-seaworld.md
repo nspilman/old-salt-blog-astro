@@ -16,6 +16,7 @@ tags:
   - "SeaWorld"
   - "Trisha Yearwood"
   - "Willie Nelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/blackfish-poster.jpg"
 author: "Rick Spilman"
 description: "This year, Seaworld Orlando is sponsoring \"Bands, Brew and BBQ\" during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled … Continue reading &rarr;"
 ---

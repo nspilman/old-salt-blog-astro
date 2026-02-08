@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hurricane Hermine"
   - "North River Tugboat Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/tugracepostponed.jpg"
 author: "Rick Spilman"
 description: "The 24th Annual Great North River Tugboat Race and Competition which was to be held on Labor Day on the Hudson River has been postponed by the expected arrival on Monday of high winds and rain associated with Tropical Depression Hermine. … Continue reading &rarr;"
 ---

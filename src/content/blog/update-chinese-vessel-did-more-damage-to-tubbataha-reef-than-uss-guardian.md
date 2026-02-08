@@ -14,6 +14,7 @@ tags:
   - "Sulu Sea"
   - "Tubbataha National Marine Park"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/PhilippinesChinaReefBoat.jpg"
 author: "Rick Spilman"
 description: "Despite being smaller than the USS Guardian and spending less time aground on the Tubbataha reef, the Chinese fishing vessel F/V Min Long Yu, which ran aground on the protected reef on April 8, apparently did more damage than the US Navy minesweeper.  In addition … Continue reading &rarr;"
 ---

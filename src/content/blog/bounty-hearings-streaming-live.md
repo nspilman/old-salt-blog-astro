@@ -13,6 +13,7 @@ tags:
   - "hearings"
   - "HMS Bounty"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bountysinks.jpg"
 author: "Rick Spilman"
 description: "Today is third day of hearings by the US Coast Guard on the sinking of the HMS Bounty on October 29, 2012, with loss of crew member Claudene Christian and Captain Robin Walbridge.  The hearings will continue in Portsmouth VA through … Continue reading &rarr;"
 ---

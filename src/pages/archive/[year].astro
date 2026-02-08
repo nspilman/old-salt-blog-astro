@@ -86,10 +86,12 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 		<Header />
 		<main>
 			<section>
-				<h1>{year}</h1>
-				<p class="subtitle">
-					{totalPosts.toLocaleString()} {totalPosts === 1 ? 'post' : 'posts'} from {year}
-				</p>
+				<div class="page-header">
+					<h1>{year} Archive</h1>
+					<p class="subtitle">
+						{totalPosts.toLocaleString()} {totalPosts === 1 ? 'post' : 'posts'} from {year}
+					</p>
+				</div>
 
 				<div class="post-list">
 					{posts.map((post) => (
@@ -97,20 +99,22 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 							<a href={`/${post.data.slug}/`} class="post-link">
 								{post.data.featuredImage && (
 									<div class="post-image">
-										<img src={post.data.featuredImage} alt={post.data.title} />
+										<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
 									</div>
 								)}
 								<div class="post-content">
+									<div class="post-meta">
+										<span class="post-date">
+											<FormattedDate date={post.data.date} />
+										</span>
+									</div>
 									<h2>{post.data.title}</h2>
-									<p class="post-date">
-										<FormattedDate date={post.data.date} />
-									</p>
 									{post.data.excerpt && (
 										<p class="post-excerpt">{post.data.excerpt}</p>
 									)}
 									{post.data.categories && post.data.categories.length > 0 && (
 										<div class="post-categories">
-											{post.data.categories.map((category) => (
+											{post.data.categories.slice(0, 3).map((category) => (
 												<span class="category-tag">{category}</span>
 											))}
 										</div>
@@ -135,56 +139,81 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 </html>
 
 <style>
+	/* Archive Year - same soul as homepage */
 	main {
-		width: 100%;
+		max-width: 1000px;
+		margin: 0 auto;
+		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
+		min-height: calc(100vh - 160px);
+		position: relative;
 	}
 
 	section {
-		max-width: 900px;
+		max-width: 940px;
 		margin: 0 auto;
-		padding: 2rem 1rem;
+		padding: 1.5rem 1rem;
+	}
+
+	/* On smaller screens, go full-width */
+	@media (max-width: 1040px) {
+		main {
+			max-width: 100%;
+		}
+	}
+
+	.page-header {
+		margin-bottom: 2rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid var(--border-dark);
 	}
 
 	h1 {
-		font-size: 2.5rem;
-		margin-bottom: 0.5rem;
-		color: rgb(var(--accent-dark));
+		font-size: 2rem;
+		margin-bottom: 0.25rem;
+		color: rgb(var(--black));
 	}
 
 	.subtitle {
-		font-size: 1.2rem;
+		font-size: 1rem;
 		color: rgb(var(--gray));
-		margin-bottom: 3rem;
+		margin: 0;
+		font-style: italic;
+		font-weight: normal;
 	}
 
 	.post-list {
 		display: flex;
 		flex-direction: column;
-		gap: 2rem;
-		margin-bottom: 3rem;
+		gap: 0;
+		margin-bottom: 2rem;
 	}
 
 	.post-preview {
-		border: 1px solid rgb(var(--gray-light));
-		border-radius: 8px;
-		overflow: hidden;
-		transition: transform 0.2s, box-shadow 0.2s;
+		padding: 1.5rem 0;
+		border-bottom: 1px solid var(--border-light);
 	}
 
-	.post-preview:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	.post-preview:first-child {
+		padding-top: 0;
 	}
 
 	.post-link {
 		display: block;
 		text-decoration: none;
 		color: inherit;
+		font-weight: normal;
+	}
+
+	.post-link:has(.post-image) {
+		display: grid;
+		grid-template-columns: 220px 1fr;
+		gap: 1.25rem;
+		align-items: start;
 	}
 
 	.post-image {
-		width: 100%;
-		height: 250px;
+		width: 220px;
+		height: 150px;
 		overflow: hidden;
 		background-color: rgb(var(--gray-light));
 	}
@@ -196,30 +225,36 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 	}
 
 	.post-content {
-		padding: 1.5rem;
+		min-width: 0;
 	}
 
 	.post-content h2 {
 		margin: 0 0 0.5rem 0;
-		font-size: 1.5rem;
+		font-size: 1.375rem;
 		color: rgb(var(--black));
+		font-weight: 700;
+		line-height: 1.3;
 	}
 
 	.post-link:hover h2 {
-		color: rgb(var(--accent));
+		color: var(--accent);
+	}
+
+	.post-meta {
+		margin-bottom: 0.5rem;
 	}
 
 	.post-date {
 		font-size: 0.875rem;
 		color: rgb(var(--gray));
-		margin-bottom: 1rem;
+		font-weight: normal;
 	}
 
 	.post-excerpt {
-		font-size: 1rem;
+		font-size: 0.9375rem;
 		line-height: 1.6;
 		color: rgb(var(--gray-dark));
-		margin-bottom: 1rem;
+		margin: 0 0 0.75rem 0;
 	}
 
 	.post-categories {
@@ -230,46 +265,103 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 
 	.category-tag {
 		display: inline-block;
-		padding: 0.25rem 0.75rem;
+		padding: 0.2rem 0.5rem;
 		background-color: rgb(var(--accent-light));
-		color: rgb(var(--accent-dark));
-		border-radius: 4px;
-		font-size: 0.875rem;
-		font-weight: 500;
+		color: var(--accent);
+		font-size: 0.75rem;
+		font-weight: 700;
 	}
 
 	.archive-nav {
 		text-align: center;
-		padding: 1rem 0;
+		padding: 1.5rem 0;
+		border-top: 1px solid var(--border-light);
 	}
 
 	.back-link {
-		color: rgb(var(--accent));
+		color: var(--accent);
 		text-decoration: none;
-		font-weight: 500;
-		transition: color 0.2s;
+		font-weight: 700;
 	}
 
 	.back-link:hover {
-		color: rgb(var(--accent-dark));
 		text-decoration: underline;
 	}
 
+	/* Tablet */
 	@media (max-width: 768px) {
+		section {
+			padding: 1.25rem 1rem;
+		}
+
+		.page-header {
+			margin-bottom: 1.5rem;
+			padding-bottom: 0.875rem;
+		}
+
 		h1 {
-			font-size: 2rem;
+			font-size: 1.5rem;
 		}
 
 		.subtitle {
-			font-size: 1rem;
+			font-size: 0.9375rem;
+		}
+
+		.post-preview {
+			padding: 1.25rem 0;
+		}
+
+		.post-link:has(.post-image) {
+			grid-template-columns: 1fr;
+			gap: 0.875rem;
 		}
 
 		.post-image {
-			height: 200px;
+			width: 100%;
+			height: 180px;
 		}
 
 		.post-content h2 {
-			font-size: 1.25rem;
+			font-size: 1.125rem;
+		}
+
+		.post-date {
+			font-size: 0.8125rem;
+		}
+
+		.post-excerpt {
+			font-size: 0.875rem;
+		}
+
+		.archive-nav {
+			padding: 1.25rem 0;
+		}
+	}
+
+	/* Small mobile */
+	@media (max-width: 480px) {
+		section {
+			padding: 1rem 0.875rem;
+		}
+
+		h1 {
+			font-size: 1.375rem;
+		}
+
+		.post-preview {
+			padding: 1rem 0;
+		}
+
+		.post-image {
+			height: 160px;
+		}
+
+		.post-content h2 {
+			font-size: 1.0625rem;
+		}
+
+		.post-list {
+			margin-bottom: 1.5rem;
 		}
 	}
 </style>

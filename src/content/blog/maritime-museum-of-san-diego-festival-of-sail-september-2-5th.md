@@ -10,6 +10,7 @@ tags:
   - "Festival of Sail"
   - "Maritime Museum of San Diego"
   - "Port of San Diego"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/resizedimage577242-fos-top-image3.jpg"
 author: "Rick Spilman"
 description: "This like a great weekend to be in San Diego.  OK, an especially great weekend as the Port of San Diego and the  Maritime Museum of San Diego are hosting a four day Festival of Sail.  Music food, sailing, mock gun … Continue reading &rarr;"
 ---

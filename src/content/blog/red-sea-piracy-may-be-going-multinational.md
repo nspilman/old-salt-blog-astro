@@ -11,6 +11,7 @@ tags:
   - "pirates"
   - "Somalis"
   - "Yemenis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg"
 author: "Rick Spilman"
 description: "Piracy in the Red Sea and the Indian Ocean can be wildly profitable and is relatively risk free.   If a pirate is caught by any of the multinational naval task force, chances are that they will simply let the … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "movie"
   - "Titanic"
   - "Twitter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/titanicwasrealyouguys.jpg"
 author: "Rick Spilman"
 description: "Last year, we posted about how the sinking of the Titanic had morphed from a maritime tragedy into a cultural icon.   For many, Hollywood movies, particularly the movie made by Jame Cameron, about the sinking of the ship may … Continue reading &rarr;"
 ---

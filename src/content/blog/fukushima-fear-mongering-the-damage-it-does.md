@@ -12,6 +12,7 @@ tags:
   - "Japan"
   - "Pacific"
   - "radiation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/300-tons-radioactive-water-japan.jpg"
 author: "Rick Spilman"
 description: "the concerns about radiation from Fukushima are serious and real, but the fear mongering does no one any good."
 ---

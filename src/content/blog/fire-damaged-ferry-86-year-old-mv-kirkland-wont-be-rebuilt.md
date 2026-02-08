@@ -14,6 +14,7 @@ tags:
   - "Lake Washington"
   - "MV Kirkland"
   - "Puget Sound"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/MV_Kirkland.jpg"
 author: "Rick Spilman"
 description: "Argosy Cruises has announced that the 86 year old ferry, MV Kirkland, which was severely damaged by fire at the end of last month, will not be rebuilt.  The 1924 wooden-hulled car ferry served passengers all over the Pacific Northwest. The … Continue reading &rarr;"
 ---

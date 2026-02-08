@@ -13,6 +13,7 @@ tags:
   - "PowerBuoy"
   - "Wave Hub"
   - "WestWave"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/2-worldsbigges.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about Ocean Power Technologies (OPT) installation of  offshore buoys off the coast of Oregon  to capture and convert wave energy into electricity.   It appears that they will also be playing a key role in the world’s largest wave energy … Continue reading &rarr;"
 ---

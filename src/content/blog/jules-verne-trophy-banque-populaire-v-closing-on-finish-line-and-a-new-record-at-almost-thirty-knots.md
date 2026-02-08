@@ -13,6 +13,7 @@ tags:
   - "Groupama 3"
   - "Jules Verne trophy"
   - "Loick Peyron"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/fatmenu4.jpg"
 author: "Rick Spilman"
 description: "Update:  Banque Populaire V crossed the line at 45 days, 13 hours, 42 minutes, 53 seconds, beating the previous record by 2 days and 18 hours.  An amazing performance by Captain Loick Peyron and his crew. Our heartiest congratulations. The live satellite map shows the … Continue reading &rarr;"
 ---

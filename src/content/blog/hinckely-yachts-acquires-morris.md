@@ -10,6 +10,7 @@ tags:
   - "Hinckley Yachts"
   - "Morris Yachts"
   - "Scout Partners"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/morris.jpg"
 author: "Rick Spilman"
 description: "Hinckley Yachts announced that it has acquired Morris Yachts. Both are high-end boat builders and the boatyards are within a quarter mile of each other in Trenton, Maine. Hinckley says it plans to continue the Morris boatbuilding and service operations … Continue reading &rarr;"
 ---

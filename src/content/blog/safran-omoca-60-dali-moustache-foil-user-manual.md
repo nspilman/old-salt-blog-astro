@@ -9,6 +9,7 @@ tags:
   - "foiling daggerboard"
   - "OMOCA 60"
   - "Safran"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/safranfdagger.jpg"
 author: "Rick Spilman"
 description: "In December, we posted about a new breed of ocean racing sailboats with foiling daggerboards, which look somewhat like Salvador Dali’s moustache.  Safron Sailing Team recently posted a video to explain how these foils work.  From an engineering and design point of view, … Continue reading &rarr;"
 ---

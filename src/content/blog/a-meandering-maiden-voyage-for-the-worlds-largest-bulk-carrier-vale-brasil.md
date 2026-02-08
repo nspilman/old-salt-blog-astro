@@ -11,6 +11,7 @@ tags:
   - "Maiden Voyage"
   - "Vale Brasil"
   - "world's largest dry bulk carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/vale_brazil1_new_medium.jpg"
 author: "Rick Spilman"
 description: "The Vale Brasil is the world’s largest dry bulk carrier with a deadweight of over 400,000 tons.  The Singapore flag ship is currently on her maiden voyage with a cargo of 391,000 tons of iron ore.   This is enough iron ore … Continue reading &rarr;"
 ---

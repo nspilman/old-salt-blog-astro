@@ -9,6 +9,7 @@ tags:
   - "Greenland"
   - "Ice Island"
   - "Petermann glacier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/petermannice.jpg"
 author: "Rick Spilman"
 description: "Last Saturday we posted about a one hundred square mile ice island that broke off from the Petermann glacier in Greenland.   Experts from the Canadian government, with the aid of NASA , the European Space agency and numerous other academic institutions, are … Continue reading &rarr;"
 ---

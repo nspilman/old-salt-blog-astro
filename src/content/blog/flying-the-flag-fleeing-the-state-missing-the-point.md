@@ -6,6 +6,7 @@ excerpt: "In yesterday’s  New York Times, Rose George of Leeds, UK was an Op-
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/panama-flag.jpg"
 author: "Rick Spilman"
 description: "In yesterday’s  New York Times, Rose George of Leeds, UK was an Op-Ed Contributor.   In her essay, Flying the Flag, Fleeing the State, she starts off by calling many ship operators criminals and comparing them to Somali pirates:  But maritime lawlessness … Continue reading &rarr;"
 ---

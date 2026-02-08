@@ -11,6 +11,7 @@ tags:
   - "ice-strengthened polar research vessel"
   - "SA Agulhas"
   - "South Africa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/saship1.jpg"
 author: "Rick Spilman"
 description: "The SA Agulhas is South Africa’s ice-strengthened polar research vessel.  The ship recently completed a five day voyage with an all woman crew and on her arrival in Port Elizabeth Harbor was guided into port by a woman harbor pilot.   As part of National … Continue reading &rarr;"
 ---

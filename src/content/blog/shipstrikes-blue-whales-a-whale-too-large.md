@@ -10,6 +10,7 @@ tags:
   - "blue whales"
   - "California Blue Whales"
   - "shipstrikes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/bluewhale1.jpg"
 author: "Rick Spilman"
 description: "There is good and bad news about California blue whales. The good news is that the number of whales along the west coast of North America has rebounded to close to levels prior to whaling.  The bad news is that … Continue reading &rarr;"
 ---

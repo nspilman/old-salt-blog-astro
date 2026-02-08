@@ -14,6 +14,7 @@ tags:
   - "bermuda"
   - "captain"
   - "chief engineer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/AEGEAN_ANGEL.jpg"
 author: "Rick Spilman"
 description: "The 160,000 dwt  tanker Aegean Angel was en route from Tallinn, Estonia, to Houston, Texas when it encountered heavy weather northeast of Bermuda on Thursday.  A large wave is reported to have struck the ship, killing the captain and the … Continue reading &rarr;"
 ---

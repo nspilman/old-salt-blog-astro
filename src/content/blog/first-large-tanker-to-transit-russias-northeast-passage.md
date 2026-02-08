@@ -11,6 +11,7 @@ tags:
   - "Arctic"
   - "Baltica"
   - "Northern Sea Route"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/baltica.jpg"
 author: "Rick Spilman"
 description: "Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The Barents Observer reports that the \"100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is … Continue reading &rarr;"
 ---

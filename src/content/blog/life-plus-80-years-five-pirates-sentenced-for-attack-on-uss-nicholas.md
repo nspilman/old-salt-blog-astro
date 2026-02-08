@@ -12,6 +12,7 @@ tags:
   - "Somali pirates"
   - "USS Nicholas"
   - "Virginia court"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/somali-pirates.jpg"
 author: "Rick Spilman"
 description: "On April 1st, last year, fittingly enough, April Fool’s Day, a group of Somali pirates in open boats decided to attack the 445-foot guided-missile frigate, USS Nicholas.  The outcome was predictable.   Five pirates were captured and their boats were sunk.   At the … Continue reading &rarr;"
 ---

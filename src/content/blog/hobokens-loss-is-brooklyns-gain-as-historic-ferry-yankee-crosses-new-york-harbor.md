@@ -14,6 +14,7 @@ tags:
   - "Metropolitan Waterfront Alliance"
   - "tanker MARY A. WHALEN"
   - "Victoria and Richard Mackenzie-Childs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/yankkeferry1.jpg"
 author: "Rick Spilman"
 description: "About two years, ago we posted about two historic vessels in New York harbor, the ferry Yankee and the tanker Mary Whalen.  In the space of two days, two different real estate and design publications featured articles about the grand … Continue reading &rarr;"
 ---

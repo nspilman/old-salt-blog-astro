@@ -14,6 +14,7 @@ tags:
   - "K-84"
   - "Murmansk"
   - "R-29 intercontinental ballistic missiles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Yekaterinburg.jpg"
 author: "Rick Spilman"
 description: "According to the Russian magazine Vlast, \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\"  when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Case Inlet"
   - "Puget Sound"
   - "Washington State"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/deadwhale2.jpg"
 author: "Rick Spilman"
 description: "What appears to be the carcass of a Bryde’s whale has washed ashore in Case Inlet in Puget Sound in Washington State.   If it is a Bryde’s whale, it is a mystery what a whale that favors tropical waters was doing … Continue reading &rarr;"
 ---

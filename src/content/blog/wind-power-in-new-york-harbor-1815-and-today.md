@@ -16,6 +16,7 @@ tags:
   - "wind mill"
   - "wind power"
   - "wind turbine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/windmills1.jpg"
 author: "Rick Spilman"
 description: "The first wind turbine has been installed in Brooklyn. Wind power, however, has a 200 year history in NY harbor, dating back to at least 1815."
 ---

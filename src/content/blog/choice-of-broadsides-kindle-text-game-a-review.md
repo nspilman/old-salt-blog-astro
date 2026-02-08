@@ -10,6 +10,7 @@ tags:
   - "Choice of Broadsides"
   - "Georgian Naval fiction"
   - "Kindle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/broadside.jpg"
 author: "Rick Spilman"
 description: "Before video games and personal computers, there were gamebooks.  They were novels where at critical scenes you as the reader were given a series a choices.   \"A troll comes out of the cave carrying a large club. You will … Continue reading &rarr;"
 ---

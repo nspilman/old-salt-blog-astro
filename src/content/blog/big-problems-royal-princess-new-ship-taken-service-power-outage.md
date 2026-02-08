@@ -12,6 +12,7 @@ tags:
   - "power outage"
   - "Princess Cruises"
   - "Royal Princess"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/Royal_Princess1.jpg"
 author: "Rick Spilman"
 description: "If you take a cruise on a ship owned by Carnival, you may want to bring along a flashlight. The newest Princess Cruises ship, the Royal Princess, suffered a power outage while sailing between Mykonos and Naples.  Power was reported to … Continue reading &rarr;"
 ---

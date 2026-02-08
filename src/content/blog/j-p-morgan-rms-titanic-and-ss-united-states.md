@@ -12,6 +12,7 @@ tags:
   - "J.P. Morgan"
   - "RMS Titanic"
   - "SS United States"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/jpmorganships.jpg"
 author: "Rick Spilman"
 description: "What does J.P. Morgan, the American financier, and the passenger ships, RMS Titanic and SS United States have in common? Everyone knows that White Star Line, the owner of the RMS Titanic, was a British Company. Fewer are aware that White … Continue reading &rarr;"
 ---

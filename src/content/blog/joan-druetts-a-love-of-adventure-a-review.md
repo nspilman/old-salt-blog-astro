@@ -9,6 +9,7 @@ categories:
 tags:
   - "A Love of Adventure"
   - "Joan Druett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/loveofadventure.jpg"
 author: "Rick Spilman"
 description: "Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s \"A Love of Adventure\" is just such a tale, … Continue reading &rarr;"
 ---

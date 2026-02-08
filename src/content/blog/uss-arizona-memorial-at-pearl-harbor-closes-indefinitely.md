@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Arizona Memorial"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/arizonamem1.jpg"
 author: "Rick Spilman"
 description: "The USS Arizona Memorial at Pearl Harbor has been closed indefinitely after serious structural cracks were discovered.  The memorial was built in 1962 and is positioned athwartship over the wreckage of the sunken battleship USS Arizona. The monument is only accessible by shuttle … Continue reading &rarr;"
 ---

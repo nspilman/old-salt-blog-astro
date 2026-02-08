@@ -14,6 +14,7 @@ tags:
   - "Secretary of the Navy"
   - "Thomas Harker"
   - "Virginia Class"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/ussvirginia.jpg"
 author: "Rick Spilman"
 description: "The US Navy is having a problem with its Virginia-class fast attack submarines. Secretary of the Navy Thomas Harker told the Senate Armed Services Committee that some parts are wearing out far faster than expected. The Navy has had to … Continue reading &rarr;"
 ---

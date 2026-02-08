@@ -6,6 +6,7 @@ excerpt: "Another case of \"I read it on the internet so it must be true.\" The 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/utahwhale.jpg"
 author: "Rick Spilman"
 description: "Reports of a humpback whale found dead in a Utah farmer's posted on an internet spoof site tied up local 911 emergency phone lines."
 ---

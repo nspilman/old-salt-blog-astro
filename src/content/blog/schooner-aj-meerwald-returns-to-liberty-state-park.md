@@ -11,6 +11,7 @@ tags:
   - "A.J. Meerwald"
   - "New Jersey's official Tall Ship"
   - "new york harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/meerwald-1.jpg"
 author: "Rick Spilman"
 description: "New Jersey’s Official  Tall Ship, the A.J. MEERWALD, is returning to New York  harbor.   She is docking at Liberty State Park in Jersey City today and will be staying through July 6th.   The Meerwald will be offering New York harbor … Continue reading &rarr;"
 ---

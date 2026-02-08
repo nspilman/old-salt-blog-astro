@@ -11,6 +11,7 @@ tags:
   - "Captain Richard Bailey"
   - "Doug Faunt"
   - "Spirit of South Carolina."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/spirtscbow.jpg"
 author: "Rick Spilman"
 description: "Congratulations to the schooner Spirit of South Carolina and all who sail and support her! After languishing for years, the schooner has new owners, a new captain and officers and was recently re-certified to carry passengers by the US Coast … Continue reading &rarr;"
 ---

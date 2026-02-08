@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/AMMO1_19079.jpg"
 author: "Rick Spilman"
 description: "Crates of live munition,s from the 1870s and WWII, found dumped in lake George recall a dark history of past bloodshed."
 ---

@@ -11,6 +11,7 @@ tags:
   - "fishing boat"
   - "Princess Cruise Lines"
   - "Star Princess"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/princess_logo.jpg"
 author: "Rick Spilman"
 description: "Princess Cruises said it deeply regrets that its ship the Star Princess passed by a fishing boat adrift in the Pacific Ocean and failing to rescue the dying men on board. The cruise line is blaming a \"breakdown in communication,\" claiming … Continue reading &rarr;"
 ---

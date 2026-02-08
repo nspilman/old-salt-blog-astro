@@ -5,6 +5,7 @@ slug: "missing-sailor%e2%80%99s-yacht-and-dog-found"
 excerpt: "Paul Janse van Rensburg’s sailboat, Tafadzwa, was found drifting near the Chatham Islands in the Pacific east of New Zealand.  A search of the boat found van Rensburg’s dog  alive and the boat’s life raft still aboard.   No sign was found … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/missingyacht.jpg"
 author: "Rick Spilman"
 description: "Paul Janse van Rensburg’s sailboat, Tafadzwa, was found drifting near the Chatham Islands in the Pacific east of New Zealand.  A search of the boat found van Rensburg’s dog  alive and the boat’s life raft still aboard.   No sign was found … Continue reading &rarr;"
 ---

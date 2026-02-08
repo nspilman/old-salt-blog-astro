@@ -12,6 +12,7 @@ tags:
   - "Hawaii"
   - "Line Islands"
   - "SV Kwai"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/svkwai.jpg"
 author: "Rick Spilman"
 description: "We recently posted about crewing opportunities for the auxiliary-sail trading vessel Tiare Taporo operating from the Cook Islands. The Tiare Taporo is, however, not the only commercial sailing vessel serving the Cook islands. The SV Kwai will soon be departing on its 45th voyage from Hawaii calling … Continue reading &rarr;"
 ---

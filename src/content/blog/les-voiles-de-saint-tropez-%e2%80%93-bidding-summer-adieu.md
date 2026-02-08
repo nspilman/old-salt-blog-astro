@@ -11,6 +11,7 @@ tags:
   - "Les Voiles de Saint-Tropez"
   - "Mediterranean"
   - "Saint-Tropez"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/22acaytrop.jpg"
 author: "Rick Spilman"
 description: "Saint-Tropez Races Bid Summer Adieu According to legend, a bet in 1981 between two yachtsmen at a fashionable Saint-Tropez restaurant led to a race between Pride, an American-owned Swan 44 sailboat and Ikra, a French-owned International 12-meter rival. On Sunday, … Continue reading &rarr;"
 ---

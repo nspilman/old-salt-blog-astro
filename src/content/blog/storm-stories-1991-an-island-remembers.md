@@ -12,6 +12,7 @@ tags:
   - "Nantucket Shipwreck &amp; Lifesaving Museum"
   - "Storm Stories! 1991: An Island Remembers"
   - "The No-Name Storm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/nsl_logo_main.jpg"
 author: "Rick Spilman"
 description: "What looks like a  great exhibition, \"Storm Stories! 1991: An Island Remembers\" opened yesterday at the Nantucket Shipwreck & Lifesaving Museum and will run through October 10, 2011.   The exhibition commemorats the 20th anniversaries of Hurricane Bob and The No-Name Storm. The Egan … Continue reading &rarr;"
 ---

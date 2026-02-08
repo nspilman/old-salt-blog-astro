@@ -13,6 +13,7 @@ tags:
   - "Halifax"
   - "Theodore Tugboat"
   - "Thomas the Tank Engine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/theodore2.jpg"
 author: "Rick Spilman"
 description: "While New York may have a great yearly tug boat race, I recently discovered that Halifax harbor has a real Theodore Tugboat. In the 1990s, \"Theodore Tugboat\", was a Canadian kid’s TV show about a harbor tug in the \"Big Harbor\".  In the … Continue reading &rarr;"
 ---

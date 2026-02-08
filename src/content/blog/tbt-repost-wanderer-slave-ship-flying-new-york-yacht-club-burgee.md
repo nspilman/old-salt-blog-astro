@@ -12,6 +12,7 @@ tags:
   - "New York Yacht Club"
   - "slave trade"
   - "Wanderer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/USS_Wanderer_1857.jpg"
 author: "Rick Spilman"
 description: "For Throw-Back Thursday (TBT) here is a repost of an unlikely bit of history which we posted three years ago.   The schooner yacht Wanderer was built in 1857 for Colonel John D. Johnson, a New Orleans sugar baron. At just over … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "Tanker May Whalen"
   - "Timberwind Schooner"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/constitutionstorm.jpg"
 author: "Rick Spilman"
 description: "Hurricane Irene has swept past, not as bad as she could have been, but bad enough, nevertheless.  Downgraded to a tropical storm by 9AM this morning, she still caused significant flooding on the East coast, hitting  Philadelphia  particularly hard. The city, situated between the Delaware … Continue reading &rarr;"
 ---

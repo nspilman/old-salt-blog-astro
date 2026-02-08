@@ -12,6 +12,7 @@ tags:
   - "Pacifica State Beach"
   - "Sausalito"
   - "thieves"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Yacht-Ashore.jpg"
 author: "Rick Spilman"
 description: "Two men and a woman brought pizza and beer aboard the 82′ sailing yacht Darlin in the Sausalito Yacht Harbor late Sunday or early Monday and proceeded to take the boat to sea, only to run aground in shallow water near Pacifica State … Continue reading &rarr;"
 ---

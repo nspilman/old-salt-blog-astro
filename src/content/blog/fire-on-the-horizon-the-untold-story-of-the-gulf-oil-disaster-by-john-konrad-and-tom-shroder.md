@@ -13,6 +13,7 @@ tags:
   - "gCaptain"
   - "John Konrad"
   - "Tom Shroder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/fireonthehorizon-1.jpg"
 author: "Rick Spilman"
 description: "gCaptain is one of my favorite blogs. It has a done a great job of covering the Deepwater Horizon disaster. Now gCaptain’s John Konrad has written a book, Fire on the Horizon – The Untold Story of the Gulf Oil Disaster, … Continue reading &rarr;"
 ---

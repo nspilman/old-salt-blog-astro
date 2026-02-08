@@ -9,6 +9,7 @@ tags:
   - "Bath Iron Works"
   - "Maine"
   - "USS Zumwalt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/zumwalt1.jpg"
 author: "Rick Spilman"
 description: "The Navy's newest destroyer, the $7.5 billion USS Zumwalt, is designed to be stealthy. This is turning out to be a problem."
 ---

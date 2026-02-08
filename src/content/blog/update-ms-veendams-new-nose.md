@@ -12,6 +12,7 @@ tags:
   - "Falklands"
   - "Holland America Line"
   - "MS Veendam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/veendamnose.jpg"
 author: "Rick Spilman"
 description: "In early January we posted about Holland America Lines’ MS Veendam hitting a Southern Ocean storm, encountering waves of over 30 meters and winds of 70 knots. At the time there was no reported to the ship or injuries to passengers or crew. … Continue reading &rarr;"
 ---

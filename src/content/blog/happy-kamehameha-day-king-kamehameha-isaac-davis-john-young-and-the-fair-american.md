@@ -13,6 +13,7 @@ tags:
   - "Kamehameha Day"
   - "Kamehameha the Great"
   - "Kingdom of Hawaiʻi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/kamehameha.jpg"
 author: "Rick Spilman"
 description: "Happy Kamehameha Day!  In the state of Hawaii, June 11th is celebrated as Kamehameha Day, honoring  Kamehameha the Great, the king who unified the Kingdom of Hawaiʻi in 1810.  The holiday was established in 1871 by King Kamehameha V, Kamehameha’s great grandson. … Continue reading &rarr;"
 ---

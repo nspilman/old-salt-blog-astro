@@ -10,6 +10,7 @@ categories:
 tags:
   - "Blue Mermaid"
   - "Thames sailing barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/bluedophin.jpg"
 author: "Rick Spilman"
 description: "Classic Sailor reports on a new Thames sailing barge: A new sailing barge is a rare sight – but in 1900 there were around 4,000 such barges registered to carry cargo up and down the London river – and the … Continue reading &rarr;"
 ---

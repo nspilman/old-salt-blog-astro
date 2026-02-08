@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/CarnivalDream_t607.jpg"
 author: "Rick Spilman"
 description: "The story sounds disturbingly familiar – a Carnival cruise ship with generator problems, overflowing toilets and passengers sent home from an interrupted cruise. The good new is that the generator failure on the Carnival Dream, the largest cruise ship operated by Carnival … Continue reading &rarr;"
 ---

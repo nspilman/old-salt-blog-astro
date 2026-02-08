@@ -10,6 +10,7 @@ tags:
   - "Donald Cook"
   - "Russian SU24 fighter jets"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/cookbuzz.jpg"
 author: "Rick Spilman"
 description: "The Russians do not appear to like the US Navy operating ships in the Baltic Sea.  On Aprill 11, two unarmed Russian SU24 fighter jets made low attitude passes at the US Navy destroyer USS Donald Cook.  Then, on April 12, two Russian … Continue reading &rarr;"
 ---

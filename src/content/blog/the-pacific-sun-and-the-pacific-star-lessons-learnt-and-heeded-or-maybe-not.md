@@ -11,6 +11,7 @@ tags:
   - "P&amp;O cruise ship"
   - "Pacific Star"
   - "Pacific Sun"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Pacific_Star.jpg"
 author: "Rick Spilman"
 description: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, \"The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
 ---

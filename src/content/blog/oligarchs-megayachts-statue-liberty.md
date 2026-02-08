@@ -13,6 +13,7 @@ tags:
   - "Statue of Liberty"
   - "Vava II"
   - "Vibrant Curiosity"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/libertyyacht.jpg"
 author: "Rick Spilman"
 description: "The arrogance is as impressive as the yachts themselves. Rather than paying for dockage, in recent years, billionaire Russian oligarchs have taken to anchoring their yachts in the public anchorage in front of the Statue of Liberty while in New … Continue reading &rarr;"
 ---

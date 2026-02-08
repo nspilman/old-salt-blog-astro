@@ -11,6 +11,7 @@ tags:
   - "Dragens Vinge"
   - "EPIRB"
   - "Viking longboat replica"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/longboat.jpg"
 author: "Rick Spilman"
 description: "The Viking longboat replica, Dragens Vinge, is reported to have broken up in a gale while on a voyage from Norway to Lerwick.  The crew was rescued by helicopter fifty miles 50 miles east of Shetland after they activated the Emergency Position Indicating Radio Beacon … Continue reading &rarr;"
 ---

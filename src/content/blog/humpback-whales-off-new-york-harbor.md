@@ -11,6 +11,7 @@ tags:
   - "new york"
   - "Ship strike"
   - "whale watching"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/alg_hump.jpg"
 author: "Rick Spilman"
 description: "In recent years, there has been a significant increase in the number of whales off New York harbor. In 2011, researchers from Cornell recorded the sounds of fin whale, blue whale, humpback whale, minke whale, sei whale, and the North … Continue reading &rarr;"
 ---

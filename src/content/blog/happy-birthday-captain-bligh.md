@@ -11,6 +11,7 @@ tags:
   - "HMS Bounty"
   - "mutiny on HMS Bounty"
   - "William Bligh"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/WilliamBligh.jpg"
 author: "Rick Spilman"
 description: "On this day in 1754, William Bligh was born. Following the famous mutiny on HMS Bounty, his name would become synonymous with harsh discipline bordering on tyranny.   The mutiny on the Bounty would be only one of four mutinies that Bligh would live … Continue reading &rarr;"
 ---

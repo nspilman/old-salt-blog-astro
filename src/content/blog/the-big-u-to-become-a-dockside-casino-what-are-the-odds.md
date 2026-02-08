@@ -13,6 +13,7 @@ tags:
   - "Foxwoods/Harrod"
   - "Philadelphia"
   - "SS United States"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/bigufoxwoods.jpg"
 author: "Rick Spilman"
 description: "They are two projects in trouble.  One is a group of ship enthusiasts trying to save the rusting hulk of an historic passenger liner and the other, an Indian tribe trying to save a long-delayed casino project. Yesterday, the SS … Continue reading &rarr;"
 ---

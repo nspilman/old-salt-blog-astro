@@ -15,6 +15,7 @@ tags:
   - "Tolani Maritime Institute"
   - "University of British Columbia"
   - "World Ferry Safety Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/WFSA_LOWRESWinningDesign_UBC.jpg"
 author: "Rick Spilman"
 description: "In June, we posted about the Safe Affordable Ferry Design Competition, sponsored by the World Ferry Safety Association, in which student teams from six maritime universities competed to develop a ferry design for a 500 passenger ferry for Bangladesh. Recently the … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Antikythera mechanism"
   - "Titanic"
   - "treasure ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/imrs.jpg"
 author: "Rick Spilman"
 description: "Brendan Foley of the Woods Hole said that the Antikythera wreck is \"the Titanic of the ancient world.\" Good marketing. if not particularly apt."
 ---

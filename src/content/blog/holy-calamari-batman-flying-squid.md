@@ -10,6 +10,7 @@ tags:
   - "Graham Ekins"
   - "Japanese flying squid"
   - "Todarodes pacificus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/flyingsquid.jpg"
 author: "Rick Spilman"
 description: "Though often confused with flying fish, the Japanese flying squid, Todarodes pacificus, uses jet propulsion to leap out of the sea and fly up to 65ft to escape predators.   Graham Ekins, 60, a retired deputy head teacher from Boreham, Essex, … Continue reading &rarr;"
 ---

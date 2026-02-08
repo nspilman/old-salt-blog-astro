@@ -6,6 +6,7 @@ excerpt: "The headline in Live Science sounds like the premise for a bad SyFi ch
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/pacu_2643102b.jpg"
 author: "Rick Spilman"
 description: "The headline in Live Science sounds like the premise for a bad SyFi channel made-for-cable movie – Testicle-Biting Fish  Invading Denmark.  It turns out that a Danish fisherman caught, what is believed to be, a red-bellied pacu, an omnivorous South American freshwater … Continue reading &rarr;"
 ---

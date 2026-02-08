@@ -14,6 +14,7 @@ tags:
   - "Kugluktuk"
   - "Northwest Passage"
   - "Nunavut"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/3457622.bin_.jpg"
 author: "Rick Spilman"
 description: "Stan Roger‘s classic song begins, \"Ah, for just one time I would take the Northwest Passage; to find the hand of Franklin reaching for the Beaufort Sea.\"   Stan died in 1983, but his son, Nathan Rogers, also a singer, recently set … Continue reading &rarr;"
 ---

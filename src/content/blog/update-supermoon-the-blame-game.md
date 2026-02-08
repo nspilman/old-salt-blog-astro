@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "supermoon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/fullmoon_lick_big.jpg"
 author: "Rick Spilman"
 description: "We recently posted \"Beware the Supermoon! Wonder What They Will Blame on it This Time?\"   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and … Continue reading &rarr;"
 ---

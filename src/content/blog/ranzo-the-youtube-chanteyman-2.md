@@ -12,6 +12,7 @@ tags:
   - "Ranzo"
   - "Stan Hugill"
   - "YouTube Chanteyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/hulonclint.jpg"
 author: "Rick Spilman"
 description: "On his YouTube channel, Hulton Clint identifies himself as \"Ranzo, the YouTube Chanteyman.\"  Something over  three years ago he began an ambitious You Tube undertaking : The \"Shanties From the Seven Seas\" project where he sings the chanteys from Stan Hugill’s classic book of … Continue reading &rarr;"
 ---

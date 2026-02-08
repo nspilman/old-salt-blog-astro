@@ -8,6 +8,7 @@ categories:
 tags:
   - "bermuda"
   - "Shark Oil Barometer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/sharkoilbar.jpg"
 author: "Rick Spilman"
 description: "One of the earliest and best ways of predicting the weather was the barometer.  The first to measure changes in atmospheric pressure was developed by Evangelista Torricelli in 1643. By 1668 Robert Hooke recognized that a barometer could foretell storms at sea. … Continue reading &rarr;"
 ---

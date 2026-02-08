@@ -13,6 +13,7 @@ tags:
   - "Pacific Northwest"
   - "Salish Sea"
   - "Southern resident orcas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/salishorcas.jpg"
 author: "Rick Spilman"
 description: "The resident orcas of the Salish Sea are dying. They now number only 75, a 30-year-low. They are being starved as their primary prey, the Chinook, or king salmon, are dying off. They are also being poisoned by pollutants in their waters … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "mystic seaport"
   - "Skin &amp; Bones"
   - "Tattoos in the Life of an American Sailor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/2011_skin_and_bones.jpg"
 author: "Rick Spilman"
 description: "Mystic Seaport is featuring a traveling exhibit from Philadelphia’s Independence Seaport Museum – Skin & Bones,  Tattoos in the Life of an American Sailor. The exhibition runs through September 5, 2011. Skin and Bones – Tattoos in the Life of the American … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/fiddlers-dream-slide.jpg"
 author: "Rick Spilman"
 description: "For anyone wishing to help Kitsap Maritime, the next $100,000 in donations to Kitsap Maritime will be matched by an anonymous donor!"
 ---

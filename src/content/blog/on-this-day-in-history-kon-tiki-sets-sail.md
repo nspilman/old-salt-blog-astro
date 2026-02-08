@@ -11,6 +11,7 @@ tags:
   - "Hōkūleʻa"
   - "Kon-Tiki"
   - "Thor Heyerdahl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/kontiki_raft.jpg"
 author: "Rick Spilman"
 description: "On April 28, 1947, a six-man expedition led by Thor Heyerdahl sailed from Callao, Peru aboard a balsa wood raft named the Kon-Tiki on a 101-day journey across the Pacific Ocean to Polynesia.   Heyerdahl’s book, Kon-Tiki: Across the Pacific by Raft, … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Puerto Princesa"
   - "Tubbataha National Marine Park"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/guardian1.jpg"
 author: "Rick Spilman"
 description: "The minesweeper USS Guardian ran aground early this morning on a reef in the Philippines’ Tubbataha National Marine Park. The park is a World Heritage Site in the Sulu Sea, 640 kilometers (400 miles) southeast of Manila.  USS Guardian is an … Continue reading &rarr;"
 ---

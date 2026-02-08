@@ -13,6 +13,7 @@ tags:
   - "Edward Teach"
   - "flagship"
   - "Queen Anne's Revenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/CannonOne.jpg"
 author: "Rick Spilman"
 description: "This morning we posted about a new video game, Assassins Creed IV : Blag Flag, which takes notable liberties with history.  One of the characters in the game, Edward Thatch, is based on the historical pirate, Edward Teach, better known as … Continue reading &rarr;"
 ---

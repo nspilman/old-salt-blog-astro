@@ -14,6 +14,7 @@ tags:
   - "Sea Venture"
   - "The Tempest"
   - "William Shakespeare"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/seaventure.jpg"
 author: "Rick Spilman"
 description: "The Sea Venture was the flagship of the Third Supply mission to the Jamestown Colony that was wrecked in Bermuda in 1609. A 300-ton ship commissioned by the London Company, she was one of the first single timbered merchantmen built … Continue reading &rarr;"
 ---

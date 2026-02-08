@@ -19,6 +19,7 @@ tags:
   - "Titan"
   - "Titanic"
   - "United States Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/titanpassengers.jpg"
 author: "Rick Spilman"
 description: "Pieces of the Titan submersible were found today on the ocean floor, about 1,600 feet from the bow of the Titanic. The debris was ‘consistent with a catastrophic implosion,’ the Coast Guard says. All five onboard the submersible are believed … Continue reading &rarr;"
 ---

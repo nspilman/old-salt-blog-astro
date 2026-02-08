@@ -14,6 +14,7 @@ tags:
   - "landing ship"
   - "Ropucha-class"
   - "Russian Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/russlandinghipsunk.jpg"
 author: "Rick Spilman"
 description: "Newsweek reports that Ukraine’s latest strike on Russia’s naval forces in the Black Sea was inspired by World War II submarine tactics, according to one Ukrainian military expert, as the Kremlin counts the cost of yet surprise maritime attack. Ivan … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Rubber Duck"
   - "Spreading Joy Around the World"
   - "Tiananmen Square"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/yellowduck1.jpg"
 author: "Rick Spilman"
 description: "In early May, a five story high inflatable rubber duck was set adrift in Hong Kong harbor. The duck was sponsored by the Harbour City shopping mall. Created by the Dutch artist Florentijn Hofman, it was named \"Spreading Joy Around the … Continue reading &rarr;"
 ---

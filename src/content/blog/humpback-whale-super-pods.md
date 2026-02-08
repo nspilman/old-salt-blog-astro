@@ -11,6 +11,7 @@ tags:
   - "humpback"
   - "South Africa"
   - "super-pod"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/hbsuperpod.jpg"
 author: "Rick Spilman"
 description: "Strange and interesting doings in the world of humpback whales. Over the past few years, scientists have observed large numbers of humpback whales feeding together off the southwestern tip of South Africa between St. Helena Bay and Cape Point. While … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Lucy Hughes"
   - "MarinaTex"
   - "University of Sussex"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/marinatexhughes.jpg"
 author: "Rick Spilman"
 description: "Lucy Hughes, a 24-year-old recent engineering graduate of the University of Sussex has won this year’s James Dyson Award for developing a biodegradable plastic from fish waste — the fish scales, skins, and guts discarded from fish processing plants. The material, MarinaTex, … Continue reading &rarr;"
 ---

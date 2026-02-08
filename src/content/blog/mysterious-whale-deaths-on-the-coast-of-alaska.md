@@ -10,6 +10,7 @@ tags:
   - "Alaska"
   - "NOAA"
   - "Whale Deaths"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/bearswhale.jpg"
 author: "Rick Spilman"
 description: "Since May, 30 dead whales have been found along the coast of Alaska. This compares to a total of five dead whales reported for all of last year.  According to the National Oceanic & Atmospheric Administration (NOAA) 11 fin whales, 14 … Continue reading &rarr;"
 ---

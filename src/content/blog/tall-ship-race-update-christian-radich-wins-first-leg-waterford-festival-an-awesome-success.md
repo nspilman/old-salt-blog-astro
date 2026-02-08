@@ -13,6 +13,7 @@ tags:
   - "Irene of Bridgwater"
   - "Tall Ships Race 2011"
   - "Waterford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/waterford1.jpg"
 author: "Rick Spilman"
 description: "The  Tall  Ships Race 2011  is off to a great start.  The race was kicked off with a festival in Waterford, Ireland,  which was declared ‘an awesome success’ by the chairman of Fáilte Ireland, the national tourism authority. (See our previous … Continue reading &rarr;"
 ---

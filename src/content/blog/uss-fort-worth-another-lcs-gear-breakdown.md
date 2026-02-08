@@ -11,6 +11,7 @@ tags:
   - "combining gear"
   - "LCS"
   - "USS Fort Worth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/ussfortworth.jpg"
 author: "Rick Spilman"
 description: "The sad saga of the Littoral Combat Ships (LCS) continues. The USS Fort Worth, the third Freedom Class LCS delivered, was testing its engines at dockside in Singapore and seriously damaged the ship’s combining gear. The LCS have both diesel and … Continue reading &rarr;"
 ---

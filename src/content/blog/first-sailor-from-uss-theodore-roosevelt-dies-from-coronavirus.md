@@ -11,6 +11,7 @@ tags:
   - "Harry S. Truman Carrier Strike Group"
   - "sailor death"
   - "USS Theodore Roosevelt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
 description: "The coronavirus was spreading out of control on the aircraft carrier USS Theodore Roosevelt, docked in Guam. Captain Brett Crozier pleaded with his superiors to evacuate most of the sailors from the ship to try to stem the infection. On … Continue reading &rarr;"
 ---

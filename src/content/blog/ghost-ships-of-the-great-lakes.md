@@ -11,6 +11,7 @@ tags:
   - "ghost ships"
   - "Great Lakes"
   - "National Geographic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Ghost-Ships3.jpg"
 author: "Rick Spilman"
 description: "For those in the US, the National Geographic Channel is featuring a a program \"Ghost Ships of the Great Lakes\" this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
 ---

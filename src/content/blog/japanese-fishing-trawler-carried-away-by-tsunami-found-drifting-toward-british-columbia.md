@@ -16,6 +16,7 @@ tags:
   - "Haida Gwaii"
   - "Japanese Fishing Trawler"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/japanesetralewr.jpg"
 author: "Rick Spilman"
 description: "A 150′ foot long fishing trawler carried away last March by the tsunami off the east coast of Japan has been spotted drifting in the Pacific Ocean, 120 miles off Haida Gwaii, British Columbia, Canada.  About 5 million tons of debris … Continue reading &rarr;"
 ---

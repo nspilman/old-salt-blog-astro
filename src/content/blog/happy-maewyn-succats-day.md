@@ -9,6 +9,7 @@ tags:
   - "Maewyn Succat"
   - "Patrick"
   - "pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/MaewynSuccat-100x145.jpg"
 author: "Rick Spilman"
 description: "We have been posting a lot about piracy and kidnapping recently.  Today is a reminder about how little things change over the centuries.  Somewhere around the year 400 AD, a lad of 16, named Maewyn Succat, was kidnapped by pirates from his home in Britain … Continue reading &rarr;"
 ---

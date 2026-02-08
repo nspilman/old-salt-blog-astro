@@ -15,6 +15,7 @@ tags:
   - "Norway"
   - "Viking"
   - "World's Columbian Exposition"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/viking1893.jpg"
 author: "Rick Spilman"
 description: "In 1893, a copy of the Gokstad ship and sailed from Bergen, Norway to the World's Columbian Exposition in Chicago. The ship has survived to this day."
 ---

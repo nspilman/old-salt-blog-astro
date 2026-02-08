@@ -10,6 +10,7 @@ tags:
   - "Brooklyn Navy Yard"
   - "Open Studio Tour"
   - "Pamela Talese"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/balticsea1.jpg"
 author: "Rick Spilman"
 description: "For close to two hundred years, the Brooklyn Navy Yard was a center for shipbuilding. These days the sprawling site is home to a museum as well as a wide range of light industry. It is also host to quite … Continue reading &rarr;"
 ---

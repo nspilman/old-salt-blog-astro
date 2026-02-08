@@ -11,6 +11,7 @@ categories:
 tags:
   - "Max Hardberger"
   - "Seized"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/seized_.jpg"
 author: "Rick Spilman"
 description: "Max Hardberger’s Seized, a Sea Captains Adventures – Battling Scoundrels and Pirates while Recovering Stolen Ships in the World’s Most Troubled Waters is a fascinating account of one man’s remarkable career and personal journey. In addition to working professionally as … Continue reading &rarr;"
 ---

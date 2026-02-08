@@ -12,6 +12,7 @@ tags:
   - "LMAX Exchange"
   - "Manfred Fritz Bajorat"
   - "SAYO"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/sayo2.jpg"
 author: "Rick Spilman"
 description: "A week ago, we posted about the corpse of a German sailor aboard the yacht SAYO, a Jeanneau Sun Magic 44, which was found adrift off the Philippines on around the end of February.  The body was described as \"mummified,\" … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Great Chesapeake Bay Schooner Race"
   - "Portsmouth"
   - "Virgina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/09start.rmadden.jpg"
 author: "Rick Spilman"
 description: "Around Fells Point and Baltimore’s Inner Harbor will be a glorious place for any schooner lover to be this evening.   There will be a parade of sail of the over forty schooners who are participating the 21st Annual Great Chesapeake Bay … Continue reading &rarr;"
 ---

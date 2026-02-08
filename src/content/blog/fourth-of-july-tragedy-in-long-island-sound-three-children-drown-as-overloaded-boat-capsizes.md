@@ -10,6 +10,7 @@ tags:
   - "Fourth of July fireworks"
   - "Oyster Bay"
   - "Silverton 34"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/silverton34.jpg"
 author: "Rick Spilman"
 description: "We have blogged too often about the loss of life after overcrowded boats capsized off Indonesia, India, Bangladesh and Papau New Guinea.  This week was sad reminder that the problem of overloaded boats is not limited to the developing world.  On Wednesday evening … Continue reading &rarr;"
 ---

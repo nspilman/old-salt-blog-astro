@@ -12,6 +12,7 @@ tags:
   - "Northwest Passage"
   - "Oliver Hazard Perry"
   - "University of Rhode Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/ohpririgging.jpg"
 author: "Rick Spilman"
 description: "This summer, the SSV Oliver Hazard Perry will sail from its homeport of Newport, RI on a five-week expedition to the Canadian Arctic, becoming the first full-rigged sailing ship to sail in the Northwest Passage in more than a century. The University … Continue reading &rarr;"
 ---

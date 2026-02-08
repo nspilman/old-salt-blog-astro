@@ -10,6 +10,7 @@ tags:
   - "Brooklyn"
   - "Coney Island"
   - "Mermaid Parade"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/alg_mermaid.jpg"
 author: "Rick Spilman"
 description: "Happy Solstice to All.  One way that at least some New Yorkers mark the beginning of the summer is to observe or participate in the Mermaid Parade, an event celebrating  the sea and the season, in the Coney Island section … Continue reading &rarr;"
 ---

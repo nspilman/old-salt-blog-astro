@@ -10,6 +10,7 @@ tags:
   - "Cuba-Florida swim"
   - "Diana Nyard"
   - "Portuguese Man o' War"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/PortugueseManOWar.jpg"
 author: "Rick Spilman"
 description: "In August, Diana Nyard attempted to become the first person to swim from Cuba to Florida without the aid of a shark cage.  She gave up that attempt after 29 hours of swimming when adverse winds blew her off course.   … Continue reading &rarr;"
 ---

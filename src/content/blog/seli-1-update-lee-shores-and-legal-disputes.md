@@ -10,6 +10,7 @@ categories:
 tags:
   - "SELI 1"
   - "Table Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/seli1.jpg"
 author: "Rick Spilman"
 description: "Lee shores were long the bane of sailing ships. They are no better for motor vessels who lose their engines or drag their anchors.   Table Bay where the SELI 1 grounded is just such a lee shore and has been a … Continue reading &rarr;"
 ---

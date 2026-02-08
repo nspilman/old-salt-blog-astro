@@ -12,6 +12,7 @@ tags:
   - "icebreaker"
   - "Natural Environment Research Council"
   - "Polar Research Ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Nameboat.jpg"
 author: "Rick Spilman"
 description: "The most popular suggestion by a landslide is \"Boaty McBoatface.\" The tongue-in-cheek moniker won easily with 124,109 votes."
 ---

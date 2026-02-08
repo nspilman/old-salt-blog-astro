@@ -13,6 +13,7 @@ tags:
   - "MS Carnival Triumph"
   - "texas"
   - "U.S. Magistrate Judge John Froeschner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Carnival_Triumph_Half_Moon_.jpg"
 author: "Rick Spilman"
 description: "Update:  The MS Carnival Triumph was allowed to sail as scheduled following last minute negotiations. The 2,758-passenger cruise ship MS Carnival Triumph was supposed to sail today for a five-day cruise to Yucatan and Cozumel. Instead, a Texas judge has ordered the ship … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "EMALS"
   - "steam catapults"
   - "USS Gerald R. Ford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ussford.jpg"
 author: "Rick Spilman"
 description: "In an interview with Time, the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than \"digital catapults\" on the new Gerald R. Ford class of aircraft carriers.  Aside from the limitations inherent in … Continue reading &rarr;"
 ---

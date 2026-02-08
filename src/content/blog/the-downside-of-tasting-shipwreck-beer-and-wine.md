@@ -11,6 +11,7 @@ tags:
   - "beer"
   - "Civil War shipwreck"
   - "wine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/shipwreckwine1.jpg"
 author: "Rick Spilman"
 description: "Recent tastings of shipwreck beer and wine have proven disappointing."
 ---

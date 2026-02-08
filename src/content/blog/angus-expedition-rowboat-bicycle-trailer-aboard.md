@@ -5,6 +5,7 @@ slug: "angus-expedition-rowboat-bicycle-trailer-aboard"
 excerpt: "We recently posted Pedaling on the Water which featured various versions of frames with inflatable pontoons on which one could bolt a bicycle and pedal across the water.   I recently came across a very different take on traveling by boat … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/expeditionrowboat.jpg"
 author: "Rick Spilman"
 description: "We recently posted Pedaling on the Water which featured various versions of frames with inflatable pontoons on which one could bolt a bicycle and pedal across the water.   I recently came across a very different take on traveling by boat … Continue reading &rarr;"
 ---

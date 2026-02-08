@@ -10,6 +10,7 @@ categories:
 tags:
   - "Cosco Asia"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/COSCO_ASIA.jpg"
 author: "Rick Spilman"
 description: "There are reports of an unsuccessful attack on the Cosco Asia, a 10,000 TEU container ship, which was transiting the Suez on Saturday night. As reported by the BBC: Canal authority head Mohab Mamish said a \"terrorist element\" targeted a … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "new-around-the-world-sailing-record-%e2%80%93-franck-cammas-and-groupama-
 excerpt: "We are a week late in noting this but Franck Cammas and and his nine-men crew onboard their 105 ft trimaran, Groupama 3, have won the Jules Verne trophy by setting a new round the world sailing record of  48 days, 7 hours, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/20100322boatgroupama3.jpg"
 author: "Rick Spilman"
 description: "We are a week late in noting this but Franck Cammas and and his nine-men crew onboard their 105 ft trimaran, Groupama 3, have won the Jules Verne trophy by setting a new round the world sailing record of  48 days, 7 hours, … Continue reading &rarr;"
 ---

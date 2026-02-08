@@ -10,6 +10,7 @@ tags:
   - "Solar Cloth Company"
   - "Solar Sail Cloth"
   - "UK Sailmakers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/3172Voile_Brevet1.jpg"
 author: "Rick Spilman"
 description: "UK Sailmakers of France is partnering with the Solar Cloth Company of the UK to develop a mainsail incorporating high efficiency flexible solar cells."
 ---

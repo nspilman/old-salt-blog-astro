@@ -14,6 +14,7 @@ tags:
   - "MV Samho Dream"
   - "ransom"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/Samho_Dream.jpg"
 author: "Rick Spilman"
 description: "The MV Samho Dream, a Korean VLCC,  and  its crew of five South Koreans and 19 Filipinos, was ransomed for $9.5 million dollars.  It had by hijacked by Somali pirates last April.    The MV Golden Blessing, a Singaporean chemical tanker, … Continue reading &rarr;"
 ---

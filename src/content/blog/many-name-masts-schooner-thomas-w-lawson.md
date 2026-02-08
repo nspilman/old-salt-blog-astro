@@ -9,6 +9,7 @@ tags:
   - "iron schooner"
   - "seven-masted schooner"
   - "Thomas W. Lawson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/lawsonsail.jpg"
 author: "Rick Spilman"
 description: "The seven-masted iron schooner Thomas W. Lawson, delivered in 1902, is remembered as the largest schooner ever built and the largest pure sailing vessel, in terms of tonnage, to ever sail.  Mostly, however, she is remembered for her rig. She … Continue reading &rarr;"
 ---

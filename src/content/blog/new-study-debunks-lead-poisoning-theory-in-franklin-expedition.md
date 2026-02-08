@@ -12,6 +12,7 @@ tags:
   - "lead poisoning"
   - "Professor Ron Martin"
   - "University of Western Ontario"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/hi-franklin-skulls-cp-9117292.jpg"
 author: "Rick Spilman"
 description: "Exactly what happened to the ill-fated Franklin expedition remains a mystery.  in 1845, Captain Sir John Franklin, with a crew 129, attempted to traverse the last unnavigated section of the Northwest Passage and never returned.  Some of the bodies expedition crew have been found but the wrecks … Continue reading &rarr;"
 ---

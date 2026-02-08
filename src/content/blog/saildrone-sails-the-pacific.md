@@ -11,6 +11,7 @@ tags:
   - "sailing drone"
   - "Slocum gliders"
   - "trimaran autonomous"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/saildrone.jpg"
 author: "Rick Spilman"
 description: "We have recently posted about Slocum gliders, autonomous underwater vehicles, capable of extended voyages and used by oceanographers to map ocean conditions.  Saildrone, a company in California, has recently launched a 19′ long by 7′ wide autonomous  trimaran sailing drone capable … Continue reading &rarr;"
 ---

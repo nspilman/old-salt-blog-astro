@@ -14,6 +14,7 @@ tags:
   - "Ocean X Team"
   - "Swedish treasure hunters"
   - "Top-Secret"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/balticmfalcon1.jpg"
 author: "Rick Spilman"
 description: "This story just keeps getting stranger.  A year ago last June, the Swedish treasure hunters, Ocean X Team, saw something that they did not understand while doing sonar sweeps of the bottom of the Baltic Sea.   There appeared to be a 200′ diameter … Continue reading &rarr;"
 ---

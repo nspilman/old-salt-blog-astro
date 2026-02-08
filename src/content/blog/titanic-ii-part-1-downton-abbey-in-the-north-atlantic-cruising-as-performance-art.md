@@ -13,6 +13,7 @@ tags:
   - "Clive Palmer"
   - "Intrepid Sea"
   - "Titanic II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/TitanicII.jpg"
 author: "Rick Spilman"
 description: "How should we think about the RMS Titanic? Was the ship, which sank with a loss of over 1,500, a major maritime tragedy? Or was it just the backdrop for a historical drama about wealth and class conflict – a sort of Downton Abbey on the North Atlantic? … Continue reading &rarr;"
 ---

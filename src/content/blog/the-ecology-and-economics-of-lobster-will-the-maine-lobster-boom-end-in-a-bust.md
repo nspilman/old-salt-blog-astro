@@ -10,6 +10,7 @@ tags:
   - "fisheries"
   - "lobster"
   - "Maine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/lobster.jpg"
 author: "Rick Spilman"
 description: "Maine has been experiencing a lobster boom. After catching an average of 20 million pounds of lobster per year for decades, Maine’s 5,500 lobster-men landed a record 125 million pounds of lobsters last year.  Will this boom, however, end in a … Continue reading &rarr;"
 ---

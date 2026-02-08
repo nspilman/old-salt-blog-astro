@@ -12,6 +12,7 @@ tags:
   - "official tall ship of Philadelphia"
   - "Philadelphia Maritime Museum"
   - "Philadelphia Ship Preservation Guild"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/dorygazela1.jpg"
 author: "Tony Souza"
 description: "Tall ship Gazela Primeiro, the official tall ship of Philadelphia, carried 30 dories when it fished the Grand Banks of the Atlantic Ocean. A dory is a small wooden boat used by a solo fisherman who tended a long line … Continue reading &rarr;"
 ---

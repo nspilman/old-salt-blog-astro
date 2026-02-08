@@ -12,6 +12,7 @@ tags:
   - "John Paul Jones"
   - "Ocean Technology Foundation"
   - "USNS HENSON"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/USS_Bonhomme_Richard_1765.jpg"
 author: "Rick Spilman"
 description: "The Ocean Technology Foundation has been searching for John Paul Jones’  famous flagship, the Bonhomme Richard for the last five years.  They now believe that they are closing in on the wreck. On this year’s expedition both the US and French Navies are joining … Continue reading &rarr;"
 ---

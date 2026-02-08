@@ -11,6 +11,7 @@ tags:
   - "foiling"
   - "SeaBubble"
   - "water taxi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/seabubbletest.jpg"
 author: "Rick Spilman"
 description: "A year and a half ago we posted about SeaBubbles — foiling electric water taxis. The idea to develop a five-person water taxi comes from Alain Thébault, the designer and skipper of record-breaking ocean-going hydrofoil Hydroptère. The distance from an idea to implementation, … Continue reading &rarr;"
 ---

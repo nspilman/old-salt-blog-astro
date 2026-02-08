@@ -15,6 +15,7 @@ tags:
   - "Oliver Hazard Perry"
   - "Rhode Island"
   - "USS Revenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/revengeguns.jpg"
 author: "Rick Spilman"
 description: "Two hundred years ago today the USS Revenge, under the command of  Oliver Hazard Perry, sank in the waters off  Rhode Island.   On Friday, divers, Charles Buffum, Mike Fournier and Craig Harger, announced that they believe that they have  located the wreck.   In … Continue reading &rarr;"
 ---

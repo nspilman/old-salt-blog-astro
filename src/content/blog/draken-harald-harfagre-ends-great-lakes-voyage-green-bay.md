@@ -11,6 +11,7 @@ tags:
   - "Duluth"
   - "Green Bay"
   - "Viking longship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/drakensail.jpg"
 author: "Rick Spilman"
 description: "After struggling to raise funds to pay for pilotage fees, the replica Viking longship Draken Harald Hårfagre has ended its voyage in the Great Lakes at Green Bay, WI. Plans to go on to Duluth, Minnesota have been abandoned. A … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Richard Henry Dana"
   - "Toshiba Tall Ships Festival"
   - "Two Years Before the Mast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pilgrim_lg.jpg"
 author: "Rick Spilman"
 description: "The Toshiba Tall Ships Festival at Dana Point this weekend offers a wide range of attractions and activities.  It all starts with a parade of ships and schooners at sunset this evening.  The Brig Pilgrim, the replica of the ship made famous by Richard Henry Dana, has … Continue reading &rarr;"
 ---

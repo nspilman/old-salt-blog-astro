@@ -11,6 +11,7 @@ tags:
   - "Sisters Under Sail"
   - "Topsail Schooner"
   - "unicorn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Leadership-in-Womens-Saili.gif"
 author: "Rick Spilman"
 description: "On a hazy summer’s morning I happened to see the topsail schooner Unicorn leave the gas dock at Liberty Landing marina on the Hudson River.   The Unicorn is a particularly lovely topsail schooner converted from a  North Sea fishing … Continue reading &rarr;"
 ---

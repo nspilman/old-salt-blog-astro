@@ -9,6 +9,7 @@ tags:
   - "Admiral Michelle Howard"
   - "Four Star Admiral"
   - "Vice Chief of Naval Operations"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/VADM_Michelle_Howard_2012.jpg"
 author: "Rick Spilman"
 description: "Last December, we congratulated Admiral Michelle Howard on her nomination to serve as Vice Chief for Naval Operations. The nomination was confirmed and yesterday she was promoted to the number two position in the US Navy. She will be the first woman … Continue reading &rarr;"
 ---

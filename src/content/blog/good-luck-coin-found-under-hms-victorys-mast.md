@@ -13,6 +13,7 @@ tags:
   - "HMS Victory"
   - "masts"
   - "Trafalgar Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/mastcoin.jpg"
 author: "Rick Spilman"
 description: "Happy Trafalgar Day, one day late. A story for Trafalgar Day, plus one. When one of the masts of Nelson’s flagship HMS Victory was removed for restoration work, a conservator found a Victorian-era coin that had been placed beneath the … Continue reading &rarr;"
 ---

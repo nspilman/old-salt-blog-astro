@@ -11,6 +11,7 @@ tags:
   - "Defending New York Harbor: The City's Waterfront Forts"
   - "Lilac"
   - "Richard W. Golden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/golden1.jpg"
 author: "Rick Spilman"
 description: "Defending New York Harbor: The City’s Waterfront Forts is an exhibit of photographs by Richard W. Golden which documents the fortifications that protectively ring New York Harbor. It is on view at the historic Cutter Lilac through July 31st during regular … Continue reading &rarr;"
 ---

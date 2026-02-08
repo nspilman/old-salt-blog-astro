@@ -5,6 +5,7 @@ slug: "tsunami-warning-came-too-late-for-robinson-crusoe-island"
 excerpt: "In early February we observed the anniversary of the rescue of Alexander Selkirk from the tiny island Mas a Tierra,  in the Juan Fernandez archipelago off the coast of Chile. Selkirk would be the model for Defoe’s Robinson Crusoe and Mas a Tierra … Continue reading &rarr;"
 categories:
   - "Current"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/rcisland.jpg"
 author: "Rick Spilman"
 description: "In early February we observed the anniversary of the rescue of Alexander Selkirk from the tiny island Mas a Tierra,  in the Juan Fernandez archipelago off the coast of Chile. Selkirk would be the model for Defoe’s Robinson Crusoe and Mas a Tierra … Continue reading &rarr;"
 ---

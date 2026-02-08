@@ -13,6 +13,7 @@ tags:
   - "MS al-Salam Boccaccio 98"
   - "MV Princess Victoria"
   - "Sewol"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/140416_2p03_sewol.jpg"
 author: "Rick Spilman"
 description: "Are passenger ro-ro ferries inherently unsafe? No one knows why the passenger ro-ro ferry Sewol capsized last Wednesday off the south-west coast of Korea. There are indications that poor crew training and inadequate safety and evacuation procedures may have contributed … Continue reading &rarr;"
 ---

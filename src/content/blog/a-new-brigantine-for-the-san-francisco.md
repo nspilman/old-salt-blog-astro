@@ -12,6 +12,7 @@ tags:
   - "brigantine"
   - "Call of the Sea"
   - "Educational Tall Ship for San Francisco Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/obj600geo343pg7p5.jpg"
 author: "Rick Spilman"
 description: "Alan Olson, a Sausalito boat builder and founder of the educational sailing nonprofit Call of the Sea,  has some ambitious plans.  He wants to build a new 140-foot wood long brigantine to be used as a sail training ship for … Continue reading &rarr;"
 ---

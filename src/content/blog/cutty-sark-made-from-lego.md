@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/dsc04290.jpg"
 author: "Rick Spilman"
 description: "What is it about model ships made of LEGOs?  The little plastic blocks are such an unlikely raw material for model shipbuilding.  Here is a lovely 1:50 scale reproduction of the Cutty Sark created by Henrik Hoexbroe.  Click the photo for  a larger … Continue reading &rarr;"
 ---

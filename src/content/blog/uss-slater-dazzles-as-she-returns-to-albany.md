@@ -12,6 +12,7 @@ tags:
   - "dazzle"
   - "USS Slater"
   - "World War II destroyer escort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/USSSLATERStarboard2014-29138.jpg"
 author: "Rick Spilman"
 description: "In April we posted about the drydocking of USS Slater, the last World War II destroyer escort still afloat in the United States, at  Caddell Dry Dock in Staten Island.  Yesterday, her repairs completed, newly cleaned, and painted, she returned to her … Continue reading &rarr;"
 ---

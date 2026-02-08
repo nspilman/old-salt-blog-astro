@@ -11,6 +11,7 @@ tags:
   - "belaying pin"
   - "l'Hermione"
   - "replica French frigate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/hermionebelayingpin1.jpg"
 author: "Rick Spilman"
 description: "Yesterday friends stopped by our house for drinks and brought an unexpected gift - a belaying pin from l'Hermione."
 ---

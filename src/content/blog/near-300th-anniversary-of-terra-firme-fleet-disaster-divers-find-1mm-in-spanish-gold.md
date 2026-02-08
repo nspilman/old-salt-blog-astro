@@ -15,6 +15,7 @@ tags:
   - "hurricane"
   - "New Spain fleets"
   - "Terra Firme fleet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/1715gold.jpg"
 author: "Rick Spilman"
 description: "Eric Schmitt and his family were diving on the fleet flagship, Capitana, when they found a trove of Spanish gold and silver coins, & gold chain."
 ---

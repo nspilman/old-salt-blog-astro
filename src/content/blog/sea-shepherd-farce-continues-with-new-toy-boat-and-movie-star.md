@@ -17,6 +17,7 @@ tags:
   - "reality TV show"
   - "Sea Shepherds"
   - "Whale Wars"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/interceptor-e.jpg"
 author: "Rick Spilman"
 description: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the \"reality\" TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
 ---

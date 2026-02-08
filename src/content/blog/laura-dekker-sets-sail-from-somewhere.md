@@ -10,6 +10,7 @@ tags:
   - "circumnavigation attempt"
   - "Jessica Watson"
   - "Laura Dekker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekkerdeparts.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker, the Dutch 14 year old, reportedly set sail on Saturday on her attempt to sail around the world alone, at least according to her manager.   Ms. Dekker was originally reported to have departed from Portugal but is now believed to have left via Gibraltar on her 38′ yacht, … Continue reading &rarr;"
 ---

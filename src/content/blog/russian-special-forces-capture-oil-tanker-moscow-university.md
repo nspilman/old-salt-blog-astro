@@ -13,6 +13,7 @@ tags:
   - "Russian anti-submarine destroyer"
   - "Russian Special Forces"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/moscowuniversity.jpg"
 author: "Rick Spilman"
 description: "Close cooperation between the ship’s personnel and the Russian military allowed Russian special forces to storm the captured tanker Moscow University without unduly jeopardizing the safety of the crew. Russian special forces capture oil tanker … Continue reading &rarr;"
 ---

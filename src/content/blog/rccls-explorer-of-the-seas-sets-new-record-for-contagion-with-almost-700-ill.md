@@ -11,6 +11,7 @@ tags:
   - "Explorer of the Seas"
   - "norovirus"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/eothesea2.jpg"
 author: "Rick Spilman"
 description: "It is no doubt not a record that Royal Caribbean would have aspired to. Their ship, Explorer of the Seas, on its voyage from New York harbor to the Eastern Caribbean, from January 21-29, 2014, had the largest outbreak of … Continue reading &rarr;"
 ---

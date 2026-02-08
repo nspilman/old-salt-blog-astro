@@ -12,6 +12,7 @@ tags:
   - "three-masted barquentine"
   - "TS Pelican"
   - "West Indies"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/pelican1.jpg"
 author: "Rick Spilman"
 description: "The headline in the Liverpool Daily Post reads, \"Places available on first Liverpool transatlantic tall ship voyage for more than 100 years.\"   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine Pelican … Continue reading &rarr;"
 ---

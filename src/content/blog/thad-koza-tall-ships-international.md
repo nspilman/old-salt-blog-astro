@@ -11,6 +11,7 @@ tags:
   - "photography"
   - "Tall &amp; Historic Ships"
   - "Thad Koza"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/tallshipcalendar-300x232.jpg"
 author: "Rick Spilman"
 description: "This afternoon, at the 21st Annual Indie and Small Press Book Fair, I had the pleasure of meeting Thad Koza, a wonderful photographer of tall ships.   I bought a copy of his Tall Ships 2009 Calendar and plan on buying his book, Tall … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Fat Leonard"
   - "Glenn Defense Marine Asia"
   - "Navy Purchasing Scandal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/fatleonard.jpg"
 author: "Rick Spilman"
 description: "Leonard Glenn Francis, known is military circles as \"Fat Leonard,\" pleaded guilty to bribery and conspiracy charges in federal court Thursday."
 ---

@@ -11,6 +11,7 @@ tags:
   - "hudson river"
   - "Poughkeepsie"
   - "Rickenbacker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/rickenbacker.jpg"
 author: "Rick Spilman"
 description: "Recently, we posted about the times when New York harbor froze solid. While that is a very unusual occurrence in New York City, a bit farther up the Hudson River, the river freezing over is a yearly event. In the summertime, before … Continue reading &rarr;"
 ---

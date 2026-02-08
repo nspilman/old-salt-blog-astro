@@ -10,6 +10,7 @@ categories:
 tags:
   - "Haiti"
   - "schooner Wolf"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/Wolf.jpg"
 author: "Rick Spilman"
 description: "A great story from the Yachtpals blog.   Organized by the non-profit group Oceans Watch, a flotilla of at least a dozen yachts loaded with aid for Haiti, led by the 74 foot schooner Wolf, will set sail from Key West on February … Continue reading &rarr;"
 ---

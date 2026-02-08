@@ -10,6 +10,7 @@ tags:
   - "electric hydrofoil"
   - "Quadrofoil"
   - "watercraft"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/Quadrafoilq2.jpg"
 author: "Rick Spilman"
 description: "I hate jet-skis. They are noisy, exhaust-spewing and dangerous. I am amazed that more people don’t get killed by running them into other boats or seawalls, or just by falling off. I recently came across a potential alternative to these … Continue reading &rarr;"
 ---

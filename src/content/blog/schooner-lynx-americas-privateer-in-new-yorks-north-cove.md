@@ -13,6 +13,7 @@ tags:
   - "new york"
   - "North Cove"
   - "top-sail schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/lynxbowwide-125x70.jpg"
 author: "Rick Spilman"
 description: "On an overcast Thursday morning, the 122-foot top-sail schooner Lynx arrived at North Cove in lower Manhattan on the Hudson River. See our recent post. She will be open to the public for dockside tours and sails on Saturday and Sunday, … Continue reading &rarr;"
 ---

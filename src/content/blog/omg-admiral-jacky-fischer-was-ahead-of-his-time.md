@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Language"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/AdmJohnFisher.jpg"
 author: "Rick Spilman"
 description: "Admiral of the Fleet John Arbuthnot \"Jacky\" Fisher, 1st Baron Fisher of Kilverstone, is considered by some to be the second most important figure in British naval history, after Lord Nelson.  An innovator and a strategist who played a key role … Continue reading &rarr;"
 ---

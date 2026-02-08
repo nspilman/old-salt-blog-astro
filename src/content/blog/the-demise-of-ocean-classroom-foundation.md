@@ -12,6 +12,7 @@ tags:
   - "Ocean Classroom Foundation"
   - "Spirit of Massachusetts"
   - "WESTWARD"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/10065561_H13332127-250x250.jpg"
 author: "Rick Spilman"
 description: "Ocean Classroom Foundation, a non-profit organization based in Maine, has run educational programs for students aboard schooners for almost 20 years.  Sadly, it will be closing down at the end of the summer; it’s three schooners will be put up for sale … Continue reading &rarr;"
 ---

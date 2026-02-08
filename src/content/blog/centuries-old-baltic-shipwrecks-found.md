@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/sweden-shipwreck-cp-8285123.jpg"
 author: "Rick Spilman"
 description: "Centuries-old Baltic shipwrecks found A dozen centuries-old shipwrecks — some of them unusually well-preserved — have been discovered in the Baltic Sea by a gas company building an underwater pipeline between Russia and Germany, Swedish experts said Tuesday. The oldest … Continue reading &rarr;"
 ---

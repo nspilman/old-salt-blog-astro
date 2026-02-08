@@ -14,6 +14,7 @@ tags:
   - "Mexico"
   - "overboard"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Allure-of-the-Seas.jpg"
 author: "Rick Spilman"
 description: "On Friday morning, a British passenger was seen falling overboard  fell from the balcony of his cruise ship cabin on the Royal Caribbean cruise ship,  the Allure of the Seas, while cruising off the coast of Mexico, near the island of Cozumel.  The Allure of the Seas with a capacity of … Continue reading &rarr;"
 ---

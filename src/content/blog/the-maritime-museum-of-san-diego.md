@@ -17,6 +17,7 @@ tags:
   - "San Salvador"
   - "Star of India"
   - "steam ferry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/DSC00219.jpg"
 author: "Rick Spilman"
 description: "The first you notice about the Maritime Museum of San Diego are the ships.    When I  visited last week, the 1863 windjammer Star of India was  hove to with two staysails and her spanker set and drawing, and with her … Continue reading &rarr;"
 ---

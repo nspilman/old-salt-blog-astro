@@ -15,6 +15,7 @@ tags:
   - "Renda"
   - "Russian tanker"
   - "USGC icebreaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/rendahealy.jpg"
 author: "Rick Spilman"
 description: "When the sled dog, Balto, arrived with emergency supplies for the icebound town of Nome in 1926, a statue was erected in his honor in New York City’s Central park.  When the Russian ice strengthened tanker Renda, escorted by the USCG’s icebreaker Healy arrive … Continue reading &rarr;"
 ---

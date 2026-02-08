@@ -12,6 +12,7 @@ tags:
   - "Townsend"
   - "washington"
   - "Wooden Boat Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/festival_poster10.jpg"
 author: "Rick Spilman"
 description: "This sounds like a fantastic festival for anyone near Townsend, Washington.  The 34th Annual Wooden Boat Festival, which starts tomorrow and runs through the weekend, features almost 300 wooden vessels on display ranging from small wherries to the 133′ classic schooner Adventuress. Ahoy for Wooden Boat Festival: Tents … Continue reading &rarr;"
 ---

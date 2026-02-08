@@ -11,6 +11,7 @@ tags:
   - "color"
   - "lobsters"
   - "striped"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/ap-rare-blue-lobster_606.jpg"
 author: "Rick Spilman"
 description: "There has been an increase in the number of blue, orange, yellow, calico and albino lobsters showing up in lobster traps these days. No one is sure why."
 ---

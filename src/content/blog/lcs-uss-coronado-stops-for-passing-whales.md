@@ -14,6 +14,7 @@ tags:
   - "gray whales"
   - "Littoral Combat Ship"
   - "USS Coronado"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/lcswhalewatch.jpg"
 author: "Rick Spilman"
 description: "Last Sunday was the second of two weekends of the Dana Point Festival of Whales, which celebrates the annual migration of gray whales which passes the coastal California community. Captain Todd Mansur of Dana Wharf  Whale Watching was following two gray whales, … Continue reading &rarr;"
 ---

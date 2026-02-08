@@ -5,6 +5,7 @@ slug: "the-tale-of-the-mermaid-pods-carnival-awarded-24-million-in-lawsuit-with-
 excerpt: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  \"Mermaid Pods\" on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Pods-vots.jpg"
 author: "Rick Spilman"
 description: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  \"Mermaid Pods\" on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "loading"
   - "Sewol"
   - "stability"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/sewolbow1.jpg"
 author: "Rick Spilman"
 description: "It is not always easy to decipher the news being reported on the tragic sinking of the Korean ferry Sewol , which capsized in the Yellow Sea on April 16, leaving more than 300 dead or missing.  There have been … Continue reading &rarr;"
 ---

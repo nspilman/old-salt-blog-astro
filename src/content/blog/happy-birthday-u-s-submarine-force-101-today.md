@@ -13,6 +13,7 @@ tags:
   - "submarine"
   - "US Navy"
   - "USS Holland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/USS-holland001-300x226.jpg"
 author: "Rick Spilman"
 description: "One hundred and eleven years ago today the US Navy accepted  its first successful submarine, the USS Holland.  The previous November, in New York harbor, the Holland passed the Navy’s tests.  She ran for one mile underwater, surfaced, fired a torpedo then … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Harold 'Dynamite' Payson - Boatbuilder"
   - "Phil Bolger"
   - "writer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/855153.jpg"
 author: "Rick Spilman"
 description: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,\" Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
 ---

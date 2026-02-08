@@ -10,6 +10,7 @@ tags:
   - "Rotterdam"
   - "shipping lanes"
   - "shipping traffic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/shippinglanessmooth-150x112.jpg"
 author: "Rick Spilman"
 description: "From New Scientist:  As new ways of analysing the world around us are developed, new ways to visualise that information are needed.  At the recent Eurographics Symposium, held in Berlin, traffic in shipping traffic near Rotterdam was mapped on both calm and … Continue reading &rarr;"
 ---

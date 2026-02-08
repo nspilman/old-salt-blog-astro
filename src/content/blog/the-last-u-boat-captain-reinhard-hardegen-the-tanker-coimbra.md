@@ -15,6 +15,7 @@ tags:
   - "Reinhard Hardegen"
   - "steam tanker"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/Hardegen.jpg"
 author: "Rick Spilman"
 description: "I recently saw two stories in the press that happen to overlap.  Captain Reinhard Hardegen The first story was the report of the death of Reinhard Hardegen at 105 years old. Hardegen was believed to have been the last surviving German U-boat commander from … Continue reading &rarr;"
 ---

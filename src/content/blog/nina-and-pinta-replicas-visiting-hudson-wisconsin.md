@@ -13,6 +13,7 @@ tags:
   - "Nina"
   - "Pinta"
   - "Wisconsin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ninapinta.jpg"
 author: "Rick Spilman"
 description: "Replicas of two of Christopher Columbus’ ships, the Nina and Pinta, will be visiting Hudson, Wisconsin. The ships will be open to visitors at the Hudson Docks from Friday, Aug. 6, through Monday, Aug. 16. Columbus Ship Replicas Come To Wisconsin The \"Nina\" was … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Helge Ingstad"
   - "Norwegian frigate"
   - "Royal Norwegian Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/sunkennorfrigate.jpg"
 author: "Rick Spilman"
 description: "Overnight, the Norwegian frigate Helge Ingstad slipped beneath the waters of Hjeltefjord near Bergen, Norway. Last Thursday, the frigate was intentionally grounded to prevent it from sinking after it collided with the tanker Sola TS. Despite efforts to stabilize the … Continue reading &rarr;"
 ---

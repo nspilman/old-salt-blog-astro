@@ -12,6 +12,7 @@ tags:
   - "Gloriana"
   - "Queen Elizabeth II"
   - "royal barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/glorianna1.jpg"
 author: "Rick Spilman"
 description: "This has been a busy day for Queen Elizabeth II and the Duke of Edinburgh. They braved heavy rain and driving winds to name the Gloriana, a new 94-foot ornately carved royal barge, decorated with gold leaf. The Gloriana is … Continue reading &rarr;"
 ---

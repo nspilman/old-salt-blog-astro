@@ -14,6 +14,7 @@ tags:
   - "MOL"
   - "Straits of Hormuz"
   - "VLCC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstar-150x101.jpg"
 author: "Rick Spilman"
 description: "Depending on which of the various news reports you read, the MOL 314,016 dwt tanker M. Star suffered either an explosion, was hit by a grenade or was struck by a freak wave caused by an earthquake while transiting the Straits of Hormuz. … Continue reading &rarr;"
 ---

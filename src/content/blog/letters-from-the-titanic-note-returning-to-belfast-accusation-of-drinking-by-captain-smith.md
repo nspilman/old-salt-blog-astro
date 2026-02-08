@@ -14,6 +14,7 @@ tags:
   - "Dr. John Edward Simpson"
   - "Emily Richards"
   - "RMS Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/EJ_Smith.jpg"
 author: "Rick Spilman"
 description: "Two letters from the Titanic are in the news.  One is a letter from Dr. John Edward Simpson, who died when the ship sank,   He wrote to his mother on April 11, 1912, on notepaper headed RMS Titanic, and had it … Continue reading &rarr;"
 ---

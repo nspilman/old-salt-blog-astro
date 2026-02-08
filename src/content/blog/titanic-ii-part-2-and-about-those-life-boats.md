@@ -11,6 +11,7 @@ tags:
   - "lifeboats"
   - "SOLAS"
   - "Titanic II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/titanic-lifeboats-onlook-si.jpg"
 author: "Rick Spilman"
 description: "No discussion of the Titanic II is complete without a mention of the lifeboats. The lack of adequate lifeboats on the original Titanic was a major contributor to the deaths of over 1,500 passengers. Unfortunately, as reported in the press, … Continue reading &rarr;"
 ---

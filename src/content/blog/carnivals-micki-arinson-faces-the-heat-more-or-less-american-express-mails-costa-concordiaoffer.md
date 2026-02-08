@@ -13,6 +13,7 @@ tags:
   - "Costa Concordia"
   - "Miami Heat"
   - "Micki Arinson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/arinson.jpg"
 author: "Rick Spilman"
 description: "Carnival’s CEO & Chairman, Micki Arinson has been criticized for maintaining a low profile following the sinking of the Costa Concordia where over 30 passengers and crew are dead or missing.  Last Friday, he made what was believed to be his … Continue reading &rarr;"
 ---

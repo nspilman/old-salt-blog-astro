@@ -11,6 +11,7 @@ tags:
   - "narco sub"
   - "US Coast Guard"
   - "USCG Cutter Stratton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/uscgcstratton.jpg"
 author: "Rick Spilman"
 description: "The submarine war at sea continues. Last month, the USCG Cutter Stratton intercepted a semi-submersible vessel in the eastern Pacific Ocean around 200 miles south of Mexico, loaded with 16,000 pounds of cocaine, worth an estimated $181 million. Four men were … Continue reading &rarr;"
 ---

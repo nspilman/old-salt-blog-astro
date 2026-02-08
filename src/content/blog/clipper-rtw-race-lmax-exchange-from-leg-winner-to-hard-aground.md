@@ -10,6 +10,7 @@ tags:
   - "aground"
   - "Clipper Round the World"
   - "LMAX Exchange"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/clipperaground.jpg"
 author: "Rick Spilman"
 description: "The Clipper Round the World racer CVA24 LMAX Exchange has suffered an unexpected reversal of fortune. The LMAX Exchange crew handily won the first leg of the race from London to Rio, 100 miles ahead of its closest competitor. Now the boat … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hurricane Earl"
   - "Hurricane Vulnerable &amp; Overdue Cities"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/hurricane-ivan.jpg"
 author: "Rick Spilman"
 description: "Hurricane Earl, or rather tropical storm Earl, spun its way past New York, far enough out to sea so we  had neither wind nor rain to mark his passing.   Having missed this hurricane,  here is an interesting article on Weather.com that lists the … Continue reading &rarr;"
 ---

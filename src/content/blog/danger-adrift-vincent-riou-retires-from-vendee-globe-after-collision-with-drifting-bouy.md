@@ -5,6 +5,7 @@ slug: "danger-adrift-vincent-riou-retires-from-vendee-globe-after-collision-with
 excerpt: "Vincent Riou was forced to retire from the Vendee Globe over the weekend after his boat, PRG, struck a drifting steel buoy, off the coast of South America.  Riou had been in third place in the race and was considered a favorite. Riou came in first in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/prb-vincent-riou-r-645-184.jpg"
 author: "Rick Spilman"
 description: "Vincent Riou was forced to retire from the Vendee Globe over the weekend after his boat, PRG, struck a drifting steel buoy, off the coast of South America.  Riou had been in third place in the race and was considered a favorite. Riou came in first in … Continue reading &rarr;"
 ---

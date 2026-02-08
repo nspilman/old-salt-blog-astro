@@ -11,6 +11,7 @@ tags:
   - "Harbour Court"
   - "New York Yacht Club"
   - "Seamanship Saturday"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/lovelove.jpg"
 author: "Rick Spilman"
 description: "Last weekend, I participated in \"Seamanship Saturday\" at the New York Yacht Club's Harbour Court in Newport, RI."
 ---

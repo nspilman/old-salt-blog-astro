@@ -12,6 +12,7 @@ tags:
   - "Evening Grey Morning Red"
   - "George Jepson"
   - "Quarterdeck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg"
 author: "Rick Spilman"
 description: "A review of Evening Gray Morning Red by George Jepson in the Winter 2018 issue of Quarterdeck: Cracking open Evening Gray Morning Red, Rick Spilman’s new novel, I was hooked by the first paragraph, which took me back four decades to … Continue reading &rarr;"
 ---

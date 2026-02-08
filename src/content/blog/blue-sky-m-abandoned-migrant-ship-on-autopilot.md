@@ -12,6 +12,7 @@ tags:
   - "Italian Coast Guard"
   - "Italian Navy"
   - "Moldavian freighter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/blueskym.jpg"
 author: "Rick Spilman"
 description: "Straight from rescue operations on the ro/ro ferry Norman Atlantic, the Italian coast guard rushed to intercept the Blue Sky M, a Moldavian freighter"
 ---

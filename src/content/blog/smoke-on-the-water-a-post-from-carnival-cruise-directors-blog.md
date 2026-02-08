@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/cruisedirector.jpg"
 author: "Rick Spilman"
 description: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: \"﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.\"   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
 ---

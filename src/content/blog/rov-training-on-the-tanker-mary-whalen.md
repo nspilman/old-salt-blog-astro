@@ -14,6 +14,7 @@ tags:
   - "NYPD"
   - "ROV"
   - "tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/41496_1792892409_8957_n.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the New York Police Department Harbor Unit’s use of ROVs to maintain security in the harbot.  We had missed an amusing post by Portside New York‘s Carolina Salguero on NPYD security training on the MARY A. WHALEN.  From her post: … Continue reading &rarr;"
 ---

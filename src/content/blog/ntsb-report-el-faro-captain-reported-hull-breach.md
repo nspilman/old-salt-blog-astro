@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro3.jpg"
 author: "Rick Spilman"
 description: "Yesterday afternoon, the National Transportation Safety Board (NTSB) released an updated report on their investigation into the sinking of El Faro in Hurricane Joaquin in early October. The report notes: \"In a recorded satellite phone call to the company’s emergency … Continue reading &rarr;"
 ---

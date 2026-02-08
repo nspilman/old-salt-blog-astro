@@ -11,6 +11,7 @@ tags:
   - "Hidden Harbor Tours"
   - "Made in Brooklyn"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hhtours1.jpg"
 author: "Rick Spilman"
 description: "Working Harbor Committee Hidden Harbor Tours® has two great tours coming up, \"Made in Brooklyn\" on June 11th, and a \"Family Fun Day Boat Tour\" on June 20th."
 ---

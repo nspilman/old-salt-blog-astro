@@ -14,6 +14,7 @@ tags:
   - "submarine skipper"
   - "USS Barb"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/180px-RAdm_Eugene_B_Fluckey.jpg"
 author: "Rick Spilman"
 description: "Today is the birthday of Rear Admiral Eugene Bennett Fluckey, known as \"Lucky Fluckey,\" who died in 2007 at the age of 94.   In addition to having one of the truly great nicknames,  he was one of the greatest submarine skippers of … Continue reading &rarr;"
 ---

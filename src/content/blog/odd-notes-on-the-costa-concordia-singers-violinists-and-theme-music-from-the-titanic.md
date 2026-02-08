@@ -14,6 +14,7 @@ tags:
   - "Sandor Feher"
   - "theme music from the titanic"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa_concordia9.jpg"
 author: "Rick Spilman"
 description: "According to survivors’ reports, the band on the deck of the Titanic continued to play after the last boat departed as the ship sank beneath waters of the icy North Atlantic.  Coincidentally, a singer aboard the Costa Concordia, Amelia Leon says that she … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Llolleo Beach"
   - "Ocean Breeze"
   - "San Antonio"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/oceanbreeze.jpg"
 author: "Rick Spilman"
 description: "The bulk carrier Ocean Breeze came shore on Llolleo Beach, near the port of San Antonio, Chile yesterday in high winds and seas.  In a dramatic rescue, all 24 crew members were airlifted off the ship by Chilean Navy helicopters.   No … Continue reading &rarr;"
 ---

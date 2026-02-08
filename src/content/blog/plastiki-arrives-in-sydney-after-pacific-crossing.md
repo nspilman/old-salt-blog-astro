@@ -11,6 +11,7 @@ tags:
   - "Great Pacific Garbage Patch"
   - "Plastiki"
   - "recycled soda bottles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/plastiki2.jpg"
 author: "Rick Spilman"
 description: "We have previously posted about the experimental sailboat Plastiki, built using  12,500 recycled soda bottles.  The craft sailed last March from San Francisco and has now arrived in Sydney, Australia after a voyage of 9,000 miles (15,000 km.) Boat made from plastic bottles completes Pacific voyage … Continue reading &rarr;"
 ---

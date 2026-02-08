@@ -10,6 +10,7 @@ tags:
   - "Honolulu harbor"
   - "Matson"
   - "molasses"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/molasses.jpg"
 author: "Rick Spilman"
 description: "What is worse than an oil spill?  A molasses spill, apparently.  There are ways to clean up after an oil spill, whereas no one knows how clean up spilled molasses.  Earlier this month, a Matson pipeline spilled 1,400 tons (233,000 … Continue reading &rarr;"
 ---

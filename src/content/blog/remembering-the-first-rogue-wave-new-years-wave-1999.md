@@ -10,6 +10,7 @@ tags:
   - "Draupner gas platform"
   - "Draupner wave"
   - "New Year's Day Wave"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/rogue1.jpg"
 author: "Rick Spilman"
 description: "Happy New Year! On New Year’s Day 1995, a sea monster capable of sinking ships and sending sailors to their deaths was documented for the first time.  I am not speaking of a mythical serpent or another beasty, (which may or may … Continue reading &rarr;"
 ---

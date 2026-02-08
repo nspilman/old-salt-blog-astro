@@ -10,6 +10,7 @@ tags:
   - "cephalopod"
   - "marine snow"
   - "vampire squid"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/vampiresquidfromhell.jpg"
 author: "Rick Spilman"
 description: "\"Vampire Squid from Hell\" sounds like a low budget horror movie from the 1950s.  It isn’t. It is a small cephalopod which lives in the deep oceans. There are two important things that one should know about the species with … Continue reading &rarr;"
 ---

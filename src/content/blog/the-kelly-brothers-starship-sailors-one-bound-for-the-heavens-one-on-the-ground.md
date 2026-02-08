@@ -12,6 +12,7 @@ tags:
   - "Mark Kelley"
   - "Scott Kelley"
   - "Starship Sailors"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/220px-Mark_E._Kelly.jpg"
 author: "Rick Spilman"
 description: "Scott Kelley is embarking on a year long voyage on the ISS, while his brother Mark on the ground, will still play an important role in the mission."
 ---

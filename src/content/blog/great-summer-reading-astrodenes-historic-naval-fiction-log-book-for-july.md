@@ -14,6 +14,7 @@ tags:
   - "Seth Hunter"
   - "Steven E. Maffeo"
   - "Tom Grundner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/bookbannerjuly.jpg"
 author: "Rick Spilman"
 description: "A great line-up of Summer reading from Astrodene’s Nautical Log Book for July:   Newly  released  novels include Steven E. Maffeo’s, The Perfect Wreck – Old Ironsides and HMS Java: A Story of 1812, and Tom Grundner’s latest novel in the Sir … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Al-Qaida"
   - "M. Star"
   - "Terrorist Bomb"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/mstar2-150x132.jpg"
 author: "Rick Spilman"
 description: "Inspectors have identified traces of  homemade explosives on the hull of the MOL tanker M. Star, confirming that it was the target of a terrorist attack.    The ship  was struck by an explosion just after midnight on July 28, as the vessel was traveling … Continue reading &rarr;"
 ---

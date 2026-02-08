@@ -10,6 +10,7 @@ categories:
 tags:
   - "deepest diving submersible"
   - "Jiaolong"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Jiaolong.jpg"
 author: "Rick Spilman"
 description: "Jiaolong, 蛟龙, in Chinese folklore, is a shape-shifting water dragon.  For several months this summer the Chinese government has been quietly testing a new submersible, named Jiaolong, designed to dive to 7,000 meters.  If successful, it will be the deepest diving submersible in the world, diving … Continue reading &rarr;"
 ---

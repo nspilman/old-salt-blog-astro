@@ -12,6 +12,7 @@ tags:
   - "manatee"
   - "manatee mating ball"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/manteeCR.jpg"
 author: "Rick Spilman"
 description: "Recently, what is being described as a \"manatee mating ball\" stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the … Continue reading &rarr;"
 ---

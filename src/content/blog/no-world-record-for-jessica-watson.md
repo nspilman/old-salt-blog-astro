@@ -10,6 +10,7 @@ tags:
   - "circumnavigation"
   - "Jessica Watson"
   - "World Sailing Speed Record Council"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Jessica2.jpg"
 author: "Rick Spilman"
 description: "When Jessica Watson arrives back in Australia in a few weeks, she may be the youngest person to have circumnavigated the world non-stop, but she will not necessarily be granted the record for doing so.  According to the rules laid … Continue reading &rarr;"
 ---

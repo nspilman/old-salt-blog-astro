@@ -12,6 +12,7 @@ tags:
   - "Chong Chon Gang"
   - "North Korea"
   - "Panama Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/CHONG_CHONGANG.jpg"
 author: "Rick Spilman"
 description: "The story is dramatic. The North Korean 14,000 dwt bulk carrier Chong Chon Gang was stopped by the Panama Canal Authority. A container, believed to carry undeclared military weapons was found hidden in a cargo of bagged sugar. The Korean … Continue reading &rarr;"
 ---

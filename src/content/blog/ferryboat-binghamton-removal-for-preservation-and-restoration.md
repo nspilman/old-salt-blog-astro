@@ -10,6 +10,7 @@ tags:
   - "Ferryboat Binghamton"
   - "hudson river"
   - "NJ"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/binghamton-starboardsidecrop.jpg"
 author: "Rick Spilman"
 description: "We have been asked to post this public notice seeking interested parties to remove and restore the Ferryboat Binghamton, now aground, flooded and seriously damaged in the Hudson River off Edgewater, NJ.  Interested parties should email FerryboatBinghamton@gmail.com for more information. … Continue reading &rarr;"
 ---

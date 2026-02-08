@@ -12,6 +12,7 @@ tags:
   - "Odyssey Marine Exploration Inc"
   - "SS Central America"
   - "Tommy Thompson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/TTbillboard.jpg"
 author: "Rick Spilman"
 description: "Odyssey got the contract to salvage the SS Central America from a court appointed receiver representing investors in a venture once lead by Tommy Thompson."
 ---

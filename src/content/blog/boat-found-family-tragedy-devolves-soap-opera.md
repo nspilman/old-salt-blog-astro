@@ -12,6 +12,7 @@ tags:
   - "fourteen-year-old boys"
   - "Jupiter inlet"
   - "Perry Cohen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/missingboat.jpg"
 author: "Rick Spilman"
 description: "A 19-foot boat, which has been missing since last July, has been recovered in the Atlantic, restarting the saga of two families’ tragedy involving their two missing sons, lawyers, lawsuits, and suggestions of abduction and foul play. On Friday, July … Continue reading &rarr;"
 ---

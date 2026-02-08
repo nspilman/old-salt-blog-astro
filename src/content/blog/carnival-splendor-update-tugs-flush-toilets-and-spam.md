@@ -12,6 +12,7 @@ tags:
   - "Carnival Splendor"
   - "disabled cruise ship"
   - "USS Ronald Reagan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/helicoptersplendor.jpg"
 author: "Rick Spilman"
 description: "Perhaps the best news for the stranded passengers on the disabled cruise ship, Carnival Splendor, is that the flush toilets aboard are back in service and that the ship is proceeding slowly under tow to the mainland.   Still lacking refrigeration on … Continue reading &rarr;"
 ---

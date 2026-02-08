@@ -13,6 +13,7 @@ tags:
   - "Pacific Schooners"
   - "South Pacific"
   - "Tiare Taporo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/Tiare-Taporo.jpg"
 author: "Rick Spilman"
 description: "Ever dream of sailing the Pacific on an inter-island trading ship? Well, the Auxiliary-Sail Trading Vessel Tiare Taporo, based in the Cook Islands is looking for crew.  This sounds like a fascinating opportunity for the right individuals.  From a notice by Pacific … Continue reading &rarr;"
 ---

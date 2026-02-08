@@ -13,6 +13,7 @@ tags:
   - "New Jersey"
   - "Realtor sign"
   - "sign"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/realtorsignfrance.jpg"
 author: "Rick Spilman"
 description: "Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but \"Diane … Continue reading &rarr;"
 ---

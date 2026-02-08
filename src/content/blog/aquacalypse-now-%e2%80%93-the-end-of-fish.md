@@ -9,6 +9,7 @@ categories:
 tags:
   - "Aquacalypse Now"
   - "World fisheries collapse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/deadfishmag.jpg"
 author: "Rick Spilman"
 description: "Daniel Pauly has an article in this month’s New Republic \"Aquacalypse Now – The End of Fish\".   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing … Continue reading &rarr;"
 ---

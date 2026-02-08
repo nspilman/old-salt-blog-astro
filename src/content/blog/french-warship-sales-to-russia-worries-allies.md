@@ -11,6 +11,7 @@ tags:
   - "France"
   - "Mistral-class assault ships"
   - "Russia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/mistral.jpg"
 author: "Rick Spilman"
 description: "Does politics make for strange shipmates? NATO allies worry about France’s decision to sell big warships to Russia CHAMPAGNE and other French products may soon face declining sales in Tallinn, Tbilisi and places in between. The possible sale by France … Continue reading &rarr;"
 ---

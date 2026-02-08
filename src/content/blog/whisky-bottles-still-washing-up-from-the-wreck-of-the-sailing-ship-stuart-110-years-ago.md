@@ -14,6 +14,7 @@ tags:
   - "Sailing ship"
   - "Stuart"
   - "whisky"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/stuart_bach.jpg"
 author: "Rick Spilman"
 description: "It is not champagne, but whiskey bottles which are still appearing from the sands where the sailing ship Stuart wrecked 110 years ago on Easter Sunday off the Llyn peninsula of Northern Wales. Whisky bottles still being washed up on … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Sponges"
   - "Tim Lenton"
   - "University of Exeter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/1sponge.jpg"
 author: "Rick Spilman"
 description: "All terrestrial life came from the sea, but how did life develop in the ocean? Professor Tim Lenton of the University of Exeter, who led a new study, said: \"There had been enough oxygen in ocean surface waters for over 1.5 … Continue reading &rarr;"
 ---

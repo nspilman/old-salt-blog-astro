@@ -10,6 +10,7 @@ tags:
   - "John Stobart"
   - "National Maritime Historical Society"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/stobart.jpg"
 author: "Rick Spilman"
 description: "Last year the National Maritime Historical Society (NMHS) published a fascinating booklet, John Stobart and the Ships of South Street, which features the pre-eminent maritime artist’s paintings of ships arriving or departing from New York’s South Street docks. At first the presentation struck me as odd.  The … Continue reading &rarr;"
 ---

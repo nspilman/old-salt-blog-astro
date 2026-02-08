@@ -14,6 +14,7 @@ tags:
   - "solarsailor"
   - "SunTech Guosheng"
   - "Suntech Power Holding"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/head-on-from-Luna-ParkII_LR.jpg"
 author: "Rick Spilman"
 description: "Last week at the Shanghai World Expo, the SunTech Guosheng solarsailor, an innovative 31.5 meter solar-powered passenger vessel sailed on its maiden voyage on the Huangpu River.  The vessels is owned by Suntech Power Holdings, the world’s largest producer of … Continue reading &rarr;"
 ---

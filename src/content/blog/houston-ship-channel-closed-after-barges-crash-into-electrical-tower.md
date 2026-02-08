@@ -9,6 +9,7 @@ categories:
 tags:
   - "barge accident"
   - "Houston Ship Channel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Houston_Barge_Accid.jpg"
 author: "Rick Spilman"
 description: "One of the largest port complexes in the US has been shut down since Sunday morning after a barge accident almost knocked a high voltage tower into the Houston Ship Channel.    Over thirty ships have been blocked by the … Continue reading &rarr;"
 ---

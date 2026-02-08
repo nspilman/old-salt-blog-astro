@@ -14,6 +14,7 @@ tags:
   - "Once Upon a Nuclear Ship"
   - "Otto Hahn"
   - "Thomas Michael Conner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/dvd-case.jpg"
 author: "Rick Spilman"
 description: "A new documentary by Thomas Michael Conner, \"Once Upon a Nuclear Ship,\"  tells the story of the NS Savannah, the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, the … Continue reading &rarr;"
 ---

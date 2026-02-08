@@ -16,6 +16,7 @@ tags:
   - "SELI 1"
   - "South Africa"
   - "Turkish bulk carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/Seli-1.jpg"
 author: "Rick Spilman"
 description: "Last week was a bad week for bulk carriers.   The MV Black Rose, a bulk carrier with a crew of  27 which had loaded 23,847 tons of iron ore,  sank near the port of Paradip on the east coast of … Continue reading &rarr;"
 ---

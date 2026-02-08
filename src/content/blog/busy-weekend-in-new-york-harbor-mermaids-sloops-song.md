@@ -14,6 +14,7 @@ tags:
   - "hudson river"
   - "Hudson river sloop"
   - "William Main Doerflinger Memorial Shanty Session"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/8s008menezes.jpg"
 author: "Rick Spilman"
 description: "This will be  busy weekend around the Hudson River and New York harbor.     At Croton Point Park,  on the east bank of the Hudson River, just north of New York City, the Clearwater’s Great Hudson River Revival – … Continue reading &rarr;"
 ---

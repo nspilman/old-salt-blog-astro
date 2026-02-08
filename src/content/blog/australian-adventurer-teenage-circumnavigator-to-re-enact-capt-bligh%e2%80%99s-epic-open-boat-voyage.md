@@ -13,6 +13,7 @@ tags:
   - "Capt William Bligh"
   - "Don McIntyre"
   - "Mike Perham"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/bountyboat.jpg"
 author: "Rick Spilman"
 description: "Australian adventurer Don McIntyre and teenage circumnavigator Mike Perham to re-enact Capt William Bligh’s epic mutiny on the Bounty open boat voyage Australian adventurer and solo round the world sailor, Don McIntyre announced today that Mike Perham, the world’s youngest … Continue reading &rarr;"
 ---

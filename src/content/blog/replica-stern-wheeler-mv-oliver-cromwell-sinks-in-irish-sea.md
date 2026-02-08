@@ -9,6 +9,7 @@ categories:
 tags:
   - "Irish Sea"
   - "MV Oliver Cromwell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/ocromwellsinking.jpg"
 author: "Rick Spilman"
 description: "The replica stern-wheeler MV Oliver Cromwell sank in the Irish Sea while under tow from Gloucester to Northern Ireland. The vessel was reported to have started taking on water 10 miles west of South Stack near Holyhead, Anglesey, on Friday, sinking within three … Continue reading &rarr;"
 ---

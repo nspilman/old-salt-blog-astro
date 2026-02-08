@@ -12,6 +12,7 @@ tags:
   - "9/11"
   - "American Dunkirk"
   - "New York Boatlift"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/boatlift1.jpg"
 author: "Rick Spilman"
 description: "There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part … Continue reading &rarr;"
 ---

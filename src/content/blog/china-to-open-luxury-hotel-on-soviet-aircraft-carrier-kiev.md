@@ -13,6 +13,7 @@ tags:
   - "Russian aircraft carrier"
   - "Tianjin"
   - "Varyag"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/kiev.jpg"
 author: "Rick Spilman"
 description: "The Chinese are opening a 148 room luxury hotel in the refurbished Russian aircraft carrier Kiev.  Since 2004, the aircraft carrier has been part  of what is billed as \"the world’s biggest military theme park\" in Tianjin, a municipality close to Beijing.   The Chinese … Continue reading &rarr;"
 ---

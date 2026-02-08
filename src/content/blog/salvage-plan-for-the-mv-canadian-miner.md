@@ -14,6 +14,7 @@ tags:
   - "Scatarie Island"
   - "scrap yard"
   - "Turkey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/ns-li-barge-scaterie.jpg"
 author: "Rick Spilman"
 description: "What is it about ships being towed to the scrap yard? The MT Phoenix under tow, on her way to the scrap yard last July broke her towing cable and drifted ashore on Salt Rocks in Sheffield Beach, South Africa.  She … Continue reading &rarr;"
 ---

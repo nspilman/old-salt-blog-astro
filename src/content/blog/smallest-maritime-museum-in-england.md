@@ -11,6 +11,7 @@ tags:
   - "Plymouth"
   - "Robert Carter"
   - "Smallest Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/smallmuseum.jpg"
 author: "Rick Spilman"
 description: "We have already seen the two small ships of the Little Brig Sailing Trust.  Now Alaric Bond has passed along an article about Robert Carter of Plymouth and the  Smallest Maritime Museum In England, an only 12ft wide x 6ft museum, packed with nautical items. … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/caribbeanfantasy.jpg"
 author: "Rick Spilman"
 description: "A fire broke out on the passenger/roro ferry Caribbean Fantasy as she was approaching San Juan, Puerto Rico on Wednesday morning. A reported 512 passengers were evacuated from the burning ship, roughly a mile off Puerto Rico’s north coast. The … Continue reading &rarr;"
 ---

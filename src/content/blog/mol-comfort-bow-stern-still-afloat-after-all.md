@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "MOL Comfort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/molcom2.jpg"
 author: "Rick Spilman"
 description: "In our post yesterday we described the MOL Comfort as having \"sunk.\" That was in error. The ship did indeed break in two, but both halves are still afloat, at least according to recent photographs. MRCC MUMBAI: Sections of MOL … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "England"
   - "highways of trash"
   - "Svendborg Maersk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/devonbox.jpg"
 author: "Rick Spilman"
 description: "Last Wednesday, we posted about Svendborg Maersk, which last an estimated 520 containers  in a storm in the Bay of Biscay.  What happened to all the containers that fell overboard?  One of them, loaded with a million cigarettes, may have just washed … Continue reading &rarr;"
 ---

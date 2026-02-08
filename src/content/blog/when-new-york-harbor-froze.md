@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2018/01/eastriver1867.jpg"
 author: "Rick Spilman"
 description: "As we posted recently, the Coast Guard has been busy breaking ice in New York Harbor. The current forecasts suggest that the frigid weather is likely to continue for several more weeks, so the ice breaking is also expected to … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "MV Miner"
   - "Nova Scotia"
   - "Scatarie Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/miner.jpg"
 author: "Rick Spilman"
 description: "Last October, we posted about the MV Miner, ex Canadian Miner, a Great Lakes bulk carrier whose tow rope snapped on the way to the scrap yard. The ship drifted onto Scatarie Island, off the coast of Cape Breton in Nova … Continue reading &rarr;"
 ---

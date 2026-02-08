@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Victory"
   - "Ian G Brennan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/hms-vi61.jpg"
 author: "Rick Spilman"
 description: "We previously posted about a model of the Mayflower crafted from timber believed to used on the original ship that carried the Pilgrims to America.   Alaric Bond passed along an article about a model of the HMS Victory by sculptor and … Continue reading &rarr;"
 ---

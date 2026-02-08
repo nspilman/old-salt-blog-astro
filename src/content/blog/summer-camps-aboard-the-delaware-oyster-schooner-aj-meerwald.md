@@ -11,6 +11,7 @@ tags:
   - "A. J. Meerwald"
   - "Delaware Oyster Schooner"
   - "Summer Camp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/meerwald-1.jpg"
 author: "Rick Spilman"
 description: "I wish that I had been sent to a summer camp aboard a historic schooner when I was a kid. Growing up in Texas, I remember summer camps notable for scrub mesquite trees, cactus and snakes, only some of which were … Continue reading &rarr;"
 ---

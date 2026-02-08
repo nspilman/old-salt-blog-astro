@@ -11,6 +11,7 @@ tags:
   - "Messages in Bottles"
   - "Prince Edward Island"
   - "Social Networking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/messageinabottlee.jpg"
 author: "Rick Spilman"
 description: "Harold Hackett of Prince Edward Island started throwing bottles with messages inside into the Atlantic Ocean in 1996.   Since then he has cast 4,800 bottles into the sea and has received 3,100 responses.   He has received letters back from Africa, Russia, … Continue reading &rarr;"
 ---

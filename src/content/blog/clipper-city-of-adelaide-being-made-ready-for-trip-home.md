@@ -12,6 +12,7 @@ tags:
   - "City of Adelaide"
   - "clipper ship"
   - "HMS Carrick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cityadelaidewebpic.jpg"
 author: "Rick Spilman"
 description: "The clipper ship City of Adelaide (later HMS Carrick), the oldest surviving composite clipper ship in the world, is being made ready for her long trip home to her namesake city in Australia, from her current berth in Irvine, Scotland. Carrick … Continue reading &rarr;"
 ---

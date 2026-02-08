@@ -17,6 +17,7 @@ tags:
   - "Satoshi"
   - "SeaPod"
   - "seasteading"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/satoshi.jpg"
 author: "Rick Spilman"
 description: "The Guardian recently published \"The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.\" Thanks to Joan Druett for pointing it out. In 2020, three cryptocurrency enthusiasts bought a pandemic-bargain cruise ship with plans to create a libertarian utopia, … Continue reading &rarr;"
 ---

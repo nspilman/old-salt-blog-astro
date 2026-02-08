@@ -10,6 +10,7 @@ categories:
 tags:
   - "Commercial Sail"
   - "Shiplore"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/beamon1.jpg"
 author: "Rick Spilman"
 description: "For those near New York harbor next Monday, I will be giving a presentation on \"The Future of Commercial Sail\" at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
 ---

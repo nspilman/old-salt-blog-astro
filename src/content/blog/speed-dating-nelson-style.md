@@ -12,6 +12,7 @@ tags:
   - "National Museum of the Royal Navy"
   - "Portsmouth Historic Dockyard"
   - "speed dating"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/lord-nelson.jpg"
 author: "Rick Spilman"
 description: "Nelson style speed dating?   I hope this doesn’t involve boarding with cutlasses. Unlucky in love? Try speed dating Nelson-style! His romance with mistress Lady Hamilton is the stuff of legend – and singletons will hope to harness some of Lord Nelson’s pulling … Continue reading &rarr;"
 ---

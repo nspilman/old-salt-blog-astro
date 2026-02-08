@@ -12,6 +12,7 @@ tags:
   - "Dog Island"
   - "Hurricane Michael"
   - "Shipwrecks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/1899hurricane.jpg"
 author: "Rick Spilman"
 description: "In 1899, a hurricane carried 15 ships ashore on Dog Island, a barrier island on the northwestern Florida Gulf coast. Recently, Hurricane Micheal unearthed several of the lost ships. The exposed wooden ships now rest in plain view near the west … Continue reading &rarr;"
 ---

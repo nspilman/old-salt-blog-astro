@@ -10,6 +10,7 @@ categories:
 tags:
   - "ghost ship"
   - "MV Lyubov Orlova"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/1-anundatedhan.jpg"
 author: "Rick Spilman"
 description: "For almost a month, the small cruise ship MV Lyubov Orlova has been adrift in the Atlantic Ocean, a \"ghost ship\" without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once … Continue reading &rarr;"
 ---

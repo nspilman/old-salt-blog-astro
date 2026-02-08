@@ -9,6 +9,7 @@ categories:
 tags:
   - "Lord Nelson"
   - "Norwich Castle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/nring.jpg"
 author: "Rick Spilman"
 description: "Personal items owned by Lord Nelson, valued at £37,800, were stolen from a display case at Norwich Castle in a daylight robbery. Plundered! £37,800 worth of Lord Nelson’s personal artefacts stolen from Norwich Castle The items stolen, which have been … Continue reading &rarr;"
 ---

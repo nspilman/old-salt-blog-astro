@@ -12,6 +12,7 @@ tags:
   - "Finland"
   - "Rauma"
   - "Stadiongracht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/u1_1181724.jpg"
 author: "Rick Spilman"
 description: "A lousy time of the year to run aground off Finland. Then again, there aren’t too many good times of the year to run aground.  Thanks to Dick Bal for passing the news along. Dutch freighter \"Stadiongracht\" aground off Rauma … Continue reading &rarr;"
 ---

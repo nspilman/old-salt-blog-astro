@@ -11,6 +11,7 @@ tags:
   - "Hudson"
   - "Sewaren"
   - "steam generator"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/steam-generator.jpg"
 author: "Rick Spilman"
 description: "Rivers have always made the best highways. On Monday, a massive heat-recovery steam generator left the Port of Coeymans, near Albany, on the Hudson River, on a barge bound for a new power plant under construction in Sewaren, NJ. The generator … Continue reading &rarr;"
 ---

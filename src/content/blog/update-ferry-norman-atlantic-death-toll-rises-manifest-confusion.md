@@ -11,6 +11,7 @@ tags:
   - "fire"
   - "Norman Atlantic"
   - "tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/normanafire.jpg"
 author: "Rick Spilman"
 description: "The death toll among passengers and crew from the fire on the Norman Atlantic has risen to ten. Two Albanian sailors died on a tug boat towing the ship."
 ---

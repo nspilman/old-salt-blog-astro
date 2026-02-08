@@ -11,6 +11,7 @@ tags:
   - "new york"
   - "Superfund"
   - "three-eyed catfish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/threeeyedcatfish.jpg"
 author: "Rick Spilman"
 description: "A fisherman recently may or may not have caught a three-eyed catfish in New York's Gowanus Canal, one of the most polluted waterways in the nation."
 ---

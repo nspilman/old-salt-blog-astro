@@ -13,6 +13,7 @@ tags:
   - "synthetic marijuana"
   - "US Navy"
   - "USS Bataan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/story.navy_.spice_.gi_.jpg"
 author: "Rick Spilman"
 description: "\"Spice\" is apparently the generic name for so-called \"synthetic marijuana\" or \"fake pot.\"  In most states,  it is still perfectly legal, though that may be changing.  \"Spice\" is, however, not OK with the US Navy.  At the end of last … Continue reading &rarr;"
 ---

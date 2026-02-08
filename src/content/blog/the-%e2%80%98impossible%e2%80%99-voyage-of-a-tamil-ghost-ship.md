@@ -14,6 +14,7 @@ tags:
   - "Sun Sea"
   - "Tamil"
   - "Tamil Tigers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/tamil-thailand21_834581gm-a.jpg"
 author: "Rick Spilman"
 description: "Despite all odds, earlier this month, 492 Tamil refugees arrived in Vancouver in an old and barely seaworthy ship, then named the Sun Sea.  The Tamil Ghost ship, as she has been dubbed,  had been intermittently tracked by the maritime authorities of various nations as she … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "real-time"
   - "Titanic"
   - "Twitter feed"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/TP_Logo_-_Green_reasonably_small.jpg"
 author: "Rick Spilman"
 description: "The truly Titanic obsessed do not have to wait for the centennial of the tragic sinking of the so-called \"unsinkable\" passenger liner.  They now can follow the Titanic via either a Twitter feed or an iPad app which mark down the events of leading up to … Continue reading &rarr;"
 ---

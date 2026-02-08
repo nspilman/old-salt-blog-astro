@@ -10,6 +10,7 @@ tags:
   - "Admiral Lord Nelson"
   - "HMS Victory"
   - "jam"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2010/07/HMS_VICTORY_2.jpg"
 author: "Rick Spilman"
 description: "Oak flavored jam? Wood from HMS Victory bottled as a jam in a jar Admiral Lord Nelson led HMS Victory out of a few sticky situations, but now the ship finds itself in a bit of a jam. Off-cuts of … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Breast Star of the Order of the Bath"
   - "Lord Nelson"
   - "Trafalgar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/nmedal.jpg"
 author: "Rick Spilman"
 description: "\"Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.\" Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
 ---

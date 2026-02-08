@@ -11,6 +11,7 @@ tags:
   - "Free"
   - "Joan Druet"
   - "The Elephant Voyage"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/07/elephantvoyage.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s The Elephant Voyage is free today and tomorrow, August 7 -8, on Kindle. The Elephant Voyage is a fascinating historical account of a crew who find themselves castaway on a desolate, wind-swept sub-Antarctic island, while on an ill-fated voyage … Continue reading &rarr;"
 ---

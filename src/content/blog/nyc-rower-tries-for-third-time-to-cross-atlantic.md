@@ -10,6 +10,7 @@ tags:
   - "Atlantic Ocean"
   - "rowing"
   - "Victor Mooney"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/nycrower.jpg"
 author: "Rick Spilman"
 description: "We can only wish him the best of luck. The third time may be the charm. NYC rower tries for third time to cross Atlantic There is something about the sea that has caused Victor Mooney to lose all reason. … Continue reading &rarr;"
 ---

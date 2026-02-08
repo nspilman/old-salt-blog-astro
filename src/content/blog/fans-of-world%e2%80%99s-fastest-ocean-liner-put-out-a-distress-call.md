@@ -12,6 +12,7 @@ tags:
   - "Big U"
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/04/sunited.jpg"
 author: "Rick Spilman"
 description: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the \"Big U,\" as she is called, is … Continue reading &rarr;"
 ---

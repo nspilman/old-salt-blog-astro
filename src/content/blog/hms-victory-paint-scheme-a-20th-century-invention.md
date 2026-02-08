@@ -5,6 +5,7 @@ slug: "hms-victory-paint-scheme-a-20th-century-invention"
 excerpt: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is \"an early 20th century invention of what an 18th century warship looked like.\"  Based on their study … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/hms-victory-011.jpg"
 author: "Rick Spilman"
 description: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is \"an early 20th century invention of what an 18th century warship looked like.\"  Based on their study … Continue reading &rarr;"
 ---

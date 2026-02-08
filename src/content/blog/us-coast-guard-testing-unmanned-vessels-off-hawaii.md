@@ -13,6 +13,7 @@ tags:
   - "Saildrone"
   - "Spatial Integration Systems"
   - "USV"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/uscgunmanned.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard Research and Development Center (RDC) has begun testing and evaluation of several unmanned surface vehicles (USVs) off the south shore of Oahu, Hawaii. The testing is scheduled to run through early November, conducted in partnership with … Continue reading &rarr;"
 ---

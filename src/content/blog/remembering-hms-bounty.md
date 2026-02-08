@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "HMS Bounty"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bounty6e-83x125.jpg"
 author: "Rick Spilman"
 description: "The last image of HMS Bounty was brutal – sinking off Cape Hatteras with broken spars, most of the crew in lifeboats and the captain and one crew member missing. Here are a few photos from another time, way back … Continue reading &rarr;"
 ---

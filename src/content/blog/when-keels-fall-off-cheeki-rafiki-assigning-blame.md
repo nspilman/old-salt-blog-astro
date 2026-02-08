@@ -11,6 +11,7 @@ tags:
   - "Douglas Innes"
   - "Frans Maass"
   - "keel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/crmissing-keel.jpg"
 author: "Rick Spilman"
 description: "When the keel on the Cheeki Rafiki, a Beneteau 40.7 sailing yacht, broke off in a storm in the mid-Atlantic in May 2014, the yacht capsized and four UK sailors died. Why did the keel fall off and who was to blame … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "La Belle"
   - "LaSalle"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/b-650x487.jpg"
 author: "Rick Spilman"
 description: "Two years ago we posted about how a team of scientists at the Texas A&M University Center for Maritime Archaeology and Conservation were using freeze-drying to preserve large sections of French explorer’s Robert LaSalle’s flagship, La Belle, which sank in Matagorda Bay in … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Iranian Airbus A300"
   - "mock aircraft carrier"
   - "USS Vincennes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/342558_921.jpg"
 author: "Rick Spilman"
 description: "Lights, camera, mock aircraft carrier.  We posted the other day about a strange mock Nimitz aircraft carrier apparently under construction in an Iranian shipyard.  The Iranian-owned Al-Alam News Network is reporting that the mock-up is being built for a film … Continue reading &rarr;"
 ---

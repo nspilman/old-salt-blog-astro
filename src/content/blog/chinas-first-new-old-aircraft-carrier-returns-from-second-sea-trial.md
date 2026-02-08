@@ -12,6 +12,7 @@ tags:
   - "Russian aircraft carrier"
   - "Shi Lang"
   - "Varyag"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/u1_Stage-Sea-Trials.jpg"
 author: "Rick Spilman"
 description: "Last Sunday the first Chinese aircraft carrier returned from its second round of sea trials. The as of yet unnamed carrier, which reports suggest will be christened Shi Lang, was originally the unfinished Russian aircraft carrier Varyag whose keel was laid … Continue reading &rarr;"
 ---

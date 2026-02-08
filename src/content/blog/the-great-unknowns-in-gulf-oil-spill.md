@@ -12,6 +12,7 @@ tags:
   - "Gulf of Mexico"
   - "Offshore orcas"
   - "Oil spill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/gulforca.jpg"
 author: "Rick Spilman"
 description: "We haven’t posted about the Deepwater Horizon blow-out and spill.  The folks over at the Maritime Texas and the gCaptain blogs have been doing a great job of covering the environmental disaster as it continues to unfold and we have had nothing  to … Continue reading &rarr;"
 ---

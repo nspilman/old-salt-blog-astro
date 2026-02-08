@@ -13,6 +13,7 @@ tags:
   - "oil skimmer"
   - "TMT Shipping Offshore"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/gulf-oil-a-whale-skimmer-mi.jpg"
 author: "Rick Spilman"
 description: "Whale of a skimmer not ready to attack Gulf oil after weekend of testing The behemoth Taiwanese oil skimmer, A Whale, is not yet ready attack the Gulf of Mexico oil spill after a weekend of testing proved inconclusive, said … Continue reading &rarr;"
 ---

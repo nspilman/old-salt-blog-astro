@@ -10,6 +10,7 @@ categories:
 tags:
   - "Morro Bay"
   - "U.S. Coast Guard Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/morobay1.jpg"
 author: "Rick Spilman"
 description: "Jim Turton, from Colchester, Ontario, turned 45 years old today.  Because of the efforts of the officers and crew of the U.S. Coast Guard Cutter Morro Bay, a 140 foot Bay class icebreaker, he just may have a shot at … Continue reading &rarr;"
 ---

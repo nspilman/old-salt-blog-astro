@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipindex_1.jpg"
 author: "Rick Spilman"
 description: "For anyone researching a particular ship,  ShipIndex.org could prove invaluable.   It offers a searchable database with 143,935 entries in the free database and 1,349,574 entries available with premium access. Having done a bit of searching, it looks both easy and powerful. ShipIndex.org … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "average weight per passenger"
   - "regulations"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/fat-guy-on-sinking-boat.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard has updated its regulations, increasing the average weight per passenger for stability and loading calculations of tour and charter boats  from 160 pounds to 185 pounds. Lard ahoy! Coast Guard estimates average weight of cruise passengers has gone up by … Continue reading &rarr;"
 ---

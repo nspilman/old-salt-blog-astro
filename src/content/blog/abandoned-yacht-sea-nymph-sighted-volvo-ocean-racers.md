@@ -11,6 +11,7 @@ tags:
   - "Sea Nymph"
   - "Turn the Tide on Plastic"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/seanymphadrift.jpg"
 author: "Rick Spilman"
 description: "In October of last year, we posted about the rescue of two sailors and their dogs from the yacht, Sea Nymph. The two women were picked up by the dock landing ship USS Ashland roughly 900 miles southeast of Japan. … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Joseph Conrad"
   - "Some Reflections on the Loss of the Titanic"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/220px-Joseph_Conrad_1904.jpg"
 author: "Rick Spilman"
 description: "In June of 1912, Joseph Conrad wrote \"Some Reflections on the Loss of the Titanic\" for the English Review.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little … Continue reading &rarr;"
 ---

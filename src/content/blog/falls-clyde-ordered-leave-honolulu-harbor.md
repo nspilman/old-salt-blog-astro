@@ -12,6 +12,7 @@ tags:
   - "Friends of Falls of Clyde"
   - "Hawaii Department of Transportation Harbors Division"
   - "Honolulu harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/Falls_of_Clyde1.jpg"
 author: "Rick Spilman"
 description: "Sad, if not surprising news. The Hawaii Department of Transportation Harbors Division (HDOT Harbors) has ordered that the 138-year-old sailing ship Falls of Clyde be removed from Honolulu harbor. Previously, in a letter dated June 15th, the Harbor Division had … Continue reading &rarr;"
 ---

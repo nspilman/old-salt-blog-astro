@@ -11,6 +11,7 @@ tags:
   - "Los Angeles"
   - "Shangai"
   - "stowaway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Stowaway-Kitten.JPEG-0ccaf.jpg"
 author: "Rick Spilman"
 description: "Toward the end of June, we posted about the minor media circus that grew out of a report of possible stowaways on the container ship, Ville D’Aquarius, bound for Port Newark. After a multi-agency task force swung into action to investigate, the media … Continue reading &rarr;"
 ---

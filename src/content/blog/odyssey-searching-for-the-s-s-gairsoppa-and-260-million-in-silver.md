@@ -13,6 +13,7 @@ tags:
   - "S.S. Gairsoppa"
   - "silver bullion"
   - "torpedoed"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/ssgairsoppa.jpg"
 author: "Rick Spilman"
 description: "On February 16, 1941 the S.S. Gairsoppa was bound from India to Britain, when she was torpedoed by a German submarine and sank 300 miles southwest of Galway Bay.  In addition to pig iron and tea, she carried silver bullion … Continue reading &rarr;"
 ---

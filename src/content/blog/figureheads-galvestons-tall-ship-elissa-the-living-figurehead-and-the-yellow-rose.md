@@ -15,6 +15,7 @@ tags:
   - "Mary Moody Northen"
   - "texas"
   - "Texas A&amp;M Maritime Academy"
+featuredImage: "http://farm5.staticflickr.com/4088/5091012719_1e4286432d.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about Nannie Dee, the erotic yet frightening witch figurehead on the composite clipper Cutty Sark.   The figurehead on Galveston’s tall ship, the 1887 barque Eliisa, is quite different. When the ship was restored in the early 1980s, she was … Continue reading &rarr;"
 ---

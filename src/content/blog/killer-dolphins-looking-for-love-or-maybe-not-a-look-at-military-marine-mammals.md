@@ -11,6 +11,7 @@ tags:
   - "Military Dolphins"
   - "Navy Marine Mammal Program"
   - "Ukrainian Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/dolph3.jpg"
 author: "Rick Spilman"
 description: "A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: \"Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.\" Killer Dolphins … Continue reading &rarr;"
 ---

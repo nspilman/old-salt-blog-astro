@@ -9,6 +9,7 @@ tags:
   - "America's Cup"
   - "Emirates Team New Zealand"
   - "Oracle Team USA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/oraclebanner.jpg"
 author: "Rick Spilman"
 description: "The comeback by Oracle Team USA has been nothing short of amazing. Oracle appeared to be facing certain defeat, with only one more win needed by Emirates Team New Zealand to clinch the Cup.  Nevertheless, Oracle came back with eight … Continue reading &rarr;"
 ---

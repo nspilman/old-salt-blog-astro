@@ -11,6 +11,7 @@ categories:
 tags:
   - "Blackwell's Homecoming"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/blackwell-135x200.jpg"
 author: "Rick Spilman"
 description: "Blackwell's Homecoming is the third of V.E. Ulett's Blackwell's Adventure series."
 ---

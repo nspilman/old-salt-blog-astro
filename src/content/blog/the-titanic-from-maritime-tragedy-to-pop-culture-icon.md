@@ -12,6 +12,7 @@ tags:
   - "MS Balmoral"
   - "RMS Titanic"
   - "SOLAS"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Titanic_artist_impr_596280b.jpg"
 author: "Rick Spilman"
 description: "Ninety nine years ago today, the RMS Titanic sank after striking an iceberg in the North Atlantic with the loss of 1,517 passengers and crew.  The sinking of the Titanic had a major impact on  ship  operations.     The first International … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Melbourne"
   - "Southern Ocean"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/volvosouthernocean.jpg"
 author: "Rick Spilman"
 description: "The third leg of the Volvo Ocean Race from Cape Town to Melbourne has subjected the fleet to the fury of the Southern Ocean.  With steady winds of 50 knots with gusts to over 60, the seven boats have been surfing … Continue reading &rarr;"
 ---

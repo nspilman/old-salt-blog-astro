@@ -13,6 +13,7 @@ tags:
   - "Olympic torch"
   - "Paris"
   - "Summer Games"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/belemarrives2.jpg"
 author: "Rick Spilman"
 description: "Tens of thousands of people welcomed the Olympic torch Wednesday in the southern French city of Marseille, marking another milestone in the lead-up to the Summer Games in Paris. The flame arrived after a 12-day trip from Greece onboard the … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Fathom"
   - "Havanna"
   - "MV Adonia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/adonia.jpg"
 author: "Rick Spilman"
 description: "After more than a half-century, American cruise passengers have returned to Cuba. Carnival Corporation’s MV Adonia docked in Havanna, Cuba today carrying hundreds of Americans including a few dozen Cuban-born Americans returning to the island for the first time in … Continue reading &rarr;"
 ---

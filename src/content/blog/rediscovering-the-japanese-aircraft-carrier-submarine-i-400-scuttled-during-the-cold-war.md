@@ -16,6 +16,7 @@ tags:
   - "Japanese aircraft-carrier submarine"
   - "Pisces V"
   - "submersible"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/pisces.jpg"
 author: "Rick Spilman"
 description: "Recently, the crew of the the Hawaii Undersea Research Laboratory‘s submersible Pisces V  announced finding the hull of the Japanese mega-submarine I-400  at a depth of 2,300 feet on the sea floor off Hawaii.  The huge submarine survived World War II but … Continue reading &rarr;"
 ---

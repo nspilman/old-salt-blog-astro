@@ -11,6 +11,7 @@ tags:
   - "AMET Majesty"
   - "AMET University"
   - "G K Vasan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/cruise_jpg_651953f.jpg"
 author: "Rick Spilman"
 description: "Earlier this week, Union Shipping Minister G K Vasan officiated at a gathering on board the MV AMET Majesty, India’s first cruise liner.   The ship is also a training ship.  The acronym AMET  stands for \"Academy of Maritime Education and Training.\"  AMET University is operating … Continue reading &rarr;"
 ---

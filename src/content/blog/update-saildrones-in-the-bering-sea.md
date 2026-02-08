@@ -12,6 +12,7 @@ tags:
   - "Dutch Harbor"
   - "NOAA"
   - "Saildrones"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/saildrone.jpg"
 author: "Rick Spilman"
 description: "In January 2014, we posted Saildrone Sails the Pacific, about a 19′ long by 7′ wide autonomous trimaran sailing drone capable of carrying an oceanographic sensor payload of 220 pounds.  In October of 2013, Saildrone-1 set off from San Francisco and arrived 34 days … Continue reading &rarr;"
 ---

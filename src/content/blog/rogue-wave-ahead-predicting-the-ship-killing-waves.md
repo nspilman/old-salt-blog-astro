@@ -17,6 +17,7 @@ tags:
   - "rogue wave"
   - "Themis Sapsis"
   - "Will Cousins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/mitwave.jpg"
 author: "Rick Spilman"
 description: "Engineers from MIT have developed a new means of predicting the formation of rogue waves, which may give mariners a two to three-minute warning."
 ---

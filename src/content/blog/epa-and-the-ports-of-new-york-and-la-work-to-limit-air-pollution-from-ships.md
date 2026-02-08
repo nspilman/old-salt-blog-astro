@@ -14,6 +14,7 @@ tags:
   - "new york"
   - "North American Emission Control Area"
   - "Port of Los Angeles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/container_ship_smoke.jpg"
 author: "Rick Spilman"
 description: "Consider these two statements: Ships are the most energy efficient way to transport goods.  They also have the smallest carbon footprint per ton of any means of transport. Ships are major polluters. One large container ship emits as much sulfur-oxide as fifty million … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "PT boat"
   - "PT-728"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/ptboat1.jpg"
 author: "Rick Spilman"
 description: "Hammacher Schlemmer’s catalog is subtitled: \"Offering the Best, the Only and the Unexpected for 164 years.\" One item for sale certainly qualifies as \"unique.\"  They currently list for sale the World War II PT-728, the only PT boat in existence licensed … Continue reading &rarr;"
 ---

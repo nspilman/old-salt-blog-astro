@@ -8,6 +8,7 @@ categories:
 tags:
   - "Dauphin Island Regatta"
   - "Mobile Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/dauphinis2.jpg"
 author: "Rick Spilman"
 description: "A week ago, tragedy struck at the Dauphin Island Regatta when a powerful squall struck the assembled fleet. Six sailors were lost."
 ---

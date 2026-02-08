@@ -11,6 +11,7 @@ tags:
   - "African refugees"
   - "Italian island"
   - "Lampedusa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/lampedusa.jpg"
 author: "Rick Spilman"
 description: "At least 130 African refugees have died and 200 are still missing after an overloaded boat caught fire and sank off the Italian island of Lampedusa. More than 150 of the migrants have been rescued. Most of those on board were … Continue reading &rarr;"
 ---

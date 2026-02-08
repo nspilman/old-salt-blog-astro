@@ -13,6 +13,7 @@ tags:
   - "duck boat"
   - "maritime manslaughter"
   - "National Transportation Safety Board"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/duck2a.jpg"
 author: "Rick Spilman"
 description: "Last July, a barge pushed by the tug Caribbean Sea struck a disabled tourist \"duck boat\" at anchor in the Delaware River.   Two tourists drowned in the collision.  A report by the National Transportation Safety Board said the tug’s mate Matthew Devlin was on his … Continue reading &rarr;"
 ---

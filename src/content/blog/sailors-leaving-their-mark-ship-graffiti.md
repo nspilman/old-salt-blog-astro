@@ -13,6 +13,7 @@ tags:
   - "medieval churches"
   - "ship graffiti"
   - "Vikings"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/Ships1.jpg"
 author: "Rick Spilman"
 description: "A recent article in PastHorizons – Adventures in Archaeology looks at the images of ships scratched in the stones of medieval churches of England.   This sailor’s graffiti shows a wide range of vessels that would have plied the waters … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Belle of Louisville"
   - "Great Steamboat Race"
   - "Ohio River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/steamboats.jpg"
 author: "Rick Spilman"
 description: "The Ohio River may just be too high to allow the running of the Great Steamboat Race on May 4th, between the Belle of Louisville and the Belle of Cincinnati on May 4.   If the river doesn’t fall, officials are … Continue reading &rarr;"
 ---

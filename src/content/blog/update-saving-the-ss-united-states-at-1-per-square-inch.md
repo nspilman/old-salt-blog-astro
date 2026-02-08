@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/bigu.jpg"
 author: "Rick Spilman"
 description: "In February 2011, we posted that the the SS United States Conservancy had purchased the S.S. United States from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed … Continue reading &rarr;"
 ---

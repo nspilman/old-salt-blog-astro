@@ -11,6 +11,7 @@ tags:
   - "black box"
   - "Remora 6000"
   - "ROV"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Remora.jpg"
 author: "Rick Spilman"
 description: "My first thought was if that is a remora there must be quite a shark out there someplace. Obviously a different type of remora.  The Remora 6000 is a Remotely Operated Vehicle (ROV) that can operate at depths up to 6,000 meters.   … Continue reading &rarr;"
 ---

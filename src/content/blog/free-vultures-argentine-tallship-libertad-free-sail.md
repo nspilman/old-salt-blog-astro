@@ -10,6 +10,7 @@ categories:
 tags:
   - "ARA Libertad"
   - "Argentine Navy training ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/libertadbanner1.jpg"
 author: "Rick Spilman"
 description: "After being tied to the dock for several years, the ARA Libertad, the Argentine Navy’s training ship, is sailing again. For the last three years, the ship has been entangled in a more than decade long battle over Argentine debt related … Continue reading &rarr;"
 ---

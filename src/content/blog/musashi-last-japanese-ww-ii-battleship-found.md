@@ -13,6 +13,7 @@ tags:
   - "Japanese WW II battleship"
   - "Musashi"
   - "Paul Allen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/Musashi_under_fire.jpg"
 author: "Rick Spilman"
 description: "After eight years of searching, a team lead by Microsoft founder and billionaire, Paul Allen, has discovered the wreck of the Japanese battleship Musashi."
 ---

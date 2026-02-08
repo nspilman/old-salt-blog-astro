@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/RAN_subgroup_crest.gif"
 author: "Rick Spilman"
 description: "Last week we posted that the Canadian submarine force’s four vessels were all out of service. Apparently  the  Canadians are not alone in this regard, as the Australian fleet of six submarines also is in no shape to put to sea, as reported by the the Australian. … Continue reading &rarr;"
 ---

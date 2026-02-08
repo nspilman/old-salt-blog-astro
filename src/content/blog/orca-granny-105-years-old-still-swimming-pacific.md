@@ -11,6 +11,7 @@ tags:
   - "j pod"
   - "J2"
   - "Orca"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/grannyj2.jpg"
 author: "Rick Spilman"
 description: "Orcas live in complex multi-generational pods led by a matriarch.  In the pod that scientists have labeled as the \"J pod,\" the matriarchal orca, designated as J2, also-known-as \"Granny\" was recently sighted swimming with her pod off the coast of … Continue reading &rarr;"
 ---

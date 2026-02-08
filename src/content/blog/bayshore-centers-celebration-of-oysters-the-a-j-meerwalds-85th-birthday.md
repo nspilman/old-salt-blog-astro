@@ -10,6 +10,7 @@ categories:
 tags:
   - "A. J. Meerwald"
   - "Bayshore Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/meerwald-1.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the A.J. Meerwald‘s 85th birthday.  On Friday September 13th, the Bayshore Center in Bivalve, NJ will be celebrating oysters as well as the A.J. Meerwald‘s 85th birthday and the 25th Anniversary of the founding of the … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Renda"
   - "Russian tanker"
   - "USCG icebreaking cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Balto.jpg"
 author: "Rick Spilman"
 description: "The Russian tanker Renda and the USCG icebreaking cutter Healy are on a rescue mission to the Alaskan city of Nome. After a major storm prevented a pre-winter fuel delivery by barge, the Russian tanker Renda was chartered to deliver 1.3 … Continue reading &rarr;"
 ---

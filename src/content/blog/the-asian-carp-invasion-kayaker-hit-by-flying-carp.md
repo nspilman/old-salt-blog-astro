@@ -10,6 +10,7 @@ tags:
   - "Asian carp"
   - "flying silver carp"
   - "Missouri River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/0827carp.jpg"
 author: "Rick Spilman"
 description: "Last week, a paddler in a kayak race on the Missouri River was hit on the side of his face by a 20-30 pound jumping carp, almost causing him to capsize. Fortunately he was not seriously injured but had to … Continue reading &rarr;"
 ---

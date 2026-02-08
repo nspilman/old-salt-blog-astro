@@ -11,6 +11,7 @@ tags:
   - "Bonhams"
   - "J. Steven Dews"
   - "painting"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/trafdews1.jpg"
 author: "Rick Spilman"
 description: "The old saying goes that success is the best revenge.  John Stevens Dews failed his ‘A’ level art. (For the non-British, including myself, the ‘A’ level is a public examination in a subject taken for the General Certificate of Education (GCE), usually … Continue reading &rarr;"
 ---

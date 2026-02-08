@@ -16,6 +16,7 @@ tags:
   - "Noel Marshall"
   - "RMS Lusitania"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/article-0-0000D2A300000CB2-493_306x435.jpg"
 author: "Rick Spilman"
 description: "When the Cunard liner RMS Lusitania was sunk by a German submarine during World War I, on May 7, 1915, with the loss of 1,198 passengers and crew, the Germans claimed that the ship was carrying high explosives, which the British … Continue reading &rarr;"
 ---

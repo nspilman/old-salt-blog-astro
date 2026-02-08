@@ -12,6 +12,7 @@ tags:
   - "HMS Bounty Crew Relief Fund"
   - "Lynx Educational Foundation"
   - "Privateer Lynx"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Lynx-and-Bounty-WPB-JW-Photo2-1024x768.jpg"
 author: "Rick Spilman"
 description: "Following the tragic sinking of HMS Bounty, both the HMS Bounty organization and the Lynx Educational Foundation have set up relief funds for the crews and families of those lost on the ship. From the Bounty Facebook page: A Relief … Continue reading &rarr;"
 ---

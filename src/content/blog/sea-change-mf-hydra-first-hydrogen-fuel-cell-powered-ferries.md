@@ -15,6 +15,7 @@ tags:
   - "Norway"
   - "San Francisco"
   - "Sea Change"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/hydra.jpg"
 author: "Rick Spilman"
 description: "Two new ferries, powered by hydrogen fuel cells, have or will soon enter service. In Norway, the MF Hydra, the first liquid hydrogen fuel cell powered ferry entered regular service at the end of March. MF Hydra sails on the … Continue reading &rarr;"
 ---

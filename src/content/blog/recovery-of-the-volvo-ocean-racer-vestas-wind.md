@@ -13,6 +13,7 @@ tags:
   - "Mauritius"
   - "Team Vesta Wind"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/vestaswindship.jpg"
 author: "Rick Spilman"
 description: "Team Vestas Wind has successfully re-floated the 65' yacht and arranged for a geared Maersk container ship to come hoist the wreck aboard."
 ---

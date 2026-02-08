@@ -10,6 +10,7 @@ categories:
 tags:
   - "China"
   - "concrete air craft carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/chi_1819914c.jpg"
 author: "Rick Spilman"
 description: "As we posted last week, the US Navy has five times more aircraft carrier flight deck capacity than the rest of the world combined.   Nevertheless the Chinese have leapt ahead in the construction of a concrete air craft carrier on … Continue reading &rarr;"
 ---

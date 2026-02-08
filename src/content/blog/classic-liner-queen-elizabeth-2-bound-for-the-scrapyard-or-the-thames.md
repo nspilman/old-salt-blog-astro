@@ -13,6 +13,7 @@ tags:
   - "Queen Elizabeth 2"
   - "scrap"
   - "Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/RMSQueenElizabeth2.jpg"
 author: "Rick Spilman"
 description: "Just before Christmas we posted about reports that the Queen Elizabeth 2 had been sold to Chinese scrappers for £20m after plans to convert the ship to a luxury hotel in Dubai fell through. Now there is an eleventh hour proposal to bring … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "MD"
   - "Sultana Downrigging Weekend"
   - "Sultana Education Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/Downrigging-2013-small-boat.jpg"
 author: "Rick Spilman"
 description: "This weekend in Chesterton, MD, the Sultana \"Downrigging Weekend\" will feature tall ships, art, and music in America’s best preserved historic seaports."
 ---

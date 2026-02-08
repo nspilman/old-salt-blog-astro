@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "Great news for supporters of New York’s South Street Seaport Museum which has been in a state of near collapse since February.  The Save our Seaport grassroots organization reports the following: The NYS Attorney General has told the Seaport Museum New York … Continue reading &rarr;"
 ---

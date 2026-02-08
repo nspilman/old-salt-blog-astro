@@ -14,6 +14,7 @@ tags:
   - "Kiel mutiny"
   - "Wilhelmshaven mutiny"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/hl-mutiny-kiel.jpg"
 author: "Rick Spilman"
 description: "The mutiny of the German High Seas Fleet ultimately led to the end of the German Empire and to the establishment of the Weimar Republic."
 ---

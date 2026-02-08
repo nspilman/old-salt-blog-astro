@@ -10,6 +10,7 @@ tags:
   - "humpback whales"
   - "orcas"
   - "seals"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/humpback.jpg"
 author: "Rick Spilman"
 description: "Recently, biologist Nan Hauser was snorkeling in the Cook Islands in the South Pacific, when she was approached by a humpback whale. The whale nudged her forward with its closed mouth, tucked her under its pectoral fin, and even maneuvered … Continue reading &rarr;"
 ---

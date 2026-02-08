@@ -12,6 +12,7 @@ tags:
   - "dazzle faces"
   - "dazzle ships"
   - "face rcognition"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/dazzleships.jpg"
 author: "Rick Spilman"
 description: "We recently posted \"The Dazzle Ships, Then and Now,\" about the use of wild geometric patterns painted on ships, which do nothing to hide the ship, but are/were meant to confuse enemy weapons targeting.  Recently, the artist, designer, and entrepreneur, Adam … Continue reading &rarr;"
 ---

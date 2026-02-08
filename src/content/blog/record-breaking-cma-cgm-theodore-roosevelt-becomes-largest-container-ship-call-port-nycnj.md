@@ -12,6 +12,7 @@ tags:
   - "CMA CGM Theodore Roosevelt"
   - "container ship"
   - "new york"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/teddyroose.jpg"
 author: "Rick Spilman"
 description: "Yesterday morning, the 14,400 TEU container ship, CMA CGM Theodore Roosevelt, sailed under the newly-elevated Bayonne Bridge becoming the largest container ship ever to call on the Port of New York and New Jersey.  She previously set a record as the … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Admiral James Holloway III"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/admholloway.jpg"
 author: "Rick Spilman"
 description: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and \"finally got to landing on that great big carrier in the sky.\" Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
 ---

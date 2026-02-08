@@ -9,6 +9,7 @@ tags:
   - "aircraft carrier"
   - "HMS Queen Elizabeth"
   - "nuclear power"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/hmsqe.jpg"
 author: "Rick Spilman"
 description: "The UK’s latest and greatest new aircraft carrier, HMS Queen Elizabeth is driven not by nuclear power but by fossil fuels. Why is that? The Save the Royal Navy blog has an interesting analysis. Here are a few of the … Continue reading &rarr;"
 ---

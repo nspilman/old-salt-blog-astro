@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Ensign Chuck Hord"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/P1-BF789_PORTRA_DV_20120416.jpg"
 author: "Rick Spilman"
 description: "A portrait of a naval ensign, in a heavy gilt frame, hung in a lonely corridor in the labyrinth that is the Pentagon.   The plaque on the portrait read: ENS CHUCK HORD, USNA, CIRCA 1898, LOST AT SEA 1908 Fortunately for Ensign Hord, he … Continue reading &rarr;"
 ---

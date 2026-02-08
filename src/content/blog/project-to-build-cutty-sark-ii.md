@@ -10,6 +10,7 @@ categories:
 tags:
   - "Cutty Sark II"
   - "Vladimir Martus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/cs11-125x125.jpg"
 author: "Rick Spilman"
 description: "A group of tall ship enthusiasts are attempting raise money to build and sail an exact replica of the great composite clipper ship, Cutty Sark.  The goal is to launch the Cutty Sark II  by November 2019, the 150th anniversary of … Continue reading &rarr;"
 ---

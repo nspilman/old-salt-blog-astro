@@ -9,6 +9,7 @@ tags:
   - "military"
   - "navy"
   - "video"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/wrr.jpg"
 author: "Rick Spilman"
 description: "Despite the implication that nobody in the Navy brass has a sense of humor, there are lots of of fun videos floating around the ‘net made on US Navy ships that suggest otherwise.    My personal favorites all tend to be lip-sincing … Continue reading &rarr;"
 ---

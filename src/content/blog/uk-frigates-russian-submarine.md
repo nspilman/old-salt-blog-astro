@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/hmskent.jpg"
 author: "Rick Spilman"
 description: "Naval ships are very expensive to build and operate and in the best of all possible worlds would never be used.  Nevertheless, they exist for a purpose.  Recently, while taking part in commemorations for the Battle of Jutland centenary, HMS Kent intercepted … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Godavaya"
   - "Periplus of the Erythraean Sea"
   - "Sri Lanka"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Roman-Trade-Ship.jpg"
 author: "Rick Spilman"
 description: "Sometime around the 60 CE, a Greek merchant, whose name is lost to history, wrote a guide, The Periplus of the Erythraean Sea.  Periplus is the Latinization of the Greek word περίπλους (periplous, contracted from periploos), literally \"a sailing-around.\"  While Erythraean literally … Continue reading &rarr;"
 ---

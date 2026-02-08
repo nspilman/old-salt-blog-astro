@@ -11,6 +11,7 @@ tags:
   - "Dauphin Island Regatta"
   - "Fairhope Yacht Club"
   - "Mobile Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/dir2009.jpg"
 author: "Rick Spilman"
 description: "A squall with winds close to 70 knots struck the fleet in the Dauphin Island Regatta. Two sailors are reported to have died and five remain missing."
 ---

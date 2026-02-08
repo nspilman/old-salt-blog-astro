@@ -12,6 +12,7 @@ tags:
   - "Queen Elizabeth II"
   - "royal barge"
   - "Spirit of Chartwell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/barge23.jpg"
 author: "Rick Spilman"
 description: "The first images of the design of the royal barge that will carry the Queen of England down the Thames during her Diamond Jubilee celebrations next year have been published. With no disrespect implied to the Queen, I am a … Continue reading &rarr;"
 ---

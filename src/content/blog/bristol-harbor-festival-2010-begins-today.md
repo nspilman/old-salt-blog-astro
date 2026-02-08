@@ -13,6 +13,7 @@ tags:
   - "Kathleen and May"
   - "Matthew"
   - "Vilma"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/kathleen-and-may.jpg"
 author: "Rick Spilman"
 description: "The Bristol Harbour Festival begins today and runs through the weekend. It is expected to attract over 200,000 people and is one of the biggest free events in the UK.    In addition to Brunel’s SS Great Britain, on permanent … Continue reading &rarr;"
 ---

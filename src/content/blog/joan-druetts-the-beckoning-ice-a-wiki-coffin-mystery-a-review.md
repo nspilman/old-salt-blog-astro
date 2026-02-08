@@ -7,6 +7,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/beckoningice.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s The Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer Betsey of Stonington, homeward bound from \"a short but very profitable season far south of Cape Horn.\" The schooner is … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Jack Tar: Life in Nelson's Navy"
   - "Leslie Adkins"
   - "Roy Adkins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/jacktar.jpg"
 author: "Rick Spilman"
 description: "Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins, subtitled \"the extraordinary lives of ordinary seamen … Continue reading &rarr;"
 ---

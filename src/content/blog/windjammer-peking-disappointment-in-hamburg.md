@@ -11,6 +11,7 @@ tags:
   - "Peking"
   - "South Street Seaport Museum"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Peking_ship_combined.jpg"
 author: "Rick Spilman"
 description: "On Friday, we posted that the windjammer Peking is in need a new home.  The 101 year old four masted steel ship has spent the last 37 years as a museum ship at New York’s South Street Seaport Museum.  The … Continue reading &rarr;"
 ---

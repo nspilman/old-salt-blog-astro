@@ -10,6 +10,7 @@ tags:
   - "Nauticus"
   - "Norfolk"
   - "Schooner Virginia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/svirgina1.jpg"
 author: "Rick Spilman"
 description: "In the Summer of 2014, the schooner Virginia ended her season early. The Virginia Maritime Heritage Foundation which operated the schooner announced that she would be put up for sale.  Now, Nauticus, a maritime-themed science center and museum located on the downtown waterfront in … Continue reading &rarr;"
 ---

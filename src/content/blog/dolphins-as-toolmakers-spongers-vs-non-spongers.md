@@ -11,6 +11,7 @@ tags:
   - "dolphins"
   - "Shark Bay"
   - "Sponges"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/sponger.jpg"
 author: "Rick Spilman"
 description: "While it was long thought that only humans made and used tools, we now know that a variety of apes and monkeys are toolmakers.  Elephants, crows, sea otters and octopus have also been observed making tools.  Now, we can add dolphins … Continue reading &rarr;"
 ---

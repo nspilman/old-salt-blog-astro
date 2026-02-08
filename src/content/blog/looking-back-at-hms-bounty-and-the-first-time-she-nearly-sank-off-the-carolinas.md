@@ -11,6 +11,7 @@ tags:
   - "Coast Guard"
   - "HMS Bounty"
   - "Hurricane Sandy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/bounty-004.jpg"
 author: "Rick Spilman"
 description: "The Coast Guard has issued its final report on the sinking of HMS Bounty in October 2012.  You can read the report here. In the report, there is one oblique reference to 1998 in which \"the Seventh Coast Guard District … Continue reading &rarr;"
 ---

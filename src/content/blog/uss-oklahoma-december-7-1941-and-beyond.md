@@ -13,6 +13,7 @@ tags:
   - "Pearl Harbor"
   - "salvage"
   - "USS Oklahoma"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/oklahomasinks.jpg"
 author: "Rick Spilman"
 description: "On the morning of December 7, 1941, USS Oklahoma was moored at an outside berth in the inner harbor at Pearl Harbor, Hawaii. When the Japanese attacked Pearl Harbor that day, the USS Oklahoma was directly in the flight path of … Continue reading &rarr;"
 ---

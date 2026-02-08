@@ -12,6 +12,7 @@ tags:
   - "Pan American Highway"
   - "pre-historic whales"
   - "whale skeletons"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/chilewhale.jpg"
 author: "Rick Spilman"
 description: "At least 75 whale skeletons, believed to be more than two millions years old, were recently unearthed in the Atacama Desert in Chile, a kilometer away from the ocean.  The find is believed to be the best preserved graveyard of pre-historic whales in the world. Of … Continue reading &rarr;"
 ---

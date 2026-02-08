@@ -13,6 +13,7 @@ tags:
   - "Greenpeace"
   - "piracy"
   - "Prirazlomnaya platform"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/arcticsunrise.jpg"
 author: "Rick Spilman"
 description: "For thirty years, Greenpeace has used \"non-violent direct action\" in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were … Continue reading &rarr;"
 ---

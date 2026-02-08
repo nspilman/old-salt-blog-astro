@@ -12,6 +12,7 @@ tags:
   - "Battle of Cape Santa Maria"
   - "Nuestra Senora de las Mercedes"
   - "Odyssey Marine Exploration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/mercedes.jpg"
 author: "Rick Spilman"
 description: "The Battle of Cape Santa Maria was one of the most controversial naval engagements of the Napoleonic Wars.  The attack on a Spanish treasure fleet on October 5, 1804 by a British squadron, without a declaration of war, was considered to be an act of piracy … Continue reading &rarr;"
 ---

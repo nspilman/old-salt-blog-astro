@@ -10,6 +10,7 @@ tags:
   - "Baby"
   - "Shaggy Dog"
   - "Tampa Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/baby.jpg"
 author: "Rick Spilman"
 description: "OK, this is odd.  A few days after New Years, a fisherman spotted a small dog treading water several miles from shore in Tampa Bay, on the west coast of Florida.  The dog, which was wearing a red collar and a pink … Continue reading &rarr;"
 ---

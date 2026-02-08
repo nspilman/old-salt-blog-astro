@@ -14,6 +14,7 @@ tags:
   - "Paris"
   - "River Seine"
   - "Zulu class river vessel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/zuluhydrogen.jpg"
 author: "Rick Spilman"
 description: "We recently posted about plans to build an emission-free bulk carrier powered by compressed hydrogen and rotors sails to be in service by 20204. The European Flagships Project has announced plans to begin operations of a hydrogen-powered cargo vessel on … Continue reading &rarr;"
 ---

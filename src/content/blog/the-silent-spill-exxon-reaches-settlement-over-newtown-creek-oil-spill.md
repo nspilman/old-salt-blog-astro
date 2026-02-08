@@ -9,6 +9,7 @@ categories:
 tags:
   - "Newtown Creek"
   - "Oil spill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/greenpoint070611_1_560.jpg"
 author: "Rick Spilman"
 description: "No one knows exactly how much oil was spilled at Newtown Creek, an industrial canal between the boroughs of  Brooklyn and Queens in New York harbor, but the best estimates are between between 17 million and 30 million gallons, which is … Continue reading &rarr;"
 ---

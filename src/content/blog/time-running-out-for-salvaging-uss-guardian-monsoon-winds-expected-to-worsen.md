@@ -11,6 +11,7 @@ tags:
   - "minesweeper"
   - "Tubbataha marine park"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/guardian800.jpg"
 author: "Rick Spilman"
 description: "The minesweeper USS Guardian ran aground on a reef at the Tubbataha  marine park in the Sula Sea last Thursday.  The ship is still there. So far there has been no reported leaks of fuel leaks though the Navy has confirmed … Continue reading &rarr;"
 ---

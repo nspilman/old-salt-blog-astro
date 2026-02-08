@@ -14,6 +14,7 @@ tags:
   - "Parks Canada"
   - "Sir John Franklin'"
   - "Terror"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/hms-investigator-in-ice.jpg"
 author: "Rick Spilman"
 description: "Earlier this month we posted about a new expedition by Parks Canada to search for Franklin’s ships, the Terrorand the Erebus.  Parks Canada also intended to search for theHMS Investigator, a ship which was caught in the ice and sank when sent … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "AMVER"
   - "Automated Mutual Assistance Vessel Rescue System"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/amverbanner.jpg"
 author: "Rick Spilman"
 description: "We are a few days late in celebrating AMVER‘s 60th birthday. Originally called the Atlantic Merchant Vessel Emergency Reporting System, AMVER became operational on July 18, 1958. When it expanded beyond the Atlantic, the name was changed to the Automated … Continue reading &rarr;"
 ---

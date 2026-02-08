@@ -13,6 +13,7 @@ tags:
   - "English channel"
   - "Little Ships"
   - "Ramsgate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Mary_Scott_under_tow_AR.jpg"
 author: "Rick Spilman"
 description: "The English Channel is still the Channel and the 60 or so \"little ships\" of Dunkirk haven’t gotten any younger.  The flotilla of some 60 of the original \"little ships\" were delayed in their return to Ramsgate after reinacting the crossing to … Continue reading &rarr;"
 ---

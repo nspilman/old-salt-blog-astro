@@ -11,6 +11,7 @@ tags:
   - "Art Inspiration Day"
   - "Birthday Tanker Tours"
   - "Mary A.Whalen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/marywhalen80.jpg"
 author: "Rick Spilman"
 description: "The historic tanker Mary A. Whalen is turning 80 on May 21st. As part of a month-long celebration, Portside NewYork and the Mary A. Whalen is hosting an Art Inspiration Day and Birthday Tanker Tours. The events take place tomorrow, Sunday, May 20th, from … Continue reading &rarr;"
 ---

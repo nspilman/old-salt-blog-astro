@@ -11,6 +11,7 @@ tags:
   - "coral reefs"
   - "Ocean acidification"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/coral-reef.jpg"
 author: "Rick Spilman"
 description: "Today is Blog Action Day where bloggers around the wold  are posting about a common theme – water.  Most, no doubt, will be blogging about the almost a billion people in the world who do not have access to clean drinking water. … Continue reading &rarr;"
 ---

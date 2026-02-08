@@ -10,6 +10,7 @@ tags:
   - "kayaker"
   - "salt water crocodile"
   - "swimmer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/croc2.jpg"
 author: "Rick Spilman"
 description: "Saltwater crocodiles are close enough to living, breathing, terrifying sea monsters. Capable of growing to over 20 feet long and weighing a tonne, they are the the largest of all living reptiles and the largest riparian predator in the world.  Saltwater … Continue reading &rarr;"
 ---

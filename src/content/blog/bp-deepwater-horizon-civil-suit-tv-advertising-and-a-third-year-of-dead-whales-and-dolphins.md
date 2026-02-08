@@ -13,6 +13,7 @@ tags:
   - "dolphins"
   - "tourism"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/rig2.jpg"
 author: "Rick Spilman"
 description: "I don’t watch a lot of television, though it seems every time that I turn the set on I see another commercial touting how wonderful things are on the Gulf of Mexico. The sun is shining, the beaches are beautiful, … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Netherlands"
   - "Traveler"
   - "Westfries Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/halfmoontraveler.jpg"
 author: "Rick Spilman"
 description: "Half Moon looks very small sitting on the deck of the heavy-lift ship Traveler, which is carrying replica ship to its new berth in the Netherlands."
 ---

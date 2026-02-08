@@ -13,6 +13,7 @@ tags:
   - "Japanese commander"
   - "US Adm. Oldendorf"
   - "Vice-Adm. Nishimura"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/sstrait.jpg"
 author: "Rick Spilman"
 description: "A new look at the last battleship battle of  World War II and perhaps of all time.  A review by Steven Toby, republished with permission from the MarHst list. In this new book, Battle of Surigao Strait,  author Anthony P. Tully mines … Continue reading &rarr;"
 ---

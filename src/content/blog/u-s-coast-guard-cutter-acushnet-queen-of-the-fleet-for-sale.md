@@ -15,6 +15,7 @@ tags:
   - "U.S. Coast Guard Cutter"
   - "US Navy Diver-class rescue and salvage ship"
   - "USS Shackle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/41QSCI11168001.jpg"
 author: "Rick Spilman"
 description: "The U.S. Coast Guard cutter Acushnet, oldest commissioned Coast Guard cutter, and the officially designated \"Queen of the Fleet\" will be sold as surplus at an online auction scheduled to end on March 16th.   Current bidding is $66,000. (Updated 4/04) US NAVY … Continue reading &rarr;"
 ---

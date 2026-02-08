@@ -9,6 +9,7 @@ categories:
 tags:
   - "stand-up paddling"
   - "SUP"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/sup.jpg"
 author: "Rick Spilman"
 description: "About a year ago, I saw what appeared to be a man standing up in the middle of the Hudson River. That is about all I could see.  He appeared to making a sweeping motion with his hands and arms … Continue reading &rarr;"
 ---

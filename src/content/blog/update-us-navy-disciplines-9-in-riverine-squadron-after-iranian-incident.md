@@ -12,6 +12,7 @@ tags:
   - "Iranian Revolutionary Guard"
   - "Riverine Command Boats"
   - "Riverine squadron"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/rcb1.jpg"
 author: "Rick Spilman"
 description: "Last January we posted about two US Navy Riverine Command Boats (RCBs) with a combined crew of ten sailors which were apprehended by Iranian Revolutionary Guard boats in the Gulf. One or both of the RCBs had suffered a mechanical … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Charleston"
   - "schooner"
   - "Spirit of South Carolina."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/spiritsouthcarolina.jpg"
 author: "Rick Spilman"
 description: "Last month we posted that the Sailing School Vessel Spirit of South Carolina was finally going to auction.  For the last several years, the schooner been owned by TD Bank.  Yesterday, the 140′ wooden schooner was sold at auction for $440,000 to … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "American Sail Training Association"
   - "Cleveland Tall Ships Festival"
   - "Great Lakes United Tall Ships Challenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/TallShips6_15.jpg"
 author: "Rick Spilman"
 description: "We had previously posted about the fleet of  sailing ships visiting Toronto as part of the Great Lakes United TALL SHIPS CHALLENGE,  coordinated by the American Sail Training Association (ASTA) across all five Great Lakes.  The fleet has now moved on to Cleveland, Ohio. … Continue reading &rarr;"
 ---

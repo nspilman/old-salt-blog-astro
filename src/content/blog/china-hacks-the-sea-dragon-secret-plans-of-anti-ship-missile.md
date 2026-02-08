@@ -12,6 +12,7 @@ tags:
   - "Sea Dragon"
   - "submarine"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/submissle.jpg"
 author: "Rick Spilman"
 description: "The Washington Post has reported that Chinese government hackers have broken into the computers of a Navy contractor, stealing more than 600 GB of highly sensitive data related to undersea warfare — including secret plans to develop a supersonic anti-ship missile for use … Continue reading &rarr;"
 ---

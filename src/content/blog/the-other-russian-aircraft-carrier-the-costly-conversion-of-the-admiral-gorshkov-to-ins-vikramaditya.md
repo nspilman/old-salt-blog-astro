@@ -13,6 +13,7 @@ tags:
   - "Indian Navy"
   - "INS Vikramaditya"
   - "Russia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/250px-Carrier_Baku.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the Chinese conversion of the Russian aircraft carrier Varyag. China is not the only  country looking to surplus Russian aircraft carriers to expand their naval power.  India purchased the surplus carrier, Admiral Gorshkov, from the Russians … Continue reading &rarr;"
 ---

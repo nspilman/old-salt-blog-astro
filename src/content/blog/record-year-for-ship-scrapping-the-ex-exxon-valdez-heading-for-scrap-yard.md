@@ -14,6 +14,7 @@ tags:
   - "Exxon Valdez"
   - "Oriental Nicety"
   - "Prince William Sound"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/68934963.jpg"
 author: "Rick Spilman"
 description: "The twenty eight year old bulk carrier Oriental Nicety was recently sold for scrap for $16 million.  The ship was originally a tanker and has four owners and as many names. She is best known as the Exxon Valdez, the single hull … Continue reading &rarr;"
 ---

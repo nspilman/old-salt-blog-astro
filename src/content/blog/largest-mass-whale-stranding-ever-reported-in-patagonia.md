@@ -12,6 +12,7 @@ tags:
   - "sei whales"
   - "southern Chile"
   - "whale stranding"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/whalestranding.jpg"
 author: "Rick Spilman"
 description: "Scientists have reported the largest whale stranding on record -- 337 dead whales were discovered in a remote fiord in the Patagonia, southern Chile."
 ---

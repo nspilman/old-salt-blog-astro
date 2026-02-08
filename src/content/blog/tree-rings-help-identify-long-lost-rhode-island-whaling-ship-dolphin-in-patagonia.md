@@ -16,6 +16,7 @@ tags:
   - "Rhode Island"
   - "tree rings"
   - "whaling ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/dolphinshipwreck.jpg"
 author: "Rick Spilman"
 description: "In 1858, the whaling ship Dolphin sailed from Warren, Rhode Island, and never returned. The New York Times notes that the ship’s 42-person crew was rescued the following year from the waters of the southern Atlantic Ocean by an Argentine mariner, … Continue reading &rarr;"
 ---

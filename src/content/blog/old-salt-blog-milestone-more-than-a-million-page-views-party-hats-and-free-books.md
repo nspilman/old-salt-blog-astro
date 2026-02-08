@@ -10,6 +10,7 @@ tags:
   - "Hell Around the Horn"
   - "million pageviews"
   - "Old Salt Blog"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/cropped-oldsaltblog2.jpg"
 author: "Rick Spilman"
 description: "We have reached a milestone here at the Old Salt Blog. We have passed a million pageviews! Specifically, according to Google Analytics, as of this morning, 541,358 unique visitors have viewed 1,052,167 pages on the blog. (The numbers are actually … Continue reading &rarr;"
 ---

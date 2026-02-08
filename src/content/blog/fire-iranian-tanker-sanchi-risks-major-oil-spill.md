@@ -12,6 +12,7 @@ tags:
   - "Iranian"
   - "Sanchi"
   - "tanker fire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/sanchifire2.jpg"
 author: "Rick Spilman"
 description: "Response teams are struggling to bring a fire aboard the Iranian Suezmax tanker Sanchi under control following a collision on Saturday night with the Chinese bulk carrier CF Crystal.  The body of one crew member from the tanker has been … Continue reading &rarr;"
 ---

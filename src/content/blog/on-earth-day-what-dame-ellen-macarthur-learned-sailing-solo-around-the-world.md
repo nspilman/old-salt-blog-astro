@@ -5,6 +5,7 @@ slug: "on-earth-day-what-dame-ellen-macarthur-learned-sailing-solo-around-the-wo
 excerpt: "I realize that I am in a rut. Every Earth Day, I say the same thing. Over 70% of the surface of this planet is covered by water, so referring to the planet as \"earth\" is just wrong. But be … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/dameellen.jpg"
 author: "Rick Spilman"
 description: "I realize that I am in a rut. Every Earth Day, I say the same thing. Over 70% of the surface of this planet is covered by water, so referring to the planet as \"earth\" is just wrong. But be … Continue reading &rarr;"
 ---

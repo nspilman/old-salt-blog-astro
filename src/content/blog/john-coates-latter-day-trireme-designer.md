@@ -12,6 +12,7 @@ tags:
   - "Greek trireme"
   - "John Coates"
   - "Ministry of Defence"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/coates3.jpg"
 author: "Rick Spilman"
 description: "John Coates John Coates, who died on July 10 aged 88, had retired as chief naval architect at the Ministry of Defence when he took a central role in the building of a Greek trireme, the first, fastest and best … Continue reading &rarr;"
 ---

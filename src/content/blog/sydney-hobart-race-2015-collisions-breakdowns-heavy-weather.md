@@ -16,6 +16,7 @@ tags:
   - "Rambler"
   - "Sydney Hobart Race"
   - "Wild Oats XI"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/wildoatsxi.jpg"
 author: "Rick Spilman"
 description: "Happy Boxing Day and with it a wild beginning to this year’s Rolex Sydney Hobart Race. The race began with three yachts colliding at the starting line.  The Chinese Ark 323, Lupa of London, and Cougar II were forced to … Continue reading &rarr;"
 ---

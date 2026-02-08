@@ -9,6 +9,7 @@ categories:
 tags:
   - "Eleanor's Odyssey"
   - "Joan Druett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/eleanorsodessaythumb.jpg"
 author: "Rick Spilman"
 description: "Joan Druett has a wonderful new book, Eleanor's Odyssey. Now available in paperback and soon to be available as an ebook"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Amanda Palmer"
   - "Coney Island Mermaid Parade"
   - "Superstorm Storm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/coney31n-2-web.jpg"
 author: "Rick Spilman"
 description: "The Mermaid Parade is Saved!   Last week, we posted about a Kickstarter Fundraiser to save the Coney Island Mermaid Parade.  The parade, which has been held yearly since 1983, was nearly shut down by Superstorm Storm, which did over $400,000 … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Captain John Newton"
   - "slave trade"
   - "song"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/agmusical-200x137.jpg"
 author: "Rick Spilman"
 description: "The story of Captain John Newton and the song Amazing Grace is quite remarkable. The problem is separating the myth from what actually happened."
 ---

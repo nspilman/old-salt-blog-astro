@@ -10,6 +10,7 @@ categories:
 tags:
   - "65th anniversary of the sinking"
   - "M/V Wilhelm Gustloff"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Wilhelm_Gustloff-_in_Danzig.jpg"
 author: "Rick Spilman"
 description: "Many ships carrying civilians were sunk during World War II by both sides. If current estimates are correct, the torpedoing of the M/V Wilhelm Gustloff resulted in the largest loss of life from the sinking of one vessel in maritime … Continue reading &rarr;"
 ---

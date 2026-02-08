@@ -11,6 +11,7 @@ tags:
   - "St. George Reef Light"
   - "Terrible Tilly"
   - "Tillamook Head"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Tillamookrock.jpg"
 author: "Rick Spilman"
 description: "Lighthouses can be dangerous places. They are placed specifically near hazards to navigation, where the seas are the roughest and the rocks the most treacherous. Here is a brief look at three deadly lighthouses. Tillamook Rock Lighthouse — Off the … Continue reading &rarr;"
 ---

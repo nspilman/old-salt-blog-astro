@@ -14,6 +14,7 @@ tags:
   - "SS Richard Montgomery"
   - "terrorists"
   - "Thames Estuary"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/richardmontgomery.jpg"
 author: "Rick Spilman"
 description: "Anti-terror police in the UK are suddenly concerned that the SS Richard Montgomery, a Liberty ship which sank over seventy years ago loaded with high explosives in the Thames estuary, might be a potential target for terrorists.  Reportedly, the government has been on high-alert to defend the wrecked ship."
 ---

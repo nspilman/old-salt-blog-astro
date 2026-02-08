@@ -13,6 +13,7 @@ tags:
   - "new york harbor"
   - "Seal"
   - "York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/sealyork.jpg"
 author: "Rick Spilman"
 description: "Two short accounts of seals showing up in somewhat unexpected places.  Recently, a large seal was spotted in York, in the UK, basking in the sun on the Yorkshire Dales.  Apparently, the wayward seal swam 50 miles through Britain’s river network from the North … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Valentine Islands"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/heart-shaped-island-125x78.jpg"
 author: "Rick Spilman"
 description: "Are they islands of love on the storm-tossed seas of life?  Sadly, they probably are not, but they do look like Valentine’s Day hearts. … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "British Ministry of Defence"
   - "nuclear powered submarines"
   - "secret information"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/redacted.jpg"
 author: "Rick Spilman"
 description: "Oopps. In what is being described as a \"school-boy error\" the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was \"redacted\" by turning the background black, so that the text was not readable. … Continue reading &rarr;"
 ---

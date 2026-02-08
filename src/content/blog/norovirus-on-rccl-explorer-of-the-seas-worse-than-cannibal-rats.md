@@ -12,6 +12,7 @@ tags:
   - "Explorer of the Seas"
   - "norovirus"
   - "Royal Caribbean Cruise Line"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/explorer2.jpg"
 author: "Rick Spilman"
 description: "My next door neighbors left last Tuesday for a 10 day cruise in the Eastern Caribbean on the Royal Caribbean Cruise Line ship Explorer of the Seas.  I saw them shortly before they departed.  We were both shoveling snow from our … Continue reading &rarr;"
 ---

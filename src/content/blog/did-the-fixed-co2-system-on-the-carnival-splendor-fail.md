@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/g-m_top_logo_12.jpg"
 author: "Rick Spilman"
 description: "The Maritime Blog and the Professional Mariner are pointing to two Marine Safety Alerts issued by the Coast Guard today which may suggest that the fixed CO2 system on the Carnival Splendor failed. The Safety Alerts do not identify the ship by … Continue reading &rarr;"
 ---

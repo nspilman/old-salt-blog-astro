@@ -14,6 +14,7 @@ tags:
   - "Psara"
   - "Skyros"
   - "Yogi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/yogi.jpg"
 author: "Rick Spilman"
 description: "Looking slightly like a miniature Costa Concordia, the  60.2 meter (197′) French yacht Yogi rolled and sank after reporting a ‘mechanical failure’ in high seas and Force 8 winds on Friday.  The yacht sank between the islands of Skyros and Psara, 19 nautical miles … Continue reading &rarr;"
 ---

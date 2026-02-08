@@ -10,6 +10,7 @@ tags:
   - "moon-blindness"
   - "planet Jupiter"
   - "Super Harvest Moon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/harvest-moon.jpg"
 author: "Rick Spilman"
 description: "Tonight, the beginning of Fall will be marked by the rising of a \"Super Harvest Moon\"  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
 ---

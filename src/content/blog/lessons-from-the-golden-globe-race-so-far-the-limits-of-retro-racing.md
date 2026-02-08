@@ -10,6 +10,7 @@ categories:
 tags:
   - "Golden Globe Race"
   - "retro racing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/ggrboat.jpg"
 author: "Rick Spilman"
 description: "Ocean racing seems to have been taken over by boats made entirely of carbon fiber, costing slightly more than their weight in gold, as well being as festooned with foils, articulating keels and every high-tech whiz-bang device that millions of dollars … Continue reading &rarr;"
 ---

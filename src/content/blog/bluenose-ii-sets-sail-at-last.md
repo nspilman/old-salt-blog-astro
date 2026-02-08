@@ -14,6 +14,7 @@ tags:
   - "fishing schooner"
   - "Lunenberg"
   - "Nova Scotia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/bluenoseII.jpg"
 author: "Rick Spilman"
 description: "Millions over budget and years behind schedule, the Canadian schooner Bluenose II finally set sail last week from Lunenberg, Nova Scotia on a training sail."
 ---

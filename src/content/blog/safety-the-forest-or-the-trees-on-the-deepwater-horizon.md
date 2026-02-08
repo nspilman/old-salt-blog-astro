@@ -10,6 +10,7 @@ tags:
   - "Coast Guard"
   - "Deepwater Horizon drill rig"
   - "Transocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg"
 author: "Rick Spilman"
 description: "The Coast Guard released a report yesterday that was highly critical of  Transocean, the owner of the Deepwater Horizon drill rig, which exploded and sank last year. Transocean contributed to Gulf disaster, Coast Guard report says Flaws in Transocean Ltd.’s … Continue reading &rarr;"
 ---

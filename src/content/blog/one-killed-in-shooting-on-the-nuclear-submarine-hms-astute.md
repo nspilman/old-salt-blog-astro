@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/astute.jpg"
 author: "Rick Spilman"
 description: "The BBC is reporting that one sailor has been killed and another seriously injured on the Royal Navy nuclear submarine HMS Astute. A member of the crew is reported to have shot two of his fellow sailors before being overpowered.   HMS Astute, the Navy’s newest and most advanced submarine, is docked at … Continue reading &rarr;"
 ---

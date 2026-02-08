@@ -9,6 +9,7 @@ tags:
   - "Amsterdam"
   - "canals"
   - "Roboats"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/roboat.jpg"
 author: "Rick Spilman"
 description: "Autonomous barges may soon be carrying cargo and passengers on Amsterdam’s 100 km of canals. Referred to as roboats (as in robot boats, not rowboats) they can also be linked together to create bridges and performance stages and platforms. The … Continue reading &rarr;"
 ---

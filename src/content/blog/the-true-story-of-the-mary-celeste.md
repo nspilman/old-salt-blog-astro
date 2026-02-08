@@ -9,6 +9,7 @@ categories:
 tags:
   - "Mary Celeste"
   - "mystery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/mceleste.jpg"
 author: "Rick Spilman"
 description: "The story of the \"ghost ship\" Mary Celeste is one of the great mysteries of the sea. The merchant brigantine was found 400 miles east of the Azores on December 5, 1872, unmanned and apparently abandoned in fair weather.  What happened … Continue reading &rarr;"
 ---

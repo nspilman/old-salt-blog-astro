@@ -10,6 +10,7 @@ tags:
   - "California Blue Whales"
   - "eastern North Pacific blue whale"
   - "ship strikes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/bluewhale1.jpg"
 author: "Rick Spilman"
 description: "Despite being hunted from 1905–1971, the California blue whale has rebounded so that today it is approximately 97% of pre-whaling levels."
 ---

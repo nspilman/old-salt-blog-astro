@@ -11,6 +11,7 @@ tags:
   - "first grid-connected floating wind tower"
   - "University of Maine"
   - "VolturnUS 1:8"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/01wind-pic.jpg"
 author: "Rick Spilman"
 description: "Typically, modern offshore wind turbines come in only one size and shape – really big, rising up from the ocean floor.  The University of Maine, with support from the Department of Energy, has just launched a new test design, the first … Continue reading &rarr;"
 ---

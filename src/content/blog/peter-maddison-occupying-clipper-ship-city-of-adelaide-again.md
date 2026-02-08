@@ -15,6 +15,7 @@ tags:
   - "Scottish Maritime Museum"
   - "Sunderland City of Adelaide Recovery Foundation"
   - "the world's oldest surviving clipper ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/maddisionadelaide.jpg"
 author: "Rick Spilman"
 description: "Just as preparations for moving the world’s oldest surviving clipper ship, the City of Adelaide, to her namesake city in Australia, are getting underway, Peter Maddison, a former councillor from Sunderland, where the ship was built, has occupied the old clipper, … Continue reading &rarr;"
 ---

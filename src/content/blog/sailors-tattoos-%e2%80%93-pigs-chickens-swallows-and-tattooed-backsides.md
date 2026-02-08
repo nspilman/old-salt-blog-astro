@@ -13,6 +13,7 @@ tags:
   - "mutiny"
   - "pig"
   - "tattoos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/hog_foot-2-tm1.jpg"
 author: "Rick Spilman"
 description: "Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 … Continue reading &rarr;"
 ---

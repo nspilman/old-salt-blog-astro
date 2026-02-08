@@ -9,6 +9,7 @@ categories:
 tags:
   - "Bloody Rain"
   - "short story"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/bloody-rain.jpg"
 author: "Rick Spilman"
 description: "My short story Bloody Rain — Murder, Madness and the Monsoon, set on a sailing ship in the 1880s, is free as an ebook on Amazon and Barnes & Noble.  That’s right — free.  Feel free to grab a copy. About … Continue reading &rarr;"
 ---

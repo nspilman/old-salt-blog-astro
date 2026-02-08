@@ -14,6 +14,7 @@ tags:
   - "Mona Island"
   - "Puerto Rico"
   - "undocumented Haitians"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/mona-freighter.jpg"
 author: "Rick Spilman"
 description: "The 185-foot Honduran-flagged coastal freighter Jireh ran aground Thursday morning on Mona Island, a rocky outcropping in the Mona Passage about midway between Mayagüez, Puerto Rico and the Dominican Republic.  The island is uninhabited and maintained as a nature preserve, while the reefs around the island are … Continue reading &rarr;"
 ---

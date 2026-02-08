@@ -16,6 +16,7 @@ tags:
   - "Neward"
   - "salt"
   - "Searsport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/SALT-superJumbo.jpg"
 author: "Rick Spilman"
 description: "International Salt, a major salt company, has just about run out of salt to supply the State of New Jersey.  The salt is used to control ice on the roads, and to run out in the middle of a very … Continue reading &rarr;"
 ---

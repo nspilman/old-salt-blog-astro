@@ -12,6 +12,7 @@ tags:
   - "Oliver Hazard Perry"
   - "Put-in-Bay"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/2012-anniversary-BOLE.jpg"
 author: "Rick Spilman"
 description: "The best known naval battles of the War of 1812 were single ship duels between US Navy frigates and ships of the Royal Navy.  Nevertheless, the two most important American naval victories of the War of 1812 were fought in fresh water, hundreds of  miles from the ocean. … Continue reading &rarr;"
 ---

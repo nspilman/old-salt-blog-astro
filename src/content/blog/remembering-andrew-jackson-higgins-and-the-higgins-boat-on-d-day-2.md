@@ -11,6 +11,7 @@ tags:
   - "D-Day"
   - "Higgins boat"
   - "landing craft"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/higgensrepost.jpg"
 author: "Rick Spilman"
 description: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the anniversary of D-Day. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for us. … Continue reading &rarr;"
 ---

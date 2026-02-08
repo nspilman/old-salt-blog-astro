@@ -11,6 +11,7 @@ tags:
   - "Rear Adm. Sandra Stosz"
   - "superintendent"
   - "U.S. Coast Guard Academy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Stosz.jpg"
 author: "Rick Spilman"
 description: "Rear Adm. Sandra Stosz has been named as the 40th Superintendent of the United States Coast Guard Academy in New London, Ct.  She is the first woman to lead one of the nation’s five military service academies. New leader takes the … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Fletcher-class destroyer"
   - "Medal of Honor"
   - "USS Johnston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/uss-johnston.jpg"
 author: "Rick Spilman"
 description: "In November 2019, RV Petrel located the scattered wreckage of a World War II warship at a depth of 21,180 ft in the Philippine Sea. The wreck, thought to be the deepest wreck of a warship ever discovered, was suspected to … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "2012 Carbuncle Cup"
   - "Cutty Sark"
   - "Worst New Building"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/CuttySarkcarb.jpg"
 author: "Rick Spilman"
 description: "In April, we posted about a scathing review of the Cutty Sark restoration by Andrew Gilligan, the Telegraph‘s London Editor.  He referred to the restoration as \"a clucking, Grade A … turkey.\"   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the … Continue reading &rarr;"
 ---

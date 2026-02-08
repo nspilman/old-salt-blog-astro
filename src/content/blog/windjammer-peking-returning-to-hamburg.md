@@ -15,6 +15,7 @@ tags:
   - "South Street Seaport Museum"
   - "Wavertree"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Peking_ship_combined.jpg"
 author: "Rick Spilman"
 description: "The windjammer Peking, a fixture of New York's South Street Seaport, will be returning to its original home port in Hamburg, Germany."
 ---

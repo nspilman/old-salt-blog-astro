@@ -12,6 +12,7 @@ tags:
   - "French Navy"
   - "Royal Navy"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/RNsubmariners.jpg"
 author: "Rick Spilman"
 description: "Like many milestones, once it is past, it doesn’t seem like quite as big a deal.  Last week, three women made history by becoming the first female submariners to serve in the Royal Navy. Female officers have served on US … Continue reading &rarr;"
 ---

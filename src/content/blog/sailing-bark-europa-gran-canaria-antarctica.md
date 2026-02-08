@@ -11,6 +11,7 @@ tags:
   - "Antarctica"
   - "Bark Europa"
   - "Gran Canaria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/europa.jpg"
 author: "Rick Spilman"
 description: "A video for a Sunday morning. Filmmaker Frank Oly joined the bark Europa on a voyage from Gran Canaria to Antarctica. He stayed on board for 3 months and filmed this experience. Europa is a steel-hulled barque registered in the Netherlands. Built … Continue reading &rarr;"
 ---

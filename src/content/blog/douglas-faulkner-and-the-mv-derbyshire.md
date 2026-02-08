@@ -12,6 +12,7 @@ tags:
   - "Douglas Faulkner"
   - "H.M.S. Dreadnought"
   - "MV Derbyshire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Douglas-Faulkner-003.jpg"
 author: "Rick Spilman"
 description: "Douglas Faulkner, who died recently, had a varied and highly accomplished career as a naval and marine architect.   He was involved in the design and testing of the first British nuclear submarine, HMS Dreadnought.   He was later an assistant professor at the Royal Naval College, … Continue reading &rarr;"
 ---

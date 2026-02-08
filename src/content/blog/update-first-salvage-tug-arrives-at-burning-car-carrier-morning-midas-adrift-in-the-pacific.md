@@ -12,6 +12,7 @@ tags:
   - "Gretchen Dunlap"
   - "Morning Midas"
   - "tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/06/morningmidas2.jpg"
 author: "Rick Spilman"
 description: "The car carrier Morning Midas, adrift off the coast of Alaska, is still burning, with the first salvage tug arriving at the scene on Monday, as reported by Splash. The tug Gretchen Dunlap arrived Monday afternoon with salvage personnel and has … Continue reading &rarr;"
 ---

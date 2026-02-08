@@ -12,6 +12,7 @@ tags:
   - "Hong Kong Ferry"
   - "Lamma island"
   - "Victoria harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/01Ferry_cnd-articleLarge.jpg"
 author: "Rick Spilman"
 description: "At least 36 people drowned when a ferry carrying more than 120 collided with another vessel and sank last night around 8:30 pm local time near Lamma island off Hong Kong.   The ferry was taking staff and family members of … Continue reading &rarr;"
 ---

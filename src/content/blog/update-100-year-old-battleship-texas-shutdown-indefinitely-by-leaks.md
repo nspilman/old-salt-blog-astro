@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/bbtexaspump.jpg"
 author: "Rick Spilman"
 description: "We posted recently about the attempts to repair hull leaks in the BattleshipTexas, the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II.  The ship has been on … Continue reading &rarr;"
 ---

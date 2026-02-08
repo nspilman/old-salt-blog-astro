@@ -10,6 +10,7 @@ tags:
   - "first full scale floating wind turbine"
   - "Hywind"
   - "StatoilHydro"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/hywindSlep_468.jpg"
 author: "Rick Spilman"
 description: "Last week, StatoilHydro inaugurated Hywind in the North Sea off South-west Norway. Hywind is the first full scale floating wind turbine and is a research pilot program to develop a new generation of offshore wind mills. StatoilHydro inaugurates floating wind … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "life buoy"
   - "Princess Ashika"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/lifering.jpg"
 author: "Rick Spilman"
 description: "There will be a preliminary hearing into the sinking of the ferry, Princess Ashika, next Thursday in Nuku’alofa by the Royal Commission set up by the Government to investigate the tragedy. A letter from Port Authority Port Authority general manager, … Continue reading &rarr;"
 ---

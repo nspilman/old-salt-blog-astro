@@ -10,6 +10,7 @@ tags:
   - "eyes"
   - "giant squid"
   - "sperm whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/giantsquid1.jpg"
 author: "Rick Spilman"
 description: "Tomorrow, January 27th, at 8 PM ET & PT, the Discovery Channel is airing Monster Squid: The Giant is Real featuring the first video ever recorded of a  live giant squid in its natural habitat. (See our recent post Giant Squid Filmed for … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "International Whaling Commission"
   - "Japan"
   - "Norway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/whaling.jpg"
 author: "Rick Spilman"
 description: "There is an interesting conflict going on over the new draft proposal by the International Whaling Commission which would allow limited commercial  whaling at levels significantly lower than currently practiced by Japan, Iceland and Norway.   Depending on who you listen to this is either a good thing – … Continue reading &rarr;"
 ---

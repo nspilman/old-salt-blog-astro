@@ -15,6 +15,7 @@ tags:
   - "M/V Laconia"
   - "Ray Mabus"
   - "Secretary of the Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/navybreathylzer.jpg"
 author: "Rick Spilman"
 description: "From 1655 to 1970, the Royal Navy issued daily rations of rum to their sailors.  In the US Navy, alcohol was prohibited in 1913.  Now almost 100 years later, the US Navy is going one step farther.  Ray Mabus, the Secretary of … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "RI"
   - "Sailing School Vessel"
   - "SSV"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/ohpricollage1.jpg"
 author: "Rick Spilman"
 description: "Sailing School Vessel (SSV) Oliver Hazard Perry will be docking at her new permanent berth next week at Fort Adams State Park in Newport, RI."
 ---

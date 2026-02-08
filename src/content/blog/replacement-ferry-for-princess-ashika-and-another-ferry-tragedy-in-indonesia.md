@@ -12,6 +12,7 @@ tags:
   - "Nuku'alofa"
   - "Princess Ashika"
   - "Tonga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/tongaferry1.jpg"
 author: "Rick Spilman"
 description: "Last week, the  MV Olovaha arrived in Nuku’alofa.  The MV Olovaha is a new interisland ferry built for Tonga to replace the Princess Ashika which sank last July with a loss of 74 passengers and crew.   The ferry was … Continue reading &rarr;"
 ---

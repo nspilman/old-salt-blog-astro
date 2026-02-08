@@ -12,6 +12,7 @@ tags:
   - "Kickstarter"
   - "Lucy Bellwood"
   - "tall ship sailor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/lucybaggyw-200x110.jpg"
 author: "Rick Spilman"
 description: "Lucy Bellwood is now raising money via Kickstarter to publisher cartoon series Baggywrinkles: A Lubber's Guide to Life at Sea."
 ---

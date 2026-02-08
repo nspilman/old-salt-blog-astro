@@ -12,6 +12,7 @@ tags:
   - "hudson river"
   - "Louis Vuitton America's Cup World Series"
   - "new york"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/oraclemanhattan.jpg"
 author: "Rick Spilman"
 description: "This afternoon, the Americas’ Cup will return to New York.  Well, not the cup itself, and the races aren’t for the cup either. They are qualifying races for the big races next year. But they will be raced on super-fast AC45 … Continue reading &rarr;"
 ---

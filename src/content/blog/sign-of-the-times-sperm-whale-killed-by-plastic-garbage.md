@@ -11,6 +11,7 @@ tags:
   - "greenhouse"
   - "plastic"
   - "sperm whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/marinebiolog.jpg"
 author: "Rick Spilman"
 description: "You might call it the greenhouse effect, though it is not directly related to climate change. A dead sperm whale which washed ashore last year in Andalusia, in southern Spain, was found to have died from ingesting plastic sheets used in the construction of greenhouses in that region.  The whale … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "MV Liemba"
   - "NYC Economic Development Corp"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/liemba2.jpg"
 author: "Rick Spilman"
 description: "The Working Harbor Committee is sponsoring the showing of a wonderful documentary on the MV Liemba."
 ---

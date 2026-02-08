@@ -15,6 +15,7 @@ tags:
   - "Mousterian stone tools"
   - "Neanderthals"
   - "Solutreans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/w-chesapeake.jpg"
 author: "Rick Spilman"
 description: "For most, a river or an ocean is a boundary. For a sailor, each is a highway.  But, when did the first sailor set out across the water? Recent research suggests that the early man may have gone to sea, and indeed, … Continue reading &rarr;"
 ---

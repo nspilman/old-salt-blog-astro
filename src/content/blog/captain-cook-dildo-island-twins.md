@@ -8,6 +8,7 @@ categories:
 tags:
   - "Dildo"
   - "Dildo Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/captaindildo.jpg"
 author: "Rick Spilman"
 description: "The New York Times recently featured an article, \"Proud to Live in a Town Called Dildo\" about a Newfoundland fishing village with an odd name. The name was first applied to nearby Dildo Island and apparently dates to at least … Continue reading &rarr;"
 ---

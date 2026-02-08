@@ -12,6 +12,7 @@ tags:
   - "Gig Harbor Historic Waterfront Association"
   - "Gig Harbor Wine &amp; Food Festival"
   - "Long Beach Sea Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/crawfish.jpg"
 author: "Rick Spilman"
 description: "This is the season for waterfront and harbor festivals.   Here are three that promise good food along with music and the sea air. In Washington state, the first Gig Harbor Wine & Food Festival starts at noon today at the future … Continue reading &rarr;"
 ---

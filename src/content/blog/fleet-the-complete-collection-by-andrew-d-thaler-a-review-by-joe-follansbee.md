@@ -10,6 +10,7 @@ tags:
   - "Andrew D. Thaler"
   - "Fleet"
   - "Joe Follansbee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/fleet_cover.jpg"
 author: "Rick Spilman"
 description: "A review by Joe Follansbee of Andrew D. Thaler’s Fleet: The Complete Collection, a fascinating, post-apocalyptic tale of survival in a nautical world. Review: ‘Fleet’ revives sci-fi’s nautical tradition, By Joe Follansbee Science fiction’s nautical tradition goes back to the genre’s origins. In … Continue reading &rarr;"
 ---

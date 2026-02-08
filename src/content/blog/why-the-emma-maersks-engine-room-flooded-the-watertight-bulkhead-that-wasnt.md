@@ -13,6 +13,7 @@ tags:
   - "engine room"
   - "Odense Shipyard"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Emma_Mærsk2.jpg"
 author: "Rick Spilman"
 description: "In the beginning of February, we posted about the flooding of the engine room on the Emma Mærsk, as the ship was entering the Suez Canal. The flooding put 16 feet of water in the engine room of ship, which is … Continue reading &rarr;"
 ---

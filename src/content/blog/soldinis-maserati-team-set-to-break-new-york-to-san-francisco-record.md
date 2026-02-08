@@ -10,6 +10,7 @@ tags:
   - "Maserati"
   - "New York and San Francisco by way of Cape Horn"
   - "Soldini"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/timthumb.jpg"
 author: "Rick Spilman"
 description: "UPDATE:  The Soldini Maserati team set a new New York to San Francisco sailing record of 47 days, 2 hours and 33 minutes, breaking the previous record by ten days. Sometime Saturday, the Soldini team sailing the 70′ Maserati is expected … Continue reading &rarr;"
 ---

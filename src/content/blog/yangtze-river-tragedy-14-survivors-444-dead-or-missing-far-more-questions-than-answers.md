@@ -11,6 +11,7 @@ tags:
   - "MV Dong Fang Zhi Xing"
   - "Oriental Star"
   - "Yangtze River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/orientalstar2.jpg"
 author: "Rick Spilman"
 description: "Only 14 were been rescued, and more than 70 confirmed dead, of the 458 aboard the ill-fated passenger ship that capsized in the Yangtze River Monday night."
 ---

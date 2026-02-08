@@ -14,6 +14,7 @@ tags:
   - "National Security Cutter"
   - "US Coast Guard"
   - "USCGC Stratton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/molly-riley-reuters.n.jpg"
 author: "Rick Spilman"
 description: "The USCGC Stratton is the Coast Guard’s newest cutter.  Built at  Ingalls Shipbuilding of Pascagoula, Miss., she was acquired by the Coast Guard on September 2, 2011 and officially commissioned on  March 31, 2012.  Roughly a month after the 418′ foot … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "LCS"
   - "littoral combat ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/lcs2.jpg"
 author: "Rick Spilman"
 description: "The saga of the US Navy’s Littoral Combat Ships (LCS) continues. The ships were intended to be small, versatile and relatively inexpensive. So far they have succeeded only in being small. The Navy intends to have around 30 of these ships … Continue reading &rarr;"
 ---

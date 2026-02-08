@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/melvillemem.jpg"
 author: "Rick Spilman"
 description: "Herman Melville was born on this day, August 1, in 1819, in a boarding house on the site of 6 Pearl Street, in the Financial District of lower Manhattan in New York City.  I invite you to join me in … Continue reading &rarr;"
 ---

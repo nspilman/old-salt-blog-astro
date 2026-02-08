@@ -11,6 +11,7 @@ tags:
   - "Republican National Convention"
   - "SS American Victory"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/amvictory.jpg"
 author: "Rick Spilman"
 description: "The museum ship SS American Victory will host the FBI, Transportation Security Administration and a half-dozen other law enforcement agencies in bomb detection and disposal training exercises later this month in preparation for the Republican National Convention to be held in … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Laysan albatross"
   - "oldest known U.S. wild bird"
   - "U.S. Fish and Wildlife Service"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/OLDEST-BIRD-IN-AMERICA.jpg"
 author: "Rick Spilman"
 description: "The U.S. Geological Survey press release began:  \"The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.\" Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
 ---

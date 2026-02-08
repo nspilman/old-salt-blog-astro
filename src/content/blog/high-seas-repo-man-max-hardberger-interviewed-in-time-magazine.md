@@ -9,6 +9,7 @@ categories:
 tags:
   - "High Seas Repo- Man"
   - "Max Hardberger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/hardberger.jpg"
 author: "Rick Spilman"
 description: "We recently reviewed Max Hardberger’s new book, Seized,  A Sea Captains Adventures – Battling Scoundrels and Pirates while Recovering Stolen Ships in the World’s Most Troubled Waters.  This week , he was interviewed in Time Magazine: High Seas Repo- Man Max … Continue reading &rarr;"
 ---

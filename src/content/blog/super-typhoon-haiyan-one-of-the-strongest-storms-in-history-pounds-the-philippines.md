@@ -9,6 +9,7 @@ categories:
 tags:
   - "Philippines"
   - "Super Typhoon Haiyan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/vis-animated.gif"
 author: "Rick Spilman"
 description: "On Friday morning, local time, Super Typhoon Haiyan came shore in the central Philippines.  With an estimated maximum sustained winds of 195 mph and gusts to 235 mph, Haiyan is one of the most powerful storms ever recorded anywhere in the … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Norwegian Coastal Administration"
   - "Stad Peninsula"
   - "Stadt Ship Tunnel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/stadtshiptunnel.jpg"
 author: "Rick Spilman"
 description: "An update to a post from 2017: Norway’s Stad Peninsula divides the Norwegian Sea to the north and the North Sea to the south. The seas, winds, currents, and weather are extremely dangerous for any ship attempting to round the … Continue reading &rarr;"
 ---

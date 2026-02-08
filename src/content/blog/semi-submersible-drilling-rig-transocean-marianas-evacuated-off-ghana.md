@@ -13,6 +13,7 @@ tags:
   - "Ghana"
   - "semi-submersible drilling rig"
   - "Transocean Marianas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/marianas.jpg"
 author: "Rick Spilman"
 description: "The semi-submersible drilling rig, Transocean Marianas, was preparing to move to a new location off the coast of Ghana when the rig developed a serious list and was in danger of sinking.  The rig, under contract to Italian oil company Eni, … Continue reading &rarr;"
 ---

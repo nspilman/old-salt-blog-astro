@@ -14,6 +14,7 @@ tags:
   - "North Sea"
   - "Petra L"
   - "wind turbine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/PetraL.jpg"
 author: "Rick Spilman"
 description: "We missed this story the first time around, but it seems worthwhile to mention it, all the same. For what is being referred to as the first time it has occurred, a merchant ship had an allision with a wind … Continue reading &rarr;"
 ---

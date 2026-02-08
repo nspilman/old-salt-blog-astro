@@ -12,6 +12,7 @@ tags:
   - "Anglian Prince"
   - "HMS Astute"
   - "Isle of Skye"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/submarine_closeA-1.jpg"
 author: "Rick Spilman"
 description: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, \"Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
 ---

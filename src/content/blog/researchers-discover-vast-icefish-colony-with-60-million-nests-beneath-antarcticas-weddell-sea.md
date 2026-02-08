@@ -15,6 +15,7 @@ tags:
   - "icefish"
   - "Polarstern"
   - "Weddell Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/icefish.jpg"
 author: "Rick Spilman"
 description: "In February 2021, researchers on the German research vessel Polarstern discovered, quite by accident, the largest fish breeding area ever found near the Filchner Ice Shelf in the south of the Antarctic Weddell Sea. A towed camera system filmed thousands … Continue reading &rarr;"
 ---

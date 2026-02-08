@@ -11,6 +11,7 @@ tags:
   - "Linda Collison"
   - "Patricia MacPherson Nautical Adventure Series"
   - "Surgeon's Mate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/lindabb.jpg"
 author: "Rick Spilman"
 description: "Barbados Bound, the first book of the Linda Collison’s Patricia MacPherson Nautical Adventure Series has been published by Fireship Press. First published as Star-Crossed in 2006 by Alfred A. Knopf, the New York Public Library chose Star-Crossed to be among … Continue reading &rarr;"
 ---

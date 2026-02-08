@@ -10,6 +10,7 @@ tags:
   - "data-center"
   - "microsoft"
   - "Project Natick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/projectnatick.jpg"
 author: "Rick Spilman"
 description: "Although we speak of the internet as being in \"the cloud,\" an estimated 95 percent of internet communication is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has … Continue reading &rarr;"
 ---

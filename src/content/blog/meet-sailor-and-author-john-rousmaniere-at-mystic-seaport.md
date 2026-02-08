@@ -9,6 +9,7 @@ categories:
 tags:
   - "John Rousmaniere"
   - "Mystic Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/johnr.jpg"
 author: "Rick Spilman"
 description: "For anyone in the area, sailor and author John Rousmaniere will be a guest at Mystic Seaport Museum on Thursday, December 9th for a wine and cheese reception beginning at at 5:30 p.m, followed by a presentation of  sea stories beginning around 6:00 p.m.  The program … Continue reading &rarr;"
 ---

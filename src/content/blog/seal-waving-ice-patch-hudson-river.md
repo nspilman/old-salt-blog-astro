@@ -10,6 +10,7 @@ tags:
   - "hudson river"
   - "new york"
   - "Seal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/hudsonseal.jpg"
 author: "Rick Spilman"
 description: "Some folks think that those around New York City are unfriendly, which couldn’t be further from the truth. Here is a short video of a seal resting on a patch of ice in the Hudson River waving at Megan Viscovich … Continue reading &rarr;"
 ---

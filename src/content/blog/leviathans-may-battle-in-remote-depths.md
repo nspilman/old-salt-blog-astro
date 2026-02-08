@@ -5,6 +5,7 @@ slug: "leviathans-may-battle-in-remote-depths"
 excerpt: "A fascinating new study reported in the LA Times suggests that we know far less about the great white shark than we may have thought. Leviathans may battle in remote depths … Continue reading &rarr;"
 categories:
   - "Current"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/gwshark.jpg"
 author: "Rick Spilman"
 description: "A fascinating new study reported in the LA Times suggests that we know far less about the great white shark than we may have thought. Leviathans may battle in remote depths … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Gutta Percha"
   - "Miyazaki Maru"
   - "Tjipetir"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/79318197_traceywilliams_tomquinnwiliams.jpg"
 author: "Rick Spilman"
 description: "Mysterious rubber-like blocks that have been washing ashore on beaches in Britain and Europe are believed to have come from a Japanese ship sunk in WWI"
 ---

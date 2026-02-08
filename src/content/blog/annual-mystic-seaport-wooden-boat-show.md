@@ -9,6 +9,7 @@ categories:
 tags:
   - "mystic seaport"
   - "Wooden Boat Show"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/woodenBoatBanner-1.jpg"
 author: "Rick Spilman"
 description: "For anyone in the area, the Mystic Seaport Wooden Boat Show, which starts today and runs through Sunday,  is well worth stopping by.   The show is sponsored in partnership with WoodenBoat  Publications. The WoodenBoat Show A video about the show: 20th … Continue reading &rarr;"
 ---

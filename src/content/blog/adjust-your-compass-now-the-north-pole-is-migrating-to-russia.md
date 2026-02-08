@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "magnetic north pole"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/magneticnorth.jpg"
 author: "Rick Spilman"
 description: "In June of last year, we posted about the Quest for the South Magnetic Pole.  Recently the Independent featured an article describing how the magnetic north pole is  moving faster than at any time in human history, apparently shifting from Canada … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "new york harbor"
   - "sabotage"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/blacktomfire.jpg"
 author: "Rick Spilman"
 description: "At around 2 a.m. on the Sunday morning of July 30, 1916, one hundred years ago today, explosions on Black Tom Island rocked New York harbor. The blasts lit the night sky and shook the earth with the force of … Continue reading &rarr;"
 ---

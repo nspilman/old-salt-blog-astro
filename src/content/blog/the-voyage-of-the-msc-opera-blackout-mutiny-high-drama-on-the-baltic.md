@@ -12,6 +12,7 @@ tags:
   - "Carnival Splendor"
   - "MSC Opera"
   - "passenger mutiny"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/mscoperamain.jpg"
 author: "Rick Spilman"
 description: "The good news is that the events were more like the Carnival Splendor than the Titanic.  No one died. No ships were lost to icebergs.  Nevertheless, there was high drama, bordering on the operatic, on the cruise ship MSC Opera on its … Continue reading &rarr;"
 ---

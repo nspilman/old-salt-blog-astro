@@ -11,6 +11,7 @@ tags:
   - "Hampton Roads"
   - "Schooner Virginia"
   - "Virginia Maritime Heritage Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Schooner23.jpg"
 author: "Rick Spilman"
 description: "The bad news just keeps coming.  The Virginia Maritime Heritage Foundation has announced that the schooner Virginia will be suspending the remainder of her 2014 season and will be returned to Hampton Roads in August, where she will be put up … Continue reading &rarr;"
 ---

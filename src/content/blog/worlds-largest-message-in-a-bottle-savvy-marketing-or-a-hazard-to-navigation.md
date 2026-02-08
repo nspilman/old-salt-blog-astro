@@ -10,6 +10,7 @@ tags:
   - "Norwegian soft drink"
   - "Solo"
   - "World's Largest Message in a Bottle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/solobottle.jpg"
 author: "Rick Spilman"
 description: "The Norwegian soft drink Solo produced by Ringnes, Oskar Sylte, Aass, and Mack is extremely popular in Norway but virtually unknown in the United States. To increase visibility in other markets, the firms have had built a 24′ (8M) bottle in which they will … Continue reading &rarr;"
 ---

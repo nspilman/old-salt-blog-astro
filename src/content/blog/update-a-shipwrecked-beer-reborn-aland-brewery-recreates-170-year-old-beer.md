@@ -14,6 +14,7 @@ tags:
   - "shipwreck"
   - "Stallhagen Historic Beer 1842"
   - "Viking Line"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/vrakol.jpg"
 author: "Rick Spilman"
 description: "In 2010, we posted about a shipwreck in the Baltic, off the Åland Islands of Sweden, in which 30 bottles of champagne and 5 bottles of beer were found intact in the wreckage.  In 2011, two bottles of the champagne were … Continue reading &rarr;"
 ---

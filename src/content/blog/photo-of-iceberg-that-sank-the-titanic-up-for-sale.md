@@ -11,6 +11,7 @@ tags:
   - "iceberg"
   - "photo"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/ht_titanic_iceberg.jpg"
 author: "Rick Spilman"
 description: "No one aboard the Titanic took a photograph of the iceberg that sank the famous ship in 1912, but two sailors made sketches of the berg, which had a distinctly elliptical shape. It so happens that two days before, what … Continue reading &rarr;"
 ---

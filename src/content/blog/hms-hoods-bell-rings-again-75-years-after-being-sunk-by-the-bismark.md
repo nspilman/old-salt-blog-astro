@@ -13,6 +13,7 @@ tags:
   - "Bismark"
   - "HMS Hood"
   - "Paul Allen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hoodbell.jpg"
 author: "Rick Spilman"
 description: "On May 24, 1941, the battlecruiser HMS Hood  exploded after being struck by several shells from the German battleship Bismark during the Battle of Denmark Strait. The Hood sank within three minutes with the loss of 1,415 sailors, all but three of her crew; … Continue reading &rarr;"
 ---

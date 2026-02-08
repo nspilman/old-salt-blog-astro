@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/carnivalliberty.jpg"
 author: "Rick Spilman"
 description: "Last Sunday, a fire broke out in the engine room of the 3,299 passenger Carnival Liberty after docking in Saint Thomas.  The passengers were disembarked and the fire was extinguished with the ship’s automated fire fighting system.  No injuries were reported. The damage was … Continue reading &rarr;"
 ---

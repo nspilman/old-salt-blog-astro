@@ -10,6 +10,7 @@ tags:
   - "Greenland"
   - "iceberg"
   - "Innaarsuit"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/iceberggreenland.jpg"
 author: "Rick Spilman"
 description: "A 300 foot high, 11-million-ton iceberg is threatening the tiny Greenland village of Innaarsuit. The massive iceberg has grounded just off the coast. The concern is that if the iceberg should calve, the plunging ice could create a tsunami-like wave that … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Re-Live History Cruise"
   - "SS American Victory"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/amvictory.jpg"
 author: "Rick Spilman"
 description: "The waters around Tampa Bay may appear to step back in time tomorrow as the World War II Victory ship SS American Victory leaves the dock for her first cruise in nearly three years. The critically acclaimed \"Re-Live History Cruise\"  will feature reenactors, … Continue reading &rarr;"
 ---

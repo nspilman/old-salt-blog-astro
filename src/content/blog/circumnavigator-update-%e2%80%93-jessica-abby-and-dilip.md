@@ -6,6 +6,7 @@ excerpt: "Here is an update on the circumnavigation attempts under way by Jessic
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/JessicaAbbyDilip.jpg"
 author: "Rick Spilman"
 description: "Here is an update on the circumnavigation attempts under way by Jessica Watson, Abby Sunderland and Commander Dilip Donde.   The last name may not be as familiar as those of the blonde teenagers.  The 42 year old  Indian Navy Commander … Continue reading &rarr;"
 ---

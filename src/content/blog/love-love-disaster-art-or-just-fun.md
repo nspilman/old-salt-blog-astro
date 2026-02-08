@@ -10,6 +10,7 @@ tags:
   - "Julien Berthier"
   - "Love Love"
   - "sinking sailboat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/jb1.jpg"
 author: "Rick Spilman"
 description: "Julien Berthier is  a sculptor and a conceptual artist.  His work titled \"Love, Love\" is not in fact a sinking sailboat, appearances to the contrary notwithstanding.   Bertheir started with a 6.5 meter yacht which he cut in half and … Continue reading &rarr;"
 ---

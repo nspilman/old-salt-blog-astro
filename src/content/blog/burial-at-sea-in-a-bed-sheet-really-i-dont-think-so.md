@@ -12,6 +12,7 @@ tags:
   - "Don Lucas"
   - "sail maker"
   - "South Australia Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/shroud.jpg"
 author: "Rick Spilman"
 description: "As part of a new exhibit, Rough Medicine: Life and Death in the Age of Sail, at the South Australia Maritime Museum, sail maker Don Lucas was asked to sew a shroud for a child, actually a child-sized manikin, fortunately, to … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Ocean Project"
   - "Wear Blue and Tell Two"
   - "World Ocean Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Story.jpg"
 author: "Rick Spilman"
 description: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: \"In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Gunboat 55"
   - "Hapag-Lloyd"
   - "Rainmaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/gunboatrainmaker.jpg"
 author: "Rick Spilman"
 description: "Five months after it was abandoned, the Hapag Lloyd container ship, Chicago Express, has spotted the Gunboat 55 catamaran, Rainmaker, adrift in the Atlantic"
 ---

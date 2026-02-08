@@ -14,6 +14,7 @@ tags:
   - "San Francisco"
   - "USS Pampanito"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/subpano1.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful panoramic and audio tour of the USS Pampanito, a World War II submarine museum and memorial at San Francisco's Fisherman's Wharf."
 ---

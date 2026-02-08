@@ -14,6 +14,7 @@ tags:
   - "Joan Druett"
   - "McBook Press"
   - "Quarterdeck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/quarterdeck.jpg"
 author: "Rick Spilman"
 description: "McBook Press Quarterdeck features news and reviews of nautical fiction and non-fiction including reviews of new books by several Old Salt Press writers."
 ---

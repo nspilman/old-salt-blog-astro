@@ -11,6 +11,7 @@ tags:
   - "Iceland whaling"
   - "Minke Whales"
   - "whale watching"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/whalingfleet.jpg"
 author: "Rick Spilman"
 description: "The government of Iceland has announced an end to commercial whaling by 2024. \"There are few justifications to authorize whale hunting beyond 2024,\" when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
 ---

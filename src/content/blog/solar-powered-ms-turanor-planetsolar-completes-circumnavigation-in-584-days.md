@@ -11,6 +11,7 @@ tags:
   - "first circumnavigation under solar power"
   - "MS Turanor PlanetSolar"
   - "solar powered catamaran"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/la-fi-tn-solar-powered-catamaran-goes-around-t-001.jpg"
 author: "Rick Spilman"
 description: "The 98-foot-long solar powered catamaran MS Turanor PlanetSolar returned to Monoco yesterday, completing a 37,286 mile circumnavigation of the globe in 584 days. It is the first circumnavigation under solar power.   Along the way, the Turanor PlanetSolar made stops on six continents to promote solar energy. While … Continue reading &rarr;"
 ---

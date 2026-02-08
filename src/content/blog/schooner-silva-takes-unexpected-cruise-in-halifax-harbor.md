@@ -10,6 +10,7 @@ categories:
 tags:
   - "Halifax harbor"
   - "Schooner Silva"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/silva.jpg"
 author: "Rick Spilman"
 description: "Video surveillance footage on the dock shows a group of people boarding the 130′ three masted schooner Silva in Halifax harbor at about 1:30 am, early Monday morning. They raised one sail and untied all but one mooring line.  Around 5am, the remaining line parted and the … Continue reading &rarr;"
 ---

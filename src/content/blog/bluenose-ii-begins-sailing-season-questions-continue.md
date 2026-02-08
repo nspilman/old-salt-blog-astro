@@ -10,6 +10,7 @@ categories:
 tags:
   - "Bluenose II"
   - "Lunenburg Marine Museum Society"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/bluenoseIIa.jpg"
 author: "Rick Spilman"
 description: "The Bluenose II is now several weeks into her summer sailing season. Setting sail from Lunenburg, NS, she carries a professional crew of six and 12 young people, recruited from around the province and across Canada. This summer, the replica fishing/racing schooner will sail … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ categories:
 tags:
   - "Assassins Creed IV"
   - "sea shanties"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Assassins_Creed_IV_-_Black_Flag_cover.jpg"
 author: "Rick Spilman"
 description: "My younger son, a senior in high school, mentioned to me a few mornings ago that the newest version of the historical action-adventure video game, Assassins Creed, which is Assassins Creed IV – Black Flag, has a feature that lets … Continue reading &rarr;"
 ---

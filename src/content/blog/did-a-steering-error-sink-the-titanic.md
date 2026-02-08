@@ -16,6 +16,7 @@ tags:
   - "Louise Patten"
   - "Titanic"
   - "White Star Line"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Titanic.jpg"
 author: "Rick Spilman"
 description: "In Good as Gold, a new book by Louise Patten, the granddaughter of the most senior surviving officer on the Titanic, reveals a long hidden family secret. She claims that an error in steering on the bridge of the Titanic led to the collision … Continue reading &rarr;"
 ---

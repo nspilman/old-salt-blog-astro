@@ -12,6 +12,7 @@ tags:
   - "Captains Rick &amp; Karen Miles"
   - "expedition cruise vessel"
   - "Wanderbird"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/wanderbird1a.jpg"
 author: "Rick Spilman"
 description: "For anyone around New York harbor this afternoon and evening, Captains Rick and Karen Miles will be presenting a  slide show of  their \"Arctic Adventures Aboard the Wanderbird\" at 4pm and  7pm  in the Brooklyn Cruise Terminal, Pier 12, Red Hook, Brooklyn. … Continue reading &rarr;"
 ---

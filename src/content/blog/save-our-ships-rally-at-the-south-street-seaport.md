@@ -11,6 +11,7 @@ tags:
   - "Peter Stanford"
   - "Save our Ships Rally"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/0aaaaaaps1.jpg"
 author: "Rick Spilman"
 description: "I was out of town so I could not attend the Save our Ships Rally at the South Street Seaport yesterday.  Fortunately foo those of us who couldn’t make it,  there are some great photos at Will van Dorp’s Tugster blog, the Save … Continue reading &rarr;"
 ---

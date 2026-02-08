@@ -12,6 +12,7 @@ tags:
   - "European Union Naval Force"
   - "private navy"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/PA-9799247-630x260-300x123.jpg"
 author: "Rick Spilman"
 description: "In March, the European Union Naval Force was authorized to attack Somali pirates in coastal waters and ashore. On Tuesday, EU naval forces and attack helicopters launched their first onshore raid on a suspected pirate supply center in Handulle village, about 18 kilometers (11 … Continue reading &rarr;"
 ---

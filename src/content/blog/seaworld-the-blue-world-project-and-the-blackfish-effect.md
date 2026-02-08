@@ -10,6 +10,7 @@ tags:
   - "Blackfish Effect"
   - "Blue World Project"
   - "SeaWorld"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/BLACKFISH.jpg"
 author: "Rick Spilman"
 description: "SeaWorld Entertainment's shares have dropped by 35 percent due to the \"Blackfish effect.\" SeaWorld promises larger tanks and charitable giving."
 ---

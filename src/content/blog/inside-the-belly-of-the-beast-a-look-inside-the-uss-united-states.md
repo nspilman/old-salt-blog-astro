@@ -10,6 +10,7 @@ categories:
 tags:
   - "S.S. United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/ssus1.jpg"
 author: "Rick Spilman"
 description: "Now that the SS United States Conservancy has acquired the S.S. United States, the next question is – what they are going to do with her?   Her interior was gutted in 1994 to remove considerable quantities of asbestos.   … Continue reading &rarr;"
 ---

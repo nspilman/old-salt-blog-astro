@@ -215,11 +215,31 @@ function generatePostFrontmatter(
   }
 
   // Featured Image (keep original WordPress URL)
+  // Try multiple sources: 1) media lookup, 2) Yoast og_image, 3) first image in content
+  let featuredImageUrl: string | undefined;
+
   if (post.featured_media) {
     const media = lookups.media.get(post.featured_media);
     if (media?.source_url) {
-      lines.push(`featuredImage: "${media.source_url}"`);
+      featuredImageUrl = media.source_url;
     }
+  }
+
+  // Fallback to Yoast og_image if no featured media found
+  if (!featuredImageUrl && post.yoast_head_json?.og_image?.[0]?.url) {
+    featuredImageUrl = post.yoast_head_json.og_image[0].url;
+  }
+
+  // Last resort: extract first image from content
+  if (!featuredImageUrl) {
+    const imgMatch = post.content.rendered.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (imgMatch?.[1]) {
+      featuredImageUrl = imgMatch[1];
+    }
+  }
+
+  if (featuredImageUrl) {
+    lines.push(`featuredImage: "${featuredImageUrl}"`);
   }
 
   // Author

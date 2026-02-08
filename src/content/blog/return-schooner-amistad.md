@@ -12,6 +12,7 @@ tags:
   - "Baltimore clipper"
   - "mystic seaport"
   - "State of Connecticut"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/amistad.jpg"
 author: "Rick Spilman"
 description: "The schooner Amistad, the official flagship of the State of Connecticut, has seen difficult times in recent years. Built fifteen years ago at Mystic Seaport, until recently, the ship had been in receivership since 2014, after Amistad America, the non-profit which ran the … Continue reading &rarr;"
 ---

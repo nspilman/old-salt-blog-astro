@@ -12,6 +12,7 @@ tags:
   - "Pride of Baltimore II"
   - "Privateer Lynx"
   - "Sixth Annual Bayfront Reggae and World Music festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/ship-photo.jpg"
 author: "Rick Spilman"
 description: "The  Pride of Baltimore II, the Brig Niagara, and the privateer Lynx will on hand for the 2011 Duluth Music and Maritime Festival  starting on Friday July 15 and running through Monday, July 18.  Music, food, and tall ships – it sounds … Continue reading &rarr;"
 ---

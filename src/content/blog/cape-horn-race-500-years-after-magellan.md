@@ -9,6 +9,7 @@ tags:
   - "Alec Honey"
   - "Cape Horn Race"
   - "Strait of Magellan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/KCape-Horn-Race-2019-2020-voiles-noires.jpg"
 author: "Rick Spilman"
 description: "A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the Strait of Magellan in 1520. Dubbed the \"Cape Horn Race,\" it will have four legs: The Cape Horn Transat — Gibraltar … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "SS Rohilla"
   - "Whitby"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/78612123_rohilla19.jpg"
 author: "Rick Spilman"
 description: "Just over 100 years ago, the World War I hospital ship, SS Rohilla, ran aground in a gale just a mile off the North Yorkshire coast, with the loss of 85."
 ---

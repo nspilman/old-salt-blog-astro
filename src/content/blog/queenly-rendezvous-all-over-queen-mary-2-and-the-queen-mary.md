@@ -14,6 +14,7 @@ tags:
   - "Queen Mary"
   - "Queen Mary 2"
   - "Queen Victoria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/5258_24020631711.jpg"
 author: "Rick Spilman"
 description: "Carnival Cruise Lines seems to be working the \"Rendezvous Circuit\" for all its worth with the three Queens of its subsidiary, Cunard Line.    Last month we posted about the   \"Royal Rendezvous\" in New York harbor –  \"Cunard Takes Manhattan … Continue reading &rarr;"
 ---

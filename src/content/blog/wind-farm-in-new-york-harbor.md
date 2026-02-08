@@ -10,6 +10,7 @@ tags:
   - "Port Authority"
   - "Upper New York Bay"
   - "wind farm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/wind_farm.jpg"
 author: "Rick Spilman"
 description: "Port Authority Plans to Build Wind Farm The Port Authority is planning on creating a wind farm on one of its shipping piers in New Jersey. The five windmills would help power the port’s cargo operations. A private company would … Continue reading &rarr;"
 ---

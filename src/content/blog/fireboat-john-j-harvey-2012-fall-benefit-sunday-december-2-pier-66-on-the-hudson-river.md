@@ -10,6 +10,7 @@ categories:
 tags:
   - "2012 Fall Benefit"
   - "fireboat John J. Harvey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/harvey.jpg"
 author: "Rick Spilman"
 description: "About a month ago, we posted about the Fireboat John J. Harvey – 2012 Fall Benefit which was originally scheduled for October 22nd.  Superstorm Sandy’s arrival the next day, however  made rescheduling necessary.  It is on again, this Sunday, December 2nd, and it sounds like a great … Continue reading &rarr;"
 ---

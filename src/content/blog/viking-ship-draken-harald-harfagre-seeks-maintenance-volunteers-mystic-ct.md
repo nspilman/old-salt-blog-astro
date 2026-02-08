@@ -8,6 +8,7 @@ categories:
 tags:
   - "Draken Harald Hårfagre"
   - "Viking ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/maintaindrakar.jpg"
 author: "Rick Spilman"
 description: "Next weekend, the Viking Ship Draken Harald Hårfagre is seeking volunteers to help maintain the ship before it sets sails again this summer. Or as they put it, \"Spring is here, and the Viking Ship Draken Harald Hårfagre needs some extra … Continue reading &rarr;"
 ---

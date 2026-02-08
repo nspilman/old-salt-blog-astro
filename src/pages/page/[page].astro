@@ -6,12 +6,52 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Pagination from '../../components/Pagination.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
+import { getImageDimensions, isLandscape } from '../../utils/images';
+
+// Helper to convert markdown to simple HTML and truncate by word count
+function markdownToHtml(markdown: string, wordLimit: number = 200): string {
+	// Remove images from markdown
+	let content = markdown.replace(/!\[.*?\]\(.*?\)/g, '');
+
+	// Convert markdown links to HTML links
+	content = content.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+
+	// Convert bold/italic
+	content = content.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+	content = content.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+	// Split into paragraphs
+	const paragraphs = content.split(/\n\n+/).filter(p => p.trim());
+
+	let wordCount = 0;
+	const result: string[] = [];
+
+	for (const para of paragraphs) {
+		const cleanPara = para.replace(/\n/g, ' ').trim();
+		if (!cleanPara) continue;
+
+		const words = cleanPara.split(/\s+/);
+		if (wordCount + words.length <= wordLimit) {
+			result.push(`<p>${cleanPara}</p>`);
+			wordCount += words.length;
+		} else {
+			const remaining = wordLimit - wordCount;
+			if (remaining > 0) {
+				const partialWords = words.slice(0, remaining).join(' ');
+				result.push(`<p>${partialWords}</p>`);
+			}
+			break;
+		}
+	}
+
+	return result.join('\n');
+}
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
 	const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-	const POSTS_PER_PAGE = 15;
+	const POSTS_PER_PAGE = 10;
 	const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
 
 	// Generate paths for pages 2 onwards (page 1 is at /)
@@ -34,6 +74,17 @@ export async function getStaticPaths() {
 
 const { posts, currentPage, totalPages } = Astro.props;
 
+// Get image dimensions for each post
+const postsWithImageInfo = await Promise.all(
+	posts.map(async (post) => {
+		const imageDimensions = post.data.featuredImage
+			? await getImageDimensions(post.data.featuredImage)
+			: null;
+		const imageIsLandscape = isLandscape(imageDimensions);
+		return { post, imageIsLandscape };
+	})
+);
+
 // Pagination URLs
 const prevUrl = currentPage > 1 ? (currentPage === 2 ? '/' : `/page/${currentPage - 1}`) : null;
 const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
@@ -48,35 +99,34 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 		<Header />
 		<main>
 			<section>
-				<h1>Old Salt Blog</h1>
-				<p class="subtitle">Maritime and nautical stories from around the world</p>
+				<div class="page-header">
+					<h1>Old Salt Blog</h1>
+					<p class="subtitle">Maritime and nautical stories from around the world</p>
+				</div>
 
 				<div class="post-list">
-					{posts.map((post) => (
+					{postsWithImageInfo.map(({ post, imageIsLandscape }) => (
 						<article class="post-preview">
-							<a href={`/${post.data.slug}/`} class="post-link">
-								{post.data.featuredImage && (
-									<div class="post-image">
-										<img src={post.data.featuredImage} alt={post.data.title} />
-									</div>
-								)}
-								<div class="post-content">
-									<h2>{post.data.title}</h2>
-									<p class="post-date">
-										<FormattedDate date={post.data.date} />
-									</p>
-									{post.data.excerpt && (
-										<p class="post-excerpt">{post.data.excerpt}</p>
-									)}
-									{post.data.categories && post.data.categories.length > 0 && (
-										<div class="post-categories">
-											{post.data.categories.map((category) => (
-												<span class="category-tag">{category}</span>
-											))}
-										</div>
-									)}
+							<header class="post-header">
+								<h2><a href={`/${post.data.slug}/`}>{post.data.title}</a></h2>
+								<div class="post-meta">
+									<span class="post-date">
+										Posted on <FormattedDate date={post.data.date} />
+										{post.data.author && <> by <span class="author">{post.data.author}</span></>}
+									</span>
 								</div>
-							</a>
+							</header>
+							<div class="post-body">
+								{post.data.featuredImage && (
+									<a href={`/${post.data.slug}/`} class={`post-image-link ${imageIsLandscape ? 'landscape' : 'portrait'}`}>
+										<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
+									</a>
+								)}
+								<div class="post-content" set:html={markdownToHtml(post.body || '', 200)} />
+								<p class="continue-reading">
+									<a href={`/${post.data.slug}/`}>Continue reading <span class="arrow">→</span></a>
+								</p>
+							</div>
 						</article>
 					))}
 				</div>
@@ -89,124 +139,205 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 </html>
 
 <style>
+	/* Pagination pages - same soul as homepage */
 	main {
-		width: 100%;
+		max-width: 1000px;
+		margin: 0 auto;
+		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
+		min-height: calc(100vh - 160px);
+		position: relative;
+	}
+
+	/* On smaller screens, go full-width */
+	@media (max-width: 1040px) {
+		main {
+			max-width: 100%;
+		}
 	}
 
 	section {
-		max-width: 900px;
+		max-width: 940px;
 		margin: 0 auto;
-		padding: 2rem 1rem;
+		padding: 1.5rem 1rem;
+	}
+
+	.page-header {
+		margin-bottom: 2rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid var(--border-dark);
 	}
 
 	h1 {
-		font-size: 2.5rem;
-		margin-bottom: 0.5rem;
-		color: rgb(var(--accent-dark));
+		font-size: 2rem;
+		margin-bottom: 0.25rem;
+		color: rgb(var(--black));
 	}
 
 	.subtitle {
-		font-size: 1.2rem;
+		font-size: 1rem;
 		color: rgb(var(--gray));
-		margin-bottom: 3rem;
+		margin: 0;
+		font-style: italic;
 	}
 
 	.post-list {
 		display: flex;
 		flex-direction: column;
-		gap: 2rem;
-		margin-bottom: 3rem;
+		gap: 0;
+		margin-bottom: 2rem;
 	}
 
 	.post-preview {
-		border: 1px solid rgb(var(--gray-light));
-		border-radius: 8px;
+		padding: 1.5rem 0;
+		border-bottom: 1px solid var(--border-light);
 		overflow: hidden;
-		transition: transform 0.2s, box-shadow 0.2s;
 	}
 
-	.post-preview:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	.post-preview:first-child {
+		padding-top: 0;
 	}
 
-	.post-link {
-		display: block;
-		text-decoration: none;
-		color: inherit;
+	/* Post header with title and meta */
+	.post-header {
+		margin-bottom: 0.75rem;
 	}
 
-	.post-image {
-		width: 100%;
-		height: 250px;
-		overflow: hidden;
-		background-color: rgb(var(--gray-light));
-	}
-
-	.post-image img {
-		width: 100%;
-		height: 100%;
-		object-fit: cover;
-	}
-
-	.post-content {
-		padding: 1.5rem;
-	}
-
-	.post-content h2 {
-		margin: 0 0 0.5rem 0;
+	.post-header h2 {
+		margin: 0 0 0.25rem 0;
 		font-size: 1.5rem;
-		color: rgb(var(--black));
+		line-height: 1.3;
 	}
 
-	.post-link:hover h2 {
-		color: rgb(var(--accent));
+	.post-header h2 a {
+		color: rgb(var(--black));
+		text-decoration: none;
+	}
+
+	.post-header h2 a:hover {
+		color: var(--accent);
+	}
+
+	/* Meta - subtle gray */
+	.post-meta {
+		margin-bottom: 0;
 	}
 
 	.post-date {
 		font-size: 0.875rem;
 		color: rgb(var(--gray));
-		margin-bottom: 1rem;
+		font-weight: normal;
 	}
 
-	.post-excerpt {
+	.post-date .author {
+		color: var(--accent);
+	}
+
+	/* Post body with floated image */
+	.post-body {
+		line-height: 1.7;
+	}
+
+	/* Image layout styles are in global.css */
+
+	/* Post content paragraphs */
+	.post-content {
 		font-size: 1rem;
-		line-height: 1.6;
 		color: rgb(var(--gray-dark));
-		margin-bottom: 1rem;
 	}
 
-	.post-categories {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 0.5rem;
+	.post-content :global(p) {
+		margin: 0 0 1rem 0;
 	}
 
-	.category-tag {
-		display: inline-block;
-		padding: 0.25rem 0.75rem;
-		background-color: rgb(var(--accent-light));
-		color: rgb(var(--accent-dark));
-		border-radius: 4px;
-		font-size: 0.875rem;
-		font-weight: 500;
+	.post-content :global(a) {
+		color: var(--accent);
+		text-decoration: none;
 	}
 
+	.post-content :global(a:hover) {
+		text-decoration: underline;
+	}
+
+	/* Continue reading link */
+	.continue-reading {
+		margin: 1rem 0 0 0;
+		clear: both;
+	}
+
+	.continue-reading a {
+		color: var(--accent);
+		text-decoration: none;
+		font-weight: normal;
+	}
+
+	.continue-reading a:hover {
+		text-decoration: underline;
+	}
+
+	.continue-reading .arrow {
+		margin-left: 0.25rem;
+	}
+
+	/* Tablet */
 	@media (max-width: 768px) {
+		section {
+			padding: 1.25rem 1rem;
+		}
+
+		.page-header {
+			margin-bottom: 1.5rem;
+			padding-bottom: 0.875rem;
+		}
+
 		h1 {
-			font-size: 2rem;
+			font-size: 1.5rem;
 		}
 
 		.subtitle {
-			font-size: 1rem;
+			font-size: 0.9375rem;
 		}
 
-		.post-image {
-			height: 200px;
+		.post-preview {
+			padding: 1.25rem 0;
 		}
 
-		.post-content h2 {
+		.post-header h2 {
 			font-size: 1.25rem;
+		}
+
+		/* Image responsive styles in global.css */
+
+		.post-content {
+			font-size: 0.9375rem;
+		}
+	}
+
+	/* Small mobile - image goes above text */
+	@media (max-width: 480px) {
+		section {
+			padding: 1rem 0.875rem;
+		}
+
+		.page-header {
+			margin-bottom: 1.25rem;
+		}
+
+		h1 {
+			font-size: 1.375rem;
+		}
+
+		.post-preview {
+			padding: 1rem 0;
+		}
+
+		.post-header h2 {
+			font-size: 1.125rem;
+		}
+
+		/* Mobile image styles in global.css */
+
+		.post-list {
+			margin-bottom: 1.5rem;
 		}
 	}
 </style>

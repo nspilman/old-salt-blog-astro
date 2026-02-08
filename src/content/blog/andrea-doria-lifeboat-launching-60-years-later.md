@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/adlifeboat1.jpg"
 author: "Rick Spilman"
 description: "On July 25, 1956, the Italian Line passenger liner Andrea Doria was approaching the coast of Nantucket, Massachusetts, bound for New York City, when she collided with the eastbound MS Stockholm of the Swedish American Line and sank. Now 60 … Continue reading &rarr;"
 ---

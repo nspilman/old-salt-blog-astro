@@ -9,6 +9,7 @@ categories:
 tags:
   - "sailing"
   - "Summer Sailstice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/SAILSTICE-LOGO.jpg"
 author: "Rick Spilman"
 description: "What is the best way to celebrate sailing?  My first response is to say, go sailing.  Sailing, seems to me, to be its own celebration. There is that moment when everything falls into balance — when the force of the … Continue reading &rarr;"
 ---

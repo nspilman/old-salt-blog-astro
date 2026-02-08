@@ -13,6 +13,7 @@ tags:
   - "Ragamuffin"
   - "Rambler"
   - "Rolex Sydney-Hobart Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/comanche1.jpg"
 author: "Rick Spilman"
 description: "The American yachts Comanche and Rambler are battling over the lead in the Rolex Sydney-Hobart Race, which has turned into a major boat-breaker. Twenty-nine boats, representing a quarter of the fleet, have retired from the race, most with damage from … Continue reading &rarr;"
 ---

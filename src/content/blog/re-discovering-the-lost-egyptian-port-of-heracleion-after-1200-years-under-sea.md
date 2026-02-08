@@ -12,6 +12,7 @@ tags:
   - "Egypt"
   - "Heracleion"
   - "Thonis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/hercleion1.jpg"
 author: "Rick Spilman"
 description: "In 2001, a joint French-English expedition was searching the bottom of Egypt’s Aboukir Bay for the wrecks of French warships sunk in the \"Battle of the Nile\" in 1798.  Instead they re-discovered a lost city.  Known as Thonis to the Egyptians and Heracleion to … Continue reading &rarr;"
 ---

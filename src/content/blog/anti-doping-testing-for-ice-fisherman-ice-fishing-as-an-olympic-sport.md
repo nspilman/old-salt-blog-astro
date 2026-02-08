@@ -5,6 +5,7 @@ slug: "anti-doping-testing-for-ice-fisherman-ice-fishing-as-an-olympic-sport"
 excerpt: "Another post to be filed in the category \"you can’t make this stuff up.\"  There is an article today on the front page of the New York Times titled, \"Dope Tests in Ice Fishing? No, Beer Doesn’t Count.\"   It reports that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/YJPICEFISHING1.jpg"
 author: "Rick Spilman"
 description: "Another post to be filed in the category \"you can’t make this stuff up.\"  There is an article today on the front page of the New York Times titled, \"Dope Tests in Ice Fishing? No, Beer Doesn’t Count.\"   It reports that … Continue reading &rarr;"
 ---

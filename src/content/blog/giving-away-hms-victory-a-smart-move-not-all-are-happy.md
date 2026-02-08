@@ -13,6 +13,7 @@ tags:
   - "HMS Victory"
   - "Ministry of Defense"
   - "National Museum of the Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/HMSVictory_1799444c.jpg"
 author: "Rick Spilman"
 description: "The British Ministry of Defense (MoD) is giving Admiral Lord Nelson’s flagship at the Battle of Trafalgar,  HMS Victory to the National Museum of the Royal Navy (NMRN) in Portsmouth.  The ship would stay a commissioned warship and thus will be able to retain bragging … Continue reading &rarr;"
 ---

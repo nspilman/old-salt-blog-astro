@@ -11,6 +11,7 @@ tags:
   - "Plimsoll mark"
   - "Sailor's Friend"
   - "Samuel Plimsoll"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/samuel_plimsoll.jpg"
 author: "Rick Spilman"
 description: "Today is Samuel Plimsoll‘s birthday. Born on February 10, 1824,  Plimsoll, a British politician and social reformer  fought for reasonable loading of cargo ships, which lead the adoption of the first modern loadline, which became known as the Plimsoll mark or Line.  In … Continue reading &rarr;"
 ---

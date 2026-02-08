@@ -12,6 +12,7 @@ tags:
   - "Great Lakes"
   - "Mohawk community"
   - "St. Lawrence Seaway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/nuclear-waste-sign.jpg"
 author: "Rick Spilman"
 description: "Last February we posted about the the Canadian Nuclear Safety Commission approval of a plan for Bruce Power to ship 1,600 tonnes of radioactive waste,  in 16 decommissioned nuclear reactors, across the Great Lakes, though the St. Lawrence Seaway and across the Atlantic … Continue reading &rarr;"
 ---

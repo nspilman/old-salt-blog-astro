@@ -16,6 +16,7 @@ tags:
   - "OCI Fuels"
   - "South Korea"
   - "Ulsan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/lauramaersk.jpg"
 author: "Rick Spilman"
 description: "Back in 2021, we posted about a pledge made by Maersk that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. This week, Maersk fulfilled that pledge, when … Continue reading &rarr;"
 ---

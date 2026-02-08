@@ -11,6 +11,7 @@ tags:
   - "food poisoning"
   - "JS Comet"
   - "Korean bulk carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/JS_COMET.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard in Florida faced an unusual challenge earlier this week.  Virtually the entire crew, 19 out of 21, on the 35,362 dwt Korean bulk carrier JS Comet had become seriously ill with symptoms of food poisoning and needed to … Continue reading &rarr;"
 ---

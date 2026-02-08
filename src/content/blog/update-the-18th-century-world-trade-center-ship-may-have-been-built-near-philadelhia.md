@@ -14,6 +14,7 @@ tags:
   - "Dr. Neil Pederson"
   - "Lamont–Doherty Earth Observatory"
   - "World Trade Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/CityRoom-ShipA.jpg"
 author: "Rick Spilman"
 description: "Four years ago, workers excavating at the new World Trade Center site in lower Manhattan uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Frederick Marryat"
   - "helicopter"
   - "The Mission"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/mission.jpg"
 author: "Rick Spilman"
 description: "David Hayes made a discovery that is too good not to share.  He came across a book cover of a reissue of Frederick Marryat‘s The Mission by Tutis Digital Publishing.   The cover shows a helicopter hovering low over the ocean about … Continue reading &rarr;"
 ---

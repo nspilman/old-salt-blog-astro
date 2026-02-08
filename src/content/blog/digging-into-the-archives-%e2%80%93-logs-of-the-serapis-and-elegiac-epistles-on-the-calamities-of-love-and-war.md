@@ -9,6 +9,7 @@ categories:
 tags:
   - "Battle of Flamborough Head"
   - "John Paul Jones"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/BonhommeRichard.jpg"
 author: "Rick Spilman"
 description: "In honor of John Paul Jones’ victory in the Battle of Flamborough Head where he captured HMS Serapis on this day 230 years ago, we offer two works from the archives. (For those who have not yet discovered it, the Internet … Continue reading &rarr;"
 ---

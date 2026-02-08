@@ -10,6 +10,7 @@ tags:
   - "CT scanner"
   - "fossil"
   - "pliosaur"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/50503924_liopleurodoncolo.jpg"
 author: "Rick Spilman"
 description: "An intriguing article about how scientists are using CT scans to build a 3D picture of the ferocious predator which terrorized the oceans 150m years ago.  Thanks to Alaric Bond for passing it along. Colossal pliosaur fossil secrets revealed by CT … Continue reading &rarr;"
 ---

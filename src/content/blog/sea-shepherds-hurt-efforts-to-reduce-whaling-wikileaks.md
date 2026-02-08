@@ -11,6 +11,7 @@ tags:
   - "Japanese whaling"
   - "Sea Shepherds"
   - "WikiLeaks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/steveirwin.jpg"
 author: "Rick Spilman"
 description: "Rather than pressuring the Japanese to stop whaling, the vigilante violence of the Sea Shepherds made it more difficult for Japanese diplomats  to compromise in negotiations to reduce whaling according to documents released by WikiLeaks. WikiLeaks releases documents about anti-whaling group Sea Shepherd … Continue reading &rarr;"
 ---

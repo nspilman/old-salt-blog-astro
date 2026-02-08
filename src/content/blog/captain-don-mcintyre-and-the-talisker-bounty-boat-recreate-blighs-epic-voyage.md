@@ -12,6 +12,7 @@ tags:
   - "Don McIntyre"
   - "East Timor"
   - "Talisker Bounty Boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/t1larg.jpg"
 author: "Rick Spilman"
 description: "At the end of last April we posted about an expedition led by Australian Don McIntyre to recreate the epic 3,700 nautical mile voyage of Captain Bligh and his crew across the Pacific in an open boat in 1789 following the famous mutiny.   McIntyre … Continue reading &rarr;"
 ---

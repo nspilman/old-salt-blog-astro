@@ -12,6 +12,7 @@ tags:
   - "Elissa"
   - "galveston"
   - "Stray Current Electrolytic Corrosion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Elissa_off_Biloxi19862.jpg"
 author: "Rick Spilman"
 description: "The barque Elissa  is one of the true ship restoration success stories.  The ship was rescued from near oblivion and restored at considerable cost by a dedicated group of volunteers.  She has been well maintained in  Galveston and has been taken on yearly sails, … Continue reading &rarr;"
 ---

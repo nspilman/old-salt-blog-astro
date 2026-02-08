@@ -13,6 +13,7 @@ tags:
   - "pinisi"
   - "South Sulawesi"
   - "Tanjung Bira"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/11856-full-sailing-silolona.jpg"
 author: "Rick Spilman"
 description: "For centuries, the Bugis people have sailed from South Sulawesi across the shallow seas of the Indonesian archipelago. They would sail east and west on the monsoons, regularly trading as far as Northern Australia in their two masted ships, known … Continue reading &rarr;"
 ---

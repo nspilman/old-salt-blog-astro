@@ -6,6 +6,7 @@ excerpt: "Hull trawler joins SS Great Britain and Royal Yacht on Historic Ships 
 categories:
   - "Current"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/ArcticProw.jpg"
 author: "Rick Spilman"
 description: "Hull trawler joins SS Great Britain and Royal Yacht on Historic Ships Register An historic trawler berthed in Hull’s Museum Quarter has joined the ss Great Britain, HMS Victory and the Royal Yacht Britannia on the list of the nation’s … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Motorised Submersible Canoe"
   - "Special Operations Executive"
   - "Station IX"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/med_diving_canoe.jpg"
 author: "Rick Spilman"
 description: "In World War II, the British government set up the Special Operations Executive (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as \"the Baker Street Irregulars,\" (because their headquarters was on Baker Street in … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Bramble Bank"
   - "Hoegh Osaka"
   - "Solent"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/hoeghosaka.jpg"
 author: "Rick Spilman"
 description: "Last Wednesday, the Höegh Osaka floated free from the bank where she had been intentionally grounded. Salvors is underway, weather permitting."
 ---

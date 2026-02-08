@@ -9,6 +9,7 @@ tags:
   - "Blowout Preventer Control Pod"
   - "Deepwater Horizon"
   - "leak on a safety device"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg"
 author: "Rick Spilman"
 description: "There is reported stonewalling by witnesses who have cancelled their scheduled testimonies at the ongoing investigation of the Deepwater Horizon disaster.  Nevertheless,  startling testimony was presented this Tuesday: A BP official, Ronald Sepulvado, a well-site leader, testified that BP continued drilling for oil … Continue reading &rarr;"
 ---

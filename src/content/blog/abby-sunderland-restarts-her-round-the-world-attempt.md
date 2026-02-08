@@ -11,6 +11,7 @@ tags:
   - "Cabo San Lucas"
   - "Mexico"
   - "Wild Eyes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/sunderland2.jpg"
 author: "Rick Spilman"
 description: "Abby Sunderland is putting into Cabo San Lucas, Mexico, interrupting her round the world attempt,  because of a power problem aboard her yacht, Wild Eyes. The yacht’s solar panels and wind generators were not providing enough power and the yacht … Continue reading &rarr;"
 ---

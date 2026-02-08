@@ -12,6 +12,7 @@ tags:
   - "Floating Gold"
   - "Margaret Muir"
   - "Oliver Quintrell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/adordscover.jpg"
 author: "Rick Spilman"
 description: "To celebrate the launch of Margaret Muir’s Admiralty Orders – Book 3 in her Oliver Quintrell series, the first book of the series, Floating Gold is free on Amazon for the next three days.  In our review, we called Floating … Continue reading &rarr;"
 ---

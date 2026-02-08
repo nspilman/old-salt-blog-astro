@@ -10,6 +10,7 @@ tags:
   - "Pembrokeshire"
   - "plastic puffins"
   - "Ramsey Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/plasticpuffins.jpg"
 author: "Rick Spilman"
 description: "I can imagine a couple of bird watchers who become excited when they sight puffins on Pembrokeshire’s Ramsey Island.   There haven’t been puffins on the island since the 1890s when they were killed off by rats.  The rats are gone now, but … Continue reading &rarr;"
 ---

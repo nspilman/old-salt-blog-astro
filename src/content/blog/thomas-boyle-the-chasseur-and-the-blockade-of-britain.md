@@ -13,6 +13,7 @@ tags:
   - "Pride of Baltimore"
   - "Thomas Boyle"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/boyle.jpg"
 author: "Rick Spilman"
 description: "Today in 1775 in Marblehead, Massachusetts, Thomas Boyle was born.  Going to sea at age 10, he would become one of the most successful and most famous privateering captains in the War of 1812.  After several successful cruises as captain of the sharp-built \"Baltimore clipper\" Comet, Boyle … Continue reading &rarr;"
 ---

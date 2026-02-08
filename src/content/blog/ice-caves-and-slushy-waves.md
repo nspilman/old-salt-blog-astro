@@ -12,6 +12,7 @@ tags:
   - "Jonathan Nimerfroh"
   - "Lake Michigan"
   - "Nantucket"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/28WAVEWEB.jpg"
 author: "Rick Spilman"
 description: "On Nantucket Island, the waves have turned to a slowly rolling slush while in Michigan, ice caves have formed along the shore."
 ---

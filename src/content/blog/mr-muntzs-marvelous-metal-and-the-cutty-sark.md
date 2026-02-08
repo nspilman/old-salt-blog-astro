@@ -10,6 +10,7 @@ categories:
 tags:
   - "Cutty Sark"
   - "Muntz metal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/csmuntzmetal.jpg"
 author: "Rick Spilman"
 description: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as \"a clucking, Grade A, Bernard Matthews-class turkey.\" For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
 ---

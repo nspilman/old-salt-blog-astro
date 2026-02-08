@@ -12,6 +12,7 @@ tags:
   - "Classic Harbor Line"
   - "Scarano brothers"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/a2.jpg"
 author: "Rick Spilman"
 description: "Classic Harbor Line‘s schooner America 2.0 is a fascinating design. Designed and built by the Scarano brothers and delivered in 2011, the boat is, notionally, a replica of the schooner yacht America of 1851, after which the famous America’s Cup was … Continue reading &rarr;"
 ---

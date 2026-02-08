@@ -12,6 +12,7 @@ tags:
   - "fin whale"
   - "humpback whale"
   - "Sapphire Princess"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whale-collision.jpg"
 author: "Rick Spilman"
 description: "An update to our previous post – the Sapphire Princess cruise ship, which was found to have impaled a female humpback whale on her bulbous bow last week, probably did not kill the whale.  A necropsy finished this week suggests that the whale was already dead.  This is … Continue reading &rarr;"
 ---

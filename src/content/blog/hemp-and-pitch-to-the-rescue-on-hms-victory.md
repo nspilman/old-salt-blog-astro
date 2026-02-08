@@ -14,6 +14,7 @@ tags:
   - "oakum"
   - "pitch"
   - "rot"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2010/07/HMS_VICTORY_2.jpg"
 author: "Rick Spilman"
 description: "An interesting article on the day after Nelson’s birthday – after using synthetic mastic, a modern caulking material commonly used in yachts,  for the last fifteen year without success, the folks restoring Nelson’s HMS Victory have returned to using hemp oakum … Continue reading &rarr;"
 ---

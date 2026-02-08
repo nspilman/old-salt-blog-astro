@@ -9,6 +9,7 @@ categories:
 tags:
   - "Great Lakes"
   - "ice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/greatlakes1.jpg"
 author: "Rick Spilman"
 description: "The Great Lakes between the United States and Canada were formed by the passage of ice at end of the last glacial period around 10,000 years ago. They are now being covered by near record ice once again (although, not … Continue reading &rarr;"
 ---

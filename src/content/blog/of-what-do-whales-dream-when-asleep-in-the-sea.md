@@ -16,6 +16,7 @@ tags:
   - "sleep"
   - "whale"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/sleepingspermwhale.jpg"
 author: "Rick Spilman"
 description: "Sperm and humpback whales have been observed sleeping, hanging vertically in the sea, for ten to twenty minutes."
 ---

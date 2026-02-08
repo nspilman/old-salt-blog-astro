@@ -11,6 +11,7 @@ tags:
   - "threatened"
   - "US Fish and Wildlife Service"
   - "West Indian manatees"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/manteeCR.jpg"
 author: "Rick Spilman"
 description: "When I was in high school in Florida in the 70s, the question was not \"will the manatees become extinct?\" but \"how fast?\" "
 ---

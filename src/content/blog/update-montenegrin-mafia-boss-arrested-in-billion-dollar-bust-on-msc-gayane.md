@@ -14,6 +14,7 @@ tags:
   - "Montenegrin mafia boss"
   - "MSC Gayane"
   - "Philadephia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/11/mscgayane.jpg"
 author: "Rick Spilman"
 description: "In June 2019, Federal authorities raided the container ship MSC Gayane when the ship docked in Philadephia. They found and seized 20 tonnes of cocaine, worth over a billion dollars, stashed in shipping containers. The seizure was the largest cocaine … Continue reading &rarr;"
 ---

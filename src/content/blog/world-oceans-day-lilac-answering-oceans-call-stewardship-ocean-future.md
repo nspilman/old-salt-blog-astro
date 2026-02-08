@@ -12,6 +12,7 @@ tags:
   - "Lilac Preservation Project"
   - "USCG Cutter"
   - "World Oceans Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/lilaccgday.jpg"
 author: "Rick Spilman"
 description: "If you are around New York harbor on Thursday, June 8th, from 6 — 7:45 PM, stop by the historic USCG Cutter Lilac at Pier 25 on the Hudson River to celebrate World Oceans Day. The Lilac Preservation Project is hosting … Continue reading &rarr;"
 ---

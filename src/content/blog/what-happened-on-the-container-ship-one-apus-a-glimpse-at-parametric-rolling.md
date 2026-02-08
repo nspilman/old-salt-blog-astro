@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Parametric Rolling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/oneapuskobe.jpg"
 author: "Rick Spilman"
 description: "Last week, the container ship ONE Apus lost or had damaged over 1,900 containers in a storm in the Pacific. The lost or damaged containers representing close to 25% of the ship’s cargo. The casualty represents more containers than are … Continue reading &rarr;"
 ---

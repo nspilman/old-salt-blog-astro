@@ -11,6 +11,7 @@ tags:
   - "containerization"
   - "port of Los Angeles/Long Beach"
   - "Sir Harold Evans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/longbeachcont.jpg"
 author: "Rick Spilman"
 description: "The eight day port strike on the West Coast is over, thank goodness. On November 27th, a group of 450 clerks in the port of Los Angeles/Long Beach, who had worked without a contract for over two years, walked out. … Continue reading &rarr;"
 ---

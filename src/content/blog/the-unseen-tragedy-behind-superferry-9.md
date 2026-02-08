@@ -12,6 +12,7 @@ tags:
   - "MV Princess of the Stars"
   - "Philippines"
   - "Superferry 9"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/superferry9.jpg"
 author: "Rick Spilman"
 description: "I’ve always been struck by the tragedy that those most in need of ferry service are often also most at risk.    We have seen recent ferry accidents in the Philippines with the sinking of the Superferry 9 resulting in nine deaths, in … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Kiribati"
   - "Marshall Islands"
   - "Namorik Atoll"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/adrift.jpg"
 author: "Rick Spilman"
 description: "Two men, aged 53 and 26, from the Pacific Ocean island nation of Kiribati, who had been missing for 33 days, came ashore over 300 miles away on the on Namorik Atoll, in the Marshall Islands. The men were reported … Continue reading &rarr;"
 ---

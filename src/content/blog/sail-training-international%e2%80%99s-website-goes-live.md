@@ -5,6 +5,7 @@ slug: "sail-training-international%e2%80%99s-website-goes-live"
 excerpt: "The new Sail Training International website has gone live and it is quite impressive. Lots of great information, news and photos. Definitely worth a look.   Sail Training International is a not-for-profit organisation with worldwide membership and activities whose purpose is the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Sails.jpg"
 author: "Rick Spilman"
 description: "The new Sail Training International website has gone live and it is quite impressive. Lots of great information, news and photos. Definitely worth a look.   Sail Training International is a not-for-profit organisation with worldwide membership and activities whose purpose is the … Continue reading &rarr;"
 ---

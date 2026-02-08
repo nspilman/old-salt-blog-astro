@@ -9,6 +9,7 @@ tags:
   - "Cannons"
   - "EBay"
   - "Ships Cannon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/cannon-1.jpg"
 author: "Rick Spilman"
 description: "Thanks to Alaric Bond for pointing out this wonderful auction on EBay.  No bids yet but there are still five days left.   I would love to own these beauties but can’t figure out where I would put them or what I would … Continue reading &rarr;"
 ---

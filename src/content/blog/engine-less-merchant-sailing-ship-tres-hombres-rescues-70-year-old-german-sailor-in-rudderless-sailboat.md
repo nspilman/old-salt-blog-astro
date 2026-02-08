@@ -12,6 +12,7 @@ tags:
   - "merchant sailing ship"
   - "rescue"
   - "Tres Hombres"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/tres+hombres+Hajo+Olij.jpg"
 author: "Rick Spilman"
 description: "The Dutch merchant sailing ship, Tres Hombres, rescued a 70 year old German sailor who had been adrift in the Atlantic for two weeks after the rudder broke on his sailboat, Fidel.  The German sailor was exhausted and dehydrated and was incapable of taking the … Continue reading &rarr;"
 ---

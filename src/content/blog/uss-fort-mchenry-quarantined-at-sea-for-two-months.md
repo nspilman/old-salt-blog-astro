@@ -10,6 +10,7 @@ tags:
   - "parotitis"
   - "Quarantine"
   - "USS Fort McHenry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/03/ftmchenry.jpg"
 author: "Rick Spilman"
 description: "USS Fort McHenry, a US Navy Whidbey Island-class dock landing ship, with over 700 sailors and Marines aboard, has spent the last two months at sea without a port-call. The reason? There has been an outbreak of parotitis, a virus … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Laura Dekker"
   - "New Zealand"
   - "sailboat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0804-wire-Laura-Dekker-DUTC.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker’s sailboat, Guppy, now flies a New Zealand flag from her stern.  Laura has struck the Dutch colors as the bureaucrats who tried and initially succeeded in stopping her solo voyage have returned to pester her and her family once more. They … Continue reading &rarr;"
 ---

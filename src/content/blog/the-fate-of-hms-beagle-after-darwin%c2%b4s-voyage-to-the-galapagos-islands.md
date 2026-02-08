@@ -13,6 +13,7 @@ tags:
   - "Galapagos Islands"
   - "HMS Beagle"
   - "Robert Prescott"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/beagle.jpg"
 author: "Rick Spilman"
 description: "  Robert Prescott, a marine archeologist, believes that he has located the final resting place HMS Beagle. The Fate of HMS Beagle After Darwin´s Voyage to the Galapagos Islands HMS Beagle was the ship that sailed around the world with … Continue reading &rarr;"
 ---

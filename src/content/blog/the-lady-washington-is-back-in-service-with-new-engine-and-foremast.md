@@ -5,6 +5,7 @@ slug: "the-lady-washington-is-back-in-service-with-new-engine-and-foremast"
 excerpt: "There is a certain irony that a sailing ship would have to be taken out of service because its engine did not meet current emission standards, but such was the case with the Lady Washington, the Official Ship of the State of Washington. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/ladywashington.jpg"
 author: "Rick Spilman"
 description: "There is a certain irony that a sailing ship would have to be taken out of service because its engine did not meet current emission standards, but such was the case with the Lady Washington, the Official Ship of the State of Washington. … Continue reading &rarr;"
 ---

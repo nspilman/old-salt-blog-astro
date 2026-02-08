@@ -11,6 +11,7 @@ tags:
   - "Charles W. Morgan"
   - "mystic seaport"
   - "whaling ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/morgan1.jpg"
 author: "Rick Spilman"
 description: "Mystic Seaport is looking for a new captain for the newly rebuilt whaling ship, Charles W. Morgan. The whaler first sailed in 1841 and is scheduled to undertake a  three month voyage next summer.  The captain must have a 500-ton Near Coastal … Continue reading &rarr;"
 ---

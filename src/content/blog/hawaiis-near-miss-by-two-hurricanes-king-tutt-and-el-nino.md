@@ -12,6 +12,7 @@ tags:
   - "Hurricane Iselle"
   - "Hurricane Julio"
   - "King \"TUTT\""
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/tropical-weather.jpg"
 author: "Rick Spilman"
 description: "Despite being rare, two hurricanes came close to hitting the islands of Hawaii. El Nino may be one of the reasons for the close call."
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Senesco Marine"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/ohp1.jpg"
 author: "Rick Spilman"
 description: "The SSV Oliver Hazard Perry, still not quite finished but nicely taking shape, has arrived in Newport RI to be hauled and to get a fresh coat of paint. She will then will be dockside at the Newport Shipyard for … Continue reading &rarr;"
 ---

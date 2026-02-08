@@ -11,6 +11,7 @@ tags:
   - "19th Century prison ships"
   - "Ancestry.co.uk."
   - "National Archives"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/success.jpg"
 author: "Rick Spilman"
 description: "Ancestry.co.uk. has published, on-line records, held by National Archives of 19th Century prison ships providing  a glimpse into the lives of the estimated 200,000 inmates. Prison ship records from 19th Century published The records outline the disease-ridden conditions on the \"prison hulks\", created … Continue reading &rarr;"
 ---

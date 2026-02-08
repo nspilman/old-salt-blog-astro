@@ -10,6 +10,7 @@ tags:
   - "Ark Royal"
   - "artificial reef"
   - "Torbay Council's Harbour Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/HMS-Ark-Royal.jpg"
 author: "Rick Spilman"
 description: "There have been a book, two movies and one pop song entitled, \"Sink the Bismark.\"    That is what came to mind when I heard that the Torbay Council’s Harbour Committee is recommending that they sink the Ark Royal.   The … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Occupational Safety and Health Review Commission"
   - "Orca"
   - "SeaWorld"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/orca.jpg"
 author: "Rick Spilman"
 description: "A recent ruling by the Occupational Safety and Health Review Commission, determined that orca trainers must either remain at a greater distance from the orcas, stand behind a physical barrier or use other devices to keep them safer during performances. This ruling … Continue reading &rarr;"
 ---

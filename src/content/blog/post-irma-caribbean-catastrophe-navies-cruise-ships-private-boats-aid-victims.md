@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Irma"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/irmadestruction.jpg"
 author: "Rick Spilman"
 description: "Hurricane Irma absolutely devastated many islands in the Caribbean. Now, in the aftermath of the catastrophic storm, aid is being sent by a small armada of ships and boats from governments, corporations and private citizens. The need for help is … Continue reading &rarr;"
 ---

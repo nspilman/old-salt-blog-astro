@@ -11,6 +11,7 @@ tags:
   - "levee"
   - "Mississippi River"
   - "Ohio River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/flood.jpg"
 author: "Rick Spilman"
 description: "Last week we posted that the Ohio River may be too high to allow the running of the Great Steamboat Race on May 4th.    The river has just kept rising.   Tonight the Army Corps of Engineers will blow up … Continue reading &rarr;"
 ---

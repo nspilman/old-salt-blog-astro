@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/ss_badger1.jpg"
 author: "Rick Spilman"
 description: "The SS Badger is a 410-foot long coal-fired passenger and vehicle ferry operating in Lake Michigan on a four hour shuttle service between Ludington, Michigan, and Manitowoc, Wisconsin. She began sailing in 1953 and is the last coal-fired passenger vessel … Continue reading &rarr;"
 ---

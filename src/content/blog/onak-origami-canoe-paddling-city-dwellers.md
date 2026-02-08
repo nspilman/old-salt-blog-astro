@@ -9,6 +9,7 @@ categories:
 tags:
   - "Kickstarter"
   - "Origami Canoe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/onak.jpg"
 author: "Rick Spilman"
 description: "Several years ago, we posted about the Oru, the origami kayak. Now, two Belgian designers, Otto Van de Steene and Thomas Weyn, have developed ONAK, an origami full-sized  canoe with urban paddlers in mind.  The canoe is made of a custom-made … Continue reading &rarr;"
 ---

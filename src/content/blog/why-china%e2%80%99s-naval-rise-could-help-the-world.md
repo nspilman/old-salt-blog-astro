@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Chinese Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/12.jpg"
 author: "Rick Spilman"
 description: "An interesting perspective from the  The Diplomat Magazine on Chinese naval expansion. Thanks to Alaric Bond for passing it along. Why China’s Naval Rise Could Help the World … Continue reading &rarr;"
 ---

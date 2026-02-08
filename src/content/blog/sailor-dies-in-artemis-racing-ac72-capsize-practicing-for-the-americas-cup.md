@@ -10,6 +10,7 @@ tags:
   - "AC72 catamaran"
   - "Andrew Simpson"
   - "Artemis Racing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/artemis-capsize.jpg"
 author: "Rick Spilman"
 description: "Andrew Simpson, a British double Olympic medalist and a sailor with the Swedish Artemis Racing team, has died in the capsize of an AC72 catamaran while practicing in San Francisco Bay for the upcoming America’s Cup races. One other sailor is reported to be seriously injured There were 11 … Continue reading &rarr;"
 ---

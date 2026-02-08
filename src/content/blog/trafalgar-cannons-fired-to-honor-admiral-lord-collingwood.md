@@ -5,6 +5,7 @@ slug: "trafalgar-cannons-fired-to-honor-admiral-lord-collingwood"
 excerpt: "Trafalgar cannons fired to mark 200th anniversary Cannons which last saw action at the Battle of Trafalgar are fired on Tyneside to mark the 200th anniversary of Admiral Lord Collingwood’s death.   They were last used in battle on board Collingwood’s … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/collingwood.jpg"
 author: "Rick Spilman"
 description: "Trafalgar cannons fired to mark 200th anniversary Cannons which last saw action at the Battle of Trafalgar are fired on Tyneside to mark the 200th anniversary of Admiral Lord Collingwood’s death.   They were last used in battle on board Collingwood’s … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/adcover1.jpg"
 author: "Rick Spilman"
 description: " On Thursday, September 8th at 6PM. James M. Kendra and Tricia Wachtendorf will discuss and sign copies of their new book, American Dunkirk: The Waterborne Evacuation of Manhattan on 9/11 on the historic ex-Coast Guard Cutter Lilac at Pier 25 … Continue reading &rarr;"
 ---

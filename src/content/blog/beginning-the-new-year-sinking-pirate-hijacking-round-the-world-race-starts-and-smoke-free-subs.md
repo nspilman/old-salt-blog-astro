@@ -18,6 +18,7 @@ tags:
   - "pirates"
   - "smoking"
   - "submarines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/5244699_f76d3a27cf_m.jpg"
 author: "Rick Spilman"
 description: "Today is the first day back to work for many after a bit of time off for the holidays. And how has the New Year begun?   More or less the same as the last year which just ended.  On … Continue reading &rarr;"
 ---

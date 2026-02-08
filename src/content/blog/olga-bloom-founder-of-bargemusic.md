@@ -10,6 +10,7 @@ tags:
   - "Bargemusic"
   - "converted coffee barge"
   - "Olga Bloom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/26bloom-articleLarge.jpg"
 author: "Rick Spilman"
 description: "We were saddened to learn of the death of Olga Bloom, who died on Thanksgiving Day at the age of 92. Thirty five years ago, Ms. Bloom, a violinist and violist, founded Bargemusic, a floating concert hall moored on the … Continue reading &rarr;"
 ---

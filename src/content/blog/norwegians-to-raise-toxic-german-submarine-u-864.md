@@ -5,6 +5,7 @@ slug: "norwegians-to-raise-toxic-german-submarine-u-864"
 excerpt: "Norwegians to raise submarine The Norwegian Government has announced that the wreck of the WW2 German submarine U-864, which contains 65 tons of mercury, is to be raised, and that the contaminated seabed be covered with clean sand.  The submarine, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/toxicsub.jpg"
 author: "Rick Spilman"
 description: "Norwegians to raise submarine The Norwegian Government has announced that the wreck of the WW2 German submarine U-864, which contains 65 tons of mercury, is to be raised, and that the contaminated seabed be covered with clean sand.  The submarine, … Continue reading &rarr;"
 ---

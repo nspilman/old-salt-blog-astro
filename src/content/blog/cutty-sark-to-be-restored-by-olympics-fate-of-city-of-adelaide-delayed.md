@@ -11,6 +11,7 @@ tags:
   - "2012 Olympics"
   - "City of Adelaide"
   - "Cutty Sark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/The-Cutty-Sark-in-Greenwi-0.jpg"
 author: "Rick Spilman"
 description: "The Cutty Sark will be restored and ready for new visitors in time for the 2012 Olympics.   The ship was nearly destroyed by fire in 2007.    The other, albeit just barely, surviving composite clipper ship, the City of Adelaide, which has … Continue reading &rarr;"
 ---

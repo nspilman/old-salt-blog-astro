@@ -13,6 +13,7 @@ tags:
   - "PortSide NewYork"
   - "tanker MARY A. WHALEN"
   - "White House Champions of Change award"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/7-hull+bits.jpg"
 author: "Rick Spilman"
 description: "Our hearty congratulations to PortSide NewYork, which today was awarded a White House Champions of Change award in recognition for the wonderful work done by the non-profit organization to assist their neighbors in Red Hook, a Brooklyn community absolutely devastated by Hurricane Sandy. The … Continue reading &rarr;"
 ---

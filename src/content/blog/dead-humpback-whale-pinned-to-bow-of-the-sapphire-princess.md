@@ -14,6 +14,7 @@ tags:
   - "humpback whale"
   - "Sapphire Princess"
   - "Tracy Arm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whale-collision.jpg"
 author: "Rick Spilman"
 description: "Last summer,  the Sapphire Princess, a cruise ship operating on the South-West coast of Alaska, arrived in the port of Vancouver with a 70 foot long fin whale impaled on its bulbous bow.   Wednesday, almost exactly a year later, … Continue reading &rarr;"
 ---

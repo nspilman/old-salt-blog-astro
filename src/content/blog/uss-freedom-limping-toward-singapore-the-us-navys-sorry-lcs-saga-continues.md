@@ -13,6 +13,7 @@ tags:
   - "U.S.S Independence"
   - "US Navy"
   - "USS Freedom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/USS-Freedom.jpg"
 author: "Rick Spilman"
 description: "The USS Freedom, the first of the US Navy’s Littoral Combat Ships (LCS), is on her way to Singapore. The press has reported that the ship is intended to show the US’s commitment to counter China in the region. Before … Continue reading &rarr;"
 ---

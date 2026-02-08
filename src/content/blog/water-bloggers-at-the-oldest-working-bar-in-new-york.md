@@ -9,6 +9,7 @@ categories:
 tags:
   - "Ear Inn"
   - "Water Bloggers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/ear_175.jpg"
 author: "Rick Spilman"
 description: "One of the wonderful and maddening things about the internet is that we all make so many virtual acquaintances;  many who become good friends, and yet who we have met only through the ether of web pages and email.   It was, … Continue reading &rarr;"
 ---

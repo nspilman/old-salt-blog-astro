@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Earth Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/wg2cover.jpg"
 author: "Rick Spilman"
 description: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word \"earth\" is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
 ---

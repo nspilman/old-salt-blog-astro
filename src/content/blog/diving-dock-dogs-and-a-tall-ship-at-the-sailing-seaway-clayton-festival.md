@@ -16,6 +16,7 @@ tags:
   - "St. Lawrence River"
   - "STV Fair Jeanne"
   - "Thousand Islands"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Website-Header-SSC-2.jpg"
 author: "Rick Spilman"
 description: "There have been lots of festivals this season with tall ships, but how many can boast dock diving dogs?  Last October, we posted about the new and growing sport of dock dogs, where dogs competing on how far they can jump into the water. … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Lewis R. French"
   - "schooners"
   - "Stephen Tabor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/9234105.jpg"
 author: "Rick Spilman"
 description: "Both the schooners  Lewis R. French and the Stephen Taber were built in 1871.  To celebrate  their 140th birthdays, these grand old ladies will be racing from Camden to Rockland this Friday June 17 in an \"1871 Schooner Showdown.\" A race of two historic … Continue reading &rarr;"
 ---

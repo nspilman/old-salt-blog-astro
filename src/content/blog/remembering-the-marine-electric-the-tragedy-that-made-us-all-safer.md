@@ -12,6 +12,7 @@ tags:
   - "Marine Electric"
   - "Marine Transport Lines"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/marinelectric1.jpg"
 author: "Rick Spilman"
 description: "Thirty-three years ago today, on February 12, 1983, the collier SS Marine Electric loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While nothing … Continue reading &rarr;"
 ---

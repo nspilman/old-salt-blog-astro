@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Eastern Pacific Garbage Patch"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/garbage-patch.jpg"
 author: "Rick Spilman"
 description: "For several years we have been posting about a huge swirling patch of plastic garbage caught in the currents of the Pacific Ocean.  The BBC has an interactive graphic which helps to visualize just how how massive this Pacific garbage patch truly … Continue reading &rarr;"
 ---

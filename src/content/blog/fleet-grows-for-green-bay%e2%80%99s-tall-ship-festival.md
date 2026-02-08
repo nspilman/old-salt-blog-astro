@@ -15,6 +15,7 @@ tags:
   - "S/V Denis Sullivan"
   - "unicorn"
   - "Wisconsin’s Tall Ship festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/pride2-150x213.jpg"
 author: "Rick Spilman"
 description: "There are twelve tall ships scheduled to participate in Green Bay, Wisconsin’s  Tall Ship festival this August, though at this point, only six names have been announced. These are the HMS Bounty, the schooners Roseway, Amistad, the Pride of Baltimore II, the Unicorn … Continue reading &rarr;"
 ---

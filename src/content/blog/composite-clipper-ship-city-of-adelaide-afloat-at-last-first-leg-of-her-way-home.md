@@ -10,6 +10,7 @@ categories:
 tags:
   - "City of Adelaide"
   - "world's oldest surviving clipper ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/cityofabarge.jpg"
 author: "Rick Spilman"
 description: "After more than two decades, the City of Adelaide, the world’s oldest surviving clipper ship, is afloat again! The 1864 built clipper ship, supported by a 100 ton steel cradle, has been moved onto a pontoon barge and is being … Continue reading &rarr;"
 ---

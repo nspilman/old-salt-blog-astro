@@ -13,6 +13,7 @@ tags:
   - "Royal Caribbean"
   - "storm"
   - "Twitter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem2.jpg"
 author: "Rick Spilman"
 description: "The winter storm that struck Royal Caribbean’s Anthem of the Seas as it cruised off the coast of the Carolinas this weekend also set off a storm on Twitter.  Passengers and crew tweeted photos and video of overturned furniture, damaged rails, and … Continue reading &rarr;"
 ---

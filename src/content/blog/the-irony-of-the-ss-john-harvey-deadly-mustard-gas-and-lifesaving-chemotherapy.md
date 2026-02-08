@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/us-os-001-p001.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted the obituary of Claude Holloway, a British Motor Torpedo Boat commander, who heroically saved  dozens of sailors in the German attack on Bari, Italy in 1943.  Holloway was nearly killed by mustard gas bombs secretly carried aboard the American Liberty … Continue reading &rarr;"
 ---

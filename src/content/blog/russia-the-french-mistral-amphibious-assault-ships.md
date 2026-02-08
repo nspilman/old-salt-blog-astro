@@ -12,6 +12,7 @@ tags:
   - "Mistral-class amphibious assault ships"
   - "Russia"
   - "Ukraine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/mistral-class.jpg"
 author: "Rick Spilman"
 description: "The two Mistral amphibious assault ships ordered by Russia from France may never be delivered, in response to Russian actions in Ukraine."
 ---

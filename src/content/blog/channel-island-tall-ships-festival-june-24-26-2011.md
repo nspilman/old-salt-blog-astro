@@ -11,6 +11,7 @@ tags:
   - "brigantines"
   - "Channel Islands Harbor Tall Ships Festival"
   - "schooners"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Home_3.jpg"
 author: "Rick Spilman"
 description: "An impressive fleet of schooners and brigantines will be featured in the the Channel Islands Harbor Tall Ships Festival, this Friday through Sunday at Channel Islands Harbor in Oxnard, California.    The visiting vessels include the topsail schooner Californian, topsail schooner Amazing Grace, … Continue reading &rarr;"
 ---

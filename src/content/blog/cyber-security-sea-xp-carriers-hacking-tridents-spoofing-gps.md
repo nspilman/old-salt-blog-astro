@@ -13,6 +13,7 @@ tags:
   - "submarines"
   - "Trident"
   - "Windows XP"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/hmsqueenmaryseatrial2.jpg"
 author: "Rick Spilman"
 description: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new \"supercarrier,\" HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "canadian navy"
   - "HMCS Canada"
   - "Queen of Nassau"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/cgscanada.jpg"
 author: "Rick Spilman"
 description: "In 2001, divers located the wreck of a ship off the Florida Keys in 220 feet of water.  She had the distinctive ram bow of an early 20th century war ship but lacked guns or other weaponry.   She has … Continue reading &rarr;"
 ---

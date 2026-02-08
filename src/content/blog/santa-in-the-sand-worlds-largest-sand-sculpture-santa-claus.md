@@ -12,6 +12,7 @@ tags:
   - "sand sculpture"
   - "Santa Claus"
   - "Sudarshan Patnaik"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/Santa-Claus-sand-sculpture.jpg"
 author: "Rick Spilman"
 description: "I love walking the beach in the wintertime, though I would be surprised to come across a 100 foot long Santa Claus. In 2008, sand artist Sudarsan Pattnaik and his team created a sand sculpture of Santa Claus at Puri beach … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Fyddeye Guides"
   - "Joe Follansbee"
   - "Most Endangered Historic Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/logo.jpg"
 author: "Rick Spilman"
 description: "Joe Follansbee at the Fyddeye Guides has compiled a list of America’s 10 Most Endangered Historic Ships of 2011 to help raise awareness of the risk that these historic treasures may not be around much longer if something isn’t done.  One might … Continue reading &rarr;"
 ---

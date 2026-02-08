@@ -14,6 +14,7 @@ tags:
   - "Neville Island"
   - "Ohio River"
   - "Pittburgh"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/ds_becky_thatcher_0222_500-150x91.jpg"
 author: "Rick Spilman"
 description: "The historic riverboat, Becky Thatcher, a 220-foot, 74-year-old stern-wheeler sank in the Ohio River off Neville Island near Pittburgh, apparently due to the weight of a record snowfall which also collapsed the top two decks. Historic riverboat sinks in Ohio River … Continue reading &rarr;"
 ---

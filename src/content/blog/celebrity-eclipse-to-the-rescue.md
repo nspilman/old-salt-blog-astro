@@ -10,6 +10,7 @@ categories:
 tags:
   - "Celebrity Cruises"
   - "Celebrity Eclipse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/celebrity-eclipse.jpg"
 author: "Rick Spilman"
 description: "New Celebrity Ship to Repatriate Ash-Stranded Travelers As Celebrity Cruises prepares for the launch this weekend of its brand-new Celebrity Eclipse, the line is also stepping in to help stranded travelers make their way back home. The cruise line has … Continue reading &rarr;"
 ---

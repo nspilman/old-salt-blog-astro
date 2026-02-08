@@ -10,6 +10,7 @@ tags:
   - "AC72 catamarans"
   - "America's Cup"
   - "New York Shiplore"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/ac72.jpg"
 author: "Rick Spilman"
 description: "For anyone in the New York Area I will be speaking at the New York Shiplore and Model-makers Club on Tuesday night at 7:30 PM on the \"AC72 and the Evolution of the America’s Cup.\" The AC72 catamarans which raced in … Continue reading &rarr;"
 ---

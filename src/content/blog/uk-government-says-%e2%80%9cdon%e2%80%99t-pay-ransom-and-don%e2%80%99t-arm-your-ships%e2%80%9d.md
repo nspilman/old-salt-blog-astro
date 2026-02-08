@@ -12,6 +12,7 @@ tags:
   - "pirates"
   - "somalia"
   - "Vice Adm. Bill Gortney"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/04/somalipirate.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about the International Chamber of Shipping’s concern that governments are not doing enough to combat piracy. Now the British government, after long opposing the payment of ransoms to free hijacked ships is also trying to discourage the … Continue reading &rarr;"
 ---

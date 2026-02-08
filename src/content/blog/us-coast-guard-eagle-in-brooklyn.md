@@ -12,6 +12,7 @@ tags:
   - "Brooklyn"
   - "new york"
   - "US Coast Guard Barque Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/eagle1-125x70.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard Barque Eagle visited Brooklyn, New York this weekend and was open to visitors. She is beautifully maintained and staffed by smart, eager and enthusiastic cadets. Most of the cadets had been aboard for roughly one day, … Continue reading &rarr;"
 ---

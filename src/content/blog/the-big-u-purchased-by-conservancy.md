@@ -13,6 +13,7 @@ tags:
   - "Philadelphia philanthropist"
   - "S.S. United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/SSUSSUNRAYSPS21.jpg"
 author: "Rick Spilman"
 description: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
 ---

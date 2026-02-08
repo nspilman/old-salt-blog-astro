@@ -14,6 +14,7 @@ tags:
   - "Mary A.Whalen"
   - "PortSide New York"
   - "Red Hook"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/mwheavymetal.jpg"
 author: "Rick Spilman"
 description: "PortSide New York, the organization behind the historic tanker Mary A. Whalen,  is having an amazing marine hardware fundraising sale.  From their press release: If you think a full-sized bollard makes the perfect doorstop, or that a collection of shackles … Continue reading &rarr;"
 ---

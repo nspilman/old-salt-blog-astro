@@ -10,6 +10,7 @@ categories:
 tags:
   - "Joe Stead"
   - "Kimber's Men"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/joestead.jpg"
 author: "Rick Spilman"
 description: "We have learned that Joe Stead has passed away. He was a folk singer who sang with everyone from Paul Robeson to Pete Seeger. Around the turn of the 21st century, his focus shifted more toward the sea with his … Continue reading &rarr;"
 ---

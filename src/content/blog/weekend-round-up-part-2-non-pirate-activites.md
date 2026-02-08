@@ -13,6 +13,7 @@ tags:
   - "The Maritime Role in New York on 9/11"
   - "Visiting Nurse &amp; Hospice Care"
   - "Yonkers Riverfest 2011"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/10_riverfest_thumb.jpg"
 author: "Rick Spilman"
 description: "For those of a non-piratical bent there is still a lot going on this weekend. The Yonkers Riverfest 2011 will be held tomorrow just a bit up the river from New York City.    The schooner A.J. Meerwald  will be offering … Continue reading &rarr;"
 ---

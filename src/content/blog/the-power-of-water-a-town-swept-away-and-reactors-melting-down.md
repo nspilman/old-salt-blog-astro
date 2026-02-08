@@ -14,6 +14,7 @@ tags:
   - "nuclear power plants"
   - "partial meltdown"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/slide_18213_252854_splash.jpg"
 author: "Rick Spilman"
 description: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to \"a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.\" … Continue reading &rarr;"
 ---

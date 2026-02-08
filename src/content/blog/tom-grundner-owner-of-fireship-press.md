@@ -10,6 +10,7 @@ categories:
 tags:
   - "Fireship Press"
   - "Tom Grundner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/grundner.jpg"
 author: "Rick Spilman"
 description: "There aren’t many publishers with a special interest in nautical fiction.  Tom Grundner, the owner of Fireship Press, who died suddenly on September 11th, was one.  I never had the chance to meet him in person, but I genuinely liked the man I knew only through … Continue reading &rarr;"
 ---

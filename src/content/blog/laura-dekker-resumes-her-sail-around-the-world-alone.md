@@ -11,6 +11,7 @@ tags:
   - "38' ketch Guppy"
   - "Jessica Watson"
   - "Laura Dekker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0804-wire-Laura-Dekker-DUTC.jpg"
 author: "Rick Spilman"
 description: "After waiting out the hurricane season in the Canary Islands  15-year-old Dutch sailor Laura Dekker has resumed her attempt to sail around the world alone on her 38′ ketch Guppy.   Ms. Dekker had been at the center of a … Continue reading &rarr;"
 ---

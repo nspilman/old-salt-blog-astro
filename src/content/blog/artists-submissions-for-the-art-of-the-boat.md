@@ -10,6 +10,7 @@ tags:
   - "art exhibit"
   - "Penobscot Marine Museum"
   - "The Art of the Boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/penobscottmm.jpg"
 author: "Rick Spilman"
 description: "The Penobscot Marine Museum is seeking submissions from artists in all visual media for a juried  art exhibit entitled \"The Art of the Boat.\"  The show will examine the artistic aspects of boat design and construction, and will run from May through … Continue reading &rarr;"
 ---

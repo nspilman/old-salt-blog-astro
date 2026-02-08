@@ -11,6 +11,7 @@ categories:
 tags:
   - "Bronze Age shipwreck"
   - "Devon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/bronze1_1577686c.jpg"
 author: "Rick Spilman"
 description: "Bronze Age shipwreck found off Devon coast One of the world’s oldest shipwrecks has been discovered off the coast of Devon after lying on the seabed for almost 3,000 years.  The trading vessel was carrying an extremely valuable cargo of … Continue reading &rarr;"
 ---

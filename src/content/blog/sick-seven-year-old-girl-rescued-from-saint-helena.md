@@ -11,6 +11,7 @@ tags:
   - "Ascension Island"
   - "MV Traveler"
   - "Saint Helena"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/mv-traveller-960-copyright-biglift.jpg"
 author: "Rick Spilman"
 description: "The MV Traveler steamed back 180 miles to pick up a sick seven year old girl on the sick child remote island of Saint Helena."
 ---

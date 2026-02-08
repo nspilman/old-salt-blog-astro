@@ -5,6 +5,7 @@ slug: "happy-pi-day-3-14-and-a-toast-to-hakudo-maru"
 excerpt: "Some call today Pi day, as the first three digits of the date (3.14) are the first three digits of the constant pi used to calculate the circumference and area of a circle.   Which makes it a good day to raise a toast … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/circles-150x111.jpg"
 author: "Rick Spilman"
 description: "Some call today Pi day, as the first three digits of the date (3.14) are the first three digits of the constant pi used to calculate the circumference and area of a circle.   Which makes it a good day to raise a toast … Continue reading &rarr;"
 ---

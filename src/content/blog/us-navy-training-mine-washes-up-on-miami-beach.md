@@ -9,6 +9,7 @@ categories:
 tags:
   - "Miami Beach"
   - "US Navy Training Mine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/mystery-beach-cylinder.jpg"
 author: "Rick Spilman"
 description: "Perhaps Miami Beach is feeling a certain solidarity with Koblentz, Germany.  Today an M57 US Navy training mine washed up on Miami Beach.  Fortunately the mine was inert and did not contain explosive.  Yesterday, bomb disposal experts successfully defused two … Continue reading &rarr;"
 ---

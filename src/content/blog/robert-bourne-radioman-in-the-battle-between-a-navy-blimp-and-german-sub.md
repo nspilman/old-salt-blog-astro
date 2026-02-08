@@ -14,6 +14,7 @@ tags:
   - "radioman"
   - "Robert Bourne"
   - "U-134"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/b4s_bourne102610_146404c.jpg"
 author: "Rick Spilman"
 description: "Robert Bourne, who died on Oct. 13, at the age of 88, was the radioman on the Navy blimp, Airship K-74, on anti-submarine patrol off the southeast coast of Florida on the night of July 18, 1943.  The lookout spotted a German submarine … Continue reading &rarr;"
 ---

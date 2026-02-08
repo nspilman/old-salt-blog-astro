@@ -11,6 +11,7 @@ tags:
   - "Charles W. Morgan"
   - "last American sailing whale ship"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/charles_w_morgan.jpg"
 author: "Rick Spilman"
 description: "Intriguing news about Charles W. Morgan, the last American sailing whale ship.  From Boston.com Mystic Seaport officials are now considering whether to make the ship seaworthy again so that it can tour New England’s coastline in the summer of 2012, … Continue reading &rarr;"
 ---

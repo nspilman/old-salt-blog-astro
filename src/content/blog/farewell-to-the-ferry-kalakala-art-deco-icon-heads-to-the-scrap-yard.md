@@ -15,6 +15,7 @@ tags:
   - "Puget Sound"
   - "Seattle"
   - "streamlined"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/Mural_of_the_Kalakala_in_Port_Angeles.jpg"
 author: "Rick Spilman"
 description: "The streamline art deco ferry MV Kalakalais on her way to the scrap yard today. Between 1935 and 1967, she carried millions of cars on the Puget Sound."
 ---

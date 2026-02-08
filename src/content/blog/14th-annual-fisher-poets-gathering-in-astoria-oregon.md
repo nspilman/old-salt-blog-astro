@@ -11,6 +11,7 @@ tags:
   - "FisherPoets Gathering"
   - "fishing"
   - "Oregon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/poi_dave.jpg"
 author: "Rick Spilman"
 description: "The FisherPoets Gathering is an gathering of poets, songwriters, storytellers and artists involved in the  fishing industry, getting together to to share poems, stories, songs, memoirs, essays and art.   Sounds like great fun.  It is  being held from held … Continue reading &rarr;"
 ---

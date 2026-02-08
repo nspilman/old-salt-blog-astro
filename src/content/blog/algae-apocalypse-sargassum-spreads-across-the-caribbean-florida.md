@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Sargassum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sargassum1.jpg"
 author: "Rick Spilman"
 description: "On the resort beaches of the Yucatan Peninsula masses of stinking sargassum seaweed have been washing ashore for several years. From Miami Beach to Barbados sargassum is spreading across the Caribbean and Florida. The seaweed is killing fish, turtles and other sea life as well as befouling beaches … Continue reading &rarr;"
 ---

@@ -19,6 +19,7 @@ tags:
   - "MA"
   - "schooner"
   - "Story shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/columbiaschooner1.jpg"
 author: "Rick Spilman"
 description: "This weekend, the 31st Annual Gloucester Schooner Festival was held, culminating in the Mayor’s Cup Schooner Race.  The Esperanto Cup, representing the large schooners, was won by the schooner Columbia, built in 2014, a steel replica of the W. Starling Burgess designed … Continue reading &rarr;"
 ---

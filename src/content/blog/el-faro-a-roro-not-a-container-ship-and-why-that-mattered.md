@@ -10,6 +10,7 @@ tags:
   - "El Faro"
   - "ro/ro"
   - "roll-on roll-off ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro3.jpg"
 author: "Rick Spilman"
 description: "El Faro was often referred to in the media as a container ship. It is an easy mistake to make as the file photos showed her carrying stacks of containers on the main deck.  El Faro, ex-Puerto Rico, ex-Northern Lights, was built … Continue reading &rarr;"
 ---

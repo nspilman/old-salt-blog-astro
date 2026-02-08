@@ -11,6 +11,7 @@ tags:
   - "Mar Mostro"
   - "Puma"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/6379366539_16d7582096_z.jpg"
 author: "Rick Spilman"
 description: "Havoc continues in the Volvo Ocean Race, an around-the-world race which bills itself as \" the world’s toughest sailing event.\"  Three of the six boats to attempt the first leg of the race have withdrawn.  Two of the six boat fleet withdrew from … Continue reading &rarr;"
 ---

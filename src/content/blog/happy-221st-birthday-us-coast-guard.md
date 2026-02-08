@@ -9,6 +9,7 @@ categories:
 tags:
   - "Revenue Cutter Service"
   - "United States Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/USRCS-logo.jpg"
 author: "Rick Spilman"
 description: "On August 4, 1790, Alexander Hamilton founded the Revenue Cutter Service, the predecessor of the United States Coast Guard.   The anniversary is celebrated in various ways around the United States. Portsmouth, VA will host a celebration today through Saturday. In Alaska, August … Continue reading &rarr;"
 ---

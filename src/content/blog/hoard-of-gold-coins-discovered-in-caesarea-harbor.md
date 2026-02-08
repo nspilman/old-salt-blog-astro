@@ -12,6 +12,7 @@ tags:
   - "Fatimid caliphate"
   - "gold"
   - "gold coins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/caesareacoins01_88732_990x742.jpg"
 author: "Rick Spilman"
 description: "Sport divers scuba diving in the ancient Roman harbor of Caesarea in Israel discovered a horde of gold coins from the Fatmid dynasty."
 ---

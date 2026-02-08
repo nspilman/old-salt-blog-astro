@@ -10,6 +10,7 @@ categories:
 tags:
   - "Carnival Splendor"
   - "cost per share"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/carnival-splendor-fire-150x84.jpg"
 author: "Rick Spilman"
 description: "What did the fire on the Carnival Splendor cost Carnival Corporation?  No one really knows exactly, but Carnival announced that they estimate a cost of 7 cents per share.   Based on the number of outstanding shares from their 2009 … Continue reading &rarr;"
 ---

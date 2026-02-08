@@ -11,6 +11,7 @@ tags:
   - "pirates"
   - "ransom"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/51335424_008182434-1.jpg"
 author: "Rick Spilman"
 description: "Last February we posted that Somali pirates had hijacked a Danish sailboat with four adults and three children aboard.   Yesterday, the Danish Foreign Ministry announced seven Danish citizens, including a family with three children had been released. It has been reported that the pirates were … Continue reading &rarr;"
 ---

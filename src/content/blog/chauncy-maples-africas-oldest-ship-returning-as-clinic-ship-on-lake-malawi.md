@@ -13,6 +13,7 @@ tags:
   - "Chauncy Maples"
   - "Lake Malawi"
   - "Thomas Miller"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/stamp.jpg"
 author: "Rick Spilman"
 description: "In 1898, the Chauncy Maples was built at the shipyard of Alley & McLellan in Glasgow.   She was then disassembled into 3,481 parts and shipped out for reassembly at Monkey Bay as a missionary/hospital steamer on Lake Malawi.  Now, one hundred and … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "As we posted earlier this month, Reza Baluchi, an extreme runner, att
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/baluchibubble.jpg"
 author: "Rick Spilman"
 description: "After requiring rescue before, it now appears that Baluchi is going to attempt to to run the almost 1,000 miles from Florida to Bermuda in a bubble again."
 ---

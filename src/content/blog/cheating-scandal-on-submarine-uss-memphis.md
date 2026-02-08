@@ -6,6 +6,7 @@ excerpt: "The most interesting question about the recently revealed cheating sca
 categories:
   - "Current"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/USSMemphis.jpg"
 author: "Rick Spilman"
 description: "The most interesting question about the recently revealed cheating scandal on personnel training exams on the nuclear-powered fast attack submarine, USS Memphis, is whether the cheating was an isolated case or whether the practice is more widespread.  The Navy says the … Continue reading &rarr;"
 ---

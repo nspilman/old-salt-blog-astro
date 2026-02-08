@@ -12,6 +12,7 @@ tags:
   - "Evening Gray Morning Red"
   - "Irwin Bryan"
   - "Pirates and Privateers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg"
 author: "Rick Spilman"
 description: "My latest novel, Evening Gray Morning Red, has received not one, but two, wonderful reviews on the Pirates and Privateers blog, by Cindy Vallar and Irwin Bryan, respectively.  Excerpts from Cindy Vallar’s review: \"Gripping nautical and historical fiction at its best… Spilman deftly brings … Continue reading &rarr;"
 ---

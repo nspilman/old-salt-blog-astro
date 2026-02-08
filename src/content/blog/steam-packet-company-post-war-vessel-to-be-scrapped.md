@@ -10,6 +10,7 @@ categories:
 tags:
   - "s.s. Manxman"
   - "Steam Packet Company"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/manxman.jpg"
 author: "Rick Spilman"
 description: "One of the Steam Packet Company‘s post war vessels is to be scrapped.   The s.s. Manxman, which had her last sailing in the early 80’s, is to be dismantled due to to the extent of damage after years of neglect. … Continue reading &rarr;"
 ---

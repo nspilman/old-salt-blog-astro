@@ -12,6 +12,7 @@ tags:
   - "mummified"
   - "Philippines"
   - "SAYO"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/sunmagic44.jpg"
 author: "Rick Spilman"
 description: "Two fisherman came across a macabre scene on a dismasted derelict sailboat, drifting 40 miles off the coast of Barobo in Surigao del Sur in the Philippines. A figure, the color of dry plaster, was slumped over the chart table … Continue reading &rarr;"
 ---

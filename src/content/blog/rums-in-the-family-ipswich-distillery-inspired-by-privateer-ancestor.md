@@ -10,6 +10,7 @@ tags:
   - "Andrew Cabot"
   - "Ipswich distillery"
   - "Privateer Rum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/barrels.jpg"
 author: "Rick Spilman"
 description: "We can only wish them the best of luck and look forward to trying their rum. Rum’s in the family – Ipswich distillery inspired by privateer ancestor It seems Andrew Cabot has inherited not only his name, but some business … Continue reading &rarr;"
 ---

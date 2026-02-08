@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/banner0.png"
 author: "Rick Spilman"
 description: "On this anniversary of the armistice on the eleventh hour of the eleventh day or the eleventh month that ended the \"war to end all wars,\"  it seems worthwhile to remember the often overlooked role of merchant mariners in national defense.  Though it … Continue reading &rarr;"
 ---

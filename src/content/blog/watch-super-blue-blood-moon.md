@@ -12,6 +12,7 @@ tags:
   - "Eclipse"
   - "moon"
   - "supermoon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/bluesuperbloodmoon.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, much of the world will be able to watch a blue moon, a supermoon and a blood moon, all at once. A blue moon is a term for a second full moon in a given month. There was … Continue reading &rarr;"
 ---

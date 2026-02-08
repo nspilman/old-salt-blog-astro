@@ -12,6 +12,7 @@ tags:
   - "Sailor’s Tattoos"
   - "Swallows"
   - "Tattooed Backsides"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/hog_foot-2-tm1.jpg"
 author: "Rick Spilman"
 description: "While celebrating passing one million pages views on the blog, it seems worthwhile to take a look back at the single most popular post.  It was Sailor’s Tattoos – Pigs, Chickens, Swallows, and Tattooed Backsides, from December 1, 2008, which has … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "Great North River Tug Boat Race"
   - "Waterford Tugboat Roundup"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/bryensousiefinalversionthumb.jpg"
 author: "Rick Spilman"
 description: "These are good times for tug boat fanatics in the North East.  On Labor Day, there was the running of the 21st Annual Great North River Tug Boat Race on the Hudson River in New York City, sponsored by the Working … Continue reading &rarr;"
 ---

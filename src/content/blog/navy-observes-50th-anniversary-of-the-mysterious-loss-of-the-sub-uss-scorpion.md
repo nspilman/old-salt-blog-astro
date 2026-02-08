@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "USS Scorpion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/ussscorpion.jpg"
 author: "Rick Spilman"
 description: "Last week, the Navy marked the 50th anniversary of the loss of the Skipjack-class nuclear submarine USS Scorpion (SSN 589) in a private observance at the Scorpion Memorial on Norfolk Naval Station.  99 officers and crew died when the submarine sank on May 22, … Continue reading &rarr;"
 ---

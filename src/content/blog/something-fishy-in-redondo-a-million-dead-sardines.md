@@ -10,6 +10,7 @@ tags:
   - "California"
   - "Redondo Beach"
   - "sardines"
+featuredImage: "http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyOTk3MDUwNDM1ODgmcHQ9MTI5OTcwNTA*ODYwNCZwPTEyNTg*MTEmZD1BQkNOZXdzX1NGUF9Mb2NrZV9FbWJlZCZn/PTImbz1mMDZmOTY2ZGFkNzI*YmQxYjQ4N2YyNjZiNGVhYTIxOCZvZj*w.gif"
 author: "Rick Spilman"
 description: "What’s that smelt? (Sorry.) Actually it was a million dead sardines (or anchovies depending on the news reports)  that washed up dead in the King Harbor Marina in Redondo Beach California. ‘One million’ dead sardines clog Redondo Beach marina … Continue reading &rarr;"
 ---

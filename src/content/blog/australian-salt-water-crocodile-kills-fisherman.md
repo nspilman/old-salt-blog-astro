@@ -12,6 +12,7 @@ tags:
   - "Australia"
   - "Crocodile"
   - "Darwin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/croc.jpg"
 author: "Rick Spilman"
 description: "A 57 year old fisherman, wading in the Adelaide River, south of Darwin, was attacked and killed by a 15 foot long (4.5 metre) crocodile."
 ---

@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "New York Boat Show"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/boatshow.jpg"
 author: "Rick Spilman"
 description: "Every year I go to the New York Boat Show. In recent years, it has been a sad pilgrimage. Where once a wide range of boat types were represented, for the past decade or so most of the boats on … Continue reading &rarr;"
 ---

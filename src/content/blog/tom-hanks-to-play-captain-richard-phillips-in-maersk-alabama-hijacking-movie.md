@@ -12,6 +12,7 @@ tags:
   - "movie"
   - "Somali pirates"
   - "Tom Hanks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/tomhanks-100x147.jpg"
 author: "Rick Spilman"
 description: "It is being reported that Tom Hanks will play Captain Richard Phillips in a new movie about the attempted hijacking of the Maersk Alabama by Somali pirates in 2009.    The movie, based on Phillip’s book , A Captain’s Duty: … Continue reading &rarr;"
 ---

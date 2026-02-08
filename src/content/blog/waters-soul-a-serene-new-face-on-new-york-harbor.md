@@ -13,6 +13,7 @@ tags:
   - "Newport"
   - "Spanish artist"
   - "Water's Soul"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/waterssoul.jpg"
 author: "Rick Spilman"
 description: "On Thursday, Water’s Soul, an 80-foot tall sculpture by Spanish artist Jaume Plensa was dedicated on the Hudson River in Jersey City. Located directly across the river from Lower Manhattan, Water’s Soul depicts the serene face of a young woman … Continue reading &rarr;"
 ---

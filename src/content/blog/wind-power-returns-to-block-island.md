@@ -11,6 +11,7 @@ tags:
   - "Block Island Wind Farm"
   - "Deepwater Wind"
   - "Rhode Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/biwind.jpg"
 author: "Rick Spilman"
 description: "The foundations for the first US offshore wind farm are rising above the waters off Block Island, RI. The island is however, no stranger to wind power."
 ---

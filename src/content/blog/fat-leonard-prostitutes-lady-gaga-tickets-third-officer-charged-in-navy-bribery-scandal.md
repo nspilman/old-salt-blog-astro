@@ -13,6 +13,7 @@ tags:
   - "Cmdr. Jose Luis Sanchez"
   - "Glenn Defense Marine Asia"
   - "Leonard Glenn Francis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/fatleonard.jpg"
 author: "Rick Spilman"
 description: "It all sounds like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman known as \"Fat Leonard\" in exchange for classified information and directing business toward the Singapore-based … Continue reading &rarr;"
 ---

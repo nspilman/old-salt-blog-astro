@@ -13,6 +13,7 @@ tags:
   - "Segelschulschiff Horst Wessel"
   - "Tido Holtkamp"
   - "USCG Barque Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/perfectlady.jpg"
 author: "Rick Spilman"
 description: "Having recently visited the USCG Cutter Barque Eagle, I can wholeheartedly agree with the title of  Tido Holtkamp’s book,  A Perfect Lady: A Pictorial History of the Coast Guard Barque Eagle, which has recently gone into its second printing.   The ship is indeed a … Continue reading &rarr;"
 ---

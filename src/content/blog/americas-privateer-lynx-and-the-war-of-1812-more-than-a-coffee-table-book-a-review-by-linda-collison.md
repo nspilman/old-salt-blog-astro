@@ -12,6 +12,7 @@ tags:
   - "J. Dennis Robinson"
   - "Privateer Lynx"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/amprivateer.jpg"
 author: "Rick Spilman"
 description: "We recently posted about an upcoming event at Mystic Seaport Museum honoring the bicentenial of the War of 1812 which features the privateer schooner Lynx.   We also posted about an on-line documentary, the Privateer Lynx.  While we are focussing on on the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Antarctica"
   - "Lake Vostok"
   - "Russian scientists"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Lake-Vostok-007.jpg"
 author: "Rick Spilman"
 description: "The Guardian reports that, \"Russian scientists have confirmed they have drilled through more than 2.3 miles of ice to reach Lake Vostok, a 16,000 sq km (6,200 sq mile) body of water that has been isolated from the rest of … Continue reading &rarr;"
 ---

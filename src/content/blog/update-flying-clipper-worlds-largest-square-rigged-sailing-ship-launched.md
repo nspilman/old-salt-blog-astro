@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Flying Clipper"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/flyingclipper.jpg"
 author: "Rick Spilman"
 description: "We have been following the progress of Star Clipper‘s new ship, the Flying Clipper, since her announcement in May 2015, through her keel laying at the Brodosplit Shipyard in Split, Croatia, in December of that year. On Saturday the Flying Clipper was … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "marine mines"
   - "Mati Karmin"
   - "steampunk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/05-125x125.jpg"
 author: "Rick Spilman"
 description: "Mati Karmin, an Estonian sculptor, is not turning swords into plowshares, but he is turning marine mines into some rather remarkable furniture and household appliances.  Karmin’s mine furniture is steampunk with a post-apocalyptic twist.   On the northern coast of Estonia, especially on Naissaar … Continue reading &rarr;"
 ---

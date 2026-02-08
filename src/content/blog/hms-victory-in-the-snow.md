@@ -11,6 +11,7 @@ categories:
 tags:
   - "HMS Victory"
   - "Portsmouth Historic Dockyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/victorysnow1-125x94.jpg"
 author: "Rick Spilman"
 description: "Portsmouth Historic Dockyard has posted some lovely photos of HMS Victory and the dockyard after a recent snowfall. Click on the thumbnails for a larger image.   To see more visit their website or Facebook album page. … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "orange roughy"
   - "Romania"
   - "RSV Nuyina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/orangeroughy.jpg"
 author: "Rick Spilman"
 description: "Australia’s only home-built icebreaker will soon leave their shores. The icebreaker Aurora Australis, affectionately nicknamed Orange Roughy, is ending her more than thirty-year career serving Australia. Launched at Carrington Slipways in New South Wales in 1989, the ship helped Australia … Continue reading &rarr;"
 ---

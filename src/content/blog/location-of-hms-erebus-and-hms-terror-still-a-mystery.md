@@ -12,6 +12,7 @@ tags:
   - "HMS Terror"
   - "Parks Canada"
   - "Sir John Franklin'"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipsfranklin.jpg"
 author: "Rick Spilman"
 description: "For the third year of a three year program, Parks Canada archaeologists have failed in their attempt at finding the wrecks of the HMS Erebus and HMS Terror.  This year they searched an area west of King William Island, where Sir John Franklin and his expedition became … Continue reading &rarr;"
 ---

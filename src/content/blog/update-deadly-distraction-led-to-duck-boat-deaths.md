@@ -12,6 +12,7 @@ tags:
   - "duck boat"
   - "DUKW 34"
   - "National Transportation Safety Board"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/duck2a.jpg"
 author: "Rick Spilman"
 description: "Not quite a year ago, a tourist amphibious \"duck boat\" was run down on the Delaware River  by barge on the hip of  the tug boat, Caribbean Sea.  Two passengers died in the collision.   The National Transportation Safety Board (NTSB) has issued … Continue reading &rarr;"
 ---

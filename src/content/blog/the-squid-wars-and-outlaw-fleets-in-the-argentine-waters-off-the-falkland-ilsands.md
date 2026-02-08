@@ -12,6 +12,7 @@ tags:
   - "fishing trawlers"
   - "Malvinas Islands"
   - "squid"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/squidwar.jpg"
 author: "Rick Spilman"
 description: "The ongoing dispute over the Falkland/Malvinas Islands and adjoining waters, has created an opportunity for an outlaw fleet of industrial fishing trawlers to fish, and over-fish, the rich stocks of squid in Argentine waters near the islands. Illegal fishing is estimated to be … Continue reading &rarr;"
 ---

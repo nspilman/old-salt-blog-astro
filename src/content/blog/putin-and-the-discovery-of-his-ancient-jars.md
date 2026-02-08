@@ -9,6 +9,7 @@ categories:
 tags:
   - "6th century B.C. Greek jugs"
   - "Vladimir Putin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Putin1.jpg"
 author: "Rick Spilman"
 description: "Nothing really surprising about this story but I do find it amusing.  In August, it was reported that Vladimir Putin,  the Prime Minister of Russia and novice scuba diver, just happened to \"discover\" two jars dating back to the sixth century BCE … Continue reading &rarr;"
 ---

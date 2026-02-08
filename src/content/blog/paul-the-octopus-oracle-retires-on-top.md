@@ -12,6 +12,7 @@ tags:
   - "Paul"
   - "Sea Life aquarium"
   - "World Cup"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/paul.jpg"
 author: "Rick Spilman"
 description: "Paul, an octopus, was a recent sensation when he accurately predicated the outcome of eight World Cup games in a row; as many games as he has legs.  Now the World Cup is over and Paul, a resident of the Sea Life aquarium … Continue reading &rarr;"
 ---

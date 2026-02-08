@@ -12,6 +12,7 @@ tags:
   - "sea trials"
   - "Shi Lang"
   - "Varyag"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/aircraftcarriertow.jpg"
 author: "Rick Spilman"
 description: "In May, we posted about what appears to be the deck of an aircraft carrier built onto the top of a government building in China (China takes a Great Leap Forward in the Concrete Carrier Arms Race.)  Some speculated that … Continue reading &rarr;"
 ---

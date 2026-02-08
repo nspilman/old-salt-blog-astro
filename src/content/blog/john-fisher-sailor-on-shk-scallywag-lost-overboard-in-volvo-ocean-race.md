@@ -12,6 +12,7 @@ tags:
   - "Team Sun Hung Kai / Scallywag"
   - "Volvo Ocean"
   - "Volvo Ocean 65"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/johnfisher.jpg"
 author: "Rick Spilman"
 description: "British sailor, John Fisher, crew on the Volvo Ocean 65 Team Sun Hung Kai / Scallywag, went overboard on Monday and is presumed lost. Fisher went missing while on watch approximately 1,400 miles west of Cape Horn, in high seas, with winds at 35 … Continue reading &rarr;"
 ---

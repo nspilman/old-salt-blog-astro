@@ -5,6 +5,7 @@ slug: "crowdsourcing-rescue-of-the-bounty-the-film"
 excerpt: "Award winning film maker David Wittkower has teamed with writer Michael Tougias to create a documentary, \"Rescue of the Bounty,\" looking at the loss of the Bounty in 2012.  Tougias is the best selling author of the book by the same name.  Wittkower … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Bountyundersailfullviewscottmaquire.jpg"
 author: "Rick Spilman"
 description: "Award winning film maker David Wittkower has teamed with writer Michael Tougias to create a documentary, \"Rescue of the Bounty.\""
 ---

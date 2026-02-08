@@ -11,6 +11,7 @@ tags:
   - "Florida"
   - "shark"
   - "video"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/sharkdrag.jpg"
 author: "Rick Spilman"
 description: "A disturbing video of a shark being dragged backward at high speeds behind a motorboat off the Gulf Coast of Florida hit the internet this summer. Now, three men behind the video may be facing prison time. The Miami Herald identifies … Continue reading &rarr;"
 ---

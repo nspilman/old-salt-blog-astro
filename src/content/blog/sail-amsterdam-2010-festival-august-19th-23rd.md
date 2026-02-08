@@ -10,6 +10,7 @@ categories:
 tags:
   - "SAIL Amsterdam 2010"
   - "Tall &amp; Historic Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/amsteradamsail.jpg"
 author: "Rick Spilman"
 description: "SAIL Amsterdam 2010, which starts tomorrow and runs through the weekend, will feature roughly 600 ships berthing in and around the harbor, ranging from traditional tall ships to historical replicas, to traditional coasting craft, as well as modern yachts and naval vessels.  Twenty Class … Continue reading &rarr;"
 ---

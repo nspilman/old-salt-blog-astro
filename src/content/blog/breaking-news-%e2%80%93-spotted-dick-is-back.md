@@ -9,6 +9,7 @@ categories:
 tags:
   - "pudding"
   - "Spotted Dick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/spotteddick300-1.jpg"
 author: "Rick Spilman"
 description: "An update to our previous post – Spotted Dick Off the Menu.  As reported by the BBC: Council chiefs have reversed a decision to rename the pudding Spotted Dick after receiving \"abusive letters\" and accusations of political correctness. Canteen staff … Continue reading &rarr;"
 ---

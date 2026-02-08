@@ -12,6 +12,7 @@ tags:
   - "Sting"
   - "Swan Hunter shipyard"
   - "The Last Ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/lastshiplogo.jpg"
 author: "Rick Spilman"
 description: "\"The Last Ship,\" a new Broadway musical, with music and lyrics by Sting and book by Logan and Yorkey, set in a shipbuilding town on the Tyneside."
 ---

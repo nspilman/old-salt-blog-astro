@@ -11,6 +11,7 @@ tags:
   - "Bramble Bank"
   - "Hoegh Osaka"
   - "salvage"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/80047418_80047417.jpg"
 author: "Rick Spilman"
 description: "The Höegh Osaka was deliberately grounded on Bramble Bank when the ship developed an unexplained list after leaving Southhampton."
 ---

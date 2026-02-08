@@ -10,6 +10,7 @@ tags:
   - "Banque Populaire V"
   - "Cape Horn"
   - "Jules Verne trophy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/bpvcapehorn.jpg"
 author: "Rick Spilman"
 description: "The maxi-trimaran Banque Populaire V has now rounded all three of the major capes; Cape of Good Hope, Cape Leeuwin and now Cape Horn; in its quest to set the record for the fastest non-stop sail around the world. This … Continue reading &rarr;"
 ---

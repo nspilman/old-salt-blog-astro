@@ -12,6 +12,7 @@ tags:
   - "new york"
   - "Philadelphia"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "New York and Philadelphia are major ports and centers of art and culture.  By all rights both should be home for major and successful seaport museums. Sadly that is not the case. Last month we posted about the Independence Seaport … Continue reading &rarr;"
 ---

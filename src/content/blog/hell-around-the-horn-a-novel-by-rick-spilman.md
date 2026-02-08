@@ -10,6 +10,7 @@ tags:
   - "Hell Around the Horn"
   - "novel"
   - "Rick Spilman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb200.jpg"
 author: "Rick Spilman"
 description: "I am pleased to announce that my novel, Hell Around the Horn, is now available on Amazon around the world. The print edition will be out shortly. About the novel: In 1905, a young ship’s captain and his family set … Continue reading &rarr;"
 ---

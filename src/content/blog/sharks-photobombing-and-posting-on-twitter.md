@@ -12,6 +12,7 @@ tags:
   - "Manhattan Beach"
   - "photobomb. twitter"
   - "Sharks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/shark30n-2-web.jpg"
 author: "Rick Spilman"
 description: "Two recent items on sharks in the news — a photobombing shark off the coast of California and Australian sharks posting warnings on Twitter. Off Manhattan Beach, California, June Emerson took a photograph of her son and a friend playing in … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "coal-fired passenger and vehicle ferry"
   - "Lake Michigan"
   - "SS Badger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Badger2.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the SS Badger, a 410-foot long coal-fired passenger and vehicle ferry operating in Lake Michigan and the last coal-fired passenger vessel operating on the Great Lakes. Her supporters call her a national treasure, while to her … Continue reading &rarr;"
 ---

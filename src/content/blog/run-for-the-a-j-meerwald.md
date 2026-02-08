@@ -13,6 +13,7 @@ tags:
   - "official tall ship of the State of New Jersey"
   - "Port Norris Rotary"
   - "Run for the Schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/meerwald.jpg"
 author: "Rick Spilman"
 description: "The Port Norris Rotary presents the 13th annual \"Run for the Schooner\" a 5K run, walkathon & 1 mile fun run/walk on Saturday, April 10, 2010, to benefit the A.J. Meerwald, the official Tall Ship of the State of New … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Isle of the Blessed"
   - "Saint Brendan the Navigator"
   - "Tim Severin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/brendan_orig.jpg"
 author: "Rick Spilman"
 description: "Brendan the Navigator is said to have sailed off on a seven year voyage across the Atlantic, from Ireland to the \"Isle of the Blessed\" and back."
 ---

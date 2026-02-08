@@ -11,6 +11,7 @@ tags:
   - "Hōkūleʻa"
   - "Kon-Tiki 2"
   - "Thor Heyerdahl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/kontiki2x.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted about two balsa rafts which had set out from Lima, Peru, intending to sail to Easter Island and back, on the Kon-Tiki 2 expedition. Yesterday, the Chilean Navy rescued 14 crew members from the two rafts … Continue reading &rarr;"
 ---

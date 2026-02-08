@@ -10,6 +10,7 @@ categories:
 tags:
   - "Chesapeake Bay"
   - "OpSail 2012 Virginia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/virginiaopsail-2.jpg"
 author: "Rick Spilman"
 description: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a \"Sea and Air Parade of Sail.\"    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
 ---

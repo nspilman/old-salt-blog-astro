@@ -12,6 +12,7 @@ tags:
   - "Doris Miller"
   - "Navy Cross"
   - "Pearl Harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/12/dorie1.jpg"
 author: "Rick Spilman"
 description: "On the 75th anniversary of the Japanese attack on the US naval base at Pearl Harbor, it is a good time to remember Dorie Miller.  Miller was a Navy messman on the battleship USS West Virginia, who showed incredible courage … Continue reading &rarr;"
 ---

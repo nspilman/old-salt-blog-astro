@@ -11,6 +11,7 @@ tags:
   - "Ridge White"
   - "Robert White"
   - "sextant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/sextant2.jpg"
 author: "Rick Spilman"
 description: "I first arrived in New York harbor forty years ago, as a freshly minted naval architect working for Moore McCormack. In those days, the Brooklyn docks were crowded with US flag shipping companies, many with their headquarters or sales offices in … Continue reading &rarr;"
 ---

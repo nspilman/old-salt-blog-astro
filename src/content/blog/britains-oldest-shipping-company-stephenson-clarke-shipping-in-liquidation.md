@@ -10,6 +10,7 @@ tags:
   - "liquidation"
   - "oldest shipping company in Great Britain"
   - "Stephenson Clarke Shipping"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/gbsteph.gif"
 author: "Rick Spilman"
 description: "In 1730, the third year of the reign of King George II, two brothers, Ralph and Robert Clarke, bought shares in a 300-ton sailing vessel. Their enterprise would become Stephenson Clarke Shipping, which in recent years  has specialized in the shipment of short sea … Continue reading &rarr;"
 ---

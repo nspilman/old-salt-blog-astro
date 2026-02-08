@@ -13,6 +13,7 @@ tags:
   - "Glennlee"
   - "Hawaii"
   - "Port Glasgow"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/glenlee.jpg"
 author: "Rick Spilman"
 description: "In the press, they have been described as \"sister ships\" which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
 ---

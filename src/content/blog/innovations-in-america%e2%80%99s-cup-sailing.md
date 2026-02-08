@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/dog.jpg"
 author: "Rick Spilman"
 description: "The New York Times Science section has a fascinating slide show discussing the scientific innovations behind the two sailboats competing in the America’s Cup. The science is intriguing but the photos are simply breathtaking. Innovations in America’s Cup Sailing … Continue reading &rarr;"
 ---

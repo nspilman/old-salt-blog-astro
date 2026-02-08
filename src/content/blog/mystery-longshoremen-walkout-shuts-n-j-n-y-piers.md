@@ -12,6 +12,7 @@ tags:
   - "New Jersey"
   - "new york harbor"
   - "Waterfront commision"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/ikawalkout1.jpg"
 author: "Rick Spilman"
 description: "On Friday, more 4,000 longshoremen walked off the job shutting down piers and container terminals in New York and New Jersey. By Saturday, the most longshoreman had returned to work. Strangely, no one seems to know why the wildcat strike … Continue reading &rarr;"
 ---

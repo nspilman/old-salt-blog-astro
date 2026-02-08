@@ -10,6 +10,7 @@ tags:
   - "Bela Bartok"
   - "Derk Wolmuth"
   - "Singlehanded TransPac race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bela.jpg"
 author: "Rick Spilman"
 description: "Here is a wonderful story from Cruising World’s Editor’s Log about the very strange voyage of the 31-foot cruising sailboat, Bela Bartok. Derk Wolmuth was sailing Bela Bartok in last summer’s Singlehanded TransPac race between San Francisco and Kaua’i, Hawaii … Continue reading &rarr;"
 ---

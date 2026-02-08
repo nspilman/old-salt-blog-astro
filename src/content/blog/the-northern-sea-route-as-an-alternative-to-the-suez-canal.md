@@ -11,6 +11,7 @@ tags:
   - "icebreaker"
   - "Northern Sea Route"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/nsrmap.jpg"
 author: "Rick Spilman"
 description: "When the ultra-large container ship Ever Given blocked traffic in the Suez Canal recently, Russia’s energy ministry saw an opportunity. The ministry suggested that the shutdown of the canal highlighted the safety and sustainability of its Northern Sea Route (NSR). … Continue reading &rarr;"
 ---

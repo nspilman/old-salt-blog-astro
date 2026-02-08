@@ -12,6 +12,7 @@ tags:
   - "Great Barrier Reef"
   - "ID Integrity"
   - "Shark Reef"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/148320-id-integrity.jpg"
 author: "Rick Spilman"
 description: "Update: The first tug has reached the ID Integrity. As reported by vesseltracker.com: The commercial tug \"PT Kotor\" rendezvoused with the \"ID Integrity\" on May 20 at approximately 10:30am AEST. At 11:30am AMSA was advised that the tug had connected a towline … Continue reading &rarr;"
 ---

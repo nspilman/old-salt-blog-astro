@@ -12,6 +12,7 @@ tags:
   - "Costa Lines"
   - "International Salvage Union"
   - "Klaas Reinigert"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg"
 author: "Rick Spilman"
 description: "Costa Lines has asked ten companies to bid on salvaging the Costa Concordia. The bids are due early next month and Costa has plans to award a contract by the end of March. Smit Salvage, Svitzer Salvage, Mammoet Salvage, Titan … Continue reading &rarr;"
 ---

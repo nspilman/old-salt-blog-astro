@@ -12,6 +12,7 @@ tags:
   - "Bernard Cornwell"
   - "Penobscot Bay"
   - "The Fort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/thefort.jpg"
 author: "Rick Spilman"
 description: "Bernard Cornwell’s The Fort: A Novel of the Revolutionary War is not strictly speaking nautical fiction but does focus on an ill-fated expedition that ended as the worst American naval defeat prior to Pear Harbor. At first glance, The Fort … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Buoy"
   - "Naval Submarine Base Kings Bay"
   - "USS Georgia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/uss-georgia.jpg"
 author: "Rick Spilman"
 description: "The nuclear submarine USS Georgia is now in drydock at the Naval Submarine Base Kings Bay.  The Georgia was returning after a long international deployment when it ran into buoy No. 23, located at the entrance to the channel leading to the boat’s … Continue reading &rarr;"
 ---

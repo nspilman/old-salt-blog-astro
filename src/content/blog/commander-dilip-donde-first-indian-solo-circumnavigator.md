@@ -13,6 +13,7 @@ tags:
   - "INSV Mhadei"
   - "Sunk Rock Light House"
   - "Vice-President Hamid Ansari"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/dilipdonde.jpg"
 author: "Rick Spilman"
 description: "The teenagers have been getting more press, but Zach, Mike, Jessica and Abby are not the only intrepid solo circumnavigators out there.  On Saturday,  Commander Dilip Donde sailed into Mumbai,  completing the first recorded solo circumnavigation by an Indian. Navy commander … Continue reading &rarr;"
 ---

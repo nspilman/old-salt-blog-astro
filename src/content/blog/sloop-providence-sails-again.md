@@ -15,6 +15,7 @@ tags:
   - "Newport"
   - "Rhode Island"
   - "Sloop Providence"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Tall_Ship.jpg"
 author: "Rick Spilman"
 description: "Great news. The Sloop Providence, replica of the American Revolutionary sloop of the same name is sailing again after being laid up for 3 1/2 years.   She was purchased last year from the City of Providence by boat builder … Continue reading &rarr;"
 ---

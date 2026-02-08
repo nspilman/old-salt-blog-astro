@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Frozen Ocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/hovercraft.jpg"
 author: "Rick Spilman"
 description: "Next Wednesday, March 7th, at 6PM, Neil and Ariel Weisbrod‘s new documentary, \"Secrets of a Frozen Ocean\", will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY … Continue reading &rarr;"
 ---

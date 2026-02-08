@@ -10,6 +10,7 @@ categories:
 tags:
   - "Sydney Tallships"
   - "Tallship Soren Larsen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Soren_20_Pacific330.jpg"
 author: "Rick Spilman"
 description: "Last December we posted that the Tallship Soren Larsen was for sale.  She has now apparently been acquired by new owners who will move the ship to Sydney, Australia but will otherwise maintain her Pacific sailing schedules.  We wish the new owners and operators the best of luck … Continue reading &rarr;"
 ---

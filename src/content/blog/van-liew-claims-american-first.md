@@ -10,6 +10,7 @@ tags:
   - "Brad Van Liew"
   - "Le Pingouin"
   - "Velux 5 Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/Van-Liew.jpg"
 author: "Rick Spilman"
 description: "Our slightly belated congratulations to Brad Van Liew, the American sailor who won the Velux 5 Oceans single-handed around the world race in his Le Pingouin ECO 60.  Van Liew dominated the Velux 5 Oceans race, winning all five legs.   Van Liew is the first … Continue reading &rarr;"
 ---

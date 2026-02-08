@@ -10,6 +10,7 @@ categories:
 tags:
   - "laid up tankers"
   - "tanker industry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/2343496.jpg"
 author: "Rick Spilman"
 description: "Those of us of a certain age, who were active in merchant shipping, remember the tanker industry in the 1980s.  And none too fondly.   After a period of rising charter rates and robust new construction, the market effectively collapsed … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "CO2"
   - "Lake Nyos"
   - "volcano"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/nyos.jpg"
 author: "Rick Spilman"
 description: "On August 21, 1986, in Lake Nyos, in the Northwest Region of Cameroon, a gas cloud erupted from the lake killing 1,746 people and 3,500 livestock."
 ---

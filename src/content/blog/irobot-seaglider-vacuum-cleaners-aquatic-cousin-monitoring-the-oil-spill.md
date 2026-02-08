@@ -11,6 +11,7 @@ tags:
   - "Oil spill"
   - "Robot"
   - "Seaglider"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/seaglider_1.jpg"
 author: "Rick Spilman"
 description: "We own a Roomba, which is a robot vacuum cleaner made by iRobot.   It looks like a cross between an overgrown hockey puck and a squashed R2D2 from Star Wars.  It softly whirs and occasionally beeps as it crisscrosses the floor vacuuming, until … Continue reading &rarr;"
 ---

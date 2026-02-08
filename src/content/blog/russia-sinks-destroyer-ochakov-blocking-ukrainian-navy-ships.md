@@ -13,6 +13,7 @@ tags:
   - "Kara-class cruiser"
   - "Ochakov"
   - "Scuttled"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Russia-Sinks-Ship-to-Block-Ukrainian-Navy-Ships.jpg"
 author: "Rick Spilman"
 description: "Ochakov, a Russian Kara-class cruiser, was decommissioned in 2011 and had been scheduled to be scrapped.  Instead, the Russian Navy scuttled the ship late Wednesday in the navigation channel in the approach to Donuzlav Lake, in Novoozerne, in the Western Crimea. … Continue reading &rarr;"
 ---

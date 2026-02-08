@@ -9,6 +9,7 @@ categories:
   - "Seastories"
 tags:
   - "Farley Mowat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/mowat.jpg"
 author: "Rick Spilman"
 description: "I was saddened to hear of Farley Mowat’s death, at the age of 92.  Many will remember him as an environmentalist and a champion of the rights of native Canadians, as indeed he was.  I will remember him for his books about … Continue reading &rarr;"
 ---

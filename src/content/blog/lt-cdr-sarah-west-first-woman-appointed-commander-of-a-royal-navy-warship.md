@@ -12,6 +12,7 @@ tags:
   - "Lt Cdr Sarah West"
   - "Royal Navy"
   - "Type 23 Duke Class Frigate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/commander-1.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy has appointed Lt Cdr Sarah West the command of HMS Portland, a Type 23 Duke Class Frigate launched in 1999. When she takes command on April 2012, she will be the first woman to command a Royal Navy warship. West previously … Continue reading &rarr;"
 ---

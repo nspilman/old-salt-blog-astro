@@ -14,6 +14,7 @@ tags:
   - "Melville"
   - "Scott Horton"
   - "White Jacket"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/herman_melville_18601.jpg"
 author: "Rick Spilman"
 description: "In a comment on a prior post, Fiddler’s Green, Redwing mentioned White Jacket, or The World in a Man-of-War, by Herman Melville. I had never read the novel. I am now doing so and enjoying it very much. (It can … Continue reading &rarr;"
 ---

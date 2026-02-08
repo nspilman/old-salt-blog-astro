@@ -10,6 +10,7 @@ tags:
   - "sea turtles"
   - "Trump"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/humpback1.jpg"
 author: "Rick Spilman"
 description: "The Trump administration announced that it would cancel a rule designed to protect whales and turtles, which was first implemented in 2016, at the request of the fishing industry. The rule helped limit the number of endangered whales and turtles … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Golden Globe Race 2018"
   - "Robin Knox-Johnston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/goldenglobe2018.jpg"
 author: "Rick Spilman"
 description: "Fifty years ago this year, nine sailors set off in the Sunday Times Golden Globe Race. Only one, Robin Knox-Johnston sailing his 32-foot Bermudan ketch Suhaili, finished the race, becoming the first person ever to sail single-handed non-stop around the globe. This June, the race is … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Barent Sea"
   - "Bermuda Triangle"
   - "Methane Bubbles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/bt1.jpg"
 author: "Rick Spilman"
 description: "The Bermuda Triangle nonsense continues, as does the media’s fondness for dramatic headlines, whether or not there are any facts to support them.  The most recent silliness is about late ice age methane explosions. The UK’s Daily Mail headline reads: … Continue reading &rarr;"
 ---

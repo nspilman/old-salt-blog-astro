@@ -15,6 +15,7 @@ tags:
   - "South Carolina"
   - "Uruguay"
   - "Velux Five Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Velux-Brad-Van-.jpg"
 author: "Rick Spilman"
 description: "The fourth leg of the Velux Five Oceans Singlehanded Round the World Race is underway as the four competitors set off from Punta del Este, Uruguay bound for Charleston, South Carolina.  The racers are currently sailing at north at around ten knots … Continue reading &rarr;"
 ---

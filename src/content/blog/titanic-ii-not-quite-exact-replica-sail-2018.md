@@ -10,6 +10,7 @@ categories:
 tags:
   - "replica"
   - "Titanic II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/titanicII-1.jpg"
 author: "Rick Spilman"
 description: "Only last June, the media were reporting the project to build a near-replica of RMS Titanic was dead. The Daily Echo was typical, writing: The highly ambitious plan to build a replica of the ill-fated Southampton liner, Titanic, has apparently sunk without … Continue reading &rarr;"
 ---

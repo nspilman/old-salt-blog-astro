@@ -9,6 +9,7 @@ categories:
 tags:
   - "Gulf of Mexico"
   - "oil rig sinks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/rig2.jpg"
 author: "Rick Spilman"
 description: "US oil rig sinks in Gulf of Mexico after explosion An oil rig in the Gulf of Mexico that caught fire after an explosion on Tuesday has now sunk, the US coastguard has said.   The coastguard is still looking for … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Ezadeen"
   - "Italian Coast Guard"
   - "migrants"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/migrantship1.jpg"
 author: "Rick Spilman"
 description: "The Italian Coast Guard has taken control of Ezadeen, with 450 migrants aboard off the southern coast of Italy, near Crotone."
 ---

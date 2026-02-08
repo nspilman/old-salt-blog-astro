@@ -13,6 +13,7 @@ tags:
   - "Andrew Doria"
   - "Governor Johannes de Graaff"
   - "St. Eustatius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/Ile_de_Saint_Eustache_en_1781.jpg"
 author: "Rick Spilman"
 description: "On this day in 1776, Governor Johannes de Graaff of St. Eustatius returned the salute fired by the American brig Andrew Doria, which is considered to be the first international acknowledgment of the independence of the new republic of the United … Continue reading &rarr;"
 ---

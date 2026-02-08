@@ -12,6 +12,7 @@ tags:
   - "MS St. Louis"
   - "Nazi Germany"
   - "passenger liner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/stlouis3.jpg"
 author: "Rick Spilman"
 description: "On Holocaust Remembrance Day, an updated repost, remembering the tragic voyage of the German passenger liner St. Louis in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany. The ship and its passengers departed from Hamburg but were … Continue reading &rarr;"
 ---

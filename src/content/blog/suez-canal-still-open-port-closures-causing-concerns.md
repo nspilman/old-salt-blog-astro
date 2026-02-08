@@ -14,6 +14,7 @@ tags:
   - "Port Said"
   - "Suez Canal"
   - "SuMed pipeline"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/suez-canal-cp-w5896087.jpg"
 author: "Rick Spilman"
 description: "There are an estimated two million protesters in the streets on Cairo today; most rail, trucking and buses are shut down across Egypt, yet  the Suez Canal, which can represent up 8 percent of global seaborne trade, remains open and in operation.  Military escorts for protection … Continue reading &rarr;"
 ---

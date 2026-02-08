@@ -12,6 +12,7 @@ tags:
   - "Battle of Put-in-Bay"
   - "Great Lakes Tall Ships Challenge"
   - "Tall Ships America"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/portmapCleveland.jpg"
 author: "Rick Spilman"
 description: "This September, a fleet of tall ships will reenact the 1813 Battle of Put-in-Bay, Ohio, also known as the Battle of Lake Erie.  The reenactment is part of the Great Lakes Tall Ships Challenge which kicks off today in Cleveland, OH through the … Continue reading &rarr;"
 ---

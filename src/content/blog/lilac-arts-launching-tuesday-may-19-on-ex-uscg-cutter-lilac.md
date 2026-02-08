@@ -11,6 +11,7 @@ tags:
   - "ex-Coast Guard Cutter"
   - "Lilac"
   - "LILAC Art Series"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilcaposter-151x200.jpg"
 author: "Rick Spilman"
 description: "Be sure to stop by tomorrow from 6 -- 9 PM, for a reception to launch the LILAC Art Series on the the historic ex-Coast Guard Cutter Lilac."
 ---

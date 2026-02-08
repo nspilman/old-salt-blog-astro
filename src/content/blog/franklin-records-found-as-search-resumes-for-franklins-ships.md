@@ -14,6 +14,7 @@ tags:
   - "HMS Erebus"
   - "HMS Terror"
   - "Parks Canada icebreaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/etjpg.jpg"
 author: "Rick Spilman"
 description: "An update to a previous post. An Inuit family says a box that was hidden for over 80 years in the Arctic contains documents linked to the doomed Franklin expedition and has just turned the box over to the the Canadian Conservation … Continue reading &rarr;"
 ---

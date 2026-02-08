@@ -10,6 +10,7 @@ categories:
 tags:
   - "Mary Whalen"
   - "Yankee Ferry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/yankeemary.jpg"
 author: "Rick Spilman"
 description: "Two articles within two days are making me wonder if re-purposed historic vessels might be becoming  trendy in design circles around New York City.   Curbed, a New York real estate blog featured the 1907 Yankee Ferry in \"Hudson River’s Coolest, Oldest Floating Home\"  – \"Taking … Continue reading &rarr;"
 ---

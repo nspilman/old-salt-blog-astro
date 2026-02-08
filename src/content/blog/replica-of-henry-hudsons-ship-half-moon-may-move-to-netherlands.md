@@ -12,6 +12,7 @@ tags:
   - "Henry Hudson"
   - "Netherlands"
   - "New Netherland Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/halfmoonfront.jpg"
 author: "Rick Spilman"
 description: "Chip Reynolds, Captain of the replica ship, Half Moon, announced the New Netherland Museum's intention to move to the ship to the Hoorn in The Netherlands."
 ---

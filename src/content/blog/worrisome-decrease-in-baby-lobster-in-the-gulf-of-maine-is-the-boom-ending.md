@@ -5,6 +5,7 @@ slug: "worrisome-decrease-in-baby-lobster-in-the-gulf-of-maine-is-the-boom-endin
 excerpt: "Last August we asked \"Will The Maine Lobster Boom End in a Bust?\" It doesn’t necessarily look like a bust, but scientists say that they now are seeing a drop in the number of baby lobsters on the bottom of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/1398890327000-lobsters.jpg"
 author: "Rick Spilman"
 description: "Last August we asked \"Will The Maine Lobster Boom End in a Bust?\" It doesn’t necessarily look like a bust, but scientists say that they now are seeing a drop in the number of baby lobsters on the bottom of … Continue reading &rarr;"
 ---

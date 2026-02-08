@@ -10,6 +10,7 @@ tags:
   - "Capt. Holly Graf"
   - "Carrier Strike Group 5"
   - "cruiser USS Cowpens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/graf_holly_800.jpg"
 author: "Rick Spilman"
 description: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for \"cruelty and maltreatment\" during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
 ---

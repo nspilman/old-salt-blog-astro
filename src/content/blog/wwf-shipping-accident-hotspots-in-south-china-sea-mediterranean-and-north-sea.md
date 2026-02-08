@@ -11,6 +11,7 @@ tags:
   - "hotspots"
   - "shipping accidents"
   - "WWF"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/PhilippinesChinaReefBoat.jpg"
 author: "Rick Spilman"
 description: "Happy World Oceans Day!  The World Wildlife Federation has released a study to coincide with World Oceans Day, documenting dangerous \"hotspots\" around the globe for accidents involving ships.  Sadly many of these \"hotspots\" also coincide with some of the most ecologically … Continue reading &rarr;"
 ---

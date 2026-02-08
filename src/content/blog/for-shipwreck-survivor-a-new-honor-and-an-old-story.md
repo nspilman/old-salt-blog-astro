@@ -12,6 +12,7 @@ tags:
   - "Eddie LeBaron"
   - "Lanier W. Phillips"
   - "U.S. Navy Memorial's Lone Sailor award"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/allthreehonorees.jpg"
 author: "Rick Spilman"
 description: "Lanier W. Phillips, comedian Bill Cosby and former Washington Redskins star and the Dallas Cowboys’ first starting quarterback, Eddie LeBaron, were honored Wednesday with the U.S. Navy Memorial’s Lone Sailor award.  I, of course,  know Bill Cosby and as a … Continue reading &rarr;"
 ---

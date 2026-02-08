@@ -8,6 +8,7 @@ categories:
 tags:
   - "Sharks"
   - "Swordfish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/swordfish.jpg"
 author: "Rick Spilman"
 description: "The fishermen knew. They told stories of swordfish using their eponymous swords to stab sharks and other large fish and mammals. Scientists, however, were skeptical.  Recently, however, more than six dead sharks have washed up around the Mediterranean, all apparently … Continue reading &rarr;"
 ---

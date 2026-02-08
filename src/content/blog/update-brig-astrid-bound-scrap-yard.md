@@ -12,6 +12,7 @@ tags:
   - "Cork"
   - "Ireland"
   - "scrapping"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/Brigg_Astrid_2008.jpg"
 author: "Rick Spilman"
 description: "On July 24th, the Dutch sail-training brig Astrid sank after running aground on rocks on the Irish coast on the western mouth of Oysterhaven, near Cork.   On September 13th, the ship was lifted off the rocks using a 937-tonne floating … Continue reading &rarr;"
 ---

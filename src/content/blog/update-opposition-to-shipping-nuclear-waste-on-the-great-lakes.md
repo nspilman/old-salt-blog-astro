@@ -12,6 +12,7 @@ tags:
   - "Great Lakes"
   - "radioactive waste"
   - "St. Lawrence Seaway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/nuclear-waste-sign.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about the approval granted  by the Canadian Nuclear Safety Commission to allow Bruce Power to ship 1,600 tonnes of radioactive waste, in the form of 16 decommissioned nuclear reactors, across the Great Lakes, though the St. … Continue reading &rarr;"
 ---

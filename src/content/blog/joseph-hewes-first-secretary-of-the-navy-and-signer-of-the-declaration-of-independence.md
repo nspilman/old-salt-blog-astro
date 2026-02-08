@@ -10,6 +10,7 @@ tags:
   - "Declaration of Independence"
   - "Joseph Hewes"
   - "Secretary of the Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/190px-Josephhewes.jpg"
 author: "Rick Spilman"
 description: "Happy 4th of July to all.   On July 4th, Americans celebrate the signing of the Declaration of Independence from Great Britain in 1776.   Joseph Hewes was one of the lesser known signatories to the Declaration.   He was born in New Jersey, prospered as … Continue reading &rarr;"
 ---

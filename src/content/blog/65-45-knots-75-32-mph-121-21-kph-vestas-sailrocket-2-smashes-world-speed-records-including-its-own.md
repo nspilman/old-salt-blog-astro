@@ -14,6 +14,7 @@ tags:
   - "VESTAS Sailrocket 2"
   - "Walvis Bay"
   - "world speed record"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/sailrocket-2.jpg"
 author: "Rick Spilman"
 description: "Just six days after Paul Larsen in the Vestas Sailrocket 2 broke the world speed record in Walvis Bay, Namibia, subject to confirmation by WSSRC, he has now sailed a 500 meter course at an average speed of 65.42 knots!  This is close … Continue reading &rarr;"
 ---

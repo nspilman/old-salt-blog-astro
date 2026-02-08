@@ -11,6 +11,7 @@ tags:
   - "Russian submarine"
   - "Singing Sailor Campaign"
   - "Swedish Peace and Arbitration Society"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/singingsailor1.jpg"
 author: "Rick Spilman"
 description: "The Swedish Peace and Arbitration Society (SPAS) is proposed the gay friendly \"Singing Sailor subsurface defense system\" to keep Russian subs away."
 ---

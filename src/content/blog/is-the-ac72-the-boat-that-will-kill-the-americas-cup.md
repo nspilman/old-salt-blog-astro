@@ -13,6 +13,7 @@ tags:
   - "Oracle"
   - "San Francisco Bay"
   - "Wired Magazine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/artemis.jpg"
 author: "Rick Spilman"
 description: "Wired Magazine ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish Artemis Racing AC72 catamaran yesterday in San Francisco Bay.  In the article, titled \"The Boat That Could … Continue reading &rarr;"
 ---

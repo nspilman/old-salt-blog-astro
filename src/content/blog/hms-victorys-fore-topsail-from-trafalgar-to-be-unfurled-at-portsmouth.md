@@ -9,6 +9,7 @@ tags:
   - "fore topsail"
   - "HMS Victory"
   - "Portsmouth Historic Dockyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/victoryforesail.jpg"
 author: "Rick Spilman"
 description: "On July 21, the fore topsail set on HMS Victory at the Battle of Trafalgar of 1805 will go on display in all its perforated glory. The sail has 90 shot holes and will be displayed for a limited time … Continue reading &rarr;"
 ---

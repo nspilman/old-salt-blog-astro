@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/amphorae1.jpg"
 author: "Rick Spilman"
 description: "An area off the Fourni archepelago, a group of 13 islands between the islands of Samos and Icaria in Greece, is known as a graveyard of ships.  In June, underwater archaeologists discovered 23 ship wrecks during a survey period of … Continue reading &rarr;"
 ---

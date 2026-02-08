@@ -12,6 +12,7 @@ tags:
   - "Null Island"
   - "Prime Meridian"
   - "Republic of Null Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/nullislandbanner.jpg"
 author: "Rick Spilman"
 description: "The website for the Republic of Null Island reads: \"Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 … Continue reading &rarr;"
 ---

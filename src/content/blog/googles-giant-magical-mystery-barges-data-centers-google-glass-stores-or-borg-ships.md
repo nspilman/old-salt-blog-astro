@@ -14,6 +14,7 @@ tags:
   - "Maine"
   - "Portland"
   - "San Francisco Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/barge30n-2-web.jpg"
 author: "Rick Spilman"
 description: "Google has been causing quite a stir on the waterfront.  Two mysterious barges have appeared, one on the Pacific in San Francisco bay and one on the Atlantic coast in Portland, Maine. The San Francisco barge is reported to be 250 feet … Continue reading &rarr;"
 ---

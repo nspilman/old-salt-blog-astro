@@ -11,6 +11,7 @@ tags:
   - "No Sail Order"
   - "pandemic"
   - "scrapyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/soverignmonarch.jpg"
 author: "Rick Spilman"
 description: "In early February, outbreaks of the coronavirus began to occur on cruise ships. On one quarantined ship, the Diamond Princess, one infection spread to over 700 cases and seven deaths from COVID-19. In March of 2020, the cruise industry was … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "North Pole"
   - "Russia"
   - "United Nations Convention on the Law of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/338393_Canada-North-Pole.jpg"
 author: "Rick Spilman"
 description: "Reports are that Canada is filing a claim to extend its northern sea boundary to encompass an area of over 1 million square miles of Arctic seafloor which includes the North Pole, under provisions of the United Nations Convention on … Continue reading &rarr;"
 ---

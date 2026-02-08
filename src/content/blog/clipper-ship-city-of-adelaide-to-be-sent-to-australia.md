@@ -13,6 +13,7 @@ tags:
   - "Fiona Hyslop"
   - "oldest surviving composite clipper ship"
   - "Sunderland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/nov_2009_image.jpg"
 author: "Rick Spilman"
 description: "Great news!  The oldest just barely surviving composite clipper ship in the world, the City of Adelaide appears  likely to be moved to Australia to its namesake city, Adelaide.  The ship, which is currently at the Scottish Maritime Museum in Irvine, Scotland, has … Continue reading &rarr;"
 ---

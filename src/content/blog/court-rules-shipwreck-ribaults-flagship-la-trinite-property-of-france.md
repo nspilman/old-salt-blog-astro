@@ -14,6 +14,7 @@ tags:
   - "Global Marine Exploration"
   - "la Trinité"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/fluerdilei.jpg"
 author: "Rick Spilman"
 description: " In 1565, Captain Jean Ribault sailed from France with ships and 800 settlers to resupply and reinforce the French colony of Fort Caroline in what is now the state of Florida. The French colony was being threatened by the Spanish … Continue reading &rarr;"
 ---

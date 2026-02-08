@@ -13,6 +13,7 @@ tags:
   - "roasted rubber duck"
   - "Rubber Duck"
   - "Shanghai"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/RoastedDuck27e.jpg"
 author: "Rick Spilman"
 description: "In June, we posted about the Dutch artist Florentijn Hofman’s traveling 16.5 metre-tall \"Rubber Duck,\" which has visited 13 cities in nine different countries.  It last visited Hong Kong harbor and is now reported to be on its way to Pittsburgh.  In … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Noodles"
   - "TOTE Maritime"
   - "wine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/beachcoffee.jpg"
 author: "Rick Spilman"
 description: "This week, the beach in Melbourne, Florida was suddenly covered with thousands of yellow and red cans and freeze-dried bricks of Cafe Bustelo brand espresso coffee. Yesterday, packages of Ramen noodles started washing ashore at nearby Port St.Lucie. In Fort … Continue reading &rarr;"
 ---

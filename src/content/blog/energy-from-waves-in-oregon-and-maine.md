@@ -12,6 +12,7 @@ tags:
   - "Ocean Renewable Power Company"
   - "Oregon"
   - "PowerBuoys"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/buoy.jpg"
 author: "Rick Spilman"
 description: "Two projects are underway in Maine and Oregon to produce energy from ocean waves.   Ocean Renewable Power Company, in Maine, is using horizontal turbines to capture the energy of ebbing and flooding tides.  Initial tests have met or exceeded their targets … Continue reading &rarr;"
 ---

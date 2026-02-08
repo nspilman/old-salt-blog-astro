@@ -13,6 +13,7 @@ tags:
   - "Russian Special Forces"
   - "Russian tanker"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/russiancrew.jpg"
 author: "Rick Spilman"
 description: "Two news stories, days apart demonstrate, at least to me, why the current efforts to combat piracy off the coast of Somalia are doomed to fail.  We posted previously how the tanker MV Moscow University was recaptured from pirates by … Continue reading &rarr;"
 ---

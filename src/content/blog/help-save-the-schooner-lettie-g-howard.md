@@ -10,6 +10,7 @@ tags:
   - "Lettie G. Howard"
   - "mystic seaport"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/LettieSelect030.jpg"
 author: "Rick Spilman"
 description: "The Lettie G. Howard is in trouble.  The wooden Fredonia schooner was built in Essex, Massachusetts in 1893. She was acquired by the South Street Seaport Museum in 1968 and was designated a National Historic Landmark in 1989.  She was recently drydocked … Continue reading &rarr;"
 ---

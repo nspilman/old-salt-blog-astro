@@ -11,6 +11,7 @@ tags:
   - "Blohm+Voss"
   - "Dame Zaha Hadid"
   - "Skeletal Super-yacht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/article-2460706-18C056FC00000578-44_964x466.jpg"
 author: "Rick Spilman"
 description: "Award-winning architect Dame Zaha Hadid has designed a family of super-yachts with a skeletal superstructure for the German shipbuilders Blohm+Voss.  These are the first super-yachts designed by Hadid who is known for a wide range of project including the Roca London Gallery, … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Earl of Pembroke"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/earlofp1s.jpg"
 author: "Rick Spilman"
 description: "One celebrity at Weymouth during the Weymouth Leviathan was the tall ship Earl of Pembroke.  The barque has been featured in seventeen movies of TV shows. Unfortunately, like so many other movie stars, the ship was not accessible, behind locked … Continue reading &rarr;"
 ---

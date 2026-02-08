@@ -11,6 +11,7 @@ tags:
   - "naval engineer"
   - "Raye Montague"
   - "ship designer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg"
 author: "Rick Spilman"
 description: "Barrier-shattering naval engineer Raye Montague has died at the age of 83. At the age of 7, she was inspired to become an engineer after she toured a captured German submarine with her grandmother during World War II.  As an African-American … Continue reading &rarr;"
 ---

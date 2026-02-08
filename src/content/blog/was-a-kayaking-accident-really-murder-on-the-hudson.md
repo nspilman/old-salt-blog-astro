@@ -12,6 +12,7 @@ tags:
   - "kayaker"
   - "kayaking"
   - "Vincent Viafore"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/kayakmurder.jpg"
 author: "Rick Spilman"
 description: "Angelika Graswald has been charged with 2nd degree murder in the death of Vincent Viafore, her fiancé, while kayaking."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Bluenose II"
   - "rudder"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/bluenoseiicbc.jpg"
 author: "Rick Spilman"
 description: "For the last few years, we have followed the sad saga of the \"rebuilding\" of the schooner Bluenose II.  The latest development involves the replacement of the existing steel rudder and steering system at an estimated additional cost of $1 … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Pelagic Freeze-Trawler Association"
   - "Sea Shepherd France"
   - "second largest fishing vessel in the world"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/trawlerwhiting-spill.jpg"
 author: "Rick Spilman"
 description: "The Dutch-owned Margiris supertrawler, the second largest fishing vessel in the world, dumped more than 100,000 dead blue whiting in the Bay of Biscay off France’s Atlantic coast near La Rochelle, last Thursday. The Pelagic Freeze-Trawler Association (PFA) — which … Continue reading &rarr;"
 ---

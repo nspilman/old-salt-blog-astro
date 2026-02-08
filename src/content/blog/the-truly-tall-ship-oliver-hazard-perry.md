@@ -12,6 +12,7 @@ tags:
   - "Oliver Hazard Perry"
   - "Rhode Island"
   - "tall ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/ohpririgging.jpg"
 author: "Rick Spilman"
 description: "Oliver Hazard Perry has recently just about finished raising the masts, crossing the yards, and bending the sails."
 ---

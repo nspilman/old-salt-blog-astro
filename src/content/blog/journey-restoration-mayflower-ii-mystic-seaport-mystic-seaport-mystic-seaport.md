@@ -11,6 +11,7 @@ tags:
   - "Mayflower II"
   - "mystic seaport"
   - "Plimoth Plantation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/mayfloweriia.jpg"
 author: "Rick Spilman"
 description: "Mystic Seaport’s Henry B. duPont Preservation Shipyard is working in partnership with Plimoth Plantation to restore Mayflower II. Mayflower II will move back to its berth at the Plimouth Plantation for the summer and then return to Mystic for an extended … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "New Zealand"
   - "Rena"
   - "Tauranga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/bargespill.jpg"
 author: "Rick Spilman"
 description: "Three stories this weekend of oil spills, a successful oil transfer and opportunities lost in mitigating a spill.  Two barges collided on the Mississippi River on Friday upriver from New Orleans.  A roughly 3,500 barrel capacity double hulled tank barge suffered damage … Continue reading &rarr;"
 ---

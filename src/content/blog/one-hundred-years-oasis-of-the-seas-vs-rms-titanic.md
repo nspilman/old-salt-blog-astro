@@ -11,6 +11,7 @@ categories:
 tags:
   - "Allure of the Seas"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/titanticvsoasis.jpg"
 author: "Rick Spilman"
 description: "Numbers are fine but sometimes the best way to communicate scale is visually.  The image above is what it would have looked like if the largest passenger liner of roughly 100 years ago, RMS Titanic, was followed closely by the … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Indonesia"
   - "New Zealand"
   - "slavery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/fish.jpg"
 author: "Rick Spilman"
 description: "Last April we posted, Slavery at Sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessels. Secret papers reveal the government has allowed fishermen from poor countries to be exploited in New Zealand waters.  Workers are fishing in rusting boats turned … Continue reading &rarr;"
 ---

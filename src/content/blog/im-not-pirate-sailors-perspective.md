@@ -9,6 +9,7 @@ categories:
 tags:
   - "pirate"
   - "Talk Like Pirate Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/nopirate.jpg"
 author: "Rick Spilman"
 description: "Some people choose to celebrate today as \"Talk Like Pirate Day.\"  They may walk around with funny hats, eye patches and/or plastic swords saying \"Aargh\" or \"Shiver me timbers\" or some other sort of nonsense. I have never quite understood the … Continue reading &rarr;"
 ---

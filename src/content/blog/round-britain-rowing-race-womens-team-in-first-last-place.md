@@ -12,6 +12,7 @@ tags:
   - "Seagals"
   - "The Misfits"
   - "Virgin GB Row 2010"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/go_commando.jpg"
 author: "Rick Spilman"
 description: "The Virgin GB Row 2010 is one of  strangest and most challenging rowing races in the world.    As described on the Virgin GB Row 2010 website: It’s 2,010 miles non-stop and unassisted rowing around Great Britain in some of … Continue reading &rarr;"
 ---

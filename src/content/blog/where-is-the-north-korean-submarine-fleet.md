@@ -11,6 +11,7 @@ tags:
   - "North Korean Submarine Fleet"
   - "Romeo class submarine"
   - "Sang-O"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/sangpo1.jpg"
 author: "Rick Spilman"
 description: "Something very strange has happened on the Korean peninsula.  More than 50 North Korean submarines — about 70% of the country’s known fleet — have reportedly left their bases and disappeared from South Korea’s military radar.  They also represent most … Continue reading &rarr;"
 ---

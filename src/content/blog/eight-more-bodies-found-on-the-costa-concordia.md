@@ -12,6 +12,7 @@ tags:
   - "Costa Concordia"
   - "Dayana Arlotti"
   - "five year old girl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/concordia1.jpg"
 author: "Rick Spilman"
 description: "The presumed death toll remains at 32 in the sinking of the Costa Concordia.  Today divers located eight more bodies, bringing the number of known dead to 25 while the number of missing and presumed dead dropped to 7.  Only … Continue reading &rarr;"
 ---

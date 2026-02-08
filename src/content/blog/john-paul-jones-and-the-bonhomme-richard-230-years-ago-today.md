@@ -11,6 +11,7 @@ tags:
   - "Bonhomme Richard"
   - "John Paul Jones"
   - "Serapis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/pirate5.jpg"
 author: "Rick Spilman"
 description: "I have always been a John Paul Jones sceptic.   Was he a great naval leader or merely a prima dona?  Was he so difficult a personality that he was never an effective leader?   He was at the very least a … Continue reading &rarr;"
 ---

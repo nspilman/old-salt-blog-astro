@@ -11,6 +11,7 @@ tags:
   - "Francis Wilson"
   - "J. Bruce Ismay"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/titanic_main_1969584f.jpg"
 author: "Rick Spilman"
 description: "What more can be written about the Titanic?   In a book recently released in Great Britain and coming out this October in the US,  Francis Wilson looks at the sinking and the impact on one of the more famous survivors – J. Bruce … Continue reading &rarr;"
 ---

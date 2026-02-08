@@ -11,6 +11,7 @@ tags:
   - "Brig Niagara"
   - "Cleveland"
   - "salmonella"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/niagra-150x100.jpg"
 author: "Rick Spilman"
 description: "Last week, twenty six of forty two crew members on the Brig Niagara were sickened by salmonella,  forcing the ship to cut short a visit to a tall ships festival in Cleveland.   Fortunately, the crew is reported to have … Continue reading &rarr;"
 ---

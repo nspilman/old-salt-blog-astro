@@ -14,6 +14,7 @@ tags:
   - "Philadelphia’s tall ship"
   - "Pirate Burlesque"
   - "Seven Deadly Seas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/flyer-small.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, Philadelphia’s tall ship, the 112+ year old barquentine Gazela, will be among the seventeen tall ships in the \"Parade of Sail\" on the Hudson River. Once again, however, the Gazela will bringing more than just history and grace … Continue reading &rarr;"
 ---

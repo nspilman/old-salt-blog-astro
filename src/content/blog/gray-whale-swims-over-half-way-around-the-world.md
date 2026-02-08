@@ -11,6 +11,7 @@ tags:
   - "Gray Whale"
   - "Namibia"
   - "Western gray whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/graywhale.jpg"
 author: "Rick Spilman"
 description: "In 2013, a male gray whale was spotted in Walvis Bay off Namibia, which was odd, as no gray whale had ever been seen in the Southern Hemisphere. Where did he come from? It took several years of research to … Continue reading &rarr;"
 ---

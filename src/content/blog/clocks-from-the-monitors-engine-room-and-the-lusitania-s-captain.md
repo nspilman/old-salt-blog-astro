@@ -11,6 +11,7 @@ tags:
   - "Mariner's Museum"
   - "Merseyside Maritime Museum"
   - "USS Monitor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/USS-Monitor-clock-works.jpg"
 author: "Rick Spilman"
 description: "Thanks to Alaric Bond for passing along two articles about historic maritime clocks.   The conservators at the Mariner’s Museum have restored the engine room clock from the USS Monitor which sank in 1862.   On the other side of the Atlantic, … Continue reading &rarr;"
 ---

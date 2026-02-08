@@ -12,6 +12,7 @@ tags:
   - "Brahmaputra River"
   - "Double-Decker Ferry"
   - "India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/fo0501-india-ferry-sinking.jpg"
 author: "Rick Spilman"
 description: "A double-decker ferry carrying an estimated 350 people capsized, broke apart and sank in the Brahmaputra River in heavy weather.  The ferry was traveling between Dhubri to Fakirganjan in Assam state and was reported to be overloaded with passengers and cargo, and carried … Continue reading &rarr;"
 ---

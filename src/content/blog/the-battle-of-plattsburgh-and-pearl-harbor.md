@@ -18,6 +18,7 @@ tags:
   - "USS Macdonough."
   - "USS Montgomery"
   - "USS Preble."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/USSMacdonoughDD351.jpg"
 author: "Rick Spilman"
 description: "It seems to me that history is all about connections. Lawrence Gooley, writing in the Adirondack Almanack, notes how many ships present at the attack on Pearl Harbor on December 7, 1941, were named in remembrance of those who fought … Continue reading &rarr;"
 ---

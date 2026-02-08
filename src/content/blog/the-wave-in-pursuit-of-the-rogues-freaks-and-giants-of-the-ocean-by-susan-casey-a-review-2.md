@@ -13,6 +13,7 @@ tags:
   - "surfers"
   - "Susan Casey"
   - "The Wave"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/wave_.jpg"
 author: "Rick Spilman"
 description: "Sea monsters exist. They break ships in half and pull them below the waves. Sometimes they swallow them whole. Most who encounter them never return to tell the tale and those few who do, until very recently, were rarely believed. … Continue reading &rarr;"
 ---

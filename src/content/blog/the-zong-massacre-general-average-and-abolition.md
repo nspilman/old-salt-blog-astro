@@ -13,6 +13,7 @@ tags:
   - "general average"
   - "Zong"
   - "Zong Massacre"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/Zong-Massacre.jpg"
 author: "Rick Spilman"
 description: "On November 29, 1781, the British slave ship Zong was desperately short of potable water, in part due to an error in navigation and in part due to an incompetent cooper. Captain Luke Collingwood, in command of the ship, ordered … Continue reading &rarr;"
 ---

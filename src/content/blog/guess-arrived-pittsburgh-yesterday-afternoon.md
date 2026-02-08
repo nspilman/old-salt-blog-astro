@@ -12,6 +12,7 @@ tags:
   - "Pittsburgh"
   - "Rubber Duck"
   - "Spreading Joy Around the World"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/rdpitts.jpg"
 author: "Rick Spilman"
 description: "Dutch artist Florentijn Hofman’s inflatable sculpture, \"Spreading Joy Around the World,\" universally known simply as \"Rubber Duck\" has arrived in Pittsburgh after spending the spring and summer on Hong Kong.  Pittsburgh will be the 14th city on the Rubber Duck’s … Continue reading &rarr;"
 ---

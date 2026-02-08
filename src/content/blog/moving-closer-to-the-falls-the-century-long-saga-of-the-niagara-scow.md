@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/11/scow2.jpg"
 author: "Rick Spilman"
 description: "For just over a century, an 80-foot long iron sand-dumping scow has been stuck on a rock in the raging currents of the Niagara River just upriver from the Canadian side of Niagara Falls. After a powerful storm blew through … Continue reading &rarr;"
 ---

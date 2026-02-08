@@ -11,6 +11,7 @@ tags:
   - "John F. Lehman"
   - "Philadelphia Naval Shipyard"
   - "USS Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/oympia2.jpg"
 author: "Rick Spilman"
 description: "John F. Lehman and Christopher M. Lehman have a new plan to save the historic but endangered USS Olympia in Philadelphia.  John John F. Lehman served as secretary of the Navy and Christopher M. Lehman served as special assistant for national … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "Korea"
   - "whaling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Minke.jpg"
 author: "Rick Spilman"
 description: "When Korea announced plans, earlier this month, to resume whaling for \"scientific purposes\" it was hit by a tsunami of protests from environmental groups and nations around the world.  France, the United States, Australia and New Zealand in particular spoke … Continue reading &rarr;"
 ---

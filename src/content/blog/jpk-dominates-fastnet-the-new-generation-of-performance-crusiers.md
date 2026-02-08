@@ -10,6 +10,7 @@ tags:
   - "Fastnet Race"
   - "JPK Composites"
   - "Pascal and Alexis Loison"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/jpk1080.jpg"
 author: "Rick Spilman"
 description: "JPK Composites, a boat builder from Brittany, is helping to redefine performance cruising sailboats. In 2013, the father and son team of Pascal and Alexis Loison won the biannual Fastnet Race on corrected time, sailing their 33′ Night and Day, a JPK … Continue reading &rarr;"
 ---

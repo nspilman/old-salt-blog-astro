@@ -13,6 +13,7 @@ tags:
   - "Peter Stanford"
   - "resignation"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/southstreet2.jpg"
 author: "Rick Spilman"
 description: "Peter Stanford, a founder and first president of the South Street Seaport Museum has written a letter calling for the resignation of the museum’s current chairman, Frank J. Sciame,  and its president, Mary Pelzer.  The museum recently laid of most of its … Continue reading &rarr;"
 ---

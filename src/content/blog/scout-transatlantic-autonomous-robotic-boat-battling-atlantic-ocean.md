@@ -10,6 +10,7 @@ tags:
   - "Atlantic Ocean"
   - "Autonomous Robotic Boat"
   - "Scout TransAtlantic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/scouttrack.jpg"
 author: "Rick Spilman"
 description: "Scout is on its way to Spain! It is a twelve foot long autonomous robotic boat designed to cross the Atlantic Ocean, relying only on pre-programmed commands and information that it can collect about its environment through sensors. Built by a … Continue reading &rarr;"
 ---

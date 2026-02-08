@@ -14,6 +14,7 @@ tags:
   - "ship ship"
   - "shipwreck"
   - "Tagus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/taguswreck.jpg"
 author: "Rick Spilman"
 description: "Archaeologists have found a 400-year-old shipwreck off the coast of Portugal, near Cascais, close to the capital Lisbon. The shipwreck was found in early September while dredging the mouth of the Tagus river.  Spices, ceramics, and cannons engraved with Portugal’s … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "grouper"
   - "invasive species"
   - "lionfish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lionfish1.jpg"
 author: "Rick Spilman"
 description: "Sometime in the 1990s, two different species of lionfish made it into the waters of the Atlantic off Florida. Native to the Indo-Pacific, the venomous, predatory fish spread rapidly, decimating local reef fish in the Atlantic, the Gulf of Mexico, and the … Continue reading &rarr;"
 ---

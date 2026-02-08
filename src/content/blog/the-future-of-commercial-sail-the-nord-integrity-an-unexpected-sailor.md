@@ -12,6 +12,7 @@ tags:
   - "Present and Future"
   - "Sailing Ships at Work - Past"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/Nord-Integrity-737511.jpg"
 author: "Rick Spilman"
 description: "I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of \"Sailing Ships at Work – Past, Present and Future.\"   It was a fun evening and gratifying that the presentation was so well received.  In … Continue reading &rarr;"
 ---

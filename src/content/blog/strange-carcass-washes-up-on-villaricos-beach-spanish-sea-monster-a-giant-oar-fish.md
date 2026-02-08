@@ -11,6 +11,7 @@ tags:
   - "sea monster"
   - "Spain"
   - "thresher shark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/spanishseamonster1.jpg"
 author: "Rick Spilman"
 description: "It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a \"sea monster.\"  Perhaps a bit small to … Continue reading &rarr;"
 ---

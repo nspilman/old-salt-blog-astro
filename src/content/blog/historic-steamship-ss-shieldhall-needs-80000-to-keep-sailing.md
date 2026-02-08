@@ -11,6 +11,7 @@ tags:
   - "2009 Flagship of National Historic Ships"
   - "SS Shieldhall"
   - "The Solent Steam Packet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Shieldhall-at-Calshot-300x1.jpg"
 author: "Rick Spilman"
 description: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s \"2009 Flagship of  National Historic Ships\" is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "ghost ship"
   - "Romanian Art collective"
   - "Visual Skin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/ghostship1.jpg"
 author: "Rick Spilman"
 description: "The designers at the Romanian Art collective Visual Skin used water, wind and light to create a glowing ghost ship the Amsterdam Light Festival."
 ---

@@ -11,6 +11,7 @@ tags:
   - "HMS Astute"
   - "non-nuclear hydrogen fuel cell powered submarine"
   - "U 35"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/astute.jpg"
 author: "Rick Spilman"
 description: "A report by Britain’s National Audit Office revealed that the Ministry of Defense is concerned that recent budget cuts have put the country at risk due to a shortage of modern attack submarines.   The National Audit Office said delays to … Continue reading &rarr;"
 ---

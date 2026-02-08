@@ -12,6 +12,7 @@ tags:
   - "Rally to Save our Seaport"
   - "Save our Seaport"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "Following up on the previous news that the current board of the financially troubled South Street Seaport Museum is being replaced, that the Attorney General has barred the removal of the museum’s historic ships from New York harbor and that new funding is being arranged, the Save our Seaport … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Limeys"
   - "scurvy"
   - "Vitamin C"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/googleorange-125x56.jpg"
 author: "Rick Spilman"
 description: "Today the Google \"doodle,\"  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a search for Albert Szent-Györgyi,  the Hungarian physiologist who is credited with discovering … Continue reading &rarr;"
 ---

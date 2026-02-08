@@ -13,6 +13,7 @@ tags:
   - "passenger ship"
   - "sinking"
   - "SS Yongala"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/SS-Yongala-off-coast-of-Ayr.jpg"
 author: "Rick Spilman"
 description: "Today is the 100th anniversary of the tragic sinking of the passenger ship SS Yongala in a cyclone off Australia with the loss of 122 lives. Yongala Centenary Expedition CAIRNS tourism pioneer Charles Woodward is today heading for the shipwreck … Continue reading &rarr;"
 ---

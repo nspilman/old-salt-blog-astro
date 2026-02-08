@@ -12,6 +12,7 @@ tags:
   - "sextant"
   - "US Naval Academy"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/sextantsight.jpg"
 author: "Rick Spilman"
 description: "In 1998, the United States Naval Academy dropped celestial navigation from its curriculum. If a naval officer wished to know where he or she was, the officer simply had to read the display on a GPS (Global Positioning System) receiver. … Continue reading &rarr;"
 ---

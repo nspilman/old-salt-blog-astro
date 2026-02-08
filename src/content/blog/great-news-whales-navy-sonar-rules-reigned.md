@@ -10,6 +10,7 @@ tags:
   - "sonar"
   - "US Navy"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/humpbackbreach.jpg"
 author: "Rick Spilman"
 description: "In 2012, we posted about how U.S Navy low frequency sonar training and testing could kill or deafen thousands of whales and dolphins.  Environmental groups, led by the Natural Resources Defense Council, filed a lawsuit in San Francisco arguing that actions violated … Continue reading &rarr;"
 ---

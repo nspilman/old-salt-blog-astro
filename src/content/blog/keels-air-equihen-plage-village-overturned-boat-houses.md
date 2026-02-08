@@ -11,6 +11,7 @@ tags:
   - "France"
   - "Keels in the Air"
   - "Pas-de-Calais"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/keelsintheair1.jpg"
 author: "Rick Spilman"
 description: "Équihen Plage is a village on the Opal Coast, along the English Channel, in Pas-de-Calais, France. Until the early 20th century, it was a fishing village. Lacking a harbor, the fishing boats would be run aground on each tide and … Continue reading &rarr;"
 ---

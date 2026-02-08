@@ -13,6 +13,7 @@ tags:
   - "Canadian steamship"
   - "Princess Kathleen"
   - "Second World War"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/PrincessKathleen-02-150x93.jpg"
 author: "Rick Spilman"
 description: "Sunken Canadian ship spewing oil off Alaskan coast: U.S. Coast Guard A storied Canadian steamship that offered luxury cruises for decades along the British Columbia coast, then served a crucial role during the Second World War transporting troops, supplies and … Continue reading &rarr;"
 ---

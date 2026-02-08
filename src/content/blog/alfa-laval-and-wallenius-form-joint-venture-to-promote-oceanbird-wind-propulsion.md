@@ -12,6 +12,7 @@ tags:
   - "Oceanbird"
   - "Wallenius"
   - "wind propulsion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/oceanbird.jpg"
 author: "Rick Spilman"
 description: "In September, we posted about a Swedish consortium that included Wallenius Marine has designed Oceanbird, a five-masted sailing car carrier, that, if built, will be the largest sailing cargo ship that the world has ever seen.  Last month, Alfa Laval and Wallenius … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Peabody Award"
   - "radiation leaks"
   - "Ron Regan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/McMurdo_Station.jpg"
 author: "Rick Spilman"
 description: "In March of 2011, we posted about reporting done by Ron Regan at NewsChannel5 in Cleveland, Ohio, concerning radiation leaks at a nuclear power plant at McMurdo Station in Antarctica. There is concern that these radiation leaks are related  to … Continue reading &rarr;"
 ---

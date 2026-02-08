@@ -10,6 +10,7 @@ tags:
   - "3rd Annual Fishtown Shad Fest"
   - "Delaware River"
   - "Philadelphia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Banner.jpg"
 author: "Rick Spilman"
 description: "Until fairly recently, every springtime, American shad made their annual runs up the Delaware, Hudson, Connecticut and other rivers of the East and Northeast to spawn.   The shad fishery in the Hudson lasted until the 1970s when their numbers dropped precipitously.  After dropping off … Continue reading &rarr;"
 ---

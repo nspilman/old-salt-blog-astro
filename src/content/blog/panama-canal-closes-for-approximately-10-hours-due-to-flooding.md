@@ -11,6 +11,7 @@ tags:
   - "flooding"
   - "Lake Gatun"
   - "Panama Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/panamacanal.jpg"
 author: "Rick Spilman"
 description: "In only the third time in 96 years, the Panama Canal closed yesterday due to flooding. After being shut down for ten hours it reopened early this morning.   Heavy rains around the Chagres River, caused the water in Lake Gatun, a significant part … Continue reading &rarr;"
 ---

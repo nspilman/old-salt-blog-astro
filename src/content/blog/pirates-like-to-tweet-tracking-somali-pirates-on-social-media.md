@@ -13,6 +13,7 @@ tags:
   - "Rubicon Resolution"
   - "Somali pirates"
   - "Twitter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/piratetwitter.jpg"
 author: "Rick Spilman"
 description: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, \"Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Patrick O’Brian"
   - "Pudding Club"
   - "Spotted Dick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/Spotted_Dick_Wikimeet_Londo.jpg"
 author: "Rick Spilman"
 description: "The Aubrey/Maturin series of novels by Patrick O’Brian introduced the world to, among other things,  a range of obscure traditional British cuisine, which notably included suet puddings such as \"Floating Island\", the unappetizing \"Drowned Baby\" and the perennial favorite \"Spotted Dick\".   This … Continue reading &rarr;"
 ---

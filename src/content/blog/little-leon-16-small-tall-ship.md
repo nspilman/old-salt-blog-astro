@@ -12,6 +12,7 @@ tags:
   - "16' long brigantine"
   - "Leon"
   - "Little Leon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/compare.jpg"
 author: "Rick Spilman"
 description: "When I first saw the photo, I thought that the Little Leon was sailed by giants. The ship looked properly to scale, while the crew seemed disproportionately large.  It turns out that Little Leon is a 16′ long brigantine modeled … Continue reading &rarr;"
 ---

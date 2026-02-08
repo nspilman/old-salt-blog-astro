@@ -5,6 +5,7 @@ slug: "1208-humpback-whale-sightings-in-great-maui-whale-count"
 excerpt: "Over the weekend, the Great Maui Whale Count spotted 1,208 humpback whales.  More of a snapshot than a census, the watchers counted 676 pods or groups of whales, with an average of 214 pods or groups sighted per hour. 1,208 whale … Continue reading &rarr;"
 categories:
   - "Current"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/humpbacktail-150x75.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, the Great Maui Whale Count spotted 1,208 humpback whales.  More of a snapshot than a census, the watchers counted 676 pods or groups of whales, with an average of 214 pods or groups sighted per hour. 1,208 whale … Continue reading &rarr;"
 ---

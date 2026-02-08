@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Winter Storm Hercules"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/herculeswave.jpg"
 author: "Rick Spilman"
 description: "I will admit to having mixed feelings about assigning names to winter storms. Hurricanes are momentous enough to be worthy of names, but most winter storms, nasty and dangerous though they may indeed be, don’t seem worth naming. I will … Continue reading &rarr;"
 ---

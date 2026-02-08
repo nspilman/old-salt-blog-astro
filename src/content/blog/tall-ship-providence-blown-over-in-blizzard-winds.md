@@ -12,6 +12,7 @@ tags:
   - "Newport"
   - "Providence"
   - "tall ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/IMG_0742.jpg"
 author: "Rick Spilman"
 description: "The sloop Providence was blown off her jack stands while on shore at Newport Shipyard on Tuesday in blizzard conditions."
 ---

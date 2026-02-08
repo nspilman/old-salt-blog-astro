@@ -10,6 +10,7 @@ tags:
   - "aquatic ape hypothesis"
   - "BAH! (Festival of Bad Ad Hoc Hypotheses)"
   - "Sir David Attenborough"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/Baby_diving.jpg"
 author: "Rick Spilman"
 description: "There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the \"aquatic ape hypothesis\" of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire … Continue reading &rarr;"
 ---

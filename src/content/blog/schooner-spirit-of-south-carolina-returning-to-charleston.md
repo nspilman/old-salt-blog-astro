@@ -11,6 +11,7 @@ tags:
   - "schooner"
   - "South Carolina"
   - "Spirit of South Carolina."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/spiritsouthcarolina.jpg"
 author: "Rick Spilman"
 description: "Great news. The schooner Spirit of South Carolina is on her way home to Charleston, South Carolina."
 ---

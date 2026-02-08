@@ -10,6 +10,7 @@ categories:
 tags:
   - "Hōkūleʻa"
   - "Polynesian Voyaging Society"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/hokulea.jpg"
 author: "Rick Spilman"
 description: "Hōkūleʻa, the Polynesian Voyaging Society double hull sailing canoe has arrived in Brasil, after a voyage across the Atlantic, continuing on its round the world voyage. Over the last 40 years, Hōkūleʻa has sailed over 150,000 across the Pacific.  In its … Continue reading &rarr;"
 ---

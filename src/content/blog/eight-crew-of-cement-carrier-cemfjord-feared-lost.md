@@ -10,6 +10,7 @@ categories:
 tags:
   - "cement carrier"
   - "Cemfjord"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/cementcarrierbow.jpg"
 author: "Rick Spilman"
 description: "Eight crew of the cement carrier Cemfjord are feared lost after the capsized hull was found off Pentland Firth."
 ---

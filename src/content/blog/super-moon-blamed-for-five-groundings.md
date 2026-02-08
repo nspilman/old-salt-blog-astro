@@ -9,6 +9,7 @@ categories:
 tags:
   - "five ships aground"
   - "Super Moon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/moon1.jpg"
 author: "Rick Spilman"
 description: "We posted a few days ago about Saturday’s \"Super Full Moon\" the first time in almost twenty years that full moon coincided with perigee, the passing of the moon’s orbit closest to the earth.   Now the \"Super Moon\" is being … Continue reading &rarr;"
 ---

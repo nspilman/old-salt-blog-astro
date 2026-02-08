@@ -13,6 +13,7 @@ tags:
   - "Greenwich"
   - "Prime Meridian"
   - "Royal Observatory"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/prime-meridians.jpg"
 author: "Rick Spilman"
 description: "Recently, it was reported that the Prime Meridian, as marked at the Royal Observatory in Greenwich, England, is off by 102 meters, over the length of an American football field. The Prime Meridian is the arbitrary line marking 0 degrees … Continue reading &rarr;"
 ---

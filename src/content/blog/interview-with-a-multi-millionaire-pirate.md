@@ -10,6 +10,7 @@ tags:
   - "pirate"
   - "Saeed Yare"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/An-armed-Somali-pirate.-006.jpg"
 author: "Rick Spilman"
 description: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  \"earned\" over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "mtDNA"
   - "Native Americans"
   - "Polynesian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/voyaging-canoe.jpg"
 author: "Rick Spilman"
 description: "Genetic analysis of modern descendants shows that sailors from the Pacific Islands arrived in the Americas long before Europeans arrived. The question is how long? A recent study suggests Polynesians and Native Americans made contact some 800 years ago, well … Continue reading &rarr;"
 ---

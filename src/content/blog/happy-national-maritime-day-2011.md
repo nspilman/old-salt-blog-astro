@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Happy National Maritime"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/National-Maritime-Day.jpg"
 author: "Rick Spilman"
 description: "Happy National Maritime Day!  The day has been celebrated in the US since 1933.  After World War II US flag shipping accounted for over 40% of the world’s total fleet.  Currently the US ranks around 10th in the world by … Continue reading &rarr;"
 ---

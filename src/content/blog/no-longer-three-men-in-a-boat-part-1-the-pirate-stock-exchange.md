@@ -10,6 +10,7 @@ tags:
   - "Mohammed Hassan Abdi"
   - "pirate stock exchange"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/somali_pirates.jpg"
 author: "Rick Spilman"
 description: "While an international flotilla of naval vessels continues to play \"catch and release\" with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "NS 50 Let Pobedy"
   - "nuclear powered"
   - "USCGC Healy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/1Bow_Ice.jpg"
 author: "Rick Spilman"
 description: "NASA has recently published an analysis of the arctic operations of the icebreaker USCGC Healy. The Healy has been serving as a research vessel in Arctic water with more than 4,200 square feet of scientific laboratory space, numerous electronic sensor systems, … Continue reading &rarr;"
 ---

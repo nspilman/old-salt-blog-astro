@@ -5,6 +5,7 @@ slug: "ss-great-britains-significant-new-maritime-library"
 excerpt: "A wonderful collection of more than 9,000 books and periodicals on ships and the sea has gone on display in a new library in Bristol. SS Great Britain’s ‘significant’ new maritime library The David MacGregor Library, named after a life-long supporter … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/49864364_ss_gb_226.jpg"
 author: "Rick Spilman"
 description: "A wonderful collection of more than 9,000 books and periodicals on ships and the sea has gone on display in a new library in Bristol. SS Great Britain’s ‘significant’ new maritime library The David MacGregor Library, named after a life-long supporter … Continue reading &rarr;"
 ---

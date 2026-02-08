@@ -12,6 +12,7 @@ tags:
   - "Cyclone Yasi"
   - "Queensland"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/shipwreck-australia-110419-02.jpg"
 author: "Rick Spilman"
 description: "As the sands of Fire Island are swallowing Le Papillon, Cyclone Yasi has uncovered a mysterious shipwreck on an island off  the Queensland coast. Cyclone Winds Unbury Island’s 130-Year-Old Shipwreck The huge cyclone’s intense winds blew away sand on one … Continue reading &rarr;"
 ---

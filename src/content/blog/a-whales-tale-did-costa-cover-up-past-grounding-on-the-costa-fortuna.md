@@ -12,6 +12,7 @@ tags:
   - "Costa Fortuna"
   - "Roberto Cappello"
   - "Sorrento"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/n_fortuna_img01-125x79.jpg"
 author: "Rick Spilman"
 description: "In May 2005, while the cruise ship Costa Fortuna was making a close approach to the island of Sorrento, there was a \"loud bang\" after which the vessel rolled from left to right according to the ship’s photographer Roberto Cappello, 59.  He later would … Continue reading &rarr;"
 ---

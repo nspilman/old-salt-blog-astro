@@ -11,6 +11,7 @@ tags:
   - "Newport-to-Ensenada race"
   - "North Coronado Island"
   - "US Sailing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/aegean.jpg"
 author: "Rick Spilman"
 description: "In the early morning hours of April 28th, the yacht Aegean disappeared and sank in the Newport to Ensenada Race.  Wreckage of the  sailboat and the bodies of the fours sailors who had been aboard were subsequently found nearby. After initial speculation that there … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Portland Harbor Pilot"
   - "Susan Clark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/susanclark-125x152.jpg"
 author: "Rick Spilman"
 description: "Susan Clark, who died after a short battle with cancer at 48, was a remarkable woman. In high school, she was valedictorian and class president. At Maine Maritime Academy, she was first in her class. She was the first female captain for Exxon and captained … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Lamma IV"
   - "passenger ferry"
   - "Sea Smooth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/01Ferry_cnd-articleLarge.jpg"
 author: "Rick Spilman"
 description: "Captain Lai Sai-ming was sentenced to eight years in prison on 39 counts of manslaughter related to a 2012 ferry collision in Hong Kong harbor ."
 ---

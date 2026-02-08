@@ -13,6 +13,7 @@ tags:
   - "Gold Eagle"
   - "Hurricane Odile"
   - "Sea of Cortez"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/goldeagel1jpg.jpg"
 author: "Rick Spilman"
 description: "When Hurricane Odile slammed into Mexico's Baja peninsula last month, it sank Ron Strathman's Gold Eagle. He is now raising money to refloat the schooner."
 ---

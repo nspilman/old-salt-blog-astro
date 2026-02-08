@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/terra-nova-primary-image_lr.jpg"
 author: "Rick Spilman"
 description: "Last week it was announced that the wreck of SS Terra Nova, the ship that had carried Robert Scott on his ill-fated quest to be the first to reach the South Pole, had been located off Greenland. In July, the … Continue reading &rarr;"
 ---

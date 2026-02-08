@@ -11,6 +11,7 @@ tags:
   - "Alaric Bond"
   - "Fighting Sail series"
   - "The Torrid Zone"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/torridzone.jpg"
 author: "Rick Spilman"
 description: "In The Torrid Zone, Alaric Bond’s latest novel in his Fighting Sail Series, HMS Scylla is due to return to England. Her crew is weary and the ship is in serious need of a refit.  Yet, as soon as the ship reaches … Continue reading &rarr;"
 ---

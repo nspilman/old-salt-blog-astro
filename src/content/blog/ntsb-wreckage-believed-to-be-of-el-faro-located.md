@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "National Safety Transportation (NTSB)"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/apachetug.jpg"
 author: "Rick Spilman"
 description: "From a press release from the National Safety Transportation Board (NTSB): A search team on board the USNS Apache has found the wreckage of a vessel that they believe to be the cargo ship El Faro, which went missing on … Continue reading &rarr;"
 ---

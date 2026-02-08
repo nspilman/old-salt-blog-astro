@@ -12,6 +12,7 @@ tags:
   - "Costa Cruise Lines"
   - "Francesco Schettino"
   - "manslaughter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Schettino.jpg"
 author: "Rick Spilman"
 description: "Francesco Schettino, captain of the Costa Concordia, who steered his ship into a reef off the island of Giglio and then delayed the order to evacuate the sinking ship, resulting in or contributing to the deaths of 32 passengers and crew, was … Continue reading &rarr;"
 ---

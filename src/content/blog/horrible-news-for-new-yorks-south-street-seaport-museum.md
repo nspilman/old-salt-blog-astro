@@ -10,6 +10,7 @@ tags:
   - "City Museum of New York"
   - "new york"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/24artsbeat-museum-blog480.jpg"
 author: "Rick Spilman"
 description: "Back in 2011, there was new hope for the New York’s South Street Seaport Museum when the struggling institution was rescued by the City Museum of New York.  A $2 million grant from the Lower Manhattan Development Corporation gave the City Museum … Continue reading &rarr;"
 ---

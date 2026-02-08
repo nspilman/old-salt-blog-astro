@@ -16,6 +16,7 @@ tags:
   - "Richard Parker"
   - "The Narrative of Arthur Gordon Pym of Nantucket"
   - "Yann Martel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/minionette.jpg"
 author: "Rick Spilman"
 description: "Here is another old favorite, a companion repost to yesterday’s repost of \"The Unsinkable Hugh Williams – Truth Behind the Legend?\" We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh … Continue reading &rarr;"
 ---

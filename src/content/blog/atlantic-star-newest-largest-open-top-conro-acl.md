@@ -14,6 +14,7 @@ tags:
   - "ConRo"
   - "G4 class"
   - "open-top container ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/atlanticstar1.jpg"
 author: "Rick Spilman"
 description: "Atlantic Container Lines’ (ACL) Atlantic Star, the newest and world’s largest Container/Roll-on Roll-off ship, has arrived on the North American East Coast, calling at Halifax and on Saturday, in New York. Notwithstanding its name, the ships of Atlantic Container Lines … Continue reading &rarr;"
 ---

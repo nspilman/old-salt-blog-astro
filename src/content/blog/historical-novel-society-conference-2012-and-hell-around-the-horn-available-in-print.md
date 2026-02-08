@@ -15,6 +15,7 @@ tags:
   - "JD Davies"
   - "Linda Collison"
   - "Margaret Muir"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "The Internet is an odd place. There are writers who I feel that I know well and consider to be friends, and yet that I have never met in person.  This evening, I will be leaving to attend the Historical Novel Society Conference … Continue reading &rarr;"
 ---

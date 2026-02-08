@@ -15,6 +15,7 @@ tags:
   - "Guinea Boat"
   - "interview"
   - "Joan Druett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/Alaric_1.jpg"
 author: "Rick Spilman"
 description: "An interview with Alaric Bond by the award winning author, Joan Druett. Reposted with permission from her World of the Written Word blog."
 ---

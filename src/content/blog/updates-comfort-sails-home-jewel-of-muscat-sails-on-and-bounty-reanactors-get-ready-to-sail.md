@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/USNS21.jpg"
 author: "Rick Spilman"
 description: "A few updates on previous posts:  The USNS Comfort, the Navy hospital ship deployed to Haiti after the earthquake is on her way home:   Navy hospital ship to begin journey home from Haiti The Jewel of Muscat, the replica of … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Charles Spencer"
   - "Sir Eric Anderson"
   - "William Shakespeare"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/Shakespearesailor.jpg"
 author: "Rick Spilman"
 description: "Charles Spencer, writing for the Telegraph, had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s \"shipwreck\" plays last month,  he  found himself wondering whether the Bard spent his so-called \"lost years\" before his arrival in London, as … Continue reading &rarr;"
 ---

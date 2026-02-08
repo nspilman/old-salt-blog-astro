@@ -5,6 +5,7 @@ slug: "another-city-of-adelaide-at-risk"
 excerpt: "We have posted extensively about the oldest just barely surviving composite clipper ship, the City of Adelaide, which is in danger of being broken up in May. We have also noted the arguments over the HMAS Adelaide, which may or may … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/cityofa.jpg"
 author: "Rick Spilman"
 description: "We have posted extensively about the oldest just barely surviving composite clipper ship, the City of Adelaide, which is in danger of being broken up in May. We have also noted the arguments over the HMAS Adelaide, which may or may … Continue reading &rarr;"
 ---

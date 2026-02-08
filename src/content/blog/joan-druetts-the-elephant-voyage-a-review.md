@@ -10,6 +10,7 @@ categories:
 tags:
   - "Elephant Voyage"
   - "Joan Druett"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/07/elephantvoyage.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s The Elephant Voyage is a fascinating historical account of sailors who find themselves castaway on a desolate, wind-swept sub-Antarctic island, while on an ill-fated voyage to hunt elephant seals in the late 19th century.  Their rescue and at least partial redemption also … Continue reading &rarr;"
 ---

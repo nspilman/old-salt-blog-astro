@@ -13,6 +13,7 @@ tags:
   - "North Carolina Aquarium"
   - "Okeanos Explorer"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/OkExplorer.jpg"
 author: "Rick Spilman"
 description: "On June 25th, the National Oceanic and Atmospheric Administration (NOAA) will be investigating an unidentified shipwreck 40 miles off the coast of Hatteras Island using a robotic submersible launched from the research vessel Okeanos Explorer.  The exploration will be livestreamed with viewing … Continue reading &rarr;"
 ---

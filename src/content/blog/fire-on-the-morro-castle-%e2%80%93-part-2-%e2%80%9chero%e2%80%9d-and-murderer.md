@@ -11,6 +11,7 @@ tags:
   - "George White Rogers"
   - "Morro Castle"
   - "Vincent Doyle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/morro_castle_ashore_via_wikipedia.jpg"
 author: "Rick Spilman"
 description: "In the aftermath of the fire in 1934 on the passenger liner Morro Castle, in which 135 passengers and crew died, there was considerable blame to be shared. The ship’s safety equipment was poorly maintained, the crew poorly trained and the … Continue reading &rarr;"
 ---

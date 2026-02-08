@@ -8,6 +8,7 @@ categories:
 tags:
   - "oarfish"
   - "Southern California"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/oarfish1.jpg"
 author: "Rick Spilman"
 description: "A second rare oarfish has washed up on the California coast. Last week a dead 18 foot oarfish was found by a snorkeling marine science instructor off Catalina Island. On Sunday, a second 14′ long oarfish washed up on a … Continue reading &rarr;"
 ---

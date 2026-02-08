@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/U-110_Entern.jpg"
 author: "Rick Spilman"
 description: "On May 9, 1941, seventy years ago today, the German submarines U110 and U201 were attacking a British convoy in the Atlantic south of Iceland.   U110 was forced to surface after being depth changed and was abandoned by her crew who … Continue reading &rarr;"
 ---

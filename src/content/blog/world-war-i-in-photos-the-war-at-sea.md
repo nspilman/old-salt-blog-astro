@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/l_01.jpg"
 author: "Rick Spilman"
 description: "The Atlantic Monthly has a wonderful feature this month — World War I in Photos: The War at Sea by Alan Taylor. Moving troops and supplies by sea was vital to all armies involved in the war. The battle for … Continue reading &rarr;"
 ---

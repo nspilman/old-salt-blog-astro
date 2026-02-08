@@ -13,6 +13,7 @@ tags:
   - "Joseph Conrad"
   - "Lord Nelson"
   - "Trafalgar Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/10/conradtd.jpg"
 author: "Rick Spilman"
 description: "I am currently traveling, so I managed to miss Trafalgar Day. Here is an updated repost in honor of Nelson’s great victory over the combined French and Spanish fleets a day ago on October 21, in 1805. There is a … Continue reading &rarr;"
 ---

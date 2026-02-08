@@ -12,6 +12,7 @@ tags:
   - "G4"
   - "Gunboat"
   - "J foils"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/g4jfoil.jpg"
 author: "Rick Spilman"
 description: "Gunboat's new G4, expected in 2015, may be the first racing/cruising catamaran capable of flying on foils with the potential to reach speeds of 40 knots."
 ---

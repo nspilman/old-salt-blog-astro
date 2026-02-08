@@ -11,6 +11,7 @@ tags:
   - "Project Grand Largue"
   - "Sea-Change Sailing Trust"
   - "Thames River barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/gl2.jpg"
 author: "Rick Spilman"
 description: "Two very interesting projects involving commercial sail from the Traditional Sail Professionals Linked-in Group.  In Brittany, Avel Marine‘s Project Grand Largue is designing and testing auxiliary sailing rigs for existing fishing vessels.  The design features a bipod mast and easily handled sails. The rig has … Continue reading &rarr;"
 ---

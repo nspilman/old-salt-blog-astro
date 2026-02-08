@@ -11,6 +11,7 @@ tags:
   - "armed guards"
   - "Maersk Alabama"
   - "pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Maersk_Alabama.jpg"
 author: "Rick Spilman"
 description: "This week the Maersk Alabama was attacked by pirates for the third time in the last two years.    In April of 2009, pirates boarded the Maersk containership and took her captain, Richard Phillips, hostage.  He was later rescued when Navy sharpshooters … Continue reading &rarr;"
 ---

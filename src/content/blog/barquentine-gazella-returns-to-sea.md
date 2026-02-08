@@ -14,6 +14,7 @@ tags:
   - "new bedford"
   - "Philadelphia"
   - "Portuguese festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/gazela.jpg"
 author: "Rick Spilman"
 description: "Philadelphia’s tall ship, the barquentine Gazela has returned to to sea after five years of being limited to protected water sailing due to a damaged rudder.  With a new rudder, the turn-of-the-century Portuguese-built barquentine set sail from Philadelphia bound where she … Continue reading &rarr;"
 ---

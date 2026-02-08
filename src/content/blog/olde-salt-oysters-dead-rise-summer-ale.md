@@ -10,6 +10,7 @@ tags:
   - "Merroir"
   - "Olde Salt Oysters"
   - "Rappahannock Oyster Company"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/aleoysters.jpg"
 author: "Rick Spilman"
 description: "I am currently in the Northern Neck of of Virginia, where I will soon sit down with a boatyard to hear the latest estimated launch date for my Albin Nimbus 42, Arcturus.  As I left the boat with the yard … Continue reading &rarr;"
 ---

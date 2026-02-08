@@ -9,6 +9,7 @@ tags:
   - "Dr. Wubbo Ockles"
   - "Ecolution"
   - "Groningen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ecolution_groot.jpg"
 author: "Rick Spilman"
 description: "Last December, we posted about the sinking of Dutch scientist, Dr. Wubbo Ockles’  high tech yacht Ecolution in Groningen.  The yacht was believed to have been sunk by vandals.  No arrests have been.  This week, the repaired Ecolution successfully  completed sea trials.  The Ecolution … Continue reading &rarr;"
 ---

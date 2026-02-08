@@ -5,6 +5,7 @@ slug: "melvilles-billy-budd-from-unfinished-manuscript-to-novella-to-broadway-pl
 excerpt: "The Glyndebourne Festival Opera’s Michael Grandage production of Benjamin Britten’s opera, Billy Budd, opened last night at the Brooklyn Academy of Music(BAM.) Herman Melville’s Billy Budd was his last work, which almost died with him in 1891. The unfinished manuscript was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/07PADMORE-master675.jpg"
 author: "Rick Spilman"
 description: "The Glyndebourne Festival Opera’s Michael Grandage production of Benjamin Britten’s opera, Billy Budd, opened last night at the Brooklyn Academy of Music(BAM.) Herman Melville’s Billy Budd was his last work, which almost died with him in 1891. The unfinished manuscript was … Continue reading &rarr;"
 ---

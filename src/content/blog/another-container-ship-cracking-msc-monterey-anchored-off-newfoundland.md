@@ -13,6 +13,7 @@ tags:
   - "MOL Comfort"
   - "MSC Monterey"
   - "Newfoundland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/Container_ship_MSC_Monterey.jpg"
 author: "Rick Spilman"
 description: "MSC Monterey, a 4,892 TEU container ship, was bound from the Belgium port of Antwerp to Newark, NJ, but diverted to Newfoundland after cracks in her hull were discovered. The ship is now at anchor south of Newfoundland, near Trepassey … Continue reading &rarr;"
 ---

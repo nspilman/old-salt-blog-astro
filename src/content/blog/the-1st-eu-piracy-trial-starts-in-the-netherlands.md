@@ -9,6 +9,7 @@ categories:
 tags:
   - "EU piracy trial"
   - "Netherlands"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/story.dutch.navy_.afp_.gi_.jpg"
 author: "Rick Spilman"
 description: "Five alleged pirates went on trial this week in the Netherlands in what is believed to be the first piracy trial in the European Union.  The Netherlands has called for an international tribunal for the prosecution of sea pirates, but thus far no EU action … Continue reading &rarr;"
 ---

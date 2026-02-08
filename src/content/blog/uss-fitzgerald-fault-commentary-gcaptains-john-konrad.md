@@ -11,6 +11,7 @@ tags:
   - "gCaptain"
   - "John Konrad"
   - "USS Fitzgerald"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/gcaptainnbridge.jpg"
 author: "Rick Spilman"
 description: "gCaptain’s Captain John Konrad has a excellent post today that describes in detail why he believes that the destroyerUSS Fitzgerald was at fault in its recent collision with the container ship ACX Crystal.  He suggests a simple rule for avoiding collisions with … Continue reading &rarr;"
 ---

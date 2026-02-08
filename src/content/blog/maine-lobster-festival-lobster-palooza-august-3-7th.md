@@ -11,6 +11,7 @@ tags:
   - "Maine Lobster Festival"
   - "Miane"
   - "Rockland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/lobster.jpg"
 author: "Rick Spilman"
 description: "The Maine Lobster Festival being held in Rockland from August 3rd to the 7th is described as \"Five Days of Feasting and Fun on the Fabulous Coast of Maine!\"  \"The festival promises \" the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Tall Ships Philadelphia - Camden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/phillycamdents.jpg"
 author: "Rick Spilman"
 description: "Tall Ships Philadelphia - Camden is being held on June 25-28, 2015 on the Delaware River. Tickets are now on sale."
 ---

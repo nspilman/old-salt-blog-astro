@@ -11,6 +11,7 @@ tags:
   - "Harbor seal"
   - "New York City Police and Fire Departments"
   - "new york harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/seal.jpg"
 author: "Rick Spilman"
 description: "It is feeling like spring in New York harbor.   Earlier this month a harbor seal  was seem enjoying the sun on an old pier on the Jersey City side of the Hudson. Harbor seal were once common in New York harbor but were … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Red Hook"
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "In early October, the headline in the Philadephia Inquirer was Is the S.S. United States headed toward the scrap yard?. After years of attempting to save the iconic cruise ship, the SS United States Conservancy announced that the SS United States, … Continue reading &rarr;"
 ---

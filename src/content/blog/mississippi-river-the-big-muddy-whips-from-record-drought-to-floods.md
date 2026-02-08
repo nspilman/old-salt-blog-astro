@@ -11,6 +11,7 @@ tags:
   - "drought"
   - "floods"
   - "Mississippi River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/floodwarning.jpg"
 author: "Rick Spilman"
 description: "A few months ago, the Mississippi River was showing the effects of a near record drought. There was talk in December of shutting down barge traffic on key sections of the river due to the low water levels. In January, … Continue reading &rarr;"
 ---

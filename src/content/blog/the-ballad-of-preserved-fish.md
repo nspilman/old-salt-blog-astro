@@ -11,6 +11,7 @@ tags:
   - "Ken Ficara"
   - "New York Stock Exchange"
   - "Preserved Fish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/preservedfish.jpg"
 author: "Rick Spilman"
 description: "A brief appreciation of the ship's captain, merchant and financier, Preserved Fish."
 ---

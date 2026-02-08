@@ -13,6 +13,7 @@ tags:
   - "Kruzenshtern"
   - "Russian Navy"
   - "Sedov"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/KflyingP.jpg"
 author: "Rick Spilman"
 description: "For a handful of ships, the great age of sail has not yet ended.  In 2013, the Russian Navy sail training ship Kruzenshtern will call in 20 seaports in 11 countries and will take part in several international regattas. The ship, originally built in … Continue reading &rarr;"
 ---

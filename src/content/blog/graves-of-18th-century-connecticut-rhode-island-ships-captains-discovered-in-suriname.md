@@ -17,6 +17,7 @@ tags:
   - "New London"
   - "Rhode Island"
   - "ship's captains"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Oranjetuin_06.jpg"
 author: "Rick Spilman"
 description: "The graves of four ship’s captains and merchants dating from the mid-18th century have been found in Suriname, a former Dutch sugar colony on the northern coast of South America. The graves of privateer Capt. Michael Burnham of Middletown, CT; Capt. William Barbut … Continue reading &rarr;"
 ---

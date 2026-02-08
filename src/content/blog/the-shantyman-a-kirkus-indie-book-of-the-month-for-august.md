@@ -11,6 +11,7 @@ tags:
   - "Indie Book of the Month"
   - "Kirkus Reviews"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg"
 author: "Rick Spilman"
 description: "I am very pleased to learn that my latest novel, The Shantyman, is being featured as one of Kirkus' Indie Books of the Month for August."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Ever Given"
   - "Suez Canal"
   - "ultra-large container ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven4.jpg"
 author: "Rick Spilman"
 description: "The saying goes that the tide floats all boats. The current hope is that a peak high tide on Monday may allow salvors to refloat the ultra-large container ship Ever Given that has been blocking all traffic in the Suez … Continue reading &rarr;"
 ---

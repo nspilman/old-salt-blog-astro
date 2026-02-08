@@ -10,6 +10,7 @@ categories:
 tags:
   - "New York Fleet Week"
   - "OpSail 2012"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/opsaillogo.jpg"
 author: "Rick Spilman"
 description: "Next Wednesday, May 23rd, OpSail 2012 and New York Fleet Week kick off with two parades of ships in the harbor and up the Hudson River.   This year’s OpSail is organized to mark the bicentennial of the War of … Continue reading &rarr;"
 ---

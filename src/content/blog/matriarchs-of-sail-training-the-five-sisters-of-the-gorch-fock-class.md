@@ -17,6 +17,7 @@ tags:
   - "Mircea"
   - "NRP Sagres"
   - "Tovarishch"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/gorchfolkclass1.jpg"
 author: "Rick Spilman"
 description: "Three years ago, the BBC published an article with the clickbait title of \"Why is the US still using a Nazi tall ship?\"  The article was about the USCG Cutter Eagle and was OK as far as it went. The title … Continue reading &rarr;"
 ---

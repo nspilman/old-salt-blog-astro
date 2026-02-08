@@ -12,6 +12,7 @@ tags:
   - "multihull designer"
   - "OSTAR"
   - "rogue wave"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/newick.jpg"
 author: "Rick Spilman"
 description: "Dick Newick, the brilliant multihull designer, has died at 87.  His designs, particularly his trimarans,  revolutionized the world of multihull sailing.  His designs are remarkably graceful, simple, light and astonishingly fast.  In a very real sense, the history of multihull … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "fire"
   - "super yachts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/yachtfire.jpg"
 author: "Rick Spilman"
 description: "The headlines in the UK Daily Mail and Bloomberg ask the same question — \"Why Are All These Superyachts Catching on Fire?\" This year has seen a string of fires on \"superyachts.\"  In early January, in the Mediterranean resort town … Continue reading &rarr;"
 ---

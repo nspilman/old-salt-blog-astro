@@ -15,6 +15,7 @@ tags:
   - "Samho Jewelry"
   - "Samho Shipping"
   - "VLCC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Day-of-the-Seafarer-2011.jpg"
 author: "Rick Spilman"
 description: "June 25th of this year is being celebrated as the \"Day of the Seafarer.\"  We will be joining with other bloggers and journalists from around the world to say \"thank you\" to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that … Continue reading &rarr;"
 ---

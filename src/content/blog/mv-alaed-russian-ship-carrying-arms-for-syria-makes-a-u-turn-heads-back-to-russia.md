@@ -14,6 +14,7 @@ tags:
   - "Scotland"
   - "Syria"
   - "The Standard Club"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/ALAED.jpg"
 author: "Rick Spilman"
 description: "The MV Alaed, a 9,00 DWT geared cargo ship, was reported to be carrying refurbished Russian attack helicopters, as well as missiles and other unspecified munitions, on a voyage from Russia to Syria.  Today, about 50 miles (80.4km) off Scotland’s north coast, the ship turned around … Continue reading &rarr;"
 ---

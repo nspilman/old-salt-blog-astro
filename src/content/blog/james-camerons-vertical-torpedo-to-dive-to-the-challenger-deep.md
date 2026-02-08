@@ -11,6 +11,7 @@ tags:
   - "James Cameron"
   - "Mariana Trench"
   - "vertical torpedo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/20DIVE-articleInline.jpg"
 author: "Rick Spilman"
 description: "James Cameron wants to dive to deepest part of the ocean – the Challenger Deep in the Mariana Trench, 35,800 feet (5.8 nautical miles) below the surface.  To do so, he plans on using a single person submersible designed to dive … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Donna Lange"
   - "Herreshoff Museum"
   - "Inspired Insanity"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/donnalange.jpg"
 author: "Rick Spilman"
 description: "A few days ago, Donna Lange returned home to Narragansett Bay after completing her second solo circumnavigation on Inspired Insanity, her Southern Cross 28.  An event was held in her honor at the Herreshoff Museum in Bristol, RI for family and … Continue reading &rarr;"
 ---

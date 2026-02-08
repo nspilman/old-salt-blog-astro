@@ -11,6 +11,7 @@ tags:
   - "Astrodene's Historical Naval Fiction"
   - "Log Book"
   - "Newsletter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Cover_150.jpg"
 author: "Rick Spilman"
 description: "Fans of naval fiction either know or should know of Astrodene’s Historical Naval Fiction web site and forum.   A wonderful resource, lots of great information on books both old and new, as well as very nice folks in the forum. … Continue reading &rarr;"
 ---

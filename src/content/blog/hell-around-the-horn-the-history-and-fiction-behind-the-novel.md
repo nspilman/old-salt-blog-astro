@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
   - "Newbooks"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/conrad1gthumb1.jpg"
 author: "Rick Spilman"
 description: "In writing historical fiction, researching the history can be challenging. When researching my novel, Hell Around the Horn, I discovered that the three primary sources for the history behind the novel, two memoirs and the Official Ship’s Log, disagreed with each other in significant details and … Continue reading &rarr;"
 ---

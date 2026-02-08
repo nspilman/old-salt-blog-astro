@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "lighthouse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/lighthouse1.jpg"
 author: "Rick Spilman"
 description: "There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen \"bug\" and then I owned one and … Continue reading &rarr;"
 ---

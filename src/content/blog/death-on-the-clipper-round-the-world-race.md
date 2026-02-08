@@ -10,6 +10,7 @@ tags:
   - "Andrew Ashman"
   - "Clipper Round the World Race"
   - "IchorCoal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/ashman.jpg"
 author: "Rick Spilman"
 description: "Terrible news from the Clipper Round the World Race. On the fourth day of the race, Andrew Ashman, 49, a paramedic from Orpington, Kent was injured and died while reefing the main sail on the racing yacht IchorCoal  (CV21), approximately 120 nautical miles off … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Brooks"
   - "rocks"
   - "sea level"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/sealevelrise.jpg"
 author: "Rick Spilman"
 description: "A recent statement by Representative Mo Brooks (R-AL), who happens to be a member of the U.S. House of Representatives Science, Space and Technology Committee, is disturbing at best. He suggested that sea levels are not rising because of climate change but because … Continue reading &rarr;"
 ---

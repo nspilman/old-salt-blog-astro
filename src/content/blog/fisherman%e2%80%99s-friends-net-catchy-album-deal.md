@@ -5,6 +5,7 @@ slug: "fisherman%e2%80%99s-friends-net-catchy-album-deal"
 excerpt: "Last July, we posted a video of the Fisherman’s Friends singing the chantey ‘South Australia.’   The group is made up of ten crab and lobster fishermen and their friends who live within half a nautical mile of each other … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/fishermans.jpg"
 author: "Rick Spilman"
 description: "Last July, we posted a video of the Fisherman’s Friends singing the chantey ‘South Australia.’   The group is made up of ten crab and lobster fishermen and their friends who live within half a nautical mile of each other … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Bay of Biscay"
   - "Maersk Lines"
   - "Svendborg Maersk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Svendborg_Maersk.jpg"
 author: "Rick Spilman"
 description: "Maersk Lines is reporting that the 7,200 TEU container ship Svendborg Maersk lost a \"significant number of containers over board\" on Friday while crossing the Bay of Biscay.   Lloyds List is reporting that 200-300 containers were lost in heavy weather while … Continue reading &rarr;"
 ---

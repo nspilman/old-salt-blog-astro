@@ -9,6 +9,7 @@ categories:
 tags:
   - "Megumi Igarash"
   - "Vagina Kayak"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/vaginaboat.jpg"
 author: "Rick Spilman"
 description: "Japanese artist Megumi Igarash has been arrested on charges related to a 3D printed plastic model of her vagina installed on a roto-mold kayak."
 ---

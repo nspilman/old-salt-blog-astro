@@ -5,6 +5,7 @@ slug: "southern-england-beaches-battered-by-banana-carnage-and-massive-chip-wrec
 excerpt: "On December 6, 2025, beaches in the county of Sussex on the southern coast of England were battered by barrages of bananas. Tons of bananas washed ashore at Selsey, Bognor Regis, and Pagham Harbour in West Sussex. Some also washed … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2026/01/chip-wreck.jpg"
 author: "Rick Spilman"
 description: "On December 6, 2025, beaches in the county of Sussex on the southern coast of England were battered by barrages of bananas. Tons of bananas washed ashore at Selsey, Bognor Regis, and Pagham Harbour in West Sussex. Some also washed … Continue reading &rarr;"
 ---

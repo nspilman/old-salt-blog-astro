@@ -13,6 +13,7 @@ tags:
   - "Iceberg B-15"
   - "tabular iceberg"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/iceisland.jpg"
 author: "Rick Spilman"
 description: "In my new novel, The Shantyman, the clipper ship Alhambra nearly collides with a massive ice island."
 ---

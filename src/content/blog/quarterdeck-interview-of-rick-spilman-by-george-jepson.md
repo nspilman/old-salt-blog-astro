@@ -14,6 +14,7 @@ tags:
   - "Old Salt Press"
   - "Quarterdeck"
   - "Rick Spilman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/quarterdeckmj2015.jpg"
 author: "Rick Spilman"
 description: "I am very pleased to have been interviewed by George Jepson in the May/June issue of the McBooks Press' newsletter \"Quarterdeck.\""
 ---

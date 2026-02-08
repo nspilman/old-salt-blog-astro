@@ -9,6 +9,7 @@ categories:
 tags:
   - "Archimedes' burning mirrors"
   - "Ivanpah Solar Power Facility"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/80_630_225_ivan1b.jpg"
 author: "Rick Spilman"
 description: "During the Siege of Syracuse, 214–212 BC, Archimedes was said to have used \"burning mirrors\" to set fire to a Roman fleet attacking the city. The mirrors focused the rays of the sun and generated enough heat to set ships … Continue reading &rarr;"
 ---

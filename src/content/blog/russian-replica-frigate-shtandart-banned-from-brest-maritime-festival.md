@@ -12,6 +12,7 @@ tags:
   - "Finistère"
   - "Russian replica frigate"
   - "Shtandart"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/07/russianreplica.jpg"
 author: "Rick Spilman"
 description: "A few days before one of the world’s largest maritime gatherings, the crew of the Russian sailing ship Shtandart learned that it would not be able to participate in the Brest festivities due to the extension of European sanctions due … Continue reading &rarr;"
 ---

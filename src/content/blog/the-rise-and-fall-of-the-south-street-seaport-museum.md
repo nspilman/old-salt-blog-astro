@@ -10,6 +10,7 @@ tags:
   - "New York City"
   - "Seaport Museum"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/South_Street_Seaport.jpg"
 author: "Rick Spilman"
 description: "The restored South Street Seaport, on New York’s City’s East River, has always been an uneasy balance between a historic seaport and a real estate deal.   South Street  is now far  more shopping mall than historic seaport.  The current museum … Continue reading &rarr;"
 ---

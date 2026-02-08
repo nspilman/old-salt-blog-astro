@@ -13,6 +13,7 @@ tags:
   - "supermoon"
   - "vernal equinox"
   - "Winter Storm Ultima"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/EclipseHalo1.jpg"
 author: "Rick Spilman"
 description: "Happy first day of Spring! The arrival of the vernal equinox coincides with a solar eclipse, as well as with a \"supermoon,\" and a snowstorm.\""
 ---

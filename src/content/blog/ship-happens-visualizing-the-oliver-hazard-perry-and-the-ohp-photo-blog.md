@@ -9,6 +9,7 @@ tags:
   - "Captain Richard Bailey"
   - "Scott Kennedy"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/OHP2.jpg"
 author: "Rick Spilman"
 description: "Captain Richard Bailey recently posted a sketch by Scott Kennedy of what the SSV Oliver Hazard Perry will look like under sail.  Click here or on the thumbnail to go to the blog post.  \"Scott has made paintings and drawings of … Continue reading &rarr;"
 ---

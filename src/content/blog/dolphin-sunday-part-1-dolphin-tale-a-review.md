@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/winterdolphintale.jpg"
 author: "Rick Spilman"
 description: "Today, we have three posts about dolphins and humans interacting. I went to high school on the Gulf Coast of Florida, which has some of the largest bottlenose dolphin populations in the world.  When I am in Florida visiting family, I … Continue reading &rarr;"
 ---

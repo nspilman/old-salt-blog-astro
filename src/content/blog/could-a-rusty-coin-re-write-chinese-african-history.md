@@ -12,6 +12,7 @@ tags:
   - "Lamu"
   - "Mambrui"
   - "Zheng He"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/chinesecoin-1.jpg"
 author: "Rick Spilman"
 description: "In August we posted about a joint  Chinese-Kenyan expedition to locate the remains of a ship from the fleet of the legandary Chinese navigator, Zheng He.  The ship was said to have sunk off Kenya near Lamu.    Recently the team discovered … Continue reading &rarr;"
 ---

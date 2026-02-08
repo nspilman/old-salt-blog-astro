@@ -14,6 +14,7 @@ tags:
   - "Pigs"
   - "sailor"
   - "tattoos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/hog_foot-2-tm1.jpg"
 author: "Rick Spilman"
 description: "A repost on Throw-Back Thursday from all the way back to 2008. Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Chowpatty"
   - "Match Racing Association of India"
   - "West Coast Marine 4th Mumbai International Match Race 2010"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/mimr2010.jpg"
 author: "Rick Spilman"
 description: "4th Mumbai International Match Race Begins Today The city of Mumbai with its great maritime history adds an exciting new event – the West Coast Marine 4th Mumbai International Match Race 2010. … Continue reading &rarr;"
 ---

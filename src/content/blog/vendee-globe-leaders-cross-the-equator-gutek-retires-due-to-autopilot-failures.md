@@ -15,6 +15,7 @@ tags:
   - "Jean-Pierre Dick"
   - "Vincent Riou"
   - "Zbigniew Gutikowski"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/zbigniewgutkowski.jpg"
 author: "Rick Spilman"
 description: "The six boats leading in the Vendée Globe non-stop round-the-world single-handed yacht race have all crossed the equator and are heading for the Southern Ocean.  The leaders are, respectively – Armel Le Cléac´h,  François Gabart, Bernard Stamm, Vincent Riou, Jean-Pierre Dick, and Alex Thomson.  Meanwhile, Zbigniew Gutikowski, … Continue reading &rarr;"
 ---

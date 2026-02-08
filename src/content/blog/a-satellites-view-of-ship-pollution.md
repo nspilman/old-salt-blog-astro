@@ -11,6 +11,7 @@ tags:
   - "NASA"
   - "nitrogen dioxide"
   - "Ozone Monitoring Instrument"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/globalno2_omi_2012-125x125.jpg"
 author: "Rick Spilman"
 description: "Ships are the most energy efficient means of moving good across the surface of the earth.  Goods moved by ship have the lowest carbon foot-print of goods moved by any other means. At the same time, modern ships are significant … Continue reading &rarr;"
 ---

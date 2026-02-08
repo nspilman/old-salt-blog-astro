@@ -13,6 +13,7 @@ tags:
   - "submarine"
   - "Trident missle"
   - "Vanguard class"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Trident_boat.jpg"
 author: "Rick Spilman"
 description: "The nuclear submarine HMS Vigilant will apparently be spending the holiday season in the USA after damaging a rudder when test-firing a Trident missile in the Atlantic off the coast of Florida on October 23.   The sub is reported to … Continue reading &rarr;"
 ---

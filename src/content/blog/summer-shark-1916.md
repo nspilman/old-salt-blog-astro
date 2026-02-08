@@ -11,6 +11,7 @@ tags:
   - "great white shark"
   - "New Jersey"
   - "shark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/sharknj.jpg"
 author: "Rick Spilman"
 description: "One hundred years ago today, Americans learned to be afraid of sharks. On the evening of July 1, 1916, Charles Vansant, 25, of Philadelphia was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey … Continue reading &rarr;"
 ---

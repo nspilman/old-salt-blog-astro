@@ -13,6 +13,7 @@ tags:
   - "Joseph Conrad"
   - "Mayflower II"
   - "Mystic Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/villiers.jpg"
 author: "Rick Spilman"
 description: "The Mayflower II at Mystic Seaport brings together two ships closely tied with Alan Villiers. The other, Joseph Conrad, is a training ship at the museum."
 ---

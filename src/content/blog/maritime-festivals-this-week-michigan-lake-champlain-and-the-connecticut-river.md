@@ -12,6 +12,7 @@ tags:
   - "Maritime Festivals"
   - "Michigan Pirate Festival"
   - "White Lake Area Maritime Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/home_4.jpg"
 author: "Rick Spilman"
 description: "This is a busy week for maritime festivals in the US.   In Grand Haven, Michigan, the Michigan Pirate Festival 2010 kicked off yesterday with a very Hollywood version of pirates and piracy.  So aargh and shivery m’ timbers.  If only … Continue reading &rarr;"
 ---

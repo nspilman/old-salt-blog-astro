@@ -13,6 +13,7 @@ tags:
   - "Nelson"
   - "Trafalgar Day"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/HoratioNelson1.jpg"
 author: "Rick Spilman"
 description: "Thanks to Maritime Great Britain for reminding us that today is indeed Trafalgar Day, commemorating Nelson’s victory over the French and Spanish fleets and his tragic death at the Battle of Trafalgar on this day in 1805. They also reminded us that on this day in … Continue reading &rarr;"
 ---

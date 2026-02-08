@@ -16,6 +16,7 @@ tags:
   - "Maria Trinidad Sanchez province"
   - "Papua New Guinea"
   - "Vera"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/papua-2_2127015b.jpg"
 author: "Rick Spilman"
 description: "It is easy to focus of the plight of the 34 dead or missing from the Costa Concordia.  Regrettably, these casualties have not been the only recent deaths on the water. The past week has been particularly brutal with ship and boat sinkings in … Continue reading &rarr;"
 ---

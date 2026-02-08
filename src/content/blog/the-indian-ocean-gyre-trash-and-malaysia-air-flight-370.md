@@ -11,6 +11,7 @@ tags:
   - "Indian Ocean Gyre"
   - "Malaysia Air Flight 370"
   - "oceanic gyres"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/iogyre-200x160.jpg"
 author: "Rick Spilman"
 description: "A wing flap from Malaysia Air Flight 370, which disappeared in 2014, has washed up on the island of Reunion in the Indian Ocean."
 ---

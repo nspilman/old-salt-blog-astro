@@ -12,6 +12,7 @@ tags:
   - "National Historic Landmark"
   - "passenger car ferry operating"
   - "SS Badger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/ssbadger.jpg"
 author: "Rick Spilman"
 description: "The Department of the Interior recently announced that the SS Badger; the last coal-fired, passenger car ferry operating on the Great Lakes; has been designated as a National Historic Landmark. From the news release: The designation recognizes the Badger’s exceptional … Continue reading &rarr;"
 ---

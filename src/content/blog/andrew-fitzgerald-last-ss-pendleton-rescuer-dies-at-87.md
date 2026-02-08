@@ -12,6 +12,7 @@ tags:
   - "Andrew Fitzgerald"
   - "Coast Guard Motor Lifeboat CG-36500"
   - "SS Pendleton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/AndrewFitzgerald.jpg"
 author: "Rick Spilman"
 description: "Andrew Fitzgerald, the last of the four-man crew of the Coast Guard Motor Lifeboat CG-36500, which rescued the crew of the SS Pendleton, has died at the age of 87. On February 18, 1952, the 36′ motor lifeboat set out from Station Chatham, Massachusetts, … Continue reading &rarr;"
 ---

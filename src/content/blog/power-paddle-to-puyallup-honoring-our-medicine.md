@@ -11,6 +11,7 @@ tags:
   - "Pacific Northwest"
   - "Puyallup"
   - "Tribal canoe journeys"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/canoejourney.jpg"
 author: "Rick Spilman"
 description: "Every year, thousands of people join in on a canoe journey across the Pacific Northwest to celebrate traditional Native American culture. The long paddle includes multiple stops hosted by local tribes along the route. This year’s journey is called Power … Continue reading &rarr;"
 ---

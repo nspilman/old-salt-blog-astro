@@ -10,6 +10,7 @@ tags:
   - "banning smoking"
   - "Navy submarines"
   - "nicotine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/sub1.jpg"
 author: "Rick Spilman"
 description: "The prospect of women serving aboard Navy submarines will no doubt pose challenges in logistics and procedures.   These may be minor, however, compared to the problems caused by banning smoking aboard subs, which the Navy will do starting December … Continue reading &rarr;"
 ---

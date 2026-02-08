@@ -10,6 +10,7 @@ categories:
 tags:
   - "A.J. Meerwald"
   - "New Jersey's official Tall Ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/36.jpg"
 author: "Rick Spilman"
 description: "No, this is not a knot tying contest exactly. No bowlines, or Matthew Walker knots need be produced. This is a contest sponsored by NJWedding.com to win a chance to get married for free aboard New Jersey’s official Tall Ship, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Branson"
   - "duck boat"
   - "Table Rock Lake"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/bransonduckboat.jpg"
 author: "Rick Spilman"
 description: "At least 11 people died on Thursday when an amphibious duck boat capsized in Table Rock Lake near Branson, Mo. Six people are still missing. The boat capsized in a thunderstorm in winds reported to be 70 or 80 mph. … Continue reading &rarr;"
 ---

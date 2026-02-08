@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/deltaking.jpg"
 author: "Rick Spilman"
 description: "We recently posted that the National Trust for Historic Preservation has named the 1926 built sternwheel steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  In researching the post, I learned several new things. The first was that the \"Delta\" … Continue reading &rarr;"
 ---

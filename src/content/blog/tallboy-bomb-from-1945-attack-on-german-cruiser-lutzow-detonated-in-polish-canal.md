@@ -14,6 +14,7 @@ tags:
   - "Poland"
   - "tallboy"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/tallboy.jpg"
 author: "Rick Spilman"
 description: "The biggest World War II bomb ever found in Poland exploded underwater on Tuesday as navy divers tried to defuse it with a remote control device. No one was injured in the explosion. During World War II, the British developed … Continue reading &rarr;"
 ---

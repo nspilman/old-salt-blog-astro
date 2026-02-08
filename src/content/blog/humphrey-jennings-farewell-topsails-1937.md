@@ -10,6 +10,7 @@ tags:
   - "Farewell Topsails"
   - "Humphrey Jennings"
   - "topsail schooners"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Untfarewlltopsails.jpg"
 author: "Rick Spilman"
 description: "Farewell Topsails is a short film about the last topsail schooners in the British china clay trade. Remarkably for a film made in 1937, the short is in color, using the Dufaycolor process. The film was made by Humphrey Jennings who … Continue reading &rarr;"
 ---

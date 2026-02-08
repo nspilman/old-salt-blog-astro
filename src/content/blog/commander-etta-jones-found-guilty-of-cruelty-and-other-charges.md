@@ -10,6 +10,7 @@ tags:
   - "Commander Etta Jones"
   - "relieved of duty"
   - "USS Ponce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/2768772833.jpg"
 author: "Rick Spilman"
 description: "Last April, Commander Etta Jones was relieved of duty as captain of the amphibious transport dock ship USS Ponce. The Ponce‘s executive officer, Lt. Cmdr. Kurt Boenisch, was also relieved. A Navy report examining allegations made against Commander Jones substantiated … Continue reading &rarr;"
 ---

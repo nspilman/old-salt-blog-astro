@@ -11,6 +11,7 @@ tags:
   - "blue-green algae"
   - "Florida"
   - "red tide"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/redtide.jpg"
 author: "Rick Spilman"
 description: "Florida is being clobbered by a double algae disaster, a virtual algae apocalypse. Red tide, caused by karenia brevis algae is decimating sea life in the Gulf’s salt waters, while blue-green algae, or cyanobacteria, is poisoning South Florida’s inland fresh … Continue reading &rarr;"
 ---

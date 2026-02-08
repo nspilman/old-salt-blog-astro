@@ -12,6 +12,7 @@ tags:
   - "new york"
   - "Ship strike"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/hbreach1.jpg"
 author: "Rick Spilman"
 description: "After decades of absence, whales are returning to the waters around New York City. Competing whale watching cruises depart New York docks in the warmer months to see humpback, fin whales and dolphins, often within site of the city skyline. … Continue reading &rarr;"
 ---

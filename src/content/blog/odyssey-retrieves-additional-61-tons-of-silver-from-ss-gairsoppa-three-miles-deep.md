@@ -12,6 +12,7 @@ tags:
   - "Odyssey Marine"
   - "silver"
   - "SS Gairsoppa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Gairsoppa-silver-recover-2.jpg"
 author: "Rick Spilman"
 description: "Almost exactly a year ago, we posted that Odyssey Marine Exploration had recovered approximately 48 tons of silver  from the wreck of the SS Gairsoppa, a 412-foot British cargo ship which was torpedoed in February of 1941 by a German U-boat.   The wreck … Continue reading &rarr;"
 ---

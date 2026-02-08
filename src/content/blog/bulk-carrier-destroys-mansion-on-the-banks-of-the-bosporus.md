@@ -13,6 +13,7 @@ tags:
   - "Hekimbasi Salih Efendi Mansion"
   - "Istanbul"
   - "Vitaspirit"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/vistaspirit.jpg"
 author: "Rick Spilman"
 description: "Saturday was a bad day on the Bosphorus. The Maltese-flagged 74,269 DWT bulk carrierVitaspirit suffered a steering gear failure while transiting Istanbul’s Bosphorus Strait. The ship was traveling south, approaching the Second Bosphorus Bridge, when it veered out of control. Fortunately, it missed … Continue reading &rarr;"
 ---

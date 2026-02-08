@@ -5,6 +5,7 @@ slug: "the-return-of-farrell-lines-or-merely-seeing-shadows"
 excerpt: "Farrell Lines was a grand old US steamship company.  It had an office in downtown Manhattan full of ship models and paintings of ships. Behind the receptionist, as you came in the door, there was a world map with chains … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/FarrellLinesLogo.gif"
 author: "Rick Spilman"
 description: "Farrell Lines was a grand old US steamship company.  It had an office in downtown Manhattan full of ship models and paintings of ships. Behind the receptionist, as you came in the door, there was a world map with chains … Continue reading &rarr;"
 ---

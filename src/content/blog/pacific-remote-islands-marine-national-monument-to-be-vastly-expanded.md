@@ -11,6 +11,7 @@ tags:
   - "Obama"
   - "Pacific Ocean"
   - "Pacific Remote Islands Marine National Monument"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/small_MNM_map.jpg"
 author: "Rick Spilman"
 description: "In 2006, President George W. Bush created three marine national monuments in the Pacific Ocean.  Today, President Obama announced the dramatic expansion of these marine preserves to form the world’s largest marine sanctuary.  Under the proposal, the Pacific Remote Island Marine … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Dione Chen"
   - "Free China"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/12/freechina11.jpg"
 author: "Rick Spilman"
 description: "In December, 2008, we posted about \"A Junk at Risk.\" The Free China, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese … Continue reading &rarr;"
 ---

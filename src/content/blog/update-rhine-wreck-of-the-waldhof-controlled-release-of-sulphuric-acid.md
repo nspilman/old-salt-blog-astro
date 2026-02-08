@@ -13,6 +13,7 @@ tags:
   - "sulphuric acid"
   - "tank barge"
   - "Waldhof"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/image-169351-thumb-puqr.jpg"
 author: "Rick Spilman"
 description: "Salvors are now reported to be beginning a slow release of sulphuric acid from the capsized tank barge, Waldhof, which capsized in the Rhine on January 13th near the infamous Lorelei Rock, in hope of averting a larger uncontrolled acid spill on … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "replica HMS Surprise"
   - "Star of India"
   - "world's oldest active sailing ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/pirateKid2-190.jpg"
 author: "Rick Spilman"
 description: "Aargh. Once again, the junk food of maritime events, another \"pirate\" festival.  This one is being sponsored by one of my favorite museums, the Maritime Museum of San Diego — home to the 1863 iron windjammer, Star of India, the world’s oldest active … Continue reading &rarr;"
 ---

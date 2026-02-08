@@ -10,6 +10,7 @@ tags:
   - "MV Akademik Shokalskiy"
   - "Snow Dragon"
   - "Xue Long"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/munsoncruise.jpg"
 author: "Rick Spilman"
 description: "Expedition cruising is often considered \"adventure travel\" as it involves smaller ships and often more exotic destinations.  The scientists and passengers on the current cruise on the ice-strengthened expedition cruise ship, MV Akademik Shokalskiy, appear to be having more of an … Continue reading &rarr;"
 ---

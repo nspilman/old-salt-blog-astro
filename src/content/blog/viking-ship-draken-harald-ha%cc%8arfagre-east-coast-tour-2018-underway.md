@@ -11,6 +11,7 @@ tags:
   - "Draken Harald Hårfagre"
   - "East Coast Tour 2018"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/drakensail.jpg"
 author: "Rick Spilman"
 description: "The Draken Harald Hårfagre, the largest Viking longship built in modern times, has begun its summer tour of the East Coast of the United States.  After departing from Mystic Seaport on July 9th, it is now bound for Boothbay Harbor, Maine. Only the … Continue reading &rarr;"
 ---

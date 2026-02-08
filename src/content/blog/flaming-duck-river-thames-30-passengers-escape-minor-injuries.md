@@ -10,6 +10,7 @@ tags:
   - "fire"
   - "london"
   - "Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/Duck-tour-boat-on-fire-002.jpg"
 author: "Rick Spilman"
 description: "In wholly unrelated news, one day after the people of Pittsburgh held a party on the Allegheny River to celebrate the arrival of the Rubber Duck (as well as to kick-off the Pittsburgh International Festival of Firsts), see our recent … Continue reading &rarr;"
 ---

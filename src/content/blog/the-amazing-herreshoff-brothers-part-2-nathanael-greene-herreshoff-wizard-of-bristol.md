@@ -12,6 +12,7 @@ tags:
   - "Nathanael Greene Herreshoff"
   - "RI"
   - "Wizard of Bristol"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/captainnat.jpg"
 author: "Rick Spilman"
 description: "When Nathanael Green Herreshoff was around 16, he began to work for his elder brother, John Brown Herreshoff, in his boat yard in Bristol, RI. To work as an apprentice was a traditional way to learn the skills and techniques … Continue reading &rarr;"
 ---

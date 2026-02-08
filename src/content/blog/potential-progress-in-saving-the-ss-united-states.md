@@ -10,6 +10,7 @@ categories:
 tags:
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "SS United States Conservancy announced, we have entered into a preliminary agreement in support of the redevelopment of the SS United States."
 ---

@@ -13,6 +13,7 @@ tags:
   - "Matthew Fontaine Maury"
   - "Wave Glider"
   - "Wind and Current Charts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/220px-Matthew_Fontaine_Maur.jpg"
 author: "Rick Spilman"
 description: "The New York Times recently featured an article, Catching a Wave, and Measuring It, about a project to send a \"fleet of robots that move out in the ocean to measure everything from weather to oil slicks, sharply reducing many … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Commodore George Dewey"
   - "Cruiser Olympia"
   - "Delaware River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/uss_olympia_side.jpg"
 author: "Rick Spilman"
 description: "A group in Beaufort, SC is bidding on acquiring the Cruiser Olympia. Beaufort group bids on century-old ship A Beaufort organization is bidding to become the next home of the ship Commodore George Dewey used as his flagship at the Battle of … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Machine Project gallery"
   - "Sea Nymph"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/boatmachine1_0.jpg"
 author: "Rick Spilman"
 description: "Artist Josh Beckman’s \"Sea Nymph\" in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
 ---

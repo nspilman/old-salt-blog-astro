@@ -12,6 +12,7 @@ tags:
   - "BAE Shipyard"
   - "Carnival Triumph"
   - "Mobile"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Carnival_Triumph_Half_Moon_.jpg"
 author: "Rick Spilman"
 description: "Winds gusting to near hurricane strength broke the moorings on the already damaged cruise ship Carnival Triumph at her berth at BAE Shipyard in the Port of Mobile, Alabama at 1:45 p.m. CT on Wednesday. The cruise ship, which had recently been … Continue reading &rarr;"
 ---

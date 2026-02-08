@@ -16,6 +16,7 @@ tags:
   - "Pacific"
   - "United States"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/BattleOfCoralSea1.jpg"
 author: "Rick Spilman"
 description: "Seventy yeas ago, the Japanese and navies of the United States and Australia fought the Battle of the Coral Sea in the waters southwest of the Solomon Islands and eastward from New Guinea in a series of naval battles from May … Continue reading &rarr;"
 ---

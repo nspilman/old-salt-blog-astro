@@ -10,6 +10,7 @@ tags:
   - "Dutch court"
   - "Laura Dekker"
   - "youngest person to sail solo around the world"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/dekker1.jpg"
 author: "Rick Spilman"
 description: "The teen-round-the-world-sailing-escapades may be starting all over again. Laura Dekker has Dutch court permission to sail around the world A Dutch court cleared the way Tuesday for 14-year-old Laura Dekker to embark on a risky attempt to become the youngest … Continue reading &rarr;"
 ---

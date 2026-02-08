@@ -13,6 +13,7 @@ tags:
   - "Jayhawk helicopter"
   - "Kimberly"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/kodiak.jpg"
 author: "Rick Spilman"
 description: "In two separate incidents, US Coast Guard Air Station Kodiac crews rescued eleven fisherman from two boats on Wednesday. The 58-foot fishing vessel Kimberly ran aground on Portage Bay southwest of Kodiak on the Alaska Peninsula Tuesday night around 8 p.m. but severe weather prevented the Coast … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Queensland"
   - "white calf"
   - "white humpback"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/white-whale-wide.jpg"
 author: "Rick Spilman"
 description: "About 14,000 humpback whales migrated between Australia and Antarctica each year. Among them is a white humpback, nicknamed Migaloo. Migaloo, or  \"white fella\" in an Aboriginal language, was first spotted in 1991 and may be the most popular humpback whale in the world, being … Continue reading &rarr;"
 ---

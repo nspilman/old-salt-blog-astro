@@ -12,6 +12,7 @@ tags:
   - "COVID-19"
   - "Joint Chiefs of Staff"
   - "USMC General Gary Thomas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/covid.jpg"
 author: "Rick Spilman"
 description: "If anyone doubts that the coronavirus pandemic is having a negative impact on the national defense of the United States, one need only look at the expanding Covid-19 hotspot in the White House itself. A recent leaked FEMA memo said … Continue reading &rarr;"
 ---

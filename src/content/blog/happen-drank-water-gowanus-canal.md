@@ -9,6 +9,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Christopher Swain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/GOWANUS2.jpg"
 author: "Rick Spilman"
 description: "Christopher Swain's recent swim in New York's Gowanus Canal raises the question, what would happen if you drank the water in the Gowanus Canal ?"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Tall Ships Chicago 2010"
   - "Topsail Schooner"
   - "unicorn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/unicorn1.jpg"
 author: "Rick Spilman"
 description: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the \"Sisters Under Sail\" program. \"Adventure of a Lifetime\" is About … Continue reading &rarr;"
 ---

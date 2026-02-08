@@ -10,6 +10,7 @@ tags:
   - "electric"
   - "Hinckley"
   - "Torqeedo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/dasher1.jpg"
 author: "Rick Spilman"
 description: "Hinckley Yachts claims to build \"luxury yachts with innovative technology.\" Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the \"Tesla of luxury yachts.\"  The new design, which uses carbon fiber to … Continue reading &rarr;"
 ---

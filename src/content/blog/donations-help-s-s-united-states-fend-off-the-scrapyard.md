@@ -10,6 +10,7 @@ categories:
 tags:
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "The SS United States Conservancy has raised sufficient funds to keep the ship afloat well into next year."
 ---

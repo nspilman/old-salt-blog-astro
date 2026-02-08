@@ -12,6 +12,7 @@ tags:
   - "George H. Moffett Jr."
   - "Mystic Seaport Museum"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/moffett.jpg"
 author: "Rick Spilman"
 description: "Sad news. George H. Moffett Jr., the captain of the Mystic Seaport Museum schooner Brilliant for 25 years, has died of melanoma at his home in Connecticut. He was 66. Moffett was from a naval family. His grandfather, Admiral William A. Moffett, was … Continue reading &rarr;"
 ---

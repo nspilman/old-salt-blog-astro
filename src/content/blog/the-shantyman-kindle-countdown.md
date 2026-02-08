@@ -13,6 +13,7 @@ tags:
   - "Kindle Countdown"
   - "Kirkus Reviews"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/Shantymankirkus1s.jpg"
 author: "Rick Spilman"
 description: "To celebrate The Shantyman being chosen as one of the Best Indie Books of 2105 by Kirkus Reviews, we are having an impromptu promotion. Here is how it works — today and tomorrow, The Shantyman will be available in Kindle … Continue reading &rarr;"
 ---

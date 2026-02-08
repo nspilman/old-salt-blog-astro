@@ -10,6 +10,7 @@ tags:
   - "Fort Worden State Park"
   - "Port Townsend"
   - "West Coast Wooden Kayak Rendezvous"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/r2k9_03.jpg"
 author: "Rick Spilman"
 description: "12th Annual West Coast Wooden Kayak Rendezvous The annual West Coast Wooden Kayak Rendezvous (R2KX) is the first weekend in August at Fort Worden State Park in Port Townsend. The event is free and open to the public (donations to … Continue reading &rarr;"
 ---

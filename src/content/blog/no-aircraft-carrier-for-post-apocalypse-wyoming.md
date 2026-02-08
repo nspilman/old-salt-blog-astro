@@ -11,6 +11,7 @@ categories:
 tags:
   - "aircraft carrier"
   - "Wyoming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/wyoming-rocky-mountains.jpg"
 author: "Rick Spilman"
 description: "This is not really a nautical story, which is why it is amusing. The Billings Gazette reports that \"the Wyoming House of Representatives on Monday advanced legislation to launch a study into what Wyoming should do in the event of … Continue reading &rarr;"
 ---

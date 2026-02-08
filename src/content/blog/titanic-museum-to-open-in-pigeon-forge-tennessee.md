@@ -5,6 +5,7 @@ slug: "titanic-museum-to-open-in-pigeon-forge-tennessee"
 excerpt: "Pigeon Forge, Tennessee is a small town located in the Great Smokey Mountains of Tennessee, located just north of the Great Smokey National Park.  It is one of the more unlikely locales in which to find a half scale recreation of the Titanic opening in early … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/pf_twitter_contest_home.jpg"
 author: "Rick Spilman"
 description: "Pigeon Forge, Tennessee is a small town located in the Great Smokey Mountains of Tennessee, located just north of the Great Smokey National Park.  It is one of the more unlikely locales in which to find a half scale recreation of the Titanic opening in early … Continue reading &rarr;"
 ---

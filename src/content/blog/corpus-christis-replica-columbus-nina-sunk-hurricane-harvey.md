@@ -12,6 +12,7 @@ tags:
   - "Corpus Christi"
   - "Hurricane Harvey"
   - "Nina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/ninasunk.jpg"
 author: "Rick Spilman"
 description: "The last of Corpus Christi’s Columbus replica ships has sunk. In 1992, the quincentenary of Columbus’ first voyage, replicas of his ships; the Niña, Pinta and the Santa Maria; arrived in Corpus Christi, Texas after sailing from Spain and touring the US … Continue reading &rarr;"
 ---

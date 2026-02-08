@@ -10,6 +10,7 @@ categories:
 tags:
   - "FLIP"
   - "Floating Instrument Platform"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/croppedflip.3.jpg"
 author: "Rick Spilman"
 description: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it \"flips\" vertically 90 degrees and becomes the … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "coastal United States"
   - "global warming"
   - "rising sea level"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/0314_Sealevel_full_380.jpg"
 author: "Rick Spilman"
 description: "This week we posted that the Pacific nation of Kiribati is considering purchasing land on Fiji as a possible site to relocate as rising waters threaten to submerge their home islands.  As distant and exotic as  Kiribati’s problem may sound an article in the … Continue reading &rarr;"
 ---

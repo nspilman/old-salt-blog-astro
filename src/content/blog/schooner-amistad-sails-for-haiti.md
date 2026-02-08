@@ -14,6 +14,7 @@ tags:
   - "slave ship"
   - "USNS Comfort"
   - "USS Bataan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/flagship.jpg"
 author: "Rick Spilman"
 description: "While the amphibious assault ship USS Bataan arrived in Haiti yesterday and the hospital ship USNS Comfort arrived the day before,  naval ships are not the only vessels sailing to aid the earthquake victims.  The schooner Amistad is on her way bearing both supplies and a … Continue reading &rarr;"
 ---

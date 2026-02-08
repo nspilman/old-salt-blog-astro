@@ -14,6 +14,7 @@ tags:
   - "Norwegian Sea"
   - "Stad Ship Tunnel"
   - "West Cape"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/stadtshiptunnel.jpg"
 author: "Rick Spilman"
 description: "This afternoon, sailing south from Ålesund bound for Haugesund, on Hurtigruten’s MS Trollfjord, I noticed something unusual. The ship was pitching and rolling. The motion was gentle but evident. On the previous twelve or so days of the voyage to … Continue reading &rarr;"
 ---

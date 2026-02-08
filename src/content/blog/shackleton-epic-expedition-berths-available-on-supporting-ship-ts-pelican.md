@@ -12,6 +12,7 @@ tags:
   - "re-enactment"
   - "Shackleton Epic Expedition"
   - "TS Pelican"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/WebBanner_Intrepid_600.jpg"
 author: "Rick Spilman"
 description: "Shackleton Epic Expeditions has announced the availability of 10 berths on T/S Pelican when it serves as a support vessel for the upcoming re-enactment of an epic lifeboat voyage undertaken by Ernest Shackleton and five sailors in 1916. The Pelican is a … Continue reading &rarr;"
 ---

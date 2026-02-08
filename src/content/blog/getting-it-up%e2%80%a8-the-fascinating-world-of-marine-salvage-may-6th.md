@@ -5,6 +5,7 @@ slug: "getting-it-up%e2%80%a8-the-fascinating-world-of-marine-salvage-may-6th"
 excerpt: "This year, the Working Harbor Committee’s annual spring program is \"Getting It Up!  The Fascinating World of Marine Salvage\" on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/gettingitup.jpg"
 author: "Rick Spilman"
 description: "This year, the Working Harbor Committee’s annual spring program is \"Getting It Up!  The Fascinating World of Marine Salvage\" on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
 ---

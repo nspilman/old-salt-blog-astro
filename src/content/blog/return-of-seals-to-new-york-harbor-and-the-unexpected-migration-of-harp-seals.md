@@ -11,6 +11,7 @@ tags:
   - "harp seals"
   - "new york harbor"
   - "seals"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/6.jpg"
 author: "Rick Spilman"
 description: "When I first came to New York  thirty five years ago, the closest thing to wildlife in the waters of the harbor were what we referred to as \"Hudson River trout\" – condoms that had been flushed through the New York … Continue reading &rarr;"
 ---

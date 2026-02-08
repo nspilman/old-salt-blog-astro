@@ -11,6 +11,7 @@ tags:
   - "Nora"
   - "rescue"
   - "Steve Shapiro"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/nora1.jpg"
 author: "Rick Spilman"
 description: "Steve Shapiro’s frequently rescued sailboat Nora, has been sold. In January, we posted about a pair of American sailors who had been rescued nine times in sailing from Norwalk to Cornwell in the UK on a 40′ gaff rigged sloop named Nora. … Continue reading &rarr;"
 ---

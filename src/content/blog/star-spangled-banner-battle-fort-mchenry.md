@@ -11,6 +11,7 @@ tags:
   - "Fort McHenry"
   - "Royal Navy"
   - "Star-Spangled Banner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/1C29E0A0-155D-451F-67D1407102C7AE0E.jpg"
 author: "Rick Spilman"
 description: "Here is a lightly modified repost from two years ago that seems appropriate for July 4th. At around 6AM, Sep 13, 1814, the British Royal Navy began a fearsome bombardment of Fort McHenry at the mouth of Baltimore harbor. The … Continue reading &rarr;"
 ---

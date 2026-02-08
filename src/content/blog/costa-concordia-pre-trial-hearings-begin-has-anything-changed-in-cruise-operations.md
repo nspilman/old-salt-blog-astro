@@ -13,6 +13,7 @@ tags:
   - "Giglio Island"
   - "Grosseto"
   - "Italian Judge Valeria Montesarchio"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007-125x75.jpg"
 author: "Rick Spilman"
 description: "In a hearing today in the Tuscan city of Grosseto, Italian Judge Valeria Montesarchio will ask court appointed experts to examine the \"black box,\" which contains digital recordings of the night of the grounding and sinking of the Costa Concordia off … Continue reading &rarr;"
 ---

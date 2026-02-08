@@ -12,6 +12,7 @@ tags:
   - "Gray's Harbor Historical Seaport"
   - "Hawaiian Chieftain"
   - "Seaport Landing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/07/cheify.jpg"
 author: "Rick Spilman"
 description: "Positive news from Grays Harbor Historical Seaport in Aberdeen, WA. The Hawaiian Chieftain, a 65′ on deck square topsail ketch,  has been sold and will eventually be returning to her home state of Hawai’i. Briefly known as the Spirit of Larinda. … Continue reading &rarr;"
 ---

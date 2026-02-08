@@ -9,6 +9,7 @@ tags:
   - "Building Titanic"
   - "iPad app"
   - "National Geographic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/titanicapp.jpg"
 author: "Rick Spilman"
 description: "So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but National Geographic has developed a free \"Building the Titanic\" app for the iPad, which looks at the construction of the ship.   Preview … Continue reading &rarr;"
 ---

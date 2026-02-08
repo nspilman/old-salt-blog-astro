@@ -17,6 +17,7 @@ tags:
   - "Louisiana State University"
   - "unknown sailors"
   - "USS Monitor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Monitorsailorscrop-600x366.jpg"
 author: "Rick Spilman"
 description: "When the revolutionary ironclad warship USS Monitor sank off Cape Hatteras, NC during the Civil War, in December of 1862, 16 of her crew of 62 were lost.  One hundred and forty years later, in August of 2002, when the turret of … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "The U.S. Naval Academy Museum will be hosting a large exhibition of pa
 categories:
   - "Galleries"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Naval-Academy-title.jpg"
 author: "Rick Spilman"
 description: "The U.S. Naval Academy Museum will be hosting a large exhibition of paintings by Patrick O’Brien through April 30th.  No, not that Patrick O’Brian, Patrick O’Brien the  Baltimore based maritime artist.   The Annapolis Marine Art Gallery will be hosting … Continue reading &rarr;"
 ---

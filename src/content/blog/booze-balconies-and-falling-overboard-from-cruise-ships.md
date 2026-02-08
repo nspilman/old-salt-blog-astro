@@ -12,6 +12,7 @@ tags:
   - "Cruise Vessel Security and Safety Act of 2010"
   - "Man Overboard Detection System"
   - "Sarah Kirby"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/article-2541485-1ABF52EB00000578-692_634x348.jpg"
 author: "Rick Spilman"
 description: "Sarah Kirby went on a five night Caribbean cruise on the Carnival Destiny to celebrate her 30th birthday in October of 2012.  Partying with friends, she became very intoxicated.  Just after midnight, she went back to her stateroom and stepped out … Continue reading &rarr;"
 ---

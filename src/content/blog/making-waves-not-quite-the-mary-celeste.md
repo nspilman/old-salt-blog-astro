@@ -11,6 +11,7 @@ tags:
   - "Gulf of Mexico"
   - "Making Waves"
   - "Redding Beach"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/searay48.jpg"
 author: "Rick Spilman"
 description: "Last week the yacht, Making Waves, a 48 foot Sea Ray Sundancer, with its engine running and the autopilot engaged, came ashore on Redding Beach, FL, on the Gulf of Mexico, with no one aboard.  The boat is estimated to be … Continue reading &rarr;"
 ---

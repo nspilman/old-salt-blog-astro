@@ -11,6 +11,7 @@ tags:
   - "Eagle"
   - "New London"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/barqueeagle.jpg"
 author: "Rick Spilman"
 description: "The USCG barque Eagle has returned to its longstanding homeport at the US Coast Guard Academy in New London, CT, which had been the ship’s homeport since 1946. The Eagle, a 295-foot barque used as a training cutter for future … Continue reading &rarr;"
 ---

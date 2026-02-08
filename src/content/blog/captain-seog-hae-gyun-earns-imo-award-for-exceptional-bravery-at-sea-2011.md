@@ -13,6 +13,7 @@ tags:
   - "ROKS Choi Young"
   - "Samho Jewelry"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/IMO_Bravery2011.jpg"
 author: "Rick Spilman"
 description: "On November 21st, at IMO Headquarters in London, Captain Seog Hae-gyun was awarded the IMO Award for Exceptional Bravery at Sea for 2011 \"for his decisive, brave and courageous actions to protect his ship and crew during a vicious pirate attack … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "SS Pendleton"
   - "T2 tanker"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/tFH1.jpg"
 author: "Rick Spilman"
 description: "\"The Finest Hours\" is far from a perfect movie. Nevertheless, it recounts a remarkable story of heroism at sea that is well worth retelling. For anyone who has spent any time around ships, it is also hard to resist a movie in which one of the lead characters is a grumpy chief engineer."
 ---

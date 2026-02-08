@@ -10,6 +10,7 @@ tags:
   - "first Finnish sailor"
   - "Huusela"
   - "Vendee Globe Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/endvendeeglobe.jpg"
 author: "Rick Spilman"
 description: "The 9th sailing of the Vendee Globe Race is over. After 116 days at sea, Ari Huusela sailing Stark has crossed the finish line at Les Sables d’Olonne. While he was the last sailor to complete the race at 25th … Continue reading &rarr;"
 ---

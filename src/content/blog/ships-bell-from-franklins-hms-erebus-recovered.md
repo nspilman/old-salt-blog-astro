@@ -12,6 +12,7 @@ tags:
   - "Franklin's lost expedition"
   - "HMS Erebus"
   - "ship's bell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/WEB-shipsbell06nw2.jpg"
 author: "Rick Spilman"
 description: "Divers have located the ship's bell from HMS Erebus from Franklin's lost expedition of 1845."
 ---

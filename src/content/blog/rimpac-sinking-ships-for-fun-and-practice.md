@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/rimpacfire.jpg"
 author: "Rick Spilman"
 description: "RIMPAC 2010, the Rim of the Pacific Exercise, is  one of the world’s largest maritime exercises, with participation by 14 nations, including including Australia, Canada, Japan, Singapore, France, Colombia, Chile, Indonesia, the Netherlands, Peru, South Korea and Thailand.   RIMPAC … Continue reading &rarr;"
 ---

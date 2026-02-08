@@ -11,6 +11,7 @@ tags:
   - "Admiral Sir Hyde Parker"
   - "Battle of Copenhagen"
   - "Vice-Admiral Horatio Nelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/horatio_nelson.jpg"
 author: "Rick Spilman"
 description: "On April 2, 1801 at a key moment at the Battle of Copenhagen, Admiral Sir Hyde Parker, in overall command of the British forces, sent a signal to Vice-Admiral Horatio Nelson to withdraw.  Nelson is said to have lifted his telescope to his blind eye … Continue reading &rarr;"
 ---

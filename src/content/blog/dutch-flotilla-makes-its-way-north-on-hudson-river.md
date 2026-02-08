@@ -12,6 +12,7 @@ tags:
   - "Dutch sailing ships"
   - "Half Moon"
   - "Henry Hudson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/skutsjes.jpg"
 author: "Rick Spilman"
 description: "Following up on our previous posts – Dutch Barges invade New York and The Dutch Barge Fleet has Arrived in New York.  From the AP: Dutch flotilla makes its way north on Hudson River A flotilla of historic Dutch sailing ships is … Continue reading &rarr;"
 ---

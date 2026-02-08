@@ -10,6 +10,7 @@ categories:
 tags:
   - "bulbous bow"
   - "Queen Mary 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/qm2captainbulb.jpg"
 author: "Rick Spilman"
 description: "In publicity photos to celebrate the tenth year anniversary of the Queen Mary 2 going into service, Captain Kevin Oprey is seen standing on the ship’s bulbous bow.  The photos dramatically capture the size of the mighty ship. Click on the … Continue reading &rarr;"
 ---

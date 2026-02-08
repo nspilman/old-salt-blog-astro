@@ -11,6 +11,7 @@ tags:
   - "ARA San Juan"
   - "Argentine submarine"
   - "explosion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/arasanjuan2.jpg"
 author: "Rick Spilman"
 description: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a \"heat stain\" picked up by a US search place has come to naught.   More … Continue reading &rarr;"
 ---

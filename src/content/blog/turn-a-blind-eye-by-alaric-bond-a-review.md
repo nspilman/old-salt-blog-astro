@@ -7,6 +7,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Alaric6.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond, in his latest novel, Turn A Blind Eye, vividly captures the complex and often contradictory world of a seaside village caught between loyalty, prosperity, treachery and murder. It is 1801, on the coast of Sussex. England is at war … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "astronaut"
   - "Mark Kelly"
   - "Scott Kelly"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/scottmark.jpg"
 author: "Rick Spilman"
 description: "Recently, Scott Kelly returned from an epic one-year mission aboard the International Space Station, the longest any American astronaut has ever spent in space."
 ---

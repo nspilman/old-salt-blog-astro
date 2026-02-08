@@ -11,6 +11,7 @@ tags:
   - "Nigerian pirates"
   - "piracy"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/An-armed-Somali-pirate.-006.jpg"
 author: "Rick Spilman"
 description: "Piracy off the coast of Somalia last year dropped to the lowest level since 2004. In 2012, Somali pirates hijacked 14 ships, whereas in 2013, they successfully hijacked two, both of which were released in a day’s time as a … Continue reading &rarr;"
 ---

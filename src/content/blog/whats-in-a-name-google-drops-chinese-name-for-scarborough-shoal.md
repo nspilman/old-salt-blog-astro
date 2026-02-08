@@ -9,6 +9,7 @@ categories:
 tags:
   - "Scarborough Shoal"
   - "South China Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/scarbshoal-200x150.jpg"
 author: "Rick Spilman"
 description: "Google has renamed a shoal located between the Macclesfield Bank and Luzon island in the South China Sea on their maps as Scarborough Shoal."
 ---

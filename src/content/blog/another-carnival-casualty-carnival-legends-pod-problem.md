@@ -11,6 +11,7 @@ tags:
   - "Azipod"
   - "Carnival Cruise"
   - "Carnival Legend"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Azipod-lores.jpg"
 author: "Rick Spilman"
 description: "As passengers are being flown home from an cancelled cruise on the Carnival Dream, another Carnival Cruise ship, the Carnival Legend, is limping to port with a damaged Azipod. Unlike more conventional designs where the ship’s propeller is connected to a ship’s engine … Continue reading &rarr;"
 ---

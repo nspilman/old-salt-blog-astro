@@ -6,6 +6,7 @@ excerpt: "The custom of sending Christmas card is said to have originated in 184
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/XmasCard_RNVR.jpg"
 author: "Rick Spilman"
 description: "The custom of sending Christmas card is said to have originated in 1843 with Sir Henry Cole, a civil servant, who wanted to promote the new ‘Public Post Office.’  He arranged for his artist friend, John Horsley to design a card.  Two batches … Continue reading &rarr;"
 ---

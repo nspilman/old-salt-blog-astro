@@ -13,6 +13,7 @@ tags:
   - "NTSB"
   - "VDR"
   - "Voyage Data Recorder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/elfarovdr.jpg"
 author: "Rick Spilman"
 description: "A National Transportation Safety Board (NTSB) press release announced today that the voyage data recorder (VDR) from El Faro, the US flagged cargo ship that sank during Hurricane Joaquin in October 2015 with the loss of all 33 aboard, was successfully recovered … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Gironde estuary"
   - "Quentin Rees"
   - "Second World War"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/cockleshell.jpg"
 author: "Rick Spilman"
 description: "On the night of December 7,1942 ten British commandos set off in five wood and canvas canoes from a British submarine in the Bay of Biscay off the coast of occupied France. Their intent was to paddle 75 miles up the Gironde estuary and attack … Continue reading &rarr;"
 ---

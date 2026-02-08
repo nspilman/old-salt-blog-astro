@@ -12,6 +12,7 @@ tags:
   - "Lilac"
   - "Pier 25"
   - "U.S. Lighthouse Service"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/bowspritelilac.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the tanker Mary A. Whalen‘s 80th birthday. The historic lighthouse tender Lilac is also celebrating her 85th birthday.  2018 Season Opening — 85th Birthday with Cake  The ex-USCG Cutter Lilac, originally built for the U.S. Lighthouse Service, was launched on May … Continue reading &rarr;"
 ---

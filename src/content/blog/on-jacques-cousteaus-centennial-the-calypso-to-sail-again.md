@@ -16,6 +16,7 @@ tags:
   - "RV Calypso"
   - "Silent World"
   - "writer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Jacques-Yves_Cousteau.jpg"
 author: "Rick Spilman"
 description: "Today is the 100th anniversary of the birth of Jacques Cousteau.  It is hard to overstate Cousteau’s influence as an inventor, writer, filmmaker, explorer and ecologist.   His first book, the Silent World, written with Frédéric Dumas in 1953, was a memoir which … Continue reading &rarr;"
 ---

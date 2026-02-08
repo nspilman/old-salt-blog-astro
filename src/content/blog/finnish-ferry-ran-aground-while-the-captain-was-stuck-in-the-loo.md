@@ -12,6 +12,7 @@ tags:
   - "Finnish ferry"
   - "Helsinki"
   - "ship's bathroom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/finnishferry.jpg"
 author: "Rick Spilman"
 description: "I am trying to decide whether this story is more funny or scary. As there were no serious injuries, I am leaning toward funny.  Thanks to Dirk Bal for passing it along. Finnish ferry ran aground while the captain was stuck in the … Continue reading &rarr;"
 ---

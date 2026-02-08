@@ -15,6 +15,7 @@ tags:
   - "SCARF"
   - "Scottish Maritime Museum"
   - "Sunderland City of Adelaide Recovery Fund"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cityadelaidewebpic.jpg"
 author: "Rick Spilman"
 description: "The two headlines in the BBC are from the same day and posted only an hour apart. The first reads \"World’s oldest clipper ship transported to Australia.\" The second – \"City of Adelaide clipper ship export ban sought.\"   Both … Continue reading &rarr;"
 ---

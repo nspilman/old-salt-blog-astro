@@ -10,6 +10,7 @@ tags:
   - "Diana Nyad"
   - "Florida to Cuba"
   - "swimming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/AP-Cuba-Swimming-to-Florida.jpg"
 author: "Rick Spilman"
 description: "Diana Nyad has succeeded in swimming the 110 miles from Cuba to Key West, FL, across the Straits of Florida.  She is the first person ever to do so without a shark cage.  The swim took 53 hours and she … Continue reading &rarr;"
 ---

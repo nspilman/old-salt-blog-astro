@@ -10,6 +10,7 @@ categories:
 tags:
   - "Draken Harald Hårfagre"
   - "Viking longship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/draken1.jpg"
 author: "Rick Spilman"
 description: "The Draken Harald Hårfagre, the largest Viking longship in the world, is on her way, hopscotching across the Atlantic, to raid and plunder visit the United States this summer.  After departing Haugesund, Norway and sailing for a day at sea, the longship … Continue reading &rarr;"
 ---

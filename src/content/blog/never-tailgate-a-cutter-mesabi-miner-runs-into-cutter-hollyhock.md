@@ -10,6 +10,7 @@ tags:
   - "Mesabi Miner"
   - "Northern Lake Michigan"
   - "USCG Cutter Hollyhock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/hollyhock.jpg"
 author: "Rick Spilman"
 description: "On Sunday, the USCG Cutter Hollyhock was conducting an ice escort for six Great Lakes ore boats.in Northern Lake Michigan.  The Hollyhock is a 225 feet long, Juniper Class Seagoing Buoy Tender displacing 2.000 long tons.  Following close behind, perhaps too … Continue reading &rarr;"
 ---

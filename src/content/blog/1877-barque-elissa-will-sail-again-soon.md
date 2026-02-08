@@ -14,6 +14,7 @@ tags:
   - "Jamie White"
   - "Kurt Voss"
   - "Texas Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/elissadrydock1-125x93.jpg"
 author: "Kurt Voss"
 description: "Thanks to Kurt Voss for this post on the repairs to the Tall Ship ELISSA.  Over thirty years ago Kurt became one of the original stateside volunteers for the 1877, 150-foot sailing vessel ELISSA. He has been a member of the ship’s … Continue reading &rarr;"
 ---

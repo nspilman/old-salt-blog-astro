@@ -8,6 +8,7 @@ categories:
 tags:
   - "LinkedIn"
   - "Tall Ship &amp; Traditional Sail Professionals Group"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/wheel.jpg"
 author: "Rick Spilman"
 description: "Tom Russell is hosting the Tall Ship & Traditional Sail Professionals Group on LinkedIn. It is a very interesting group. He writes: If you’ve worked on a tall ship, for its supporting organization or in other traditional sail, feel free … Continue reading &rarr;"
 ---

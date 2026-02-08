@@ -13,6 +13,7 @@ tags:
   - "Dutch barque Europa"
   - "mystic seaport"
   - "schooner Amistad"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/amistadlogo.jpg"
 author: "Rick Spilman"
 description: "After suffering what was described as \"serious rigging failure\" in heavy seas off the Florida coast last week, the schooner Amistad has returned to Mystic, CT for repairs.   She is expected to \"be there for some time.\"  The Amistad was built at … Continue reading &rarr;"
 ---

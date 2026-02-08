@@ -14,6 +14,7 @@ tags:
   - "Mahé"
   - "Seychelles"
   - "Trevignon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/costaallegratow1.jpg"
 author: "Rick Spilman"
 description: "The 275′ French tuna purse seiner Trevignon has made a much bigger catch than normal – the 28,430 gross tonne cruise ship Costa Allegra.   The Trevignon is slowly towing the cruise ship to Mahé, in the Seychelles, and is expected to arrive early … Continue reading &rarr;"
 ---

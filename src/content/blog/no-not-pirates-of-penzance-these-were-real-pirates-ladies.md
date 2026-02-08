@@ -11,6 +11,7 @@ tags:
   - "Colin Darch"
   - "North Devon Women's Institute"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/darchpirates.jpg"
 author: "Rick Spilman"
 description: "The North Devon Women’s Institute branch recently hosted former sea captain Colin Darch, who was to speak on the topic of piracy. A number of women in the organization thought that the captain would speak about historical buccaneering, and so … Continue reading &rarr;"
 ---

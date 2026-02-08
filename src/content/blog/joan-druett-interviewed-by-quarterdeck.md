@@ -12,6 +12,7 @@ tags:
   - "Joan Druett"
   - "Quarterdeck"
   - "Quarterdeck Historical Fiction Newsletter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/Joan_with_tupai-210.jpg"
 author: "Rick Spilman"
 description: "McBook Press‘ wonderful publication Quarterdeck, has a fascinating interview with Joan Druett in their June 2013 edition.   We are reposting it here with permission. Award-winning author Joan Druett sailed back into nautical fiction in 2005 with the launch of A … Continue reading &rarr;"
 ---

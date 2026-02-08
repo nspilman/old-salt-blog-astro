@@ -13,6 +13,7 @@ tags:
   - "Gluckauf"
   - "Le Papillon"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/papillionwill.jpg"
 author: "Rick Spilman"
 description: "Fire Island is a thirty mile long barrier island on the south shore of Long Island, east of the entrance of New York harbor.   Last week, Le Papillon, a 50′ steel pinky schooner, went ashore on the beach on Fire … Continue reading &rarr;"
 ---

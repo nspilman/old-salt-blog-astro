@@ -13,6 +13,7 @@ tags:
   - "The Oliver Quintrell Series"
   - "The Tainted Prize"
   - "Under Admiralty Orders"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/taintedprize.jpg"
 author: "Rick Spilman"
 description: "The Tainted Prize is Margaret Muir’s second book of the Oliver Quintrell series. After sending Captain Quintrell to the bottom of the world in pursuit of Floating Gold, the admiralty is confident in the good captain’s discretion. It is 1803. The Peace … Continue reading &rarr;"
 ---

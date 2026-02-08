@@ -10,6 +10,7 @@ categories:
 tags:
   - "Bulgarian submarines"
   - "women"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/grandmaslava.jpg"
 author: "Rick Spilman"
 description: "Last Thursday, Bulgaria’s defence ministry lifted the ban on women serving aboard Bulgarian submarines. Also on Thursday, the Bulgarian parliament voted to moth-ball the only Bulgarian submarine. Bulgaria lifts women in submarines ban — but too late … Continue reading &rarr;"
 ---

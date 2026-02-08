@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/loreley_tanker_fullSize_1.jpg"
 author: "Rick Spilman"
 description: "The tank barge Waldhof which capsized a month ago in the Rhine River near Lorelei Rock  was finally raised today after its cargo of sulfuric acid was allowed to slowly drain off.   Two sailors where lost in the capsize. One of … Continue reading &rarr;"
 ---

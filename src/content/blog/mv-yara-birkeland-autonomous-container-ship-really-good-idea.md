@@ -10,6 +10,7 @@ categories:
 tags:
   - "Autonomous Container Ship"
   - "MV Yara Birkeland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/autonomouscontainership.jpg"
 author: "Rick Spilman"
 description: "The first autonomous container ship, the 120 TEU feeder vessel, MV Yara Birkeland, will be launched in 2018. The ship will also be battery-powered and emissions-free. After a period of testing with a crew, the ship is expected to go … Continue reading &rarr;"
 ---

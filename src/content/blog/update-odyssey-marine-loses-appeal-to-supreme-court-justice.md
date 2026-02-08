@@ -11,6 +11,7 @@ tags:
   - "Nuestra Senora de las Mercedes"
   - "Odyssey Marine Exploration"
   - "Supreme Court Justice Clarence Thomas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/doubloons.jpg"
 author: "Rick Spilman"
 description: "Earlier this week, we posted that a circuit court had upheld previous rulings against Odyssey Marine Exploration, requiring the company to return to Spain $500m (£308m) worth of gold and silver coins it had recovered from the wreck of the Nuestra Señora de las … Continue reading &rarr;"
 ---

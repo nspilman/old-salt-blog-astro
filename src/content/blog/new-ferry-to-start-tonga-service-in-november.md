@@ -6,6 +6,7 @@ excerpt: "Early last August the Tongan ferry, Princess Ashika, sank with a presu
 categories:
   - "Current"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/tongaferry.jpg"
 author: "Rick Spilman"
 description: "Early last August the Tongan ferry, Princess Ashika, sank with a presumed loss over seventy lives.  See our previous posts  – Princess Akisha.   A new ferry, the Olovaha, for the route is being built in Japan, with Japanese funding and is … Continue reading &rarr;"
 ---

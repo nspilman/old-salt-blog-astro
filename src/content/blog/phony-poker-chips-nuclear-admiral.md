@@ -11,6 +11,7 @@ tags:
   - "United States Strategic Command"
   - "USSTRATCOM"
   - "Vice Admiral Timothy M. Giardina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/ADMIRAL-articleInline.jpg"
 author: "Rick Spilman"
 description: "In the beginning of September, Vice Admiral Timothy M. Giardina, was secretly suspended from his job as second in command of the United States Strategic Command or USSTRATCOM, as it is known.  He is being investigated for attempting to pass counterfeit poker chips at the … Continue reading &rarr;"
 ---

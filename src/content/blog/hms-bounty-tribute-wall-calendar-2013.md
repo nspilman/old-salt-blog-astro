@@ -11,6 +11,7 @@ tags:
   - "Amy Mullen"
   - "HMS Bounty"
   - "Wall Calendar 2013"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/bountycalendar.jpg"
 author: "Rick Spilman"
 description: "Amy Mullen has a done a beautiful job producing a 2013 wall calendar in tribute to HMS Bounty.   The photos in the  17″x11″ wall calendar were taken by current or former crew of the ship on her adventures and have the location of the … Continue reading &rarr;"
 ---

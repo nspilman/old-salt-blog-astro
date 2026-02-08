@@ -12,6 +12,7 @@ tags:
   - "Robert Ballard"
   - "USS Scorpion"
   - "USS Thresher"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/04/titianicanniverssary.jpg"
 author: "Rick Spilman"
 description: "One 109 years ago today, the RMS Titanic slipped below the icy waters of the North Atlantic after striking an iceberg. Close to 1,500 passengers and crew were lost, making the sinking the deadliest peacetime sinking of a passenger liner … Continue reading &rarr;"
 ---

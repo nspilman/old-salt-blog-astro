@@ -9,6 +9,7 @@ categories:
 tags:
   - "Linda Collison"
   - "Star-Crossed"
+featuredImage: "http://www.oldsaltblog.com/books/starcrossed.jpg"
 author: "Rick Spilman"
 description: "I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great \"boy books,\" full of adventure and action, with a hero with just enough self doubt and angst for … Continue reading &rarr;"
 ---

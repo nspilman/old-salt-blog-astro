@@ -13,6 +13,7 @@ tags:
   - "Nicole Trenholm"
   - "Ocean Research Project"
   - "Wolfhound"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/mrutherford.png"
 author: "Rick Spilman"
 description: "In April we posted about a drifting Nautor Swan 48 sailboat named Wolfhound which had been abandoned in a storm just north of Bermuda in February by her owner, Alan McGettigan, and a crew of three. Initially, the boat was … Continue reading &rarr;"
 ---

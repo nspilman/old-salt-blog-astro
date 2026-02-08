@@ -12,6 +12,7 @@ tags:
   - "City of Adelaide"
   - "composite clipper ship"
   - "Scottish Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/adelaidehulk.jpg"
 author: "Rick Spilman"
 description: "The Scottish Maritime Museum is in dire financial straits.  The City of Adelaide, the oldest (just barely) surviving composite clipper ship in the world,  has been rotting on a slipway at Irvine, near Glasgow, for almost a decade because the museum lacked the funds to … Continue reading &rarr;"
 ---

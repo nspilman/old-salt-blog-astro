@@ -10,6 +10,7 @@ tags:
   - "BP"
   - "Deepwater Horizon"
   - "e largest accidental marine oil spill in the history"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg"
 author: "Rick Spilman"
 description: "There appears to be both good and bad news exactly one year after the explosion and fire that sank the drilling rig Deepwater Horizon, killing eleven, and triggering the largest  accidental marine oil spill in the history of the petroleum … Continue reading &rarr;"
 ---

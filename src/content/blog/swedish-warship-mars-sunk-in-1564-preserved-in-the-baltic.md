@@ -13,6 +13,7 @@ tags:
   - "battle of Öland"
   - "Mars"
   - "Swedish warship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/mosaik-a3-300-dpi-copy_81469_990x742.jpg"
 author: "Rick Spilman"
 description: "National Geographic has published breathtaking photographs and video of the Swedish warship Mars, which exploded and sank in the first battle of Öland in 1564.  Because the ship sank in the dark, cold waters of the Baltic Sea, where the … Continue reading &rarr;"
 ---

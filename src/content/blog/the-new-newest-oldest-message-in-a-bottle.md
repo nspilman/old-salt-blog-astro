@@ -11,6 +11,7 @@ tags:
   - "bottle"
   - "message"
   - "Oldest Message in a Bottle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/oldestbottle.jpg"
 author: "Rick Spilman"
 description: "There is a new newest oldest message in a bottle. In 2014, we posted about a German fisherman who found a 101-year-old message in a bottle, making it the oldest message ever found in a bottle at that time. Then … Continue reading &rarr;"
 ---

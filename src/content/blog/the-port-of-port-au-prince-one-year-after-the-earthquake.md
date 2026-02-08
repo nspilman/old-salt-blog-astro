@@ -11,6 +11,7 @@ tags:
   - "Haiti"
   - "port"
   - "Port-au-Prince"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/portportauprince3-125x76.jpg"
 author: "Rick Spilman"
 description: "One year ago last Wednesday, Haiti was struck by a magnitude 7.0 earthquake. The port of Port-au-Prince was severely damaged.  Now a year later the damage to the port remains unrepaired, but floating barges have temporarily replaced the damaged docks.  Click … Continue reading &rarr;"
 ---

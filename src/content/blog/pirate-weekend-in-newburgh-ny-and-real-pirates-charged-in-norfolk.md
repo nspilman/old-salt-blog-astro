@@ -14,6 +14,7 @@ tags:
   - "Newburgh"
   - "piracy"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/bounty1.jpg"
 author: "Rick Spilman"
 description: "This week HMS Bounty, the replica ship built for the 1960 movie, \"Mutiny on the Bounty,\"  will be the centerpiece of the \"Pirate Weekend\"  in Newburgh, New York, on the Hudson River, sixty miles north of new York City.  The Bounty … Continue reading &rarr;"
 ---

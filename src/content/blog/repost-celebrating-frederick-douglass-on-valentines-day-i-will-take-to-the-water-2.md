@@ -13,6 +13,7 @@ tags:
   - "Frederick Douglass"
   - "Maryland"
   - "Valentines Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg"
 author: "Rick Spilman"
 description: "Happy Valentine’s Day! In honor of both the day and Black History Month, here is an updated repost about Frederick Douglass. But what does Valentine’s Day have to do with Frederick Douglass?  As a slave, Douglass never knew the date … Continue reading &rarr;"
 ---

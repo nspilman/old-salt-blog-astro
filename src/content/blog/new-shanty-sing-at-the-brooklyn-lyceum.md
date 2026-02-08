@@ -10,6 +10,7 @@ tags:
   - "Brooklyn Lyceum"
   - "new york"
   - "shanty sings"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/shantybrookyn1.jpg"
 author: "Rick Spilman"
 description: "This Friday, January 25th, from 8 to 10PM, a waterfront tradition will be returning to Brooklyn. The first of planned monthly shanty sings will be held at the Brooklyn Lyceum.  All lovers of the music of the sea are welcome.  This Friday’s session is … Continue reading &rarr;"
 ---

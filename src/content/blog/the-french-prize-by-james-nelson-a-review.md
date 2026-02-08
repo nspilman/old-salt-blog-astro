@@ -12,6 +12,7 @@ tags:
   - "Jack Biddlecombe"
   - "James Nelson"
   - "The French Prize"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/frenchprize-132x200.jpg"
 author: "Rick Spilman"
 description: "For fans of his \"Revolution at Sea Saga,\" Jame's Nelson's The French Prize is an introduction to the next generation."
 ---

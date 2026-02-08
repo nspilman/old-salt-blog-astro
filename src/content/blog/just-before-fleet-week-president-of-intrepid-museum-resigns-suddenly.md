@@ -13,6 +13,7 @@ tags:
   - "New York Fleet Week"
   - "president"
   - "resignation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/alg_bill_white.jpg"
 author: "Rick Spilman"
 description: "Bill White, the longtime president of the Intrepid Sea Air and Space Museum, resigned abruptly on Wednesday morning.   No clear reason was given for his resignation which comes just one week before New York Fleet Week, in which the museum … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "dolphins"
   - "safety"
   - "Transocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/deepwater-horizon-explosion.jpg"
 author: "Rick Spilman"
 description: "Two recent reports look at the actions and inaction of BP and its contractor Transocean before the Deepwater Horizon explosion and the consequences of the resulting spill on the environment.  The explosion on the drilling rig Deepwater Horizon killed 11 and … Continue reading &rarr;"
 ---

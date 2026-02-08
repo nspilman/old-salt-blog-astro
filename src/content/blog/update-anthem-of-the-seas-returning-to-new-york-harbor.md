@@ -11,6 +11,7 @@ tags:
   - "Anthem of the Seas"
   - "Cape Hatteras"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem3.jpg"
 author: "Rick Spilman"
 description: "We posted this morning about the severe storm encountered by the Royal Caribbean cruise ship, Anthem of the Seas, off Cape Hatteras. As of this morning, the ship was bound for Port Canaveral but was being delayed by weather according … Continue reading &rarr;"
 ---

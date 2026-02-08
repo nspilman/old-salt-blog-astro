@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/sixfrigates.jpg"
 author: "Rick Spilman"
 description: "Two hundred and seventeen years ago today, March 27, 1794,  the United States Congress authorized the construction of six frigates, the first ships of  the United States Navy, the  USS Constitution, the USS Chesapeake , the USS Constellation , the USS President, the USS … Continue reading &rarr;"
 ---

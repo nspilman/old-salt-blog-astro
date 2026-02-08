@@ -10,6 +10,7 @@ tags:
   - "ex-Charlesville"
   - "MS Georg Büchner"
   - "Rostock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/MS_Georg_Büchner.jpg"
 author: "Rick Spilman"
 description: "In its more than 60 year history, the MS Georg Büchner, ex-Charlesville, served in liner service between Belgium and the Belgian Congo and Angola, was a DDR training ship and for the last decade was a hotel and youth hostel … Continue reading &rarr;"
 ---

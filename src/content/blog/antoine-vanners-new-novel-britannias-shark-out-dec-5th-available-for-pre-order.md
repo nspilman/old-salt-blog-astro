@@ -11,6 +11,7 @@ tags:
   - "Britannia's Shark"
   - "Dawlish chronicles"
   - "Old Salt Press"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/britshark.jpg"
 author: "Rick Spilman"
 description: "The third book in Antoine Vanner's Dawlish chronicles titled Britannia's Shark is due out on December 5th, and is available for pre-order in the US and UK."
 ---

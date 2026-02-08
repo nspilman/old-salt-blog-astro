@@ -10,6 +10,7 @@ tags:
   - "Bivalve"
   - "Gulf of Mexico"
   - "wild oysters"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/oysters_0209.jpg"
 author: "Rick Spilman"
 description: "According to a study published in the February issue of BioScience, 85% percent of the world’s native oyster reefs have been destroyed. Oyster Apocalypse? Truth About Bivalve Obliteration Three-quarters of the wild oysters left in the world, the study says, now … Continue reading &rarr;"
 ---

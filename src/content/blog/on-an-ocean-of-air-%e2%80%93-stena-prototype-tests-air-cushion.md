@@ -5,6 +5,7 @@ slug: "on-an-ocean-of-air-%e2%80%93-stena-prototype-tests-air-cushion"
 excerpt: "The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel. Stena prototype tests air cushion concept … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/pmax540.jpg"
 author: "Rick Spilman"
 description: "The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel. Stena prototype tests air cushion concept … Continue reading &rarr;"
 ---

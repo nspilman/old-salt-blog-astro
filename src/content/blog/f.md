@@ -14,6 +14,7 @@ tags:
   - "Firefighter II"
   - "Frederick Domini"
   - "New York City"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/fireboat350.jpg"
 author: "Rick Spilman"
 description: "In  a lawsuit  a whistleblower is charging that New York City’s new $27 million Fireboat 343, named after the number of New York firefighters killed on 9/11, was damaged in a storm last winter when sideswiped by another fireboat, the Firefighter II, … Continue reading &rarr;"
 ---

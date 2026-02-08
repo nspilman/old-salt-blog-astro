@@ -10,6 +10,7 @@ tags:
   - "Charles W. Morgan Day"
   - "mystic seaport"
   - "whale ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/1welcomeM-300x168.jpg"
 author: "Rick Spilman"
 description: "This Saturday November 10, 2012, from 10 a.m. – 7:30 p.m,, the Mystic Seaport Museum is celebrating the 71st anniversary of the arrival in Mystic of the whale ship Charles W. Morgan.  The Morgan was launched in 1841 and is … Continue reading &rarr;"
 ---

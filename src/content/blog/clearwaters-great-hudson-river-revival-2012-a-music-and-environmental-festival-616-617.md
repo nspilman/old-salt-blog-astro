@@ -11,6 +11,7 @@ tags:
   - "Croton-on-Hudson"
   - "Hudson River sloop Clearwater"
   - "Mystic Whaler"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/clearwater-festival-logo.jpg"
 author: "Rick Spilman"
 description: "If you are anywhere near the the village of Croton-on-Hudson, NY (about 30 miles north of New York City), Clearwater’s Great Hudson River Revival 2012 promises to be a great weekend of music, storytelling and sailing. Over forty years ago, the folk singer, Pete … Continue reading &rarr;"
 ---

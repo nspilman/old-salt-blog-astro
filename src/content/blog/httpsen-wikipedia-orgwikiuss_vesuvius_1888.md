@@ -10,6 +10,7 @@ categories:
 tags:
   - "Dynamite Gun"
   - "USS Vesuvius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/vesuvious.jpg"
 author: "Rick Spilman"
 description: "The US Navy is currently testing some potentially revolutionary new weapons, including electromagnetic rail guns. This is not the first time that the navy has experimented with new and exotic weapons systems, not all of which have been successful. USS … Continue reading &rarr;"
 ---

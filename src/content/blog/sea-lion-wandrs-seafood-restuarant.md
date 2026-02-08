@@ -9,6 +9,7 @@ tags:
   - "Sea Lion"
   - "SeaWorld's Animal Rescue Center"
   - "The Marine Room"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/Marina.jpg"
 author: "Rick Spilman"
 description: "So, a sea lion pup wanders into a seafood restaurant and settles down in a booth ….. It sounds like the beginning of a bad joke, but last February, a malnourished 8-month old sea lion pup appeared in a booth in The … Continue reading &rarr;"
 ---

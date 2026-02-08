@@ -10,6 +10,7 @@ tags:
   - "City of Water Day"
   - "Metropolitan Waterfront Alliance"
   - "new york harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Site-Image-Corrected.jpg"
 author: "Rick Spilman"
 description: "The City of New York is a city of islands, large and small, floating in a vast harbor and waterway. Only one of the five boroughs is on the mainland and that even borough, the Bronx, is on a peninsula, with water on three sides. … Continue reading &rarr;"
 ---

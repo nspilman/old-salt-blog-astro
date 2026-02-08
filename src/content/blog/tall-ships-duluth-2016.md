@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/duluth2016.jpg"
 author: "Rick Spilman"
 description: "Tall Ships Duluth 2016, billed as the \"Greatest Spectacle on Lake Superior,\" kicks off this morning at 11AM and runs through Sunday, August 21th. The festival features eight tall ships including El Galeon Andalucía, the US Brig Niagara, and the … Continue reading &rarr;"
 ---

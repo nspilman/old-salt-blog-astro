@@ -12,6 +12,7 @@ tags:
   - "Adventure Galley"
   - "Captain Kidd"
   - "treasure"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/captkidd1-146x200.jpg"
 author: "Rick Spilman"
 description: "Salvors have reported finding a 50 kg silver bar off the coast of Madagascar, which they believed to be part of Captain Kidd's treasure."
 ---

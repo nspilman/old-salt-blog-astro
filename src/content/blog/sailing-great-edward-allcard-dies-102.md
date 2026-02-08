@@ -11,6 +11,7 @@ tags:
   - "naval architect"
   - "sailor"
   - "yachtsman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/allcord1.jpg"
 author: "Rick Spilman"
 description: "Edward Allcard, an English naval architect, marine surveyor, yachtsman and author, died at the end of last month at the age of 102. We will probably be best remembered as the first person to sail solo across the Atlantic in … Continue reading &rarr;"
 ---

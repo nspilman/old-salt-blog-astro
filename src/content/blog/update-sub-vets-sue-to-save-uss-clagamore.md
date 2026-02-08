@@ -12,6 +12,7 @@ tags:
   - "Patriots Point Naval &amp; Maritime Museum"
   - "USS Clagamore"
   - "USS Clamagore SS-343 Restoration and Maintenance Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/clamagore.jpg"
 author: "Rick Spilman"
 description: "Recently, we posted about the planned sinking of the USS Clamagore as an artificial reef. The 1945 built Balao-class submarine has been an exhibit at the  Patriots Point Naval & Maritime Museum in Charleston, SC since 1981, but the museum says … Continue reading &rarr;"
 ---

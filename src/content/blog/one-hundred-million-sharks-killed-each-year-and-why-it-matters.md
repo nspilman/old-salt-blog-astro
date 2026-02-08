@@ -10,6 +10,7 @@ tags:
   - "Convention on the International Trade in Endangered Species"
   - "shark fin soup"
   - "Sharks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/stop_shark_fishing_3.jpg"
 author: "Rick Spilman"
 description: "A new report, published in the journal Marine Policy, assesses the the impact of commercial fishing on sharks and estimates that around 100 million sharks are being killed each year.  The rate is higher than sustainable for most shark species and is … Continue reading &rarr;"
 ---

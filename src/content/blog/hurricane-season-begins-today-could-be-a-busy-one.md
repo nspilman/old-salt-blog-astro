@@ -10,6 +10,7 @@ tags:
   - "Hurricane season"
   - "National Oceanic and Atmospheric Administration"
   - "NOAA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Hurricane_flags_2.jpg"
 author: "Rick Spilman"
 description: "Hurricane season officially begins today, though Tropical Storm Agatha blew in from the Pacific a day or two early and killed 150 people in Guatemala and opened up a huge sink hole in Guatemala City.   Scientists with the National Oceanic … Continue reading &rarr;"
 ---

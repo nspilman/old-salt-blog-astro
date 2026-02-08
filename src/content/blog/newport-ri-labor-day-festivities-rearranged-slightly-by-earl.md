@@ -11,6 +11,7 @@ tags:
   - "Museum of Yachting"
   - "Newport Waterfront Irish Festival"
   - "Tastes of the Working Waterfront History Walking Tour"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/newport-activities.jpg"
 author: "Rick Spilman"
 description: "After Earl, some R.I. weekend events adjust schedules To give participants in the Museum of Yachting’s 31st annual Classic Yacht Regatta in Newport time to get their boats back in the water in the wake of the storm, races scheduled … Continue reading &rarr;"
 ---

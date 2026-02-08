@@ -12,6 +12,7 @@ tags:
   - "Netherlands Antilles"
   - "Sint Maarten"
   - "Willemstad"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2010/10/125px-Flag_of_Curaçao.svg_.png"
 author: "Rick Spilman"
 description: "Today, 10/10/10 is proving popular as a day to be be married.   It is also apparently a good day for a divorce, or at east a reorganization. The Netherlands Antilles is being dissolved today.  The islands of Curaçao and Sint Maarten are becoming … Continue reading &rarr;"
 ---

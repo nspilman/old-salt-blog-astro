@@ -13,6 +13,7 @@ tags:
   - "USS Missouri"
   - "USS New Jersey"
   - "USS Wisconsin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/uss-iowa-museum.jpg"
 author: "Rick Spilman"
 description: "These are busy time for the World War II vintage Iowa Class battleships. The USS Iowa arrived yesterday in the Port of Los Angeles to tie up alongside her new permanent home, Berth 87, in San Pedro, California, where she will become … Continue reading &rarr;"
 ---

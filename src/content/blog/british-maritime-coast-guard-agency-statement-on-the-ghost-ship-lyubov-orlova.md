@@ -11,6 +11,7 @@ tags:
   - "British Maritime &amp; Coast Guard Agency"
   - "ghost ship"
   - "Lyubov Orlova"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Lyubov-Orlova-_2799136b.jpg"
 author: "Rick Spilman"
 description: "The Twitterverse has gone crazy (crazier?) over reports of the Ghost Ship Swarming With Cannibal Rats Bound for Britain. Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel \"Scoop\" … Continue reading &rarr;"
 ---

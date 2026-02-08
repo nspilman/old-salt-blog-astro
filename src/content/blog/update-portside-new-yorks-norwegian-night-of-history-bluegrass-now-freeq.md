@@ -12,6 +12,7 @@ tags:
   - "Mary A.Whalen"
   - "Paradise Mountain Boys"
   - "PortSide New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/paradisemountainboys.jpg"
 author: "Rick Spilman"
 description: "We recently posted about PortSide NewYork’s Norwegian Water Stories & a Night of Bluegrass, an event being held tomorrow, Thursday, September 24, 2015 from 7:00 PM to 11:00 PM at Atelier Roquette, 63 Commerce Street, Red Hook, Brooklyn, NY 11231.  The event … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "pirate ships"
   - "The Animal Planet"
   - "Tim Woodson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/mermaids.jpg"
 author: "Rick Spilman"
 description: "Recently, we celebrated the saving of the wonderful Coney Island Mermaid Parade.  Now a story about \"mermaids\" that is a bit disturbing. There were two news stories that at first glance had little in common, other than a distant nautical … Continue reading &rarr;"
 ---

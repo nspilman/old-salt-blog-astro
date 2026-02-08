@@ -12,6 +12,7 @@ tags:
   - "Roskilde"
   - "Viking longship"
   - "Viking Ship Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/vikingship.jpg"
 author: "Rick Spilman"
 description: "Looking for the perfect holiday gift?  How about an authentic replica Viking longship?  A great way to impress the relatives or perhaps get together with 60 close friends to raid a neighboring village.  You either can hire a team of researchers … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "MV Rena"
   - "New Zealand"
   - "Tauranga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/penguin.jpg"
 author: "Rick Spilman"
 description: "The clean-up continues on the MV Rena which ran  hard aground on Astrolabe Reef near Tauranga, New Zealand on October 5, 2011. The remaining oil has been pumped off and efforts are beginning to remove the container cargo from the stricken ship.  Roughly forty containers have been … Continue reading &rarr;"
 ---

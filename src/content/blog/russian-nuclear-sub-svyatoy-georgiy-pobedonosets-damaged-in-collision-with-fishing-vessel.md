@@ -15,6 +15,7 @@ tags:
   - "Russian submarine"
   - "St. George the Victor"
   - "Svyatoy Georgiy Pobedonosets"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/stgeorge.jpg"
 author: "Rick Spilman"
 description: "What is interesting about this story is how it has been reported.  Here is what we know: The fishing boat, Donets, ran into the Russian nuclear submarine, Svyatoy Georgiy Pobedonosets (St. George the Victor,)  in the Avachino Bay on the … Continue reading &rarr;"
 ---

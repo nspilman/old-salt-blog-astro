@@ -13,6 +13,7 @@ tags:
   - "Mercy Bay"
   - "Parks Canada"
   - "western Arctic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Ship-2-125x99.jpg"
 author: "Rick Spilman"
 description: "The HMS Investigator was found in remarkably good shape in only 11 meters of water in Mercy Bay along the northern coast of Banks Island in Canada’s western Arctic.  The image to the left is from a  lithograph of the … Continue reading &rarr;"
 ---

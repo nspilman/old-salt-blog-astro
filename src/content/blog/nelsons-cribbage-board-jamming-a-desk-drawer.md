@@ -11,6 +11,7 @@ tags:
   - "cribbage board"
   - "desk drawer"
   - "Nelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/cribbage5.jpg"
 author: "Rick Spilman"
 description: "Imagine an antique Victorian desk purchased for £30, that has a stuck drawer.  A determined auctioneer, working on the drawer with a screw driver for around 20 minutes, managed to un-stick it only to find that the object blocking the drawer was a small bone … Continue reading &rarr;"
 ---

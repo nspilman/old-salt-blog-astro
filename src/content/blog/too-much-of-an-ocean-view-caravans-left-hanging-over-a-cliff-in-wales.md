@@ -11,6 +11,7 @@ tags:
   - "Porthkerry Leisure Park"
   - "Vale of Glamorgan"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/3589636-caravan1_460_291.jpg"
 author: "Rick Spilman"
 description: "The Porthkerry Leisure Park, a caravan park in the Vale of Glamorgan in Wales, (what would be called a trailer park in the United States), must have had lovely ocean views even before 40 feet of cliff fell into the ocean near the mouth … Continue reading &rarr;"
 ---

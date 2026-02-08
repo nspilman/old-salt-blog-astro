@@ -9,6 +9,7 @@ tags:
   - "Akademik Lomonosov"
   - "Arctic"
   - "Russian floating nuclear power plant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/floatingnuke.jpg"
 author: "Rick Spilman"
 description: "The media has called the Russian floating nuclear power plant Akademik Lomonosov a \"Floating Chernobyl\" and a \"Nuclear Titanic.\" Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Goodreads"
   - "Linda Collison"
   - "Water Ghosts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/waterghostcover.jpg"
 author: "Rick Spilman"
 description: "From July 18th -- 25th. Linda will be giving away ten copies of her book on Goodreads."
 ---

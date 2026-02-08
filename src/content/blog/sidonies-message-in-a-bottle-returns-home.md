@@ -11,6 +11,7 @@ tags:
   - "message in a bottle"
   - "Patchogue Long Island Beach Club"
   - "Sidonie Fery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/bottle12n-7-web.jpg"
 author: "Rick Spilman"
 description: "More than a decade ago, Sidonie Fery, a ten year old girl living in Manhattan, threw a message in a bottle into Long Island Sound. The message was a line from her favorite move – \"Bill and Ted’s Excellent Adventure,\" which … Continue reading &rarr;"
 ---

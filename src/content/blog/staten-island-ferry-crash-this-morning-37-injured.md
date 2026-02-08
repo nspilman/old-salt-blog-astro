@@ -11,6 +11,7 @@ tags:
   - "Andrew J. Barberi"
   - "St. George Terminal"
   - "Staten Island Ferry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/barberibystatue_e.jpg"
 author: "Rick Spilman"
 description: "37 Injured in Staten Island Ferry Crash Dozens of people were hurt when a Staten Island Ferry crashed into a dock at the St. George terminal on Staten Island about 9:30 a.m. Saturday, the authorities said.  The ferry was the … Continue reading &rarr;"
 ---

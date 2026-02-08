@@ -12,6 +12,7 @@ tags:
   - "Maritime Museum of San Diego"
   - "Sea Shanty Festival 2011"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/jackstraws-190.jpg"
 author: "Rick Spilman"
 description: "What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The Maritime Museum of San Diego is holding its \"Sea Shanty Festival 2011\" on the deck of the … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "AIS plots"
   - "Costa Concordia"
   - "Le Scole"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/u1_gemitrafikcosta.jpg"
 author: "Rick Spilman"
 description: "The question being asked by almost everyone is \"how could this have happened to a modern cruise ship?\"   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
 ---

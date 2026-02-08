@@ -14,6 +14,7 @@ tags:
   - "International Transport Workers' Federation (ITF)"
   - "INTERTANKO"
   - "Save Our Seafarers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/sosBanner.jpg"
 author: "Rick Spilman"
 description: "In view of the failure of current efforts to combat piracy,  BIMCO, the International Chamber of Shipping (ICS), the International Shipping Federation (ISF), Intercargo, INTERTANKO and the International Transport Workers’ Federation (ITF) have launched a campaign to Save Our Seafarers … Continue reading &rarr;"
 ---

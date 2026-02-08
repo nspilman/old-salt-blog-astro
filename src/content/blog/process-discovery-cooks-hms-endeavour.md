@@ -13,6 +13,7 @@ tags:
   - "HMS Endeavour"
   - "Rhode Island Marine Archaeology Project"
   - "RIMAP"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/endeavour1.jpg"
 author: "Rick Spilman"
 description: "The news has been full of announcements about the discovery of Captain Cook’s HMS Endeavour by the Rhode Island Marine Archaeology Project (RIMAP) near the harbor at Newport, Rhode, Island. Much of the reporting has been somewhat confused. The Daily Mail, for … Continue reading &rarr;"
 ---

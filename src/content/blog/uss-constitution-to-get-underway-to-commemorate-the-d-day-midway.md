@@ -12,6 +12,7 @@ tags:
   - "Boston Harbor"
   - "D-Day"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/uss-constitution1.jpg"
 author: "Rick Spilman"
 description: "The USS Constitution is the oldest commissioned naval warship afloat. The wooden three masted \"super-frigate\" in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the … Continue reading &rarr;"
 ---

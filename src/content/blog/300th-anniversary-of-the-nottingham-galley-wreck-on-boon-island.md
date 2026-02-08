@@ -12,6 +12,7 @@ tags:
   - "Maine"
   - "Maine State Museum"
   - "Nottingham Galley"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/ship.jpg"
 author: "Rick Spilman"
 description: "On December 11, 1710, the English ship Nottingham Galley came ashore on Boon Island, off Cape Neddick, Maine, stranding its 14 man crew, of whom four would subsequently die.  It became one of the best known shipwrecks in New England … Continue reading &rarr;"
 ---

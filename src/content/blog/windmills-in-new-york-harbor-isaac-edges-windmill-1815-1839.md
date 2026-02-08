@@ -13,6 +13,7 @@ tags:
   - "Jersey City"
   - "new york harbor"
   - "windmill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Edge_Isaac_Windmill.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about a proposed wind farm on New York harbor between Jersey City and Bayonne.  These will not be the first windmills on the harbor, of course.  In 1815 Isaac Edge finished a windmill on the banks of … Continue reading &rarr;"
 ---

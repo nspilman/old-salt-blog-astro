@@ -10,6 +10,7 @@ tags:
   - "smooth hound sharks"
   - "South Africa"
   - "Strandfontein"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/363324741.jpg"
 author: "Rick Spilman"
 description: "An inflatable fishing boat has survived an attack by a 7 meter long great white shark off Strandfontein, South Africa. The fisherman were fishing for smooth hound sharks, which great whites consider to be very tasty. As reported by IOL … Continue reading &rarr;"
 ---

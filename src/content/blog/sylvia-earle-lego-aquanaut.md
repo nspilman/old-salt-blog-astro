@@ -10,6 +10,7 @@ tags:
   - "Aquanaut"
   - "LEGO"
   - "Sylvia Earle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Sylvia-earle-and-lego.jpg"
 author: "Rick Spilman"
 description: "Sylvia Earle is an American marine biologist, explorer, author, and lecturer.  In her illustrious career she has earned many honors, including being named by Time Magazine as as its first Hero for the Planet in 1998. She is National Geographic’s explorer-in-residence, as well … Continue reading &rarr;"
 ---

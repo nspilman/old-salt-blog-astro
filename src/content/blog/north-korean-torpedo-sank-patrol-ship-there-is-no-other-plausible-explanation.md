@@ -13,6 +13,7 @@ tags:
   - "South Korean corvette"
   - "South Korean sailors"
   - "torpedo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/cheonan.jpg"
 author: "Rick Spilman"
 description: "Now that a South Korean investigation has concluded that a North Korean torpedo sank the South Korean Corvette Cheonan killing 46 sailors, the real question becomes, how to respond? Torpedo accusation raises Korean security stakes … Continue reading &rarr;"
 ---

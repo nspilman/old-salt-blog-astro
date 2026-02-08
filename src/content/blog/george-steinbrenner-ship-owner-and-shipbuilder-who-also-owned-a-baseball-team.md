@@ -12,6 +12,7 @@ tags:
   - "New York Yankees"
   - "Ship Owner"
   - "Shipbuilder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/steinbrenner.jpg"
 author: "Rick Spilman"
 description: "George Steinbrenner, died today of a massive heart attack at the age of 80.  He was best known as the owner of the New York Yankees but belonged to a family of shipowners. Kinsman Marine Transit was once one of the largest … Continue reading &rarr;"
 ---

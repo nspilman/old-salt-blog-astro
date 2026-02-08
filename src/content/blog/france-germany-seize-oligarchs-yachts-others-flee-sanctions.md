@@ -19,6 +19,7 @@ tags:
   - "Oligarchs"
   - "Rosneft"
   - "Russian invasion of Ukraine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/03/dilbar.jpg"
 author: "Rick Spilman"
 description: "The net of sanctions is tightening around the superyachts owned by Russian oligarchs. Yesterday, Germany seized the 512-foot yacht Dilbar, valued at nearly $600 million, owned by Russian billionaire Alisher Usmanov, who faces European Union sanctions over Russia’s invasion of … Continue reading &rarr;"
 ---

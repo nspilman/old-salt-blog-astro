@@ -13,6 +13,7 @@ tags:
   - "Giglio"
   - "grounding"
   - "uncharted rock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg"
 author: "Rick Spilman"
 description: "One week ago, the Costa Concordia grounded off the island of Giglio.    Eleven passengers or crew are confirmed dead. Twenty four people are missing.  The ship itself has sunk in shallow water having rolled 80 degrees on its side.  What else do we … Continue reading &rarr;"
 ---

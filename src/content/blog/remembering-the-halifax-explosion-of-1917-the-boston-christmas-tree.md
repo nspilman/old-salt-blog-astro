@@ -16,6 +16,7 @@ tags:
   - "Norwegian ship"
   - "SS Imo"
   - "SS Mont-Blanc"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/12/halifaxaftermath2.jpg"
 author: "Rick Spilman"
 description: "One hundred and five years ago today, on the morning of December 6, 1917, the French freighter SS Mont-Blanc and the SS Imo, a Norwegian ship chartered to carry relief supplies to Belgium, collided in the Narrows, a strait connecting … Continue reading &rarr;"
 ---

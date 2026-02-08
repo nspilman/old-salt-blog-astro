@@ -13,6 +13,7 @@ tags:
   - "Schooner Virginia"
   - "Spirit of South Carolina."
   - "Tall &amp; Historic Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/157212153-O_001.jpg"
 author: "Rick Spilman"
 description: "The old cliche that a boat is a hole in the water into which you pour money applies far too well to tall ships. They are expensive to build or restore and chronically costly to maintain and keep running.  It should come … Continue reading &rarr;"
 ---

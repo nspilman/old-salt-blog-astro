@@ -11,6 +11,7 @@ tags:
   - "auction"
   - "EBay"
   - "U. S. Coast Guard Cutter Acushnet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/507520081_o.jpg"
 author: "Rick Spilman"
 description: "Last March we posted that the U. S. Coast Guard Cutter Acushnet,  the oldest commissioned Coast Guard cutter, was being sold in an online auction.   The ship was reportedly sold to an unidentified buyer.  The ship has now been put up for auction on … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "cold-iron"
   - "container ships"
   - "Oakland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/apl_logo_135.gif"
 author: "Rick Spilman"
 description: "Traditionally, ships in port use auxiliary generators to power shipboard electrical systems.   APL, the Singapore based container lines, is now going \"cold-iron,\" shutting down the  auxiliary  generators  on their ships docking when calling on Oakland, California and using shore power instead to meet the their … Continue reading &rarr;"
 ---

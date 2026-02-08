@@ -9,6 +9,7 @@ categories:
 tags:
   - "Mystic Seaport Museum"
   - "Scrimshaw"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/mysticschrimshaw.jpg"
 author: "Rick Spilman"
 description: "A new and fascinating video from Mystic Seaport Museum. From their website: From the history and lore inspired by whaling in the 19th century, it can be hard to imagine the whalers being idle at sea. However, whaleships were often … Continue reading &rarr;"
 ---

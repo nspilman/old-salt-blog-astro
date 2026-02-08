@@ -9,6 +9,7 @@ categories:
 tags:
   - "Pacific"
   - "Pyrosome"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/pyrosome.jpg"
 author: "Rick Spilman"
 description: "The Pacific Ocean appears to under attack by a horde of sea-pickles. The bumpy, translucent, pickle-shaped organisms called pyrosomes are filling fishing nets, clogging hooks and washing up on beaches along the coast of the Pacific Northwest of the US and … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Norman Keith Collins"
   - "Sailor Jerry"
   - "Sailor’s Tattoos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/momtat1.jpg"
 author: "Rick Spilman"
 description: "On Mother's Day, a look at tattoos to remind a sailor of \"Mom\""
 ---

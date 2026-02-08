@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Bounty"
   - "National Transportation Safety Board"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/bountysinking.jpg"
 author: "Rick Spilman"
 description: "The NTSB Report conclusion came as no real surprise. Captain Robin Walbridge; who was lost along with a crew member, Claudene Christian, in the sinking of the replica of the HMS Bounty; should never have taken the ship to sea with … Continue reading &rarr;"
 ---

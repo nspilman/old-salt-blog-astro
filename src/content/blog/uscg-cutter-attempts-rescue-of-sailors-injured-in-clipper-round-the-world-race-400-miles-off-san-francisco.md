@@ -5,6 +5,7 @@ slug: "uscg-cutter-attempts-rescue-of-sailors-injured-in-clipper-round-the-world
 excerpt: "A large wave broke over the 68′ yacht, Geraldton Western Australia, one of ten yachts racing in the Clipper Round the World Race, while in the Pacific approximately 400 miles off San Francisco. The wave swept the deck, shearing the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/clipperyacht.jpg"
 author: "Rick Spilman"
 description: "A large wave broke over the 68′ yacht, Geraldton Western Australia, one of ten yachts racing in the Clipper Round the World Race, while in the Pacific approximately 400 miles off San Francisco. The wave swept the deck, shearing the … Continue reading &rarr;"
 ---

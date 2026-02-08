@@ -14,6 +14,7 @@ tags:
   - "Graveyard of the Atlantic"
   - "Nova Scotia"
   - "Sable Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/sableAir.jpg"
 author: "Rick Spilman"
 description: "This week Sable Island became the Canada’s newest national park.  Almost three hundred kilometers out into the Atlantic off the coast of Nova Scotia, it is a scimitar shaped sandbar which seems to have no business being there at all. … Continue reading &rarr;"
 ---

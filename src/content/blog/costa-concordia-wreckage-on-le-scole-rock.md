@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "Giglio"
   - "Le Scole"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/s_c24_37251509.jpg"
 author: "Rick Spilman"
 description: "It appears that the question of where and on what the Costa Concordia ran aground is a bit more clear.  Wreckage, believed to be from the collision, has been photographed at Le Scole rock.  Thanks to Andy Hall at the Maritime Texas … Continue reading &rarr;"
 ---

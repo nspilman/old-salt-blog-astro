@@ -12,6 +12,7 @@ tags:
   - "Shark Rocks"
   - "Sheffield Beach"
   - "South Africa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/mtphoenix-1.jpg"
 author: "Rick Spilman"
 description: "The MT Phoenix, which has been hard aground and leaking oil on a South African beach, is finally free. This Saturday, two salvage tugs, Smit Amanda and Smit Siyanda, under the direction of the South African Maritime Safety Authority (SAMSA), successfully towed the ship … Continue reading &rarr;"
 ---

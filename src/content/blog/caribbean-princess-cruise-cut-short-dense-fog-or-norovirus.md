@@ -12,6 +12,7 @@ tags:
   - "Houston"
   - "norovirus"
   - "Princess Cruises"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Caribbean_Princess.jpg"
 author: "Rick Spilman"
 description: "Princess Cruises announced that the Caribbean Princess would be returning to Houston one day early \"because we were informed that dense fog is expected to close the port for much of the weekend.\" Others have suggested that it was because … Continue reading &rarr;"
 ---

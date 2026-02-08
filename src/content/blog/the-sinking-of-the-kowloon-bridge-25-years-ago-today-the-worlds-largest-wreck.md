@@ -14,6 +14,7 @@ tags:
   - "ore-bulk-oil carrier"
   - "Stag Rocks"
   - "West Cork"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/Kowloon_bridge.jpg"
 author: "Rick Spilman"
 description: "Twenty five years ago today, the ore-bulk-oil carrier MV Kowloon Bridge sank off the coast of West Cork with a cargo of 165,000 tons of iron ore and 2,000 tons of bunker oil, becoming the world’s largest shipwreck by tonnage. The Kowloon … Continue reading &rarr;"
 ---

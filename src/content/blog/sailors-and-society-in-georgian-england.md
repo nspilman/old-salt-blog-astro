@@ -14,6 +14,7 @@ tags:
   - "Jane Austen"
   - "Lord Nelson"
   - "tour"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/amvbl.jpg"
 author: "Rick Spilman"
 description: "\"Sailors and Society in Georgian England : The Home of Lord Nelson, Jane Austen & Jack Aubrey\" – It sounds a bit like someone’s history thesis but in fact is a ten day luxury tour  organized and escorted by British maritime scholar and author of more than thirty books, … Continue reading &rarr;"
 ---

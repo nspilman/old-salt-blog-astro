@@ -11,6 +11,7 @@ tags:
   - "Billion Oyster Project"
   - "Newport Oyster Festival"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/billioneoysterparty16.jpg"
 author: "Rick Spilman"
 description: "Next week is a great week for oysters if you are in the Northeast. Next Thursday is the Billion Oyster Party in Brooklyn, NY, while on Friday, the Newport Oyster Festival will be kicked off with an Opening Night Party at … Continue reading &rarr;"
 ---

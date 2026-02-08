@@ -10,6 +10,7 @@ tags:
   - "Google trends"
   - "Sharknado"
   - "Twitter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/sharknadoposter.jpg"
 author: "Rick Spilman"
 description: "You probably didn’t see \"Sharknado,\"  a made-for-cable movie on the SyFy channel last night.  I didn’t either and we should probably consider ourselves fortunate to have missed it. Or maybe not.  It has been hard to ignore, however, as a … Continue reading &rarr;"
 ---

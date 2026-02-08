@@ -10,6 +10,7 @@ tags:
   - "Grenada"
   - "Kick 'em Jenny"
   - "undersea volcano"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/100_1390.jpg"
 author: "Rick Spilman"
 description: "A quick quiz.  Is Kick ’em Jenny a rockbilly singer, a Dutch Celtic Symfo-Folk band or an active submarine volcano on the floor of the Caribbean Sea?  The answer appears to be yes to all three. Kick ’em Jenny is a … Continue reading &rarr;"
 ---

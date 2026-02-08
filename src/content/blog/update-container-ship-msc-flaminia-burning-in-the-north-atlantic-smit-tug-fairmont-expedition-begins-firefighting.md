@@ -13,6 +13,7 @@ tags:
   - "MSC Flaminia"
   - "North Atlantic"
   - "Smit tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/mscflaminia.jpg"
 author: "Rick Spilman"
 description: "On Sunday we posted about an explosion and fire aboard the container ship MSC Flaminia in the North Atlantic about a thousand miles west of Cornwall.  The first officer died from burns received in the fire and one crew member is missing. … Continue reading &rarr;"
 ---

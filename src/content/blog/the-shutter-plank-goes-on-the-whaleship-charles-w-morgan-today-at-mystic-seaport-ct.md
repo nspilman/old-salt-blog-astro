@@ -13,6 +13,7 @@ tags:
   - "mystic seaport"
   - "Shutter Plank"
   - "whaleship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/morgan1.jpg"
 author: "Rick Spilman"
 description: "Correction:  The original post listed the wrong date for the anticipated launching of the  Charles W. Morgan. The correct date is  July 21, 2013. Congratulations to the Mystic Seaport Museum and all those working on the whaleship Charles W. Morgan.  This afternoon at around 2PM, … Continue reading &rarr;"
 ---

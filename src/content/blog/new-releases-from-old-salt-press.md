@@ -17,6 +17,7 @@ tags:
   - "The Guinea Boat"
   - "The Shantyman"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/Shantymantyfinalebook1_html_m50deb550-125x42.png"
 author: "Rick Spilman"
 description: "I am very excited about the new releases from Old Salt Press. They include Antione Vanner’s Britannia’s Shark, V.E. Ulett’s  Blackwell’s Homecoming, Joan Druett’s Eleanor’s Odyssey and Lady Castaways, Alaric Bond’s The Guinea Boat and my own new novel, The Shantyman, which … Continue reading &rarr;"
 ---

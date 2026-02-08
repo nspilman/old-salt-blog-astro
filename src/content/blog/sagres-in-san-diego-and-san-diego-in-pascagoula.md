@@ -13,6 +13,7 @@ tags:
   - "Sagres"
   - "US Navy"
   - "USS San Diego"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Sagrestallship.jpg"
 author: "Rick Spilman"
 description: "Last week, one of my favorite tall ships, the Portuguese Sail Training Ship Sagres visited San Diego, California. This weekend, on the Gulf Coast in Pascagoula, Mississippi, the US Navy christened the USS San Diego, a San Antonio-class amphibious transport dock ship.    Not to be too critical … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Delaware River"
   - "duck boat"
   - "Philadelphia"
+featuredImage: "http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNzg1NDMzNTMzMDImcHQ9MTI3ODU*MzU3MTA4NyZwPTEyNTg*MTEmZD1BQkNOZXdzX1NGUF9Mb2NrZV9FbWJlZCZn/PTImbz1mMDZmOTY2ZGFkNzI*YmQxYjQ4N2YyNjZiNGVhYTIxOCZvZj*w.gif"
 author: "Rick Spilman"
 description: "A tourist amphibious duck boat overturned after colliding with a barge in the Delaware River this after noon.   Of the 37 aboard the duck boat, two are still reported missing. Philadelphia Duck Boat Overturns; Dozens Rescued … Continue reading &rarr;"
 ---

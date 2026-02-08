@@ -14,6 +14,7 @@ tags:
   - "Jane Austen"
   - "Olaudah Equiano"
   - "Sir Charles John Austen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/ZZ_1345026719_Command2.jpg"
 author: "Rick Spilman"
 description: "I am very fond of William Faulkner’s maxim, \"The past isn’t dead. It isn’t even past.\"  What brought this to mind was recent news from the Chatham Historic Dockyard in Kent. Back in 1995, parts of a ship’s framing was found … Continue reading &rarr;"
 ---

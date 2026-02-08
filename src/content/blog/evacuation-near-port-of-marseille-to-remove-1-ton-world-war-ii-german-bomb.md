@@ -12,6 +12,7 @@ tags:
   - "French Mediterranean port. Marseille"
   - "German bomb"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/1201marseille-bomb-22be77d3.jpg"
 author: "Rick Spilman"
 description: "In November, we posted about how a drought on the Rhine River was exposing unexploded World War II munitions, and then in December about the evacuation of half of the German city of Koblenz, when several large bombs were found buried in … Continue reading &rarr;"
 ---

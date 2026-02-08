@@ -13,6 +13,7 @@ tags:
   - "Netherlands"
   - "Stad Amsterdam"
   - "Vlissingen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Clipper-Stad-Amsterdam2_790.jpg"
 author: "Rick Spilman"
 description: "It is generally considered rude to look under a lady’s skirt, though when the lady is a ship in a drydock, it is usually OK.   The three masted steel clipper Stad Amsterdam was built in 2000 and now after 13 … Continue reading &rarr;"
 ---

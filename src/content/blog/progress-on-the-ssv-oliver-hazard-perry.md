@@ -10,6 +10,7 @@ categories:
 tags:
   - "Oliver Hazard Perry Rhode Island"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/OHPRI-logo.jpg"
 author: "Rick Spilman"
 description: "What is harder than clawing to windward off a lee shore?  I suspect that trying to raise funds, almost from scratch, to fund a new tall ship during a major recession can make a lee shore and a foul wind … Continue reading &rarr;"
 ---

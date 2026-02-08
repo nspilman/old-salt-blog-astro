@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/Soren-on-Sea_jpg.jpg"
 author: "Rick Spilman"
 description: "The brigantine Soren Larsen was built in Denamrk in 1948 and traded extensively in Baltic, British and European ports until 1972.  In the 1970s she starred in the popular BBC television drama series, The Onedin Line.   She has also … Continue reading &rarr;"
 ---

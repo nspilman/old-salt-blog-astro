@@ -12,6 +12,7 @@ tags:
   - "Norman Brouwer"
   - "Sailing Ships at Work - Then and Now"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/sailing-ships-at-work.jpg"
 author: "Rick Spilman"
 description: "I am very pleased and excited to be speaking with Norman Brouwer and Captain Margaret Flanagan at the Working Harbor Committee of New York and New Jersey program \"Sailing Ships at Work – Then and Now.\"   The presentation is on April … Continue reading &rarr;"
 ---

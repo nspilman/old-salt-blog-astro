@@ -11,6 +11,7 @@ tags:
   - "Alaska"
   - "Celebrity Millennium"
   - "Rolls Royce \"mermaid pods\""
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Millennium-7.jpg"
 author: "Rick Spilman"
 description: "Is pod propulsion the best or worse thing to ever happen to cruise ships? Celebrity Cruise Line just cancelled the cruises for the rest of season in Alaska on the Celebrity Millennium due to failures in its pods. It had … Continue reading &rarr;"
 ---

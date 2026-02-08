@@ -6,6 +6,7 @@ excerpt: "Recently, Gay Head lighthouse on Martha’s Vineyard, off the coast of
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/gayheadlight1.jpg"
 author: "Rick Spilman"
 description: "Recently, Gay Head lighthouse on Martha’s Vineyard was very carefully jacked up and moved 135 feet inland to prevent it toppling into the ocean."
 ---

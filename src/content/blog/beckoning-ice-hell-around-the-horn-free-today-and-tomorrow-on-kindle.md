@@ -11,6 +11,7 @@ tags:
   - "Hell Around the Horn"
   - "Joan Druett"
   - "Old Salt Pres"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/05/Beckoning-Ice3thumb.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee \"linguister,\" who is also the representative of American law and order with the … Continue reading &rarr;"
 ---

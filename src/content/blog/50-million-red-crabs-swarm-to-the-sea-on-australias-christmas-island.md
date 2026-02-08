@@ -13,6 +13,7 @@ tags:
   - "migration"
   - "millions"
   - "Red Crabs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/redcrabs.jpg"
 author: "Rick Spilman"
 description: "Millions of bright red crabs have begun their yearly mating migration from the forest to the sea on Australia’s Christmas Island. The scarlet crabs are marching from the jungle toward the Indian Ocean, swarming roadways, parks, and residential neighborhoods, so … Continue reading &rarr;"
 ---

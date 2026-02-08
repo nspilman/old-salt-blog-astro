@@ -12,6 +12,7 @@ tags:
   - "containers"
   - "New South Wales"
   - "YM Efficiency"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/containersoverbaord.jpg"
 author: "Rick Spilman"
 description: "Last week, the YM Efficiency, a 4250 TEU container ship bound from Taiwan to Sydney, Australia lost 83 containers in heavy seas while 30km off the coast of Port Stephens. In addition to the containers lost overboard, 30 other containers were … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "man-overboard"
   - "US Coast Guard"
   - "Washington State Ferry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/washferry.jpg"
 author: "Rick Spilman"
 description: "Talk about unintended consequences. The Washington State Ferry system and the US Coast Guard have a problem with forgotten bicycles.  Over the last 18 months, 12 bicycles have been left aboard ferries, including three bike-share bikes. This turns out to be … Continue reading &rarr;"
 ---

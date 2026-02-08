@@ -13,6 +13,7 @@ tags:
   - "Giulio Cesare"
   - "Novorossiysk"
   - "Soviet Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/3Novorosiysk-1949-Sevastopo.jpg"
 author: "Rick Spilman"
 description: "Fifty five years ago today, on October 29th 1955, the battleship Novorossiysk, flagship of the Soviet  Black Sea fleet, moored in Sevastopol Bay, was shattered by a powerful explosion which caused the ship to capsize and sink.  Over six hundred sailors lost … Continue reading &rarr;"
 ---

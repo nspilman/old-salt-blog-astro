@@ -10,6 +10,7 @@ tags:
   - "Allan Janus"
   - "Lord Nelson action figure"
   - "Napoleon's Horse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/lordnelson.jpg"
 author: "Rick Spilman"
 description: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: \"An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
 ---

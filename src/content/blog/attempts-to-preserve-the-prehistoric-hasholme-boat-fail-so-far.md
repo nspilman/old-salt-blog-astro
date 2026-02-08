@@ -13,6 +13,7 @@ tags:
   - "Hull and East Riding Museum"
   - "late Iron Age"
   - "Spalding Moor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/hasholme_boat.jpg"
 author: "Rick Spilman"
 description: "The Hasholme boat, discovered in 1984 in a former inlet of the Humber estuary near Holme on Spalding Moor, dates from the late Iron Age ( 750-390 BC ). The boat was cut from a single oak tree and was originally roughly … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/pathfindertug.jpg"
 author: "Rick Spilman"
 description: "On March 24, 1989 the third mate on the Exxon Valdez lost track of the ship’s position and  ran the ship into  Bligh Reef in Prince William Sound, Alaska, resulting in a spill of roughly 40,000 tons of crude oil, the largest offshore spill in … Continue reading &rarr;"
 ---

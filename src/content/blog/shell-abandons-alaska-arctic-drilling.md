@@ -12,6 +12,7 @@ tags:
   - "Chukchi Sea"
   - "drillling"
   - "Royal Dutch Shell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/kulluk1.jpg"
 author: "Rick Spilman"
 description: "For several years, we have followed Shell Oil’s expensive, dangerous and almost farcical attempts to drill for oil in the Chukchi Sea in the Alaska’s Arctic. Shell has faced protests, multiple groundings, technical failures, and citations for safety and pollution violations. Worst … Continue reading &rarr;"
 ---

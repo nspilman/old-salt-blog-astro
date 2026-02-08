@@ -16,6 +16,7 @@ tags:
   - "Raye Montague"
   - "Seawolf Class submarine"
   - "USS Dwight D. Eisenhower"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/RayeM.jpg"
 author: "Rick Spilman"
 description: "In honor of both March’s Women’s History Month & February’s Black History Month, an updated repost about the barrier-shattering naval engineer Raye Montague, who died at the age of 83 in 2018. At the age of 7, she was inspired … Continue reading &rarr;"
 ---

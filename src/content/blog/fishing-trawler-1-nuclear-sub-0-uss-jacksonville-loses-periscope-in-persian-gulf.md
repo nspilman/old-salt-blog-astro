@@ -12,6 +12,7 @@ tags:
   - "periscope"
   - "Persian Gulf"
   - "USS Jacksonville"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/USS_Jacksonville.jpg"
 author: "Rick Spilman"
 description: "At around 5:00 AM local time, the officer on watch of the nuclear submarine, USS Jacksonville, cruising in the Persian Gulf heard a noise and felt the submarine shudder. When he went to look out the periscope to see what had happened, he noticed that the … Continue reading &rarr;"
 ---

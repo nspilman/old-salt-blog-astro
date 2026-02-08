@@ -14,6 +14,7 @@ tags:
   - "Navy SEALs"
   - "security officers"
   - "Seychelles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/malabama2.jpg"
 author: "Rick Spilman"
 description: "CNN  is reporting that hypodermic needles and traces of narcotics were found with the bodies of two American security officers on the container ship Maersk Alabama, suggesting that the deaths resulted from drug overdoses, according to a Seychelles government official. … Continue reading &rarr;"
 ---

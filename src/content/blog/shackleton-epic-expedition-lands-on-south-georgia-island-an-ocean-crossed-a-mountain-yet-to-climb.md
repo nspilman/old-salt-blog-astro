@@ -14,6 +14,7 @@ tags:
   - "Shackleton Epic Expedition"
   - "South Georgia Island"
   - "Tim Jarvis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/shackletonepic.jpg"
 author: "Rick Spilman"
 description: "In late January we posted about the \"Shackleton Epic Expedition,\" led by Australian Tim Jarvis, shoving off from Elephant Island in the lifeboat Alexandra Shackleton, in an attempt to reenact the incredible 1916 voyage of Ernest Shackleton and his six man … Continue reading &rarr;"
 ---

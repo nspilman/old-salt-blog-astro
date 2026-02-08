@@ -12,6 +12,7 @@ tags:
   - "Grayhound"
   - "Nordlys"
   - "Tres Hombres"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/nordlys.jpg"
 author: "Rick Spilman"
 description: "The coastal cargo ketch Nordlys is making ready to sail. She is either the newest sailing cargo venture or the oldest sailing cargo ship depending on how you look at it. Built in 1873 in the Isle of Wight, this 141 … Continue reading &rarr;"
 ---

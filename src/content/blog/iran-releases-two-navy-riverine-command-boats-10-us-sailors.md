@@ -12,6 +12,7 @@ tags:
   - "Riverine Command Boat"
   - "Swedish Combat Boat 90"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/rcb1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, two US Navy Riverine Command Boats (RCBs) with a combined crew of ten sailors were apprehended by Iranian Revolutionary Guard boats. One or both of the RCBs had suffered a mechanical failure and had drifted into Iranian waters. The Iranians released … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "Summerwind"
   - "United States Merchant Marine Academy"
   - "Virginia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/svirginia-125x186.jpg"
 author: "Rick Spilman"
 description: "In the 22nd Great Chesapeake Bay Schooner Race, thirty nine schooner raced from 127 nautical miles down the Chesapeake Bay from Baltimore, Maryland to Portsmouth, Virginia.  Summerwind, the 100′ 1929 John Alden designed schooner owned by the United States Merchant Marine Academy at Kings Point, … Continue reading &rarr;"
 ---

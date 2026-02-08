@@ -13,6 +13,7 @@ tags:
   - "US Navy"
   - "USS Fitzgerald"
   - "USS John McCain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/aistracks.jpg"
 author: "Rick Spilman"
 description: "Following the recent collisions between US Navy destroyers and merchant ships, various internet sites posted the AIS tracks of the collisions. Well, they posted half the AIS tracks anyway.  The merchant ships used AIS while the Navy did not. While … Continue reading &rarr;"
 ---

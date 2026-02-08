@@ -14,6 +14,7 @@ tags:
   - "Madagascar"
   - "schooners"
   - "shipwrights"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/Madagascarschooner.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about the Bugis schooners of Indonesia – Where the Age of Sail Never Ended – the Bugis Phinisi, an Appreciation. Recently AFP (Agence France-Presse) published an article about another region where the age of commercial sail … Continue reading &rarr;"
 ---

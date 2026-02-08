@@ -12,6 +12,7 @@ tags:
   - "Gray Man"
   - "Hurricanes"
   - "Pawley's Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/grayman.jpg"
 author: "Rick Spilman"
 description: "On Halloween, it seems appropriate to look at the legend of the Gray Man of Pawley’s Island, South Carolina, a benevolent ghost said to warn residents of coming severe storms and hurricanes. Those who heed his warnings are said to … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "letter"
   - "National Maritime Museum"
   - "Robert Hope"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/article-1322144-0BB0F2D0000.jpg"
 author: "Rick Spilman"
 description: "A letter which only recently resurfaced gives an ordinary seaman’s view of the famous battle which was fought 205 years ago today. ‘They won’t send their fleets out again in a hurry’: Remarkable letter from hero who survived the Battle … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/guardianreef1.jpg"
 author: "Rick Spilman"
 description: "Last week, high level representatives of the Philippine Coast Guard met with the representatives of the US Navy in their investigation of the grounding of the mine sweeper USS Guardian on Tubbataha Reef on January 17, 2013.  At roughly the same time, a group … Continue reading &rarr;"
 ---

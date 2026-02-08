@@ -13,6 +13,7 @@ tags:
   - "Old Salt Press"
   - "Quarterdeck"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg"
 author: "Rick Spilman"
 description: "George Jepson's review of \"The Shantyman\" from the May/June issue of the McBooks Press newsletter \"Quarterdeck.\""
 ---

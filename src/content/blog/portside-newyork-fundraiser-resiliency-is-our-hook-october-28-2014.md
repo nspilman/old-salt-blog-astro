@@ -13,6 +13,7 @@ tags:
   - "historic tanker"
   - "Mary A.Whalen"
   - "PortSide NewYork"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/102910_7394-bernie-Ente-sq-.jpg"
 author: "Rick Spilman"
 description: "PortSide NewYork is hosting a Fundraiser -- Resiliency is our Hook, on October 28, 2014."
 ---

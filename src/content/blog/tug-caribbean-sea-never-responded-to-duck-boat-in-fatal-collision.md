@@ -13,6 +13,7 @@ tags:
   - "National Transportation Safety Board"
   - "NTSB"
   - "tug Caribbean Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/duck1.jpg"
 author: "Rick Spilman"
 description: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
 ---

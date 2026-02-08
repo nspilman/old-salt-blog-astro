@@ -15,6 +15,7 @@ tags:
   - "pollution"
   - "Sri Lanka"
   - "X-Press Pearl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/xpresspearl.jpg"
 author: "Rick Spilman"
 description: "Pollution from the container ship X-Press Pearl is being described as potentially the worst marine ecological disaster in Sri Lankan history. The ship carried 25 tonnes of nitric acid, along with other chemicals and cosmetics, when it caught fire on … Continue reading &rarr;"
 ---

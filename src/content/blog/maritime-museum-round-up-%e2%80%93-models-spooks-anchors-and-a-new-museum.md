@@ -15,6 +15,7 @@ tags:
   - "Stolt Dagali"
   - "University of West Florida"
   - "USS Constitution Model Shipwright Guild’s Annual Model Ship Show"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/modelshow2009-150x79.jpg"
 author: "Rick Spilman"
 description: "USS Constitution Model Shipwright Guild’s Annual Model Ship Show – Models in the Spotlight – Running through March 20th. Admission to the Museum and the exhibit are free; donations are welcome. A total of 75 different ships created by modelers … Continue reading &rarr;"
 ---

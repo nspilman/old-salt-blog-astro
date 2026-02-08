@@ -13,6 +13,7 @@ tags:
   - "Joan Baez"
   - "Queen Mary"
   - "Smokey Robinson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/dnc-queenmary.jpg"
 author: "Rick Spilman"
 description: "Folk music legend Joan Baez and special guest Roger McGuinn will kick off the first of the \"Summer Concert Series at the Queen Mary\" this Friday, August 13th,  as part of the summer-long 2010 Long Beach Sea Festival.  This will … Continue reading &rarr;"
 ---

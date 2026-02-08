@@ -11,6 +11,7 @@ tags:
   - "Don't Tell"
   - "US Marines"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/senior_chief_petty_officer_.jpg"
 author: "Rick Spilman"
 description: "The US military’s previous policy toward gay service members; \"don’t ask, don’t tell; officially came to an end yesterday.   Naval officer, Lt. Gary Ross, chose the day to marry his partner of eleven years, Dan Swezy, in Duxbury, Vt.   In Tulsa, … Continue reading &rarr;"
 ---

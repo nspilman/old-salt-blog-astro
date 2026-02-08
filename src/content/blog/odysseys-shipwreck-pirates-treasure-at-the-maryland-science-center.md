@@ -10,6 +10,7 @@ categories:
 tags:
   - "Maryland Science Center"
   - "Odyssey's Shipwreck! Pirates &amp; Treasure"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/blackswan1.jpg"
 author: "Rick Spilman"
 description: "A new exhibition opened at the at the Maryland Science Center, Odyssey’s Shipwreck! Pirates & Treasure, that will run through January 30, 2011. Exploring pirates and shipwrecks at the Maryland Science Center … Continue reading &rarr;"
 ---

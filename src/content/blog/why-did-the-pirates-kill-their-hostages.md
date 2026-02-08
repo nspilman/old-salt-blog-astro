@@ -12,6 +12,7 @@ tags:
   - "pirates"
   - "Quest"
   - "USS Sterett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/sterett.jpg"
 author: "Rick Spilman"
 description: "Why did the pirates kill their for American hostages aboard the sailing yacht Quest?   We may never know.  Naval officers are speculating  that the close approach of the destroyer USS Sterett may have panicked some of the pirates.  The Sterett reportedly drew closer … Continue reading &rarr;"
 ---

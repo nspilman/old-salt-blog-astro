@@ -12,6 +12,7 @@ tags:
   - "Greater Farallones National Marine Sanctuary"
   - "US Navy tug"
   - "USS Conestoga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/conestoga.jpg"
 author: "Rick Spilman"
 description: "On March 25th, 1921, the US Navy ocean-going tug, USS Conestoga, with a coal barge in tow, steamed out of Mare Island, California, bound for Tutuila, American Samoa, by way of Pearl Harbor, Hawaii. The tug, barge and crew disappeared. … Continue reading &rarr;"
 ---

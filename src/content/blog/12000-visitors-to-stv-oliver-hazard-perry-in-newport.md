@@ -14,6 +14,7 @@ tags:
   - "RI"
   - "Sailing School Vessel"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/ohpftadams.jpg"
 author: "Rick Spilman"
 description: "From May 9th through 13th, Oliver Hazard Perry, the largest civilian Sailing School Vessel in the US, was host to 12,000 visitors during the Volvo Ocean Race Stopover in Newport, RI."
 ---

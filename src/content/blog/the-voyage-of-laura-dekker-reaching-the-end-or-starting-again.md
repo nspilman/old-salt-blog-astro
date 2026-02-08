@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Laura Dekker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/ld2.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker, the 16 year old solo sailor, is on the last leg of her voyage around the world.   She is bound not for Europe but back to Sint Maarten in the Caribbean, from which she sailed on January 5, 2011. … Continue reading &rarr;"
 ---

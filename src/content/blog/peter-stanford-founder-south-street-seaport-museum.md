@@ -12,6 +12,7 @@ tags:
   - "National Maritime Historical Society"
   - "Peter Stanford"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/peterstanford.jpg"
 author: "Rick Spilman"
 description: "Peter Stanford, an icon of maritime historical preservation in the United States, died yesterday at the age of 89. In 1967, Peter and his wife Norma founded the South Street Seaport Museum on New York City’s East River waterfront. Peter Stanford … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Salvatore Polisi"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/salp.jpg"
 author: "Rick Spilman"
 description: "New York harbor has lost part of its living history with the passing of Sal Polisi, longtime volunteer and master carver at the South Street Seaport Museum."
 ---

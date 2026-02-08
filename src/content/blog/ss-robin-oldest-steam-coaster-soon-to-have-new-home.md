@@ -11,6 +11,7 @@ categories:
 tags:
   - "SS Robin"
   - "Steam Coaster"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/ssrobin.jpg"
 author: "Rick Spilman"
 description: "The SS Robin, built in 1890, is the last remaining steam coaster in the world. She will soon be moved to a custom built pontoon barge which will support the old ship and serves as space for a floating museum. … Continue reading &rarr;"
 ---

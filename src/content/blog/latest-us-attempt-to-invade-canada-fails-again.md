@@ -10,6 +10,7 @@ tags:
   - "Canada"
   - "Sarnia"
   - "St. Clair River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/porthuronfloatdown2.jpg"
 author: "Rick Spilman"
 description: "On July 12, 1812, General William Hull led a force of roughly 1,800 US militia across the Detroit River to invade Canada. It did not go well. Within days Hull and his forces were driven out by British, Canadian and … Continue reading &rarr;"
 ---

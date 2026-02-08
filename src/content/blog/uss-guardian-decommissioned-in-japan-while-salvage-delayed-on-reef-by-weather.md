@@ -13,6 +13,7 @@ tags:
   - "Philippines"
   - "Tubbataha Reef"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/nation01.jpg"
 author: "Rick Spilman"
 description: "Today in Japan, the US Navy officially decommissioned the minesweeper USS Guardian.  On the Tubbataha Reef, where the ship ran aground on January 17, salvage operations have again been delayed by bad weather.  The salvage plan is to cut the ship into pieces and to haul … Continue reading &rarr;"
 ---

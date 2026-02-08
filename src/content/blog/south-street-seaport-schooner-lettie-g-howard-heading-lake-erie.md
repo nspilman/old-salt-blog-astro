@@ -14,6 +14,7 @@ tags:
   - "Lake Erie"
   - "Lettie G. Howard"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/lettielakeerie.jpg"
 author: "Rick Spilman"
 description: "The South Street Seaport Museum‘s historic Georges Banks fishing schooner Lettie G. Howard will be spending the next two summers in Lake Erie at the Erie Maritime Museum in a collaboration with the Flagship Niagara League. The schooner will be partnering with … Continue reading &rarr;"
 ---

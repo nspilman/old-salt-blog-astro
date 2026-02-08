@@ -13,6 +13,7 @@ tags:
   - "Liberty Challenge"
   - "outrigger regatta"
   - "Pier 26"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/libertychallenge-race.jpg"
 author: "Rick Spilman"
 description: "I will admit that it was news to me that the Hawaiian Airlines Liberty Challenge hosted by New York Outrigger is the largest outrigger regatta on the East Coast.  Over 400 athletes from around the world are participating.  According to … Continue reading &rarr;"
 ---

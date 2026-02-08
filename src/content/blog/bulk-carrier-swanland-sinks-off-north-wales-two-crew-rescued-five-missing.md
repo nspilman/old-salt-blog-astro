@@ -12,6 +12,7 @@ tags:
   - "sinks"
   - "Swanland"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/swanland.jpg"
 author: "Rick Spilman"
 description: "Update: Prince William co-piloted the Sea King helicopter which rescued two crew from the sinking Swanland.   Prince William serves with RAF Valley in north Wales. The bulk carrier Swanland is reported to have sunk this morning off north  Wales in heavy … Continue reading &rarr;"
 ---

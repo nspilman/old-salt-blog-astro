@@ -14,6 +14,7 @@ tags:
   - "Lake Carriers Association"
   - "Lake Superior"
   - "ore carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/edmundfitzgerald.jpg"
 author: "Rick Spilman"
 description: "Thirty five years ago today the ore carrier Edmund Fitzgerald, loaded with more 26,000 tons of taconite pellets, sank in a November gale in Lake Superior. All 29 of her officers and crew were lost. The sinking was the greatest … Continue reading &rarr;"
 ---

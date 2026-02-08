@@ -5,6 +5,7 @@ slug: "eustace-the-monk-%e2%80%93-benedictine-monk-sea-captain-and-pirate"
 excerpt: "The death of Eustace at the Battle of Sandwich The Oxford Dictionary of National Bi0graphies features an intriguing character from history today – Eustace the Monk,  a Benedictine monk from the 13th century who was also a sea captain, a mercenary and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/EustaceTheMonk.jpg"
 author: "Rick Spilman"
 description: "The death of Eustace at the Battle of Sandwich The Oxford Dictionary of National Bi0graphies features an intriguing character from history today – Eustace the Monk,  a Benedictine monk from the 13th century who was also a sea captain, a mercenary and … Continue reading &rarr;"
 ---

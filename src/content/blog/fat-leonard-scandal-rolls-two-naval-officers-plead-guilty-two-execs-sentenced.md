@@ -10,6 +10,7 @@ tags:
   - "bribery scandal"
   - "Fat Leonard"
   - "navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
 description: "The \"Fat Leonard\" Navy bribery and corruption scandal just keeps rolling on. In September of 2013, Navy investigators arrested a 350 pound Malaysian businessman, Leonard Glenn Francis, who was CEO of Glenn Defense Marine Asia (GDMA), a contractor that provided port … Continue reading &rarr;"
 ---

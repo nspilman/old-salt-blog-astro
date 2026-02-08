@@ -13,6 +13,7 @@ tags:
   - "bristol basin"
   - "cobblestones"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/bristolbasis.jpg"
 author: "Rick Spilman"
 description: "In the almost 6,000 miles of streets, roads and highways in the five boroughs of New York City, only about 15 miles are still paved with cobblestones. As noted by the New York Times: Starting in the 17th century, cobblestones … Continue reading &rarr;"
 ---

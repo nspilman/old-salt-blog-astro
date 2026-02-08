@@ -6,6 +6,7 @@ excerpt: "There have been hundreds of novels written about dashing Royal Navy sh
 categories:
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/thetemple.jpg"
 author: "Rick Spilman"
 description: "There have been hundreds of novels written about dashing Royal Navy ships’ captains who bear a striking resemblance to Lord Cochrane. The resemblance and family history are most obvious in Jack Aubrey and Horatio Hornblower, but a dozen or so … Continue reading &rarr;"
 ---

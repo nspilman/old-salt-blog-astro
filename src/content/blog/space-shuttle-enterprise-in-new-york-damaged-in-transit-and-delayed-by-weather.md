@@ -10,6 +10,7 @@ tags:
   - "Air and Space Museum"
   - "Intrepid Sea"
   - "Space Shuttle Enterprise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/ht_collect_space_shuttle_da.jpg"
 author: "Rick Spilman"
 description: "The Space Shuttle Enterprise has not had an easy time in New York.  When it was barged last Sunday between Kennedy Airport and Bayonne, New Jersey, prior to its final move to the Intrepid Sea, Air and Space Museum, it suffered minor damage to one wingtip when the barge … Continue reading &rarr;"
 ---

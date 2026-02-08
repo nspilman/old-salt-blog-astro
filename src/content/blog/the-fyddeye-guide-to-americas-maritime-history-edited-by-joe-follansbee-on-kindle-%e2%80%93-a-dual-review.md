@@ -11,6 +11,7 @@ categories:
 tags:
   - "Fyddeye Guide"
   - "Joe Follansbee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/fydde.jpg"
 author: "Rick Spilman"
 description: "I recently purchased Joe Follansbee’s The Fyddeye Guide to America’s Maritime History – 2,000+ Tall Ships, Lighthouses, Historic Ships, Maritime Museums, and More. Rather than purchasing a dead-tree version, I bought the guide as an e-book for Kindle. This is, … Continue reading &rarr;"
 ---

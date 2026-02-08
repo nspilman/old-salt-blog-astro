@@ -12,6 +12,7 @@ tags:
   - "Brooklyn waterfront"
   - "Hidden Harbor tour"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/brooklynhht.jpg"
 author: "Rick Spilman"
 description: "When I first came to New York in the last quarter of the last century, I went to work for Moore-McCormack Lines, which had a terminal in Brooklyn on the Gowanus Canal. For better or worse, the Brooklyn waterfront has … Continue reading &rarr;"
 ---

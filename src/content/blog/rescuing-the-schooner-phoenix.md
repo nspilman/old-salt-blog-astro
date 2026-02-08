@@ -11,6 +11,7 @@ tags:
   - "Phoenix"
   - "Port Townsend"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/phoenix.jpg"
 author: "Rick Spilman"
 description: "On October 9th, the schooner Phoenix dragged her anchor in a storm in Port Townsend harbor, Washington. She ended up sinking, holed on the rocks of the breakwater. The good news is that, after a week underwater, the schooner was … Continue reading &rarr;"
 ---

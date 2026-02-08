@@ -11,6 +11,7 @@ tags:
   - "New York Police Department Harbor Unit"
   - "submarine drones"
   - "Videorays"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/DSDB.jpg"
 author: "Rick Spilman"
 description: "New York harbor was the sight of the first use of a submersible in combat.  On September 6, 1776, Eza Lee in command of the Turtle, a one man submersible designed by David Bushnell, attempted and failed to sink Admiral Richard Howe’s flagship HMS Eagle.   Today, modern … Continue reading &rarr;"
 ---

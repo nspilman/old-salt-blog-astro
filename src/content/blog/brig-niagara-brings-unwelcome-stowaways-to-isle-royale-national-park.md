@@ -11,6 +11,7 @@ tags:
   - "Brig Niagara"
   - "Isle Royale"
   - "zebra mussel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/niagara1.jpg"
 author: "Rick Spilman"
 description: "Another article about stowaways, though of a completely different sort – zebra mussels on the Brig Niagara.  Earlier this month, the Niagara, a historically accurate reconstruction of Commodore Oliver Hazard Perry’s victorious 1813 flagship,  visited Isle Royale, an island National Park in northwestern Lake … Continue reading &rarr;"
 ---

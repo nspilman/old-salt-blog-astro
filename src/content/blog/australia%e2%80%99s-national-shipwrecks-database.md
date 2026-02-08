@@ -10,6 +10,7 @@ categories:
 tags:
   - "Australia’s National Shipwrecks database"
   - "historic shipwrecks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/hmcs-mermaid.jpg"
 author: "Rick Spilman"
 description: "We recently posted about how Cathryn R. Newton, dean emerita from Syracuse University’s College of Arts and Sciences, has developed a searchable database that details 2,038 shipwrecks dating from 1526.  Thanks to Dick Kooyman for pointing out Australia’s National Shipwrecks database, … Continue reading &rarr;"
 ---

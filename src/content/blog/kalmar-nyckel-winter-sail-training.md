@@ -11,6 +11,7 @@ tags:
   - "Kalmar Nyckel"
   - "Kalmar Nyckel Foundation"
   - "Winter Sail Training"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/kntraining-198x200.jpg"
 author: "Rick Spilman"
 description: "The Kalmar Nyckel Foundation recently added some photos on their Facebook page, and all we can say is \"wow.\""
 ---

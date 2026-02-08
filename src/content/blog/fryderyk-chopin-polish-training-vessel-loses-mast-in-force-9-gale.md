@@ -11,6 +11,7 @@ tags:
   - "Fryderyk Chopin"
   - "Isles of Scilly"
   - "Polish sail training ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/sailing_ship_fryderyk_chopi.jpg"
 author: "Rick Spilman"
 description: "Update: UK coast guard: Polish teen sailors safe after their ship loses both masts A group of teenage sailors whose ship was drifting at sea after it lost both masts in gale-force winds is safe from harm, coast guards said … Continue reading &rarr;"
 ---

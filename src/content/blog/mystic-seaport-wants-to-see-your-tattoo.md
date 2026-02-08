@@ -11,6 +11,7 @@ tags:
   - "Skin &amp; Bones – Tattoos in the Life of the American Sailor"
   - "Tattoo Tales"
   - "Tattoos &amp; Tallships Weekend"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/series_02.jpg"
 author: "Rick Spilman"
 description: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the \"Tattoo Tales\" booth, where you can … Continue reading &rarr;"
 ---

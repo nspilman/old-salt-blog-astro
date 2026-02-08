@@ -12,6 +12,7 @@ tags:
   - "S/V Mandalay"
   - "Windjammer Barefoot Cruises"
   - "Windjammer Sailing Adventures"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/windjammer.jpg"
 author: "Rick Spilman"
 description: "Last April we posted about Australian mining billionaire Clive Palmer’s plans to build a 21st-century replica of the Titanic. I am not sure how I feel about naming new vessels after maritime tragedies. On the other hand, the Titanic may … Continue reading &rarr;"
 ---

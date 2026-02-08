@@ -16,6 +16,7 @@ tags:
   - "Salvador Dali"
   - "Transat Jacques Vabre"
   - "VPLP-Verdier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/dalimoustache1.jpg"
 author: "Rick Spilman"
 description: "A new IMOCA (International Monohull Open Class Association) 60 design by Guillaume Verdier and VPLP Design has raised the question whether the design will be a the future of ocean racing or whether it is a foil too far.  In addition … Continue reading &rarr;"
 ---

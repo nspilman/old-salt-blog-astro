@@ -9,6 +9,7 @@ tags:
   - "bloop"
   - "calving ice shelf"
   - "sea monster"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/monster.jpg"
 author: "Rick Spilman"
 description: "In 2009, we posted about the \"bloop.\"   What is the \"bloop,\" you well may ask?  The \"bloop\" was an mysterious ultra-low frequency underwater sound detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997. NOAA … Continue reading &rarr;"
 ---

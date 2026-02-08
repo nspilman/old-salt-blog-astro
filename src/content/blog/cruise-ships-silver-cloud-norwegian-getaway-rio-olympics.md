@@ -13,6 +13,7 @@ tags:
   - "Rio Olympics"
   - "Silver Cloud"
   - "US basketball teams"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/silvercloud1.jpg"
 author: "Rick Spilman"
 description: "The accommodations in the Olympic Village in Rio de Janeiro, where most of the Summer Olympics athletes are staying during the games, have received mixed reviews. Australian athletes refused to move into the buildings because of significant plumbing and electrical … Continue reading &rarr;"
 ---

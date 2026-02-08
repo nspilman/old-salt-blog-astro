@@ -14,6 +14,7 @@ tags:
   - "replica lifeboat"
   - "Shackleton Epic Expedition"
   - "Tim Jarvis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/shackletondepartureboat.jpg"
 author: "Rick Spilman"
 description: "In the Antarctic winter of 1916, Ernest Shackleton and a crew of five sailed in a decked over lifeboat from Elephant Island to South Georgia. They were on a desperate rescue mission across 800 miles of the roughest ocean in … Continue reading &rarr;"
 ---

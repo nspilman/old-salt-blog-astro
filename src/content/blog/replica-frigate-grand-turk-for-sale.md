@@ -13,6 +13,7 @@ tags:
   - "hornblower"
   - "Longitude"
   - "To The Ends of the Earth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/11/grandturk1.jpg"
 author: "Rick Spilman"
 description: "There seems to be a significant number of tall ships for sale these days. Not sure whether that is good or bad news. One especially notable example is the Grand Turk, now offered for sale for £2,800,000.  Thanks to Alaric for … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "meteor fragments"
   - "Russia"
   - "Urals"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/russia-670-reu.jpg"
 author: "Rick Spilman"
 description: "A large round hole in the ice of Lake Chebarkul, 80 kilometers west of the Russian city of Chelyabinsk in the Urals, may have been made by a fragment of the meteor which exploded in a massive fireball above the region … Continue reading &rarr;"
 ---

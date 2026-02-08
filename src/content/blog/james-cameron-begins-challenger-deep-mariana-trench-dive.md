@@ -11,6 +11,7 @@ tags:
   - "James Cameron"
   - "Mariana Trench"
   - "vertical torpedo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/20DIVE-articleInline.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about James Cameron’s preparation for his attempt to dive to the bottom of the Challenger Deep in the Mariana Trench. Reports are that he is now attempting the dive in his one man submarine, described as … Continue reading &rarr;"
 ---

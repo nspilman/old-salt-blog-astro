@@ -10,6 +10,7 @@ categories:
 tags:
   - "Charles W. Morgan"
   - "new bedford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/charles-morgannb.jpg"
 author: "Rick Spilman"
 description: "In January 1841, the Hillman Brothers shipyard on the Acushnet River in New Bedford, MA delivered a new whaleship, the Charles W. Morgan.   Yesterday, the Charles W. Morgan, the only surviving wooden whaling ship, sailed back into New Bedford, where she was built more than 170 … Continue reading &rarr;"
 ---

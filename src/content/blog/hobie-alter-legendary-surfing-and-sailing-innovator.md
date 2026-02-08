@@ -9,6 +9,7 @@ tags:
   - "Hobie Alter"
   - "Hobie Cat"
   - "surfboard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/hobie.jpg"
 author: "Rick Spilman"
 description: "Hobart \"Hobie\" Alter died of cancer in Palm Desert, California on March 29th, 2014 at the age of 80.  In 1958, he revolutionized surfboard design by developing the foam-and-fiberglass surfboard. In the 1960s, he introduced multi-hull sailing to the mass market … Continue reading &rarr;"
 ---

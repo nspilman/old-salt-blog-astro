@@ -12,6 +12,7 @@ tags:
   - "US Navy"
   - "USS Fitzgerald"
   - "USS John S. McCain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/ussmccaindamage.jpg"
 author: "Rick Spilman"
 description: "The Navy has announced that five officers involved in two deadly ship collisions are facing a variety of criminal charges including negligent homicide. The officers facing charges include Cmdr. Bryce Benson, former captain of the USS Fitzgerald, and Cmdr. Alfredo J. Sanchez, former captain … Continue reading &rarr;"
 ---

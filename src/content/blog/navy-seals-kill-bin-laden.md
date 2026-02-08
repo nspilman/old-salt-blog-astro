@@ -11,6 +11,7 @@ tags:
   - "Navy SEALs"
   - "Osama Bin Laden"
   - "Pakistan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/navy-seal-4.jpg"
 author: "Rick Spilman"
 description: "US naval special forces commandos are called SEALs, referring to their ability to operate at SEa, in the Air and on Land.   Yesterday Navy SEALs were called upon to capture or kill Osama Bin Laden who was hiding in … Continue reading &rarr;"
 ---

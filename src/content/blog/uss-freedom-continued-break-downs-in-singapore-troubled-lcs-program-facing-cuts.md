@@ -10,6 +10,7 @@ categories:
 tags:
   - "littoral combat ships"
   - "USS Freedom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/1889733802.jpg"
 author: "Rick Spilman"
 description: "In March of this year, we posted about the repeated blackouts suffered on the USS Freedom as it made its way to a deployment in Singapore.  Recently the ship was delayed due to failures in its water jet controls. In October it … Continue reading &rarr;"
 ---

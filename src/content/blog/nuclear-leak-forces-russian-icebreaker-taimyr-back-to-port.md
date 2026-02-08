@@ -14,6 +14,7 @@ tags:
   - "nuclear leak"
   - "Russian icebreaker"
   - "Taimyr"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Taimyr-Icebreaker.jpg"
 author: "Rick Spilman"
 description: "A nuclear leak on the Russian icebreaker Taimyr forced it to attempt to return to the port of Murmansk. Nuclear leak in Russian icebreaker RUSSIA launched an urgent rescue mission overnight after one of its atomic-powered icebreakers developed a nuclear leak … Continue reading &rarr;"
 ---

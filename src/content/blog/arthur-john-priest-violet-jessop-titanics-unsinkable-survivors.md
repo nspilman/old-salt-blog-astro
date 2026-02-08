@@ -10,6 +10,7 @@ categories:
 tags:
   - "Arthur John Priest"
   - "Violet Jessop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/priest_j_medium.jpg"
 author: "Rick Spilman"
 description: "Arthur John Priest was a stoker, or fireman, on the RMS Titanic. His job was to shovel coal into the ship’s boilers.  He survived the Titanic’s sinking of 1912. He also was aboard the RMS Olympic, the sistership to the Titanic, when she collided with HMS … Continue reading &rarr;"
 ---

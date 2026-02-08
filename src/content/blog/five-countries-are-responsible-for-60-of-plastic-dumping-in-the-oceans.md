@@ -14,6 +14,7 @@ tags:
   - "Thailand"
   - "the Philippines"
   - "Vietnam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/stemmingtide.jpg"
 author: "Rick Spilman"
 description: "For several years now, we have posted about the so-called ocean garbage patches, the great swaths of the oceans where plastic and other floating debris accumulate while riding on vast circular currents. The problem is that an estimated 8 million … Continue reading &rarr;"
 ---

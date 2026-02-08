@@ -12,6 +12,7 @@ tags:
   - "Mars Petcare"
   - "SHEBA®"
   - "The Nature Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/shebahopereef.jpg"
 author: "Rick Spilman"
 description: "What does cat food have to do with coral reefs? Mars Petcare catfood brand SHEBA®  has partnered with The Nature Conservancy to develop what it claims is the world’s largest coral restoration program, expected to cover more than 185,000 square … Continue reading &rarr;"
 ---

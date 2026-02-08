@@ -13,6 +13,7 @@ tags:
   - "SS Commodore"
   - "Stephen Crane"
   - "The Open Boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/openboat.jpg"
 author: "Rick Spilman"
 description: "None of them knew the color of the sky. Their eyes glanced level, and were fastened upon the waves that swept toward them. These waves were of the hue of slate, save for the tops, which were of foaming white, … Continue reading &rarr;"
 ---

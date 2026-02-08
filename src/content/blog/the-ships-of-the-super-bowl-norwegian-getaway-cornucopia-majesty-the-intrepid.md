@@ -12,6 +12,7 @@ tags:
   - "Intrepid"
   - "Norwegian Getaway"
   - "Super Bowl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/ngship.jpg"
 author: "Rick Spilman"
 description: "Super Bowl Fever has taken over New York and New Jersey.  (Personally, I am sick of it and we are still two days away from the game.) Football fans are swarming all over, on both sides of New York harbor. … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "kayak expedition"
   - "Russell and Graham Henry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/henrybros2.jpg"
 author: "Rick Spilman"
 description: "Russell and Graham Henry, two brothers from British Columbia, hauled their kayaks ashore in Juno Beach, Florida over the weekend. They had set out from the mouth of the Amazon river in Belém Brazil on July 30, 2013.  In their … Continue reading &rarr;"
 ---

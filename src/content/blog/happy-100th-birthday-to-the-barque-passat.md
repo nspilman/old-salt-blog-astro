@@ -6,6 +6,7 @@ excerpt: "Today through Sunday, there will be a 100th birthday party in Travemü
 categories:
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/100_jahre_passat_default.jpg"
 author: "Rick Spilman"
 description: "Today through Sunday, there will be a 100th birthday party in Travemünde, Germany, for one of the last of the true windjammers, the four masted barque Passat.  One of the F. Laeisz Flying P-Liners, she was in launched 1911 at the Blohm & … Continue reading &rarr;"
 ---

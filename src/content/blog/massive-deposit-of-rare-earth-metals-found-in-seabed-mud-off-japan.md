@@ -11,6 +11,7 @@ tags:
   - "Japan"
   - "Minamitorishima"
   - "rate-earth metals"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/rareeasrthisland.jpg"
 author: "Rick Spilman"
 description: "Researchers have located huge deposits of rare-earth metals in seabed mud off the Japanese island Minamitorishima, located 1,150 miles southeast of Tokyo. The discovery could have a major impact on both the Japanese and the world economy. Rare-earth metals are … Continue reading &rarr;"
 ---

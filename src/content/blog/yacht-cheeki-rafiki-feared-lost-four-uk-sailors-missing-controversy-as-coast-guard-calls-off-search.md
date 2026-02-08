@@ -11,6 +11,7 @@ tags:
   - "Atlantic"
   - "Cheeki Rafiki"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/maerskraficki.jpg"
 author: "Rick Spilman"
 description: "UPDATE:  The US Coast Guard has resumed the search for the missing crew from the Cheeki Rafiki.   Over 200,000 signed petitions asking that the search be resumed.  British Prime Minister David Cameron thanked the Coast Guard on Twitter after it made … Continue reading &rarr;"
 ---

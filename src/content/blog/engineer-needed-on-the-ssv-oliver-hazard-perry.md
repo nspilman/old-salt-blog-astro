@@ -10,6 +10,7 @@ categories:
 tags:
   - "Engineer"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ohprendering.jpg"
 author: "Rick Spilman"
 description: "This morning we posted that the SSV Oliver Hazard Perry organization is looking for Licensed Mates.  They are also looking for a qualified Engineer. Engineer Job Description: OHPRI is seeking an Engineer for SSV Oliver Hazard Perry to join the … Continue reading &rarr;"
 ---

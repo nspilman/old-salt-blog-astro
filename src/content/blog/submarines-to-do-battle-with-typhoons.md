@@ -11,6 +11,7 @@ tags:
   - "pump cold water"
   - "submarines"
   - "typhoons"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/typhoon.jpg"
 author: "Rick Spilman"
 description: "This sounds completely nuts.  It might possibly work but there is the question of scale to be addressed.  Hurricanes, or typhoons in the Pacific,  need warm water to provide energy to the storm. The idea is to built a fleet of submarines to … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Operation Dynamo"
   - "Ramsgate"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/sundowner-little-ship.jpg"
 author: "Rick Spilman"
 description: "This Wednesday the surviving \"Little Ships\" of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
 ---

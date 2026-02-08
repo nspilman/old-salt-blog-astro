@@ -11,6 +11,7 @@ tags:
   - "Corolla"
   - "Graveyard of the Atlantic Museum"
   - "North Carolina’s oldest shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/corolla11.jpg"
 author: "Rick Spilman"
 description: "Last July, we posted about North Carolina’s oldest shipwreck which was moved to the Graveyard of the Atlantic Museum for preservation.    Now the curators at the museum are trying to learn,as quickly as possible, how to preserve the crumbling … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "circumnavigation"
   - "Laura Dekker"
   - "St. Maartin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/l_2115321b.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker has arrived in St. Maarten, having sailed her 38 ft Jeanneau Gin Fizz ketch, Guppy, successfully around the world alone.  Her voyage began when she quietly slipped out of  Gibraltar on August 21, 2010.  At only 16 years and four … Continue reading &rarr;"
 ---

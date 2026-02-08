@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "HMS Ark Royal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/300px-HMS_Ark_Royal_R07.jpg"
 author: "Rick Spilman"
 description: "The Ark Royal is for sale,  presumably to a scrap yard but \"alternatively the vessel may be purchased for re-use/refurbishment for non-warlike purposes.\"  The main engine, most machinery and all weapons will be removed.  She will be available for inspection in early May and all bids … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Waterford Tug Roundup"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/govcleveland.jpg"
 author: "Rick Spilman"
 description: "Thanks to Ulrich Rudofsky for forwarding these slideshows of the Waterford Tug Roundup.  Click here to view the slideshow from Friday aternoon. Click here to to view a slideshow from Saturday. … Continue reading &rarr;"
 ---

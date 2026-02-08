@@ -13,6 +13,7 @@ tags:
   - "Australia"
   - "City of Adelaide"
   - "oldest clipper ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/337225-86624bc2-29a5-11e3-8b19-50b18379ccf2.jpg"
 author: "Rick Spilman"
 description: "The composite clipper, City of Adelaide, built in 1864, is the world’s oldest surviving clipper ship. Between 1864 and 1887 the ship made 23 voyages from London and Plymouth to Adelaide, South Australia. Approximately a quarter of a million Australians … Continue reading &rarr;"
 ---

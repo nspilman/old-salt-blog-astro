@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Victory"
   - "Navy Days"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/navydayportsmouth-300x230.jpg"
 author: "Rick Spilman"
 description: "Thanks to David Hayes of Astrodene’s Historical Naval Fiction for passing along this clip of Navy Days in 1937.  HMS Victory, marching bands, period costumes and open air calisthenics.  Click on the image to view the video. NAVY WEEK AT PORTSMOUTH . … Continue reading &rarr;"
 ---

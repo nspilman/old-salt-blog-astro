@@ -9,6 +9,7 @@ tags:
   - "collision"
   - "court martial"
   - "USS Fitzgerald"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fitz2.jpg"
 author: "Rick Spilman"
 description: "The US Navy courts-martial of the officers of the USS Fitzgerald have begun. The Arleigh Burke-class destroyer collided with the Philippine-flagged container ship, ACX Crystal near Yokosuka, Japan on June 17, 2017, killing 9 US sailors. A Navy investigation concluded that the … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Port Newark"
   - "WHC"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/hiddenharbornewark.jpg"
 author: "Rick Spilman"
 description: "This Thursday, the Working Harbor Committee is hosting a Hidden Harbor Tour of Port Newark. The tour is one is one of the best ways to see the mighty port hard at work. The tour features guest speakers Mitch Waxman of … Continue reading &rarr;"
 ---

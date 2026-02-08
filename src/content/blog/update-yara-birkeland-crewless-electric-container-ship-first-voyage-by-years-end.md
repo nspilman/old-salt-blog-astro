@@ -14,6 +14,7 @@ tags:
   - "Vard"
   - "Yara Birkeland"
   - "Yara International"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/08/Yara-Birkeland.jpg"
 author: "Rick Spilman"
 description: "In 2017, we posted \" Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?\" The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its … Continue reading &rarr;"
 ---

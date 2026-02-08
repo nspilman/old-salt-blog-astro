@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/JeanieJohnston.jpg"
 author: "Rick Spilman"
 description: "The replica \"famine ship\" Jeanie Johnson has fallen on hard times. The replica is described as \"haemorrhaging money\" and in dire need of repair."
 ---

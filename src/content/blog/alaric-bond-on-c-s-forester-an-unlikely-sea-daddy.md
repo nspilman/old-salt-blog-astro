@@ -11,6 +11,7 @@ tags:
   - "C S Forester Society"
   - "C.S. Forester"
   - "Horatio Hornblower"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/CS_Forester00.jpg"
 author: "Rick Spilman"
 description: "Today is C.S. Forester’s birthday.  (Thanks to Margaret Muir, who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott \"C.S.\" Forester was born on August 27, 1899. … Continue reading &rarr;"
 ---

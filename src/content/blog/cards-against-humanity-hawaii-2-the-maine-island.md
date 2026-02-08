@@ -10,6 +10,7 @@ tags:
   - "Cards Against Humanity"
   - "Hawaii 2"
   - "St. George lake"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/hawaii2.jpg"
 author: "Rick Spilman"
 description: "Hawaii 2 is an island in St. George lake, near the town of Liberty in Maine. It was known as Birch Island until it was renamed by its new owners, who purchased it in October 2014. The new owners are … Continue reading &rarr;"
 ---

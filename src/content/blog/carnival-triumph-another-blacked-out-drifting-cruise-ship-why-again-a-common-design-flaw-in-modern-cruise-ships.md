@@ -16,6 +16,7 @@ tags:
   - "fire"
   - "MSC Opera"
   - "Ocean Star Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Nightmare-Cruise.jpg"
 author: "Rick Spilman"
 description: "There is a fire in one of two engine rooms on a cruise ship.  The fire is extinguished but the damage has been done. The cruise ship blacks out – losing power and most electricity. The ship is adrift in the ocean.  There is so hot … Continue reading &rarr;"
 ---

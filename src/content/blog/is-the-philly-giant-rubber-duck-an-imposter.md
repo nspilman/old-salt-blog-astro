@@ -10,6 +10,7 @@ tags:
   - "Dutch artist"
   - "Florentijn Hofman"
   - "Philadelphia-Camden Tall Ships Festival 2015"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/phillyduck.jpg"
 author: "Rick Spilman"
 description: "The Philadelphia-Camden Tall Ships Festival 2015 will feature a 61-foot tall, 11-ton inflatable rubber duck. But is the Philly duck an imposter?"
 ---

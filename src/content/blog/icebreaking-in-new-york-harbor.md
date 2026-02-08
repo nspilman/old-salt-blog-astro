@@ -11,6 +11,7 @@ categories:
   - "Ships"
 tags:
   - "140-foot Bay-class icebreaking tugs"
+featuredImage: "https://oldsaltblog.com/wp-content/uploads/2026/02/Icebreakingtyg.jpg"
 author: "Rick Spilman"
 description: "In the winter Northern hemisphere, US Coast Guard icebreaking tugs have been hard at work breaking ice in harbors along the East Coast, including New York Harbor."
 ---

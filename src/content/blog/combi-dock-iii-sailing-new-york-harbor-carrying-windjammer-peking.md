@@ -12,6 +12,7 @@ tags:
   - "Hamburg"
   - "new york"
   - "Peking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/combiliftiiipekingcrop.jpg"
 author: "Rick Spilman"
 description: "The ship was just a silhouette in the haze as we sailed into New York harbor. We were on the last leg of the delivery of my new/old sailboat Arcturus from southern Virginia to Oyster Bay, Long Island.  The ship … Continue reading &rarr;"
 ---

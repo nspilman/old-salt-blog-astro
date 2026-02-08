@@ -13,6 +13,7 @@ tags:
   - "Craig Wood"
   - "first triple amputee to sail solo across the Pacific"
   - "Sirius II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/craigwood.jpg"
 author: "Rick Spilman"
 description: "A wonderful story reported by the BBC. Craig Wood, a British Army veteran who lost both his legs and his left arm while serving in Afghanistan set sail late last month in an attempt to become the first triple amputee … Continue reading &rarr;"
 ---

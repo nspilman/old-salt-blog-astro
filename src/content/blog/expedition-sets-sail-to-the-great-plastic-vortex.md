@@ -9,6 +9,7 @@ categories:
 tags:
   - "Pacific Garbage Patch"
   - "Plastic Vortex"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/trash-votex-animation.jpg"
 author: "Rick Spilman"
 description: "Last February we posted about a \"junkraft\" built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Coral Sea"
   - "Great Barrier Reef"
   - "world's largest marine reserve"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/coralreef.jpg"
 author: "Rick Spilman"
 description: "The government of Australia plans to establish the world’s largest marine reserve in the Coral Sea, covering an area more than one-and-a-half times the size of France. If approved, the Coral Sea reserve, would be approximately 989,842 sq km. While environmentalists have … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "gaff topsail schooner"
   - "Kaisei"
   - "Port of San Diego Festival of Sail"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/fos-top-image2.jpg"
 author: "Rick Spilman"
 description: "The 2010 Port of San Diego Festival of Sail kicks off today with a parade of tall ships on San Diego Bay at 11 a.m.   The festival runs runs through September 6th  and features more than 20 tall ships … Continue reading &rarr;"
 ---

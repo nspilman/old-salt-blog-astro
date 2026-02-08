@@ -12,6 +12,7 @@ tags:
   - "El Faro"
   - "Hurricane Joaquin"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro2.jpg"
 author: "Rick Spilman"
 description: "In a statement this morning, the US Coast Guard says that they believe that El Faro,  which disappeared last Thursday while blacked out in the path of Category 4 Hurricane Joaquin, has sunk. Coast Guard Capt. Mark Fedor said that they are now focusing on … Continue reading &rarr;"
 ---

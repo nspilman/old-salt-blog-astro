@@ -11,6 +11,7 @@ tags:
   - "aircraft"
   - "collision threat"
   - "Skysails"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/skysail1.JPG"
 author: "Rick Spilman"
 description: "In June we posted about ships using SkySails to reduce fuel costs by an estimated 10 to 35%.   (See  Go Fly a Kite? A Look at SkySails)  One possibly unforeseen hazard of the SkySails became clear last week when an aircraft and a … Continue reading &rarr;"
 ---

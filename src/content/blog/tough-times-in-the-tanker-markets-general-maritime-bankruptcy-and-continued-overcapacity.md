@@ -12,6 +12,7 @@ tags:
   - "overcapacity"
   - "scrapping"
   - "tanker markets"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/img_side_01.jpg"
 author: "Rick Spilman"
 description: "Last month we posted that tanker charter rates  were at the lowest they have been in 14 years and that the number of large tankers in lay up was approaching levels similar to those during the slump in the 1980′s.  This … Continue reading &rarr;"
 ---

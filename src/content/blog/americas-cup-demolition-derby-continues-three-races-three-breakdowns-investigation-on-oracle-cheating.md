@@ -6,6 +6,7 @@ excerpt: "In each of the first three races of the the Louis Vuitton finals to de
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Kiwiemirates2.jpg"
 author: "Rick Spilman"
 description: "In each of the first three races of the the Louis Vuitton finals to determine which challenger will compete for the America’s Cup, the race has been decided by mechanical failure.  The series now stands with Emirates Team New Zealand, 2 … Continue reading &rarr;"
 ---

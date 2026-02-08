@@ -14,6 +14,7 @@ tags:
   - "Friends of the Earth"
   - "sewage"
   - "Type II MSD"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/ship-island.jpg"
 author: "Rick Spilman"
 description: "No, cruise ships do not dump 1 billion gallons of untreated sewage into the oceans as FOE claims."
 ---

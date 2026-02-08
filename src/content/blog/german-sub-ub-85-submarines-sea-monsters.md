@@ -14,6 +14,7 @@ tags:
   - "submarine"
   - "UB-85"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/ub-85.jpg"
 author: "Rick Spilman"
 description: "Engineers laying subsea power cables off Stranraer, Scotland have discovered the wreck of a World War I German UBIII-Class submarine, which may be either the UB-85 or the UB-82, both of which were sunk in the area. The possibility that … Continue reading &rarr;"
 ---

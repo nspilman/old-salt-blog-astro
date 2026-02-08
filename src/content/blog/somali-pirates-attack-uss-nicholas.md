@@ -5,6 +5,7 @@ slug: "somali-pirates-attack-uss-nicholas"
 excerpt: "The moral of the story may be  to identify the ship before you attack it. U.S. Navy captures 5 Somali pirates, siezes pirate mother ship off Kenya, Somali coasts The dumbest Somali pirates on the high seas tried to attack … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/alg_uss_nicholas_ship.jpg"
 author: "Rick Spilman"
 description: "The moral of the story may be  to identify the ship before you attack it. U.S. Navy captures 5 Somali pirates, siezes pirate mother ship off Kenya, Somali coasts The dumbest Somali pirates on the high seas tried to attack … Continue reading &rarr;"
 ---

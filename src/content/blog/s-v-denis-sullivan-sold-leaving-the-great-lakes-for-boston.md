@@ -12,6 +12,7 @@ tags:
   - "Denis Sullivan"
   - "Discovery World"
   - "World Ocean School"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/deniss.jpg"
 author: "Rick Spilman"
 description: "The 137-foot Denis Sullivan — the world’s only replica of a 19th-century three-masted Great Lakes schooner — will soon be leaving the Great Lakes bound for Boston, MA. Milwaukee’s Discovery World has sold the schooner to World Ocean School, a nonprofit … Continue reading &rarr;"
 ---

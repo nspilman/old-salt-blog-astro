@@ -5,6 +5,7 @@ slug: "broken-keels-in-the-vendee-globe-javier-sanso-capsizes-keel-less-jean-pie
 excerpt: "The high-tech canting keels on the Vendée Globe Open 60 racing sailboats continue to be problematic, at best.  On Sunday, Javier Sanso’s boat, Acciona, capsized, when his keel broke off.  Sanso was rescued today.  Also today, Jean-Pierre Dick crossed the finish line despite having lost his … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/acciona-retourne-sans-sa-qu.jpg"
 author: "Rick Spilman"
 description: "The high-tech canting keels on the Vendée Globe Open 60 racing sailboats continue to be problematic, at best.  On Sunday, Javier Sanso’s boat, Acciona, capsized, when his keel broke off.  Sanso was rescued today.  Also today, Jean-Pierre Dick crossed the finish line despite having lost his … Continue reading &rarr;"
 ---

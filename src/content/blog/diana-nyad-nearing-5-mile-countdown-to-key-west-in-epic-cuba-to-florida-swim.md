@@ -10,6 +10,7 @@ tags:
   - "Cuba to Florida swim"
   - "Diana Nyad"
   - "Key West"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/diana-portrait.jpg"
 author: "Rick Spilman"
 description: "Diana Nyad is nearing the five mile countdown to Key West on her epic 112 statute mile swim from Cuba to Florida. If she completes the swim, she will be the first person to swim from Cuba to Florida without a cage, … Continue reading &rarr;"
 ---

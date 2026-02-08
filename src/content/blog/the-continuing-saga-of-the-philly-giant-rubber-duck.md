@@ -9,6 +9,7 @@ tags:
   - "Parade of Ships"
   - "Philadelphia-Camden Tall Ships Festival 2015"
   - "Philly Giant Rubber Duck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/brduckphilly.jpg"
 author: "Rick Spilman"
 description: "The inflatable Giant Rubber Deck, featured in the Philadelphia-Camden Tall Ships Festival 2015, had some problems in the \"Parade of Ships\" on Thursday."
 ---

@@ -12,6 +12,7 @@ tags:
   - "Ever Given"
   - "record volumes of cargo"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/evergiven6.jpg"
 author: "Rick Spilman"
 description: "Despite challenges created by the pandemic, the ongoing chaos in the supply chain, and the six-day closure of the canal by the grounding of the ultra-large container ship Ever Given last March, larger volumes of cargo were shipped through the … Continue reading &rarr;"
 ---

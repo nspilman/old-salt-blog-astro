@@ -12,6 +12,7 @@ tags:
   - "ice class"
   - "Northwest Passage"
   - "RRS Ernest Shackleton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/cserenityice.jpg"
 author: "Rick Spilman"
 description: "The 1,070 passenger 68,870 GT cruise ship Crystal Serenity is arriving in Nome, Alaska on Sunday, August 21st, before continuing on in a 1,500 km voyage to transit the Northwest Passage via Canadian and Greenland. The 32 day voyage, which began … Continue reading &rarr;"
 ---

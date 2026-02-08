@@ -11,6 +11,7 @@ tags:
   - "Mermaids"
   - "National Oceanic and Atmospheric Administration"
   - "NOAA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/mermaid11.jpg"
 author: "Rick Spilman"
 description: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that \"no evidence of aquatic humanoids has ever been found.\"  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
 ---

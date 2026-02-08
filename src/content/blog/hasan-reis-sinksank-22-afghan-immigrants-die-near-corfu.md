@@ -11,6 +11,7 @@ tags:
   - "Corfu"
   - "Hasan Reis"
   - "Momentum Scan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/u1_prosfiges-100x62.jpg"
 author: "Rick Spilman"
 description: "Grim news.  Late Saturday night, the wooden vessel  Hasan Reis in the Mediterranean, carrying over 260 passengers, reported to be illegal immigrants from Afghanistan, began to leak in heavy seas and subsequently sank.  The Dutch ship Momentum Scan rescued the survivors … Continue reading &rarr;"
 ---

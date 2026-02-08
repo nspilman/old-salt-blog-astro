@@ -15,6 +15,7 @@ tags:
   - "Neil Young"
   - "schooner"
   - "W N Ragland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/ragland.jpg"
 author: "Rick Spilman"
 description: "I’ve always been a fan of Baltic traders.  They were serious working craft.  They aren’t  necessarily graceful but do possess a certain robust beauty.  The schooner W N Ragland, a Baltic trader built in 1913, converted to a yacht, is for sale. For … Continue reading &rarr;"
 ---

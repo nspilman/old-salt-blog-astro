@@ -13,6 +13,7 @@ tags:
   - "Cook Islands"
   - "Gobo"
   - "South Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/pictoncastle1.jpg"
 author: "Rick Spilman"
 description: "An Austrian couple, identified only as Irene and Christian, made a distress call last week, on July 31, from their Jeanneau Sun Legende 41, Gobo, in the South Pacific. The three masted barque Picton Castle, sailing in the Cook Islands, charted a … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "HMS Bounty"
   - "rescue swimmers"
   - "search and rescue"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Elizabeth-City-aircews.jpg"
 author: "Rick Spilman"
 description: "There are no real super-heroes, but as far am I am concerned the closest human beings that come to that designation are the search and rescue teams of the United States Coast Guard.  From the rescue swimmers, who dive into … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "maritime hub"
   - "PortSide New York"
   - "Red Hook"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/PortSide-BlueBQ-4-3-10-h.png"
 author: "Rick Spilman"
 description: "Portside New York is a maritime hub and cultural space whose centerpiece is the historic coastal tanker Mary Whalen.   Portside is based this summer on pier 11 in the Atlantic Basin, Red Hook, Brooklyn. On Saturday, July 3rd, Portside is hosting  the Big … Continue reading &rarr;"
 ---

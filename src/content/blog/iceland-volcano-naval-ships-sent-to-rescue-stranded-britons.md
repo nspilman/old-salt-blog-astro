@@ -13,6 +13,7 @@ tags:
   - "ferries"
   - "Royal Navy"
   - "stranded Britons"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Ark-Royal.jpg"
 author: "Rick Spilman"
 description: "Iceland volcano: Naval ships sent to rescue stranded Britons Three Royal Navy ships are on their way to help repatriate up to 200,000 Britons stranded by five days of flight restrictions following the Icelandic volcano eruption. The aircraft carrier Ark … Continue reading &rarr;"
 ---

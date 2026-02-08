@@ -12,6 +12,7 @@ tags:
   - "Indian Navy"
   - "INS Vikramaditya"
   - "Kiev class aircraft carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/INS_Vikramaditya_during_trials.jpg"
 author: "Rick Spilman"
 description: "The Indian Navy has finally taken delivery of a modified the Kiev class aircraft carrier, which it purchased from the Russians in 2002.  The ship was actually given to the Indian Navy with the stipulation that the estimated $800 million in … Continue reading &rarr;"
 ---

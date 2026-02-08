@@ -13,6 +13,7 @@ tags:
   - "MV Rena"
   - "New Zealand"
   - "Tauranga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/MV-Rena-containers-wash-up-.jpg"
 author: "Rick Spilman"
 description: "Daina Shipping, owner of the container ship MV Rena, has been fined NZ $300,000 (US $246,000) for discharging harmful substances after the Liberian flagged ship, ran aground on the Astrolabe Reef off Tauranga, New Zealand in early October of last year. The ship subsequently broke up … Continue reading &rarr;"
 ---

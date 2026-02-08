@@ -12,6 +12,7 @@ tags:
   - "marine biologist"
   - "oceanographer"
   - "The Shark Lady"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/sharkladyclark.jpg"
 author: "Rick Spilman"
 description: "Dr. Eugenie Clark, who earned the nickname, \"the Shark Lady,\" has died at her home in Sarasota Florida, at the age of 92."
 ---

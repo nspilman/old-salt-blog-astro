@@ -11,6 +11,7 @@ tags:
   - "Bay of Bengal"
   - "Poompuhar"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Poompuhar-jpg.jpg"
 author: "Rick Spilman"
 description: "In 2004, at least 170 people died when a tsunami hit the fishing village of Poompuhar,  in India on the Bay of Bengal.    According to legend, this was not the first time.   As described in ancient Tamil texts and by Ptolemy and … Continue reading &rarr;"
 ---

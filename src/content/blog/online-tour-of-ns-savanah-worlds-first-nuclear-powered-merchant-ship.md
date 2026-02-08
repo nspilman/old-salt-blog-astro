@@ -12,6 +12,7 @@ tags:
   - "first nuclear powered cargo ship"
   - "NS Savannah"
   - "SS Savannah"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ns_savannah_2008.jpg"
 author: "Rick Spilman"
 description: "In 1819, the SS Savannah was first steamship in the world to cross the Atlantic Ocean.   Despite this accomplishment, the Savannah was a commercial failure and was converted back to sail shortly after returning from Europe.   It is somehow fitting that … Continue reading &rarr;"
 ---

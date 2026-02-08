@@ -10,6 +10,7 @@ tags:
   - "duck boat"
   - "DUKW 34"
   - "Philadelphia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/duck2a.jpg"
 author: "Rick Spilman"
 description: "The Ducks have returned to the Delaware River.   Not mallards, but duck boats. Last July a tug pushing a barge ran down a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 … Continue reading &rarr;"
 ---

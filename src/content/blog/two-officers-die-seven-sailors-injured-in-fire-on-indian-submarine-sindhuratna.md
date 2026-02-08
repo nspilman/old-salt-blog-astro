@@ -13,6 +13,7 @@ tags:
   - "Sindhuratna"
   - "Soviet Kilo Class submarine"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/indian-submarine-480.jpg"
 author: "Rick Spilman"
 description: "Two Indian naval officers, Lieutenant Commander Kapish Muwal and Lieutenant Manoranjan Kumar, died in a fire on the submarine INS Sindhuratna.  Seven sailors were evacuated suffering from smoke inhalation. The fire broke out around 40 nautical miles off Mumbai early … Continue reading &rarr;"
 ---

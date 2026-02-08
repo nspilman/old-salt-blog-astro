@@ -13,6 +13,7 @@ tags:
   - "Marine Corps"
   - "Navy Day"
   - "United States Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Military.jpg"
 author: "Rick Spilman"
 description: "Today, October 13th,  is celebrated as the birthday of the United States Navy, not to be confused with Navy Day, which is celebrated on October 27th.  The current \"birthday\" may have more to do with bragging rights than real birthdays. For many years, the … Continue reading &rarr;"
 ---

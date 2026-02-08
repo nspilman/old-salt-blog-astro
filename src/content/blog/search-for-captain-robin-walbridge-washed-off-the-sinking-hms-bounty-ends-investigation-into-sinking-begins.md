@@ -12,6 +12,7 @@ tags:
   - "Claudene Christian"
   - "HMS Bounty"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bountysinks.jpg"
 author: "Rick Spilman"
 description: "Sadly, the US Coast Guard has suspended the search for Captain Robin Walbridge, who was washed off the HMS Bounty as she sank in high seas on Monday off the coast of North Carolina.   Claudene Christian, 42, was also lost overboard. … Continue reading &rarr;"
 ---

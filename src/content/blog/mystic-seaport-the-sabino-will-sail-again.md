@@ -11,6 +11,7 @@ tags:
   - "boiler"
   - "Mystic Seaport Museum"
   - "Sabino"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/sabino2.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the boiler problems on the historic steamer Sabino at the Mystic Seaport Museum in Mystic CT. During a major restoration of the steamer, built in 1908, it was determined that the boiler will need to be … Continue reading &rarr;"
 ---

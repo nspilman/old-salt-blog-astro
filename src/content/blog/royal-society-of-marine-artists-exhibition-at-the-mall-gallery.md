@@ -11,6 +11,7 @@ tags:
   - "london"
   - "Mall Gallery"
   - "Royal Society of Marine Artists"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/marineartist.jpg"
 author: "Rick Spilman"
 description: "The Mall Gallery in London has a show of work by the Royal Society of Marine Artists from Wed October 13 to Sat October 23, 2010. Royal Society of Marine Artists … Continue reading &rarr;"
 ---

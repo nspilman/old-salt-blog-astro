@@ -12,6 +12,7 @@ tags:
   - "globsters"
   - "sperm whales"
   - "St. Augustine Monster"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/staugglob.jpg"
 author: "Rick Spilman"
 description: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the\"globsters,\"  massive carcasses which have been washing shore … Continue reading &rarr;"
 ---

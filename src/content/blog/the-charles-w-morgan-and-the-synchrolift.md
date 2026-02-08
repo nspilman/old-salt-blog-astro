@@ -10,6 +10,7 @@ categories:
 tags:
   - "Charles W. Morgan"
   - "Synchrolift"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/morganlaunch.jpg"
 author: "Rick Spilman"
 description: "The Synchrolift is a wonderful invention. It is a shiplift and transfer system which according to Rolls Royce, the Synchrolift firm’s owner, is \"used to increase efficiency and reduce drying-docking times at many of the world’s leading shipyards.\"  Mystic Seaport Museum … Continue reading &rarr;"
 ---

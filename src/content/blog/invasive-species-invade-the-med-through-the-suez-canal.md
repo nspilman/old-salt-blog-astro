@@ -5,6 +5,7 @@ slug: "invasive-species-invade-the-med-through-the-suez-canal"
 excerpt: "In 1869, the Suez Canal changed the world of shipping.  By providing steamers a shortcut though the relatively less windy Mediterranean Sea as well as ensuring access to coaling stations, the canal destroyed the millennia long supremacy of sail. Now, the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/nomadjelly1.jpg"
 author: "Rick Spilman"
 description: "In 1869, the Suez Canal changed the world of shipping.  By providing steamers a shortcut though the relatively less windy Mediterranean Sea as well as ensuring access to coaling stations, the canal destroyed the millennia long supremacy of sail. Now, the … Continue reading &rarr;"
 ---

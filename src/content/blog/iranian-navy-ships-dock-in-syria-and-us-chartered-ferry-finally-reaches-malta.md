@@ -13,6 +13,7 @@ tags:
   - "Malta"
   - "Maria Dolores"
   - "Syria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/marydelores.jpg"
 author: "Rick Spilman"
 description: "On Tuesday, we posted about the first northbound transit by two Iranian Navy ships through the Suez Canal since 1979.  Yesterday these ships docked in Syria on a training mission.  Thanks to Phil Leon for passing the article along. Iran … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Jet Star"
   - "roller coaster"
   - "Star Jet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/starjet.jpg"
 author: "Rick Spilman"
 description: "The roller coasters on the Casino Pier in Seaside Heights, New Jersey have long been a major attraction of the Jersey shore resort town. The latest roller coaster on the pier, the Star Jet (also referred to as the Jet … Continue reading &rarr;"
 ---

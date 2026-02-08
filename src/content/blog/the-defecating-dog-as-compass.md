@@ -10,6 +10,7 @@ tags:
   - "defecating dog compass"
   - "magnetic field"
   - "north-south axis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/north-defecate.jpg"
 author: "Rick Spilman"
 description: "I am surprised that the Vikings didn’t discover this first.  The Vikings did, after all, develop a sun compass for use on sunny days and used sunstones to find the direction of the sun when it was overcast.  One might … Continue reading &rarr;"
 ---

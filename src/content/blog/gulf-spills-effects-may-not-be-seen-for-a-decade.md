@@ -6,6 +6,7 @@ excerpt: "In contrast to claims made by BP suggesting that the Gulf will have 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/51347460_51347459.jpg"
 author: "Rick Spilman"
 description: "In contrast to claims made by BP suggesting that the Gulf will have recovered from the Deep Horizon oil spill by 2012, a recent study presented at an American Association for the Advancement of Science conference says that the damage is far … Continue reading &rarr;"
 ---

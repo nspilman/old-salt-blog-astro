@@ -12,6 +12,7 @@ tags:
   - "galleon"
   - "San José"
   - "treasure"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/320px-Samuel_Scott_3.jpg"
 author: "Rick Spilman"
 description: "Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon San José, what some have called the \"holy grail of shipwrecks.\"  He announced the discovery on Twitter.  In June of 1708, during the War of … Continue reading &rarr;"
 ---

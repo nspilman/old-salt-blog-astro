@@ -11,6 +11,7 @@ tags:
   - "Johan's Arks"
   - "Noah's Ark"
   - "Urk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/ArkinUrk.jpg"
 author: "Rick Spilman"
 description: "A half-scale notional replica of Noah’s Ark went adrift in storm winds of 70 mph in the Dutch port of Urk last Wednesday, damaging several boats. People and animals aboard the \"ark\" were rescued, possibly two by two. To be … Continue reading &rarr;"
 ---

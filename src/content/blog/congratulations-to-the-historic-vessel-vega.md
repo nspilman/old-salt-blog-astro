@@ -12,6 +12,7 @@ tags:
   - "Joanne Har"
   - "Meggi Macoun"
   - "VEGA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/vega_banner.jpg"
 author: "Rick Spilman"
 description: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of \"Humanitarian Services to Isolated Island … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Saint Brandon"
   - "Team Vesta Wind"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/Team-Vestas-Wind.jpg"
 author: "Rick Spilman"
 description: "Team Vesta Wind boat ran aground Saturday on a reef in the Cargados Carajos archipelago about 430 km to the northeast of Mauritius in the Indian Ocean."
 ---

@@ -20,6 +20,7 @@ tags:
   - "Nine Flattops"
   - "Norfolk naval base"
   - "WASP"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/FleetNorfolk.jpg"
 author: "Rick Spilman"
 description: "The Defense News blog Intercepts recently posted a photo of nine \"flattops\" home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the … Continue reading &rarr;"
 ---

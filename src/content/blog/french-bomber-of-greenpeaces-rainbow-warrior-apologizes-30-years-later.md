@@ -15,6 +15,7 @@ tags:
   - "Jean-Luc Kister"
   - "New Zealand"
   - "Rainbow Warrior"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/rainbowarrior.jpg"
 author: "Rick Spilman"
 description: "On July 10, 1985, agents of the French government planted mines and blew up Greenpeace‘s Rainbow Warrior  in the port of Auckland, New Zealand to prevent the ship to be used to protest a planned French nuclear test in Moruroa. Fernando Pereira, a photographer, drowned … Continue reading &rarr;"
 ---

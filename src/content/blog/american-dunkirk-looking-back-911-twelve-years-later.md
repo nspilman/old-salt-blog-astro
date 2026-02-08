@@ -13,6 +13,7 @@ tags:
   - "American Dunkirk"
   - "An Untold Tale of 9/11 Resilience"
   - "BOATLIFT"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/blue.jpg"
 author: "Rick Spilman"
 description: "Of all the things worth remembering on 9/11, one incredible event is often overlooked.  After the attack, all the bridges, tunnels and rail lines in and out of New York City were shut down. Somewhere between 300,000 and one million people … Continue reading &rarr;"
 ---

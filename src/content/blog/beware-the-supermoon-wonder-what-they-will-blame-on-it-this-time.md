@@ -10,6 +10,7 @@ tags:
   - "perigean tides"
   - "perigee full moon"
   - "supermoon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/supermoon.jpg"
 author: "Rick Spilman"
 description: "This Saturday, we will witness a perigee full moon, often called by the press, a \"supermoon.\"   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
 ---

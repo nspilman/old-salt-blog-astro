@@ -8,6 +8,7 @@ categories:
 tags:
   - "Day of the Seafarer"
   - "IMO"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/dotsbanner.jpg"
 author: "Rick Spilman"
 description: "June 25th is celebrated globally as the Day of the Seafarer, an official United Nations observance day. What does that really mean? Opinions vary. Click here to read Barista Uno’s slightly acerbic but largely on-target perspective on the official \"observance … Continue reading &rarr;"
 ---

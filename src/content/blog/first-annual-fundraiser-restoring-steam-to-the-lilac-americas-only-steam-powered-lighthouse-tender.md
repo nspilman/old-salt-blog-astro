@@ -11,6 +11,7 @@ tags:
   - "1933 lighthouse tender"
   - "Lilac"
   - "Lilac Preservation Project"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/703_LILAC_0770_001.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, November 12, Lilac Preservation Project will host its first fundraiser at Cercle Rouge Restaurant in Tribeca."
 ---

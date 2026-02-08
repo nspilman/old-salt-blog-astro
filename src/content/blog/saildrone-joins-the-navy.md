@@ -14,6 +14,7 @@ tags:
   - "sailing drones"
   - "uncrewed surface vehicle"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/saildrone.jpg"
 author: "Rick Spilman"
 description: "We recently posted video footage shot by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean.  For the second year, National Oceanic and Atmospheric Administration (NOAA) and Saildrone have sailed … Continue reading &rarr;"
 ---

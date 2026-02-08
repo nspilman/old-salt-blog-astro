@@ -17,6 +17,7 @@ tags:
   - "The Battle of Plattsburg"
   - "Thomas Macdonough"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Battleofpburg.jpg"
 author: "Rick Spilman"
 description: "One year and one day after the Battle of Lake Erie, an American squadron, under the command of Master Commandant Thomas Macdonough, defeated the Royal Navy on Lake Champlain in a bloody battle at Plattsburgh Bay.  The Battle of Plattsburgh turned back an invasion … Continue reading &rarr;"
 ---

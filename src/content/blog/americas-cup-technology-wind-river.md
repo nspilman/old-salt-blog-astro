@@ -10,6 +10,7 @@ categories:
 tags:
   - "America's Cup"
   - "Louis Vitton America's Cup World Series"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/lvac1.jpg"
 author: "Rick Spilman"
 description: "Sailing is all about technology and has been ever since the first sailor spread a stretched an animal skin as a sail. The America’s Cup, however, is far more technological than most sailing by a large measure. This thought occurred … Continue reading &rarr;"
 ---

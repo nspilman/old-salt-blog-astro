@@ -12,6 +12,7 @@ tags:
   - "Mine-sweeper"
   - "Paddle Steamer Ryde"
   - "Second World War"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/ryde.jpg"
 author: "Rick Spilman"
 description: "Not every historic vessel can be saved and not every historic vessel should be saved.  The difficult question is deciding which are worthy of saving  before they fall prey to the ravages of time or, in this case,  the bureaucracy.  A story from today’s Daily … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/germandestroyers2.jpg"
 author: "Rick Spilman"
 description: "British archeologists have located the wrecks of two German destroyers, V44  and V82, from World War I in an unlikely location — on the tidal mudflats near Whale Island in the eastern part of Portsmouth Harbour, opposite the Brittany Ferries … Continue reading &rarr;"
 ---

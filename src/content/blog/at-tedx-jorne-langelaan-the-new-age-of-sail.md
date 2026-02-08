@@ -12,6 +12,7 @@ tags:
   - "Jorne Langelaan"
   - "TEDxAmsterdam"
   - "Tres Hombres"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/Jorne-Langelaan-234x300.jpg"
 author: "Rick Spilman"
 description: "TED (Technology Entertainment and Design) is a global series of conferences focusing on \"Ideas Worth Spreading.\"   An upcoming TEDxAmsterdam conference will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine Tres Hombres, they are attempting to demonstrate … Continue reading &rarr;"
 ---

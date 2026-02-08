@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/mystery-150x186.jpg"
 author: "Rick Spilman"
 description: "A year ago we posted about the \"Voyage of theSpirit of Mystery,\"  the recreation of an epic voyage by seven Cornishmen, several of whom had never been out of sight of land, who set sail in 1854 bound for the … Continue reading &rarr;"
 ---

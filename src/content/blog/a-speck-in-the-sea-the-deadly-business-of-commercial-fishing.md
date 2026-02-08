@@ -10,6 +10,7 @@ tags:
   - "commercial fisherman"
   - "commercial fishing"
   - "John Aldridge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Fishing_Deaths.jpg"
 author: "Rick Spilman"
 description: "The New York Times has a wonderful account of the rescue of John Aldridge, a commercial fisherman who fell off a lobsterboat in the middle of the night last July, over forty miles off Montauk, Long Island, NY. Aldridge spent … Continue reading &rarr;"
 ---

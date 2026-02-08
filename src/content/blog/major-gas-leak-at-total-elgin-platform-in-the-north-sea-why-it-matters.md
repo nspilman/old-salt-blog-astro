@@ -13,6 +13,7 @@ tags:
   - "natural gas leak"
   - "North Sea"
   - "U.K. coastguard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/total-elgin-platform.jpg"
 author: "Rick Spilman"
 description: "The Elgin platform in the North Sea, 150 miles (240km) off Aberdeen, suffered a serious natural gas on Sunday.   It is expected at take several weeks, in the best case scenario, to shut off the leak. Some estimates suggest that it will take 6 months … Continue reading &rarr;"
 ---

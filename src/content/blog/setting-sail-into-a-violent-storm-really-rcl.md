@@ -5,6 +5,7 @@ slug: "setting-sail-into-a-violent-storm-really-rcl"
 excerpt: "A few days after the Anthem of the Seas was forced to return to port after being caught in 120 knot winds off Cape Hatteras, Bill Baumgartner, Royal Caribbean’s senior vice president of Global Marine Operations, told The Jersey Journal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem5.jpg"
 author: "Rick Spilman"
 description: "A few days after the Anthem of the Seas was forced to return to port after being caught in 120 knot winds off Cape Hatteras, Bill Baumgartner, Royal Caribbean’s senior vice president of Global Marine Operations, told The Jersey Journal … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Folger Shakespeare Library"
   - "Lost at Sea"
   - "The Ocean in the English Imagination"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/astrolabe.jpg"
 author: "Rick Spilman"
 description: "The Folger Shakespeare Library in Washington, DC has been hosting an intriguing exhibit:  Lost at Sea – The Ocean in the English Imagination, 1550-1750.   Unfortunately the exhibit itself is almost over, running only through September 4th.  Nevertheless, for those of us who cannot make it … Continue reading &rarr;"
 ---

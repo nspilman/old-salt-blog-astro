@@ -9,6 +9,7 @@ tags:
   - "Rear Adm. Larry Rice"
   - "USS Enterprise"
   - "videos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/011311navy_lawrence_rice_80.jpg"
 author: "Rick Spilman"
 description: "An interesting followup to a previous post: Retirement of adm. on hold in video inquiry In an indication of just how seriously the Navy is taking the investigation into the racy shipboard videos aired four years ago aboard the carrier … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Ottoman admiral"
   - "Piri Reis"
   - "Piri Reis Map"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/piri-reis.jpg"
 author: "Rick Spilman"
 description: "In 1929, a portion of a world map was discovered in the archives at the Topkapı Palace in Istanbul.  The map showed Europe, parts of Africa and Columbus’ discoveries in the New World. It was drawn in 1513 only 21 years … Continue reading &rarr;"
 ---

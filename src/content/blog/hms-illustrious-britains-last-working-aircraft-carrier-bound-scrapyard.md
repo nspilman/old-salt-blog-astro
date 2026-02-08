@@ -11,6 +11,7 @@ tags:
   - "HMS Illustrious"
   - "HMS Queen Elizabeth"
   - "Invincible-class aircraft carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hmsillustrious.jpg"
 author: "Rick Spilman"
 description: "HMS Illustrious, the UK’s only working aircraft carrier and the last surviving ship from the Falklands War is to be scrapped.  The 689 ft-long 22,000-tonne Invincible-class aircraft carrier traveled close to one million sea miles in her 32-year career with the Royal … Continue reading &rarr;"
 ---

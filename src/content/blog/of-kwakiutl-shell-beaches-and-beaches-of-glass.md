@@ -11,6 +11,7 @@ tags:
   - "Glass Beach"
   - "Kwakiutl"
   - "shell beaches"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/glass-beach-660x330.jpg"
 author: "Rick Spilman"
 description: "Over several decades, pounding waves broke down everything but glass and pottery into the small, smooth, colored pieces that cover Glass Beach."
 ---

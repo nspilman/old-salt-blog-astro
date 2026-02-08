@@ -29,36 +29,49 @@
 </div>
 
 <style>
+  #search-container {
+    display: flex;
+    align-items: center;
+  }
+
   .search-btn {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.75rem 1rem;
     background: transparent;
-    border: 1px solid var(--accent);
-    border-radius: 0.375rem;
-    color: var(--accent);
+    border: none;
+    color: var(--nav-text);
     cursor: pointer;
-    font-size: 0.9rem;
-    font-family: var(--font-family);
-    transition: all 0.2s ease;
+    font-size: 0.95rem;
+    font-weight: 500;
+    font-family: inherit;
+    transition: background-color 0.2s, color 0.2s;
   }
 
   .search-btn:hover {
-    background: var(--accent);
-    color: white;
+    background: var(--nav-hover-bg);
+    color: rgb(var(--black));
   }
 
   .search-btn svg {
     flex-shrink: 0;
+    width: 18px;
+    height: 18px;
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 768px) {
     .search-text {
       display: none;
     }
     .search-btn {
-      padding: 0.5rem;
+      padding: 1rem 1.5rem;
+      width: 100%;
+      justify-content: flex-start;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .search-text {
+      display: inline;
     }
   }
 
@@ -98,7 +111,7 @@
   .search-modal-header h2 {
     margin: 0;
     font-size: 1.5rem;
-    color: var(--gray-dark);
+    color: rgb(var(--gray-dark));
   }
 
   .search-close {
@@ -106,12 +119,12 @@
     border: none;
     cursor: pointer;
     padding: 0.25rem;
-    color: var(--gray);
+    color: rgb(var(--gray));
     transition: color 0.2s ease;
   }
 
   .search-close:hover {
-    color: var(--gray-dark);
+    color: rgb(var(--gray-dark));
   }
 
   #pagefind-search {

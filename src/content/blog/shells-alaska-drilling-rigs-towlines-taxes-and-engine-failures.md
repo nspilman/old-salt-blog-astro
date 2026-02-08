@@ -13,6 +13,7 @@ tags:
   - "Kulluk"
   - "Noble Discover"
   - "Shell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/kulluk1.jpg"
 author: "Rick Spilman"
 description: "The plan was to move Shell’s two drilling rigs from Alaska to Seattle Washington for maintenance and repair.  Shell’s tax bill, however, may have also played a role in the timing of the move. Things have definitely not gone according to plan. … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Nathaniel Bowditch"
   - "Noah and Jane Barnes"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/the_nathaniel_bowditch.jpg"
 author: "Rick Spilman"
 description: "Noah and Jane Barnes are restoring the schooner Nathaniel Bowditch and hope to have the schooner back sailing by mid-summer 2015."
 ---

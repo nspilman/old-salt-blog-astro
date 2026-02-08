@@ -13,6 +13,7 @@ tags:
   - "kits"
   - "row boats"
   - "sailboats"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/clcboats.jpg"
 author: "Rick Spilman"
 description: "A friend has a wooden kayak that he built from a kit.  It is simple in both design and construction – a stitch and glue plywood boat covered with fiberglass cloth.  It paddles well, is light weight and is very pretty.  Very difficult to ask for more than … Continue reading &rarr;"
 ---

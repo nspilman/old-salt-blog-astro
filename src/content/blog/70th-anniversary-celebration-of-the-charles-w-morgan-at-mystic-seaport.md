@@ -12,6 +12,7 @@ tags:
   - "Connecticut"
   - "Mystic"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/cwm_celebration-1.jpg"
 author: "Rick Spilman"
 description: "Sail the Morgan 2014 is hosting a week-long celebration of the arrival of the last American wooden whaleship, the Charles W. Morgan, in Mystic, Connecticut.  The celebration running from  \"October 28 to November 5 will feature a restaurant week, shopping … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "National Geographic"
   - "PC 566"
   - "U-166"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/cam1-20140706220247_87123_990x742.jpg"
 author: "Rick Spilman"
 description: "WWII Captain Claudius has posthumously received credit for sinking a German submarine after the wreck was discovered this summer."
 ---

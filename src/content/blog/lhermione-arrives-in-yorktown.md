@@ -11,6 +11,7 @@ tags:
   - "l'Hermione"
   - "Marquis de Lafayette"
   - "Yorktown"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hvideo1.jpg"
 author: "Rick Spilman"
 description: "l'Hermione Arrives in Yorktown"
 ---

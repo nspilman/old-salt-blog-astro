@@ -11,6 +11,7 @@ tags:
   - "Hughie Jones"
   - "Noble Maritime Collection"
   - "Snug Harbor Cultural Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/Hughie_flyer-300x402.jpg"
 author: "Rick Spilman"
 description: "If you are in the area on Friday, May 9th, at 8PM, be sure to stop by the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace in Staten Island where the legendary British folk singer Hughie … Continue reading &rarr;"
 ---

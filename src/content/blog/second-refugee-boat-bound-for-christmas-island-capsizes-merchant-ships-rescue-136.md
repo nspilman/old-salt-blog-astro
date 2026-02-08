@@ -12,6 +12,7 @@ tags:
   - "capsize"
   - "Christmas Island"
   - "Indonesia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/mvbison.jpg"
 author: "Rick Spilman"
 description: "A  boat loaded with asylum seekers has capsized in Indonesian waters about 107 nautical miles north of Australia’s Christmas Island. The boat is reported to have had 150 passengers and crew aboard.  CNN is reporting that 136 have been rescued by two merchants ships. … Continue reading &rarr;"
 ---

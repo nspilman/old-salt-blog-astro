@@ -13,6 +13,7 @@ tags:
   - "Japan"
   - "Perfect Storm"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/ew111209c.jpg"
 author: "Rick Spilman"
 description: "Two stories about flotsam and ocean currents. The first flotsam from the earthquake and tsunami, which struck Japan on March 11, is beginning to arrive on the West Coast of the United States. A large black float, believed to have floated from Japan, was … Continue reading &rarr;"
 ---

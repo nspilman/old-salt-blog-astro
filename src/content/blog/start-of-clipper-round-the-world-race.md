@@ -5,6 +5,7 @@ slug: "start-of-clipper-round-the-world-race"
 excerpt: "10 identical yachts have set sail from Southampton, England to compete in the 40,000-mile (64,500km) Clipper round-the-world race. Many of the crews volunteered as sailing novices, although all have since undertaken a comprehensive four stage training program before setting out … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Clipper-image-e1312283639865.jpg"
 author: "Alaric Bond"
 description: "10 identical yachts have set sail from Southampton, England to compete in the 40,000-mile (64,500km) Clipper round-the-world race. Many of the crews volunteered as sailing novices, although all have since undertaken a comprehensive four stage training program before setting out … Continue reading &rarr;"
 ---

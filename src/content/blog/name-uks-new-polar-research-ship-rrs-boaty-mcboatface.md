@@ -13,6 +13,7 @@ tags:
   - "NERC"
   - "Polar Research Ship"
   - "RSS Boaty McBoatface"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Nameboat.jpg"
 author: "Rick Spilman"
 description: "The British Natural Environment Research Council (NERC) is asking for suggestions for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead.  The closing date for entries is 16th April 2016. They have gotten … Continue reading &rarr;"
 ---

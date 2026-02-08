@@ -11,6 +11,7 @@ tags:
   - "RMS Queen Mary II"
   - "RMS St Helena"
   - "Royal Mail Ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/rmsqh.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about a rendezvous of the \"Three Queens,\"  the RMS Queen Mary II, the MS Queen Elizabeth and the MS Queen Victoria in New York harbor.   Of the three ships only the Queen Mary II has the distinction of … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Olib G"
   - "pirates"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/image6849617g.jpg"
 author: "Rick Spilman"
 description: "Twenty-four U.S. Marines from the 15th Marine Expeditionary Unit’s Maritime Raid Force stormed the German-owned containership M/V Magellan Star today, capturing the pirates that had seized control of the ship in the Gulf of Aden off the coast of Somalia.   No … Continue reading &rarr;"
 ---

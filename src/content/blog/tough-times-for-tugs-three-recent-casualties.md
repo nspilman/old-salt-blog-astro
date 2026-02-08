@@ -12,6 +12,7 @@ tags:
   - "Pushy"
   - "Sea Lion"
   - "tug boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/weeksbarge.jpg"
 author: "Rick Spilman"
 description: "Life on a tugboat can be tough.  Tugs are small vessels with very big engines, with just enough buoyancy to stay afloat and upright. They generate great forces and move around vessels much, much larger than themselves in often challenging … Continue reading &rarr;"
 ---

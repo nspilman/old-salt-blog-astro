@@ -12,6 +12,7 @@ tags:
   - "Mary A.Whalen"
   - "PortSide NewYork"
   - "tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/102910_7394-bernie-Ente-sq-.jpg"
 author: "Rick Spilman"
 description: "PortSide NewYork and the tanker Mary A. Whalen have found a long-term berth at Brooklyn's Atlantic basin."
 ---

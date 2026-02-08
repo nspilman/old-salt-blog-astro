@@ -12,6 +12,7 @@ tags:
   - "female pharoah"
   - "Jewel of Muscat"
   - "Pharaoh Hatshepsut"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/anat-icon.jpg"
 author: "Rick Spilman"
 description: "In January we posted about the Jewel of Muscat a replica of a 9th-century sailing ship modelled on a famous Tang Treasure ship.  Recently Nova broadcast a documentary on far older ships from the region, Pharaoh Hatshepsut’s ships, dating from 1479 BCE. … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Lord Nelson"
   - "round the world voyage"
   - "three masted barque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/LordNelson3.jpg"
 author: "Rick Spilman"
 description: "Today, on the 207th anniversary of Lord Nelson’s victory at Trafalgar, the Jubilee Sailing Trust‘s 55-meter three masted barque, Lord Nelson, sets sail from Southhampton, UK on a 23-month 50,000 mile journey around the world.  The ship will visit more than 30 countries on all seven continents and cross … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "Montecristo"
   - "salvage"
   - "stowaways"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/c01_RTR2WJU6.jpg"
 author: "Rick Spilman"
 description: "The death toll from the sinking of the Costa Concordia has risen to thirteen as divers discovered another body of a woman wearing a life jacket in a submerged passageway.   Eight of the thirteen victims have now been identified according to Italian officials. Four of the … Continue reading &rarr;"
 ---

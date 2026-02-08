@@ -11,6 +11,7 @@ tags:
   - "Admiral Dewey’s flagship"
   - "Independence Seaport Museum"
   - "Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/olympia2e.jpg"
 author: "Rick Spilman"
 description: "Yesterday the Independence Seaport Museum posted a \"NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA\" to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice: The Olympia, Admiral Dewey’s flagship and … Continue reading &rarr;"
 ---

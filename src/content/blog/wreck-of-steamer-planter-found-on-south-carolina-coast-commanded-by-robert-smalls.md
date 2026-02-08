@@ -15,6 +15,7 @@ tags:
   - "Robert Smalls"
   - "slaves"
   - "US Navy captain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "Two years ago, we posted about the the 150th anniversary of the seizure of the Confederate armed transport, CSS Planter, by Robert Smalls, a 23 year old mulatto slave, and eight fellow slaves. Smalls, who had served as the pilot of the … Continue reading &rarr;"
 ---

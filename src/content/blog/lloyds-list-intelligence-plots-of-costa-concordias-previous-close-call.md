@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "Giglio"
   - "Lloyd's List Intelligence"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costacourse.jpg"
 author: "Rick Spilman"
 description: "Lloyd’s List Intelligence has published its AIS plots of the course of the Costa Concordia on January 13th, when she ran aground and sank, and her course on August 14th when she came within 230 meters of the shore of the island … Continue reading &rarr;"
 ---

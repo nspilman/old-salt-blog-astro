@@ -10,6 +10,7 @@ categories:
 tags:
   - "Ecolution"
   - "Wubbo Ockels"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/a_ecolution.jpg"
 author: "Rick Spilman"
 description: "Ockels’ sustainable voyage to go ahead Wubbo Ockels, a former Dutch astronaut, says he is convinced his sailing yacht Ecolution, which was sunk by unknown assailants earlier this week, will soon be repaired, so he can continue his sustainable energy … Continue reading &rarr;"
 ---

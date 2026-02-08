@@ -11,6 +11,7 @@ tags:
   - "Frank Hanavan"
   - "Matthias Buchinger"
   - "Ships in Bottles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/04/sib.jpg"
 author: "Rick Spilman"
 description: "A Facebook video by my friend Frank Hanavan showing him inserting a ship in a bottle (after the page break) got me thinking about, well, ships in bottles. When, where and why did sailors start putting ships in bottles? After … Continue reading &rarr;"
 ---

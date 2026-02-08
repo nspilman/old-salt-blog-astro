@@ -14,6 +14,7 @@ tags:
   - "shipwreck"
   - "Statue of Liberty"
   - "William H. Sumner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/fireisland.jpg"
 author: "Rick Spilman"
 description: "When Superstorm Sandy came ashore roughly two weeks ago, she uncovered at least two shipwrecks.  On Fire Island, New York, the storm washed away dunes east of Davis Park revealing the remains of a wooden ship believed to be a post-Civil War cargo … Continue reading &rarr;"
 ---

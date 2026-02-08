@@ -10,6 +10,7 @@ categories:
 tags:
   - "Royal Clipper"
   - "Star Clippers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/royalclipper.jpg"
 author: "Rick Spilman"
 description: "We have posted about new ventures to return commercial sail to the seas, including the brigantine Tres Hombres and the ketch Irene. We have posted about new designs for large ships from rigid sails to the Dyna-rig, as well as … Continue reading &rarr;"
 ---

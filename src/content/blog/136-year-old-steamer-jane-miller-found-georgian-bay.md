@@ -12,6 +12,7 @@ tags:
   - "Georgian Bay"
   - "Jane Miller"
   - "steamer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/janemiller.jpg"
 author: "Rick Spilman"
 description: "On November 25, 1881, the steamer Jane Miller sank in the Georgian Bay off Lake Huron with the loss of 28 passengers and crew. This summer, American shipwreck hunters Jared Daniels, Jerry Eliason and Ken Merryman, located the wreck in Colpoys … Continue reading &rarr;"
 ---

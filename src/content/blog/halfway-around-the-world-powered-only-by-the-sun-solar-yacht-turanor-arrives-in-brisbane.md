@@ -12,6 +12,7 @@ tags:
   - "first solar powered vessel to circumnavigate"
   - "photovoltaic panels"
   - "Turanor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/solarcat.jpg"
 author: "Rick Spilman"
 description: "The 31-meter Turanor, a catamaran yacht fitted with 536 square meters of photovoltaic panels, has successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.   The Turanor‘s captain and crew are half way toward … Continue reading &rarr;"
 ---

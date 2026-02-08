@@ -14,6 +14,7 @@ tags:
   - "Norman Brower"
   - "North River Historic Ship Society"
   - "railroad barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/allboatsfromroof.jpg"
 author: "Rick Spilman"
 description: "If you are anywhere near New York City next week, the Fourth Annual North River Historic Ship Festival looks like lots of fun.  Hosted by the North River Historic Ship Society, the festival commences Thursday night, June 28th, with an opening party … Continue reading &rarr;"
 ---

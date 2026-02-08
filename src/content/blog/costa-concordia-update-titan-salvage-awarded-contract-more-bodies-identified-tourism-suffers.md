@@ -18,6 +18,7 @@ tags:
   - "Micoperi"
   - "Norbert Josef Ganz"
   - "Titan Salvage"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg"
 author: "Rick Spilman"
 description: "In February, Costa Lines invited ten companies to bid on salvaging the Costa Concordia (see our previous post.)   Today, the salvage contract was awarded to Titan Salvage and Micoperi.  Titan Salvage is a unit of Crowley Maritime Corporation and Micoperi is a Italian marine … Continue reading &rarr;"
 ---

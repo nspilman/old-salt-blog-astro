@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/t300-Bailey-bow.jpg"
 author: "Rick Spilman"
 description: "For hundreds of years, coastal schooners carried cargoes up and down the hundred harbored coast of Maine.  By the early part of the last century, the schooners were being replaced by trucks and trains.   In 1936 Captain Frank Swift started buying laid  up … Continue reading &rarr;"
 ---

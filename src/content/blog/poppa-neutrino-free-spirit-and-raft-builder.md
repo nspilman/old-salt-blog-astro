@@ -10,6 +10,7 @@ tags:
   - "Poppa Neutrino"
   - "rafts"
   - "Son of Town Hall"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/neutrino_1835547b.jpg"
 author: "Rick Spilman"
 description: "David Pearlman, widely known as Papa Neutrino, died last month at 77 of congestive heart failure in New Orleans.   His remarkable life was summarized in an obituary in the Telegraph: \"Poppa Neutrino, who died on January 23 aged 77, was … Continue reading &rarr;"
 ---

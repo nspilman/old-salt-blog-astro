@@ -5,6 +5,7 @@ slug: "american-dunkirk-discussion-book-signing-sept-8-historic-cutter-lilac"
 excerpt: "A great event on the historic ex-Coast Guard Cutter Lilac at Pier 25 in Manhattan on Thursday, September 8th at 6PM. James M. Kendra and Tricia Wachtendorf will discuss and sign copies of their new book, American Dunkirk: The Waterborne … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/adcover1.jpg"
 author: "Rick Spilman"
 description: "A great event on the historic ex-Coast Guard Cutter Lilac at Pier 25 in Manhattan on Thursday, September 8th at 6PM. James M. Kendra and Tricia Wachtendorf will discuss and sign copies of their new book, American Dunkirk: The Waterborne … Continue reading &rarr;"
 ---

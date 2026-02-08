@@ -14,6 +14,7 @@ tags:
   - "intelligence"
   - "spies"
   - "spy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/spycruise_header1.jpg"
 author: "Rick Spilman"
 description: "I am not entirely sure why I find this funny, but I do. Perhaps it is because it seems like it all should be secret.  Nevertheless, there appears to be an affinity cruise for everyone so why not a \"SpyCruise?\"  I wonder if a cloak and … Continue reading &rarr;"
 ---

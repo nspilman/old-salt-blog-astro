@@ -6,6 +6,7 @@ excerpt: "A new study published in Nature suggests that the Great Pacific Garbag
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ghostsnets.jpg"
 author: "Rick Spilman"
 description: "A new study published in Nature suggests that the Great Pacific Garbage Patch is growing \"exponentially\" and now spans roughly 617,763 square miles (1.6 million square km), or about three times the size of France. The garbage patch is an … Continue reading &rarr;"
 ---

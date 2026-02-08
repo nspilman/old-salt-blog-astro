@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/halifaxaftermath.jpg"
 author: "Rick Spilman"
 description: "Ninety-eight years ago today, on the morning of December 6, 1917, the French freighter SS Mont-Blanc collided with the SS Imo, a Norwegian ship chartered to carry relief supplies to Belgium, in the Narrows, a strait connecting the upper Halifax Harbour … Continue reading &rarr;"
 ---

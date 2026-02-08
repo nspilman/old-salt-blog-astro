@@ -10,6 +10,7 @@ categories:
 tags:
   - "attack submarine"
   - "HMS Ambush"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/hms_ambush.jpg"
 author: "Rick Spilman"
 description: "HMS Ambush, the second of the Astute Class of Royal Navy attack submarines, has officially joined its fleet on the Clyde.. The £1.6bn nuclear-powered 7,400-tonne vessel has been undergoing sea trials since arriving at its home port at Faslane in September … Continue reading &rarr;"
 ---

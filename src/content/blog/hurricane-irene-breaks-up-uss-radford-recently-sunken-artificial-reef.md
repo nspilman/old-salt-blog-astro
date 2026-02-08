@@ -13,6 +13,7 @@ tags:
   - "Hurricane Irene"
   - "NJ"
   - "USS Radford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/radford.jpg"
 author: "Rick Spilman"
 description: "Just last August, the USS Arthur W. Radford, a Fletcher-class destroyer which served in the Gulf War, was sunk as an artificial reef in the Atlantic Ocean off Cape May, NJ. The 563-foot destroyer was the longest vessel ever sunk … Continue reading &rarr;"
 ---

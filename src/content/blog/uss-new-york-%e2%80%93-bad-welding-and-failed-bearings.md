@@ -11,6 +11,7 @@ tags:
   - "amphibious transport dock ship"
   - "San Antonio-class"
   - "USS New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/USS-New-York.jpg"
 author: "Rick Spilman"
 description: "In November we posted about the USS New York’s commissioning in its namesake city.  The new  amphibious transport dock ship, the fifth of the San Antonio-class, was built with seven and a half tons of steel from the rubble of the … Continue reading &rarr;"
 ---

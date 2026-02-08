@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "Panama Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/newcanal.jpg"
 author: "Rick Spilman"
 description: "History was made yesterday at the Panama Canal when the container ship COSCO Shipping Panama transited the newly expanded canal.  The ship carried over 9,000 TEU and has a beam of 158′ and is 984′ long, longer and significantly wider than was … Continue reading &rarr;"
 ---

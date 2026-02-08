@@ -13,6 +13,7 @@ tags:
   - "RMS St Helena"
   - "Royal Mail Ship"
   - "wind shear"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/sthelenacrop.jpg"
 author: "Rick Spilman"
 description: "The RMS St Helena, the last true Royal Mail Ship, recently departed from the UK on its final voyage for its namesake island.  St. Helena, which lies around 1,150 miles off the coast of Angola in the South Atlantic, is the most … Continue reading &rarr;"
 ---

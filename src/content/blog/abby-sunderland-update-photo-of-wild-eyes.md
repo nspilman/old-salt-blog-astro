@@ -11,6 +11,7 @@ tags:
   - "French fishing boat"
   - "sailboat"
   - "Wild Eyes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/wikdeyes.jpg"
 author: "Rick Spilman"
 description: "Rough weather is reported to be delaying  the French fishing boat that is on its way to rescue Abby Sunderland.   Her sailboat, Wild Eyes, has been dismasted but has not lost its keel as was earlier reported.   A … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "HMS Victory"
   - "rot"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/HMSVictory_1799444c.jpg"
 author: "Rick Spilman"
 description: "A disturbing report published yesterday in the Telegraph. HMS Victory rotting and being pulled apart under its own weight HMS Victory is riddled with rot and being pulled apart by its own weight, maintenance reports of the historic ship have … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Joan Druett"
   - "McBook Press' Quarterdeck"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/hnflog.jpg"
 author: "Rick Spilman"
 description: "Astrodene's Historic Naval Fiction Log Book for March features reviews of new books by Old Salt Press writers."
 ---

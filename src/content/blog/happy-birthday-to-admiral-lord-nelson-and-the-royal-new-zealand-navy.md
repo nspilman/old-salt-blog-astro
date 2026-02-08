@@ -12,6 +12,7 @@ tags:
   - "Admiral Lord Nelson"
   - "Royal New Zealand Navy"
   - "Wellington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/HoratioNelson1.jpg"
 author: "Rick Spilman"
 description: "Two hundred and fifty three years ago today, Horatio Nelson was born in in Burnham Thorpe, Norfolk, the sixth of eleven children. He went to sea at 12 on a ship commanded by a maternal uncle.  He would become the … Continue reading &rarr;"
 ---

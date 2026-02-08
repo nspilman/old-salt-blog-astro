@@ -11,6 +11,7 @@ tags:
   - "cocaine"
   - "cutters"
   - "United States Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/legendcutter1.jpg"
 author: "Rick Spilman"
 description: "The United States Coast Guard has set a new record for cocaine seizures at sea for the second year in a row.  The Washington Post reports that the Coast Guard has seized more than 455,000 pounds of cocaine through Sept. 11 … Continue reading &rarr;"
 ---

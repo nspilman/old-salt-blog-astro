@@ -10,6 +10,7 @@ tags:
   - "Mermaids"
   - "Sharknado"
   - "vampires"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Waterhouse_a_mermaid.jpg"
 author: "Rick Spilman"
 description: "It is a strange world out there. We have previously posted about Sharknado, which recently caused quite a stir on Twitter and other social networking sites. A sequel is planned, apparently, this time set in New York. I am not … Continue reading &rarr;"
 ---

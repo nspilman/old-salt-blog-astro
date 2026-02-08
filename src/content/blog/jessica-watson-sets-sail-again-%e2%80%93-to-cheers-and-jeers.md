@@ -9,6 +9,7 @@ categories:
 tags:
   - "circumnavigate the globe singlehanded"
   - "Jessica Watson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/jessicapink-150x102.jpg"
 author: "Rick Spilman"
 description: "After sailing into a bulk carrier earlier this month on her first day at sea after apparently dozing off, sixteen year old Jessica Watson has set sail once again on her attempt to circumnavigate the globe singlehanded.   While she has received … Continue reading &rarr;"
 ---

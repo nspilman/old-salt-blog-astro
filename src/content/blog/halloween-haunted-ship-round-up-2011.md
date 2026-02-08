@@ -11,6 +11,7 @@ tags:
   - "ghost ships"
   - "halloween"
   - "haunted ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/hauntedshiplogoth.jpg"
 author: "Rick Spilman"
 description: "Who needs a haunted house if you can have a haunted ship? Around this time of year, historic and modern ships suddenly become haunted and ghostly. (To be fair, some are reported to be haunted all year round.) Here is … Continue reading &rarr;"
 ---

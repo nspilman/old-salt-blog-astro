@@ -9,6 +9,7 @@ tags:
   - "Lake George"
   - "Paulist priests"
   - "Tiki Bar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/tikibar.jpg"
 author: "Rick Spilman"
 description: "Here is the story of a very lucky kayaker saved by unexpected rescuers on Lake George. It seems a kayaker got into trouble and was rescued by a group of priests out for an afternoon excursion on a floating Tiki … Continue reading &rarr;"
 ---

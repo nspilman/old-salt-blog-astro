@@ -14,6 +14,7 @@ tags:
   - "Maersk Tigris"
   - "Marshall Island flagged"
   - "Strait of Hormuz"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/maersktigris.jpg"
 author: "Rick Spilman"
 description: "The Marshall Island flagged container ship Maersk Tigris sailing from Jeddah, bound for Jebel Ali, was diverted by Iranian forces in the Strait of Hormuz."
 ---

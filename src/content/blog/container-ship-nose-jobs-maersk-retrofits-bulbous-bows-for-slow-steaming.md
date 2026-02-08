@@ -11,6 +11,7 @@ tags:
   - "bulbous bows"
   - "Maersk"
   - "slow steaming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/maesrskbulb.jpg"
 author: "Rick Spilman"
 description: "Over the next several months, Maersk Lines will be giving ten container ships in its fleet nose jobs. They will be cutting off the existing bulbous bows and retrofitting them with new more energy-efficient designs. It all has to do with slow … Continue reading &rarr;"
 ---

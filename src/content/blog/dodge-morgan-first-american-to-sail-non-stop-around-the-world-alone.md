@@ -10,6 +10,7 @@ tags:
   - "American Promise"
   - "Dodge Morgan"
   - "solo nonstop around the world"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/MORGAN-obit-articleInline-.jpg"
 author: "Rick Spilman"
 description: "Dodge Morgan, Who Sailed Around World, Dies at 78 Dodge Morgan, the first American to sail solo nonstop around the world, a feat in which he cut the previous record time nearly in half, died Tuesday in Boston. He was … Continue reading &rarr;"
 ---

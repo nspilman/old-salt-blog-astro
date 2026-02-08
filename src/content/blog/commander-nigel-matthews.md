@@ -10,6 +10,7 @@ categories:
 tags:
   - "aircraft carrier"
   - "Commander Nigel Matthews"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/matthews_1839751f.jpg"
 author: "Rick Spilman"
 description: "Commander Nigel Matthews Commander Nigel Matthews, who has died aged 89, survived being run over by an aircraft carrier and flew again the same day. Nigel Matthews died on December 19. His first wife died in 1977; he married, secondly, … Continue reading &rarr;"
 ---

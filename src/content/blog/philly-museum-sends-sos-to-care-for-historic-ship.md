@@ -12,6 +12,7 @@ tags:
   - "Independence Seaport Museum"
   - "Philadelphia"
   - "USS Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/olympia.jpg"
 author: "Rick Spilman"
 description: "Terrible news from Phildelphia. Philadelphia maritime museum says it can’t afford to care for historic USS Olympia A Philadelphia maritime museum says it can no longer afford to care for a historic ship that served in the Spanish-American War. … Continue reading &rarr;"
 ---

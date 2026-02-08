@@ -11,6 +11,7 @@ tags:
   - "Bom Jesus"
   - "Namibia"
   - "Portuguese ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/goldbomjesus.jpg"
 author: "Rick Spilman"
 description: "Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the Independent reported: \"The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a … Continue reading &rarr;"
 ---

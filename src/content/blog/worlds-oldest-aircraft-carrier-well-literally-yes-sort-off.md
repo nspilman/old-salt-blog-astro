@@ -12,6 +12,7 @@ tags:
   - "HMS Argus"
   - "Thorneycroft Seaplane Lighter"
   - "World's oldest aircraft carrier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/UK-aircraft-carrier-2.jpg"
 author: "Rick Spilman"
 description: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: \"The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
 ---

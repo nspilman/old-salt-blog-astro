@@ -14,6 +14,7 @@ tags:
   - "mega-yachts"
   - "Roman Abramovich"
   - "Russian billionaires"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/eclipse.jpg"
 author: "Rick Spilman"
 description: "The mega-yachts of the Russian billionaires grow ever larger,  more elaborate, and, of course, ever more expensive. Roman Abramovich’s new yacht Eclipse will be the world’s largest yacht, at 557 feet (170 meters), eclipsing, so to speak, the 525-foot luxury yacht owned by … Continue reading &rarr;"
 ---

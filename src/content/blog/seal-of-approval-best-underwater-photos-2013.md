@@ -11,6 +11,7 @@ tags:
   - "Kyle McBurnie"
   - "Rosenstiel School of Marine &amp; Atmospheric Science"
   - "University of Miami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/harborsealsmall.jpg"
 author: "Rick Spilman"
 description: "From more than 650 underwater images submitted, Kyle McBurnie’s photo of a harbor seal in a kelp forest at Cortes Bank was chosen as \"Best Overall\" photograph in the the 2013 Annual Underwater Photography Contest hosted by the University of … Continue reading &rarr;"
 ---

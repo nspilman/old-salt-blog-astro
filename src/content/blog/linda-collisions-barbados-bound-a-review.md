@@ -9,6 +9,7 @@ categories:
 tags:
   - "Barbados Bound"
   - "Linda Collision"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/lindabb.jpg"
 author: "Rick Spilman"
 description: "Linda Collison’s recently released \"Barbados Bound,\" begins provocatively, \"I came aboard with the prostitutes the night before the ship set sail.\" The year is 1760 and not yet 17 year old Patricia Kelley is, quite literally, seeking to find her … Continue reading &rarr;"
 ---

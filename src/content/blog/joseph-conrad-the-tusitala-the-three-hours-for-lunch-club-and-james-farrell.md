@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/tusitala.jpg"
 author: "Rick Spilman"
 description: "On May 25th, in addition to other items in their collection, the Seaman’s Church Institute is auctioning off a letter written by Joseph Conrad in 1923 to the \"owners and ship’s company of the Tusitala, \" in which he sends … Continue reading &rarr;"
 ---

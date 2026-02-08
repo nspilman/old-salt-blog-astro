@@ -9,6 +9,7 @@ categories:
 tags:
   - "Marine History List"
   - "Superstitions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/dory.jpg"
 author: "Rick Spilman"
 description: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of \"Fishing Boats\". … Continue reading &rarr;"
 ---

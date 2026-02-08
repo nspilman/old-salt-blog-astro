@@ -11,6 +11,7 @@ tags:
   - "1000 days"
   - "Reid Stowe"
   - "Schooner Anne"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/SUB-VOYAGE-articleInline.jpg"
 author: "Rick Spilman"
 description: "On April 21, 2007,  Reid Stowe sailed from the Hudson River on the schooner Anne. His goal was to stay at sea for 1,000 days without touching a port or being resupplied.   It would be the the longest sea … Continue reading &rarr;"
 ---

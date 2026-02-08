@@ -11,6 +11,7 @@ tags:
   - "Annie C. Maguire"
   - "Portland Head Light"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/anniecmaguire1-200x131.jpg"
 author: "Rick Spilman"
 description: "Was the wreck of three-masted bark, Annie C. Maguire, which wrecked at Portland Head Light on Christmas Eve 1886, simply an insurance scam?"
 ---

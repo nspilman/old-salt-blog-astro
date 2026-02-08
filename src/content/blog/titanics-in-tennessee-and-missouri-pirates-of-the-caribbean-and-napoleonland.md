@@ -14,6 +14,7 @@ tags:
   - "Pigeon Forge"
   - "Titanic Museum Attraction"
   - "TN"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/tenntitanic.jpg"
 author: "Rick Spilman"
 description: "Today, on the anniversary of the sinking of the Titanic with the loss of 1,514 lives, it would be appropriate for a learned historian at an august university to sit down to ponder the commercialization of history and to consider how our consumer culture … Continue reading &rarr;"
 ---

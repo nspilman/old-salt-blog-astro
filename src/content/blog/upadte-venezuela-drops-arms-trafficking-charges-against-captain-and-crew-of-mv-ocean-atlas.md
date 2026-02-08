@@ -15,6 +15,7 @@ tags:
   - "Maracaibo"
   - "MV Ocean Atlas"
   - "Venezuela"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/ocean-atlas-large.jpg"
 author: "Rick Spilman"
 description: "Good news.  On Friday, we posted that the captain of the U.S. flag heavy lift ship, MV Ocean Atlas, had been arrested in Maracaibo, Venezuela after three rifles were found aboard the ship. The rifles had reportedly been listed in the ship’s manifest.  Reports are … Continue reading &rarr;"
 ---

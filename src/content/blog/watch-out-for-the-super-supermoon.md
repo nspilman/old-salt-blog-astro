@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "supermoon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/supermoon.jpg"
 author: "Rick Spilman"
 description: "This evening, watch out for the supermoon; well actually, a super supermoon, which on the East Coast of the United States should be rising in the East around sunset.  As reported by USA today: A supermoon occurs when the moon … Continue reading &rarr;"
 ---

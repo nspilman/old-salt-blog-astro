@@ -13,6 +13,7 @@ tags:
   - "hudson river"
   - "Opsail"
   - "Verazano Narrows Bridge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/51550265.jpg"
 author: "Rick Spilman"
 description: "The visiting tall ships have started arriving in New York’s outer harbor.  Tomorrow morning at just after 8 in the morning, the \"Parade of Sail\" will form up at the Verazano Narrows Bridge and stand north into the inner harbor past the … Continue reading &rarr;"
 ---

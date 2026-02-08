@@ -15,6 +15,7 @@ tags:
   - "Nigeria"
   - "Skeleton Coast National Park"
   - "Western Africa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/nigeriawreck.jpg"
 author: "Rick Spilman"
 description: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with \"graveyard of … Continue reading &rarr;"
 ---

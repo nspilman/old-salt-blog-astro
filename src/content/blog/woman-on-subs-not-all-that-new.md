@@ -17,6 +17,7 @@ tags:
   - "Solveig Krey"
   - "Sweden"
   - "women on submarines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Solveig-Krey-i-periskopet-.jpg"
 author: "Rick Spilman"
 description: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of \"to tweet?\" by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
 ---

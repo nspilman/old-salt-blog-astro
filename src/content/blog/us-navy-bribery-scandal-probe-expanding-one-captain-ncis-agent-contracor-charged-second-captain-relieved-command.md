@@ -13,6 +13,7 @@ tags:
   - "John Bertrand Beliveau II"
   - "Leonard Glenn Francis"
   - "Michael Vannak Khem Misiewicz"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/dusek.jpg"
 author: "Rick Spilman"
 description: "Last month, the former captain of the destroyer USS Mustin, a Navy special agent and a Singapore-based defense contractor were charged in an alleged bribery scheme to swap classified ship information for luxury travel and prostitutes. Cmdr. Michael Vannak Khem … Continue reading &rarr;"
 ---

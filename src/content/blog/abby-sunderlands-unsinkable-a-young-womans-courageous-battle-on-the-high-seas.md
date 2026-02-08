@@ -9,6 +9,7 @@ categories:
 tags:
   - "Abby Sunderland"
   - "Lynn Vincent"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/51izzzstHzL._SL500_AA300_.jpg"
 author: "Rick Spilman"
 description: "Last June, we posted about Jessica Watson’s book and album release.   Jessica Watson is the now 17 year old Australian sailor who can rightly claim the title of the \"youngest to sail solo and unassisted around the world.\"   … Continue reading &rarr;"
 ---

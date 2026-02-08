@@ -9,6 +9,7 @@ categories:
 tags:
   - "Matt Rutherford"
   - "Singlehanded Around the Americas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/send-mike-20.jpg"
 author: "Rick Spilman"
 description: "Matt Rutherford set out from Annapolis, Maryland last June 11th with an audacious goal. He intended to sail single-handed entirely around the Americas in a 27′ Albin Vega.  He planned to sail a counterclockwise loop up the East Coast, cross the … Continue reading &rarr;"
 ---

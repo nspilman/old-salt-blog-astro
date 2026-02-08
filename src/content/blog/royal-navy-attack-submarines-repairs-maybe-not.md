@@ -10,6 +10,7 @@ categories:
 tags:
   - "attack submarine"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/uksubs.jpg"
 author: "Rick Spilman"
 description: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: \"Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
 ---

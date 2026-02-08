@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Captain John W. Doswell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/john-on-ship-headpic.jpg"
 author: "Rick Spilman"
 description: "On Friday, New York lost an essential part of its waterfront when Captain John W. Doswell died after a long illness."
 ---

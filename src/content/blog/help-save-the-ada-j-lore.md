@@ -14,6 +14,7 @@ tags:
   - "Maine"
   - "oyster dredger"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/adaclore.jpg"
 author: "Rick Spilman"
 description: "The schooner Ada C. Lore, damaged last year by a breakwater collapse in Eastport, Maine, is being restored. "
 ---

@@ -157,7 +157,6 @@ export async function backfill(config: MigrationConfig): Promise<void> {
   console.log(chalk.blue('\n[Step 4] Fetching metadata (categories, tags, users, media)...'));
 
   // We need to build minimal lookups for the new posts
-  // For now, we'll use empty lookups since the converter can handle missing data
   const lookups: LookupMaps = {
     categories: new Map(),
     tags: new Map(),
@@ -199,6 +198,28 @@ export async function backfill(config: MigrationConfig): Promise<void> {
     }
   } catch (error) {
     console.log(chalk.yellow(`  Warning: Could not fetch users`));
+  }
+
+  // Fetch media for posts with featured_media
+  const mediaIds = [...new Set(newPosts.map(p => p.featured_media).filter(id => id > 0))];
+  if (mediaIds.length > 0) {
+    console.log(chalk.blue(`  Fetching ${mediaIds.length} featured media items...`));
+    for (const mediaId of mediaIds) {
+      try {
+        const mediaResponse = await fetch(`${config.wpBaseUrl}/wp-json/wp/v2/media/${mediaId}`);
+        if (mediaResponse.ok) {
+          const media = await mediaResponse.json();
+          lookups.media.set(media.id, media);
+        }
+        // Small delay to avoid rate limiting
+        if (config.delay > 0) {
+          await new Promise(resolve => setTimeout(resolve, config.delay));
+        }
+      } catch (error) {
+        console.log(chalk.yellow(`    Warning: Could not fetch media ${mediaId}`));
+      }
+    }
+    console.log(chalk.blue(`  ✓ Fetched ${lookups.media.size} media items`));
   }
 
   // Step 5: Convert and write new posts

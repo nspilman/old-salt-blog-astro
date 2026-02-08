@@ -11,6 +11,7 @@ tags:
   - "Oregon"
   - "tsunami derelict"
   - "yellowtail jack"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/jfishingd1.jpg"
 author: "Rick Spilman"
 description: "A 25-30' section of a Japanese commercial fishing vessel made a derelict in the 2011 tsunami drifted into Oregon waters."
 ---

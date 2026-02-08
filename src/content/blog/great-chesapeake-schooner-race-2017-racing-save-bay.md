@@ -10,6 +10,7 @@ categories:
 tags:
   - "Great Chesapeake Schooner Race"
   - "Racing to Save the Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/gcsrbanner1.jpg"
 author: "Rick Spilman"
 description: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  \"Salute to Schooners,\" where schooners and other vessels will \"fire\" cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
 ---

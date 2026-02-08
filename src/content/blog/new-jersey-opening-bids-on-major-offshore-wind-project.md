@@ -9,6 +9,7 @@ categories:
 tags:
   - "New Jersey"
   - "wind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/windturbine.jpg"
 author: "Rick Spilman"
 description: "The State of New Jersey has opened the bidding on a 1,100 megawatt offshore wind project, the largest of any state in the nation. The project is the first step in meeting New Jersey’s goal to deploy 3,500 megawatts of … Continue reading &rarr;"
 ---

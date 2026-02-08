@@ -11,6 +11,7 @@ tags:
   - "British merchant ships"
   - "British Prime Minister"
   - "David Cameron"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/pop-somali-pirates.jpg"
 author: "Rick Spilman"
 description: "British Prime Minister David Cameron recently announced that armed guards would be allowed to be carried on British merchant ships transiting off the coast of Somalia.   Shipping firms will now be able to apply for a license to carry guards armed with automatic weapons, … Continue reading &rarr;"
 ---

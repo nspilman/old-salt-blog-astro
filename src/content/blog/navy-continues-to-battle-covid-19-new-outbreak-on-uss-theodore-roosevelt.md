@@ -14,6 +14,7 @@ tags:
   - "USS Kidd"
   - "USS Michael Murphy"
   - "USS Theodore Roosevelt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/usstr1.jpg"
 author: "Rick Spilman"
 description: "Recently, three sailors aboard the aircraft carrier USS Theodore Roosevelt have tested positive for the coronavirus, marking the second outbreak at sea on the ship within a year.  In the spring of last year, the aircraft carrier USS Theodore Roosevelt … Continue reading &rarr;"
 ---

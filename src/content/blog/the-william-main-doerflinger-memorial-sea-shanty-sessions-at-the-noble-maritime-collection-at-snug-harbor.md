@@ -11,6 +11,7 @@ tags:
   - "Sea Shanty Session"
   - "Snug Harbor Cultural Center"
   - "William Main Doerflinger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Shanty-Sessionbanner.jpg"
 author: "Rick Spilman"
 description: "This Sunday, May 15, from 2 to 5 PM, the first monthly  William Main Doerflinger Memorial Sea Shanty Session will be held at the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace, building D, in … Continue reading &rarr;"
 ---

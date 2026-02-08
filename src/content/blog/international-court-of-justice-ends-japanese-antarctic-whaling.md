@@ -9,6 +9,7 @@ categories:
 tags:
   - "International Court of Justice"
   - "Japanese antarctic whaling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/japan-whaling-1a.jpg"
 author: "Rick Spilman"
 description: "Great news. The UN’s highest court has ruled against Japanese Antarctic whaling. The Japanese have notionally supported the commercial whaling moratorium adopted in 1982 but have exploited a loophole which allows for whaling for \"scientific research.\"  As we posted last June, the the … Continue reading &rarr;"
 ---

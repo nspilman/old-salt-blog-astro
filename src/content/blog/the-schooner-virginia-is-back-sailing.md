@@ -12,6 +12,7 @@ tags:
   - "Nauticus"
   - "Schooner Virginia"
   - "Virginia Maritime Heritage Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/svirginia-125x186.jpg"
 author: "Rick Spilman"
 description: "At the end of May, we posted about the \"unfortunate economics of tall ships.\"   All ships, sailing ships included and perhaps, especially, are devilishly expensive to maintain and run, and income is tough to come by, especially in these difficult economic times.  One … Continue reading &rarr;"
 ---

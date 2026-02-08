@@ -13,6 +13,7 @@ tags:
   - "gramophone"
   - "iron sternwheeler"
   - "Yukon Gold Rush"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/li-aj-goddard-sternwheel-62.jpg"
 author: "Rick Spilman"
 description: "We have posted previously about the discovery of the Yukon Gold Rush iron sternwheeler A.J. Goddard which sank in a storm in Lake Labarge in October of 1901.  Now with the discovery of a gramophone and three recordings, the music of the … Continue reading &rarr;"
 ---

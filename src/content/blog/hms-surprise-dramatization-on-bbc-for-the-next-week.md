@@ -9,6 +9,7 @@ categories:
 tags:
   - "HMS SURPRISE"
   - "Patrick O'Brian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hmssurpise.jpg"
 author: "Rick Spilman"
 description: "BBC is featuring a dramatization of Patrick O’Brian’s novel HMS Surprise. Very well done.  Each episode is 45 minutes long and will remain on line for a week. HMS Surprise – Episode 1 HMS Surprise – Episode 2 HMS Surprise … Continue reading &rarr;"
 ---

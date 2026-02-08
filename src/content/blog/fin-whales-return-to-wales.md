@@ -10,6 +10,7 @@ tags:
   - "fin whales"
   - "Sea Trust"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/finwhalewales.jpg"
 author: "Rick Spilman"
 description: "Fin whales have been called the \"the greyhounds of the sea\" because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, … Continue reading &rarr;"
 ---

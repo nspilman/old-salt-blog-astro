@@ -13,6 +13,7 @@ tags:
   - "La Rochelle"
   - "Le Pingouin"
   - "Velux 5 Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/boat-1.jpg"
 author: "Rick Spilman"
 description: "Brad Van Liew has won the first leg of the Velux 5 Oceans Singlehanded Round the World Race arriving in South Africa in only 28 days after his departure from La Rochelle, France. Van Liew wins 1st leg of race – … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Doggerland"
   - "Dunwich"
   - "lost medieval town"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/doggerland.jpg"
 author: "Rick Spilman"
 description: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  \"Britain’s Atlantis.\"   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
 ---

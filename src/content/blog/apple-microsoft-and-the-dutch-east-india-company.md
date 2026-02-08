@@ -11,6 +11,7 @@ tags:
   - "Apple"
   - "Dutch East India Company"
   - "microsoft"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/voc-200x111.jpg"
 author: "Rick Spilman"
 description: "At its height, the Dutch East India Company was estimated to be worth more than $7 trillion in 2015 dollars or roughly ten times that of Apple."
 ---

@@ -13,6 +13,7 @@ tags:
   - "Robin Knox-Johnston"
   - "Sarah Young"
   - "tethers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/dummymob.jpg"
 author: "Rick Spilman"
 description: "On April 1, Sarah Young was swept from the cockpit of the yacht IchorCoal sailing in the middle of the Pacific Ocean in the Clipper Round the Word Race. By the time the crew reached her, she had died. She … Continue reading &rarr;"
 ---

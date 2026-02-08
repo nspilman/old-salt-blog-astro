@@ -13,6 +13,7 @@ tags:
   - "M. Kei"
   - "nautical adventure fiction"
   - "Sallee Rovers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/sallerovers1.jpg"
 author: "Rick Spilman"
 description: "Pirates of the Narrow Sea, Book 1 – Sallee Rovers by M. Kei is well written nautical adventure fiction with a twist or two, or perhaps three. The novel is not set during the Napoleonic wars and features, as the … Continue reading &rarr;"
 ---

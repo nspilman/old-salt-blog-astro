@@ -11,6 +11,7 @@ tags:
   - "chemical and pharmaceutical waste"
   - "Mediterranean"
   - "scuttling ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/poisoned-shipments_1.jpg"
 author: "Rick Spilman"
 description: "A very disturbing article in this months Scientific American suggesting that criminal groups have been scuttling ships containing chemical and pharmaceutical waste, effectively using the Mediterranean as a toxic dump site. Thanks to Steve Phelps for pointing it out. Poisoned Shipments: Are Strange, Illicit Sinkings Making … Continue reading &rarr;"
 ---

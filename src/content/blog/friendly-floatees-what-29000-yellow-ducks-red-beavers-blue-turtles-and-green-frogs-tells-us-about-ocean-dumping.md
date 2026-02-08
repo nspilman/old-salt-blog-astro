@@ -15,6 +15,7 @@ tags:
   - "Friendly Floatees"
   - "frogs"
   - "turtles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/rubber-ducks-sea.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the Big Rubber Duck, which is scheduled to lead the Tall Ships Grand Parade of Sail at the Tall Ships Festival L.A., August 20, 2014. One commenter suggested that we needed more rubber ducks while another suggested … Continue reading &rarr;"
 ---

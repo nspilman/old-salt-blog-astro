@@ -11,6 +11,7 @@ tags:
   - "Mystic Seaport Museum"
   - "New Bedford Whaling Museum"
   - "whaling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/whaleshiporg.jpg"
 author: "Rick Spilman"
 description: "This looks fascinating. The New Bedford Whaling Museum has announced that, in partnership with Mystic Seaport Museum, they have developed the world’s most comprehensive whaling history database which is now available online for everyone to use at WhalingHistory.org.  In their … Continue reading &rarr;"
 ---

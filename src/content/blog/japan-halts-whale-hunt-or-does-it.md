@@ -5,6 +5,7 @@ slug: "japan-halts-whale-hunt-or-does-it"
 excerpt: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their \"reality\" TV … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/51284118_011193098-1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their \"reality\" TV … Continue reading &rarr;"
 ---

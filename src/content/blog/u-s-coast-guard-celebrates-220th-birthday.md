@@ -12,6 +12,7 @@ tags:
   - "Revenue Cutter Service"
   - "United States Coast Guard"
   - "United States Life-Saving Service"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/United_States_Coast_Guard_C.jpg"
 author: "Rick Spilman"
 description: "Happy birthday to the United States Coast Guard!   Two hundred and twenty years ago today, Secretary of the Treasury Alexander Hamilton, created the Revenue-Marine, later renamed the Revenue Cutter Service.  For nine years, until the re-establishment of the United … Continue reading &rarr;"
 ---

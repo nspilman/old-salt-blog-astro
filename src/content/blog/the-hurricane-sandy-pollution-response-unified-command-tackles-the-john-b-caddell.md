@@ -12,6 +12,7 @@ tags:
   - "John B. Caddell"
   - "Staten Island"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/ap_staten_island_boat_grounded_mi_121030_wmain.jpg"
 author: "Rick Spilman"
 description: "I have great admiration for those whose successfully navigate the rocks and shoals of the bureaucracy in order to get anything done around New York harbor. A Coast Guard press release brought this to mind. The US Coast Guard is … Continue reading &rarr;"
 ---

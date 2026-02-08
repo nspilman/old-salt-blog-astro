@@ -13,6 +13,7 @@ tags:
   - "Floating Chapel of our Savior for Seamen"
   - "Protestant Church Missionary Society for Seamen"
   - "Seamen’s Church Institute"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/seachurch.jpg"
 author: "Rick Spilman"
 description: "If you can’t get sailors to church, bring the church to the sailors.  That was the strategy used in 1844 by the Protestant Church Missionary Society for Seamen, which was renamed the Seamen’s Church Institute. As they celebrate their 175th … Continue reading &rarr;"
 ---

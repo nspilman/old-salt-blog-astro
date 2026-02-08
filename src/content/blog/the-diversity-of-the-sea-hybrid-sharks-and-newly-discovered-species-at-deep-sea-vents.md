@@ -11,6 +11,7 @@ tags:
   - "deep sea hydrothermal vents in the South West Indian Ridge"
   - "Hybrid Sharks"
   - "Indian Ocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/hybrid-shark.jpg"
 author: "Rick Spilman"
 description: "Given that we live on an ocean planet, it is remarkable how little know of the creatures of the sea. Recently, for example, scientists discovered the first hybrid sharks to be found in Australian waters. Also, teams of American and British researchers have just discovered new … Continue reading &rarr;"
 ---

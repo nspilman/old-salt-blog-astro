@@ -13,6 +13,7 @@ tags:
   - "German World War I submarine"
   - "Ireland"
   - "UC42"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/IMG_60751.jpg"
 author: "Rick Spilman"
 description: "Divers in Ireland have located the intact hull of German World War I submarine, the UC42, in Cork harbor.   The  discovery of the intact ship came as a surprise as the submarine was believed to have been destroyed by Royal Navy divers with explosives in 1919.   The … Continue reading &rarr;"
 ---

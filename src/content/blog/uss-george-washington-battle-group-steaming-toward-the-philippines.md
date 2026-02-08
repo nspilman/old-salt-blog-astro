@@ -16,6 +16,7 @@ tags:
   - "USS George Washington battle group"
   - "USS Lassen"
   - "USS Mustin."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/GWSG.jpg"
 author: "Rick Spilman"
 description: "The USS George Washington battle group has been ordered to depart from Hong Kong, where it had been making a port call, and to steam for the Philippines to support relief efforts in the aftermath of Super Typhoon Haiyan which … Continue reading &rarr;"
 ---

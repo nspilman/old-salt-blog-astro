@@ -10,6 +10,7 @@ tags:
   - "South Africa"
   - "Southern Right Whale"
   - "whale tales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/ht_whale_onto_boat_100721_ssh-150x116.jpg"
 author: "Rick Spilman"
 description: "There has been considerable discussion whether the photo of a Southern Right whale breaching and landing on a sailboat off South Africa is real or Photoshopped.  (See the comments on our previous post.)    A video has now emerged which … Continue reading &rarr;"
 ---

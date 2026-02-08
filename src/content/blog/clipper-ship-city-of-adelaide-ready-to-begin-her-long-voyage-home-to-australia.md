@@ -13,6 +13,7 @@ tags:
   - "City of Adelaide"
   - "composite clipper ship"
   - "Scotland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/nov_2009_image.jpg"
 author: "Rick Spilman"
 description: "Last January we posted that the composite clipper ship City of Adelaide would begin her voyage by barge and then ship  to her namesake city in Australia by March, \"if all goes well.\"   As is not unusual is this sort of project, … Continue reading &rarr;"
 ---

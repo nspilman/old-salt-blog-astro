@@ -11,6 +11,7 @@ tags:
   - "Baltic seabed"
   - "champagne"
   - "French Revolution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/champagne.jpg"
 author: "Rick Spilman"
 description: "Divers have found 30 bottles of champagne thought to pre-date the French Revolution on the Baltic seabed.  Reportedly, it was still highly drinkable. All I can say is that the seabed must be one hell of a wine cellar.   … Continue reading &rarr;"
 ---

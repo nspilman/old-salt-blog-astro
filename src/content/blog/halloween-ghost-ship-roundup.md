@@ -9,6 +9,7 @@ categories:
 tags:
   - "ghost ships"
   - "halloween"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/HauntedShip.jpg"
 author: "Rick Spilman"
 description: "On this eve of the eve of All Hallows Eve, it seems worthwhile to list a few of the \"ghost\" ships open to the public on Halloween. Hornet Ship of Spirits – This evening , on the historic aircraft carrier USS Hornet in  Alameda … Continue reading &rarr;"
 ---

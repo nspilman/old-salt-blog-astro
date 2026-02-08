@@ -5,6 +5,7 @@ slug: "abby-sunderland-to-round-cape-horn-tuesday"
 excerpt: "An update from Sail-World.  Abby Sunderland is close to rounding Cape Horn, while malfunctioning autopilots may threaten her circumnavigation attempt. Teen sailor Abby Sunderland to round Cape Horn Tuesday 16-year-old Californian sailor Abby Sunderland, following Jessica Watson in her attempt to be … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Med_Abbyabout-to-round-the-.jpg"
 author: "Rick Spilman"
 description: "An update from Sail-World.  Abby Sunderland is close to rounding Cape Horn, while malfunctioning autopilots may threaten her circumnavigation attempt. Teen sailor Abby Sunderland to round Cape Horn Tuesday 16-year-old Californian sailor Abby Sunderland, following Jessica Watson in her attempt to be … Continue reading &rarr;"
 ---

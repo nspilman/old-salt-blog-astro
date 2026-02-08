@@ -13,6 +13,7 @@ tags:
   - "Old Zeb"
   - "Tilton"
   - "Zebulon Northrup Tilton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/zebtilton.jpg"
 author: "Rick Spilman"
 description: "More than thirty years ago, I sat on the rotting planks of the old Pier 17 in the East River in Manhattan and listened to Bernie Clay and the X-Seaman’s Institute sing a song about the schooner Alice S. Wentworth. … Continue reading &rarr;"
 ---

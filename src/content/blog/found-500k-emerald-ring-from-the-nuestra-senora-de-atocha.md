@@ -13,6 +13,7 @@ tags:
   - "Mel Fisher's Treasures"
   - "Nuestra Senora de Atocha"
   - "Spanish treasure ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/atocharing.jpg"
 author: "Rick Spilman"
 description: "Last week, divers from Mel Fisher’s Treasures found an emerald ring, valued at $500 thousand dollars, believed to be from the wreck of the 1662 wreck of the Spanish treasure ship, Nuestra Señora de Atocha, which sank in 1662. If anyone thinks of … Continue reading &rarr;"
 ---

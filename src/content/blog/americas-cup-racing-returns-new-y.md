@@ -11,6 +11,7 @@ tags:
   - "Louis Vuitton"
   - "new york"
   - "World Series regatta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/acjimmystatue.jpg"
 author: "Rick Spilman"
 description: "In early May, America’s Cup racing will return to New York City for the first time since 1920. The Louis Vuitton America’s Cup World Series regatta, one of a series of warm-up races sailed in AC 45s, 45′ foiling catamarans, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Stanford University's Hopkins Marine Station"
   - "tagging"
   - "white sahrk cafe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/whitesharkcafe.jpg"
 author: "Rick Spilman"
 description: "For many years, scientists had thought that great white sharks traveled north and south along the Pacific coast of America, feeding in waters close to shore. Then researchers at Stanford University’s Hopkins Marine Station began tagging white sharks with satellite tracking tags. Rather … Continue reading &rarr;"
 ---

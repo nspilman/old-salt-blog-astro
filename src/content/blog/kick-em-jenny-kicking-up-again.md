@@ -11,6 +11,7 @@ tags:
   - "Kick 'em Jenny"
   - "St Vincent"
   - "volcano"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/kickemjenny.jpg"
 author: "Rick Spilman"
 description: "My favorite underwater volcano is getting frisky again. Kick’em Jenny, is located off the northern coast of Grenada, in the Lesser Antilles. It rises almost a mile from the ocean floor and is roughly 600 feet below the surface. Recently, the government of … Continue reading &rarr;"
 ---

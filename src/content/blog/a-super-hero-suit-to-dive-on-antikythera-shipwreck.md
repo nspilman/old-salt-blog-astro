@@ -14,6 +14,7 @@ tags:
   - "Antikythera shipwreck"
   - "Exosuit"
   - "Greece"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/exosuit-main1.jpg"
 author: "Rick Spilman"
 description: "An international team of archaeologists and divers wearing an Exosuit will be diving on the Antikythera shipwreck this month. The suit is described as a part robot and part submarine, and evocative of the suit from the \"Iron Man\" movies and their … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Confederate Navy submarine"
   - "H.L. Hunley"
   - "USS Housatonic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/hunley2.jpg"
 author: "Rick Spilman"
 description: "The Confederate Navy submarine H.L. Hunley was unveiled yesterday for the first time since it was recovered  from the ocean floor near Charleston more than a decade ago.  The vessel, a 42 feet long iron cylinder,  is credited as the first \"successful\" submarine … Continue reading &rarr;"
 ---

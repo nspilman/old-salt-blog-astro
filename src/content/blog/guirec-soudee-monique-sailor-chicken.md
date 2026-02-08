@@ -10,6 +10,7 @@ tags:
   - "chicken"
   - "Guirec Soudee"
   - "Monique"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gmonique.jpg"
 author: "Rick Spilman"
 description: "Guirec Soudée, a 24 year old sailor, has spent the last two years sailing the globe with a female chicken named Monique.  Soudée began the cruise in the Canary Islands in May 2014, sailing to St. Barts in the Caribbean and … Continue reading &rarr;"
 ---

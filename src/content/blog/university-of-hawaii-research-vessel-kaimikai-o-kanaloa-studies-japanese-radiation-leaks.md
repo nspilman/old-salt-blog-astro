@@ -12,6 +12,7 @@ tags:
   - "Ka'imikai-o-Kanaloa"
   - "Research Vessel"
   - "University of Hawaii"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/14901272_BG1.jpg"
 author: "Rick Spilman"
 description: "The University of Hawaii research vessel, Ka’imikai-o-Kanaloa, set sail earlier this month to studying the impact of radiation releases in the waters off Japan’s crippled Fukushima Daiichi nuclear plant. Scientists on UH research ship study impact of radiation releases … Continue reading &rarr;"
 ---

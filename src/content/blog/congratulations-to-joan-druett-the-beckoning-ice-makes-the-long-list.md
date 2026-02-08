@@ -13,6 +13,7 @@ tags:
   - "Joan Druett"
   - "The Beckoning Ice"
   - "Wiki Coffin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/beckoningice.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Joan Druett! Her crime thriller, The Beckoning Ice, the fifth of her Wiki Coffin series of maritime mysteries, is one of the longlisted titles for the 2014 Ngaio Marsh Award.   We reviewed The Beckoning Ice in December 2012. … Continue reading &rarr;"
 ---

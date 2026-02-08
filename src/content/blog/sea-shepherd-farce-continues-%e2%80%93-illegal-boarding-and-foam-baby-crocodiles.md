@@ -14,6 +14,7 @@ tags:
   - "Paul Bethune"
   - "Sea Shepherds"
   - "Steve Irwin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/irwin_crock.jpg"
 author: "Rick Spilman"
 description: "The Sea Shepherd farce continues.  The ex-captain of the Ady Gil cut through anti-boarding nets to board a Japanese whaler and was immediately arrested.   In related news, Sea Shepherd crew onboard the Steve Irwin, a vessel named for the television … Continue reading &rarr;"
 ---

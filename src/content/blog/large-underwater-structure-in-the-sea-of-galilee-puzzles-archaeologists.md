@@ -9,6 +9,7 @@ categories:
 tags:
   - "Israel Antiquities Authority"
   - "Sea of Galilee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/seaofgalilee-cropped-proto-custom_28-1.jpg"
 author: "Rick Spilman"
 description: "It is a conical shaped structure built of boulders, roughly 230 feet in diameter, 30 feet high and weighing an estimated  60,000-tons, 40 feet underwater in the Sea of Galilee.  And archaeologists have no idea what it is.   Based on the … Continue reading &rarr;"
 ---

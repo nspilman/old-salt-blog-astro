@@ -15,6 +15,7 @@ tags:
   - "Eggner Ferry Bridge"
   - "MV Delta Mariner"
   - "Tennessee–Tombigbee Waterway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/deltamariner2.jpg"
 author: "Rick Spilman"
 description: "The investigation is ongoing as to why the MV Delta Mariner  collided with the Eggner Ferry Bridge on the Tennessee River in Kentucky last Thursday night, taking out over 300′ of the span, but reportedly, the ship was in the wrong channel. … Continue reading &rarr;"
 ---

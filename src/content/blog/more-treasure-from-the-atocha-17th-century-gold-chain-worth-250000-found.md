@@ -13,6 +13,7 @@ tags:
   - "Bill Burt"
   - "Mel Fisher's Treasures"
   - "Nuestra Senora de Atocha"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/chainatocha0.jpg"
 author: "Rick Spilman"
 description: "Last week, while searching near the the wreck of  Nuestra Senora de Atocha, Bill Burt, a diver for Mel Fisher’s Treasures, found a 17th century gold chain worth $250,000. Deep sea treasure: 17th century gold chain worth $250,000 plucked from … Continue reading &rarr;"
 ---

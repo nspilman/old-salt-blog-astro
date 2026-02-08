@@ -11,6 +11,7 @@ tags:
   - "Diving Horses"
   - "Diving Pigs"
   - "Dock Dogs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/divingpigs.jpg"
 author: "Rick Spilman"
 description: "Chinese farmers have introduced diving pigs as a source of entertainment and because diving pigs are healthier, leaner and tastier."
 ---

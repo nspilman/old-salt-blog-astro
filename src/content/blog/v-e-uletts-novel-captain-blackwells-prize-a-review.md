@@ -10,6 +10,7 @@ categories:
 tags:
   - "Captain Blackwell's Prize"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/cbprize2B2ebookthumb.jpg"
 author: "Rick Spilman"
 description: "V.E. Ulett’s novel, Captain Blackwell’s Prize begins in battle. As the British board a larger Spanish ship, they discover that the boy wielding a sword next to the Spanish captain is indeed a woman. The novel develops into an unexpected … Continue reading &rarr;"
 ---

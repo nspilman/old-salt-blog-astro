@@ -8,6 +8,7 @@ categories:
 tags:
   - "schooner Pioneer"
   - "Wavertree"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/pioneerwavertree.jpg"
 author: "Rick Spilman"
 description: "On Saturday May 24th, the  Southstreet Seaport Museum in New York will celebrate the 125th birthdays of two fine ladies,  the full rigged ship Wavertree and the schooner Pioneer. Built in 1885 in Southampton, England, the Wavertree was one of … Continue reading &rarr;"
 ---

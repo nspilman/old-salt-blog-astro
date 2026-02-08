@@ -10,6 +10,7 @@ tags:
   - "America's Cup"
   - "Emirates Team New Zealand"
   - "Oracle Team USA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Kiwiemirates2.jpg"
 author: "Rick Spilman"
 description: "After looking like they were in an impossibly deep hole, Oracle Team USA has come charging back. Only last Wednesday, Emirates Team New Zealand was on the verge of winning the America’s Cup.  They had won 8 of the 9 … Continue reading &rarr;"
 ---

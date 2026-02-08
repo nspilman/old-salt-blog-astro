@@ -11,6 +11,7 @@ tags:
   - "Improv Everywhere"
   - "office"
   - "socially distanced"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/floating-office.jpg"
 author: "Rick Spilman"
 description: "Boaters were recently surprised to find a man working in a fully outfitted office on a raft anchored in New York’s East River. The office was the brainchild of Improv Everywhere, a New York City-based comedy collective that stages unexpected … Continue reading &rarr;"
 ---

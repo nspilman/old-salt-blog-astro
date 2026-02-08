@@ -11,6 +11,7 @@ tags:
   - "E-Reader"
   - "navy"
   - "NeRD"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/140508104431-navy-e-reader-story-top.jpg"
 author: "Rick Spilman"
 description: "The Navy is issuing five Navy e-Reader Devices, or NeRDs, each preloaded with 300 books to each of the submarines in the fleet, and if all goes well plans to send NeRDs to all Navy vessels.   The e-Readers are pretty … Continue reading &rarr;"
 ---

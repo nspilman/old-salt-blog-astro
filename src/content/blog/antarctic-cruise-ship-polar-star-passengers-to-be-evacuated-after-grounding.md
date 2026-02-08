@@ -13,6 +13,7 @@ tags:
   - "Detaille Island"
   - "Polar Star"
   - "Ushuaia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/polarstarx-inset-community.jpg"
 author: "Rick Spilman"
 description: "On Monday, the Polar Star struck a rock while at anchor near Detaille Island, a small island off the Northern end of Arrowsmith Peninsula in Antarctica.     The grounding damaged the outer hull of the double hulled ship.  The ship sailed for the Arctowski Station, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "hostage"
   - "seafarers"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/sos1.jpg"
 author: "Rick Spilman"
 description: "The last paragraph of the Associated Press article Navy SEAL Raid in Somalia Shows Campaign Ahead, reads: Several hostages were still being held in Somalia, including a British tourist, two Spanish doctors seized from neighboring Kenya and an American journalist kidnapped on Saturday. Based … Continue reading &rarr;"
 ---

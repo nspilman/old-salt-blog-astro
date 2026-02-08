@@ -12,6 +12,7 @@ tags:
   - "Carnival Magic"
   - "Ebola"
   - "Texas Presbyterian Hospital"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/cmagic1.jpg"
 author: "Rick Spilman"
 description: "A nurse, who may have been exposed to Ebola at Texas Presbyterian Hospital in Dallas, is now being quarantined on the cruise ship, Carnival Magic."
 ---

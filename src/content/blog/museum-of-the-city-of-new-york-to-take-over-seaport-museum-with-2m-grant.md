@@ -11,6 +11,7 @@ tags:
   - "Museum of the City of New York"
   - "Seaport Museum of New York"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "The Seaport Museum of New York, better known as the South Street Seaport Museum, will be taken over by the Museum of the City of New York with starting funds of $2 million in the form of a grant from the … Continue reading &rarr;"
 ---

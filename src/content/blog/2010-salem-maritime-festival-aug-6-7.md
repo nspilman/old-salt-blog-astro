@@ -12,6 +12,7 @@ tags:
   - "Salem Maritime Festival"
   - "Schooner Fame of Salem"
   - "Schooner Thomas E. Lannon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Collage-Logox8.5sm.jpg"
 author: "Rick Spilman"
 description: "The Salem Maritime Festival starts this Friday.  The tall ship Friendship of Salem will be joined in port by Schooner Thomas E. Lannon and Schooner Fame of Salem.   The Friendship is a replica of an 1797 East Indiaman.    The Thomas E. Lannon is … Continue reading &rarr;"
 ---

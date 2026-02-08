@@ -10,6 +10,7 @@ tags:
   - "Coast Guard"
   - "fog"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/tampafog.jpg"
 author: "Rick Spilman"
 description: "The Port of Tampa was recently closed by the US Coast Guard due to heavy sea fog. A dozen ships, including the Royal Caribbean cruise ship, Brilliance of the Seas, were delayed offshore for almost two days."
 ---

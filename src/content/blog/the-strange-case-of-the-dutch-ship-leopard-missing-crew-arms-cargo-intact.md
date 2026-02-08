@@ -12,6 +12,7 @@ tags:
   - "Leopard"
   - "Oman"
   - "pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/leopard_new.jpg"
 author: "Rick Spilman"
 description: "This story is a few days old, but remains strange and disturbing.  The Dutch coaster Leopard, carrying a cargo of weapons, was reported to have been hijacked by pirates in the Indian Ocean off the coast of Oman last week, but when a Turkish naval … Continue reading &rarr;"
 ---

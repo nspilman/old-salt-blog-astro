@@ -12,6 +12,7 @@ tags:
   - "New Jersey Coast"
   - "Robert J. Walker"
   - "steamer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/qo478-walker2.jpg"
 author: "Rick Spilman"
 description: "In 1970, fisherman discovered a shipwreck in about 85 feet of water, ten miles off the Absecon Inlet on the New Jersey coast.   For more than 40 years, divers have visited the unidentified wreck.  Now the National Oceanic and Atmospheric Administration … Continue reading &rarr;"
 ---

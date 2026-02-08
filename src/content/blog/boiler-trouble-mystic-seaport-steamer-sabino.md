@@ -12,6 +12,7 @@ tags:
   - "Mystic Seaport Museum"
   - "Sabino"
   - "steamer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/sabino.jpg"
 author: "Rick Spilman"
 description: "The steamer Sabino, built in 1908, has been a popular attraction at the Mystic Seaport Museum since 1974, offering boat rides on the Mystic River to an estimated 33,000 passengers yearly. The steamboat; which the museum bills as the oldest … Continue reading &rarr;"
 ---

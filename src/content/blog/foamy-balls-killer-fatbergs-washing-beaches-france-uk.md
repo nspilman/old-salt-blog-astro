@@ -5,6 +5,7 @@ slug: "foamy-balls-killer-fatbergs-washing-beaches-france-uk"
 excerpt: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as \"foamy balls,\" \"strange spongelike clumps,\" \"yellow mousse\" and \"possibly the biggest … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/fuzzy-balls.jpg"
 author: "Rick Spilman"
 description: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as \"foamy balls,\" \"strange spongelike clumps,\" \"yellow mousse\" and \"possibly the biggest … Continue reading &rarr;"
 ---

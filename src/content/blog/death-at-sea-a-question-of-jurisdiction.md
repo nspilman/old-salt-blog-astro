@@ -11,6 +11,7 @@ tags:
   - "Alexia"
   - "Dutch flag"
   - "Ukrainian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/alexia.jpg"
 author: "Rick Spilman"
 description: "A Ukrainian sailor, on a Dutch ship in international waters steaming toward Houston, Texas, got into a fight with a fellow crew member  New Year’s Eve and the next morning was found dead in his cabin.   An autopsy is being performed to determine the … Continue reading &rarr;"
 ---

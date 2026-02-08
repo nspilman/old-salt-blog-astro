@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "New York Fleet Week"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/fw2015.jpg"
 author: "Rick Spilman"
 description: "From May 20 -- May 26 an estimated 1,500 Navy sailors, Marines and Coast Guardsmen will visit New York City in celebration of Fleet Week New York."
 ---

@@ -12,6 +12,7 @@ tags:
   - "Bermuda Triangle"
   - "CBS"
   - "El Faro"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/bermudatraingle.jpg"
 author: "Rick Spilman"
 description: "The CBS news program \"60 Minutes\" recently did a report on the sinking of El Faro. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a … Continue reading &rarr;"
 ---

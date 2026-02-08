@@ -6,6 +6,7 @@ excerpt: "The 15th Annual Fisher Poets Gathering is underway in Astoria, Oregon.
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/fisherpoets.jpg"
 author: "Rick Spilman"
 description: "The 15th Annual Fisher Poets Gathering is underway in Astoria, Oregon.  As the name suggests, it is a gathering where poets of the sea swap verse, music and stories.  Men and women tied to the fishing industry share original poems, … Continue reading &rarr;"
 ---

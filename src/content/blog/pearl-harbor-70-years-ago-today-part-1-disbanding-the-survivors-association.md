@@ -9,6 +9,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Pearl Harbor Survivors Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/phattack.jpg"
 author: "Rick Spilman"
 description: "It was inevitable. The Pearl Harbor Survivors Association will observe the 70th anniversary of the attack on Pearl Harbor on this day in 1941.  It will be the  Association’s last observance. The group has too few remaining members to carry on and will disband on … Continue reading &rarr;"
 ---

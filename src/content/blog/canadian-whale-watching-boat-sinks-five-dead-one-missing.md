@@ -14,6 +14,7 @@ tags:
   - "Tofino"
   - "Vancouver Island"
   - "whale watching boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/leviathanii.jpg"
 author: "Rick Spilman"
 description: "MV Leviathan II, a 65′ whale watching boat, sank late yesterday afternoon, off the port of Tofino on Vancouver Island, British Columbia, Canada. 27 were aboard when the vessel sank. Five are reported to have died and one person is … Continue reading &rarr;"
 ---

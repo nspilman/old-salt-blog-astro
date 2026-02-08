@@ -14,6 +14,7 @@ tags:
   - "Joseon dynasty"
   - "Korea"
   - "Sperwer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/img_korea_his_54.jpg"
 author: "Rick Spilman"
 description: "On August 15th, 1653, the Dutch East India Company ship, Sperwer (Sparrow Hawk), was shipwrecked on Jeju Island off the southern coast of Korea.  Thirty six of the sixty four crew survived. One of the survivors was the ship’s book keeper, Hendrick … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Brooklyn waterfront"
   - "Hidden Harbor tour"
   - "Working Waterfront Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/brooklynwaterfronthhtour.jpg"
 author: "Rick Spilman"
 description: "If you are around New York harbor this Thursday, September 15th, the Working Harbor Committee is hosting their latest Hidden Harbor Tour : Brooklyn Waterfront –Past & Present. Captain Margaret Flannagan will be the guest speaker in a 2-hour, fully narrated boat tour of … Continue reading &rarr;"
 ---

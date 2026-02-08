@@ -11,6 +11,7 @@ tags:
   - "mega-yacht"
   - "Seven Seas"
   - "Steven Spielberg"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/sevenseas1.jpg"
 author: "Rick Spilman"
 description: "Movie director Steven Spielberg is putting his $200 million, 282′ mega-yacht, Seven Seas, up for sale, reportedly because it is too small. He is having a new yacht built, costing roughly $250 million, which, oddly, at 300′, is only 18′ … Continue reading &rarr;"
 ---

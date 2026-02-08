@@ -8,6 +8,7 @@ categories:
 tags:
   - "New York airports"
   - "Perimeter Intrusion Detection System"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/072714kayak.jpg"
 author: "Rick Spilman"
 description: "Bumbling recreational boaters have managed to blunder through the security system wholly undetected at the two city airports located on the water."
 ---

@@ -16,6 +16,7 @@ tags:
   - "Moore McCormack Lines"
   - "Rio class C3 Class passenger/cargo liners"
   - "Rio de Janeiro"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/USS-Charger.jpg"
 author: "Rick Spilman"
 description: "In 1940 and 1941, Moore McCormack Lines took delivery of four Rio class C3 Class passenger/cargo liners from Sun Shipbuilding.   They were the Rio Hudson, the Rio Parana, the Rio de la Plata and the  Rio de Janeiro.  In May … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "dolphins"
   - "Gulf of Mexico"
   - "sea turtles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/ddolphin-100x69.jpg"
 author: "Rick Spilman"
 description: "Hundreds of dead dolphins and sea turtles are washing ashore on the beaches of the Gulf of Mexico.  No one knows exactly what is killing them though  many point to the BP Deepwater Horizon oil spill of a year ago.   In the mean … Continue reading &rarr;"
 ---

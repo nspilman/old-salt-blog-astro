@@ -13,6 +13,7 @@ tags:
   - "SS Athenia"
   - "world war I"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Athenia-2-01.jpg"
 author: "Rick Spilman"
 description: "Seventy five years ago this month, Donaldson Line passenger liner SS Athenia became the first British ship to be sunk by a German U-boat in World War II."
 ---

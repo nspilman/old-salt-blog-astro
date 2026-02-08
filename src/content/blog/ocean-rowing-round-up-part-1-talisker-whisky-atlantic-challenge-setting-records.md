@@ -11,6 +11,7 @@ tags:
   - "Row For Freedom team"
   - "Row to Recovery team"
   - "Talisker Whisky Atlantic Challenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Row2Recovery_5015.jpg"
 author: "Rick Spilman"
 description: "The Talisker Whisky Atlantic Challenge, which bills itself as the \"world’s toughest rowing race,\" is winding down. Of the 17 boats which set out on December 4th, seven boats have crossed the finish line in Barbados, four are still rowing, … Continue reading &rarr;"
 ---

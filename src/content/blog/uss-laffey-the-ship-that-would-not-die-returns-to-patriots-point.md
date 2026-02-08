@@ -13,6 +13,7 @@ tags:
   - "Okinawa"
   - "Patriots Point Naval and Maritime Museum"
   - "USS LAFFEY"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/laffey_return.jpg"
 author: "Rick Spilman"
 description: "The World War II destroyer, USS Laffey, has returned home to Patriots Point Naval and Maritime Museum, near Charleston, South Carolina after a two year $9 million dollar shipyard period to repair her hull plating. The USS Laffey was commissioned … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "schooner"
   - "State of Florida"
   - "Western Union"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/tall-ship-about-schooner.jpg"
 author: "Rick Spilman"
 description: "The Florida Legislature has designated the schooner Western Union as the state’s official flagship. The schooner was built in 1939 and served for 35 years as as a cable vessel for the Western Union Telegraph Company, repairing and maintaining undersea … Continue reading &rarr;"
 ---

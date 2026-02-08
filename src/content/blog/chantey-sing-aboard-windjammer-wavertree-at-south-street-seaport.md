@@ -13,6 +13,7 @@ tags:
   - "South Street Seaport"
   - "Wavertree"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/07/wavertreesunset.jpg"
 author: "Rick Spilman"
 description: "If you are around New York harbor on Sunday, there is a wonderful opportunity to hear and join in singing sea chanteys as they were meant to be sung, onboard a windjammer. The chantey sing will aboard the restored 1885 … Continue reading &rarr;"
 ---

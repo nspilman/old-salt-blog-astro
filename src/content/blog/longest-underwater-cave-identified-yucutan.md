@@ -14,6 +14,7 @@ tags:
   - "Tulum"
   - "Underwater Cave"
   - "Yucutan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/yucutancave1.jpg"
 author: "Rick Spilman"
 description: "Several years ago, my wife and I went snorkeling in the Dos Ojos cenote in Mexico’s Yucatan peninsula near Tulum.  A cenote is a deep, water-filled sinkhole in limestone, often connected to freshwater underwater caverns and tunnels. The limestone filtered water was crystal … Continue reading &rarr;"
 ---

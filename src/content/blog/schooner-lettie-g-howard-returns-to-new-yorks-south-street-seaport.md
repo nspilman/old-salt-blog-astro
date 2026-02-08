@@ -10,6 +10,7 @@ tags:
   - "new york"
   - "schooner"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/lettieg.jpg"
 author: "Rick Spilman"
 description: "OK, we are a week late and it is snowing outside, but we do want to to wish the schooner Lettie G. Howard the warmest of welcomes now that she has returned to her berth at the South Street Seaport. We … Continue reading &rarr;"
 ---

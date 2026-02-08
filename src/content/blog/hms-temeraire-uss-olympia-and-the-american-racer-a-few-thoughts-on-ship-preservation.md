@@ -15,6 +15,7 @@ tags:
   - "Sam Willis"
   - "The Fighting Temeraire"
   - "USS Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/5227825617_273e966207_o.jpg"
 author: "Rick Spilman"
 description: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, \"The Fighting Temeraire,\"  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
 ---

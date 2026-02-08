@@ -10,6 +10,7 @@ tags:
   - "Craigslist"
   - "Fleet Week"
   - "New York City"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/alg_uss_new_york.jpg"
 author: "Rick Spilman"
 description: "The times are changing. No news there. Rather than welcoming the sailors and marines on the docks, some New Yorkers are reaching out to sailors during Fleet Week using social networking.  Some sailors and marines are connecting with New Yorkers the same way.  Craigslist seems … Continue reading &rarr;"
 ---

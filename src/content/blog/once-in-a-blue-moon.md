@@ -7,6 +7,7 @@ categories:
   - "Current"
 tags:
   - "blue moon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Moon.jpg"
 author: "Rick Spilman"
 description: "Tonight’s sky will be graced by a \"blue moon.\"  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us. … Continue reading &rarr;"
 ---

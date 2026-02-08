@@ -8,6 +8,7 @@ categories:
 tags:
   - "Great Chesapeake Bay Schooner Race"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/gcbsr17.jpg"
 author: "Rick Spilman"
 description: "The 2017 Great Chesapeake Bay Schooner Race turned out to be a great race indeed. The schooner Virginia, which has been absent in recent years due to financial issues, returned to race and was the first across the finish line, breaking her … Continue reading &rarr;"
 ---

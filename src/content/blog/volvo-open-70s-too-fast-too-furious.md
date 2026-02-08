@@ -9,6 +9,7 @@ categories:
 tags:
   - "Volvo Ocean 70"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/vopen70.jpg"
 author: "Rick Spilman"
 description: "The Volvo Ocean 70 is the latest and greatest ocean racer.  With their carbon fiber hulls, towering rigs and canting keels, they sail faster than the wind and as a class are the fastest monohulls ever built. Based on the … Continue reading &rarr;"
 ---

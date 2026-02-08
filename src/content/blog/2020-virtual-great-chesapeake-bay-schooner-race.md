@@ -9,6 +9,7 @@ tags:
   - "2020 Virtual Great Chesapeake Bay Schooner Race"
   - "Great Chesapeake Bay Schooner Race"
   - "Virtual Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/gcbsr.jpg"
 author: "Rick Spilman"
 description: "We are a bit late posting about the 2020 Virtual Great Chesapeake Bay Schooner Race, but there is still time to join in.  In any normal year, the Great Chesapeake Bay Schooner Race attracts dozens of schooners on the Bay, … Continue reading &rarr;"
 ---

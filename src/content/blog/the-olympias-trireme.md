@@ -15,6 +15,7 @@ tags:
   - "N. B. Rankov"
   - "Olympias"
   - "trireme"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/trireme_.jpg"
 author: "Rick Spilman"
 description: "Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as \"mythological.\"   The  Olympias trireme, built in 1987,  designed by the naval architect John Coates, who died last week, … Continue reading &rarr;"
 ---

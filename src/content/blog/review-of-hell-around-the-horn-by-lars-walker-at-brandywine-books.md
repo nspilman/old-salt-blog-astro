@@ -5,6 +5,7 @@ slug: "review-of-hell-around-the-horn-by-lars-walker-at-brandywine-books"
 excerpt: "A new review of  \"Hell Around the Horn\" by Lars Walker at Brandywine Books: \"Among the many pleasures of the reading life, one of the rarest is the unassuming but excellent novel. That was what I found, to my delight, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "A new review of  \"Hell Around the Horn\" by Lars Walker at Brandywine Books: \"Among the many pleasures of the reading life, one of the rarest is the unassuming but excellent novel. That was what I found, to my delight, … Continue reading &rarr;"
 ---

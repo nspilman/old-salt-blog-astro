@@ -11,6 +11,7 @@ tags:
   - "LDV Comanche"
   - "Rolex Sydney to Hobart yacht race"
   - "Wild Oats XI"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/commanchewoats.jpg"
 author: "Rick Spilman"
 description: "This year’s Rolex Sydney to Hobart yacht race saw drama at both the start and the finish of the race. Indeed, the drama at the start determined who would be awarded the line honors at the finish. Let’s start with … Continue reading &rarr;"
 ---

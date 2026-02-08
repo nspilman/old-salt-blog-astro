@@ -10,6 +10,7 @@ categories:
 tags:
   - "Nuclear Powered Container/LASH Vessel"
   - "Sevmorput"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/sevmorput.jpg"
 author: "Rick Spilman"
 description: "Nuclear powered ships were the future that never quite arrived.  The Russian container ship/LASH carrier Sevmorput is the only remaining nuclear powered merchant ship and it is slated to be scrapped. No future for nuclear-powered container ship … Continue reading &rarr;"
 ---

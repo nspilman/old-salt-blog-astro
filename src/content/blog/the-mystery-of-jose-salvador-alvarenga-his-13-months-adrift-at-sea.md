@@ -11,6 +11,7 @@ tags:
   - "José Salvador Alvarenga"
   - "Marshall Islands"
   - "Mexico"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Castaway-Jose-Salvador-Albarengo.jpg"
 author: "Rick Spilman"
 description: "On Saturday, we posted about a man who drifted ashore in a 22-24′ fiberglass boat on Ebon Atoll in the Marshall Islands, claiming that he had spent the last 13 months lost at sea. He claims that his boat was … Continue reading &rarr;"
 ---

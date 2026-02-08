@@ -10,6 +10,7 @@ tags:
   - "Mystic Seaport Museum"
   - "Richard \"Kip\" Files"
   - "whaleship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/Capt_Files_Credit_Fred_LeBlanc-640x489.jpg"
 author: "Rick Spilman"
 description: "In September we posted about the search for a new captain for the historic whaleship Charles W. Morgan.  The whaler, which recently underwent a major reconstruction, first sailed in 1841 and is scheduled to sail again on a three month voyage … Continue reading &rarr;"
 ---

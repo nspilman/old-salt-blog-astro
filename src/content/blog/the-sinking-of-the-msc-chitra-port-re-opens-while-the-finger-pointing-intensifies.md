@@ -17,6 +17,7 @@ tags:
   - "Mumbai"
   - "Oil spill"
   - "sinking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/chitra1.jpg"
 author: "Rick Spilman"
 description: "The containership MSC Chitra and the bulk carrier Khalijia 3 collided near Mumbai, India on Saturday, resulting in the sinking of the  MSC Chitra, a significant oil spill and the loss of at least 200 containers in the ship channel which … Continue reading &rarr;"
 ---

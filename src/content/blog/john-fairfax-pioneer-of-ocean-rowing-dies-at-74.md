@@ -6,6 +6,7 @@ excerpt: "These are busy days in ocean rowing. The Talisker Whisky Atlantic Chal
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/John-Fairfax.jpg"
 author: "Rick Spilman"
 description: "These are busy days in ocean rowing. The Talisker Whisky Atlantic Challenge has finishing up and the Bouvet Guyane Solo Atlantic Rowing Race 2012 is well underway.  There have been races across the Indian Ocean and races are scheduled for the Pacific.  It … Continue reading &rarr;"
 ---

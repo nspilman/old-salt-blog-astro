@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "cruise ads"
   - "newspaper advertisements"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Cruise-Ad-Il-Gazzettino.jpg"
 author: "Rick Spilman"
 description: "As the tragedy of the Costa Concordia plays out, newspapers still need to sell ads.  Recently some of the juxtapositions have been, well, unfortunate. (Click on any of the thumbnails below for a larger image.) Italy’s Il Gazzettino featured a … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "London 2012 Olympics"
   - "River Thames"
   - "Royal Navy light cruiser"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/article-2059193-0EB8B5C700000578-161_634x829-96x125.jpg"
 author: "Rick Spilman"
 description: "The image on the right is a new poster for the London 2012 Olympics featuring a section of the River Thames. The image on the left is a photo of the roughly the same section of the river.  Notice a difference? (Click … Continue reading &rarr;"
 ---

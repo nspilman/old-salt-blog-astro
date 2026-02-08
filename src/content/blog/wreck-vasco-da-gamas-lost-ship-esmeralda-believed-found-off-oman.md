@@ -12,6 +12,7 @@ tags:
   - "Esmeralda"
   - "Oman"
   - "Vasco da Gama"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/dagama1.jpg"
 author: "Rick Spilman"
 description: "The wreck of the Esmeralda, a ship from Portuguese explorer Vasco da Gama’s  second voyage to India in 1502 and 1503, is believed to have been found close to Al Hallaniyah island, near the coast of Oman according to an … Continue reading &rarr;"
 ---

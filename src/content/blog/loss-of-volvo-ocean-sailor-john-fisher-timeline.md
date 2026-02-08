@@ -11,6 +11,7 @@ tags:
   - "John Fisher"
   - "Team Sun Hung Kai / Scallywag"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/johnfisher2.jpg"
 author: "Rick Spilman"
 description: "Team Sun Hung Kai/Scallywag has put out a timeline of events in the recent loss of John Fisher overboard while sailing in high winds and seas in the Southern Ocean in the Volvo Ocean Race. They were sailing in Leg 7 … Continue reading &rarr;"
 ---

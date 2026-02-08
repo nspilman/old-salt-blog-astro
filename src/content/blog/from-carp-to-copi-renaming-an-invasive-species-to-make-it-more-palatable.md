@@ -15,6 +15,7 @@ tags:
   - "grass carp"
   - "Patagonia toothfish"
   - "silver carp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/copi.jpg"
 author: "Rick Spilman"
 description: "If you can’t beat them, eat them. That is the idea at the Illinois Department of Natural Resources as one approach to managing the ongoing invasion of invasive carp in the Mississippi and connecting rivers. They even propose renaming the … Continue reading &rarr;"
 ---

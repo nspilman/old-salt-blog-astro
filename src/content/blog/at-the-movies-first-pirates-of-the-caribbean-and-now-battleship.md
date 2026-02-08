@@ -9,6 +9,7 @@ categories:
 tags:
   - "battleship"
   - "pirates of the caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/brooklyn-decker.jpg"
 author: "Rick Spilman"
 description: "Once movies were based on great novels.  Of course, they usually ruined the story, but at least you could say, \"I liked the book better.\"   Then, seven years ago,  Jerry Bruckheimer produced a movie based on a Disney World … Continue reading &rarr;"
 ---

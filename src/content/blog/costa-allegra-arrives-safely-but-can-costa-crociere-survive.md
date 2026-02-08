@@ -5,6 +5,7 @@ slug: "costa-allegra-arrives-safely-but-can-costa-crociere-survive"
 excerpt: "After 72 hours without power,lights, air conditioning or hot food, the disabled Costa Allegra was towed safely to the island of Mahe in the Seychelles this morning. The fire in the engine room was extinguished by the ship’s force and despite being  inconvenienced and made … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/costastack1.jpg"
 author: "Rick Spilman"
 description: "After 72 hours without power,lights, air conditioning or hot food, the disabled Costa Allegra was towed safely to the island of Mahe in the Seychelles this morning. The fire in the engine room was extinguished by the ship’s force and despite being  inconvenienced and made … Continue reading &rarr;"
 ---

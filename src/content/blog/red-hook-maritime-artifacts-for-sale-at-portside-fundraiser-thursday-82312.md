@@ -12,6 +12,7 @@ tags:
   - "PortSide NY"
   - "Redhook"
   - "Todd Shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/portsideart.jpg"
 author: "Rick Spilman"
 description: "If you are anywhere near New York harbor this Thursday, Redhook is the place to be. PortSide NY is vacating its pop-up office/gallery and is selling a fascinating range of art and artifacts. Paintings, photographs and illustrations by contemporary artists … Continue reading &rarr;"
 ---

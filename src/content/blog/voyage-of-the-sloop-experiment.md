@@ -11,6 +11,7 @@ tags:
   - "China"
   - "Experiment"
   - "Hudson river sloop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/11/model1.jpg"
 author: "Rick Spilman"
 description: "Having sailed last week on the Hudson River sloop, Clearwater, a voyage by another Hudson River sloop came to mind.  In 1785 the Hudson River sloop Experiment was only the second ship from the young American republic to sail to China. … Continue reading &rarr;"
 ---

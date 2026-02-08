@@ -14,6 +14,7 @@ tags:
   - "Sevastopol"
   - "submarine tunnel"
   - "Ukrainian Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/russiansubtunnel.jpg"
 author: "Rick Spilman"
 description: "Analysis by H I Sutton, writing in NavalNews.com, suggests that the Russian Navy is re-establishing a base at Balaklava, a small inlet 5 miles south of Sevastopol that was the site of a major naval base during the Cold War. … Continue reading &rarr;"
 ---

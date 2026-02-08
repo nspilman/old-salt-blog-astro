@@ -13,6 +13,7 @@ tags:
   - "iPad"
   - "Peggotty"
   - "Petunia Seaways"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/Peggotty.jpg"
 author: "Rick Spilman"
 description: "The UK Marine Accident Investigation Branch (MAIB) recently released a report on a collision between the 50 ft wooden WWII-era training boat Peggotty and the 32,000 GT cargo ferry Petunia Seaways on the UK’s Humber estuary. The report concluded that … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Chinese maritime surveillance ships"
   - "Hamilton class cutter"
   - "Scarborough Shoal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/300px-BRP_Goyo_Hawaii.jpg"
 author: "Rick Spilman"
 description: "The South China Sea is home to a myriad of competing claims for territory, fishing, oil and mineral rights by China, the Philippines, Vietnam, Brunei, Malaysia and Taiwan.  There is currently a stand-off between Chinese ships and the Philippine navy … Continue reading &rarr;"
 ---

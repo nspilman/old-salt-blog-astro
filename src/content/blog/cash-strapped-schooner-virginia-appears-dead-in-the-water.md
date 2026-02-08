@@ -11,6 +11,7 @@ tags:
   - "Chesapeake Bay Schooner race"
   - "Schooner Virginia"
   - "Virginia Maritime Heritage Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Smaller_virginia.jpg"
 author: "Rick Spilman"
 description: "In 2007 the schooner Virginia won the great Chesapeake Bay Schooner race, establishing a record time which remains unbeaten.   This year, sadly, while the other schooners raced, she remained tied to a dock in  Norfolk, Virginia. Cash-strapped Schooner Virginia appears dead in the water … Continue reading &rarr;"
 ---

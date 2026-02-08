@@ -12,6 +12,7 @@ tags:
   - "Oyster 90"
   - "Polina Star III"
   - "Spain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/oyster90-200x131.jpg"
 author: "Rick Spilman"
 description: "In early July, the year old Polina Star III – an extended 90ft version of the Oyster 825 -- suffered some sort of hull failure and sank off Spain."
 ---

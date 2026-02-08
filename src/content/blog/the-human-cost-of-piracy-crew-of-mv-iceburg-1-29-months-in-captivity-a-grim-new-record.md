@@ -11,6 +11,7 @@ tags:
   - "MV Iceburg 1"
   - "Panamanian-flagged ro/ro"
   - "pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/iceberg1_web.jpg"
 author: "Rick Spilman"
 description: "On March 29, 2010, the Panamanian-flagged ro/ro MV Iceburg 1 was hijacked by pirates about 10 nautical miles off the port of Aden, Yemen. Her crew of 24, of which 22 are believed to have survived, have been held hostage for 29 months.  The … Continue reading &rarr;"
 ---

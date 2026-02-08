@@ -11,6 +11,7 @@ tags:
   - "Belle Poule"
   - "Pouf"
   - "Tall Ships Sunderland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/sunderlandhat.jpg"
 author: "Rick Spilman"
 description: "The Sunderland Tall Ships Festival is projected to attract m ore than 1.5 million people next July. For those of us lying awake at night wondering what we should wear to the event, designer Kathryn Russell has at least one … Continue reading &rarr;"
 ---

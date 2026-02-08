@@ -10,6 +10,7 @@ categories:
 tags:
   - "icebreaker"
   - "Polar Star"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/polarstar2.jpg"
 author: "Rick Spilman"
 description: "There is a serious crisis at our border. No, not the Southern border, where crossings are at close to a 50 year low. I am referring to our Northern border, the Arctic Sea, where the US has only one heavy icebreaker, … Continue reading &rarr;"
 ---

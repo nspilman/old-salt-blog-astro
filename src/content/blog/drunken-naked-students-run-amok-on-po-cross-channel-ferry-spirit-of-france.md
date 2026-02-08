@@ -13,6 +13,7 @@ tags:
   - "P&amp;O cross channel ferry"
   - "Spirit of France"
   - "University of Manchester"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/spiritfrance.jpg"
 author: "Rick Spilman"
 description: "After posting about far too many needless tragedies on poorly maintained third world ferry boats which sink and kill their passengers, here is something completely different, though still involving a ferry. Last week, fitting enough on April Fool’s Day, two hundred students from two British universities, … Continue reading &rarr;"
 ---

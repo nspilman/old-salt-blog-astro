@@ -12,6 +12,7 @@ tags:
   - "Naval Postgraduate School"
   - "Office of Naval Research"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/mmowgli-728-75.jpg"
 author: "Rick Spilman"
 description: "The US Navy’s newest strategic weapon may be a Massive Multiplayer Online Wargame.  If it works for HALO and gears of War, why not the Navy?  The project is a joint effort between the Office of Naval Research (ONR), Naval Postgraduate School (NPS) and Institute … Continue reading &rarr;"
 ---

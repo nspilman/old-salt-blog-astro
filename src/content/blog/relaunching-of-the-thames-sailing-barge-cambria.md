@@ -12,6 +12,7 @@ tags:
   - "Cambria"
   - "Standard Quay"
   - "Thames sailing barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/cambria1.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted about the rebuilding of the last commercial Thames sailing barge, Cambria. The reconstruction is nearing its completion. Tomorrow, Monday 21st March, 2011, the Cambria will be relaunched into Faversham Creek, and move downstream to Iron Wharf … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Soviet"
   - "submarine"
   - "Zulu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/b80zulu.jpg"
 author: "Rick Spilman"
 description: "A group of \"urban explorers\" ventured out to climb aboard an abandoned Soviet submarine tied up in the Maritime Quarter, the former NDSM shipyard in Amsterdam North, in the Netherlands. The submarine was built in 1956 or 1957. It was designated … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Kivalina"
   - "NOAA"
   - "spores"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/orange_goo_1_606.jpg"
 author: "Rick Spilman"
 description: "Just over a week ago we posted about a a bright orange jelly or \"goo\" that floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric … Continue reading &rarr;"
 ---

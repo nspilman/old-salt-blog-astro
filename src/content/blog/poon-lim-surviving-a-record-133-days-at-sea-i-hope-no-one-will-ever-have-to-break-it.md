@@ -12,6 +12,7 @@ tags:
   - "German submarine"
   - "Poon Lim"
   - "U-172"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/Poon-Lim.jpg"
 author: "Rick Spilman"
 description: "Poon Lim, a Chinese merchant seaman, survived for 133 days on a wooden life raft in the South Atlantic in 1942, the only survivor of the steamer, Benlomond."
 ---

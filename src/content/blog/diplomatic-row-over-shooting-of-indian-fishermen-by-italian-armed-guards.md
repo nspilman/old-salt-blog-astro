@@ -13,6 +13,7 @@ tags:
   - "Latorre Massimiliano"
   - "Salvatore Girone"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/ENRICA_LEXIE.jpg"
 author: "Rick Spilman"
 description: "Two Italian marines, Latorre Massimiliano and Salvatore Girone, are in an Indian jail awaiting trial for the alleged murder of two Indian fisherman. They are at the center of a legal & diplomatic fight over the use of armed guards … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/USS_Olympia_with_Dewey_at_B.jpg"
 author: "Rick Spilman"
 description: "Dewey on the Olympia at Manila Bay I am not sure if it is irony or merely a confirmation that Faulkner was right – the past isn’t dead. It isn’t even past.  Not long after the Independence Seaport Museum in Philadelphia … Continue reading &rarr;"
 ---

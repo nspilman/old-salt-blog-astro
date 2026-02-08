@@ -15,6 +15,7 @@ tags:
   - "USS Porpoise"
   - "USS Vincennes"
   - "Wiki Coffin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/ussporpoise.jpg"
 author: "Rick Spilman"
 description: "The US Botanic Garden, the oldest continually operating botanic garden in the US, was founded with plants brought back from the Wilkes Expedition."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Falmouth Tall Ships Regatta"
   - "Kruzenshtern"
   - "Russian four-masted barque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/divemasterk.jpg"
 author: "Rick Spilman"
 description: "The Russian barque Kruzenshtern has withdrawn from the Falmouth Tall Ships Regatta, the sinking of a tug in the Danish port of Esbjerg last week."
 ---

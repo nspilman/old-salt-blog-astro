@@ -10,6 +10,7 @@ tags:
   - "Chesapeake"
   - "crabls"
   - "visa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/blue-crab1.jpg"
 author: "Rick Spilman"
 description: "The good news is that the waters of the Chesapeake are getting progressively cleaner and the crab population has experienced a significant rebound. The bad news is that anti-immigrant politics have plunged the Chesapeake crabbing industry into chaos. First, more … Continue reading &rarr;"
 ---

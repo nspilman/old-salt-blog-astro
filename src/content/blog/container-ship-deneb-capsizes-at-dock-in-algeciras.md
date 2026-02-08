@@ -14,6 +14,7 @@ tags:
   - "Maersk"
   - "Spain"
   - "Svitzer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/u1_deneb01.jpg"
 author: "Rick Spilman"
 description: "Another capsize in the news. Last Saturday, the container feeder ship Deneb capsized at the Maersk terminal in Algeciras, Spain.   Cargo handling had been shut down  due to stability concerns. A few hours later the ship rapidly listed to 50 … Continue reading &rarr;"
 ---

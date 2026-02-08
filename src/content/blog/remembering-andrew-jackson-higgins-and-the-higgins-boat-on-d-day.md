@@ -5,6 +5,7 @@ slug: "remembering-andrew-jackson-higgins-and-the-higgins-boat-on-d-day"
 excerpt: "I am aware of only one man who was praised by both Eisenhower and Hitler. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for us. … If Higgins had not designed and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/lilboatpic.jpg"
 author: "Rick Spilman"
 description: "I am aware of only one man who was praised by both Eisenhower and Hitler. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for us. … If Higgins had not designed and … Continue reading &rarr;"
 ---

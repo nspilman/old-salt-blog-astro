@@ -11,6 +11,7 @@ tags:
   - "Fleet Week"
   - "Opsail"
   - "PortSide New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/portside-1.jpg"
 author: "Rick Spilman"
 description: "Many visitors think of New York as the island of Manhattan.  The City of New York is in fact five boroughs, only one of which is connected to the mainland.  If Brooklyn, the largest borough, had remained an independent city, as … Continue reading &rarr;"
 ---

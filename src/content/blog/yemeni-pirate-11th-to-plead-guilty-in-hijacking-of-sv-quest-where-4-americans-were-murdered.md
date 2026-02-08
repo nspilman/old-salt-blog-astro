@@ -15,6 +15,7 @@ tags:
   - "S/V Quest"
   - "Scott and Jean Adams"
   - "Yemeni"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/t1larg.mounir.ali_.usms_.jpg"
 author: "Rick Spilman"
 description: "In February, the sailing vessel Quest was hijacked by pirates 240 nautical miles off the coast of Oman in the Indian Ocean.  The yacht’s crew of four Americans were taken hostage.  The pirates were finally captured by US forces but not before they killed … Continue reading &rarr;"
 ---

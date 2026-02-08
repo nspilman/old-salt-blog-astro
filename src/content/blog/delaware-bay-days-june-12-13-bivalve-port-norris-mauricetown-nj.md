@@ -14,6 +14,7 @@ tags:
   - "Mauricetown"
   - "Port Norris"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/159.jpg"
 author: "Rick Spilman"
 description: "From the Bayshore Discovery Project: Delaware Bay Days, the free two-day folklife festival celebrating the Bay and the Bayshore region, returns June 12 & 13 with events in Bivalve, Port Norris and Mauricetown, NJ, with a schedule featuring new activities … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "oldest remaining excursion steamship"
   - "S.S. Columbia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/columbia.jpg"
 author: "Rick Spilman"
 description: "The 113 year old, SS Columbia, the oldest remaining excursion steamship in the United States, is one leg closer in her long journey to restoration and operation. She has just completed a drydocking in Toledo, Ohio and is being prepared … Continue reading &rarr;"
 ---

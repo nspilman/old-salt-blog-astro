@@ -11,6 +11,7 @@ tags:
   - "Jose Ivan"
   - "Marshall Islands"
   - "Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/MapMarshallIslandslocator.jpg"
 author: "Rick Spilman"
 description: "A man recently drifted ashore in a 24′ fiberglass boat on Ebon Atoll in the Marshall Islands in the northern Pacific.  He speaks only Spanish and says his name is Jose Ivan.  He claims to have set off from Mexico heading … Continue reading &rarr;"
 ---

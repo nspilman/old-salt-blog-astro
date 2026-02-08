@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/MargMuir2-150x150.jpg"
 author: "Rick Spilman"
 description: "I am a big fan of both Margaret Muir and Linda Collison.  Both are marvelous writers – skilled story tellers whose writing about the Age of Sail has both an immediacy and an understated authenticity that draws the reader into … Continue reading &rarr;"
 ---

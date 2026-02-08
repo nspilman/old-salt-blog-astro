@@ -12,6 +12,7 @@ tags:
   - "Caligula"
   - "Lake"
   - "Nemi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/nemiship1.jpg"
 author: "Rick Spilman"
 description: "Part of one of Roman Emperor Caligula‘s ceremonial Nemi ships has been recovered from an unexpected location. The New York Times reports that a four-by-four piece of mosaic flooring from one of the ships has been \"sitting in … the Park … Continue reading &rarr;"
 ---

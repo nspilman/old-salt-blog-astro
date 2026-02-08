@@ -10,6 +10,7 @@ tags:
   - "21st Annual Wooden Boat Show"
   - "mystic seaport"
   - "Wooden Boat magazine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/wboatshow.jpg"
 author: "Rick Spilman"
 description: "For anyone who loves wooden boats, Mystic Seaport is the place to be this weekend.  Starting Friday and running through the weekend, the 21st Annual WoodenBoat Show will feature a fleet of beautiful wooden boats of all shapes and sizes as well … Continue reading &rarr;"
 ---

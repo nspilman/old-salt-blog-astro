@@ -14,6 +14,7 @@ tags:
   - "clipper ship"
   - "heavy-lift ship"
   - "MV Palanpur"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/cityofadelaideph.jpg"
 author: "Rick Spilman"
 description: "The world’s oldest surviving clipper ship, City of Adelaide, has arrived in Port Hedland, Western Australia. She has been carried from Scotlandon the deck of the heavy-lift ship MV Palanpur, with intermediate stops to load and discharge other cargo.  MV Palanpur is … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Ocean X Team"
   - "Russian round-ironclad battleship"
   - "Swedish treasure hunters"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/balticmfalcon1.jpg"
 author: "Rick Spilman"
 description: "Last June, while doing sonar sweeps of the bottom of the Baltic Sea, the Swedish treasure hunters, Ocean X Team, saw something that they did not understand.  It appeared to be a 197 feet diameter disk-shaped object at the depth of approximately 275 feet.   … Continue reading &rarr;"
 ---

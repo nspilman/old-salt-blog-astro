@@ -9,6 +9,7 @@ categories:
 tags:
   - "Edmund ‘Ned’ Cabot"
   - "Newfoundland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Cabot-3291.jpg"
 author: "Rick Spilman"
 description: "Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  Cielita was knocked down by a \"rogue wave\" and he was lost overboard. Edmund ‘Ned’ Cabot, Boston … Continue reading &rarr;"
 ---

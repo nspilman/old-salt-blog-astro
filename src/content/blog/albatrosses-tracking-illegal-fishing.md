@@ -11,6 +11,7 @@ tags:
   - "exclusive economic zones"
   - "fishing boats"
   - "illegal fishing GPS trackers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/01/albatross.jpg"
 author: "Rick Spilman"
 description: "Four years ago, we posted about an attempt to use \"big data\" to crack down on illegal fishing. Google partnered with SkyTruth and Oceana to produce a new tool, Global Fishing Watch, to track global fishing activity. The problem is that to avoid … Continue reading &rarr;"
 ---

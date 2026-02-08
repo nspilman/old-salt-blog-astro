@@ -13,6 +13,7 @@ tags:
   - "heavy-lift ship"
   - "new york"
   - "Peking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/combidock1.jpg"
 author: "Rick Spilman"
 description: "In early April, the Hamburger Abendblatt newspaper reported that the heavy-lift ship Combi Dock 1 will carry windjammer Peking home to Germany to restored in its original home-port of Hamburg for restoration. Last Friday, Will Van Dorp posted photos on his Tugster … Continue reading &rarr;"
 ---

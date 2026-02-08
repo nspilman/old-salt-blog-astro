@@ -14,6 +14,7 @@ tags:
   - "New York Shiplore and Model Club"
   - "Stonington"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/stoningtoncannon.jpg"
 author: "Rick Spilman"
 description: "Two hundred and two years ago this week, in a three day battle, the militia at Stonington, CT drove off a four ship Royal Navy flotilla during the War of 1812.  Here is lightly edited repost about the battle from July … Continue reading &rarr;"
 ---

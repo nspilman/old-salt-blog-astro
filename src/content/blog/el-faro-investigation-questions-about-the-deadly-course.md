@@ -10,6 +10,7 @@ tags:
   - "investigation"
   - "TOTE"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/elfaroring.jpg"
 author: "Rick Spilman"
 description: "Why did Captain Michael Davidson set a course that brought his ship, El Faro, into the path of Hurricane Joaquin last October with tragic results? That question, for which we many never have a fully satisfactory answer, has been at the core … Continue reading &rarr;"
 ---

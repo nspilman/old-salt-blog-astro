@@ -13,6 +13,7 @@ tags:
   - "Russian jack-up drilling rig"
   - "Sakhalin Island"
   - "Sea of Okhotsk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/182001124925pmkolskaya.jpg"
 author: "Rick Spilman"
 description: "The Russian jack-up drilling rig, Kolskaya, capsized while under tow in a storm in the Sea of Okhotsk, 200 KM off Sakhalin Island at 12.45 local time (0145 GMT) Sunday.  Of the 67 crew on board, 14 were rescued,  four are reported to have … Continue reading &rarr;"
 ---

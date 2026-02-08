@@ -11,6 +11,7 @@ tags:
   - "Mario Sanchez"
   - "South Street Seaport Museum"
   - "Street Shots/NYC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/150.jpg"
 author: "Rick Spilman"
 description: "The South Street Seaport Museum is reopening on Friday, December 14 with the launch of two new exhibitions –  A Fisherman’s Dream: Folk Art by Mario Sanchez and Street Shots/NYC, a presentation of contemporary New York City street photography. They … Continue reading &rarr;"
 ---

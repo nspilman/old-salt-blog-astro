@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/George_Washington.jpg"
 author: "Rick Spilman"
 description: "In the United States, today is celebrated as Washington’s Birthday, also widely known as Presidents Day.  On this the official day of celebration of his birthday, it seems worthwhile to  look back on General George Washington’s navy of 1775 and … Continue reading &rarr;"
 ---

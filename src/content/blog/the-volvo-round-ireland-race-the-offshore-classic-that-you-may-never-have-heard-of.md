@@ -10,6 +10,7 @@ tags:
   - "Royal Ocean Racing Club"
   - "Volvo Round Ireland Yacht Race"
   - "Wicklow Sailing Club"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/VRIYRheader.jpg"
 author: "Rick Spilman"
 description: "When I hear \"Volvo Round ….\" I immediately fill in the blank with \"the World.\" (OK, technically, the race is named the Volvo Ocean Race, not the Volvo Round the Word Race.)  I had never heard of the Volvo Round … Continue reading &rarr;"
 ---

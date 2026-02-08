@@ -11,6 +11,7 @@ tags:
   - "Chilean Navy"
   - "Esmeralda"
   - "White Lady"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/esmeralda.jpg"
 author: "Rick Spilman"
 description: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the \"White Lady.\"   She is the sister ship to the four-masted … Continue reading &rarr;"
 ---

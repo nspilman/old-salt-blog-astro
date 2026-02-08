@@ -17,6 +17,7 @@ tags:
   - "Pride of Baltimore II"
   - "Star-Spangled Banner"
   - "Star-Spangled Sailabration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/baltimoresail.jpg"
 author: "Rick Spilman"
 description: "Starting this Wednesday, June 13th, Baltimore, MD will host its \"Star-Spangled Sailabration,\"  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade … Continue reading &rarr;"
 ---

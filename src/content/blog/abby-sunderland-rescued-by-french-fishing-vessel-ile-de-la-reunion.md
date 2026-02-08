@@ -10,6 +10,7 @@ tags:
   - "Abby Sunderland"
   - "French fishing vessel"
   - "Ile de Reunion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/M-V_Ile_de_-la_Reunion.jpg"
 author: "Rick Spilman"
 description: "The French fishing vessel, Ile de Reunion, plucked Abby Sunderland from her damaged sailboat  on Sunday, 2,000 nautical miles off western Australia. French fishing boat rescues stranded Calif. teen … Continue reading &rarr;"
 ---

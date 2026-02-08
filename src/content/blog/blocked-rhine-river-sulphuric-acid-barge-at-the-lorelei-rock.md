@@ -13,6 +13,7 @@ tags:
   - "Rhine River"
   - "sulfuric acid"
   - "Waldhof"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/539w.jpg"
 author: "Rick Spilman"
 description: "Two floating cranes are now in place to begin salvaging the Waldhof,  a capsized 330 foot long tanker barge, loaded with 2,400 tonnes of sulfuric acid, which has blocked traffic on the Rhine River, Europe’s busiest inland water way, for over a … Continue reading &rarr;"
 ---

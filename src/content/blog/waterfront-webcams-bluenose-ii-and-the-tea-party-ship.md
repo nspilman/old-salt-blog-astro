@@ -13,6 +13,7 @@ tags:
   - "Gloucester"
   - "Leon Poindexter"
   - "Lunenburg Shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/bluenoseII.jpg"
 author: "Rick Spilman"
 description: "The old expression goes \"I love work. I could look at it for hours.\"  The web cams at the Lunenburg Shipyard give us a fine glimpse of the work being done rebuilding the Bluenose II.   There are actually three webcams, a … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/ostarcapsize.jpg"
 author: "Rick Spilman"
 description: "Last night, MV Dong Fang Zhi Xing, capsized in a storm on the Yangtze River while carrying 458 passengers and crew. So far over 430 are missing."
 ---

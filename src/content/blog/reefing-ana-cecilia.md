@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Ana Cecilia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/anacecilia.jpg"
 author: "Rick Spilman"
 description: "Last week, we posted about the upcoming scuttling of the Luck Lady, ex-Newtown Creek, later this month as an artificial reef off Pompano Beach, FL. Recently, about fifty miles to the north of Pompano, the cargo ship Ana Cecilia was sunk about 1.25 … Continue reading &rarr;"
 ---

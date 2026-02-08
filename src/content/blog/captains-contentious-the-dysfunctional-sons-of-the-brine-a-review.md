@@ -7,6 +7,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/captaincontentious.jpg"
 author: "Rick Spilman"
 description: "Louis Arthur Norton’s book Captains Contentious – The Dysfunctional Sons of the Brine is an entertaining reminder that history is finally about individuals, dedicated to the causes in which they believe, as well as serving their own needs and obsessions. … Continue reading &rarr;"
 ---

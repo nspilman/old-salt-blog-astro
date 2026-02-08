@@ -13,6 +13,7 @@ tags:
   - "Rebecca of Vineyard Haven"
   - "schooner"
   - "Tom Dunlop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/schooner.jpg"
 author: "Rick Spilman"
 description: "In late May,  we posted about the publication of a beautiful new book by Alison Shaw and Tom Dunlop, Schooner – Building a Wooden Boat on Martha’s Vineyard.   We recently had the opportunity to read the book.  Our review: Schooner – … Continue reading &rarr;"
 ---

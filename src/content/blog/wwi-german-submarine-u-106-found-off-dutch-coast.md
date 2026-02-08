@@ -15,6 +15,7 @@ tags:
   - "official war grave"
   - "Royal Dutch Navy"
   - "U-106"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/33769.jpg"
 author: "Rick Spilman"
 description: "The German submarine U-106 was believed to have hit a British mine when it sank on October 7, 1917 off the coast of the Netherlands. WWI submarine found off Dutch coast … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Michelle Obama"
   - "National Security Cutter Stratton"
   - "U.S. Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/stratton.jpg"
 author: "Rick Spilman"
 description: "Last Friday, Michelle Obama was the first First Lady ever to christen a US Coast Guard Cutter, the National Security Cutter Stratton.   The cutter is named after the first woman to serve as a commissioned officer in the U. S. … Continue reading &rarr;"
 ---

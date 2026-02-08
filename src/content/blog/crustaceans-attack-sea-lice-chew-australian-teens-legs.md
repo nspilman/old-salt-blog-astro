@@ -10,6 +10,7 @@ tags:
   - "Australia"
   - "Mellbourne"
   - "sea lice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/sealiceattack.jpg"
 author: "Rick Spilman"
 description: "Australian waters can be dangerous. Over the years we have posted about attacks by crocodiles, sharks and deadly jellyfish.   This hazard, however, is new, at least to us. Recently, Australian media was flooded with photos of the bloodied legs … Continue reading &rarr;"
 ---

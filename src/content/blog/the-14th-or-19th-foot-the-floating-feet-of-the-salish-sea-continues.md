@@ -10,6 +10,7 @@ tags:
   - "foot"
   - "running shoe"
   - "Salish Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/shoesalishsea.jpg"
 author: "Rick Spilman"
 description: "A human foot in a hiking boot recently washed ashore on the banks of the Salish Sea in British Columbia. It is the 14th \"disarticulated\" foot that has washed ashore in a shoe or boot on the Salish Sea in Canada since … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Julian Stockwin"
   - "Thomas Paine Kydd"
   - "Trafalgar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/victory1.jpg"
 author: "Rick Spilman"
 description: "We have fallen way behind in our book reviews. Until we catch up, here is a review of Julian Stockwin’s new novel, Victory, republished with permission from Astrodene’s Historic Naval Fiction. Astrodene Review: Victory by Julian Stockwin Victory starts off with a major setback … Continue reading &rarr;"
 ---

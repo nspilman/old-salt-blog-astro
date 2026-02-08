@@ -12,6 +12,7 @@ tags:
   - "flooding"
   - "MS Marco Polo"
   - "storms"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Marco_Polo_Bergen_2010.jpg"
 author: "Rick Spilman"
 description: "A unusually large wave killed an 85 year old man and injured a woman in her 70s on the cruise ship MS Marco Polo in the English Channel, as it headed for its home port of Tilbury, in Essex.  Both were … Continue reading &rarr;"
 ---

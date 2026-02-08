@@ -12,6 +12,7 @@ tags:
   - "flooding"
   - "South Street Seaport Museum"
   - "storm surge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Ambrose1.jpg"
 author: "Rick Spilman"
 description: "The area around the South Street Seaport on the East River in lower Manhattan was particularly hard hit by the storm surge from Hurricane Sandy.  The rising water reached the first floor eaves, devastating homes and businesses. The only good news was that the seven historic vessels at … Continue reading &rarr;"
 ---

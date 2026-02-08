@@ -5,6 +5,7 @@ slug: "peru-lays-keel-of-la-union-to-be-the-largest-sail-training-ship-in-south-
 excerpt: "The Peruvian navy has laid the keel for its new sail training ship, La Union, at the Marine Industrial Services (Sima) shipyard in Callao. When completed in 2015, the ship will be the largest sail training vessel in South America. The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/545725.jpg"
 author: "Rick Spilman"
 description: "The Peruvian navy has laid the keel for its new sail training ship, La Union, at the Marine Industrial Services (Sima) shipyard in Callao. When completed in 2015, the ship will be the largest sail training vessel in South America. The … Continue reading &rarr;"
 ---

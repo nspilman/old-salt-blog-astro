@@ -11,6 +11,7 @@ tags:
   - "Donegal"
   - "pilot whales"
   - "Rutland Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0003e351-314.jpg"
 author: "Rick Spilman"
 description: "Sad news from over the weekend.   A post-mortem on the 35 dead pilot whales was cancelled Sunday due to bad weather. Whales found dead on Donegal beach … Continue reading &rarr;"
 ---

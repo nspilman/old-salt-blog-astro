@@ -11,6 +11,7 @@ tags:
   - "hudson river"
   - "ice"
   - "Robert Fulton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/fulton.jpg"
 author: "Rick Spilman"
 description: "Robert Fulton died 200 years ago today after becoming soaked in icy water when a friend fell through the ice on the Hudson River."
 ---

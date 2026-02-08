@@ -10,6 +10,7 @@ tags:
   - "Antarctic"
   - "climate change"
   - "warming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/penguin-e1356704050292.jpeg"
 author: "Rick Spilman"
 description: "In December we posted about NOAA’s Arctic Report Card 2012, which showed record low ice and snowfall in the Arctic. Nevertheless, some have pointed to the recent growth of Antarctic ice to suggest that climate change may not be a dramatic … Continue reading &rarr;"
 ---

@@ -18,6 +18,7 @@ tags:
   - "Taeping"
   - "Taitsing"
   - "tea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/tearaceteaping.jpg"
 author: "Rick Spilman"
 description: "In 1866, five clipper ships set out together from Foochow, China bound for England in what would be the last  Great Tea Race. On September 6th, one hundred and fifty years ago today, after sailing more than 15,000 nautical miles, … Continue reading &rarr;"
 ---

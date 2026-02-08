@@ -11,6 +11,7 @@ tags:
   - "Indian Ocean"
   - "Laura Dekker"
   - "Zac Sunderland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/dekkerindianocean.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker has celebrated her 16th birthday and has set sail from Darwin, Australia on a westerly course across the Indian Ocean bound for Africa.  Given the concern about piracy in the Indian Ocean, her exact route is being kept … Continue reading &rarr;"
 ---

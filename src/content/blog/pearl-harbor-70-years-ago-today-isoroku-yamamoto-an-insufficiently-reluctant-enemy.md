@@ -11,6 +11,7 @@ tags:
   - "Admiral Yamamoto"
   - "Isoroku Yamamoto"
   - "Pearl Harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/1101411222_400.jpg"
 author: "Rick Spilman"
 description: "We seem to need to put a face to our enemies. On the cover of Time Magazine of December 22, 1941, the face of the enemy was Admiral Yamamoto, labeled as \"Japan’s Aggressor.\" The image of the admiral is a … Continue reading &rarr;"
 ---

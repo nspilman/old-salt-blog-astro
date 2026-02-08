@@ -14,6 +14,7 @@ tags:
   - "Samuel Kenneth McDonough"
   - "Seattle"
   - "Victoria Clipper"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/victoria-clipper.jpg"
 author: "Rick Spilman"
 description: "What could be nicer than a boat ride on your birthday? Last Sunday, on his 33rd birthday, Samuel Kenneth McDonough allegedly took the Victoria Clipper, a 132′ high speed passenger ferry, for a several hour joy-ride in Seattle’s Elliot Bay. … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa_concordia9-125x70.jpg"
 author: "Rick Spilman"
 description: "Divers have found five more bodies in the wreckage of the Costa Concordia which ran aground and sank on January 13, 2012 off the island of Giglio, Italy. The presumed death toll remains at 32, with only two of the roughly 4,200 passengers and … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "L'Ecole Nouvelle Royal Caribbean"
   - "Royal Caribbean Cruise Lines"
   - "school"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/rcclCruise.jpg"
 author: "Rick Spilman"
 description: "The news from Haiti recently has been uniformly bad.  In addition to earthquake damage,  outbreaks of cholera are now sweeping the country. One bright spot is a new school, L’Ecole Nouvelle Royal Caribbean.  Built by Royal Caribbean Cruise Lines, it is one of the first … Continue reading &rarr;"
 ---

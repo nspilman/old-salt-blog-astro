@@ -12,6 +12,7 @@ tags:
   - "Maine"
   - "Portland"
   - "USS John F Kennedy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/jfkcarrier.jpg"
 author: "Rick Spilman"
 description: "We have previously posted about efforts to permanently moor the decommissioned aircraft carrier USS John F. Kennedy in Portland, Maine.   The Navy is is considering proposals from Portland and Rhode Island.  Many in Portland are not happy at the prospect … Continue reading &rarr;"
 ---

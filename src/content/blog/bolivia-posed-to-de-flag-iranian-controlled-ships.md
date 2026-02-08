@@ -14,6 +14,7 @@ tags:
   - "Islamic Republic of Iran Shipping Lines"
   - "Malta"
   - "sanctions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Flag_of_Bolivia_state.svg_.jpg"
 author: "Rick Spilman"
 description: "Bolivia is poised to de-flag fifteen ships linked to the Islamic Republic of Iran Shipping Lines (IRISL) just weeks after these ships were flagged into the Bolivian registry. The ships had previously been registered in Malta and Cyprus. Facing international sanctions over its … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "British Expeditionary Force"
   - "Dunkirk: The Forgotten Heros"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/dunkirk1.jpg"
 author: "Rick Spilman"
 description: "A few days ago we posted about the \"Little Ships of Dunkirk\" returning to Ramsgate to commemorate the 70th anniversary of the evacuation.  This Friday there is what looks to be a very interesting documentary, Dunkirk: The Forgotten Heros,  focusing on escape … Continue reading &rarr;"
 ---

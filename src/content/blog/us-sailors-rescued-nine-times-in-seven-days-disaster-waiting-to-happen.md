@@ -10,6 +10,7 @@ tags:
   - "Nora"
   - "rescue"
   - "Sir Robin Knox-Johnston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/nora1.jpg"
 author: "Rick Spilman"
 description: "Two American sailors, Bob Weise and Steve Shapiro, both 71, have been attempting to sail across the Atlantic from Norway to Maine in a 40′ gaff rigged sloop named Nora. They began the attempt last July and it has not … Continue reading &rarr;"
 ---

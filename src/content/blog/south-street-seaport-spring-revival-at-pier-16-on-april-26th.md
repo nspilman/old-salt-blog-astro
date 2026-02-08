@@ -11,6 +11,7 @@ tags:
   - "Capt. Jonathan Boulware"
   - "South Street Seaport"
   - "Spring Revival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/SSMSpringRevival.jpg"
 author: "Rick Spilman"
 description: "If you are in the New York area on Saturday, April 26th, be sure to stop by the South Street Seaport to celebrate a Spring revival with the grand reopening of Pier 16 and the Street of Ships. Capt. Jonathan Boulware, … Continue reading &rarr;"
 ---

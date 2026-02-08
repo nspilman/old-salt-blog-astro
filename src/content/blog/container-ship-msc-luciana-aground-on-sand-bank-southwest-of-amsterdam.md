@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/fbetz7.jpg"
 author: "Rick Spilman"
 description: "If you think that you are having a bad Monday morning, consider the plight of the master of the container ship MSC Luciana. The ship was bound from Antwerp to Felixstowe when it ran aground on a sand bar in the Westerschelde, … Continue reading &rarr;"
 ---

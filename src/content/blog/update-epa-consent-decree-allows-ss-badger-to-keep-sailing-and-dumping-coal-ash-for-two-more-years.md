@@ -9,6 +9,7 @@ categories:
 tags:
   - "Lake Michigan"
   - "SS Badger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Badger2.jpg"
 author: "Rick Spilman"
 description: "Toward the end of last year, we posted about the the battle over the continued operation of the SS Badger, the last coal-fired passenger vessel operating on the Great Lakes.  To her admirers she is a national treasure.  To her detractors she … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "climate hcange"
   - "ice"
   - "melting"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/antarctice.jpg"
 author: "Rick Spilman"
 description: "A new study from the journal Nature makes a terrifying observation — the rate at which Antarctic ice is melting has tripled from only a decade ago. This is significant as more than 60 percent of the freshwater on Earth is … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "lumber schooners"
   - "Rainmaker"
   - "Twenty One Friends"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/rainmaker.jpg"
 author: "Rick Spilman"
 description: "Derelicts, abandoned ships often waterlogged and just barely afloat, are fascinating ghosts which wander the seas according to the vagaries of the winds and the currents. They are also significant hazards to navigation. In the later half of the 19th … Continue reading &rarr;"
 ---

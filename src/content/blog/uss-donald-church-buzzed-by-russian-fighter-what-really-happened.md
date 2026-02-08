@@ -12,6 +12,7 @@ tags:
   - "Black Sea"
   - "Russian SU-24 fighter jet"
   - "USS Donald Cook"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/USS_Donald_Cook_.jpg"
 author: "Rick Spilman"
 description: "Last April, the Arleigh Burke-class guided missile destroyer USS Donald Cook was \"buzzed\" by a Russian SU-24 fighter jet."
 ---

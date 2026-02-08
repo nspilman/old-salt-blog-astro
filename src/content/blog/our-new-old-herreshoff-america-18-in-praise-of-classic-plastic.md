@@ -11,6 +11,7 @@ tags:
   - "classic plastic"
   - "Herreshoff America 18"
   - "Lake George"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/Hague-20130705-00249.jpg"
 author: "Rick Spilman"
 description: "I will admit that I am not a lover of wooden vessels. An admirer from afar, perhaps.  The truth is that I am afraid of rot.  I don’t understand it, and, as is often the case, I fear what I … Continue reading &rarr;"
 ---

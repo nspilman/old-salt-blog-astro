@@ -11,6 +11,7 @@ tags:
   - "Dana Point"
   - "Ocean Institute"
   - "Toshiba Tall Ships Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/danapointfestival.jpg"
 author: "Rick Spilman"
 description: "The Ocean Institute is celebrating its 29th year hosting the Toshiba Tall Ships Festival at Dana Point, CA.  The festival kicks off with a tall ships parade at sunset tomorrow, September 6th with festivities continuing through the weekend.  Participating ships include … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Cape of Good Hope"
   - "Groupama 3"
   - "maxi-trimaran"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/bptriverne.jpg"
 author: "Rick Spilman"
 description: "Last February the crew of  the  130′ long by 120′ wide maxi-trimaran Banque Populaire V was forced to give up their attempt to the win the Jules Verne trophy for the fastest circumnavigation by sail when the trimaran struck an \"unidentified floating object\" while … Continue reading &rarr;"
 ---

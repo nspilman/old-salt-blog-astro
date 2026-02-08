@@ -14,6 +14,7 @@ tags:
   - "Texas State University-San Marcos"
   - "tides"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Moon.jpg"
 author: "Rick Spilman"
 description: "The headline writers have been having fun.  The Daily Beast headline reads – Moon to Blame for Titanic Sinking?  Reuters asks and answers its own question – \"What sank the Titanic? Scientists point to the moon.\"  The Times of India gets alliterative … Continue reading &rarr;"
 ---

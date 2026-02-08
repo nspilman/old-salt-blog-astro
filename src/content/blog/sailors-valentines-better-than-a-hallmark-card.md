@@ -11,6 +11,7 @@ tags:
   - "Barbados"
   - "Penobscot Marine Museum"
   - "Sailors' Valentines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/Sailors_valetine.jpg"
 author: "Rick Spilman"
 description: "Happy Valentines Day!   Yesterday, the Penobscot Marine Museum in Searsport, Maine held a sailor’s valentine workshop.  (See our previous post.)   Sailors’ valentines were traditionally octagonal wooden boxes with a glass front,  with intricate symmetrical designs inside, often made of shells … Continue reading &rarr;"
 ---

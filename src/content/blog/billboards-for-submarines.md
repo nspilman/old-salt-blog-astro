@@ -11,6 +11,7 @@ tags:
   - "Ivar Haglund"
   - "Ivar’s Seafood"
   - "underwater billboards"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/ivarssign.jpg"
 author: "Rick Spilman"
 description: "We previously posted about the Royal Navy installing Windows on submarines. We were relieved to learn that the  reference was to an a computer operating system and not panes of glass.    Then again, it appears that the late Ivar Haglund, owner … Continue reading &rarr;"
 ---

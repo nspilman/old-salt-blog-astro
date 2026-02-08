@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/pictoncastle2.jpg"
 author: "Rick Spilman"
 description: "In March of 2018, the barque Picton Castle will set off on its seventh world voyage — an epic year-long voyage under sail.  Berths are available for trainees for the full year-long voyage or for individual voyage legs. Beginning in Lunenburg, Nova Scotia, Canada, Picton … Continue reading &rarr;"
 ---

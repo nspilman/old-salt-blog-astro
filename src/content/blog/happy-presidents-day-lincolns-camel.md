@@ -12,6 +12,7 @@ tags:
   - "camel"
   - "Nantucket"
   - "U.S. Patent Office"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/nantucketcamel.jpg"
 author: "Rick Spilman"
 description: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  Here is a repost of the tale of Lincoln’s camel that we ran back … Continue reading &rarr;"
 ---

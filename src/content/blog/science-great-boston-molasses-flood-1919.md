@@ -9,6 +9,7 @@ categories:
 tags:
   - "Great Boston Molasses Flood"
   - "North End"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/BostonMolassesDisaster.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a serious molasses spill in Honolulu harbor which has killed 26,000 fish and may have longer term consequences for the harbor ecology.  Rick Austin was kind enough to forward an article about a far larger and … Continue reading &rarr;"
 ---

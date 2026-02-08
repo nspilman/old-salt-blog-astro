@@ -13,6 +13,7 @@ tags:
   - "Micoperi"
   - "Titan Salvage"
   - "Titan-Micoperi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/0117-Costa-Concordia-italia.jpg"
 author: "Rick Spilman"
 description: "Representatives of Titan-Micoperi presented their plans to raise the Costa Concordia from where she sank after running aground off the island of Gilgio last January.  Titan-Micoperi is the consortium of Titan Salvage, the Crowley-owned specialist marine salvage company, and Italian marine contractor Micoperi, which … Continue reading &rarr;"
 ---

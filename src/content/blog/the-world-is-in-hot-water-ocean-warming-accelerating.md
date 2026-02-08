@@ -9,6 +9,7 @@ categories:
 tags:
   - "journal Science"
   - "Ocean Warming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/oceanwarming.jpg"
 author: "Rick Spilman"
 description: "A new analysis published in the journal Science has concluded that the oceans are warming four times faster than had been previously predicted by a United Nations panel five years ago. The research found that ocean temperatures had broken records … Continue reading &rarr;"
 ---

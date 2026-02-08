@@ -13,6 +13,7 @@ tags:
   - "Destroyer Squadron 1"
   - "USS Momsen"
   - "USS Ponce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/cosfired-1.jpg"
 author: "Rick Spilman"
 description: "Last week the Navy relieved the commanding officers – Commander Jay Wylie of the guided missle destroyer, USS Momsen; Commander Etta Jones of the amphibious transport dock ship, USS Ponce; and Captain Donald Hornbeck in command of Destroyer Squadron 1. … Continue reading &rarr;"
 ---

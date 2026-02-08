@@ -13,6 +13,7 @@ tags:
   - "Liaoning"
   - "Shenyang J-15"
   - "Sukhoi Su-33"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/chineseaircraftcarrier2.jpg"
 author: "Rick Spilman"
 description: "Now that China has finally commissioned  Liaoning, its first aircraft carrier, the discussion has focused on whether the ship is a meaningful addition to the Chinese Navy or merely a symbol of status and prestige. Some have pointed out that the … Continue reading &rarr;"
 ---

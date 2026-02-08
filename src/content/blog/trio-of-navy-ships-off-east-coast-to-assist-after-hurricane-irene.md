@@ -12,6 +12,7 @@ tags:
   - "USS New York"
   - "USS San Antonio"
   - "USS Wasp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/USS_Wasp.jpg"
 author: "Rick Spilman"
 description: "Three US Navy amphibious assault and transport ships; the USS Wasp, the USS San Antonio, and the USS New York; are just offshore of New York harbor as of this morning to provide assistance, if needed, to the states of New York, Connecticut or New Jersey after Hurricane Irene. … Continue reading &rarr;"
 ---

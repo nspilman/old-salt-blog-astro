@@ -10,6 +10,7 @@ categories:
 tags:
   - "Navy Pier"
   - "Tall Ships Chicago 2010"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/tschicago..jpg"
 author: "Rick Spilman"
 description: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, \"Twenty Ships. Six Days. Once-in-a-Lifetime. \" Tall Ships Chicago 2010 – … Continue reading &rarr;"
 ---

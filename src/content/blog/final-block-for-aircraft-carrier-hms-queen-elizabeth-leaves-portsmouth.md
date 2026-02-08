@@ -13,6 +13,7 @@ tags:
   - "HMS Queen Elizabeth"
   - "Portsmouth"
   - "Rosyth Dockyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/blockhmsqe.jpg"
 author: "Rick Spilman"
 description: "Remember when ships were built from the keel up and launched by sliding down the building ways into the water with a satisfying splash?  OK, maybe I am showing my age. These days ships are built like LEGOs, massive LEGOs, … Continue reading &rarr;"
 ---

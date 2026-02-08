@@ -12,6 +12,7 @@ tags:
   - "entanglement"
   - "nets"
   - "West Coast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/bluewhaleentangled.jpg"
 author: "Rick Spilman"
 description: "On Monday, a 70-80 foot long blue whale entangled in crab or fish nets and lines was spotted off the coast of Dana Point in southern California.  A marine mammal rescue team attempted cut the nets and lines to free the … Continue reading &rarr;"
 ---

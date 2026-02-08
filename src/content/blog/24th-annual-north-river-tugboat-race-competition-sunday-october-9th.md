@@ -10,6 +10,7 @@ tags:
   - "24th Annual North River Tugboat Race &amp; Competition"
   - "hudson river"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/24thtugrace.jpg"
 author: "Rick Spilman"
 description: "The 24th Annual North River Tugboat Race & Competition was originally scheduled for Labor Day, but Tropical Storm Hermine interfered. The rescheduled event, sponsored by the Working Harbor Committee will be held on Sunday, October 9th from 9am-2pm at Pier … Continue reading &rarr;"
 ---

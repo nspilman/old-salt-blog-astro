@@ -14,6 +14,7 @@ tags:
   - "South China Sea"
   - "Taiwan"
   - "Vietnam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/scsmap.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about a stand-off between Chinese fishing vessels and Philippine Coast Guard ships at Scarborough Shoal in the South China  Sea.  Both nations claim sovereignty over the area. Even the island name is in contention. The Philipines refers to Scarborough Shoal as Panatag … Continue reading &rarr;"
 ---

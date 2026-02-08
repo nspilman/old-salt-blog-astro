@@ -14,6 +14,7 @@ tags:
   - "HMS Levant"
   - "HMS Pictou"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/constitution_sail_-_cover_photo.jpg"
 author: "Rick Spilman"
 description: "October 21st is a busy day in nautical history. In addition to being the anniversary of the Battle of Trafagar of 1805, it was also the day that the the USS Constitution was launched in 1797.  A three-masted US Navy heavy frigate, … Continue reading &rarr;"
 ---

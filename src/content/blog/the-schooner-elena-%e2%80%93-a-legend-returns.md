@@ -12,6 +12,7 @@ tags:
   - "1928 Trans Atlantic King’s Cup"
   - "Nathaniel Herreshoff"
   - "Schooner Elena"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/elana.jpg"
 author: "Rick Spilman"
 description: "\"Super yachts\"  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, \"Eclipse,\" may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
 ---

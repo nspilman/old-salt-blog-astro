@@ -10,6 +10,7 @@ tags:
   - "great white shark"
   - "Long Island"
   - "shark nursery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/gwshark1.jpg"
 author: "Rick Spilman"
 description: "North Pacific humpback whales feed in Alaska but they winter in the Hawaiian Islands, where they mate, calve and nurse their young. The Pacific grey whales do something quite similar, spend their winters in the warm lagoons of Baja, Mexico, … Continue reading &rarr;"
 ---

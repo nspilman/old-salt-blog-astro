@@ -11,6 +11,7 @@ categories:
 tags:
   - "iceberg"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Tberg.jpg"
 author: "Rick Spilman"
 description: "The headlines are great. \"Iceberg that Sank the Titanic 100,000 years old\" and \"Titanic iceberg was a 100,000-year-old giant\" and \"Iceberg that sank the Titanic was 100,000-years-old and of monstrous size\" and so and so on. Dozens of headlines and … Continue reading &rarr;"
 ---

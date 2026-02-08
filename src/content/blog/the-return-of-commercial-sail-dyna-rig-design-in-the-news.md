@@ -16,6 +16,7 @@ tags:
   - "Maltese Falcon"
   - "Tres Hombres"
   - "William Prölss"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/ship_flags.jpg"
 author: "Rick Spilman"
 description: "Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, \"As long as the wind blows and water flows there will be sailing ships built and business to keep them … Continue reading &rarr;"
 ---

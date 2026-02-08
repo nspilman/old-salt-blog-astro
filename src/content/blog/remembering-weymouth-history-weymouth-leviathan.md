@@ -9,6 +9,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Weymouth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Riverywey1.jpg"
 author: "Rick Spilman"
 description: "I am attending the Weymouth Leviathan, a maritime literary festival, in the lovely, historic port at the mouth of the River Wey in Dorset on the south-western coast of England. It is a fitting locale. Most of the writers attending … Continue reading &rarr;"
 ---

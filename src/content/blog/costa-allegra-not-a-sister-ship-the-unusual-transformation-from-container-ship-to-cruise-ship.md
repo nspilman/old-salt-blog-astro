@@ -15,6 +15,7 @@ tags:
   - "Costa Concordia"
   - "Costa Marina"
   - "Rederi AB Nordstjernan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/costa_allegra_1969_1.jpg"
 author: "Rick Spilman"
 description: "The headlines from several media sources (see here or here) have referred to the Costa Allegra, the cruise ship adrift in the Indian Ocean after an engine room fire, as a sister ship to the Costa Concordia.  A sister ship is generally defined as a \"a ship of the … Continue reading &rarr;"
 ---

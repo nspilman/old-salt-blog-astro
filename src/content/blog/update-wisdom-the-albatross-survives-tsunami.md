@@ -12,6 +12,7 @@ tags:
   - "survivor"
   - "tsunami"
   - "Wisdom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/OLDEST-BIRD-IN-AMERICA-100x91.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about a Laysan albatross, nicknamed Wisdom, who, at at least 60, is the oldest known wild bird and who also recently became a mother again, delivering a healthy chick.   The BBC has now reported that while the tsunami killed … Continue reading &rarr;"
 ---

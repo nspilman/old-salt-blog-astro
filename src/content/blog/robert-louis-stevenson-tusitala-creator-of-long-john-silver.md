@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/rlstevenson.jpg"
 author: "Rick Spilman"
 description: "Robert Lewis Balfour Stevenson was born today 160 years ago in Edinburgh, Scotland.   His father grandfather and great-uncles  were light house engineers and designers, but Robert was too sickly as a child to follow in the family profession.  Instead,  he became a writer, … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Hr Ms KXVI"
   - "Japanese submarine"
   - "Singaporean divers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/vertrekXVI.jpg"
 author: "Rick Spilman"
 description: "The Dutch submarine Hr Ms KXVI was part of an Allied fleet attempting to stop the Japanese invasion of the Dutch East Indies, when it was sunk by a Japanese submarine on the day after Christmas, 1941. Since then the wreck of … Continue reading &rarr;"
 ---

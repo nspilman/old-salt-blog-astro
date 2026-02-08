@@ -12,6 +12,7 @@ tags:
   - "Exy Johnson"
   - "Irving Johnson"
   - "Los Angeles Maritime Institute's \"TopSail Youth Program"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/07260369a-125x115.jpg"
 author: "Rick Spilman"
 description: "Talk about match racing!  This Sunday off Newport Beach, CA, two identical brigantines, the Irving Johnson and the Exy Johnson, will race.  They will be manned by crews from rival local clubs, the Bahia Corinthian and Balboa Yacht clubs, under the supervision … Continue reading &rarr;"
 ---

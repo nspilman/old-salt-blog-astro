@@ -12,6 +12,7 @@ tags:
   - "Costa Concordia"
   - "Italian court"
   - "manslaughter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costaconcordia.jpg"
 author: "Rick Spilman"
 description: "An Italian court has convicted five people of manslaughter related to the sinking of the cruise ship Costa Concordia in January 2012, which killed 32 passengers and crew.  Each of the five agreed to plea bargains and none may serving … Continue reading &rarr;"
 ---

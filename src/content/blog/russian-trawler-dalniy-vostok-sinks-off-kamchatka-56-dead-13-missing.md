@@ -12,6 +12,7 @@ tags:
   - "Kamchatka"
   - "Russian trawler"
   - "Sea of Okhotsk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/rtrawler.jpg"
 author: "Rick Spilman"
 description: "Dalniy Vostok, a Russian freezer trawler, has sunk in the Sea of Okhotsk off the Kamchatka peninsula. 56 are reported to have died, while 13 remain missing."
 ---

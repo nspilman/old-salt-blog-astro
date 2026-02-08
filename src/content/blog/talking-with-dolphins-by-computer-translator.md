@@ -10,6 +10,7 @@ tags:
   - "Cetacean Hearing and Telemetry"
   - "dolphin"
   - "two-way communication"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/dolphin.jpg"
 author: "Rick Spilman"
 description: "Roughly a year ago I went skin diving with dolphins in Honduras.   We were told that the dolphins liked to play catch with eel grass.  I dove to the bottom, pulled up a handful of eel grass and held … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Bessie A. White"
   - "Fire Island"
   - "three masted Canadian schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/fire-island-shipwreckbessie.jpg"
 author: "Rick Spilman"
 description: "Last Wednesday, we posted about the wreck of a wooden ship uncovered by Superstorm Sandy beneath the dunes of Fire Island, east of Davis Park.  The remains are thought to be the Bessie A. White, more than 90 years old, said Paula Valentine, public affairs specialist for … Continue reading &rarr;"
 ---

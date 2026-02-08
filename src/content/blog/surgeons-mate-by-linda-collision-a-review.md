@@ -11,6 +11,7 @@ tags:
   - "Linda Collison"
   - "Star-Crossed"
   - "Surgeon's Mate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/surgeonsmate.jpg"
 author: "Rick Spilman"
 description: "Patrick McPherson is a 19 year surgeon’s mate in the Royal Navy. By all appearances, he is an upstanding young man with a promising future. The dark secret that the young mate carries is that he is indeed, a she. … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Maxim Brewery"
   - "Sunderland"
   - "Tall &amp; Historic Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/maximnamecontest.jpg"
 author: "Rick Spilman"
 description: "Next year, the UK port of Sunderland will be hosting 80 tall ships at the start of the Tall Ships Races 2018. To support the festivities, Maxim Brewery will be brewing a special nautical themed porter. But what to call … Continue reading &rarr;"
 ---

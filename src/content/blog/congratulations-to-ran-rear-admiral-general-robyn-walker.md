@@ -11,6 +11,7 @@ tags:
   - "Rear Admiral Robyn Walker"
   - "Royal Australian Navy"
   - "surgeon-general"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/CDRE_Robyn_Walker.jpg"
 author: "Rick Spilman"
 description: "Only months after allowing women to serve in frontline combat units, Australia has promoted  Commodore Robyn Walker to Rear Admiral, the nation’s first female admiral.  Admiral Walker will also serve as the Australian Defence Force surgeon-general. Admiral and surgeon general?  Rear Admiral Walker … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "SeaBin"
   - "SeaVac"
   - "WasteShark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/driftmaster.jpg"
 author: "Rick Spilman"
 description: "As the problem of trash and plastic in our waters gets worse, new (and a few older technologies) are being used to respond. They range from small and functional, like the Seabin, a sort of high tech floating bucket designed … Continue reading &rarr;"
 ---

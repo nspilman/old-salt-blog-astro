@@ -5,6 +5,7 @@ slug: "tales-of-the-seven-seas-the-escapades-of-captain-dynamite-johnny-o%e2%80%
 excerpt: "Dennis M. Powers’ Tales of the Seven Seas: The Escapades of Captain Dynamite Johnny O’Brien recounts the story of a larger than life sailor who rose from being a bullied sixteen year old ship’s boy sailing before the mast to become … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/dynamitejohhny-150x226.jpg"
 author: "Rick Spilman"
 description: "Dennis M. Powers’ Tales of the Seven Seas: The Escapades of Captain Dynamite Johnny O’Brien recounts the story of a larger than life sailor who rose from being a bullied sixteen year old ship’s boy sailing before the mast to become … Continue reading &rarr;"
 ---

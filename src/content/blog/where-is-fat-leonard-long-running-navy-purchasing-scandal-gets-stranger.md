@@ -10,6 +10,7 @@ tags:
   - "corruption scandal"
   - "Fat Leonard"
   - "navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
 description: "Where is Fat Leonard?  Fat Leonard, as Leonard Glenn Francis is known, was supposed to testify in Norfolk next week about his crooked dealings with dozens of Navy officers.  Except that apparently, he won’t. Fat Leonard was arrested in 2013 in the worst corruption scandal in … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "MS St. Louis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/stlouis.jpg"
 author: "Rick Spilman"
 description: "Earlier this month, Canada apologized for turning away the MS St. Louis filled with Jewish German refugees fleeing the Nazis in 1939. Canada was not alone in turning away the refugees. The United States and Cuba also refused the refugees … Continue reading &rarr;"
 ---

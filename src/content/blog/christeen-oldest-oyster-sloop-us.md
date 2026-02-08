@@ -11,6 +11,7 @@ tags:
   - "Christeen"
   - "Oyster Bay"
   - "oyster sloop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/christeen.jpg"
 author: "Rick Spilman"
 description: "Last weekend, we sailed by living history in Oyster Bay. As we were heading toward the gas dock, a beautiful gaff rigged sloop sailed by. It was Christeen, the oldest oyster sloop in the United States.  Built in 1883 in Glenwood Landing, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "last days of commercial sail"
   - "Life Magazine"
   - "sailing ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/landing2.jpg"
 author: "Rick Spilman"
 description: "Be warned.  If you are interested in sailing ships, do not click on the link below  if you have anything important to do  for the next fifteen or twenty minutes or possibly much longer.  Here is a absolutely fantastic archive of … Continue reading &rarr;"
 ---

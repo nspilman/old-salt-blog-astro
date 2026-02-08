@@ -9,6 +9,7 @@ categories:
 tags:
   - "garbage patch"
   - "plastic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/garbage-patch1.jpg"
 author: "Rick Spilman"
 description: "We have previously posted about the plastic \"garbage patches\" in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite … Continue reading &rarr;"
 ---

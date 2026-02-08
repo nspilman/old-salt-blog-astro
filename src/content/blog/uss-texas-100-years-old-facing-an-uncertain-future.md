@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/USS_Texas_BB-35.jpg"
 author: "Rick Spilman"
 description: "I remember visiting the battleship USS Texas in the San Jacinto River in Texas as schoolboy from Dallas while on a family vacation, almost fifty years ago.  Her 14″ guns were impressive and I still recall climbing around her anti-aircraft guns … Continue reading &rarr;"
 ---

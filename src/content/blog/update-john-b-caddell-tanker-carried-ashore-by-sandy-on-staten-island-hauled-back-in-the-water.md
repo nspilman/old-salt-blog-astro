@@ -12,6 +12,7 @@ tags:
   - "John B. Caddell"
   - "Staten Island"
   - "water tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/cadell.jpg"
 author: "Rick Spilman"
 description: "The John B. Caddell, 700 gross ton water tanker, that washed up on Front Street, in Staten Island, NY during Hurricane Sandy a month and a half ago, is back in the water.  In a team effort lead by the … Continue reading &rarr;"
 ---

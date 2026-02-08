@@ -12,6 +12,7 @@ tags:
   - "Netherlands Maritime Technology Foundation"
   - "WASP"
   - "Wind Assist Sail Propulsion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/ventisail.jpg"
 author: "Rick Spilman"
 description: "A three-year project to research Wind-Assisted Sail Propulsion (WASP) has been launched in Europe supported by €5.4Mn (about $6 million) in funding provided by the Interreg North Sea Europe program, part of the European Regional Development Fund (ERDF).  The project … Continue reading &rarr;"
 ---

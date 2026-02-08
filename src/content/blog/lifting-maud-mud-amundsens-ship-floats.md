@@ -13,6 +13,7 @@ tags:
   - "Maud"
   - "Nunavut"
   - "Roald Amundsen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/maud.jpg"
 author: "Rick Spilman"
 description: "A team of Norwegians have spent the last six summers in Cambridge Bay off the Nunavut territory of northern Canada attempting to raise Arctic explorer Roald Amundsen‘s research ship Maud from where it has been sitting in ice and mud … Continue reading &rarr;"
 ---

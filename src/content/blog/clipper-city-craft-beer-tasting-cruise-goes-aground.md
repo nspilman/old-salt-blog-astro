@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/cc1.jpg"
 author: "Rick Spilman"
 description: "The topsail schooner Clipper City set sail from Manhattan yesterday on a \"Craft Beer Tasting Cruise,\" and ran aground in New York harbor."
 ---

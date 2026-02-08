@@ -11,6 +11,7 @@ tags:
   - "Hong Kong"
   - "Largest Solar Powered Yacht"
   - "Turanor PlanetSolar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/PlanetSolarHongKong.jpg"
 author: "Rick Spilman"
 description: "In June we posted that the 31-meter Turanor PlanetSolar,  a catamaran yacht fitted with 536 square meters of photovoltaic panels, had successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.  The yacht recently arrived in … Continue reading &rarr;"
 ---

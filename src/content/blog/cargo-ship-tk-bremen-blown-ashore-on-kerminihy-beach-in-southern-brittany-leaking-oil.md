@@ -13,6 +13,7 @@ tags:
   - "Kerminihy beach"
   - "Lorient"
   - "TK Bremen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/bremen.jpg"
 author: "Rick Spilman"
 description: "The Maltese flagged 6,600 DWT dry cargo ship, TK Bremen, was stranded this morning in high winds on Kerminihy beach at Erdeven, in southern Brittany, near the port of Lorient, France. Some of the 220 tons of fuel on board … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "coral"
   - "Scripps Institution of Oceanography at UC–San Diego"
   - "underwater microscope"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/microcoral.jpg"
 author: "Rick Spilman"
 description: "Coral are individual invertebrate polyps living in communities, which can grow to become vast reefs. Until recently, there was no way to examine the living coral polyps in their own habitat. Now, researchers at the Scripps Institution of Oceanography at … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Maine"
   - "Maine Maritime Museum"
   - "Voices of the Sea: The Poetry and Song of Maine’s Fishermen and Those Who Work on the Water"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/fisherm_poets.jpg"
 author: "Rick Spilman"
 description: "Not long ago, we posted about the Fisher Poets Gathering in Astoria, Oregon.  There are indeed fisherman poets on all coasts and this Thursday, March 15th, the Maine Maritime Museum in Bath, Maine is hosting \"Voices of the Sea: The Poetry and Song … Continue reading &rarr;"
 ---

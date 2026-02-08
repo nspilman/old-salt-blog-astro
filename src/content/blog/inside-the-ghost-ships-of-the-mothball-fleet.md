@@ -15,6 +15,7 @@ tags:
   - "San Francisco"
   - "Scott Haefner"
   - "Suisan Bay Reserve Fleet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/ghostfleet.jpg"
 author: "Rick Spilman"
 description: "Photographer Scott Haefner and a few of his friends snuck aboard ships in the Suisan Bay Reserve Fleet near San Francisco, CA and photographed and documented the rusting fleet.  Fascinating images.  The Mail Online ran an article today about his work.  For more images, see Haefner’s site: … Continue reading &rarr;"
 ---

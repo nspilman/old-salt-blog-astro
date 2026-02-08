@@ -10,6 +10,7 @@ tags:
   - "Columbus"
   - "Eratosthenes"
   - "Posidonius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Portrait_of_Eratosthenes.jpg"
 author: "Rick Spilman"
 description: "Happy Columbus Day to those in the United States and Happy Thanksgiving to those in Canada. On Columbus Day, it seems appropriate to consider the role of  error in discovery.  While many of us were taught in school that Columbus proved that … Continue reading &rarr;"
 ---

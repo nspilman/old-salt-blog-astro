@@ -13,6 +13,7 @@ tags:
   - "naval reenactment"
   - "Ohio"
   - "Put-in-Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/battlelakeeriebi.jpg"
 author: "Rick Spilman"
 description: "Two hundred years ago today, in what would become known as the Battle of Lake Erie, a squadron of ships under the command of Oliver Hazard Perry defeated and captured a Royal Navy squadron at Put-in-Bay in Lake Erie off the … Continue reading &rarr;"
 ---

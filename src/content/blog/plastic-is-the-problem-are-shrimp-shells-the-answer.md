@@ -10,6 +10,7 @@ tags:
   - "plastic"
   - "shrilk"
   - "Wyss Institute"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/plastic_605.jpg"
 author: "Rick Spilman"
 description: "Discarded plastic is a major problem in today’s oceans. Plastics leach toxic chemicals into the seawater while otherwise not degrading.  Recently researchers at Harvard University have announced they have created a new bio-degrable plastic based on, of all things, shrimp shells. We have posted … Continue reading &rarr;"
 ---

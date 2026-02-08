@@ -10,6 +10,7 @@ tags:
   - "Hamelin Bay"
   - "pilot whales"
   - "Western Australia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/pilotwhalestranding.jpg"
 author: "Rick Spilman"
 description: "More than 150 short-finned pilot whales were found stranded early Friday in Hamelin Bay, Western Australia.  Despite the best effort of more than 100 volunteer rescuers, only 6 survived to be returned to the sea. Hamelin Bay is located about 192 … Continue reading &rarr;"
 ---

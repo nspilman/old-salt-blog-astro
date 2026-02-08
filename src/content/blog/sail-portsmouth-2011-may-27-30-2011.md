@@ -10,6 +10,7 @@ tags:
   - "Flying Fish"
   - "Gazela Primeiro"
   - "U.S. Coast Guard Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/Tallships2011.jpg"
 author: "Rick Spilman"
 description: "Over the Memorial Day weekend, the Piscataqua Maritime Commission is sponsoring Sail Portsmouth 2011,  featuring the Gazela Primeiro. The Gazela, a three-masted, square rigged barkentine  built in 1883, is said to be the world’s oldest active wood hulled sailing vessel.  Joining the … Continue reading &rarr;"
 ---

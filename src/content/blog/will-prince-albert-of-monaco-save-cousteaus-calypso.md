@@ -11,6 +11,7 @@ tags:
   - "Jacques Cousteau"
   - "Prince Albert II of Monaco"
   - "RV Calypso"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/calypso2.jpg"
 author: "Rick Spilman"
 description: "Cousteau's famous research vessel, Calypso, which has been in danger of being sold or scrapped, may have a savior in Prince Albert II of Monaco."
 ---

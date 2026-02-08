@@ -15,6 +15,7 @@ tags:
   - "sailor’s valentine"
   - "Searsport"
   - "sweetheart cruises"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/sweetHeartSail.jpg"
 author: "Rick Spilman"
 description: "Museums on two coasts have special Valentine’s Days events planned for sailors.  The Penobscot Marine Museum in Searsport, Maine is offering a sailor’s valentine workshop for adults on Saturday, Feb. 12, just in time for Valentine’s Day.    In San … Continue reading &rarr;"
 ---

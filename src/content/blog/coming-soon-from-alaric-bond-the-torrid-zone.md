@@ -10,6 +10,7 @@ tags:
   - "Alaric Bond"
   - "Fighting Sail series"
   - "The Torrid Zone"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Draft-Cover-TZ-no-OSB.jpg"
 author: "Rick Spilman"
 description: "I am very much looking forward to Alaric Bond’s latest, Torrid Zone, due out in April or May.  He recently posted about it on his blog. Background to a Book I’ve now finished the second draft of The Torrid Zone, … Continue reading &rarr;"
 ---

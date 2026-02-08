@@ -12,6 +12,7 @@ tags:
   - "SEAL Team 6"
   - "trademark"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/US-Navy-SEALs-Insignia.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase \"SEAL Team 6.\"   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
 ---

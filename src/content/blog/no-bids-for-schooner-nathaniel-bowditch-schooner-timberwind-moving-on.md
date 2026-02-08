@@ -13,6 +13,7 @@ tags:
   - "Rockport"
   - "schooner Nathaniel Bowditch"
   - "schooner Timberwind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/the_nathaniel_bowditch.jpg"
 author: "Rick Spilman"
 description: "Sadly, just before Christmas, the schooner Nathaniel Bowditch, owned by Owen and Cathie Dorr, was seized at its Rockland Harbor berth in Lermond Cove by U.S. Marshals and towed to Camden Harbor, Maine.  The Nathaniel Bowditch is one of the … Continue reading &rarr;"
 ---

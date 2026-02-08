@@ -12,6 +12,7 @@ tags:
   - "Naima Rauam"
   - "South Street"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/fishmarket1.jpg"
 author: "Rick Spilman"
 description: "A wonderful show by Naima Rauam.  It captures everything about the old market with the possible exception of the smell of fish. Fifth Annual Remembering Fulton Fish Market Art Exhibit 2010 … Continue reading &rarr;"
 ---

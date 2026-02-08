@@ -11,6 +11,7 @@ tags:
   - "Bulgaria"
   - "Historical Seas Tall Ships Regatta"
   - "Varna"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/zx.jpg"
 author: "Rick Spilman"
 description: "Fantastic photos of the fleet alongside in Varna, Bulgaria after the first race in the Historical Seas Tall Ships Regatta.   Click on the photo above to see more. … Continue reading &rarr;"
 ---

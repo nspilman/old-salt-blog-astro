@@ -11,6 +11,7 @@ tags:
   - "Female Officers"
   - "US Navy"
   - "USS Wyoming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/USS_Wyoming_SSBN-742.jpg"
 author: "Rick Spilman"
 description: "Female US Navy officers, serving aboard the USS Wyoming ballistic missile submarine, were secretly videotaped undressing to take showers."
 ---

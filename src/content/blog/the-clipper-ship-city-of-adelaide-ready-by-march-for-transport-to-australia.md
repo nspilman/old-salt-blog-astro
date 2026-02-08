@@ -14,6 +14,7 @@ tags:
   - "oldest composite clipper ship"
   - "Scotland"
   - "South Australia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/adelaidehulk.jpg"
 author: "Rick Spilman"
 description: "Last October, we posted about the shipping cradle that had been fabricated in Australia and shipped to Scotland which will be used to transport the oldest composite clipper ship, the City of Adelaide,  back to her namesake city in South … Continue reading &rarr;"
 ---

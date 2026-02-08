@@ -14,6 +14,7 @@ tags:
   - "Tor Viking II"
   - "tug/supply boat"
   - "US Coast Guard Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/TorViking4_350.jpg"
 author: "Rick Spilman"
 description: "MV Golden Seas, a 74,475 DWT  bulk carrier, which suffered a turbocharger failure on its main engines and was in danger of drifting onto the Aleutian Islands, has been taken under tow by the tug/supply boat Tor Viking II.   The bulk carrier is … Continue reading &rarr;"
 ---

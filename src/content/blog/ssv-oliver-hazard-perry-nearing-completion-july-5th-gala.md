@@ -14,6 +14,7 @@ tags:
   - "Newport Shipyard"
   - "Spar Shop"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/ohp-haul-out-pr.jpg"
 author: "Rick Spilman"
 description: "The SSV Oliver Hazard Perry, the largest square-rigged sailing ship built in this country in over 100 years, is nearing completion.  The 132′ long three masted steel ship has been hauled at at Newport Shipyard for final exterior work and … Continue reading &rarr;"
 ---

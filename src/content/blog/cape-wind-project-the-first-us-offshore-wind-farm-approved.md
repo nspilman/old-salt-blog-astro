@@ -11,6 +11,7 @@ tags:
   - "Nantucket Sound"
   - "offshore wind farm"
   - "Wampanoag tribe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/capewindd.jpg"
 author: "Rick Spilman"
 description: "The first offshore wind farm in the United States  has been approved by Washington.   The Cape Wind project is a proposed 130 turbine wind farm in Nantucket Sound.  It has been opposed for years by home owners in Cape … Continue reading &rarr;"
 ---

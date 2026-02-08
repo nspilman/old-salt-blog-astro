@@ -12,6 +12,7 @@ tags:
   - "SS Robin"
   - "Steam Coaster"
   - "Tillbury"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/ssrobin2.jpg"
 author: "Rick Spilman"
 description: "An update on our post from last June on the SS Robin, an 1890 built steam coaster, the last of her kind and the oldest complete steamship in the world.  She arrived in Tillbury last week aboard a a custom built pontoon barge in … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "boat builder"
   - "Jack Chippendale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/dsc_1519.jpg"
 author: "Rick Spilman"
 description: "Jack Chippendale, a master wooden boat builder, died on February 24th at the age of 87.  Over his seventy year career, he is said to have built more than 4,000 boats, including boats which won 30 world and national sailing … Continue reading &rarr;"
 ---

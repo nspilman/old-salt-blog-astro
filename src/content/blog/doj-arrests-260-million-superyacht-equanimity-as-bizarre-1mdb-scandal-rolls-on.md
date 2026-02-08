@@ -13,6 +13,7 @@ tags:
   - "Equanimity"
   - "Jho Low"
   - "Malaysia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/equanimity.jpg"
 author: "Rick Spilman"
 description: "On February 28th, Indonesian police seized the superyacht Equanimity, moored in Bali, at the request of the United States Department of Justice (DOJ). Equanimity is a 300′ luxury yacht owned by Malaysian financier Jho Low. The yacht, which is reported to have … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "barquentine Gazela"
   - "PortSide New York"
   - "schooner Pioneer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/Gazela-2010-125x94.jpg"
 author: "Rick Spilman"
 description: "Philadelphia’s tall ship, the barquentine Gazela Primeiro, arrived in New York harbor yesterday, on her way to PortSide New York.  (See our previous post – The Gazela at Portside with Vaudeville and Pirates – Oh My!)   The classic ship will … Continue reading &rarr;"
 ---

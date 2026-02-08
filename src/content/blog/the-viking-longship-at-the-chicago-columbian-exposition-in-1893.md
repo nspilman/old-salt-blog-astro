@@ -10,6 +10,7 @@ tags:
   - "Gokstad ship"
   - "longship"
   - "Viking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/Viking1893.jpg"
 author: "Rick Spilman"
 description: "Happy Columbus Day, or Indigenous People’s Day, if you prefer. And if you are in Canada, Happy Thanksgiving! Here is an updated repost of when a Viking longship arrived at the World’s Columbian Exposition in Chicago in 1893. The Exposition … Continue reading &rarr;"
 ---

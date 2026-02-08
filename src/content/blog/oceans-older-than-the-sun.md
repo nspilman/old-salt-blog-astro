@@ -10,6 +10,7 @@ tags:
   - "deuterium"
   - "interstellar ice"
   - "oceans sun"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/UpsilonAndromedae_D_moons.jpg"
 author: "Rick Spilman"
 description: "The oceans could be older than the sun. Scientists from the University of Michigan believe that up to half the earth's water is older than the sun."
 ---

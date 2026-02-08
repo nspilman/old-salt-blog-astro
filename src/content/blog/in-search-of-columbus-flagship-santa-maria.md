@@ -14,6 +14,7 @@ tags:
   - "flagship"
   - "Haiti"
   - "Santa Maria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/SantaMaria2.jpg"
 author: "Rick Spilman"
 description: "Columbus’ flagship, Santa Maria, ran aground and sank on Christmas Day 1492 off Haiti, on Columbus’ first voyage to the New World. Now after more than a decade’s research, underwater explorer Barry Clifford believes that he has found the wreck of … Continue reading &rarr;"
 ---

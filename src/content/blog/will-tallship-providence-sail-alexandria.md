@@ -15,6 +15,7 @@ tags:
   - "John Paul Jones"
   - "Katy"
   - "Providence"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/providencesail1.jpg"
 author: "Rick Spilman"
 description: "I had kind of lost track of the replica Revolutionary War sloop Providence. In January 2015, she was blown off her jackstands by blizzard winds while on the hard in Newport, RI, incurring significant damage to her hull and rigging. … Continue reading &rarr;"
 ---

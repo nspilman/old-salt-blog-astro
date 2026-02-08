@@ -10,6 +10,7 @@ tags:
   - "blondes"
   - "Lithuanian company"
   - "Maldive island resort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/mislands.jpg"
 author: "Rick Spilman"
 description: "Somehow this sounds like a really bad idea.  I just hope everyone brings sun screen.  Back in October, the BBC ran an article about a Lithuanian company’s plans for a Maldive island resort  run entirely by blondes.  The proposed development was reported on again this  week … Continue reading &rarr;"
 ---

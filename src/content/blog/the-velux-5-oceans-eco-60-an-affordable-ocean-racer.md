@@ -10,6 +10,7 @@ tags:
   - "Eco 60 class sailboats"
   - "single-handed around the word race"
   - "Velux 5 Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/teamlazarus.jpg"
 author: "Rick Spilman"
 description: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this \"new\" class of … Continue reading &rarr;"
 ---

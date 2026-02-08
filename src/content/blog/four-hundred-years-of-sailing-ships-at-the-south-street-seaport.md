@@ -15,6 +15,7 @@ tags:
   - "Peking"
   - "sailing ships"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/hermionewide-200x112.jpg"
 author: "Rick Spilman"
 description: "Last week provided an opportunity to glimpse over 400 years of sailing ship history in three ships at New York's South Street Seaport."
 ---

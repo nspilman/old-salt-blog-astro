@@ -10,6 +10,7 @@ categories:
 tags:
   - "\"Return to Blue Water\" campaign"
   - "Dorade"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/vsbr2012-day5-3421.jpg"
 author: "Rick Spilman"
 description: "When Matt Brooks and his wife Pam Rorke Levy bought the 52ft yawl Dorade in 2010, they decided to attempt to repeat all of the races the S&S designed yacht had won in the 1930s, including the Transpac, Rolex Fastnet and the … Continue reading &rarr;"
 ---

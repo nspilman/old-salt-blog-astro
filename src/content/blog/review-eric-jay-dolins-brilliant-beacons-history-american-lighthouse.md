@@ -12,6 +12,7 @@ tags:
   - "Brilliant Beacons"
   - "Eric Jay Dolin"
   - "lighthouse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/beacons.jpg"
 author: "Rick Spilman"
 description: "My review of Eric Jay Dolin’s Brilliant Beacons : A History of the American Lighthouse, originally published in gCaptain. Reposted with permission. Next only perhaps to an anchor, lighthouses are symbols of security and safety. Even with modern electronic navigation, there … Continue reading &rarr;"
 ---

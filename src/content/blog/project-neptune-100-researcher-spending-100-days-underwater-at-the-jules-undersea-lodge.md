@@ -14,6 +14,7 @@ tags:
   - "Jules Undersea Lodge"
   - "Key Largo"
   - "NEPTUNE 100"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/05/neptune100.jpg"
 author: "Rick Spilman"
 description: "The Jules Undersea Lodge is the only underwater hotel in the United States. Located 30 feet (9 m) deep at the bottom of the Emerald Lagoo in Key Largo, Florida, guests have to scuba dive to get to their rooms. … Continue reading &rarr;"
 ---

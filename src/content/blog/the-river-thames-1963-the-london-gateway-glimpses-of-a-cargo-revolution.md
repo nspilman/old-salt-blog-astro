@@ -9,6 +9,7 @@ tags:
   - "Felixstowe"
   - "London Gateway"
   - "River Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/riverthames2.jpg"
 author: "Rick Spilman"
 description: "Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, \"Look at Life – Report on a River – The River Thames … Continue reading &rarr;"
 ---

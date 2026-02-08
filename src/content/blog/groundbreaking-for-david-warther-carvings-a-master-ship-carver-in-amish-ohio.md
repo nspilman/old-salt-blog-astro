@@ -10,6 +10,7 @@ tags:
   - "David Warther Carvings"
   - "History of the Sailing Ship"
   - "museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/Niagra_R_sti_copy_001.jpg"
 author: "Rick Spilman"
 description: "Between Sugarcreek and Walnut Creek, Ohio, in the heart of Amish country,Ohio, there was a ground-breaking today for a new museum which will showcase ship models carved by David Warther II, a fifth generation carver.  David Warther Carvings will showcase … Continue reading &rarr;"
 ---

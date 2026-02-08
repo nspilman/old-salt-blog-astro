@@ -12,6 +12,7 @@ tags:
   - "Eagle"
   - "training ship"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Eagle_1.jpg"
 author: "Rick Spilman"
 description: "Interesting news about the US Coast Guard training ship, the barque Eagle. As reported by The Day, The Coast Guard barque Eagle may go to Baltimore for extensive repairs so future officers can keep training on the ship for years … Continue reading &rarr;"
 ---

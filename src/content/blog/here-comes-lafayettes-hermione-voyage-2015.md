@@ -12,6 +12,7 @@ tags:
   - "l'Hermione"
   - "Lafayette's Hermione"
   - "Miles Young"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/hermoinebanner.jpg"
 author: "Rick Spilman"
 description: "The new frigate Hermoine has now completed sea trials and in April 2015 will sail across the Atlantic and visit 12 ports on the US East Coast and Canada."
 ---

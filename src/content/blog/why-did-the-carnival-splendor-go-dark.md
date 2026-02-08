@@ -12,6 +12,7 @@ tags:
   - "diesel electric propulsion"
   - "engine rooms"
   - "fire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/9038754-large.jpg"
 author: "Rick Spilman"
 description: "How could an  fire in one of two engine rooms do sufficient damage to the electrical distribution system on the Carnival Splendor to completely disable the ship?   The answer isn’t obvious. The Carnival Splendor is diesel electric powered, which is to say, instead of … Continue reading &rarr;"
 ---

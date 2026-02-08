@@ -12,6 +12,7 @@ tags:
   - "El Nino"
   - "seals"
   - "yellow bellied sea snake"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/ybseasnake.jpg"
 author: "Rick Spilman"
 description: "Anyone who may doubt that we live on a water planet or that what happens at sea has a huge impact for everyone, even those living far inland, need only look to this year’s El Niño . The US East … Continue reading &rarr;"
 ---

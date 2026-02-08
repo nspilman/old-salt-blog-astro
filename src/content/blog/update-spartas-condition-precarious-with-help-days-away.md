@@ -12,6 +12,7 @@ tags:
   - "Ross Ice shelf"
   - "Russian fishing vessel"
   - "Sparta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sparta3.jpg"
 author: "Rick Spilman"
 description: "On Friday we posted about the Russian fishing vessel, Sparta, which was in danger of sinking off the Ross Ice shelf in Antarctica.  The ship with a crew of 32 had been holed five feet below the water line and … Continue reading &rarr;"
 ---

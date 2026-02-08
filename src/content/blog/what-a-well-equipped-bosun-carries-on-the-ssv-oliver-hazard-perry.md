@@ -10,6 +10,7 @@ categories:
 tags:
   - "bosun"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/bosungearohp.jpg"
 author: "Rick Spilman"
 description: "The bosun’s gear on the SSV Oliver Hazard Perry. A nice rig. My only concern would be managing the lanyards. Easy to catch on things while climbing about. From the Oliver Hazard Perry blog: Being a full time sailor aboard any Tall … Continue reading &rarr;"
 ---

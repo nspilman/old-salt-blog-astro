@@ -11,6 +11,7 @@ tags:
   - "Maran Centaurus"
   - "record ransom"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/11/Maran-Centaurus.jpg"
 author: "Rick Spilman"
 description: "Owners of a Greek-flagged oil tanker dropped a record ransom payment of $5.5 million to $7 million on the deck of the ship today, prompting Somali pirates to release the Maran Centaurus. Ransoms to Somali pirates have reached a historic … Continue reading &rarr;"
 ---

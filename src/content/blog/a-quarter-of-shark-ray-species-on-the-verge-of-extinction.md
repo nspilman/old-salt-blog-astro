@@ -11,6 +11,7 @@ tags:
   - "IUCN"
   - "rays"
   - "Sharks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/tiger-shark.jpg"
 author: "Rick Spilman"
 description: "A recent study by the International Union for Conservation of Nature (IUCN) published in the journal eLife suggests that of more than a thousand species of sharks and rays in the world, one in four species are at the brink … Continue reading &rarr;"
 ---

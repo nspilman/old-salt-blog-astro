@@ -9,6 +9,7 @@ categories:
 tags:
   - "Cuba-Florida swim"
   - "Diana Nyad"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/nyad.jpg"
 author: "Rick Spilman"
 description: "After adverse winds carried her off course, marathon swimmer Diana Nyad, 61, ended her attempt to become the first person to swim from Cuba to Florida without a shark cage.  She had been swimming for 29 hours when she ended … Continue reading &rarr;"
 ---

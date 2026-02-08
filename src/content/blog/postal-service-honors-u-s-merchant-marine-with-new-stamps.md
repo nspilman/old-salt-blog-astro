@@ -5,6 +5,7 @@ slug: "postal-service-honors-u-s-merchant-marine-with-new-stamps"
 excerpt: "The US Postal Service is issuing a set of four stamps honoring the US Merchant Marine throughout its history.  The four stamps feature a clipper ship modeled after the Sovereign of the Seas, launched in 1852; an auxiliary steamship, based on the ships of the Collins Line; a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/18.jpg"
 author: "Rick Spilman"
 description: "The US Postal Service is issuing a set of four stamps honoring the US Merchant Marine throughout its history.  The four stamps feature a clipper ship modeled after the Sovereign of the Seas, launched in 1852; an auxiliary steamship, based on the ships of the Collins Line; a … Continue reading &rarr;"
 ---

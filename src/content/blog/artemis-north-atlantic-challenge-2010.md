@@ -9,6 +9,7 @@ categories:
 tags:
   - "Artemis Ocean Rowing team"
   - "Harbo and Samuelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/rowing.jpg"
 author: "Rick Spilman"
 description: "As many of us were watching Reid Stowe sail into New York harbor from his 1,000 day plus journey, a team of four intrepid rowers were apparently setting out in their attempt to break the 114 year old record set by Harbo and Samuelson … Continue reading &rarr;"
 ---

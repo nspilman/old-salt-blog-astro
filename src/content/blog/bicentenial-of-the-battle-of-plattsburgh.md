@@ -13,6 +13,7 @@ tags:
   - "Bicentenial of the Battle of Plattsburgh"
   - "Lake Champlain"
   - "Thomas Macdonough"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Battleofpburg.jpg"
 author: "Rick Spilman"
 description: "September 11th of 1814 saw a significant naval victory by the young American Navy at the Battle of Plattsburgh that changed the outcome of the War of 1812."
 ---

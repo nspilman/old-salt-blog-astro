@@ -12,6 +12,7 @@ tags:
   - "Coronado"
   - "Howell Automobile Torpedo"
   - "Navy dolphins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/howelltorpedo1.jpg"
 author: "Rick Spilman"
 description: "The Howell Automobile Torpedo of 1889 was the first self-propelled torpedo in United States Navy service. Only fifty were built and until recently, only one was known to have survived. Then in late April, Navy dolphins located a lost Howell … Continue reading &rarr;"
 ---

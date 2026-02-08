@@ -14,6 +14,7 @@ tags:
   - "Winnie Breegle"
   - "Woman Accepted for Volunteer Emergency Service"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/winnie.jpg"
 author: "Rick Spilman"
 description: "Earlier this month, 90 year old Winnie Breegle spoke at the 2012 Women’s History Month celebration at the Naval Surface Warfare Center in Panama City, FL. She had quite a story to tell.  Not only was she a WAVE (Woman Accepted for Volunteer Emergency … Continue reading &rarr;"
 ---

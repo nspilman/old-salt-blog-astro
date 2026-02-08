@@ -13,6 +13,7 @@ tags:
   - "Mauritius"
   - "Team Vestas Wind"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/vestaswindreef.jpg"
 author: "Rick Spilman"
 description: "How did a crew of highly skilled professionals, sailing the $6 million Team Vestas Wind succeed in hitting the Cargados Carajos shoals at 16 knots?"
 ---

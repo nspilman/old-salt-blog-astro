@@ -12,6 +12,7 @@ tags:
   - "Olavsvern Naval Base"
   - "Secret Submarine Base"
   - "Tromsø"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/Olavsvern.jpg"
 author: "Rick Spilman"
 description: "For only 105 million Norwegian krona (thats € 14 million or roughly US$17.5 million) you too can own an Arctic submarine base.  Norway’s Olavsvern Naval Base just outside the city of Tromsø, has been on the market since January 2011, but for the last … Continue reading &rarr;"
 ---

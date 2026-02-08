@@ -15,6 +15,7 @@ tags:
   - "Northern Marine"
   - "sink"
   - "washington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/Yacht-Capsizes-in-Washington.jpg"
 author: "Rick Spilman"
 description: "How is your day going? It has to be better than the unfortunate folks at Northern Marine in Anacortes, Washington, who had a 90′ expedition motor yacht roll over and sink when it was launched last Sunday. Rescuers and first responders had … Continue reading &rarr;"
 ---

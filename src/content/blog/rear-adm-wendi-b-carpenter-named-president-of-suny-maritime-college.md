@@ -10,6 +10,7 @@ tags:
   - "president"
   - "Rear Adm. Wendi B. Carpenter"
   - "SUNY Maritime College at Fort Schyler"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/thumb_CARPENTER.jpg"
 author: "Rick Spilman"
 description: "If you hear a loud cracking sound today,  it might another glass ceiling breaking.  In the beginning of June, we posted  that Rear Adm. Sandra Stosz had been named as the 40th Superintendent of the United States Coast Guard Academy in … Continue reading &rarr;"
 ---

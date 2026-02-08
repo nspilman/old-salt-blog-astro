@@ -10,6 +10,7 @@ tags:
   - "Greenland"
   - "Ice Island"
   - "Petermann glacier"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/t1larg.ice_.island.esa_.jpg"
 author: "Rick Spilman"
 description: "Early last month we posted about an ice island four times the size of Manhattan, a 100-square-mile block of ice 600 feet thick , that broke off from the Petermann glacier in Greenland.  In a case of an irresistible force meeting … Continue reading &rarr;"
 ---

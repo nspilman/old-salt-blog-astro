@@ -16,6 +16,7 @@ tags:
   - "MSC Luciana"
   - "pirates"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/msc-luciana-vlot-1171.jpg"
 author: "Rick Spilman"
 description: "Updates on three previous posts:  On Monday, Able Seaman Ryan Donovan was sentenced to life imprisonment after pleading guilty to murdering a senior officer on board the HMS Astute last April.   Submariner’s grudge turned proud day into tragedy British tourist Judith Tebbutt, … Continue reading &rarr;"
 ---

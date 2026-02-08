@@ -10,6 +10,7 @@ categories:
 tags:
   - "licensed deckhands"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/ohp1.jpg"
 author: "Rick Spilman"
 description: "This sounds like a great opportunity for licensed deckhands.  The Sailing School Vessel (SSV) Oliver Hazard Perry is looking for crew.  From their recent announcement: Oliver Hazard Perry Rhode Island (OHPRI) is seeking to hire licensed deckhands for its brand new 200-foot … Continue reading &rarr;"
 ---

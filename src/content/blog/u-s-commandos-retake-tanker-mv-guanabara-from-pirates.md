@@ -13,6 +13,7 @@ tags:
   - "pirates"
   - "tanker"
   - "USS Bulkeley"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/militarynews2011030701a.jpg"
 author: "Rick Spilman"
 description: "Commandos from the USS Bulkeley boarded the Japanese owned tanker MV Guanabara on Sunday after the crew reported that the ship was under attack by pirates.  The commandos captured four pirates aboard the ship without firing a shot.  The crew had withdrawn … Continue reading &rarr;"
 ---

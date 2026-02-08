@@ -10,6 +10,7 @@ categories:
 tags:
   - "C-Retriever"
   - "Nigeria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/731071.jpg"
 author: "Rick Spilman"
 description: "Great news. The captain and chief engineer of the 222′ supply boat C-Retriever, who were kidnapped off the coast of Nigeria on October 23th, have been released following the payment of ransom.  The two Americans are reported to be in good health … Continue reading &rarr;"
 ---

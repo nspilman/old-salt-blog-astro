@@ -12,6 +12,7 @@ tags:
   - "HMS Victory"
   - "Navy Days"
   - "Portsmouth Naval Base"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/cumberland.jpg"
 author: "Rick Spilman"
 description: "Navy’s Summer Extravaganza Returns to Portsmouth in 2010 Navy Days at Portsmouth Naval Base, Friday 30th July – Sunday 1st August, will feature serving warships of the Royal Navy, ships of foreign navies, thrilling naval displays, historical re-enactments and the … Continue reading &rarr;"
 ---

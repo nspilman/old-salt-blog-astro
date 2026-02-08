@@ -9,6 +9,7 @@ categories:
 tags:
   - "Haynes Manuals"
   - "RMS Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/haynes.jpg"
 author: "Rick Spilman"
 description: "Haynes Manuals are well known as practical guides aimed at automobile enthusiastic and mechanics.  They have also branched out into manuals for domestic appliances, personal computers, digital photography, model railways, men,  babies, sex, and women. Reportedly the last four categories … Continue reading &rarr;"
 ---

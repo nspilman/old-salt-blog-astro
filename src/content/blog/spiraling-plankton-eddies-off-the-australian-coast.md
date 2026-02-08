@@ -10,6 +10,7 @@ tags:
   - "eddy"
   - "NASA"
   - "Plankton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/waswirl_amo_2013364_2.jpg"
 author: "Rick Spilman"
 description: "While oceans in Northern latitudes are feeling the icy blast of winter, the antipodes are in the middle of a very hot summer.  Indeed, for Australia, there maybe too much of summer’s sun, as the continent suffers under a brutal … Continue reading &rarr;"
 ---

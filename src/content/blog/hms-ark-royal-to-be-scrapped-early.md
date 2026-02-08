@@ -11,6 +11,7 @@ tags:
   - "aircraft carrier"
   - "HMS Ark Royal"
   - "UK defense review"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/HMSArkRoyal.jpg"
 author: "Rick Spilman"
 description: "If  the recommendations of a UK defense review are implemented, Britain will have the same capacity to launch aircraft from ships as Nelson did, which is to say, none at all, prior to 2019 when new aircraft carriers come into service. Defence … Continue reading &rarr;"
 ---

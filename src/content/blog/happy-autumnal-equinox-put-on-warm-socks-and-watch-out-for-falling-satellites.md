@@ -9,6 +9,7 @@ categories:
 tags:
   - "autumnal equinox"
   - "warm socks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/warmsocks.jpg"
 author: "Rick Spilman"
 description: "Happy autumnal equinox. The first day of Fall.  I know of no good sailor’s tradition for the autumnal equinox. It seems to be too busy a time to stop for such foolishness.  Everyone is trying to get the last trips … Continue reading &rarr;"
 ---

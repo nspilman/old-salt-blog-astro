@@ -11,6 +11,7 @@ tags:
   - "Argentina"
   - "Falkland Islands"
   - "nuclear-powered submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/argentinesub.jpg"
 author: "Rick Spilman"
 description: "There is open speculation that the expansion of the Argentine Navy lead by the construction of its first nuclear submarine could prove a threat to Britain’s ability to defend and hold the Falkland Islands. Argentina developing nuclear-powered submarine Argentina has … Continue reading &rarr;"
 ---

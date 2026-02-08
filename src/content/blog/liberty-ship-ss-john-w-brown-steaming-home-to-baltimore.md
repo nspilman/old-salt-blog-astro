@@ -12,6 +12,7 @@ tags:
   - "Baltimore"
   - "Liberty ship"
   - "SS John W. Brown"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/jownwbrown.jpg"
 author: "Rick Spilman"
 description: "The Liberty ship SS John W. Brown is now steaming up the Elizabeth River on its way back home to Baltimore."
 ---

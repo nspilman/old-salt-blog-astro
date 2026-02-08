@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/southstreet2.jpg"
 author: "Rick Spilman"
 description: "The barque Peking, one of the last Laeisz \"Flying P Liners,\" at New York’s South Street Seaport will be open to visitors again for seven Saturdays, from 12:00 to 4:00 pm, starting today and running through October 19th. The four-masted steel hulled barque, built in … Continue reading &rarr;"
 ---

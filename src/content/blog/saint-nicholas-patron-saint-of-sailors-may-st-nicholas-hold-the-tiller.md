@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/st-nicholas-patron-saint-of-sailors.jpg"
 author: "Rick Spilman"
 description: "We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
 ---

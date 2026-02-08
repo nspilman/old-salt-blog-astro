@@ -10,6 +10,7 @@ tags:
   - "deepest blue hole"
   - "Dragon Hole"
   - "South China Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/dragon-hole.jpg"
 author: "Rick Spilman"
 description: "A blue hole in the South China Sea, called variously, Dragon Hole, Longdong and the Eye of the South China Sea, is reported to be the deepest blue hole in the world. At 987 feet (300.89 meters) deep, the Dragon Hole is … Continue reading &rarr;"
 ---

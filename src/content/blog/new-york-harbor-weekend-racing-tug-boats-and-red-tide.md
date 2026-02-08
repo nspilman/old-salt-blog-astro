@@ -14,6 +14,7 @@ tags:
   - "new york harbor"
   - "red tide"
   - "Waterford Tugboat Roundup"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/tuboatrace.jpg"
 author: "Rick Spilman"
 description: "It was a beautiful and busy weekend in New York harbor.  On Sunday, I missed the 18th Annual Running of the Great North River Tugboat Race & Competition but Will over at the Tugster blog has some great photos.   … Continue reading &rarr;"
 ---

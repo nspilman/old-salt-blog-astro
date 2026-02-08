@@ -12,6 +12,7 @@ tags:
   - "Lazarus Geiger"
   - "Shakespeare"
   - "Wine Dark Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/seablue1.jpg"
 author: "Rick Spilman"
 description: "When did the wine dark sea turn blue? For centuries, no one referred to the sea as blue."
 ---

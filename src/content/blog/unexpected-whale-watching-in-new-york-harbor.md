@@ -10,6 +10,7 @@ tags:
   - "new york harbor"
   - "schooner Pioneer"
   - "whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/humpbackwhale1.jpg"
 author: "Rick Spilman"
 description: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted \"whale\".    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
 ---

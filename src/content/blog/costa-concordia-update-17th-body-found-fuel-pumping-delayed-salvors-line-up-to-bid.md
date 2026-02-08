@@ -15,6 +15,7 @@ tags:
   - "Smit Salvage"
   - "Svitzer"
   - "Titan Salvage"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa_concordia9-125x70.jpg"
 author: "Rick Spilman"
 description: "The body of a woman, believed to be a member of the crew, has been found in the wreck of the Costa Concordia, bringing the body count to 17. An additional 15 are missing and presumed dead. The Dutch salvor Smit has … Continue reading &rarr;"
 ---

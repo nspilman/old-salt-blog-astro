@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Mystic Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/1welcomeM-125x70.jpg"
 author: "Rick Spilman"
 description: "A few photos of Mystic Seaport Museum on a recent trip sponsored by the New York Shiplore and Model Club. Thanks again to Lee Gruzen, Norman Brouwer and Linda Zatkowski for making the arrangements."
 ---

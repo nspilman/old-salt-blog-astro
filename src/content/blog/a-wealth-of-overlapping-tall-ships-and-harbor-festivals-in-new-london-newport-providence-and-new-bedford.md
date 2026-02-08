@@ -16,6 +16,7 @@ tags:
   - "OpSail 2012 CT"
   - "RI Cape Verdean Heritage Festival."
   - "South Kingstown"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/festivals1.jpg"
 author: "Rick Spilman"
 description: "To say that this will be a busy weekend on the New England waterfront may be an understatement. Following the 4th of July festivities in Boston, OpSail 2012 CT starts today in New London, CT, with an impressive fleet of ships.  Only about 50 … Continue reading &rarr;"
 ---

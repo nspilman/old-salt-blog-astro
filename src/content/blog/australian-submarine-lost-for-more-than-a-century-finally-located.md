@@ -13,6 +13,7 @@ tags:
   - "HMAS AE1"
   - "submarine"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/hmasae1.jpg"
 author: "Rick Spilman"
 description: "After being lost for 103 years, the wreck of Australia’s first submarine, HMAS AE1, has finally been located in almost 1,000 feet of water east of Rabaul, not far from Duke of York Islands in Papua New Guinea.  The submarine, built in the Vickers … Continue reading &rarr;"
 ---

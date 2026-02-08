@@ -11,6 +11,7 @@ tags:
   - "Donald Trump"
   - "Scotland"
   - "wind farm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/Donald-Trump.jpg"
 author: "Rick Spilman"
 description: "The Scottish government ignored the bluff, bluster and threats made by the bilious, billionaire blowhard, Donald Trump, and approved the installation of eleven wind turbines in an experimental offshore wind farm off the coast of Aberdeen. Trump is strongly of the view that the wind … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "san diego"
   - "steam ferry"
   - "windjammer Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/maritimeghost.jpg"
 author: "Rick Spilman"
 description: "Tomorrow, September 15, a Maritime Ghost Conference will be held on the Steam Ferry Berkeley at the Maritime Museum of San Diego. The conference is sponsored by the San Diego Ghost and Paranormal Group and is also a fundraiser for the Maritime Museum. In … Continue reading &rarr;"
 ---

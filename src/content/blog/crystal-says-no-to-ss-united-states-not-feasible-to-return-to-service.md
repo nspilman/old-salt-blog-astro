@@ -11,6 +11,7 @@ tags:
   - "Crystal Cruises"
   - "SS United States"
   - "SS Unted States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "Last February we posted \"Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.\"  Crystal Cruises had signed an option to purchase the ship and was undertaking a feasibility study to determine whether the ship could be economically … Continue reading &rarr;"
 ---

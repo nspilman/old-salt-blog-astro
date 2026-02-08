@@ -14,6 +14,7 @@ tags:
   - "shipwreck"
   - "Soviet light cruiser"
   - "Sørvær"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/murmansk.jpg"
 author: "Rick Spilman"
 description: "After a service life of almost 40 years, the Soviet light cruiser Murmansk was decommissioned and sold for scrap.  On Christmas Eve in 1994, the ship was under tow to India when the tug lost control of the ship in a storm. … Continue reading &rarr;"
 ---

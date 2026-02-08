@@ -13,6 +13,7 @@ tags:
   - "pirates"
   - "Sea Shepherds"
   - "TV show"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/sea-shepherd.jpg"
 author: "Rick Spilman"
 description: "Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the Sea Shepherds, are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: \" When you ram ships, hurl glass containers of acid, drag … Continue reading &rarr;"
 ---

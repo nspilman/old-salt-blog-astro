@@ -13,6 +13,7 @@ tags:
   - "cruise industry"
   - "Harris poll"
   - "loss of trust"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Nightmare-Cruise.jpg"
 author: "Rick Spilman"
 description: "What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was \"Cruise industry rebounding from ship accident, woes in Europe.\"  The subtitle read, \"Cruise reservations seem to be rising, … Continue reading &rarr;"
 ---

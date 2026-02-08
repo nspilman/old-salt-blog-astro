@@ -11,6 +11,7 @@ tags:
   - "new york"
   - "Peconic River"
   - "sewers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/alligator-spotted-near-peconic-river.jpg"
 author: "Rick Spilman"
 description: "For more than 80 years, there has been an urban legend about congregations of alligators living in the depths of New York City sewers. (Yes,a group of alligators is called a \"congregation.\" I didn’t know that either until I looked … Continue reading &rarr;"
 ---

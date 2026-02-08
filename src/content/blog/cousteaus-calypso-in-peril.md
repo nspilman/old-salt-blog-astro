@@ -10,6 +10,7 @@ tags:
   - "Francine Cousteau"
   - "Jacques Cousteau"
   - "RV Calypso"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/calypso1.jpg"
 author: "Rick Spilman"
 description: "A French court has ordered Francine Cousteau to settle outstanding yard bills on the RV Calypso or the shipyard will be allowed to sell the research vessel."
 ---

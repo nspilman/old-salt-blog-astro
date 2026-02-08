@@ -11,6 +11,7 @@ tags:
   - "funding"
   - "Maryland"
   - "Pride of Baltimore II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/pride2shortfall.jpg"
 author: "Rick Spilman"
 description: "In 2016, we posted about a public-private partnership between the State of Maryland and the replica Baltimore clipper, Pride of Baltimore II. It appears likely that the partnership may not be renewed, leaving a $500,000 shortfall in funding which may … Continue reading &rarr;"
 ---

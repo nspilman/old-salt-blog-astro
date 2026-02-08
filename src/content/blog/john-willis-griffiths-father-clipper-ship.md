@@ -5,6 +5,7 @@ slug: "john-willis-griffiths-father-clipper-ship"
 excerpt: "In June, we posted about the upcoming unveiling of a headstone for the brilliant, but largely forgotten, American naval architect John Willis Griffiths. This Saturday, July 23rd, the National Maritime Historical Society will unveil the headstone at Griffiths’ previously unmarked … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/griffiths.jpg"
 author: "Rick Spilman"
 description: "In June, we posted about the upcoming unveiling of a headstone for the brilliant, but largely forgotten, American naval architect John Willis Griffiths. This Saturday, July 23rd, the National Maritime Historical Society will unveil the headstone at Griffiths’ previously unmarked … Continue reading &rarr;"
 ---

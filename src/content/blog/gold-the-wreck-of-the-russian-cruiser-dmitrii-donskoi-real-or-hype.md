@@ -15,6 +15,7 @@ tags:
   - "Sino-Russian War"
   - "South Korea"
   - "Ulleungdo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Dmitrii-Donskoi.jpg"
 author: "Rick Spilman"
 description: "Salvors have announced the discovery of the wreck of the Russian armored cruiser, Dmitrii Donskoi, which was scuttled in 1905 during the Russo-Japanese War following the Battle of Tsushima. The wreck was found in 1,400 feet of water about one … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "commercial sailing ships"
   - "Committee on Climate Change"
   - "Review of UK Shipping Emissions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/HYD_B9-commercial-sailing-s.jpg"
 author: "Rick Spilman"
 description: "I love the headline in the article in Sail-World – Britain set to introduce sailing ships to counter emissions.  The first paragraph reads: It’s official. The days of sail may be just about to recommence. The UK’s Committee on Climate Change has come out with … Continue reading &rarr;"
 ---

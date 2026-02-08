@@ -11,6 +11,7 @@ tags:
   - "Greenock"
   - "Scotland"
   - "Tall Ships 2011 race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/royalistmm.jpg"
 author: "Rick Spilman"
 description: "If there are tall ships in port, there must be a party going on.  About 60 ships are expected at Greenock’s James Watt Dock from the first leg of the Tall Ships 2011 race from Waterford. Estimates range from 100,000 – … Continue reading &rarr;"
 ---

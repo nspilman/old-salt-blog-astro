@@ -14,6 +14,7 @@ tags:
   - "Spitzberg"
   - "steel schooner"
   - "Tempelfjorden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/northernlight.jpg"
 author: "Rick Spilman"
 description: "The 36 meter steel schooner Noorderlicht celebrates her one hundredth birthday this year.  With ten double cabins for passengers, she cruises along the Svalbard archipelago in the Arctic Ocean in the summer and coastal Norway in the Autumn. Her winter employment is what … Continue reading &rarr;"
 ---

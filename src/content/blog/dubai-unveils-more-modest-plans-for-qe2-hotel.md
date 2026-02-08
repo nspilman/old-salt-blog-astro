@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/QueenElizabeth2Dubai.jpg"
 author: "Rick Spilman"
 description: "For several years now cruise ships fans have been concerned that the 2008 debt crunch in Dubai would result in the RMS Queen Elizabeth 2 being sold for scrap instead of being converted to a luxury hotel, as had been the plan when she … Continue reading &rarr;"
 ---

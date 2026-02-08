@@ -6,6 +6,7 @@ excerpt: "The French frigate l’Hermoine arrived off the Virginia Capes yesterd
 categories:
   - "Current"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hermioneAB.jpg"
 author: "Rick Spilman"
 description: "The French frigate l'Hermoine arrived off the Virginia Capes yesterday where she was greeted by the guided-missile destroyer USS Mitscher."
 ---

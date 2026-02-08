@@ -14,6 +14,7 @@ tags:
   - "Gazela"
   - "Independence Seaport Museum"
   - "Philadelphia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/gaz1.jpg"
 author: "Rick Spilman"
 description: "This Saturday the Fourth Annual Wooden Boat Festival will be held at the Independence Seaport Museum on the Delaware River in Philadelphia.   The festival will kick off with a Parade of Sail featuring the tall ships Gazela and AJ Meerwald as … Continue reading &rarr;"
 ---

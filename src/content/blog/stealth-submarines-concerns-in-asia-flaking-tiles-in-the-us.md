@@ -13,6 +13,7 @@ tags:
   - "stealth submarine"
   - "US Navy"
   - "Virginia Class"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/tilesSUB3.jpg"
 author: "Rick Spilman"
 description: "Aren’t all submarines supposed to be stealthy?  I suppose some are stealthier than others.  The South China Morning Post in Hong Kong is reporting concerns by China’s neighbors that China may have already built a stealth submarine.  On the other side of … Continue reading &rarr;"
 ---

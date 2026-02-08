@@ -12,6 +12,7 @@ tags:
   - "jade figurines"
   - "oldest shipwreck in the Caribbean"
   - "silver coins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/oldstcaribwreck.jpg"
 author: "Rick Spilman"
 description: "Divers from Deep Blue Marine have located a wreck site off the Dominican Republic believed to date back to the 1500s and have uncovered a treasure of silver coins and jade figurines. ‘We’ve just scratched the surface’: Divers find ‘oldest shipwreck in … Continue reading &rarr;"
 ---

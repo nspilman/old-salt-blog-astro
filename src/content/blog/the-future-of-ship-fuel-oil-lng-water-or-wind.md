@@ -11,6 +11,7 @@ tags:
   - "fuel"
   - "LNG oil"
   - "wind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/blast_image-150x173.jpg"
 author: "Rick Spilman"
 description: "We have noted before the paradox of ocean shipping — it is simultaneously the most energy efficient means of transportation with the lowest carbon footprint while at the same time, it is a major polluter.  (See our post from back … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Mentawai Islands"
   - "Quest 1"
   - "surfing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/quest1.jpg"
 author: "Rick Spilman"
 description: "For affluent surfers, the ultimate escape is to take a luxury charter boat to surf perfect waves on distant islands. The Mentawai Islands of Indonesia are just such islands and the Quest 1 was just such a boat. Or it was … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Lilac"
   - "Maritime Mardi Gras"
   - "U.S. Coast Guard Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/lilacmardigras.jpg"
 author: "Rick Spilman"
 description: "If you are in the New York area come help celebrate Lilac, America’s only steam-powered lighthouse tender at a Maritime Mardi Gras fundraiser on Fat Tuesday, February 9th from 6 – 8 PM on 79 Walker Street on the 6th … Continue reading &rarr;"
 ---

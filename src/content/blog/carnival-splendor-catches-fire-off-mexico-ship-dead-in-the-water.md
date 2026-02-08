@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/carnival-splendor-fire.jpg"
 author: "Rick Spilman"
 description: "Update: Tugs have been dispatched from Long Beach to tow the stricken cruise ship to Ensenada, Mexico to disembark passengers. An early morning fire on Monday in the engine room on the Carnival Splendor has left the ship dead  in the water in … Continue reading &rarr;"
 ---

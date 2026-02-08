@@ -10,6 +10,7 @@ categories:
 tags:
   - "A.J. Meerwald"
   - "Delaware River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/AJ-Meerwald-Lavin-HR-SS.jpg"
 author: "Rick Spilman"
 description: "The crew aboard the schooner A.J. Meerwald had just finished a Saturday evening sail on the Delaware River near Trenton, NJ when they heard screams at around 7PM. They immediately launched a boat and headed in the direction of the screams … Continue reading &rarr;"
 ---

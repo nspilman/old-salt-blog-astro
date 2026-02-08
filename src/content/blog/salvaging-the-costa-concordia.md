@@ -10,6 +10,7 @@ categories:
 tags:
   - "Costa Concordia"
   - "salvage"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/ccyoutube1.jpg"
 author: "Rick Spilman"
 description: "While pre-trial hearings are underway in an Italian court, an Italian-American engineering consortium has begun salvage operations to remove the cruise ship, partially capsized off the island of Giglio.  It will be the first time a ship of this size has been salvalged … Continue reading &rarr;"
 ---

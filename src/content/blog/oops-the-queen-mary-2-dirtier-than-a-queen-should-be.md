@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "RMS Queen Mary 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/story.queen_.mary2_.gi_.jpg"
 author: "Rick Spilman"
 description: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered \"satisfactory.\"  Anything below is considered \"not satisfactory.\"  The Queen Mary 2 … Continue reading &rarr;"
 ---

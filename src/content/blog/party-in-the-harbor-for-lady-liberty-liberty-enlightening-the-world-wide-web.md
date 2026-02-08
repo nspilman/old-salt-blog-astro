@@ -11,6 +11,7 @@ tags:
   - "new york harbor"
   - "Statue of Liberty"
   - "web cams"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/new-york-statue-of-liberty-.jpg"
 author: "Rick Spilman"
 description: "Today is the 125th anniversary of the dedication of the Statue of Liberty.   The colossal neoclassical sculpture on Liberty Island in New York harbor was designed by Frédéric Bartholdi and dedicated on October 28, 1886 as a gift to America from … Continue reading &rarr;"
 ---

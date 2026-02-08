@@ -11,6 +11,7 @@ tags:
   - "Great Elk"
   - "Lough Neagh"
   - "Northern Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/elk.jpg"
 author: "Rick Spilman"
 description: "Two Northern Irish fishermen were fishing for pollan, a whitefish native to Ireland, in Lough Neagh. Instead, fishermen Raymond McElroy and Charlie Coyle netted the antlers and skull of a Great Elk, a species which disappeared from Ireland 10,500 to 11,000 years … Continue reading &rarr;"
 ---

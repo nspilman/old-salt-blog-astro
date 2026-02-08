@@ -12,6 +12,7 @@ tags:
   - "USS Carter Hall"
   - "USS San Antonio"
   - "USS Wasp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/USSWasp.jpg"
 author: "Rick Spilman"
 description: "The super-storm Sandy swept in from the Atlantic on Monday night, leaving millions without power, destroying thousands of homes, killing scores and dramatically rearranging the landscape of the Jersey shore. Many New York subways went underwater. Fuel supplies are extremely … Continue reading &rarr;"
 ---

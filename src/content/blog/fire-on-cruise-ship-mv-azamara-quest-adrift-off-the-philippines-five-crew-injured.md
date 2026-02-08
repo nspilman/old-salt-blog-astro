@@ -13,6 +13,7 @@ tags:
   - "engine room fire"
   - "MV Azamara Quest"
   - "Royal Caribbean Cruise Lines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Azamara_Quest_off_Santorini.jpg"
 author: "Rick Spilman"
 description: "Update: A fire broke out late Friday in an engine room on the luxury cruise ship, MV Azamara Quest, while en route from Manila to Sandakan in Sabah, Malaysia.  Five members of the crew were injured, suffering smoke inhallation. One crew member is reported … Continue reading &rarr;"
 ---

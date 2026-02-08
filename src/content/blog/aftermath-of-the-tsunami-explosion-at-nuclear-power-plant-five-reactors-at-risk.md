@@ -12,6 +12,7 @@ tags:
   - "northeast Japan"
   - "nuclear reactors"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/82404lede_ap_japan110312.jpg"
 author: "Rick Spilman"
 description: "Friday’s 8.9 magnitude earthquake and 10-meter high tsunami on the  coast of northeast Japan devastated cities and villages, killing as many as 1,300.   It also significantly damaged at least five nuclear reactors at two power plants. Yesterday afternoon, a massive explosion … Continue reading &rarr;"
 ---

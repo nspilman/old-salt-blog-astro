@@ -9,6 +9,7 @@ categories:
 tags:
   - "International Association of Machinists and Aerospace Workers"
   - "Maine Lobsterman's Union"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/lobsterboats.jpg"
 author: "Rick Spilman"
 description: "In August we posted about the current boom in the lobster catch in Maine and about concerns that it could end in a bust.  After years of averages catches of around 20 million pounds of lobster per year, Maine’s 5,500 lobster-men … Continue reading &rarr;"
 ---

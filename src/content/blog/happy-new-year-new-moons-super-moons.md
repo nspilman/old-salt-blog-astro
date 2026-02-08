@@ -9,6 +9,7 @@ categories:
 tags:
   - "new moon"
   - "supermoon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/new-moon.jpg"
 author: "Rick Spilman"
 description: "Happy New Year! The New Year 2014 begins with both a new moon and a supermoon. The month also ends with a both a new moon and and a supermoon on the 30th. A supermoon is the term applied when … Continue reading &rarr;"
 ---

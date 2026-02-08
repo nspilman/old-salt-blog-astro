@@ -9,6 +9,7 @@ categories:
 tags:
   - "Harbor Week"
   - "Narratively|NYC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/narratively1.jpg"
 author: "Rick Spilman"
 description: "Narratively|NYC is a new web magazine with a focus, as the name implies, on narrative journalism involving New York City. For the past week, Narratively|NYC has run new features each day on New York harbor. Worth checking out.  Thanks to Carolina Salguero at … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Koblenz"
   - "Rhine River"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/koblenz.jpg"
 author: "Rick Spilman"
 description: "Recently we posted about how the near record drought in Europe has lowered the levels in the Rhine River, not only limiting vessel traffic, but also exposing World War II munitions.  We wrote that \" bomb disposal experts … are evaluating how to dispose of a … Continue reading &rarr;"
 ---

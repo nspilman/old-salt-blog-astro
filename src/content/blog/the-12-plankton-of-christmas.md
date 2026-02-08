@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Plankton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/ThreeKings.preview-125x100.jpg"
 author: "Rick Spilman"
 description: "Sing with me now – \"On the first day of Christmas my true love gave to me, a Phaeocystis globosa.\"  OK, it may not be a melodic as \"a partridge in a pear tree,\" but it may be more interesting.  Dr. Richard … Continue reading &rarr;"
 ---

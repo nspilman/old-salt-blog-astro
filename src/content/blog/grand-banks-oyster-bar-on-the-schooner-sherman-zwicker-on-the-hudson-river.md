@@ -13,6 +13,7 @@ tags:
   - "hudson river"
   - "Pier 25"
   - "Schooner Sherman Zwicker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/zwicker.jpg"
 author: "Rick Spilman"
 description: "I believe that this is the first straight-out restaurant review that we have done on the Old Salt Blog.  Then again the Grand Banks Oyster Bar on the schooner Sherman Zwicker is not your typical restaurant.  Sherman Zwicker is a … Continue reading &rarr;"
 ---

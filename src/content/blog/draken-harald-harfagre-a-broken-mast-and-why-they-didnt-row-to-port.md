@@ -13,6 +13,7 @@ tags:
   - "Lerwick"
   - "Norway"
   - "Viking replica"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/ls3-730x483.jpg"
 author: "Rick Spilman"
 description: "In early July, the 114-foot long  Draken Harald Hårfagre, the largest Viking replica ever built, was sailing across the North Sea,  from Haugesund in Norway.  Three days out, in high seas, the ship’s mast failed and went over the side.  No one … Continue reading &rarr;"
 ---

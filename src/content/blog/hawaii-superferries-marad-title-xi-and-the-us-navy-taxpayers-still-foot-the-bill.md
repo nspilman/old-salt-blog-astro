@@ -15,6 +15,7 @@ tags:
   - "Huakai"
   - "US Maritime Administration"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Alakai.jpg"
 author: "Rick Spilman"
 description: "Pity the poor taxpayer.  The headline was short and simple – U.S. Navy Buys Hawaii Superferries.  For only $35 million dollars, the US Navy is buying two aluminum, high-speed, ro/ro ferries built for Hawaii Superferry for inter-island service in Hawaii.  The ferries were … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Governor Christie"
   - "New Jersey"
   - "USS New Jersey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/battleshipnewjersey1.jpg"
 author: "Rick Spilman"
 description: "The Battleship USS New Jersey has survived a lot.  Commissioned in 1943, she fought in World War II, the Korean Conflict, the Vietnam War and supported U.S. operations during the Lebanese Civil War in 1983. Despite her success in combat, recent … Continue reading &rarr;"
 ---

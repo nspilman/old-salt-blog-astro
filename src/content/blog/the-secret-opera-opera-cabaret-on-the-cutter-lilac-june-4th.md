@@ -12,6 +12,7 @@ tags:
   - "Lilac Arts Series"
   - "Opera Cabaret"
   - "Secret Opera"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/secretopera1.jpg"
 author: "Rick Spilman"
 description: "On June 4th, Opera Cabaret by The Secret Opera, 7-- 8:30 PM on the Cutter Lilac at Pier 25 at N.Moore at West Streets on the Hudson River in Manhattan."
 ---

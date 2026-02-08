@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/250px-Sbx_underway.jpg"
 author: "Rick Spilman"
 description: "We recently posted about \"Women At Sea: Screening, Conversation, Reception,\" which was held last Wednesday in Manhattan.  The program included a fascinating documentary Shipping Out, the Story of America’s Seafaring Women and a panel discussion with a number of women … Continue reading &rarr;"
 ---

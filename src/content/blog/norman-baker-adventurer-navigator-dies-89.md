@@ -9,6 +9,7 @@ categories:
 tags:
   - "Norman Baker"
   - "Thor Heyerdahl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/normbaker.jpg"
 author: "Rick Spilman"
 description: "As a teenager growing up in Brooklyn, Norman Baker dreamed of adventure.  And he didn’t just dream. At the age of 13, he won a contest where the first prize was flying lessons. He became an avid pilot and at the age … Continue reading &rarr;"
 ---

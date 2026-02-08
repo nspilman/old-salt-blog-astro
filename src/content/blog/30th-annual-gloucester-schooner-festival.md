@@ -12,6 +12,7 @@ tags:
   - "Gloucester Schooner Festival"
   - "Maritime Gloucester Heritage Day"
   - "Mayor's Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/DougMangum004-banner.jpg"
 author: "Rick Spilman"
 description: "Twenty three schooners are participating in this year's 30th Annual Gloucester Schooner Festival in Gloucester, MA."
 ---

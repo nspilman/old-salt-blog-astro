@@ -11,6 +11,7 @@ tags:
   - "Into the Deep: America"
   - "Ric Burns"
   - "Whaling &amp; the World"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/whaling_film_landing1.jpg"
 author: "Rick Spilman"
 description: "This  Monday,  May 10th, PBS’s American Experience series will broadcast Ric Burns’ new documentary, Into the Deep: America, Whaling & the World. It looks fascinating. The history of the American whaling industry from its 17th-century origins in drift and shore whaling off … Continue reading &rarr;"
 ---

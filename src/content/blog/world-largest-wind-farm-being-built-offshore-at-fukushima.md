@@ -10,6 +10,7 @@ tags:
   - "Fukushima"
   - "Fukushima Daiichi"
   - "world's largest wind farm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Windmills.jpg"
 author: "Rick Spilman"
 description: "New energy is coming to Fukushima, the region in Japan best known for a nuclear disaster following the Tōhoku earthquake and tsunami of 11 March 2011. The nuclear meltdown at the Fukushima Daiichi was largest nuclear disaster since the Chernobyl … Continue reading &rarr;"
 ---

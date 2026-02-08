@@ -10,6 +10,7 @@ tags:
   - "Faroe Islands"
   - "Google Street View"
   - "SheepView"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/screemcam360.jpg"
 author: "Rick Spilman"
 description: "One day, I would love to sail to the Faroe Islands. The Faroes are an archipelago of eighteen strikingly beautiful islands between the Norwegian Sea and the North Atlantic Ocean, approximately halfway between Norway and Iceland, and 200 miles north-northwest of … Continue reading &rarr;"
 ---

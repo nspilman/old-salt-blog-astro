@@ -5,6 +5,7 @@ slug: "large-model-of-h-m-s-leviathan-to-be-sold-in-maritime-sale"
 excerpt: "Large Model of H.M.S. Leviathan to be Sold in Aid of Rotherham Sea Cadet Corps in Maritime Sale A monumental model of H.M.S. Leviathan will be offered by Charles Miller Ltd on Wednesday, April 28, 2010 in his sale of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Large-Model-2.jpg"
 author: "Rick Spilman"
 description: "Large Model of H.M.S. Leviathan to be Sold in Aid of Rotherham Sea Cadet Corps in Maritime Sale A monumental model of H.M.S. Leviathan will be offered by Charles Miller Ltd on Wednesday, April 28, 2010 in his sale of … Continue reading &rarr;"
 ---

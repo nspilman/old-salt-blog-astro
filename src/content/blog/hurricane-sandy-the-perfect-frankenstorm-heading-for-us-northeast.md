@@ -10,6 +10,7 @@ tags:
   - "Frankenstorm"
   - "Hurricane Sandy"
   - "Perfect Storm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/sandytrack.jpg"
 author: "Rick Spilman"
 description: "As Hurricane Sandy works its way north, it is possible that it will join with a nor’easter to form what meteorologists are referring to as a \"Frankenstorm,\" a superstorm that could slam into the US Northeast causing damage projected to … Continue reading &rarr;"
 ---

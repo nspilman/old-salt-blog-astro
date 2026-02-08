@@ -12,6 +12,7 @@ tags:
   - "rigid wing sails"
   - "University of Tokyo"
   - "UT Wind Challenger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/windchallenger.jpg"
 author: "Rick Spilman"
 description: "Early airplane wings were built of canvas stretched over a wooden frame, held together with wire rigging.  Modern airplane wings are built of aluminum and other metals.  The comparison to sails, masts and rigging on ships may not apply directly.  Nevertheless, the … Continue reading &rarr;"
 ---

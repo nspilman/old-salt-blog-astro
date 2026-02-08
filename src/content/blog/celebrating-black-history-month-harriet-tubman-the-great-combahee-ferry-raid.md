@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg"
 author: "Rick Spilman"
 description: "Since returning to office, the current Trump regime launched a full-scale war on American history, specifically America’s non-white history. Through a series of executive orders, the current regime has attempted to rewrite our past, glorifying racists and traitors and erasing … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "captain-kate-mccue-first-american-woman-to-command-a-large-cruise-ship"
 excerpt: "Congratulations to Captain Kate McCue. This August, she will take command of the Celebrity Summit, sailing from Bermuda from the East Coast.  She will be the first American woman to command a large cruise ship.  The Celebrity Summit is a 91,000-ton ship which can carry … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/kayemccue-150x200.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Captain Kate McCue. This August, she will take command of the Celebrity Summit, sailing from Bermuda from the East Coast.  She will be the first American woman to command a large cruise ship.  The Celebrity Summit is a 91,000-ton ship which can carry … Continue reading &rarr;"
 ---

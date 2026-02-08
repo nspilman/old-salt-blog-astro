@@ -12,6 +12,7 @@ tags:
   - "Castletown"
   - "Isle of Man"
   - "Peggy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/peggyC.jpg"
 author: "Rick Spilman"
 description: "Peggy, the oldest yacht in the UK and the oldest schooner in the world, is being restored."
 ---

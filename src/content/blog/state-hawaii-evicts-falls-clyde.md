@@ -12,6 +12,7 @@ tags:
   - "Friends of Falls of Clyde"
   - "Hawaii"
   - "Honolulu harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/Falls_of_Clyde1.jpg"
 author: "Rick Spilman"
 description: "In May 2015, we posted that the State of Hawaii has put the Friends of Falls of Clyde, the organization responsible for rescuing the historic ship of the same name, on notice that the state planned to terminate the permit … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Coast Guard Day"
   - "lighthouse tender"
   - "Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/lilaccgday.jpg"
 author: "Rick Spilman"
 description: "The Lilac Preservation Project is hosting \"LILAC: Flower of the Delaware, A Coast Guard Day Presentation\" on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "midshipmen"
   - "obelisk"
   - "U.S. Naval Academy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/plebe.jpg"
 author: "Rick Spilman"
 description: "What make this story interesting are not the facts but the reaction to them.   A sixty year tradition of Naval Academy plebes climbing a greased obelisk at the end of their first year is coming to an end.   So … Continue reading &rarr;"
 ---

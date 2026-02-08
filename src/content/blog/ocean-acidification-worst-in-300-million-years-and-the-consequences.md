@@ -9,6 +9,7 @@ categories:
 tags:
   - "biodiversity"
   - "Ocean acidification"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/dead-coral-reef.jpg"
 author: "Rick Spilman"
 description: "Two recent articles suggest a grim future if ocean acidification is allowed  to  continue  at current rates. Oceans absorb much of the carbon in the atmosphere and as we increase atmospheric CO2, the oceans grow progressively more acidic. A new study published in Science suggest that ocean acidification … Continue reading &rarr;"
 ---

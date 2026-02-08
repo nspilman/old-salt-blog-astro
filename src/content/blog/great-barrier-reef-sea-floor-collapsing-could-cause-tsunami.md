@@ -12,6 +12,7 @@ tags:
   - "James Cook University"
   - "marine geologists"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/BarrierReefAFP.jpg"
 author: "Rick Spilman"
 description: "The world did not end of on 12/21/12 as some had predicted. Nevertheless, there are still a few things to worry about. Last week, marine geologists from Australia’s James Cook University warned that a one cubic kilometer slab  of the sea … Continue reading &rarr;"
 ---

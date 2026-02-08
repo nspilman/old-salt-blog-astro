@@ -5,6 +5,7 @@ slug: "kiwis-thrash-team-oracle-ac-race-five-oracle-calls-time-score-4-minus-1"
 excerpt: "On Tuesday the Emirates Team New Zealand beat the defending Oracle Team USA in the fifth race of the America’s Cup finals with a victory of 1 minute, 5 seconds on San Francisco Bay. This is the fourth Kiwi victory. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/CC130907.jpg"
 author: "Rick Spilman"
 description: "On Tuesday the Emirates Team New Zealand beat the defending Oracle Team USA in the fifth race of the America’s Cup finals with a victory of 1 minute, 5 seconds on San Francisco Bay. This is the fourth Kiwi victory. … Continue reading &rarr;"
 ---

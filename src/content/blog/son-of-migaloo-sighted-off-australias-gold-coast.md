@@ -11,6 +11,7 @@ tags:
   - "Gold Coast"
   - "Son of Migaloo"
   - "white humpback whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/sonofmigaloo.jpg"
 author: "Rick Spilman"
 description: "Recently, there has been considerable excitement over the sighting of a white humpback whale off Australia’s Gold Coast.  Initially, the whale was thought to be Migaloo, an albino humpback first seen in 1991. The white whale, however, appears to be … Continue reading &rarr;"
 ---

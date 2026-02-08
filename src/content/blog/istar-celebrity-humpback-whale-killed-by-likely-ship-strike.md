@@ -11,6 +11,7 @@ tags:
   - "Istar"
   - "Riverhead Foundation"
   - "Ship strike"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/istar.jpg"
 author: "Rick Spilman"
 description: "The mature female humpback whale that washed ashore dead on Long Beach Island last week was well known to scientists, who have tracked her for thirty seven years.  Kimberly Durham, rescue program director of the Riverhead Foundation, described her as a \"celebrity in … Continue reading &rarr;"
 ---

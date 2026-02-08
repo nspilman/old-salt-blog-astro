@@ -13,6 +13,7 @@ tags:
   - "Olympias"
   - "Olympic flame"
   - "trireme"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/olympias.jpg"
 author: "Rick Spilman"
 description: "The image is wonderful to think about. At the start of the London Olympics, the trireme Olympias, with 170 of Britain’s finest rowers at the oars, was to proceed down the Thames bearing the Olympic flame.  But it is not to be. As … Continue reading &rarr;"
 ---

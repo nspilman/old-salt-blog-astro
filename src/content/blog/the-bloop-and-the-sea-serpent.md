@@ -8,6 +8,7 @@ categories:
 tags:
   - "bloop"
   - "U.S. National Oceanic and Atmospheric Administration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/monster.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about The Great Gloucester Sea Serpent of 1817.    Eric, a blog reader, commented, no doubt tongue in cheek, \"So that is what the bloop was.\"  His comment got me thinking about the ironies of observations, technology and … Continue reading &rarr;"
 ---

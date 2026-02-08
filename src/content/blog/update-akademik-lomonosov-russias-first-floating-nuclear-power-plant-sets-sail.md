@@ -14,6 +14,7 @@ tags:
   - "Kamchatka Peninsula"
   - "Pevek"
   - "Russia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/Akademik-Lomonosov1.jpg"
 author: "Rick Spilman"
 description: "In May of last year, we posted about the Russians’ first floating nuclear power plant, \"Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?.\" At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. … Continue reading &rarr;"
 ---

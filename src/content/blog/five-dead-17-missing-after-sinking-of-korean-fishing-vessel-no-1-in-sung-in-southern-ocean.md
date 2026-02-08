@@ -13,6 +13,7 @@ tags:
   - "No.1 In Sung"
   - "Rescue Coordination Centre New Zealand (RCCNZ)"
   - "Southern Ocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/4454393.jpg"
 author: "Rick Spilman"
 description: "Another ship down.  Speculation is that the Korean fishing vessel No.1 In Sung either struck an iceberg or was hit by a large wave off Antarctica.   Twenty surviving crew  members  were  rescued and taken aboard the fishing vessel No. 707 … Continue reading &rarr;"
 ---

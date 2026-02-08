@@ -11,6 +11,7 @@ tags:
   - "Draken"
   - "Draken Harald Hårfagre"
   - "Viking ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/draken2018.jpg"
 author: "Rick Spilman"
 description: "The Draken Harald Hårfagre, the largest Viking longship built in modern times, will be touring the East Coast of the United States this summer.  From the Draken website: Beginning in June through October, plans for East Coast Tour 2018 currently consist … Continue reading &rarr;"
 ---

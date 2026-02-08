@@ -11,6 +11,7 @@ tags:
   - "Living Classrooms Foundation"
   - "pungy schooner"
   - "schooner Lady Maryland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/lmaryland.jpg"
 author: "Rick Spilman"
 description: "The schooner Lady Maryland is being dry docked at Chase’s Wharf in Fells Point to replace rotted sections of the stem and to refasten the hull as necessary. The docking and repairs are expected to take around four months and … Continue reading &rarr;"
 ---

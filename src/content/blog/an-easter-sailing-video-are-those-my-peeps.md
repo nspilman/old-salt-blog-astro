@@ -9,6 +9,7 @@ tags:
   - "2014 Heineken Regatta"
   - "peeps"
   - "Stark Raving Mad"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/peep_chick-with-r-1-authorized-for-publication.jpg"
 author: "Rick Spilman"
 description: "Recently the folks at Sailing Scuttlebutt commented that it looked as if the boats in the Stark Raving Mad 2014 Heineken Regatta were being sailed by \"peeps,\" the ubiquitous, if largely inedible, marshmallow candies, sold in the United States and … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "MV Double Prosperity"
   - "Philippines"
   - "Sarangani Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/20110512093957_0.jpg"
 author: "Rick Spilman"
 description: "The perhaps poorly named MV Double Prosperity, loaded with  65,000 tons of coal, grounded on Bakud Reef on Sunday in Sarangani Bay in the Philippines. Stranded ship threatens Philippine reef … Continue reading &rarr;"
 ---

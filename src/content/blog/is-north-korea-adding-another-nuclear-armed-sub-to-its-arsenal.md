@@ -12,6 +12,7 @@ tags:
   - "North Korea"
   - "Sinpo Class submarine"
   - "SLBM submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/nksub1.jpg"
 author: "Rick Spilman"
 description: "As if things were not complicated enough, it appears that North Korea is building a second and more capable ballistic missile submarine. In addition to developing inter-continental range ballistic missiles launched from land, North Korea has for several years been … Continue reading &rarr;"
 ---

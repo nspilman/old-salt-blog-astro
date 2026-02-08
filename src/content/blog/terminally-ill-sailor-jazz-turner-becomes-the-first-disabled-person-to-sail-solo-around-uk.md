@@ -13,6 +13,7 @@ tags:
   - "Jazz Turner"
   - "Project Fear"
   - "Sailability"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2025/07/jazzturner.jpg"
 author: "Rick Spilman"
 description: "Jazz Turner sailed back into Brighton on Monday afternoon, June 30, after a voyage of 28 days, becoming the first disabled person to make the journey around the British Isles non-stop and unassisted. Turner sailed from Brighton on June 2 … Continue reading &rarr;"
 ---

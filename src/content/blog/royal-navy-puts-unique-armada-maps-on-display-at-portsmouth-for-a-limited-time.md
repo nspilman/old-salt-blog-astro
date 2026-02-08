@@ -13,6 +13,7 @@ tags:
   - "British naval history"
   - "Royal Navy"
   - "Spanish armada"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/06/arrmada.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy has announced that it is putting on display one of the greatest treasures in British naval history before they return to storage for months, perhaps years, to protect them. The Armada Maps chart the Royal Navy’s defeat … Continue reading &rarr;"
 ---

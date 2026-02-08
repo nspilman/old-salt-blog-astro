@@ -10,6 +10,7 @@ categories:
 tags:
   - "CBC's Land and Sea"
   - "Pirates and Privateers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/LS_PrivatesandPrivateers.jpg"
 author: "Rick Spilman"
 description: "We posted previously about \"Pirates and Privateers,\" a documentary on CBC’s Land and Sea.  The 20 minute documentary is now available on-line. It presents a distinctive view of piracy and privateering from the perspective of the Canadian Maritimes, not often seen by those of us … Continue reading &rarr;"
 ---

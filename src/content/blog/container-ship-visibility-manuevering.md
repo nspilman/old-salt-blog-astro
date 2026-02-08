@@ -11,6 +11,7 @@ tags:
   - "container ship"
   - "Maneuvering"
   - "Visibility"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/acxcrystal.jpg"
 author: "Rick Spilman"
 description: "One recurring comment related to the collision between the USS Fitzgerald and the container ship ACX Crystal was that the container ship might not have been able to see the destroyer over the containers stacked on deck. There are photographs … Continue reading &rarr;"
 ---

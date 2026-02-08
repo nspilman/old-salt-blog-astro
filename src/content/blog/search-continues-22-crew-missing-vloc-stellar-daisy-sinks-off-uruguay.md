@@ -11,6 +11,7 @@ tags:
   - "Stellar Daisy"
   - "Very Large Ore Carrier"
   - "VLOC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/stellardaisy.jpg"
 author: "Rick Spilman"
 description: "So far, only two of the crew of 24 have been rescued after the Very Large Ore Carrier (VLOC) Stellar Daisy capsized and sank suddenly on Friday, March 31st. The 266,00 DWT Marshall Island registered  bulk carrier was reported to have … Continue reading &rarr;"
 ---

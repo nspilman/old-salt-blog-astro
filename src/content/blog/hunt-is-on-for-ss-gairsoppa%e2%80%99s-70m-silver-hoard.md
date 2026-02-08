@@ -11,6 +11,7 @@ categories:
 tags:
   - "German submarine U101"
   - "SS Gairsoppa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/gairsoppa.jpg"
 author: "Rick Spilman"
 description: "An intriguing article from the Sunday Times: Hunt is on for SS Gairsoppa’s £70m silver hoard AN official attempt to find a ship containing £70m worth of silver, which was sunk during the second world war, is to be announced by … Continue reading &rarr;"
 ---

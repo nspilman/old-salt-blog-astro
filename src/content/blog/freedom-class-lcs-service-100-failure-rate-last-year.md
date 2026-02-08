@@ -13,6 +13,7 @@ tags:
   - "littoral combat ships"
   - "USS Fort Worth"
   - "USS Milwaukee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/freedom2.jpg"
 author: "Rick Spilman"
 description: "The LCS saga continues. The USS Freedom suffered another serious failure.  There are currently three Freedom Class Littoral Combat Ships (LCS) in service — USS Freedom, USS Fort Worth, and the USS Milwaukee.  In the past twelve months, all three of the … Continue reading &rarr;"
 ---

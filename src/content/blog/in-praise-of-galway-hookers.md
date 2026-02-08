@@ -12,6 +12,7 @@ tags:
   - "Galway Hookers"
   - "Ireland"
   - "traditional fishing boats"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/galway-hooker.jpg"
 author: "Rick Spilman"
 description: "Recently, Travel + Leisure magazine rated Galway, Ireland the world’s friendliest city.  I wonder whether it has anything to do with the Galway hookers? But what is a Galway hooker? Is it: A Galway street-walker? A traditional single masted fishing boat? A … Continue reading &rarr;"
 ---

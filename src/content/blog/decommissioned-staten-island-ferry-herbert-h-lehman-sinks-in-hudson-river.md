@@ -10,6 +10,7 @@ categories:
 tags:
   - "Herbert H. Lehman"
   - "Staten Island Ferry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/lehman.jpg"
 author: "Rick Spilman"
 description: "The Staten Island ferry Herbert H. Lehman was decommissioned in 2007 and put up for sale last year on EBay for $500,000.  The 297′ foot Kennedy class ferry boat apparently sprang a leak on Friday at her berth in Newburg, N.Y. … Continue reading &rarr;"
 ---

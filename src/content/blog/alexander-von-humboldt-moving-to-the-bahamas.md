@@ -11,6 +11,7 @@ tags:
   - "Alexander von Humboldt"
   - "Bahamas"
   - "Freeport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Ship-Hackman.jpg"
 author: "Rick Spilman"
 description: "In November we posted about the first shakedown day cruise of the Alexander von Humboldt II, Germany’s newest tall ship.  The new ship, operated by Deutsche Stiftung Sail Training (DSST), is replacing the 1906 built Alexander von Humboldt which has been sailing as a … Continue reading &rarr;"
 ---

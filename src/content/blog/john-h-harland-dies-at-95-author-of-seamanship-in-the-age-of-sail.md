@@ -9,6 +9,7 @@ categories:
 tags:
   - "John Harland"
   - "Seamanship in the Age of Sail"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/johnharland.jpg"
 author: "Rick Spilman"
 description: "We were saddened to learn that John Harland has died. He passed away peacefully on May 11th, a few days after his ninety-fifth birthday. After a career in medicine, Dr. Harland became known as a researcher and author on maritime history. … Continue reading &rarr;"
 ---

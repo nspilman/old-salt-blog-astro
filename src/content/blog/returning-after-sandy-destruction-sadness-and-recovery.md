@@ -6,6 +6,7 @@ excerpt: "Last Monday night, the lights went out for over 8 million people in th
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/ap_staten_island_boat_grounded_mi_121030_wmain.jpg"
 author: "Rick Spilman"
 description: "Last Monday night, the lights went out for over 8 million people in the Northeast and Central United States as Superstorm Sandy sent high winds and a record storm surge ashore. It was the worst storm to hit New York … Continue reading &rarr;"
 ---

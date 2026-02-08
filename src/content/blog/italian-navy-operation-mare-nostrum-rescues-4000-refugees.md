@@ -10,6 +10,7 @@ tags:
   - "Mediterranean"
   - "Operation Mare Nostrum"
   - "refugees"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/boat-carrying-african-immigrants-sinks-off-libya-coast.jpg"
 author: "Rick Spilman"
 description: "The Italian Navy's Operation Mare Nostrum recently rescued close to 4,000 refugees in the Mediterranean near Sicily."
 ---

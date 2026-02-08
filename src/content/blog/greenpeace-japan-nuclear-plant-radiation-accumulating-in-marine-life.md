@@ -11,6 +11,7 @@ tags:
   - "Fukushima nuclear plant"
   - "Greenpeace"
   - "radioactive iodine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/t1larg.gp_.japan_.afp_.gi_.jpg"
 author: "Rick Spilman"
 description: "A recent report by Greenpeace directly contradicts Japanese government assurances that the radiation in the water near the crippled Fukushima nuclear plant is being dispersed and diluted over time.  Significant levels of radioactive contamination have been recorded in local seafood. Greenpeace: Japan nuclear plant radiation accumulating … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "International Sail Training and Tall Ships Conference 2010"
   - "Norway"
   - "Stavanger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Stavanger2.jpg"
 author: "Rick Spilman"
 description: "Not long left to register for the International Sail Training and Tall Ships Conference 2010 to be held on 12th – 13th November 2010 in Stavanger, Norway. The International Sail Training & Tall Ships Conference 2010 … Continue reading &rarr;"
 ---

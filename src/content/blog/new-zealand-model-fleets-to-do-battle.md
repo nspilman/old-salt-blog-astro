@@ -11,6 +11,7 @@ tags:
   - "New Zealand"
   - "radio-controlled model ships"
   - "Task Force 48"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/taskforce48.jpg"
 author: "Rick Spilman"
 description: "This Sunday a grand of fleet of miniature ships will sail the lake at East Tamaki, a suburb of Auckland, New Zealand.  The event is being hosted by Task Force 48, a group of radio-controlled model ship enthusiasts. Model boats battle The 1:48 scale … Continue reading &rarr;"
 ---

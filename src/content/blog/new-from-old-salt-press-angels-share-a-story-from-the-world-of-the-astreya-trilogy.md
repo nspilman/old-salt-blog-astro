@@ -11,6 +11,7 @@ tags:
   - "Astreya Trilogy"
   - "Old Salt Press"
   - "Seymour Hamilton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/angelsshare.jpg"
 author: "Rick Spilman"
 description: "The second of two wonderful books recently released by Old Salt Press. Today we are spotlighting Angel’s Share: A Story from the World of The Astreya Trilogy by Seymour Hamilton. About the book: Angel, a very old man who once … Continue reading &rarr;"
 ---

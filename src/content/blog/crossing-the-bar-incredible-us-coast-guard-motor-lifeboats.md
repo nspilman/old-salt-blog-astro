@@ -12,6 +12,7 @@ tags:
   - "44-Foot Motor Lifeboat"
   - "47-foot Motor Lifeboat"
   - "US Coast Guard Motor Lifeboats"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/47mlb1.jpg"
 author: "Rick Spilman"
 description: "It takes a special breed of sailor to attempt to crest the monstrous waves of a harbor bar in a motor lifeboat.  It also takes a very specially designed and built boat to make crossing the bar possible. We recently … Continue reading &rarr;"
 ---

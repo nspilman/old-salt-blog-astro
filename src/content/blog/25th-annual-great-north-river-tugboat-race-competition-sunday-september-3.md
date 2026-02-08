@@ -11,6 +11,7 @@ tags:
   - "25th Annual Great North River Tugboat Race"
   - "tug"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/greatnrtugrace.jpg"
 author: "Rick Spilman"
 description: "For those in and around New York harbor, the 25th Annual Great North River Tugboat Race & Competition, sponsored by the Working Harbor Committee, is coming up on Sunday, September 3rd. The Parade of Tugs starts on the Hudson River at 10 … Continue reading &rarr;"
 ---

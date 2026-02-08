@@ -11,6 +11,7 @@ tags:
   - "freighter"
   - "gold ore"
   - "Sea of Okhotsk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Amurskaya.jpg"
 author: "Rick Spilman"
 description: "The freighter Amurskaya, with a crew of of between 8 and 11, and carrying 700 tons of gold ore has been reported missing in stormy seas near the Shantar Islands, in the Sea of Okhotsk, on Russia’s Pacific Coast.   The gold ore … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Lewis Bennett"
   - "life raft"
   - "Surf into Summer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/surfintosummer.jpg"
 author: "Rick Spilman"
 description: "Lewis Bennett, 38, a British engineer, was recently arrested by the FBI on charges related to possession of stolen rare silver and gold coins. The story behind the arrest gets very strange, involving a Caribbean theft, a missing wife, and … Continue reading &rarr;"
 ---

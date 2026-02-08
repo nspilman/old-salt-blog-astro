@@ -13,6 +13,7 @@ tags:
   - "Floating Library"
   - "Hudson River Pier 25"
   - "Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/floatinglibrarylilac.jpg"
 author: "Rick Spilman"
 description: "Today through October 3rd, the 1933 lighthouse tender Lilac is transformed into the Floating Library, a salon for reading, writing, research, and debate"
 ---

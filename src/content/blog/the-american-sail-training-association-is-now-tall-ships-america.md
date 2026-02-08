@@ -9,6 +9,7 @@ categories:
 tags:
   - "American Sail Training Association"
   - "Tall Ships America"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/tall-ships-america-blue-2.gif"
 author: "Rick Spilman"
 description: "The American Sail Training Association is \"rebranding.\"   They will now be known as Tall Ships America.  Everything else will stay about the same.   I have to admit, Tall Ships America does have a nice ring to it while ASTA sounded … Continue reading &rarr;"
 ---

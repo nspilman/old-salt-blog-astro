@@ -14,6 +14,7 @@ tags:
   - "fire"
   - "MSC Flamina"
   - "MSC Stella"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Msc-Flaminia-693832.jpg"
 author: "Rick Spilman"
 description: "The container ship, MSC Flaminia, is in flames, drifting in the North Atlantic, roughly half way between Britain and Canada, approximately 1,000 miles west of Cornwall.   One man is reported either be missing or to have died from burns. At least … Continue reading &rarr;"
 ---

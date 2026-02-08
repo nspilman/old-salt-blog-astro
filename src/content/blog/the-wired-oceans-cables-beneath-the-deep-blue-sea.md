@@ -10,6 +10,7 @@ tags:
   - "internet"
   - "telegraph cables"
   - "undersea cables"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/underseacable1.jpg"
 author: "Rick Spilman"
 description: "For something so relatively new, we take the internet very much for granted.  The first graphical web browser is less than 20 years old.  Nevertheless, the internet seems ubiquitous in most of our lives.  But on a world that is over 70% ocean, how … Continue reading &rarr;"
 ---

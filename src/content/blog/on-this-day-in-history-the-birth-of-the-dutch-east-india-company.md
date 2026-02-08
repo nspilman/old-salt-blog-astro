@@ -9,6 +9,7 @@ categories:
 tags:
   - "Dutch East India Company"
   - "Vereenigde Oost-Indische Compagnie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/voc-heading.jpg"
 author: "Rick Spilman"
 description: "On March 20th, 1602 the Vereenigde Oost-Indische Compagnie, the VOC, or in English, the United Dutch East India Company was established as a chartered company.   It would dominate European trade with Asia for almost 200 years. Dutch East India Company … Continue reading &rarr;"
 ---

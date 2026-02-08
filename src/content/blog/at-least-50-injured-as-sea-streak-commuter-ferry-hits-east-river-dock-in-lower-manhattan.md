@@ -13,6 +13,7 @@ tags:
   - "lower Manhattan"
   - "Pier 11"
   - "Sea Streak"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/seastreak1.jpg"
 author: "Rick Spilman"
 description: "This morning around 8:45 local time, a Seastreak catamaran ferry carrying approximately 300 commuters slammed into a loading barge at Pier 11 in New York City’s East River, in Lower Manhattan, injuring at least 50 passengers. At least one was reported to be in … Continue reading &rarr;"
 ---

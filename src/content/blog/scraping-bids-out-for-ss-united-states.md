@@ -12,6 +12,7 @@ tags:
   - "scrap"
   - "South Philadelphia"
   - "SS United States"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/ssus.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted that the Independence Seaport Museum doesn’t have the money to support the upkeep of the USS Olympia nor does it have the money to dredge the channel to tow her away.  On the other side of the … Continue reading &rarr;"
 ---

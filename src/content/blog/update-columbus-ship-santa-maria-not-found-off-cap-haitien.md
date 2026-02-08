@@ -13,6 +13,7 @@ tags:
   - "Haiti"
   - "Santa Maria"
   - "UNESCO"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/santamaria.jpg"
 author: "Rick Spilman"
 description: "UNESCO has scuttled claims that the wreck of Columbus' ship Santa Maria has been located off Haiti."
 ---

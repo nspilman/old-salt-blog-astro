@@ -10,6 +10,7 @@ categories:
 tags:
   - "Canadian WWII Submarine Commander"
   - "Lieutenant Commander Fred Sherwood"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/HMS_Spiteful.jpg"
 author: "Rick Spilman"
 description: "In our post about the passing of Bill King, we originally referred to him as the last surviving World War II submarine commander. Apparently, that is not the case.  We learned from Pat Barnhouse on the MarHist list that \"Lieutenant Commander … Continue reading &rarr;"
 ---

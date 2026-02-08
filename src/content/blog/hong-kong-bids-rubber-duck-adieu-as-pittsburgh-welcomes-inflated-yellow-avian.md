@@ -13,6 +13,7 @@ tags:
   - "Pittsburgh"
   - "Rubber Duck"
   - "Victoria harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/520431422.jpg"
 author: "Rick Spilman"
 description: "Thousands thronged Hong Kong’s Victoria harbor waterfront to say goodbye to a beloved four-story inflatable yellow duck. (See our recent post, Spreading Joy Around the World,\" aka \"Rubber Duck\" – Inflated, Deflated, Revived & Censored) The huge inflatable duck, which is named … Continue reading &rarr;"
 ---

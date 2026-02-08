@@ -11,6 +11,7 @@ tags:
   - "Felix Riesenberg"
   - "Honolulu"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/undersail.jpg"
 author: "Rick Spilman"
 description: "Under Sail is a remarkable account of sixteen year old Felix Riesenberg’s first voyage on a square rigger from South Street Seaport in New York, to Honolulu and back. He sailed on the A.J. Fuller, a Bath built, copper clad, … Continue reading &rarr;"
 ---

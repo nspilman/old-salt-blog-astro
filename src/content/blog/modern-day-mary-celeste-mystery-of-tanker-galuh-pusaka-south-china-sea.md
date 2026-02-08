@@ -12,6 +12,7 @@ tags:
   - "Galuh Pusaka"
   - "Indonesia navy"
   - "South China Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/galuhpusaka.jpg"
 author: "Rick Spilman"
 description: "The owners of the product tanker Arsenal  lost contact with the ship while she was underway in the South China Sea near the Anambas Archipelago, Indonesia. Fearing that the ship might have been hijacked by pirates, they contacted the Indonesian … Continue reading &rarr;"
 ---

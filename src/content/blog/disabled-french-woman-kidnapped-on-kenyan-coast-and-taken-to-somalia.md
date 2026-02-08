@@ -18,6 +18,7 @@ tags:
   - "Marie Didieu"
   - "pirates"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Marie-Didieu-was-snatched-0.jpg"
 author: "Rick Spilman"
 description: "Marie Didieu, a disabled  66-year-old French woman, was kidnapped yesterday from her vacation home on Manda Island, part of the Lamu archipelago, not far from where a British tourist was killed and his wife abducted three weeks ago.  The kidnappers arrived and departed by … Continue reading &rarr;"
 ---

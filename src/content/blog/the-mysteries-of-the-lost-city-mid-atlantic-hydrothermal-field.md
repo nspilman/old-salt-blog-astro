@@ -14,6 +14,7 @@ tags:
   - "marine alkaline hydrothermal vents"
   - "Mid-Atlantic Ridge"
   - "North Atlantic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/lostcity.jpg"
 author: "Rick Spilman"
 description: "Over two thousand feet beneath the surface of the North Atlantic, on the seamount Atlantis Massif, at the intersection between the Mid-Atlantic Ridge and the Atlantis Transform Fault, a jagged landscape of towers rises from the deep ocean gloom. Discovered … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Rainbow"
   - "Red Jacket"
   - "Stephen Hopkins"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/shiplorebanner1.jpg"
 author: "Rick Spilman"
 description: "If you are in Manhattan next Monday night, April 24, feel free to stop by the meeting of the New York Ship Lore and Model Club. Stephen Hopkins and I will be giving a joint presentation on three remarkable ships. … Continue reading &rarr;"
 ---

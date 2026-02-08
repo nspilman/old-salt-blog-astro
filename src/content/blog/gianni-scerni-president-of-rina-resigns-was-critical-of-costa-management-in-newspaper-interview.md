@@ -11,6 +11,7 @@ tags:
   - "Gianni Scerni"
   - "Registro Italiano Navale"
   - "RINA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/rinapres.jpg"
 author: "Rick Spilman"
 description: "Shortly after Costa Crociere chairman and CEO Pier Luigi Foschi blamed the grounding of the Costa Concordia on an \"inexplicable\" error by the captain, Gianni Scerni, the president of RINA, sat down for an interview with the Italian newspaper Il Secolo XIX.  RINA, Registro … Continue reading &rarr;"
 ---

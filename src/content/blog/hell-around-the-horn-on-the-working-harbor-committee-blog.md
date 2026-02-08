@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hell Around the Horn"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "There was a very nice post this morning on the Working Harbor Committee blog about my novel \"Hell Around the Horn.\"   My thanks to the editor,  Mai Armstrong. Have you read Rick Spilman’s novel Hell Around The Horn? It’s a thriller … Continue reading &rarr;"
 ---

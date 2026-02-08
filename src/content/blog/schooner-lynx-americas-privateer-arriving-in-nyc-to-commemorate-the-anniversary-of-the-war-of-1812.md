@@ -14,6 +14,7 @@ tags:
   - "North Cove"
   - "top-sail schooner"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Lynx.jpg"
 author: "Rick Spilman"
 description: "To commemorate the 200th Anniversary of the War of 1812, the schooner Lynx, \"America’s Privateer,\" will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson … Continue reading &rarr;"
 ---

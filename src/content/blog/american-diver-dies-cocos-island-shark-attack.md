@@ -12,6 +12,7 @@ tags:
   - "hammerheads"
   - "Sharks"
   - "tiger sharks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/cocos.jpg"
 author: "Rick Spilman"
 description: "An American diving in a tour group off Costa Rico’s Cocos Island was attacked and killed yesterday by a tiger shark. The name of the victim has not been released and the circumstances of the attack are not known. The … Continue reading &rarr;"
 ---

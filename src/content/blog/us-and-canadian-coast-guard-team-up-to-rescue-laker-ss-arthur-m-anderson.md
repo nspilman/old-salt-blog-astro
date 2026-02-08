@@ -13,6 +13,7 @@ tags:
   - "Lake Erie"
   - "SS Arthur M. Anderson"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/andersonice.jpg"
 author: "Rick Spilman"
 description: "The US and Canadian Coast Guard are teaming up to rescue laker SS Arthur M. Anderson which has been stuck in the ice in Lake Erie for the past five days."
 ---

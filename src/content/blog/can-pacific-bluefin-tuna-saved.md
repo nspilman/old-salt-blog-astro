@@ -6,6 +6,7 @@ excerpt: "The Pacific bluefin tuna is at risk of becoming commercially extinct. 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/pacificbluefin.jpg"
 author: "Rick Spilman"
 description: "The Pacific bluefin tuna is at risk of becoming commercially extinct. Overfishing has depleted stocks of the fish by an estimated 97%. Now the principle tuna-fishing nations have reached an agreement to gradually rebuild the depleted stocks, while still allowing Japan, … Continue reading &rarr;"
 ---

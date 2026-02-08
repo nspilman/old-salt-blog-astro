@@ -12,6 +12,7 @@ tags:
   - "HMAS Manoora"
   - "Japanese submarine"
   - "torpedoed"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/AHS_Centaur.jpg"
 author: "Rick Spilman"
 description: "The Australian Hospital Ship Centaur was torpedoed by a Japanese submarine off the coast of Queensland, Australia, on 14 May 1943. Of the 332 medical personnel and civilian crew aboard, 268 were killed.  The exact position of the sunken ship … Continue reading &rarr;"
 ---

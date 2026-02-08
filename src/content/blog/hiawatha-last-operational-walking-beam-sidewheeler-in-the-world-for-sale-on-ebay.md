@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hiawatha"
   - "walking beam steam sidewheeler"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/hiawatha.jpg"
 author: "Rick Spilman"
 description: "The Hiawatha, reportedly the last operational walking beam steam sidewheeler in the world, is being offered for sale on E-Bay. Built in 1983 of steel, the Hiawatha is 38 feet long with a 15.5 feet beam.  Its paddle wheels are … Continue reading &rarr;"
 ---

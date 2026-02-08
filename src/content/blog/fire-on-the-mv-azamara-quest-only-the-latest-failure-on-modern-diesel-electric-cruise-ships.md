@@ -14,6 +14,7 @@ tags:
   - "MSC Opera"
   - "MV Azamara Quest"
   - "RMS Queen Mary 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/splendor-4.jpg"
 author: "Rick Spilman"
 description: "The fire on the MV Azamara Quest, is one of a recent series of disabling fires and power failures on diesel-electric powered cruise ships.  Unlike the MV Azamara Quest, however, the ship’s crews aboard the Costa Allegra, the Carnival Splendor,  and the MSC Opera were unable to effect … Continue reading &rarr;"
 ---

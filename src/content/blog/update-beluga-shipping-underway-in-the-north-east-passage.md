@@ -5,6 +5,7 @@ slug: "update-beluga-shipping-underway-in-the-north-east-passage"
 excerpt: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the \"Northern Sea Route\" which is also referred to as the \"North East Passage.\"  See our \"Beluga Group attempts the Northern Sea Route\" … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/passage_600a.jpg"
 author: "Rick Spilman"
 description: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the \"Northern Sea Route\" which is also referred to as the \"North East Passage.\"  See our \"Beluga Group attempts the Northern Sea Route\" … Continue reading &rarr;"
 ---

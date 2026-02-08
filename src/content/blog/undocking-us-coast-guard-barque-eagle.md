@@ -12,6 +12,7 @@ tags:
   - "Coast Guard"
   - "drydock"
   - "USCGC Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/eagledd1.jpg"
 author: "Rick Spilman"
 description: "Here is a time-lapse video of the U.S. Coast Guard’s 81-year-old Barque Eagle departing the floating drydock, the ex-USS Oak Ridge, on February 27, 2018, at the Coast Guard Yard, Baltimore, Maryland. The 295-foot Eagle went on dock in August … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/article-2034348-0DBBCEE7000.jpg"
 author: "Rick Spilman"
 description: "The 120 year old ketch, Leader, was dismasted yesterday in force seven winds off Portland Bill, Dorset; losing her main mast, boom, sails and associated rigging.   An RNLI lifeboat was called to assist and successfully towed the Leader and her 16 … Continue reading &rarr;"
 ---

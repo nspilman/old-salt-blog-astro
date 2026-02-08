@@ -12,6 +12,7 @@ tags:
   - "ghost ship"
   - "Ireland"
   - "MV Alta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/05/mvaltarocks.jpg"
 author: "Rick Spilman"
 description: "In February, we posted \"The Long Strange Voyage of the \"Ghost Ship\" MV Alta,\" about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. … Continue reading &rarr;"
 ---

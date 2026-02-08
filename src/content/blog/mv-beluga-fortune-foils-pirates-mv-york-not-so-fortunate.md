@@ -13,6 +13,7 @@ tags:
   - "MV Beluga Fortune"
   - "MV York"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/fleet-F-Serie-02.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, Somali pirates seized two ships in two days.  On Saturday, pirates seized the MV York, a liquefied petroleum gas tanker, off the coast of Kenya.   On Sunday, pirates seized the MV Beluga Fortune about 1,200 miles east of … Continue reading &rarr;"
 ---

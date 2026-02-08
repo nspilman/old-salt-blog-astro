@@ -17,6 +17,7 @@ tags:
   - "Prince Philip"
   - "renaming ceremony"
   - "Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/337225-86624bc2-29a5-11e3-8b19-50b18379ccf2.jpg"
 author: "Rick Spilman"
 description: "The composite clipper ship, City of Adelaide, which had been renamed HMS Carrick, was officially renamed the City of Adelaide once at a ceremony on the River Thames at Greenwich near London.  Prince Philip, the Duke of Edinburgh, was accidentally … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Bowne and Company"
   - "Opening Party"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/southstreet1.jpg"
 author: "Rick Spilman"
 description: "When I first visited New York’s South Street Seaport in the early 70s, it was a fairly lonely place. There was no shopping mall on Pier 17 and the high-end chain-stores like Guess, Abecrombe and Fitch and Brookstone had not yet been … Continue reading &rarr;"
 ---

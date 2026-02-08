@@ -14,6 +14,7 @@ tags:
   - "Lilac"
   - "Pier 25"
   - "USCGC Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/lilacbow2.jpg"
 author: "Rick Spilman"
 description: "Coast Guard Day in the United States is this Sunday, August 4th, commemorating the founding of the U. S. Coast Guard as the Revenue Marine on August 4, 1790, by the Secretary of the Treasury, Alexander Hamilton. On the ex-USCG … Continue reading &rarr;"
 ---

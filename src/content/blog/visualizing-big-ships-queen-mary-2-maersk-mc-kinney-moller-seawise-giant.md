@@ -9,6 +9,7 @@ tags:
   - "Mærsk Mc-Kinney Møller"
   - "Queen Mary 2"
   - "Seawise Giant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/qm2captainbulb.jpg"
 author: "Rick Spilman"
 description: "It is remarkably difficult to grasp how large ships can be. I remember, many years ago, being amazed how a full sized city bus, which looked so large on the pier, seemed to shrink dramatically as it was hoisted and … Continue reading &rarr;"
 ---

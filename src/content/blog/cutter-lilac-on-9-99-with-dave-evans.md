@@ -11,6 +11,7 @@ tags:
   - "Lilac"
   - "steam-powered lighthouse tender"
   - "USCG Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/lilacvents.jpg"
 author: "Rick Spilman"
 description: "$9.99 with Dave Evans is a weekly program which explores fun things to do and see in New York City for under ten bucks. Recently, he stopped by the ex-USCG Cutter Lilac at Pier 25 in Manhattan on the Hudson … Continue reading &rarr;"
 ---

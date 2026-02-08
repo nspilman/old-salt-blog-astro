@@ -12,6 +12,7 @@ tags:
   - "Prom Queen"
   - "Summerwind"
   - "Woodwind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/woodwind.jpg"
 author: "Rick Spilman"
 description: "In our previous post about the Great Chesapeake Schooner Race we focused on the Class AA schooners, the big boats over 50′. Big boats sail faster, right? Not necessarily.  (Thanks to Paul Caroll for pointing out our oversight.) This year, the Class … Continue reading &rarr;"
 ---

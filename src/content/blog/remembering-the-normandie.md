@@ -15,6 +15,7 @@ tags:
   - "South Street Seaport Museum"
   - "SS Normandie"
   - "USS Lafayette"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/550px-SS-Normandie_side01_N.jpg"
 author: "Rick Spilman"
 description: "On this day, sixty nine years ago, the great French luxury liner SS Normandie caught fire at Pier 88 on the Hudson River in New York City.  The fire burned out of control and the next day the ship capsized at the dock. … Continue reading &rarr;"
 ---

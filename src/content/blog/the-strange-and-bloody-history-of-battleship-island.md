@@ -14,6 +14,7 @@ tags:
   - "Japan"
   - "Nagasaki"
   - "UNESCO World Heritage site"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/battleshipisland.jpg"
 author: "Rick Spilman"
 description: "Hashima Island lies nine miles off the port of Nagasaki, Japan. Between the seawall which encircles the small island and the abandoned apartment blocks rising from it, many think that it looks like a battleship, earning the nickname, Gunkanjima, or … Continue reading &rarr;"
 ---

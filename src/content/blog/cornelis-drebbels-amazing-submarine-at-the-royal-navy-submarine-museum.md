@@ -13,6 +13,7 @@ tags:
   - "Drebbel submarine"
   - "Gosport"
   - "Royal Navy Submarine Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/drebbel.jpg"
 author: "Rick Spilman"
 description: "I’ve just finished reading Julian Stockwin’sInvasion, the tenth of his Kydd series, which features among its cast of characters, Robert Fulton and his Nautilus of 1800. While the Nautilus is often called the first \"practical\" submarine, it was not the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "largest volcano"
   - "Pacific Ocean"
   - "Tamu Massif"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/underwater-megavolcano.jpg"
 author: "Rick Spilman"
 description: "Scientists have identified the largest volcano on earth, beneath the Pacific Ocean roughly half way between Japan and the Hawaiian Islands.  The giant shield volcano has been named Tamu Massif and it is roughly, 100,000 square miles or approximately the … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Apprenticeship"
   - "Picton Castle"
   - "Tall Ship Challenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/pc-apprentice.jpg"
 author: "Rick Spilman"
 description: "A very interesting opportunity posted on the Tall Ship Challenge Official Blog: Looking for more sea time and experience? Picton Castle is looking for apprentices to join them in the Pacific. For the cost of room and board, you can … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Royal Mail Ship St Helena"
   - "South Atlantic"
   - "St Helena"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/St-Helena.jpg"
 author: "Rick Spilman"
 description: "Delivery service for the remote island of St Helena The tiny British colony of St Helena in the South Atlantic – the world’s most remote inhabited island – is being hit by Whitehall’s spending cuts.   An airport considered by many … Continue reading &rarr;"
 ---

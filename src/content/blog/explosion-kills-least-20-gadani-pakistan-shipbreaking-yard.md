@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/shipbreakerexplosion.jpg"
 author: "Rick Spilman"
 description: "The shipbreaking yard in Gadani, Pakistan is one of largest shipbreakers in the world and is literally where ships go to die. Tragically, workers too often die there as well. A series of explosions yesterday in a tanker being broken up at … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Dragon Harold Fairhair"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/dragon.jpg"
 author: "Rick Spilman"
 description: "The Dragon Harald Fairhair is the largest Viking longship to be built in modern times. (See our previous post: Building the Viking Longboat Dragon Harald Fairhair)  Built of oak, in the town of Haugesund in Western Norway, the ship is hundred and fourteen … Continue reading &rarr;"
 ---

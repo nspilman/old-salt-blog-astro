@@ -14,6 +14,7 @@ tags:
   - "Brent Brisbane"
   - "Frederick Douglass Beach"
   - "Spanish fleet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/goldbird.jpg"
 author: "Rick Spilman"
 description: "This is a great story.   Thanks to Irwin Bryan for passing it along.  Congratulations to Bonnie Schubert and her 87-year old mother Jo,  two highly successful salvage divers. Elderly woman, daughter find incredible ocean treasure After decades of hunting … Continue reading &rarr;"
 ---

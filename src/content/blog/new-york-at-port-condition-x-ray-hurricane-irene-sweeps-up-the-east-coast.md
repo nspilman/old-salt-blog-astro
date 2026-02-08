@@ -12,6 +12,7 @@ tags:
   - "Hurricane Irene"
   - "Port Condition X-Ray"
   - "Port of New York and New Jersey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/092739W5_NL_sm.jpg"
 author: "Rick Spilman"
 description: "Almost exactly a year ago, we posted about the \"Top 5 Hurricane Vulnerable & Overdue Cities.\"   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be … Continue reading &rarr;"
 ---

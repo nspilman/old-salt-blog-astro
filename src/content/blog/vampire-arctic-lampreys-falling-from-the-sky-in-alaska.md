@@ -9,6 +9,7 @@ categories:
 tags:
   - "arctic lampreys"
   - "Fairbanks Alaska"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/usfws_arctic_lamprey04.jpg"
 author: "Rick Spilman"
 description: "CBS News reports: Terrifying \"vampire fish\" falling from the sky in Alaska. Lampreys have been falling from the sky in Fairbanks, AL."
 ---

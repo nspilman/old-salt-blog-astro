@@ -10,6 +10,7 @@ tags:
   - "C. Fox Smith"
   - "Charlie Ipcar"
   - "Christmas Night"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/round_horn_dawson.jpg"
 author: "Rick Spilman"
 description: "Christmas Night, a poem by C. Fox Smith adapted for song by Charlie Ipcar."
 ---

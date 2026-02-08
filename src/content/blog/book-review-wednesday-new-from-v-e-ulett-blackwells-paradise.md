@@ -11,6 +11,7 @@ categories:
 tags:
   - "Blackwell's Paradise"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/paradise_front_small2.jpg"
 author: "Rick Spilman"
 description: "When I started this blog, I had intended it to be, at least in part, a book blog of works about ships and the sea.  Of late, however, I have been completely negligent in posting reviews.  I will attempt to … Continue reading &rarr;"
 ---

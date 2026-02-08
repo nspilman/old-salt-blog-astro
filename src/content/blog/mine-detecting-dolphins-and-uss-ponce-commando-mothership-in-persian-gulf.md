@@ -13,6 +13,7 @@ tags:
   - "dolphins"
   - "Mine-Detecting"
   - "USS Ponce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/USS_Ponce_LPD_15.jpg"
 author: "Rick Spilman"
 description: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a \"mothership\" … Continue reading &rarr;"
 ---

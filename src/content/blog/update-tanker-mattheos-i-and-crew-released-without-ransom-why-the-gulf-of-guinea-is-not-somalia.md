@@ -13,6 +13,7 @@ tags:
   - "Mattheos I"
   - "piracy"
   - "tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/MATTHEOS_I-2.jpg"
 author: "Rick Spilman"
 description: "Just over a week ago we posted about the hijacking of the product tanker 45,000 DWT tanker,  Mattheos I, with a crew of 23, off Benin in the Gulf of Guinea.  Last Saturday, the ship and crew was released. No ransom … Continue reading &rarr;"
 ---

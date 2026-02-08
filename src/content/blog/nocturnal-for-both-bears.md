@@ -10,6 +10,7 @@ tags:
   - "Nocturnal for Both Bears"
   - "Polaris"
   - "Ursa Major"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/nocturnalbothbears.jpg"
 author: "Rick Spilman"
 description: "I recently came across a reference for a \"nocturnal for both bears.\" It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night … Continue reading &rarr;"
 ---

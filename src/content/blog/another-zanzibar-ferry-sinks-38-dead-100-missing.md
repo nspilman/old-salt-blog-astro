@@ -11,6 +11,7 @@ tags:
   - "ferry"
   - "sinks"
   - "Zanzibar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/zanzibar.jpg"
 author: "Rick Spilman"
 description: "Last September we posted about the sinking of a ferry off Zanzibarwith the loss of 200 passengers.  Yesterday, another ferry sank off the Zanzibar coast. Thirty eight are confirmed dead with another 100 missing.  Zanzibar police spokesman Mohamed Mhina said, \"Search operations continue but … Continue reading &rarr;"
 ---

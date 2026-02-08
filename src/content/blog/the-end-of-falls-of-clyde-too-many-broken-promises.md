@@ -12,6 +12,7 @@ tags:
   - "Falls of Clyde"
   - "Friends of Falls of Clyde"
   - "Hawaii"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/Falls_of_Clyde1.jpg"
 author: "Rick Spilman"
 description: "The State of Hawaii has notified the Friends of Falls of Clyde that it plans to terminate its permit which allows Falls of Clyde to be docked for free."
 ---

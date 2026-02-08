@@ -10,6 +10,7 @@ categories:
 tags:
   - "Ella's Pink Lady"
   - "Jessica Watson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/truespirit.jpg"
 author: "Rick Spilman"
 description: "Jessica Watson’s book True Spirit will be published in August in Australia and in October in the United States.  It was also recently announced that she will be releasing an album as well.  Fast work given that she only returned in the middle of May. Teen sailor … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "Skellig Michael"
   - "Star Wars: The Force Awakens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/skelligmichael.jpg"
 author: "Rick Spilman"
 description: "A long time ago, on an island far, far away….  In the final scene of the new movie, \"Star Wars: The Force Awakens,\" the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They … Continue reading &rarr;"
 ---

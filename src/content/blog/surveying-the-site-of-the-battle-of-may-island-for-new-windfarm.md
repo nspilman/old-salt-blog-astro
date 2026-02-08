@@ -14,6 +14,7 @@ tags:
   - "submarines"
   - "windfarm"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/K4-submarine-005.jpg"
 author: "Rick Spilman"
 description: "There was no actual battle at the Isle of May in the Firth of Forth off Scotland. Nevertheless, on the night of January 31st and the morning of February 1st, 1918,  270 sailors of the Royal Navy lost their lives off the Isle of May … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Pluto"
   - "rivers"
   - "Water"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/watermars1.jpg"
 author: "Rick Spilman"
 description: "We, residents of a blue marble of which 71% is covered by water, have long assumed that the rest of our solar system was relatively dry. It may be time to change that opinion. Yesterday, NASA  announced strong evidence of … Continue reading &rarr;"
 ---

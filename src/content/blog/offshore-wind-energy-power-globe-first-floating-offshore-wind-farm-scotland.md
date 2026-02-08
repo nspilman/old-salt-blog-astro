@@ -10,6 +10,7 @@ tags:
   - "floating wind farm"
   - "Scotland"
   - "Statoil"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/floatingwindfarm.jpg"
 author: "Rick Spilman"
 description: "A new study released this week suggests that offshore floating wind farms could generate enough energy to power the entire world. The study is not referring to the existing offshore wind farms in shallower waters but to deep-sea wind farms where the … Continue reading &rarr;"
 ---

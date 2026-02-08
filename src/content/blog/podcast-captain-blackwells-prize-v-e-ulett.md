@@ -12,6 +12,7 @@ tags:
   - "Fictional Café"
   - "podcast"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/blackwellprizecover.jpg"
 author: "Rick Spilman"
 description: "The Fictional Café is publishing three audio excerpts from V.E. Ulett’s Captain Blackwell’s Prize as a podcast.  The first went up last Friday and the will continue for the next two Fridays, followed by an interview with the author on the fourth and … Continue reading &rarr;"
 ---

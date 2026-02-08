@@ -11,6 +11,7 @@ tags:
   - "floating brothel"
   - "German sail training ship"
   - "Gorch Fock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/gorch-fock2.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, we posted that the commander of the German sail training ship, Gorch Fock, had been dismissed from his command and ordered home after reports of a mutiny in November, following the death of a cadet.  Now there is a very disturbing article in … Continue reading &rarr;"
 ---

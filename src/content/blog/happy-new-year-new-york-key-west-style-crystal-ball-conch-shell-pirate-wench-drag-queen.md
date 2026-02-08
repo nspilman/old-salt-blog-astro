@@ -14,6 +14,7 @@ tags:
   - "New Year's Eve"
   - "New York City"
   - "Times Square"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/Pirate-Wench-web-221x300.jpg"
 author: "Rick Spilman"
 description: "In New York City tonight, just on the other side of the Hudson River from where I am now typing, roughly one million people gather  in Times Square to watch a crystal ball being dropped on exactly midnight to celebrate the … Continue reading &rarr;"
 ---

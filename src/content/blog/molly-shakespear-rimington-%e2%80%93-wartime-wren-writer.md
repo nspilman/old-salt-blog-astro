@@ -5,6 +5,7 @@ slug: "molly-shakespear-rimington-%e2%80%93-wartime-wren-writer"
 excerpt: "Molly Shakespear Rimington died at age 93 at the end of January but her obituary only appeared in the Telegraph this week.   She was a fascinating individual.  The daughter of Brigadier Talbot Shakespear, she joined the Women’s Royal Naval Service, WRNS, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/molly-rimmington.jpg"
 author: "Rick Spilman"
 description: "Molly Shakespear Rimington died at age 93 at the end of January but her obituary only appeared in the Telegraph this week.   She was a fascinating individual.  The daughter of Brigadier Talbot Shakespear, she joined the Women’s Royal Naval Service, WRNS, … Continue reading &rarr;"
 ---

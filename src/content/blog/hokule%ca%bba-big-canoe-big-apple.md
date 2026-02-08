@@ -11,6 +11,7 @@ tags:
   - "Hawaiian Airlines Liberty Challenge"
   - "Hōkūleʻa"
   - "new york"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/hokieastcoast.jpg"
 author: "Rick Spilman"
 description: "Continuing her epic voyage around the globe, the Polynesian voyaging canoe Hōkūleʻa will officially make her arrival in New York harbor on Sunday, June 5th. She will dock at North Cove Marina in Manhattan on the Hudson River at 9:00 a.m., followed by … Continue reading &rarr;"
 ---

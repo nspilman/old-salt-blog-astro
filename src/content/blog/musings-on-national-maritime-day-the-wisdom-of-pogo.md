@@ -12,6 +12,7 @@ tags:
   - "National Maritime Day"
   - "PortSide New York"
   - "Wisdom of Pogo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/marywhalen.jpg"
 author: "Rick Spilman"
 description: "Today, in the United States, is National Maritime Day. There is a presidential proclamation and everything.  The day, May 22nd, was chosen because that was the date that the American steamship Savannah set sail from Savannah, Georgia in 1818 on the first … Continue reading &rarr;"
 ---

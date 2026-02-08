@@ -13,6 +13,7 @@ tags:
   - "MV Golden Seas"
   - "salvage tug"
   - "Tor Viking II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/goldensea.jpg"
 author: "Rick Spilman"
 description: "The 74, 475 DWT  MV Golden Seas carrying a cargo of rapeseed oil suffered a turbocharger failure on its main engine late Thursday night,  reducing main engine power sufficiently so that the ship could not make headway against the 29 foot seas and … Continue reading &rarr;"
 ---

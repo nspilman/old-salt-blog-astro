@@ -12,6 +12,7 @@ tags:
   - "Florece"
   - "Laura Dekker"
   - "Ocean Titan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/vernemap2.jpg"
 author: "Rick Spilman"
 description: "This morning, when I logged onto my computer, I checked the position of the max-trimaran Banque Populaire V as its screams it way across the North Atlantic at roughly 30 knots, seeking to seize the Jules Verne Trophy for the fastest non-stop circumnavigation. It … Continue reading &rarr;"
 ---

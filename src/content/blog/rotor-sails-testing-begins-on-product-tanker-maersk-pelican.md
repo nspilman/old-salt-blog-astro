@@ -14,6 +14,7 @@ tags:
   - "Norsepower Oy Ltd."
   - "rotor sails"
   - "Shell Shipping &amp; Maritime"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/mpelicanrotors.jpg"
 author: "Rick Spilman"
 description: "Testing has begun on the recently installed rotor sails on the MV Maersk Pelican. The two large cylinders installed on the deck of the 110,000 DWT Long Range 2 product tanker may not look much like sails but may represent … Continue reading &rarr;"
 ---

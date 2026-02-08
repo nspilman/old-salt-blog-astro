@@ -18,6 +18,7 @@ tags:
   - "pirates"
   - "Samho Dream"
   - "Socotra Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/MV-IRENE-SL-300x225.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the Italian-owned Aframax tanker MV Savina Caylyn was hijacked by pirates approximately 670 nautical miles East of Socotra Island in the Indian Ocean.  Today, the Greek-owned VLCC MV Irene SL was hijacked  approximately 350 nautical miles South East of … Continue reading &rarr;"
 ---

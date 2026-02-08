@@ -11,6 +11,7 @@ tags:
   - "Acheson Ventures"
   - "Highlander Sea"
   - "Port Huron"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/home_highlander_bg.jpg"
 author: "Rick Spilman"
 description: "Not surprising news given the economy but disturbing nevertheless. Flagship might sail elsewhere: Highlander Sea’s future uncertain The tall ship Highlander Sea, a longtime symbol of Port Huron, is not expected to hit the waves this summer. What’s more, its time representing … Continue reading &rarr;"
 ---

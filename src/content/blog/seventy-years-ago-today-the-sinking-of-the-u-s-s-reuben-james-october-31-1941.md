@@ -16,6 +16,7 @@ tags:
   - "USS Kearny"
   - "USS Reuben James"
   - "Woody Guthrie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/reubenjames.jpg"
 author: "Rick Spilman"
 description: "The first American Naval ship lost in World War II was not sunk in the attack on Pearl Harbor on December 7th, 1941.  Over a month before, on October 31, 1941, the destroyer USS Reuben James, escorting a convoy bound for Britain, was sunk … Continue reading &rarr;"
 ---

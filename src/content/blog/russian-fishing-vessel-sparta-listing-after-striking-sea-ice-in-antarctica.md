@@ -15,6 +15,7 @@ tags:
   - "San Aspiring"
   - "sea ice"
   - "Sparta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sparta1.jpg"
 author: "Rick Spilman"
 description: "The 157 feet long Russian fishing vessel, Sparta, with a crew of 32 aboard, was holed below the waterline after striking sea ice in the Ross Sea off Antarctica early Friday morning.  The vessel is reporting have a one foot hole, five feet … Continue reading &rarr;"
 ---

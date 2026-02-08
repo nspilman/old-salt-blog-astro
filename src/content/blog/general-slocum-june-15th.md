@@ -12,6 +12,7 @@ tags:
   - "New York City"
   - "paddle steamer"
   - "St. Mark's Evangelical Lutheran Church"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/061410slocum.jpg"
 author: "Rick Spilman"
 description: "One hundred and six years ago today, June 15th, 1904, the  Paddle Steamer General Slocum caught fire in the East River and burned killing an estimated 1,021 of the 1,342 people on board.  The steamer was carrying members of St. Mark’s Evangelical Lutheran Church … Continue reading &rarr;"
 ---

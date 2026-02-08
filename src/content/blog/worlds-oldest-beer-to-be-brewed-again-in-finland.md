@@ -10,6 +10,7 @@ tags:
   - "Baltic Sea"
   - "Finland"
   - "World's Oldest Beer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/beer.jpg"
 author: "Rick Spilman"
 description: "The \"World’s Oldest Beer\" to be will soon be brewed again by an Åland brewery in Finland.  In 2010, we posted about the discovery in a shipwreck in the Baltic off Finland’s Åland archipelago which contained what was believed to be several bottles … Continue reading &rarr;"
 ---

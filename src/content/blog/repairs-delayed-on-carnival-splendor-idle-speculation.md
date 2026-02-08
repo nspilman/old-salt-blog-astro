@@ -11,6 +11,7 @@ tags:
   - "Carnival Cruise Lines"
   - "Carnival Splendor"
   - "drydock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/carnival-splendor-fire-150x84.jpg"
 author: "Rick Spilman"
 description: "Carnival Cruise Line posted the following today on their website: Carnival Cruise Lines has cancelled additional departures of the Carnival Splendor including the January 16, 23, 30 and February 6 and 13, 2011 voyages to allow for additional repair time … Continue reading &rarr;"
 ---

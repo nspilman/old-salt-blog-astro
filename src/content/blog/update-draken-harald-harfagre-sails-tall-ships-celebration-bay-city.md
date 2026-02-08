@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/dhhlongboat.jpg"
 author: "Rick Spilman"
 description: "Despite being burdened with unmanageable pilotage fees, the Norwegian Viking longboat, Draken Harald Hårfagre, and her crew have decided to sail on to the Tall Ships Celebration in Bay City, MI, on July 14 -17th. From their press release: There is not room … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Giglio"
   - "Voyage Data Recorder"
   - "watertight doors"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg"
 author: "Rick Spilman"
 description: "Extremely disturbing news coming out of Italy regarding the Costa Concordia, which ran aground and sank off the island of Giglio on January 13, 2012 with the deaths of at least 30 passengers. If the reports prove to be true, the ship was sailing with open watertight … Continue reading &rarr;"
 ---

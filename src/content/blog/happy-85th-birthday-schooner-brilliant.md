@@ -10,6 +10,7 @@ categories:
 tags:
   - "Mystic Seaport Museum"
   - "Schooner Brilliant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/brilliant200.jpg"
 author: "Rick Spilman"
 description: "Happy birthday to Mystic Seaport‘s schooner Brilliant! On April 23, 1932, the 61′ schooner was launched from the yard of Henry B. Nevins at City Island, New York. Now 85 years later, she is still sailing and still a beauty. … Continue reading &rarr;"
 ---

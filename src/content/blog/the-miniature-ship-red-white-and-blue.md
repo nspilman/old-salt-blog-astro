@@ -9,6 +9,7 @@ tags:
   - "and Blue"
   - "Red"
   - "White"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/2004-D03-120.jpg"
 author: "Rick Spilman"
 description: "On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named \"Red, White, and Blue.\" They arrived in Margate in in East Kent, UK on August … Continue reading &rarr;"
 ---

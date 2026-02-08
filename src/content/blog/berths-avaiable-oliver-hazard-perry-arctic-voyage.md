@@ -11,6 +11,7 @@ tags:
   - "Arctic"
   - "Northwest Passage"
   - "Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/ohparctic.jpg"
 author: "Rick Spilman"
 description: "In September, we posted about an upcoming voyage on the SSV Oliver Hazard Perry into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the OHPRI website:  Earn your \"Blue nose\" … Continue reading &rarr;"
 ---

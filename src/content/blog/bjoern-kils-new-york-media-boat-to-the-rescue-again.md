@@ -10,6 +10,7 @@ tags:
   - "Bjoern Kils"
   - "New York Media Boat"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/newyorkmboat.jpg"
 author: "Rick Spilman"
 description: "Bjoern Kils & New York Media Boat rescue three people in New York's East River near South Street Seaport"
 ---

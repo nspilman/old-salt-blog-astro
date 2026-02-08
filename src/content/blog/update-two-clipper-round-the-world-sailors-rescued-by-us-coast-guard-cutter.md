@@ -14,6 +14,7 @@ tags:
   - "Jane Hitchens"
   - "Nik Brbora"
   - "USCG Cutter Bertholf"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/n1.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted the Clipper Round the World 68′ racer, Geraldton Western Australia, which was struck by a large wave in a storm in the Pacific.  The wave sheared off the boat’s steering pedestal, damaged electronics and injured four crew, who were … Continue reading &rarr;"
 ---

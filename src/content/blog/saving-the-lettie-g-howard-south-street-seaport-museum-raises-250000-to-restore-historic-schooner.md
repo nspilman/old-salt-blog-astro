@@ -12,6 +12,7 @@ tags:
   - "Lettie G. Howard"
   - "Rosanne Cash"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/Lettie1.jpg"
 author: "Rick Spilman"
 description: "Wonderful news!  In February 2012, the 1893 built, Freedonia class fishing schooner, Lettie G. Howard was drydocked to repair rot in her keelson.  The rot was found to be far more extensive than expected and since then the South Street … Continue reading &rarr;"
 ---

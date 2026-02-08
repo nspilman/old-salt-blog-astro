@@ -14,6 +14,7 @@ tags:
   - "North Atlantic packet trade"
   - "The City of Ships"
   - "Walt Whitman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/narr-ship51.jpg"
 author: "Rick Spilman"
 description: "Sometime during the Civil War, the poet Walt Whitman wrote a poem about New York City, titled \"The City of Ships.\" The first stanzas begin: City of ships! (O the black ships! O the fierce ships! O the beautiful, sharp-bow’d … Continue reading &rarr;"
 ---

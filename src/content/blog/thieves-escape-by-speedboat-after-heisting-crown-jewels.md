@@ -12,6 +12,7 @@ tags:
   - "speedboat"
   - "Strangnas Cathedral"
   - "Sweden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/malaren.jpg"
 author: "Rick Spilman"
 description: "This sounds like a scene from a 1960 or 1970s \"caper\" movie. Around mid-day on Tuesday, two men walked into a medieval cathedral in Strangnas, in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by … Continue reading &rarr;"
 ---

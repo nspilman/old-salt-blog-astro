@@ -5,6 +5,7 @@ slug: "aquatic-april-fools-gulf-coast-manaphin"
 excerpt: "Yesterday was April 1st, often known as April Fool’s Day. (Our post on a dramatic man overboard rescue was definitively not a spoof.) Yesterday \"Visit St Pete-Clearwater\" issued a press release about a recent sighting of the legendary \"Manaphin\" in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/manaphin-seen-while-scuba-diving-v2-304xx639-426-1-0.jpg"
 author: "Rick Spilman"
 description: "Yesterday was April 1st, often known as April Fool’s Day. (Our post on a dramatic man overboard rescue was definitively not a spoof.) Yesterday \"Visit St Pete-Clearwater\" issued a press release about a recent sighting of the legendary \"Manaphin\" in … Continue reading &rarr;"
 ---

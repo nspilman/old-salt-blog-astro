@@ -9,6 +9,7 @@ categories:
 tags:
   - "Basking Shark"
   - "NOAA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/baskingshark.jpg"
 author: "Rick Spilman"
 description: "Aerial surveys attempting to identify endangered right whales have spotted swarms of basking sharks, in groups from 30 to up to 1,400, swimming in the waters from Long Island to Nova Scotia. Researchers who study the normally solitary sharks are … Continue reading &rarr;"
 ---

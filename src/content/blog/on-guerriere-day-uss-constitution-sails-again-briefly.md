@@ -12,6 +12,7 @@ tags:
   - "HMS Guerriere"
   - "Old Ironsides"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/USS_Constitution_vs_Guerriere.jpg"
 author: "Rick Spilman"
 description: "On August 19, 1812, the 44-gun USS Constitution met the 38 gun HMS Guerriere in single ship combat off the coast of Nova Scotia.  During the battle the Constitution earned her nickname \"Old Ironsides\" when the British 18 pound shot was seen to bounce off … Continue reading &rarr;"
 ---

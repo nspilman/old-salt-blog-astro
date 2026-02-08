@@ -10,6 +10,7 @@ tags:
   - "circumnavigation"
   - "PlanetSolar"
   - "world’s largest solar powered boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/boat-4-500px.jpg"
 author: "Rick Spilman"
 description: "The windjammers liked the higher latitudes where the winds are stronger. This solar craft will try to still as close to the equator as possible to maximize the sunshine.  The catamaran reminds me of something out of Star Trek, perhaps a Romulan transport ship. Sailing Around The World … Continue reading &rarr;"
 ---

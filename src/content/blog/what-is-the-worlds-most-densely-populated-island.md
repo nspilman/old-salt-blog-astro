@@ -14,6 +14,7 @@ tags:
   - "manhattan"
   - "Most Densely Populated Island"
   - "Santa Cruz del Islote"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/mostpopulatedisland.jpg"
 author: "Rick Spilman"
 description: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the \"world’s most densely populated island.\" With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "MOL Comfort"
   - "salvage tugs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/MOL_COMFORT.jpg"
 author: "Rick Spilman"
 description: "Mitsui O.S.K. Line has announced that \"one patrol boat and three tugboats are heading to the site, and all of them are expected to arrive within June 24.\"  The fore and aft sections of the ship’s hull are drifting near … Continue reading &rarr;"
 ---

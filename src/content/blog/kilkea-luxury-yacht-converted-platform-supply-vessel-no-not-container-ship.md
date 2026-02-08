@@ -8,6 +8,7 @@ categories:
   - "Ships"
 tags:
   - "Kilkea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/Svardpsvyacht.jpg"
 author: "Rick Spilman"
 description: "The article begins, \"Your average container ship could never be described as luxurious, but the Kilkea is not your average container ship.\" Indeed. And it never was. Several other media sources also describe the yacht as a \"converted container ship.\" … Continue reading &rarr;"
 ---

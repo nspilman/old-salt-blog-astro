@@ -13,6 +13,7 @@ tags:
   - "Norwegian Cruise Lines"
   - "Royal Caribbean Cruise Lines"
   - "scrubbers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/oreana.jpg"
 author: "Rick Spilman"
 description: "How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we posted about a claim by the Friends of the Earth which asserted that cruise ships \"flushed more than a … Continue reading &rarr;"
 ---

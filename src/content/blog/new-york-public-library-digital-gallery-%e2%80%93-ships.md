@@ -5,6 +5,7 @@ slug: "new-york-public-library-digital-gallery-%e2%80%93-ships"
 excerpt: "If you are like me, relatively busy yet easily distracted and very fond of paintings, drawings and old photos of ships, you should probably skip this post.  The New York Public Library Digital galley has a wonderful collection of  drawings, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/barkswallow-150x122.jpg"
 author: "Rick Spilman"
 description: "If you are like me, relatively busy yet easily distracted and very fond of paintings, drawings and old photos of ships, you should probably skip this post.  The New York Public Library Digital galley has a wonderful collection of  drawings, … Continue reading &rarr;"
 ---

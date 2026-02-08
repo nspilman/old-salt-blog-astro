@@ -13,6 +13,7 @@ tags:
   - "John J. Harvey"
   - "Lilac"
   - "Mariners' Response to 9/11"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/liliac.jpg"
 author: "Rick Spilman"
 description: "If you are in the vicinity tomorrow evening be sure to stop by the historic buoy tender LILAC at the Hudson River Park’s Pier 25 at North Moore Street, Tribeca, Manhattan, where Carolina Salguero & Jessica DuLong will speak on the Mariners’ Response … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Canadian sailing ship"
   - "School Ship Concordia"
   - "West Island College \"Class Afloat\" school ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Concordia3.jpg"
 author: "Rick Spilman"
 description: "The West Island College \"Class Afloat\" school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "USS Cumberland"
   - "USS Merrimack"
   - "USS Monitor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/monitor-merrimac.jpg"
 author: "Rick Spilman"
 description: "The USS Monitor and the CSS Virginia were not the first iron-clad war ships, but they were the first to face each other in battle. One hundred and fifty years ago today, the two ironclads met in Hampton Roads, VA and fought each … Continue reading &rarr;"
 ---

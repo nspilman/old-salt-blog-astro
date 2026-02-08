@@ -9,6 +9,7 @@ tags:
   - "Bayonne Bridge"
   - "container cranes"
   - "Panama Canal Expansion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/e50800b789ada449.jpg"
 author: "Rick Spilman"
 description: "The expansion of the Panama Canal, which will allow the transit of much larger ships through new locks,  is like a large stone dropped in the center of a quiet lake. The ripples are being felt on every shore.  This Saturday, the semi-submersible … Continue reading &rarr;"
 ---

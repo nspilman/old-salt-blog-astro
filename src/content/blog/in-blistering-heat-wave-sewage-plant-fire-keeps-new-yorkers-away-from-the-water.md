@@ -12,6 +12,7 @@ tags:
   - "New York City"
   - "North River Waste Water Treatment plant"
   - "Sewage Plant Fire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Y-SEWAGE1-articleInline.jpg"
 author: "Rick Spilman"
 description: "The timing could not have been worse. In the midst of a blistering heat wave in New York City, what has been described as a \"catastrophic fire\" at the North River Waste Water Treatment plant yesterday allowed millions of gallons of … Continue reading &rarr;"
 ---

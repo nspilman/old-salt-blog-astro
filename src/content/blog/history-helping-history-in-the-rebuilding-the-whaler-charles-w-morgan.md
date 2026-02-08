@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/539w.jpg"
 author: "Rick Spilman"
 description: "Rebuilding a historic ship has got to be part craftsmanship, part engineering, and part treasure hunt.    In the case of the oldest surviving sailing whale ship, the Charles W. Morgan at Mystic, CT, one of the challenges has been finding good quality shipbuilding timber. … Continue reading &rarr;"
 ---

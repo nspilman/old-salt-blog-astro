@@ -12,6 +12,7 @@ tags:
   - "hull failure"
   - "MOL Comfort"
   - "Yemen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/MOLCOMFORT.jpg"
 author: "Rick Spilman"
 description: "UPDATE: Contrary to initial reports that the ship sank, the two halves of the MOL Comfort have remained afloat. Tugs have been dispatched to the site. The container ship MOL Comfort sank today off Yemen after suffering catastrophic hull cracking near amidships. … Continue reading &rarr;"
 ---

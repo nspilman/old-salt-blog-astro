@@ -11,6 +11,7 @@ tags:
   - "Hellfire Corner"
   - "Strait of Dover"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/03/hfccover1.jpg"
 author: "Rick Spilman"
 description: "The Strait of Dover, only 18 nautical miles wide between Britain and France, dividing the English Channel from the North Sea, is one of the world’s busiest seaways. While requiring careful navigation today, during World War II it was a … Continue reading &rarr;"
 ---

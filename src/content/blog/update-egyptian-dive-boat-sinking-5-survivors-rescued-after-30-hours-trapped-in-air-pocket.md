@@ -12,6 +12,7 @@ tags:
   - "five additional survivors"
   - "Red Sea"
   - "Sea Story"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/11/seastory2.jpg"
 author: "Rick Spilman"
 description: "After the Egyptian liveaboard dive boat, Sea Story, capsized and sank in heavy weather in the Red Sea early Monday morning, 28 of the 44 passengers and crew were rescued. On Tuesday, divers rescued five additional survivors trapped in air … Continue reading &rarr;"
 ---

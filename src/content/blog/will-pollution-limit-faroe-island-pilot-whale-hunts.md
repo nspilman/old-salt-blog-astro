@@ -10,6 +10,7 @@ tags:
   - "Faroe Islands"
   - "pilot whales"
   - "pollution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/pilotwhale-200x111.jpg"
 author: "Rick Spilman"
 description: "On the Faroe Islands, pollution may help to curtail whaling, where protests have failed"
 ---

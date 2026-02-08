@@ -12,6 +12,7 @@ tags:
   - "Dread Pirate Robert"
   - "Ross William Ulbricht"
   - "Silk Road"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Roberts.jpg"
 author: "Rick Spilman"
 description: "This is the tale of two very different men, from different places and different times. The first was a Welshman named John Roberts, though he took the name Bartholomew when he began his wildly successful but extremely short career as … Continue reading &rarr;"
 ---

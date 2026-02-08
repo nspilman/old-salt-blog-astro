@@ -10,6 +10,7 @@ categories:
 tags:
   - "Independence Seaport Museum"
   - "Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/olympia3.jpg"
 author: "Rick Spilman"
 description: "After a three year bidding process to attempt to find a new home for the historic cruiser Olympia, the Independence Seaport Museum has announced that it will keep the ship after all. Four groups originally bid on taking over the ship but … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Oregon"
   - "Portland"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/00000049381.jpg"
 author: "Rick Spilman"
 description: "A 66 feet long, 165 tonne, starfish and barnacle encrusted, steel and concrete floating dock has washed up on  Agate  beach, south-west of Portland, Oregon.  A plaque on the dock identifies it as coming from the port of Misawa in northern … Continue reading &rarr;"
 ---

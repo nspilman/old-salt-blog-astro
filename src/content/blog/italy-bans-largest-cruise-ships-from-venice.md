@@ -11,6 +11,7 @@ tags:
   - "cruise ships"
   - "Italy"
   - "Venice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/venice_3001593b.jpg"
 author: "Rick Spilman"
 description: "Italy bans large cruise ships from Venice lagoon and limits overall cruise traffic"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "composite tea clipper"
   - "Cutty Sark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/cuttysarknew_pa.jpg"
 author: "Rick Spilman"
 description: "After being gutted by fire in 2007, the 1869 composite tea clipper Cutty Sark has been undergoing a methodical reconstruction.  She reached a milestone recently when her foremast was restepped in the ship.  The main and mizzen masts are expected to be … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Cape May Point"
   - "decommissioned Navy destroyer"
   - "USS Arthur W. Radford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/USSArthurWRadfordDD-968.jpg"
 author: "Rick Spilman"
 description: "Perhaps not a case of swords into plowshares, but at least a destroyer into an artificial reef.  In November, the 535 foot decommissioned Navy destroyer, USS Arthur W. Radford, will sink beneath the waters off Cape May Point to become the longest vessel ever turned … Continue reading &rarr;"
 ---

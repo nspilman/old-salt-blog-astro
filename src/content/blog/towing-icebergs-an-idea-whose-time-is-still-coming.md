@@ -10,6 +10,7 @@ tags:
   - "fresh water"
   - "Icebergs"
   - "towing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/biceberg_0523.jpg"
 author: "Rick Spilman"
 description: "Victor Hugo wrote, \"Nothing is stronger than an idea whose time has come.\"  There are some ideas whose time always appears to be coming but somehow never quite arrive.  As a young naval architect in the 1970s, I recall predictions that … Continue reading &rarr;"
 ---

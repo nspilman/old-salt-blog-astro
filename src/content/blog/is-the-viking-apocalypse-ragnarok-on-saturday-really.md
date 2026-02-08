@@ -10,6 +10,7 @@ tags:
   - "Götterdämmerung"
   - "Ragnarök"
   - "Viking Apocalypse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/vikinga.jpg"
 author: "Rick Spilman"
 description: "Some are predicting that the world will end Saturday, February 22, 2013, with Ragnarök, also known as Götterdämmerung, by the operatic among us. A reasonable response might be, \"the world is ending — again?\" We have lived through Y2k, the … Continue reading &rarr;"
 ---

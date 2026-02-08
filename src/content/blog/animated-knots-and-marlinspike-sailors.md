@@ -11,6 +11,7 @@ tags:
   - "marlinspike sailor"
   - "rolling hitch"
   - "rope"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/11/marlinspike1.jpg"
 author: "Rick Spilman"
 description: "For those wishing to learn just a bit about sailor’s knots, Animated Boating Knots by Grog is a lot of fun.  Here is a rolling hitch, a marvelously useful knot that I invariably forget how to tie whenever a need one.   If … Continue reading &rarr;"
 ---

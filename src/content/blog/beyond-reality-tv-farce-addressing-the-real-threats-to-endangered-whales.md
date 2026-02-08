@@ -16,6 +16,7 @@ tags:
   - "Sea Shepherds"
   - "Whale Wars"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/40b8c1e72813af5d6afdc0870ef.jpg"
 author: "Rick Spilman"
 description: "The New York Times, this morning, features in their \"Room for Debate\" section, a worthwhile discussion on the real threats to the survival of whale species, entitled, Did We Save the Whales?   In the discussion, Junichi Sato of Greenpeace Japan notes … Continue reading &rarr;"
 ---

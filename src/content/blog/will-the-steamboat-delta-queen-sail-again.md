@@ -10,6 +10,7 @@ categories:
 tags:
   - "Delta Queen"
   - "sternwheel steamboat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/dq1.jpg"
 author: "Rick Spilman"
 description: "With luck and a considerable investment, the steamboat Delta Queen may be returning to the rivers to carry passengers once again."
 ---

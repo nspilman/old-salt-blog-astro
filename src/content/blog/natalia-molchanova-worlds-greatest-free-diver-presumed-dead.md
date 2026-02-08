@@ -10,6 +10,7 @@ tags:
   - "AIDA International"
   - "Free Diver"
   - "Natalia Molchanova"
+featuredImage: "https://ci6.googleusercontent.com/proxy/uydmM7OebDAqeZlP3dgvcF0J_Jbr6TDWVhWmFRxgMip5CN7lrAJPFUNrVnK29ingWNmu6lHFQMXDsH1DEXLY99ifsOhEGK6uXtqjhuKLTdSlV-7mZlXDjX38=s0-d-e1-ft#https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/freediver1.jpg"
 author: "Rick Spilman"
 description: "On Sunday, 53-year-old  Natalia Molchanova, a world record holder and arguably the greatest free diver that the world has ever seen, slipped below the surface on a practice dive off Ibiza. She did not surface again and is presumed dead. The … Continue reading &rarr;"
 ---

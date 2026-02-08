@@ -13,6 +13,7 @@ tags:
   - "kosher delicatessen"
   - "RMS Titanic"
   - "White Star Line"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/29032012-jahandmrs.jpg"
 author: "Rick Spilman"
 description: "This story is so unlikely that it must be true.  When the Collapsible Lifeboat C from the RMS Titanic was picked up by the Carpathia, of the 41 aboard, there were two very different men, though their names, by virtue of alphabetization are adjacent to each other on … Continue reading &rarr;"
 ---

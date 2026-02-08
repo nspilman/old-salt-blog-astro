@@ -6,6 +6,7 @@ excerpt: "Update: Dolphin Dies in Gowanus Canal Crowds of onlookers gathered to
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/dolphingowanus.jpg"
 author: "Rick Spilman"
 description: "Update: Dolphin Dies in Gowanus Canal Crowds of onlookers gathered today in the bitter cold on the Union Street Bridge to see an apparently injured dolphin stuck in shallow water in New York’s Gowanus Canal.  The canal is one of the … Continue reading &rarr;"
 ---

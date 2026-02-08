@@ -11,6 +11,7 @@ tags:
   - "Anthony Smith"
   - "Atlantic"
   - "raft"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/st-maarten-ocean-crossing.jpg"
 author: "Rick Spilman"
 description: "After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft \"An-Tiki\".   Smith celebrated  his 85th birthday during the voyage.  The crew of the An-Tiki … Continue reading &rarr;"
 ---

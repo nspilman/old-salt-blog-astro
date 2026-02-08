@@ -13,6 +13,7 @@ tags:
   - "Long Island Sound"
   - "San Francisco"
   - "Silverton 34"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/10/kahleesi.jpg"
 author: "Rick Spilman"
 description: "Originally posted by gCaptain. Reposted with permission. Last Saturday, the 30 passengers aboard Khaleesi, a Silverton 34 power boat, were watching the Navy Blue Angels over San Francisco Bay as part of Fleet Week.  On the way back to the dock,  Khaleesi capsized and … Continue reading &rarr;"
 ---

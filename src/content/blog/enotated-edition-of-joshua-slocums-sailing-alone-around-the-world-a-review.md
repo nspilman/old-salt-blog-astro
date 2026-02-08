@@ -11,6 +11,7 @@ tags:
   - "eNotated edition"
   - "Joshua Slocum"
   - "Sailing Alone Around the World"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/slocumsailingenotation.jpg"
 author: "Rick Spilman"
 description: "I was recently sent  The eNotated Sailing Alone Around the World by Joshua Slocum. Enotation is electronic annotation, where instead of footnotes or endnotes, there are embedded links in the text of an e-book. A book like Slocum’s which contains … Continue reading &rarr;"
 ---

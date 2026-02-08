@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "HMS Victory"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/victorystern2.jpg"
 author: "Rick Spilman"
 description: "Last week we made a post with the headline, HMS Victory ‘Collapsing’ Under Her Own Weight.  The headline was alarmist at best.  (We borrowed it from the BBC, but that is no excuse.)  The historic ship will, of course, not be … Continue reading &rarr;"
 ---

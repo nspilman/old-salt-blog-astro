@@ -14,6 +14,7 @@ tags:
   - "Jork Ranger"
   - "Mindoro"
   - "North Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/artikelen_fotos_6504_215.jpg"
 author: "Rick Spilman"
 description: "This morning around 4:56 UTC the Cypriot container ship Jork Ranger collided with the Greek tanker Mindoro, carrying  jet fuel off the Scheveningen coast in the North Sea.  The collision caused a fuel spill from a five-meter wide puncture in the … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hornsea Two"
   - "offshore wind farm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/hornsea.jpg"
 author: "Rick Spilman"
 description: "Recently, we posted about the first offshore wind farm in the US — the Deepwater Wind Project which is installing five turbines with an installed capacity of 30 MW off Block Island, RI.  While this is definitely progress, it is … Continue reading &rarr;"
 ---

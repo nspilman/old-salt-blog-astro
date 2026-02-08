@@ -12,6 +12,7 @@ tags:
   - "Roman fortress"
   - "Roman port"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/romanportwales.jpg"
 author: "Rick Spilman"
 description: "I was surprised to read that archaeologists had recently discovered only the second Roman port in Britain.  Prior to the discovery in excavations near the Roman fortress of Caerleon, just north of Newport, south Wales, the only other Roman port known to have … Continue reading &rarr;"
 ---

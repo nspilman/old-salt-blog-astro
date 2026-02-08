@@ -13,6 +13,7 @@ tags:
   - "Flettner rotor"
   - "Norsepower"
   - "rotor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/norpowerrotors.jpg"
 author: "Rick Spilman"
 description: "Last week, the Finnish marine engineering company, Norsepower Oy Ltd, was awarded €2.6M in funding to further its research and development of the Norsepower Rotor Sail Solution technology. The new models of the technology will include the world’s largest ever Flettner … Continue reading &rarr;"
 ---

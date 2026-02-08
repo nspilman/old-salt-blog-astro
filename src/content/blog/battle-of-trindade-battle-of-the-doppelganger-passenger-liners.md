@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Sinking_Cap_Trafalgar.jpg"
 author: "Rick Spilman"
 description: "On 9/14/1914, off the Brazilian island of Trindale, one of the stranger naval battles of World War I was fought between two doppelgänger passenger liners."
 ---

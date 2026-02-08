@@ -12,6 +12,7 @@ tags:
   - "K-141"
   - "Kursk"
   - "Russian Oscar-II class nuclear-powered cruise missile submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/kursk.jpg"
 author: "Rick Spilman"
 description: "The Russian Oscar-II class nuclear-powered cruise missile submarine Kursk sank ten years ago yesterday with a loss of all aboard.  One hundred and sixteen crew members and two weapons experts died in what is believed to have been the explosion of a faulty torpedo.  At 154m … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Hull Lifesaving Museum"
   - "Snow Row"
   - "Windmill Point Boathouse"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Snow_Row_07_with_ferry.jpg"
 author: "Rick Spilman"
 description: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual \"Snow Row\" this weekend. Festivities begin with the annual \"Snow Ball\" this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
 ---

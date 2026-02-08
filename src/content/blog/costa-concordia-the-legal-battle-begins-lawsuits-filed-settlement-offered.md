@@ -14,6 +14,7 @@ tags:
   - "lawsuit"
   - "Micky Arison"
   - "settlement"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/intl_concordia_0121.jpg"
 author: "Rick Spilman"
 description: "Micky Arison, the chairman, chief executive and part owner of Carnival Corp. has been keeping a very low profile since the grounding and sinking of the Costa Concordia two weeks ago.  He has stayed in Miami and let Pier Luigi … Continue reading &rarr;"
 ---

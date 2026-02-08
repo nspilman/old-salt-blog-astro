@@ -12,6 +12,7 @@ tags:
   - "homo erectus"
   - "Language"
   - "Sailors"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/homoerectus.jpg"
 author: "Rick Spilman"
 description: "The timeline for when humans first took to the seas keeps getting moved back.  A few years ago, stone tools were found on the island of Crete which were dated to 130,000 years ago. Likewise, stone implements on the island of Flores … Continue reading &rarr;"
 ---

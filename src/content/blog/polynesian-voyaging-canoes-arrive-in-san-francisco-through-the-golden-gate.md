@@ -13,6 +13,7 @@ tags:
   - "San Francisco"
   - "Spirit of the Sea"
   - "Te Mana o Te Moana"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Jennifer_vakas623x415.jpg"
 author: "Rick Spilman"
 description: "In June, we posted about Polynesian voyaging canoes of the \"Te Mana o Te Moana\" (Spirit of the Sea) expedition arriving in Hilo, Hawaii after sailing from New Zealand by way of the Marquesas and Tahiti.    Yesterday, six of the vaka, … Continue reading &rarr;"
 ---

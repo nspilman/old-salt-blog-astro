@@ -10,6 +10,7 @@ categories:
 tags:
   - "British Royal Navy"
   - "Victualing Board"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/royal-navy-food.jpg"
 author: "Rick Spilman"
 description: "In the last days of the age of sail, British sailing ships, limejuicers, as they were known, had reputation as \"hungry ships,\"  of offering poor quality provisions and not much of those.  Whether that reputation was or was not wholly justified at the end … Continue reading &rarr;"
 ---

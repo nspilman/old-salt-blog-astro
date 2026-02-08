@@ -13,6 +13,7 @@ tags:
   - "l Tall Ships Portsmouth Festival"
   - "Portsmouth"
   - "Privateer Lynx"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/bountystern1.jpg"
 author: "Rick Spilman"
 description: "HMS Bounty and the Privateer Lynx will be in Portsmouth, NH for the annual Tall Ships Portsmouth Festival on Memorial Day weekend from May 29-31. It sounds like a great event.  The local paper reports all the details, which is all well … Continue reading &rarr;"
 ---

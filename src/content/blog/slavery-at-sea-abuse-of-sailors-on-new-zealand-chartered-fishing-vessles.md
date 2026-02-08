@@ -11,6 +11,7 @@ tags:
   - "fishermen"
   - "foreign fishing vessels"
   - "New Zealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/4841654.jpg"
 author: "Rick Spilman"
 description: "A disturbing report from New Zealand on abusive conditions for  seamen  aboard  chartered  fishing vessels in New Zealand waters. Slavery at sea exposed Alerted to terrible conditions on foreign fishing vessels after nearly 30 people lost their lives, Michael Field began asking questions. … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "condensate"
   - "Sanchi"
   - "spill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/sanchifire1.jpg"
 author: "Rick Spilman"
 description: "On January 6th, the Iranian tanker Sanchi carrying 130,000 tonnes of condensate collided with the Chinese bulk carrier CF Crystal. The condensate on the Sanchi caught fire, resulting in the death of all 32 of the tanker’s crew. The tanker … Continue reading &rarr;"
 ---

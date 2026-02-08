@@ -15,6 +15,7 @@ tags:
   - "Prom Queen"
   - "Virginia"
   - "Woodwind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/woodwind.jpg"
 author: "Rick Spilman"
 description: "Congratulations to all the racers in this year’s Great Chesapeake Bay Schooner Race.  In last year’s race,  Woodwind, Heron and Prom Queen, the top three Class A schooners (from 40′ to less than 50′) all beat the elapsed and corrected time of the … Continue reading &rarr;"
 ---

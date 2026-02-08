@@ -8,6 +8,7 @@ categories:
   - "Ships"
 tags:
   - "Canadian Schooner Sweepstakes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/sweepstakes1.jpg"
 author: "Rick Spilman"
 description: "In Big Tub Harbour, just off Canada’s Georgian Bay, near the entrance to Lake Huron, lies the wreck of the schooner Sweepstakes, which sank in 1885. She is 119′ long with a 23′ beam and a 10′ depth of hold. Just twenty feet below the surface, … Continue reading &rarr;"
 ---

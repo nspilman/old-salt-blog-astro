@@ -14,6 +14,7 @@ tags:
   - "Oliver Hazard Perry"
   - "Perry's Revenge Ale"
   - "USS Revenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/revengeale.jpg"
 author: "Rick Spilman"
 description: "Last January, three divers, Charles Buffum, Mike Fournier and Craig Harger, announced that they had located the wreck of Oliver Hazard Perry’s ship USS Revenge which sank 200 years ago off the coast of Rhode Island near Watch Hill.   It turns out that Charles Buffum, … Continue reading &rarr;"
 ---

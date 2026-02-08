@@ -15,6 +15,7 @@ tags:
   - "Peru"
   - "silver and gold coins"
   - "Spain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Gold-Spanish-doubloons.jpg"
 author: "Rick Spilman"
 description: "The silver and gold coins valued at $500 million that Odyssey Marine recovered from the wreck of the Nuestra Senora de las Mercedes have now been flown to Spain.  American courts ruled that the coins had been removed illegally and that they … Continue reading &rarr;"
 ---

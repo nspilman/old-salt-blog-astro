@@ -12,6 +12,7 @@ tags:
   - "stowaways"
   - "US Coast Guard boarding team"
   - "Ville D'Aquarius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/stowawayportnewark.jpg"
 author: "Rick Spilman"
 description: "The story began around 3AM Wednesday morning, when a US Coast Guard boarding team, conducting a random sweep on the container ship Ville D’Aquarius, near Sandy Hook, just outside New York harbor, heard a knocking sound which appeared to be coming from somewhere in the ship’s … Continue reading &rarr;"
 ---

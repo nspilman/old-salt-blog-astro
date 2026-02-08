@@ -12,6 +12,7 @@ tags:
   - "Belfast."
   - "Harland and Wolff shipyard"
   - "RMS Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/titaniclaunch.jpg"
 author: "Rick Spilman"
 description: "On May 31, 1911, the RMS Titanic was launched at the Harland and Wolff shipyard in Belfast, Ireland.  After continued outfitting, the ship was delivered to White Star Line on March 30, 1912.  She set sail for New York City … Continue reading &rarr;"
 ---

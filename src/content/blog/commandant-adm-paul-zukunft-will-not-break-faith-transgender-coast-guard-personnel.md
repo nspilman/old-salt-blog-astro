@@ -10,6 +10,7 @@ tags:
   - "Paul Zukunft"
   - "transgender"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/commandantuscg.jpg"
 author: "Rick Spilman"
 description: "Recently, Lt. Taylor Miller of the U.S. Coast Guard was featured in an article in the Washington Post. Lt. Miller is transgender and after a series of early morning tweets by the current occupant of the White House announcing a … Continue reading &rarr;"
 ---

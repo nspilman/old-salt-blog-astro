@@ -9,6 +9,7 @@ categories:
 tags:
   - "Captain Virginia A. Wagner"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/102514PSNE-6566-134x200.jpg"
 author: "Rick Spilman"
 description: "Captain Virginia A. Wagner passed away on Friday January 30, 2015 in Newport, Rhode Island, following a courageous battle with mesothelioma cancer."
 ---

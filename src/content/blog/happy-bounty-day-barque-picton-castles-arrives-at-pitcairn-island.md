@@ -11,6 +11,7 @@ tags:
   - "Bounty Day"
   - "Picton Castle"
   - "Pitcairn Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/pictoncastle1.jpg"
 author: "Rick Spilman"
 description: "Happy Bounty Day! On Pitcairn Island, Bounty Day is celebrated yearly on January 23, in commemoration of the burning of the HMS Bounty by the mutineers in 1790.  The sail training ship Picton Castle arrived just in time to partake in the celebrations. … Continue reading &rarr;"
 ---

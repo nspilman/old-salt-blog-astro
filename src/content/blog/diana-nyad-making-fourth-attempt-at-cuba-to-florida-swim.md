@@ -13,6 +13,7 @@ tags:
   - "Havana"
   - "Key West"
   - "swim"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/nyad-saturday-story-top-copy.jpg"
 author: "Rick Spilman"
 description: "Starting a day earlier than planned, Diana Nyad, 62, began her fourth attempt yesterday afternoon to swim from Havana, Cuba to Key West Florida, a distance of 103 miles across open ocean.  Nyad swam 21.7 statute miles in her first 18 hours. The total … Continue reading &rarr;"
 ---

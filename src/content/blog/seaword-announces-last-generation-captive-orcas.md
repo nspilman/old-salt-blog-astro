@@ -10,6 +10,7 @@ tags:
   - "Blackfish"
   - "orca whale"
   - "SeaWorld"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/dawnblackfish.jpg"
 author: "Rick Spilman"
 description: "SeaWorld has announced that they are ending their program to breed captive orcas. The 24 orcas, also known as killer whales, currently held at parks in California, Texas and Florida will be the last generation of captive orcas at SeaWorld. … Continue reading &rarr;"
 ---

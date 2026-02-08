@@ -8,6 +8,7 @@ categories:
 tags:
   - "Vice Admiral Michelle Howard"
   - "Vice Chief of Naval Operations"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/VADM_Michelle_Howard_2012.jpg"
 author: "Rick Spilman"
 description: "President Obama recently nominated Vice Admiral Michelle Howard to serve as vice chief of naval operations, the service’s No. 2 uniformed officer. If confirmed, she will be the first black and the first woman to hold the job and the first … Continue reading &rarr;"
 ---

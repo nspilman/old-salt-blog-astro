@@ -14,6 +14,7 @@ tags:
   - "Maersk"
   - "Mediterranean Shipping Company"
   - "MSC Oscar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/CSCL_Globe_arriving_at_Felixstowe_United_Kingdom.jpg"
 author: "Rick Spilman"
 description: "The new generation of very large container ships has arrived. CSCL Globe is now the largest container ship with a capacity of 19,100 TEU."
 ---

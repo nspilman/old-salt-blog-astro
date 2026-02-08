@@ -5,6 +5,7 @@ slug: "unintended-consequences-hmas-adelaide-scuttled-cases-of-the-bends-hit-rec
 excerpt: "The transition from warship to artificial reef did not go smoothly for the HMAS Adelaide.  Now roughly 100 feet below the surface, the popularity of the reefed ship has created new problems – a dramatic increase in the cases of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/HMAS_Adelaide.jpg"
 author: "Rick Spilman"
 description: "The transition from warship to artificial reef did not go smoothly for the HMAS Adelaide.  Now roughly 100 feet below the surface, the popularity of the reefed ship has created new problems – a dramatic increase in the cases of the … Continue reading &rarr;"
 ---

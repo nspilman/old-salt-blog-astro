@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USS John S. McCain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/ussmccain.jpg"
 author: "Rick Spilman"
 description: "In the second major collision between a US Navy destroyer and a merchant ship in the last three months, the USS John S. McCain was damaged in a collision with a tanker near Singapore. Five sailors were injured and 10 are missing. … Continue reading &rarr;"
 ---

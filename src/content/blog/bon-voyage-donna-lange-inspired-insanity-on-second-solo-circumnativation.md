@@ -9,6 +9,7 @@ categories:
 tags:
   - "Donna Lange"
   - "Inspired Insanity"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/donnalange-200x142.jpg"
 author: "Rick Spilman"
 description: "Today, Donna Lange set off today from Bristol, RI on her Southern Cross 28, Inspired Insanity, attempting to sail single-handed nonstop around the world."
 ---

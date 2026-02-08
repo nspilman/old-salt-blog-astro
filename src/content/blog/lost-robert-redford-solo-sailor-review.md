@@ -10,6 +10,7 @@ tags:
   - "All is Lost"
   - "J. C. Chandor"
   - "Robert Redford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/all-is-lost-movie-poster.jpg"
 author: "Rick Spilman"
 description: "\"All is Lost\" a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in … Continue reading &rarr;"
 ---

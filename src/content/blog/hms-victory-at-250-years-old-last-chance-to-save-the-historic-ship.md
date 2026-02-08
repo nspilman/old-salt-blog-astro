@@ -13,6 +13,7 @@ tags:
   - "Lord Nelson"
   - "National Museum of the Royal Navy"
   - "Portsmouth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/HMSVictory_1799444c.jpg"
 author: "Rick Spilman"
 description: "Conservationists warn that this may be the last chance to save the 250 year old HMS Victory which is rotting and being pulled part by its own weight ."
 ---

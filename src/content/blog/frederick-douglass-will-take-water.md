@@ -6,6 +6,7 @@ excerpt: "Frederick Douglass never knew his birthday but he chose to celebrate i
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/freddouglass.jpg"
 author: "Rick Spilman"
 description: "Frederick Douglass never knew his birthday but he chose to celebrate it every year on February 14th. So happy Frederick Douglass’ birthday and a most joyous Valentine’s Day.  Frederick Douglass was born a slave around 1818. He taught himself to read … Continue reading &rarr;"
 ---

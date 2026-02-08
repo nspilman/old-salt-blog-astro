@@ -12,6 +12,7 @@ tags:
   - "Gulf of Mexico"
   - "Interior Department"
   - "Noble Energy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/AP100421142959-306x204.jpg"
 author: "Rick Spilman"
 description: "Yesterday we reviewed John Konrad’s new book, Fire on the Horizon:  The Untold Story of the Gulf Oil Disaster, which went on sale in bookstores today.   Coincidentally,  yesterday the Interior Department approved the first new deep water drilling permit in the Gulf … Continue reading &rarr;"
 ---

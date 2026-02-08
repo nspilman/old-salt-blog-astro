@@ -10,6 +10,7 @@ tags:
   - "15-year-old Dutch sailor"
   - "Guppy"
   - "Laura Dekker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/0804-wire-Laura-Dekker-DUTC.jpg"
 author: "Rick Spilman"
 description: "Laura Dekker, the 15 year old Dutch sailor who is sailing rather leisurely alone around the world on her yacht Guppy, has been  by all appearances handling the sailing part of her journey without too much difficulty.  If she completes here multi-stop circumnavigation prior … Continue reading &rarr;"
 ---

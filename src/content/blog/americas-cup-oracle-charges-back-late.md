@@ -10,6 +10,7 @@ tags:
   - "34th America's Cup"
   - "Emirates Team New Zealand"
   - "Oracle Team USA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/etnz1.jpg"
 author: "Rick Spilman"
 description: "At first it looked like the 34th America’s Cup races would be a route. Emirates Team New Zealand was simply out-sailing the defender, Oracle Team USA. Not only was the crew making fewer mistakes but the Kiwi’s boat seemed noticeably … Continue reading &rarr;"
 ---

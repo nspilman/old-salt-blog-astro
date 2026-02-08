@@ -12,6 +12,7 @@ tags:
   - "NS Rah Naward"
   - "Pakistan Navy"
   - "Tall Ships Youth Trust"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/prince-william.jpg"
 author: "Rick Spilman"
 description: "The brig Prince William owned by the Tall Ships Youth Trust has been sold to the Pakistan Navy and has been renamed the PNS Rah Naward. The Prince William was delivered in 2001, a sistership to the TS Stavros  S. … Continue reading &rarr;"
 ---

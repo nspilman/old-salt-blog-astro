@@ -11,6 +11,7 @@ tags:
   - "Iceberg Alley"
   - "International Ice Patrol"
   - "Newfoundland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/04/icebergnewfoundland.jpg"
 author: "Rick Spilman"
 description: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. \"It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
 ---

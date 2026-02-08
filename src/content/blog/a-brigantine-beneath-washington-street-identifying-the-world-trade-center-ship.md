@@ -14,6 +14,7 @@ tags:
   - "new york"
   - "Warren Riess"
   - "World Trade Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/CityRoom-ShipA.jpg"
 author: "Rick Spilman"
 description: "Two weeks ago the remains of an 18th century ship were found in the excavation of the World Trade Center site in Lower Manhattan.    On Thursday Warren Riess, an archaeologist specializing in marine history, speculated that the ship was  most likely a brigantine; … Continue reading &rarr;"
 ---

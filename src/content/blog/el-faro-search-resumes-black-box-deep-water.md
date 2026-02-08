@@ -11,6 +11,7 @@ tags:
   - "black box"
   - "El Faro"
   - "NTSB"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/elfarowreckstern1.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted that the National Transportation Safety Board (NTSB) had ended its search for the El Faro‘s Voyage Data Recorder (VDR), the so-called \"black box,\" which might have provided answers to questions about the sinking of the 790-foot … Continue reading &rarr;"
 ---

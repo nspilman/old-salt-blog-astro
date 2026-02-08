@@ -14,6 +14,7 @@ tags:
   - "Dick Dowling Days"
   - "Sabine Pass"
   - "texas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/sabinepass.jpg"
 author: "Rick Spilman"
 description: "Last February, we posted about Dick Dowling and the battle of Sabine Pass.  This weekend , September 12th and 13th, during \"Dick Dowling Days\" there will be re-enactments of the Civil War battle on the Sabine Pass State Historic Battleground … Continue reading &rarr;"
 ---

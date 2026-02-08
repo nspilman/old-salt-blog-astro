@@ -10,6 +10,7 @@ tags:
   - "Japan"
   - "seawalls"
   - "tsunamis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/02wall-articleLarge.jpg"
 author: "Rick Spilman"
 description: "Recent articles on the power of the tsunami that recently struck Japan say a lot about  both the power of the tsunami waves and the challenges of trying to cope with a constant threat from the ocean.   Japan’s first line … Continue reading &rarr;"
 ---

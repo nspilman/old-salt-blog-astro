@@ -12,6 +12,7 @@ tags:
   - "South China"
   - "super-typhoon"
   - "Taiwan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/typhoon-megi-nasa-101018-02.jpg"
 author: "Rick Spilman"
 description: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, \"super-typhoon\" Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
 ---

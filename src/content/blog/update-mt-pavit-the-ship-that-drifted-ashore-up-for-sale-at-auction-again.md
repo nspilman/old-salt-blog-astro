@@ -6,6 +6,7 @@ excerpt: "Last August, we posted about the surprise arrival of the tanker MT Pav
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/gs4.jpg"
 author: "Rick Spilman"
 description: "Last August, we posted about the surprise arrival of the tanker MT Pavit on Juhu Beach near Mumbai, India.  The tanker had previously been reported to have sunk after engine room flooding.  This was the second ship that had arrived on Juhu … Continue reading &rarr;"
 ---

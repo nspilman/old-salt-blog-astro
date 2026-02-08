@@ -14,6 +14,7 @@ tags:
   - "U.S. Navy salvage tug"
   - "VDR"
   - "Voyage Data Recorder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro3.jpg"
 author: "Rick Spilman"
 description: "The salvage tug Apache has located the bridge deck of El Faro roughly a mile from the main wreckage. The search continues for the Voyage Data Recorder."
 ---

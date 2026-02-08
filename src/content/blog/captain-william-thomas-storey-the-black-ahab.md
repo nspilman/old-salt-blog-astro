@@ -5,6 +5,7 @@ slug: "captain-william-thomas-storey-the-black-ahab"
 excerpt: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed \"Black Ahab\" by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/Williamshorey.jpg"
 author: "Rick Spilman"
 description: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed \"Black Ahab\" by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Grado"
   - "Italy"
   - "Roman ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/shipwreck_244x183.jpg"
 author: "Rick Spilman"
 description: "Archeologists cannot say for sure what the lead pipe which penetrates the hull of a nearly 2,000 years old wreck of a Roman ship off the town of Grado in Italy was used for.   Some think that it was a supply … Continue reading &rarr;"
 ---

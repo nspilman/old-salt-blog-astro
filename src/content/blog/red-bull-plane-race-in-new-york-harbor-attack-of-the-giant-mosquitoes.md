@@ -9,6 +9,7 @@ categories:
 tags:
   - "new york harbor"
   - "Red Bull Air Race World Championship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/alg_red_bull_race-150x109.jpg"
 author: "Rick Spilman"
 description: "A section of upper New York harbor,  just north of  Ellis Island, has been taken over for the Red Bull Air Race World Championship.   Huge 20 meter air filled pylons sprang up over a three mile course and small, brightly colored … Continue reading &rarr;"
 ---

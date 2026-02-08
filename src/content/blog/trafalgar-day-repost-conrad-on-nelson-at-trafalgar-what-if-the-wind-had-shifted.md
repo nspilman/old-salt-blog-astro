@@ -10,6 +10,7 @@ tags:
   - "Joseph Conrad"
   - "Trafalgar"
   - "Trafalgar Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/conrad.jpg"
 author: "Rick Spilman"
 description: "A repost from 2010 in honor of Trafalgar Day, commemorating Nelson’s great victory over the combined French and Spanish fleets on this day in 1805.  I have always been struck that of all the commentary I have read on the … Continue reading &rarr;"
 ---

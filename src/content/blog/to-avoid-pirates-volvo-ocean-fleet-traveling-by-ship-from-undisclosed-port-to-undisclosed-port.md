@@ -9,6 +9,7 @@ categories:
 tags:
   - "Abu Dhabi"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/volvoleg2.jpg"
 author: "Rick Spilman"
 description: "On the first leg of the Volvo Ocean Race, half the fleet traveled to Cape Town on the deck of cargo ships following rigging or hull failures. Now in the second leg of the race, the entire fleet was loaded … Continue reading &rarr;"
 ---

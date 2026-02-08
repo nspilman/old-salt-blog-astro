@@ -12,6 +12,7 @@ tags:
   - "Gulf of Maine"
   - "lobster"
   - "New England"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/lobster.jpg"
 author: "Rick Spilman"
 description: "These are strange days in the lobster fisheries. Depending on where you are on the US East Coast, lobster fishing either is in trouble or is booming.  Even where thing are going well, there are serious concerns about the future. Earlier this year, the Atlantic … Continue reading &rarr;"
 ---

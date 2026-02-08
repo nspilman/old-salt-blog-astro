@@ -10,6 +10,7 @@ tags:
   - "Greenland shark"
   - "kayak fishing"
   - "Swedish Kayaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/hooked-up-3.jpg"
 author: "Rick Spilman"
 description: "Joel Abrahamsson, from Gothenburg, Sweden, recently caught a 15' long 1,247 pound Greenland shark while fishing from a kayak near Andoria, in Norway."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Crater Lake"
   - "Old Man of the Lake"
   - "Oregon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/oldmanlake.jpg"
 author: "Rick Spilman"
 description: "A 30′ long stump of what is probably a hemlock tree has been floating vertically, bobbing up and down, in Crater Lake, in south-central Oregon in the western United States, for more than 120 years. How much longer it has been floating, … Continue reading &rarr;"
 ---

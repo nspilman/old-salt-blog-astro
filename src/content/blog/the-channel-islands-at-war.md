@@ -16,6 +16,7 @@ tags:
   - "Sark"
   - "The Channel Islands at War"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/14579.jpg"
 author: "Rick Spilman"
 description: "For those in the UK, the Yesterday Channel is beginning a new documentary series, The Channel Islands at War,  next week  on Monday 28th, Tuesday 29th and Wednesday 30th of June. The Channel Islands at War … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Leatherman Tread"
   - "multi-tool"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/ltread.jpg"
 author: "Rick Spilman"
 description: "What should a sailor carry with him or her when clambering around a boat or sailing ship? A rigging knife and marlinspike are common. Some prefer a sheath knife, whereas I am happy with a folding knife and marlinspike that … Continue reading &rarr;"
 ---

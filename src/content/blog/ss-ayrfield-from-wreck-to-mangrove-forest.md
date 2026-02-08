@@ -12,6 +12,7 @@ tags:
   - "mangrove"
   - "SS Ayrfield"
   - "Sydney"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/homebushmangrove2.jpg"
 author: "Rick Spilman"
 description: "The steam collier SS Ayrfield was 61 years old. Formally called the Corrimal, the 1,140-tonne ship, ran coal between Newcastle and Sydney before serving as a transport ship for Australia during World War II. After the war, she operated again … Continue reading &rarr;"
 ---

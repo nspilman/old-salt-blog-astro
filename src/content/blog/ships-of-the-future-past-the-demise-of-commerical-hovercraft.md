@@ -13,6 +13,7 @@ tags:
   - "Hovercraft Museum"
   - "Princess Anne"
   - "Princess Margaret"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/hovercraft1.jpg"
 author: "Rick Spilman"
 description: "In the late 60s and early 70s, hovercraft ferries were the ships of the future. Hovercraft, flying on cushions of air, operated across the English Channel carrying passengers and cars at speeds of 40 to 60 knots. Some imagined that one-day hovercraft … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Charlie Ipcar"
   - "Christmas Night"
   - "poem"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/round_horn_dawson.jpg"
 author: "Rick Spilman"
 description: " We hope that everyone is having a most merry Christmas. Here is a repost from 2014 of a poem by C. Fox Smith adapted for song by Charlie Ipcar.  Cecily Fox Smith was a Victorian poet best remembered for her poems about … Continue reading &rarr;"
 ---

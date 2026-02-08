@@ -13,6 +13,7 @@ tags:
   - "Isle of Man"
   - "Maritime Museum of San Diego"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/dolphinboomsmall-125x70.jpg"
 author: "Rick Spilman"
 description: "A few photos from a recent visit to the Star of India at the Maritime Museum of San Diego. The Star of India was built in  in 1863 as Euterpe, a full-rigged iron windjammer ship, in Ramsey, Isle of Man.  The … Continue reading &rarr;"
 ---

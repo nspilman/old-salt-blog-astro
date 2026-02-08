@@ -10,6 +10,7 @@ tags:
   - "Disneyfied pirates"
   - "Key West"
   - "Pirates in Paradise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/piratesinparadise.jpg"
 author: "Rick Spilman"
 description: "In my grumpier moments, I object to celebrating Disneyfied pirates, especially given that piracy is, after all, still a serious problem and not merely a quaint relic of the 16th and 17th centuries.  Then again, I can’t be grumpy all the time. … Continue reading &rarr;"
 ---

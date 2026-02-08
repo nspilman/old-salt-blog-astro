@@ -8,6 +8,7 @@ categories:
 tags:
   - "Jacques Cousteau"
   - "RV Calypso"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/calypsoshed.jpg"
 author: "Rick Spilman"
 description: "Jacques Cousteau's RV Calypso is rotting in a shipyard shed appears to be in the first stages of being broken up."
 ---

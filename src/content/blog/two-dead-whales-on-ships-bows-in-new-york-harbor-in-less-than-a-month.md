@@ -12,6 +12,7 @@ tags:
   - "NOAA"
   - "Sei whale"
   - "Ship strike"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/seiwhale1.jpg"
 author: "Rick Spilman"
 description: "Fin and sei whale are not usually seen in New York’s upper harbor, yet in a period of less than a month, two have made an appearance. Unfortunately, both were dead, pinned to the bows of ships. On the April 12th, … Continue reading &rarr;"
 ---

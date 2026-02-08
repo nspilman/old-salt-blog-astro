@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/mloc4.jpg"
 author: "Rick Spilman"
 description: "Why and how did the MOL Comfort break in half? The obvious answer is that no one knows, yet. We will learn more following an investigation, which is many months in the future.  In the mean time, what are the … Continue reading &rarr;"
 ---

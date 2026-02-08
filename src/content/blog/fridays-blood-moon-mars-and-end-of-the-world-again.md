@@ -11,6 +11,7 @@ tags:
   - "Eclipse"
   - "Mars"
   - "opposition"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/bluesuperbloodmoon.jpg"
 author: "Rick Spilman"
 description: "This Friday there will be a total eclipse of the moon. The eclipse will be total in much of Africa, the Middle East, and India, while Europe, the rest of Asia and most of South America will see a partial … Continue reading &rarr;"
 ---

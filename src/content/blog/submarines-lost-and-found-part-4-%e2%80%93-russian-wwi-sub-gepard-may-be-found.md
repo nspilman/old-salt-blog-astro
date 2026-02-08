@@ -13,6 +13,7 @@ tags:
   - "Gepard"
   - "submarine wreck"
   - "WW1"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/gepard.jpg"
 author: "Rick Spilman"
 description: "As reported by the Stockholm News – WW1 Russian submarine found The submarine wreck was discovered by a research ship of the Swedish Maritime Administration the 10 September. A closer study with a radio-controlled underwater vessel indicate that the submarine … Continue reading &rarr;"
 ---

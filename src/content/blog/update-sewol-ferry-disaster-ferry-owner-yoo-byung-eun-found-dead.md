@@ -11,6 +11,7 @@ tags:
   - "Chonghaejin Marine"
   - "Sewol"
   - "Yoo Byung-eun"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/yoo.jpg"
 author: "Rick Spilman"
 description: "Last April, we posted about the capsizing and sinking of the South Korean ro/ro ferry Sewol with the loss of over 300, dead and missing.  Yoo Byung-eun, the effective owner and manager of Chonghaejin Marine Company, which operated the ferry, had been the … Continue reading &rarr;"
 ---

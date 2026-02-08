@@ -10,6 +10,7 @@ tags:
   - "Fedor Konyukhov"
   - "Russian Orthodox priest"
   - "Southern Ocean"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2019/05/priestrow.jpg"
 author: "Rick Spilman"
 description: "Fedor Konyukhov, a 67-year-old Russian Orthodox priest, recently arrived in the Chilean town of Puerto Williams, after rowing 11,500 kilometers from Dunedin, New Zealand to Cape Horn. He thanks Saint Nicholas the Miracle Worker for helping him survive the 154-day … Continue reading &rarr;"
 ---

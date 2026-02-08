@@ -13,6 +13,7 @@ tags:
   - "Gibraltar"
   - "Independence of the Seas"
   - "tank"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/gibexplosion.jpg"
 author: "Rick Spilman"
 description: "An explosion in a fuel tank on  the  cruise ship docks in Gibraltar today injured several on the dock and over twelve passengers on the 3,634-passenger Royal Caribbean   cruise  ship,  Independence of the Seas.  The injuries to passengers were all reported to be minor. … Continue reading &rarr;"
 ---

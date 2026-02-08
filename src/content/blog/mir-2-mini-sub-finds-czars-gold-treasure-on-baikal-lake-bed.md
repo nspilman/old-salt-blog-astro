@@ -13,6 +13,7 @@ tags:
   - "Russia's last Czar"
   - "Siberia"
   - "White Admiral Alexander Kolchak"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/BaikalGraphic30July_41314a.jpg"
 author: "Rick Spilman"
 description: "Intriguing, if it turns out to be true. Czar’s gold treasure found on Baikal Lake bed The legendary gold treasure of Russia’s last Czar could have been found by Mir-2 mini submarine on the bed of the world’s deepest fresh … Continue reading &rarr;"
 ---

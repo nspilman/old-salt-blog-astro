@@ -9,6 +9,7 @@ tags:
   - "Clinton Pearson"
   - "Everett Pearson"
   - "Pearson Yacht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/epearson.jpg"
 author: "Rick Spilman"
 description: "A day before Christmas, Everett A. Pearson died at the age of 84. The co-founder of Pearson Yachts and Tillotson-Pearson Inc., Everett Pearson was a pioneer in the production of fiberglass boats and played a significant role in bringing affordable production … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Captain James Cook"
   - "Horatio Nelson"
   - "Valentines Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/Cleveley_Cape_St_Vincent-200x129.jpg"
 author: "Rick Spilman"
 description: "Valentine's day, February 14th is also an auspicious day in nautical history."
 ---

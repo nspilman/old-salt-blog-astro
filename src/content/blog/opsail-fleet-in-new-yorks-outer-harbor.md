@@ -11,6 +11,7 @@ tags:
   - "new york harbor"
   - "Opsail"
   - "Tall &amp; Historic Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/brazilian-125x70.jpg"
 author: "Rick Spilman"
 description: "Last night I went out to see some of the participating OpSail tall ships in New York’s Outer Harbor.  The trip was organized by the Working Harbor Committee with commentary provided by Richard Taylor and Captain Richard Dorfman.  Click on the … Continue reading &rarr;"
 ---

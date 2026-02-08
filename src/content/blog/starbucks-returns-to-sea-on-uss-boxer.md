@@ -15,6 +15,7 @@ tags:
   - "Starbucks"
   - "US Navy"
   - "USS Boxer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/boxerstarbucks.jpg"
 author: "Rick Spilman"
 description: "There is virtually no place on earth beyond its reach. No, not the US Navy. Starbucks. The coffee seller is now even opening a store on a navy warship, the amphibious assault ship, USS Boxer. The \"Starboxer\" is the first … Continue reading &rarr;"
 ---

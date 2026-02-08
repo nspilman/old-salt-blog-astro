@@ -15,6 +15,7 @@ tags:
   - "Staten Island"
   - "Witte boneyard"
   - "WNYC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/boatyard_322.jpg"
 author: "Rick Spilman"
 description: "The Witte boneyard, often referred to as New York’s graveyard of ships, usually sits unnoticed on the shore of Staten Island on the Arthur Kill in a far corner of New York harbor.   In the last week, however, it has … Continue reading &rarr;"
 ---

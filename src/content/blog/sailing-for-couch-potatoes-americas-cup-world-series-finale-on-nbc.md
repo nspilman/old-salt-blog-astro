@@ -12,6 +12,7 @@ tags:
   - "Newport"
   - "Rhode Island"
   - "television"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/newportac.jpg"
 author: "Rick Spilman"
 description: "Back in the old days, the America’s Cup was sailed in 12 Meter yachts in the often misty light air of Rhode Island Sound.  It was a competition more suited to still photography than video.  How times have changed.  Now elimination matches are being sailed in … Continue reading &rarr;"
 ---

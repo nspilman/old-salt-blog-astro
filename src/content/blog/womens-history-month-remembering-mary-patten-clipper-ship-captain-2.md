@@ -12,6 +12,7 @@ tags:
   - "clipper ship"
   - "Mary Patten"
   - "Neptune's Car"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/marypatten.jpg"
 author: "Rick Spilman"
 description: "As Women’s History Month comes to a close, it seems a good time to remember Mary Ann Brown Patten, the first woman to command an American merchant ship. An updated repost. The year was 1856. The ship was the clipper … Continue reading &rarr;"
 ---

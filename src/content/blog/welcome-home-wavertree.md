@@ -11,6 +11,7 @@ tags:
   - "new york"
   - "South Street Seaport"
   - "Wavertree"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/wavertreepioneertugsmall1.jpg"
 author: "Rick Spilman"
 description: "Yesterday the 1885 windjammer Wavertree returned home to New York’s South Street Seaport after a $13 million, sixteen month restoration in Caddell Drydock in Staten Island. She was escorted home by the 1885 schooner Pioneer, the 1893 schooner Lettie G … Continue reading &rarr;"
 ---

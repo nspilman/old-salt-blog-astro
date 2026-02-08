@@ -13,6 +13,7 @@ tags:
   - "Gulf Coast"
   - "ILA"
   - "Port Strike"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/PORT-articleLarge-v2.jpg"
 author: "Rick Spilman"
 description: "Update: The port strike has been averted for now with a 30 day contract extension. In early December we posted about the end of the eight day West Coast dock strike that shut down 10 of the port’s 14 container terminals in  the … Continue reading &rarr;"
 ---

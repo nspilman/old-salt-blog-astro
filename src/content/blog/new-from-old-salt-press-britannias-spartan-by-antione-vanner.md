@@ -9,6 +9,7 @@ categories:
 tags:
   - "Antione Vanner"
   - "Britannia's Spartan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/BritanniaSpartan.jpg"
 author: "Rick Spilman"
 description: "Another wonderful release in time for the holidays. Antione Vanner’s Britannia’s Spartan is the fourth volume of the Dawlish Chronicles. It is 1882 and Captain Nicholas Dawlish has just taken command of the Royal Navy’s newest cruiser, HMS Leonidas. Her … Continue reading &rarr;"
 ---

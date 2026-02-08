@@ -10,6 +10,7 @@ tags:
   - "Bunting"
   - "Live Yankees"
   - "Sewalls"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/liveyankees.jpg"
 author: "Rick Spilman"
 description: "Live Yankees, the Sewalls and their Ships is a fascinating and sweeping history of one family from Bath, Maine, which built and operated over one hundred merchant ships, mostly square riggers in the 19th and early 20th centuries. It offers … Continue reading &rarr;"
 ---

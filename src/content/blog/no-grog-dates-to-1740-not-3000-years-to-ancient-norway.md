@@ -11,6 +11,7 @@ tags:
   - "Old Grog"
   - "Royal Navy"
   - "rum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/Edward-vernon-1.jpg"
 author: "Rick Spilman"
 description: "Recently there have been multiple articles in the press and across the Internet citing a recent study published in the Danish Journal of Archaeology (Dec. 23, 2013) which claims that grog was consumed in Norway as far back as 1,500 … Continue reading &rarr;"
 ---

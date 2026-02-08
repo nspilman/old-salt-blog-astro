@@ -13,6 +13,7 @@ tags:
   - "Maître CoQ"
   - "Vendée Globe"
   - "Zbigniew 'Gutek' Gutkowski"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/maitre-coq-jeremie-beyou-r-.jpg"
 author: "Rick Spilman"
 description: "A week ago last Sunday, 20 boats sailed by 20 sailors set off in the Vendée Globe non-stop round-the-world single-handed yacht race. Now only 15 remain in the race.  Jérémie Beyou dropped out yesterday after the hydraulic ram on his articulating keel broke on his Open 60 class boat, Maître CoQ.   Of the … Continue reading &rarr;"
 ---

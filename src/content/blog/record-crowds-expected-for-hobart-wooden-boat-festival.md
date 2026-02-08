@@ -11,6 +11,7 @@ tags:
   - "Hobart"
   - "Jessica Watson"
   - "Sullivan's Cove"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/woodenboatfestival1.jpg"
 author: "Rick Spilman"
 description: "Record crowds, possibly exceeding 100,000, are expected at the Australian Wooden Boat Festival which begins today and runs through Monday at Hobart’s historic Sullivan’s Cove docks.   The four-day festival which  brings together the biggest collection of wooden boats in … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Maritime Museum of San Diego"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/shipmainstar2.jpg"
 author: "Rick Spilman"
 description: "On a winter’s day, when the temperature here on the banks of the Hudson River is in the low 30s F, but with the wind off the water feels more like the low 20s, there are many reasons to want … Continue reading &rarr;"
 ---

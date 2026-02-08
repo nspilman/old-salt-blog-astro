@@ -13,6 +13,7 @@ tags:
   - "National Oceanographic and Atmospheric Administration"
   - "Office of National Marine Sanctuaries"
   - "USS Monitor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/monitorrev.jpg"
 author: "Rick Spilman"
 description: "USS Monitor – A Historic Ship Completes Its Final Voyage tells the story of the ship and of the dedicated team who worked to preserve her."
 ---

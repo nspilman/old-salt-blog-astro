@@ -12,6 +12,7 @@ tags:
   - "Liberia"
   - "product tanker"
   - "Tamaya 1"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/tankerbeached.jpg"
 author: "Rick Spilman"
 description: "On May 4th, the 1441 DWT Panamanian registered product tanker Tamaya 1 drifted ashore on a remote beach in Liberia near Robertsport, with no crew aboard. There appears to have been a fire in the ship’s deckhouse and one of two lifeboats … Continue reading &rarr;"
 ---

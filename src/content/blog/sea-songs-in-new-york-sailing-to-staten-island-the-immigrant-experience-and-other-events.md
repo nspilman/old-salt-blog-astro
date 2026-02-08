@@ -20,6 +20,7 @@ tags:
   - "Sailing to Staten Island: The Immigrant Experience"
   - "Snug Harbor"
   - "Staten Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/sailingSI1.jpg"
 author: "Rick Spilman"
 description: "This will be a great couple of weeks around New York harbor for lovers of the music of the sea.  \"Sailing to Staten Island: The Immigrant Experience\" is a free concert Saturday night at the Noble Maritime Collection at Snug … Continue reading &rarr;"
 ---

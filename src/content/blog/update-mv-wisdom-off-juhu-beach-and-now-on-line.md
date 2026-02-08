@@ -13,6 +13,7 @@ tags:
   - "Mumbai"
   - "MV Wisdom"
   - "scrapyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/wisdom.jpg"
 author: "Rick Spilman"
 description: "Three weeks ago we posted about the MV Wisdom, which had been on her way to a Gujarat scrapyard when the tow line parted. The drifting ship nearly hit a major bridge near Mumbai before finally grounding on Juhu Beach, where … Continue reading &rarr;"
 ---

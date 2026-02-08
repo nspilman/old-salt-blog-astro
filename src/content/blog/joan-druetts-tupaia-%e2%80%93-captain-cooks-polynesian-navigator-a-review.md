@@ -14,6 +14,7 @@ tags:
   - "New Zealand"
   - "Tahiti"
   - "Tupaia – Captain Cook's Polynesian Navigator"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Tupaia_jacket-330.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s new book, Tupaia – Captain Cook’s Polynesian Navigator, fills an important blank space in the history, as well as the legend, of Captain Cook. On his first voyage to the Pacific in HMS Endeavour, during a stop in … Continue reading &rarr;"
 ---

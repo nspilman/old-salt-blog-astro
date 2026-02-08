@@ -11,6 +11,7 @@ tags:
   - "aircraft carrier"
   - "HMS Queen Elizabeth"
   - "Queen Elizabeth II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/hmsqe.jpg"
 author: "Rick Spilman"
 description: "Today, Great Britain’s Queen Elizabeth II christened the Royal Navy’s new aircraft carrier, HMS Queen Elizabeth. As the ceremony was held in Rosyth, Scotland, the queen christened the ship with a bottle of whiskey from the Bowmore Distillery, rather than the … Continue reading &rarr;"
 ---

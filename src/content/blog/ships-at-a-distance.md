@@ -9,6 +9,7 @@ categories:
 tags:
   - "Their Eyes Were Watching God"
   - "Zora Neale Hurston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/zora-neale-hurstons-123rd-birthday-5830801295933440-hp.jpg"
 author: "Rick Spilman"
 description: "Today is the 123rd anniversary of Zora Neale Hurston‘s birthday. She is being honored by Google with a graphic on the main search page. Hurston is considered to be one of the pre-eminent African-America writers of the 20th century. She … Continue reading &rarr;"
 ---

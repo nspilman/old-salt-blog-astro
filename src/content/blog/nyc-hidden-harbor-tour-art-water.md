@@ -9,6 +9,7 @@ tags:
   - "Circle Line"
   - "Hidden Harbor Tours"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/hiddenharborart.jpg"
 author: "Rick Spilman"
 description: "A sure sign that Spring has finally arrived in New York harbor is the return of the Working Harbor Committee‘s Hidden Harbor Tours. The first, scheduled for May 1st, is Forgotten Harbor, Found in Art.  Here is the description of … Continue reading &rarr;"
 ---

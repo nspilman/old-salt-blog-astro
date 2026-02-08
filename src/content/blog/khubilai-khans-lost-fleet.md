@@ -11,6 +11,7 @@ tags:
   - "Jim Delgado"
   - "Khubilai Khan's Lost Fleet"
   - "maritime archaeologist"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/delgadokkhan.jpg"
 author: "Rick Spilman"
 description: "Jim Luce recently wrote an article in the Huffington Post titled, Khubilai Khan’s Lost Fleet Found in Japan.   The title makes it sound like a new discovery.   Not so much. The site of the \"lost fleet\" was discovered … Continue reading &rarr;"
 ---

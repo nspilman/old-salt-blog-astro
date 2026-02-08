@@ -12,6 +12,7 @@ tags:
   - "Hydroptère"
   - "Pacific"
   - "Williwaw"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/williwaw.jpg"
 author: "Rick Spilman"
 description: "This summer, the French 60′ foiling trimaran Hydroptere sailed 2215 nautical miles from Los Angeles to Hawaii. The winds were not favorable and the passage was not terribly fast at about 11 days, compared to the four day record set by the 110-foot … Continue reading &rarr;"
 ---

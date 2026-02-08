@@ -11,6 +11,7 @@ tags:
   - "Bath"
   - "HMS Bounty"
   - "Maine Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/bounty1.jpg"
 author: "Rick Spilman"
 description: "HMS Bounty open to public in Maine The HMS Bounty tall ship is open to the public during its stop in Maine.   The three-masted, 120-foot ship is open for tours Saturday and Sunday from 9:30 a.m. to 5 p.m. at … Continue reading &rarr;"
 ---

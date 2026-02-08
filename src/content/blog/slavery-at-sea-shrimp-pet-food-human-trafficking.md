@@ -5,6 +5,7 @@ slug: "slavery-at-sea-shrimp-pet-food-human-trafficking"
 excerpt: "Myint Naing, a Burmese man, recently made it home 22 years after being taken aboard a Thai fishing trawler, where he worked as little more than a slave. In the last six months an estimated 2,000 enslaved fishermen have been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/thaislave.jpg"
 author: "Rick Spilman"
 description: "Myint Naing, a Burmese man, recently made it home 22 years after being taken aboard a Thai fishing trawler, where he worked as little more than a slave. In the last six months an estimated 2,000 enslaved fishermen have been … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "National Park Service"
   - "New York City"
   - "Revenue-Marine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/washingtonhamilton-200x110.jpg"
 author: "Rick Spilman"
 description: "Today, on the 225th anniversary establishment the Revenue-Marine, later the US Coast Guard, Washington and Hamilton returned to NYC."
 ---

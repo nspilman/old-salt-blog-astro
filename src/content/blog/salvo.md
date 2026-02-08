@@ -10,6 +10,7 @@ tags:
   - "compuer game"
   - "naval warfare"
   - "Salvo!"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/SVO_pic.jpg"
 author: "Rick Spilman"
 description: "I am not a big gamer but Salvo! does look like fun. It is also on sale for the rest of the month. There is even a free demo. Salvo! on Sale in September Salvo! is a turn based wargame … Continue reading &rarr;"
 ---

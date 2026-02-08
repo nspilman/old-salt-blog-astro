@@ -10,6 +10,7 @@ tags:
   - "furniture designer"
   - "Nic Kruger"
   - "Shipwreck Furniture"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/shipwreckfurnitureUntitled-.jpg"
 author: "Rick Spilman"
 description: "Just reading in Treehugger about Nic Kruger, a furniture designer, in Knysna, South Africa, who runs Shipwreck Furniture, which makes  tables, benches and shelves from timber recovered from shipwrecked boats.  Very interesting stuff.   Not sure that it goes with … Continue reading &rarr;"
 ---

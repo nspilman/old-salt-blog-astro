@@ -10,6 +10,7 @@ tags:
   - "14 year old"
   - "Laura Dekker"
   - "solo round-the-world sailing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekker.jpg"
 author: "Rick Spilman"
 description: "Just over a week after a Dutch court gave 14 year old Laura Dekker permission to attempt to sail around the world alone, the teenager is setting sail.   She will be sailing first from the Netherlands to Portugal with … Continue reading &rarr;"
 ---

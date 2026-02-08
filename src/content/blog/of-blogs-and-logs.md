@@ -9,6 +9,7 @@ tags:
   - "Andrew Sullivan"
   - "blogging"
   - "ships log"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg"
 author: "Rick Spilman"
 description: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article \"Why I Blog\", in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
 ---

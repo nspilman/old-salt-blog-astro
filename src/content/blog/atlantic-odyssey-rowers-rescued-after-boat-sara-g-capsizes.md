@@ -11,6 +11,7 @@ tags:
   - "Nord Taipei"
   - "rowers rescued"
   - "Sara G"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/antlantichallengerowers.jpg"
 author: "Rick Spilman"
 description: "These are busy days in ocean rowing. As the Talisker Whisky Atlantic Challenge is finishing up and the Bouvet Guyane Solo Atlantic Rowing Race 2012 is getting started, an attempt at breaking an ocean rowing record as failed, ending with the rescue of … Continue reading &rarr;"
 ---

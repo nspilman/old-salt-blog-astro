@@ -10,6 +10,7 @@ tags:
   - "Alexis Madrigal"
   - "Icebergs"
   - "towing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/biceberg_0523.jpg"
 author: "Rick Spilman"
 description: "About a year ago, we posted Towing Icebergs – an Idea Whose Time is Still Coming?, where we pointed out that the latest proposal to tow icebergs from the Arctic or Antarctic to supply fresh water, was similar to plans that dated … Continue reading &rarr;"
 ---

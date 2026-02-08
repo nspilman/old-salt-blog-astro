@@ -10,6 +10,7 @@ tags:
   - "Aftermath of Super Typhoon Haiyan"
   - "Philippines"
   - "Tacloban"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/aptopix-philippines-typhoon.jpg"
 author: "Rick Spilman"
 description: "In the aftermath of Super Typhoon Haiyan, the Philippines is beginning to attempt to cope with what has been described as the worst natural disaster in its history.  The typhoon hit the archipelago with winds approaching 200 mph and drove … Continue reading &rarr;"
 ---

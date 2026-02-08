@@ -13,6 +13,7 @@ tags:
   - "Murmansk Shipping Company"
   - "Russian Northern Sea route"
   - "Varzuga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/arctictankers.jpg"
 author: "Rick Spilman"
 description: "With the onset of limited trans-arctic navigation environmentalists have voiced concern about the potential for pollution due to increased ship traffic.   The recent collision  between two arctic tankers, the Indiga and Varzuga, on the Russian Northern Sea route, demonstrates the basis for these concerns. … Continue reading &rarr;"
 ---

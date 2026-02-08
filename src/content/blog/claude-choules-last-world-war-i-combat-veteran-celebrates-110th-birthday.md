@@ -12,6 +12,7 @@ tags:
   - "Claude Choules"
   - "last surviving combat veteran of World War I"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg"
 author: "Rick Spilman"
 description: "Claude Choules, the last surviving combat veteran of World War I celebrated his 110th birthday with family and friends in Perth earlier this month.   Though he served in two World Wars, the first in the Royal Navy and the second in … Continue reading &rarr;"
 ---

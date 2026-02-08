@@ -11,6 +11,7 @@ tags:
   - "Pennsylvania"
   - "search"
   - "Superior Court"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/policeboat.jpg"
 author: "Rick Spilman"
 description: "A very interesting case was argued recently before the Commonwealth of Pennsylvania Superior Court over a $75 fine issued to a boater for not having enough life jackets aboard his boat. The issue before the court, however, was not life jackets, … Continue reading &rarr;"
 ---

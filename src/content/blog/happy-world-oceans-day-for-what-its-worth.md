@@ -10,6 +10,7 @@ tags:
   - "Admiral Sir James Burnell-Nugent"
   - "United Nations"
   - "World Oceans Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/Google_underwater_Street_View.jpg"
 author: "Rick Spilman"
 description: "Happy World Oceans Day, June 8th. What does World Ocean Day mean, from a practical perspective? Probably not too much."
 ---

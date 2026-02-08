@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/comfort1.jpg"
 author: "Rick Spilman"
 description: "The hospital ship USNS Comfort recently deployed on a five month mission with a new captain -- the third, (or fourth) captain in the last 19 months."
 ---

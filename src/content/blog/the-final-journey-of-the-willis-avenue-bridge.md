@@ -11,6 +11,7 @@ tags:
   - "Jersey City"
   - "new york harbor"
   - "Willis Avenue Bridge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/willis-avenue-bridge.jpg"
 author: "Rick Spilman"
 description: "It is amazing what you can see passing through New York harbor.   Those awake in the hours before dawn this morning may have seen a highway bridge under tow down the East River around the Battery and across the … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Tower Bridge"
   - "TS Bob Allen"
   - "TS Caroline Allen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/smallshipbridge.jpg"
 author: "Rick Spilman"
 description: "World’s smallest tall ships sail under Tower Bridge… without the bridge deck opening With the traditional rigging of a tall ship but only a fraction of the size, these two vessels are dwarfed by Tower Bridge. The world’s smallest tall … Continue reading &rarr;"
 ---

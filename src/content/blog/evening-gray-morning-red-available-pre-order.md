@@ -9,6 +9,7 @@ categories:
   - "Seastories"
 tags:
   - "Evening Gray Morning Red"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg"
 author: "Rick Spilman"
 description: "My latest novel, Evening Gray Morning Red, will be published on October 15th in print and as an ebook. The Kindle ebook is available for pre-order on Amazon. About the novel: In Evening Gray Morning Red, a young American sailor must escape … Continue reading &rarr;"
 ---

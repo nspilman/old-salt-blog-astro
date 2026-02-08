@@ -17,6 +17,7 @@ tags:
   - "Sarah Outen"
   - "Texas Highway"
   - "Tropical cyclone Marwar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Charlie-Martell-Outen.jpg"
 author: "Rick Spilman"
 description: "Tropical cyclone Marwar ended attempts by two solo British rowers to row across the Pacific this week.  Sarah Outen, 27, was attempting to traverse the globe using only human power, by either rowing, kayaking or cycling.   She began her … Continue reading &rarr;"
 ---

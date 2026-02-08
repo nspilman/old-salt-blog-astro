@@ -15,6 +15,7 @@ tags:
   - "Minerva"
   - "Mumbai"
   - "MV Wisdom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/MV-Wisdom.jpg"
 author: "Rick Spilman"
 description: "The MV Wisdom is a small 26-year-old container ship.  She has had 14 name changes in her life and no one knows how many owners. The current owner may be unknown as well.  She was being towed from Colombo to the scrap-yard in … Continue reading &rarr;"
 ---

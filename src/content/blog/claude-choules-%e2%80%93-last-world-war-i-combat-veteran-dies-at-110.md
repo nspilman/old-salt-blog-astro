@@ -11,6 +11,7 @@ tags:
   - "Claude Choules"
   - "last combat veteran of World War I"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/51uMKmL69TL._SL500_AA300_.jpg"
 author: "Rick Spilman"
 description: "In March we posted about the birthday of Claude Choules, the last combat veteran of World War I.   He has now died  in Perth, Australia at age 110. Last WWI combat veteran Claude Choules dies aged 110 The world’s last … Continue reading &rarr;"
 ---

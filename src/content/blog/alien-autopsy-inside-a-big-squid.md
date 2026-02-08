@@ -5,6 +5,7 @@ slug: "alien-autopsy-inside-a-big-squid"
 excerpt: "This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/giant_squid_0429.jpg"
 author: "Rick Spilman"
 description: "This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever … Continue reading &rarr;"
 ---

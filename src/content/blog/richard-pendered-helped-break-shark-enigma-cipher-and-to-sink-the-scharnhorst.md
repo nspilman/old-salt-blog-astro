@@ -13,6 +13,7 @@ tags:
   - "Enigma"
   - "Richard Pendered"
   - "Scharnhorst"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/pendered_1788247f.jpg"
 author: "Rick Spilman"
 description: "Perhaps foreshadowing our own information age, World War II’s \"Battle of the Atlantic\" between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of Bletchley Park.   In 1940, Alan Turing had begun to … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "SEAL Team 6"
   - "trademark"
   - "Walt Disney Company"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/mickey.jpg"
 author: "Rick Spilman"
 description: "Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase \"SEAL Team 6.\"   SEAL Team 6 is believed to be the Navy commando squad that … Continue reading &rarr;"
 ---

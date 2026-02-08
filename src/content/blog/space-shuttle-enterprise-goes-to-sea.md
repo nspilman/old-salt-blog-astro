@@ -13,6 +13,7 @@ tags:
   - "Port Elizabeth"
   - "Space Shuttle Enterprise"
   - "Verrazano Narrows Bridge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/shuttle.jpg"
 author: "Rick Spilman"
 description: "The  Space Shuttle Enterprise was built as a prototype. As such it never flew in space. That is not to say, however, that it hasn’t traveled. In April, we caught it on video taking a ride on a NASA 747 up … Continue reading &rarr;"
 ---

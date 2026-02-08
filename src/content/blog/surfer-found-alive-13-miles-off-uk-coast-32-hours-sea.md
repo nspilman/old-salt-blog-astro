@@ -10,6 +10,7 @@ tags:
   - "Matthew Bryce"
   - "Scotland"
   - "surfer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/surfer1.jpg"
 author: "Rick Spilman"
 description: "A surfer, who had been swept out to sea while surfing off the Argyll coast of Scotland, was rescued by the Belfast Coast Guard after 32 hours at sea. Matthew Bryce, 22, was reported missing by his family when he … Continue reading &rarr;"
 ---

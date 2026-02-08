@@ -12,6 +12,7 @@ tags:
   - "Cape Hatteras Lighthouse"
   - "lighthose"
   - "Thunderbolt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/hamilton1.jpg"
 author: "Rick Spilman"
 description: "The Cape Hatteras Lighthouse marking the shoals which have become known as the \"graveyard of ships,\" is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander … Continue reading &rarr;"
 ---

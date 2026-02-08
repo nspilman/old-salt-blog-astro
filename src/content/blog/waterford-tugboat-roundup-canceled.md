@@ -10,6 +10,7 @@ tags:
   - "Erie Canal"
   - "Tropical Storm Irene"
   - "Waterford Tugboat Roundup"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/tuboat-roundup-2011-logo.jpg"
 author: "Rick Spilman"
 description: "Ironically, the further inland from where Hurricane Irene made landfall in Brooklyn, the more damage and disruption the storm caused.  While the 19th Annual Great North River Tug Boat Race and Competition  went off without a hitch, the annual Waterford Tugboat Roundup scheduled … Continue reading &rarr;"
 ---

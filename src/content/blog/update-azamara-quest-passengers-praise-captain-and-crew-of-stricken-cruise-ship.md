@@ -15,6 +15,7 @@ tags:
   - "Malaysia"
   - "Sabah"
   - "Sandakan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Azamara-ship_2182900b.jpg"
 author: "Rick Spilman"
 description: "In a pleasant contrast to events surrounding the sinking of the Costa Concordia, the passengers aboard the  fire damaged cruise ship Azamara Quest are reported to have high praise for the actions of the captain and crew. A fire broke out in one of the ship’s engine … Continue reading &rarr;"
 ---

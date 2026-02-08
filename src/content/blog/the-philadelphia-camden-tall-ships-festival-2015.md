@@ -15,6 +15,7 @@ tags:
   - "Philadelphia-Camden Tall Ships Festival"
   - "Picton Castle"
   - "USCG Barque Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/philadelphiafest1.jpg"
 author: "Rick Spilman"
 description: "The Philadelphia-Camden Tall Ships Festival running from June 25-28th, promises to be something special."
 ---

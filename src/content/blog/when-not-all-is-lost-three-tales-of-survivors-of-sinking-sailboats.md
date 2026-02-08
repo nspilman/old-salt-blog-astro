@@ -9,6 +9,7 @@ tags:
   - "Dougal Robertson"
   - "Maurice and Maralyn Bailey"
   - "Steven Callahan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Life-Raft.jpg"
 author: "Rick Spilman"
 description: "In our recent review of Robert Redford’s new movie, All is Lost,  about a solo sailor in a sinking sailboat, we noted various glitches, mistakes and omissions which distracted from an otherwise gripping and engaging movie. Readers who commented on … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Cutty Sark"
   - "figurehead"
   - "Nannie Dee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/nanniedee.jpg"
 author: "Rick Spilman"
 description: "In a few days, the composite clipper ship Cutty Sark will be graced with a new carved wooden figurehead carved by one of the last master carvers, Andy Peters. The figurehead, like its two predecessors, represents the witch Nannie Dee, … Continue reading &rarr;"
 ---

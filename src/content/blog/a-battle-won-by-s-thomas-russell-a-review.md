@@ -11,6 +11,7 @@ tags:
   - "A Battle Won"
   - "S. Thomas Russell"
   - "Under Enemy Colors"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/battlewon.jpg"
 author: "Rick Spilman"
 description: "The just released, A Battle Won by S. Thomas Russell, is classic nautical fiction – vivid, fast paced and full of drama, both on sea and land.  Master and Commander Charles Hayden is a gifted naval commander with extremely bad … Continue reading &rarr;"
 ---

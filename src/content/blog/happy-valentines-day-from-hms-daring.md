@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Daring"
   - "Valentines Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/hms_navy_valentines-459687.jpg"
 author: "Rick Spilman"
 description: "The crew of the HMS Daring spelled out a message on the the flight deck to their loved ones at home. The Type 45 destroyer is on her way home to Portsmouth, Hampshire, after having spent nine months on deployment. … Continue reading &rarr;"
 ---

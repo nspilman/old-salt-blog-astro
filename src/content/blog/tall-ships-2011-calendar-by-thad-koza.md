@@ -17,6 +17,7 @@ tags:
   - "Thad Koza"
   - "the schooner THOMAS E LANNON"
   - "WESTWARD"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/2011-cover.jpg"
 author: "Rick Spilman"
 description: "The calendar has been out since July, but I only got around to ordering mine yesterday. Thad Koza’s Tall Ships 2011 calendar features  SAGRESs II, JOLIE BRISE, PICTON CASTLE, WESTWARD, BOUNTY, EUROPA, the schooner THOMAS E LANNON, and five other tall ships. … Continue reading &rarr;"
 ---

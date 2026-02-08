@@ -12,6 +12,7 @@ tags:
   - "Eye of the Wind"
   - "Friedrich"
   - "sail training vessel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/eyeofthewind.jpg"
 author: "Rick Spilman"
 description: "The brig 132′ Eye of the Wind has had a long and varied career.  Built in 1911, by C Lühring of Brake, Germany, as a topsail schooner named Friedrich, she was initially put into the hides trade with South America.  Later she would … Continue reading &rarr;"
 ---

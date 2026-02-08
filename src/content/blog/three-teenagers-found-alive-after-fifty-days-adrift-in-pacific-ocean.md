@@ -14,6 +14,7 @@ tags:
   - "Samuel Perez"
   - "Tai Fredricsen"
   - "tuna boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/pacificteenagers.jpg"
 author: "Rick Spilman"
 description: "Three boys had attempted to row the sixty miles between two small Pacific islands. Instead they became lost at sea and drifted  for fifty days across nearly 1,000 miles of ocean in a small aluminum dinghy, surviving on raw seagull and … Continue reading &rarr;"
 ---

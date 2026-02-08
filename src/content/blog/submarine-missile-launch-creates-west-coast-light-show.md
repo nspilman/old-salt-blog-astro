@@ -10,6 +10,7 @@ tags:
   - "Ohio-class ballistic missile submarine"
   - "Trident II (D5) missile"
   - "USS Kentucky"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/tridentmissl.jpg"
 author: "Rick Spilman"
 description: "Last night, right about sunset, the western sky over Southern California was filled by a weird blue-green light streaking across the heavens. Visible as far as Arizona, the mysterious light didn’t look like a meteor.  For a time, it was … Continue reading &rarr;"
 ---

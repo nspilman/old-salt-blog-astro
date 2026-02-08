@@ -12,6 +12,7 @@ tags:
   - "Plastic Bags"
   - "pollution"
   - "single-use bags"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/222380-677x450-Plastic-bag-floating-in-the-ocean.jpg"
 author: "Rick Spilman"
 description: "The best way to combat plastic pollution in the oceans is to stop the plastic before it gets there. We have been posting about the ever-growing garbage patches in the world’s oceans for the better part of a decade. The posts are beginning … Continue reading &rarr;"
 ---

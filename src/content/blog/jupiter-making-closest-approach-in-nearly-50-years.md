@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Jupiter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/1-jupiter.jpg"
 author: "Rick Spilman"
 description: "For sailors who still watch the skies, Jupiter will be passing the earth on Monday at its closest approach since 1963. The planet will not appear as big or as bright again until 2022. Jupiter making closest approach in nearly … Continue reading &rarr;"
 ---

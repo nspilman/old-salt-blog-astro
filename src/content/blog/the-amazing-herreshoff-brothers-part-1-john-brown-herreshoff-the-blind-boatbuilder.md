@@ -8,6 +8,7 @@ categories:
 tags:
   - "blind boatbuilder"
   - "John Brown Herreshoff"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/jbherreshoff.jpg"
 author: "Rick Spilman"
 description: "In 1859, 18 year old John Brown Herreshoff of Bristol Rhode Island, accepted his first commission to design and build a yacht. The fact that J.B., as he was known, was blind, having lost his sight at 15, didn’t seem to … Continue reading &rarr;"
 ---

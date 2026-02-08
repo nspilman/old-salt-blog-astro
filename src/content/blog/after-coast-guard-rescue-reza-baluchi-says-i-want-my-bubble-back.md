@@ -11,6 +11,7 @@ tags:
   - "Coast Guard"
   - "rescue"
   - "Reza Baluchi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/bubbleb.jpg"
 author: "Rick Spilman"
 description: "The Coast Guard rescued Reza Baluchi, at a cost of $144,000 in a failed attempt to run in a plastic bubble to Bermuda . Baluchi wants his bubble back."
 ---

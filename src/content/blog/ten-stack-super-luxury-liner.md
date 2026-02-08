@@ -8,6 +8,7 @@ categories:
 tags:
   - "April Fools"
   - "Ten Stack Luxury Superliner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/tenstack.jpg"
 author: "Rick Spilman"
 description: "Here is a plan for a ship that would top them all -- a ten stack luxury superliner out of Germany."
 ---

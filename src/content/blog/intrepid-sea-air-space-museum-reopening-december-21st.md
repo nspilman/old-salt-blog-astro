@@ -9,6 +9,7 @@ categories:
 tags:
   - "\"superstorm\" Sandy"
   - "Intrepid Sea Air and Space Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Intrepid_New_web_banner.jpg"
 author: "Rick Spilman"
 description: "The Intrepid Sea, Air and Space Museum was hit hard by Superstorm Sandy. This Friday, December 21, they will be reopening and are offering a special buy one general admission and get the second free coupon, to celebrate their return.  Click … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Scotland"
   - "St Cyrus"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/stcyruslardsnh.jpg"
 author: "Rick Spilman"
 description: "Recent winter storms have washed ashore four large, barrel-shaped pieces of lard onto the beach at St.Cyrus nature reserve in Scotland.  They are believed to be from the wreck of a merchant vessel that was bombed in WW II.  Therese Alampo, St … Continue reading &rarr;"
 ---

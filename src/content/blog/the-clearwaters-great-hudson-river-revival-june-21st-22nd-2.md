@@ -11,6 +11,7 @@ tags:
   - "Croton-on-Hudson"
   - "Great Hudson River Revival"
   - "Hudson river sloop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/ClearwaterFestival2012_HudsonStage_PhotoEconosmith-300x252.jpg"
 author: "Rick Spilman"
 description: "The days around the summer solstice will be a busy time on the Hudson River.  We recently posted about the North River Historic Ship Festival on the Hudson River Park’s Pier 25 in Lower Manhattan from Friday, June 20 to Tuesday June 24. Roughly 50 … Continue reading &rarr;"
 ---

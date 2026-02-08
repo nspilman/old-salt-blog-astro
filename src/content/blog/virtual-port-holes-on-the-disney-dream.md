@@ -10,6 +10,7 @@ categories:
 tags:
   - "Disney Dream"
   - "virtual port hole"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/virtualportholepeach8108050.jpg"
 author: "Rick Spilman"
 description: "The 150 windowless inside staterooms on the new 4,000 passenger cruise ship, Disney Dream, will have something unusual – virtual portholes. High def cameras pointing port, starboard, fore and aft will transmit the appropriate view to the cabin \"port holes\" … Continue reading &rarr;"
 ---

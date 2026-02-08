@@ -11,6 +11,7 @@ tags:
   - "sailboat"
   - "sailing"
   - "Tümmler"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/AE-Tuemmler1.jpg"
 author: "Rick Spilman"
 description: "The first word that comes to mind when thinking of Albert Einstein is probably not \"sailor.\"  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
 ---

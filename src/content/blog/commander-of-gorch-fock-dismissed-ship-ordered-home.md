@@ -10,6 +10,7 @@ categories:
 tags:
   - "German training ship"
   - "Gorch Fock"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/06412621_100.jpg"
 author: "Rick Spilman"
 description: "An update on yesterday’s post. German defense minister fires ship’s captain amid mutiny rumors The German defense minister has dismissed the commander of the naval training ship Gorch Fock after cadets complained of harsh treatment from superiors following a fatal … Continue reading &rarr;"
 ---

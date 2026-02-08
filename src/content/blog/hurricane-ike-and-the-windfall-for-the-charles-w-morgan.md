@@ -14,6 +14,7 @@ tags:
   - "Hurricane Ike"
   - "Mystic"
   - "texas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/morgan.jpg"
 author: "Rick Spilman"
 description: "A windfall, a sudden and unexpected occurrence of good fortune, literally refers to fruit or timber knocked down by the wind. Here is an intriguing story of a literal windfall from the Maritime Texas blog. … Continue reading &rarr;"
 ---

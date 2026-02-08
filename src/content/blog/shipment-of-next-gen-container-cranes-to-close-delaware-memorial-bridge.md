@@ -13,6 +13,7 @@ tags:
   - "Packer Avenue Marine Terminal"
   - "Philadelphia"
   - "Zhen Hua 16"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ZHEN-HUA-16.jpg"
 author: "Rick Spilman"
 description: "For about 30 minutes early Saturday morning the Delaware Memorial Bridge will close as the heavy lift ship, Zhen Hua 16, with two large container cranes on deck, passes beneath it.  The distance from the water level to the top of the cranes … Continue reading &rarr;"
 ---

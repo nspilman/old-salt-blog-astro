@@ -11,6 +11,7 @@ tags:
   - "Mercator at 500"
   - "New York Public Library"
   - "pi day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/mercator.jpg"
 author: "Rick Spilman"
 description: "Today 3/14 is Pi day, a celebration of the irrational number that defines circles and spheres. Why celebrate Pi? Why not.  Circles and spheres have their own magic, from soap bubbles to the globe, as does Pi, a number that never … Continue reading &rarr;"
 ---

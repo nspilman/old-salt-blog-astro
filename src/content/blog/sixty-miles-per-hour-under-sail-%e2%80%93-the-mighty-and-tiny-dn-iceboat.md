@@ -9,6 +9,7 @@ categories:
 tags:
   - "Detroit News"
   - "DN Iceboat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/paul_n_jd.jpg"
 author: "Rick Spilman"
 description: "As truly awe inspiring as the huge and high tech America’s Cup boats are,  we shouldn’t forget that iceboats are the real speed demons on the water (even if it is frozen.)   Will at the Tugster blog has some great photos … Continue reading &rarr;"
 ---

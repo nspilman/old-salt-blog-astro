@@ -11,6 +11,7 @@ tags:
   - "Glasgow School of Navigation"
   - "Oldest Message in a Bottle"
   - "Scottish fisherman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/oldestbottle.jpg"
 author: "Rick Spilman"
 description: "Last year around this time, we posted about Harold Hackett of Prince Edward Island, who since 1996 has cast 4,800 bottles containing messages into the sea and has received 3,100 responses. Harold may hold the record for the most bottle … Continue reading &rarr;"
 ---

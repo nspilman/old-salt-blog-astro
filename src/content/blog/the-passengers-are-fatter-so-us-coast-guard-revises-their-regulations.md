@@ -11,6 +11,7 @@ tags:
   - "Assumed Average Weight per Person"
   - "regulations"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/fatman.jpg"
 author: "Rick Spilman"
 description: "For roughly the last fifty years, the US Coast Guard regulations for the loading and stability of passenger vessels has assumed an average weight of 160 pounds per person.  Conceding to the reality of a more corpulent population, the regulations were updated last month, increasing the … Continue reading &rarr;"
 ---

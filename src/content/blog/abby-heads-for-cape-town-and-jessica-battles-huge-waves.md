@@ -11,6 +11,7 @@ tags:
   - "Cape Town"
   - "Jessica Watson"
   - "youngest non-stop circumnavigator"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Abby_Sunderland2-150x128.jpg"
 author: "Rick Spilman"
 description: "Abby Sunderland’s attempt to become the youngest sailor to sail around the world non-stop ended as she decided to put into Cape Town due to mechanical failures.  The boat’s main autopilot has been giving her problems during the voyage recently … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Inchon"
   - "Jeju"
   - "South Korea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/74264393_021930067afp.jpg"
 author: "Rick Spilman"
 description: "What was intended as a four-day field trip to the Korean resort island of Jeju for high school students and their teachers ended in tragedy when the ferry sank off several miles north of Byeongpung Island, on the west coast of … Continue reading &rarr;"
 ---

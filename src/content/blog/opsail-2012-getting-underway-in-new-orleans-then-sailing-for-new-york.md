@@ -22,6 +22,7 @@ tags:
   - "OpSail 2012"
   - "Tall &amp; Historic Ships"
   - "USCG Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/opsail2012-logo-home.jpg"
 author: "Rick Spilman"
 description: "The 47th Operation Sail, OpSail 2012 gets underway tomorrow, April 17th and will continue through the 23rd, in the port of New Orleans, LA.   It will feature the tall ships Dewaruci from Indonesia, the BAE Guayas from Equador and the … Continue reading &rarr;"
 ---

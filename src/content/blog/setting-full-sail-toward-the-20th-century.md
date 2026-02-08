@@ -10,6 +10,7 @@ tags:
   - "American Marine and Landscape Painter"
   - "American Museum of Folk Art"
   - "Thomas Chambers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/cham_650.jpg"
 author: "Rick Spilman"
 description: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an \"entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
 ---

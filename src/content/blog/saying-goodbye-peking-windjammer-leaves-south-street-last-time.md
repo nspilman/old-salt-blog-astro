@@ -13,6 +13,7 @@ tags:
   - "Peking"
   - "South Street Seaport"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/bow2thumb.jpg"
 author: "Rick Spilman"
 description: "This morning, the 1911 built, steel, four masted barque, Peking, left South Street Seaport, its home for more than 40 years, for the last time. For those of us who have known the ship for almost as long, it was … Continue reading &rarr;"
 ---

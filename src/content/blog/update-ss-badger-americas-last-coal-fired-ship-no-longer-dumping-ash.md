@@ -11,6 +11,7 @@ tags:
   - "Lake Michigan"
   - "passenger and vehicle ferry"
   - "SS Badger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/Badger2.jpg"
 author: "Rick Spilman"
 description: "Next season, the SS Badger may no longer be the \"the filthiest ship on the Great Lakes,\" as it will no longer dump coal ash into Lake Michigan."
 ---

@@ -9,6 +9,7 @@ tags:
   - "Ilfracombe Harbour"
   - "smell"
   - "tourist"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/fishdock.jpg"
 author: "Rick Spilman"
 description: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a \"disgusting smell.\"  Nor, … Continue reading &rarr;"
 ---

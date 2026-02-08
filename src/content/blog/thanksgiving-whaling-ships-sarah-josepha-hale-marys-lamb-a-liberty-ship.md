@@ -13,6 +13,7 @@ tags:
   - "Sarah Josepha Hale"
   - "Thanksgiving"
   - "whaling ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/gam.jpg"
 author: "Rick Spilman"
 description: "Thanksgiving was celebrated in 19th century American whaling ships. Sarah Josepha Hale, an early booster of the holiday, had a Liberty ship named for her."
 ---

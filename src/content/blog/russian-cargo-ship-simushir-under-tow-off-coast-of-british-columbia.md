@@ -13,6 +13,7 @@ tags:
   - "Haida Gwaii"
   - "Russian cargo ship"
   - "Simushir"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/simushir-under-tow-oct-18-2014.jpg"
 author: "Rick Spilman"
 description: "The Russian cargo ship Simushir lost power off British Columbia Thursday. The ship is now under tow by the CCGS Gordon Reid. More tugs are on the way."
 ---

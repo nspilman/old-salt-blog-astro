@@ -13,6 +13,7 @@ tags:
   - "Mary Rose"
   - "Mary Rose Museum"
   - "Portsmouth Historic Dockyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/mary-rosereveal.jpg"
 author: "Rick Spilman"
 description: "Four hundred and seventy one years after it sank in the Solent in 1545, King Henry VIII’s flag ship, Mary Rose, is now, once again, accessible to the viewing public at the Mary Rose Museum in the Portsmouth Historic Dockyard, … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Highlander Sea"
   - "Pilot"
   - "restaurant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/highlandersea.png"
 author: "Rick Spilman"
 description: "Pilot, a new seasonal restaurant and bar on an historic schooner has opened in Brooklyn, NY, off Brooklyn Bridge Park’s Pier 6 on the East River. The opening has been met with cheers and a few jeers. The cheers are … Continue reading &rarr;"
 ---

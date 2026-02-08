@@ -10,6 +10,7 @@ tags:
   - "historic tanker"
   - "Mary Whalen"
   - "singalong evening"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/whalen2.jpg"
 author: "Rick Spilman"
 description: "Sounds like a great evening for those in the New York area.  Thanks to Al Cuenin for the heads up. From oceans to puddles, songs of the seas, lakes, canals, and the ships and sailors who sail them. A singalong evening aboard … Continue reading &rarr;"
 ---

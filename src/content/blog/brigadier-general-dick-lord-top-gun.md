@@ -10,6 +10,7 @@ tags:
   - "Brigadier General Dick Lord"
   - "Top Gun"
   - "US Navy Fighter Weapons School"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/lord_2047777b.jpg"
 author: "Rick Spilman"
 description: "The American movie, Top Gun, starring Tom Cruise, won 8 Academy Awards and earned over $300 million at the box office. The movie was inaccurate in several ways, not the least of which was the addition of a sexy female … Continue reading &rarr;"
 ---

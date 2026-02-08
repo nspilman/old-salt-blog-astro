@@ -9,6 +9,7 @@ categories:
 tags:
   - "Donna Lange"
   - "Southern Cross 28"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/inspiredvirgin-160x200.jpg"
 author: "Rick Spilman"
 description: "A photo of the Donna Lange and her boat points out one problem with painting a boat name on a double-ender."
 ---

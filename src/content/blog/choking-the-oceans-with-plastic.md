@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Palmyra Atoll"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/Garbage.jpg"
 author: "Rick Spilman"
 description: "The growing volume of plastic washed into our oceans is a threat to us all."
 ---

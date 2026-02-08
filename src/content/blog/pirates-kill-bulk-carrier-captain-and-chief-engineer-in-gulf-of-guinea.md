@@ -15,6 +15,7 @@ tags:
   - "Nigeria"
   - "pirates"
   - "Siroco"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/300px-Siroco_toulon.jpg"
 author: "Rick Spilman"
 description: "Pirate attacks are escalating in the Gulf of Guinea, with tragic consequences. The IMB Piracy Reporting Centre posted on its website that eight armed pirates boarded a drifting bulk carrier, awaiting berthing instructions, on Monday in the Gulf of Guinea, 110 … Continue reading &rarr;"
 ---

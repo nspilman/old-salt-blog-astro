@@ -15,6 +15,7 @@ tags:
   - "HMS Telemachus"
   - "HMS Trusty"
   - "Sunday Times Golden Globe Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Bill_new.jpg"
 author: "Rick Spilman"
 description: "We are five  days late but nevertheless would like to wish Commander William Donald Aelian \"Bill\" King a most happy 100th birthday.  He is only living submarine commander from World War II.  He initially served on the battleship, HMS Resolution, and later becoming … Continue reading &rarr;"
 ---

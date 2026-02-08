@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/uss-new-york.jpg"
 author: "Rick Spilman"
 description: "Tomorrow the USS New York returns to the Hudson River to help kick off Fleet Week New York.  The USS New York (LPD-21) is the fifth San Antonio-class amphibious transport dock ship and is the seventh ship of the United States … Continue reading &rarr;"
 ---

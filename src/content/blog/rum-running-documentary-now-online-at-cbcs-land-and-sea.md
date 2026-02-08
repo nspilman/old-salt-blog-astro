@@ -11,6 +11,7 @@ tags:
   - "\"Land and Sea\""
   - "CBC"
   - "Rum Running"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/rumrunning-1.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about \"Rum Running,\" a new documentary which was broadcast last weekend on CBCs \"Land and Sea.\"   It is now online and definitely worth watching.  It is a fascinating look at when many sailors in Nova Scotia stopped fishing and became international smugglers during Prohibition in the … Continue reading &rarr;"
 ---

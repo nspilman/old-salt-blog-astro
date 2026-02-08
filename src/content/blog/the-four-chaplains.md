@@ -11,6 +11,7 @@ tags:
   - "German U-boat"
   - "SS Dorchester"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/fourchaplains.jpg"
 author: "Rick Spilman"
 description: "On February 3, 1943, the troopship SS Dorchester was in a convoy bound for Greenland when it was torpedoed and sunk by a German U-boat. Of the 904 soldiers and crew aboard, 672 died. Among the dead were four US … Continue reading &rarr;"
 ---

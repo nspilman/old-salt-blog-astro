@@ -13,6 +13,7 @@ tags:
   - "Northwest Passage"
   - "OC Sport"
   - "Quebec to Vancouver"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/sailingnwp.jpg"
 author: "Rick Spilman"
 description: "Interesting news from France24.com: A French sports group on Saturday announced plans to launch a sailing race in the thawing Canadian Arctic to raise awareness of global warming. Due to kick-off in 2023, the North Pole Race will be run … Continue reading &rarr;"
 ---

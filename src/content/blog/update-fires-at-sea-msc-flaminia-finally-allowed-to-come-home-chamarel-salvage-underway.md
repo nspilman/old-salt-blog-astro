@@ -16,6 +16,7 @@ tags:
   - "MSC Flaminia"
   - "Namibia"
   - "Skeleton Coast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/MSC_Flaminia_salvage.jpg"
 author: "Rick Spilman"
 description: "Updates to two sets of recent posts:  After considerable delay the container ship  MSC Flaminia is being allowed into a port of refuge.  Authorities have granted permission for the German flagged ship to be towed into German waters. Following a safety inspection … Continue reading &rarr;"
 ---

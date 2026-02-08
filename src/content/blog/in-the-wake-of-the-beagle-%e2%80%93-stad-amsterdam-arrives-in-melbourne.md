@@ -14,6 +14,7 @@ tags:
   - "HMS Beagle"
   - "On the Origin of the Species"
   - "Stad Amsterdam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/stadtsmsterdam.jpg"
 author: "Rick Spilman"
 description: "Stad Amsterdam arriving in Melbourne Back in September we posted about a group of historians and naturalists, as well as a film crew for Dutch VPRO Television sailing on the Stad Amsterdam. The ship is retracing the voyage of HMS … Continue reading &rarr;"
 ---

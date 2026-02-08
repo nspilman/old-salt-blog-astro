@@ -13,6 +13,7 @@ tags:
   - "Texas A&amp;M oceanographer"
   - "William Bryant"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/weaponsgulfphotoblog.jpg"
 author: "Rick Spilman"
 description: "We have previously posted about unexploded bombs from World War II being exposed by drought along the Rhine and Mosel Rivers in Germany, about similar bombs being found in the port of Marseille and about World War II phosphorus munitions burning two … Continue reading &rarr;"
 ---

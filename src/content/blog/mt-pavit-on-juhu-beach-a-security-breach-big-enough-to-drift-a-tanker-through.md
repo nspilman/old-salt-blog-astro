@@ -12,6 +12,7 @@ tags:
   - "Juhu Beach"
   - "MT Pavit"
   - "Mumbai"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/gs4.jpg"
 author: "Rick Spilman"
 description: "Last June, the inaptly named MV Wisdom, under tow to a scrap yard, broke her tow line and drifted on to Juhu beach in Mumbai, India, after narrowly missing a major bridge. This Sunday, the tanker, MT Pavit, drifted ashore … Continue reading &rarr;"
 ---

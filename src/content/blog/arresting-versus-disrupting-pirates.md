@@ -12,6 +12,7 @@ tags:
   - "pirates"
   - "USS Enterprise"
   - "USS Leyte Gulf"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/110324-N-BZ392-412_web.jpg"
 author: "Rick Spilman"
 description: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate \"mother ships\" and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
 ---

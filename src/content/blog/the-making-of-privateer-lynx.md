@@ -13,6 +13,7 @@ tags:
   - "Privateer Lynx"
   - "War of 1812 Bicentennial"
   - "War of 1812 privateer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Lynx.jpg"
 author: "Rick Spilman"
 description: "The schooner Lynx, a replica of a War of 1812 privateer,  is sailing on the US East coast these days on her way to the Great Lakes to celebrate the upcoming War of 1812 Bicentennial.   J. Dennis Robinson will give an informal … Continue reading &rarr;"
 ---

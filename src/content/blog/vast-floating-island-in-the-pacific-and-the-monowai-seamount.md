@@ -6,6 +6,7 @@ excerpt: "I received an e-mail a few weeks ago with some intriguing photos. 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/pumice1-125x94.jpg"
 author: "Rick Spilman"
 description: "I received an e-mail a few weeks ago with some intriguing photos. (Click on any of the thumbnails above for a larger image.)  The e-mail was titled \"AMAZING SIGHT IN THE SOUTH PACIFIC, SPECTACULAR.\"  It was one of those e-mails that had been forwarded … Continue reading &rarr;"
 ---

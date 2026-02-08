@@ -14,6 +14,7 @@ tags:
   - "Joan Druett"
   - "Old Salt Press"
   - "Promise of Gold trilogy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/osplogo2thumbbw-copy.png"
 author: "Rick Spilman"
 description: "To celebrate the upcoming publication of Joan Druett’s Promise of Gold trilogy, Old Salt Press will be running a free book promotion for Rick Spilman’s Hell Around the Horn, and Joan Druett’s The Beckoning Ice and A Love of Adventure over the … Continue reading &rarr;"
 ---

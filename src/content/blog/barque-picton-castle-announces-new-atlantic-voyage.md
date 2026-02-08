@@ -13,6 +13,7 @@ tags:
   - "Captain Daniel Moreland"
   - "Lunenburg"
   - "Nova Scotia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/pictoncastle_.jpg"
 author: "Rick Spilman"
 description: "After five circumnavigations, Captain Daniel Moreland and the Barque Picton Castle will be changing their course for this year’s voyage focusing primarily on the Atlantic visiting ports in Europe, Africa, the Caribbean and the Spanish Main. World Voyaging Tall Ship Picton Castle Announces New Voyage Around … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Llanfairynghornwy"
   - "shipwreck"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/a-storm-shipwreck.jpg"
 author: "Rick Spilman"
 description: "A fascinating story from Wales. Sometime between 1743 and 1745, a smuggler from  Llanfairynghornwy on  the isle of Anglesey, rescued two boys, in stormy seas in the middle of the night – the only survivors of an apparent shipwreck. Both boys had … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "K-84 Ekaterinburg"
   - "Russian nuclear-powered ballistic missile submarine"
   - "Vice Admiral Aleksander Vitko"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/wd2.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about a report by to the Russian magazine Vlast  that claimed that \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\" when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a … Continue reading &rarr;"
 ---

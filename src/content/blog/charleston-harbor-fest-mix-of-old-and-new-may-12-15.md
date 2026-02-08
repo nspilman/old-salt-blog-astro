@@ -13,6 +13,7 @@ tags:
   - "Pride of Baltimore II"
   - "Spirit of South Carolina."
   - "Velux 5 Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/chasbanner.jpg"
 author: "Rick Spilman"
 description: "The Charleston Harbor Fest which begins tomorrow and runs through Sunday features a mix of old and new on the water.  The four competing ECO 60 sailboats in the Velux 5 Oceans Around the World Race will be on display as will the three traditional vessels, the … Continue reading &rarr;"
 ---

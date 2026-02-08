@@ -15,6 +15,7 @@ tags:
   - "sailing yacht"
   - "schooner"
   - "Wubbo Ockles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/ecolution-1.jpg"
 author: "Rick Spilman"
 description: "CORRECTION: The early news reports translated roughly from Dutch to English reported that the sailing vessel Ecolution was \"sunk by demolitions.\"  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been … Continue reading &rarr;"
 ---

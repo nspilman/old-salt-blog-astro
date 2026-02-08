@@ -12,6 +12,7 @@ tags:
   - "hudson river"
   - "new york"
   - "Robert Fulton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/6blizzardback0114.jpg"
 author: "Rick Spilman"
 description: "Much of the US is suffering under a \"polar vortex,\" which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Victory"
   - "Lord Nelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/victorystern.jpg"
 author: "Rick Spilman"
 description: "This week the BBC reported: Lord Nelson’s HMS Victory ‘collapsing’ under own weight.  Sadly, this is not a new story. Five years ago we posted about an extremely similar account in the Telegraph: HMS Victory rotting and being pulled apart under … Continue reading &rarr;"
 ---

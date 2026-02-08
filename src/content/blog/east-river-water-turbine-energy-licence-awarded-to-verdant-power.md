@@ -13,6 +13,7 @@ tags:
   - "Roosevelt Island Tidal Energy (RITE) Project"
   - "underwater turbines"
   - "Verdant Power"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Turbine600.jpg"
 author: "Rick Spilman"
 description: "The Federal Energy Regulatory Commission (FERC) has issued its first license for a tidal energy project to Verdant Power.  The Roosevelt Island Tidal Energy (RITE) Project is located in New York’s East River just west of Roosevelt Island. Since 2006, Verdant … Continue reading &rarr;"
 ---

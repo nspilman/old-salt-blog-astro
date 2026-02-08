@@ -13,6 +13,7 @@ tags:
   - "Essex"
   - "In the Heart of the Sea"
   - "whaleship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/ithots.jpg"
 author: "Rick Spilman"
 description: "Today I saw the movie, \"In the Heart of the Sea,\" directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  In the Heart of the Sea: The Tragedy of the Whaleship Essex.  How was it? The movie was … Continue reading &rarr;"
 ---

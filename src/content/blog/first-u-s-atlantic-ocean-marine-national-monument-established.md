@@ -11,6 +11,7 @@ tags:
   - "marine reserve"
   - "Northeast Canyons and Seamounts Marine National Monument"
   - "Obama"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/marinemonument.jpg"
 author: "Rick Spilman"
 description: "President Obama has designated 4,913 square miles of ocean, 130 miles off Cape Cod on the southern edge of George’s Bank, as the Northeast Canyons and Seamounts Marine National Monument, the nation’s first marine reserve in the Atlantic Ocean. Lee … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "France"
   - "Mistral-class amphibious assault ships"
   - "Russia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/mistral-class.jpg"
 author: "Rick Spilman"
 description: "For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to \"drive men and horses mad,\" these ships … Continue reading &rarr;"
 ---

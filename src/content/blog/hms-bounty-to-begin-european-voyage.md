@@ -12,6 +12,7 @@ tags:
   - "HMS Bounty"
   - "Puerto Rico"
   - "San Juan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/bountyflorida.jpg"
 author: "Rick Spilman"
 description: "HMS Bounty is making ready to sail from San Juan, Puerto Rico tomorrow to begin this season’s European voyage.   She will be calling at ports in the UK, Ireland, Belgium, Poland, Sweden, Germany and Russia, before returning to the US around October. For her … Continue reading &rarr;"
 ---

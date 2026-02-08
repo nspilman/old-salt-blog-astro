@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Rear Admiral Peter Branson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/peter-branson.jpg"
 author: "Rick Spilman"
 description: "Rear Admiral Peter Branson, who died recently at age 86, had an illustrious career in the Royal Navy.   His career almost ended before it began.  Branson was twice torpedoed while he was still under training, on one occasion surviving five days adrift in … Continue reading &rarr;"
 ---

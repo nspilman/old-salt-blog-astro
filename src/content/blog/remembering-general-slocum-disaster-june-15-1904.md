@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "North Brother Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/genslocum.jpg"
 author: "Rick Spilman"
 description: "One hundred and twelve years ago today, the disaster on the General Slocum resulted in one of the largest loss of life in New York City prior to the attacks of 9/11/01. At around 9AM on June 15, 1904, approximately 1,350 passengers, … Continue reading &rarr;"
 ---

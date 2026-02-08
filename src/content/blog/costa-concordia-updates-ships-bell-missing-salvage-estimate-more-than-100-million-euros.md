@@ -13,6 +13,7 @@ tags:
   - "Costa Concordia"
   - "Peter Berdowski"
   - "salvage"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/ccbell.jpg"
 author: "Rick Spilman"
 description: "The ship’s bell on the Costa Concordia has gone missing.  According to Reuters, \"underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and … Continue reading &rarr;"
 ---

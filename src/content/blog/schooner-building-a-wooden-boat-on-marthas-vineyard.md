@@ -12,6 +12,7 @@ tags:
   - "schooner"
   - "sixty-foot wooden schooner"
   - "Vineyard Haven"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/schooner.jpg"
 author: "Rick Spilman"
 description: "I haven’t seen it yet but Schooner: Building a Wooden Boat on Martha’s Vineyard by Tom Dunlop,  looks fascinating. From the publisher:   Schooner takes you through the construction of Rebecca of Vineyard Haven, a sixty-foot wooden schooner designed and built by … Continue reading &rarr;"
 ---

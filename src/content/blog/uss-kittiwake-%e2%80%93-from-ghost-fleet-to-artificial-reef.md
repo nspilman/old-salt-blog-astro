@@ -13,6 +13,7 @@ tags:
   - "James River Reserve Fleet"
   - "Kittiwake"
   - "Maritime Administration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/kittiwake.jpg"
 author: "Rick Spilman"
 description: "Old Navy ship set to depart Va. ‘Ghost Fleet’ The federal Maritime Administration is scheduled to tow another ship from Virginia’s so-called \"Ghost Fleet.\"   A former Navy submarine rescue ship called Kittiwake is set to become the 85th ship to … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Fairmount Expedition"
   - "MSC Flaminia"
   - "salvage tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/mscflaminia-125x54.jpg"
 author: "Rick Spilman"
 description: "The Smit 16,320-hp ocean going tug Fairmount Expedition has reportedly been successful in controlling the spread of the fire on the MSC Flaminia, the  6,732 TEU container ship which was abandoned in middle of the North Atlantic last Sunday after suffering a … Continue reading &rarr;"
 ---

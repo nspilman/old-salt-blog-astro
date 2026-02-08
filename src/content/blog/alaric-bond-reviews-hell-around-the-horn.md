@@ -11,6 +11,7 @@ tags:
   - "Alaric Bond"
   - "Hell Around the Horn"
   - "Historical Naval Fiction"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "It is highly gratifying to have my work reviewed favorably by an author that I admire.  Alaric Bond, author of the Fighting Sail Series, is indeed such an author. (See our review of his latest, The Patriot’s Fate, here.)  Bond recently reviewed … Continue reading &rarr;"
 ---

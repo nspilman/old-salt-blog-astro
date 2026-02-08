@@ -14,6 +14,7 @@ tags:
   - "Naomi McKinnon"
   - "satellites"
   - "SY Ganesha"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/07/ganeshamilkysea.jpg"
 author: "Rick Spilman"
 description: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a \"milky sea,\" the tales date back at least to … Continue reading &rarr;"
 ---

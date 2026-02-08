@@ -10,6 +10,7 @@ tags:
   - "Blue Dragon"
   - "Portuguese Man o' War"
   - "Sea Slug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/bluedragon.jpg"
 author: "Rick Spilman"
 description: "The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug glaucus atlanticus known as the blue … Continue reading &rarr;"
 ---

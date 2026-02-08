@@ -12,6 +12,7 @@ tags:
   - "Supercarrier"
   - "USS Forrestal"
   - "USS Zumwalt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/USS_Forrestal.jpg"
 author: "Rick Spilman"
 description: "The first US Navy \"supercarrier,\" the USS Forrestal was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not … Continue reading &rarr;"
 ---

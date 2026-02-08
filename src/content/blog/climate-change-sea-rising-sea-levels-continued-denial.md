@@ -9,6 +9,7 @@ categories:
 tags:
   - "climate change"
   - "Rising Sea Levels"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/manhattanflooded.jpg"
 author: "Rick Spilman"
 description: "Recent studies suggest that sea levels are now rising at the fastest rate in the last 28 centuries. According to two reports, increased flooding in coastal communities in America can be traced directly to increased the production of greenhouse gases … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Mariner's Museum"
   - "triremes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/trireme_0.jpg"
 author: "Rick Spilman"
 description: "I am a huge fan of triremes and  am looking forward to seeing the trireme Olympias when she visits New York harbor during Op-Sail in 2012.  In the mean time, however, the Mariners’ Museum in Hampton Roads, VA is hosting a … Continue reading &rarr;"
 ---

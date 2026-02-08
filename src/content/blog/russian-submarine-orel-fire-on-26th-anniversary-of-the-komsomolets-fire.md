@@ -12,6 +12,7 @@ tags:
   - "Kursk"
   - "Orel"
   - "Russian submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/orelfire.jpg"
 author: "Rick Spilman"
 description: "A fire broke out today on the Russian Orel nuclear submarine on the 26th anniversary of the a fire on the Soviet sub Komsomolets. which claimed 42 lives."
 ---

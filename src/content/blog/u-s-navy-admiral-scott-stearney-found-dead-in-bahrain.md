@@ -11,6 +11,7 @@ tags:
   - "Bahrain"
   - "Fifth Fleet"
   - "US Naval Forces Central Command"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/12/admiralscotts.jpg"
 author: "Rick Spilman"
 description: "Vice Adm. Scott Stearney, commander of US Naval Forces Central Command and of the US Navy’s Bahrain-based Fifth Fleet, was found dead on Saturday in his residence in Bahrain. The Naval Criminal Investigative Service (NCIS) and the Bahraini Ministry of Interior … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "New York Shiplore and Model Club"
   - "Stonington"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/stoningtoncannon.jpg"
 author: "Rick Spilman"
 description: "Yesterday, I went on a field trip  with the New York Shiplore and Model Club to Stonington and Mystic, Connecticut. (Thanks to Lee Gruzen, Norman Brouwer and Linda Zatkowski for making the arrangements.)  Our first stop was Stonington, Connecticut, a … Continue reading &rarr;"
 ---

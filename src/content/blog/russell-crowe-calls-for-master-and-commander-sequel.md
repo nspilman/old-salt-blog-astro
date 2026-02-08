@@ -14,6 +14,7 @@ tags:
   - "Patrick O'Brian"
   - "Russell Crowe"
   - "sequel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/MC.jpg"
 author: "Rick Spilman"
 description: "Master and Commander – Far Side of the World, loosely based on one or another novel by Patrick O’Brian,  was a movie that I needed to see twice to enjoy.  The first time I saw it, I was so annoyed by the … Continue reading &rarr;"
 ---

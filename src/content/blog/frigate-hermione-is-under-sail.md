@@ -15,6 +15,7 @@ tags:
   - "Gilbert du Motier"
   - "Marquis de Lafayette"
   - "Rochefort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/accueil__066374100_1654_28062007.jpg"
 author: "Rick Spilman"
 description: "After close to two decades of construction, the frigate Hermione, a replica of the French frigate which carried Lafayette, is finally under sail."
 ---

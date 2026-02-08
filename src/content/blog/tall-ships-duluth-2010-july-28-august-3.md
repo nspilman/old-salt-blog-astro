@@ -17,6 +17,7 @@ tags:
   - "Schooner Roseway"
   - "schooner Zeeto"
   - "Tall Ships Duluth 2010"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Europfront.jpg"
 author: "Rick Spilman"
 description: "Tall Ships Duluth 2010 has an impressive line up of ships scheduled for their tall ships festival.  The ships are expected to start arriving in Duluth today.  The Brig Niagara, the Barque Europa, HMS Bounty, the Pride of Baltimore II, the … Continue reading &rarr;"
 ---

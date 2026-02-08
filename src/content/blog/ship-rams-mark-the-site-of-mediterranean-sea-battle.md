@@ -15,6 +15,7 @@ tags:
   - "Levanzo"
   - "Rome"
   - "Sicily"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/warshipram.jpg"
 author: "Rick Spilman"
 description: "All that remains to mark the site of the final sea battle of the First Punic War between Rome and Carthage, around 241 BC, are the great bronze rams left behind after the rest of the sunken ships have rotten … Continue reading &rarr;"
 ---

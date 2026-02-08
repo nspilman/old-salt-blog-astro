@@ -13,6 +13,7 @@ tags:
   - "Ernest Shackleton"
   - "New Zealand"
   - "whisky"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/scotch_whisky.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the world’s oldest champagne found on the Baltic seabed.  While not as old, yet equally historic, a case of Shackleton’s Whisky has recently gone on display at the the Canterbury Museum in Christchurch on New Zealand’s South … Continue reading &rarr;"
 ---

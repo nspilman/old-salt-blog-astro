@@ -11,6 +11,7 @@ tags:
   - "Foreword Reviews"
   - "Linda Collison"
   - "Water Ghosts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/wg2.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Linda Collison! Her novel Water Ghosts is a Foreword Reviews’ 2015 INDIEFAB Book of the Year Award Finalist.  In our review from last May we wrote: In Linda Collison’s new novel, Water Ghosts, seven troubled teenagers embark on a vintage … Continue reading &rarr;"
 ---

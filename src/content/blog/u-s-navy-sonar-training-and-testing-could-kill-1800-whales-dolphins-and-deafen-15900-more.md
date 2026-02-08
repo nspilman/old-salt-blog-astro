@@ -11,6 +11,7 @@ tags:
   - "sonar training"
   - "U.S Navy"
   - "whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/dolphin1.jpg"
 author: "Rick Spilman"
 description: "In a previous Environmental Impact Statement (EIS) for 2009-2013, the U.S. Navy estimated that 150,000 marine mammals could be harmed in sonar training and testing exercises. Now in the EIS for 2014-2018, Navy estimates have soared, suggesting that sonar training and testing might unintentionally harm marine mammals 2.8 … Continue reading &rarr;"
 ---

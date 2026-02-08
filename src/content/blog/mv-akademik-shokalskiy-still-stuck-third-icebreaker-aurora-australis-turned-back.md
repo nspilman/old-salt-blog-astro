@@ -13,6 +13,7 @@ tags:
   - "MV Akademik Shokalskiy"
   - "Snow Dragon"
   - "Xue Long"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/400px-Aurora_Australis_icebreaker_berthed_in_Hobart_under_a_rainbow.jpg"
 author: "Rick Spilman"
 description: "We posted recently about the Chinese icebreaker,  Xue Long, or Snow Dragon, which came within about 6 miles of the expedition cruise ship, MV Akademik Shokalskiy, before being forced to turn back. MV Akademik Shokalskiy has been trapped in pack ice off Antarctica south … Continue reading &rarr;"
 ---

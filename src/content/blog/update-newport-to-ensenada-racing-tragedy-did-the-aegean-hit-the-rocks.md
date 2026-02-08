@@ -11,6 +11,7 @@ tags:
   - "GPS"
   - "Newport-to-Ensenada race"
   - "North Coronado Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/6a00d8341c630a53ef016765fc843b970b-640wi.jpg"
 author: "Rick Spilman"
 description: "Initial speculation included an explosion and then a collision with a larger vessel.  Now an online GPS tracking system, SPOT, shows the yacht running onto the rocks on a far end of North Coronado Island at 1:36 a.m. Saturday.  The Coronado Islands are about … Continue reading &rarr;"
 ---

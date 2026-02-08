@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USS Enterprise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/USS_Enterprise_CVN-65.jpg"
 author: "Rick Spilman"
 description: "The USS Enterprise has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The \"Big E,\" as she is called, was the first nuclear powered air craft carrier in … Continue reading &rarr;"
 ---

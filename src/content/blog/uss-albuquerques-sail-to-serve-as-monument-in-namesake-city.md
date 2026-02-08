@@ -12,6 +12,7 @@ tags:
   - "New Mexico"
   - "sail"
   - "USS Albuquerque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/08/USSALB.jpg"
 author: "Rick Spilman"
 description: "In its 34 years of service, the Los Angeles-class attack submarine USS Albuquerque never visited its namesake city. Albuquerque, New Mexico sits in the high desert almost one thousand miles from the nearest ocean. Now, however, as the 362-foot-long submarine … Continue reading &rarr;"
 ---

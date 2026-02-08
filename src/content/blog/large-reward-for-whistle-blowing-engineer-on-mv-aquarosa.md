@@ -16,6 +16,7 @@ tags:
   - "Salvatore Lopez"
   - "US Coast Guard"
   - "whistle-blower"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/MV-Aquarosa1.jpg"
 author: "Rick Spilman"
 description: "When US Coast Guard inspectors came aboard the bulk carrier M/V Aquarosa in Baltimore in February of 2011, a junior engineer slipped them a note, which read, \"I have sometheng to till you but secret.\"  The engineer, Salvatore Lopez, from the Philippines, had collected evidence of the illegal … Continue reading &rarr;"
 ---

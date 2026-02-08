@@ -13,6 +13,7 @@ tags:
   - "Houston Express"
   - "Louis Jordan"
   - "Washington post"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/jordanmontage.jpg"
 author: "Rick Spilman"
 description: "Last week a container ship picked up Louis Jordan, who had been drifting for 66 days in his sailboat. The media managed to completely garble the story."
 ---

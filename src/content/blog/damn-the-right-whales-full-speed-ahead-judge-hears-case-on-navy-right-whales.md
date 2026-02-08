@@ -11,6 +11,7 @@ tags:
   - "North Atlantic right whales"
   - "offshore training range"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Eubalaena_glacialis_with_ca.jpg"
 author: "Rick Spilman"
 description: "The US Navy wants to install a $100 million offshore training range, which would include an undersea array of cables and sensors for training warships, submarines and aircraft about 50 miles off the Atlantic coast of southern Georgia and northern Florida.  Environmentalists … Continue reading &rarr;"
 ---

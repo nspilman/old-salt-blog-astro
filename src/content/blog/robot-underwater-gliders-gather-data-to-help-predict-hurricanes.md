@@ -12,6 +12,7 @@ tags:
   - "RUCOOL"
   - "Rutgers University"
   - "Slocum gliders"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/RUCOOL.jpg"
 author: "Rick Spilman"
 description: "Robots are being increasingly being used to gather data at sea.  Here is a fascinating undersea glider design in use by the Coastal Ocean Observation Lab (COOL) at Rutgers University, which uses gravity and buoyancy for propulsion, allowing to it remain at … Continue reading &rarr;"
 ---

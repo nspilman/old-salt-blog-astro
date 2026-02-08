@@ -12,6 +12,7 @@ tags:
   - "deepwater high-pressure toilet"
   - "German submarine"
   - "U-1206"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/sub_full.jpg"
 author: "Rick Spilman"
 description: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 \"was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
 ---

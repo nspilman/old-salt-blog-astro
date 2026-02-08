@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Great Circe Route"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/rQlk4.jpg"
 author: "Rick Spilman"
 description: "How far can you sail in a straight line without hitting land?  The answer appears to be an almost 20,000 mile voyage from Pakistan to the Kamchatka Peninsula in Russia.  The red line on the map, above, shows the voyage.  OK, … Continue reading &rarr;"
 ---

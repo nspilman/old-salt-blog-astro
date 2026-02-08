@@ -12,6 +12,7 @@ tags:
   - "navy"
   - "prosecution"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg"
 author: "Rick Spilman"
 description: "If a single fact can explain why an armada of high tech naval ships from around the world has failed to control, much less to eradicate, gangs of Somali pirates operating from hijacked fishing trawlers and open boats, this is … Continue reading &rarr;"
 ---

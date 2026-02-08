@@ -11,6 +11,7 @@ tags:
   - "Fourth of July"
   - "Maritime Museum of San Diego"
   - "North River Historic Ship Society"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/resizedimage190189-4thjuly-comp-190-1.jpg"
 author: "Rick Spilman"
 description: "This year the 4th of July fireworks in New York, sponsored by Macys, will be set off over the Hudson River. The North River Historic Ship Society is sponsoring their Fifth Annual Fireworks Gala offering views from the rooftop of … Continue reading &rarr;"
 ---

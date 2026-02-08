@@ -11,6 +11,7 @@ tags:
   - "Francis Joyon"
   - "Groupe IDEC 29.7 meter trimaran"
   - "west to east singlehanded transaltantic sailing record"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/idec.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Francis Joyon, who set a new west to east singlehanded transaltantic sailing record. He sailed from New York’s Ambrose Light of and crossed the line linking Lizard Point, Cornwall to Ushant in a remarkable 5 days 2:56 minutes … Continue reading &rarr;"
 ---

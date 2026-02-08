@@ -10,6 +10,7 @@ tags:
   - "A.P. Moller-Maersk A/S"
   - "Arnold Maersk Mc-Kinney Moeller"
   - "Danish shipping magnate"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2012/04/220px-Mærsk-McKinney-Møller.jpg"
 author: "Rick Spilman"
 description: "Danish shipping magnate Arnold Maersk Mc-Kinney Moeller died today at aged 98.  He was Denmark’s richest man who created the country’s largest enterprise, the shipping and oil conglomerate A.P. Moller-Maersk A/S.  The conglomerate is the largest container ship and supply vessel … Continue reading &rarr;"
 ---

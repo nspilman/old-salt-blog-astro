@@ -12,6 +12,7 @@ tags:
   - "Friesland"
   - "Nagasaki Holland Village"
   - "Prins Willem"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/prinswillemburned.jpg"
 author: "Rick Spilman"
 description: "The Prins Willem, the replica Dutch East Indiaman destroyed by fire a few days ago, was an unusual ship.  She was built in 1985 in in Friesland in 1985 as an exhibit at the Nagasaki Holland Village open-air museum in Japan. … Continue reading &rarr;"
 ---

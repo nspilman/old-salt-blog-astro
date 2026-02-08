@@ -11,6 +11,7 @@ tags:
   - "fireboat"
   - "John J. Harvey"
   - "Save America's Treasures Grant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/0aaaafb1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the arrival of the World War II Destroyer Escort USS Slater at Caddell Dry Dock. The day before, the historic fireboat, John J. Harvey, left Caddell to return to her Hudson River dock after a month of … Continue reading &rarr;"
 ---

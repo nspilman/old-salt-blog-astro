@@ -12,6 +12,7 @@ tags:
   - "Historic Naval Fiction"
   - "McBooks Press"
   - "Quarterdeck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/quarterdeck-1.jpg"
 author: "Rick Spilman"
 description: "There are two wonderful newsletters for keeping up with what is going on in the world of nautical fiction – Astrodene’s Nautical Fiction Log Book, sponsored by David Haye’s Historic Naval Fiction website and Quarterdeck sponsored by McBooks Press.   The March edition of … Continue reading &rarr;"
 ---

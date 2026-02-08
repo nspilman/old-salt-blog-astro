@@ -5,6 +5,7 @@ slug: "swashbuckle-and-70000-tons-of-metal"
 excerpt: "It was announced recently that Swashbuckle would be joining the 40 heavy metal bands on the 70,000 Tons of Metal cruise. Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/swashbuckle.jpg"
 author: "Rick Spilman"
 description: "It was announced recently that Swashbuckle would be joining the 40 heavy metal bands on the 70,000 Tons of Metal cruise. Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From … Continue reading &rarr;"
 ---

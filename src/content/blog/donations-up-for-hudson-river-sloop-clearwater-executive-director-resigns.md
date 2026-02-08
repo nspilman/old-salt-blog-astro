@@ -12,6 +12,7 @@ tags:
   - "donations"
   - "Executive Director"
   - "Hudson river sloop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/clearwatersilohette.jpg"
 author: "Rick Spilman"
 description: "We recently posted that the organization that operates the Hudson River sloop Clearwater was in serious financial trouble and had canceled its yearly music festival. The Poughkeepsie Journal reports that the executive director, Peter Gross, has resigned, citing \"significant differences … Continue reading &rarr;"
 ---

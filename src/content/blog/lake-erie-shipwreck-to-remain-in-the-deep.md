@@ -12,6 +12,7 @@ tags:
   - "Lake Erie"
   - "Northeast Research"
   - "U.S. Abandoned Shipwreck Act"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/caledonia.jpg"
 author: "Rick Spilman"
 description: "An interested court case between a private salvor and the State of New York appears to have been settled in favor of the state.   The salvor, Northeast Research, claimed the 19th century schooner, which it claims is the Caledonia. … Continue reading &rarr;"
 ---

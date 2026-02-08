@@ -13,6 +13,7 @@ tags:
   - "Macajama"
   - "U.S. Transportation Command"
   - "USTRANSCOM"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/logo_color.gif"
 author: "Rick Spilman"
 description: "Crowley Establishing Flow of Relief Cargo Into Haiti Crowley Maritime Corporation, working under contract with the U.S. Transportation Command (USTRANSCOM), is unloading Haiti relief cargo in Rio Haina, Dominican Republic, today. Fifty six of the 68 20-foot containers of water … Continue reading &rarr;"
 ---

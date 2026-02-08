@@ -14,6 +14,7 @@ tags:
   - "Endeavour"
   - "J-Boat"
   - "Thomas Sopwith"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/251637.jpg"
 author: "Rick Spilman"
 description: "The J-Boat Endeavour has an amazing history and is being offered for €19,950,000, or approximately $22,596,000."
 ---

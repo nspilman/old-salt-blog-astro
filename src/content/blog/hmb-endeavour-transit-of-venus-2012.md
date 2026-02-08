@@ -11,6 +11,7 @@ tags:
   - "Captain James Cook"
   - "HMB Endeavour"
   - "transit of Venus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/TOVimage1.jpg"
 author: "Rick Spilman"
 description: "HMB Endeavour is embarking on a special cruise to observe the transit of Venus – a very rare astronomical event when the planet Venus moves across the sun on June 6th 2012.  The next transit of Venus will take place on … Continue reading &rarr;"
 ---

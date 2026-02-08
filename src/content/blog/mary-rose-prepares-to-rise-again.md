@@ -11,6 +11,7 @@ categories:
 tags:
   - "King Henry VIII"
   - "Mary Rose"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/maryrose.jpg"
 author: "Rick Spilman"
 description: "Depending on how you look at it, there is either good or bad news about the Mary Rose.  The Mary Rose is the only only 16th century warship on display anywhere in the world. She was one of the first … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "beluga whales"
   - "Natalia Avseenko"
   - "Utrish Dophinarium"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/belugas.jpg"
 author: "Rick Spilman"
 description: "The photographs are not new, though they were new to me. The story on-line dates back to 2011. Thanks to Carolina Salguero for posting about them on Facebook. The photos are both beautiful and incredible — a naked woman swimming in … Continue reading &rarr;"
 ---

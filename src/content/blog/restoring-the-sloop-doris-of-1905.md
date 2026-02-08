@@ -9,6 +9,7 @@ tags:
   - "Doris"
   - "Nathaniel Greene Herreshoff"
   - "Universal Rule"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/doristrailer.jpg"
 author: "Rick Spilman"
 description: "Drivers on Interstate 95 in Connecticut may have been surprised recently to see the 78-foot, wooden yacht Doris traveling by trailer down the highway, on her way to restoration and a new life. The 1905 built sloop is believed to be the … Continue reading &rarr;"
 ---

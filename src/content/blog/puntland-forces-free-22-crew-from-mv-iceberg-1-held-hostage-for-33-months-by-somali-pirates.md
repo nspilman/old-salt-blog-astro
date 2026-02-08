@@ -12,6 +12,7 @@ tags:
   - "semiautonomous Puntland region"
   - "Somali pirates"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/iceberg1_web.jpg"
 author: "Rick Spilman"
 description: "Wonderful news. Forces of Somalia’s semiautonomous Puntland region are reported to have raided the MV Iceberg I on Sunday and to have rescued 22 officers and crew who had been held hostage by Somali pirates for 33 months.  The Puntland forces had … Continue reading &rarr;"
 ---

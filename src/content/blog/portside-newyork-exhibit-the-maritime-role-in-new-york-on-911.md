@@ -15,6 +15,7 @@ tags:
   - "new york"
   - "PortSide NewYork"
   - "U.S. Lighthouse Tender Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/118982-boat-headed-smoke-sm.jpg"
 author: "Rick Spilman"
 description: "Two years ago we posted about the largely overlooked maritime evacuation of lower Manhattan on 9/11.  With the bridges and tunnels shut down, between 350,000 and 500,000 people were evacuated by water in just a few hours. It was the largest maritime evacuation since … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "50th annual Paris boat show"
   - "Nautic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/nautic.jpg"
 author: "Rick Spilman"
 description: "Nautic, the 50th annual Paris boat show will be held from December 4 – 12, 2010.  They expect a quarter of a million visitors to attend the show at the Porte de Versailles, which will feature 1,400 boats, including close to … Continue reading &rarr;"
 ---

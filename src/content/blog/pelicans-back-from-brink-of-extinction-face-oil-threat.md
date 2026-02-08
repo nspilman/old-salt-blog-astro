@@ -14,6 +14,7 @@ tags:
   - "Gulf Coast"
   - "Louisiana"
   - "Oil spill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/JP-PELICANS.jpg"
 author: "Rick Spilman"
 description: "Though the pelican is featured on the state flag, by the early 1960s, brown pelicans had been pushed to extinction along the Louisiana Gulf Coast by DDT and other pesticides. In 1968 pelicans were reintroduction to Louisiana from colonies in … Continue reading &rarr;"
 ---

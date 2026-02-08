@@ -10,6 +10,7 @@ tags:
   - "Old Pulteney Maritime Heroes Award"
   - "Old Pulteney Single Malt Scotch Whisky"
   - "US Sailing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/banner1.jpg"
 author: "Rick Spilman"
 description: "Sailing and sipping single malt scotch are among two of my favorite activities, (though not necessarily at the same time.)   It does seem fitting that Old Pulteney Single Malt Scotch Whisky and US Sailing have partnered to introduce the inaugural Old … Continue reading &rarr;"
 ---

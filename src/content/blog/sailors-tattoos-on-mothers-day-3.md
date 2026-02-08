@@ -13,6 +13,7 @@ tags:
   - "Sailor Jerry"
   - "Sailor’s Tattoos"
   - "tattoos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/momtat1.jpg"
 author: "Rick Spilman"
 description: "A repost appropriate for Mother’s Day. Sailors choose their tattoos for various reasons. Among the most popular sailor tattoos are anchors, hearts and swallows.  Not infrequently, \"Mom\" also made an appearance as a reminder of loved ones and home.  On … Continue reading &rarr;"
 ---

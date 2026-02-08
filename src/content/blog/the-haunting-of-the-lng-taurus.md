@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
   - "Seastories"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/Lng-Taurus-1141080.jpg"
 author: "Rick Spilman"
 description: "An account of sailing on the apparently haunted LNG Taurus where the captain committed suicide in 1980 after the ship ran aground in a storm."
 ---

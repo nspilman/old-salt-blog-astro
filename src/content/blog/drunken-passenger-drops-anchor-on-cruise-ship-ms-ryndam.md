@@ -12,6 +12,7 @@ tags:
   - "MS Ryndam"
   - "Rick Ehlert"
   - "stern anchor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/cruise-ships-ryndam.jpg"
 author: "Rick Spilman"
 description: "Allegedly, Rick Ehlert, 44, a passenger on the Holland America cruise ship, MS Ryndam, entered a restricted area, put on pair of work gloves, disengaged the windlass and released the stern anchor while the ship was underway, in international waters off the Florida coast … Continue reading &rarr;"
 ---

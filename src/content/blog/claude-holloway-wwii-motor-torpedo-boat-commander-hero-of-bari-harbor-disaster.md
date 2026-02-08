@@ -11,6 +11,7 @@ tags:
   - "Claude Holloway"
   - "Motor Torpedo Boat"
   - "WWII"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/cholloway.jpg"
 author: "Rick Spilman"
 description: "Claude Holloway died recently at the age of 93. He was one of the most successful motor torpedo boat commanders in the Mediterranean in the Second World War, earning a Distinguished Service Cross for his part in the Caorle Point … Continue reading &rarr;"
 ---

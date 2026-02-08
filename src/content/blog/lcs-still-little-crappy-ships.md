@@ -12,6 +12,7 @@ tags:
   - "Little Crappy Ships"
   - "littoral combat ships"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/lcs12.jpg"
 author: "Rick Spilman"
 description: "Back in the early 200s, the US Navy began a program to build a new class of Littoral Combat Ships, LCS, which were intended to be fast, agile and, at least by US Navy standards, relatively inexpensive, which could operate … Continue reading &rarr;"
 ---

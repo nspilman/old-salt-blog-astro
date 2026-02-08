@@ -11,6 +11,7 @@ tags:
   - "SS Marine Electric"
   - "Stan Rogers"
   - "The Mary Ellen Carter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/captbobcusick.jpg"
 author: "Rick Spilman"
 description: "Captain Robert M. Cusick was born today on April 10, 1923, in Boston, Massachusetts. He was the chief mate and one of only three survivors on the SS Marine Electric when she sank on February 12, 1983. His testimony in … Continue reading &rarr;"
 ---

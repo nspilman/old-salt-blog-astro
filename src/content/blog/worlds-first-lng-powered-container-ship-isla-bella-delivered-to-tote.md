@@ -13,6 +13,7 @@ tags:
   - "NASSCO"
   - "TOTE Maritime"
   - "World's First LNG Powered Container Ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/totelngcs.jpg"
 author: "Rick Spilman"
 description: "NASSCO Shipyard in San Diego delivered Isla Bella, the world’s first LNG-powered container ship to TOTE Maritime. The 3100 TEU 764-foot long ship, the first of two 764-foot long Marlin Class container ships, should dramatically decrease emissions and increase fuel efficiency … Continue reading &rarr;"
 ---

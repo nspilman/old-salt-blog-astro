@@ -11,6 +11,7 @@ tags:
   - "Groupma 3"
   - "Jules Verne trophy"
   - "Pascal Bidegorry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Line1_800.jpg"
 author: "Rick Spilman"
 description: "At just before 0800 GMT this morning,  Pascal Bidegorry and the crew of the 40 meter trimaran Banque Populaire set off from Brest in an attempt to win the Jules Verne Trophy.   The Jules Verne Trophy is a prize for the … Continue reading &rarr;"
 ---

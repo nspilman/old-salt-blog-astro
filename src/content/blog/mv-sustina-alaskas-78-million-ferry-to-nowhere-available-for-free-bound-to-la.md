@@ -12,6 +12,7 @@ tags:
   - "Los Angeles"
   - "Matanuska-Susitna Borough"
   - "MV Sustina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/DSC_0396.jpg"
 author: "Rick Spilman"
 description: "The Alaskan high-tech ferry MV Susitna cost $78-million to build.  More than just a ferry, it is also an ice-capable amphibious assault vessel for the Navy, which was supposed to have carried commuters from the Matanuska-Susitna Borough (or Mat-Su as it is known) across upper Cook Inlet.  Mat-Su’s largest … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "salvage"
   - "Smit Tak"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa-concordia-e1326646133.jpg"
 author: "Rick Spilman"
 description: "One of the more alarming aspects of the sinking of the Costa Concordia was the dramatic roll that the ship took after the grounding.  She is now sitting with a list of roughly 80 degrees with almost half of the ship … Continue reading &rarr;"
 ---

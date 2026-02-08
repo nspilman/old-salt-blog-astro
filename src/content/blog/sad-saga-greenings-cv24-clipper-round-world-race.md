@@ -11,6 +11,7 @@ tags:
   - "Clipper Round the World Race"
   - "CV24"
   - "Greenings"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/cv24.jpg"
 author: "Rick Spilman"
 description: "  There was a joke, of sorts, in the Clipper Round the World Race, that in the over two decades of racing around the world, only one boat has ever sunk. It was the boat least likely to sink, at least … Continue reading &rarr;"
 ---

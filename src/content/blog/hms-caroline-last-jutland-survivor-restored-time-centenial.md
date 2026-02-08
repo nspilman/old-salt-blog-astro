@@ -12,6 +12,7 @@ tags:
   - "Battle of Jutland"
   - "Belfast."
   - "museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hmscaroline1.jpg"
 author: "Rick Spilman"
 description: "HMS Caroline, a decommissioned Royal Navy C-class light cruiser, is the last survivor of the Battle of Jutland, and one of only three surviving Royal Navy warships of the First World War. Now in Belfast, she has undergone a many … Continue reading &rarr;"
 ---

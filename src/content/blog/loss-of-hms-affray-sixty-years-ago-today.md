@@ -11,6 +11,7 @@ tags:
   - "HMS Affray"
   - "Royal Navy"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/52184356_52183481.jpg"
 author: "Rick Spilman"
 description: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called \"Exercise Spring Train\" and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
 ---

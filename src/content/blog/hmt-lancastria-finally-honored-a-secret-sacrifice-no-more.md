@@ -13,6 +13,7 @@ tags:
   - "Lancastria"
   - "world war II"
   - "worst British maritime disaster"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/RMSLancastria.jpg"
 author: "Rick Spilman"
 description: "The evacuation of British troops and civilians from France in 1940 did not end with Dunkirk.   Several weeks later,   on June 17, 1940, the British Cunard liner Lancastria was loaded to capacity with troops and civilians off the French port of St. Nazaire, when she … Continue reading &rarr;"
 ---

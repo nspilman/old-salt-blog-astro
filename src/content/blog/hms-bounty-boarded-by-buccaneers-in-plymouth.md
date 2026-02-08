@@ -13,6 +13,7 @@ tags:
   - "On Stranger Tides"
   - "pirates of the caribbean"
   - "Plymouth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/2078975.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, HMS Bounty, on the first stop of her four month European tour, was boarded by buccaneers on  the Barbican in Plymouth.   Plymouth’s \"Pirate Days\" coincided with the release of the latest Disney ‘Pirates of the Caribbean\" movie, \"On Stranger … Continue reading &rarr;"
 ---

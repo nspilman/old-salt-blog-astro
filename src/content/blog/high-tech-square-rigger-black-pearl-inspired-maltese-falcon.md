@@ -12,6 +12,7 @@ tags:
   - "Maltese Falcon"
   - "Oceanco Yachts"
   - "Oleg Burlakov"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/blackpearl.jpg"
 author: "Rick Spilman"
 description: "Russian billionaire oligarch Oleg Burlakov recently spent around $200 million to purchase the Black Pearl, a new sailing yacht built by Oceanco Yachts.  The yacht has three free-standing DynaRig masts and is strongly reminiscent of the three-masted Dynarig Maltese Falcon, launched in 1990. The … Continue reading &rarr;"
 ---

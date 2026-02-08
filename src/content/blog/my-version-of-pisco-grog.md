@@ -11,6 +11,7 @@ tags:
   - "Peru"
   - "pisco grog"
   - "pisco sour"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/pisco.jpg"
 author: "Rick Spilman"
 description: "Pisco grog, an homage to the windjammer sailors that sailed square-riggers around Cape Horn until well into the 20th century."
 ---

@@ -5,6 +5,7 @@ slug: "queen-elizabeth-2-a-dead-ship"
 excerpt: "The QE2 may now be a dead ship.  The MS Queen Elizabeth 2 was purchased back in 2008 for conversion to a luxury hotel in Dubai, but a worldwide recession ended those plans.  Since then there are have been a variety … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/QueenElizabeth2Dubai.jpg"
 author: "Rick Spilman"
 description: "The QE2 may now be a dead ship.  The MS Queen Elizabeth 2 was purchased back in 2008 for conversion to a luxury hotel in Dubai, but a worldwide recession ended those plans.  Since then there are have been a variety … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Oil Pollution Act of 1990"
   - "Prince William Sound"
   - "Valdez Marine Terminal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/Exval.jpg"
 author: "Rick Spilman"
 description: "On March 24, 1989, the 210,000 dwt crude oil tanker Exxon Valdez sailed from Valdez Marine Terminal and entered Alaska’s Prince William Sound. At 12:04 am, the single hulled ship ran aground on Bligh Reef, resulting in the largest oil spill in … Continue reading &rarr;"
 ---

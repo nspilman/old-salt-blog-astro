@@ -15,6 +15,7 @@ tags:
   - "polar expedition"
   - "Sir John Franklin'"
   - "Terror"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipsfranklin.jpg"
 author: "Rick Spilman"
 description: "After a season’s delay due to lack of access to icebreakers, Parks Canada is renewing its search for Franklin’s ship’s Erebus and Terror.  They will also be searching for the HMS Investigator, a ship which was caught in the ice … Continue reading &rarr;"
 ---

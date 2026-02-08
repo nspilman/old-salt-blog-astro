@@ -13,6 +13,7 @@ tags:
   - "Ecuador"
   - "fully-operational submarine"
   - "narco subs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/SubmarineEcuado.jpg"
 author: "Rick Spilman"
 description: "Until recent the narco subs used to smuggle cocaine into the United States were submarines in name only, as they were not designed to dive underwater and resurface. Last week, however, the U.S. Drug Enforcement Administration and Ecuadorian authorities seized a 108 … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "Maritime Reporter points out the connection between the US Merchant M
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Arizona-Gabrielle-Giffords-.jpg"
 author: "Rick Spilman"
 description: "Maritime Reporter points out the connection between the US Merchant Maritime Academy and this weekend’s tragic shooting of Congresswoman  Gabrielle Giffords and nineteen others at a supermarket in northwest Tucson, Arizona, which left six dead and Representative Giffords in critical condition with a gunshot wound to the … Continue reading &rarr;"
 ---

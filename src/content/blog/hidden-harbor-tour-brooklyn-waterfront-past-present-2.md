@@ -12,6 +12,7 @@ tags:
   - "Brooklyn Waterfront Past &amp; Present"
   - "Hidden Harbor Tours"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/brooklynbridge.jpg"
 author: "Rick Spilman"
 description: "On June 7th, The Working Harbor Committee (WHC) is sponsoring a Hidden Harbour Tour® — Brooklyn Waterfront Past & Present — featuring guest speakers Capt. Maggie Flanagan, WHC & Waterfront Alliance, and Bill Miller, renowned maritime historian & author, www.billmilleratsea.com. … Continue reading &rarr;"
 ---

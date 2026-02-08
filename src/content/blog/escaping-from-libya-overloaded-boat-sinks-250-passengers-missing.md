@@ -14,6 +14,7 @@ tags:
   - "Libya"
   - "migrants"
   - "Sicily"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/clandestinialibaa-400x300.jpg"
 author: "Rick Spilman"
 description: "A boat overloaded with migrants sailing from Libya capsized south south of the island of Lampedusa , off Sicily, early today.   Fifteen are confirmed dead and between 130 and 250 are believed to be missing. Migrant boat sinks off Italy, up to 250 … Continue reading &rarr;"
 ---

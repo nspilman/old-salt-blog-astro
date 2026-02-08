@@ -10,6 +10,7 @@ tags:
   - "Rhoda Mary"
   - "schooner"
   - "Turo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/rhodamary.jpg"
 author: "Rick Spilman"
 description: "A crowdfunding campaign is underway to rescue what is left of the Cornish schooner Rhoda Mary, lying in the banks of the Medway river, Kent, UK. The goal is to rescue the remains of the schooner and transport it back … Continue reading &rarr;"
 ---

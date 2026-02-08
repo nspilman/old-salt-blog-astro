@@ -14,6 +14,7 @@ tags:
   - "LILAC 88"
   - "Untapped New York"
   - "USCGC Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/lilac88stack.jpg"
 author: "Rick Spilman"
 description: "The historic lighthouse tender USCGC Lilac recently turned 88.  Lilac is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places. To celebrate her birthday, two temporary art installations featuring historic photography and dramatic audio … Continue reading &rarr;"
 ---

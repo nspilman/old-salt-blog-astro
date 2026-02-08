@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/olympia3.jpg"
 author: "Rick Spilman"
 description: "Back in February of last year, the Independence Seaport Museum announced that it could no longer afford to care for USS Olympia, the flagship of Commodore George Dewey at the Battle of Manila Bay during the Spanish-American War in 1898.  There was … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "National Transportation Safety Board"
   - "NTSB"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/elfarowreckstern.jpg"
 author: "Rick Spilman"
 description: "There are still almost as many questions as answers as to why the US flag ro/ro El Faro sank in Hurricane Joaquin last October with the loss of the 33 aboard. Today, the United States Coast Guard Marine Board of Investigation … Continue reading &rarr;"
 ---

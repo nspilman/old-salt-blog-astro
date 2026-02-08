@@ -10,6 +10,7 @@ tags:
   - "\"extreme\" miniature shipbuildin"
   - "Donald McNarry"
   - "model making"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/mcnarry1_1761425i.jpg"
 author: "Rick Spilman"
 description: "Donald McNarry Donald McNarry, who has died aged 89, was considered by model ship enthusiasts to be the master of \"extreme\" miniature shipbuilding. He took up model making as a hobby when he was a boy and built model ships … Continue reading &rarr;"
 ---

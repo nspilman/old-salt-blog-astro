@@ -12,6 +12,7 @@ tags:
   - "Costa Concordia"
   - "Giglio"
   - "Lloyd's List"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/0117-Costa-Concordia-italia.jpg"
 author: "Rick Spilman"
 description: "MSNBC is quoting Adam Smallman, editor of Lloyd’s List, as saying that the Costa Concordia took close to the same route in August, based on satellite tracking, as it took when it ran aground last Friday night. He also is … Continue reading &rarr;"
 ---

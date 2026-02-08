@@ -9,6 +9,7 @@ categories:
 tags:
   - "A Love of Adventure"
   - "Joan Druett"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/05/Adventure2thumb.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s A Love of Adventure is free today and tomorrow as an Amazon Kindle edition. From our review, last August: Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "littoral combat ships"
   - "U.S.S Independence"
   - "USS Freedom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/lcs-2-photos-920-12.jpg"
 author: "Rick Spilman"
 description: "It is never a good sign for a new class of Navy ships when an article about them appears on the front page of the New York Times.  The article, Navy Plowing Ahead on New Coastal Ship, Despite Woes by Elisabeth Bumiller,  focuses on … Continue reading &rarr;"
 ---

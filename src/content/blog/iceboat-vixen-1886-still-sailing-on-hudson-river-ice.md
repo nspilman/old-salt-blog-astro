@@ -12,6 +12,7 @@ tags:
   - "iceboats"
   - "stern steerer iceboats"
   - "Vixen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/vixenib2.jpg"
 author: "Rick Spilman"
 description: "It is cold here on the west bank of the Hudson River. Really cold. For most sailors that means bundling up and waiting for spring. For a special breed of hearty yachtsmen and women, the weather is perfect for sailing … Continue reading &rarr;"
 ---

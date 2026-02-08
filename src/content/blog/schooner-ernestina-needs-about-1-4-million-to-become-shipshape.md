@@ -11,6 +11,7 @@ tags:
   - "Effie M. Morrissey"
   - "Ernestina"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/ernestina.jpg"
 author: "Rick Spilman"
 description: "The schooner Ernestina, Ex. Effie M.Morrissey, was built in 1894 for the Gloucester fishing fleet. Under Captain Bob Bartlett she sailed to within 600 miles of the North Pole, and later brought immigrants to the U.S. under the power of … Continue reading &rarr;"
 ---

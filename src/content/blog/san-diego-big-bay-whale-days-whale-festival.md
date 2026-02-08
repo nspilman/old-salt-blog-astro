@@ -11,6 +11,7 @@ tags:
   - "California coast"
   - "gray whale migration"
   - "san diego"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/breach400.jpg"
 author: "Rick Spilman"
 description: "As one who is shivering in the snow, I am highly envious of the good folks in San Diego who will be celebrating their 3rd annual Big Bay Whale Days & Whale Festival this Saturday, January 22nd, in observance of the annual gray … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "figurehead"
   - "Nannie Dee"
   - "Tam o'Shanter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/nanniedee.jpg"
 author: "Rick Spilman"
 description: "The figurehead on the Cutty Sark is dramatic – a woman, all in white, wearing a flowing robe which leaves her upper body uncovered.  He face is fixed in a scowl or grimace and she is reaching out with one … Continue reading &rarr;"
 ---

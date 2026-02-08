@@ -11,6 +11,7 @@ tags:
   - "Greg Gushaw"
   - "Maritime Museum of San Diego"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/soirigging.jpg"
 author: "Rick Spilman"
 description: "Greg Gushaw 68, an experienced volunteer, docent and a member of the board of trustees of the Maritime Museum of San Diego fell to his death last Sunday from aloft on the Star of India. Ironically, he fell during a safety training exercise.   … Continue reading &rarr;"
 ---

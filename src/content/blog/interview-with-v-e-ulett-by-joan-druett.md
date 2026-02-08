@@ -11,6 +11,7 @@ tags:
   - "Blackwell's Homecoming"
   - "Joan Druett"
   - "V.E. Ulett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/blackwell-135x200.jpg"
 author: "Rick Spilman"
 description: "Award winning author Joan Druett recently interviewed V.E. Ulett, author of the Blackwell's Adventure series, on her World of the Written Word blog."
 ---

@@ -5,6 +5,7 @@ slug: "russian-carrier-admiral-kuznetsov-chinese-liaoning"
 excerpt: "The Russians and the Chinese each have only one aircraft carrier in service. They happen to be sister ships and both have major problems in staying afloat and keeping the propellers turning.  Both ships were built in the Black Sea Shipyard … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/liaoning-close-600-ts300.jpg"
 author: "Rick Spilman"
 description: "Russia and China each have one aircraft carrier in service, Admiral Kuznetsov & Liaoning. Both face serious operational problems."
 ---

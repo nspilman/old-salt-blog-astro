@@ -13,6 +13,7 @@ tags:
   - "Lynx"
   - "Pride of Baltimore II"
   - "Sailing Ship Adventures"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Pride-Full-Sail.jpg"
 author: "Rick Spilman"
 description: "I am a huge fan of the \"sharp-built\" privateers that came to be known as Baltimore clippers.  They look fast sitting still and under sail, they are nothing less than breathtaking.   The Lynx, a replica Baltimore clipper, which was … Continue reading &rarr;"
 ---

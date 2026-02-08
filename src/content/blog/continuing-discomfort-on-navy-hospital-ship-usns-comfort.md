@@ -12,6 +12,7 @@ tags:
   - "Continuing Promise 2015"
   - "hospital ship"
   - "USNS Comfort"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/comfort1.jpg"
 author: "Rick Spilman"
 description: "The command senior chief of the medical facility on the USNS Comfort was fired after allegedly getting drunk at a reception for the president of Panama."
 ---

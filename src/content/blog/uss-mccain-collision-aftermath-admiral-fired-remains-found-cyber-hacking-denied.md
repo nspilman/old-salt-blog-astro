@@ -10,6 +10,7 @@ categories:
 tags:
   - "USS McCain"
   - "Vice Admiral Joseph Aucoin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/ussmccaindamage.jpg"
 author: "Rick Spilman"
 description: "Following the recent collision of a tanker with the US Navy destroyer USS John S. McCain, in which 10 sailors are missing, the US Navy has dismissed Vice Admiral Joseph Aucoin as commander of the 7th Fleet. There have been four significant casualties involving … Continue reading &rarr;"
 ---

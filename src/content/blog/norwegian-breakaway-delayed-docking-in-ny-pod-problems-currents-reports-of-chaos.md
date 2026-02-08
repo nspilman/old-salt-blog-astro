@@ -5,6 +5,7 @@ slug: "norwegian-breakaway-delayed-docking-in-ny-pod-problems-currents-reports-o
 excerpt: "The Norwegian Breakway is one year old this week. Unfortunately, it wasn’t a particularly auspicious birthday.  As the cruise ship  entered New York harbor yesterday, after a seven day cruise, the captain reported some sort of problem related to the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/450px-Norwegian_Breakaway_10.jpg"
 author: "Rick Spilman"
 description: "The Norwegian Breakway is one year old this week. Unfortunately, it wasn’t a particularly auspicious birthday.  As the cruise ship  entered New York harbor yesterday, after a seven day cruise, the captain reported some sort of problem related to the … Continue reading &rarr;"
 ---

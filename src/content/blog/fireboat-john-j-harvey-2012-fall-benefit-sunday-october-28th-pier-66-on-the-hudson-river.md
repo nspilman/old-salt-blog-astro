@@ -12,6 +12,7 @@ tags:
   - "fireboat John J. Harvey"
   - "hudson river"
   - "Pier 66"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/bg_harvey_std.jpg"
 author: "Rick Spilman"
 description: "This Sunday there will be a full day benefit for the historic Fireboat John J. Harvey on Pier 66 (26th and the Hudson River) in New York. It looks like lots of fun. The festivities are divided into two parts. From 1-5pm the … Continue reading &rarr;"
 ---

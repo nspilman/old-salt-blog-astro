@@ -6,6 +6,7 @@ excerpt: "My River Chronicle – Rediscovering the America on the Hudson, is a f
 categories:
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/riverchron.jpg"
 author: "Rick Spilman"
 description: "My River Chronicle – Rediscovering the America on the Hudson, is a fascinating voyage in the life of a young woman, who finds herself oddly quite at home in a most unlikely new job. It is also a journey through … Continue reading &rarr;"
 ---

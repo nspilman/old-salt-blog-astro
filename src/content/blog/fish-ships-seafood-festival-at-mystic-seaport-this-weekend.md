@@ -9,6 +9,7 @@ categories:
 tags:
   - "Fish &amp; Ships Labor Day Weekend Seafood Festival"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/fish_and_ships.jpg"
 author: "Rick Spilman"
 description: "Assuming that Hurricane Earl doesn’t interfere, the 3rd annual Fish & Ships Labor Day Weekend Seafood Festival will be held at Mystic Seaport in Connecticut this Saturday through Monday. Fish & Ships Seafood Festival back at Mystic Seaport … Continue reading &rarr;"
 ---

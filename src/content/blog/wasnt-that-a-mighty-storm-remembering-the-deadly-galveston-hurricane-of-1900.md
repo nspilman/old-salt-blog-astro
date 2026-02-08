@@ -11,6 +11,7 @@ tags:
   - "\"Sin-Killer\" Griffin"
   - "Galveston Hurricane of 1900"
   - "Wasn't That a Mighty Storm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/galveston1900.jpg"
 author: "Rick Spilman"
 description: "One hundred and fifteen years ago today, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 feet. Somewhere … Continue reading &rarr;"
 ---

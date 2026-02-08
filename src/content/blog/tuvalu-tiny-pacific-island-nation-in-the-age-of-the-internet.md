@@ -11,6 +11,7 @@ tags:
   - "on-line video"
   - "Polynesian"
   - "Tuvalu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/Tuvalu_-_Funafuti_-_Approach.jpg"
 author: "Rick Spilman"
 description: "Tuvalu, a tiny Polynesian island nation, is benefiting from the boom in internet video watching by the lucky assignment of a domain name extension."
 ---

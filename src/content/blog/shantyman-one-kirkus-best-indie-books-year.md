@@ -11,6 +11,7 @@ tags:
   - "Best Indie Books of the Year 2015"
   - "Kirkus Reviews"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/Shantymankirkus1s.jpg"
 author: "Rick Spilman"
 description: "I am extremely pleased to announce that my novel \"The Shantyman\" has been selected as one of Kirkus Reviews’ Best Indie Books for 2015.  From the review: With eloquent accuracy, Spilman’s novel captures the life of a 19th-century sailor…. Spilman’s colorful, … Continue reading &rarr;"
 ---

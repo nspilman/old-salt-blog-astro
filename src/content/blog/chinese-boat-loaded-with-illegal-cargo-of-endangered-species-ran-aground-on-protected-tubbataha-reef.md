@@ -11,6 +11,7 @@ tags:
   - "Philippines"
   - "Tubbataha National Marine Park"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/PhilippinesChinaReefBoat.jpg"
 author: "Rick Spilman"
 description: "You can’t make this stuff up. Only a week after the last wreckage of the minesweeper USS Guardian was removed from the reef in the Philippines’  Tubbataha National Marine Park, a UNESCO-designated World Heritage Site, where it ran hard aground on January … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Cape Sable Island"
   - "FSL Hamburg"
   - "Nova Scotia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/hi-cormorant-heli-cp-567961.jpg"
 author: "Rick Spilman"
 description: "UPDATE:  The Canadian government is now treating the casualty as an attempt at human smuggling.  Toews links N.S. yacht accident to ‘human smuggling’ There are reports of a tragic and strange sailboat accident off Canada’s Nova Scotia coast.  Nine men, reported to … Continue reading &rarr;"
 ---

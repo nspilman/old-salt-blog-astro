@@ -12,6 +12,7 @@ tags:
   - "pilot whales"
   - "stranding"
   - "Tasmania"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/strandedwhales.jpg"
 author: "Rick Spilman"
 description: "More than 200 whales have been found stranded on a remote beach at the entrance to Macquarie Harbour on the west coast of Tasmania, Australia. Half of the pod, thought to be pilot whales, are believed to be still alive. … Continue reading &rarr;"
 ---

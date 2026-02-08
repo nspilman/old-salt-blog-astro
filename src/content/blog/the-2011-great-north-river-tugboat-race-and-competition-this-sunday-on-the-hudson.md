@@ -10,6 +10,7 @@ tags:
   - "Great North River Tugboat Race and Competition"
   - "Pier 84"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/banner-2-start-line.gif"
 author: "Rick Spilman"
 description: "The 19th Annual Great North River Tugboat Race and Competition sponsored by the Working Harbor Committee is scheduled to run this Sunday, September 4th, in the Hudson River off Pier 84 at the foot of West 44th Street.  The Parade of Tugs starts at 10:00 … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Enercon"
   - "Flettner rotors"
   - "Magnus effect"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/eshiip1.jpg"
 author: "Rick Spilman"
 description: "The E Ship 1 arrived in Dublin last week with a cargo of wind turbines manufactured by Enercon.    What was striking was the ship itself, with four tall pillars rising vertically from the ship, two forward and two aft.   The … Continue reading &rarr;"
 ---

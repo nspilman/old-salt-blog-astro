@@ -9,6 +9,7 @@ categories:
 tags:
   - "Auckland Anniversary Day Regatta"
   - "New Zealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/aukland.jpg"
 author: "Rick Spilman"
 description: "Oceanbridge Auckland Anniversary Day Regatta turns 170, Feb 1, 2010 On Monday, 1 February 2010, New Zealand’s oldest sporting event, the Auckland Anniversary Day Regatta will celebrate its 170th anniversary with a celebration of our maritime history and heritage on … Continue reading &rarr;"
 ---

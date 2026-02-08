@@ -11,6 +11,7 @@ tags:
   - "Lettie G. Howard"
   - "schooner Pioneer"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/SeaportPioneerRichardDorfman.jpg"
 author: "Rick Spilman"
 description: "This weekend,  the South Street Seaport Museum’s schooner Pioneer set sail again from the seaport in New York’s East River.  After two summers of sitting tied to the dock the venerable old schooner, built of iron in 1885, is again carrying passengers on regular sails in … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Lord Cochrane"
   - "Patrick O'Brian"
   - "The Autobiography of a Seaman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/HMSSpeedy.jpg"
 author: "Rick Spilman"
 description: "On Facebook this morning, Maritime Great Britain linked to a post on THE DEAR SURPRISE blog, discussing a post by Marion Elizabeth Diamond on the Historians are Past Caring blog, which raised the question, \"Was this the real Stephen Maturin?\"   Ms. Diamond answers … Continue reading &rarr;"
 ---

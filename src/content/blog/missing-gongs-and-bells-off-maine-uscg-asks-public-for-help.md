@@ -12,6 +12,7 @@ tags:
   - "gongs"
   - "Maine"
   - "USCG"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/buoy.jpg"
 author: "Rick Spilman"
 description: "A certain number of brass bells and gongs from bell and gong buoys off the coast of Maine have turned up missing and the US Coast Guard has recently issued a press release asking the public’s help in identifying the … Continue reading &rarr;"
 ---

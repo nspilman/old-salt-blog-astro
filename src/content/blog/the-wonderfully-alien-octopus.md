@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "octopus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/octopus1.jpg"
 author: "Rick Spilman"
 description: "The octopus is a strange and amazing creature, the most intelligent and agile of all invertebrates. (In May, we posted How Does an Octopus Keep Track of Eight Arms?) Recently, scientists mapped the octopus genetic code and discovered that it is … Continue reading &rarr;"
 ---

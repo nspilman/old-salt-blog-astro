@@ -11,6 +11,7 @@ tags:
   - "Hindu"
   - "Provincetown"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hindu.jpg"
 author: "Rick Spilman"
 description: "For years the schooner Hindu has been a favorite in Provincetown, MA.  The classic schooner is credited in helping to establish the summer whale watching trade in the port.   Sadly, after several years of battles between her investors over the … Continue reading &rarr;"
 ---

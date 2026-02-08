@@ -10,6 +10,7 @@ categories:
 tags:
   - "Rhode Island"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/ohp.jpg"
 author: "Rick Spilman"
 description: "There are great things going on in Rhode Island. When completed this year, the SSV Oliver Hazard Perry will be the first ocean-going full-rigged ship to be built in the U.S. in 100 years and the largest civilian sail training vessel … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "German ocean liner"
   - "St. Louis"
   - "Voyage of the Damned"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/stlouis.jpg"
 author: "Rick Spilman"
 description: "Given the current heated debate over Syrian refugees, it seems worthwhile to remember ill-fated voyage of the German ocean liner St. Louis in 1939."
 ---

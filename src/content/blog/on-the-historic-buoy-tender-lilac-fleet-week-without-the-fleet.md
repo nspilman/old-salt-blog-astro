@@ -11,6 +11,7 @@ tags:
   - "buoy tender"
   - "Fleet Week without the Fleet"
   - "Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/liliac.jpg "
 author: "Rick Spilman"
 description: "For the last 30 years, New York has welcomed ships and crews from the US Navy and Coast Guard to the harbor around the Memorial Day weekend during a celebration of Fleet Week.  Unfortunately, this year’s Fleet Week has been scuttled … Continue reading &rarr;"
 ---

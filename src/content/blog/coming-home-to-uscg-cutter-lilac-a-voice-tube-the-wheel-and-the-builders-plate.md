@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USCG Cutter Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilacvoicetube-200x150.jpg"
 author: "Rick Spilman"
 description: "Sometimes restoring a historic ship involves rediscovering the ship one piece at a time. That was the case with the ex-USCG Cutter Liliac."
 ---

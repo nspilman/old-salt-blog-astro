@@ -15,6 +15,7 @@ tags:
   - "Old Salt Press"
   - "Promise of Gold trilogy"
   - "The Beckoning Ice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/Joan-210.jpg"
 author: "Rick Spilman"
 description: "Joan Druett, the award winning maritime historian and novelist, will be publishing her Promise of Gold trilogy with Old Salt Press.  The three novels; Judas Island, Calafia’s Kingdom, and Dearest Enemy; will be be published as e-books on Amazon in the next few days.   Joan’s A … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "shooting"
   - "Southampton Council"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Nuclear-submarine-HMS-Ast-0.jpg"
 author: "Rick Spilman"
 description: "Reports now indicate that Ryan Donovan, 22,  a sailor on HMS Astute, burst into the submarine control room and opened fire with an SA80 assault rifle yesterday, killing the ship’s weapons engineering officer, Lt. Cmdr. Ian Molyneux, 36, and wounding a second officer, Lieutenant Commander … Continue reading &rarr;"
 ---

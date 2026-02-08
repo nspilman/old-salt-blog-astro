@@ -15,6 +15,7 @@ tags:
   - "Museo Subacuático de Arte"
   - "Punta Nizuc"
   - "sculpture garden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/underwater-sculpture-park-c.jpg"
 author: "Rick Spilman"
 description: "Snorkelers and divers swimming south of Isla Mujeres and off Punta Nizuc off Cancun will now find themselves in a monumental underwater sculpture garden of life-sized human statues rising up from the sandy bottom in crystal tropical clear waters.  The 450 … Continue reading &rarr;"
 ---

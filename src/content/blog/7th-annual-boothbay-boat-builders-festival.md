@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Boothbay Boat Builders Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/ship_undersquare_tnail.jpg"
 author: "Rick Spilman"
 description: "We hope everyone has a  great time at today’s 7th Annual Boothbay Boat Builders Festival.   All should keep a a weather eye out as there are rumors of an attack by the Pirates of the Dark Rose, followed by a … Continue reading &rarr;"
 ---

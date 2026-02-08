@@ -12,6 +12,7 @@ tags:
   - "Lettie G. Howard"
   - "South Street Seaport Museum"
   - "windjammer Peking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/lettie_g_howard.jpg"
 author: "Rick Spilman"
 description: "The South Street Seaport Museum in New York City is reported to be attempting to sell off the historic schooner, Lettie G. Howard.   The Lettie G. Howard is a wooden Fredonia schooner built in 1893 in Essex, Massachusetts, USA.   In past … Continue reading &rarr;"
 ---

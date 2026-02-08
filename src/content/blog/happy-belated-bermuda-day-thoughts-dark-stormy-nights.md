@@ -11,6 +11,7 @@ tags:
   - "Bermuda Day"
   - "Dark and Stormy"
   - "Goslings Black Seal rum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/dsgoslings.jpg"
 author: "Rick Spilman"
 description: "May 24th was not only the 75th anniversary of the tragic sinking of HMS Hood. It was also Bermuda Day.  On this, the morning after Bermuda Day, it seems worthwhile to think of the Dark and Stormy nights spent on … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Hong Kong"
   - "Japan"
   - "World Dream"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/diamondprincess.jpg"
 author: "Rick Spilman"
 description: "Two more cruise ships are being quarantined for 14 days each in hopes of limiting the spread of the coronavirus. Ten people aboard the Diamond Princess tested positive for the virus. Of these nine are passengers — two Australians, three … Continue reading &rarr;"
 ---

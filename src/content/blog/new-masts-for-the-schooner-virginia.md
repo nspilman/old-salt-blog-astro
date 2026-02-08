@@ -12,6 +12,7 @@ tags:
   - "Nauticus"
   - "Schooner Virginia"
   - "Virginia Maritime Heritage Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/760591000.jpg"
 author: "Rick Spilman"
 description: "In 2009, the non profit foundation that owns the schooner Virginia, the Virginia Maritime Heritage Foundation, ran out of cash. Burdened with $1.6 million of debt, they were forced to lay up the schooner. Now, the outlook for the schooner … Continue reading &rarr;"
 ---

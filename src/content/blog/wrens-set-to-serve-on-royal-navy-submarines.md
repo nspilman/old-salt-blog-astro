@@ -9,6 +9,7 @@ categories:
 tags:
   - "Royal Navy submarines"
   - "Wrens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/wrens.jpg"
 author: "Rick Spilman"
 description: "What I found surprising about the headline in the Mail Online was not that women would be serving on Royal Navy submarines but that they were still being called Wrens.   Demonstrating my own ignorance, I thought that designation had been phased out … Continue reading &rarr;"
 ---

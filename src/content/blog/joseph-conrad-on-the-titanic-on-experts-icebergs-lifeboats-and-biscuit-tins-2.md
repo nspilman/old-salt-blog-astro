@@ -10,6 +10,7 @@ categories:
 tags:
   - "Joseph Conrad"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/220px-Joseph_Conrad_1904.jpg"
 author: "Rick Spilman"
 description: "One hundred and six years ago today, the White Star liner Titanic  sank after striking an iceberg. Over 1,500 lives were lost. Here is a repost from 2012 of Joseph Conrad’s commentary on the sinking.  In June of 1912, Joseph Conrad wrote … Continue reading &rarr;"
 ---

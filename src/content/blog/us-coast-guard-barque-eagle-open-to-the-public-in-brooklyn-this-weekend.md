@@ -12,6 +12,7 @@ tags:
   - "new york"
   - "PortSide NewYork"
   - "US Coast Guard Barque Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/photo_home_32.jpg"
 author: "Rick Spilman"
 description: "We just heard from the good folks at PortSide NewYork that the US Coast Guard barque Eagle will be open to the public for the first time ever in Brooklyn, beginning Friday afternoon and continuing Saturday and Sunday at Pier 7 at … Continue reading &rarr;"
 ---

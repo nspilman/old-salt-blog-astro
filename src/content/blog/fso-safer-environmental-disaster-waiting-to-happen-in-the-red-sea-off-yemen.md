@@ -14,6 +14,7 @@ tags:
   - "FSO Safer"
   - "Red Sea"
   - "Yemen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/safer.jpg"
 author: "Rick Spilman"
 description: "For several years, the FSO Safer, a floating oil storage and offloading vessel, moored in the Red Sea north of the Yemeni city of Al Hudaydah, may be an environmental disaster waiting to happen. The ship has been held as … Continue reading &rarr;"
 ---

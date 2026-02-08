@@ -9,6 +9,7 @@ tags:
   - "Madagascar"
   - "Team Sanya"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sanyarig.jpg"
 author: "Rick Spilman"
 description: "The Volvo Ocean Race is a big money around the world race, with corporate or state sponsored teams, racing with professional crews on Open 70 sailboats. With that much money, expertise and hardware, what could go wrong? Quite a lot … Continue reading &rarr;"
 ---

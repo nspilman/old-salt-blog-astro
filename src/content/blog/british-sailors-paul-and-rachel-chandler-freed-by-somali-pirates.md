@@ -10,6 +10,7 @@ tags:
   - "Paul and Rachel Chandler"
   - "Seychelles"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/amd_chandlers.jpg"
 author: "Rick Spilman"
 description: "After more than a year long ordeal, British sailors Paul and Rachel Chandler were released today by Somali pirates.   The retired couple was seized by the pirates on October 22, 2009. Paul and Rachel Chandler released by Somali pirates … Continue reading &rarr;"
 ---

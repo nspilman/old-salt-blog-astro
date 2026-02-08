@@ -11,6 +11,7 @@ tags:
   - "Armel Le Cléac’h"
   - "François Gabart"
   - "Vendée Globe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/vendeewin.jpg"
 author: "Rick Spilman"
 description: "François Gabart, sailing MACIF, won the Vendée Globe round-the-world single-handed race in 78 days and two hours, shattering the previous record of 84 days and three hours, set in 2009 by Michel Desjoyeaux.   Ending what has been a round-the-world match-race between the … Continue reading &rarr;"
 ---

@@ -19,6 +19,7 @@ tags:
   - "Moldavian bulk carrier"
   - "Royal Caribbean"
   - "sinks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/rcibrill.jpg"
 author: "Rick Spilman"
 description: "Heavy rains, strong winds and high seas hit the eastern Mediterranean over the weekend with winds of 100 kilometres per hour and waves reaching heights of 10 metres,  sinking the Moldavian bulk carrier, Adriatic, off the coast of Israel and  battering the RCCL cruise ship, Brilliance of … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Brigitte Bardot"
   - "Sea Shepherds"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/gozija.jpg"
 author: "Rick Spilman"
 description: "The reality TV stars, the Sea Shepherds, took their newest speed boat, the Brigitte Bardot, out on the Southern Ocean recently, which proved to be more than it could handle. The Brigitte Bardot reportedly cracked its main hull and severely damaged the port … Continue reading &rarr;"
 ---

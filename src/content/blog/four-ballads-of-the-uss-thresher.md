@@ -5,6 +5,7 @@ slug: "four-ballads-of-the-uss-thresher"
 excerpt: "We recently posted an embedded video of Tom Paxton’s song, \"The Thresher Disaster\" sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/thresehr2.jpg"
 author: "Rick Spilman"
 description: "We recently posted an embedded video of Tom Paxton’s song, \"The Thresher Disaster\" sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
 ---

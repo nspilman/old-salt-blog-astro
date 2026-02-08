@@ -12,6 +12,7 @@ tags:
   - "Netflix"
   - "octopus"
   - "South Africa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/octopusteacher.jpg"
 author: "Rick Spilman"
 description: "Octopuses are often referred to as being akin to space aliens. With three hearts, nine brains, and blue blood, they are so different from us that they could be from another planet. They are also highly intelligent. While other intelligent … Continue reading &rarr;"
 ---

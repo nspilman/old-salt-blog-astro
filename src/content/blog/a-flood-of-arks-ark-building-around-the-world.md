@@ -24,6 +24,7 @@ tags:
   - "New Brunswick"
   - "Noah's Ark theme park"
   - "Turkey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/300px-ArkVanJohan.jpg"
 author: "Rick Spilman"
 description: "If a group of birds are a flock, a group of whales is a pod, and fish gather in schools, what would one call a group of Noah’s arks?  A fleet would be the easy answer, but that somehow doesn’t … Continue reading &rarr;"
 ---

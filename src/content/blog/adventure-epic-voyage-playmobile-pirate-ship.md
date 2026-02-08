@@ -11,6 +11,7 @@ tags:
   - "Peterhead"
   - "Playmobile Pirate Ship"
   - "Scotland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/adventurepeterhead.jpg"
 author: "Rick Spilman"
 description: "Two Scottish brothers, eight-year-old, Ollie and five-year-old, Harry Ferguson, are too young to go to sea themselves, so instead, they sent their toy pirate sailing ship on a voyage from the fine old port of Peterhead, Aberdeenshire earlier this year. … Continue reading &rarr;"
 ---

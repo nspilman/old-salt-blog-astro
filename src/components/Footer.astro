@@ -1,48 +1,158 @@
 ---
 import { SITE_TITLE } from '../consts';
-import NewsletterSignup from './NewsletterSignup.astro';
 const today = new Date();
 ---
 
 <footer>
-	<div class="footer-content">
-		<NewsletterSignup />
-		<p>&copy; {today.getFullYear()} {SITE_TITLE}. All rights reserved.</p>
-		<p class="tagline">Maritime and nautical stories since 2008</p>
+	<div class="footer-inner">
+		<div class="footer-top">
+			<p class="footer-tagline">A virtual port of call for all those who love the sea</p>
+		</div>
+		<div class="footer-main">
+			<nav class="footer-nav">
+				<a href="/">Home</a>
+				<a href="/archive/">Archive</a>
+				<a href="/about/">About</a>
+				<a href="/rss.xml">RSS Feed</a>
+			</nav>
+		</div>
+		<div class="footer-bottom">
+			<p>&copy; {today.getFullYear()} {SITE_TITLE}</p>
+		</div>
 	</div>
 </footer>
+
 <style>
+	/* Footer - Formal, like the stern of a fine vessel */
 	footer {
-		padding: 3em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
-		text-align: center;
-		border-top: 1px solid rgb(var(--gray-light));
-		margin-top: 4em;
+		background: #000000;
+		color: var(--nav-text);
+		margin-top: 0;
+		max-width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
-	.footer-content {
-		max-width: 900px;
+	/* On smaller screens, go full-width */
+	@media (max-width: 1040px) {
+		footer {
+			max-width: 100%;
+		}
+	}
+
+	.footer-inner {
+		max-width: 940px;
 		margin: 0 auto;
+		padding: 0 1rem;
 	}
 
-	footer p {
-		margin: 0.5em 0;
-		font-size: 0.9em;
+	.footer-top {
+		padding: 1.5rem 0 1rem;
+		border-bottom: 2px solid var(--border-dark);
+		text-align: center;
 	}
 
-	.tagline {
+	.footer-tagline {
+		font-size: 1rem;
+		color: rgba(255, 255, 255, 0.8);
+		margin: 0;
 		font-style: italic;
-		color: rgb(var(--gray));
 	}
 
+	.footer-main {
+		padding: 1.25rem 0;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+	}
+
+	.footer-nav {
+		display: flex;
+		justify-content: center;
+		gap: 2rem;
+		flex-wrap: wrap;
+	}
+
+	.footer-nav a {
+		color: var(--nav-text);
+		text-decoration: none;
+		font-size: 0.9rem;
+		font-weight: 700;
+	}
+
+	.footer-nav a:hover {
+		color: var(--accent);
+	}
+
+	.footer-bottom {
+		padding: 1rem 0;
+		text-align: center;
+	}
+
+	.footer-bottom p {
+		margin: 0;
+		font-size: 0.8rem;
+		color: rgba(255, 255, 255, 0.5);
+		font-weight: normal;
+	}
+
+	/* Tablet */
 	@media (max-width: 768px) {
 		footer {
-			padding: 2em 1em;
+			margin-top: 2rem;
 		}
 
-		footer p {
-			font-size: 0.85em;
+		.footer-inner {
+			padding: 0 1rem;
+		}
+
+		.footer-top {
+			padding: 1.25rem 0 0.875rem;
+		}
+
+		.footer-tagline {
+			font-size: 0.9375rem;
+		}
+
+		.footer-main {
+			padding: 1rem 0;
+		}
+
+		.footer-nav {
+			gap: 1.25rem;
+		}
+
+		.footer-nav a {
+			font-size: 0.8125rem;
+		}
+
+		.footer-bottom {
+			padding: 0.875rem 0;
+		}
+
+		.footer-bottom p {
+			font-size: 0.75rem;
+		}
+	}
+
+	/* Small mobile */
+	@media (max-width: 480px) {
+		.footer-inner {
+			padding: 0 0.875rem;
+		}
+
+		.footer-top {
+			padding: 1rem 0 0.75rem;
+		}
+
+		.footer-tagline {
+			font-size: 0.875rem;
+		}
+
+		.footer-nav {
+			gap: 1rem;
+		}
+
+		.footer-nav a {
+			font-size: 0.75rem;
 		}
 	}
 </style>

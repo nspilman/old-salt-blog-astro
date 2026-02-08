@@ -14,6 +14,7 @@ tags:
   - "MV Rena"
   - "New Zealand"
   - "Tauranga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/MV-Rena-containers-wash-up-.jpg"
 author: "Rick Spilman"
 description: "On October 5, 2011, the containership MV Rena ran aground on Astrolabe Reef off Tauranga, resulting in one of the worst maritime environmental disasters in New Zealand history.  Yesterday, in a New Zealand court, the captain, Mauro Balomaga, and second officer, Leonil Relon, were … Continue reading &rarr;"
 ---

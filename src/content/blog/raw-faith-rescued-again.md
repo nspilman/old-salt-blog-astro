@@ -13,6 +13,7 @@ tags:
   - "Reliance"
   - "three masted schooner"
   - "Tybee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/RawFaith.jpg"
 author: "Rick Spilman"
 description: "Update: The three masted schooner Raw Faith is reported to now have sunk after the crew of two was rescued by the Coast Guard. __________ Two men were rescued by the Coast Guard from Raw Faith, a home-built 118′ three … Continue reading &rarr;"
 ---

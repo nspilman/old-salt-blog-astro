@@ -12,6 +12,7 @@ tags:
   - "Deepwater Horizon"
   - "Gulf of Mexico"
   - "manslaughter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/rig2.jpg"
 author: "Rick Spilman"
 description: "On April 20, 2010, the Deepwater Horizon drilling rig exploded and sank in the Gulf of Mexico, killing 11 platform workers and resulting in the largest accidental marine oil spill in the history of the petroleum industry. Today BP, the … Continue reading &rarr;"
 ---

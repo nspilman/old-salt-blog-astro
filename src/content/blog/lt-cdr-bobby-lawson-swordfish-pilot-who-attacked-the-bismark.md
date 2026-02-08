@@ -12,6 +12,7 @@ tags:
   - "Bismark"
   - "Lt-Cdr Bobby Lawson"
   - "Swordfish pilot"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/bobby-lawson_1636357c.jpg"
 author: "Rick Spilman"
 description: "It was a classic contest between David and Goliath.  On May 27, 1941, the German battleship Bismark had just sunk the pride of the Royal Navy, the HMS Hood. As she was close to escaping into safe waters, she was attacked … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Louis Burton"
   - "Sam Davies"
   - "Vendée Globe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/saveol-demate-r-644-0.jpg"
 author: "Rick Spilman"
 description: "After only a week into the Vendée Globe non-stop round-the-world single-handed yacht race, four of the twenty original sailors have dropped out due to casualties or gear failure. The latest include Louis Burton, who was in a  collision with a fishing boat off Portugal, and Samantha Davies whose boat suffered … Continue reading &rarr;"
 ---

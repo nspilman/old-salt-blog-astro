@@ -13,6 +13,7 @@ tags:
   - "French frigate"
   - "l'Hermione"
   - "Mount Vernon"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/hermionefireworks1.jpg"
 author: "Rick Spilman"
 description: "The French frigate l'Hermione was greeted by a dramatic fireworks display on its arrival at Mount Vernon, Virginia, George Washington's plantation home."
 ---

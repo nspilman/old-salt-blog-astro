@@ -5,6 +5,7 @@ slug: "good-if-highly-confusing-news-about-the-galvestons-tall-ship-elissa"
 excerpt: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,\" where did they come up with this stuff?\"  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Elissa_off_Biloxi19862.jpg"
 author: "Rick Spilman"
 description: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,\" where did they come up with this stuff?\"  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
 ---

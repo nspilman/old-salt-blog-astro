@@ -13,6 +13,7 @@ tags:
   - "Leaving of Liverpool"
   - "Snug Harbor"
   - "William Main Doerflinger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/davidcrockett.jpg"
 author: "Rick Spilman"
 description: "\"The Leaving of Liverpool\" is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was \"collected\" by William Main Doerflinger in 1951 from Dick Maitland, an old sailor at New York’s … Continue reading &rarr;"
 ---

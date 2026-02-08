@@ -9,6 +9,7 @@ tags:
   - "pirates"
   - "unmanned surface vehicles"
   - "USV"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/ID38394_600.jpg"
 author: "Rick Spilman"
 description: "In August, we posted about an experimental unmanned \"roboship\" being developed as a coastal patrol craft.   Recently there have been proposals to use USVs (unmanned surface vehicles) to fight pirates.  USVs also known as autonomous surface vehicles (ASV), are any surface … Continue reading &rarr;"
 ---

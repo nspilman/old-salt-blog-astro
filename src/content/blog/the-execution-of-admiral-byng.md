@@ -11,6 +11,7 @@ tags:
   - "Admiral John Byng"
   - "Minorca"
   - "seven years war"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/byng.jpg"
 author: "Rick Spilman"
 description: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to \"do his utmost against the enemy.\" Byng was the first … Continue reading &rarr;"
 ---

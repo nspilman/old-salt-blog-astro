@@ -16,6 +16,7 @@ tags:
   - "Mediterranean"
   - "Operation Triton"
   - "Syria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/refugeecrisis1.jpg"
 author: "Rick Spilman"
 description: "The migrant crisis in the Mediterranean worsened as 900 are believed to have drowned on Sunday when their ship foundered."
 ---

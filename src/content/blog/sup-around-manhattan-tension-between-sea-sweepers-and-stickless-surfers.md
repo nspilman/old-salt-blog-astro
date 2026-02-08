@@ -11,6 +11,7 @@ tags:
   - "SEAPADDLE NYC"
   - "stand-up paddling"
   - "SUP"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/seapaddle.jpg"
 author: "Rick Spilman"
 description: "A week ago we posted about the increasing popularity of Stand-Up-Paddling (SUP) also known as paddle-boarding.  The sport was new to us, but obviously we have been behind the times, at least when it comes to stand-up paddling.   Last … Continue reading &rarr;"
 ---

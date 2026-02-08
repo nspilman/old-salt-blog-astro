@@ -12,6 +12,7 @@ tags:
   - "dolphin"
   - "Louisiana"
   - "Pinky"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/pinkyd1.jpg"
 author: "Rick Spilman"
 description: "For several years we have followed; virtually, if not literally; the travels of Migaloo, an albino humpback whale that has migrated off Australia’s Queensland’s coast since at least 1991. In August we posted about a new young albino humpback which some … Continue reading &rarr;"
 ---

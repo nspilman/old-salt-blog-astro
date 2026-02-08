@@ -12,6 +12,7 @@ tags:
   - "HMS Hampshire"
   - "Lord Kitchener"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/krecruitingposter.jpg"
 author: "Rick Spilman"
 description: "One hundred years today, on June 5, 1916, Lord Horatio Herbert Kitchener, the British Secretary of State for War, drowned when the HMS Hampshire sank in the North Sea off the Orkneys. Of the 655 crewmen and 7 passengers, including Lord Kitchener, aboard … Continue reading &rarr;"
 ---

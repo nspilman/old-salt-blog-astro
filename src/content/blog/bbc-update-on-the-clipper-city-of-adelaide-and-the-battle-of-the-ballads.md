@@ -12,6 +12,7 @@ tags:
   - "City of Adelaide"
   - "composite clipper"
   - "River Ware"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/12/adelaidebow.jpg"
 author: "Rick Spilman"
 description: "BC apparently has posted an interesting videocast on the composite clipper City of Adelaide.  I write apparently because it is available only in Britain and being on the other side of the pond I can only take the word of … Continue reading &rarr;"
 ---

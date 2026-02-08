@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/tugrace2009.jpg"
 author: "Rick Spilman"
 description: "Tropical Storm Hermine, which looked very nasty there for a while, drifted enough to the east to miss New York harbor. There were local reports of flooding at high tide, but overall, it has been a beautiful Labor Day weekend … Continue reading &rarr;"
 ---

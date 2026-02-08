@@ -12,6 +12,7 @@ tags:
   - "Lunenburg"
   - "Nova Scotia"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/bluenoseiilaunch.jpg"
 author: "Rick Spilman"
 description: "The schooner Bluenose II has been launched in Lunenburg, Nova Scotia.  The local news outlets referred to the event as the \"relaunching\" of the schooner though as the hull was completely replaced and only some portion of the Douglas fir deck was re-used, it … Continue reading &rarr;"
 ---

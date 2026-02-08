@@ -11,6 +11,7 @@ tags:
   - "RMS Olympic"
   - "Titanic"
   - "Violet Jessop"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/priest_j_medium.jpg"
 author: "Rick Spilman"
 description: "In observance of the anniversary of the sinking of the Titanic on April 15, 1912, here is a repost from 2012, about two hardy souls who survived not only the sinking of the RMS Titanic but also the RMS Britannic when she was … Continue reading &rarr;"
 ---

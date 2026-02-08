@@ -9,6 +9,7 @@ categories:
 tags:
   - "Google"
   - "Street View - Oceans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/googleseaview.jpg"
 author: "Rick Spilman"
 description: "Google has now extended its \"Street View\" imagery to well beyond where the streets and even the dry land ends.  Its new \"Street View – Oceans\" lets you virtually dive on the coral reefs of the Bahamas, explore the wreck … Continue reading &rarr;"
 ---

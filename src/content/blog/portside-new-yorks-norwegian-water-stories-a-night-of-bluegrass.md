@@ -14,6 +14,7 @@ tags:
   - "Norwegian Water Stories"
   - "Paradise Mountain Boys"
   - "PortSide New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/paradisemountainboys.jpg"
 author: "Rick Spilman"
 description: "This is one of those great \"only in New York\" events. Next Thursday, PortSide NewYork and the historic tanker Mary A. Whalen are hosting the NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories. … Continue reading &rarr;"
 ---

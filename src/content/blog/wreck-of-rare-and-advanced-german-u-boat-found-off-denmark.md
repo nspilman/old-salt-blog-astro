@@ -14,6 +14,7 @@ tags:
   - "Type XXI"
   - "U-3523"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/u234.jpg"
 author: "Rick Spilman"
 description: "The Sea War Museum Jutland made an amazing discovery while scanning the sea floor off Denmark. They have identified the wreckage of one of the most technologically advanced German submarines of World War II, the U-3523.  The submarine was found with its bow … Continue reading &rarr;"
 ---

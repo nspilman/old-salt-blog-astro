@@ -13,6 +13,7 @@ tags:
   - "Clipper City"
   - "schooner Pioneer"
   - "Shearwater"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/clippercitybowmoon-200x112.jpg"
 author: "Rick Spilman"
 description: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the \"super moon\" rise over New York harbor.   The \"super moon,\" is in scientific terms referred to as a \"perigee moon,\" a … Continue reading &rarr;"
 ---

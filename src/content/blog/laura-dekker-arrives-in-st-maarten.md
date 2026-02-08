@@ -9,6 +9,7 @@ categories:
 tags:
   - "Laura Dekker"
   - "St. Maarten"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekkerdeparts.jpg"
 author: "Rick Spilman"
 description: "Fifteen-year-old Dutch sailor, Laura Dekker, arrived in St. Maarten after a 2,200 nautical-mile voyage from the Cape Verde Islands off West Africa. She sailed from Gibraltar on August 21 and spent two months in the Canary Islands waiting for the hurricane … Continue reading &rarr;"
 ---

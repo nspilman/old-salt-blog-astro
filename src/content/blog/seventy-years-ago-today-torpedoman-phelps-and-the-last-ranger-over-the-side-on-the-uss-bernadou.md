@@ -11,6 +11,7 @@ tags:
   - "USS Bernadou"
   - "WW I-vintage destroyer"
   - "WW II invasion of North Africa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/0515311.jpg"
 author: "Stephen Phelps"
 description: "A guest post by Stephen Phelps: Today is the 70th anniversary of the WW II invasion of North Africa, which began with the assault and landing in the port of Safi by USS Bernadou, a WW I-vintage destroyer that had … Continue reading &rarr;"
 ---

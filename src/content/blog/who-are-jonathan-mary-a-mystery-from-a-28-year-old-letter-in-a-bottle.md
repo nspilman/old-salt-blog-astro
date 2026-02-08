@@ -11,6 +11,7 @@ tags:
   - "Letter in a Bottle"
   - "Neretva River"
   - "Nova Scotia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/ns-letter-320.jpg"
 author: "Rick Spilman"
 description: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: \"Mary, you really are a great person. … Continue reading &rarr;"
 ---

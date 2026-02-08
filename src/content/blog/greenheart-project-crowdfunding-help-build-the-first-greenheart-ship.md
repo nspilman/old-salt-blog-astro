@@ -13,6 +13,7 @@ tags:
   - "Greenheart Project"
   - "low-cost"
   - "zero-emissions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/greenheart_v3_full.jpg"
 author: "Rick Spilman"
 description: "The Greenheart Project is now raising money to build a 32 meter sailing cargo ship for small ports and lesser developed countries. The design is extremely impressive. It is low-cost,  has zero-emissions and is also efficient to load and unload.  Cargo operations may seem … Continue reading &rarr;"
 ---

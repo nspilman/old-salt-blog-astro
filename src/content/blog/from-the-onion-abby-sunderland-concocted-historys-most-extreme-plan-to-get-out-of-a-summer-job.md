@@ -10,6 +10,7 @@ tags:
   - "Abby Sunderland"
   - "satire"
   - "The Onion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/abbey_large2.jpg"
 author: "Rick Spilman"
 description: "The Onion is a satire magazine.  In their \"The People Who Mattered – 2010\" they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical posts about Abby click here. Abby Sunderland … Continue reading &rarr;"
 ---

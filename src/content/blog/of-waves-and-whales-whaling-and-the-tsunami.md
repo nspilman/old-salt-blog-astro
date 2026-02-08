@@ -11,6 +11,7 @@ tags:
   - "recovery funding"
   - "tsunami"
   - "whaling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/wave-of-peace2.jpg"
 author: "Rick Spilman"
 description: "Within hours of the tsunami that struck northern Japan last March, the internet was abuzz with the somewhat bizarre suggestion that the earthquake and wave which followed might be some sort of cosmic retribution for Japanese whaling.  Regardless of what one thinks of that suggestion, … Continue reading &rarr;"
 ---

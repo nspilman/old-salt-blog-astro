@@ -12,6 +12,7 @@ tags:
   - "human chain"
   - "Panama City Beach"
   - "rip-current"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/humanchain.jpg"
 author: "Rick Spilman"
 description: "Rip currents can be treacherous. Last Saturday, ten swimmers — six members of a single family, four adults and two boys — and four others, were carried out into the Gulf of Mexico by a rip-current off Panama City Beach in … Continue reading &rarr;"
 ---

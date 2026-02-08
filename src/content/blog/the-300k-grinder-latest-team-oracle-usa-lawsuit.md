@@ -12,6 +12,7 @@ tags:
   - "lawsuit. America's Cup"
   - "New Zealand sailor"
   - "Team Oracle USA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/spooner.jpg"
 author: "Rick Spilman"
 description: "The US District Court in SF issued a warrant to seize Oracle Team USA's prototype America's Cup sail boat, due to a lien filed by New Zealander Joe Spooner."
 ---

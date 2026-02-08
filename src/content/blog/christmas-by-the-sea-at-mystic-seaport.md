@@ -10,6 +10,7 @@ tags:
   - "Christmas by the Sea"
   - "Gingerbread Lighthouse Contest"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/MYSTchristmas.jpg"
 author: "Rick Spilman"
 description: "I almost prefer visiting Mystic Seaport in the wintertime.  The summertime crowds are gone, wood or coal stoves heat the chandlery and the rope walk and the ships are as lovely as ever against a winter sky.   Mystic Seaport is especially lovely around Christmas. … Continue reading &rarr;"
 ---

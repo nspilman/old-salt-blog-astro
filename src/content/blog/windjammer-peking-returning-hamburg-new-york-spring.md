@@ -13,6 +13,7 @@ tags:
   - "Laeisz"
   - "Peking"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Peking_ship_combined.jpg"
 author: "Rick Spilman"
 description: "German media is reporting that sometime next spring, the historic Laeisz Flying P-Liner Peking is expected to leave New York harbor, where she has been a museum ship at the South Street Seaport Museum for over 40 years. She will be returning to … Continue reading &rarr;"
 ---

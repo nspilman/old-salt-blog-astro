@@ -11,6 +11,7 @@ tags:
   - "opera"
   - "Scilly"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/ann_cargill_203_203x1521.jpg"
 author: "Rick Spilman"
 description: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was \"was the Britney Spears of her day.\"  I think they slight poor Ms Cargill. A Scandalous Star  \"When the packet ship, The Nancy, … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Fairmount Expedition"
   - "MSC Flaminia"
   - "Smit salvage tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Msc-Flaminia-693832.jpg"
 author: "Rick Spilman"
 description: "The fire on the containership MSC Flaminia, abandoned in the mid-Atlantic after a fire and explosion on July 15th, is reported now to be under control. The ship is under by the Smit salvage tug Fairmount Expedition at five knots and is roughly … Continue reading &rarr;"
 ---

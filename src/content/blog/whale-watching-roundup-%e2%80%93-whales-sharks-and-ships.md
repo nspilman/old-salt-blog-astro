@@ -11,6 +11,7 @@ tags:
   - "fin whales"
   - "humpback"
   - "whale watching"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/humpbacktail.jpg"
 author: "Rick Spilman"
 description: "In honor of our unexpected whale watching in New York harbor, we are taking a brief look at whale watching around the country this summer.  It has been an interesting summer indeed.   After staying off shore for several years, fin and humpback … Continue reading &rarr;"
 ---

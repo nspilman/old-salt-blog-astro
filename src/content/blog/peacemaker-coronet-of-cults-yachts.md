@@ -17,6 +17,7 @@ tags:
   - "The Kingdom"
   - "Twelve Tribes"
   - "yacht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/peacemaker.jpg"
 author: "Rick Spilman"
 description: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A \"tall ship\" served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
 ---

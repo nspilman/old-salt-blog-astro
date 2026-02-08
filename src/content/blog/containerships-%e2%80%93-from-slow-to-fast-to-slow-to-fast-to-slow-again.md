@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "containership"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/container-ship-san-francisc.jpg"
 author: "Rick Spilman"
 description: "Containership operations has always been like riding a roller coaster, with many highs and lows and unexpected twists and turns.  One sign of this is the fluctuating speeds of container ships over the years, going  from slow to fast to … Continue reading &rarr;"
 ---

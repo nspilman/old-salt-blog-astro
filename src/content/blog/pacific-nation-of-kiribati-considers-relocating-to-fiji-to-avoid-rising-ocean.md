@@ -13,6 +13,7 @@ tags:
   - "Pacific"
   - "Tarawa"
   - "Viti Levu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Kiribati.jpg"
 author: "Rick Spilman"
 description: "The Pacific nation of Kiribati is sinking. Or, more accurately, the ocean is rising, which from a practical perspective amounts to the same thing. The nation of 33 tiny atolls and coral islands, scattered across an area of the Pacific Ocean more than … Continue reading &rarr;"
 ---

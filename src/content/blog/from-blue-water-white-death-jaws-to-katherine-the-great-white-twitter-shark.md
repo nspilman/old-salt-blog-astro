@@ -11,6 +11,7 @@ tags:
   - "Jaws"
   - "Katherine the Great White Twitter Shark"
   - "OCEARCH"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/katharine.jpg"
 author: "Rick Spilman"
 description: "In the 40 years since jaws, great white sharks have gone from being feared predators to becoming tourist attractions and internet stars."
 ---

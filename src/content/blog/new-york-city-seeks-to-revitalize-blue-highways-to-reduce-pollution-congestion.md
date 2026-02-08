@@ -10,6 +10,7 @@ tags:
   - "blue highways"
   - "Mayor Bill de Blasio"
   - "New York City"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/01/dhlbluehighway.jpg"
 author: "Rick Spilman"
 description: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to \"blue highways,\" the network of waterways that have for so long defined the city. … Continue reading &rarr;"
 ---

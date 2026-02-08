@@ -17,6 +17,7 @@ tags:
   - "USNS Yukon"
   - "USS Essex"
   - "Wasp-class amphibious assault ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/article-0-1322C0E8000005DC-.jpg"
 author: "Rick Spilman"
 description: "It has been a busy couple of days for ship collisions and allisions.  Yesterday, the USS Essex, a Wasp-class amphibious assault ship, collided with the USNS Yukon, a Navy Oiler, during underway replenishment operations about 120 miles off the coast of Southern California. In Poland, … Continue reading &rarr;"
 ---

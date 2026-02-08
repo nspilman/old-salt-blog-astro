@@ -12,6 +12,7 @@ tags:
   - "sail trainees"
   - "Sail Training International"
   - "Sultanate of Oman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/OmanTrainees.jpg"
 author: "Rick Spilman"
 description: "Sail Training International, in partnership with the Sultanate of Oman, will be providing funding for up to 100 tall ship sail trainees yearly.  The focus will be on young people who are who are financially disadvantaged or with a physical disability. … Continue reading &rarr;"
 ---

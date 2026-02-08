@@ -13,6 +13,7 @@ tags:
   - "Mitsubishi Heavy Industries"
   - "NYK-Hinode Line"
   - "Yamatai"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/yamatai.jpg"
 author: "Rick Spilman"
 description: "Two years ago, an article appeared in Scientific American, Slippery Ships That Float on Air, describing the various attempts to reduce frictional resistance on ship’s hulls by injecting air bubbles or introducing pockets of air beneath the hull.  At the time, the … Continue reading &rarr;"
 ---

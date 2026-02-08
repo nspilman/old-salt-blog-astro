@@ -13,6 +13,7 @@ tags:
   - "lower Manhattan"
   - "Robert Fulton"
   - "Trinity Church"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/trinitygraves.jpg"
 author: "Rick Spilman"
 description: "Trinity Church  at the intersection of Wall Street and Broadway in Lower Manhattan, is one of the oldest congregations in the state.  Captain William Kidd was a church elder, in the years before he turned pirate. Captain Kidd donated a block and … Continue reading &rarr;"
 ---

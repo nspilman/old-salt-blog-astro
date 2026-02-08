@@ -14,6 +14,7 @@ tags:
   - "Le Triomphant"
   - "USS Hartford"
   - "USS New Orleans"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/hms-superb.jpg"
 author: "Rick Spilman"
 description: "Last week a navy commander and two fellow officers pleaded guilty to crashing the HMS Superb, a  British nuclear submarine, in 2008, into a massive stone pinnacle under the Red Sea which was marked on maritime charts. Navy commander crashed … Continue reading &rarr;"
 ---

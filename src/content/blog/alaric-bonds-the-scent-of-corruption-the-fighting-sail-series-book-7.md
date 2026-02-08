@@ -10,6 +10,7 @@ categories:
 tags:
   - "Alaric Bond"
   - "The Scent of Corruption"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/scentofcorruption.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond's latest novel, The Scent of Corruption, is now available on Kindle and will soon be available in print. A great read."
 ---

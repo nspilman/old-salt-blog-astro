@@ -14,6 +14,7 @@ tags:
   - "Hurricane Sandy"
   - "North Carolina"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/bountysinking.jpg"
 author: "Rick Spilman"
 description: "Ten years ago today, the replica of HMS Bounty sank in Hurricane Sandy off the coast of North Carolina. Despite horrific conditions, the US Coast Guard was able to rescue 14 of the 16 aboard the ship when she sank. … Continue reading &rarr;"
 ---

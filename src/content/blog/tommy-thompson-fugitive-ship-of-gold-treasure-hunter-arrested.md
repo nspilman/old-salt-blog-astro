@@ -11,6 +11,7 @@ tags:
   - "Ship of Gold"
   - "SS Central America"
   - "Tommy Thompson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/TTbillboard.jpg"
 author: "Rick Spilman"
 description: "\"Ship of Gold\" Treasure-hunter Tommy Thompson's two years on the run has come to an end.  He was arrested yesterday in a Palm Beach, Florida hotel."
 ---

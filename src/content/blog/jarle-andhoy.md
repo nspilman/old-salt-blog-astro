@@ -12,6 +12,7 @@ tags:
   - "Berserk II"
   - "Jarle Andhøy"
   - "Nilaya"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/nzealand-antarctica-norway-.jpg"
 author: "Rick Spilman"
 description: "Jarle Andhøy calls himself as a \"Wild Viking.\"  He has been the subject of the Norwegian television series Berserk mot Nordpolen (\"Berserk to the North Pole\"), Berserk til Valhall (\"Berserk to Valhalla\") and Berserk gjennom Nordvestpassasjen (\"Berserk through the Northwest Passage\") which aired on NRK … Continue reading &rarr;"
 ---

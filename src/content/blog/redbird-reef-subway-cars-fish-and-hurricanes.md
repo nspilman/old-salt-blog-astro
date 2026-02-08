@@ -11,6 +11,7 @@ tags:
   - "New York City"
   - "Redbird Reef"
   - "Redbird subway cars"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/24DB012300000578-2918849-On_the_left_is_the_inside_of_one_of_the_cars_before_it_is_tossed-a-5_1421805010651.jpg"
 author: "Rick Spilman"
 description: "Redbird Reef, sixteen miles out in the Atlantic Ocean, is an artificial reef in named after 714 New York City Redbird subway cars dumped to form the reef."
 ---

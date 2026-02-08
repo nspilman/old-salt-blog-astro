@@ -16,6 +16,7 @@ tags:
   - "Kurds"
   - "Suezmax oil tanker"
   - "United Kalavrvta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/united-kalavyrta-kalavrvta-oil-tanker.jpg"
 author: "Rick Spilman"
 description: "The Suezmax oil tanker United Kalavrvta has been motoring in large circles in the Gulf of Mexico for over a month. Today her AIS (Automatic Identification System) transponder was turned off, making her far more difficult to track. The ship has, at … Continue reading &rarr;"
 ---

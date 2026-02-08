@@ -14,6 +14,7 @@ tags:
   - "silver"
   - "SS Gairsoppa"
   - "Voices from the Deep"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/glatters.jpg"
 author: "Rick Spilman"
 description: "A new exhibit has recently opened at the Postal Museum in London — Voices from the Deep. The exhibit features undeliveredd letters retrieved from the wreck of the SS Gairsoppa, a British merchant ship which was sunk by a U-boat 300 miles southwest of Galway … Continue reading &rarr;"
 ---

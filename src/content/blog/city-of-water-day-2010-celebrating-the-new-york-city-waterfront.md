@@ -15,6 +15,7 @@ tags:
   - "Metropolitan Waterfront Alliance"
   - "New York City"
   - "Staten Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Web-Images-small.jpg"
 author: "Rick Spilman"
 description: "New York City is metropolis of eight million organized into five boroughs, four of which are islands or are on islands.   This Saturday, the 3rd Annual City of Water Day Festival will be hosted by the Metropolitan Waterfront  Alliance to help remind … Continue reading &rarr;"
 ---

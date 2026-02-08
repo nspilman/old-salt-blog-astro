@@ -12,6 +12,7 @@ tags:
   - "five Sullivan brothers"
   - "St. Patrick’s Day"
   - "USS Juneau"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/ussjuneau.jpg"
 author: "Rick Spilman"
 description: "The latest news from Paul Allen’s research vessel Petrel: Wreckage from the USS Juneau (CL-52) was discovered on March 17, 2018, by the expedition crew of Research Vessel (R/V) Petrel. The Juneau was sunk by a Japanese torpedo during the Battle … Continue reading &rarr;"
 ---

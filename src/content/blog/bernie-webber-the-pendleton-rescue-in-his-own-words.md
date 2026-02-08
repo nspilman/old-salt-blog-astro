@@ -6,6 +6,7 @@ excerpt: "Yesterday, we posted our review of the movie, \"The Finest Hours,\" a 
 categories:
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/bernieweber1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted our review of the movie, \"The Finest Hours,\" a dramatization of the 1952 rescue of 32 of the crew of the T2 tanker SS Pendleton, which had broken in half in a winter Nor’easter in the Atlantic … Continue reading &rarr;"
 ---

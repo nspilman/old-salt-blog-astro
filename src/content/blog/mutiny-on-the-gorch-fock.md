@@ -15,6 +15,7 @@ tags:
   - "mutiny"
   - "Sarah Schmidt"
   - "Ushuaia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/28-Ship_538883t.jpg"
 author: "Rick Spilman"
 description: "Last November, Sarah Schmidt, a 25 year old cadet fell to her death from the rigging of the German sailing training ship, Gorch Fock.   It is now being reported that shortly after Schmidt’s death the cadets aboard the ship mutinied and … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Baltic Sea"
   - "M/V Wilhelm Gustloff"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/mvwg.jpg"
 author: "Rick Spilman"
 description: "Seventy years ago today the German passenger liner MV Wilhelm Gustloff sank in the Baltic after being struck by three torpedoes from a Soviet submarine."
 ---

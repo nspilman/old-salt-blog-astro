@@ -6,6 +6,7 @@ excerpt: "A wonderful review of ‘Hell Around the Horn‘ in the Navy Fiction b
 categories:
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "A wonderful review of ‘Hell Around the Horn‘ in the Navy Fiction blog. I thoroughly enjoyed this novel by Rick Spilman – actually his debut novel! Spilman knows ships and the sea. He has worked as a naval architect and … Continue reading &rarr;"
 ---

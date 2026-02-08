@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Annual Great North River Tugboat Race &amp; Competition"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/northrivertugrace.jpg"
 author: "Rick Spilman"
 description: "The 22nd annual running of the Great North River Tugboat Race and Competition is coming up on Labor Day off Pier 84 in Manhattan."
 ---

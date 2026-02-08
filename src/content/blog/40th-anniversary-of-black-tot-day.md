@@ -13,6 +13,7 @@ tags:
   - "Royal Navy"
   - "rum ration"
   - "Up Spirits"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/blacktot.jpg"
 author: "Rick Spilman"
 description: "In early July we celebrated the 40th anniversary of the return of the SS Great Britain to Bristol. Yesterday was a more somber anniversary – the 40th  anniversary of \"Black Tot\" Day. Ceremony to mark ending of rum tot at … Continue reading &rarr;"
 ---

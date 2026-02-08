@@ -13,6 +13,7 @@ tags:
   - "Korean War"
   - "US Navy"
   - "USS Leyte"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/jlbrown.jpg"
 author: "Rick Spilman"
 description: "In honor of Black History Month, an updated repost about the first African-American pilot in the US Navy, Jesse L. Brown. The story goes that when young Jesse Leroy Brown worked in the cotton fields of Mississippi beside his sharecropper … Continue reading &rarr;"
 ---

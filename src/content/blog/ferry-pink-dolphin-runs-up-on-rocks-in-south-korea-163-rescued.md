@@ -13,6 +13,7 @@ tags:
   - "Mokpo"
   - "Pink Dolphin"
   - "South Korea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/pinkdolphin.jpg"
 author: "Rick Spilman"
 description: "On Sunday, the Pink Dolphin, a 223-ton high-speed ferry loaded with 158 passengers and five crew, ran up on rocks while operating in fog, near the port of Mokpo on the southwest coast of Korea, 400 km south of Seoul. The captain … Continue reading &rarr;"
 ---

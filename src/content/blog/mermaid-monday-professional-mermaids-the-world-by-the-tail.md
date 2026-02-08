@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Professional Mermaids"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/Crystal-May10-12-003.jpg"
 author: "Rick Spilman"
 description: "I have recently discovered that mermaids are indeed real, well, after a fashion, though not in the sense suggested by cheesy fake documentaries shown on the Discovery Channel.   There is a small cadre of women who perform as mermaids … Continue reading &rarr;"
 ---

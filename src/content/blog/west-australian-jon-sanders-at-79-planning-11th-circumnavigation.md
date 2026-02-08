@@ -10,6 +10,7 @@ tags:
   - "circumnavigation"
   - "Perie Banou II"
   - "Sanders"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/jonsanders2019.jpg"
 author: "Rick Spilman"
 description: "After completing his 10th circumnavigation of the globe under sail in December of 2017 at the age of 77, legendary West Australian sailor Jon Sanders said that he was done. He said that the 10th trip around would be his … Continue reading &rarr;"
 ---

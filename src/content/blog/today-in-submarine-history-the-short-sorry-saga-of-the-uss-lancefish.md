@@ -10,6 +10,7 @@ categories:
 tags:
   - "Boston Navy Yard"
   - "USS Lancetfish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/lancetfish.jpg"
 author: "Rick Spilman"
 description: "On March 24th, 1945 the USS Lancetfish was decommissioned after less than thousand hours in service.  She never put to sea under her own power and never had a crew.  Delivered from the Cramp Shipbuilding Company of Philadelphia, she was towed to … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "orcas"
   - "South Park"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/03/orca-150x186.jpg"
 author: "Rick Spilman"
 description: "Two only slightly related items : \"An orca baby boom\" in Washington State following a year that saw a decline in the number of orcas in the southern resident pods, and a very funny, if highly offensive, episode of South … Continue reading &rarr;"
 ---

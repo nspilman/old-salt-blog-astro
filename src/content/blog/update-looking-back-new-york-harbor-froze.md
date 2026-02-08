@@ -13,6 +13,7 @@ tags:
   - "frozen"
   - "hudson river"
   - "new york harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/eastriver1867.jpg"
 author: "Rick Spilman"
 description: "Today, the East Coast is being pummeled by what meterologists are referring to as a \"bomb cyclone,\" a term which is equal parts concerning and confusing. A \"bomb cyclone\" is simply a rapidly intensifying low pressure front, which is now … Continue reading &rarr;"
 ---

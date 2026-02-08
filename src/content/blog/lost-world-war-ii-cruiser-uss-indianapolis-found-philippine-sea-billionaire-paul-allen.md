@@ -10,6 +10,7 @@ tags:
   - "Philippine Sea"
   - "USS Indianapolis"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/indianapolisfound.jpg"
 author: "Rick Spilman"
 description: "Paul Allen, billionaire co-founder of Microsoft, announced that wreckage from the USS Indianapolis was discovered on Aug. 18 by the expedition crew of Paul G. Allen’s Research Vessel (R/V) Petrel. The Indianapolis was found 5,500 meters below the surface, resting on the floor of … Continue reading &rarr;"
 ---

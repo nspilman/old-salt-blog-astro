@@ -14,6 +14,7 @@ tags:
   - "USS Lawrence"
   - "USS Niagara"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/800px-DONT_GIVE_UP_THE_SHIP.jpg"
 author: "Rick Spilman"
 description: "We are rapidly approaching the bi-centennial of the War of 1812, a largely forgotten conflict which was, in many respects, a continuation of the American War of Independence from Great Britain. The war was characterized by American incompetence and bumbling … Continue reading &rarr;"
 ---

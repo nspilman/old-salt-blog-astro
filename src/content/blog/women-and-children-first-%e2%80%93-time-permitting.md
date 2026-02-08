@@ -6,6 +6,7 @@ excerpt: "Lusitania arriving New York on her maiden voyage A new study in the P
 categories:
   - "History"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/The_Lusitania.jpg"
 author: "Rick Spilman"
 description: "Lusitania arriving New York on her maiden voyage A new study in the Proceedings of the National Academy of Sciencesconsiders the sinking of two well known ships, the Titanic and theLusitania,  and looks at who made it to the lifeboats and who was left … Continue reading &rarr;"
 ---

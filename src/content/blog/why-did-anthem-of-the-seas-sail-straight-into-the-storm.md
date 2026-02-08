@@ -10,6 +10,7 @@ categories:
 tags:
   - "Anthem of the Seas"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthemstorm1.jpg"
 author: "Rick Spilman"
 description: "Why would RCL send the Anthem of the Seas with over 4,000 passengers straight into a major storm which had been predicted days in advance?"
 ---

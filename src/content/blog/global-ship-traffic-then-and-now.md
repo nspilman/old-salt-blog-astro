@@ -10,6 +10,7 @@ categories:
 tags:
   - "AIS"
   - "global ship traffic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/11530100184_4f6201f997_o.jpg"
 author: "Rick Spilman"
 description: "By definition, shipping is the ultimate offshore industry. For most, the business of shipping is largely invisible, literally beyond the horizon. I recently came across two representations of global shipping – a plot developed from ship’s logs from the 18th … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Cape Town"
   - "Laura Dekker"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/puma.jpg"
 author: "Rick Spilman"
 description: "I was struck by the juxtaposition.  Laura Dekker, the Dutch 16 year old who is sailing around the world alone, arrived in Cape Town at roughly the same times as the mega-racers of the Volvo Ocean Race.  Well, she arrived … Continue reading &rarr;"
 ---

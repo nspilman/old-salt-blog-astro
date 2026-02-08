@@ -10,6 +10,7 @@ tags:
   - "Baltimore"
   - "inner harbor"
   - "Mr. trash Wheel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/mrtrashwheel.jpg"
 author: "Rick Spilman"
 description: "We recently posted about various devices and schemes for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s Inner Harbor Water Wheel, or \"Mr. … Continue reading &rarr;"
 ---

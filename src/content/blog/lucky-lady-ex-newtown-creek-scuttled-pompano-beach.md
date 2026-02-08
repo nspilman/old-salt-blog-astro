@@ -11,6 +11,7 @@ tags:
   - "Lady Luck"
   - "Newtown Creek"
   - "Pompano Beach"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/ladyluck1.jpg"
 author: "Rick Spilman"
 description: "In April we posted, Farewell to Newtown Creek, New York’s Lovely \"Honey Tanker\".  It was a fond farewell to a lovely coastal \"honey tanker\" that carried sewage sludge around New York harbor for decades.  When she was sold we did not … Continue reading &rarr;"
 ---

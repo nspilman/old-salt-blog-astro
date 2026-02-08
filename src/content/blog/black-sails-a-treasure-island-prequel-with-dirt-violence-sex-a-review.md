@@ -9,6 +9,7 @@ tags:
   - "Black Sails"
   - "prequel"
   - "Treasure Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/blacksails.jpg"
 author: "Rick Spilman"
 description: "The Starz premium cable channel has a new big-budget original series, Black Sails, which appears to be intended as a gritty, realistic look at piracy in the early 1700s in the pirate’s haven of New Providence in the Bahamas.  In … Continue reading &rarr;"
 ---

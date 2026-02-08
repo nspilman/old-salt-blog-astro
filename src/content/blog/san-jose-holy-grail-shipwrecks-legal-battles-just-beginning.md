@@ -13,6 +13,7 @@ tags:
   - "Holy Grail of Shipwrecks"
   - "San José"
   - "Sea Search Armada"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/sanjose1.jpg"
 author: "Rick Spilman"
 description: "Recently the government of Colombia has announced that they have located the galleon San José, which blew up in 1708 in a battle with the British, sinking with a cargo worth an estimated $4 billion to $17 billion. The long lost wreck has often been referred to as the \"Holy Grail of Shipwrecks.\" Assuming that the claim is accurate, the legal battle, which has already simmered along for 30 years, will come to a full boil. "
 ---

@@ -14,6 +14,7 @@ tags:
   - "MW Projects"
   - "Pier 25"
   - "U.S.C.G. Cutter Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilacstern1.jpg"
 author: "Rick Spilman"
 description: "The U.S.C.G. Cutter Lilac, America's only steam-powered lighthouse tender, is reopening on May 19th and is hosting the Lilac Arts Series."
 ---

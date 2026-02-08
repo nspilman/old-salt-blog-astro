@@ -10,6 +10,7 @@ categories:
 tags:
   - "ARA San Juan"
   - "Argentine submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/arasanjuan1.jpg"
 author: "Rick Spilman"
 description: "A US Navy plane may have located the position of the Argentine Navy submarine ARA San Juan which has been missing since last Wednesday. Sensors aboard the plane detected a ‘heat stain’ at 230 ft below the surface, roughly 185 miles … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "MA"
   - "Newburyport"
   - "Richard Decker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/end37.jpg"
 author: "Rick Spilman"
 description: "All the reporting on this story talks about a \"ghost ship\" for sale by auction in Newburyport, MA.  \"Newburyport ‘ghost ship’ on the block,\" is pretty typical.  The \"ship\" in question is, in fact, an Endeavour 37 sailboat, a bit small to be … Continue reading &rarr;"
 ---

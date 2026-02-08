@@ -15,6 +15,7 @@ tags:
   - "Piction Castle"
   - "sail training ship"
   - "South Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/pictoncastle_.jpg"
 author: "Rick Spilman"
 description: "The sail training ship, the barque Piction Castle, sailed from Lunenburg, Nova Scotia this morning, bound for Grenada, then through the Panama Canal on a voyage to the South Pacific.  To follow the Picton Castle on her voyage click here. The Picton Castle, captained by … Continue reading &rarr;"
 ---

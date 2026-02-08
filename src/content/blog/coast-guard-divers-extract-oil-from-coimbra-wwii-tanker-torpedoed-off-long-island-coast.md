@@ -14,6 +14,7 @@ tags:
   - "Coimbra"
   - "German submarine"
   - "U-123"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/coimbra2.jpg"
 author: "Rick Spilman"
 description: "At about 9AM on January 15, 1942, the British tanker Coimbra, bound from Bayonne, NJ for Halifax, laden with 8,038 tons of lubricating oil, sank after being struck by two torpedoes fired by the German submarine U-123 off the southern shore … Continue reading &rarr;"
 ---

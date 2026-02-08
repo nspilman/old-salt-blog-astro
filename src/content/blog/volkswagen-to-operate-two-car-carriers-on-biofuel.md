@@ -10,6 +10,7 @@ tags:
   - "Car Carrier"
   - "Patara"
   - "Volkswagen Group Logistics"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/vwbiofuel.jpg"
 author: "Rick Spilman"
 description: "Volkswagen Group Logistics has switched the first of two chartered car carriers from burning heavy fuel to biofuel. The fuel is supplied by Netherlands-based GoodFuels and is produced primarily from used oil from restaurants and the food industry. The car … Continue reading &rarr;"
 ---

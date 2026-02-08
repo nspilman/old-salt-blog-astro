@@ -14,6 +14,7 @@ tags:
   - "duck boat"
   - "DUKW 34"
   - "Philadelphia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/duck1.jpg"
 author: "Rick Spilman"
 description: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
 ---

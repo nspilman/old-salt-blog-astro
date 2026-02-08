@@ -13,6 +13,7 @@ tags:
   - "German submarine"
   - "platinum"
   - "SS Port Nicholson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/gI_99497_PN.jpg"
 author: "Rick Spilman"
 description: "In early 2012, we posted about claims made by Greg Brooks of Sub Sea Research that they had found \"the worlds richest shipwreck,\" the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, sunk by the … Continue reading &rarr;"
 ---

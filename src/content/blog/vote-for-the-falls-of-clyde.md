@@ -12,6 +12,7 @@ tags:
   - "Hampton Hotels \"Save-A-Landmark\" program"
   - "only surviving iron-hulled four-masted full rigged ship"
   - "only surviving sail-driven oil tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/FOCnow2.jpg"
 author: "Rick Spilman"
 description: "The Falls of Clyde, built in 1878, is the only surviving iron-hulled four-masted full rigged ship and the only surviving sail-driven oil tanker in the world.  After years of neglect by the Bishop Museum, the ship has been taken over … Continue reading &rarr;"
 ---

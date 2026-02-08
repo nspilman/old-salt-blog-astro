@@ -13,6 +13,7 @@ tags:
   - "Pearl Harbor"
   - "USS Arizona"
   - "USS Vestal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/joegeorge.jpg"
 author: "Rick Spilman"
 description: "Joe George is no longer the \"unknown sailor\" on the USS Vestal. The Secretary of the Navy Richard V. Spencer has announced the posthumous award of the Bronze Star Medal with V device for valor to Chief Boatswain’s Mate Joseph L. George for … Continue reading &rarr;"
 ---

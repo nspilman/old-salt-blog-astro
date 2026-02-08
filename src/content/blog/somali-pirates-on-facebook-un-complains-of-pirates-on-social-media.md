@@ -10,6 +10,7 @@ tags:
   - "Facebook"
   - "Somali pirates"
   - "United Nations"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg"
 author: "Rick Spilman"
 description: "Are Somali pirates and their affiliates using Facebook to organize and support ship hijackings?  Experts at the United Nations say that this is the case and complain that Facebook has been ignoring their requests for information on Facebook accounts belonging to … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Eleanor's Odyssey"
   - "Honorable East India Company"
   - "Joan Druett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/eleanor-149x200.jpg"
 author: "Rick Spilman"
 description: "Eleanor's Odyssey is a fascinating voyage, alternating between excerpts from Eleanor's journal's, and insightful and entertaining commentary by Joan Druett."
 ---

@@ -10,6 +10,7 @@ tags:
   - "hybrid-electric catamaran"
   - "Tag Yachts"
   - "Tang"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Med_Tang.jpg"
 author: "Rick Spilman"
 description: "When I had a sailboat, I hated motoring.   The diesel was loud and vibrated, completely different from why I went out sailing in the first place. Tag Yachts in South Africa, in partnership with Electric Marine Propulsion and International Battery, … Continue reading &rarr;"
 ---

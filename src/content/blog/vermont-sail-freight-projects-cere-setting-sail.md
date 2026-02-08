@@ -11,6 +11,7 @@ tags:
   - "Ceres"
   - "sailing barge"
   - "Vermont Sail Freight Project"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/vermontceres.jpg"
 author: "Rick Spilman"
 description: "In April, we posted about the Vermont Sail Freight Project, a plan to build a sailing cargo barge to carry non-perishable produce down Lake Champlain to the Hudson River and onward to markets along the river and in New York City. … Continue reading &rarr;"
 ---

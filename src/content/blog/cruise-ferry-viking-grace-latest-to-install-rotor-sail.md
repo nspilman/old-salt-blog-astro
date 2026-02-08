@@ -12,6 +12,7 @@ tags:
   - "Norsepower"
   - "rotor"
   - "Viking Grace"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/vikinggrace.jpg"
 author: "Rick Spilman"
 description: "The Flettner fleet is growing slowly but steadily. The LNG powered cruise ferry Viking Grace has become the latest commercial ship and the first passenger vessel to install a modern Flettner rotor sail. The 80-foot-tall rotor is expected to save … Continue reading &rarr;"
 ---

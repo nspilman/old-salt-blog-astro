@@ -12,6 +12,7 @@ tags:
   - "manhattan"
   - "Maya Merhige"
   - "Swim Across America"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/07/20bridges.jpg"
 author: "Rick Spilman"
 description: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the \"20 Bridges Swim,\" … Continue reading &rarr;"
 ---

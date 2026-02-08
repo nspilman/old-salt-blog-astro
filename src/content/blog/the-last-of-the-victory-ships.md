@@ -14,6 +14,7 @@ tags:
   - "Rider Victory"
   - "Victory ships"
   - "Winthrop Victory"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/PanAmericanVictory.jpg"
 author: "Rick Spilman"
 description: "The last four Victory ships owned by the government are on their way toward the scrapyard.    The Maritime Blog recently post somegreat photos of the Pan American Victory, as she transited the Panama Canal not too long ago. She … Continue reading &rarr;"
 ---

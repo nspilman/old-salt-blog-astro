@@ -15,6 +15,7 @@ tags:
   - "Ikea"
   - "Unilever"
   - "zero-carbon fuel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/cshipoverhead.jpg"
 author: "Rick Spilman"
 description: "Nine major shippers including Amazon, Ikea and Unilever have signed an \"ambition statement\" to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit Aspen Insititute called … Continue reading &rarr;"
 ---

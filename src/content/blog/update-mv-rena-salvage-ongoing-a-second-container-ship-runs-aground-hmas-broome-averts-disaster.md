@@ -12,6 +12,7 @@ tags:
   - "MV Rena"
   - "MV Vega Fynen"
   - "Schelder Trader"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/renaoilship.jpg"
 author: "Rick Spilman"
 description: "Attempts to pump out the residual fuel of from the MV Rena, stranded on Astrolabe Reef off New Zealand continue with mixed results.  New focus for Rena salvagers Today, a second container ship, the Schelder Trader, lost power and drifted onto … Continue reading &rarr;"
 ---

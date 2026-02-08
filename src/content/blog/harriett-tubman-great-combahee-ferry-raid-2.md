@@ -13,6 +13,7 @@ tags:
   - "Harriett Tubman"
   - "slaves"
   - "Union army"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Harriet-Tubman.jpg"
 author: "Rick Spilman"
 description: "This is an updated repost from 2014. Now that it has been announced that Harriet Tubman will replace Andrew Jackon on the US $20 bill, it seems worthwhile to recall the Great Combahee Ferry Raid, which Harriet Tubman helped plan, scouted and … Continue reading &rarr;"
 ---

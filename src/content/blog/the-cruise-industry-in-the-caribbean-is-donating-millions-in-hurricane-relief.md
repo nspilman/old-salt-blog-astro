@@ -14,6 +14,7 @@ tags:
   - "Hurricane Dorian"
   - "relief"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/cruise-shipsdorian.jpg"
 author: "Rick Spilman"
 description: "The cruise industry in the Caribbean is donating to help the Bahamian victims of Hurricane Dorian. Royal Caribbean, Carnival, Norwegian Caribbean and Disney have all pledged millions in hurricane relief. Royal Caribbean is committing $1 million to Dorian disaster relief, … Continue reading &rarr;"
 ---

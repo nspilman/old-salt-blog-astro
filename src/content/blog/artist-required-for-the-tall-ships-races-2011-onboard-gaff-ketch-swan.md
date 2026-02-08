@@ -11,6 +11,7 @@ tags:
   - "herring drifter Swan"
   - "Swan Trust"
   - "Tall Ships Races"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Swan.jpg"
 author: "Rick Spilman"
 description: "This sounds like a wonderful gig for the right artist. Artist required for The Tall Ships Races 2011 onboard Swan In a first for The Tall Ships Races, the former herring drifter Swan will host an artist in residence for the whole … Continue reading &rarr;"
 ---

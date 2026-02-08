@@ -14,6 +14,7 @@ tags:
   - "ice liberty"
   - "Northwest Passage"
   - "USCGC Healy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/healynoice.jpg"
 author: "Rick Spilman"
 description: "One of the traditions of US icebreakers operating in the Arctic is \"ice liberty.\" When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
 ---

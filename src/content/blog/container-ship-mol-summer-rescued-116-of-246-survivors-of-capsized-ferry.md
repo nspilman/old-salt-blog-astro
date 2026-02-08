@@ -13,6 +13,7 @@ tags:
   - "MOL Summer"
   - "MV Rabaul Queen"
   - "Papua New Guinea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/photo_9321902_d.jpg"
 author: "Rick Spilman"
 description: "The officers and crew of the Mitsui O.S.K. Lines container ship, MOL Summer, deserve a special commendation for their rescue of 116 people following the capsizing and sinking of the passenger ferry MV Rabaul Queen off the coast of Papua New Guinea early Thursday. Eight merchant vessels assisted in … Continue reading &rarr;"
 ---

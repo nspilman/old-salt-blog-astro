@@ -10,6 +10,7 @@ categories:
 tags:
   - "Crown Princess"
   - "norovirus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/450px-Crown_Princess.jpg"
 author: "Rick Spilman"
 description: "A month long Pacific cruise on the Princess Cruise Line Crown Princess has been disrupted by a norovirus outbreak. 172 were sickened."
 ---

@@ -13,6 +13,7 @@ tags:
   - "CSS Georgia"
   - "Panama Canal"
   - "Savannah River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/h58721.jpg"
 author: "Rick Spilman"
 description: "In 1865, the CSS Georgia, a Confederate ironclad battery was burned and sunk in the Savannah River to avoid capture and to obstruct passage on the river.  (The ship was scuttled not far from where the British sank the frigate HMS … Continue reading &rarr;"
 ---

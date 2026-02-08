@@ -12,6 +12,7 @@ tags:
   - "Snoopy"
   - "Torpedo Alley"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/snoopy-200x178.jpg"
 author: "Rick Spilman"
 description: "Fifty one years ago this week, the scallop trawler Snoopy blew up off Currituck Sound, NC after a WWII torpedo got caught in its nets."
 ---

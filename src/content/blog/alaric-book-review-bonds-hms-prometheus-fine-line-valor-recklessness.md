@@ -11,6 +11,7 @@ tags:
   - "Alaric Bond"
   - "Fighting Sail"
   - "HMS Prometheus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/hmsprometheus1.jpg"
 author: "Rick Spilman"
 description: "Originally posted in gCaptain by Rick Spilman. Reposted with permission. In Alaric Bond‘s most recent novel, HMS Prometheus, the eighth of his Fighting Sail series, the Mediterranean is a dangerous place for the Royal Navy. In the autumn of 1803, the … Continue reading &rarr;"
 ---

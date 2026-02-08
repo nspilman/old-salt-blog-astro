@@ -12,6 +12,7 @@ tags:
   - "Harwich"
   - "Harwich Mayflower Project"
   - "Mayflower"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/79924562_sails-diagram.jpg"
 author: "Rick Spilman"
 description: "A new replica of the Mayflower is now under construction in Harwich, Essex, England."
 ---

@@ -11,6 +11,7 @@ tags:
   - "HMS Victory"
   - "Portsmouth Historic Dockyard"
   - "Vice-Admiral Lord Nelson"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/victorysnow.jpg"
 author: "Rick Spilman"
 description: "HMS Victory in recent snowy weather Portsmouth Historic Dockyard marks 88 years of HMS Victory From broadside battles off the Mediterranean coast to Vice Admiral Lord Nelson’s triumph in the Battle of Trafalgar and campaigns in the Baltic, the guardians … Continue reading &rarr;"
 ---

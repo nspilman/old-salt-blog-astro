@@ -10,6 +10,7 @@ tags:
   - "Day of the Seafarer"
   - "IMO"
   - "International Maritime Organization"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/2012_dosf_banner.jpg"
 author: "Rick Spilman"
 description: "Today is the IMO \"Day of the Seafarer.\"  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist. Take a look at a world … Continue reading &rarr;"
 ---

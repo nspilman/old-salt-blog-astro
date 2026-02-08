@@ -11,6 +11,7 @@ tags:
   - "Hurricanes"
   - "mystic seaport"
   - "timber"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/mystictimber.png"
 author: "Rick Spilman"
 description: "In 2009, we posted about how thousands of trees downed by Hurricane Ike in Galveston, TX proved to be a literal and figurative windfall for Mystic Seaport in rebuilding the historic whaling ship, Charles W. Morgan.  Of the 40,000 trees … Continue reading &rarr;"
 ---

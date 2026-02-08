@@ -14,6 +14,7 @@ tags:
   - "Proceedings"
   - "Supercarrier"
   - "US Naval Institute"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/CVN-78_Artist_Image.jpg"
 author: "Rick Spilman"
 description: "For seventy years, battleships were the unchallenged masters of the oceans, until technology swept them aside.  Now the aircraft carrier reigns supreme.  The US currently has five times more aircraft carrier capacity based on flight deck acreage than the the … Continue reading &rarr;"
 ---

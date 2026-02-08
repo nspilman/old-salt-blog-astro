@@ -13,6 +13,7 @@ tags:
   - "North Carolina"
   - "USS North Carolina"
   - "Wilmington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/ussnc1.jpg"
 author: "Rick Spilman"
 description: "The recent rain in the Carolinas has been close to unprecedented.  Meteorologists have referred to it as the \"1,000-year rainfall.\"  Another way to describe it is that it was \"enough rain to float a battleship.\" In this case, however, that … Continue reading &rarr;"
 ---

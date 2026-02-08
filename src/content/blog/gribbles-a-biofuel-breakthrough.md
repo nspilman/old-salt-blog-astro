@@ -5,6 +5,7 @@ slug: "gribbles-a-biofuel-breakthrough"
 excerpt: "Gribbles?  A wood eating marine pest may lead to a breakthrough in biofuels?  What’s next?  Teredo worms as a cure for cancer?   An intriguing article from the Times. Thanks to Alaric  Bond for the reference. ‘Gribble’ marine pest may be key … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Gribble.jpg"
 author: "Rick Spilman"
 description: "Gribbles?  A wood eating marine pest may lead to a breakthrough in biofuels?  What’s next?  Teredo worms as a cure for cancer?   An intriguing article from the Times. Thanks to Alaric  Bond for the reference. ‘Gribble’ marine pest may be key … Continue reading &rarr;"
 ---

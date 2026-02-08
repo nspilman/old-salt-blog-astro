@@ -15,6 +15,7 @@ tags:
   - "roll-on/roll-off ships"
   - "TOTE"
   - "Totem Ocean Transport Express"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/tote_lng_700.jpg"
 author: "Rick Spilman"
 description: "In December, Totem Ocean Transport Express (TOTE) ordered two new LNG powered container ships from NASSCO shipyard in San Diego.   Late last month they also signed a contract with NASSCO to convert two existing roll-on/roll-off ships to LNG fuel. … Continue reading &rarr;"
 ---

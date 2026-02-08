@@ -11,6 +11,7 @@ tags:
   - "Robert Redick"
   - "The Red Wolf Conspiracy"
   - "The Ruling Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/redwolf.jpg"
 author: "Rick Spilman"
 description: "I recently had recommended to me Robert Redick’s The Red Wolf Conspiracy, a fantasy epic which is almost exclusively set aboard the Imperial Merchant Ship Chathard, a 600 year old sailing ship of immerse proportions and age that sets out on … Continue reading &rarr;"
 ---

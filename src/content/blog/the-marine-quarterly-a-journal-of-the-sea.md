@@ -9,6 +9,7 @@ categories:
 tags:
   - "maritime journal"
   - "Maritime Quarterly"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/flyer.jpg"
 author: "Rick Spilman"
 description: "The Maritime Quarterly, a new maritime journal, was launched on the first of this month.  Looks very interesting.   Extracts are available on its website.  About the journal: The Marine Quarterly is a new kind of sea journal, reporting subjects of strong interest to everyone … Continue reading &rarr;"
 ---

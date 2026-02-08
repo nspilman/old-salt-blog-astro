@@ -5,6 +5,7 @@ slug: "cunard-employee-admits-to-molesting-children-on-queen-mary-ii-queen-eliza
 excerpt: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: \"Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/58494077_010085236-1.jpg"
 author: "Rick Spilman"
 description: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: \"Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
 ---

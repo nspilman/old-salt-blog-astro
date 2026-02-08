@@ -16,6 +16,7 @@ tags:
   - "MCIF"
   - "Vendée Globe"
   - "Virbac Paprec 3"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/virbac-paprec-jean-pierre-dick-r-645-184.jpg"
 author: "Rick Spilman"
 description: "François Gabart sailing MCIF in the Vendée Globe is less than 700 miles from the finish line, 76 days after setting out in the singled-handed around-the-world race. Armel Le Cléac´h sailing Banque Populaire is roughly one hundred miles behind Gabart.  The third place contender, Jean-Pierre Dick … Continue reading &rarr;"
 ---

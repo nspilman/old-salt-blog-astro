@@ -11,6 +11,7 @@ tags:
   - "containerization"
   - "containers"
   - "Stockholm International Peace Research Institute"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/containers.jpg"
 author: "Rick Spilman"
 description: "The Stockholm International Peace Research Institute has recently released a study of arms and drug trafficking by ship. The headline is \"Most ships involved in arms and drugs trafficking are based in world’s richest countries.\"  The larger part of the picture, however, is not … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Picton Castle"
   - "Rendezvous 2017"
   - "three masted barque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/pictoncastle17.jpg"
 author: "Rick Spilman"
 description: "Let’s say that you want to circumnavigate the world by sail and yet you don’t necessarily have enough experience or even, for that matter, a boat. All the same, you really want to make a-once-in-a-lifetime voyage where you are more than just a … Continue reading &rarr;"
 ---

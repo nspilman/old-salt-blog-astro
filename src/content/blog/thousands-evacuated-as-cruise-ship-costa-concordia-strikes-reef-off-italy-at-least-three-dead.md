@@ -15,6 +15,7 @@ tags:
   - "Giglio"
   - "Italy"
   - "Tuscan coast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costaconcordia.jpg"
 author: "Rick Spilman"
 description: "Just two hours after leaving port in Civitavecchia, the cruise ship Costa Concordia hit a reef near the island of Giglio, off Italy’s Tuscan coast, reportedly ripping a 165-foot gash in its hull.  The ship began flooding and rolled on its … Continue reading &rarr;"
 ---

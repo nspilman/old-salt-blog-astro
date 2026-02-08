@@ -13,6 +13,7 @@ tags:
   - "Lady Washington"
   - "Pride of Baltimore II"
   - "USS Constellation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/astajpg.jpg"
 author: "Rick Spilman"
 description: "A bit over a week ago we suggested an aircraft carrier as a holiday gift for the person who has everything.   OK, we admit that was not the most useful gift suggestion.  We now wish to suggest something far more practical and which also … Continue reading &rarr;"
 ---

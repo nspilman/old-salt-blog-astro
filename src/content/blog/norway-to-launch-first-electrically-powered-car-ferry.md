@@ -14,6 +14,7 @@ tags:
   - "Oppedal"
   - "Siemens"
   - "Sognefjord"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/1-firstcarferr.jpg"
 author: "Rick Spilman"
 description: "The Norwegian shipyard Fjellstrand and Siemens are developing the world’s first electrically powered car ferry. Starting in 2015, the 80-meter ferry will will operate across the Sognefjord between the towns of Lavik and Oppedal. The ferry will have the capacity … Continue reading &rarr;"
 ---

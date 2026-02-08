@@ -9,6 +9,7 @@ tags:
   - "Afloat Forward Staging Base"
   - "laser weapons"
   - "USS Ponce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/ponce1.jpg"
 author: "Rick Spilman"
 description: "The Navy plans to deploy its first laser weapons on the USS Ponce, one of its oldest ships. The laser weapons designed to be capable of disabling small enemy vessels and shooting down surveillance drones will be installed on the 43 … Continue reading &rarr;"
 ---

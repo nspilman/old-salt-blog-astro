@@ -11,6 +11,7 @@ categories:
 tags:
   - "Brig Niagara"
   - "State of Pennsylvania"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/niagara-pg.jpg"
 author: "Rick Spilman"
 description: "Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the Brig Niagara.  As reported by YourErie.com:  \"Maintaining the Brig Niagara, a sea-going legacy of American freedom and the sacrifices of the men who sailed her … Continue reading &rarr;"
 ---

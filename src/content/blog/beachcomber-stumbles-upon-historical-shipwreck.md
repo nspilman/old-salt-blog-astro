@@ -10,6 +10,7 @@ tags:
   - "beachcomber"
   - "North Carolina"
   - "shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/beachcomberwreck.jpg"
 author: "Rick Spilman"
 description: "A beachcomber found the wreck of a ship uncovered by winter gales on  a beach in North Carolina.   Originally though to the an 18th century Royal Navy ship, the wreck has now been identified as dating from the 1600s, making it the … Continue reading &rarr;"
 ---

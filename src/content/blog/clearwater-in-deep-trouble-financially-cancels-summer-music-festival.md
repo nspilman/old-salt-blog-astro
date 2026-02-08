@@ -12,6 +12,7 @@ tags:
   - "Great Hudson River Revival"
   - "Hudson river sloop"
   - "music festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/clearwater1.jpg"
 author: "Rick Spilman"
 description: "Only days after hearing good news about funding for the Pride of Baltimore II, there is very grim news about the organization which operates the Hudson River sloop Clearwater. The Clearwater organization announced that it is facing deep financial problems … Continue reading &rarr;"
 ---

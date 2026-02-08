@@ -9,6 +9,7 @@ categories:
 tags:
   - "\"superstorm\" Sandy"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/South_Street_Seaport.jpg"
 author: "Rick Spilman"
 description: "Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to … Continue reading &rarr;"
 ---

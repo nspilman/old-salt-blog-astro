@@ -11,6 +11,7 @@ tags:
   - "Go Around Again"
   - "Rich Wilson"
   - "Vendée Globe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/richwilson.jpg"
 author: "Rick Spilman"
 description: "In 2009, Rich Wilson at 58 was the oldest sailor in the Vendee Globe single-handed round-the-world yacht race. Now at 64, he is preparing to do it again."
 ---

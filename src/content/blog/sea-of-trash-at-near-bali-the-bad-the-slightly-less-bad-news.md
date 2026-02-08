@@ -11,6 +11,7 @@ tags:
   - "Manta Point"
   - "plastics"
   - "trash"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/balitrash.jpg"
 author: "Rick Spilman"
 description: "Manta Point is a popular dive spot off the southernmost shore of Nusa Penida Island, near Bali, Indonesia.  Divers are attracted by the large number of manta rays which congregate there. On March 3rd, a British diver, Rich Horner, found far more than mantas at … Continue reading &rarr;"
 ---

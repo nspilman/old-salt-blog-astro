@@ -16,6 +16,7 @@ tags:
   - "MV Liemba"
   - "passenger steamer"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/liemba.jpg"
 author: "Rick Spilman"
 description: "At over 100 years old MV Liemba, ex Graf Goetzen, operating on Lake Tanganyika is believed to be the oldest passenger ferry in service."
 ---

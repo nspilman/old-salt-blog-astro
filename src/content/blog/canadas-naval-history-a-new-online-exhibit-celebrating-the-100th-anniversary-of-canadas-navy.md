@@ -10,6 +10,7 @@ categories:
 tags:
   - "Canada's Naval History"
   - "Canadian War Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/canadanavy.jpg"
 author: "Rick Spilman"
 description: "The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – Canada’s Naval History. Canadian War Museum launches online naval history exhibition \"Canada’s Naval History explores the wide range of this country’s … Continue reading &rarr;"
 ---

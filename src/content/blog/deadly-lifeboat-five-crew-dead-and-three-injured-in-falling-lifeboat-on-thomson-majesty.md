@@ -13,6 +13,7 @@ tags:
   - "lifeboat"
   - "Spain"
   - "Thomson Majesty"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/tmajestylifeboat.jpg"
 author: "Rick Spilman"
 description: "Five crew members on the cruise ship Thomson Majesty are reported to have died and three others were injured after a lifeboat fell 65 feet into the water during a safety drill at the port of Santa Cruz in La Palma, in Spain’s … Continue reading &rarr;"
 ---

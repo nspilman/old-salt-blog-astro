@@ -12,6 +12,7 @@ tags:
   - "carbon-neutral cargo liner vessel"
   - "largest container ship operator"
   - "Maersk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/02/maerskcarbonneutral.jpg"
 author: "Rick Spilman"
 description: "Today, A.P. Moller-Maersk, the largest container ship operator in the world, announced that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. They also noted that all future … Continue reading &rarr;"
 ---

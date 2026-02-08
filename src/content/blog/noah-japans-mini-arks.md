@@ -12,6 +12,7 @@ tags:
   - "Mini-Arks"
   - "Noah"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/noah.jpg"
 author: "Rick Spilman"
 description: "Cosmo Power, a Japanese engineering company, has developed the \"Noah\" a four person mini-ark to help residents along Japan’s coast survive a future tsunami.  The \"Noah\" is  a four foot diameter bright yellow sphere made of fiber-reinforced plastic. It is self righting … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "Ken Kaye"
   - "Mark Faulstick"
   - "Woodwind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/722811000.jpg"
 author: "Rick Spilman"
 description: "Last Friday, 39 schooners set off from Baltimore, Maryland sailing 127 miles down the Chesapeake to Portsmouth, Virginia in the 22nd Annual Great Chesapeake Bay Schooner Race.  This year the first schooner to cross Thimble Shoal with an elapsed time … Continue reading &rarr;"
 ---

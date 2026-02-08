@@ -12,6 +12,7 @@ tags:
   - "Mort Künstler"
   - "Trenton"
   - "Washington Crossing the Delaware"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/24PAINTING-1-blog480.jpg"
 author: "Rick Spilman"
 description: "On Christmas Day in 1776, George Washington led what was left of his army across the Delaware River in the middle of a blizzard to attack a Hessian outpost in Trenton, NJ.  In one bold stroke, he turned almost certain … Continue reading &rarr;"
 ---

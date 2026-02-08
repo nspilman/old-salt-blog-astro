@@ -8,6 +8,7 @@ categories:
 tags:
   - "Chesapeake Bay Maritime Museum"
   - "Chesapeake Folk Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/324.jpg"
 author: "Rick Spilman"
 description: "The Chesapeake Bay Maritime Museum’s 5th Annual Chesapeake Folk Festival, this Saturday, July 28th, in St. Michaels, MD, celebrates the Bay’s people, arts, work, and bounty offers a full stage of live music all day long, regional foods, hands-on activities with … Continue reading &rarr;"
 ---

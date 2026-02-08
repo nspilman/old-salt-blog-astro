@@ -12,6 +12,7 @@ tags:
   - "Oracle"
   - "Soap Opera"
   - "Team New Zealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/oraclepitchpole.jpg"
 author: "Rick Spilman"
 description: "The America's Cup soap opera continues, with all the twists and turns one might expect and few that are a complete surprise."
 ---

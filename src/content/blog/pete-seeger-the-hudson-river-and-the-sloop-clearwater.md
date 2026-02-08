@@ -10,6 +10,7 @@ tags:
   - "hudson river"
   - "Hudson river sloop"
   - "Pete Seeger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/pete_sloop.jpg"
 author: "Rick Spilman"
 description: "Pete Seeger died last night at the age of 94.  Seeger was a folk singer and song writer, as well as an activist who thought that song just might change the world.  It is hard to believe that he has … Continue reading &rarr;"
 ---

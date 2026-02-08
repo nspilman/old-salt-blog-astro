@@ -12,6 +12,7 @@ tags:
   - "HMS Victory"
   - "Trafalgar Square"
   - "Yinka Shonibare"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/pirateontheplinth.jpg"
 author: "Rick Spilman"
 description: "In July we posted about the exhibition of Yinka Shonibare’s Nelson’s Ship in a Bottle on the Fourth Plinth in Trafalgar Square.  There was an interesting symmetry in the display of Nelson’s ship, Victory, in a bottle, on a plinth, in … Continue reading &rarr;"
 ---

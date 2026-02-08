@@ -13,6 +13,7 @@ tags:
   - "Lenape Indians"
   - "manhattan"
   - "New York City"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/halfmoon3.jpg"
 author: "Rick Spilman"
 description: "Today there are 1.6 million or so residents on the island of Manhattan.  How things have changed. Four hundred years ago on September 12th, 1609, when Henry Hudson first stepped onto the island, there were roughly 600 Lenape Indians living … Continue reading &rarr;"
 ---

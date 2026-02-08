@@ -10,6 +10,7 @@ tags:
   - "Menai Strait"
   - "The Strangest Coincidence Ever Recorded"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/hughwilliam.jpg"
 author: "Rick Spilman"
 description: "There is a video bouncing around the web these days called \"The Strangest Coincidence Ever Recorded?\"   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Delaware 'Bay Day'"
   - "NJ Championship Oyster Shucking Contest"
   - "Port Norris"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/baydaykid.jpg"
 author: "Rick Spilman"
 description: "The good folks at the Bayshore Discovery Project say that \"Delaware ‘Bay Day’ is the largest FREE festival in the tri-state region.\"   I have no way of knowing whether that is literally true, but nevertheless it sounds like great fun.   ‘Bay Day’ will … Continue reading &rarr;"
 ---

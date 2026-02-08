@@ -11,6 +11,7 @@ tags:
   - "clearwater"
   - "Hudson river sloop"
   - "Massachusetts tall ship Ernestina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/amanda-lake-150x192.jpg"
 author: "Rick Spilman"
 description: "Sad news regarding a a remarkable woman and sailor. Amanda Ridgely Lake Amanda Ridgely Lake died in her home in Fairhaven, MA on August 19. Ms. Lake was 44.  Ms. Lake was only one of a handful of women to … Continue reading &rarr;"
 ---

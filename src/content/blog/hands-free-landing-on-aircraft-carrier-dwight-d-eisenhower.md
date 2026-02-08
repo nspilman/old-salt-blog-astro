@@ -10,6 +10,7 @@ tags:
   - "\"Hands Free\" Landing"
   - "F/A-18D Hornet fighter plane"
   - "USS Dwight D. Eisenhower"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/carrierlanding.jpg"
 author: "Rick Spilman"
 description: "A modified F/A-18D Hornet fighter plane recently landed on the deck of the aircraft carrier USS Dwight D. Eisenhower controlled by linked computers on the ship and on the plane. A pilot and a flight engineer were on the plane … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Port-au-Prince"
   - "Tonga"
   - "William Mariner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/portauprince.jpg"
 author: "Rick Spilman"
 description: "Divers may have found the wreck of a British privateer, Port-au-Prince, which was sunk off the island of Lifuka  in the Ha’apai island group of Tonga, in December 1806. The ship was attacked by Tongan warriors on the orders of King Finau ‘Ulukalala II. The Tongans … Continue reading &rarr;"
 ---

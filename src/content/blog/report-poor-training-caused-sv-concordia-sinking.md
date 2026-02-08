@@ -12,6 +12,7 @@ tags:
   - "SV Concordia"
   - "training"
   - "Transportation Safety Board of Canada"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/Concordia3-1.jpg"
 author: "Rick Spilman"
 description: "In February 2010, the sail training ship Concordia sank off the coast of Brazil.  At the time, the captain said that the ship was hit by a \"microburst,\" also known as a white squall, a violet storm which struck the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "container ship"
   - "MSC Fabiola"
   - "Port of Long Beach"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/68868966.jpg"
 author: "Rick Spilman"
 description: "Way back in 1984, I worked for Malcom McLean’s United States Lines, when the 4,400 TEU (Twenty-foot Equivalent Unit) containership, the American New York, was delivered. She was this first of McLean’s fleet of \"Jumbo Econships.\"   In those days, he … Continue reading &rarr;"
 ---

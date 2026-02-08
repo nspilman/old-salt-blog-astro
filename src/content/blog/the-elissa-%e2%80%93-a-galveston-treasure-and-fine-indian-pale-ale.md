@@ -11,6 +11,7 @@ tags:
   - "1877 Barque Elissa"
   - "Elissa IPA"
   - "Saint Arnold Brewing Company"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/photo_elissa.jpg"
 author: "Rick Spilman"
 description: "The folks at the Pint Jockeys blog have suggested a great way to support the repairs to the 1877 Barque Elissa, which is believed to have been a victim of stray current electrolytic corrosion resulting from underwater  electrical cable damage after Hurricane Ike. … Continue reading &rarr;"
 ---

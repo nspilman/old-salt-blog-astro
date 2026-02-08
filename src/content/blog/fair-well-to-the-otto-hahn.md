@@ -12,6 +12,7 @@ tags:
   - "NS Savannah"
   - "nuclear powered commercial cargo ship"
   - "Otto Hahn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Otto_Hahn.jpg"
 author: "Rick Spilman"
 description: "Nuclear power as a propulsion system for merchant ships was the future that never arrived.  The Otto Hahn was the second of only four nuclear powered commercial cargo ships ever built.   The first was the NS Savannah, which operated between 1962 … Continue reading &rarr;"
 ---

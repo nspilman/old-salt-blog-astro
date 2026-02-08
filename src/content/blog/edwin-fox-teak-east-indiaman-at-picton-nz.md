@@ -14,6 +14,7 @@ tags:
   - "India"
   - "New Zealand"
   - "Picton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/efox1.jpg"
 author: "Rick Spilman"
 description: "Ben Talman, a reader and contributor to the Old Salt Blog, visited the Edwin Fox in Picton, New Zealand and took a series of wonderful photos of the historic ship. The Edwin Fox is an East Indiaman built in 1853 of teak in Calcutta, India. … Continue reading &rarr;"
 ---

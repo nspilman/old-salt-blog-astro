@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "U.S. ARMY Battle Tug"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/battletug.jpg"
 author: "Rick Spilman"
 description: "Thanks to Dave Shirlaw on MARHST-L for pointing out a fascinating vessel for sale on E-Bay.  The vessel is a steel tug, ST 893, built by JK Welding of Brooklyn, NY in 1945.   The tug is said to have served in … Continue reading &rarr;"
 ---

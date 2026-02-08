@@ -12,6 +12,7 @@ tags:
   - "Fleet Week"
   - "Marines"
   - "navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/fleetweekbanner.jpg"
 author: "Rick Spilman"
 description: "Starting Wednesday this week, the fleet will be in town, well part of it anyway, to celebrate the 28th observance of Fleet Week New York.  Eight Navy warships, two Coast Guard cutters, and a Marine expeditionary unit will converge on the harbor. … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "2010: Moby Dick"
   - "Barry Bostwick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/md2010.jpg"
 author: "Rick Spilman"
 description: "The closest thing to a nautical movie in the theaters this season, The Chronicles of Narnia: The Voyage of the Dawn Treader, doesn’t sound like it is necessarily worth the price of a ticket. Manohla Dargis begins her review in … Continue reading &rarr;"
 ---

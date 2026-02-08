@@ -13,6 +13,7 @@ tags:
   - "kidnapping"
   - "Kiwayu Safari Village"
   - "murder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/kenya_1994836c.jpg"
 author: "Rick Spilman"
 description: "British tourists, David and Judith Tebbutt,  arrived at Kiwayu Safari Village, an exclusive Kenyan resort, at 4PM, Saturday.  Between midnight and 4AM, a gang of armed men arrived by speedboat and stormed their beachfront villa.  David Tebbutt, 58, was killed and his wife … Continue reading &rarr;"
 ---

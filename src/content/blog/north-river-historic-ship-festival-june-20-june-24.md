@@ -5,6 +5,7 @@ slug: "north-river-historic-ship-festival-june-20-june-24"
 excerpt: "The North River Historic Ship Festival is returning for the sixth year to Hudson River Park’s Pier 25 in Lower Manhattan from Friday, June 20 to Tuesday June 24.  The festival will offer 500 free boat rides aboard historic vessels, hands-on tours of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/boats6.jpg"
 author: "Rick Spilman"
 description: "The North River Historic Ship Festival is returning for the sixth year to Hudson River Park’s Pier 25 in Lower Manhattan from Friday, June 20 to Tuesday June 24.  The festival will offer 500 free boat rides aboard historic vessels, hands-on tours of … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Edward Teach"
   - "Man O’War Gunpowder Rum"
   - "New Zealand bartender"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/gunpowderrum.jpg"
 author: "Rick Spilman"
 description: "The story goes that the pirate, Edward Teach, better known as Blackbeard, once mixed gunpowder in his rum, set the rum on fire and then drank the explosive mixture, sort of an early 18th century flaming jello shot, but with more incendiary and less … Continue reading &rarr;"
 ---

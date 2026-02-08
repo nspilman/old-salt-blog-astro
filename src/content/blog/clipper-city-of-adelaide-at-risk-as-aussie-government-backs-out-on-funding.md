@@ -12,6 +12,7 @@ tags:
   - "composite clipper ship"
   - "SCARF"
   - "Sunderland City of Adelaide Recovery Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/4278558403.jpg"
 author: "Rick Spilman"
 description: "The future of the oldest, just barely surviving, composite clipper ship in the world, the City of Adelaide, is again in question. Shortly before it was due to be scrapped in Scotland last August, an agreement was reached to send … Continue reading &rarr;"
 ---

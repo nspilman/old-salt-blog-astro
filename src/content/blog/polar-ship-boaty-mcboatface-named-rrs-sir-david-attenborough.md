@@ -11,6 +11,7 @@ tags:
   - "Boaty McBoatface"
   - "British Natural Environment Research Council"
   - "RRS Sir David Attenborough"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/Nameboat.jpg"
 author: "Rick Spilman"
 description: "It is official. The polar research ship formerly known as Boaty McBoatface will be named RRS Sir David Attenborough.  Despite an overwhelming number of suggestions that the UK’s new polar research ship be named Boaty McBoatface, the ship will be named after the … Continue reading &rarr;"
 ---

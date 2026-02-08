@@ -6,6 +6,7 @@ excerpt: "From Tuesday, September 17 through Saturday, September 21st, we will p
 categories:
   - "Blog Hop"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/2013-Nautical-Blog-Hopsmall.jpg"
 author: "Rick Spilman"
 description: "From Tuesday, September 17 through Saturday, September 21st, we will participating in \"Weigh Anchor,\" a nautical blog hop organized by the wonderful Helen Hollick.  She has brought together twenty three writers of nautical fiction and non-fiction to post about their … Continue reading &rarr;"
 ---

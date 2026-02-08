@@ -12,6 +12,7 @@ tags:
   - "Maersk Pelican"
   - "Norsepower"
   - "rotor sail"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/mpelicanrotors.jpg"
 author: "Rick Spilman"
 description: "A year ago we posted about the testing of two modern Rotor Sails installed on the MV Maersk Pelican, a 110,000 DWT  Long Range 2 product tanker. The 30-meter tall and 5-meter diameter rotors were predicted to reduce fuel consumption … Continue reading &rarr;"
 ---

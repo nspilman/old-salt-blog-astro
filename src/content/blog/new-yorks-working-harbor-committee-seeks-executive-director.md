@@ -9,6 +9,7 @@ categories:
 tags:
   - "Executive Director"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/whcbanner.jpg"
 author: "Rick Spilman"
 description: "Last year, John Doswell, the Executive Director of  New York’s Working Harbor Committee, died after a long illness. The Committee is now seeking an Executive Director to continue the great work that John and his colleagues have undertaken. For those interested, click … Continue reading &rarr;"
 ---

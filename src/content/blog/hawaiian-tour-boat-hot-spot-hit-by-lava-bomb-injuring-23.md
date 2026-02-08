@@ -11,6 +11,7 @@ tags:
   - "Hot Spot"
   - "lava bomb"
   - "tour boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/lavabomb.jpg"
 author: "Rick Spilman"
 description: "On Monday, the name \"Hot Spot\" proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing … Continue reading &rarr;"
 ---

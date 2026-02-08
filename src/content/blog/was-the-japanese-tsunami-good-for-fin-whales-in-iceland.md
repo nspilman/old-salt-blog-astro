@@ -10,6 +10,7 @@ tags:
   - "fin whale"
   - "Icelandic whaling"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/ap061022026449.jpg"
 author: "Rick Spilman"
 description: "Time recently posted an article \"Why Fukushima Is Good for Whales (in Iceland).\" The article,  in fact, had almost nothing to do with the damaged nuclear power plants at Fukushima (at least as applied to whales) and quite a lot … Continue reading &rarr;"
 ---

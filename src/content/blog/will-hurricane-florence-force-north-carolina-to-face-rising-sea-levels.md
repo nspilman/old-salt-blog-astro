@@ -10,6 +10,7 @@ tags:
   - "Hurricane Florence"
   - "North Carolina"
   - "sea level rise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/hflorence.jpg"
 author: "Rick Spilman"
 description: "In 2010, a North Carolina state commission report predicted that sea levels on the state’s coast could rise as much as 39 inches by the year 2100, flooding billions of dollars’ worth of real estate and crippling much of the … Continue reading &rarr;"
 ---

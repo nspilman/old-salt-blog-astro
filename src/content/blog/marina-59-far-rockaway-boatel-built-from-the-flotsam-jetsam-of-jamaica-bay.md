@@ -5,6 +5,7 @@ slug: "marina-59-far-rockaway-boatel-built-from-the-flotsam-jetsam-of-jamaica-ba
 excerpt: "In a marina in the Far Rockaway neighborhood, in the New York City borough of Queens, a summer habitation has grown up from a group of abandoned docks and boats.  Part artists’ colony and part junk yard, the Boatel at Marina 59 is described as : … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/6001950462_fab0894c4e_o.jpg"
 author: "Rick Spilman"
 description: "In a marina in the Far Rockaway neighborhood, in the New York City borough of Queens, a summer habitation has grown up from a group of abandoned docks and boats.  Part artists’ colony and part junk yard, the Boatel at Marina 59 is described as : … Continue reading &rarr;"
 ---

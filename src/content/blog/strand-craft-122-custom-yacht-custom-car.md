@@ -11,6 +11,7 @@ tags:
   - "Custom Car"
   - "Custom Yacht"
   - "STRAND CRAFT 122"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/exterior3-588.jpg"
 author: "Rick Spilman"
 description: "It is such a relief that we never really have to worry about the very wealthy among us running out of places to spend their money.   Here may be but the latests example of where those with more money than sense can drop … Continue reading &rarr;"
 ---

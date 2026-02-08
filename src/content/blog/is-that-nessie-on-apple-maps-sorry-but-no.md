@@ -11,6 +11,7 @@ tags:
   - "Google Earth"
   - "Loch Ness monster"
   - "Nessie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/applenessie.jpg"
 author: "Rick Spilman"
 description: "Last week, stories started appearing on the Internet about a satellite image on Apple maps, of what was described as something large swimming just below the surface in Loch Ness.  Had satellite photography captured an image of the Loch Ness … Continue reading &rarr;"
 ---

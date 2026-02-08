@@ -11,6 +11,7 @@ tags:
   - "ballistic missile"
   - "North Korea"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/nkmissilelaunch.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, a North Korean submarine fired a ballistic missile while submerged off the country’s eastern coast.  The missile was successfully ejected from the submarine but the missile was believed to have failed in its initial flight stage. This was the … Continue reading &rarr;"
 ---

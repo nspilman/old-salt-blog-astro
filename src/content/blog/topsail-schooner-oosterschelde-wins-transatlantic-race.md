@@ -12,6 +12,7 @@ tags:
   - "Oosterschelde"
   - "Rendez-Vous 2017 Tall Ships Regatta"
   - "three-masted topsail schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/Oosterschelde1.jpg"
 author: "Rick Spilman"
 description: "The Dutch three-masted topsail schooner Oosterschelde will be 100 years old next year, but she is still fast. She just finished first in the trans-Atlantic race from Halifax to Le Havre. After a voyage of 2,500 nautical miles (4,500 km) the ship … Continue reading &rarr;"
 ---

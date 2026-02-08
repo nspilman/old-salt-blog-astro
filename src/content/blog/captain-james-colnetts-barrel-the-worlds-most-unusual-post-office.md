@@ -14,6 +14,7 @@ tags:
   - "Galapagos archipelago"
   - "mail barrel"
   - "Post Office Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/postofficebarrel.jpg"
 author: "Rick Spilman"
 description: "In 1793, Captain James Colnett of the merchant ship Rattler placed a barrel a short distance from a bay on the island of Floreana in the Galapagos archipelago. Captain Colnett was a British Naval officer, an explorer, and a maritime … Continue reading &rarr;"
 ---

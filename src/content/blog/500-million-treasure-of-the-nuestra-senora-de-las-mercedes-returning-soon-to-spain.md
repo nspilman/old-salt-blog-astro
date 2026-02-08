@@ -16,6 +16,7 @@ tags:
   - "Portugal"
   - "Royal Navy"
   - "Spanish Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/Gold-Spanish-doubloons.jpg"
 author: "Rick Spilman"
 description: "Within the next day or so, two Spanish Air Force C-130 transport planes will land at Tampa’s MacDill Air Force Base to load 17 tons of gold and silver coins and other artifacts recovered from the wreck of the Spanish Navy’s Nuestra … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Mayday"
   - "pan-pan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/coast.guard_.motor_.life_.boat_.jpg"
 author: "Rick Spilman"
 description: "Happy May Day! May 1st is a traditional day of celebration of the coming of spring with May poles and dancing and general carrying on. In Europe it is also a day of solidarity with labor, similar o the US … Continue reading &rarr;"
 ---

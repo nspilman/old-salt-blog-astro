@@ -12,6 +12,7 @@ tags:
   - "Giglio"
   - "Le Scole"
   - "one-year anniversary"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa-concordia-e1326646133.jpg"
 author: "Rick Spilman"
 description: "On the island of Giglio in Italy’s Tyrrhenian Sea, relatives of the 32 passengers and crew who died when the Costa Concordia crashed into rocks last year gathered today to mark the one-year anniversary of the tragedy. One year ago today, the cruise ship Costa Concordia … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Rescue Coordination Centers"
   - "Seafarers Awareness Week"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/whitekingdom.jpg"
 author: "Rick Spilman"
 description: "For those in trouble at sea, technology has dramatically increased the chances of survival. Satellite phones, GPS transducers, EPIRBs and the like have made it possible to call for help across the vastness of the world’s oceans.  Some things haven’t changed however.  When help arrives, chances are, it will … Continue reading &rarr;"
 ---

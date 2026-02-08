@@ -15,6 +15,7 @@ tags:
   - "Solo Around the Americas"
   - "solo circumnavigation of the Americas"
   - "St. Brendan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/mattr2.jpg"
 author: "Rick Spilman"
 description: "Matt Rutherford, sailing St. Brendan, a 27′ Albin Vega, is within hours of sailing into the Chesapeake Bay, finishing his solo circumnavigation of the Americas!  Matt is planning to on setting foot on-shore for the first time in 25,000 miles-at-sea, at noon, Saturday, April 21 at … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "tall-ship-soren-larsen-%e2%80%93-south-pacific-bound"
 excerpt: "The Tall Ship Soren Larsen is returning to the Pacific in 2010 2010 Summer Voyaging In May the ship will depart from New Zealand for the South Seas with a voyage route chosen to encompass some of our favourite island … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/05/sorenlarsen.jpg"
 author: "Rick Spilman"
 description: "The Tall Ship Soren Larsen is returning to the Pacific in 2010 2010 Summer Voyaging In May the ship will depart from New Zealand for the South Seas with a voyage route chosen to encompass some of our favourite island … Continue reading &rarr;"
 ---

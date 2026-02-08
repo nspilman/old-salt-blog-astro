@@ -5,6 +5,7 @@ slug: "harriett-tubman-and-the-great-combahee-ferry-raid"
 excerpt: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/Harriet-Tubman.jpg"
 author: "Rick Spilman"
 description: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "galveston"
   - "Galveston Historical Foundation"
   - "Texas Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Elissa_off_Biloxi19862.jpg"
 author: "Rick Spilman"
 description: "The barque Elissa, built in 1877 in Aberdeen, Scotland, the Official Tall ship of the State of Texas and the star attraction at the Texas Seaport Museum in Galveston, is suffering from electrolytic corrosion, which if not repaired, may keep … Continue reading &rarr;"
 ---

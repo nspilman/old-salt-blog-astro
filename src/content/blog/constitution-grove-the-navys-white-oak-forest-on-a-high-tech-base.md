@@ -11,6 +11,7 @@ tags:
   - "Naval Surface Warfare Center Crane"
   - "USS Constitution"
   - "white oak forest"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/constitutiongrove.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy Admiral Collingwood would famously slip a handful of acorns into his pockets before taking a walk in the woods near his home. He would press an acorn into the soil whenever he saw a good place for … Continue reading &rarr;"
 ---

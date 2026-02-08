@@ -16,6 +16,7 @@ tags:
   - "Mariehamn"
   - "shipwreck"
   - "World's Oldest Champagne"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/OldestChampagne2-1.jpg"
 author: "Rick Spilman"
 description: "Last  July we posted about divers finding intact bottles of champagne, believed to date from between 1782 and 1788, in the hold of a shipwreck on the Baltic seabed.   In November, a bottle of the \"world’s oldest champagne\" was opened and tasted by … Continue reading &rarr;"
 ---

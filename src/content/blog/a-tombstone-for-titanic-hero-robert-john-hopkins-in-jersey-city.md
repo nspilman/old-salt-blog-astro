@@ -13,6 +13,7 @@ tags:
   - "Madeline Astor"
   - "Robert John Hopkins"
   - "Titanic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/hopkinstombstone.jpg"
 author: "Rick Spilman"
 description: "Robert John Hopkins was one of the lesser-known heroes on the Titanic. He died in 1943 at the age of 77 and was buried in an unmarked grave in the Holy Name Cemetery, in Jersey City, NJ.  Last Saturday, his descendants gathered … Continue reading &rarr;"
 ---

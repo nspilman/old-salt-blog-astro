@@ -11,6 +11,7 @@ tags:
   - "Gulf of Mexico"
   - "Mako shark"
   - "spotted eagle ray"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/shark.jpg"
 author: "Rick Spilman"
 description: "Last summer we posted about a breaching Southern Right whale that landed on a sailboat off South Africa.   This week, boaters off the Florida Keys and in the Gulf of Mexico off Texas got surprise visitors. Off the Florida Keys a 200 … Continue reading &rarr;"
 ---

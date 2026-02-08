@@ -12,6 +12,7 @@ tags:
   - "Cuffee Slocum"
   - "Paul Cuffee"
   - "Westport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/paulcuffee.jpg"
 author: "Rick Spilman"
 description: "The Maritime Administration identifies Captain Hugh Mulzac as The First African-American Shipmaster. Mulzac was the captain of the Liberty ship Booker T. Washington in 1942. Without intending any disrespect to the memory of Captain Mulzac, he was not the first African American shipmaster, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Great Lakes"
   - "Picton Castle"
   - "Tall Ships America's Tall Ships Challenge -- Great Lakes 2019"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/pictoncastle17.jpg"
 author: "Rick Spilman"
 description: "Just returning from its seventh round the world voyage, the barque Picton Castle will set off again this summer bound for the Great Lakes to take part in the Tall Ships America’s Tall Ships Challenge — Great Lakes 2019.  The … Continue reading &rarr;"
 ---

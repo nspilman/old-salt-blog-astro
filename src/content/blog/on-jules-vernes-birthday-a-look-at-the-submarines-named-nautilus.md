@@ -16,6 +16,7 @@ tags:
   - "Robert Fulton"
   - "USS Nautilus"
   - "Vingt mille lieues sous les mers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/fultonjmnaut-125x83.jpg"
 author: "Rick Spilman"
 description: "On this the 183th anniversary of the birth of Jules Verne, it seems worthwhile to look at the submarines named Nautilus.    Click on any of the thumbnails for a larger image. … Continue reading &rarr;"
 ---

@@ -15,6 +15,7 @@ tags:
   - "Staten Island"
   - "U.S. Coast Guard"
   - "U.S. Lighthouse Service"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilacstern1.jpg"
 author: "Rick Spilman"
 description: "In her long and varied career, the historic cutter Lilac has had many jobs. She served as a lighthouse and buoy tender — bringing supplies to lighthouse and maintaining aids to navigation. She also fought ship fires and rescued the keepers on … Continue reading &rarr;"
 ---

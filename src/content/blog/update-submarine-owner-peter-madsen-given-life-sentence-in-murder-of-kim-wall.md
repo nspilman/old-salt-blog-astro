@@ -12,6 +12,7 @@ tags:
   - "Kim Wall"
   - "Madsen"
   - "Peter Madsen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/wallnautiuls.jpg"
 author: "Rick Spilman"
 description: "We have been following the grim saga of the murder of Swedish journalist Kim Wall since last August.  Ms. Wall disappeared after going on a trip in Copenhagen harbor onboard Peter Madsen’s private submarine, UC3 Nautulis, as part of an interview. The … Continue reading &rarr;"
 ---

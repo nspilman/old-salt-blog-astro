@@ -11,6 +11,7 @@ tags:
   - "lobster"
   - "Long Island Sound"
   - "Maine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/lobsterbin.jpg"
 author: "Rick Spilman"
 description: "Today, the New York Times featured an article titled — \"Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.\" The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
 ---

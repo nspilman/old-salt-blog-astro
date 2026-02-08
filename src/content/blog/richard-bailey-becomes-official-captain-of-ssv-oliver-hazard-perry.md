@@ -11,6 +11,7 @@ tags:
   - "Captain Richard Bailey"
   - "Oliver Hazard Perry Rhode Island"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/richardbailey.jpg"
 author: "Rick Spilman"
 description: "Congratulations to Richard Bailey who has been appointed captain of the SSV Oliver Hazard Perry, which, when commissioned next summer, will be among the largest and most sophisticated school ships built in America in recent decades.  The Oliver Hazard Perry Rhode Island organization … Continue reading &rarr;"
 ---

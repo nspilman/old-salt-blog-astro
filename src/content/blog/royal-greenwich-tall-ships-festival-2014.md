@@ -15,6 +15,7 @@ tags:
   - "Tall &amp; Historic Ships"
   - "Thames"
   - "Thames Barges"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/thamsetallship.jpg"
 author: "Rick Spilman"
 description: "Royal Greenwich Tall Ships Festival will take place at three sites across Royal Greenwich and one in neighboring Canary Wharf, September 5th - 9th."
 ---

@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USS Oriskany"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/greatcarrierreef.jpg"
 author: "Rick Spilman"
 description: "USS Oriskany is an Essex-class aircraft carrier completed after World War II. She served in both the Korean and the Vietnam wars. In 2006, the almost 900′ long  ship became the world’s largest artificial reef after being sunk 22 miles … Continue reading &rarr;"
 ---

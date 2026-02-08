@@ -12,6 +12,7 @@ tags:
   - "Captain Jonathan Boulware"
   - "South Street Seaport Museum"
   - "Wavertree"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/wavertreetug1-151x200.jpg"
 author: "Rick Spilman"
 description: "On Thursday, May 21, 2015, the Wavertree be towed across the harbor to Staten Island to undergoing a $10.5 million drydocking and refurbishment."
 ---

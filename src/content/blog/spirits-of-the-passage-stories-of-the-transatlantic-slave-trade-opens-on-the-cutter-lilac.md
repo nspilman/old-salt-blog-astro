@@ -14,6 +14,7 @@ tags:
   - "Mel Fisher Maritime Museum"
   - "Spirits of the Passage"
   - "Transatlantic Slave Trade"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/sotpLilac.jpg"
 author: "Rick Spilman"
 description: "Spirits of the Passage: Stories of the Transatlantic Slave Trade opened yesterday on board the ex-USCG cutter Lilac at Hudson River Park’s Pier 25.  The exhibit explores the transatlantic slave trade through a display of nearly 150 historical objects, many salvaged from sunken … Continue reading &rarr;"
 ---

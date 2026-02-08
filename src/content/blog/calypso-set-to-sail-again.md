@@ -11,6 +11,7 @@ tags:
   - "Calypso"
   - "Cousteau Society"
   - "Jacques Cousteau"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/calypso2.jpg"
 author: "Rick Spilman"
 description: "Big news from the Cousteau Society. They have announced: As 2016 begins, Calypso will be getting a whole new life, 20 years after its accident in Singapore! After having explored the possibility of a future for Captain Cousteau’s iconic ship in … Continue reading &rarr;"
 ---

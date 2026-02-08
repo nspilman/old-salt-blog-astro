@@ -13,6 +13,7 @@ tags:
   - "Scarborough Shoal"
   - "South China Sea"
   - "The Hague"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/NineDashSCS.jpg"
 author: "Rick Spilman"
 description: "For those concerned by China’s aggressive expansion into the South China Sea, there is some very good news and some not so good news. The very good news is that an international tribunal in The Hague has overwhelmingly rejected Chinese claims … Continue reading &rarr;"
 ---

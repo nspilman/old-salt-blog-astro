@@ -18,6 +18,7 @@ tags:
   - "Summerwind"
   - "Tall Ships America’s 2012 TALL SHIPS CHALLENGE"
   - "unicorn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/TTSBanner980X217ediot.jpg"
 author: "Rick Spilman"
 description: "New York harbor is not the only port on the North-Eastern coast of the United States with a wealth of tall ships over Memorial Day Weekend.  Greenport, New York  is hosting the Greenport Tallships Challenge 2012.   Greenport, on the … Continue reading &rarr;"
 ---

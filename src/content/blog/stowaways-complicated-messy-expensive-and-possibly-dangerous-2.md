@@ -11,6 +11,7 @@ tags:
   - "gCaptain"
   - "Ian Urbina"
   - "stowaway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/stowaway-200x104.jpg"
 author: "Rick Spilman"
 description: "Dealing with stowaways on shipboard is usually expensive, complicated and in some cases dangerous."
 ---

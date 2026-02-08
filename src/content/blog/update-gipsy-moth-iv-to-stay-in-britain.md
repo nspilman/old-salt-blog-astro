@@ -10,6 +10,7 @@ tags:
   - "Gipsy Moth IV"
   - "Sir Francis Chichester"
   - "United Kingdom Sailing Academy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/gipsymoth1.jpg"
 author: "Rick Spilman"
 description: "In September, we posted that the Gipsy Moth IV, the famous yacht sailed by Sir Francis Chichester singlehanded around the world was for sale.   Last week, it was reported that two anonymous donors  donated more than £250,000 to the United … Continue reading &rarr;"
 ---

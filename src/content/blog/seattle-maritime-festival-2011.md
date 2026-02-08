@@ -12,6 +12,7 @@ tags:
   - "Seattle Maritime Festival"
   - "Stories of the Sea Fisher Poetry Slam"
   - "Survival Suit Races"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/MF2011Header.jpg"
 author: "Rick Spilman"
 description: "The Seattle Maritime Festival starts tomorrow and runs through Saturday, featuring the world’s largest tug boat race, National Fisherman’s Eleventh Annual Stories of the Sea Fisher Poetry Slam, World Invitational Survival Suit Races, Pacific Maritime Magazine Quick & Dirty Boatbuilding Competition, and the Fourteenth Annual … Continue reading &rarr;"
 ---

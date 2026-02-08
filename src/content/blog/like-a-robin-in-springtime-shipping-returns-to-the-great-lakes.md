@@ -14,6 +14,7 @@ tags:
   - "St. Clair River"
   - "St. Lawrence Seaway"
   - "Welland Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/bilde.jpg"
 author: "Rick Spilman"
 description: "The wonderful thing about the US Great Lakes is that being fresh water, the ships on the lakes don’t rust like they do in the saltier oceans. Of course being fresh water, the lakes do freeze close enough to solid … Continue reading &rarr;"
 ---

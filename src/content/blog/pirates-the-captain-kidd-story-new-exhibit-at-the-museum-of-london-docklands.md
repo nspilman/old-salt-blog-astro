@@ -17,6 +17,7 @@ tags:
   - "Museum of London Docklands"
   - "pirate"
   - "Quedagh Merchant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Captain_Kidd-234x300.jpg"
 author: "Rick Spilman"
 description: "The notorious pirate Captain William Kidd was executed three hundred and ten years ago this month, yet is far from forgotten.  A new exhibit is opening on May 20th at the Museum of London Dockyards – Pirates:  The Captain Kidd Story. … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Cabo San Lucas"
   - "Gray Whale"
   - "whale watching"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/graywhalebreaching.jpg"
 author: "Rick Spilman"
 description: "A Canadian woman was killed and two others were injured when a gray whale collided with their excursion boat off Cabo San Lucas in Mexico."
 ---

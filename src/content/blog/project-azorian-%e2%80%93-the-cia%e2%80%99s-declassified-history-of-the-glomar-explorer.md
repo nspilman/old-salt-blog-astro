@@ -15,6 +15,7 @@ tags:
   - "Howard Hughes"
   - "Project Azorian"
   - "Sun Shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/glomar_color_300.jpg"
 author: "Rick Spilman"
 description: "Over thirty years ago when I was in college studying naval architecture,  a classmate of mine got a summer job working as a naval architect for Sun Shipyard helping to design some part of the new deep sea mining ship, … Continue reading &rarr;"
 ---

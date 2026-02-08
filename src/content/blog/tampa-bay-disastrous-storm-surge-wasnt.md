@@ -11,6 +11,7 @@ tags:
   - "Hurricane Irma"
   - "storm surge"
   - "Tamp Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/stormsurgeriskmap.jpg"
 author: "Rick Spilman"
 description: "Hurricane Irma devasted islands in the Caribbean and did serious damage to cities in Florida. 6.5 million residents of Florida alone lost power and the damage toll is still being calculated across the state. The cities on the West Coast … Continue reading &rarr;"
 ---

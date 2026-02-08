@@ -11,6 +11,7 @@ tags:
   - "Independence Seaport Museum"
   - "Philadelphia"
   - "SS Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/olympia18-a.jpg"
 author: "Rick Spilman"
 description: "The troubled Independence Seaport Museum in Philadelphia announced on Monday that it would continue to keep the cruiser ex USS Olympia open though the end of the year and shift to a three day schedule through the end of March. … Continue reading &rarr;"
 ---

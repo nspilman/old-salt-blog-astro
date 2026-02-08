@@ -12,6 +12,7 @@ tags:
   - "Megan Jaye"
   - "Newport"
   - "Rhode Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/lennonbermuda.jpg"
 author: "Rick Spilman"
 description: "Thirty-five years ago, John Lennon, of Beatles fame chartered the Megan Jaye and sailed with a crew of four from Newport to St George's, Bermuda."
 ---

@@ -12,6 +12,7 @@ tags:
   - "Namibia"
   - "Orange River"
   - "Portuguese trading ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/diamond-wreck-615.jpg"
 author: "Rick Spilman"
 description: "The October 2009 National Geographic magazine has a fascinating story of a 16th century shipwreck on a beach in southern Namibia.  In 1533 a  Portuguese trading ship carrying a fortune in gold and ivory, bound for the famed spice ports of India, was swept ashore and wrecked … Continue reading &rarr;"
 ---

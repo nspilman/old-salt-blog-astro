@@ -11,6 +11,7 @@ tags:
   - "A.J. Meerwald"
   - "Bayshore Discovery Project"
   - "Cape May"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/AJ-Meerwald-Lavin-HR-SS.jpg"
 author: "Rick Spilman"
 description: "The lovely schooner A.J. Meerwald will be sailing out of Cape May, one of the loveliest towns in New Jersey, through early September.   From the folks at Bayshore Discovery Project: Utsch’s Marina in Cape May will be the port-of-call for … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Corpus Christie"
   - "Nina"
   - "replica"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/04/ninasinks.jpg"
 author: "Rick Spilman"
 description: "When Hurricane Harvey blew through the US Gulf coast in August 2017, the replica of Columbus’ Niña sank at the dock in Corpus Christie, Texas. Last Tuesday, the replica sank again. ABC Channel KSAT 12 quotes Kim Mrazek, president of … Continue reading &rarr;"
 ---

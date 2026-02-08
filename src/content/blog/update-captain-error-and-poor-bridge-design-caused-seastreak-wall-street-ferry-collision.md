@@ -12,6 +12,7 @@ tags:
   - "lower Manhattan"
   - "National Transportation Saftey Board"
   - "Seastreak Wall Street"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/sswallstreet.jpg"
 author: "Rick Spilman"
 description: "On January 9, 2013, we posted about the Seastreak Wall Street catamaran ferry, which slammed into a loading barge at Pier 11 in New York City’s East River in Lower Manhattan at 12 knots, injuring 80 of the 331 passengers and crew.  The … Continue reading &rarr;"
 ---

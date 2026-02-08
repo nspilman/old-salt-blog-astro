@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "Giglio"
   - "parbuckling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/costaparbuckling.jpg"
 author: "Rick Spilman"
 description: "Tomorrow, if all goes well, a small army of engineers, technicians and mariners will attempt to roll the stricken cruise ship, Costa Concordia, upright from where she sank on the island of Giglio on January 13, 2012. Once upright the … Continue reading &rarr;"
 ---

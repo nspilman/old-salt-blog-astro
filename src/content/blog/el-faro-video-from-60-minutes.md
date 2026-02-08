@@ -12,6 +12,7 @@ tags:
   - "Hurricane Joaquin"
   - "NTSB"
   - "TOTE"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/ElFaroNTSB.jpg"
 author: "Rick Spilman"
 description: "The news program 60 Minutes broadcast National Transportation and Safety Board (NTSB) footage of the wreck of El Faro last night. The TOTE Ro/Ro was lost with all 33 aboard in Hurricane Joaquin in October. The footage is striking and … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "We are very pleased to have a guest post from Joan Druett, who recentl
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/006-canoe-200x150.jpg"
 author: "Joan Druett"
 description: "We are very pleased to have a guest post from Joan Druett, who recently visited Taiwan. Joan is the multi-award winning author of more than 20 books, including her latest, Lady Castaways and Eleanor’s Odyssey. A priority for anyone from … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "little-brig-%e2%80%93-the-smallest-tall-ship"
 excerpt: "The Isle of Wight based charity, the Little Brig Sailing Trust, now has the bragging rights of owning a fleet of the world’s smallest tall ships.   (Actually they have only two ships, so perhaps they could also claim the smallest … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/carolineallen2big.jpg"
 author: "Rick Spilman"
 description: "The Isle of Wight based charity, the Little Brig Sailing Trust, now has the bragging rights of owning a fleet of the world’s smallest tall ships.   (Actually they have only two ships, so perhaps they could also claim the smallest … Continue reading &rarr;"
 ---

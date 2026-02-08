@@ -12,6 +12,7 @@ tags:
   - "Costa Classica"
   - "Jeju"
   - "Yangtze River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/costa-collision.jpg"
 author: "Rick Spilman"
 description: "The Costa Classica‘s current cruise has not gone well.   First, on a stop at Korea’s southern resort island of Jeju, 44 Chinese tourists abandoned the tour group en masse.   South Korean police have located eleven of the group, but 33 remain unaccounted … Continue reading &rarr;"
 ---

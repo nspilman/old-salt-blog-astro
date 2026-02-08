@@ -11,6 +11,7 @@ tags:
   - "drones"
   - "Team Brunel"
   - "Volvo Ocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/dfdroneshot.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about the upcoming Golden Globe 2018 Race in which traditional sailboats will race around the globe using only the technology available in the original race in 1968. The idea has a certain appeal but also definite limitations. There … Continue reading &rarr;"
 ---

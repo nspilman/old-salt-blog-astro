@@ -12,6 +12,7 @@ tags:
   - "New Bedford Whaling Museum"
   - "Sailors’ Series"
   - "USCG"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/logo2.png"
 author: "Rick Spilman"
 description: "A very interesting presentation at the New Bedford Whaling Museum on Tuesday evening for those in the area. Commander Andrew J. Norris, USCG, will examine modern piracy in the next Sailors’ Series lecture on Tuesday, March 22 at 7:30 p.m. in the Cook … Continue reading &rarr;"
 ---

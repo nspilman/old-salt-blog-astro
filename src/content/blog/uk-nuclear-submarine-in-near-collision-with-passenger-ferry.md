@@ -10,6 +10,7 @@ tags:
   - "passenger ferry"
   - "Stena Superfast VII"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/stenasuperfast.jpg"
 author: "Rick Spilman"
 description: "In November 2018, a Royal Navy nuclear submarine came within 50-100m of a collision with the Stena Superfast VII ferry near the entrance to Belfast harbor, according to an inquiry by the UK’s Marine Accident Investigation Branch. The Guardian reports: … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "invertebrate eggs"
   - "Kivalina"
   - "Orange Goo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/orange_goo_1_606.jpg"
 author: "Rick Spilman"
 description: "Last week, a bright orange jelly or \"goo\" floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.   Now scientists at the National Oceanic and Atmospheric Administration have determined that the goo is … Continue reading &rarr;"
 ---

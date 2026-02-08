@@ -10,6 +10,7 @@ tags:
   - "coelacanth"
   - "living fossil"
   - "long-lived"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/coelacanth.jpg"
 author: "Rick Spilman"
 description: "Coelacanths apparently evolved in their current form around 400 million years ago. They were thought to have gone extinct 65 million years ago, during the Cretaceous-Tertiary extinction – that is, until 1938 when a fisherman in South Africa pulled one up … Continue reading &rarr;"
 ---

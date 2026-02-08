@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Titanic II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/sink_1913891c.jpg"
 author: "Rick Spilman"
 description: "Who in their right mind would name a boat Titanic II in the first place?   Fortunately there was no loss of life.   Prophetically enough, there is already a movie, Titanic II.  It sank at the box office over a year … Continue reading &rarr;"
 ---

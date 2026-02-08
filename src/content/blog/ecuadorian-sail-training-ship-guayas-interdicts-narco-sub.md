@@ -15,6 +15,7 @@ tags:
   - "narco sub"
   - "sail training ship"
   - "three masted barque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/sailnarco.jpg"
 author: "Rick Spilman"
 description: "In one of the stranger maritime stories of late, the Ecuadorian Navy announced that last week, their sail training ship, the three-masted barque Guayas stopped and captured a drug-laden high-speed craft; a low profile vessel (LPV) powered by three outboard … Continue reading &rarr;"
 ---

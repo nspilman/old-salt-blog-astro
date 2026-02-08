@@ -10,6 +10,7 @@ tags:
   - "Challenger Deep"
   - "James Cameron"
   - "Mariana Trench"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/cameron.jpg"
 author: "Rick Spilman"
 description: "We posted recently about the \"race\" to dive to the deepest spot in the ocean, the Challenger Deep in the Mariana Trench, almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the … Continue reading &rarr;"
 ---

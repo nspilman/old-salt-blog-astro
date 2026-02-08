@@ -10,6 +10,7 @@ categories:
 tags:
   - "USS Gunston Hall"
   - "USS Peleliu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/USS_Peleliu_LHA5.jpg"
 author: "Rick Spilman"
 description: "Two US Navy officers, in command of the USS Gunston Hall and USS Peleliu, were relieved of their commands within days of each other over charges related to  sexual harassment. Cmdr. Fred R. Wilhelm, the Commanding Officer of the amphibious dock landing ship USS Gunston … Continue reading &rarr;"
 ---

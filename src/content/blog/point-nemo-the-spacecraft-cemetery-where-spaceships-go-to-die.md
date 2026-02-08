@@ -10,6 +10,7 @@ tags:
   - "Point Nemo"
   - "South Pacific Ocean Uninhabited Area"
   - "Spacecraft Cemetery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/pointnemo.jpg"
 author: "Rick Spilman"
 description: "The Spacecraft Cemetery, near Point Nemo in the South Pacific Ocean Uninhabited Area is where spaceships go to die."
 ---

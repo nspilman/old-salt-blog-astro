@@ -12,6 +12,7 @@ tags:
   - "hudson river"
   - "NY"
   - "Stena Primorsk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/primorsk_600.jpg"
 author: "Rick Spilman"
 description: "Yesterday morning, the tanker, Stena Primorsk, ran aground in the Hudson River about ten miles south of Albany, NY after suffering a steering gear failure.  No oil was reported to have been spilled. There are a whole range of interesting aspects … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "A.J. Meerwald"
   - "Kalmar Nyckel"
   - "pirate battle sails"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Kalmar-Nyckel-150x112.jpg"
 author: "Rick Spilman"
 description: "Frankly, the A.J. Meerwald , the Kalmar Nyckel, and the Gazela deserve far better.   The A.J. Meerwald,  the \"Official Tall Ship of the state of New Jersey,\" is  a 1928 built Delaware Bay oyster schooner.  The Kalmar Nyckel , the Delaware’s \"Official Tall Ship,\" … Continue reading &rarr;"
 ---

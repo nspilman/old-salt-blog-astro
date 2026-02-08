@@ -12,6 +12,7 @@ tags:
   - "climate change"
   - "Royal Navy"
   - "ship logs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/adm55_log108_page004.jpg"
 author: "Rick Spilman"
 description: "Last October, we wrote about how researchers are using eighteenth century Royal Navy ship logs to study climate change.  (See Logbooks may yield climate bounty.)  Now, through the wonder of the internet, many of these log books are on-line.  The … Continue reading &rarr;"
 ---

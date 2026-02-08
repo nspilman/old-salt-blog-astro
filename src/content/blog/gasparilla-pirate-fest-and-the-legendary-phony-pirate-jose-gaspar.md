@@ -11,6 +11,7 @@ tags:
   - "Gasparilla Pirate Fest"
   - "Jose Gaspar"
   - "Tampa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/gasparilla.jpg"
 author: "Rick Spilman"
 description: "Today, Tampa, Florida will be \"invaded\" by pirates. Every year about this time, Tampa celebrates the Gasparilla Pirate Fest notionally in honor of Jose Gaspar, reputed to be the \"Last Buccaneer.\" It is described as \"a swashbuckling good time\" involving … Continue reading &rarr;"
 ---

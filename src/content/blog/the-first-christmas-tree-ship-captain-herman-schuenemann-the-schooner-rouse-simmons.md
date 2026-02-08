@@ -13,6 +13,7 @@ tags:
   - "Christmas Tree Ship"
   - "Rouse Simmons"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/schooner_rouse_simmons.jpg"
 author: "Rick Spilman"
 description: "Today the Christmas Ship is Chicago’s largest all volunteer charitable support program for inner city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree Ship\" was a family business. In  the mid 1880s, August and … Continue reading &rarr;"
 ---

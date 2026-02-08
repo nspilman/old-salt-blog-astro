@@ -14,6 +14,7 @@ tags:
   - "President James Buchanan"
   - "sailor slang"
   - "USCG Harriet Lane"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/USCGC_Harriet_Lane.jpg"
 author: "Rick Spilman"
 description: "I will admit to doing a double take when I saw the USCG press release announcing \"Coast Guard Cutter Harriet Lane returns home after 9-week patrol.\"   I wondered, who would name a ship the Harriet Lane?  For the record, the … Continue reading &rarr;"
 ---

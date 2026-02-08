@@ -11,6 +11,7 @@ tags:
   - "iceberg"
   - "Larsen ice shelf"
   - "South Georgia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/A68a.jpg"
 author: "Rick Spilman"
 description: "Antarctica’s iceberg A68 has broken up into a myriad of small pieces so that the US National Ice Center says are no longer worth tracking. Once the world’s biggest iceberg in existence, A68 became an unexpected social media star in … Continue reading &rarr;"
 ---

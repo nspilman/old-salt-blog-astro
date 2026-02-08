@@ -16,6 +16,7 @@ tags:
   - "SS Port Nicholson"
   - "Sub Sea Research"
   - "U-87"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/gI_99497_PN.jpg"
 author: "Rick Spilman"
 description: "The Portland, ME based, Sub Sea Research (SSR) recently sent out a press release announcing that they had located what they claim to be \"the worlds richest shipwreck,\"  the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, … Continue reading &rarr;"
 ---

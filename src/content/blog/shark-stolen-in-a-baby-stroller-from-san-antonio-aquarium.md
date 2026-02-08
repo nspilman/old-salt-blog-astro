@@ -10,6 +10,7 @@ tags:
   - "gray horned shark"
   - "Miss Helen"
   - "San Antonio"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/misshelen.jpg"
 author: "Rick Spilman"
 description: "Last weekend, two men and a woman carrying a toddler stole a two-foot-long gray horned shark from an aquarium in San Antonio, TX. They wrapped the shark in a blanket, shoved it in a plastic bucket and hid the bucket in … Continue reading &rarr;"
 ---

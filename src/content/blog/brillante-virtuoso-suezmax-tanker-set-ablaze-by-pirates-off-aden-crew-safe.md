@@ -13,6 +13,7 @@ tags:
   - "Gulf of Aden"
   - "pirates"
   - "Suezmax tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Briillante-Virtuoso-236225.jpg"
 author: "Rick Spilman"
 description: "It has long been predicted and now it has happened – a pirate attack has set fire to a loaded oil tanker.  On Wednesday morning, pirates operating in the Gulf of Aden attacked the Suezmax tanker,  Brillante Virtuoso, firing a rocket propelled grenade into the deck … Continue reading &rarr;"
 ---

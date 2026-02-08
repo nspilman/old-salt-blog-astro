@@ -12,6 +12,7 @@ tags:
   - "new york"
   - "Newtown Creek"
   - "sewage sludge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/newtown-creek.jpg"
 author: "Rick Spilman"
 description: "The Newtown Creek was recently sold at auction. She is a lovely coastal tanker that traversed New York harbor's waters for close to a half century."
 ---

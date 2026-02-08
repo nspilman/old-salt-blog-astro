@@ -11,6 +11,7 @@ tags:
   - "Book 13"
   - "Lone Escort"
   - "The Fighting Sail Series"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/09/loneescortcover.jpg"
 author: "Rick Spilman"
 description: "There are two wonderful new books from Old Salt Press. Today we spotlight Lone Escort by Alaric Bond, the thirteenth book of his \"Fighting Sail\" series.  About the book: The North Atlantic in spring is a perilous place and, with … Continue reading &rarr;"
 ---

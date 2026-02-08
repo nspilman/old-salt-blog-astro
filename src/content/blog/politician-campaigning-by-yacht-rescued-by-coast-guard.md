@@ -9,6 +9,7 @@ tags:
   - "Charlestown"
   - "Joe Trillo"
   - "Rhode Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/trillo.jpg"
 author: "Rick Spilman"
 description: "At one point in her long and storied career, the 1885 built, 131-foot schooner yacht Coronet was owned by a rather dodgy religious group which called itself \"The Kingdom.\" The group was led by Frank Sandford who circumnavigated the globe on the yacht in 1905. … Continue reading &rarr;"
 ---

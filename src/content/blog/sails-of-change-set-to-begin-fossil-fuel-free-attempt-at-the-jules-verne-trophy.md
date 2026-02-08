@@ -12,6 +12,7 @@ tags:
   - "Jules Verne trophy"
   - "Sails of Change"
   - "Yann Guichard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/11/sails-of-change.jpg"
 author: "Rick Spilman"
 description: "The maxi-trimaran Sails of Change (ex-Spindrift 2) and its crew of 11, led by Dona Bertarelli and Yann Guichard, are awaiting a favorable weather window to set off from La Trinité-sur-Mer, in southwest Brittany, on their latest attempt to claim … Continue reading &rarr;"
 ---

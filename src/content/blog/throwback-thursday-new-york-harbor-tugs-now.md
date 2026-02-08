@@ -12,6 +12,7 @@ tags:
   - "Dalzell Towing"
   - "McAllister Towing"
   - "New York Harbor Tugs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/mcaltugs1.jpg"
 author: "Rick Spilman"
 description: "Two videos about New York harbor tugs --\"Workhorses of the Harbor!\" from 1954 and \"Chris Baker, Tugboat Captain\" from 2009."
 ---

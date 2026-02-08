@@ -1,0 +1,143 @@
+---
+// A traditional 16-point compass rose for nautical charts
+// The navigator's anchor, the heart of the sea
+---
+
+<div class="compass-rose" aria-hidden="true">
+  <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Outer decorative ring -->
+    <circle cx="100" cy="100" r="95" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <circle cx="100" cy="100" r="90" fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- Degree marks -->
+    <g opacity="0.3">
+      {Array.from({ length: 72 }).map((_, i) => {
+        const angle = i * 5;
+        const isMajor = i % 9 === 0;
+        const length = isMajor ? 8 : 4;
+        const r1 = 90;
+        const r2 = 90 - length;
+        const x1 = 100 + r1 * Math.sin(angle * Math.PI / 180);
+        const y1 = 100 - r1 * Math.cos(angle * Math.PI / 180);
+        const x2 = 100 + r2 * Math.sin(angle * Math.PI / 180);
+        const y2 = 100 - r2 * Math.cos(angle * Math.PI / 180);
+        return <line x1={x1} y1={y1} x2={x2} y2={y2} stroke="currentColor" stroke-width={isMajor ? 1 : 0.5} />;
+      })}
+    </g>
+
+    <!-- Inner ring -->
+    <circle cx="100" cy="100" r="70" fill="none" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+
+    <!-- 16-point star - outer points (cardinal and ordinal) -->
+    <g class="star-outer">
+      <!-- North - with fleur-de-lis -->
+      <path d="M100 10 L105 45 L100 35 L95 45 Z" fill="currentColor" opacity="0.9"/>
+      <path d="M100 5 L103 12 L100 10 L97 12 Z" fill="currentColor" opacity="0.9"/> <!-- Fleur top -->
+      <path d="M94 14 Q97 12 100 15 Q103 12 106 14 L103 12 L100 5 L97 12 Z" fill="currentColor" opacity="0.7"/> <!-- Fleur sides -->
+
+      <!-- South -->
+      <path d="M100 190 L105 155 L100 165 L95 155 Z" fill="currentColor" opacity="0.6"/>
+
+      <!-- East -->
+      <path d="M190 100 L155 105 L165 100 L155 95 Z" fill="currentColor" opacity="0.6"/>
+
+      <!-- West -->
+      <path d="M10 100 L45 105 L35 100 L45 95 Z" fill="currentColor" opacity="0.6"/>
+
+      <!-- NE -->
+      <path d="M163.6 36.4 L130 58 L138 54 L134 62 Z" fill="currentColor" opacity="0.5"/>
+
+      <!-- SE -->
+      <path d="M163.6 163.6 L130 142 L138 146 L134 138 Z" fill="currentColor" opacity="0.5"/>
+
+      <!-- SW -->
+      <path d="M36.4 163.6 L70 142 L62 146 L66 138 Z" fill="currentColor" opacity="0.5"/>
+
+      <!-- NW -->
+      <path d="M36.4 36.4 L70 58 L62 54 L66 62 Z" fill="currentColor" opacity="0.5"/>
+    </g>
+
+    <!-- 16-point star - inner points (intercardinals) -->
+    <g class="star-inner" opacity="0.4">
+      <!-- NNE -->
+      <path d="M119.5 19.5 L108 50 L106 45 L104 50 Z" fill="currentColor"/>
+      <!-- ENE -->
+      <path d="M180.5 80.5 L150 92 L155 94 L150 96 Z" fill="currentColor"/>
+      <!-- ESE -->
+      <path d="M180.5 119.5 L150 108 L155 106 L150 104 Z" fill="currentColor"/>
+      <!-- SSE -->
+      <path d="M119.5 180.5 L108 150 L106 155 L104 150 Z" fill="currentColor"/>
+      <!-- SSW -->
+      <path d="M80.5 180.5 L92 150 L94 155 L96 150 Z" fill="currentColor"/>
+      <!-- WSW -->
+      <path d="M19.5 119.5 L50 108 L45 106 L50 104 Z" fill="currentColor"/>
+      <!-- WNW -->
+      <path d="M19.5 80.5 L50 92 L45 94 L50 96 Z" fill="currentColor"/>
+      <!-- NNW -->
+      <path d="M80.5 19.5 L92 50 L94 45 L96 50 Z" fill="currentColor"/>
+    </g>
+
+    <!-- Inner decorative circles -->
+    <circle cx="100" cy="100" r="25" fill="none" stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    <circle cx="100" cy="100" r="20" fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- Center point -->
+    <circle cx="100" cy="100" r="4" fill="currentColor" opacity="0.6"/>
+    <circle cx="100" cy="100" r="2" fill="currentColor" opacity="0.8"/>
+
+    <!-- Cardinal letters -->
+    <text x="100" y="32" text-anchor="middle" font-size="10" font-weight="bold" fill="currentColor" opacity="0.7">N</text>
+    <text x="100" y="178" text-anchor="middle" font-size="8" fill="currentColor" opacity="0.5">S</text>
+    <text x="172" y="104" text-anchor="middle" font-size="8" fill="currentColor" opacity="0.5">E</text>
+    <text x="28" y="104" text-anchor="middle" font-size="8" fill="currentColor" opacity="0.5">W</text>
+  </svg>
+</div>
+
+<style>
+  .compass-rose {
+    position: fixed;
+    top: 100px;
+    right: 60px;
+    width: 180px;
+    height: 180px;
+    color: rgba(245, 230, 200, 0.6);
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .compass-rose svg {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
+  }
+
+  .compass-rose text {
+    font-family: "Georgia", "Times New Roman", serif;
+  }
+
+  /* Responsive sizing */
+  @media (max-width: 1400px) {
+    .compass-rose {
+      width: 140px;
+      height: 140px;
+      right: 30px;
+      top: 120px;
+      opacity: 0.7;
+    }
+  }
+
+  @media (max-width: 1100px) {
+    .compass-rose {
+      width: 100px;
+      height: 100px;
+      right: 15px;
+      opacity: 0.5;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .compass-rose {
+      display: none;
+    }
+  }
+</style>

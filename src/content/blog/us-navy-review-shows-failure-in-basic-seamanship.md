@@ -10,6 +10,7 @@ categories:
 tags:
   - "seamanship"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/ussmccaindamage.jpg"
 author: "Rick Spilman"
 description: "The deaths of 17 sailors in the separate collisions with merchant ships of the Arleigh Burke-class destroyers USS Fitzgerald and the USS John S. McCain has raised fundamental questions about the seamanship of US naval officers on the two ships, … Continue reading &rarr;"
 ---

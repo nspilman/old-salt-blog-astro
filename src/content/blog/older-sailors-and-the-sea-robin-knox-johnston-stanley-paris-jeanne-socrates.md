@@ -11,6 +11,7 @@ tags:
   - "Older Sailors"
   - "Robin Know Johnston"
   - "Stanley Paris"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/rkjrdrhum.jpg"
 author: "Rick Spilman"
 description: "An update on Robin Knox-Johnston, 76, Stanley Paris, 77, & Jeanne Socrates, 70."
 ---

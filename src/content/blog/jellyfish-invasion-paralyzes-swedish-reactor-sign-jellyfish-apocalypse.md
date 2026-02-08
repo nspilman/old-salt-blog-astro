@@ -11,6 +11,7 @@ tags:
   - "jellyfish"
   - "Oskarshamn nuclear power plant"
   - "Sweden"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/giantjelly.jpg"
 author: "Rick Spilman"
 description: "Over the weekend, a huge swarm of moon jellyfish shut down the 1,400 megawatt Unit 3 reactor at the Oskarshamn nuclear power plant on Sweden’s Baltic Sea coast.  The jellyfish clogged the cooling water intakes, located roughly 60′ feet below the … Continue reading &rarr;"
 ---

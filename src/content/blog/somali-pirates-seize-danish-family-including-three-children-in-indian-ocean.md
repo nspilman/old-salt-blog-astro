@@ -11,6 +11,7 @@ tags:
   - "Danish sailboat"
   - "Indian Ocean"
   - "pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/51335424_008182434-1.jpg"
 author: "Rick Spilman"
 description: "Danish authorities are reporting that  Somali pirates have hijacked a Danish sailboat with four adults and three children aboard. Danish family’s sailboat hijacked in Indian Ocean The Danish Foreign Ministry said the ship sent a distress signal on Thursday. On board was a … Continue reading &rarr;"
 ---

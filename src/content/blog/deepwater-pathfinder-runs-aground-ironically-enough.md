@@ -10,6 +10,7 @@ categories:
 tags:
   - "Deepwater Pathfinder"
   - "drill ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/Pathfinder.jpg"
 author: "Rick Spilman"
 description: "The tweet from gCaptain was \"Deepwater Pathfinder runs aground\" which was linked to a post on the gCaptain blog describing how the drill ship ran aground while pulling into Freeport, TX, shearing off a thruster.   Perhaps I am just easily amused, but I … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "deployment"
   - "pandemic"
   - "USS Stout"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/ussstout.jpg"
 author: "Rick Spilman"
 description: "The pandemic has taken a toll on even those of us who remained untouched by the virus. In a trivial example, for me, it was a haircut. After five months without a haircut, I was feeling very shaggy when the … Continue reading &rarr;"
 ---

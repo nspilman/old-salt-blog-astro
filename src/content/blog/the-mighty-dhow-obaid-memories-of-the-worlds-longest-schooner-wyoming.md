@@ -11,6 +11,7 @@ tags:
   - "largest wooden ship ever built"
   - "Obaid"
   - "Wyoming schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/obaid.jpg"
 author: "Rick Spilman"
 description: "Last October, the mightly dhow Obaid set sail from the Majid Obaid Bin Majid Al Falasi & Sons shipyard on Dubai Creek. The Guinness Book of World Records has confirmed Obaid as the largest wooden Arabic dhow in the world. … Continue reading &rarr;"
 ---

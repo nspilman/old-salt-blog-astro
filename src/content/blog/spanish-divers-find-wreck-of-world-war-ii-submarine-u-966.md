@@ -14,6 +14,7 @@ tags:
   - "submarine"
   - "U-966"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/u-966.jpg"
 author: "Rick Spilman"
 description: "In June, three Spanish divers located the wreck of the German World War II submarine U-966 near the coast of Galicia in north-west Spain. The BBC reports that the submarine’s wreckage is spread widely in a very rocky area where rough weather often makes diving … Continue reading &rarr;"
 ---

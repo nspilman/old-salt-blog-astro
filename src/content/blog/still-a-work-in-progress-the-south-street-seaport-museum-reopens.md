@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "Last February, the chronically mismanaged Seaport Museum of New York (the ex-South Street Seaport Museum) laid off its staff and shut its doors. (See our post  The Rise and Fall of the South Street Seaport Museum.)  Today, under new management, with new funding … Continue reading &rarr;"
 ---

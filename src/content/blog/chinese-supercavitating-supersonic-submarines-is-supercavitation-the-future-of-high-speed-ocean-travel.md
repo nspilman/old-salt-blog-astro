@@ -13,6 +13,7 @@ tags:
   - "Russian VA-111 Shkval supercavitating torpedo"
   - "Supercavitation"
   - "Underwater Express"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/shkval2.jpg"
 author: "Rick Spilman"
 description: "The Chinese are researching a supercavitating supersonic submarine but are a long way from ever developing one."
 ---

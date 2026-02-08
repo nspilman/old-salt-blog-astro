@@ -12,6 +12,7 @@ tags:
   - "Litoral Combat Ship"
   - "Mark Kelly"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/972511.jpg"
 author: "Rick Spilman"
 description: "The Navy newest Littoral Combat Ship will be named the USS Gabrielle Giffords in honor of the former Arizona Congresswoman who survived an assassination attempt one year ago. The USS Gabrielle Giffords will be the 17th ship to be named … Continue reading &rarr;"
 ---

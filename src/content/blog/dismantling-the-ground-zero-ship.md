@@ -12,6 +12,7 @@ tags:
   - "ground zero"
   - "Maryland Archeological Conservation Laboratory"
   - "World Trade Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/14ship2-blogSpan.jpg"
 author: "Rick Spilman"
 description: "A follow-up to our previous post – 18th Century Ship Found Buried at New York’s World Trade Center Site.  Workers are now beginning to dismantle what is left of the ship, plank by plank, for preservation.    Last week,  Atlantic Wire  posted an interesting … Continue reading &rarr;"
 ---

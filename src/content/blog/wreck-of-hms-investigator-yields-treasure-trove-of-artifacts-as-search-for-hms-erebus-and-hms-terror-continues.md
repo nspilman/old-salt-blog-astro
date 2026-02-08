@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/3345093.jpg"
 author: "Rick Spilman"
 description: "Last July, a Parks Canada expedition discovered the wreck of HMS Investigator, a ship which sank in 1853 after becoming trapped in the ice while searching for Sir John Franklin’s lost expedition in the Canadian Arctic.  Exploration of the wreck … Continue reading &rarr;"
 ---

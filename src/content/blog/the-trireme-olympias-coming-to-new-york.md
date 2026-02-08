@@ -12,6 +12,7 @@ tags:
   - "new york harbor"
   - "Olympias"
   - "Tall Ships \"OpSail\""
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/olympias1.jpg"
 author: "Rick Spilman"
 description: "There are plans to bring the trimere Olympias to New York harbor in 2012 coincide with the Tall Ships \"OpSail\" and July 4th celebrations. The Trireme Olympias Coming Soon to New York The H.N. Olympias is a full-scale, working replica … Continue reading &rarr;"
 ---

@@ -16,6 +16,7 @@ tags:
   - "Kickstarter"
   - "Leonard Hussey"
   - "Shackleton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/hussybanjo-350x0.jpg"
 author: "Rick Spilman"
 description: "When the 1914 Imperial Trans-Antarctic Expedition‘s three-masted barquentine,  Endurance, was crushed in the Antarctic ice,  expedition leader, Sir Ernest Shackleton, allowed each man to take off only two pounds of possessions, including their boots. The only exception Shackleton made was Leonard Hussey’s banjo, which weighed … Continue reading &rarr;"
 ---

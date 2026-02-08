@@ -11,6 +11,7 @@ tags:
   - "Howard Hughes Corporation"
   - "Save our Seaport"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/SouthStreetSeaportBanner.jpg"
 author: "Rick Spilman"
 description: "The grass-roots community organization, Save Our Seaport, unveiled an alternative to the Hughes redevelopment project for the South Street Seaport."
 ---

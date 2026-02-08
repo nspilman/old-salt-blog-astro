@@ -9,6 +9,7 @@ tags:
   - "Cargados Carajos archipelago"
   - "Team Vestas Wind"
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/teamvestaswind.jpg"
 author: "Rick Spilman"
 description: "While they have no chance of winning, Team Vestas Wind will be returning to the Volvo Ocean Race sometime in late May."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Concordia yawl"
   - "Nantucket"
   - "Winnie of Bourne"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/winnieconcordia.jpg"
 author: "Rick Spilman"
 description: "Concordia yawl, Winnie of Borne, which sank following a collision off Nantucket harbor was raised by a crane barge."
 ---

@@ -13,6 +13,7 @@ tags:
   - "Hamburg"
   - "new york"
   - "Peking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/07/ploading1.jpg"
 author: "Rick Spilman"
 description: "On an overcast Friday in New York’s inner harbor, the windjammer Peking, was gently slipped into the flooded well deck of the heavy-lift ship Combi Dock III.  Once in position, the heavy-lift’s ballast tanks were pumped out, lifting the historic … Continue reading &rarr;"
 ---

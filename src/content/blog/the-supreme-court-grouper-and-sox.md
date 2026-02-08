@@ -10,6 +10,7 @@ tags:
   - "grouper and SOX"
   - "Sarbanes–Oxley"
   - "Supreme Court"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/redgrouper.jpg"
 author: "Rick Spilman"
 description: "US Supreme Court was called to rule on whether SOX also applied to grouper. In a narrow vote, they decided that it does not."
 ---

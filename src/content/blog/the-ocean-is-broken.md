@@ -11,6 +11,7 @@ tags:
   - "Ivan Macfadyen"
   - "over-fishing"
   - "Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/debris.jpg"
 author: "Rick Spilman"
 description: "Roughly two hundred years ago, Lord Byron published Childe Harold’s Pilgrimage, which contains a stanza that today seems sadly dated: Roll on, thou deep and dark blue Ocean–roll! Ten thousand fleets sweep over thee in vain; Man marks the earth … Continue reading &rarr;"
 ---

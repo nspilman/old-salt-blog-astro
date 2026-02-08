@@ -10,6 +10,7 @@ categories:
 tags:
   - "Bulwer-Lytton Fiction Contest"
   - "Edward Bulwer-Lytton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/blsailorhat.jpg"
 author: "Rick Spilman"
 description: "I am a huge fan of the Bulwer-Lytton Fiction Contest. The contest is a whimsical literary competition that challenges entrants to compose the opening sentence to the worst of all possible novels. If you are not acquainted with Edward Bulwer-Lytton, he … Continue reading &rarr;"
 ---

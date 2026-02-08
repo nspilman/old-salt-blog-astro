@@ -11,6 +11,7 @@ tags:
   - "HMS Lancaster"
   - "Prince George"
   - "Queen's Frigate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/sister.jpg"
 author: "Rick Spilman"
 description: "Sailors stand on the flight deck of the HMS Lancaster in a special congratulatory message to Prince George, passing on the news that he now has a sister."
 ---

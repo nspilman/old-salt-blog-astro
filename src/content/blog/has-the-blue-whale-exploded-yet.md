@@ -12,6 +12,7 @@ tags:
   - "methane"
   - "Newfoundland"
   - "Trout River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/74525457_nfwhale1.jpg"
 author: "Rick Spilman"
 description: "Update: CNN is now reporting that there are three dead blue whales on nearby beaches in Newfoundland. Thanks to Phil Leon for the heads-up. In case you missed the news, a dead 25m (81ft) blue whale has drifted ashore on the … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Oil spill"
   - "Queensland"
   - "Shen Neng 1"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/collier1.jpg"
 author: "Rick Spilman"
 description: "The collier Shen Neng 1 has been refloated and removed from Australia’s Great Barrier Reef where it grounded ten days ago.   In its wake it has left severe damage to the reef.  As reported by the BBC:  The Australian authorities have … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "HMAS Sydney"
   - "Naval Base San Diego"
   - "Royal Australian Navy destroyer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/finwhalesydney.jpg"
 author: "Rick Spilman"
 description: "As if anyone needed a reminder of how vulnerable whales are to ship strikes, when HMAS Sydney pulled into Naval Base San Diego over the weekend, it brought with it a grim cargo. The carcasses of two fin whales were … Continue reading &rarr;"
 ---

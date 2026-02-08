@@ -11,6 +11,7 @@ tags:
   - "California"
   - "humpback whales"
   - "new york"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/humpbackcalf.jpg"
 author: "Rick Spilman"
 description: "The Pacific and Atlantic coasts have seen the return of large marine creatures that have been absent for decades. On the East Coast, New York City has seen the return of humpback whales which had been missing from local waters … Continue reading &rarr;"
 ---

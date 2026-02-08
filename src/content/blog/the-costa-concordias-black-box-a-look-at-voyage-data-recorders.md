@@ -12,6 +12,7 @@ tags:
   - "Costa Concordia"
   - "VDR"
   - "voyage data recorders"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/vdr.jpg"
 author: "Rick Spilman"
 description: "What really happened on the Costa Concordia in the final hours leading up to and following her grounding and sinking off Giglio on January 13, 2012?  The first step in definitively answering that question began in early March when an Italian judge … Continue reading &rarr;"
 ---

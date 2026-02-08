@@ -11,6 +11,7 @@ tags:
   - "homo erectus"
   - "Luzon"
   - "Philippines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/luzonrhino.jpg"
 author: "Rick Spilman"
 description: "Researchers have dated stone tools and bones from a butchered rhinoceros and other ancient fauna found in the Philippines’ northern island of Luzon, that date back over 700,000 years, or several hundred thousand years before modern man evolved. So far no human bones have … Continue reading &rarr;"
 ---

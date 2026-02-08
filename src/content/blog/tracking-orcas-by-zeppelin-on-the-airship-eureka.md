@@ -12,6 +12,7 @@ tags:
   - "The Center for Whale Research"
   - "Washington's Puget Sound"
   - "zeppelin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/orcazep.jpg"
 author: "Rick Spilman"
 description: "The Center for Whale Research is using a novel approach to tracking orca whales.  They are using the only operational zeppelin in the United States,  the Airship Eureka, on loan from Farmers’ Insurance, the company that sponsors the zeppelin, which donated … Continue reading &rarr;"
 ---

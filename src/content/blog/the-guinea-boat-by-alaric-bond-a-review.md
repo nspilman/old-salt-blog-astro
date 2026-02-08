@@ -8,6 +8,7 @@ categories:
 tags:
   - "Alaric Bond"
   - "The Guinea Boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/guineaboat-136x200.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond's latest novel, The Guinea Boat, is set in the south-east of England during the brief Peace of Amiens of 1803."
 ---

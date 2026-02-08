@@ -11,6 +11,7 @@ tags:
   - "Vale Beijing"
   - "Valemax"
   - "VLOC"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/valemaxB.jpg"
 author: "Rick Spilman"
 description: "In early December, on her maiden voyage, the VLOC (Very Large Ore Carrier) Vale Beijing suffered structural cracking while loading cargo in northeast Brasil.  As reported by Maritime Propulsion , the extent of the damage was significant – the hull plating was found to … Continue reading &rarr;"
 ---

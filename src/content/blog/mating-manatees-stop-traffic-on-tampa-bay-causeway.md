@@ -11,6 +11,7 @@ tags:
   - "Manatees"
   - "mating"
   - "Tampa Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Manatee.jpg"
 author: "Rick Spilman"
 description: "Drivers on the Courtney Campbell Causeway began calling the authorities to report manatees in trouble.  There appeared to be around ten manatees on a sandbar not far from the causeway that connects Tampa and Clearwater, Florida. Drivers stopped their cars and pulled over to get a better … Continue reading &rarr;"
 ---

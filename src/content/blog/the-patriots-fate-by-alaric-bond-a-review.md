@@ -14,6 +14,7 @@ tags:
   - "Society of United Irishmen"
   - "The Patriot's Fate"
   - "Wolfe Tone"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/patriotfatebond.jpg"
 author: "Rick Spilman"
 description: "Alaric Bond’s The Patriot’s Fate, the fifth in his Fighting Sail series, is an exciting nautical adventure that is also a rich and fascinating voyage through the history, politics and complex divided loyalties of Britain at the end of the … Continue reading &rarr;"
 ---

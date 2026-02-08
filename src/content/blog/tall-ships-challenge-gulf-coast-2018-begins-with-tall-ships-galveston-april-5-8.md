@@ -10,6 +10,7 @@ categories:
 tags:
   - "Tall Ships Challenge Gulf Coast 2018"
   - "Tall Ships Galveston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/TSGalveston.jpg"
 author: "Rick Spilman"
 description: "A fleet of tall ships is sailing to Galveston Island, Texas which will host Tall Ships Galveston from April 5 – 8th to kick off the Tall Ships Challenge Gulf Coast 2018 tall ship race. Included in the fleet will be: Galveston’s … Continue reading &rarr;"
 ---

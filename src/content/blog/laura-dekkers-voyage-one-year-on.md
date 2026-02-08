@@ -9,6 +9,7 @@ categories:
 tags:
   - "Laura Dekker"
   - "youngest sailor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekker.jpg"
 author: "Rick Spilman"
 description: "One year ago, Laura Dekker, now 15, set sail on her attempt to sail around the world alone. If she continues at her current pace, she will be the youngest person to ever complete a solo circumnavigation. Perhaps the most interesting … Continue reading &rarr;"
 ---

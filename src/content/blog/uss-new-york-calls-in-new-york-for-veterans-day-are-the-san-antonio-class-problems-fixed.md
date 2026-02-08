@@ -15,6 +15,7 @@ tags:
   - "USS New Orleans"
   - "USS New York"
   - "USS San Antonio"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/uss-new-york.jpg"
 author: "Rick Spilman"
 description: "The USS New York called in New York harbor over the weekend to help celebrate Veteran’s Week.  The ship is the fifth of the San Antonio class of amphibious transport dock ships.  The ship’s bow includes 7.5 tonnes of salvaged steel from … Continue reading &rarr;"
 ---

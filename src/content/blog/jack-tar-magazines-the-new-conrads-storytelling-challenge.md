@@ -9,6 +9,7 @@ categories:
 tags:
   - "\"The New Conrads\" Storytelling Challenge"
   - "Jack Tar Magazine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/277065_222625014449778_6774.jpg"
 author: "Rick Spilman"
 description: "The folks at Jack Tar Magazine are sponsoring a writing contest, \"The New Conrads\" Storytelling Challenge, with some serious prize money attached.  Whether you enter or not, it is an interesting exercise to consider what the world of shipping would look like in a … Continue reading &rarr;"
 ---

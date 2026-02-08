@@ -13,6 +13,7 @@ tags:
   - "Santorini"
   - "Sea Diamond"
   - "ship wreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/bowsantorini.jpg"
 author: "Rick Spilman"
 description: "In April of 2007, the cruise ship Sea Diamond struck a reef off the island of Santorini and sank.   Nearly 1,600 passengers where rescued and two passengers drowned.  Now four years later the Greek government has says that it cannot afford to remove … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "El Galeon Andalusia"
   - "galleon"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/galeon1-135x200.jpg"
 author: "Rick Spilman"
 description: "Today I went aboard El Galeon Andalusia, at South Street Seaport, a fascinating if occasionally anachronistic ship."
 ---

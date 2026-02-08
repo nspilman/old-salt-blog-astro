@@ -11,6 +11,7 @@ tags:
   - "green crab"
   - "Maine"
   - "Nova Scotia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/greencrab.jpg"
 author: "Rick Spilman"
 description: "It sounds like a low budget horror/sci-fi flick —  \"Nasty Mutant Green Crabs Invade Maine.\" Sadly, it is no movie pitch. LiveScience reports that an aggressive breed of green crab is indeed invading Maine’s waters.  Green crabs have been in North … Continue reading &rarr;"
 ---

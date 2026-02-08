@@ -10,6 +10,7 @@ categories:
 tags:
   - "Dorade"
   - "Rolex Sydney-Hobart Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/dorade2.jpg"
 author: "Rick Spilman"
 description: "Four years ago, the yacht racing world was caught aback when Dorade, a yacht designed by Olin Stephens II  and delivered in 1930, won the 2013 Transpac Race. Dorade has previously won the Transpac 77 years before.  Now the 87-year old Dorade has … Continue reading &rarr;"
 ---

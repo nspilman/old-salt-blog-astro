@@ -15,6 +15,7 @@ tags:
   - "Samoa"
   - "Soren Larsen"
   - "Vanuatu"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/soren1.jpg"
 author: "Rick Spilman"
 description: "In response to our post, Sail this summer on the Picton Castle, Greg Winter commented, \"Or try the same in the beautiful South Pacific, on the brigantine Soren Larsen. Sails out of Auckland New Zealand to the Cook Islands, Fiji, Samoa, Vanuatu, … Continue reading &rarr;"
 ---

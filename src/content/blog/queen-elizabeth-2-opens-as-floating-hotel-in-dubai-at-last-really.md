@@ -11,6 +11,7 @@ tags:
   - "Dubai"
   - "QE2"
   - "Queen Elizabeth 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/qu2dubai.jpg"
 author: "Rick Spilman"
 description: "After almost a decade, the Queen Elizabeth 2 has finally opened as a luxury hotel in Dubai. There was a \"soft opening\" in the middle of April and the hotel will have its formal opening around October of this year. So far seven of … Continue reading &rarr;"
 ---

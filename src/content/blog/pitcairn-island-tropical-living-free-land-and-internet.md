@@ -9,6 +9,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Pitcairn Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/pitcairnboathouse.jpg"
 author: "Rick Spilman"
 description: "How would you like to escape to a tropical island, well off the beaten path, where land to build a house is free,  temperatures stay above 62F all year round and there is even an internet connection? If that sounds good to you, you might want to consider Pitcairn Island."
 ---

@@ -16,6 +16,7 @@ tags:
   - "SS Pan Pennsylvania"
   - "U-550"
   - "USS Joyce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/U-550_crew_abandons_ship.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the possible discovery of a German WWII  submarine sunk in the Churchill River in Labrador, Canada. Now we have learned that the German World War II submarine U-550 has been located in the Atlantic, 70 miles … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Japan"
   - "North Korea"
   - "Sea of Japan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/ghostship.jpg"
 author: "Rick Spilman"
 description: "In the last two months, eleven wooden fishing vessels have drifted ashore from the Sea of Japan on the Japanese coast. On board were 25 badly decomposed bodies. The vessels contained nets and fishing gear and are believed to have come from … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "What was the most dangerous service in World War II? The Army, the Nav
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/mmsailorposter.jpg"
 author: "Rick Spilman"
 description: "What was the most dangerous service in World War II? The Army, the Navy, the Marines?  In fact, it was the Merchant Marine. 1 in 26 mariners serving aboard merchant ships in World WW II died in the line of duty, suffering … Continue reading &rarr;"
 ---

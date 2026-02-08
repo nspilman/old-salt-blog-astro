@@ -10,6 +10,7 @@ tags:
   - "Blind Date"
   - "explosion"
   - "Sandy Hook"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Blind-Date-01.jpg"
 author: "Rick Spilman"
 description: "A very odd news report from this afternoon. At around 4:20 PM, a yacht identified as the Blind Date is reported to have exploded with 21 people aboard in the Atlantic, about 17.5 miles off Sandy Hook, New Jersey, according to NBC New York.  The people aboard are said to have … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "South Street Seaport Museum"
   - "Street of Ships"
   - "Wavertree"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/wavertree1.jpg"
 author: "Rick Spilman"
 description: "This Saturday, the South Street Seaport Museum celebrated its Spring Revival with the grand re-opening of Pier 16 and the Street of Ships. The ceremony began with the ringing of the bell on the historic lightship Ambrose built in 1907. The … Continue reading &rarr;"
 ---

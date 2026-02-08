@@ -13,6 +13,7 @@ tags:
   - "Gulf of Mexico"
   - "Jupiter"
   - "Perry Cohen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/capsized-boat-200x120.jpg"
 author: "Rick Spilman"
 description: "On Friday, two teen boys went missing off Jupiter, FL. Their boat was found capsized on Sunday night. The Coast Guard continuing the search for the teens."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Free"
   - "Hell Around the Horn"
   - "Kindle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "The Kindle Edition of Hell Around the Horn will be free today through Monday, February 9 – 11th.  Click here to download a copy. This is the second and last Kindle free promotion for the book. For those who have asked for … Continue reading &rarr;"
 ---

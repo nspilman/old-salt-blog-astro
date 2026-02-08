@@ -10,6 +10,7 @@ tags:
   - "Gray Whale"
   - "Pacific Ocean"
   - "South Atlantic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/Gray_whale.jpg"
 author: "Rick Spilman"
 description: "A gray whale has been sighted in Walvis Bay, Namibia.  This is amazing news, as gray whales were hunted to extinction in the North Atlantic by the 18th century and have never been sighted before south of the equator.  Gray whales … Continue reading &rarr;"
 ---

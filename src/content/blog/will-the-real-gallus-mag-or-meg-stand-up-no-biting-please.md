@@ -15,6 +15,7 @@ tags:
   - "new york"
   - "North Carolina"
   - "Wilmington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/ear.jpg"
 author: "Rick Spilman"
 description: "In New York City, there is a story told about Gallus Mag, the bouncer at the ‘Hole in the Wall‘, a bar and brothel on Water Street on the East River waterfront in the mid-1800s. Standing well over 6’ tall, she … Continue reading &rarr;"
 ---

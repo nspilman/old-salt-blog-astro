@@ -15,6 +15,7 @@ tags:
   - "shipwreck"
   - "Wisconsin"
   - "wooden steamship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/doty.jpg"
 author: "Rick Spilman"
 description: "In October of 1898, the wooden steamship L.R. Doty disappeared in Lake Michigan in a storm with seventy mile an hour winds and thirty foot waves. Her crew of 17 and two ship’s cats were lost.   A group of … Continue reading &rarr;"
 ---

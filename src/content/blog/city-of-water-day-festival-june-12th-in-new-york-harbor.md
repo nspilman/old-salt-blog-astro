@@ -15,6 +15,7 @@ tags:
   - "Lilac"
   - "Metropolitan Waterfront Alliance"
   - "Pier 25"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/cowd.jpg"
 author: "Rick Spilman"
 description: "The Metropolitan Waterfront Alliance is hosting its seventh annual City of Water Day festival this Saturday, July 12th, at multiple locations in New York Harbor.  Festivities will run from 10 a.m. to 4 p.m.  This year Hoboken is joining in the fun, hosting … Continue reading &rarr;"
 ---

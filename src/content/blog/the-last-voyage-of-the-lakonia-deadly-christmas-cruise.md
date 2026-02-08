@@ -14,6 +14,7 @@ tags:
   - "fire"
   - "Laconia"
   - "Madeira"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/Lakonia_Lifemag.jpg"
 author: "Rick Spilman"
 description: "Forty seven years ago, passengers on the cruise ship Lakonia were promised  \"a marvelous Christmas cruise to sunny Madeira and the Canary Islands.\"   The brochure read –  \"Have your holiday with all risk eliminated. Enjoy a holiday you will remember for … Continue reading &rarr;"
 ---

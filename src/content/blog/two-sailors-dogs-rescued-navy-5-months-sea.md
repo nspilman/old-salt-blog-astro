@@ -12,6 +12,7 @@ tags:
   - "Natasha \"Tasha\" Fuiava"
   - "Sea Nymph"
   - "USS Ashland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/freeday2morning2.jpg"
 author: "Rick Spilman"
 description: "On Wednesday, the dock landing ship USS Ashland rescued two woman sailors and their two dogs from their sailboat roughly 900 miles southeast of Japan. The sailboat had been spotted by a passing Taiwanese fishing boat, which alerted the navy. The two … Continue reading &rarr;"
 ---

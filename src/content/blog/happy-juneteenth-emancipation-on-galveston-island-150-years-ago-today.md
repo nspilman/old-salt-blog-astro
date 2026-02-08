@@ -14,6 +14,7 @@ tags:
   - "texas"
   - "USS Cornubia"
   - "USS Preston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/sscornubia.jpg"
 author: "Rick Spilman"
 description: "Today is Juneteeth, a commemoration of the abolition of slavery in the Confederate states one hundred and fifty years ago today."
 ---

@@ -14,6 +14,7 @@ tags:
   - "Lima"
   - "Peru"
   - "Thor Heyerdahl"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/kontiki2.jpg"
 author: "Rick Spilman"
 description: "Two balsa rafts have set out from Lima, Peru for Easter Island on the Kon-Tiki 2 expedition."
 ---

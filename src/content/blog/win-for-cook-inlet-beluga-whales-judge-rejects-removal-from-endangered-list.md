@@ -10,6 +10,7 @@ tags:
   - "Alaska"
   - "Cook Inlet Beluga Whales"
   - "State of Alaska"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/beluga.jpg"
 author: "Rick Spilman"
 description: "The beluga whale population in Alaska’s Cook Inlet has been declining since the 1980s.  Hunting by Alaska Natives killed nearly half the remaining 650 whales in only four years between 1994 and 1998. Native hunting of the belugas has since been … Continue reading &rarr;"
 ---

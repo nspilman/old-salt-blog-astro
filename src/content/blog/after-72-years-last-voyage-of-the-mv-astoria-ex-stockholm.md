@@ -11,6 +11,7 @@ tags:
   - "collision"
   - "radar"
   - "Stockholm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/02/stockholm.jpg"
 author: "Rick Spilman"
 description: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be \"nearing its final voyage.\" The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
 ---

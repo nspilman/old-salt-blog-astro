@@ -15,6 +15,7 @@ tags:
   - "Singapore"
   - "SkyPark"
   - "Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/23481877585280-10204647.jpg"
 author: "Rick Spilman"
 description: "A quick look at two quirky structures that look like a boat and a ship left high and dry. What appears to be a modest houseboat is perched above the Purcell Room of Queen Elizabeth Hall at the Southbank Centre … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Cemfjord"
   - "Pentland Firth"
   - "Scotland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/frachter340_v-contentgross.jpg"
 author: "Rick Spilman"
 description: "There are serious questions as to whether the cement carrier Cemfjord, which sank in Pentland Firth, should have been allowed to sail."
 ---

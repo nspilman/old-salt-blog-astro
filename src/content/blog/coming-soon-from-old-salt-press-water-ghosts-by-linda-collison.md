@@ -10,6 +10,7 @@ tags:
   - "Liinda Collison"
   - "Old Salt Press"
   - "Water Ghosts"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/WaterGhoststhumb.jpg"
 author: "Rick Spilman"
 description: "Linda Collison's wonderful new book, Water Ghosts -- A teenaged boy aboard a traditional Chinese junk, controlled by ghosts from the Ming Dynasty."
 ---

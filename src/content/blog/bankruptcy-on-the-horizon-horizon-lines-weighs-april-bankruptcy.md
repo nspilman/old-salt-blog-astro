@@ -10,6 +10,7 @@ categories:
 tags:
   - "Horizon Lines"
   - "Jones Act container shipping company"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/Producer.jpg"
 author: "Rick Spilman"
 description: "Times have been tough for Horizon Lines, the US  Jones Act container shipping company that was spun off from Sealand in 2003.  In addition to suffering decreased revenues in the general economic downturn, in late February Horizon agreed to plead guilty to a felony charge … Continue reading &rarr;"
 ---

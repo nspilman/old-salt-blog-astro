@@ -15,6 +15,7 @@ tags:
   - "Santa Fun Run"
   - "Scuba Santas"
   - "Surfing Santa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/protectorsanta.jpg"
 author: "Rick Spilman"
 description: "Tis’ the season when Santa shows up in the most unusual places. A small ship-load of Santas was recently observed running across the ice at the bottom of the world. Twenty crew members dressed as Santa (with at least one reindeer) from … Continue reading &rarr;"
 ---

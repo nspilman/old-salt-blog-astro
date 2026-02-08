@@ -10,6 +10,7 @@ tags:
   - "global warming"
   - "Nature Climate Change"
   - "trade winds"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/nclimate2106-f3.jpg"
 author: "Rick Spilman"
 description: "Joseph Conrad, who claimed not to be a sentimentalist when came to the life at sea, waxed poetic when writing of the trade winds:  In the middle belt of the earth the Trade Winds reign supreme, undisputed, like monarchs of … Continue reading &rarr;"
 ---

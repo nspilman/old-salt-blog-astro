@@ -13,6 +13,7 @@ tags:
   - "Hornblower Cruises"
   - "new york harbor"
   - "Statue Cruises"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/statuecruiser.jpg"
 author: "Rick Spilman"
 description: "Earlier this week we posted about Cakewalk, a luxury yacht built at Derecktor Shipyards in Bridgeport, Conn.   Here is quite different vessel now under construction at Derecktor.    Statue Cruises, a subsidiary of Hornblower Cruises, has hired Derecktor to construct the world’s … Continue reading &rarr;"
 ---

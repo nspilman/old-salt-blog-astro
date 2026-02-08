@@ -11,6 +11,7 @@ tags:
   - "Captain Mary Becker Greene"
   - "Delta Queen"
   - "riverboat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/marygreen2.jpg"
 author: "Rick Spilman"
 description: "Some say that Captain Mary Becker Greene is still watching out for riverboat Delta Queen."
 ---

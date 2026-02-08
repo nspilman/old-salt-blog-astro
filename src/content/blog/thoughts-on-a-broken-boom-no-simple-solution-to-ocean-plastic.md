@@ -12,6 +12,7 @@ tags:
   - "Great Pacific Garbage Patch"
   - "Ocean Cleanup"
   - "plastic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/oceancleanupboom.jpg"
 author: "Rick Spilman"
 description: "Much of the media have taken the claims of Boyan Slat at face value. The young Dutch engineer has claimed that his design for a series of floating ocean booms will clean the oceans of plastic. The BBC headline in 2014 which … Continue reading &rarr;"
 ---

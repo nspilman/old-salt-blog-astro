@@ -12,6 +12,7 @@ tags:
   - "Great Lakes"
   - "Saint Lawrence River"
   - "St. Lawrence Seaway"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/seaway.jpg"
 author: "Rick Spilman"
 description: "While there have been locks on the Saint Lawrence River since at least 1862, the St. Lawrence Seaway, the current series of locks, canals and channels that permit ocean-going vessels to travel from the Atlantic Ocean to the North American Great … Continue reading &rarr;"
 ---

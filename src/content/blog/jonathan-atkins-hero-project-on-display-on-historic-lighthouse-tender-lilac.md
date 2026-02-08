@@ -10,6 +10,7 @@ tags:
   - "Jonathan Atkin"
   - "lighthouse tender"
   - "Lilac"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/heroproject.jpg"
 author: "Rick Spilman"
 description: "The historic lighthouse tender Lilac is celebrating the Summer season with a exhibition of Jonathan Atkin’s Hero Project.  Hero Project is a selection from Jonathan’s on-going work-in-progress collaboration with dance artists aboard historic ships.  His mission is to increase visibility of our maritime … Continue reading &rarr;"
 ---

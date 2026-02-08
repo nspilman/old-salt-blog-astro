@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Voyage Data Recorder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/vdrelfaro.jpg"
 author: "Rick Spilman"
 description: "The National Transportation Safety Board (NTSB) announced that \"cargo ship El Faro’s voyage data recorder was located early Tuesday morning in 15,000 feet of water, about 41 miles (36 nautical miles) northeast of Acklins and Crooked Islands, Bahamas, by a … Continue reading &rarr;"
 ---

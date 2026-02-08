@@ -9,6 +9,7 @@ tags:
   - "Connecticut Schooner Festival"
   - "Mystic"
   - "New London"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/schooner-race2.jpg"
 author: "Rick Spilman"
 description: "The first annual Connecticut Schooner Festival begins this today! Five days of fun in Mystic and New London, September 11 – September 15.  Click here to learn more. … Continue reading &rarr;"
 ---

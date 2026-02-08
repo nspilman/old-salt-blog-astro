@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/lamina.jpg"
 author: "Rick Spilman"
 description: "Update:  The death toll from the ferry collision has risen to 39 after a nine year old girl, Tsui Hoi-ying, who had been of life support in a Hong Kong hospital, is reported to have died. It only took about … Continue reading &rarr;"
 ---

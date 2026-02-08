@@ -12,6 +12,7 @@ categories:
 tags:
   - "Titanic"
   - "Titanic Myths"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/titanicmyths.jpg"
 author: "Rick Spilman"
 description: "In light of the recent claims in Louise Patten’s new book,  Good as Gold , which we posted about earlier this week, we are very pleased to welcome Tim Maltin,  author of  101 Things You Thought You Knew About the Titanic…But Didn’t, as guest … Continue reading &rarr;"
 ---

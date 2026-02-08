@@ -12,6 +12,7 @@ tags:
   - "Island Queen"
   - "Kick 'em Jenny"
   - "Seismic Research Centre"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/kickemjenny-188x200.jpg"
 author: "Rick Spilman"
 description: "Kick'em Jenny, an underwater volcano near Grenada is threatening to erupt. An eruption could sink ships and shoot up hot rocks into the air"
 ---

@@ -14,6 +14,7 @@ tags:
   - "H.L. Hunley"
   - "spar"
   - "USS Housatonic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/hunley.jpg"
 author: "Rick Spilman"
 description: "The Confederate submarine H.L. Hunley is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this \"success.\"  The Hunley may have been sunk … Continue reading &rarr;"
 ---

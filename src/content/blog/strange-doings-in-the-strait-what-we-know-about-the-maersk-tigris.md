@@ -12,6 +12,7 @@ tags:
   - "Maersk Tigris"
   - "Marshall Island"
   - "Strait of Hormuz"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/tigris2.jpg"
 author: "Rick Spilman"
 description: "Yesterday, the container ship, Maersk Tigris, was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far."
 ---

@@ -15,6 +15,7 @@ tags:
   - "Prinsendam"
   - "suicide"
   - "SuperStar Aquarius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Prinsendam.jpg"
 author: "Rick Spilman"
 description: "Passengers should embark and disembark by the gangway only. Three stories, two of them tragic, of unusual arrivals and departures from cruise ships last week. On the Holland America  cruise ship,  Prinsendam, passengers were shocked when  a powered hang glider made a crash landing on … Continue reading &rarr;"
 ---

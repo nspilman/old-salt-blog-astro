@@ -10,6 +10,7 @@ categories:
 tags:
   - "EBay"
   - "HMS Pickle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/hmspickle-300x225.jpg"
 author: "Rick Spilman"
 description: "HMS Pickle is for sale on Ebay, with a minimum opening bid of £69,500.00, no reserve and five days left in the auction.  The topsail schooner is a replica of the first ship to bring the news of Nelson’s great … Continue reading &rarr;"
 ---

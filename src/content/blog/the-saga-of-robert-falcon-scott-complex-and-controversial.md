@@ -16,6 +16,7 @@ tags:
   - "Robert Falcon Scott"
   - "Scott Polar Research Institute"
   - "South Pole"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/Robert_falcon_scott.jpg"
 author: "Rick Spilman"
 description: "British explorer Robert Falcon Scott was born today in 1868.  He died, along with his four companions, on the way back from the South Pole in 1912.   They had successfully reached the pole, only to learn that they had been beaten … Continue reading &rarr;"
 ---

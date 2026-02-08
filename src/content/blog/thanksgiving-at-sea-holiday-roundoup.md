@@ -12,6 +12,7 @@ tags:
   - "oysters"
   - "river fishing"
   - "Thanksgiving"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/mayflower-ii.jpg"
 author: "Rick Spilman"
 description: "Today is celebrated as a day of Thanksgiving in the United States.  At the Old Salt Blog we would like to express our sincere thanks and gratitude to all our readers and contributors, who make putting together the blog such … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Navantia"
   - "Spanish Navy"
   - "submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/s80plus.jpg"
 author: "Rick Spilman"
 description: "Spain’s S-80 Plus submarine is an advanced design featuring Air Independent Propulsion  (AIP), which is reported to have cost around € 1 billion. The original design came in overweight, so it necessary to lengthen the submarine by 10 meters.  Now, it appears that the newly … Continue reading &rarr;"
 ---

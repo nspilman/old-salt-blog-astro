@@ -13,6 +13,7 @@ tags:
   - "Preussen"
   - "Royal Clipper"
   - "Star Clippers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/royalclipper.jpg"
 author: "Rick Spilman"
 description: "Here is a look at a modern sailing ship, Star Clipper’s Royal Clipper, a high-tech square-rigger whose technology is not always obvious.  Click here for a photo tour of the Royal Clipper recently featured in USA Today. We recently posted about … Continue reading &rarr;"
 ---

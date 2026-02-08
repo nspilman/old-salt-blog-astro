@@ -10,6 +10,7 @@ tags:
   - "National Register of Historic Places"
   - "PortSide New York"
   - "Summer Youth Employment Program"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/080905_volies_paint_house_s.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the tanker Mary Whalen being deemed eligible to be listed on the National Register of Historic Places.   PortSide New York and the Mary Whalen are also participating in New York City’s Summer Youth Employment Program, which provides meaningful summer work for … Continue reading &rarr;"
 ---

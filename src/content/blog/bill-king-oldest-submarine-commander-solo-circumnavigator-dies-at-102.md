@@ -14,6 +14,7 @@ tags:
   - "Oranmore Castle"
   - "single-handed circumnavigator"
   - "World war II submarine commander"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/bking1.jpg"
 author: "Rick Spilman"
 description: "Bill King, one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, \"Commander Bill DSO, DSC submariner and … Continue reading &rarr;"
 ---

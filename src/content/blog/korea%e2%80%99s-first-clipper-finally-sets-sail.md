@@ -10,6 +10,7 @@ categories:
 tags:
   - "clipper"
   - "Koreana"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/koreana.jpg"
 author: "Rick Spilman"
 description: "An interesting article from JoongAng Ilbo about a large sailing yacht once owned by an unnamed American Mafia boss. The yacht was in Korea for modifications, when the Mafiosa was arrested and sent to prison.  The boat was purchased by a Korean who … Continue reading &rarr;"
 ---

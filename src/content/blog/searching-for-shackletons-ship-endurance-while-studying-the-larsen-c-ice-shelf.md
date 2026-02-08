@@ -13,6 +13,7 @@ tags:
   - "Ernest Shackleton"
   - "Larsen C Ice Shelf"
   - "Scott Polar Research Institute"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/enduranceice.jpg"
 author: "Rick Spilman"
 description: "Next January and February, an expedition to Antarctica will search for Ernest Shackleton‘s doomed ship, Endurance, crushed by the ice in 1915. Finding the wreck of the ship is not the primary objective of the venture, however, which is to study … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Mary A.Whalen"
   - "Red Hook Open Studios concert"
   - "Shepup &amp; friends"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/10/marywhalenshepup.jpg"
 author: "Rick Spilman"
 description: "If you are in the vicinity of New York harbor on this Sunday, October 9th, you may wish to check out the Red Hook Open Studios (RHOS) concert featuring Shepup & friends on Portside NewYork‘s historic tanker Mary A. Whalen. … Continue reading &rarr;"
 ---

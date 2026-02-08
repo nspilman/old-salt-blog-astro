@@ -10,6 +10,7 @@ tags:
   - "International Women's Day"
   - "Petty Officer Second Class Sara Faulkner"
   - "US Coast Guard Rescue Swimmer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/0308RESCUEDIVER8A.jpg"
 author: "Rick Spilman"
 description: "Today is International Women’s Day.  Indeed, it is the 100th Anniversary of the first International  Women’s Day in 1911.   We have followed with interest the women who have progressively stepped up to serve in jobs that not too long … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Charles W. Morgan"
   - "Herman Melville"
   - "Moby Dick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/crowsnest1.jpg"
 author: "Rick Spilman"
 description: "The first of a two-part post on crows nests. Who would have thought that a crow’s nest deserves such attention? A reader commented on the lack of a crow’s nest in the video of the Charles W. Morgan under sail … Continue reading &rarr;"
 ---

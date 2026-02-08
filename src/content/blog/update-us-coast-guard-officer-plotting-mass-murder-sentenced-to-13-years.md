@@ -10,6 +10,7 @@ tags:
   - "Coast Guard"
   - "Mass Murder"
   - "white nationalist"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/02/weaponscache-1.jpg"
 author: "Rick Spilman"
 description: "About a year ago we posted about an active-duty US Coast Guard lieutenant accused of plotting attacks \"to murder innocent civilians on a scale rarely seen in this country.\" Christopher Paul Hasson, 50, a self-avowed white nationalist, was arrested after … Continue reading &rarr;"
 ---

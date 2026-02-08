@@ -16,6 +16,7 @@ tags:
   - "South Street Seaport"
   - "SS Normandie"
   - "Steam Whistle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/NORMANDIE_WHISTLE06032010.jpg"
 author: "Rick Spilman"
 description: "Last Thursday, the mellifluous blast of the SS Normandie‘s steam whistle once gain reverberated across the piers of the South Street Seaport in New York.   The blowing of the steam whistle celebrated the anniversary of the arrival of French luxury liner to New York seventy five years … Continue reading &rarr;"
 ---

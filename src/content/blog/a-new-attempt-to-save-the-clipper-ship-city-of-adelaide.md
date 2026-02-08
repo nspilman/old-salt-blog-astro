@@ -11,6 +11,7 @@ categories:
 tags:
   - "City of Adelaide"
   - "HMS Carrick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/07/city_of_adelaide-150x114.jpg"
 author: "Rick Spilman"
 description: "More talks to save the fine old ship from being broken up.  Only time will tell whether anyone will come up with the funds to rescue her. Fresh bid to salvage historic Scots ship … Continue reading &rarr;"
 ---

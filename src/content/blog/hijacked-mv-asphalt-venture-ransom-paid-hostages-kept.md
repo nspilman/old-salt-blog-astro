@@ -12,6 +12,7 @@ tags:
   - "Indian seafarers"
   - "MV Asphalt Venture"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg"
 author: "Rick Spilman"
 description: "The MV Asphalt Venture was hijacked by Somali pirates on September 28, 2010.  After negotiating and being paid a multi-million dollar ransom, the pirates released the ship and part of the crew yesterday,  but continued to hold seven Indian seafarers hostage, reportedly in retaliation … Continue reading &rarr;"
 ---

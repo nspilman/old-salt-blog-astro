@@ -14,6 +14,7 @@ tags:
   - "scholar"
   - "underwater archaeology"
   - "writer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Honor-Frost-006.jpg"
 author: "Rick Spilman"
 description: "Honor Frost had many talents – as artist, ballet designer, scholar, writer and publicist, to name a few – but her consuming passion was the world beneath the oceans. Honor, who has died aged 92, initiated underwater archaeology as a … Continue reading &rarr;"
 ---

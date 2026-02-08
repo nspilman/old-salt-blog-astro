@@ -6,6 +6,7 @@ excerpt: "As Shakespeare noted, \"the course of true love never did run smooth.\
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/4450741.jpg"
 author: "Rick Spilman"
 description: "As Shakespeare noted, \"the course of true love never did run smooth.\"   That was literally the case when, in early October,  Tokelaun teenager Filo Filo, with two of his friends, set off to visit a young lady on the neighboring Fakaofo atoll, some sixty miles … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Azure Window"
   - "limestone arch"
   - "Malta"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/azurewindowba.jpg"
 author: "Rick Spilman"
 description: "The Azure Window is no more. The iconic limestone arch on the island of Gozo in Malta was destroyed in a winter storm on March 8th. The 92′ high arch, a product of the erosion and collapse of two sea caves, … Continue reading &rarr;"
 ---

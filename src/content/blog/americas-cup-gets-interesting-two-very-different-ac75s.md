@@ -10,6 +10,7 @@ tags:
   - "America's Cup"
   - "Emirates Team New Zealand's Te Aihe."
   - "New York Yacht Club Team American Magic's Defiant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/09/defiant.jpg"
 author: "Rick Spilman"
 description: "The 36th America’s Cup Races, featuring foiling monohulls, is still 18 months away but are beginning to look very interesting.  Two very different AC75 contenders have taken to the water recently — The New York Yacht Club Team American Magic‘s … Continue reading &rarr;"
 ---

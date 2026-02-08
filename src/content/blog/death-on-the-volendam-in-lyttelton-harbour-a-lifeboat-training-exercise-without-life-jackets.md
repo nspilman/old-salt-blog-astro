@@ -12,6 +12,7 @@ tags:
   - "Lyttelton Harbour"
   - "New Zealand"
   - "Volendam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/lifeboat-1.jpg"
 author: "Rick Spilman"
 description: "Update: While originally reported that two crew members were knocked overboard during \"a lifeboat training exercise,\" it is now being reported that the sailors were performing lifeboat maintenance. The commenter (below) reports that both men were wearing safety harnesses which … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "PortSide NewYork"
   - "tanker Mary Whalen"
   - "writer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/don1983.jpg"
 author: "Rick Spilman"
 description: "Don Sutherland, marine photographer and writer, died on May 24 of cancer.  In the words of Carolina Salguero, Director, PortSide NewYork,  \"Don covered the working waterfront in this port like no other with an adoring eye, passionate voice and sharp … Continue reading &rarr;"
 ---

@@ -17,6 +17,7 @@ tags:
   - "Redpath Toronto Waterfront Festival"
   - "Schooner Roseway"
   - "Topsail-schooner Unicorn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/torontoships.jpg"
 author: "Rick Spilman"
 description: "The Redpath Toronto Waterfront Festival started yesterday and will run through July 4th.   The festival is hosting fifteen sailing ships and schooners, including HMS Bounty, the brig Niagara, the Bark Europa, the Pride of Baltimore II,  Brig Roald Amundsen, … Continue reading &rarr;"
 ---

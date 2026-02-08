@@ -10,6 +10,7 @@ tags:
   - "killer whale"
   - "Orca"
   - "type D"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/orcatype.jpg"
 author: "Rick Spilman"
 description: "The title of the paper published in the journal Polar Biology doesn’t help much, unless you are biologist. The paper is titled, \"Mitogenomic insights into a recently described and rarely observed killer whale morphotype.\" Lara Sorokanich writing in National Geographic … Continue reading &rarr;"
 ---

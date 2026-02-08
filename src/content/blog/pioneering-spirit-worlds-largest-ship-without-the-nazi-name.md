@@ -11,6 +11,7 @@ tags:
   - "Allseas Group S.A."
   - "Pieter Schelte"
   - "Pioneering Spirit"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/Pieter-Schelte-–-Biggest-Ship-Ever6-200x125.jpg"
 author: "Rick Spilman"
 description: "The world's largest ship has been renamed Pioneering Spirit after its previous name after a Dutch Nazi officer caused protest."
 ---

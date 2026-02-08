@@ -11,6 +11,7 @@ tags:
   - "aircraft carrier"
   - "Britain"
   - "France"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/stovl_carrier_uk1.jpg"
 author: "Rick Spilman"
 description: "What would Lord Nelson have thought of this?  There were various news reports out recently that the British and the French may share aircraft carriers. UK, France closer to carrier sharing deal Britain and France are moving closer to a deal to share … Continue reading &rarr;"
 ---

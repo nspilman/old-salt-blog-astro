@@ -13,6 +13,7 @@ tags:
   - "Tubbataha Reef"
   - "US Navy"
   - "USS Guardian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/guardianreef1.jpg"
 author: "Rick Spilman"
 description: "The Navy has announced that the minesweeper, USS Guardian, which ran up on Tubbataha reef in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will \"involve … Continue reading &rarr;"
 ---

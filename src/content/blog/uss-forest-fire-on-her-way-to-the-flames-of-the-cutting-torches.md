@@ -13,6 +13,7 @@ tags:
   - "Supercarrier"
   - "USS Forrestal"
   - "USS Zippo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/USS_Forrestal1.jpg"
 author: "Rick Spilman"
 description: "The USS Forrestal left Phildelphia yesterday, under tow on her way to a scrap yard in Beaumont, Texas.  The USS Forrestal (CV-59) was the first US \"supercarrier\" and the first American aircraft carrier to be built with an angled flight deck, steam … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Littoral Combat Ship"
   - "Singapore"
   - "USS Freedom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/1889733802.jpg"
 author: "Rick Spilman"
 description: "The Navy’s Littoral Combat Ship (LCS) USS Freedom, the first of her namesake class and one of two different LCS designs, was recently deployed to Singapore for ten months in order to demonstrate the capabilities of the ship described by … Continue reading &rarr;"
 ---

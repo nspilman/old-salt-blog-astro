@@ -16,6 +16,7 @@ tags:
   - "Melbourne Smith"
   - "National Maritime Historical Society"
   - "unmarked grave"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/griffithdtombstone.jpg"
 author: "Rick Spilman"
 description: "Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of John Willis Griffiths, a gifted American naval architect who is often referred to as the \"Father of the Clipper Ship.\"  Although Griffiths … Continue reading &rarr;"
 ---

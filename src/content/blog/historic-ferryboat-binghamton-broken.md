@@ -12,6 +12,7 @@ tags:
   - "Edgewater"
   - "Ferryboat Binghamton"
   - "hudson river"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/binghamton-starboardsidecrop.jpg"
 author: "Rick Spilman"
 description: "When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat Binghamton. Yesterday, the New York Times featured an article \"Final Departure for … Continue reading &rarr;"
 ---

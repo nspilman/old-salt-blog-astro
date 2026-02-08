@@ -11,6 +11,7 @@ tags:
   - "hudson river"
   - "kayakers"
   - "kayaks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/kayakferrycollision.jpg"
 author: "Rick Spilman"
 description: "Yesterday, just before 6PM, a commuter ferry collided with a group of kayaks carrying ten kayakers, shortly after departing from the NY Waterway terminal at 39th Street on the Hudson River in Manhattan. The kayakers were part of a group organized by … Continue reading &rarr;"
 ---

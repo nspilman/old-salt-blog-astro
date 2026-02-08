@@ -14,6 +14,7 @@ tags:
   - "Robert Smalls"
   - "slave"
   - "US Navy captain"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "Here is a story well worth retelling. An updated repost from 2012. The remarkable story of Robert Smalls. On May 13, 1862, Robert Smalls, a 23-year-old slave, who served as the pilot of the Confederate armed transport, CSS Planter, led eight fellow slaves … Continue reading &rarr;"
 ---

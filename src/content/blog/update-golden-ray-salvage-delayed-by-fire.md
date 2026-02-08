@@ -14,6 +14,7 @@ tags:
   - "fire"
   - "Golden Ray"
   - "VB-10000"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/goldenrayfire.jpg"
 author: "Rick Spilman"
 description: "The salvage job to remove the car carrier Golden Ray that rolled on its side as it departed the Port of Brunswick, GA, in September 2019 while carrying about 4,200 vehicles, was originally planned to take around eight weeks and … Continue reading &rarr;"
 ---

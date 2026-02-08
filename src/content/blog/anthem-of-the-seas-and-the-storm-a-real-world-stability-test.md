@@ -9,6 +9,7 @@ tags:
   - "Anthem of the Seas"
   - "Royal Caribbean"
   - "stability"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/anthem4.jpg"
 author: "Rick Spilman"
 description: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, \"No, they are not,\" but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
 ---

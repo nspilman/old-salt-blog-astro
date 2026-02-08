@@ -12,6 +12,7 @@ tags:
   - "Archeology Weekend"
   - "Lake Champlain Maritime Museum"
   - "Lake Champlain shipwrecks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/sloop_wheel_sm.jpg"
 author: "Rick Spilman"
 description: "The Lake Champlain Maritime Museum is hosting an Archeology Weekend tomorrow and Sunday. it will include  presentations on Lake Champlain shipwrecks and feature some of their latest explorations including early steamboats, gunboats, sailing vessels and canal boats. There will be special demonstrations in … Continue reading &rarr;"
 ---

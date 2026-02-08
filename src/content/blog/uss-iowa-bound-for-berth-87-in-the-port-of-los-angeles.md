@@ -11,6 +11,7 @@ tags:
   - "Pacific Battleship Center"
   - "Port of Los Angeles"
   - "USS Iowa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/UssIowa.jpg"
 author: "Rick Spilman"
 description: "The USS Iowa will soon have a new home. The Port of Los Angeles has won the bidding to support the battleship, beating out Vallejo which had also been actively bidding for the ship. Los Angeles Wins USS Iowa Bid … Continue reading &rarr;"
 ---

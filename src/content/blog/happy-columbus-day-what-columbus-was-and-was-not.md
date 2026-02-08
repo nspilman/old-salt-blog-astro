@@ -10,6 +10,7 @@ tags:
   - "Christoffa Corombo"
   - "Columbus Day"
   - "Genoa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Columbus.jpg"
 author: "Rick Spilman"
 description: "Today is Columbus Day in the United States (and Thanksgiving Day in Canada. Happy Thanksgiving Canadians.)  Columbus Day is celebrated tomorrow in Spain. Every year about this time,  various scholars and pundits emerge to denigrate the memory of the Genoese naviator and explorer.   There were indeed many things … Continue reading &rarr;"
 ---

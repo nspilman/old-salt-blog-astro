@@ -12,6 +12,7 @@ tags:
   - "HMS Victory"
   - "satire"
   - "Trident"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/HMS-Victory.jpg"
 author: "Rick Spilman"
 description: "This is satire, though given the rather drastic cuts in the Royal Navy budget, it doesn’t feel too far off the mark.  From News Biscuit: HMS Victory to replace Trident and Ark Royal HMS Victory, Nelson’s flagship at the Battle of … Continue reading &rarr;"
 ---

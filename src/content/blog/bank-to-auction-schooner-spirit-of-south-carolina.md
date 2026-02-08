@@ -10,6 +10,7 @@ categories:
 tags:
   - "Sailing School Vessel"
   - "Spirit of South Carolina."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/spiritsouthcarolina.jpg"
 author: "Rick Spilman"
 description: "The Sailing School Vessel Spirit of South Carolina is finally going to auction. As we posted in late 2011, the now defunct South Carolina Maritime Foundation ran into financial problems only a few years after the 90′ on-deck schooner went … Continue reading &rarr;"
 ---

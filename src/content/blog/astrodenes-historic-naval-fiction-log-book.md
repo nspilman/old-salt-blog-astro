@@ -13,6 +13,7 @@ tags:
   - "Robert N. Macomber"
   - "The Mountain of Gold"
   - "Wynford Davies"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/logbook_banner2.jpg"
 author: "Rick Spilman"
 description: "Astrodene’s Historic Naval Fiction Log Book, a monthly newsletter on naval and nautical fiction and non-fiction is out for April.   Books due for release this month are the novels,  The Mountain of Gold by J. D. Davies, and Honor Bound by Robert … Continue reading &rarr;"
 ---

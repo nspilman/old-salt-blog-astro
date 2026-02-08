@@ -12,6 +12,7 @@ tags:
   - "MAPFRE"
   - "Turn the Tide on Plastics"
   - "Vestas 11th Hour"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/vestas11h.jpg"
 author: "Rick Spilman"
 description: "The Southern Ocean has been battering the rigs of the boats sailing in the Volvo Ocean Race (VOR) as the fleet rounds Cape Horn. On Friday, Vestas 11th Hour Racing was dismasted. The Vestas boat lost its mast in 25 … Continue reading &rarr;"
 ---

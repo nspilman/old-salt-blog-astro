@@ -9,6 +9,7 @@ categories:
 tags:
   - "International Scurvy Awareness Day"
   - "Lime Strong"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/scurvy-awareness-day.jpg"
 author: "Rick Spilman"
 description: "Once again, May 2nd is International Scurvy Awareness Day! The festivities appear to be sponsored by a group calling itself Lime Strong."
 ---

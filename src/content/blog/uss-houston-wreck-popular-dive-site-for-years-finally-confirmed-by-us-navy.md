@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/USS_Houston.jpg"
 author: "Rick Spilman"
 description: "US Navy divers confirmed the location of the wreck of the USS Houston in Banten Bay off the Java Sea."
 ---

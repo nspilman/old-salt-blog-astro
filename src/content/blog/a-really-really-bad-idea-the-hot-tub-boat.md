@@ -9,6 +9,7 @@ categories:
 tags:
   - "Hammacher Schlemmer"
   - "Hot Tub Boat"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/hottubboat.jpg"
 author: "Rick Spilman"
 description: "Only on rare occasional does one find a boat that would be significantly improved if run hard aground.  Here is one example, however.  Many large yachts have hot tubs onboard. This 16′ boat, however, is simply a floating hot tub with a … Continue reading &rarr;"
 ---

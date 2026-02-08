@@ -12,6 +12,7 @@ tags:
   - "Iranian navy"
   - "Kharg"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/db5e252c-3e95-11e0-9e8f-001.jpg"
 author: "Rick Spilman"
 description: "For the first time since the Iranian revolution in 1979, two ships of the Iranian Navy are transiting the Suez Canal bound for the Mediterranean Sea.  The two ships, Alvand, a patrol frigate and Kharg, a supply ship, entered the … Continue reading &rarr;"
 ---

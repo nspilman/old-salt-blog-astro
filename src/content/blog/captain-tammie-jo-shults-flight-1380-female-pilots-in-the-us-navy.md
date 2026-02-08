@@ -10,6 +10,7 @@ tags:
   - "Captain Tammie Jo Shults"
   - "female pilot"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/tammyjo.jpg"
 author: "Rick Spilman"
 description: "On Tuesday, the 149 passengers on Southwest Airline’s Flight 1380 were shocked when about 20 minutes after takeoff from New York, the plane’s left engine exploded, blowing a hole in the fuselage. The rapid depressurization sucked one woman passenger partially out of … Continue reading &rarr;"
 ---

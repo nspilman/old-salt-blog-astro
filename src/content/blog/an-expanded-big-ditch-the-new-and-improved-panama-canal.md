@@ -11,6 +11,7 @@ tags:
   - "Panama Canal"
   - "Panamax"
   - "panoramas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/pcanalpano.jpg"
 author: "Rick Spilman"
 description: "In 1914, the opening of the Panama Canal shortened the distance by sea between the Atlantic and Pacific Oceans by almost 7,000 miles, eliminating the need to round treacherous Cape Horn. One hundred years later, in 2014, a new third set of  locks … Continue reading &rarr;"
 ---

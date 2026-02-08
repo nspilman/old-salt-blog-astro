@@ -11,6 +11,7 @@ tags:
   - "Dunkirk"
   - "HMT Lancastria"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/RMSLancastria.jpg"
 author: "Rick Spilman"
 description: "The tragic loss of an estimated 6,500 men, women and children on the Lancastria was covered up for more than seventy years."
 ---

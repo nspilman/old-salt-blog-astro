@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Brahmaputra River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/Indianferry2.jpg"
 author: "Rick Spilman"
 description: "In what may prove to be the worst ferry accident in India in recent years, it is still unclear how many passengers were lost when an overcrowded ferry capsized on Monday in the bad weather in the Brahmaputra River in India’s Assam state. … Continue reading &rarr;"
 ---

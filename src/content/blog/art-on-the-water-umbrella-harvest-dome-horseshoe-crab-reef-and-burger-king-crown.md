@@ -11,6 +11,7 @@ tags:
   - "Horseshoe Crab Reef"
   - "Statue of Liberty"
   - "Umbrella Harvest Dome"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/r-BURGER-KING-CROWN-large570.jpg"
 author: "Rick Spilman"
 description: "There have been several interesting art projects on and/or soon to be under the water around New York harbor.  Late last month a Harvest Dome built of discarded umbrellas was unexpectedly shipwrecked on Riker’s Island in New York’s East River.  A day … Continue reading &rarr;"
 ---

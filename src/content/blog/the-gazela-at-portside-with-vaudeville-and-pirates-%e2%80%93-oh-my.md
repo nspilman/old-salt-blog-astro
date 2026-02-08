@@ -12,6 +12,7 @@ tags:
   - "Philadelphia’s tall ship"
   - "PortSide New York"
   - "Seven Deadly Seas: Waylaid &amp; Hornswoggled"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/piratevaudeville.jpg"
 author: "Rick Spilman"
 description: "Earlier this month we posted about Philadelphia’s tall ship, the barquentine Gazela, returning to sea after suffering rudder damage several years ago.  After participating in a  Portuguese festival in New Bedford, MA the Gazela will be visiting PortSide  New York,starting this Thursday August 19th to Monday the 23rd.  She will be … Continue reading &rarr;"
 ---

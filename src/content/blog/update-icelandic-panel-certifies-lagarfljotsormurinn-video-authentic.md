@@ -12,6 +12,7 @@ tags:
   - "Lagarfljót Worm"
   - "Lagarfljótsormurinn"
   - "Lake Lagarfljót"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/lagarfljotsormurinn_lake_monster_serpent.jpg"
 author: "Rick Spilman"
 description: "An Icelandic commission has now narrowly voted that a video of Lagarfljótsormurinn is \"authentic.\""
 ---

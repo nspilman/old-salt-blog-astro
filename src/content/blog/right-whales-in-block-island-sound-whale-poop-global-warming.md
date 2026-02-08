@@ -11,6 +11,7 @@ tags:
   - "climate change"
   - "North Atlantic Right Whale"
   - "whale feces"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/rwhalebi.jpg"
 author: "Rick Spilman"
 description: "Recently almost one hundred endangered right whales were observed feeding in the waters of Block Island Sound. Given that only between 350 and 400 of the North Atlantic Right Whales are believed to currently exist, the gathering was quite unusual. … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Bethsaida Sandoval"
   - "burglary"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/royalcaribb.jpg"
 author: "Rick Spilman"
 description: "When on a cruise vacation, I can imagine nothing less relaxing than worrying that the cruise line vacation planner might have given your home address to thieves, who were breaking into your house as you waited in line for the midnight buffet on the cruise ship. Bethsaida Sandoval, … Continue reading &rarr;"
 ---

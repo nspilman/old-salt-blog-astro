@@ -13,6 +13,7 @@ tags:
   - "Mystic Seaport Museum"
   - "Sailing Masters of 1812 Fife &amp; Drum Corps"
   - "William H. White"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/schoonerLYNX.jpg"
 author: "Rick Spilman"
 description: "On April 14th, at the Mystic Seaport Museum there will be a celebration of the anniversary of the War of 1812 with the captain and crew of the Lynx, \"America’s Privateer.\"   Historian and award winning author, William H. White, will be … Continue reading &rarr;"
 ---

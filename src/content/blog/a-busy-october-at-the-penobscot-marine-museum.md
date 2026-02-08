@@ -11,6 +11,7 @@ tags:
   - "Penobscot Marine Museum"
   - "sardine industry"
   - "Searsport's annual Fling Into Fall festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/pwheel.jpg"
 author: "Rick Spilman"
 description: "The Penobscot Marine Museum, Maine’s oldest maritime museum, is having a busy October, full of events and exhibitions.  This Friday and Saturday,  October 8th and 9th, the museum offers a range of free events as part as part of  Searsport’s annual Fling … Continue reading &rarr;"
 ---

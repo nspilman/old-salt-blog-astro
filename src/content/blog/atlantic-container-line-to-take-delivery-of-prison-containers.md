@@ -11,6 +11,7 @@ tags:
   - "ACL chief executive Andrew Abbott"
   - "Atlantic Container Lines"
   - "Prison Containers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/aaas6.jpg"
 author: "Rick Spilman"
 description: "One of the ways that stowaways can get aboard liner ships these days is to hide in cargo containers.  Atlantic Container Lines will be using containers for a related if rather different purpose.  The shipping line will soon take delivery … Continue reading &rarr;"
 ---

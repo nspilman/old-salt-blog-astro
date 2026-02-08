@@ -12,6 +12,7 @@ tags:
   - "Florida"
   - "Hydropod"
   - "Reza Baluchi"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/bubblemanuscg.jpg"
 author: "Rick Spilman"
 description: "\"Bubble Man\" Reza Baluchi is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US … Continue reading &rarr;"
 ---

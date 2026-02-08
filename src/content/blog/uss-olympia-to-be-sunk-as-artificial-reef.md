@@ -13,6 +13,7 @@ tags:
   - "New Jersey's Artificial Reef Program"
   - "Olympia"
   - "Spanish-American War"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/oympia2.jpg"
 author: "Rick Spilman"
 description: "Extremely disturbing news.   The scandal-plagued museum appears to want to get rid of the historic ship Olympia any way that it can. Historic warship’s future may be sunk … Continue reading &rarr;"
 ---

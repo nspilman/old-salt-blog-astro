@@ -13,6 +13,7 @@ tags:
   - "Mary Rose"
   - "Southend"
   - "Thames Estuary"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/london1.jpg"
 author: "Rick Spilman"
 description: "In 1665, HMS London, a 64-gun second-rate ship of the line of the English Royal Navy, exploded in the Thames Estuary off Southend.  Recent dives on the wreck have recovered a wide range of artifacts and remains.  As reported by the … Continue reading &rarr;"
 ---

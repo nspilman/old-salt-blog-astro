@@ -5,6 +5,7 @@ slug: "mourning-ming-the-mollusk-507-years-old"
 excerpt: "In February of last year, we posted about posidonia oceanica, known as Neptune grass, a variety of sea grass that covers the ocean floor from Spain to Cyprus. Some plants hare believed to be around 200,000 years old, making them the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/mingm.jpg"
 author: "Rick Spilman"
 description: "In February of last year, we posted about posidonia oceanica, known as Neptune grass, a variety of sea grass that covers the ocean floor from Spain to Cyprus. Some plants hare believed to be around 200,000 years old, making them the … Continue reading &rarr;"
 ---

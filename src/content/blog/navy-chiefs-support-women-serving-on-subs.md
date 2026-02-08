@@ -12,6 +12,7 @@ tags:
   - "navy"
   - "submarines"
   - "women"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/submarine2.jpg"
 author: "Rick Spilman"
 description: "Let women work on subs, Navy secretary says Women should be allowed to serve aboard submarines, and the Navy is \"moving out aggressively\" to make it happen, according to the service’s top civilian. \"I believe women should have every opportunity … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Kennebeck River"
   - "Maine"
   - "USS Zumwalt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/zumwalt2.jpg"
 author: "Rick Spilman"
 description: "The USS Zumwalt, DDG 1000, the largest and most expensive destroyer ever built for the US Navy, headed down the Kennebeck River from Bath Iron Works, in Bath, Maine yesterday, on its way to sea trials in the open Atlantic. Depending … Continue reading &rarr;"
 ---

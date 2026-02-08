@@ -5,6 +5,7 @@ slug: "moby-dick-marathon-at-the-new-bedford-whaling-museum"
 excerpt: "There is no bad time to read Melville.  For the past 15 years in early January, the New Bedford Whaling Museum has a held a Moby Dick Marathon, an event which includes a non-stop reading of the great American novel. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/logo2.png"
 author: "Rick Spilman"
 description: "There is no bad time to read Melville.  For the past 15 years in early January, the New Bedford Whaling Museum has a held a Moby Dick Marathon, an event which includes a non-stop reading of the great American novel. … Continue reading &rarr;"
 ---

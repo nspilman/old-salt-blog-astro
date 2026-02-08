@@ -12,6 +12,7 @@ tags:
   - "hazardous material"
   - "port city"
   - "Tianjin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/tianjinfire.jpg"
 author: "Rick Spilman"
 description: "Explosions at a warehouse containing hazardous materials rocked the Chinese port city of Tianjin on Wednesday, killing at least 50 and injuring over 700, 71 critically. Tianjin, 100 miles east of Beijing, is the fourth largest urban area in China. Buildings within a 1.5 miles … Continue reading &rarr;"
 ---

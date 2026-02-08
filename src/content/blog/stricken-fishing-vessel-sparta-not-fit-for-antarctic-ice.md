@@ -12,6 +12,7 @@ tags:
   - "icebreaker"
   - "Sparta"
   - "Vyacheslav Martyanov"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/sparta5.jpg"
 author: "Rick Spilman"
 description: "The Russian fishing vessel Sparta is afloat, though just barely after being holed by ice at the edge of the Ross ice shelf in Antarctica.  Why was an non-ice strengthened fishing boat fishing in such treacherous waters in the first place?  That is the question being raised by the Vyacheslav Martyanov, … Continue reading &rarr;"
 ---

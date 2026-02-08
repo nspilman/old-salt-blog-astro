@@ -10,6 +10,7 @@ tags:
   - "Clipper round-the-world yacht races"
   - "Lieutenant-Commander Colin de Mowbray"
   - "Sir Robin Knox-Johnston"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/colin_1688577c.jpg"
 author: "Rick Spilman"
 description: "Lieutenant-Commander Colin de Mowbray Lieutenant-Commander Colin de Mowbray , who died on July 11 aged 65, was a helicopter pilot and veteran of the Falklands war; in retirement he sailed on, and organised, round-the-world yacht races. … Continue reading &rarr;"
 ---

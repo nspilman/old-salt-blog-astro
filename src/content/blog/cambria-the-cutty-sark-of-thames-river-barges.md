@@ -11,6 +11,7 @@ categories:
 tags:
   - "Cambria"
   - "Thames River barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/14knots.jpg"
 author: "Rick Spilman"
 description: "The first word one associates with speed under sail is probably not barge.  Nevertheless, Thames River barges are no slackers when the wind is blowing.  Recently, the folks at Cambria Trust posted a photo of a GPS screen on restored … Continue reading &rarr;"
 ---

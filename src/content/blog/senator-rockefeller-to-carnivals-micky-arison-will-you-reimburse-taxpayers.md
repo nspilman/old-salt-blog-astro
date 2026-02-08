@@ -13,6 +13,7 @@ tags:
   - "Senator Jay Rockefeller"
   - "U.S Navy"
   - "U.S. Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/368659.jpg"
 author: "Rick Spilman"
 description: "Carnival Cruise Line pays virtually no Federal taxes, yet without the docks, roads, and airports provided by local, state and the federal governments, it would be unable to operate its cruise line.  And, when one of its ships gets into trouble, Carnival … Continue reading &rarr;"
 ---

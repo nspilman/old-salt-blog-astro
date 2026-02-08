@@ -10,6 +10,7 @@ tags:
   - "arctic circumnavigation"
   - "Jeffrey Allison"
   - "Katherine Brownlie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/Alt_Jeffrey-Allisoncircumna.jpg"
 author: "Rick Spilman"
 description: "Jeffrey Allison is a fascinating gentlemen. Now 73, from  Middleton Tyas in the UK, he only started sailing when he retired from a career in engineering. Since then, he has sailed across the Atlantic six times, as well transiting the Panama Canal, … Continue reading &rarr;"
 ---

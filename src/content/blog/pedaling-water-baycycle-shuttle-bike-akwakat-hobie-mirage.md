@@ -11,6 +11,7 @@ tags:
   - "BayCycle"
   - "Hobie Mirage"
   - "Shuttle-Bike"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/sport-studio-3-4-caribbean-blue-shadowed_2.jpg"
 author: "Rick Spilman"
 description: "Recently, a young designer, Judah Schiller, generated considerable attention by riding his bike first across San Francisco Bay and then across the Hudson River in New York City.  He didn’t sink during either trip because his bike was clamped to … Continue reading &rarr;"
 ---

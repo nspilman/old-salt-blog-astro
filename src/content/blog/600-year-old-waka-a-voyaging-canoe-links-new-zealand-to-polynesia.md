@@ -14,6 +14,7 @@ tags:
   - "University of Auckland"
   - "voyaging canoe"
   - "waka"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/waka.jpg"
 author: "Rick Spilman"
 description: "A waka, a 600 year voyaging canoe, was recently found on the New Zealand's South Island’s West Coast. The waka has direct ties to Eastern Polynesia."
 ---

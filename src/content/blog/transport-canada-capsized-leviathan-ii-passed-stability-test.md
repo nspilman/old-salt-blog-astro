@@ -13,6 +13,7 @@ tags:
   - "Transport Canada"
   - "Vancouver Island"
   - "whale watching"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/leviathanii.jpg"
 author: "Rick Spilman"
 description: "Transport Canada issued a statement saying that the Leviathan II did undergo both a stability assessment and an inclining test when it was refitted in 1996."
 ---

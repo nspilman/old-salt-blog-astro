@@ -10,6 +10,7 @@ categories:
 tags:
   - "rogue wave"
   - "Tall Ship Soren Larsen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/10/sorenrefit.jpg"
 author: "Rick Spilman"
 description: "Last May, we posted about the Tall Ship Soren Larsen’s new season of voyages –  Tall ship Soren Larsen – Pearls of the Pacific, Voyages across the South Seas 2009.  Unfortunately, the ship was hit by a rogue wave on the 1st … Continue reading &rarr;"
 ---

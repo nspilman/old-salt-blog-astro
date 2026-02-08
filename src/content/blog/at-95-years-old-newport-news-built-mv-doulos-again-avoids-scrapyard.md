@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/11/MV_Doulos_2004_at_Southampt1.jpg"
 author: "Rick Spilman"
 description: "The 58 year old, SS United States, built at Newport News, may be at risk of being scrapped but it now appears that the MV Doulos, the world’s oldest ocean-going passenger vessel, may not be making a trip to the … Continue reading &rarr;"
 ---

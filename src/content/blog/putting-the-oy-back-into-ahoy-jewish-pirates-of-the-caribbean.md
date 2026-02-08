@@ -9,6 +9,7 @@ tags:
   - "jean lafite"
   - "jewish pirates"
   - "pirates of the caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/450front-page1017081.jpg"
 author: "Rick Spilman"
 description: "A friend pointed this book out to me. It looks intriguing and is coming out in mid-November.  Jean Lafite was Jewish? Who knew?  (Thanks Henya!)  From a review in the Jewish Press: Jewish Pirates of the Caribbean: How a Generation of Swashbuckling Jews … Continue reading &rarr;"
 ---

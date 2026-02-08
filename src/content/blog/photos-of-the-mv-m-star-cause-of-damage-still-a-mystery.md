@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "MV M. Star"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/mstardamage-125x69.jpg"
 author: "Rick Spilman"
 description: "Photos of the damage to the VLCC MV M. Star. Click on the thumbnails above for larger images. Questions Swirl About Damaged Japanese Tanker … Continue reading &rarr;"
 ---

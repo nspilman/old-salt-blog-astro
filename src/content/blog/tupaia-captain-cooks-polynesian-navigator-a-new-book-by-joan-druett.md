@@ -11,6 +11,7 @@ tags:
   - "Captain Cook's Polynesian Navigator"
   - "Joan Druett"
   - "Tupaia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/Tupaia_jacket-330-exp.jpg"
 author: "Rick Spilman"
 description: "I love when an author shines a new light on history that we all thought we already knew. Joan Druett in her new book Tupaia, Captain Cook’s Polynesian Navigator, appears to do just that.    A sneak peak from Joan … Continue reading &rarr;"
 ---

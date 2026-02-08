@@ -9,6 +9,7 @@ categories:
 tags:
   - "China"
   - "Floating Solar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/floatingpvchina.jpg"
 author: "Rick Spilman"
 description: "This is only slightly nautical, but I find it interesting, nevertheless. China has opened a floating solar power farm.  Unlike offshore wind power, the facility is not at sea.  The 40-megawatt solar power plant is floating over what was once an … Continue reading &rarr;"
 ---

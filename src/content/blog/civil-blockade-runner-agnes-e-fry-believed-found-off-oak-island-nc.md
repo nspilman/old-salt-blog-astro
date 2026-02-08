@@ -13,6 +13,7 @@ tags:
   - "N.C. Office of State Archaeology"
   - "Oak Island"
   - "Virginius affair"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/agnesfry.jpg"
 author: "Rick Spilman"
 description: "The Confederate blockade runner Agnes E. Fry is believed to have been located off Oak Island, North Carolina. She is one of three blockade runners lost in the area during the Civil War, but the only ship longer than 200 feet. … Continue reading &rarr;"
 ---

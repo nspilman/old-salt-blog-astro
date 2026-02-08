@@ -12,6 +12,7 @@ tags:
   - "Renda"
   - "Russian tanker"
   - "USCG icebreaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/nomehealy.jpg"
 author: "Rick Spilman"
 description: "The internet  is a wonderful thing. I am sitting in my office, which is around 70 degrees F (21 degrees C), drinking a hot cup of coffee, while tracking the painfully slow progress of the USCG Icebreaker Healy as it … Continue reading &rarr;"
 ---

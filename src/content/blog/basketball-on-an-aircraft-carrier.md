@@ -15,6 +15,7 @@ tags:
   - "USS Carl Vinson"
   - "USS Ronald Reagan"
   - "Veteran's Day Carrier Classic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/32310-330-0.jpg"
 author: "Rick Spilman"
 description: "How can you tell when you have too many aircraft carriers? Possibly, when you start using this expensive hardware for sporting venues. On Nov. 11, 2011, the Veteran’s Day Carrier Classic basketball game between North Carolina and Michigan State will … Continue reading &rarr;"
 ---

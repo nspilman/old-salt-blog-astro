@@ -5,6 +5,7 @@ slug: "confessions-of-a-maritime-blogger"
 excerpt: "Barista Uno at the Marine Café Blog shares his perspective on \" downside and upside, the agony and joy, of maritime blogging.\" Confessions of a maritime blogger The Marine Café Blog was launched in late August of 2009, succeeding the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/cafeblog-150x150.jpg"
 author: "Rick Spilman"
 description: "Barista Uno at the Marine Café Blog shares his perspective on \" downside and upside, the agony and joy, of maritime blogging.\" Confessions of a maritime blogger The Marine Café Blog was launched in late August of 2009, succeeding the … Continue reading &rarr;"
 ---

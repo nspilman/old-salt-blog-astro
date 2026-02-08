@@ -17,6 +17,7 @@ tags:
   - "HMS Terror"
   - "The Star Spangled Banner"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/3890360.bin_.jpg"
 author: "Rick Spilman"
 description: "History is full of strange connections.   This week an almost 200-year-old copy of \"The Star Spangled Banner\" is to be sold at auction house at Christie’s auction house in Manhattan.   The sheet music is currently valued at between … Continue reading &rarr;"
 ---

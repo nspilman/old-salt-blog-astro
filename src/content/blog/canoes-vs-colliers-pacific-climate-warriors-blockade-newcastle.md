@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/pacificcw.jpg"
 author: "Rick Spilman"
 description: "Last Friday, at Newcastle, protesters from a dozen Pacific island nations took to traditional outrigger canoes and kayaks to blockade the Australian port."
 ---

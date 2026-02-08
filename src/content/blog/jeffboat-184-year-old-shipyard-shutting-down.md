@@ -11,6 +11,7 @@ tags:
   - "inland shipyard"
   - "Jeffboat"
   - "Jeffersonville"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/jeffboat.jpg"
 author: "Rick Spilman"
 description: "Shipbuilding is a capital intensive and highly competitive business.  Remarkably, Jeffboat of Jeffersonville, Indiana, lasted for 184 years. Now, the longest continually operated inland shipyard in the U.S., is reported to be shutting down.  Founded in 1834 on the banks of … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "Frederick Stanley Mockford"
   - "Mayday"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/mayday1.gif"
 author: "Rick Spilman"
 description: "The first of May is traditionally called May Day and is related to the Celtic festival of Beltane and the Germanic festival of Walpurgis Night.  The English have been known to break out in fits of Morris Dancing around May Day.  In many countries May … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Maine Windjammers"
   - "Rachel B. Jackson"
   - "Victory Chimes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/10/rachel1.jpg"
 author: "Rick Spilman"
 description: "There are two Maine \"Windjammers\" currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making … Continue reading &rarr;"
 ---

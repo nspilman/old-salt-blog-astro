@@ -11,6 +11,7 @@ tags:
   - "Pearl Harbor"
   - "USS Lexington"
   - "USS Saratoga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/usslex1.jpg"
 author: "Rick Spilman"
 description: "When was the first surprise attack by carrier aircraft on the US naval base at Pearl Harbor, Hawaii? The obvious answer is the Japanese carrier attack of December 7th, 1941. But what about February 7th, 1932?  We posted yesterday about … Continue reading &rarr;"
 ---

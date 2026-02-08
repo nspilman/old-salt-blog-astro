@@ -10,6 +10,7 @@ categories:
 tags:
   - "City of Adelaide"
   - "ship-in-a-bottle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/adelaidebottle.jpg"
 author: "Rick Spilman"
 description: "The fate of the oldest composite clipper ship in the world, the City of Adelaide, has yet to b determined.  In the mean time, former TV host and science educator, Dr. Rob Morrison, has designed a simple paper pattern that … Continue reading &rarr;"
 ---

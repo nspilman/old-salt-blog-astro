@@ -9,6 +9,7 @@ categories:
 tags:
   - "Maritime Museum of San Diego"
   - "Seaport Museum in New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/LW_and_Star_of_India.jpg"
 author: "Rick Spilman"
 description: "News from both the Seaport Museum in New York and the Maritime Museum of San Diego.  The Seaport Museum, until recently the South Street Seaport Museum, is shutting down its exhibits and shops. The ships will still be open for tours. We … Continue reading &rarr;"
 ---

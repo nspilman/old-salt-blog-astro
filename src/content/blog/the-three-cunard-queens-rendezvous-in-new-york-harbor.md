@@ -12,6 +12,7 @@ tags:
   - "Queen Elizabeth"
   - "Queen Mary II"
   - "Queen Victoria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/0108F_THREEQUEENSEI.jpg"
 author: "Rick Spilman"
 description: "This Thursday, January 13th, the three ships of the Cunard fleet – the Queen Mary II, the Queen Elizabeth and the recently delivered Queen Victoria –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the \"Cunard … Continue reading &rarr;"
 ---

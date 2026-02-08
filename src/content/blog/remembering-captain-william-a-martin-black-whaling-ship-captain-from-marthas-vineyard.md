@@ -12,6 +12,7 @@ tags:
   - "Captain William A. Martin"
   - "Edgartown"
   - "Martha's Vineyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/willimmartintombstone.jpg"
 author: "Rick Spilman"
 description: "As Black History Month winds to a close it seems worthwhile to recall Captain William A. Martin, the best remembered black whaling ship captain from Martha’s Vineyard. He is often referred to as the only black whaling captain from the island. … Continue reading &rarr;"
 ---

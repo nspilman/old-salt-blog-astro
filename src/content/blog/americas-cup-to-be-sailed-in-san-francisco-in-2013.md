@@ -9,6 +9,7 @@ categories:
 tags:
   - "34th America's Cup"
   - "San Francisco"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/americascup31_1100261cl-3.jpg"
 author: "Rick Spilman"
 description: "The 34th America’s Cup races will be sailed in San Francisco bay in 2013.   San Francisco  beat out Newport and an unnamed Italian port city.  This will be the first time that America’s Cup races will be hosted by the city by the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Kiwi Spirit"
   - "Stanley Paris"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/kiwspirit.jpg"
 author: "Rick Spilman"
 description: "In early December, we posted about Stanley Paris’ attempt at a solo circumnavigation in his 63′ Kiwi Spirit after suffering a variety failures to rigging and sails, Paris has decided to give up the attempt and sail for Cape Town.  Today, he … Continue reading &rarr;"
 ---

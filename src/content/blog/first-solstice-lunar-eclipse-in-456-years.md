@@ -10,6 +10,7 @@ tags:
   - "Lunar Eclipse"
   - "moon"
   - "Solstice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/lunareclipse.jpg"
 author: "Rick Spilman"
 description: "Sailors in the western hemisphere will see the first lunar eclipse to fall on the solstice in the last 456 years.   According to NASA, the last time the two celestial events happened at the same time was in AD 1554. Solstice Lunar … Continue reading &rarr;"
 ---

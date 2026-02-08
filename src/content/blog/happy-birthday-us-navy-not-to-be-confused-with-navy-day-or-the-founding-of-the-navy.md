@@ -12,6 +12,7 @@ tags:
   - "Navy Day"
   - "revolutionary war"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/usnavylogo.jpg"
 author: "Rick Spilman"
 description: "Happy 239th birthday to the US Navy! On Friday, October 13, 1775, the Congress voted to fit out two ship to cruise to seize supplies from Royal Navy ships."
 ---

@@ -15,6 +15,7 @@ tags:
   - "Ready Reserve Force"
   - "Syria"
   - "U.S. Maritime Administration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/caperace.jpg"
 author: "Rick Spilman"
 description: "When it came to destroying Syria’s most dangerous chemical weapons, there was a problem. No nation wanted to take the weapons and face the risks associated with destroying them on their soil.  Under an international agreement brokered by the US, … Continue reading &rarr;"
 ---

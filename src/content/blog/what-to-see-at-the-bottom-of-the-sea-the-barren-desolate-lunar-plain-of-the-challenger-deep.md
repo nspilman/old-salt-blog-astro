@@ -9,6 +9,7 @@ categories:
 tags:
   - "Challenger Deep"
   - "James Cameron"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/thumb_james_cameron.jpg"
 author: "Rick Spilman"
 description: "On January 23, 1960, Jacques Piccard  and USN Lieutenant Don Walsh spent twenty minutes at the bottom at Challenger Deep in the  bathyscaphe Trieste.  Unfortunately, their landing on the sea bed stirred up a cloud of silt which reduced visibility to zero, and they … Continue reading &rarr;"
 ---

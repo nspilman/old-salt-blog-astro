@@ -9,6 +9,7 @@ tags:
   - "Marc Guillemot"
   - "Safran"
   - "Vendée Globe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/Safran1410_620.jpg"
 author: "Rick Spilman"
 description: "Marc Guillemot, sailing Safran, was a favorite to win the Vendée Globe non-stop round-the-world single-handed yacht race, yet only one day into the race, he was forced to turn back due to a broken keel.  Fifty miles into the race, he reported hearing a \"loud bang.\"  Guillemot’s Open … Continue reading &rarr;"
 ---

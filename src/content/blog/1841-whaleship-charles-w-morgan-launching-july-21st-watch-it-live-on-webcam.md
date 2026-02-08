@@ -13,6 +13,7 @@ tags:
   - "Mystic"
   - "Mystic Seaport Museum"
   - "whaleship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/Charles-W.-Morgan4.jpg"
 author: "Rick Spilman"
 description: "After a five year restoration, the 1841 built whaleship Charles W. Morgan is returning to the water at the Mystic Seaport Museum, tomorrow at 2 PM. The museum has set up a live web cam for those of us who … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "66th annual Maine Lobster Festival"
   - "Maine Sea Goddess Pageant"
   - "Rockland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/seagoddess.jpg"
 author: "Rick Spilman"
 description: "Calling all Sea Goddesses and would-be Sea Goddesses. Applications are now being accepted for the Maine Sea Goddess Pageant.    The Pageant is open to 20 young women who are single, a high school (or equivalent GED) graduate, not more … Continue reading &rarr;"
 ---

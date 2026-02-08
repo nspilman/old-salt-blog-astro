@@ -5,6 +5,7 @@ slug: "island-for-sale"
 excerpt: "The United Kingdom consists of over six thousand islands, and one has just come on the market. Situated just off the coast of Wales near Cardiff, Sully Island is up for sale for £95,000 (roughly $150,000 USD). Once the haunt … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/WALES-NEWS-SERVICE-0071-e1311075692355.jpg"
 author: "Alaric Bond"
 description: "The United Kingdom consists of over six thousand islands, and one has just come on the market. Situated just off the coast of Wales near Cardiff, Sully Island is up for sale for £95,000 (roughly $150,000 USD). Once the haunt … Continue reading &rarr;"
 ---

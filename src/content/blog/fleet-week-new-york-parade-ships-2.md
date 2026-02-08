@@ -14,6 +14,7 @@ tags:
   - "NYC"
   - "Parade of Ships"
   - "USS Bataan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/bataan.jpg"
 author: "Rick Spilman"
 description: "Yesterday thousands lined the shores of the Hudson to watch the Fleet Week Parade of Ships. Unfortunately, this year, I couldn’t be there. Here, courtesy of the US Navy, is a unique view of the festivities from the flight deck … Continue reading &rarr;"
 ---

@@ -5,6 +5,7 @@ slug: "stings-last-ship"
 excerpt: "Last July, I was pleased, and more than a bit surprised, to see a play in New York City about a shipyard.  It was Off-Broadway and only a two man play, but nevertheless, it was about a shipyard.  The play, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/lastship.jpg"
 author: "Rick Spilman"
 description: "Last July, I was pleased, and more than a bit surprised, to see a play in New York City about a shipyard.  It was Off-Broadway and only a two man play, but nevertheless, it was about a shipyard.  The play, … Continue reading &rarr;"
 ---

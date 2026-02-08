@@ -11,6 +11,7 @@ tags:
   - "New York City"
   - "Rocking the Boat"
   - "the Bronx"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/wb.jpg"
 author: "Rick Spilman"
 description: "Since 1998, Rocking the Boat has been teaching neighborhood kids in Hunts Point to build wooden boats. But kids don't just build boats, boats build kids."
 ---

@@ -12,6 +12,7 @@ tags:
   - "Gulf of Aden"
   - "news agency Xinhua"
   - "Somali pirates"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/15lede_dolphins.480.jpg"
 author: "Rick Spilman"
 description: "A wonderful, if odd, account reported by Robert Mackey in the NY Time Lede blog: China Reports Dolphins Foiled Pirate Attack According to a report from China’s official news agency Xinhua, \"thousands of dolphins\" recently prevented an attack on Chinese … Continue reading &rarr;"
 ---

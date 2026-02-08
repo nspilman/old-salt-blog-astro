@@ -11,6 +11,7 @@ tags:
   - "historic coastal tanker"
   - "Mary A.Whalen"
   - "PortSide New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/102910_7394-bernie-Ente-sq-.jpg"
 author: "Rick Spilman"
 description: "PortSide New York is one of the absolutely best waterfront educational organizations in New York harbor.   Centered around the historic coastal tanker Mary A.Whalen, PortSide has sponsored a wide range of great programs ranging from activities for kids and adults, to hosting … Continue reading &rarr;"
 ---

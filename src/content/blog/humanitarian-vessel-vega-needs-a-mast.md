@@ -11,6 +11,7 @@ tags:
   - "Humanitarian Vessel Vega"
   - "mizzen mast"
   - "Shane Granger"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/vega_banner.jpg"
 author: "Rick Spilman"
 description: "The Vega desperately needs a mizzen mast. Specifically, they are looking for a fir or spruce to shape the 10m x 26cm mast and a shipping company able to transport the wood from either Brisbane, Australia, or Vancouver, Canada, to Singapore.  If they … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Happy Winter Solstice"
   - "ice sculpture"
   - "Lake Erie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/icelight1.jpg"
 author: "Rick Spilman"
 description: "The photos and video clip are almost a week old but nevertheless seem like an excellent way to welcome in the winter. This ice sculpture is the Cleveland Harbor West Pierhead Lighthouse on Lake Erie.  Happy Winter Solstice to everyone North of … Continue reading &rarr;"
 ---

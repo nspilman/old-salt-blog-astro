@@ -9,6 +9,7 @@ categories:
 tags:
   - "John Masefield"
   - "Sea Fever"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/250px-John_Masefield_1913.jpg"
 author: "Rick Spilman"
 description: "I can’t decide whether I love or hate John Masefield‘s poem Sea Fever.  I lean strongly towards love, though the poem has been repeated so many times and in so many places, that it is hard not to groan every time it … Continue reading &rarr;"
 ---

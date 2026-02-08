@@ -10,6 +10,7 @@ categories:
 tags:
   - "Draken Harald Hårfagre"
   - "Mystic Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/02/dragonwinter.jpg"
 author: "Rick Spilman"
 description: "On a recent visit to the Mystic Seaport Museum in Mystic CT, I came across the Viking longship, Draken Harald Hårfagre, tied up alongside a wharf, wrapped in glistening white plastic shrink-wrap, its single mast piercing what looked almost like … Continue reading &rarr;"
 ---

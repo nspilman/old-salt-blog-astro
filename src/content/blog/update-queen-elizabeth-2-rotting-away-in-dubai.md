@@ -12,6 +12,7 @@ tags:
   - "Dubai World"
   - "Port Rashid"
   - "Queen Elizabeth 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/que2x.jpg"
 author: "Rick Spilman"
 description: "Since being sold by Cunard in 2007, the Queen Elizabeth 2 has remained tied up at a dock in Dubai's Port Rashid where she is falling into disrepair."
 ---

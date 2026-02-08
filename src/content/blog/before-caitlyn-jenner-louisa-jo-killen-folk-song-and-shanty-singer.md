@@ -13,6 +13,7 @@ tags:
   - "Lou Killen"
   - "Louisa Jo Killen"
   - "shanty singer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/louisajokillen.jpg"
 author: "Rick Spilman"
 description: "In 2013, we posted about the death of the British folk and shanty singer who as born as Louis Killen, but lived the last years of her life as Lousia Jo."
 ---

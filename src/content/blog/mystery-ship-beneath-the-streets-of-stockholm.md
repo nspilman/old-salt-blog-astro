@@ -13,6 +13,7 @@ tags:
   - "naval shipyard"
   - "Stockholm"
   - "Swedish Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/stockholmship.jpg"
 author: "Rick Spilman"
 description: "This summer we posted about an 18th century ship found buried beneath the streets of Manhattan near Ground Zero.  Recently,  while excavating in front of Stockholm’s Grand Hotel during renovation work to a nearby quay, workers discovered a most unusual ship. … Continue reading &rarr;"
 ---

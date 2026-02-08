@@ -11,6 +11,7 @@ tags:
   - "barge"
   - "Intrepid Sea"
   - "Space Shuttle Enterprise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/11134187-large.jpg"
 author: "Rick Spilman"
 description: "After damaging a wingtip that extended beyond the side of the barge when the Space Shuttle Enterprise was moved from Kennedy Airport on Sunday, today the shuttle was moved to a larger barge for its last and shorter leg of … Continue reading &rarr;"
 ---

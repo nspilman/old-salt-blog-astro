@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USS Ponce"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/ponce.jpg"
 author: "Rick Spilman"
 description: "Last February, we posted about the modification to the USS Ponce prior to being sent to the Persian Gulf. (See Mine-Detecting Dolphins and USS Ponce, Commando \"Mothership\" in Persian Gulf?)   We included the question mark in the post title because, while … Continue reading &rarr;"
 ---

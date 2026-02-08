@@ -14,6 +14,7 @@ tags:
   - "Carnival Triumph"
   - "Costa Concordia"
   - "Costa Lines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa_concordia9.jpg"
 author: "Rick Spilman"
 description: "Update: Carnival Corp has has agreed to reimburse the U.S. government for costs related to the high-profile fires aboard the Carnival Triumph in February and Carnival Splendor in 2010. Read more here. The juxtaposition is priceless. OK, priceless may be the wrong word … Continue reading &rarr;"
 ---

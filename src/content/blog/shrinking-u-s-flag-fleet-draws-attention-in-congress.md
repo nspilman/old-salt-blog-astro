@@ -10,6 +10,7 @@ categories:
 tags:
   - "Congressman Elijah E. Cummings"
   - "US flag merchant fleet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/Container-Ship.jpg"
 author: "Rick Spilman"
 description: "A press release by Congressman Elijah E. Cummings, Chairman of the House Subcommittee on Coast Guard and Maritime Transportation, strikes me as either sad, funny or perhaps a bit of both.    The press release is titled:  Cummings Continues Investigation Into American … Continue reading &rarr;"
 ---

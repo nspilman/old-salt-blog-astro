@@ -10,6 +10,7 @@ tags:
   - "Australian yachtsman"
   - "Jon Sander"
   - "ninth circumnavigation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/6058510-3x2-340x227.jpg"
 author: "Rick Spilman"
 description: "75 year old Australian yachtsman Jon Sanders recently sailed into Perth after finishing his ninth circumnavigation."
 ---

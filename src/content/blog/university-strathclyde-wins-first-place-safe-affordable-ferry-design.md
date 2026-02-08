@@ -11,6 +11,7 @@ tags:
   - "Ferry Safety and Technology Conference"
   - "Strathclyde"
   - "Worldwide Ferry Safety Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/safeaddordableferry.jpg"
 author: "Rick Spilman"
 description: "The UK’s University of Strathclyde won the top prize in the third Worldwide Ferry Safety Association’s Student Design Competition for a Safe Affordable Ferry. The $5,0000 USD award for the design was presented by Bekir Sitki Ustaoglu, Asia Pacific chief of the … Continue reading &rarr;"
 ---

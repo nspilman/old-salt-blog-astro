@@ -11,6 +11,7 @@ tags:
   - "Hywind"
   - "United Kingdom"
   - "United States"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/hywindSlep_468.jpg"
 author: "Rick Spilman"
 description: "Offshore energy, whether oil production or wind, seems to move in the same stages.  Early offshore drilling was in shallow water using jack-up rigs sitting on the bottom.  Now much of offshore oil production is from floating rigs, drilling in deep water.  Likewise, … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Ken Wilman"
   - "Lancashire"
   - "whale vomit"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Ken+Wilman.jpg"
 author: "Rick Spilman"
 description: "There is some very interesting beachcombing going on these days in the UK.  Two weeks ago, we posted about  four large, barrel-shaped pieces of lard that washed up on the beach at St.Cyrus nature reserve in Scotland.  Locals opined that … Continue reading &rarr;"
 ---

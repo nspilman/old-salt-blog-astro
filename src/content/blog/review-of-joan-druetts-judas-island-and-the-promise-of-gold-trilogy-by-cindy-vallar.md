@@ -9,6 +9,7 @@ categories:
 tags:
   - "Joan Druett"
   - "Judas Island"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/05/Judas-Island3thumb.jpg"
 author: "Rick Spilman"
 description: "Last June, we reviewed Joan Druett’s Judas Island, the first book her Promise of Gold Series. Here is an excerpt from a recent review by Cindy Vallar from her wonderful Pirates and Privateers blog. Captain Jahaziel \"Jake\" Dexter believes a pirate’s … Continue reading &rarr;"
 ---

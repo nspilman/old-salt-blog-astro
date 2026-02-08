@@ -13,6 +13,7 @@ tags:
   - "Captain Edward Cooke"
   - "Queen Anne's Revenge"
   - "woodes rogers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/cookebookscrap.jpg"
 author: "Rick Spilman"
 description: "A lump of paper wadding found in a cannon from the pirate Blackbeard‘s ship Queen Anne’s Revenge has been identified as containing scraps of paper from a book by Captain Edward Cooke written in 1712.  Researchers were able to identify … Continue reading &rarr;"
 ---

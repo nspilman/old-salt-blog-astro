@@ -12,6 +12,7 @@ tags:
   - "sailor"
   - "Ted Hood"
   - "yacht designer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/Ted_Hood_at_Little_Harbor_Marina_in_Portsmouth_RI_circa_1990s.jpg"
 author: "Rick Spilman"
 description: "In 1955, Ted Hood founded Hood Sailmakers at the back of Maddie’s Bar in Marblehead.   Hood Sailmakers would grow to be a premier sail maker in the 1960s and 1970s.   Hood was also a boatbuilder, designer and sailor. In … Continue reading &rarr;"
 ---

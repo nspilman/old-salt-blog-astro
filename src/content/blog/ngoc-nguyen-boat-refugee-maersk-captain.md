@@ -11,6 +11,7 @@ tags:
   - "Thomas Maersk"
   - "Vietnam"
   - "Vietnamese \"boat people\""
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/maerskcaptain.jpg"
 author: "Rick Spilman"
 description: "In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called Vietnamese \"boat people\" who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 … Continue reading &rarr;"
 ---

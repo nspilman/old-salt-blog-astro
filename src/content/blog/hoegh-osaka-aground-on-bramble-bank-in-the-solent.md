@@ -13,6 +13,7 @@ tags:
   - "Car Carrier"
   - "Hoegh Osaka"
   - "Solent"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/Hoegh_Osaka_Bramble_Bank.jpg"
 author: "Rick Spilman"
 description: "The car carrier MV Hoegh Osaka ran aground on Bramble Bank in the Solent around 21:30 GMT on Saturday."
 ---

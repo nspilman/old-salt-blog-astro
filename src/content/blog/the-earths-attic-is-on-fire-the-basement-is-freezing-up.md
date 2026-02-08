@@ -10,6 +10,7 @@ tags:
   - "Antarctica"
   - "Arctic ice"
   - "global warming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/seaice_2012.jpg"
 author: "Rick Spilman"
 description: "Scientists have said that global climate change will bring us severe and unusual weather.   That would be a hard point to argue. Here are two recent, apparently somewhat contradictory or perhaps merely odd, news stories about the sea and the global climate. … Continue reading &rarr;"
 ---

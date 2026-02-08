@@ -5,6 +5,7 @@ slug: "archimedes-burning-mirrors-and-londons-walkie-scorchie"
 excerpt: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using \"burning mirrors\", mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/burningmirror.jpg"
 author: "Rick Spilman"
 description: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using \"burning mirrors\", mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
 ---

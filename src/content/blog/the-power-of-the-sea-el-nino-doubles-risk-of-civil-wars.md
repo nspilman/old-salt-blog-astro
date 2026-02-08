@@ -10,6 +10,7 @@ tags:
   - "civil wars"
   - "El Nino"
   - "tropical countries"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/nino_globe.jpg"
 author: "Rick Spilman"
 description: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that \"El … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Papahanaumokuakea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/pmarinemonument.jpg"
 author: "Rick Spilman"
 description: "The Obama administration announced the four-fold expansion of the Papahānaumokuākea Marine National Monument, a marine sanctuary northwest of the main Hawaiian Islands. The expanded sanctuary will be the largest in the world at more than 580,000 square miles. As noted by the NYTimes: Created by … Continue reading &rarr;"
 ---

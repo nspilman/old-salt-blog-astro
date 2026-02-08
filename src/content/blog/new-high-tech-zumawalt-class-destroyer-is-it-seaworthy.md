@@ -12,6 +12,7 @@ tags:
   - "destroyer"
   - "tumblehome"
   - "USS Zumwalt"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/zumwalt1.jpg"
 author: "Rick Spilman"
 description: "The new $7.5 billion DDG-1000 destroyer, USS Zumwalt is incredibly high tech and innovative. The only question is whether it will be seaworthy."
 ---

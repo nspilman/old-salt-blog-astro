@@ -10,6 +10,7 @@ tags:
   - "novel"
   - "Rick Spilman"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg"
 author: "Rick Spilman"
 description: "My new novel, The Shantyman, is now available as a paperback on Amazon and Barnes & Noble."
 ---

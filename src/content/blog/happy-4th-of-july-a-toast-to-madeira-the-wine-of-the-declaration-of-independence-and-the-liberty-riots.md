@@ -13,6 +13,7 @@ tags:
   - "John Hancock"
   - "Liberty Riots"
   - "Madeira wine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/wine-glass-dinner-toast.jpg"
 author: "Rick Spilman"
 description: "Happy 4th of July!  Those of us in the United States celebrate the anniversary of the adoption of the Declaration of Independence on July 4th 1776.   Immediately after declaring independence from Great Britain, the representatives in the Continental Congress drank a toast with glasses of Madeira wine. Why Madiera?  It … Continue reading &rarr;"
 ---

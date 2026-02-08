@@ -16,6 +16,7 @@ tags:
   - "North Jutland coast"
   - "North Sea storm Pia"
   - "ultra-large container ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2023/12/maudworld.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the Hurtigruten cruise ship MS Maud that was disabled during the North Sea storm Pia on Thursday. The Maud arrived in Bremerhaven yesterday, under tow, after suffering damage by a rogue wave to the bridge deck resulting … Continue reading &rarr;"
 ---

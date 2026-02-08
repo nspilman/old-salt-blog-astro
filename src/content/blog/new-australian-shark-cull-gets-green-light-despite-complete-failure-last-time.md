@@ -10,6 +10,7 @@ tags:
   - "great white shark"
   - "shark cull"
   - "Western Australia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/sharkcull.jpg"
 author: "Rick Spilman"
 description: "In the last decade, ten people off Western Australia have been attacked and killed by sharks.  All of the deaths have been attributed to attacks by great white sharks. Earlier this year, the government of Australia set out on a trial … Continue reading &rarr;"
 ---

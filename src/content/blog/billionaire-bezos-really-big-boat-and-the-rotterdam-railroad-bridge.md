@@ -15,6 +15,7 @@ tags:
   - "Rotterdam"
   - "superyacht"
   - "world's largest sailing yacht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/dehef.jpg"
 author: "Rick Spilman"
 description: "Last Wednesday, it was widely reported that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos to access the sea. The fully rigged superyacht apparently has … Continue reading &rarr;"
 ---

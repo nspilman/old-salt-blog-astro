@@ -12,6 +12,7 @@ tags:
   - "Ghana"
   - "Paul Singer"
   - "Tema"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Q2ARALibertad.jpg"
 author: "Rick Spilman"
 description: "In early October, we posted about the Argentine Navy training ship Libertad, a 300′ three masted full rigged ship, that had been seized in the port of Tema, Ghana as a result of a court order obtained by NML Capital Ltd., a … Continue reading &rarr;"
 ---

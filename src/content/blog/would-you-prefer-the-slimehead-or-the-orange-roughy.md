@@ -11,6 +11,7 @@ tags:
   - "Chilean sea bass"
   - "orange roughy"
   - "slimehead"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/08/orange_roughy.jpg"
 author: "Rick Spilman"
 description: "Which would you prefer to order from the menu  – slimehead or orange roughy?  Antarctic toothfish or Chilean sea bass?  Slimehead and orange roughy are the same fish, just as the Chilean sea bass is the Antarctic toothfish with a new … Continue reading &rarr;"
 ---

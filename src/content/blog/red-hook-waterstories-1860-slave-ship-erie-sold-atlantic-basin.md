@@ -14,6 +14,7 @@ tags:
   - "Red Hook"
   - "Red Hook WaterStories"
   - "slave ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/12/slaveshiperie.jpg"
 author: "Rick Spilman"
 description: "Red Hook WaterStories delves into the rich and varied past and present of the waterfront of the Red Hook section of Brooklyn.  If you haven’t discovered the site, a project of PortSide New York, be sure to check it out.  Here … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Ocean Shearer"
   - "Walk-on/Walk-off ships"
   - "Wo-Wo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/wowos.jpg"
 author: "Rick Spilman"
 description: "A look at the world's largest Wo-Wos, the cruise ship Oasis of the Seas and the livestock carrier Ocean Shearer."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Menai Strait"
   - "sinking"
   - "Wales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/10/hwilliams2.jpg"
 author: "Rick Spilman"
 description: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called \"The Strangest Coincidence … Continue reading &rarr;"
 ---

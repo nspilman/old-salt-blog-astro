@@ -11,6 +11,7 @@ tags:
   - "Adventure Under Sail Limited"
   - "Pelican."
   - "three-masted barquentine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/pelican1.jpg"
 author: "Rick Spilman"
 description: "One of the most beautiful and most interesting tall ship sailing today, at least to my eye, is the three-masted barquentine Pelican.  The Pelican is 148ft long overall, square rigged on the main mast but fore and aft rigged on the fore mast and … Continue reading &rarr;"
 ---

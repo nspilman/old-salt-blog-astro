@@ -9,6 +9,7 @@ categories:
 tags:
   - "piracy"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/An-armed-Somali-pirate.-006-100x87.jpg"
 author: "Rick Spilman"
 description: "Today is the official \"Talk Like a Pirate Day.\"   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real … Continue reading &rarr;"
 ---

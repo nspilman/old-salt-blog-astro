@@ -12,6 +12,7 @@ tags:
   - "New York Times"
   - "Peloponnesian War"
   - "Thucydides"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Thucydides.jpg"
 author: "Rick Spilman"
 description: "Thucydides is often said to have first written, \"A collision at sea can ruin your entire day, \"  in his epic history, The Peloponnesian War. While the statement is unquestionably true, Thucydides never wrote it.   Today the New York Times’ Fred Shapiro … Continue reading &rarr;"
 ---

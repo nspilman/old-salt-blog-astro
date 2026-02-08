@@ -12,6 +12,7 @@ tags:
   - "SS Grandcamp"
   - "SS High Flyer"
   - "Texas City Disaster"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/texascity.jpg"
 author: "Rick Spilman"
 description: "On Wednesday night, a huge explosion ripped through West, Texas; a small central Texas town, south of Dallas. The fertilizer factory caught fire and exploded, leveling homes and buildings for a five blocks area, killing from 5 – 40 people and injuring … Continue reading &rarr;"
 ---

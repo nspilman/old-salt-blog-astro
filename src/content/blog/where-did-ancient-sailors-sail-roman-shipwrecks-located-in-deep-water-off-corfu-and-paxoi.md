@@ -14,6 +14,7 @@ tags:
   - "Greek islands"
   - "Paxoi"
   - "Roman-era shipwrecks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/120529-science-pottery-245p.jpg"
 author: "Rick Spilman"
 description: "Two Roman-era shipwrecks have been found in water slightly less than a mile deep off the western Greek islands of Corfu and Paxoi. The two third-century wrecks were discovered earlier this month during a survey of an area where a Greek-Italian gas pipeline … Continue reading &rarr;"
 ---

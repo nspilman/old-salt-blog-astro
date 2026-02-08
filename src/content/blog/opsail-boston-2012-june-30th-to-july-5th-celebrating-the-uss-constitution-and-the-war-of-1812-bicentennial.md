@@ -11,6 +11,7 @@ tags:
   - "OpSail Boston 2012"
   - "USS Constitution"
   - "War of 1812 Bicentennial"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/opasailboston.jpg"
 author: "Rick Spilman"
 description: "Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  OpSail Boston 2012 is celebrating the USS Constitution and the bicentennial of the War of 1812.  The USS Constitution, nicknamed \"Old Ironsides\" after British round shot bounced off her oak planks, … Continue reading &rarr;"
 ---

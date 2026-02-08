@@ -11,6 +11,7 @@ tags:
   - "Japan"
   - "Taiji"
   - "Tokyo 2020 Olympic Bid"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/J0B-1.jpg"
 author: "Rick Spilman"
 description: "Every year in the village of Taiji, Japan there is a yearly hunt which results in the slaughter of over a thousand dolphins.  Despite international protest including a 2009 documentary film, the Cove, which graphically displayed the mass dolphin killing, and won … Continue reading &rarr;"
 ---

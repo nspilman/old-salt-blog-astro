@@ -13,6 +13,7 @@ tags:
   - "Maersk Line"
   - "Port Said"
   - "Suez Canal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/emmamaerskportsaid.jpg"
 author: "Rick Spilman"
 description: "On Friday night, the Emma Mærsk, one of the world’s largest container ships, suffered flooding in the engine room and lost power as it was in the northern end of the Suez Canal.  Tugs were dispatched and the 1,300 foot long 14,700 TEU … Continue reading &rarr;"
 ---

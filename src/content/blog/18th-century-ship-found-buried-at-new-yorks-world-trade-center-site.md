@@ -12,6 +12,7 @@ tags:
   - "18th century wooden merchant ship"
   - "hudson river"
   - "World Trade Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/14ship2-blogSpan.jpg"
 author: "Rick Spilman"
 description: "Workers excavating at the new World Trade Center site in lower Manhattan have uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land fill.  It … Continue reading &rarr;"
 ---

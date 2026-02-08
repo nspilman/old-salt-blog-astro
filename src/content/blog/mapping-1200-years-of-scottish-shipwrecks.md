@@ -13,6 +13,7 @@ tags:
   - "Royal Commission on the Ancient and Historical Monuments of Scotland"
   - "Scotland"
   - "Shipwreck Map"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/scotishshipwreckmap.jpg"
 author: "Rick Spilman"
 description: "The Royal Commission on the Ancient and Historical Monuments of Scotland (RCAHMS) has published a remarkable and potentially dangerous interactive map of 1,200 years of shipwrecks in Scottish waters. The map is part of an effort to enhance the maritime record … Continue reading &rarr;"
 ---

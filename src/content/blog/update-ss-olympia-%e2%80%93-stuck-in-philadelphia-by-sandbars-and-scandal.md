@@ -14,6 +14,7 @@ tags:
   - "Lori Dillard Rech"
   - "Penn’s Landing Marina"
   - "USS Olympia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/olympia2.jpg"
 author: "Rick Spilman"
 description: "Recently we posted that the Independence Seaport Museum is seeking a new owner for the USS Olympia which it cannot afford to support.  See Philly Museum Sends SOS to Care for Historic Ship.   Sadly it appears that not only … Continue reading &rarr;"
 ---

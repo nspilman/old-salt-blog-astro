@@ -10,6 +10,7 @@ categories:
 tags:
   - "Black Dog Tall Ships"
   - "Shenandoah"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/08/shenandoah.jpg"
 author: "Rick Spilman"
 description: "I feel like beginning this post with the old cheer, \"The King is dead! Long live the King!\" But no. That is hardly apt. How about \"the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!\" That still is not … Continue reading &rarr;"
 ---

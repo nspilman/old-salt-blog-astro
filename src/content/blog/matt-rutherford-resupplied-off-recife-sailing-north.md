@@ -11,6 +11,7 @@ tags:
   - "Matt Rutherford"
   - "Solo Around the Americas"
   - "St. Brendan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/mattresupply.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Matt Rutherford needing to be resupplied to continue his attempt to sail single-handed entirely around the Americas in the St. Brendan, a 27′ Albin Vega.  Last week, Matt rendezvoused with a small boat, two miles off the coast of … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "\"superstorm\" Sandy"
   - "bounty"
   - "St. Jude storm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/Sandy_Oct_25_2012_0400Z.jpg"
 author: "Rick Spilman"
 description: "Today is the first anniversary of Superstorm Sandy hitting the Northeast. It is also the anniversary of the sinking the Bounty off Cape Hatteras on the coast of North Carolina.  Recently, survivors of the Bounty returned to the site of the sinking, … Continue reading &rarr;"
 ---

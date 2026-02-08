@@ -12,6 +12,7 @@ tags:
   - "Aukland"
   - "benzene"
   - "Patriot"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/01/patriotcrash.jpg"
 author: "Rick Spilman"
 description: "At about 6 PM on Sunday, the American Magic yacht Patriot was rounding the final mark in Race 3 of Round Robin 2, of the Prada Cup in Aukland, NZ, when disaster struck. The wind increased from 12 knots to … Continue reading &rarr;"
 ---

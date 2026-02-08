@@ -14,6 +14,7 @@ tags:
   - "Pemba"
   - "Tanzania"
   - "Zanzibar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/MV-Spice-Islander.jpg"
 author: "Rick Spilman"
 description: "Last September we posted about an overloaded ferry boat running between Zanzibar and Pemba, Tanzania which sank after capsizing taking the lives of at least 230 passengers.  Recently the captain and crew of the ill-fated ferry, MV Spice Islander, were charged with negligence and murder. … Continue reading &rarr;"
 ---

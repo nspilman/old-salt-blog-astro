@@ -12,6 +12,7 @@ tags:
   - "Pioneer"
   - "Save our Seaport"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/pg-2-volunteers.jpg"
 author: "Rick Spilman"
 description: "Several years ago I took a sail on the AJ Meerwald in New York harbor. While on the sail I saw the schooner Pioneer, owned and operated by the South Street Seaport Museum, also sailing in the harbor. Despite having … Continue reading &rarr;"
 ---

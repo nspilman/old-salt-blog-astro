@@ -11,6 +11,7 @@ tags:
   - "Phoenix 1000"
   - "SportSub submersibles"
   - "U-Boat Worx"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/rene1.jpg"
 author: "Rick Spilman"
 description: "Slate.com recently recently featured and article, You-Boat, Can you buy your own submarine?.  They noted that drug smugglers had their own submarines to sneak cocaine and other drugs north. If they had subs why couldn’t we all own a personal … Continue reading &rarr;"
 ---

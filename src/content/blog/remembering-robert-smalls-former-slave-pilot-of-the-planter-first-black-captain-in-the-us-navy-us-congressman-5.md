@@ -7,6 +7,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "http://www.oldsaltblog.com/wp-content/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "Robert Smalls is an American hero, well worth celebrating every day of the year, not only during Black History Month. An updated repost in honor of the remarkable story of Robert Smalls. On May 13, 1862, Robert Smalls, a 23-year-old … Continue reading &rarr;"
 ---

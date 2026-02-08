@@ -15,6 +15,7 @@ tags:
   - "USNS Comfort"
   - "USS Bataan"
   - "USS Grasp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/portdocks.jpg"
 author: "Rick Spilman"
 description: "The US Navy is sending the rescue and salvage ship, USS Grasp, to Port-au-Prince, Haiti with divers and underwater construction personnel to assess the damage to piers and other port facilities. The USNS Comfort, a hospital ship with a capacity … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Ernestina"
   - "ex-Effie M. Morrissey"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/ernestina1.jpg"
 author: "Rick Spilman"
 description: "The 120 year old schooner Ernestina will be restored at Boothbay Harbor Shipyard over the next two years under a $6MM contract."
 ---

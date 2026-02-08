@@ -10,6 +10,7 @@ tags:
   - "Continental Congress"
   - "Letter of Marque and Reprisal"
   - "privateer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/lomarque2-200x141.jpg"
 author: "Rick Spilman"
 description: "Two hundred and forty years ago today, the Continental Congress authorized the commissioning of privateers to attack British ships. It was still three months before the Declaration of Independence from Great Britain.  The legislation was in many respects simply catching up … Continue reading &rarr;"
 ---

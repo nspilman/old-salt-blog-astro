@@ -12,6 +12,7 @@ tags:
   - "cesium-134"
   - "cesium-137"
   - "Fukushima"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/BluefinTuna_2232758b.jpg"
 author: "Rick Spilman"
 description: "It is really all just one big ocean. Low levels of nuclear radiation from the tsunami-damaged Fukushima power plant have turned up in bluefin tuna off the California coast, 6,000 miles from the damaged Japanese nuclear reactors.  Small amounts of cesium-137 and cesium-134 … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ tags:
   - "Bay City"
   - "Meade Gougeon"
   - "WEST System"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/meadeg.jpg"
 author: "Rick Spilman"
 description: "I recently learned that Meade Gougeon has died at aged 78 of melanoma.  More than 45 years ago, I was a young student of naval architecture at the University of Michigan. I met Meade when he came to speak to … Continue reading &rarr;"
 ---

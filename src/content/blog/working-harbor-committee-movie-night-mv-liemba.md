@@ -12,6 +12,7 @@ tags:
   - "Lake Tanganyika"
   - "Liemba"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/liemba.jpg"
 author: "Rick Spilman"
 description: "The Working Harbor Committee is sponsoring a wonderful documentary on the MV Liemba, at one hundred years old, the oldest passenger ferry in service."
 ---

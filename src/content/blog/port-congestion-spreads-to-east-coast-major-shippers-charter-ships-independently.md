@@ -16,6 +16,7 @@ tags:
   - "Los Angeles"
   - "new york"
   - "port congestion"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/09/cshipsanchor.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the record congestion in the ports of Los Angeles and Long Beach where over 60 container ships wait at anchor or simply drift offshore awaiting berth space.  The port congestion has spread to the East Coast … Continue reading &rarr;"
 ---

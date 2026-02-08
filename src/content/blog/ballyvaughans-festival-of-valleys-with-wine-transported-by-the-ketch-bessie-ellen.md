@@ -15,6 +15,7 @@ tags:
   - "Ireland"
   - "Languedoc-Rousillon"
   - "West Country Trading Ketch"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/bessie-ellen.jpg"
 author: "Rick Spilman"
 description: "In response to our post, Tall Ships Hit By Slumping Economy,  Will from the Tugster blog and Captain Peter from Nautical Log commented about the potential synergies of tall ships carrying cargo in addition to passengers.   Well great minds, and all that.  An example of … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Hidden Harbor tour"
   - "Moore McCormack Lines"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gowanusbay1.jpg"
 author: "Rick Spilman"
 description: "I am looking forward to going the Working Harbor Committee’s Hidden Harbor Tour of Gowanus Bay.  It will be lead by Captain Margaret Flanagan, Maritime Operations, Waterfront Alliance & Joseph Alexiou, tour guide and author of \"Gowanus Brooklyn’s Curious Canal\"  and will … Continue reading &rarr;"
 ---

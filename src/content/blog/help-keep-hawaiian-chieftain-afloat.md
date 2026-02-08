@@ -11,6 +11,7 @@ tags:
   - "Grays Harbor Historical Seaport Authority"
   - "Hawaiian Chieftain"
   - "Lady Washington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/hawaiianchieftan1.jpg"
 author: "Rick Spilman"
 description: "Grays Harbor Historical Seaport is now attempting to raise funds through crowd-sourcing to support a major upgrading of the Hawaiian Chieftain."
 ---

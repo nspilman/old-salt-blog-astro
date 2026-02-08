@@ -10,6 +10,7 @@ tags:
   - "grave"
   - "Herman Melville"
   - "Moby Dick"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/Herman-Melvillegrave.jpg"
 author: "Rick Spilman"
 description: "Herman Melville died September 28, 1891.  He was indeed a great American writer, some would argue the great American writer. He was also the greatest failed writer of his day. When he died all of his books had been out … Continue reading &rarr;"
 ---

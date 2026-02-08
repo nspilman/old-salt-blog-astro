@@ -5,6 +5,7 @@ slug: "south-korean-corvette-cheonan-sinks"
 excerpt: "Report: South Korean navy ship sinks A South Korean navy ship sank in the Yellow Sea near North Korea late Friday, and the navy shot at an unidentified ship toward the north, according to reports quoting South Korean government officials. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/cheonan.jpg"
 author: "Rick Spilman"
 description: "Report: South Korean navy ship sinks A South Korean navy ship sank in the Yellow Sea near North Korea late Friday, and the navy shot at an unidentified ship toward the north, according to reports quoting South Korean government officials. … Continue reading &rarr;"
 ---

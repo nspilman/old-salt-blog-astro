@@ -13,6 +13,7 @@ tags:
   - "Royal Majesty"
   - "USS Guardian"
   - "Vestas Wind"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/vestaswind.jpg"
 author: "Rick Spilman"
 description: "Has a reliance on GPS and other electronic navigational aids lured navigators into a sense of over confidence?"
 ---

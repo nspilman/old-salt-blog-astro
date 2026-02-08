@@ -11,6 +11,7 @@ tags:
   - "Jamestown colony"
   - "Mignonette"
   - "Virginia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/jamestownbones.jpg"
 author: "Rick Spilman"
 description: "Last week, the news broke that evidence of cannibalism had been found at the Jamestown colony in Virginia. Cut and sawing marks have been found on the skull and leg bones of a young woman, suggesting that her flesh was stripped and … Continue reading &rarr;"
 ---

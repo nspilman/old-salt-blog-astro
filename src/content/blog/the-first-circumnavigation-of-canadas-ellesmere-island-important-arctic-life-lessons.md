@@ -11,6 +11,7 @@ tags:
   - "Ellesmere Island"
   - "Erik Boomer"
   - "Jon Turk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/turk1.jpg"
 author: "Rick Spilman"
 description: "There is a wonderful article in today’s New York Times about Jon Turk and Erik Boomer, who recently became the first to circumnavigate Canada’s Ellesmere Island, roughly 1,000 miles north of the Arctic Circle.  Jon Turk, 65, is an author, scientist and … Continue reading &rarr;"
 ---

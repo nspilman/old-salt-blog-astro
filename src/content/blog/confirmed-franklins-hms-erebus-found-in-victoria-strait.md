@@ -11,6 +11,7 @@ tags:
   - "franklin expedition"
   - "HMS Erebus"
   - "Sir John Franklin'"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/Erebus_image.jpg"
 author: "Rick Spilman"
 description: "Parks Canada can now confirm that the ship wreck found in Victoria Strait from the Franklin expedition is HMS Erebus."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Carnival Magic"
   - "Ebola"
   - "Simushir"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/cmagic1.jpg"
 author: "Rick Spilman"
 description: "The Russian ship Simushir has been safely towed to Prince Rupert and Carnival Magic has docked in its home port of Galveston."
 ---

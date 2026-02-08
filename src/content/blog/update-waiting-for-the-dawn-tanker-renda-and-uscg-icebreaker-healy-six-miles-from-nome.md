@@ -14,6 +14,7 @@ tags:
   - "Renda"
   - "Russian tanker"
   - "USCG icebreaker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/rendabullseye.jpg"
 author: "Rick Spilman"
 description: "The Russian tanker Renda, carrying 1.3 million gallons of emergency fuel, escorted by the USCG icebreaker Healy are within 6 NM of Nome, Alaska  on Friday morning.  They are waiting for sunrise before advancing closer. Daylight will make moving though the ice safer and will help to … Continue reading &rarr;"
 ---

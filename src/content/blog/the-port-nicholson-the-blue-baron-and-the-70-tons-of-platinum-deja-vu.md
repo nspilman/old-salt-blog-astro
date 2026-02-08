@@ -15,6 +15,7 @@ tags:
   - "Guyana"
   - "Port Nicholson"
   - "Sub Sea Research"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/10244.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a press release by Sub Sea Research (SSR) claiming to have located the wreck of a British cargo ship sunk in June 1942 by the German submarine U87. Sub Sea Research claims that the ship was carrying 70 tons of platinum … Continue reading &rarr;"
 ---

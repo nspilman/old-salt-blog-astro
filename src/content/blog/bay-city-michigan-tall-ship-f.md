@@ -25,6 +25,7 @@ tags:
   - "U.S. Brig Niagara"
   - "Viking longship"
   - "When and If"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/baycitytallships.jpg"
 author: "Rick Spilman"
 description: "Bay City Michigan kicked off its sixth Tall Ship Celebration yesterday, featuring a diverse mix of historic ships and replicas, including the U.S. Brig Niagara; the replica galleon El Galeon Andalucia; the replica Viking longship Draken Harald Hårfagre;  the brigantines Pathfinder and Playfair; and the … Continue reading &rarr;"
 ---

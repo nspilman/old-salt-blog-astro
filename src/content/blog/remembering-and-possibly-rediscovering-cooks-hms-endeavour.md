@@ -14,6 +14,7 @@ tags:
   - "Rhode Island Marine Archaeology Project"
   - "Terra Australis Ignota"
   - "transit of Venus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/Endeavour-1776-1.jpg"
 author: "Rick Spilman"
 description: "The recent transit of Venus, the passing of the shadow of the planet Venus across the face of the sun, brought to mind the voyage of Captain Cook in HMS Endeavour in 1768-1771.  Now, archaeologists in Rhode Island believe they may have … Continue reading &rarr;"
 ---

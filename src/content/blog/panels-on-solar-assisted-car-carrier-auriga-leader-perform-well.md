@@ -11,6 +11,7 @@ tags:
   - "Auriga Leader"
   - "NYK car carrier"
   - "solar panels"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/car-carrier-auriga-leader.jpg"
 author: "Rick Spilman"
 description: "After four voyages the solar panels on the upper of the NYK car carrier Auriga Leader have performed better than was expected but  have also demonstrated how far there is to go in harnessing solar power. The ship has generated 32,300 … Continue reading &rarr;"
 ---

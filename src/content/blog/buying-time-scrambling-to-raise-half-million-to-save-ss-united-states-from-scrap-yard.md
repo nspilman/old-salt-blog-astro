@@ -10,6 +10,7 @@ categories:
 tags:
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/ssus2.jpg"
 author: "Rick Spilman"
 description: "The SS United States Conservancy is scrambling to raise $500,000 to buy time in their effort to save the ex-passenger liner SS United States.  If they fail, the ship could be sold for scrap.  The conservancy is exploring potential partnerships with … Continue reading &rarr;"
 ---

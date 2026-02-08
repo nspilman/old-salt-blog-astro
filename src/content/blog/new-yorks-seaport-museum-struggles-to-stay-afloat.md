@@ -16,6 +16,7 @@ tags:
   - "South Street Seaport"
   - "tug Helen McAllister"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/seaport1.jpg"
 author: "Rick Spilman"
 description: "Update: The Seaport Museum \"temporarily\" laid-off another twelve staff members on Monday afternoon. More bad news from the South Street Seaport.   Last week the Seaport Museum laid off the captain of the schooner Pioneer, as well a marine educator … Continue reading &rarr;"
 ---

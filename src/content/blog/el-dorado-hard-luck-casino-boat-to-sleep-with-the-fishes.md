@@ -13,6 +13,7 @@ tags:
   - "EL Dorado"
   - "Florida"
   - "Panama City"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/01/eldorado.jpg"
 author: "Rick Spilman"
 description: "The El Dorado,  a 157 foot-long, 300-ton, casino boat broke free from her moorings when Hurricane Ivan ripped through Panama City, FL in 2004. She ran aground in Southport, FL. where she sat for several years. A new owner was in … Continue reading &rarr;"
 ---

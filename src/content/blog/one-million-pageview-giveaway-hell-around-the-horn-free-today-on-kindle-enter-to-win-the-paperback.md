@@ -10,6 +10,7 @@ tags:
   - "Free"
   - "Hell Around the Horn"
   - "Kindle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/BookCoverconradgthumb2001.jpg"
 author: "Rick Spilman"
 description: "To continue our celebration of the Old Salt Blog passing one million pageviews, today, December 20, and tommorrow, December 21, we are giving away free copies of the Kindle edition of my new nautical thriller, Hell Around the Horn.  Click here to go … Continue reading &rarr;"
 ---

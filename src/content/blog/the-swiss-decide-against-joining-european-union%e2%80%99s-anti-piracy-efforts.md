@@ -9,6 +9,7 @@ categories:
 tags:
   - "anti-piracy"
   - "Swiss Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/SwitzerlandFlag.jpg"
 author: "Rick Spilman"
 description: "Perhaps it is the thought that counts. Swiss lawmakers have decided against joining EU anti-piracy efforts because it would violate the country’s long-held tradition of neutrality.  The land-locked country lacks a blue water navy so could not send a ship or … Continue reading &rarr;"
 ---

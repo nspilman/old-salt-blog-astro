@@ -20,6 +20,7 @@ tags:
   - "South Carolina Olympia Committee"
   - "Spanish-American War"
   - "Vallejo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/oympia2.jpg"
 author: "Rick Spilman"
 description: "Two groups on opposite coasts of the United States are frantically working to save the 1895 built, SS Olympia, Admiral Dewey’s flagship in the Battle of Manila Bay and the last, just barely, surviving war ship from the Spanish-American War. The Mare … Continue reading &rarr;"
 ---

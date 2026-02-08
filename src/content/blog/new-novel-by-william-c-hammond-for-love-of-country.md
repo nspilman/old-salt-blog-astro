@@ -9,6 +9,7 @@ tags:
   - "Cutler family"
   - "For Love of Country"
   - "William C. Hammond"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/forloveofcountry.jpg"
 author: "Rick Spilman"
 description: "William Hammond’s new novel, For Love of Country, was released in October.  Set in the early 1780s in the years following the American Revolution, the novel follows the adventures of the seafaring Cutler family of Hingham, Massachusetts, and the supporting … Continue reading &rarr;"
 ---

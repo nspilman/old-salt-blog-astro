@@ -16,6 +16,7 @@ tags:
   - "Scotch whiskey"
   - "SS Politician"
   - "Whiskey Galore"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/whiskytwo.jpg"
 author: "Rick Spilman"
 description: "Two bottles of whisky salvaged from the wreck of the cargo ship SS Politician have been sold for £12,050 after an online auction.   The wreck inspired the novel \"Whisky Galore\" and the movie of the same name. Whisky Galore bottles … Continue reading &rarr;"
 ---

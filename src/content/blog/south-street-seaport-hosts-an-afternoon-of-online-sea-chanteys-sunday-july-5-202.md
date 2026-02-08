@@ -9,6 +9,7 @@ tags:
   - "Sea Chanteys and Maritime Music"
   - "Seaport"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/04/newyorkpacket.jpg"
 author: "Rick Spilman"
 description: "In May, we posted about the virtual return New York’s South Street Seaport Museum‘s monthly Chantey Sing.  It was great fun. The next Seaport Chantey sing is scheduled for this Sunday, July 5th. From the Seaport press release:  South Street … Continue reading &rarr;"
 ---

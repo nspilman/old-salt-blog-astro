@@ -11,6 +11,7 @@ tags:
   - "Guam"
   - "South Korean cargo ship"
   - "spiders"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/SPIDER__1683607c.jpg"
 author: "Rick Spilman"
 description: "This news story sounds like a bad sequel to the movie Snakes on Plane. Ship turned away after spiders started ‘pouring’ from cargo hold A South Korean cargo ship had to be turned away last week after an infestation of spiders was discovered … Continue reading &rarr;"
 ---

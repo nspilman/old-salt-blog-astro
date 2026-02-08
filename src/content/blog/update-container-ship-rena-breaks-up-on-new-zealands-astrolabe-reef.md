@@ -11,6 +11,7 @@ tags:
   - "Astrolabe Reef"
   - "MV Rena"
   - "New Zealand"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/ipad-art-wide-NZ-420x0.jpg"
 author: "Rick Spilman"
 description: "In early October, the MV Rena, a container ship owned by the Greek shipping company Costamare Inc, ran hard aground on the Astrolabe Reef in in the Bay of Plenty off New Zealand’s North Island.  When she struck the reef, the Rena was … Continue reading &rarr;"
 ---

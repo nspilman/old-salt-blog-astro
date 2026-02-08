@@ -13,6 +13,7 @@ tags:
   - "Mary A.Whalen"
   - "PortSide NewYork"
   - "tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/Amistadname.jpg"
 author: "Rick Spilman"
 description: "The schooner Amistad is coming to PortSide NewYork, at Pier 11 in the Atlantic Basin, in Red Hook, Brooklyn. Amistad will tie up alongside the historic tanker, Mary A. Whalen, and will be available for free public tours on Tuesday, … Continue reading &rarr;"
 ---

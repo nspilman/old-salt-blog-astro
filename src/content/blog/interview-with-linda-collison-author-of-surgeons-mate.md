@@ -10,6 +10,7 @@ tags:
   - "Astrodene's Historic Naval Fiction"
   - "Linda Collison"
   - "Surgeon's Mate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/surgeonsmate.jpg"
 author: "Rick Spilman"
 description: "Linda Collison’s new book Surgeon’s Mate, the second book in the her Patricia MacPherson nautical series,  was recently been released.   Astrodene’s Historic Naval Fiction interviewed Linda Collison about her new book, which  we are reposting with permission.   We reviewed Collison’s … Continue reading &rarr;"
 ---

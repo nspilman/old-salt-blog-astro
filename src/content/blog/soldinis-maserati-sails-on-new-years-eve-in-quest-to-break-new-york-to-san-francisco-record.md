@@ -11,6 +11,7 @@ tags:
   - "Maserati Sailing Team"
   - "New York to San Francisco"
   - "Soldini"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/soldini.jpg"
 author: "Rick Spilman"
 description: "Last May, we posted about Giovanni Soldini and the Maserati Sailing Team’s attempt to break the monohull sailing record from the Ambrose Lighthouse in New York to Lizard Point off the south west coast of England. That attempt was stymied … Continue reading &rarr;"
 ---

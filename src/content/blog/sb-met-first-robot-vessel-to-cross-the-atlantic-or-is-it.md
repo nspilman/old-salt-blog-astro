@@ -11,6 +11,7 @@ tags:
   - "RU27"
   - "SB Met"
   - "Slocum Glider"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/09/sbmet.jpg"
 author: "Rick Spilman"
 description: "Recent reports in the media have announced that the 2-meter long robot sailboat, SB Met, has become the first unmanned vessel to cross the Atlantic after completing a 1,800-mile (3,000 km) journey from Newfoundland in Canada to Ireland. The Daily Mail reports … Continue reading &rarr;"
 ---

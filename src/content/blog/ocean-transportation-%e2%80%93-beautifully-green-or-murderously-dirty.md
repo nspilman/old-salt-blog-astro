@@ -10,6 +10,7 @@ tags:
   - "carbon footprint"
   - "pollution"
   - "Transportation by water"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/blast_image-150x173.jpg"
 author: "Rick Spilman"
 description: "Is a ship the \"greenest\", most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
 ---

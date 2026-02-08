@@ -15,6 +15,7 @@ tags:
   - "Saint-Francois"
   - "Sarah Hebert"
   - "Senegal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/photos-prepa.jpg"
 author: "Rick Spilman"
 description: "Sarah Hebert, a young French athlete with a heart condition, is now in her 12th day of attempting to sail across the Atlantic Ocean on a stock \"off the beach\" windsurfer.   Fortunately, this is not quite as crazy as it sounds. … Continue reading &rarr;"
 ---

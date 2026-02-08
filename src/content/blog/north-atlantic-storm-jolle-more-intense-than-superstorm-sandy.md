@@ -13,6 +13,7 @@ tags:
   - "North Atlantic extratropical storm"
   - "Shetland Islands"
   - "tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/jolle_jan26.jpg"
 author: "Rick Spilman"
 description: "Last Saturday, in the Northern Atlantic to the south of Iceland, the extratropical storm Jolle, intensified dramatically.  Meteorologists use central pressure as a proxy for measuring the strength of a given storm. The lower the barometric pressure, the more intense the storm.  By this standard,  Jolle, … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Florida"
   - "Manatees"
   - "sea grass"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/12/manateefeed.jpg"
 author: "Rick Spilman"
 description: "Encouraging news! Following a devastating record year of manatee deaths in 2021, a​ record number of manatees was counted at Central Florida’s Blue Spring State Park on Sunday. Staff there counted 932 on Sunday, which is nearly 200 more than … Continue reading &rarr;"
 ---

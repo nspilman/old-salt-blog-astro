@@ -13,6 +13,7 @@ tags:
   - "Nina"
   - "Starling Burgess"
   - "staysail schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/nina.jpg"
 author: "Rick Spilman"
 description: "The 70′ schooner Nina and her crew of seven have been reported missing. They sailed on May 29, from Opua in the Bay of Islands, New Zealand bound for Newcastle, Australia.  They were last hear from on June 4th, 370 nautical miles west … Continue reading &rarr;"
 ---

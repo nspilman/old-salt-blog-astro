@@ -10,6 +10,7 @@ tags:
   - "internet"
   - "Russia"
   - "submarine cables"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/underseacable.jpg"
 author: "Rick Spilman"
 description: "There are serious concerns in US military that Russian submarines and spy ships are operating near the undersea cables that carry Internet communications."
 ---

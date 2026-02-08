@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "Jim Walker"
   - "John Arthur Eaves"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa-concordia-e1326646133.jpg"
 author: "Rick Spilman"
 description: "Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the Costa Concordia was \"defectively designed,\" a \" floating coffin,\" had a \"propensity … to … Continue reading &rarr;"
 ---

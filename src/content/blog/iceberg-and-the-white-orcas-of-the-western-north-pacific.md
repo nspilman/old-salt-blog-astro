@@ -10,6 +10,7 @@ tags:
   - "albino"
   - "iceberg"
   - "white orca"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/08/icebergorca.jpg"
 author: "Rick Spilman"
 description: "In 2012, we posted about a sighting one of the first adult all white orca whales in the western North Pacific near the Kamchatka Peninsula. The observation was reported by Erich Hoyt, co-founder of the Far East Russia Orca Project. The rare … Continue reading &rarr;"
 ---

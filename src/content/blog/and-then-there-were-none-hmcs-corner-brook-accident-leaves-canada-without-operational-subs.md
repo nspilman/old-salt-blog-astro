@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMCS Corner Brook"
   - "hunter killer submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/300px-HMCS_Corner_Brook.jpg"
 author: "Rick Spilman"
 description: "Canada’s hunter killer submarine, HMCS Corner Brook, limped back to base last weekend after running aground during a  training exercise in the waters of Nootka Sound off the central east coast of Vancouver Island.  The accident leaves Canada without an operational submarine.  Canada’s … Continue reading &rarr;"
 ---

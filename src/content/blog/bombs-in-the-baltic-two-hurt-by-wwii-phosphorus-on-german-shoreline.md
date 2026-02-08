@@ -14,6 +14,7 @@ tags:
   - "phosphorus"
   - "Usedom"
   - "World War II munitions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/explosionbaltic.jpg"
 author: "Rick Spilman"
 description: "World War II ended in Europe on May 8, 1945. Nevertheless, over 60 years later, the threat from left over munitions continues and may be getting worse.  Last November, we posted about bombs along the Rhine, where a drought was revealing un-exploded ordinance in German river banks.  Then … Continue reading &rarr;"
 ---

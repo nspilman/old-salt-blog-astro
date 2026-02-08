@@ -11,6 +11,7 @@ tags:
   - "HMS Bounty"
   - "Paris Review"
   - "Robin Beth Schaer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/bounty+004.jpg"
 author: "Rick Spilman"
 description: "Robin Beth Schaer an American poet and sailor who served as a deckhand aboard the HMS Bounty has a written, Falling Overboard,  a beautifully evocative essay which she describes as \"My love letter and my farewell for my ship Bounty and her captain, lost in the … Continue reading &rarr;"
 ---

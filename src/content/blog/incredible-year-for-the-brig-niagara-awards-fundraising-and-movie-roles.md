@@ -14,6 +14,7 @@ tags:
   - "Great Lakes United Tall Ships Challenge® 2010"
   - "Sail Training Program of the Year award"
   - "Wesley Heerssen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/niagra-150x100.jpg"
 author: "Rick Spilman"
 description: "The Brig Niagara has had an incredible year.   The ship and its captain have been honored with major awards, the organization has raised significant sums to support the ship and the ship has been featured in a new PBS documentary. Just … Continue reading &rarr;"
 ---

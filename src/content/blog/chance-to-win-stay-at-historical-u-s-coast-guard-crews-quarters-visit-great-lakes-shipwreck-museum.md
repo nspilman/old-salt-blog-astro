@@ -12,6 +12,7 @@ tags:
   - "U.S. Coast Guard crews quarters"
   - "Upper Peninsula of Michigan"
   - "Whitefish Point"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/9421094-large.jpg"
 author: "Rick Spilman"
 description: "For those in the area this looks like fun. The Great Lakes Shipwreck Museum and MLive.com are sponsoring a two-night stay for two in the restored 1923 U.S. Coast Guard crews quarters at Whitefish Point in the Upper Peninsula of Michigan.  Also included is a … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Captain Adam Aycock"
   - "Peter Mims"
   - "USS Shiloh"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/06/shiloh.jpg"
 author: "Rick Spilman"
 description: "Back in June, we posted about a 50-hour, 5,500 square-mile man-overboard search across the Philippine Sea on the USS Shiloh.  The search effort also included Japanese Coast Guard and naval forces. The sailor who was thought to have fallen overboard showed … Continue reading &rarr;"
 ---

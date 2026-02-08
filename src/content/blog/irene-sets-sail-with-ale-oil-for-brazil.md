@@ -13,6 +13,7 @@ tags:
   - "New Dawn Traders"
   - "TransOceanic Wind Transport"
   - "Tres Hombres"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/cropped-irene-sky-dreams2.jpg"
 author: "Rick Spilman"
 description: "The ketch Irene, built in 1907 to carry bricks and tiles, has set sail with a cargo of Devon ale for Brittany and Spanish olive oil for  Brazil, on what will be, if all goes well, a five month voyage which will also carry … Continue reading &rarr;"
 ---

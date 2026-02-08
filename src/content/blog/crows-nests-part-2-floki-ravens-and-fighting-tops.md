@@ -15,6 +15,7 @@ tags:
   - "Iceland"
   - "ravens"
   - "top"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/viking20a.jpg"
 author: "Rick Spilman"
 description: "The crows nest, as a shelter for the lookout on whaling ships sailing the icy waters of the Arctic, was by all indications, invented by Captain William Scoresby around 1807.  (See yesterday’s post:  Crow’s Nests : Part 1 — Melville & … Continue reading &rarr;"
 ---

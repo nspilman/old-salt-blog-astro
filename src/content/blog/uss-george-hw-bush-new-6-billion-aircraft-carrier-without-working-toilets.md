@@ -11,6 +11,7 @@ tags:
   - "newest aircraft carrier"
   - "toilets"
   - "USS George HW Bush"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/111411-carrier-bush-800.jpg"
 author: "Rick Spilman"
 description: "The USS George HW Bush, the tenth of the Nimitz class, is the US Navy’s newest aircraft carrier.  It cost $6.2 billion to build and is powered by two nuclear reactors which can develop 260,000 shaft horsepower.  The carrier can … Continue reading &rarr;"
 ---

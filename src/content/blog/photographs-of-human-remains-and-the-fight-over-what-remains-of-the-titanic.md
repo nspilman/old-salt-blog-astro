@@ -14,6 +14,7 @@ tags:
   - "James Delgado"
   - "National Oceanic and Atmosphere Administration"
   - "Sen. John Kerry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/TITANICbootcoat.jpg"
 author: "Rick Spilman"
 description: "Very few of the bodies of the 1514 passengers and crews who died on the Titanic were ever recovered.  Recently released photographs, which raise the question of whether or not here are human remains at the wreck site, have become central to a … Continue reading &rarr;"
 ---

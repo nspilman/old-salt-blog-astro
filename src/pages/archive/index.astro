@@ -2,6 +2,7 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import CompassRose from '../../components/CompassRose.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
 
@@ -34,12 +35,15 @@ const totalPosts = allPosts.length;
 	</head>
 	<body>
 		<Header />
+		<CompassRose />
 		<main>
 			<section>
-				<h1>Archive</h1>
-				<p class="subtitle">
-					Browse all {totalPosts.toLocaleString()} posts by year
-				</p>
+				<div class="page-header">
+					<h1>Archive</h1>
+					<p class="subtitle">
+						Browse all {totalPosts.toLocaleString()} posts by year
+					</p>
+				</div>
 
 				<div class="year-list">
 					{years.map(({ year, count }) => (
@@ -60,95 +64,153 @@ const totalPosts = allPosts.length;
 </html>
 
 <style>
+	/* Archive - The ship's log years */
 	main {
-		width: 100%;
+		max-width: 1000px;
+		margin: 0 auto;
+		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
+		min-height: calc(100vh - 160px);
+		position: relative;
+		z-index: 2;
 	}
 
 	section {
-		max-width: 900px;
+		max-width: 940px;
 		margin: 0 auto;
-		padding: 2rem 1rem;
+		padding: 1.5rem 1rem;
+	}
+
+	/* On smaller screens, go full-width */
+	@media (max-width: 1040px) {
+		main {
+			max-width: 100%;
+		}
+	}
+
+	.page-header {
+		margin-bottom: 2rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid var(--border-dark);
 	}
 
 	h1 {
-		font-size: 2.5rem;
-		margin-bottom: 0.5rem;
-		color: rgb(var(--accent-dark));
+		font-size: 2rem;
+		margin-bottom: 0.25rem;
+		color: rgb(var(--black));
 	}
 
 	.subtitle {
-		font-size: 1.2rem;
+		font-size: 1rem;
 		color: rgb(var(--gray));
-		margin-bottom: 3rem;
+		margin: 0;
+		font-style: italic;
+		font-weight: normal;
 	}
 
 	.year-list {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-		gap: 1.5rem;
+		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+		gap: 1rem;
 	}
 
 	.year-card {
-		border: 1px solid rgb(var(--gray-light));
-		border-radius: 8px;
-		overflow: hidden;
-		transition: transform 0.2s, box-shadow 0.2s;
+		border: 1px solid var(--border-light);
+		background: #FFFFFF;
 	}
 
 	.year-card:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+		border-color: var(--accent);
 	}
 
 	.year-link {
 		display: block;
-		padding: 2rem;
+		padding: 1.5rem 1rem;
 		text-decoration: none;
 		color: inherit;
 		text-align: center;
+		font-weight: normal;
 	}
 
 	.year-link h2 {
-		font-size: 2rem;
-		margin: 0 0 0.5rem 0;
-		color: rgb(var(--accent));
+		font-size: 1.5rem;
+		margin: 0 0 0.25rem 0;
+		color: rgb(var(--black));
 		font-weight: 700;
 	}
 
-	.year-link:hover h2 {
-		color: rgb(var(--accent-dark));
+	.year-card:hover .year-link h2 {
+		color: var(--accent);
 	}
 
 	.post-count {
-		font-size: 1rem;
+		font-size: 0.875rem;
 		color: rgb(var(--gray));
 		margin: 0;
+		font-weight: normal;
 	}
 
+	/* Tablet */
 	@media (max-width: 768px) {
+		section {
+			padding: 1.25rem 1rem;
+		}
+
+		.page-header {
+			margin-bottom: 1.5rem;
+			padding-bottom: 0.875rem;
+		}
+
 		h1 {
-			font-size: 2rem;
-		}
-
-		.subtitle {
-			font-size: 1rem;
-		}
-
-		.year-list {
-			grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-			gap: 1rem;
-		}
-
-		.year-link {
-			padding: 1.5rem;
-		}
-
-		.year-link h2 {
 			font-size: 1.5rem;
 		}
 
+		.subtitle {
+			font-size: 0.9375rem;
+		}
+
+		.year-list {
+			grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+			gap: 0.875rem;
+		}
+
+		.year-link {
+			padding: 1.25rem 0.75rem;
+		}
+
+		.year-link h2 {
+			font-size: 1.375rem;
+		}
+
 		.post-count {
-			font-size: 0.875rem;
+			font-size: 0.8125rem;
+		}
+	}
+
+	/* Small mobile */
+	@media (max-width: 480px) {
+		section {
+			padding: 1rem 0.875rem;
+		}
+
+		.page-header {
+			margin-bottom: 1.25rem;
+		}
+
+		h1 {
+			font-size: 1.375rem;
+		}
+
+		.year-list {
+			grid-template-columns: repeat(2, 1fr);
+			gap: 0.75rem;
+		}
+
+		.year-link {
+			padding: 1rem 0.5rem;
+		}
+
+		.year-link h2 {
+			font-size: 1.25rem;
 		}
 	}
 </style>

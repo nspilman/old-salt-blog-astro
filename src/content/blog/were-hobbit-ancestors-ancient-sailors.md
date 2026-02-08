@@ -10,6 +10,7 @@ tags:
   - "Flores Man"
   - "Hobbits"
   - "Homo floresiensis"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/01/hobbit.jpg"
 author: "Rick Spilman"
 description: "For the land-bound, the sea is a boundary. For sailors, it is a path to other shores. But how long have humans been sailing? We can be reasonably sure that humans have been sailing in rafts, boats or ships for … Continue reading &rarr;"
 ---

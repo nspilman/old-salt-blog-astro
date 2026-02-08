@@ -11,6 +11,7 @@ tags:
   - "Coronado Islands"
   - "Newport Ocean Sailing Association"
   - "Newport-to-Ensenada yacht race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/BoatRace-1.jpg"
 author: "Rick Spilman"
 description: "Sometime late Friday night or early Saturdaymorning, near the Coronado Islands, during the 125-mile Newport-to-Ensenada yacht race, something went terribly wrong on the 37′ yacht Aegean, leaving three sailors dead and one missing.  A statement issued this morning by the Newport Ocean Sailing Association, which hosts the … Continue reading &rarr;"
 ---

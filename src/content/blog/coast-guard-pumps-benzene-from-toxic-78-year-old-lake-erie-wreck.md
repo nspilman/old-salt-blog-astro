@@ -14,6 +14,7 @@ tags:
   - "benzol"
   - "Lake Erie"
   - "tank barge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/argo.jpg"
 author: "Rick Spilman"
 description: "This weekend the US Coast Guard recovered 10,000 gallons of benzene from the wreck of a tank barge that sank 78 years ago in Lake Erie. The Coast Guard has pumped the first of 8 tanks on the wrecked barge. In … Continue reading &rarr;"
 ---

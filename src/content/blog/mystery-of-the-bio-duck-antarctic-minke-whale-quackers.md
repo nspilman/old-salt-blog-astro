@@ -10,6 +10,7 @@ tags:
   - "bio-duck"
   - "minke whale"
   - "Southern Ocean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/Minke.jpg"
 author: "Rick Spilman"
 description: "For roughly fifty years, scientists have listened to an unidentified sound in the Southern Ocean, which has been described as a sort of mechanical quacking noise.  It has been come to be known as the bio-duck. The bio-duck quack was first detected by sonar … Continue reading &rarr;"
 ---

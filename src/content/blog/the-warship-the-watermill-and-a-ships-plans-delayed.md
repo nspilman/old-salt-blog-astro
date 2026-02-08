@@ -11,6 +11,7 @@ tags:
   - "HMS Java"
   - "HMS Trincomalee"
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/USSChesapeake.jpg"
 author: "Rick Spilman"
 description: "Last Sunday, we posted about the authorization for the  construction of the first six frigates for the US Navy in 1794.   The folks at Maritime Great Britain were kind enough to pass along two related stories. … Continue reading &rarr;"
 ---

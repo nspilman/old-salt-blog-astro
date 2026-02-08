@@ -13,6 +13,7 @@ tags:
   - "Rachel B. Jackson"
   - "schooner"
   - "Victory Chimes"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/rachel.jpg"
 author: "Rick Spilman"
 description: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a \"Buy it Now\" price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "bermuda"
   - "Emirates Team New Zealand"
   - "Oracle Team US"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/ac72.jpg"
 author: "Rick Spilman"
 description: "The next America's Cup will be sailed in Bermuda, the first time in history that an American defender has chosen a port outside the US."
 ---

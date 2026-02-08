@@ -11,6 +11,7 @@ tags:
   - "Draken Harald Hårfagre"
   - "Norwegian Viking ship"
   - "Tall Ships Challenge Great Lakes 2016"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/drakensail.jpg"
 author: "Rick Spilman"
 description: "The Norwegian Viking ship Draken Harald Hårfagre has successfully weathered the seas of the Atlantic Ocean only to be turned back by exorbitant pilotage fees in the Great Lakes and the St Lawrence Seaway. Unless changes are made, pilotage fees … Continue reading &rarr;"
 ---

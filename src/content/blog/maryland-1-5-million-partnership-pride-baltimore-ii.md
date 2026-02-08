@@ -12,6 +12,7 @@ tags:
   - "Governor Hogan"
   - "Maryland"
   - "Pride of Baltimore II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/prideii.jpg"
 author: "Rick Spilman"
 description: "On Monday, Maryland's Governor Hogan announced a $1.5 million private-public partnership with the replica Baltimore clipper, Pride of Baltimore II.  "
 ---

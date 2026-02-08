@@ -6,6 +6,7 @@ excerpt: "I was under the impression that the State of Michigan had serious prob
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/senatorkahn.jpg"
 author: "Rick Spilman"
 description: "I was under the impression that the State of Michigan had serious problems – a $2 billion budget shortfall, its largest city in dire economic straits, schools closing for lack of funding, that sort of thing.  Things must be better … Continue reading &rarr;"
 ---

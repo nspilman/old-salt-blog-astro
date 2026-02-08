@@ -12,6 +12,7 @@ tags:
   - "L'Astrolabe"
   - "Snow Dragon"
   - "Xue Long"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/xuelong.jpg"
 author: "Rick Spilman"
 description: "The Chinese icebreaker Xue Long, or Snow Dragon, has gotten to within around 6-7 miles of the expedition cruise ship,  MV Akademik Shokalskiy, before it too was stopped by thick ice off the coast of Antarctica, south of Tasmania. Three icebreakers … Continue reading &rarr;"
 ---

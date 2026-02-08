@@ -11,6 +11,7 @@ tags:
   - "\"Land and Sea\""
   - "Nova Scotia"
   - "schooners"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/landandsea.jpg"
 author: "Rick Spilman"
 description: "Last Sunday we posted about the CBC program,Land and Sea, which was broadcasting a half hour documentary on traditional schooners in Nova Scotia. It is now available to watch on-line. The documentary tells the story of four different schooner owners … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "Hurricane Ike"
   - "Texas Seaport Museum"
   - "three masted iron barque"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/elissa1-150x197.jpg"
 author: "Rick Spilman"
 description: "The three masted iron barque Elissa, built in 1877, will be returning to her pier this Saturday at the Texas Seaport Museum in Galveston after completing a $3 million repair and replacement of hull plating.  Congratulations to Jamie White and all the staff, … Continue reading &rarr;"
 ---

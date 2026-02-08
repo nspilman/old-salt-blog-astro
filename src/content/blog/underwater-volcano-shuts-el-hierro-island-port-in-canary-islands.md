@@ -12,6 +12,7 @@ tags:
   - "El Hierro Island"
   - "La Restinga"
   - "underwater volcano"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/underwatervolcano01.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about Kick’em Jenny, an active underwater volcano off Grenada in the Caribbean, which was last active in 2001. Now the eruption of an active underwater volcano off El Hierro Island, in the Canary Islands off the … Continue reading &rarr;"
 ---

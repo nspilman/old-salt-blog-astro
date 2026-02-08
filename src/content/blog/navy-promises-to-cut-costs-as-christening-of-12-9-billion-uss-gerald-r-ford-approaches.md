@@ -12,6 +12,7 @@ tags:
   - "Supercarrier"
   - "USS Gerald R. Ford"
   - "USS John F Kennedy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/PCU_Gerald_R_Ford_CVN-78.jpg"
 author: "Rick Spilman"
 description: "The U.S. Navy’s new supercarrier, USS Gerald R. Ford (CVN-78), was floated in the drydock last month. She will be christened this Saturday, November 9th at the Northrop Grumman Shipbuilding in Newport News, Virginia. In addition to other superlatives, she … Continue reading &rarr;"
 ---

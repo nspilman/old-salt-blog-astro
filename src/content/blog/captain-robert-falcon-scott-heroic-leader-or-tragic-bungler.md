@@ -12,6 +12,7 @@ tags:
   - "Captain Robert Falcon Scott"
   - "Ernest Shackleton"
   - "Roald Amundsen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/Scott_of_the_Antarctic_crop.jpg"
 author: "Rick Spilman"
 description: "No one is exactly sure when Captain Robert Falcon Scott and his four of his fellow explorers died on their failed Antarctic expedition.  Today is observed as the centenary of the deaths because March 19, 1912 was the last entry in Scott’s journal. … Continue reading &rarr;"
 ---

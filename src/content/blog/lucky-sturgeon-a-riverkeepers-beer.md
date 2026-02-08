@@ -6,6 +6,7 @@ excerpt: "In 2011, we posted about the Elissa I.P.A. (India Pale Ale) brewed by 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/luckysturgeonsign-LRae.jpg"
 author: "Rick Spilman"
 description: "Peekskill Brewery and Elmsford-based Captain Lawrence Brewery -- are teaming up to create Lucky Sturgeon I.P.A. to benefit the Riverkeeper."
 ---

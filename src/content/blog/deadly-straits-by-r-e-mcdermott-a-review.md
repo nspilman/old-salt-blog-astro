@@ -7,6 +7,7 @@ categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/deadlystraits.jpg"
 author: "Rick Spilman"
 description: "For the sake of full disclosure, I am not a huge fans of thrillers, particularly thrillers involving ships. The plots often strike me as implausible and the descriptions of the ships and ship operations often border on the laughable. (Too … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "International Coffee Day"
   - "Mark Pendergrast"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/coffee_beans5_3.jpg"
 author: "Rick Spilman"
 description: "A comment on our  post, Happy National Coffee Day – Coffee, Edward Lloyd, Ships and Shipping, by Barista Uno host of the excellent Marine Cafe blog raised two interesting points.  He commented: There ought to be an International Coffee Day. Coffee, after … Continue reading &rarr;"
 ---

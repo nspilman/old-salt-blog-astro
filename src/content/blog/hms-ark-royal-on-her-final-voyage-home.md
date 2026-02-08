@@ -14,6 +14,7 @@ tags:
   - "River Tyne"
   - "scrapped"
   - "Swan Hunter shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/Ark-2.jpg"
 author: "Rick Spilman"
 description: "Thirty years ago HMS Ark Royal was built on the River Tyne at the Swan Hunter shipyard.  Last Friday, she sailed home for the last time to be decommissioned and ultimately scrapped.  As she moved up river, spectators said their final goodbyes to … Continue reading &rarr;"
 ---

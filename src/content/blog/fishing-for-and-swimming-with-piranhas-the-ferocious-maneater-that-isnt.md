@@ -14,6 +14,7 @@ tags:
   - "riverboat"
   - "Teddy Roosevelt"
   - "Ucayali river"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/piranha1.jpg"
 author: "Rick Spilman"
 description: "My wife and I recently took a trip on the riverboat MV Amatista from the jungle city of Iquitos upriver on the Amazon to the confluence of the Marañón and Ucayali rivers. Before we left, several friends warned us not … Continue reading &rarr;"
 ---

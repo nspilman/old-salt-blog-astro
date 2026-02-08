@@ -11,6 +11,7 @@ tags:
   - "Denmark"
   - "Kim Wall. Peter Madsen. submarine"
   - "Nautilus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/wallnautiuls.jpg"
 author: "Rick Spilman"
 description: "On Saturday, we posted that the Danish inventor Peter Madsen has been held on suspicion of murder following the disappearance of Kim Wall, a Swedish journalist, and the sinking of the privately owned submarine UC3 Nautilus on Friday off Denmark. Madsen claimed that he … Continue reading &rarr;"
 ---

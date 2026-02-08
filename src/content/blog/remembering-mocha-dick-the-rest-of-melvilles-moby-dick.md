@@ -14,6 +14,7 @@ tags:
   - "Mocha Dick"
   - "Nathaniel Philbrick"
   - "whaleship Essex"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/md2.jpg"
 author: "Rick Spilman"
 description: "Today in theaters in the US, the movie \"In the Heart of the Sea\" opens. It is based on Nathaniel Philbrick’s book, In the Heart of the Sea: The Tragedy of the Whaleship Essex.  (I will be reviewing the movie tomorrow.) … Continue reading &rarr;"
 ---

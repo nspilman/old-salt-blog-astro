@@ -14,6 +14,7 @@ tags:
   - "Uruguay"
   - "Velux Five Oceans race"
   - "Zbigniew 'Gutek' Gutkowski"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/11_V50_sprint3start_360.jpg"
 author: "Rick Spilman"
 description: "Blustery winds, gray skies and rain marked the beginning of the 6,000 nautical mile Sprint 3 of the Velux Five Oceans Singlehanded Around the World Race.  The four remaining boats departed Sunday from Wellington, New Zealand bound for to Punta del … Continue reading &rarr;"
 ---

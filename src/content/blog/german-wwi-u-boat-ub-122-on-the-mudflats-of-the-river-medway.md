@@ -14,6 +14,7 @@ tags:
   - "kent"
   - "River Medway"
   - "UB-122"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/uboatkent.jpg"
 author: "Rick Spilman"
 description: "There was a recent story in the press about  the wreckage of a German World War I submarine beached of mudflats on the banks of the River Medway in Hoo, Kent.   The sub is, believed to be the UB-122,  one … Continue reading &rarr;"
 ---

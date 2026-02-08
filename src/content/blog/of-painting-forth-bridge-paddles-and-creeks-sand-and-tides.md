@@ -11,6 +11,7 @@ tags:
   - "Forth Bridge"
   - "Shoveling sand against the tide"
   - "up shit creek without a paddle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/250px-Forth_bridge_evening_.jpg"
 author: "Rick Spilman"
 description: "I recently learned a new figure of speech – \"like painting the Forth Bridge,\" which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
 ---

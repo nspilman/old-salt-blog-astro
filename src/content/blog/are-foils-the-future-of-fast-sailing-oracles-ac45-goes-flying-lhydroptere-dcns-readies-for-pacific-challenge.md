@@ -12,6 +12,7 @@ tags:
   - "hydrofoils"
   - "l’Hydroptère DCNS"
   - "Oracle Team USA"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/ac45flying.jpg"
 author: "Rick Spilman"
 description: "When I was coming of age, many thought that the future of speed on the water would be in motor-powered hydrofoils.  While there are still a few hydrofoil ferries in operation, the idea really never caught on.  Now, however, hydrofoils have appeared … Continue reading &rarr;"
 ---

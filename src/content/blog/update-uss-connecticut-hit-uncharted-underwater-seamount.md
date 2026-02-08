@@ -14,6 +14,7 @@ tags:
   - "Seawolf-class"
   - "USS Connecticut"
   - "USS Emory S. Land"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/10/connecticut.jpg"
 author: "Rick Spilman"
 description: "The worst way to determine the position of a previously uncharted seamount is to run into it underwater. That is apparently what happened to the Seawolf-class attack submarine, USS Connecticut, when it hit an object while submerged on October 2.   … Continue reading &rarr;"
 ---

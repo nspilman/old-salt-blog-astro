@@ -11,6 +11,7 @@ tags:
   - "Juglar"
   - "Veuve-Clicquot"
   - "World's Oldest Champagne"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/champagne.jpg"
 author: "Rick Spilman"
 description: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the \"world’s oldest champagne\" which was judged to be … Continue reading &rarr;"
 ---

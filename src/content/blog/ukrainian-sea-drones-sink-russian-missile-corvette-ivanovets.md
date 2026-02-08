@@ -15,6 +15,7 @@ tags:
   - "Russian Tarantul-III class missile corvette"
   - "Ukrainian Defense Intelligence Directorate"
   - "Ukrainian Sea Drones"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/02/useadroneattack.jpg"
 author: "Rick Spilman"
 description: "The Defense Blog reports that a Ukrainian drone attack on a Russian missile corvette Ivanovets appears to have caused a massive explosion in Kyiv’s largest strike against Russia’s navy since December. The Ukrainian Defense Intelligence Directorate (GUR) has released footage … Continue reading &rarr;"
 ---

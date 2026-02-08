@@ -12,6 +12,7 @@ tags:
   - "Seafarer's Ale"
   - "Seafarers UK"
   - "Smith and Turner plc"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/2610.jpg"
 author: "Rick Spilman"
 description: "For those in Britain, Fuller’s Brewery (Fuller, Smith and Turner plc), founded in 1864 and London’s only remaining traditional family brewer, is donating £5 to Seafarers UK for every barrel of their Seafarer’s Ale sold.  Seafarers UK is a national charity that supports … Continue reading &rarr;"
 ---

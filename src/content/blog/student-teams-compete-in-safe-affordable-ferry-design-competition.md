@@ -15,6 +15,7 @@ tags:
   - "Stuart Ballantyne"
   - "Sustainable Ports"
   - "World Ferry Safety Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/06/wsafeferries.jpg"
 author: "Rick Spilman"
 description: "The news stories are depressingly familiar.  A ferry, often in a developing nation, sinks along the coast or in a river and the lives of hundred are lost.  In regions where ferries are the most necessary, they are often the … Continue reading &rarr;"
 ---

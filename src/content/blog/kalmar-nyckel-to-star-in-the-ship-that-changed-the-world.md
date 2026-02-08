@@ -13,6 +13,7 @@ tags:
   - "documentary"
   - "ghost ship"
   - "Kalmar Nyckel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/kn1.jpg"
 author: "Rick Spilman"
 description: "The Kalmar Nyckel will be featured in an upcoming documentary, \"The Ship That Changed the World.\" Delaware’s sailing star – Kalmar Nyckel the ‘wow factor’ in new documentary F ilm director Malcolm Dixelius knew he had found his \"star\" when … Continue reading &rarr;"
 ---

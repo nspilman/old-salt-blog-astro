@@ -12,6 +12,7 @@ tags:
   - "full-rigged training ship"
   - "Ollie and Harry Ferguson"
   - "Playmobil toy pirate ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/adventurepeterhead.jpg"
 author: "Rick Spilman"
 description: "The extremely small ship Adventure sails on. Last year we posted about the Playmobil toy pirate ship, named Adventure, launched by brothers Ollie and Harry Ferguson, 9 and 6 years old, respectively, from the port of Peterhead, Aberdeenshire, Scotland. After adding … Continue reading &rarr;"
 ---

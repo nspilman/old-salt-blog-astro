@@ -10,6 +10,7 @@ tags:
   - "deep sea trawling"
   - "Fishlove 2013"
   - "Overfishing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/12/Gillian-Anderson-conger-006.jpg"
 author: "Rick Spilman"
 description: "Overfishing, particularity deep sea trawling, is doing grave damage to the ocean’s fish population. What can be done about it?  A group of celebrities – actors, musicians and artists – are taking off their clothes and posing with dead fish … Continue reading &rarr;"
 ---

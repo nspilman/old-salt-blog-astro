@@ -10,6 +10,7 @@ tags:
   - "Hedy Lamarr"
   - "radio-controlled"
   - "torpedo"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/hedylamarr.jpg"
 author: "Rick Spilman"
 description: "Hedy Lamarr was known as the \"most beautiful woman in the world.\" She was also a scientist, inventor, and mathematician."
 ---

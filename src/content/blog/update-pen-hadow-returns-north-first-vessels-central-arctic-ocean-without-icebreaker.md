@@ -11,6 +11,7 @@ tags:
   - "Arctic"
   - "North Pole"
   - "Pen Hadow"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/penarcticmission.jpg"
 author: "Rick Spilman"
 description: "An update on a previous post — in August, we posted about Pen Hadow’s latest expedition to the Arctic. Hadow is best known for being the only person to walk solo to the North Pole and back without being resupplied. … Continue reading &rarr;"
 ---

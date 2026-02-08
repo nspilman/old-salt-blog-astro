@@ -12,6 +12,7 @@ tags:
   - "Bonhomme Richard"
   - "court martial"
   - "fire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
 description: "Last August we posted \"Did an Arsonist Torch the USS Bonhomme Richard?\" The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
 ---

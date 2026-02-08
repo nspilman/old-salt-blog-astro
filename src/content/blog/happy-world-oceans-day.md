@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "World Oceans Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/square1resized.jpg"
 author: "Rick Spilman"
 description: "I am never sure what to make of the yearly \"World Oceans Day.\" On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be … Continue reading &rarr;"
 ---

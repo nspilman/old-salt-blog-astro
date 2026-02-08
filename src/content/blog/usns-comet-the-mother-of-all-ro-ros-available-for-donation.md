@@ -13,6 +13,7 @@ tags:
   - "Maritime Administration"
   - "oceangoing roll-on/roll-off ship"
   - "USNS Comet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/Comet_T-AK-269.jpg"
 author: "Rick Spilman"
 description: "Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The Maritime Administration (MARAD) is offering the USNS Comet  to a qualified public and non-profit organization for use as a memorial, a museum and/or in \"other non-commercial enterprises.\" Built at … Continue reading &rarr;"
 ---

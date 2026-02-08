@@ -15,6 +15,7 @@ tags:
   - "CMTV"
   - "Frederic Albert"
   - "wine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/bessie-ellen.jpg"
 author: "Rick Spilman"
 description: "Last month we posted about the Ketch Bessie-Ellen carrying French wine to the Festival of Valleys in Ballyvaughan, in Ireland’s County Claire.   The Bessie-Ellen will soon set sail on a new 21-day voyage, carrying 20,000 bottles of Château Smith Lafite and Château … Continue reading &rarr;"
 ---

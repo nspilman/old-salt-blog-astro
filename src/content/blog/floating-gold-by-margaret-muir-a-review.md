@@ -13,6 +13,7 @@ tags:
   - "Margaret Muir"
   - "new novel"
   - "Treaty of Amiens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/floatinggold.jpg"
 author: "Rick Spilman"
 description: "Margaret Muir’s new novel, Floating Gold, is a wonderful blend of classic Georgian naval fiction, a mystery/thriller and a grand treasure hunt.   A rousing tale, well told. It is due to be released in the United States on May … Continue reading &rarr;"
 ---

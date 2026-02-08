@@ -12,6 +12,7 @@ tags:
   - "Evacuation Day"
   - "Prison Ship Martyrs' Monument"
   - "Sir Guy Carleton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/317px-Prison_Ship_Martyrs_Monument_from_southwest.jpg"
 author: "Rick Spilman"
 description: "Happy Evacuation Day!  On this day in 1783, the last shot of the American revolution was fired by a gunner on a departing Royal Navy ship at jeering crowds gathered on the shore of Staten Island, at the mouth of New … Continue reading &rarr;"
 ---

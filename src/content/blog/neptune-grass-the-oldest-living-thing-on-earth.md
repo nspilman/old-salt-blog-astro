@@ -9,6 +9,7 @@ categories:
 tags:
   - "Neptune grass"
   - "posidonia oceanica"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/oldweedsiuyfj.jpg"
 author: "Rick Spilman"
 description: "What is the oldest living thing on the planet?  My first guess would have been the giant sequoia, which can grow to be several hundred feet tall and live to be several thousand years old.  It turns out that the … Continue reading &rarr;"
 ---

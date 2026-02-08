@@ -7,6 +7,7 @@ categories:
   - "Lore of the Sea"
   - "Reviews"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/piratelatitudes.jpg"
 author: "Rick Spilman"
 description: "Pirate Latitudes by Micheal Crichton, published a year after his death, is a romp. It is full of swashbuckling action and completely familiar characters. There is a bold captain, who is either a privateer or a pirate; several fair and … Continue reading &rarr;"
 ---

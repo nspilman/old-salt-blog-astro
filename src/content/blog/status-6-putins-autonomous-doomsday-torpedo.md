@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Status-6"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/03/status6.jpg"
 author: "Rick Spilman"
 description: "In a speech yesterday, Russian President Vladimir Putin threatened the United States with a new generation of nuclear weapons. Putin showed video animations of nuclear warheads raining down on Florida from a new design of an intercontinental cruise missile that he described … Continue reading &rarr;"
 ---

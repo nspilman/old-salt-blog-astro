@@ -9,6 +9,7 @@ tags:
   - "Fukushima"
   - "invasive species"
   - "tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/tsunamispecies1.jpg"
 author: "Rick Spilman"
 description: "Since the Japanese tsunami of 2011 and the meltdown of the reactors at Fukushima, the Internet has been full of scary accounts of the Pacific Ocean becoming radioactive as well as stories of radioactive salmon and other fish. One widely … Continue reading &rarr;"
 ---

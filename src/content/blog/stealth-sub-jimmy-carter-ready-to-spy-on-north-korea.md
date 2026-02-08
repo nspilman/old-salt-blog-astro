@@ -13,6 +13,7 @@ tags:
   - "Seawolf Class submarine Jimmy Carter"
   - "South Korean island"
   - "South Korean naval exercises"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/USSJimmyCarter.jpg"
 author: "Rick Spilman"
 description: "In August of this year, ex-President Jimmy Carter traveled to North Korea on a diplomatic mission to free a captive American.  Now the submarine which bears his name is reported to be nearing North Korea as well.   Following the shelling of … Continue reading &rarr;"
 ---

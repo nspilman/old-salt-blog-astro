@@ -12,6 +12,7 @@ tags:
   - "Baltic Shipwreck"
   - "World's Oldest Beer"
   - "World's Oldest Champagne"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/olartikel_621661b.jpg"
 author: "Rick Spilman"
 description: "In July, we posted about a Baltic shipwreck on which divers found 30 bottles of champagne thought to pre-date the French Revolution. (see Baltic Bubbly – ‘World’s oldest champagne’)   On subsequent dives, smaller bottles have been recovered which apparently contain … Continue reading &rarr;"
 ---

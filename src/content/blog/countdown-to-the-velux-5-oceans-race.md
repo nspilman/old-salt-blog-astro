@@ -14,6 +14,7 @@ tags:
   - "Sir Robert Knox-Johnson"
   - "VELUX 5 Oceans Race"
   - "Zbigniew ‘Gutek’ Gutkowski"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/velux5-1.jpg"
 author: "Rick Spilman"
 description: "The Velux 5 Oceans Single Handed Round the World Race will be starting in just over a week on October 17th.   The competitors will race from La Rochelle, France to Cape Town, South Africa; then on to Wellington, New Zealand; to … Continue reading &rarr;"
 ---

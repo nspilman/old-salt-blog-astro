@@ -12,6 +12,7 @@ tags:
   - "Abeking and Rasmussen"
   - "Concordia yawl"
   - "Waldo Howland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/banner_suva.jpg"
 author: "Rick Spilman"
 description: "The Concordia yawl is the most successful and beloved class of wooden offshore sailboats ever built."
 ---

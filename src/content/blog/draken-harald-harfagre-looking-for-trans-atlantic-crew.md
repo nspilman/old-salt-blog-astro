@@ -12,6 +12,7 @@ tags:
   - "Haugesund"
   - "Norway"
   - "Viking longship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/dragonharold.jpg"
 author: "Rick Spilman"
 description: "In May of 2016, Draken Harald Hårfagre will sail across the North Atlantic Ocean to the shores of North America. They are now taking applications for crew"
 ---

@@ -13,6 +13,7 @@ tags:
   - "new york harbor"
   - "replica French frigate"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/hermionestatue.jpg"
 author: "Rick Spilman"
 description: "This morning, the replica French frigate l'Hermione arrived in New York harbor and and docked at Pier 15 at the South Street Seaport on the East River."
 ---

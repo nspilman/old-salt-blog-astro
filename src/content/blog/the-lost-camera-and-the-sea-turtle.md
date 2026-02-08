@@ -11,6 +11,7 @@ tags:
   - "Key West"
   - "sea turtle"
   - "underwater camera"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/sea-turtle.jpg"
 author: "Rick Spilman"
 description: "I am not making this up. In the middle of May, a gentleman, whose internet nickname is Aquahound, found a camera in an underwater housing that had washed ashore in Key West.   There were still photos and video on the memory card dating back to November of … Continue reading &rarr;"
 ---

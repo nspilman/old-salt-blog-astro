@@ -9,6 +9,7 @@ tags:
   - "Cisco Brewery"
   - "Nantucket"
   - "Whale's Tale Pale Ale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/WHALETALE.jpg"
 author: "Rick Spilman"
 description: "One of the joys and pains of buying beer these days, is that there is are so many interesting craft beers to choose from. Some are marvelous, some are unremarkable, while a few are wildly over-hopped, which some American craft … Continue reading &rarr;"
 ---

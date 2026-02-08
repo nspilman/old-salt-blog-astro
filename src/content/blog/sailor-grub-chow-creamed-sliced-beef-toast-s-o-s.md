@@ -9,6 +9,7 @@ tags:
   - "Creamed Sliced Beef on Toast"
   - "navy"
   - "S.O.S."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/04/chow.jpg"
 author: "Rick Spilman"
 description: "Yesterday, we posted about a project to recreate sailor’s grub from the 17th century. Food for sailors has improved dramatically in the last three hundred years. Or has it?  The Naval Historical Foundation has a new blog titled CHOW which … Continue reading &rarr;"
 ---

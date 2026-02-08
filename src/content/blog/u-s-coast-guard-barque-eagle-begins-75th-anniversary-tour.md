@@ -13,6 +13,7 @@ tags:
   - "Horst Wessel"
   - "Philadelphia"
   - "US Coast Guard Barque Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/Eagle-1.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard Barque Eagle,  built  in Hamburg, Germany, in 1936, arrived in Philadelphia on Friday, on the first stop of her 75th anniversary tour. The tall ship Eagle has landed _ in Philadelphia … Continue reading &rarr;"
 ---

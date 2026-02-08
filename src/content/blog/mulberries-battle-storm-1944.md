@@ -12,6 +12,7 @@ tags:
   - "France"
   - "Mulberry"
   - "Normandy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/mulberrystorm.jpg"
 author: "Rick Spilman"
 description: "Seventy-two years ago today, during the early days of the Allied invasion of Europe, the sea would prove to be as formidable an enemy as the Germans. A storm, the worst in 80 years, came close to wiping out the … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "James Bartley"
   - "sperm whale"
   - "whaling ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/06/spermwhalejb.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Michael Packard, a Cape Cod diver, who found himself scooped up inside the mouth of a humpback whale. Most of the media reports used the term \"swallowed\" by the whale. If the word \"swallow\" is defined … Continue reading &rarr;"
 ---

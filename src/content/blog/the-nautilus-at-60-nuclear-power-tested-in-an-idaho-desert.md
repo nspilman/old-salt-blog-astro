@@ -12,6 +12,7 @@ tags:
   - "Commander E. E. Kintner"
   - "nuclear-powered submarine"
   - "USS Nautilus"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/450px-Nautilus_SSN_571_Groton_CT_2002_May_08.jpg"
 author: "Rick Spilman"
 description: "Just over 60 yeas ago, on September 30, 1954, USS Nautilus, the world’s first nuclear powered submarine was commissioned in New London, Connecticut. Following commissioning she continued trials and testing, until she put to sea for the first time  on January … Continue reading &rarr;"
 ---

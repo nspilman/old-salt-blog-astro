@@ -14,6 +14,7 @@ tags:
   - "sinks"
   - "Tall Ship Race"
   - "Wyvern"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/News006v31.jpg"
 author: "Rick Spilman"
 description: "The gaff ketch Wyvern sank this morning while sailing in the Baltic as a Class B vessel in the Tall Ships Races 2013 from Aarhus to Helsinki.  According to Sail Training International:  She began taking on water earlier today at the centre … Continue reading &rarr;"
 ---

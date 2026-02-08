@@ -13,6 +13,7 @@ tags:
   - "Cardiff"
   - "Stavros S Niarchos"
   - "Terra Nova"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/scottcardiff1.jpg"
 author: "Rick Spilman"
 description: "Yesterday was the 100th anniversary of Captain Scott‘s departure from Cardiff on his ill-fated expedition to reach the South Pole.    The tall ship Stavros S Niarchos sailed across Cardiff Bay, reenacting the departure of Scott’s ship, the Terra Nova.   The Royal Navy’s HMS … Continue reading &rarr;"
 ---

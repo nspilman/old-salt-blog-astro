@@ -12,6 +12,7 @@ tags:
   - "EPF"
   - "Expeditionary Fast Transport"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/epf1.jpg"
 author: "Rick Spilman"
 description: "The Littoral Combat Ships (LCS) are not the only small new Navy ships with serious operating deficiencies. Recently, the Department of Defense Office of the Inspector General released a report on the shortcomings of a new class of fast, shallow draft, transport ship, … Continue reading &rarr;"
 ---

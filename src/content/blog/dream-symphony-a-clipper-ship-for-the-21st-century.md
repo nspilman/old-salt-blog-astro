@@ -12,6 +12,7 @@ tags:
   - "Cutty Sark"
   - "Dream Symphony"
   - "Wyoming"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/dreamsymphony.jpg"
 author: "Rick Spilman"
 description: "When delivered sometime in 2016, Dream Symphony will be a clipper ship for the 21st century. Like the 19th century clippers, Dream Symphony will carry an impressive cloud of sail and like the clippers, it will be built of wood.  That alone is remarkable … Continue reading &rarr;"
 ---

@@ -6,6 +6,7 @@ excerpt: "Dead zones are areas where there is too little oxygen in the water to 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/09_MEXIC.jpg"
 author: "Rick Spilman"
 description: "Dead zones are areas where there is too little oxygen in the water to support fish and other aquatic life.  They are usually caused by fertilizers and/or other organic materials causing algae blooms which deplete the oxygen in the water. Dead zones in the … Continue reading &rarr;"
 ---

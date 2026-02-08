@@ -10,6 +10,7 @@ tags:
   - "Fire Island"
   - "Le Papillon"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/206177.jpg"
 author: "Rick Spilman"
 description: "An update to a story that we have been following. The 50′ schooner Le Papillon came ashore on a beach  on Fire Island, northeast of New York harbor, at the beginning of April.   Just as it looked like the schooner would be … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Oceanic Group Pte Ltd"
   - "QE2"
   - "Queen Elizabeth 2"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/QueenElizabeth2Dubai.jpg"
 author: "Rick Spilman"
 description: "Four years ago, the luxury liner Queen Elizabeth 2 was sold to financial interests in Dubai who planned on converting her to a luxury hotel. Unfortunately, the arrival of the ship coincided with a credit crunch and near financial melt-down in the emirate.  Last July, … Continue reading &rarr;"
 ---

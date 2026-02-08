@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "hydrothermal worm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/HYDROTHERMAL-WORM-ELECTRON-.jpg"
 author: "Rick Spilman"
 description: "This may be the tiniest sea monster, a hydrothermal worm, a deep sea creature, almost as small as bacterium found near hydrothermal vents in the ocean. Here is the \"worm from hell\" viewed close up with an electron-microscope. Click on the image … Continue reading &rarr;"
 ---

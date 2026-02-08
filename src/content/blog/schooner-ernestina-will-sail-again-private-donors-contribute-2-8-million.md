@@ -14,6 +14,7 @@ tags:
   - "Gerry Lenfest"
   - "Schooner Ernestina"
   - "Schooner Ernestina-Morrissey Association"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/ernestina1.jpg"
 author: "Rick Spilman"
 description: "Great news, for a change.  The historic schooner Ernestina, ex-Effie M. Morrissey  will sail again. Private donors, Bob Hildreth and Gerry Lenfest, have committed to contribute $2.8 million to the restoration of the historic schooner.   The new donations more than match the State … Continue reading &rarr;"
 ---

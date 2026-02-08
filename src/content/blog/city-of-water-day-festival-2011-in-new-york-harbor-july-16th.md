@@ -10,6 +10,7 @@ tags:
   - "City of Water Day Festival 2011"
   - "Metropolitan Waterfront Alliance"
   - "new york harbor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Web-Images-small.jpg"
 author: "Rick Spilman"
 description: "Anyone who needs to be reminded that New York City is indeed a city of water should find their way down to the harbor’s edge on Saturday. The Metropolitan Waterfront Alliance is hosting the 2011 the City of Water Day Festival … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
   - "Ships"
 tags:
   - "Preussen"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/preussenfullsail.jpg"
 author: "Rick Spilman"
 description: "We recently posted about the five-masted full-rigged cruise ship Royal Clipper, a modern sailing ship designed as an homage to the great five-masted windjammer Preussen. We are very pleased to have a guest post about the mighty windjammer by Robin Denny:  With the Peking now … Continue reading &rarr;"
 ---

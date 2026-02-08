@@ -12,6 +12,7 @@ tags:
   - "Navy Yard Association of Mare Island"
   - "Olympia"
   - "San Francisco Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/olympia3.jpg"
 author: "Rick Spilman"
 description: "A group of former workers at the Mare Island Naval Shipyard in the San Francisco Bay Area has launched a campaign to bring the USS Olympia to San Pablo Bay.  The Olympia, Commodore George Dewey’s flagship at the Battle of … Continue reading &rarr;"
 ---

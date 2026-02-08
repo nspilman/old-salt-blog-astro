@@ -16,6 +16,7 @@ tags:
   - "Paul Singer"
   - "Tema"
   - "US billionaire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Q2ARALibertad.jpg"
 author: "Rick Spilman"
 description: "The Argentine Navy training ship Libertad and her crew of over 200, docked in port of Tema, Ghana, were seized by a court order obtained by NML Capital Ltd., a subsidiary of Elliot Capital Management, a hedge fund run by the US billionaire Paul Singer. … Continue reading &rarr;"
 ---

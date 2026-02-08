@@ -12,6 +12,7 @@ tags:
   - "SeaWorld"
   - "Sumar"
   - "Tilicum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/corky23.jpg"
 author: "Rick Spilman"
 description: "A twelve year old male orca whale, named Sumar by SeaWorld, died suddenly at their San Diego facility on Tuesday.   Sadly its death was not untypical.  Male orcas in the wild have an average life expectancy of 30 years.   Many live … Continue reading &rarr;"
 ---

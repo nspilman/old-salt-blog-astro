@@ -10,6 +10,7 @@ tags:
   - "Brazil"
   - "flagship"
   - "HMS OCEAN"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/hmsocean1.jpg"
 author: "Rick Spilman"
 description: "HMS Ocean, amphibious assault ship and flagship of the Royal Navy has reportedly been sold to Brazil for £84.3million. HMS Ocean is the last British warship capable of launching aircraft.  The Ocean carries 18 helicopters. Britain has lacked the capacity to launch and land … Continue reading &rarr;"
 ---

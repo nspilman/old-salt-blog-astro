@@ -14,6 +14,7 @@ tags:
   - "Tim Nolan"
   - "TOTE Maritime"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/liferingelfaro.jpg"
 author: "Rick Spilman"
 description: "Update: From USCG Update 4 — Life jackets, life rings, containers and an oil sheen have been located by Coast Guard aircrews.  The objects have not been confirmed to be from the El Faro at this time. Yesterday, the US Coast Guard … Continue reading &rarr;"
 ---

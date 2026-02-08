@@ -12,6 +12,7 @@ tags:
   - "US Navy"
   - "USNS Bejanmin Isherwood"
   - "USNS Henry Eckford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/11_big.jpg"
 author: "Rick Spilman"
 description: "Twenty five years ago, the US Navy contracted to build two fleet oilers, the USNS Bejanmin Isherwood and the USNS Henry Eckford.   The Navy spent at least $300 million dollars on their construction. Due to shipyard defaults and various … Continue reading &rarr;"
 ---

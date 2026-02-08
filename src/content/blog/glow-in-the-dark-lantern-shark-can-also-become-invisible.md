@@ -10,6 +10,7 @@ tags:
   - "bioluminescence"
   - "Julien Clae"
   - "splendid lantern shark"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/r-INVISIBLE-SHARK-large570-.jpg"
 author: "Rick Spilman"
 description: "Lantern sharks, a type of small dogfish sharks, are well known for their bioluminescence, indeed that is how they were given their name.  Researchers have recently discovered that the rare splendid lantern shark can adjust its coloration and lighting so as to … Continue reading &rarr;"
 ---

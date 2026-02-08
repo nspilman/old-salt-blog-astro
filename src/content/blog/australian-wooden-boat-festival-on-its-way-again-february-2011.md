@@ -11,6 +11,7 @@ tags:
   - "Hobart"
   - "Tacoma Tall Ships Festival"
   - "Tasmania"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/nsn_awbf3.jpg"
 author: "Rick Spilman"
 description: "Bad news and good news.  The Tacoma Tall Ships Organization is no more and the hoped for Tacoma Tall Ships Festival in 2011 will not be happening, a victim of the recession.   On the other side of the globe, … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Indian submarine"
   - "INS Sindhurakshak"
   - "Mumbai"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/INS_Sindhurakshak_S63.jpg"
 author: "Rick Spilman"
 description: "A massive explosion, followed by a fire, has partially sunk the Indian Navy’s diesel electric submarine INS Sindhurakshak early this morning at the Mumbai naval dockyard. Eighteen officers and sailors were reported to be aboard at the time of the explosion … Continue reading &rarr;"
 ---

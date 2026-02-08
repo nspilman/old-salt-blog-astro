@@ -10,6 +10,7 @@ categories:
 tags:
   - "Galveston Historical Foundation"
   - "Tall Ship Elissa"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/elissa-150x150.jpg"
 author: "Rick Spilman"
 description: "Last week we posted about America’s 10 Most Endangered Historic Ships of 2011, a list compiled by Joe Follansbee at the Fyddeye Guides.  This sort of list is interesting and useful in that it starts conversations about ships which require attention … Continue reading &rarr;"
 ---

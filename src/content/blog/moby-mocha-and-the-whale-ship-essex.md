@@ -14,6 +14,7 @@ tags:
   - "Mocha Dick"
   - "sperm whale"
   - "whale ship Essex"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/moby-dick-cover_.jpg"
 author: "Rick Spilman"
 description: "People are often surprised to hear that Herman Melville’s masterpiece, Moby Dick, was inspired, at least in part, by the sinking of the whale ship Essex by a sperm whale.  By all accounts the sinking of the Essex  haunted  Melville  and  unquestionably supplied him with … Continue reading &rarr;"
 ---

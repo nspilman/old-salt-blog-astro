@@ -13,6 +13,7 @@ tags:
   - "Gulf Stream"
   - "Houston Express"
   - "Louis Jordan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/angel1.jpg"
 author: "Rick Spilman"
 description: "Louis Jordan was found adrift on his sailboat after 66 days off Cape Hatteras. Much of the story, as told by many in the media, is completely wrong."
 ---

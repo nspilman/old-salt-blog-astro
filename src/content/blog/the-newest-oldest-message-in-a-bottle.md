@@ -12,6 +12,7 @@ tags:
   - "George Parker Bidder"
   - "Marine Biological Association of the U.K."
   - "Oldest Message in a Bottle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/oldestbottlepostcard.jpg"
 author: "Rick Spilman"
 description: "In 2014, we posted about a German fisherman who found a 101 year old message in a bottle. It was then the oldest message ever found in a bottle. Now, a bottle containing a message that was tossed overboard between … Continue reading &rarr;"
 ---

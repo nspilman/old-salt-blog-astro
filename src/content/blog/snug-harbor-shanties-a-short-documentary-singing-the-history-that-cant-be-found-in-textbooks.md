@@ -14,6 +14,7 @@ tags:
   - "Snug Harbor Shanties"
   - "The Shantyman"
   - "William Main Doerflinger Memorial Shanty Sessions"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/snugharborshanty.jpg"
 author: "Rick Spilman"
 description: "My novel, The Shantyman, begins with a fictionalized Bill Doerflinger recording the tale told by a retired ship’s captain of a shantyman who saved his ship and its crew. The old captain lives close to the sailor’s retirement home, Sailor’s Snug … Continue reading &rarr;"
 ---

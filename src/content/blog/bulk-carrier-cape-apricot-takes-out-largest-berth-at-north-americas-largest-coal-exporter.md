@@ -14,6 +14,7 @@ tags:
   - "North America’s largest coal exporting port"
   - "Vancouver"
   - "Westshore Terminals"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/apricot1.jpg"
 author: "Rick Spilman"
 description: "At around 1 AM on Friday morning, the Cape Apricot, a cape-sized bulk carrier, chartered to K Line, smashed through a coal conveyor serving the largest of two berths at Westshore Terminals in Vancouver, Canada.  An undetermined amount of coal … Continue reading &rarr;"
 ---

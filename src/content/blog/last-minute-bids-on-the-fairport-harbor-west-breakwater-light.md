@@ -10,6 +10,7 @@ tags:
   - "Fairport Harbor West Breakwater Light"
   - "Grand River-west breakwater lighthouse"
   - "Lake Erie"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Fairport_Harbor_Lighthouse.jpg"
 author: "Rick Spilman"
 description: "In September 2009, the United States General Services Administration put the Fairport Harbor West Breakwater Light, on Lake Erie, up for public auction via an online auction. The minimum bid is $10,000 with incremental bids of $5,000 required.  The bidding was … Continue reading &rarr;"
 ---

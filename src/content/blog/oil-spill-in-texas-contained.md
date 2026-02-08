@@ -12,6 +12,7 @@ tags:
   - "Port Arthur"
   - "Sabine Neches Waterway"
   - "texas"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/eagleotome.jpg"
 author: "Rick Spilman"
 description: "An Aframax tanker, the Eagle Otome,  collided with an oil barge in the Sabine Neches Waterway at Port Arthur, Texas on Saturday.  Initial reports suggested 12, 000 barrels of crude oil were unaccounted for, though local officials are now estimating that approximately 1,000 barrels … Continue reading &rarr;"
 ---

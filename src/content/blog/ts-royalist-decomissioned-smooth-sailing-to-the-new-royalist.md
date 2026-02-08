@@ -11,6 +11,7 @@ tags:
   - "Astilleros Gondan S.A"
   - "TS Royalist"
   - "UK Marine Society &amp; Sea Cadets"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/11/royalist.jpg"
 author: "Rick Spilman"
 description: "The 43 year old TS Royalist owned by the UK Marine Society & Sea Cadets is being decommissioned. A new ship also named Royalist will be delivered in March."
 ---

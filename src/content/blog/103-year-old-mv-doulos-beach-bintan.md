@@ -13,6 +13,7 @@ tags:
   - "Doulos Phos The Hotel"
   - "Indonesia"
   - "MV Doulos"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/11/mvdoulos.jpg"
 author: "Rick Spilman"
 description: "MV Doulos once held the title of the oldest operating passenger liner. Now 103 years old, the historic ship may be close to beginning a new life as a shoreside hotel in the resort town of Bintan, Indonesia.  When the refurbished ship … Continue reading &rarr;"
 ---

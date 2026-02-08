@@ -13,6 +13,7 @@ tags:
   - "Lamu islands"
   - "National Museums of Kenya"
   - "Zheng He"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/zheng-he-boat.jpg"
 author: "Rick Spilman"
 description: "Zheng He’s fleet of ships has been the subject of mystery and myth for centuries.   Now a joint  Chinese-Kenyan expedition to excavate where one of his fleet is thought to have been sunk in the 15th century may finally shed … Continue reading &rarr;"
 ---

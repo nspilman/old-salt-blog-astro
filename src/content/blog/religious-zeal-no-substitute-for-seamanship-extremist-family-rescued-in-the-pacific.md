@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Sean and Hannah Gastonguay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Gastonguay.jpg"
 author: "Rick Spilman"
 description: "A family of religious extremists was rescued from their damaged sailboat after becoming lost for many weeks in the Pacific and has been flown back to the United States. In May, Sean and Hannah Gastonguay, with Sean’s father, Mike, and … Continue reading &rarr;"
 ---

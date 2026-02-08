@@ -13,6 +13,7 @@ tags:
   - "Dalian"
   - "Vale S.A"
   - "Valemax VLOCs"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/vale_brazil1_new_medium.jpg"
 author: "Rick Spilman"
 description: "It would have been almost funny, if billions of dollars were not at stake.  As we posted last June, the Vale Brasil, first of the Valemax class of Very Large Ore Carriers (VLOC) sailed on its maiden voyage with 391,000 tons of iron … Continue reading &rarr;"
 ---

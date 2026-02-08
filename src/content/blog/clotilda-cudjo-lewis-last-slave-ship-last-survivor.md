@@ -13,6 +13,7 @@ tags:
   - "Cudjo Lewis"
   - "Mobile"
   - "slave ship. slave trade"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/01/clotilda.jpg"
 author: "Rick Spilman"
 description: "On Tuesday, a reporter in Alabama announced that he believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreckage was exposed following a winter \"bomb cyclone\" … Continue reading &rarr;"
 ---

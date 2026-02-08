@@ -13,6 +13,7 @@ tags:
   - "Russia"
   - "Ukraine"
   - "Vikings"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/native-americans-vikings-ic.jpg"
 author: "Rick Spilman"
 description: "Stepping away for a moment from the unfolding current events in the Ukraine and Russia,  it might be worthwhile to look at the history of the region, which was shaped by the arrival of merchant adventurers rowing long ships.  As … Continue reading &rarr;"
 ---

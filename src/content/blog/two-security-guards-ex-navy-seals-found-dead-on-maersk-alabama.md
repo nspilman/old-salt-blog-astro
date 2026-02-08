@@ -12,6 +12,7 @@ tags:
   - "Port Victoria"
   - "security guards"
   - "Seychelles"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/02/rtxr0ep-1-522x293.jpg"
 author: "Rick Spilman"
 description: "It is being reported that two American security guards, both former Navy SEALs, have been found dead on the Maersk Alabama while in Port Victoria, in the Seychelles. The men have been identified as Jeffrey Reynolds and Mark Kennedy, both … Continue reading &rarr;"
 ---

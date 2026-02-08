@@ -13,6 +13,7 @@ tags:
   - "hudson river"
   - "New York City"
   - "san diego"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Final_4x6_TugRace_Pcard_Pag.jpg"
 author: "Rick Spilman"
 description: "Great activities on the water, on both coasts, this Labor Day weekend. In San Diego, the annual Festival of Sail began yesterday with a Parade of Sail and continues through Monday with lots of great activities. as described by San Diego … Continue reading &rarr;"
 ---

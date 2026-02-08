@@ -11,6 +11,7 @@ tags:
   - "Half Moon"
   - "Henry Hudson"
   - "Hudson River Maritime Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/clevandmedium.jpg"
 author: "Rick Spilman"
 description: "The Half Moon, a replica of Henry Hudson’s ship, will be open for dockside tours at the Hudson River Maritime Museum through June 16th. Replica of Henry Hudson’s ship open for tours until June 16 The ship, a replica of the … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ categories:
 tags:
   - "Hinckley Company"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/ohpmast.jpg"
 author: "Rick Spilman"
 description: "The main mast on the SSV Oliver Hazard Perry was stepped in a dockside ceremony on Wednesday at The Hinckley Company in Portsmouth, R.I."
 ---

@@ -13,6 +13,7 @@ tags:
   - "Ore/Oiler"
   - "seafarers stranded"
   - "TMT group"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/awhaleskimmer.jpg"
 author: "Rick Spilman"
 description: "Unfortunately, the story is not that unusual. A ship owner in financial trouble and sailors find themselves abandoned on a ship, far from home, with no wages, and running out of food and fuel.  This is what has happened to … Continue reading &rarr;"
 ---

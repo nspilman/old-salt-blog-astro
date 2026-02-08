@@ -11,6 +11,7 @@ tags:
   - "collision"
   - "Nikita"
   - "Nirit Pride"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/NIRINT-PRIDE.jpg"
 author: "Rick Spilman"
 description: "Some Monday mornings feel like I was in a head on collision with a containership.  Here is a photo of the bow of the  Nirit Pride which did indeed collide earlier this month with the MSC vessel Nikita in shipping lanes near … Continue reading &rarr;"
 ---

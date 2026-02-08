@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
   - "Rigging"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/starclipperfrance.jpg"
 author: "Rick Spilman"
 description: "Last week, the keel of the world’s largest square-rigged passenger ship was laid in the Brodosplit Shipyard in Split for Star Clippers Cruises."
 ---

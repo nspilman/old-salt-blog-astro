@@ -12,6 +12,7 @@ tags:
   - "Eleni Panagopoulou"
   - "Plakias"
   - "Thomas F. Strasser"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/16archeo01-articleLarge.jpg"
 author: "Rick Spilman"
 description: "Here is an intriguing article suggesting that we humans have been taking to the sea for far longer than had been previously recorded. Recently stone tools have been found on the island of Crete which date back at least 130,000 … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Fannie E Wolston"
   - "Louis Jordan"
   - "lumber schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/fanniewolcottdrift.jpg"
 author: "Rick Spilman"
 description: "Why wasn't Jordan's boat carried north by the Gulf Stream? Looking at the path of other derelict vessels might give us an idea why she drifted as she did."
 ---

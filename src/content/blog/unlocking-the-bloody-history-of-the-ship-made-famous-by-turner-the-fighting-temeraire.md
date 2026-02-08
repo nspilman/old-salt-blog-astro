@@ -15,6 +15,7 @@ tags:
   - "Sam Willis"
   - "The Fighting Temeraire Tugged to her Last Berth to be Broken Up"
   - "Trafalgar Square"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/fightingtemeraire.jpg"
 author: "Rick Spilman"
 description: "Sam Willis has written what appears to be a fascinating book – Fighting Temeraire. J.M.W. Turner’s painting, The Fighting Temeraire Tugged to her Last Berth to be Broken Up,  hangs in the National Gallery in Trafalgar Square and was recently … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Hudson River Park"
   - "Lilac"
   - "Pier 25"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/wodecker.jpg"
 author: "Rick Spilman"
 description: "The bulkheads of the historic buoy tender Lilac will be graced by the maritime paintings of Christina Sun and Frank Hanavan from Tuesday, August 7 through August 31.  The Lilac is berthed at Hudson River Park’s Pier 25 at West Street and N. Moore Street in lower … Continue reading &rarr;"
 ---

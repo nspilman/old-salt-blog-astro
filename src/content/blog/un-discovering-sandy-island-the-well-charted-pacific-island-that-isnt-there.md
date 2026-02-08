@@ -12,6 +12,7 @@ tags:
   - "New Caledonia"
   - "RV Southern Surveyor"
   - "Sandy Island"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/sandyisland.jpg"
 author: "Rick Spilman"
 description: "Scientists from Australia have just returned from a voyage of un-discovery.  They have proven that Sandy Island, which appears on many nautical charts and on Google Earth and Google Maps, does no exist. The island which is depicted on Google Earth as a dark oval, … Continue reading &rarr;"
 ---

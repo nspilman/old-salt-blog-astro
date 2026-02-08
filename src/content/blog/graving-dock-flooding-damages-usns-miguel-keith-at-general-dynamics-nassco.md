@@ -11,6 +11,7 @@ tags:
   - "General Dynamics NASSCO"
   - "Graving Dock"
   - "USNS Miguel Keith"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/nasscoflood.jpg"
 author: "Rick Spilman"
 description: "Oops. Last Wednesday, the graving dock at the General Dynamics NASSCO yard in San Diego, CA flooded after the dock gate at least partially collapsed. The ship under construction in the graving dock, the USNS Miguel Keith, floated off the docking … Continue reading &rarr;"
 ---

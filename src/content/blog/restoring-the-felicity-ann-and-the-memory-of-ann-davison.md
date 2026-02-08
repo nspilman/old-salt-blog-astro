@@ -6,6 +6,7 @@ excerpt: "The Northwest School of Wooden Boat Building in Port Hadlock, WA, is 
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/felicityann.jpg"
 author: "Rick Spilman"
 description: "The Northwest School of Wooden Boat Building in Port Hadlock, WA, is restoring a forgotten piece of sailing history –  the Felicity Ann, a 23′ wooden boat, launched in 1949.  In 1952-1953, Ann Davison, at 39, sailed  the Felicity Ann single-handed across the Atlantic, … Continue reading &rarr;"
 ---

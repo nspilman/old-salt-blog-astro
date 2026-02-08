@@ -12,6 +12,7 @@ tags:
   - "Lettie G. Howard"
   - "schooner"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/06/lettiereturns1.jpg"
 author: "Rick Spilman"
 description: "Yesterday, while maneuvering our 18′ catboat through the traffic in the Morris Canal on the West bank of the Hudson off Lower Manhattan, we had the pleasure of crossing paths with the schooner Lettie G. Howard. Lettie is an 1893 Fredonia-model fishing schooner owned and … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "piracy"
   - "World Maritime Day"
   - "Year of the Seafarer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/yotsf.jpg"
 author: "Rick Spilman"
 description: "Every year the International Maritime Organization (IMO) observes World Maritime Day during the last week of September. The IMO headquarters is celebrating today, Thursday, September 24th, though in Buenos Aires, Argentina and Vancouver, Canada, they will be celebrating the event on … Continue reading &rarr;"
 ---

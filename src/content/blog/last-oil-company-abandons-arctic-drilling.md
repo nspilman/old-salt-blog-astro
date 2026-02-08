@@ -12,6 +12,7 @@ tags:
   - "Chukchi Sea"
   - "Repsol"
   - "Shell"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/kulluk1.jpg"
 author: "Rick Spilman"
 description: "Last week, Repsol, the last of a group oil companies which had invested billions of dollars in Arctic drilling rights in Alaska’s Chukchi Sea, abandoned its leases and sailed away. The Spanish drilling company gave up 55 leases and plans … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "National Security Agency"
   - "Susan Ahn Cuddy"
   - "the first female Navy gunnery instructor"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/05/ahncuddy-156x200.jpg"
 author: "Rick Spilman"
 description: "March is Women’s History Month, so it seems appropriate to remember the life and accomplishments of Susan Ahn Cuddy, a Korean American who would serve as the first female Asian-American officer in the US Navy and would also become the … Continue reading &rarr;"
 ---

@@ -17,6 +17,7 @@ tags:
   - "Pride of Baltimore II"
   - "Sigsbee."
   - "Sultana Downrigging"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/sultanadownrigging2.jpg"
 author: "Rick Spilman"
 description: "The Sultana Downrigging Weekend and Tall Ship and Wooden Boat Festival has grown to be one of the largest annual Tall Ship gatherings on the East Coast. Now in its 17th year, it is held on the Chester River in Chestertown, … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Coast Guard"
   - "Rockaway Inlet"
   - "scallop fishing vessel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/fishingboatrockaway.jpg"
 author: "Rick Spilman"
 description: "Those of us around New York harbor have been watching a dramatic rescue unfold this morning. Around 2 AM, the 76-foot scallop fishing vessel Carolina Queen III, with 7 aboard, ran aground off Rockaway beach near the East Rockaway Inlet, … Continue reading &rarr;"
 ---

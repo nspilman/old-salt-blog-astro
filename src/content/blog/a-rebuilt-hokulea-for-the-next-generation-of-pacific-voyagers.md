@@ -13,6 +13,7 @@ tags:
   - "Polynesian voyagers"
   - "Rudy Choy"
   - "waʻa kaulua"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/03.08.12_sm_afloat.jpg"
 author: "Rick Spilman"
 description: "After 18 months in dry dock and 15,500 volunteer hours of labor, a wholly rebuilt Hōkūle‘a, a Hawaiian voyaging canoe, was launched last week at Sand Island, Oahu, 37 years to the day after she was first launched.  Following sea trials and outfitting, she … Continue reading &rarr;"
 ---

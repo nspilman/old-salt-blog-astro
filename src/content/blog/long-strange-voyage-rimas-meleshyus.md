@@ -11,6 +11,7 @@ tags:
   - "Mimsy"
   - "Rimas"
   - "Russian immigrant"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/rimas1.jpg"
 author: "Rick Spilman"
 description: "His name is Rimas Meleshyus. He recently showed up adrift on his 30-foot sailboat, Mimsy, off Saipan, where he was towed into port. He had last been reported almost 3,000 nautical miles away on July 31, off Fiji.  Over the last several … Continue reading &rarr;"
 ---

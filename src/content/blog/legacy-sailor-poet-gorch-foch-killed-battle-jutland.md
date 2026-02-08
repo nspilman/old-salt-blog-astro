@@ -14,6 +14,7 @@ tags:
   - "Johann Wilhelm Kinau"
   - "sail training ship"
   - "sailor poet"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/gorchfochwriter.jpg"
 author: "Rick Spilman"
 description: "Johann Wilhelm Kinau was one of the more than 8,000 sailors who died in the Battle of Jutland just over 100 years ago. Kinau was 36 when he was killed while serving as a lookout on the German light cruiser … Continue reading &rarr;"
 ---

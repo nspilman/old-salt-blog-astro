@@ -11,6 +11,7 @@ tags:
   - "aircraft carrier"
   - "HMS Invincible"
   - "Leyal Ship Recycling"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/50688499_001451280-1.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted about the sale by tender, through an internet site, of the aircraft carrier HMS Invincible. The highest bidder was a Turkish scrapper. HMS Invincible sold to Turkish ship recyclers Leyal Ship Recycling, which is based near Izmir, … Continue reading &rarr;"
 ---

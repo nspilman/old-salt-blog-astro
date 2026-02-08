@@ -12,6 +12,7 @@ tags:
   - "shipwreck"
   - "sunstone"
   - "Viking"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/longboatsail.jpg"
 author: "Rick Spilman"
 description: "A team of archaeologists think that they may have found the first Viking sunstone. Two years ago we posted about Viking sunstones, the legendary, and indeed considered by many to be mythical, devices which allowed Viking navigators to locate the position of … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Portuguese Man o' War"
   - "siphonophore"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/pmanowar.jpg"
 author: "Rick Spilman"
 description: "I have a definite love-hate relationship with Portuguese Man o’ War. They are beautiful, delicate, exotic and extremely painful. I still remember being stung twice as a child over a half century ago. What I only came to understand recently … Continue reading &rarr;"
 ---

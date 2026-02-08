@@ -14,6 +14,7 @@ tags:
   - "Maine"
   - "steel schooner"
   - "USCG"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/04/uscgrescueLR.jpg"
 author: "Rick Spilman"
 description: "On Monday, the US Coast Guard rescued nine crew members from the schooner, Liana's Ransom, off the coast of Maine."
 ---

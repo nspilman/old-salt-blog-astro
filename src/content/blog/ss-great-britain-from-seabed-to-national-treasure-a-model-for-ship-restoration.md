@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/greatbritain.jpg"
 author: "Rick Spilman"
 description: "Forty years ago, on July 5th, 100,000 people lined the banks of the River Avon to witness the return of the SS Great Britain, or what was left of her.   After spending 37 years on the seabed in the Falklands, she was a rusting … Continue reading &rarr;"
 ---

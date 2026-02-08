@@ -16,6 +16,7 @@ tags:
   - "Red Bay"
   - "San Juan"
   - "San Salvador"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/sanjuan.jpg"
 author: "Rick Spilman"
 description: "In the construction of replica sailing ships, the 18th century is reasonably well represented. The 17th also has not been left out.   Replicas of Columbus’ ships have ensured that 15th century replicas still sail.  Recently two replica ships from the 16th … Continue reading &rarr;"
 ---

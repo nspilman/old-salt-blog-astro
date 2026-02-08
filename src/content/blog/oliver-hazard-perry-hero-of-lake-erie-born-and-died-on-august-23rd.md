@@ -11,6 +11,7 @@ tags:
   - "\"Hero of Lake Erie\""
   - "Oliver Hazard Perry"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/Captain_Oliver_Hazard_Perry.jpg"
 author: "Rick Spilman"
 description: "Oliver Hazard Perry was born near Newport, Rhode Island on August 23,1785. He died of yellow fever on his 34th birthday in 1819.  Perry went sea as a midshipman at the age of 13.  He was given his first command, … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Chilean Navy"
   - "Jarle Andhøy"
   - "Nilaya"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/andhoy.jpg"
 author: "Rick Spilman"
 description: "Norwegian rogue adventurer Jarle Andhøy, 34, along with four other crew members on the 54-foot yacht, Nilaya have been arrested by the Chilean Navy.  Andhøy is returning from his second Antarctic voyage, both of which he has undertook without permission, permits or insurance. His first voyage ended … Continue reading &rarr;"
 ---

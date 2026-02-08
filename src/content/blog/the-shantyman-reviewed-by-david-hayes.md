@@ -12,6 +12,7 @@ tags:
   - "David Hayes"
   - "Historic Naval Fiction"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg"
 author: "Rick Spilman"
 description: "David Hayes recently reviewed The Shantyman on his Historic Naval Fiction blog."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Disney pirate"
   - "International Talk Like a Pirate Day"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/An-armed-Somali-pirate.-006.jpg"
 author: "Rick Spilman"
 description: "Today is \"International Talk Like A Pirate Day.\"   Many use it as an excuse to dress up in bad costumes and shout \"Aaargh, Matie\" and \"Shiver me Timbers,\" in some sort of odd homage to Johnny Depp and the Disney … Continue reading &rarr;"
 ---

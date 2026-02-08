@@ -11,6 +11,7 @@ categories:
 tags:
   - "Hell Around the Horn"
   - "windjammers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/mastBIsmall.jpg"
 author: "Rick Spilman"
 description: "My novel Hell around the Horn is set on a British windjammer on a voyage around Cape Horn in the particularly brutal winter of 1905.  I wanted to write the novel, in part, because the windjammers have been largely forgotten … Continue reading &rarr;"
 ---

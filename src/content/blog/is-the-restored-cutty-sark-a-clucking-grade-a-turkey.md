@@ -11,6 +11,7 @@ tags:
   - "Andrew Gilligan"
   - "Cutty Sark"
   - "Greenwich"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/cutty-sark-greenhouse.jpg"
 author: "Rick Spilman"
 description: "After a long commercial career, the 1869 composite clipper ship Cutty Sark became a museum ship in a drydock in Greenwich in 1954.  Then in May 21, 2007, a fire broke out that burned a significant portion of the ship.  After a 5 … Continue reading &rarr;"
 ---

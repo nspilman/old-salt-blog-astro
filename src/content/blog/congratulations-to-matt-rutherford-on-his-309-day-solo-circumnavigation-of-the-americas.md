@@ -10,6 +10,7 @@ tags:
   - "Chesapeake Bay"
   - "Circumnavigation of the Americas"
   - "Matt Rutherford"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Matt2.jpg"
 author: "Rick Spilman"
 description: "After a difficult last few days, Matt Rutherford sailed into Chesapeake Bay this morning at 10:42 AM, completing the first ever solo circumnavigation of the Americas, a voyage of 309 days and over 25,000 miles.  Matt’s plan is still to make his first landfall this Saturday the 21st … Continue reading &rarr;"
 ---

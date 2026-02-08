@@ -13,6 +13,7 @@ tags:
   - "Maryland"
   - "Theodore Roosevelt"
   - "United States Naval Academy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/jpgtomb1.jpg"
 author: "Rick Spilman"
 description: "On April 24, 1906, John Paul Jones was buried for the second time.  His first burial, on July 20, 1792, in a graveyard outside the walls of Paris, was attended by a servant and few loyal friends and soldiers. Paul Jones’ longtime friend Gouverneur Morris, American … Continue reading &rarr;"
 ---

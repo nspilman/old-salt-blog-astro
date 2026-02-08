@@ -16,6 +16,7 @@ tags:
   - "Louis O. Keil"
   - "SS Columbia"
   - "SS Columbia Project"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/columbia.jpg"
 author: "Rick Spilman"
 description: "The passenger steamer SS Columbia is heading toward New York! The goal is to restore the historic steamer and to put her in service on the Hudson River."
 ---

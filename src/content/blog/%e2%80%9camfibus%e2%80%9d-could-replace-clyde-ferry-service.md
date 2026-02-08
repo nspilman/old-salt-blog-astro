@@ -9,6 +9,7 @@ tags:
   - "amfibus"
   - "Clyde ferry"
   - "World War II DUKW amphibious trucks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/amfibus.jpg"
 author: "Rick Spilman"
 description: "This September, we posted about the popular and nearly ubiquitous \"duck tours\" using refurbished World War II DUKW amphibious trucks, or vehicles inspired by them, to take tourists on tours in cities and resorts around the world. (See From DUKWs … Continue reading &rarr;"
 ---

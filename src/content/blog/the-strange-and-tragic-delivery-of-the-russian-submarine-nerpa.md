@@ -14,6 +14,7 @@ tags:
   - "lease"
   - "Nerpa"
   - "Russian nuclear submarine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/160275822.jpg"
 author: "Rick Spilman"
 description: "Next month, the Russian nuclear submarine, Nerpa, will be delivered to the Indian Navy, which has leased the submarine for a reported $900 million from the Russians for ten years with an option to buy.  The delivery of the new nuclear sub … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Hurricane Carrie"
   - "Pamir"
   - "windjammers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/pamir2.jpg"
 author: "Rick Spilman"
 description: "When did the great age of sail finally end?  (Some would argue that it is not yet over.)  If one was to pick a single date when it finally came to a close,  I would choose today, fifty six years … Continue reading &rarr;"
 ---

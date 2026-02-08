@@ -13,6 +13,7 @@ tags:
   - "new york"
   - "Statue of Liberty"
   - "transport ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/googlesol.jpg"
 author: "Rick Spilman"
 description: "The Statue of Liberty arrived in New York harbor on the French navy transport ship Insere as 350 individual pieces, packaged in more than 200 crates."
 ---

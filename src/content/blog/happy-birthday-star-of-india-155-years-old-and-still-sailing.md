@@ -10,6 +10,7 @@ categories:
 tags:
   - "Maritime Museum of San Diego"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/11/soisail2018.jpg"
 author: "Rick Spilman"
 description: "This weekend, the Maritime Museum of San Diego is celebrating the 155th birthday of the Star of India by taking her for a sail. The museums other ships Californian, San Salvador, and America are sailing along with with the Star of India.  It has been five years … Continue reading &rarr;"
 ---

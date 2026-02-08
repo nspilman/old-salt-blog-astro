@@ -12,6 +12,7 @@ tags:
   - "1895 Lumber Schooner"
   - "C.A.Thayer"
   - "San Francisco Maritime"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/02/cathayer.jpg"
 author: "Rick Spilman"
 description: "Last week, the 1895 lumber schooner C.A. Thayer, the last surviving West Coast lumber schooner, returned to her berth at San Francisco Maritime‘s Hyde Street Pier, after having three masts and a bowsprit installed by the Bay Ship and Yacht … Continue reading &rarr;"
 ---

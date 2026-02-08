@@ -10,6 +10,7 @@ categories:
 tags:
   - "SS United States"
   - "SS United States Conservancy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/ssus.jpg"
 author: "Rick Spilman"
 description: "The SS United States Conservancy Board has opted to defer any additional determination about the ship's immediate future until later this month."
 ---

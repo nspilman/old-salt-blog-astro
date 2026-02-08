@@ -8,6 +8,7 @@ categories:
 tags:
   - "Andy Irons"
   - "three time world champion surfer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/Andy-Irons-004.jpg"
 author: "Rick Spilman"
 description: "Andy Irons, three time world champion surfer, was found dead in his hotel room in Dallas on Tuesday. He had been scheduled to compete in the Rip Curl Pro Search in Puerto Rico but became ill, reportedly with a bout … Continue reading &rarr;"
 ---

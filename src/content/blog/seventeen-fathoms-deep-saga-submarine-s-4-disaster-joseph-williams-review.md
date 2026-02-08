@@ -11,6 +11,7 @@ categories:
 tags:
   - "Seventeen Fathoms Deep"
   - "submarine S-4"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/seventeenfathoms.jpg"
 author: "Rick Spilman"
 description: "On the afternoon of December 17th, 1927, the US Navy submarine S-4 was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer Pauling, sending the submarine to the bottom. Joseph William’s latest book, \"Seventeen Fathoms … Continue reading &rarr;"
 ---

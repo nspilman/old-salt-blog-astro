@@ -10,6 +10,7 @@ tags:
   - "photographer"
   - "tallships"
   - "Thad Koza"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/koza.jpg"
 author: "Rick Spilman"
 description: "We posted about his new Tall Ships calendar about a month ago.  One of his calendars is hanging on my wall waiting for the new year to begin.   Sadly, we learned last night that Thad Koza has died of … Continue reading &rarr;"
 ---

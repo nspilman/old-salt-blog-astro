@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Alan Villiers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/villiers16.jpg"
 author: "Rick Spilman"
 description: "Alan Villiers was the great chronicler of the last days of sail. In 1918, at the age of 15, he left home in Melborne, Australia to go to sea. His first love would always be the full rigged sailing ships … Continue reading &rarr;"
 ---

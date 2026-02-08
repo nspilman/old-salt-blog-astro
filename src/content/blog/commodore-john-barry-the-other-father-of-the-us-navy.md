@@ -11,6 +11,7 @@ tags:
   - "Continental Navy"
   - "father of the US Navy"
   - "John Barry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/John_Barry_by_Gilbert_Stuart.jpg"
 author: "Rick Spilman"
 description: "Happy birthday to Commodore John Barry, born on this day in 1745, considered by many to be the \"father of the United States Navy.\""
 ---

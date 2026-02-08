@@ -10,6 +10,7 @@ tags:
   - "Brad Van Liew"
   - "Giovanni Soldini"
   - "Maserati Sailing Team"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/maserati.jpg"
 author: "Rick Spilman"
 description: "Giovanni Soldini and the Maserati Sailing Team have announced that they expect to set sail from the North Cove Marina in New York City between 10:00 p.m. this evening and 3:00 a.m. tomorrow morning in their attempt to break the … Continue reading &rarr;"
 ---

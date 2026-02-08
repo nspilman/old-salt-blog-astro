@@ -16,6 +16,7 @@ tags:
   - "Ohio"
   - "South China Sea"
   - "USS Cod"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/USS-COD-CEREMONY.jpg"
 author: "Rick Spilman"
 description: "In July 1945, the Dutch submarine O-19 ran hard aground on Ladd Reef in the South China Sea deep in enemy waters.  The Gato class submarine USS Cod was sent to rescue the Dutch sub. After  two days of attempting to … Continue reading &rarr;"
 ---

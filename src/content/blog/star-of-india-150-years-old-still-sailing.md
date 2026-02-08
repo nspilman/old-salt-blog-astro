@@ -12,6 +12,7 @@ tags:
   - "Euterpe"
   - "Maritime Museum of San Diego"
   - "Star of India"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/starpointloma-190.jpg"
 author: "Rick Spilman"
 description: "On November 14th, 1863, on the Isle of Man in Great Britain, the shipyard of Gibson, McDonald & Arnold, Ramsey launched the 1,200 tonne full rigged iron ship, Euterpe, for the firm of Wakefield Nash & Co., Liverpool. The ship … Continue reading &rarr;"
 ---

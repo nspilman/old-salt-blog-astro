@@ -11,6 +11,7 @@ tags:
   - "Oliver Hazard Perry"
   - "sailing school ship"
   - "Summer Camp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/ohpstern.jpg"
 author: "Rick Spilman"
 description: "The OHPRI organization has announced summer camp programs on the new sailing school ship, Oliver Hazard Perry"
 ---

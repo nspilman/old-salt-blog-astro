@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/mtigrisstern1.jpg"
 author: "Rick Spilman"
 description: "Does Iran have any conceivable case for seizing the Maersk Tigris? The short answer is \"no.\" The slightly longer answer might be \"absolutely not.\""
 ---

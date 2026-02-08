@@ -12,6 +12,7 @@ tags:
   - "eConowind"
   - "TMA Logistics"
   - "ventfoil"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/12/econowindbarge.jpg"
 author: "Rick Spilman"
 description: "A year ago we posted about the innovative ideas and products developed by the Dutch firm, eConowind. They have developed a Ventfoil, a fixed airfoil-shaped spar with an internal fan that uses boundary layer suction to generate thrust.  Ventfoils can … Continue reading &rarr;"
 ---

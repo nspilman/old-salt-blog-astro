@@ -13,6 +13,7 @@ tags:
   - "Lt-Cdr Edward Courtney Boyle"
   - "Lt-Cdr Geoffrey Saxon White"
   - "world war I"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/e14.jpg"
 author: "Rick Spilman"
 description: "On April 27, 1915, at the height of the the World War I Gallipoli campaign, Lt-Cdr Edward Courtney Boyle piloted the submarine HMS E14 beneath the minefields, guns and search lights of the the Narrows, the heavily defended entrance to the Dardanelles, the … Continue reading &rarr;"
 ---

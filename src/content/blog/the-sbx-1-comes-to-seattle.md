@@ -13,6 +13,7 @@ tags:
   - "Sea Based X-Band Radar 1"
   - "Seattle"
   - "Vigor Shipyard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/xradar1.jpg"
 author: "Rick Spilman"
 description: "The SBX-1 , the Sea Based X-Band Radar 1, looks like something out of science fiction.    It recently arrived at Vigor Shipyard on Seattle’s Harbor Island for three months of maintenance and upgrading. The SBX-1  is a huge white dome … Continue reading &rarr;"
 ---

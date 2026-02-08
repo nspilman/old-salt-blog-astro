@@ -12,6 +12,7 @@ tags:
   - "life jacket"
   - "pfd"
   - "swan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/swan-taking-off.jpg"
 author: "Rick Spilman"
 description: "The first headlines read, \"Swan Kills Kayaker,\" and \"Aggressive swan kills kayaker.\"   Later versions were more moderate – \"Swan attack contributed to man’s drowning death\" and \"Kayaker drowns after coming too close to swan\" with \"Chicago Kayaker Killed After Swan … Continue reading &rarr;"
 ---

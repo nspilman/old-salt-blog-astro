@@ -14,6 +14,7 @@ tags:
   - "Thomas Louis Corogin"
   - "Westsail 32"
   - "White Kingdom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/whitekingdom.jpg"
 author: "Rick Spilman"
 description: "The good news is that the Chilean Navy, assisted by the Japanese merchant ship, White Kingdom, have rescued Thomas Louis Corogin, an 84-year-old American sailor, after his seventh failed attempt to round Cape Horn, single handed.  Corogin is now safely ashore after the mast on his Westsail … Continue reading &rarr;"
 ---

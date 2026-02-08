@@ -12,6 +12,7 @@ tags:
   - "Medal of Honor"
   - "Pearl Harbor"
   - "world war II"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/obit-FINN-articleInline.jpg"
 author: "Rick Spilman"
 description: "John Finn, Medal of Honor Winner, Dies at 100 John W. Finn, the last survivor of the 15 Navy men who received the Medal of Honor for heroism during the Japanese attack on Pearl Harbor, died Thursday at a nursing … Continue reading &rarr;"
 ---

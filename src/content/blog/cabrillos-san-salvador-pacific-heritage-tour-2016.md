@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "San Salvador"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/09/sansalvador1.jpg"
 author: "Rick Spilman"
 description: "On September 28, 1542, Juan Rodriguez Cabrillo sailed into what is now called San Diego Bay on his flagship, San Salvador.  San Salvador was the first recorded European vessel to sail along California, and survey its coastline. Now, 472 years later, … Continue reading &rarr;"
 ---

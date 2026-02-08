@@ -14,6 +14,7 @@ tags:
   - "RV Atlantis"
   - "Space Shuttle Atlantis"
   - "Woods Hole Oceanographic Institution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/RVAtlantis.jpg"
 author: "Rick Spilman"
 description: "A trivia question – what was the Space Shuttle Atlantis named after? A.  The Greek legend of the sunken continent. B.  The TV show – Stargate Atlantis. C.  Woods Hole’s first research vessel. I will admit that I surprised to learn that it was C.  The … Continue reading &rarr;"
 ---

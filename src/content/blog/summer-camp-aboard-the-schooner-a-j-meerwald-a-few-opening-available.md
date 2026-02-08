@@ -12,6 +12,7 @@ tags:
   - "Bayshore Discovery Project"
   - "schooner"
   - "Summer Camp"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/meerwald-1.jpg"
 author: "Rick Spilman"
 description: "I wished that I could have sailed aboard a classic schooner when I was a kid.  For those in the New York/New Jersey Area, The Bayshore Discovery Project is sponsoring two five-day summer sailing camps aboard the classic oyster schooner … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Downrigging Weekend"
   - "Schooner Sultana"
   - "Tall Ship and Wooden Boat Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/familydaypic-1.jpg"
 author: "Rick Spilman"
 description: "Usually downrigging a schooner involves lots of coiling, carrying, hauling, the breaking down of shackles and turnbuckles, and depending on the rig, attempting to free up the top mast so that it can be lowered gently to the deck, rather than dropping it like an unguided … Continue reading &rarr;"
 ---

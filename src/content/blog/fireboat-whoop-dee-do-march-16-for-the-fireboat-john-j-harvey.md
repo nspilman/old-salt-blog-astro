@@ -11,6 +11,7 @@ tags:
   - "fireboat"
   - "fundraiser"
   - "John J. Harvey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/fireboatwhopdeedo.jpg"
 author: "Rick Spilman"
 description: "A fundraiser for the historic fireboat John J Harvey on Monday, Mar. 16th, described as \"not your Granny's gala!"
 ---

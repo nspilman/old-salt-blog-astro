@@ -9,6 +9,7 @@ categories:
 tags:
   - "'Godzilla' lionfish"
   - "snakehead fish"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/snakeheadlion.jpg"
 author: "Rick Spilman"
 description: "Two recent articles about alien invasive species: The New York Times reports on efforts to stop the smuggling of the Chinese snakehead fish. The fish is considered to be  a delicacy in New York’s Chinatown, but is a voracious predator that can wipe … Continue reading &rarr;"
 ---

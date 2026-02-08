@@ -16,6 +16,7 @@ tags:
   - "HMS SURPRISE"
   - "Jack Aubrey"
   - "Patrick O'Brian"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/surprise.jpg"
 author: "Rick Spilman"
 description: "In his Aubrey/Maturin series, Patrick O’Brian wrote of HMS Surprise, a small British frigate, originally captured from the French. Over several books, the Surprise became almost as beloved a character, in her own way, as Jack Aubrey and Doctor Maturin … Continue reading &rarr;"
 ---

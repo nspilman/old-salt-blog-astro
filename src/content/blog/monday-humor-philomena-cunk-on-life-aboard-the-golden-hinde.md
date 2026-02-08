@@ -10,6 +10,7 @@ tags:
   - "Drake"
   - "Golden Hinde"
   - "Philomena Cunk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/philomenadrake.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about an out-of-control bulk carrier which, after losing its steering gear, destroyed a mansion on the banks of the Bosphorus. By my count, roughly half of the media reports described the ship as a tanker, because apparently, many … Continue reading &rarr;"
 ---

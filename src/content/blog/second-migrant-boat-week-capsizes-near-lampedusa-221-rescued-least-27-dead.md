@@ -10,6 +10,7 @@ tags:
   - "Lampedusa"
   - "migrants"
   - "Sicily"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/map-lampedusa-italy.jpg"
 author: "Rick Spilman"
 description: "For the second time in roughly a week, a smuggler’s boat overloaded with migrants from Africa has capsized in the Mediterranean off Sicily, near the island of Lampedusa.  At least 27 died, but 221 were rescued from the water.  The … Continue reading &rarr;"
 ---

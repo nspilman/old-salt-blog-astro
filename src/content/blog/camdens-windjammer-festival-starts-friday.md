@@ -10,6 +10,7 @@ categories:
 tags:
   - "Camden's Windjammer Festival"
   - "Maine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/camdenfest.jpg"
 author: "Rick Spilman"
 description: "Camden, Maine’s Windjammer Festival starts  Friday, September 3rd, and runs through Sunday.   Camden’s harbor always seemed to me to be a windjammer festival on virtually any summer day so this gathering  of the Maine Windjammer fleet and the dockside Maritime Heritage Fair should be quite an … Continue reading &rarr;"
 ---

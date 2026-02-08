@@ -12,6 +12,7 @@ tags:
   - "overloading"
   - "Seohae"
   - "Sewol"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/04/Ferry_Sewol_1.jpg"
 author: "Rick Spilman"
 description: "The death toll in the sinking of the Korean passenger ro-ro ferry Sewol  has risen to 171 with 130 still missing.  The ferry capsized and sank in the Yellow Sea last Wednesday, April 16th, on a voyage from Incheon to … Continue reading &rarr;"
 ---

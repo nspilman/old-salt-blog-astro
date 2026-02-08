@@ -15,6 +15,7 @@ tags:
   - "Lenox Project"
   - "london"
   - "River Thames"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/King-Charles-attends-the-la.jpg"
 author: "Rick Spilman"
 description: "A very interesting, if ambitious, new project.  While we often focus on the Georgian Navy, the Royal Navy during the Restoration is fascinating it own right.  The Lenox Project hopes to build a replica of the Lenox, a 17th century warship in the restored dockyard at … Continue reading &rarr;"
 ---

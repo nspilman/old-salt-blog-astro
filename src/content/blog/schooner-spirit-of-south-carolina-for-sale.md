@@ -11,6 +11,7 @@ tags:
   - "schooner"
   - "South Carolina Maritime Foundation"
   - "Spirit of South Carolina."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/157212153-O_001.jpg"
 author: "Rick Spilman"
 description: "Sad news from the Palmetto State. The South Carolina Maritime Foundation plans to try to sell the schooner Spirit of South Carolina to pay off its mounting debts.  The foundation is reported to be being sued by a bank and a … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Hermione"
   - "South Street Seaport Museum"
   - "USCG Cutter Eagle"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/03/Hermionedock1.jpg"
 author: "Rick Spilman"
 description: "A shortage of dock space, high costs and bureaucracy can make New York a tough town for historic ships."
 ---

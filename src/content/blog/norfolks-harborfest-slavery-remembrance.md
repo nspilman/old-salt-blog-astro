@@ -11,6 +11,7 @@ tags:
   - "International Day of Remembrance"
   - "Sankofa Projects"
   - "slavery"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/harborfest.jpg"
 author: "Rick Spilman"
 description: "Norfolk’s forty-second annual Harborfest is now underway. It is described as the \"largest, longest-running, free maritime festival in the nation.\" This year there are seven traditional sailing vessels from Virginia and Maryland participating, including the Godspeed of Jamestown, Alliance of Yorktown, … Continue reading &rarr;"
 ---

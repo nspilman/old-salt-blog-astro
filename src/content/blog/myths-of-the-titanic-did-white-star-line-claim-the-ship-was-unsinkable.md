@@ -12,6 +12,7 @@ tags:
   - "Titanic"
   - "unsinkable"
   - "White Star Line"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/titanicsinking.jpg"
 author: "Rick Spilman"
 description: "The BBC recently published an article titled \"Five Titanic myths spread by films.\"  The first alleged myth is that the White Star Line never claimed that the Titanic was \"unsinkable.\"   The article asserts: \" The White Star Line never made … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "greenhouse"
   - "Greenwich"
   - "restoration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/csbowgreenhouse-125x70.jpg"
 author: "Rick Spilman"
 description: "After a multi-year, £50 million restoration, interrupted by a near catastrophic fire, the composite clipper ship, Cutty Sark, reopened last April.  Not everyone was impressed. Andrew Gilligan, the Telegraph‘s London Editor, called the restoration \"a clucking, Grade A, … turkey.\"  In September, the British architectural trade journal, Building Design, awarded … Continue reading &rarr;"
 ---

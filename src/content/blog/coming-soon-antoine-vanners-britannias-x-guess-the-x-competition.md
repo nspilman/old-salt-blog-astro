@@ -12,6 +12,7 @@ tags:
   - "Britannia’s Reach"
   - "Britannia’s Wolf"
   - "Old Salt Press"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/vanner1.jpg"
 author: "Rick Spilman"
 description: "In December, Antione Vanner's \"Britannia’s X,\" the third of his Dawlish chronicles will be published by Old Salt Press."
 ---

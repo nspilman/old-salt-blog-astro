@@ -11,6 +11,7 @@ tags:
   - "United New York Sandy Hook Pilots"
   - "Virtual Gala"
   - "Working Harbor Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/10/whg15.jpg"
 author: "Rick Spilman"
 description: "Like so many other organizations, the Working Harbor Committee has had to rethink its annual gala, which raises funds for the organization and honors leaders in the Working Waterfront. This year the gala will be virtual on Tuesday, October 20, … Continue reading &rarr;"
 ---

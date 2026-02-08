@@ -11,6 +11,7 @@ tags:
   - "hydro-power"
   - "Spain's Canary Islands"
   - "wind power"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/05/windmillhierro.jpg"
 author: "Rick Spilman"
 description: "El Hierro is the easternmost of Spain’s Canary Islands, 750 miles from the Spanish mainland.  The island itself has no energy resources beyond wind and water.  There is now a plan to make the island wholly energy independent by linking wind and hydro-power … Continue reading &rarr;"
 ---

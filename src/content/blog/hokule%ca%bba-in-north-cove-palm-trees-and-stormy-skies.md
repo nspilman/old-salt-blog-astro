@@ -12,6 +12,7 @@ tags:
   - "Hōkūleʻa"
   - "hudson river"
   - "North Cove"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/hokstern.jpg"
 author: "Rick Spilman"
 description: "The Hawaiian voyaging canoe Hōkūleʻa was officially welcomed to New York yesterday morning in ceremonies in North Cove on the Hudson River. The voyaging canoe and her crew, in the third year of an epic voyage around the world, were greeted … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Mediterranean"
   - "migrants"
   - "overloaded boats"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/08/migrantcrisis.jpg"
 author: "Rick Spilman"
 description: "Wars in Afghanistan, Iraq and Syria have been forcing upwards of 3,000 migrants a day from their homes. These desperate refugees often seek new lives in Western Europe, traveling by both land and sea. The most dangerous route is across the Mediterranean from … Continue reading &rarr;"
 ---

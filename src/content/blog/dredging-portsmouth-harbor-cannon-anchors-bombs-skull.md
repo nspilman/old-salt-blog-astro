@@ -12,6 +12,7 @@ tags:
   - "Dredging"
   - "Portsmouth"
   - "UK"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/anchorskull.jpg"
 author: "Rick Spilman"
 description: "When dredging a harbor with as long and rich a history as UK’s Portsmouth, there is literally no telling what you may find.  The harbor is now being dredged to deepen and widen a four-mile channel to allow the the navy’s … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "mountains of Pennsylvania"
   - "Ship Hotel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/04/ship-hotel.jpg"
 author: "Rick Spilman"
 description: "A new book details the history of a hotel built to look like an ocean liner perched high in the mountains of Pennsylvania. Ship Hotel has sailed, but a jaunty new book honors its history and heyday The story of … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Captain Mary's Story Hour"
   - "Cutter Lilac"
   - "fireboat John J. Harvey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/05/lilacstern1.jpg"
 author: "Rick Spilman"
 description: "If you are anywhere near the lower Hudson River this Sunday, August 9th, be sure to stop by the Cutter Lilac for Captain Mary’s Story Hour, a family event for all ages, from 10:30 AM to 1:15 PM. Mary Habstritt, … Continue reading &rarr;"
 ---

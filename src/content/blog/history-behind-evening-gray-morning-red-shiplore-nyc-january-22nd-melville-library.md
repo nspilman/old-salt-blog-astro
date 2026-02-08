@@ -12,6 +12,7 @@ tags:
   - "Melville Gallery"
   - "Shiplore"
   - "South Street Seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/EGMRcoverthumb.jpg"
 author: "Rick Spilman"
 description: "If you are in the area next Monday night, January 22nd at 7:30 PM, be sure to stop by the South Street Seaport Museum’s Melville Gallery at 213 Water Street, in lower Manhattan.  I will be presenting \"From John Hancock’s … Continue reading &rarr;"
 ---

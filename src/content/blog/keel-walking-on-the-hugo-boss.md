@@ -5,6 +5,7 @@ slug: "keel-walking-on-the-hugo-boss"
 excerpt: "The photos look Photoshopped. A man wearing a dark suit stands on the exposed articulated keel of the Open 60 racing sail boat, Hugo Boss, as she sails along heeled over on her starboard gunnel.  The photo and several similar showed up in ads for Hugo Boss … Continue reading &rarr;"
 categories:
   - "Current"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/715619-keel-walk.jpg"
 author: "Rick Spilman"
 description: "The photos look Photoshopped. A man wearing a dark suit stands on the exposed articulated keel of the Open 60 racing sail boat, Hugo Boss, as she sails along heeled over on her starboard gunnel.  The photo and several similar showed up in ads for Hugo Boss … Continue reading &rarr;"
 ---

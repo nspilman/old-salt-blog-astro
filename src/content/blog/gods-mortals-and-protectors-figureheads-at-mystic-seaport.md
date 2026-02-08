@@ -10,6 +10,7 @@ categories:
 tags:
   - "Figureheads"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/05/figureheadcrop.jpg"
 author: "Rick Spilman"
 description: "There is a magic to ship’s figureheads.  In Conrad’s Mirror of the Sea who wrote about the ships and figureheads that he saw on London’s docks:   It was a noble gathering of the fairest and the swiftest, each bearing … Continue reading &rarr;"
 ---

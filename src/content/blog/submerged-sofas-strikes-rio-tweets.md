@@ -5,6 +5,7 @@ slug: "submerged-sofas-strikes-rio-tweets"
 excerpt: "A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/08/riosofa.jpg"
 author: "Rick Spilman"
 description: "A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if … Continue reading &rarr;"
 ---

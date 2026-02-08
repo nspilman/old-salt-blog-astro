@@ -11,6 +11,7 @@ tags:
   - "sailboat"
   - "Sanctuary"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/amver-150x150.jpg"
 author: "Rick Spilman"
 description: "On Saturday morning, the 39′ sailboat, Sanctuary, in heavy weather 256 miles northeast of Bermuda, was hit by several breaking waves, lost power and began slowly taking on water. The crew of five, four men and one woman, called for help.   The US Coast Guard … Continue reading &rarr;"
 ---

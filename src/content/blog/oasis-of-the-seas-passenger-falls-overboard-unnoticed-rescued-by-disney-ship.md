@@ -13,6 +13,7 @@ tags:
   - "Oasis of the Seas"
   - "overboard"
   - "Royal Caribbean"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/Oasis_of_the_Seas2.jpg"
 author: "Rick Spilman"
 description: "A passenger on the Royal Caribbean cruise ship Oasis of the Seas fell or was washed overboard on Thursday. Fortunately, he was rescued by the Disney Magic."
 ---

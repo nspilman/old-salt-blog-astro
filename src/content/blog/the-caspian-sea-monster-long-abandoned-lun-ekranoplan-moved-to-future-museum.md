@@ -11,6 +11,7 @@ tags:
   - "Ekranoplan"
   - "Ground Effect Vehicle"
   - "Lun"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2020/11/caspianseamonster.jpg"
 author: "Rick Spilman"
 description: "It is often referred to as the Caspian Sea Monster.  To my eye, it looks more like a spacecraft from a sci-fi movie than a creature of cryptozoology.  It is, in fact, a huge vessel, part plane, and part ship, … Continue reading &rarr;"
 ---

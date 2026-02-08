@@ -11,6 +11,7 @@ tags:
   - "GBX▪Gowanus Bay Terminal"
   - "Mary A.Whalen"
   - "PortSide New York"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/7-hull+bits.jpg"
 author: "Rick Spilman"
 description: "Really great news about the tanker, Mary A. Whalen. (Negotiations are not finalized so perhaps we should say \"potentially great news\" so as not to jinx anything.)  For the last six years, the historic tanker and PortSide New York, the non-profit educational organization based on the ship, have been … Continue reading &rarr;"
 ---

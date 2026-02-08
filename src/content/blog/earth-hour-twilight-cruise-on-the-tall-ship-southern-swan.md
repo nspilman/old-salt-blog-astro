@@ -12,6 +12,7 @@ tags:
   - "Sydney"
   - "Tall Ship Southern Swan"
   - "Twilight Cruise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/southern-swan.jpg"
 author: "Rick Spilman"
 description: "Earth Hour is \"a global event organized by WWF (World Wide Fund for Nature, also known as World Wildlife Fund) and is held on the last Saturday of March annually, asking households and businesses to turn off their non-essential lights … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Save Our Seafarers"
   - "Toshiba Tall Ships Festival"
   - "Treasure Coast Pirate Fest"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/09/piratefest1.jpg"
 author: "Rick Spilman"
 description: "The good folks in Eastport, Maine have seen fit to once again hold their annual Eastport Pirate Festival this weekend, featuring lots of fun activities including a lobster boat race. (Who knew pirates had lobster boats?)   The Treasure Coast … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "pirates"
   - "S/V Quest"
   - "Scott Adam"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/wGennaker_small1.jpg"
 author: "Rick Spilman"
 description: "The US Central Command announced this morning that four Americans aboard the hijacked sailing vessel Quest were shot and killed by pirates at approximately 1 a.m. EST today.  The victims were Jean and Scott Adam, the owners of the yacht,  and Phyllis … Continue reading &rarr;"
 ---

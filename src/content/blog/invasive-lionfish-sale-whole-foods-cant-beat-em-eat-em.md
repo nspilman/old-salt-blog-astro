@@ -9,6 +9,7 @@ tags:
   - "Florida"
   - "lionfish"
   - "Whole Foods"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/05/lionfish.jpg"
 author: "Rick Spilman"
 description: "The upscale supermarket, Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida. They offering lionfish for sale. It is sort of a \"if you can’t beat’em, eat’em\" approach to managing … Continue reading &rarr;"
 ---

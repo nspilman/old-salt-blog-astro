@@ -13,6 +13,7 @@ tags:
   - "British Isles"
   - "Nautical Blog Hop"
   - "windjammers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/09/britishislessmall1.jpg"
 author: "Rick Spilman"
 description: "What is history? What is fiction?  These seem to be straightforward questions. The conventional answer would be that history is what happened and fiction are the stories that we make up.  In writing my recent novel I was faced with … Continue reading &rarr;"
 ---

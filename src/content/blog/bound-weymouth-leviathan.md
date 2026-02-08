@@ -8,6 +8,7 @@ categories:
   - "Seastories"
 tags:
   - "Weymouth Leviathan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/weymouthlev.jpg"
 author: "Rick Spilman"
 description: "I am on my way to the Weymouth Leviathan, a maritime literary festival on the south-west coast of England. I am looking forward to seeing old friends, as well as meeting many fine writers who I know only through the … Continue reading &rarr;"
 ---

@@ -17,6 +17,7 @@ tags:
   - "Major General in the S.C. Militia"
   - "Robert Smalls"
   - "South Carolina"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/robertsmalls.jpg"
 author: "Rick Spilman"
 description: "One hundred and fifty years ago today, Robert Smalls, a 23 year old mulatto slave, who served as the pilot of the Confederate armed transport, CSS Planter,  led eight fellow slaves in an audacious flight to freedom.  They seized the CSS Planter, steamed … Continue reading &rarr;"
 ---

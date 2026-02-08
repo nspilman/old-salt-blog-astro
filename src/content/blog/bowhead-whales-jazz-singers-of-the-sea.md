@@ -12,6 +12,7 @@ tags:
   - "jazz"
   - "Kate Stafford"
   - "University of Washington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/bowheadwhale.jpg"
 author: "Rick Spilman"
 description: "Last month, researchers from the University of Washington released a study performed over four winters which recorded 184 bowhead whales singing beneath the ice in Greenland. What they found was remarkable. Kate Stafford and other UW oceanographers discovered that the … Continue reading &rarr;"
 ---

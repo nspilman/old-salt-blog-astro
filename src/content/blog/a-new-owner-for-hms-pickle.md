@@ -13,6 +13,7 @@ tags:
   - "Malcolm Nicholson"
   - "Spider T"
   - "Topsail Schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/HMSPicklereplica2.jpg"
 author: "Rick Spilman"
 description: "The owner of HMS Pickle is Malcolm Nicholson who also owns the 1926 iron hull Humber sloop Spider T."
 ---

@@ -11,6 +11,7 @@ tags:
   - "National Maritime Day"
   - "Savannah"
   - "steamship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/05/sssavannah.jpg"
 author: "Rick Spilman"
 description: "In 1933, the US Congress created National Maritime Day to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the day that the auxiliary packet ship Savannah … Continue reading &rarr;"
 ---

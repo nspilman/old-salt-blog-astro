@@ -10,6 +10,7 @@ tags:
   - "climate change"
   - "coral reefs"
   - "sea level rise"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/07/dead-coral-1.jpg"
 author: "Rick Spilman"
 description: "Earlier this month, we posted how the North Carolina legislature is considering legislating limits to sea level projections, even though recent studies suggest that sea levels are rising faster on the US East Coast than they are in the rest of the world. That hasn’t … Continue reading &rarr;"
 ---

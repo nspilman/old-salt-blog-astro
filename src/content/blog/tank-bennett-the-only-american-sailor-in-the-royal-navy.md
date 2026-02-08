@@ -10,6 +10,7 @@ tags:
   - "Royal Navy"
   - "Tank Bennett"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/tankB.jpg"
 author: "Rick Spilman"
 description: "Due to love and an unexpected family history, Tank Bennett is said to be the only American sailor in the Royal Navy."
 ---

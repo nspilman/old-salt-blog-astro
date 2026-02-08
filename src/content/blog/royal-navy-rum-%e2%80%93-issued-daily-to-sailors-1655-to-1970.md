@@ -9,6 +9,7 @@ categories:
 tags:
   - "Royal Navy"
   - "rum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/Upspirits.jpg"
 author: "Rick Spilman"
 description: "Thanks to David Hayes for passing this along.  There is something slightly frightening about sailors on a nuclear submarine receiving daily rum rations. Royal Navy Rum – issued daily to sailors 1655 to 1970 Alcohol and the Royal Navy often seem … Continue reading &rarr;"
 ---

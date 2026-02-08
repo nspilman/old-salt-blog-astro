@@ -12,6 +12,7 @@ tags:
   - "crew"
   - "Lloyd's List Global Awards"
   - "Seafarer of the Year"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/Costa-Concordia-007.jpg"
 author: "Rick Spilman"
 description: "The press release says that the Lloyd’s List Global Awards are \"a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success … Continue reading &rarr;"
 ---

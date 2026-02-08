@@ -14,6 +14,7 @@ tags:
   - "missionary/hospital steamer"
   - "Thomas Miller"
   - "traveling clinic"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/stamp.jpg"
 author: "Rick Spilman"
 description: "In June we posted about the missionary/hospital steamer, the Chauncy Maples.   Launched in 1901, she is the oldest ship in Africa.   She is being restored to return to duty as a traveling clinic on the 560 kilometer long Lake … Continue reading &rarr;"
 ---

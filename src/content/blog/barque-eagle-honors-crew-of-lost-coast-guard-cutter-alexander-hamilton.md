@@ -11,6 +11,7 @@ categories:
 tags:
   - "Barque Eagle"
   - "Coast Guard Cutter Alexander Hamilton"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/AlexanderHamilton1.jpg"
 author: "Rick Spilman"
 description: "The US  Coast Guard Barque Eagle stopped on her way home from her cruise of European ports to honor the memory of the crew of the Coast Guard Cutter Alexander Hamilton, sunk by German submarine U-132 off Iceland in 1942.  On Friday, the … Continue reading &rarr;"
 ---

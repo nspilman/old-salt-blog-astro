@@ -10,6 +10,7 @@ categories:
 tags:
   - "Coast Guard"
   - "HMS Bounty"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/bountychiefmate1.jpg"
 author: "Rick Spilman"
 description: "The US Coast Guard has wrapped up eight days of hearings on the sinking of the replica of the HMS Bounty on October 29th of last year.  Two died in the sinking, crew member Claudine Christian and Captain Robin Waldridge … Continue reading &rarr;"
 ---

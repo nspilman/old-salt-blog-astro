@@ -12,6 +12,7 @@ tags:
   - "photophores"
   - "Samoan Passage"
   - "South Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2024/05/danasquid.jpg"
 author: "Rick Spilman"
 description: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant \"headlights\" at the moment it goes in for the … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "New Zealand"
   - "Oil spill"
   - "Tauranga"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/renaspill.jpg"
 author: "Rick Spilman"
 description: "Depending on what one reads, the oil spill associated with the grounding of the MV Rena on Astrolabe Reef off Tauranga, New Zealand is either a \"small leak\" or a \"looming environmental disaster.\"  Conceivably, depending on the integrity of the ship’s hull, both … Continue reading &rarr;"
 ---

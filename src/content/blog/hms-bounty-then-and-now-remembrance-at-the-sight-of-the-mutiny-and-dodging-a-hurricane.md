@@ -12,6 +12,7 @@ tags:
   - "Captain Robin Walbridge"
   - "HMS Bounty"
   - "Joan Druett"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/Mutiny-by-Robert-Dodd.jpg"
 author: "Rick Spilman"
 description: "Faulkner wrote, \"The past isn’t dead. It isn’t even past.\"   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, The Mutiny on the Bounty.   She vividly recreates the scene of the mutiny from the deck … Continue reading &rarr;"
 ---

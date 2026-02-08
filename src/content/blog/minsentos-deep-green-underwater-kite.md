@@ -13,6 +13,7 @@ tags:
   - "Saab Group"
   - "tidal energy"
   - "underwater kites"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/1255339877_kites_final_comp.jpg"
 author: "Rick Spilman"
 description: "Minesto, a spin-off of the Swedish-based Saab Group, has a new approach to harnessing tidal energy – underwater kites.   They have recently raised an excessive of €2 million in new capital to test the company’s underwater kite generator design, … Continue reading &rarr;"
 ---

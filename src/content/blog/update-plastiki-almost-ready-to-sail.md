@@ -11,6 +11,7 @@ tags:
   - "David de Rothschild"
   - "plastic bottles"
   - "Plastiki"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/plastiki.jpg"
 author: "Rick Spilman"
 description: "Last March we posted Plastiki – Boat made of plastic bottles to make ocean voyage about  a project in which David de Rothschild intended to build and sail a catamaran made of  around 12,000 recycled soda bottles across the Pacific.   Almost … Continue reading &rarr;"
 ---

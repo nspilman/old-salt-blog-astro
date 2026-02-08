@@ -11,6 +11,7 @@ tags:
   - "American Eagle"
   - "Captain John Foss"
   - "schooner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/American-Eagle-sailing-in-M.jpg"
 author: "Rick Spilman"
 description: "The schooner American Eagle is for sale.  I have long been an admirer of the  American Eagle from afar.   She was the the last fishing schooner built in Gloucester in 1930. After a long career, the old and tired … Continue reading &rarr;"
 ---

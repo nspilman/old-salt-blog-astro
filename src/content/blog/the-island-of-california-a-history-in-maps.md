@@ -11,6 +11,7 @@ tags:
   - "California"
   - "island"
   - "maps"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/12/californiamap.jpg"
 author: "Rick Spilman"
 description: "In Volume II of the Encyclopædia Britannica published in 1768, the entry for California reads: CALLIFORNIA, a large country of the West Indies, lying between 116° and 138° W. long. and between 23° and 46° N lat.  It is uncertain whether … Continue reading &rarr;"
 ---

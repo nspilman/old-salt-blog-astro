@@ -13,6 +13,7 @@ tags:
   - "icebreakers"
   - "US Coast Guard"
   - "US Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/11/zumwalt3.jpg"
 author: "Rick Spilman"
 description: "I sometimes wonder if the world is going a bit mad. Take, for example, the case of icebreakers with cruise missiles and destroyers with guns but no ammunition.  Despite the increased strategic importance of Arctic, the US has only one … Continue reading &rarr;"
 ---

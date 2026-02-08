@@ -12,6 +12,7 @@ tags:
   - "HMS Ark Royal"
   - "HMS Invincible"
   - "Royal Navy"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/300px-HMS_Ark_Royal_R07.jpg"
 author: "Rick Spilman"
 description: "The Royal Navy aircraft carrier HMS Invincible was sold to Turkish scrappers last February. Now bids are open for the sale of  HMS Ark Royal. While scrapping seems a likely outcome the tender allows that \"alternatively the vessel may be purchased for re-use/refurbishment for non-warlike purposes.\" … Continue reading &rarr;"
 ---

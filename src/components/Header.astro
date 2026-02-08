@@ -4,79 +4,209 @@ import HeaderLink from './HeaderLink.astro';
 import Search from './Search.astro';
 ---
 
+<div class="header-banner">
+	<img src="https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/cropped-oldsaltblog2.jpg" alt="Old Salt Blog" />
+</div>
 <header>
-	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/archive/">Archive</HeaderLink>
-			<HeaderLink href="/rss.xml">RSS</HeaderLink>
-			<Search />
+	<div class="header-inner">
+		<div class="site-branding">
+			<a href="/" class="site-title">{SITE_TITLE}</a>
+			<span class="site-tagline">A virtual port of call for all those who love the sea</span>
 		</div>
-	</nav>
+		<nav>
+			<button class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+				<span class="hamburger"></span>
+			</button>
+			<div class="nav-links">
+				<HeaderLink href="/">Home</HeaderLink>
+				<HeaderLink href="/archive/">Archive</HeaderLink>
+				<HeaderLink href="/about/">About</HeaderLink>
+				<Search />
+			</div>
+		</nav>
+	</div>
 </header>
+
+<script>
+	const toggle = document.querySelector('.mobile-menu-toggle');
+	const navLinks = document.querySelector('.nav-links');
+
+	toggle?.addEventListener('click', () => {
+		const expanded = toggle.getAttribute('aria-expanded') === 'true';
+		toggle.setAttribute('aria-expanded', (!expanded).toString());
+		navLinks?.classList.toggle('open');
+	});
+</script>
+
 <style>
+	.header-banner {
+		max-width: 1000px;
+		margin: 0 auto;
+		overflow: hidden;
+	}
+
+	.header-banner img {
+		width: 100%;
+		height: auto;
+		display: block;
+		object-fit: cover;
+	}
+
 	header {
-		margin: 0;
-		padding: 0 1em;
-		background: white;
-		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		background: #000000;
+		position: sticky;
+		top: 0;
+		z-index: 100;
+		max-width: 1000px;
+		margin: 0 auto;
 	}
-	h2 {
-		margin: 0;
-		font-size: 1.5em;
+
+	/* On smaller screens, go full-width */
+	@media (max-width: 1040px) {
+		.header-banner {
+			max-width: 100%;
+		}
+
+		header {
+			max-width: 100%;
+		}
+	}
+
+	.header-inner {
+		padding: 0 1.5rem;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		min-height: 60px;
+	}
+
+	.site-branding {
+		display: flex;
+		flex-direction: column;
+		gap: 0;
+	}
+
+	.site-title {
+		font-size: 1.4rem;
 		font-weight: 700;
-	}
-
-	h2 a,
-	h2 a.active {
+		color: var(--nav-text);
 		text-decoration: none;
-		color: rgb(var(--black));
+		letter-spacing: -0.02em;
+		line-height: 1.2;
 	}
 
-	h2 a:hover {
+	.site-title:hover {
 		color: var(--accent);
+	}
+
+	.site-tagline {
+		font-size: 0.75rem;
+		color: rgba(255, 255, 255, 0.6);
+		font-style: italic;
+		letter-spacing: 0.02em;
 	}
 
 	nav {
 		display: flex;
 		align-items: center;
-		justify-content: space-between;
 	}
 
-	.internal-links {
+	.nav-links {
 		display: flex;
-		gap: 1em;
+		align-items: center;
+		gap: 0;
 	}
 
-	nav a {
-		padding: 1em 0.5em;
-		color: rgb(var(--gray-dark));
-		border-bottom: 4px solid transparent;
+	.nav-links :global(a) {
+		color: var(--nav-text);
 		text-decoration: none;
-		transition: color 0.2s, border-bottom-color 0.2s;
+		padding: 1.2rem 1rem;
+		font-size: 0.9rem;
+		font-weight: normal;
+		transition: background-color 0.2s, color 0.2s;
+		display: block;
 	}
 
-	nav a:hover {
-		color: var(--accent);
+	.nav-links :global(a:hover),
+	.nav-links :global(a.active) {
+		background: var(--nav-hover-bg);
+		color: rgb(var(--black));
 	}
 
-	nav a.active {
-		border-bottom-color: var(--accent);
+	/* Mobile menu toggle */
+	.mobile-menu-toggle {
+		display: none;
+		background: none;
+		border: none;
+		padding: 0.5rem;
+		cursor: pointer;
 	}
 
-	@media (max-width: 720px) {
-		h2 {
-			font-size: 1.2em;
+	.hamburger {
+		display: block;
+		width: 24px;
+		height: 2px;
+		background: var(--nav-text);
+		position: relative;
+		transition: background 0.2s;
+	}
+
+	.hamburger::before,
+	.hamburger::after {
+		content: '';
+		position: absolute;
+		width: 24px;
+		height: 2px;
+		background: var(--nav-text);
+		left: 0;
+		transition: transform 0.2s;
+	}
+
+	.hamburger::before {
+		top: -7px;
+	}
+
+	.hamburger::after {
+		top: 7px;
+	}
+
+	/* Mobile styles */
+	@media (max-width: 768px) {
+		.header-inner {
+			padding: 0 1rem;
 		}
 
-		.internal-links {
-			gap: 0.5em;
+		.mobile-menu-toggle {
+			display: block;
 		}
 
-		nav a {
-			padding: 1em 0.25em;
-			font-size: 0.9em;
+		.nav-links {
+			position: absolute;
+			top: 60px;
+			left: 0;
+			right: 0;
+			background: var(--nav-bg);
+			flex-direction: column;
+			align-items: stretch;
+			display: none;
+			border-top: 1px solid rgba(255, 255, 255, 0.1);
+		}
+
+		.nav-links.open {
+			display: flex;
+		}
+
+		.nav-links :global(a) {
+			padding: 1rem 1.5rem;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+		}
+
+		.site-title {
+			font-size: 1.2rem;
+		}
+
+		.site-tagline {
+			font-size: 0.65rem;
 		}
 	}
 </style>

@@ -11,6 +11,7 @@ tags:
   - "M/V Magellan Star"
   - "pirates"
   - "somalia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/pirates2.jpg"
 author: "Rick Spilman"
 description: "More details on the capture of the M/V Magellan Star.  The crew and the ship management company kept their heads and their sense of humor when the ship was boarded by Somali pirates on Wednesday.   When the pirates boarded the ship, … Continue reading &rarr;"
 ---

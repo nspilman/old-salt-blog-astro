@@ -6,6 +6,7 @@ excerpt: "In mid-July we posted about a group of 80 strangers who formed a human
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/08/Anne_Dufourmantelle.jpg"
 author: "Rick Spilman"
 description: "In mid-July we posted about a group of 80 strangers who formed a human chain to rescue 10 people carried out in a rip current into the Gulf of Mexico off Panama City Beach in the Florida panhandle. All ten … Continue reading &rarr;"
 ---

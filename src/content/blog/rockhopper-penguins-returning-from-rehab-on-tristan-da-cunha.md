@@ -5,6 +5,7 @@ slug: "rockhopper-penguins-returning-from-rehab-on-tristan-da-cunha"
 excerpt: "The Greek-owned 75,000 tonne bulk carrier, MV Oliva, ran aground  on March 16th on Nightingale Island, a 4 square kilometer island in the Tristan da Cuhna archipelago in the South Atlantic.   The resulting oil spill  threatened nearly half of the world population … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/rockhopper-penguins.jpg"
 author: "Rick Spilman"
 description: "The Greek-owned 75,000 tonne bulk carrier, MV Oliva, ran aground  on March 16th on Nightingale Island, a 4 square kilometer island in the Tristan da Cuhna archipelago in the South Atlantic.   The resulting oil spill  threatened nearly half of the world population … Continue reading &rarr;"
 ---

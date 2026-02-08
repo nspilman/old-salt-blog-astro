@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/stowaway-200x104.jpg"
 author: "Rick Spilman"
 description: "The New York Times is featuring a new four part series, Outlaw Ocean, by Ian Urbina, which presents a vivid and disturbing look at crime at sea."
 ---

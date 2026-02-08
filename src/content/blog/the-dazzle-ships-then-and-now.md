@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/07/USSwestmohomet.jpg"
 author: "Rick Spilman"
 description: "We posted earlier today about the USS Slater’s dazzle camouflage paint.  Dazzle, sometimes referred to as razzle dazzle, is a very different approach to camouflage.  Where most camouflage attempts to hide an object or person, dazzle camouflage on ships uses … Continue reading &rarr;"
 ---

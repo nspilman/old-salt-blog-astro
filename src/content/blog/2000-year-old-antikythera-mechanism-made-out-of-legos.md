@@ -12,6 +12,7 @@ tags:
   - "Antiythera mechanism"
   - "Legos"
   - "Roman shipwreck"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/antikythera.jpg"
 author: "Rick Spilman"
 description: "In 1901, the Antiythera mechanism was pulled from a Roman shipwreck. It is believed to date from approximately 90 BC. For years no one knew what to make of the strange clock-like device until advanced digital radiographs revealed that it was … Continue reading &rarr;"
 ---

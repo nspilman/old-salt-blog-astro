@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "History"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/graf_spee_02.jpg"
 author: "Rick Spilman"
 description: "There is an interesting ongoing conflict  over the  salvaging of the German pocket battleship Admiral Graf Spee which was scuttled in the River Plate in 1939.   A Uruguayan businessman has been salving parts of the Graf Spee for the last ten … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Brillante Virtuoso"
   - "fire"
   - "Suezmax tanker"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/navy-rescue-07-2011.jpg"
 author: "Rick Spilman"
 description: "Was there a pirate attack?  On Wednesday we posted about the reports that the Suezmax tanker Brillante Virtuoso had been attacked by pirates and set on fire.  It is now unclear where such an attack ever took place.  There was indeed a … Continue reading &rarr;"
 ---

@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/nanniedee.jpg"
 author: "Rick Spilman"
 description: "There are reports of a \"small fire\" aboard the 19th-century composite clipper ship, Cutty Sark, in Greenwich, UK. Firefighters managed to contain the blaze."
 ---

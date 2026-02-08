@@ -11,6 +11,7 @@ tags:
   - "Con Thode"
   - "New Zealand's first and only submarine commander"
   - "World War Two"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/con_thode_2.jpg"
 author: "Rick Spilman"
 description: "Happy 100th birthday to Con Thode, New Zealand’s first and only submarine commander in World War Two and long-time sailing master for the Spirit of Adventure Trust. … Continue reading &rarr;"
 ---

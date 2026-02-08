@@ -1,23 +1,54 @@
 /*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+  Old Salt Blog - Maritime Styling
+  A virtual port of call for all those who love the sea
+
+  Design Philosophy: Restraint, formality, content primacy
+  Like a well-captained ship - no unnecessary flourishes
+*/
 
 :root {
-	/* Maritime blue color scheme */
-	--accent: #1e5a8e;
-	--accent-dark: #0d3d5c;
-	--accent-light: 220, 230, 240;
-	--black: 15, 18, 25;
-	--gray: 96, 115, 159;
-	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
-	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow:
-		0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%), 0 16px 32px
-		rgba(var(--gray), 33%);
+	/* The Soul Colors - Ocean Blue anchors the nautical identity */
+	--accent: #1B8BE0;
+	--accent-dark: #1570B8;
+	--accent-light: 235, 245, 255;
+
+	/* Navigation - Formal ship's aesthetic */
+	--nav-bg: #000000;
+	--nav-text: #FFFFFF;
+	--nav-hover-bg: #D1D1D1;
+
+	/* Text hierarchy - High contrast, authoritative */
+	--black: 0, 0, 0;
+	--white: 255, 255, 255;
+	--gray: 136, 136, 136;
+	--gray-dark: 51, 51, 51;
+	--gray-light: 248, 248, 248;
+
+	/* Borders - Subtle but defined, like deck lines */
+	--border-dark: #888888;
+	--border-light: #D6D6D6;
+	--border-widget: #E8E8E8;
+
+	/* Nautical Chart Background - Deep sea maritime map */
+	/* Color Palette - Steel blue depths */
+	--chart-abyss: #192444;          /* The deep unknown */
+	--chart-deep: #253352;           /* Deep ocean */
+	--chart-mid: #334160;            /* Where light fades */
+	--chart-base: #414D63;           /* The sea surface */
+	--chart-shallow: #4E5A70;        /* The approaches */
+	--chart-shoal: #5B677D;          /* Shallower waters */
+
+	/* Chart markings - aged ink and brass */
+	--chart-cream: #F5E6C8;          /* Aged parchment cream */
+	--chart-gold: #C9A227;           /* Brass instruments */
+	--chart-ink: #2C1810;            /* Sepia ink */
+
+	/* Grid and lines - subtle against the blue-gray */
+	--chart-grid: rgba(25, 36, 68, 0.4);
+	--chart-grid-major: rgba(25, 36, 68, 0.6);
+	--chart-rhumb: rgba(25, 36, 68, 0.25);
 }
+
 @font-face {
 	font-family: "Atkinson";
 	src: url("/fonts/atkinson-regular.woff") format("woff");
@@ -25,6 +56,7 @@
 	font-style: normal;
 	font-display: swap;
 }
+
 @font-face {
 	font-family: "Atkinson";
 	src: url("/fonts/atkinson-bold.woff") format("woff");
@@ -32,112 +64,369 @@
 	font-style: normal;
 	font-display: swap;
 }
+
+/* The nautical chart - deep sea maritime map */
+html {
+	min-height: 100%;
+	background-color: var(--chart-abyss);
+	background-image:
+		/* Primary rhumb lines - radiating from compass rose (top right) */
+		repeating-conic-gradient(
+			from 0deg at 92% 15%,
+			transparent 0deg,
+			transparent 10.5deg,
+			var(--chart-rhumb) 10.5deg,
+			var(--chart-rhumb) 12deg,
+			transparent 12deg,
+			transparent 22.5deg
+		),
+		/* Secondary rhumb lines from bottom left - creating the web */
+		repeating-conic-gradient(
+			from 22.5deg at 8% 88%,
+			transparent 0deg,
+			transparent 10.5deg,
+			rgba(245, 230, 200, 0.025) 10.5deg,
+			rgba(245, 230, 200, 0.025) 12deg,
+			transparent 12deg,
+			transparent 22.5deg
+		),
+		/* Tertiary rhumb lines from center-left - portolan chart authenticity */
+		repeating-conic-gradient(
+			from 11.25deg at 5% 45%,
+			transparent 0deg,
+			transparent 21deg,
+			rgba(245, 230, 200, 0.015) 21deg,
+			rgba(245, 230, 200, 0.015) 24deg,
+			transparent 24deg,
+			transparent 45deg
+		),
+		/* Coastal shelf - bottom left (the approaches) */
+		radial-gradient(
+			ellipse 180% 90% at -10% 110%,
+			var(--chart-shoal) 0%,
+			var(--chart-shallow) 15%,
+			var(--chart-mid) 30%,
+			var(--chart-deep) 50%,
+			transparent 70%
+		),
+		/* Coastal shelf - right side */
+		radial-gradient(
+			ellipse 120% 150% at 115% 50%,
+			var(--chart-shallow) 0%,
+			var(--chart-mid) 20%,
+			var(--chart-deep) 40%,
+			transparent 60%
+		),
+		/* Shallow bank - top */
+		radial-gradient(
+			ellipse 200% 60% at 50% -20%,
+			var(--chart-mid) 0%,
+			var(--chart-deep) 40%,
+			transparent 70%
+		),
+		/* Shoal warning area - stippled appearance */
+		radial-gradient(
+			circle at 12% 65%,
+			rgba(58, 138, 156, 0.35) 0%,
+			rgba(42, 106, 124, 0.2) 50px,
+			transparent 100px
+		),
+		radial-gradient(
+			circle at 88% 35%,
+			rgba(42, 106, 124, 0.25) 0%,
+			transparent 70px
+		),
+		radial-gradient(
+			circle at 75% 80%,
+			rgba(58, 138, 156, 0.2) 0%,
+			transparent 90px
+		),
+		/* Major latitude/longitude grid */
+		repeating-linear-gradient(
+			0deg,
+			transparent,
+			transparent 199px,
+			var(--chart-grid-major) 199px,
+			var(--chart-grid-major) 200px
+		),
+		repeating-linear-gradient(
+			90deg,
+			transparent,
+			transparent 199px,
+			var(--chart-grid-major) 199px,
+			var(--chart-grid-major) 200px
+		),
+		/* Minor grid - 5 divisions per major */
+		repeating-linear-gradient(
+			0deg,
+			transparent,
+			transparent 39px,
+			var(--chart-grid) 39px,
+			var(--chart-grid) 40px
+		),
+		repeating-linear-gradient(
+			90deg,
+			transparent,
+			transparent 39px,
+			var(--chart-grid) 39px,
+			var(--chart-grid) 40px
+		),
+		/* Ocean swell texture - the living sea */
+		repeating-linear-gradient(
+			172deg,
+			transparent 0px,
+			transparent 6px,
+			rgba(255, 255, 255, 0.012) 6px,
+			rgba(255, 255, 255, 0.012) 7px,
+			transparent 7px,
+			transparent 13px
+		),
+		/* Cross-swell for texture depth */
+		repeating-linear-gradient(
+			188deg,
+			transparent 0px,
+			transparent 11px,
+			rgba(255, 255, 255, 0.008) 11px,
+			rgba(255, 255, 255, 0.008) 12px,
+			transparent 12px,
+			transparent 23px
+		),
+		/* The deep gradient - the abyss calls */
+		radial-gradient(
+			ellipse 140% 100% at 50% 100%,
+			var(--chart-deep) 0%,
+			var(--chart-abyss) 60%,
+			#081620 100%
+		);
+	background-attachment: fixed;
+}
+
+/* The vessel - clean, white, floating on the sea */
 body {
-	font-family: "Atkinson", sans-serif;
+	font-family: "Atkinson", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 	margin: 0;
 	padding: 0;
-	text-align: left;
-	background: linear-gradient(var(--gray-gradient)) no-repeat;
-	background-size: 100% 600px;
+	background: transparent;
+	color: rgb(var(--gray-dark));
+	font-size: 18px;
+	line-height: 1.7;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
-	font-size: 20px;
-	line-height: 1.7;
 }
+
+/* Chart overlays - vignette and depth contours */
+body::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	pointer-events: none;
+	z-index: -1;
+	background:
+		/* Vignette - the aged edges of the chart */
+		radial-gradient(
+			ellipse 130% 130% at 50% 50%,
+			transparent 30%,
+			rgba(8, 22, 32, 0.3) 60%,
+			rgba(8, 22, 32, 0.6) 80%,
+			rgba(8, 22, 32, 0.85) 100%
+		),
+		/* Depth contour lines - fathom curves */
+		repeating-radial-gradient(
+			ellipse 250% 180% at 0% 100%,
+			transparent 0px,
+			transparent 118px,
+			rgba(245, 230, 200, 0.035) 118px,
+			rgba(245, 230, 200, 0.035) 120px,
+			transparent 120px,
+			transparent 238px
+		),
+		repeating-radial-gradient(
+			ellipse 180% 250% at 100% 60%,
+			transparent 0px,
+			transparent 148px,
+			rgba(245, 230, 200, 0.025) 148px,
+			rgba(245, 230, 200, 0.025) 150px,
+			transparent 150px,
+			transparent 298px
+		),
+		/* Coastal hatching - near the shores */
+		repeating-linear-gradient(
+			-45deg,
+			transparent 0px,
+			transparent 3px,
+			rgba(245, 230, 200, 0.02) 3px,
+			rgba(245, 230, 200, 0.02) 4px,
+			transparent 4px,
+			transparent 7px
+		);
+}
+
+/* Depth soundings - the numbers scattered across the sea */
+body::after {
+	content: '12    ·    45    ·    78    ·    23    ·    56    ·    91    ·    34    ·    67';
+	position: fixed;
+	bottom: 15%;
+	left: 5%;
+	right: 5%;
+	font-family: "Georgia", "Times New Roman", serif;
+	font-size: 11px;
+	letter-spacing: 2em;
+	color: rgba(245, 230, 200, 0.15);
+	pointer-events: none;
+	z-index: 0;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+/* Additional depth soundings layer */
+@media (min-width: 1200px) {
+	body::after {
+		content: '12    ·    45    ·    78    ·    23    ·    156    ·    91    ·    34    ·    267    ·    89    ·    42';
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 768px) {
+	body::after {
+		display: none;
+	}
+}
+
+/* Content width - 940px like the original, comfortable reading */
+/* The ship's log - crisp paper on the aged chart */
 main {
-	width: 720px;
-	max-width: calc(100% - 2em);
-	margin: auto;
-	padding: 3em 1em;
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 2em 1em;
+	background: #FFFFFF;
+	min-height: calc(100vh - 200px);
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+/* Headlines - Black, commanding attention like a ship's name */
+h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 0.5rem 0;
 	color: rgb(var(--black));
-	line-height: 1.2;
-}
-h1 {
-	font-size: 3.052em;
-}
-h2 {
-	font-size: 2.441em;
-}
-h3 {
-	font-size: 1.953em;
-}
-h4 {
-	font-size: 1.563em;
-}
-h5 {
-	font-size: 1.25em;
-}
-strong,
-b {
+	line-height: 1.25;
 	font-weight: 700;
 }
+
+h1 { font-size: 2.25em; }
+h2 { font-size: 1.75em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1.1em; }
+
+strong, b {
+	font-weight: 700;
+}
+
+/* Links - Ocean blue, BOLD by default (this is the soul!) */
 a {
 	color: var(--accent);
+	font-weight: 700;
+	text-decoration: none;
+	transition: color 0.15s ease;
 }
+
 a:hover {
-	color: var(--accent);
+	color: var(--accent-dark);
+	text-decoration: underline;
 }
+
+/* Paragraphs - clean spacing */
 p {
-	margin-bottom: 1em;
+	margin: 0 0 1.25em 0;
 }
+
 .prose p {
-	margin-bottom: 2em;
+	margin-bottom: 1.5em;
 }
+
+/* Form elements */
 textarea {
 	width: 100%;
 	font-size: 16px;
 }
+
 input {
 	font-size: 16px;
 }
+
 table {
 	width: 100%;
 }
+
+/* Images - centered, no rounded corners (more traditional/formal) */
 img {
 	max-width: 100%;
 	height: auto;
-	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
+
+/* Code */
 code {
 	padding: 2px 5px;
 	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
+	font-family: "SFMono-Regular", Consolas, monospace;
+	font-size: 0.9em;
 }
+
 pre {
-	padding: 1.5em;
-	border-radius: 8px;
+	padding: 1.25em;
+	background-color: rgb(var(--gray-light));
+	overflow-x: auto;
 }
+
 pre > code {
 	all: unset;
 }
+
+/* Blockquotes - Blue accent bar, like a captain's note */
 blockquote {
 	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0;
-	font-size: 1.333em;
-}
-hr {
-	border: none;
-	border-top: 1px solid rgb(var(--gray-light));
-}
-@media (max-width: 720px) {
-	body {
-		font-size: 18px;
-	}
-	main {
-		padding: 1em;
-	}
+	padding: 0 0 0 1.25em;
+	margin: 1.5em 0;
+	font-style: italic;
+	color: rgb(var(--gray-dark));
 }
 
+hr {
+	border: none;
+	border-top: 1px solid var(--border-light);
+	margin: 2em 0;
+}
+
+/* Mobile-first responsive adjustments */
+@media (max-width: 768px) {
+	body {
+		font-size: 16px;
+	}
+	main {
+		padding: 1.25rem 1rem;
+	}
+	h1 { font-size: 1.625em; }
+	h2 { font-size: 1.375em; }
+	h3 { font-size: 1.25em; }
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+	body {
+		font-size: 15px;
+	}
+	main {
+		padding: 1rem 0.875rem;
+	}
+	h1 { font-size: 1.5em; }
+	h2 { font-size: 1.25em; }
+}
+
+/* Screen reader only */
 .sr-only {
 	border: 0;
 	padding: 0;
@@ -146,26 +435,22 @@ hr {
 	height: 1px;
 	width: 1px;
 	overflow: hidden;
-	/* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
 	clip: rect(1px 1px 1px 1px);
-	/* maybe deprecated but we need to support legacy browsers */
 	clip: rect(1px, 1px, 1px, 1px);
-	/* modern browsers, clip-path works inwards from each corner */
 	clip-path: inset(50%);
-	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
 
-/* External images from WordPress - ensure they display properly */
+/* External images from WordPress */
 img[src*="oldsaltblog.com"],
 img[src*="wordpress.com"] {
 	max-width: 100%;
 	height: auto;
 	display: block;
-	margin: 1em auto;
+	margin: 1.5em auto;
 }
 
-/* YouTube and Vimeo embed styling - responsive and properly sized */
+/* Video embeds - responsive */
 iframe[src*="youtube.com"],
 iframe[src*="youtube-nocookie.com"],
 iframe[src*="youtu.be"],
@@ -175,43 +460,126 @@ iframe[src*="vimeo.com"] {
 	aspect-ratio: 16 / 9;
 	height: auto;
 	border: none;
-	border-radius: 8px;
 	margin: 1.5em auto;
 	display: block;
 }
 
-/* Ensure iframe container in content renders properly */
 .content iframe,
 .prose iframe {
 	max-width: 100%;
 	margin: 1.5em 0;
 }
 
-/* WordPress figure and figcaption styling */
+/* WordPress figure styling */
 figure {
-	margin: 2em 0;
+	margin: 1.5em 0;
 	text-align: center;
 }
 
 figcaption {
-	font-size: 0.9em;
+	font-size: 0.875em;
 	color: rgb(var(--gray));
 	font-style: italic;
 	margin-top: 0.5em;
-	text-align: center;
 }
 
-/* Better link styling in content */
+/* Content links - inherit the bold blue soul */
 .content a,
 .prose a {
 	color: var(--accent);
-	text-decoration: underline;
-	text-decoration-color: rgba(30, 90, 142, 0.3);
-	text-underline-offset: 2px;
-	transition: text-decoration-color 0.2s;
+	font-weight: 700;
+	text-decoration: none;
 }
 
 .content a:hover,
 .prose a:hover {
-	text-decoration-color: var(--accent);
+	text-decoration: underline;
+}
+
+/* ================================================
+   Shared Image Layout Styles
+   Portrait images float right, landscape on top
+   ================================================ */
+
+/* Homepage/listing - image wrapped in anchor */
+.post-image-link.portrait {
+	float: right;
+	margin: 0.25rem 0 1rem 1.5rem;
+	width: 280px;
+}
+
+.post-image-link.portrait img {
+	width: 100%;
+	height: auto;
+	object-fit: contain;
+}
+
+.post-image-link.landscape {
+	display: block;
+	float: none;
+	margin: 0 0 1rem 0;
+	max-width: 100%;
+}
+
+.post-image-link.landscape img {
+	max-height: 350px;
+	width: auto;
+	max-width: 100%;
+	object-fit: contain;
+}
+
+.post-image-link img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border: 1px solid var(--border-light);
+}
+
+/* Blog post content - images from markdown */
+.content img.portrait {
+	float: right;
+	margin: 0.25rem 0 1rem 1.5rem;
+	max-width: 280px;
+	height: auto;
+}
+
+.content img.landscape {
+	display: block;
+	float: none;
+	margin: 1.5rem 0;
+	max-height: 350px;
+	width: auto;
+	max-width: 100%;
+	object-fit: contain;
+}
+
+/* Tablet responsive */
+@media (max-width: 768px) {
+	.post-image-link.portrait {
+		max-width: 200px;
+		margin: 0.25rem 0 1rem 1rem;
+	}
+
+	.content img.portrait {
+		max-width: 200px;
+		margin: 0.25rem 0 1rem 1rem;
+	}
+}
+
+/* Mobile - all images full width */
+@media (max-width: 480px) {
+	.post-image-link.portrait,
+	.post-image-link.landscape {
+		float: none;
+		max-width: 100%;
+		width: 100%;
+		margin: 0 0 1rem 0;
+	}
+
+	.content img.portrait,
+	.content img.landscape {
+		float: none;
+		max-width: 100%;
+		margin: 1rem 0;
+	}
 }

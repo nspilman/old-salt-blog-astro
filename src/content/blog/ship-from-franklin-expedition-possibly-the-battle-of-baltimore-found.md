@@ -15,6 +15,7 @@ tags:
   - "HMS Erebus"
   - "HMS Terror"
   - "War of 1812"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/HMSterror.jpg"
 author: "Rick Spilman"
 description: "The wreckage of a missing ship from the Franklin's lost expedition of 1845 has been found. It is not known yet if the wreck is of HMS Terror or HMS Erebus."
 ---

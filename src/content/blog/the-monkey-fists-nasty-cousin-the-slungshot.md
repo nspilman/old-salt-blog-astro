@@ -9,6 +9,7 @@ categories:
 tags:
   - "monkey's fist"
   - "slungshot"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/slungshot.jpg"
 author: "Rick Spilman"
 description: "I recently learned the slungshot, not to be confused with a slingshot. The slungshot is a monkey’s fist’s nasty cousin. As most are probably aware, a monkey’s fist is a knot, shaped like a ball (or a fist), used to provide weight … Continue reading &rarr;"
 ---

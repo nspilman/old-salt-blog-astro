@@ -12,6 +12,7 @@ tags:
   - "Oseberg ship"
   - "Saga Oseberg"
   - "Viking longship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/11/Vikingshipkils.jpg"
 author: "Rick Spilman"
 description: "I recently came across a video of the Viking longship replica Saga Oseberg tacking across the wind.  Before seeing the video I would have thought that the only way to tack a longship, to bring the wind from one side … Continue reading &rarr;"
 ---

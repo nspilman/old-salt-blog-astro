@@ -12,6 +12,7 @@ tags:
   - "historic lighthouse tender"
   - "Lilac"
   - "Marine Art of Christina Sun and Frank Hanavan"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/SSSM_Fleet.jpg"
 author: "Rick Spilman"
 description: "If you are near New York harbor, there is a closing party for the \"Ships of New York Harbor: Marine Art of Christina Sun and Frank Hanavan\" exhibit on the historic lighthouse tender Lilac tomorrow evening September 30, from 6 to 10 PM at Pier 25 … Continue reading &rarr;"
 ---

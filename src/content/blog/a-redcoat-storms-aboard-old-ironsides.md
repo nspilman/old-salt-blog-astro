@@ -9,6 +9,7 @@ categories:
   - "Ships"
 tags:
   - "USS Constitution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/recoatsanta.jpg"
 author: "Rick Spilman"
 description: "The Boston Globe has documented the boarding of the USS Constitution by a Redcoat!  During her long years of active duty, the USS Constitution, known as Old Ironsides, was never successfully boarded by enemy marines.  Yet, here we see the … Continue reading &rarr;"
 ---

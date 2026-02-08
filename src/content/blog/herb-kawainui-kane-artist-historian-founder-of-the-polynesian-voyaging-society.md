@@ -10,6 +10,7 @@ tags:
   - "Herb Kawainui Kāne"
   - "Hōkūleʻa"
   - "Polynesian Voyaging Society"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/herb.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted about the arrival of seven vaka, Polynesian voyaging canoes, in Hilo, Hawaii.    This seems an appropriate time to remember Herb Kawainui Kāne, an Hawaiian  artist, historian and one of the  founders of the Polynesian Voyaging Society, who died last March … Continue reading &rarr;"
 ---

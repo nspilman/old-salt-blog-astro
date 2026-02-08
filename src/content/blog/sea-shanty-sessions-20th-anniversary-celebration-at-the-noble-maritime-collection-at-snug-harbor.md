@@ -15,6 +15,7 @@ tags:
   - "Staten Island"
   - "William Main Doerflinger"
   - "Windjammer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/shantysession.jpg"
 author: "Rick Spilman"
 description: "In the summer of 1995, a group of lovers of the music of the sea got together on the deck of the windjammer Peking at the South Street Seaport Museum on the East River in New York to sing sea shanties. … Continue reading &rarr;"
 ---

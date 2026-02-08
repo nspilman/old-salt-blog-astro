@@ -10,6 +10,7 @@ tags:
   - "32nd Annual Music of the Sea Symposium"
   - "32nd Annual Sea Music Festival"
   - "mystic seaport"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/header_Music.jpg"
 author: "Rick Spilman"
 description: "The 32nd Annual Sea Music Festival at Mystic Seaport starts this Thursday night, June 9th, and runs through Sunday, June 12th.    More than 5,000 people gather each year to hear Mystic Seaport’s Chantey Staff along with a solid core of performers … Continue reading &rarr;"
 ---

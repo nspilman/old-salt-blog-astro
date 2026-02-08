@@ -10,6 +10,7 @@ tags:
   - "Floating Gold"
   - "Margaret Muir"
   - "novel"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/floatinggold.jpg"
 author: "Rick Spilman"
 description: "Margaret Muir’s novel, Floating Gold, was recently released in paperback.  A great read, we never though that it got the attention that it deserved. Here is a repost of our review from May of 2010: Margaret Muir’s new novel, Floating Gold, is … Continue reading &rarr;"
 ---

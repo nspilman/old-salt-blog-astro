@@ -11,6 +11,7 @@ tags:
   - "refugees"
   - "somalia"
   - "USS Winston S. Churchill"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/Refugees-on-skiff-in-Gulf.jpg"
 author: "Rick Spilman"
 description: "Given all the reporting on piracy off the Horn of Africa, we hear very little about another crisis – the flood of refugees fleeing the instability and chaos of Somalia’s clan wars.  Last year 74,000 people crossed the Gulf of Aden in smugglers’ boats to reach Yemen, according … Continue reading &rarr;"
 ---

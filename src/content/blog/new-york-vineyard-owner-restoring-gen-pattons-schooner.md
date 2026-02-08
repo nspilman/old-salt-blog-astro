@@ -11,6 +11,7 @@ tags:
   - "Alden schooner"
   - "General George Patton"
   - "When and If"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/wandi1.jpg"
 author: "Rick Spilman"
 description: "Back in 2010, we posted that \"When and If\", a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5\" schooner was named \"When and If\" because Patton … Continue reading &rarr;"
 ---

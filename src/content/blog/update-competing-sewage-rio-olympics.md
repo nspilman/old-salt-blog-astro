@@ -11,6 +11,7 @@ tags:
   - "Rio Olympics"
   - "sailing"
   - "super bacteria"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/07/riopollution.jpg"
 author: "Rick Spilman"
 description: "In May 2104, we posted \"Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro.\" The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and … Continue reading &rarr;"
 ---

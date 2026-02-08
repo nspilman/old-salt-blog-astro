@@ -10,6 +10,7 @@ categories:
 tags:
   - "HMS Prince of Wales"
   - "HMS Queen Elizabeth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/block3.jpg"
 author: "Rick Spilman"
 description: "I am glad that I am of the age to have seen ships constructed the old fashioned way. Not all that long ago, shipyards still built ships from the bottom up.  The shipyard first fabricated the double bottom sub-assemblies and then … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Costa Crociere"
   - "Giglio"
   - "report"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/concordia1.jpg"
 author: "Rick Spilman"
 description: "Not long after the Costa Concordia struck Le Scole Rock off the island of Giglio, Italy at 9:45 pm on January 13, 2012, Captain Francesco Schettino’s voice can be heard on a voice-data recording muttering, \"Madonna, what a mess I’ve … Continue reading &rarr;"
 ---

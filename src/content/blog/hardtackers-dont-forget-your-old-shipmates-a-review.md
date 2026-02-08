@@ -10,6 +10,7 @@ tags:
   - "Don't Forget Your Old Shipmates"
   - "Hardtacker Shanty Crew"
   - "sea shanties"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/08/hardtackers.jpg"
 author: "Rick Spilman"
 description: "The Hardtacker Shanty Crew, a seven-man shanty crew based in Columbus, Ohio, released a great new CD a few months ago, Don’t Forget Your Old Shipmates, which features a wonderful mix of shanties and sea songs, old and new.  The twenty one songs … Continue reading &rarr;"
 ---

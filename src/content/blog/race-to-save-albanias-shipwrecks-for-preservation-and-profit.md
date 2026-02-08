@@ -8,6 +8,7 @@ categories:
 tags:
   - "Albania"
   - "Shipwrecks"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/07/albaniaamphora.jpg"
 author: "Rick Spilman"
 description: "Can Albania both protect and profit from the veritable treasure trove of shipwrecks, ancient and modern, which lie off its coast?  Along a 220 stretch of the Ionian coast, there are dozens of wrecks dating from the 6th century B.C. through … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "submarines"
   - "US Navy"
   - "Women submariners"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/story.women_.submariners.cnn_.jpg"
 author: "Rick Spilman"
 description: "The US Navy announced recently that by January 2012 19 women will be assigned to four ballistic missile submarines.  The women officers will be facing challenges of logistics, operations and culture. Women submariners: Trailblazers by timing, sub sailors by choice … Continue reading &rarr;"
 ---

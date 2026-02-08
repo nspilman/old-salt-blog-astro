@@ -9,6 +9,7 @@ tags:
   - "Delaware"
   - "Kalmar Nyckel"
   - "tall ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/kn1.jpg"
 author: "Rick Spilman"
 description: "The Kalmar Nyckel Foundation is seeking recruits to train as volunteer crew for the replica ship Kalmar Nyckel."
 ---

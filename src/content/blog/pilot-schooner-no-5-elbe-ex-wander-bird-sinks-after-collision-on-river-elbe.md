@@ -13,6 +13,7 @@ tags:
   - "No. 5 Elbe"
   - "River Elbe"
   - "Wander Bird"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2019/06/No5Elbe.jpg"
 author: "Rick Spilman"
 description: "On Saturday, the restored pilot schooner No. 5 Elbe sank following a collision with a containership on its namesake river at Stade, Germany. The 43 people aboard the 1883 built schooner were rescued almost immediately thanks to a quick response … Continue reading &rarr;"
 ---

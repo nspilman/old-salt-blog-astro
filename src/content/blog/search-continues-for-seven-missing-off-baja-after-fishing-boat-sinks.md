@@ -13,6 +13,7 @@ tags:
   - "Eric"
   - "Mexico"
   - "Sea of Cortez"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/Erik-1.jpg"
 author: "Rick Spilman"
 description: "At roughly 2AM on Sunday morning, the chartered fishing boat Eric sank in a storm in the Sea of Cortez off Mexico’s Baja Peninsula.   Twenty seven American tourists and a crew of 16 were aboard were aboard the fishing boat … Continue reading &rarr;"
 ---

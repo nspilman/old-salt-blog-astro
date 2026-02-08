@@ -11,6 +11,7 @@ tags:
   - "Long Island Maritime Museum"
   - "oyster sloop"
   - "Priscilla"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/02/priscilla.jpg"
 author: "Rick Spilman"
 description: "Last July, we posted about Christeen, the oldest oyster sloop in the US, built in 1883, which is still sailing on Oyster Bay, NY. Oyster Bay is on the North shore of Long Island. Not far away on the South … Continue reading &rarr;"
 ---

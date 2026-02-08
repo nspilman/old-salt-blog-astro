@@ -13,6 +13,7 @@ tags:
   - "Fennica"
   - "icebreaker"
   - "Shell Oil"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/07/fennika-200x135.jpg"
 author: "Rick Spilman"
 description: "Shell's attempt to drill in the Chukchi Sea in the Alaska's Arctic are not going well. The 380-foot icebreaker Fennica ripped a 39\" gash in her side."
 ---

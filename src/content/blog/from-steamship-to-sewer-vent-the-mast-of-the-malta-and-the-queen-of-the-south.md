@@ -14,6 +14,7 @@ tags:
   - "New Jersey"
   - "Queen of the South"
   - "sewer vent"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/05/maltamast.jpg"
 author: "Rick Spilman"
 description: "Next to a 7-11 convenience store on 8th Avenue, about a half block from the beach, in the New Jersey shore community of Belmar, there is a tall sewer standpipe, a vertical vent designed to carry the noxious smells from … Continue reading &rarr;"
 ---

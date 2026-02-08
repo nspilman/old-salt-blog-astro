@@ -12,6 +12,7 @@ tags:
   - "Global Fishing Watch"
   - "Google"
   - "Overfishing"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/gfw1.jpg"
 author: "Rick Spilman"
 description: "Overfishing of the world’s oceans is a huge and immediate problem. Back in 2002, the nations participating in the World Summit on Sustainable Development agreed to end overfishing by 2015. Suffice it say, it didn’t happen.  Indeed, some scientists are predicting … Continue reading &rarr;"
 ---

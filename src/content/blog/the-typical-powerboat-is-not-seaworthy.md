@@ -6,6 +6,7 @@ excerpt: "Last year, I went to the New York Boat Show, held yearly at the Javits
 categories:
   - "Current"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/Prowler42.jpg"
 author: "Rick Spilman"
 description: "Last year, I went to the New York Boat Show, held yearly at the Javits Center in Manhattan. I found the visit to be frankly depressing. The endless rows of cookie cutter power boats, that often seemed as tall as they … Continue reading &rarr;"
 ---

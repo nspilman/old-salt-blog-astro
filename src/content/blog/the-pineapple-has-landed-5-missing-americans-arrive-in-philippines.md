@@ -10,6 +10,7 @@ tags:
   - "catamaran Pineapple"
   - "Guam"
   - "Philippines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/pineapple.jpg"
 author: "Rick Spilman"
 description: "Five sailors aboard the catamaran Pineapple, which had been reported missing last Tuesday have arrived in the port of Maasin on Leyte Island, in the Philippines after being escorted in by the Philippines Coast Guard.   The 38 foot catamaran suffered rudder damage in … Continue reading &rarr;"
 ---

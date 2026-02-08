@@ -11,6 +11,7 @@ tags:
   - "Full Crew Farallones"
   - "San Fransciso"
   - "Slow Speed Chase"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/lowspeedchase.jpg"
 author: "Rick Spilman"
 description: "Update: Sad news. As of Sunday Evening, the Coast Guard suspended the search for the four crew missing after the 38′ yacht Slow Speed Chase ran aground in Farallones Race off San Francisco on Saturday. Three or four sailors are … Continue reading &rarr;"
 ---

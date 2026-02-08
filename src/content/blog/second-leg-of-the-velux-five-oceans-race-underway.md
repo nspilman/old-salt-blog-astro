@@ -13,6 +13,7 @@ tags:
   - "South Africa"
   - "Velux Five Oceans"
   - "Wellington"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/velux51.jpg"
 author: "Rick Spilman"
 description: "The second leg of the Velux Five Oceans singlehanded around the world race began today with the five  competitors  setting  sail from Cape Town, South Africa bound for Wellington, NZ, a 7,000 mile voyage across the wild Southern Ocean.  Brad Van Liew, … Continue reading &rarr;"
 ---

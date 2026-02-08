@@ -11,6 +11,7 @@ tags:
   - "merchant mariners"
   - "Merchant Navy Day"
   - "National Maritime Day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/250px-Badge_of_British_Merc-150x112.jpg"
 author: "Rick Spilman"
 description: "Happy Merchant Navy Day!   In Great Britain, Canada, Australia and New Zealand today, September 3rd, is celebrated as Merchant Navy Day – an official day of remembrance of the sacrifices made by merchant mariners in war-time.  In World War I and World War II, over 45, 000 … Continue reading &rarr;"
 ---

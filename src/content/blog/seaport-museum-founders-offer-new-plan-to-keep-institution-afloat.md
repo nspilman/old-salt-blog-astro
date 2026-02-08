@@ -12,6 +12,7 @@ tags:
   - "Peter Stanford"
   - "Robert Ferraro"
   - "South Street Seaport Museum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/PETER_STANFORD.jpg"
 author: "Rick Spilman"
 description: "Peter Stanford and Robert Ferraro, two of the founders of the financially troubled South Street Seaport Museum in New York City, spoke to museum volunteers on Saturday. They presented their vision of how the museum could be saved and revived. … Continue reading &rarr;"
 ---

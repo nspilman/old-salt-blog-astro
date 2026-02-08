@@ -12,6 +12,7 @@ tags:
   - "fossils"
   - "Irvine"
   - "sperm whale"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/whaletooth.jpg"
 author: "Rick Spilman"
 description: "You never know what you will find in a landfill.  Paleontologist Melissa Macias was looking for fossils in the Bowerman Landfill in Irvine, California, when she spotted teeth and bones as a construction crew moved soil to create a new waste disposal … Continue reading &rarr;"
 ---

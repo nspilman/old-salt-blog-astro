@@ -13,6 +13,7 @@ tags:
   - "engine room fire"
   - "Gulf of Mexico"
   - "Yucatan Peninsula."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/ctriumph.jpg"
 author: "Rick Spilman"
 description: "An engine room fire has knocked out the propulsion and the primary electrical system on the cruise ship Carnival Triumph in the Gulf of Mexico off the Yucatan Peninsula.  Emergency generators are providing limited power to the passenger areas.  The ship … Continue reading &rarr;"
 ---

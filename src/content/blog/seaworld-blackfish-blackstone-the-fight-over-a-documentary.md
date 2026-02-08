@@ -13,6 +13,7 @@ tags:
   - "Gabriela Cowperthwaite"
   - "SeaWorld"
   - "Tilikum"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/BLACKFISH.jpg"
 author: "Rick Spilman"
 description: "In February of 2010, the orca, Tilikum, attacked and drowned senior trainer, Dawn Brancheau, at SeaWorld Orlando.  This was the third human death that Tilikum has been involved in, in captivity.  Ironically, even though orcas are best know as \"killer whales,\" there … Continue reading &rarr;"
 ---

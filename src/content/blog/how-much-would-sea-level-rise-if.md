@@ -5,6 +5,7 @@ slug: "how-much-would-sea-level-rise-if"
 excerpt: "How much would sea levels fall if all ships were removed all at once from the oceans of the world?  Far less than you might think. To put this in content, according to UNCTAD, in January 2011, there were over 100,000 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/ships.jpg"
 author: "Rick Spilman"
 description: "How much would sea levels fall if all ships were removed all at once from the oceans of the world?  Far less than you might think. To put this in content, according to UNCTAD, in January 2011, there were over 100,000 … Continue reading &rarr;"
 ---

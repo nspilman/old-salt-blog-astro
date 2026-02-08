@@ -5,6 +5,7 @@ slug: "evening-grey-morning-red-jc-book-festival-tales-cities"
 excerpt: "I will be participating in Jersey City’s 9th Annual Book Festival — Tales of Our Cities, in Van Vorst Park this Sunday. I will have a table with my books and books by other Old Salt Press authors starting at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/09/talesbanner1aweb.jpg"
 author: "Rick Spilman"
 description: "I will be participating in Jersey City’s 9th Annual Book Festival — Tales of Our Cities, in Van Vorst Park this Sunday. I will have a table with my books and books by other Old Salt Press authors starting at … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Tattoos &amp; Scrimshaw: the Art of the Sailor"
   - "Vancouver Maritime Museum"
   - "Whale Bone Porn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/04/Gauguin-scrimshaw.jpg"
 author: "Rick Spilman"
 description: "Last week we posted, \"Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn,\" about a controversy over an exhibit at the  Vancouver Maritime Museum, Tattoos & Scrimshaw: the Art of the Sailor.  One Vancouver mother and schoolteacher was offended by the erotic depictions … Continue reading &rarr;"
 ---

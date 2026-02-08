@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Volvo Ocean Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/06/volvooceanrace1.jpg"
 author: "Rick Spilman"
 description: "The route for the 2017-2018 Volvo Ocean Race has been announced and it is the longest and toughest of the competition’s 43 year history. The race around the world will begin in Alicante, Spain in November of next year and end eight … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "Joan Druett"
   - "Judas Island"
   - "Promise of Gold"
+featuredImage: "http://oldsaltpress.com/wp-content/uploads/2013/05/Judas-Island3thumb.jpg"
 author: "Rick Spilman"
 description: "Joan Druett’s Judas Island, the first book of her Promise of Gold trilogy, is a delightful mix of nautical adventure, romance and droll comedy. In the novel, Harriet Gray, an eighteen year old British actress, finds herself abandoned on the deck … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Caspian Sea"
   - "drilling rig"
   - "fire"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/caspianrigfire.jpg"
 author: "Rick Spilman"
 description: "The state oil company SOCAR reports that over 30 are dead or missing after an Azeri drilling rig in the Caspian Sea caught fire yesterday. The fire started after a storm damaged a natural gas pipeline, causing the platform’s partial … Continue reading &rarr;"
 ---

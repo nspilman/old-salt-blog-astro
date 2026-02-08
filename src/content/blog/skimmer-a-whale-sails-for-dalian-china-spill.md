@@ -13,6 +13,7 @@ tags:
   - "Gulf of Mexico"
   - "Oil spill"
   - "skimmer"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/awhaleskimmer.jpg"
 author: "Rick Spilman"
 description: "Lloyds List is reporting that the Skimmer \"A Whale\" which failed to collect significant amounts of oil in the Gulf of mexico from the BP spill is now en-route to the major spill in Dalian, China.  The more concentrated oil on the … Continue reading &rarr;"
 ---

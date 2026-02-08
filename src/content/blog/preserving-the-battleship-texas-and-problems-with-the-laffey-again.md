@@ -13,6 +13,7 @@ tags:
   - "Patriots Point Development Authority"
   - "submarine Clamagore"
   - "World War II destroyer Laffey"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/11/btexas.jpg"
 author: "Rick Spilman"
 description: "Last June we posted about the near sinking of the battleship Texas.  Now a final effort to save the 96 year old ship is underway.   A cofferdam will be built around the ship to create a dry berth for the battleship. … Continue reading &rarr;"
 ---

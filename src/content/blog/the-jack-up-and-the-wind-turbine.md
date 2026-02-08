@@ -12,6 +12,7 @@ tags:
   - "jack-up rig"
   - "Sheringham Shoal windfarm"
   - "wind turbines"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/jackupwindmill.jpg"
 author: "Rick Spilman"
 description: "Some times all it takes is a photo to demonstrate how much things have changed and what has stayed the same. I recall as a boy watching jack-up rigs being put into operation off the coast of Texas in the Gulf of … Continue reading &rarr;"
 ---

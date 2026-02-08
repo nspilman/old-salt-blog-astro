@@ -15,6 +15,7 @@ tags:
   - "Pearl Harbor"
   - "seaplanes"
   - "University of Hawaii"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/12/pby1.jpg"
 author: "Rick Spilman"
 description: "Minutes before the beginning of the attack on the warships of Pearl Harbor on December 7, 1941, Japanese Imperial Navy planes bombed the nearby U.S. Naval Air Station on the east coast of Oahu, destroying twenty-seven Catalina PBY seaplanes on … Continue reading &rarr;"
 ---

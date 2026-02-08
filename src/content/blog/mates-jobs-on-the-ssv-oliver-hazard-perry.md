@@ -10,6 +10,7 @@ categories:
 tags:
   - "Mates"
   - "SSV Oliver Hazard Perry"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/ohprendering.jpg"
 author: "Rick Spilman"
 description: "The SSV Oliver Hazard Perry organization is looking for Licensed Mates. The tall ship is Rhode Island’s official Sailing Education Vessel."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Dutch tall ships. Europa"
   - "Oosterschelde"
   - "Tecla"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/slider3.jpg"
 author: "Rick Spilman"
 description: "The first documented European to land on Australia was the Dutch navigator Willem Janszoon aboard the Duyfken in March 1606.   Duyfken was also one of the first Dutch ships to got directly to the East Indies to load spices.  The Dutch would long … Continue reading &rarr;"
 ---

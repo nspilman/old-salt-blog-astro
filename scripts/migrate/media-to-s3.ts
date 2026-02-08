@@ -320,6 +320,58 @@ async function migrateMedia(options: MigrationOptions = {}): Promise<void> {
     console.log(chalk.yellow(`⚠️  Limited to ${options.limit} files for testing\n`));
   }
 
+  // Single URL mode
+  if (options.url) {
+    console.log(chalk.blue('🔗 Single URL mode\n'));
+
+    const config = loadConfig();
+    const s3Client = createS3Client(config);
+    const url = options.url;
+    const s3Key = getS3Key(url);
+    const localPath = path.join(TEMP_DIR, s3Key);
+    const contentType = getContentType(url);
+
+    try {
+      if (options.dryRun) {
+        const s3Url = `https://${config.bucket}.s3.${config.region}.amazonaws.com/${s3Key}`;
+        console.log(chalk.gray(`Would download: ${url}`));
+        console.log(chalk.gray(`Would upload to: ${s3Key}`));
+        console.log(chalk.cyan(`\nS3 URL would be:\n${s3Url}\n`));
+        return;
+      }
+
+      // Create temp directory
+      await fs.mkdir(TEMP_DIR, { recursive: true });
+
+      // Download
+      console.log(chalk.gray(`Downloading: ${url}`));
+      await downloadFile(url, localPath);
+      console.log(chalk.green('✓ Downloaded'));
+
+      // Upload
+      const mediaFile: MediaFile = { url, localPath, s3Key, contentType };
+      await uploadToS3(s3Client, config, mediaFile);
+      console.log(chalk.green('✓ Uploaded to S3'));
+
+      // Generate and print S3 URL
+      const s3Url = `https://${config.bucket}.s3.${config.region}.amazonaws.com/${s3Key}`;
+      console.log(chalk.cyan(`\nS3 URL:\n${s3Url}\n`));
+
+      // Cleanup
+      try {
+        await fs.unlink(localPath);
+        await fs.rm(TEMP_DIR, { recursive: true, force: true });
+      } catch {
+        // Ignore cleanup errors
+      }
+
+      return;
+    } catch (error: any) {
+      console.error(chalk.red(`\n❌ Failed: ${error?.message || 'Unknown error'}\n`));
+      process.exit(1);
+    }
+  }
+
   const concurrency = options.concurrency || DEFAULT_CONCURRENCY;
   console.log(chalk.cyan(`🚀 Running with concurrency: ${concurrency}\n`));
 
@@ -554,6 +606,7 @@ interface MigrationOptions {
   retry?: boolean;
   resume?: boolean;
   concurrency?: number;
+  url?: string;
 }
 
 const DEFAULT_CONCURRENCY = 10;
@@ -581,11 +634,16 @@ function parseArgs(): MigrationOptions {
     if (args[i] === '--resume') {
       options.resume = true;
     }
+    if (args[i] === '--url' && args[i + 1]) {
+      options.url = args[i + 1];
+      i++;
+    }
     if (args[i] === '--help') {
       console.log(`
 Usage: npx tsx --env-file=.env scripts/migrate/media-to-s3.ts [options]
 
 Options:
+  --url <URL>      Process a single WordPress media URL (prints S3 URL)
   --limit N        Process only N files (for testing)
   --concurrency N  Process N files in parallel (default: ${DEFAULT_CONCURRENCY})
   --dry-run        Show what would be done without making changes

@@ -13,6 +13,7 @@ tags:
   - "Maryland"
   - "New York Harbor School"
   - "oysters"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/09/oysters.jpg"
 author: "Rick Spilman"
 description: "Will oysters help to clean up Chesapeake Bay and New York Harbor or will climate change take them out? The question came to mind recently when I read about the world’s largest man-made oyster reef recently finished on Harris Creek … Continue reading &rarr;"
 ---

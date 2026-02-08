@@ -10,6 +10,7 @@ tags:
   - "microplastics"
   - "Pacific Garbage Patch"
   - "sea ice"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/04/seaice.jpg"
 author: "Rick Spilman"
 description: "A new study has found record quantities of microplastics in sea ice. The study, published this week in Nature Communications, demonstrates \"just how pervasive this type of pollution has become in every last corner of our planet,\" says Melanie Bergmann, one of … Continue reading &rarr;"
 ---

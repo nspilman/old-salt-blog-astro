@@ -13,6 +13,7 @@ tags:
   - "PT-305"
   - "U.S. National WWII Museum"
   - "U.S.S. Sudden Jerk"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/03/suddenjerk.jpg"
 author: "Rick Spilman"
 description: "The National WWII Museum has fully restored PT-305 and is putting her back in service on Louisiana’s Lake Pontchartrain. PT-305, nicknamed U.S.S. Sudden Jerk, is the only surviving fully-operational patrol torpedo boat to have seen combat in World War II. … Continue reading &rarr;"
 ---

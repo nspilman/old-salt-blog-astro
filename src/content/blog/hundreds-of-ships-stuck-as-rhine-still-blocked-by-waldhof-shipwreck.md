@@ -13,6 +13,7 @@ tags:
   - "Rhine River"
   - "sulfuric acid"
   - "Waldhof"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/32765.jpg"
 author: "Rick Spilman"
 description: "An update to a post from last week:   A backlog of close to 400 ships is still bottled up on the Rhine River following the capsizing of the 110M chemical tank barge, Waldhof, on January 13th  near the Lorelei … Continue reading &rarr;"
 ---

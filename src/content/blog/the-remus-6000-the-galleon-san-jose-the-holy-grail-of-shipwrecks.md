@@ -12,6 +12,7 @@ tags:
   - "Remus 6000"
   - "WHOI"
   - "Woods Hole Oceanographic Institution"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/galleonsanjose.jpg"
 author: "Rick Spilman"
 description: "On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a press release, that they \"recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old … Continue reading &rarr;"
 ---

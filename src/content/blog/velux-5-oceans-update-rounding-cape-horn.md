@@ -11,6 +11,7 @@ tags:
   - "Cape Horn"
   - "La Pingouin"
   - "Velux 5 Oceans Singlehanded Around the World Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/02/bradvl.jpg"
 author: "Rick Spilman"
 description: "The four boat fleet of the Velux 5 Oceans Singlehanded Around the World Race has rounded or is rounding Cape Horn on the third leg of the race.   Brad Van Liew on La Pingouin has kept the lead.    Unless … Continue reading &rarr;"
 ---

@@ -10,6 +10,7 @@ tags:
   - "Biscayne Bay"
   - "grand piano"
   - "sandbar"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/28piano-cnd-articleLarge.jpg"
 author: "Rick Spilman"
 description: "A grand piano appeared recently on a sand bar in Biscayne Bay.  It has been the subject of considerable discussion. Mysterious grand piano found on Biscayne Bay sandbar Here’s a mystery that gives a whole new meaning to the phrase … Continue reading &rarr;"
 ---

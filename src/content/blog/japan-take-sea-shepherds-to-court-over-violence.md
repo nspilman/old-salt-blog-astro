@@ -11,6 +11,7 @@ tags:
   - "lawsuit"
   - "Paul Watson"
   - "Sea Shepherds"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/photo886.jpg"
 author: "Rick Spilman"
 description: "Japan’s whaling authorities are suing the Sea Shepherds in US courts to attempt to stop the violence directed by the organization against the annual Japanese whale hunt.  The Sea Shepherds claim that the annual hunt is illegal, but prefer what they … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "New Jersey Shore Tsunami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/06/njtsunami.jpg"
 author: "Rick Spilman"
 description: "It looked like a tsunami rolling in from the Atlantic on Sea Girt on the Jersey Shore. It was merely a beautiful if somewhat threatening fog bank."
 ---

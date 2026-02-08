@@ -12,6 +12,7 @@ tags:
   - "Royal Navy"
   - "rum"
   - "West Indies"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/05/rumskeletons.jpg"
 author: "Rick Spilman"
 description: "For Royal Navy sailors and British soldiers in the West Indies during the 18th century, rum was a refuge for the discomforts of the duties of the day. The rum also may have been killing them. It wasn’t the alcohol, but … Continue reading &rarr;"
 ---

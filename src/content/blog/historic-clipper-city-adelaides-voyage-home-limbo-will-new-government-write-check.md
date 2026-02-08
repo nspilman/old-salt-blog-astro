@@ -11,6 +11,7 @@ tags:
   - "Australia"
   - "City of Adelaide"
   - "clipper ship"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/cofabarge1.jpg"
 author: "Rick Spilman"
 description: "The clipper ship City of Adelaide is supposed to be transported by heavy-lift ship back to Australia in the near future. Scottish taxpayers have already chipped in $1.2 million.  The City of Adelaide Trust, however, has been unable to book … Continue reading &rarr;"
 ---

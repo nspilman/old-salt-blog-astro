@@ -12,6 +12,7 @@ tags:
   - "squall"
   - "SV Concordia"
   - "Transportation Safety Board of Canada"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/10/m10f0003_photo_3.jpg"
 author: "Rick Spilman"
 description: "We recently posted that Transportation Safety Board of Canada has concluded that poor training played a role in the knockdown and capsizing of SV Concordia.  The official Marine Investigation Report examines the events leading up to the capsize in some detail.  It … Continue reading &rarr;"
 ---

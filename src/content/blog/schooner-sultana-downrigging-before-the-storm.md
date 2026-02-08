@@ -18,6 +18,7 @@ tags:
   - "Sigsbee."
   - "Skipjack"
   - "skipjack Elsworth"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/10/sultanadownrigging.jpg"
 author: "Rick Spilman"
 description: "The annual Sultana Projects Downrigging Weekend, now in its twelfth year, is one of the largest annual tall ship and wooden boat festivals on the East Coast.  The Downrigging Weekend is described as \"a celebration of maritime culture, wooden boats, and everything else that makes the Chesapeake … Continue reading &rarr;"
 ---

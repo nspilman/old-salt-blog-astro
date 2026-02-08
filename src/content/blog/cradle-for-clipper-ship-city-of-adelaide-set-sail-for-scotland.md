@@ -12,6 +12,7 @@ tags:
   - "composite clipper ship"
   - "Gillman"
   - "South Australia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/cityadelaidewebpic.jpg"
 author: "Rick Spilman"
 description: "The City of Adelaide, built in 1864, is the oldest composite clipper ship in the world and is currently sitting on a slipway in Scotland waiting to be brought home to its namesake city.  The plan is for a steel cradle to … Continue reading &rarr;"
 ---

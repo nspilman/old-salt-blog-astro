@@ -11,6 +11,7 @@ tags:
   - "aircraft carrier"
   - "George H. W. Bush"
   - "Northrop Grumman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/CVN-77.jpg"
 author: "Rick Spilman"
 description: "After being under construction for almost a decade, the aircraft carrier George H. W. Bush was accepted by the US Navy following final seatrials last Friday. Northrop Grumman delivers Bush aircraft carrier to Navy … Continue reading &rarr;"
 ---

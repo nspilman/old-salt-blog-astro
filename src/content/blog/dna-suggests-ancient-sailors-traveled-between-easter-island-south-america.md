@@ -11,6 +11,7 @@ tags:
   - "Easter Island"
   - "Rapa Nui"
   - "South America"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/easterisland1.jpg"
 author: "Rick Spilman"
 description: "DNA suggests that sailors traveled between Easter Island & South America hundreds of years before the first Europeans visited the isalnd."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Laura Dekker"
   - "Mark Twain"
   - "St. Maartin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/ldekker.jpg"
 author: "Rick Spilman"
 description: "We recently posted about a minor kerfuffle involving Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work while sailing alone around the world.   It brought to mind the old adage from Mark Twain, \"Don’t … Continue reading &rarr;"
 ---

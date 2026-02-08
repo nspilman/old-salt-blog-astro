@@ -10,6 +10,7 @@ tags:
   - "Hidden Harbor tour"
   - "Staten Island"
   - "Working Waterfront Committee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/10/SIHiddenharbor.jpg"
 author: "Rick Spilman"
 description: "On Sunday, October 15, the Working Waterfront Committee is presenting \"The Hidden Harbors of Staten Island,\" a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member … Continue reading &rarr;"
 ---

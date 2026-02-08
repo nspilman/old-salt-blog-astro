@@ -5,6 +5,7 @@ slug: "update-hms-superb-%e2%80%93-royal-navy-court-martial"
 excerpt: "Last January we posted about the the HMS Superb, a  British nuclear submarine, which in 2008 crashed into a massive stone pinnacle under the Red Sea. (See Submarines Navigating Badly.)   Now the commander and two other officers have been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/03/subcommander.jpg"
 author: "Rick Spilman"
 description: "Last January we posted about the the HMS Superb, a  British nuclear submarine, which in 2008 crashed into a massive stone pinnacle under the Red Sea. (See Submarines Navigating Badly.)   Now the commander and two other officers have been … Continue reading &rarr;"
 ---

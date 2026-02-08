@@ -14,6 +14,7 @@ tags:
   - "Flettner rotors"
   - "M/V Estraden"
   - "Norsepower Oy Ltd."
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/01/Rotor-Sail-493.jpg"
 author: "Rick Spilman"
 description: "Finnish shipping line Bore installed a single Flettner rotor on the ro/ro M/V Estraden. The rotor was designed and built by Norsepower Oy Ltd."
 ---

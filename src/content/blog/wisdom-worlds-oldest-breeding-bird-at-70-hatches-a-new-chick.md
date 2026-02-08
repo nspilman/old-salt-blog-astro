@@ -10,6 +10,7 @@ tags:
   - "Albatross"
   - "Midway Atoll"
   - "Wisdom"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2021/03/wisdom.jpg"
 author: "Rick Spilman"
 description: "A Laysan albatross named Wisdom, first identified and banded on Midway Atoll in 1956, has hatched a chick at the age of at least 70. Wisdom, who returns each fall to Midway Atoll National Wildlife Refuge, outlived most of her mates, … Continue reading &rarr;"
 ---

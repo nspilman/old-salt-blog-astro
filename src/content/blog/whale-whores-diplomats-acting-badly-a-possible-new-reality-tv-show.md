@@ -5,6 +5,7 @@ slug: "whale-whores-diplomats-acting-badly-a-possible-new-reality-tv-show"
 excerpt: "We have been critical of the Sea Shepherds and their reality TV show, \"Whale Wars,\" which has not only demonstrated dreadful seamanship but has also encouraged illegal and dangerous vigilante violence.   We have suggested that diplomacy is preferable to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/06/whale_wars1.jpg"
 author: "Rick Spilman"
 description: "We have been critical of the Sea Shepherds and their reality TV show, \"Whale Wars,\" which has not only demonstrated dreadful seamanship but has also encouraged illegal and dangerous vigilante violence.   We have suggested that diplomacy is preferable to … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ categories:
 tags:
   - "Gallipoli"
   - "HMS M33"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/10/HMS_Monitor_M33.jpg"
 author: "Rick Spilman"
 description: "Monitor HMS M33, only surviving warship from the Gallipoli campaign of World War I, has received £1.79m from the UK’s Heritage Lottery Fund to allow the ship to be restored in time for the 100th anniversary of the campaign. GALLIPOLI … Continue reading &rarr;"
 ---

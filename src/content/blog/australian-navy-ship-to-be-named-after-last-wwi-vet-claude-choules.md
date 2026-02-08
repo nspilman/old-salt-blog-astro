@@ -12,6 +12,7 @@ tags:
   - "Claude Choules"
   - "HMAS Choules"
   - "Julia Gillard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/08/Largs_Bay.jpg"
 author: "Rick Spilman"
 description: "In May, we posted about the death of Claude Choules at 110.  Choules was the last surviving veteran of World War I.   Yesterday, Australian Prime Minister Julia Gillard announced that the ex-Royal Navy Largs Bay, a Bay class landing ship dock, would be commissioned as … Continue reading &rarr;"
 ---

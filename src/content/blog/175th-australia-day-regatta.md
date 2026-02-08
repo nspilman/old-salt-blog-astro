@@ -11,6 +11,7 @@ tags:
   - "Australia Day Regatta"
   - "classic wooden yachts"
   - "Sydney"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/01/Australia-Day-Regatta-665x2.jpg"
 author: "Rick Spilman"
 description: "The Australia Day Regatta was held today in Sydney harbor and featured more than 50 classic wooden yachts, many gaff-rigged, and several built more than a century ago. The Australia Day Regatta is the oldest continuously-conducted annual sailing regatta in … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "Jack Barlow"
   - "The Shantyman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/shantymanthumbebook.jpg"
 author: "Rick Spilman"
 description: "My novel, The Shantyman, is now available on Kindle and will soon be available in print. It is based on the true story of a shantyman with a troubled past."
 ---

@@ -11,6 +11,7 @@ tags:
   - "Horseshoe Shoal"
   - "Nantucket Sound"
   - "Siemens"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/02/Windmills.jpg"
 author: "Rick Spilman"
 description: "In the list of the world’s 25 largest operating offshore wind farms, 11 are based off the United Kingdom. Denmark has five; China three; Belgium and the Netherlands each have two, while Germany and Sweden each have one.  Don’t look for … Continue reading &rarr;"
 ---

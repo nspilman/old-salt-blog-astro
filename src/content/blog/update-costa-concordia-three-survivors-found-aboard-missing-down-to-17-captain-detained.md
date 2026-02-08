@@ -17,6 +17,7 @@ tags:
   - "Korean couple"
   - "ship's captain"
   - "Tuscanny"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/cc21.jpg"
 author: "Rick Spilman"
 description: "A Korean couple on their honeymoon, who had been trapped below decks on the cruise ship Costa Concordia for over 24 hours after the ship ran aground and sank in shallow water near the island of Giglio, off Italy’s Tuscan coast, were rescued yesterday.  A third … Continue reading &rarr;"
 ---

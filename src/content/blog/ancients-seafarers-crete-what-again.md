@@ -10,6 +10,7 @@ tags:
   - "axes"
   - "Crete"
   - "seafarers"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/16archeo01-articleLarge.jpg"
 author: "Rick Spilman"
 description: "An interesting if odd news item today: Cretan Tools Point To 130,000-Year-Old Sea Travel Archaeologists on the island of Crete have discovered what may be evidence of one of the world’s first sea voyages by human ancestors, the Greek Culture … Continue reading &rarr;"
 ---

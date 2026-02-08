@@ -16,6 +16,7 @@ tags:
   - "Petty Officer 1st Class Jim Hopkins"
   - "retired Boatswain Mate Chief Rich Belisle"
   - "US Coast Guard"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/04/Kodiakislandmap.jpg"
 author: "Rick Spilman"
 description: "This sounds like the teaser from a thriller or murder mystery. Unfortunately, it is all too real.  Last Thursday, shortly after 7 AM, coworkers found the bodies of US Coast Guard Petty Officer 1st Class Jim Hopkins and retired Boatswain Mate Chief Rich Belisle, working as a civilian contractor, at … Continue reading &rarr;"
 ---

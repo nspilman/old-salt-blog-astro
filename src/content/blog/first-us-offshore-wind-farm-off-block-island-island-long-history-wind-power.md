@@ -10,6 +10,7 @@ tags:
   - "Block Island"
   - "Deepwater Wind"
   - "offshore wind farm"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/biwind.jpg"
 author: "Rick Spilman"
 description: "Last November, we posted Wind Power Returns to Block Island about a planned offshore wind farm.  The installation of America’s first offshore wind farm has finally come to pass.  America’s very first offshore wind turbine was erected recently off the coast of … Continue reading &rarr;"
 ---

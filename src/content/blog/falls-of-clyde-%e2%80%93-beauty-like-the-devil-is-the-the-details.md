@@ -12,6 +12,7 @@ tags:
   - "Falls of Clyde"
   - "iron-hulled four-masted full rigged ship"
   - "Susan Yamamato"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2009/09/focatdock-150x99.jpg"
 author: "Rick Spilman"
 description: "Susan Yamamato has been posting some wonderful photographs from aboard the Falls of Clyde on her blog, Notes from the Wooden and Iron World.    Beauty, like the devil, is often in the details.  Click here to view the gallery. Falls of … Continue reading &rarr;"
 ---

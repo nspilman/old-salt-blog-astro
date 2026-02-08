@@ -11,6 +11,7 @@ tags:
   - "Christopher White"
   - "Sailing Oystermen"
   - "Skipjack"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/02/skipjacks.jpg"
 author: "Rick Spilman"
 description: "A review by Steven Toby, written for the Maritime History Listserv, included here with his kind permission.  Sounds like a fascinating book. Skipjack: The Story of America’s Last Sailing Oystermen by Christopher White is an excellent book on the last commercial fishing craft … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "Fort Skyler"
   - "school ship"
   - "SUNY Maritime College"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/03/ReplaceES.jpg"
 author: "Rick Spilman"
 description: "We recently posted about Scott Kelly, the American astronaut who spent almost a year in space on the international Space Station. Scott Kelly is an alumnus of the State University of New York Maritime College at Fort Schuyler.  Before graduating … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ tags:
   - "US Coast Guard"
   - "Viking funeral"
   - "World War II veteran"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/10/vikingpyre.jpg"
 author: "Rick Spilman"
 description: "US Coast Guard, Station Atlantic City, helped give Andrew Haines, a World War II veteran, the Viking funeral that he had dreamed of for years."
 ---

@@ -10,6 +10,7 @@ tags:
   - "Bailiwick Bass Club Open Challenge"
   - "Guernsey"
   - "Guernsey Aquarium"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/01/stoelnbass.jpg"
 author: "Rick Spilman"
 description: "Last summer, 29 year old Matthew Clark almost won the latest Bailiwick Bass Club Open Challenge in Guernsey.  The almost 14 pound fish that he presented at the weigh in should have the won the the £800 first prize if one of the judges … Continue reading &rarr;"
 ---

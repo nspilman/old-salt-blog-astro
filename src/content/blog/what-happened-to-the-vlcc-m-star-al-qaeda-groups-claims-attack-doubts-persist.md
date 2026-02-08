@@ -14,6 +14,7 @@ tags:
   - "M. Star"
   - "MOL tanker"
   - "waterborne improvised explosive device"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/08/mstar2.jpg"
 author: "Rick Spilman"
 description: "Over the last week, there have been no shortage of theories and often contradictory claims about what caused the damage to the hull and deck house of the MOL tanker M. Star while transiting the Straits of Hormuz.   The initial … Continue reading &rarr;"
 ---

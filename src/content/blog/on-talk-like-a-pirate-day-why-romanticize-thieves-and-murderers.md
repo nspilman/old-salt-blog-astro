@@ -11,6 +11,7 @@ tags:
   - "history"
   - "pirates"
   - "talk like a pirate day"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/09/jack-en-piratas-del-caribe.jpg"
 author: "Rick Spilman"
 description: "On \"Talk Like a Pirate Day,\" why are we romanticizing thieves and murderers? There is a vast disconnect between the actual pirates and pirates in movies."
 ---

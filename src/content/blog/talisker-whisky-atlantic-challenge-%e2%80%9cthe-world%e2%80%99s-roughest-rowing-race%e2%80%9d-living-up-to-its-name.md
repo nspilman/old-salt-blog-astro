@@ -8,6 +8,7 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Talisker Whisky Atlantic Challenge"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/12/talisker-1.jpg"
 author: "Rick Spilman"
 description: "The Talisker Whisky Atlantic Challenge  which bills itself as \"The World’s Roughest Rowing Race\" is living up to its name. As we posted previously, seventeen boats set off December 4th to row across the Atlantic from Spain’s San Sebastian de la Gomera … Continue reading &rarr;"
 ---

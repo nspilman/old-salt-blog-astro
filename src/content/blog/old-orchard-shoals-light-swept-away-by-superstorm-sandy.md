@@ -10,6 +10,7 @@ tags:
   - "\"superstorm\" Sandy"
   - "new york harbor"
   - "Old Orchard Shoals Light"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/11/11838453-large.jpg"
 author: "Rick Spilman"
 description: "The United States Coast Guard Notice to Mariners reads simply – Old Orchard Shoals Light  STRUCT DEST. The Old Orchard Shoals Light was built in 1893 in New York’s outer harbor off Staten Island near Great Kills Beach. The 51-foot tall cast … Continue reading &rarr;"
 ---

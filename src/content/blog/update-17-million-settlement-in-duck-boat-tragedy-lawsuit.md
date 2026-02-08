@@ -14,6 +14,7 @@ tags:
   - "Matthew Devlin"
   - "Ride the Ducks"
   - "Szabolcs Prem"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/duck2a.jpg"
 author: "Rick Spilman"
 description: "A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, Caribbean Sea, struck the disabled \"Duck boat\" DUKW 34 at anchor in … Continue reading &rarr;"
 ---

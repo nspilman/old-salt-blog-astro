@@ -10,6 +10,7 @@ tags:
   - "Fisherman's Cup"
   - "Great Provincetown Schooner Regatta"
   - "Twenty-Eighth Annual Gloucester Schooner Festival"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/GPSRWebsiteHeader2012.jpg"
 author: "Rick Spilman"
 description: "Two great schooner festivals and regattas are now underway on Massachusetts’ Cape Ann and Cape Cod. On Cape Ann, the Twenty-Eighth Annual Gloucester Schooner Festival began yesterday with the arrival of the schooner fleet. Today there will be dockside events … Continue reading &rarr;"
 ---

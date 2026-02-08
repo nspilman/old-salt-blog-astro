@@ -12,6 +12,7 @@ tags:
   - "fireboat John J. Harvey"
   - "New York City fireboat 343"
   - "World Trade Center"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/05/343.jpg"
 author: "Rick Spilman"
 description: "When the new New York City fireboat 343 arrived in New York harbor yesterday, one of the fleet greeting her was the fireboat John J. Harvey.  (Will has some great photos and commentary the tugster blog.)   I am struck by … Continue reading &rarr;"
 ---

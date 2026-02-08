@@ -8,6 +8,7 @@ categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/11/prefabchurch.jpg"
 author: "Rick Spilman"
 description: "Around 1847, Henry Manning, a London carpenter, started building houses in components that could be easily stowed on ships and reassembled by emigrants on the other side of an ocean. Several hundred \"Manning cottages\" were shipped to Australia. It turns … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "negotiator"
   - "Quest"
   - "Somali pirate"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/shibin.jpg"
 author: "Rick Spilman"
 description: "Yesterday, a federal judge in Virginia ordered Somali pirate Mohammad Saaili Shibin to serve 12 life sentences, 10 of which will run concurrently, while two are consecutive. Shibin was also ordered to pay $5.4 million in restitution. Shibin, 50, has white hair and … Continue reading &rarr;"
 ---

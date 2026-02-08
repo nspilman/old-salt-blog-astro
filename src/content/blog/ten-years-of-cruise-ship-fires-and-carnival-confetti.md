@@ -13,6 +13,7 @@ tags:
   - "Cruise Law News"
   - "Jim Walker"
   - "John Heald"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/12/ecstasy19981.jpg"
 author: "Rick Spilman"
 description: "A weird dissonance between two cruise stories struck me recently.   On one hand, Carnival Cruise Lines is \"the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.\"   As reported by the the Maritime Executive \"the sponsorship includes multiple opportunities to associate the … Continue reading &rarr;"
 ---

@@ -11,6 +11,7 @@ categories:
 tags:
   - "Benson Ford"
   - "John W. Boardman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/08/19607471.jpg"
 author: "Rick Spilman"
 description: "The forward deck houses, two lakes freighters, Benson Ford and John W. Boardman, have become lake houses."
 ---

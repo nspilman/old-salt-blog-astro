@@ -12,6 +12,7 @@ tags:
   - "Friends of Liberty State Park"
   - "Home Port Alliance"
   - "USS New Jersey Battleship Foundation"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/03/800px-New_Jersey_Sails.jpg"
 author: "Rick Spilman"
 description: "Retirement has not been easy for the Battleship New Jersey. After serving with distinction for 45 years in World War II, the Korean Conflict and the War in Vietnam, the highly decorated battleship became a museum ship in Camden, New Jersey in … Continue reading &rarr;"
 ---

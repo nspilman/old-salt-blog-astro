@@ -13,6 +13,7 @@ tags:
   - "Korean shipyards"
   - "Newport News Shipbuilding"
   - "Northrop Grumman"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/shipyard.jpg"
 author: "Rick Spilman"
 description: "For the first time since 2003, Korean shipyards have lost their position as the  world’s number one shipbuilder to China. China overtakes Korea in shipbuilding deliveries According to Clarkson Research Services Ltd., a London-based market research firm, Korean shipbuilding companies … Continue reading &rarr;"
 ---

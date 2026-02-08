@@ -10,6 +10,7 @@ tags:
   - "adaptive sailing program"
   - "Challenged America"
   - "Transpac Race"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/03/cropped-IMG_4338-2011-heade.jpg"
 author: "Rick Spilman"
 description: "Urban Miyares, a Vietnam vet, is totally blind, suffering from diabetes, has several organ transplants, and a whole number of medical issues, including severe nerve damage in his lower extremities making him a walking paraplegic. He is also the current … Continue reading &rarr;"
 ---

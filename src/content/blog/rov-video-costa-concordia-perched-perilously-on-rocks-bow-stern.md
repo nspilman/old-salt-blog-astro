@@ -11,6 +11,7 @@ tags:
   - "Costa Concordia"
   - "remotely operated vehicle"
   - "ROV"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/concordiazoom.jpg"
 author: "Rick Spilman"
 description: "Video shot by a remotely operated vehicle (ROV), roughly a month after the ship ran aground, shows that the Costa Concordia is not sitting evenly on the bottom.  Instead, the 950′ long ship is perched perilously on two rocky outcroppings at the bow … Continue reading &rarr;"
 ---

@@ -9,6 +9,7 @@ categories:
 tags:
   - "trans-Atlantic rowing"
   - "Victor Moody"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/VICTOR-MOONEY.jpg"
 author: "Rick Spilman"
 description: "Last February we posted about Victor Mooney’s third attempt to row alone across the Atlantic.   While Mooney, 45 of Forest Hills, New York, has attempted the voyage three times, he has not come close to succeeding thus far.  His first attempt in 2006 lasted only three … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "recycling"
   - "Vac from the Sea"
   - "vacuum cleaner"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/09/vacfromthesea.jpg"
 author: "Rick Spilman"
 description: "Yesterday we posted that scientists are not sure where all the plastic floating in the vast Atlantic and Pacific garbage patches is going.  Sadly, the answer is probably not that a big vacuum cleaner is vacuuming the stuff up to recycle it. Nevertheless, here is a great story about Electrolux, which … Continue reading &rarr;"
 ---

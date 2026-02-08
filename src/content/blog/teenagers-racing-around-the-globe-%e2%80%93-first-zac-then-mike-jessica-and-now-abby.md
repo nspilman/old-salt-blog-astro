@@ -14,6 +14,7 @@ tags:
   - "Queensland"
   - "youngest person to sail around the world alone"
   - "Zac Sunderland"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/teenagers.jpg"
 author: "Rick Spilman"
 description: "In July of last year, Zac Sunderland, a 17-year-old from Southern California, became the youngest person to sail around the world alone.   He held that tile for only about a month as the British 17 year old sailor, Mike … Continue reading &rarr;"
 ---

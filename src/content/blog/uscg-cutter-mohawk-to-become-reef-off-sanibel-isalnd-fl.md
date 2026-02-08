@@ -14,6 +14,7 @@ tags:
   - "Mohawk"
   - "Sanibel Island"
   - "US Coast Guard Cutter"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/11/mohawk.jpg"
 author: "Rick Spilman"
 description: "The World War II era US Coast Guard Cutter Mohawk is scheduled to be  scuttled in 2012, 16 miles off the coast of Sanibel Island, FL in the Gulf of Mexico to serve as an artificial reef. Veteran’s Memorial Reef planned off … Continue reading &rarr;"
 ---

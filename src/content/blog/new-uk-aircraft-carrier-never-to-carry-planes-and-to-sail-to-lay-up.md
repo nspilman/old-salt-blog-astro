@@ -10,6 +10,7 @@ categories:
 tags:
   - "aircraft carriers"
   - "Ark Royal"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/10/aircraftc.jpg"
 author: "Rick Spilman"
 description: "This morning we posted about the possibility of the immediate lay-up of the UK’s flagship, the aircraft carrier Ark Royal. We now read that one of the two new £3 billion aircraft carriers will never carry aircraft and may sail  into lay-up or be put … Continue reading &rarr;"
 ---

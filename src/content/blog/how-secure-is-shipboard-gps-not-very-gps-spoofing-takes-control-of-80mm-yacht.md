@@ -12,6 +12,7 @@ tags:
   - "Todd Humphreys"
   - "University of Texas"
   - "White Rose"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/whiterose.jpg"
 author: "Rick Spilman"
 description: "In June, the navigation system of the 213′ yacht White Rose was taken over by a team of University of Texas students. Using only a laptop, a small antenna, and a GPS \"spoofing\" device, the team fed a stronger signal … Continue reading &rarr;"
 ---

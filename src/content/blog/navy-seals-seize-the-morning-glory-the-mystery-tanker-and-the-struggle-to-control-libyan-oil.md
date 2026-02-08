@@ -5,6 +5,7 @@ slug: "navy-seals-seize-the-morning-glory-the-mystery-tanker-and-the-struggle-to
 excerpt: "This morning, the press was abuzz with reports that last Monday, in the Mediterranean off Cyprus, US Navy SEALS boarded and took control of an oil tanker, Morning Glory, which had recently loaded a cargo of Libyan oil in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/03/43903.jpg"
 author: "Rick Spilman"
 description: "This morning, the press was abuzz with reports that last Monday, in the Mediterranean off Cyprus, US Navy SEALS boarded and took control of an oil tanker, Morning Glory, which had recently loaded a cargo of Libyan oil in the … Continue reading &rarr;"
 ---

@@ -13,6 +13,7 @@ tags:
   - "Portsmouth Naval Shipyard"
   - "shipyard worker"
   - "USS Miami"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/05/ussmiamifire.jpg"
 author: "Rick Spilman"
 description: "We apologize to industrial vacuum cleaners. (They may not be the national security threat we once thought.)   In a previous post we repeated a statement by the Federal investigators that the fire on the nuclear submarine USS Miami, undergoing repairs in … Continue reading &rarr;"
 ---

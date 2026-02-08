@@ -11,6 +11,7 @@ tags:
   - "Captain Schettino"
   - "conviction"
   - "Costa Concordia"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/02/captainconcordia-191x200.jpg"
 author: "Rick Spilman"
 description: "Captain Francesco Schettino has been found guilty of manslaughter associated with the grounding and sinking of the Costa Concordia in 2012."
 ---

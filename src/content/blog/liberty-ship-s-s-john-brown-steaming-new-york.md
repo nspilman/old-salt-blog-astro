@@ -11,6 +11,7 @@ tags:
   - "Liberty ship"
   - "new york"
   - "S.S. John Brown"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/jownwbrown.jpg"
 author: "Rick Spilman"
 description: "S.S. John Brown, one of only two operational Liberty ships, is steaming toward New York harbor and is expected to arrive the morning of Saturday, September 10th. The historic ship will be berthed at Pier 36, 299 South Street, on … Continue reading &rarr;"
 ---

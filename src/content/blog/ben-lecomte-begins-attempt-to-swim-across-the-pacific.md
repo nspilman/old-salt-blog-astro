@@ -10,6 +10,7 @@ tags:
   - "Ben Lecomte"
   - "distance swimmer"
   - "Pacific"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/06/benlecomte.jpg"
 author: "Rick Spilman"
 description: "French-born swimmer Ben Lecomte has set off on a 5,500-mile record attempt to swim across the Pacific Ocean from Japan to California. The 51-year-old professional distance swimmer will swim for eight hours a day for more than six months as … Continue reading &rarr;"
 ---

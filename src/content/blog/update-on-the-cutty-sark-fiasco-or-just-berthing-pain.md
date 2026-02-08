@@ -11,6 +11,7 @@ tags:
   - "Cutty Sark"
   - "fire"
   - "restoration"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/cutty_sark.jpg"
 author: "Rick Spilman"
 description: "Last September we posted about an article in the Telegraph, Cutty Sark restoration turning into a fiasco.   Thanks to Alaric Bond for passing on an update recently published in the Private Eye.  The restoration of the Cutty Sark, after a major fire in 2007, … Continue reading &rarr;"
 ---

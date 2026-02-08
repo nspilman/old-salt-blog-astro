@@ -15,6 +15,7 @@ tags:
   - "Hugo Boss"
   - "Les Sables-d'Olonne"
   - "Vendée Globe"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2017/01/bankpop2.jpg"
 author: "Rick Spilman"
 description: "After sailing over 24,000 nautical miles and just 300 nautical miles from the finish line of the Vendee Globe singlehanded round the world race, Armel Le Cleac’h sailing Banque Populaire VIII is holding a slim 30 nautical mile lead on … Continue reading &rarr;"
 ---

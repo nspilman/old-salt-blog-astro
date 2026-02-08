@@ -10,6 +10,7 @@ tags:
   - "Northwest Passage"
   - "record ice melt"
   - "Scorpius"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/09/arcticyacht.jpg"
 author: "Rick Spilman"
 description: "The sea ice in the Arctic has melted to a record low this year. Yachts are not voyaging where once only large icebreakers could travel. Recently, the three man crew of the Belzebub II, a 1976 built Hallberg-Rassy Monsun 31 sloop, … Continue reading &rarr;"
 ---

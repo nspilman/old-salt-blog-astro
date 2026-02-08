@@ -11,6 +11,7 @@ tags:
   - "Frank Swift"
   - "Maine Windjammer Association"
   - "Maine Windjammer Cruises"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/07/CWF1.jpg"
 author: "Rick Spilman"
 description: "In 1936, Frank Swift founded Maine Windjammer Cruises and began chartering or buying old cargo schooners and offering passenger cruises along the Maine Coast.  This Friday, the Maine Windjammer Association will hold the 7th Annual Maine Windjammer Parade & Anniversary Party in honor of Swift’s founding … Continue reading &rarr;"
 ---

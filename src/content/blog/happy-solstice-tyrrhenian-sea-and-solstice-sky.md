@@ -11,6 +11,7 @@ tags:
   - "NASA"
   - "Solstice"
   - "Tyrrhenian Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2014/12/wintersolstice_pivato_1280.jpg"
 author: "Rick Spilman"
 description: "NASA’s Astronomy Picture of the Day: Today the solstice occurs at 23:03 Universal Time, the Sun reaching its southernmost declination in planet Earth’s sky. Of course, the December solstice marks the beginning of winter in the northern hemisphere and summer … Continue reading &rarr;"
 ---

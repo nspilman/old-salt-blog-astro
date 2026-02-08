@@ -6,6 +6,7 @@ excerpt: "Thanks to Anne Maclachlan and the Naval History & Heritage Command f
 categories:
   - "History"
   - "Lore of the Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/06/greely_large_thumb.jpg"
 author: "Rick Spilman"
 description: "Thanks to Anne Maclachlan and the Naval History & Heritage Command for pointing out on Facebook, a forgotten bit of history – the ill-fated Greely Expedition, which was rescued at Cape Sable on Ellesmere Island on June 22, 1884. In 1881, First Lieutenant … Continue reading &rarr;"
 ---

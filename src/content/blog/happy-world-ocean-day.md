@@ -12,6 +12,7 @@ tags:
   - "World Ocean Day"
   - "World Ocean Network"
   - "Youth – the Next Wave for Change"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/WOD_2009_logo-RVB.gif"
 author: "Rick Spilman"
 description: "June 8th is officially World Ocean Day,  \"a global celebration of ocean conservation,\"  sponsored by the United Nations since 2008, and coordinated internationally by The Ocean Project and the World Ocean Network.  The theme for this year and next is : Youth – … Continue reading &rarr;"
 ---

@@ -14,6 +14,7 @@ tags:
   - "MV Guanabara"
   - "piracy"
   - "trials"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/seapirates_3951.jpg"
 author: "Rick Spilman"
 description: "The battle against piracy in the Indian Ocean and Arabian Sea may be changing.   This week Japan announced that  it would try four suspected pirates being held by the US Navy after they were captured attempting to hijack the Japanese owned tanker MV … Continue reading &rarr;"
 ---

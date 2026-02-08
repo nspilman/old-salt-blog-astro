@@ -15,6 +15,7 @@ tags:
   - "RIMPAC"
   - "Secretary of the Navy"
   - "Senate defense appropriations subcommittee"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/08/greatgreenfleet.jpg"
 author: "Rick Spilman"
 description: "After being threatened the by Republican cost-cutters, the Senate defense appropriations subcommittee recently voted to continue funding the Navy’s \"Great green Fleet\" alternative energy program. In 2009, Secretary of the Navy Ray Mabus announced the Navy’s \"Great Green Fleet\" initiative with the goals … Continue reading &rarr;"
 ---

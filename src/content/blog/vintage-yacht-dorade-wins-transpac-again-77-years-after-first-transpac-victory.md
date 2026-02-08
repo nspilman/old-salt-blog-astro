@@ -11,6 +11,7 @@ tags:
   - "Olin Stephens II"
   - "Transpac Race"
   - "vintage yacht"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2013/07/vsbr2012-day5-3421.jpg"
 author: "Rick Spilman"
 description: "Modern sailing racing yachts tend to have plumb bows and broad flat sterns. The Transpacific Yacht Race, a 2,225 nautical miles race from Los Angelos to Honolulu, Hawaii, has been dominated for several decades by these lightweight, high speed, sailing … Continue reading &rarr;"
 ---

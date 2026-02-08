@@ -6,6 +6,7 @@ excerpt: "I have really enjoyed Linda Collison‘s two books in her Patricia Mac
 categories:
   - "Lore of the Sea"
   - "Seastories"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2008/09/Alaric_1.jpg"
 author: "Rick Spilman"
 description: "I have really enjoyed Linda Collison‘s two books in her Patricia MacPherson nautical adventure series. (See our reviews of Star-Crossed and Surgeon’s Mate.)  She is also an excellent interviewer. Here she interviews another favorite nautical writer and frequent contributor to this blog, Alaric Bond.  (See also Linda’s … Continue reading &rarr;"
 ---

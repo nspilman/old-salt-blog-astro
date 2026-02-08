@@ -16,6 +16,7 @@ tags:
   - "Scotland"
   - "Tall Ship Elissa"
   - "US astronaut"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/elissa_aberdeen_museums.jpg"
 author: "Rick Spilman"
 description: "The Tall Ship Elissa was built was built in Aberdeen, Scotland in 1877 by Alexander Hall and Co. She has been fully restored and is currently sailing out of Galveston, Texas. She recently successfully completed drydocking and inspection.  A small piece of … Continue reading &rarr;"
 ---

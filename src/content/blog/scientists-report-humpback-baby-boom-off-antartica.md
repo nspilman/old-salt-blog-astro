@@ -10,6 +10,7 @@ tags:
   - "Antarctica"
   - "baby boom"
   - "humpback whales"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2018/05/humpbacktail.jpg"
 author: "Rick Spilman"
 description: "After posting about a terrible year for North Atlantic right whales, in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a \"baby-boom\" among … Continue reading &rarr;"
 ---

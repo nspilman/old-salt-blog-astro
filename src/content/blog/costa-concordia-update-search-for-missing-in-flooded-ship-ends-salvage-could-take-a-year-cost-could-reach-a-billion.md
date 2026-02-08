@@ -12,6 +12,7 @@ tags:
   - "Costa Concordia"
   - "Costa Cruises"
   - "Franco Gabrielli"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/01/costa_concordia9.jpg"
 author: "Rick Spilman"
 description: "The search for the missing in the submerged portions of the Costa Concordia has ended due to concerns for the safety of the rescue workers.  The estimated toll from the sinking stands at 33 dead or missing.  The bodies of … Continue reading &rarr;"
 ---

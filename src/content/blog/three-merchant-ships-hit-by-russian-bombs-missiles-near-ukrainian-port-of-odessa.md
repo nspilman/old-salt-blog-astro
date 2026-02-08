@@ -11,6 +11,7 @@ tags:
   - "Odessa"
   - "Russian warships"
   - "Ukraine"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2022/02/tankerodessa.jpg"
 author: "Rick Spilman"
 description: "Reuters is reporting that Russian warships shelled Millennial Spirit, a Moldovan-flagged chemical tanker, and Namura Queen, a Panamanian-flagged cargo ship due to load grain near Odessa port in the Black Sea on Friday, one day after Russia began a full-scale invasion … Continue reading &rarr;"
 ---

@@ -12,6 +12,7 @@ tags:
   - "great white shark"
   - "heavy metal music"
   - "Neptune Bay"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/42-25010240.jpg"
 author: "Rick Spilman"
 description: "And speaking of \"music of the sea\", an intriguing story from Australia.  When Matt Waller, a tour operator in Neptune Bay, Australia, attached speakers to shark cages and played the heavy metal band AC/DC, he discovered that the great white sharks became … Continue reading &rarr;"
 ---

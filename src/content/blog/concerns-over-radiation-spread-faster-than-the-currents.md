@@ -11,6 +11,7 @@ tags:
   - "Japan"
   - "radiation detector"
   - "seafood"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/04/fishradcheck.jpg"
 author: "Rick Spilman"
 description: "My wife and I are celebrating our 25th wedding anniversary in a week by having dinner at Le Bernardin.  I had proposed in the Le Bernardin, when the restaurant was still in Paris, so it has always seemed a great place to celebrate anniversaries. … Continue reading &rarr;"
 ---

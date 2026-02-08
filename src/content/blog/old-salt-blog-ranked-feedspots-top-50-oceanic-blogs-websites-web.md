@@ -9,6 +9,7 @@ categories:
 tags:
   - "Feedspot"
   - "Oceanic Blogs"
+featuredImage: "https://blog.feedspot.com/wp-content/uploads/2017/12/oceanic_216px.png?x59787"
 author: "Rick Spilman"
 description: "We are pleased to learn that the Old Salt Blog has been ranked 14th in Feedspot’s Top 50 Oceanic Blogs and Websites on the Web. The criteria for selection were: Google reputation and Google search ranking Influence and popularity on Facebook, … Continue reading &rarr;"
 ---

@@ -8,6 +8,7 @@ categories:
 tags:
   - "John MacTaggart"
   - "Pterosail"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/pterosail.jpg"
 author: "Rick Spilman"
 description: "John MacTaggart is attempting to sail cross-country on a Pterosail, a recumbent trike with a sail and solar panel.  He set off on July 1st in San Diego and is now in New Mexico on his way to Florida. He … Continue reading &rarr;"
 ---

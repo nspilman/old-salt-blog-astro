@@ -9,6 +9,7 @@ categories:
 tags:
   - "Columbia University’s Lamont-Doherty Earth Observatory"
   - "John Diebold"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/07/Diebold-John.jpg"
 author: "Rick Spilman"
 description: "John Diebold, 1944-2010 John Diebold, a marine scientist who sailed the world’s oceans for more than four decades using sound waves to study earthquake faults, underwater volcanoes and other normally hidden features of the seabed, died on July 1 at … Continue reading &rarr;"
 ---

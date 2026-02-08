@@ -13,6 +13,7 @@ tags:
   - "Japanese whaling"
   - "Sea Shepherds"
   - "Steve Irwin"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2010/01/sea-shepherd.jpg"
 author: "Rick Spilman"
 description: "After having their toy racing boat, Ady Gil sunk in a collision with a whaling ship; after experiencing engine problems as well as having the registration of their converted whaler, the B0b Barker, pulled by the Togolese; after having the captain … Continue reading &rarr;"
 ---

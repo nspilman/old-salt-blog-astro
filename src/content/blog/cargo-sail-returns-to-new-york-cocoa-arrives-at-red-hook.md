@@ -7,6 +7,7 @@ categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/06/NY-AZ887_SHIP_G_20110614185.jpg"
 author: "Rick Spilman"
 description: "The last time that a commercial cargo was unloaded from a sailing vessels at the New York docks was 1939.  That is, at least, until yesterday, when the 70′ schooner Black Seal arrived in Red Hook, Brooklyn and began unloading a cargo … Continue reading &rarr;"
 ---

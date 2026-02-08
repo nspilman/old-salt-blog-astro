@@ -11,6 +11,7 @@ tags:
   - "Albin Nimbus 42"
   - "Arcturus"
   - "Sherry Dawn"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2016/01/sherrydawn.jpg"
 author: "Rick Spilman"
 description: "The video is of an Albin Nimbus 42, named Sherry Dawn.  This summer I hope to be sailing a sister vessel named Arcturus."
 ---

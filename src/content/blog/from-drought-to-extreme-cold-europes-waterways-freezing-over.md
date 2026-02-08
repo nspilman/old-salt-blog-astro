@@ -11,6 +11,7 @@ tags:
   - "Rhine River"
   - "Rhine-Herne canal"
   - "The Danube River"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2012/02/rhine_ice.jpg"
 author: "Rick Spilman"
 description: "Pity the river boatman. Just a few months ago, a European drought lowered the water levels on many rivers and canals, significantly limiting barge and ship traffic.  The lower river levels also unexpectedly exposed un-exploded ordinance from  World War II.   In … Continue reading &rarr;"
 ---

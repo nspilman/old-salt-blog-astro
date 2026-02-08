@@ -15,6 +15,7 @@ tags:
   - "NTSB"
   - "VDR"
   - "Voyage Data Recorder"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2015/10/elfaro2.jpg"
 author: "Rick Spilman"
 description: "The NTSB has completed its search and video documentation of the sunken El Faro. The Voyage Data Recorder (VDR), the so-called \"black box\" was not found."
 ---

@@ -11,6 +11,7 @@ tags:
   - "PBS documentary"
   - "Shipping Out—The Story of America’s Seafaring Women"
   - "Women At Sea"
+featuredImage: "https://old-salt-blog-media.s3.us-east-2.amazonaws.com/uploads/2011/03/188138_211110038904244_6796866_n.jpg"
 author: "Rick Spilman"
 description: "For those in New York there is a special program, Women At Sea: Screening, Conversation, Reception, next Wednesday, March 30th, at the Community Church of New York, 40 East 35th Street, New York, NY at 6:00 PM.    The program features a … Continue reading &rarr;"
 ---
