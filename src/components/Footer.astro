@@ -28,9 +28,16 @@ const today = new Date();
 		background: #000000;
 		color: var(--nav-text);
 		margin-top: 0;
-		max-width: 1000px;
+		max-width: 1100px;
 		margin-left: auto;
 		margin-right: auto;
+	}
+
+	/* Tablet - reduce to content width when sidebar hidden */
+	@media (max-width: 1140px) {
+		footer {
+			max-width: 1000px;
+		}
 	}
 
 	/* On smaller screens, go full-width */
@@ -41,7 +48,7 @@ const today = new Date();
 	}
 
 	.footer-inner {
-		max-width: 940px;
+		max-width: 1000px;
 		margin: 0 auto;
 		padding: 0 1rem;
 	}

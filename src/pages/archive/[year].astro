@@ -4,8 +4,12 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Pagination from '../../components/Pagination.astro';
+import CompassRose from '../../components/CompassRose.astro';
+import Sidebar from '../../components/Sidebar.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
+
+export const prerender = true;
 
 export async function getStaticPaths() {
 	const allPosts = await getCollection('blog');
@@ -84,55 +88,59 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 	</head>
 	<body>
 		<Header />
+		<CompassRose />
 		<main>
-			<section>
-				<div class="page-header">
-					<h1>{year} Archive</h1>
-					<p class="subtitle">
-						{totalPosts.toLocaleString()} {totalPosts === 1 ? 'post' : 'posts'} from {year}
-					</p>
-				</div>
+			<div class="main-content">
+				<section>
+					<div class="page-header">
+						<h1>{year} Archive</h1>
+						<p class="subtitle">
+							{totalPosts.toLocaleString()} {totalPosts === 1 ? 'post' : 'posts'} from {year}
+						</p>
+					</div>
 
-				<div class="post-list">
-					{posts.map((post) => (
-						<article class="post-preview">
-							<a href={`/${post.data.slug}/`} class="post-link">
-								{post.data.featuredImage && (
-									<div class="post-image">
-										<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
-									</div>
-								)}
-								<div class="post-content">
-									<div class="post-meta">
-										<span class="post-date">
-											<FormattedDate date={post.data.date} />
-										</span>
-									</div>
-									<h2>{post.data.title}</h2>
-									{post.data.excerpt && (
-										<p class="post-excerpt">{post.data.excerpt}</p>
-									)}
-									{post.data.categories && post.data.categories.length > 0 && (
-										<div class="post-categories">
-											{post.data.categories.slice(0, 3).map((category) => (
-												<span class="category-tag">{category}</span>
-											))}
+					<div class="post-list">
+						{posts.map((post) => (
+							<article class="post-preview">
+								<a href={`/${post.data.slug}/`} class="post-link">
+									{post.data.featuredImage && (
+										<div class="post-image">
+											<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
 										</div>
 									)}
-								</div>
-							</a>
-						</article>
-					))}
-				</div>
+									<div class="post-content">
+										<div class="post-meta">
+											<span class="post-date">
+												<FormattedDate date={post.data.date} />
+											</span>
+										</div>
+										<h2>{post.data.title}</h2>
+										{post.data.excerpt && (
+											<p class="post-excerpt">{post.data.excerpt}</p>
+										)}
+										{post.data.categories && post.data.categories.length > 0 && (
+											<div class="post-categories">
+												{post.data.categories.slice(0, 3).map((category) => (
+													<span class="category-tag">{category}</span>
+												))}
+											</div>
+										)}
+									</div>
+								</a>
+							</article>
+						))}
+					</div>
 
-				{totalPages > 1 && (
-					<Pagination currentPage={currentPage} totalPages={totalPages} baseUrl={`/archive/${year}/`} />
-				)}
+					{totalPages > 1 && (
+						<Pagination currentPage={currentPage} totalPages={totalPages} baseUrl={`/archive/${year}/`} />
+					)}
 
-				<div class="archive-nav">
-					<a href="/archive/" class="back-link">← Back to all years</a>
-				</div>
-			</section>
+					<div class="archive-nav">
+						<a href="/archive/" class="back-link">← Back to all years</a>
+					</div>
+				</section>
+			</div>
+			<Sidebar />
 		</main>
 		<Footer />
 	</body>
@@ -141,20 +149,41 @@ const nextUrl = currentPage < totalPages ? `/archive/${year}-page-${currentPage 
 <style>
 	/* Archive Year - same soul as homepage */
 	main {
-		max-width: 1000px;
+		max-width: 1100px;
 		margin: 0 auto;
 		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
 		min-height: calc(100vh - 160px);
 		position: relative;
+		z-index: 2;
+		display: flex;
+		gap: 0;
+	}
+
+	.main-content {
+		flex: 1;
+		min-width: 0;
 	}
 
 	section {
-		max-width: 940px;
-		margin: 0 auto;
-		padding: 1.5rem 1rem;
+		max-width: 720px;
+		margin: 0;
+		padding: 1.5rem 1.5rem 1.5rem 2rem;
 	}
 
-	/* On smaller screens, go full-width */
+	/* On smaller screens, go full-width and hide sidebar */
+	@media (max-width: 1140px) {
+		main {
+			max-width: 1000px;
+			display: block;
+		}
+
+		section {
+			max-width: 940px;
+			margin: 0 auto;
+			padding: 1.5rem 1rem;
+		}
+	}
+
 	@media (max-width: 1040px) {
 		main {
 			max-width: 100%;

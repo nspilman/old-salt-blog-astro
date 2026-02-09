@@ -3,8 +3,11 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import CompassRose from '../../components/CompassRose.astro';
+import Sidebar from '../../components/Sidebar.astro';
 import { SITE_TITLE } from '../../consts';
 import { getCollection } from 'astro:content';
+
+export const prerender = true;
 
 // Get all blog posts
 const allPosts = await getCollection('blog');
@@ -37,27 +40,30 @@ const totalPosts = allPosts.length;
 		<Header />
 		<CompassRose />
 		<main>
-			<section>
-				<div class="page-header">
-					<h1>Archive</h1>
-					<p class="subtitle">
-						Browse all {totalPosts.toLocaleString()} posts by year
-					</p>
-				</div>
+			<div class="main-content">
+				<section>
+					<div class="page-header">
+						<h1>Archive</h1>
+						<p class="subtitle">
+							Browse all {totalPosts.toLocaleString()} posts by year
+						</p>
+					</div>
 
-				<div class="year-list">
-					{years.map(({ year, count }) => (
-						<article class="year-card">
-							<a href={`/archive/${year}/`} class="year-link">
-								<h2>{year}</h2>
-								<p class="post-count">
-									{count.toLocaleString()} {count === 1 ? 'post' : 'posts'}
-								</p>
-							</a>
-						</article>
-					))}
-				</div>
-			</section>
+					<div class="year-list">
+						{years.map(({ year, count }) => (
+							<article class="year-card">
+								<a href={`/archive/${year}/`} class="year-link">
+									<h2>{year}</h2>
+									<p class="post-count">
+										{count.toLocaleString()} {count === 1 ? 'post' : 'posts'}
+									</p>
+								</a>
+							</article>
+						))}
+					</div>
+				</section>
+			</div>
+			<Sidebar />
 		</main>
 		<Footer />
 	</body>
@@ -66,21 +72,41 @@ const totalPosts = allPosts.length;
 <style>
 	/* Archive - The ship's log years */
 	main {
-		max-width: 1000px;
+		max-width: 1100px;
 		margin: 0 auto;
 		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
 		min-height: calc(100vh - 160px);
 		position: relative;
 		z-index: 2;
+		display: flex;
+		gap: 0;
+	}
+
+	.main-content {
+		flex: 1;
+		min-width: 0;
 	}
 
 	section {
-		max-width: 940px;
-		margin: 0 auto;
-		padding: 1.5rem 1rem;
+		max-width: 720px;
+		margin: 0;
+		padding: 1.5rem 1.5rem 1.5rem 2rem;
 	}
 
-	/* On smaller screens, go full-width */
+	/* On smaller screens, go full-width and hide sidebar */
+	@media (max-width: 1140px) {
+		main {
+			max-width: 1000px;
+			display: block;
+		}
+
+		section {
+			max-width: 940px;
+			margin: 0 auto;
+			padding: 1.5rem 1rem;
+		}
+	}
+
 	@media (max-width: 1040px) {
 		main {
 			max-width: 100%;

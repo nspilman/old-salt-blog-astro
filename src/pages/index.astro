@@ -5,9 +5,12 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Pagination from '../components/Pagination.astro';
 import CompassRose from '../components/CompassRose.astro';
+import Sidebar from '../components/Sidebar.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection, render } from 'astro:content';
 import { getImageDimensions, isLandscape } from '../utils/images';
+
+export const prerender = true;
 
 // Get all blog posts and sort by date descending (newest first)
 const allPosts = await getCollection('blog');
@@ -89,41 +92,44 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 		<Header />
 		<CompassRose />
 		<main>
-			<section>
-				<div class="page-header">
-					<h1>Old Salt Blog</h1>
-					<p class="subtitle">Maritime and nautical stories from around the world</p>
-				</div>
+			<div class="main-content">
+				<section>
+					<div class="page-header">
+						<h1>Old Salt Blog</h1>
+						<p class="subtitle">Maritime and nautical stories from around the world</p>
+					</div>
 
-				<div class="post-list">
-					{postsWithContent.map(({ post, imageIsLandscape }) => (
-						<article class="post-preview">
-							<header class="post-header">
-								<h2><a href={`/${post.data.slug}/`}>{post.data.title}</a></h2>
-								<div class="post-meta">
-									<span class="post-date">
-										Posted on <FormattedDate date={post.data.date} />
-										{post.data.author && <> by <span class="author">{post.data.author}</span></>}
-									</span>
+					<div class="post-list">
+						{postsWithContent.map(({ post, imageIsLandscape }) => (
+							<article class="post-preview">
+								<header class="post-header">
+									<h2><a href={`/${post.data.slug}/`}>{post.data.title}</a></h2>
+									<div class="post-meta">
+										<span class="post-date">
+											Posted on <FormattedDate date={post.data.date} />
+											{post.data.author && <> by <span class="author">{post.data.author}</span></>}
+										</span>
+									</div>
+								</header>
+								<div class="post-body">
+									{post.data.featuredImage && (
+										<a href={`/${post.data.slug}/`} class={`post-image-link ${imageIsLandscape ? 'landscape' : 'portrait'}`}>
+											<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
+										</a>
+									)}
+									<div class="post-content" set:html={markdownToHtml(post.body || '', 200)} />
+									<p class="continue-reading">
+										<a href={`/${post.data.slug}/`}>Continue reading <span class="arrow">→</span></a>
+									</p>
 								</div>
-							</header>
-							<div class="post-body">
-								{post.data.featuredImage && (
-									<a href={`/${post.data.slug}/`} class={`post-image-link ${imageIsLandscape ? 'landscape' : 'portrait'}`}>
-										<img src={post.data.featuredImage} alt={post.data.title} loading="lazy" />
-									</a>
-								)}
-								<div class="post-content" set:html={markdownToHtml(post.body || '', 200)} />
-								<p class="continue-reading">
-									<a href={`/${post.data.slug}/`}>Continue reading <span class="arrow">→</span></a>
-								</p>
-							</div>
-						</article>
-					))}
-				</div>
+							</article>
+						))}
+					</div>
 
-				<Pagination currentPage={currentPage} totalPages={totalPages} baseUrl="/" />
-			</section>
+					<Pagination currentPage={currentPage} totalPages={totalPages} baseUrl="/" />
+				</section>
+			</div>
+			<Sidebar />
 		</main>
 		<Footer />
 	</body>
@@ -132,21 +138,41 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 <style>
 	/* The Ship's Log - Homepage styling */
 	main {
-		max-width: 1000px;
+		max-width: 1100px;
 		margin: 0 auto;
 		background: linear-gradient(180deg, #FDF8F0 0%, #F5EBD8 100%);
 		min-height: calc(100vh - 160px);
 		position: relative;
 		z-index: 2;
+		display: flex;
+		gap: 0;
+	}
+
+	.main-content {
+		flex: 1;
+		min-width: 0;
 	}
 
 	section {
-		max-width: 940px;
-		margin: 0 auto;
-		padding: 1.5rem 1rem;
+		max-width: 720px;
+		margin: 0;
+		padding: 1.5rem 1.5rem 1.5rem 2rem;
 	}
 
-	/* On smaller screens, go full-width */
+	/* On smaller screens, go full-width and hide sidebar */
+	@media (max-width: 1140px) {
+		main {
+			max-width: 1000px;
+			display: block;
+		}
+
+		section {
+			max-width: 940px;
+			margin: 0 auto;
+			padding: 1.5rem 1rem;
+		}
+	}
+
 	@media (max-width: 1040px) {
 		main {
 			max-width: 100%;

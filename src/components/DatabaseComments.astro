@@ -1,0 +1,530 @@
+---
+/**
+ * DatabaseComments Component
+ * Fetches comments from the Turso database via API
+ * Supports threaded comments and new comment submission
+ */
+
+interface Props {
+	slug: string;
+}
+
+const { slug } = Astro.props;
+---
+
+<div class="comments-section" data-slug={slug}>
+	<h2>Comments</h2>
+
+	<!-- Comments List (populated by JavaScript) -->
+	<div class="comments-list" id="comments-list">
+		<p class="loading">Loading comments...</p>
+	</div>
+
+	<!-- Comment Form -->
+	<div class="comment-form-wrapper">
+		<h3>Leave a Comment</h3>
+		<form id="comment-form" class="comment-form">
+			<input type="hidden" name="postSlug" value={slug} />
+			<input type="hidden" name="parentId" id="parent-id" value="" />
+
+			<!-- Honeypot field - hidden from real users -->
+			<div class="honeypot" aria-hidden="true">
+				<label for="website">Website (leave blank)</label>
+				<input type="text" name="website" id="website" tabindex="-1" autocomplete="off" />
+			</div>
+
+			<div class="form-group">
+				<label for="authorName">Name <span class="required">*</span></label>
+				<input type="text" name="authorName" id="authorName" required maxlength="100" />
+			</div>
+
+			<div class="form-group">
+				<label for="authorEmail">Email <span class="optional">(optional, not displayed)</span></label>
+				<input type="email" name="authorEmail" id="authorEmail" maxlength="255" />
+			</div>
+
+			<div class="form-group">
+				<label for="authorUrl">Website <span class="optional">(optional)</span></label>
+				<input type="url" name="authorUrl" id="authorUrl" maxlength="255" placeholder="https://" />
+			</div>
+
+			<div class="form-group">
+				<label for="content">Comment <span class="required">*</span></label>
+				<textarea name="content" id="content" required rows="5" maxlength="10000"></textarea>
+			</div>
+
+			<div class="reply-indicator" id="reply-indicator" style="display: none;">
+				Replying to: <span id="reply-to-name"></span>
+				<button type="button" id="cancel-reply" class="cancel-reply">Cancel</button>
+			</div>
+
+			<button type="submit" class="submit-btn">Submit Comment</button>
+			<p class="form-note">Your comment will appear after moderation.</p>
+		</form>
+
+		<div id="form-message" class="form-message" style="display: none;"></div>
+	</div>
+</div>
+
+<script>
+	interface Comment {
+		id: number;
+		postSlug: string;
+		authorName: string;
+		authorEmail: string | null;
+		authorUrl: string | null;
+		content: string;
+		parentId: number | null;
+		createdAt: string;
+		approved: boolean;
+		legacyWpId: number | null;
+	}
+
+	interface ThreadedComment extends Comment {
+		replies: ThreadedComment[];
+	}
+
+	// Initialize comments
+	document.addEventListener('DOMContentLoaded', async () => {
+		const section = document.querySelector('.comments-section') as HTMLElement;
+		const slug = section?.dataset.slug;
+
+		if (!slug) return;
+
+		await loadComments(slug);
+		setupForm(slug);
+	});
+
+	async function loadComments(slug: string) {
+		const listEl = document.getElementById('comments-list');
+		if (!listEl) return;
+
+		try {
+			const response = await fetch(`/api/comments/${encodeURIComponent(slug)}`);
+			if (!response.ok) throw new Error('Failed to fetch comments');
+
+			const comments: Comment[] = await response.json();
+
+			if (comments.length === 0) {
+				listEl.innerHTML = '<p class="no-comments">No comments yet. Be the first to comment!</p>';
+				return;
+			}
+
+			const threaded = buildCommentTree(comments);
+			listEl.innerHTML = threaded.map((c) => renderComment(c, 0)).join('');
+
+			// Setup reply buttons
+			document.querySelectorAll('.reply-btn').forEach((btn) => {
+				btn.addEventListener('click', (e) => {
+					const target = e.target as HTMLElement;
+					const commentId = target.dataset.commentId;
+					const authorName = target.dataset.authorName;
+					setReplyTo(parseInt(commentId || '0'), authorName || '');
+				});
+			});
+		} catch (error) {
+			console.error('Error loading comments:', error);
+			listEl.innerHTML = '<p class="error">Failed to load comments. Please try again later.</p>';
+		}
+	}
+
+	function buildCommentTree(comments: Comment[]): ThreadedComment[] {
+		const map = new Map<number, ThreadedComment>();
+		const roots: ThreadedComment[] = [];
+
+		// First pass: create threaded objects
+		comments.forEach((c) => {
+			map.set(c.id, { ...c, replies: [] });
+		});
+
+		// Second pass: build tree
+		comments.forEach((c) => {
+			const threaded = map.get(c.id)!;
+			if (!c.parentId) {
+				roots.push(threaded);
+			} else {
+				const parent = map.get(c.parentId);
+				if (parent) {
+					parent.replies.push(threaded);
+				} else {
+					roots.push(threaded);
+				}
+			}
+		});
+
+		return roots;
+	}
+
+	function renderComment(comment: ThreadedComment, depth: number): string {
+		const authorLink = comment.authorUrl
+			? `<a href="${escapeHtml(comment.authorUrl)}" target="_blank" rel="nofollow noopener">${escapeHtml(comment.authorName)}</a>`
+			: `<strong>${escapeHtml(comment.authorName)}</strong>`;
+
+		const date = new Date(comment.createdAt).toLocaleDateString('en-US', {
+			year: 'numeric',
+			month: 'long',
+			day: 'numeric',
+		});
+
+		const replies =
+			comment.replies.length > 0
+				? `<div class="comment-replies">${comment.replies.map((r) => renderComment(r, depth + 1)).join('')}</div>`
+				: '';
+
+		return `
+			<div class="comment depth-${Math.min(depth, 4)}" id="comment-${comment.id}">
+				<div class="comment-header">
+					<span class="comment-author">${authorLink}</span>
+					<span class="comment-date">${date}</span>
+				</div>
+				<div class="comment-content">${comment.content}</div>
+				<button class="reply-btn" data-comment-id="${comment.id}" data-author-name="${escapeHtml(comment.authorName)}">Reply</button>
+				${replies}
+			</div>
+		`;
+	}
+
+	function escapeHtml(str: string): string {
+		const div = document.createElement('div');
+		div.textContent = str;
+		return div.innerHTML;
+	}
+
+	function setReplyTo(parentId: number, authorName: string) {
+		const parentIdInput = document.getElementById('parent-id') as HTMLInputElement;
+		const indicator = document.getElementById('reply-indicator') as HTMLElement;
+		const replyToName = document.getElementById('reply-to-name') as HTMLElement;
+		const content = document.getElementById('content') as HTMLTextAreaElement;
+
+		parentIdInput.value = parentId.toString();
+		replyToName.textContent = authorName;
+		indicator.style.display = 'block';
+		content.focus();
+	}
+
+	function setupForm(slug: string) {
+		const form = document.getElementById('comment-form') as HTMLFormElement;
+		const cancelReply = document.getElementById('cancel-reply');
+		const message = document.getElementById('form-message') as HTMLElement;
+
+		cancelReply?.addEventListener('click', () => {
+			const parentIdInput = document.getElementById('parent-id') as HTMLInputElement;
+			const indicator = document.getElementById('reply-indicator') as HTMLElement;
+			parentIdInput.value = '';
+			indicator.style.display = 'none';
+		});
+
+		form?.addEventListener('submit', async (e) => {
+			e.preventDefault();
+
+			const formData = new FormData(form);
+			const data = {
+				postSlug: formData.get('postSlug'),
+				authorName: formData.get('authorName'),
+				authorEmail: formData.get('authorEmail') || undefined,
+				authorUrl: formData.get('authorUrl') || undefined,
+				content: formData.get('content'),
+				parentId: formData.get('parentId') ? parseInt(formData.get('parentId') as string) : undefined,
+				website: formData.get('website'), // Honeypot
+			};
+
+			const submitBtn = form.querySelector('.submit-btn') as HTMLButtonElement;
+			submitBtn.disabled = true;
+			submitBtn.textContent = 'Submitting...';
+
+			try {
+				const response = await fetch('/api/comments', {
+					method: 'POST',
+					headers: { 'Content-Type': 'application/json' },
+					body: JSON.stringify(data),
+				});
+
+				const result = await response.json();
+
+				if (response.ok) {
+					message.textContent = 'Thank you! Your comment has been submitted for moderation.';
+					message.className = 'form-message success';
+					message.style.display = 'block';
+					form.reset();
+					(document.getElementById('reply-indicator') as HTMLElement).style.display = 'none';
+				} else {
+					message.textContent = result.error || 'Failed to submit comment. Please try again.';
+					message.className = 'form-message error';
+					message.style.display = 'block';
+				}
+			} catch (error) {
+				message.textContent = 'Network error. Please try again.';
+				message.className = 'form-message error';
+				message.style.display = 'block';
+			} finally {
+				submitBtn.disabled = false;
+				submitBtn.textContent = 'Submit Comment';
+			}
+		});
+	}
+</script>
+
+<style>
+	.comments-section {
+		max-width: 720px;
+		margin: 3rem auto 2rem;
+		padding: 0 1rem;
+	}
+
+	.comments-section h2 {
+		font-size: 1.5rem;
+		margin-bottom: 1.5rem;
+		padding-bottom: 0.5rem;
+		border-bottom: 2px solid var(--border-dark);
+		color: rgb(var(--black));
+	}
+
+	.comments-list {
+		margin-bottom: 3rem;
+	}
+
+	.loading,
+	.no-comments,
+	.error {
+		color: rgb(var(--gray));
+		font-style: italic;
+	}
+
+	.error {
+		color: #c00;
+	}
+
+	/* Comment styles */
+	:global(.comment) {
+		background: var(--gray-gradient);
+		padding: 1rem;
+		margin-bottom: 1rem;
+		border-radius: 8px;
+		border-left: 3px solid var(--accent);
+	}
+
+	:global(.comment.depth-1) {
+		margin-left: 2rem;
+		border-left-color: var(--accent-dark);
+	}
+
+	:global(.comment.depth-2),
+	:global(.comment.depth-3),
+	:global(.comment.depth-4) {
+		margin-left: 2rem;
+		border-left-color: rgb(var(--gray));
+	}
+
+	:global(.comment-header) {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		margin-bottom: 0.75rem;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	:global(.comment-author) {
+		font-weight: 600;
+		color: var(--accent-dark);
+	}
+
+	:global(.comment-author a) {
+		color: var(--accent);
+		text-decoration: none;
+	}
+
+	:global(.comment-author a:hover) {
+		text-decoration: underline;
+	}
+
+	:global(.comment-date) {
+		font-size: 0.85rem;
+		color: rgb(var(--gray));
+	}
+
+	:global(.comment-content) {
+		line-height: 1.6;
+		color: rgb(var(--gray-dark));
+	}
+
+	:global(.comment-content p) {
+		margin-bottom: 0.75rem;
+	}
+
+	:global(.comment-content p:last-child) {
+		margin-bottom: 0;
+	}
+
+	:global(.reply-btn) {
+		margin-top: 0.5rem;
+		padding: 0.25rem 0.5rem;
+		font-size: 0.8rem;
+		background: transparent;
+		border: 1px solid var(--accent);
+		color: var(--accent);
+		border-radius: 4px;
+		cursor: pointer;
+	}
+
+	:global(.reply-btn:hover) {
+		background: var(--accent);
+		color: white;
+	}
+
+	:global(.comment-replies) {
+		margin-top: 1rem;
+	}
+
+	/* Form styles */
+	.comment-form-wrapper {
+		margin-top: 2rem;
+		padding-top: 2rem;
+		border-top: 2px solid var(--border-light);
+	}
+
+	.comment-form-wrapper h3 {
+		font-size: 1.25rem;
+		margin-bottom: 1rem;
+		color: rgb(var(--black));
+	}
+
+	.comment-form {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+	}
+
+	.form-group {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
+
+	.form-group label {
+		font-weight: 600;
+		font-size: 0.9rem;
+		color: rgb(var(--gray-dark));
+	}
+
+	.required {
+		color: #c00;
+	}
+
+	.optional {
+		font-weight: normal;
+		font-size: 0.8rem;
+		color: rgb(var(--gray));
+	}
+
+	.form-group input,
+	.form-group textarea {
+		padding: 0.75rem;
+		border: 1px solid var(--border-light);
+		border-radius: 4px;
+		font-size: 1rem;
+		font-family: inherit;
+	}
+
+	.form-group input:focus,
+	.form-group textarea:focus {
+		outline: 2px solid var(--accent);
+		border-color: var(--accent);
+	}
+
+	.honeypot {
+		position: absolute;
+		left: -9999px;
+		height: 0;
+		overflow: hidden;
+	}
+
+	.reply-indicator {
+		background: var(--gray-light);
+		padding: 0.5rem 1rem;
+		border-radius: 4px;
+		font-size: 0.9rem;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.cancel-reply {
+		margin-left: auto;
+		padding: 0.25rem 0.5rem;
+		font-size: 0.8rem;
+		background: transparent;
+		border: 1px solid rgb(var(--gray));
+		color: rgb(var(--gray));
+		border-radius: 4px;
+		cursor: pointer;
+	}
+
+	.cancel-reply:hover {
+		background: rgb(var(--gray));
+		color: white;
+	}
+
+	.submit-btn {
+		padding: 0.75rem 1.5rem;
+		background: var(--accent);
+		color: white;
+		border: none;
+		border-radius: 4px;
+		font-size: 1rem;
+		font-weight: 600;
+		cursor: pointer;
+		align-self: flex-start;
+	}
+
+	.submit-btn:hover {
+		background: var(--accent-dark);
+	}
+
+	.submit-btn:disabled {
+		background: rgb(var(--gray));
+		cursor: not-allowed;
+	}
+
+	.form-note {
+		font-size: 0.85rem;
+		color: rgb(var(--gray));
+		font-style: italic;
+	}
+
+	.form-message {
+		padding: 1rem;
+		border-radius: 4px;
+		margin-top: 1rem;
+	}
+
+	.form-message.success {
+		background: #d4edda;
+		color: #155724;
+		border: 1px solid #c3e6cb;
+	}
+
+	.form-message.error {
+		background: #f8d7da;
+		color: #721c24;
+		border: 1px solid #f5c6cb;
+	}
+
+	/* Mobile responsive */
+	@media (max-width: 768px) {
+		.comments-section {
+			margin: 2rem auto 1rem;
+		}
+
+		.comments-section h2 {
+			font-size: 1.3rem;
+		}
+
+		:global(.comment.depth-1),
+		:global(.comment.depth-2),
+		:global(.comment.depth-3),
+		:global(.comment.depth-4) {
+			margin-left: 1rem;
+		}
+	}
+</style>

@@ -7,6 +7,8 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import CompassRose from '../components/CompassRose.astro';
 
+export const prerender = true;
+
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
 	return posts.map((post) => ({
