@@ -2,16 +2,13 @@
 
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import node from '@astrojs/node';
+import vercel from '@astrojs/vercel';
 import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://example.com',
-	// In Astro 5.x, use 'server' for SSR pages, static pages use prerender = true
-	output: 'server',
-	adapter: node({
-		mode: 'standalone',
-	}),
+	output: 'static',
+	adapter: vercel(),
 	integrations: [mdx(), sitemap()],
 });
